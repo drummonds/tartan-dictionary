@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "All as One (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k11lb38r11g11k5/)
 (the same proportion at any scale), whose colour order is pattern [KGRWK](/stripes/kgrwk/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6617
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6617](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6617)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1lb12k1w2k5r1~x4/"><circle cx="242.1" cy="154.5" r="4" fill="#3465a4"><title>Rui (Personal)</title></circle></a><a href="/variants/s7/r1g8k8r1k8lb8r1~x4/"><circle cx="148.9" cy="198.6" r="4" fill="#3465a4"><title>Triad Highland Games Proposed</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4/"><circle cx="209.5" cy="227.5" r="4" fill="#3465a4"><title>Wilson's, No 193</title></circle></a><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="152.7" cy="199.1" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/variants/s4/r5g7k2lb1~x4/"><circle cx="196.1" cy="241.0" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/variants/s5/k3w29o9lb19k3~x2/"><circle cx="192.1" cy="201.5" r="4" fill="#3465a4"><title>Islander Dress</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="136.7" cy="179.4" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, dress</title></circle></a><a href="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/"><circle cx="149.8" cy="186.7" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s4/k1w8db8r1~x8/"><circle cx="195.5" cy="214.9" r="4" fill="#3465a4"><title>MacRae Dress Purple</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="156.7" cy="175.2" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><circle cx="183.2" cy="205.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1lb12k1w2k5r1~x4/"><circle cx="242.1" cy="155.1" r="4" fill="#3465a4"><title>Rui (Personal)</title></circle></a><a href="/variants/s7/r1g8k8r1k8lb8r1~x4/"><circle cx="149.0" cy="199.2" r="4" fill="#3465a4"><title>Triad Highland Games Proposed</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4/"><circle cx="209.6" cy="228.2" r="4" fill="#3465a4"><title>Wilson's, No 193</title></circle></a><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="152.7" cy="199.7" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/variants/s4/r5g7k2lb1~x4/"><circle cx="196.2" cy="241.8" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/variants/s5/k3w29o9lb19k3~x2/"><circle cx="192.2" cy="202.2" r="4" fill="#3465a4"><title>Islander Dress</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="136.7" cy="180.0" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, dress</title></circle></a><a href="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/"><circle cx="149.8" cy="187.2" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s4/k1w8db8r1~x8/"><circle cx="195.6" cy="215.6" r="4" fill="#3465a4"><title>MacRae Dress Purple</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="156.8" cy="175.8" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><circle cx="183.3" cy="205.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k11lb38r11g11k5~x2/

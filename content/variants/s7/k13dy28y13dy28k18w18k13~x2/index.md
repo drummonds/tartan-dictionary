@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Boxer Beauty"
   url: "/tartans/boxer-beauty/"
+- name: "Boxer Beauty"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k13dy28y13dy28k18w18k13/)
 (the same proportion at any scale), whose colour order is pattern [KGGGKWK](/stripes/kgggkwk/).
@@ -14,7 +16,7 @@ Part of the [Boxer Beauty](/tartans/boxer-beauty/) tartan — the named design g
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10914
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10914](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10914)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k13dy28lo13dy28k18w18k13~x2/"><circle cx="67.3" cy="290.8" r="4" fill="#3465a4"><title>Boxer Beauty</title></circle></a><a href="/variants/s6/k5ly5w1ly5k5r1~x10~ly2503076/"><circle cx="159.8" cy="240.8" r="4" fill="#3465a4"><title>Canyon County Idaho Sheriff</title></circle></a><a href="/variants/s8/g6dp3k3dp3k3dp3g6r2~x2~dp1607327-r2109032/"><circle cx="101.9" cy="278.4" r="4" fill="#3465a4"><title>Wilson's No.137</title></circle></a><a href="/variants/s6/r2k1db2k1g2k1~x28/"><circle cx="33.8" cy="306.9" r="4" fill="#3465a4"><title>Burnicle (2015)</title></circle></a><a href="/variants/s5/k4g8k7db8r4~x2/"><circle cx="47.1" cy="323.7" r="4" fill="#3465a4"><title>Durham</title></circle></a><a href="/variants/s9/k1db3k3g3r1g3k3g1r1~x2/"><circle cx="75.8" cy="259.5" r="4" fill="#3465a4"><title>Unidentified No 30</title></circle></a><a href="/variants/s8/dg6dp3k3dp3k3dp3dg6k2~x2~dg1605139-dp1607327/"><circle cx="122.4" cy="282.6" r="4" fill="#3465a4"><title>Wilson's No.173</title></circle></a><a href="/variants/s7/y15r7k12y12k12dy12r7~x2/"><circle cx="44.3" cy="314.4" r="4" fill="#3465a4"><title>Duffus Lord... Portrait Tartan</title></circle></a><a href="/variants/s5/dp3k3dp3g6r2~x2/"><circle cx="96.3" cy="298.0" r="4" fill="#3465a4"><title>Austin (Wilson's No 137)</title></circle></a><a href="/variants/s5/b3k7o4k6ly3~x2/"><circle cx="144.6" cy="295.5" r="4" fill="#3465a4"><title>Daks - Black House Check, C.6700.06</title></circle></a><circle cx="71.7" cy="292.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k13dy28lo13dy28k18w18k13~x2/"><circle cx="67.5" cy="291.8" r="4" fill="#3465a4"><title>Boxer Beauty</title></circle></a><a href="/variants/s6/k5ly5w1ly5k5r1~x10~ly2503076/"><circle cx="159.9" cy="241.5" r="4" fill="#3465a4"><title>Canyon County Idaho Sheriff</title></circle></a><a href="/variants/s8/g6dp3k3dp3k3dp3g6r2~x2~dp1607327-r2109032/"><circle cx="102.1" cy="279.3" r="4" fill="#3465a4"><title>Wilson's No.137</title></circle></a><a href="/variants/s6/r2k1db2k1g2k1~x28/"><circle cx="34.0" cy="307.9" r="4" fill="#3465a4"><title>Burnicle (2015)</title></circle></a><a href="/variants/s5/k4g8k7db8r4~x2/"><circle cx="47.3" cy="324.7" r="4" fill="#3465a4"><title>Durham</title></circle></a><a href="/variants/s9/k1db3k3g3r1g3k3g1r1~x2/"><circle cx="76.0" cy="260.2" r="4" fill="#3465a4"><title>Unidentified No 30</title></circle></a><a href="/variants/s8/dg6dp3k3dp3k3dp3dg6k2~x2~dg1605139-dp1607327/"><circle cx="122.6" cy="283.3" r="4" fill="#3465a4"><title>Wilson's No.173</title></circle></a><a href="/variants/s7/y15r7k12y12k12dy12r7~x2/"><circle cx="44.6" cy="315.4" r="4" fill="#3465a4"><title>Duffus Lord... Portrait Tartan</title></circle></a><a href="/variants/s5/dp3k3dp3g6r2~x2/"><circle cx="96.5" cy="298.9" r="4" fill="#3465a4"><title>Austin (Wilson's No 137)</title></circle></a><a href="/variants/s5/b3k7o4k6ly3~x2/"><circle cx="144.8" cy="296.4" r="4" fill="#3465a4"><title>Daks - Black House Check, C.6700.06</title></circle></a><circle cx="71.9" cy="293.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k13dy28y13dy28k18w18k13~x2/

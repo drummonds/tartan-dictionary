@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gordon Cumming (Artefact)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y10g30dg25g30k2g3/)
 (the same proportion at any scale), whose colour order is pattern [GGGGKG](/stripes/ggggkg/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7643
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7643](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7643)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g12k2g2dg9g4k2~x4~dg1605139/"><circle cx="269.8" cy="241.2" r="4" fill="#3465a4"><title>Campbell-Simpson (Personal)</title></circle></a><a href="/variants/s6/g12k2g2dg9g4k2~x4~g2408144-dg1605139/"><circle cx="288.2" cy="247.9" r="4" fill="#3465a4"><title>Campbell-Simpson (Personal)</title></circle></a><a href="/variants/s6/g22k3g3dg16g6k4~x2~g2203152-dg1806142/"><circle cx="329.6" cy="244.5" r="4" fill="#3465a4"><title>Campbell Simpson (Dalgliesh)</title></circle></a><a href="/variants/s7/g60r7w10dg16g15w3g15~x2/"><circle cx="428.3" cy="179.6" r="4" fill="#3465a4"><title>Deer Park (Loton) (Personal)</title></circle></a><a href="/variants/s7/g14y7g14dg50g64w6g7/"><circle cx="406.5" cy="233.2" r="4" fill="#3465a4"><title>Freedom of Derry</title></circle></a><a href="/variants/s6/g4k2g28k8dg21g3~x2/"><circle cx="298.7" cy="203.3" r="4" fill="#3465a4"><title>Dunbar Hunting</title></circle></a><a href="/variants/s6/lg50r4lg12y23r4g4~x2~g2408144/"><circle cx="421.4" cy="215.5" r="4" fill="#3465a4"><title>Ingenico</title></circle></a><a href="/variants/s6/lg50r4lg12y23r4g4~x2/"><circle cx="418.9" cy="214.5" r="4" fill="#3465a4"><title>Ingenico (Corporate)</title></circle></a><a href="/variants/s6/r3dg2g32dg32g2w3~x2/"><circle cx="330.2" cy="192.3" r="4" fill="#3465a4"><title>Galloway Hunting</title></circle></a><a href="/variants/s6/r3dg1g32dg32g1y3~x2/"><circle cx="391.7" cy="176.5" r="4" fill="#3465a4"><title>Galloway</title></circle></a><circle cx="397.7" cy="228.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g12k2g2dg9g4k2~x4~dg1605139/"><circle cx="269.9" cy="241.7" r="4" fill="#3465a4"><title>Campbell-Simpson (Personal)</title></circle></a><a href="/variants/s6/g12k2g2dg9g4k2~x4~g2408144-dg1605139/"><circle cx="288.4" cy="248.6" r="4" fill="#3465a4"><title>Campbell-Simpson (Personal)</title></circle></a><a href="/variants/s6/g22k3g3dg16g6k4~x2~g2203152-dg1806142/"><circle cx="329.7" cy="245.0" r="4" fill="#3465a4"><title>Campbell Simpson (Dalgliesh)</title></circle></a><a href="/variants/s7/g60r7w10dg16g15w3g15~x2/"><circle cx="428.4" cy="180.0" r="4" fill="#3465a4"><title>Deer Park (Loton) (Personal)</title></circle></a><a href="/variants/s7/g14y7g14dg50g64w6g7/"><circle cx="406.6" cy="233.6" r="4" fill="#3465a4"><title>Freedom of Derry</title></circle></a><a href="/variants/s6/g4k2g28k8dg21g3~x2/"><circle cx="298.8" cy="203.7" r="4" fill="#3465a4"><title>Dunbar Hunting</title></circle></a><a href="/variants/s6/lg50r4lg12y23r4g4~x2~g2408144/"><circle cx="421.6" cy="215.9" r="4" fill="#3465a4"><title>Ingenico</title></circle></a><a href="/variants/s6/lg50r4lg12y23r4g4~x2/"><circle cx="419.0" cy="214.9" r="4" fill="#3465a4"><title>Ingenico (Corporate)</title></circle></a><a href="/variants/s6/r3dg2g32dg32g2w3~x2/"><circle cx="330.2" cy="192.6" r="4" fill="#3465a4"><title>Galloway Hunting</title></circle></a><a href="/variants/s6/r3dg1g32dg32g1y3~x2/"><circle cx="391.7" cy="176.7" r="4" fill="#3465a4"><title>Galloway</title></circle></a><circle cx="397.8" cy="229.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/y10g30dg25g30k2g3~x2/

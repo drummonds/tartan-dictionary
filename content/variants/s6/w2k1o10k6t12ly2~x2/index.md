@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Soroptimist International (Corporate"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2k1o10k6t12ly2/)
 (the same proportion at any scale), whose colour order is pattern [WKRKBY](/stripes/wkrkby/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3097
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3097](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3097)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2w12lb1k12lo12k1~x2/"><circle cx="107.0" cy="167.1" r="4" fill="#3465a4"><title>Dutch Dress District Tartan</title></circle></a><a href="/variants/s6/r3k2g20k10t20y2~x2/"><circle cx="139.2" cy="189.3" r="4" fill="#3465a4"><title>MacLeod of Assynt</title></circle></a><a href="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/"><circle cx="100.9" cy="180.8" r="4" fill="#3465a4"><title>MacRobart Dress (Personal)</title></circle></a><a href="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/"><circle cx="150.9" cy="163.8" r="4" fill="#3465a4"><title>Ritchie, Stephen James (Personal)</title></circle></a><a href="/variants/s6/r2w12y1k12o12k1~x2/"><circle cx="105.9" cy="165.3" r="4" fill="#3465a4"><title>Dutch Dress</title></circle></a><a href="/variants/s6/o3k17dt11o2oi20w2~x2~dt1600000-oi2500000/"><circle cx="128.7" cy="180.8" r="4" fill="#3465a4"><title>Commonwealth Games Council (Corp.)</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="112.7" cy="164.3" r="4" fill="#3465a4"><title>Hackett, William (Coatbridge) (Personal)</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="156.7" cy="175.2" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><a href="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/"><circle cx="149.8" cy="186.7" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="136.7" cy="179.4" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, dress</title></circle></a><circle cx="126.8" cy="177.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2w12lb1k12lo12k1~x2/"><circle cx="107.0" cy="167.7" r="4" fill="#3465a4"><title>Dutch Dress District Tartan</title></circle></a><a href="/variants/s6/r3k2g20k10t20y2~x2/"><circle cx="139.2" cy="189.8" r="4" fill="#3465a4"><title>MacLeod of Assynt</title></circle></a><a href="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/"><circle cx="100.9" cy="181.3" r="4" fill="#3465a4"><title>MacRobart Dress (Personal)</title></circle></a><a href="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/"><circle cx="150.9" cy="164.2" r="4" fill="#3465a4"><title>Ritchie, Stephen James (Personal)</title></circle></a><a href="/variants/s6/r2w12y1k12o12k1~x2/"><circle cx="105.9" cy="165.8" r="4" fill="#3465a4"><title>Dutch Dress</title></circle></a><a href="/variants/s6/o3k17dt11o2oi20w2~x2~dt1600000-oi2500000/"><circle cx="128.7" cy="181.2" r="4" fill="#3465a4"><title>Commonwealth Games Council (Corp.)</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="112.8" cy="164.8" r="4" fill="#3465a4"><title>Hackett, William (Coatbridge) (Personal)</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="156.8" cy="175.8" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><a href="/variants/s6/dr4t28k6lb12k12lo3~x2~t2503227-lb3200000/"><circle cx="149.8" cy="187.2" r="4" fill="#3465a4"><title>MacTavish Dress</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="136.7" cy="180.0" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, dress</title></circle></a><circle cx="126.8" cy="177.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w2k1o10k6t12ly2~x2/

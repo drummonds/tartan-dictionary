@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hatcher (Texas) (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lp33dr7db9dp7g12r3k29/)
 (the same proportion at any scale), whose colour order is pattern [KRGBBBW](/stripes/krgbbbw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10121
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10121](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10121)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k40n15o10y3lb5w5db10lb20~n1900000-o2500000/"><circle cx="76.6" cy="127.9" r="4" fill="#3465a4"><title>Julien Pigeut Tartan</title></circle></a><a href="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090/"><circle cx="21.8" cy="158.5" r="4" fill="#3465a4"><title>Culloden, Gold</title></circle></a><a href="/variants/s8/r6lb3dp20y2k20w20k2w5~x2/"><circle cx="72.0" cy="147.6" r="4" fill="#3465a4"><title>Humming Bird (Fashion)</title></circle></a><a href="/variants/s8/db8lb1dbi1lb1r12y6k12w2~x4~db1404245-dbi1406275/"><circle cx="52.0" cy="129.8" r="4" fill="#3465a4"><title>Maryland</title></circle></a><a href="/variants/s7/r5lb2b16k13dy13k2w3~x2/"><circle cx="60.5" cy="176.4" r="4" fill="#3465a4"><title>Casey (Personal)</title></circle></a><a href="/variants/s8/r6lb3dp24y2k23w23k2w6~x2/"><circle cx="84.2" cy="137.9" r="4" fill="#3465a4"><title>Culloden Dress</title></circle></a><a href="/variants/s7/k20r6ly3db24g3r8w4~x2/"><circle cx="89.3" cy="162.2" r="4" fill="#3465a4"><title>Eichelberger (Perrsonal)</title></circle></a><a href="/variants/s9/r17k5w4k6ly5db31k5g6w3~x2/"><circle cx="98.4" cy="133.1" r="4" fill="#3465a4"><title>Dean/Dundas (Personal)</title></circle></a><a href="/variants/s8/r5lb1db10w2k10g10k1y3~x4/"><circle cx="23.5" cy="151.6" r="4" fill="#3465a4"><title>Culloden 1746 - Original</title></circle></a><a href="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/"><circle cx="102.3" cy="134.2" r="4" fill="#3465a4"><title>Dean/Dundas (Melbourne, Australia) (Personal)</title></circle></a><circle cx="52.8" cy="141.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k40n15o10y3lb5w5db10lb20~n1900000-o2500000/"><circle cx="76.5" cy="128.2" r="4" fill="#3465a4"><title>Julien Pigeut Tartan</title></circle></a><a href="/variants/s8/r5lb2b14w2k13y13k2ly3~x2~y2405105-ly3307090/"><circle cx="21.8" cy="159.0" r="4" fill="#3465a4"><title>Culloden, Gold</title></circle></a><a href="/variants/s8/r6lb3dp20y2k20w20k2w5~x2/"><circle cx="72.0" cy="148.1" r="4" fill="#3465a4"><title>Humming Bird (Fashion)</title></circle></a><a href="/variants/s8/db8lb1dbi1lb1r12y6k12w2~x4~db1404245-dbi1406275/"><circle cx="52.0" cy="130.1" r="4" fill="#3465a4"><title>Maryland</title></circle></a><a href="/variants/s7/r5lb2b16k13dy13k2w3~x2/"><circle cx="60.5" cy="176.9" r="4" fill="#3465a4"><title>Casey (Personal)</title></circle></a><a href="/variants/s8/r6lb3dp24y2k23w23k2w6~x2/"><circle cx="84.2" cy="138.3" r="4" fill="#3465a4"><title>Culloden Dress</title></circle></a><a href="/variants/s7/k20r6ly3db24g3r8w4~x2/"><circle cx="89.3" cy="162.6" r="4" fill="#3465a4"><title>Eichelberger (Perrsonal)</title></circle></a><a href="/variants/s9/r17k5w4k6ly5db31k5g6w3~x2/"><circle cx="98.3" cy="133.5" r="4" fill="#3465a4"><title>Dean/Dundas (Personal)</title></circle></a><a href="/variants/s8/r5lb1db10w2k10g10k1y3~x4/"><circle cx="23.5" cy="151.9" r="4" fill="#3465a4"><title>Culloden 1746 - Original</title></circle></a><a href="/variants/s9/r17k5w4k6y5db31k5g6w3~x2/"><circle cx="102.3" cy="134.5" r="4" fill="#3465a4"><title>Dean/Dundas (Melbourne, Australia) (Personal)</title></circle></a><circle cx="52.8" cy="141.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lp33dr7db9dp7g12r3k29~x2/

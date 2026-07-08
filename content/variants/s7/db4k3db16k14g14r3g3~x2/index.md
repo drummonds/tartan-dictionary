@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Inneryne"
   url: "/tartans/inneryne/"
+- name: "Inneryne (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4k3db16k14g14r3g3/)
 (the same proportion at any scale), whose colour order is pattern [BKBKGRG](/stripes/bkbkgrg/).
@@ -14,7 +16,7 @@ Part of the [Inneryne](/tartans/inneryne/) tartan — the named design grouping 
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7769
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7769](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7769)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr3g1dr1g8k8db8k2db3~x2/"><circle cx="129.7" cy="211.4" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s8/db3k2db8k8g8dp1g1dp3~x4/"><circle cx="130.3" cy="211.5" r="4" fill="#3465a4"><title>Baird (Modern)</title></circle></a><a href="/variants/s8/db3k2db8k8g8dp1g1dp3~x2/"><circle cx="130.3" cy="211.5" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="145.5" cy="229.0" r="4" fill="#3465a4"><title>Murray #3</title></circle></a><a href="/variants/s7/g24db6lb3k6db12k15g4~x2/"><circle cx="150.2" cy="212.3" r="4" fill="#3465a4"><title>Blaylock Annandale</title></circle></a><a href="/variants/s7/db5lb4db22k15g22r4g4~x2/"><circle cx="106.6" cy="210.4" r="4" fill="#3465a4"><title>Cairngorm #2</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8k2/"><circle cx="148.1" cy="217.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8k2~x2/"><circle cx="148.1" cy="217.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14k4~x2/"><circle cx="120.7" cy="227.2" r="4" fill="#3465a4"><title>Fletcher #2</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="124.0" cy="228.1" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><circle cx="126.9" cy="227.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr3g1dr1g8k8db8k2db3~x2/"><circle cx="129.7" cy="211.9" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s8/db3k2db8k8g8dp1g1dp3~x4/"><circle cx="130.3" cy="212.0" r="4" fill="#3465a4"><title>Baird (Modern)</title></circle></a><a href="/variants/s8/db3k2db8k8g8dp1g1dp3~x2/"><circle cx="130.3" cy="212.0" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="145.6" cy="229.6" r="4" fill="#3465a4"><title>Murray #3</title></circle></a><a href="/variants/s7/g24db6lb3k6db12k15g4~x2/"><circle cx="150.3" cy="212.9" r="4" fill="#3465a4"><title>Blaylock Annandale</title></circle></a><a href="/variants/s7/db5lb4db22k15g22r4g4~x2/"><circle cx="106.6" cy="210.9" r="4" fill="#3465a4"><title>Cairngorm #2</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8k2/"><circle cx="148.1" cy="217.7" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8k2~x2/"><circle cx="148.1" cy="217.7" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14k4~x2/"><circle cx="120.8" cy="227.8" r="4" fill="#3465a4"><title>Fletcher #2</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="124.1" cy="228.7" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><circle cx="126.9" cy="228.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db4k3db16k14g14r3g3~x2/

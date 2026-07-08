@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Duchess of Kent"
   url: "/tartans/duchess-of-kent/"
+- name: "Duchess of Kent"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2lb20k3r2k2r3k2r3k2r3k2w2/)
 (the same proportion at any scale), whose colour order is pattern [RWKRKRKRKRKW](/stripes/rwkrkrkrkrkw/).
@@ -14,7 +16,7 @@ Part of the [Duchess of Kent](/tartans/duchess-of-kent/) tartan — the named de
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1004
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1004](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1004)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r3lb19k4r3k3r7k3r5k3r5k2w2~x2/"><circle cx="148.1" cy="147.6" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><a href="/variants/s13/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2~x2/"><circle cx="189.7" cy="117.4" r="4" fill="#3465a4"><title>Yarrow Dress, Purple (Dance)</title></circle></a><a href="/variants/s13/w8k1r24k2r4k2r1k2r4k2db20k1w5~x2/"><circle cx="202.4" cy="88.0" r="4" fill="#3465a4"><title>Danish</title></circle></a><a href="/variants/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/"><circle cx="153.7" cy="131.2" r="4" fill="#3465a4"><title>Ross Purple Dress Tartan</title></circle></a><a href="/variants/s12/y4k2r7k15r3k3r3k7w28r7w6r2/"><circle cx="150.6" cy="127.6" r="4" fill="#3465a4"><title>Walker, dress</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2n23w2~x2/"><circle cx="193.8" cy="149.6" r="4" fill="#3465a4"><title>Virtuoso (Corporate)</title></circle></a><a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x2/"><circle cx="126.9" cy="151.9" r="4" fill="#3465a4"><title>MacPherson Hunting</title></circle></a><a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x6/"><circle cx="126.9" cy="151.9" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s11/r23w2r3b4r3w2r5k11ri2w23k3~x2~r2109032-ri2406019/"><circle cx="156.5" cy="120.6" r="4" fill="#3465a4"><title>MacKellar Dress Red Fashion Tartan</title></circle></a><a href="/variants/s8/lb57k5lb9r29k18w9r9w5/"><circle cx="195.2" cy="158.2" r="4" fill="#3465a4"><title>Yale College, Wrexham</title></circle></a><circle cx="181.7" cy="122.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r3lb19k4r3k3r7k3r5k3r5k2w2~x2/"><circle cx="148.1" cy="148.1" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><a href="/variants/s13/k2dp2w2dp2w23dp2k9dp2m2dp21m2dp2w2~x2/"><circle cx="189.7" cy="117.8" r="4" fill="#3465a4"><title>Yarrow Dress, Purple (Dance)</title></circle></a><a href="/variants/s13/w8k1r24k2r4k2r1k2r4k2db20k1w5~x2/"><circle cx="202.3" cy="88.2" r="4" fill="#3465a4"><title>Danish</title></circle></a><a href="/variants/s12/dp4m3dp3m4dp4k9dp4k9w26m2w4m2~x2/"><circle cx="153.6" cy="131.6" r="4" fill="#3465a4"><title>Ross Purple Dress Tartan</title></circle></a><a href="/variants/s12/y4k2r7k15r3k3r3k7w28r7w6r2/"><circle cx="150.6" cy="128.1" r="4" fill="#3465a4"><title>Walker, dress</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2n23w2~x2/"><circle cx="193.8" cy="150.0" r="4" fill="#3465a4"><title>Virtuoso (Corporate)</title></circle></a><a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x2/"><circle cx="126.9" cy="152.3" r="4" fill="#3465a4"><title>MacPherson Hunting</title></circle></a><a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x6/"><circle cx="126.9" cy="152.3" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s11/r23w2r3b4r3w2r5k11ri2w23k3~x2~r2109032-ri2406019/"><circle cx="156.5" cy="121.0" r="4" fill="#3465a4"><title>MacKellar Dress Red Fashion Tartan</title></circle></a><a href="/variants/s8/lb57k5lb9r29k18w9r9w5/"><circle cx="195.2" cy="158.7" r="4" fill="#3465a4"><title>Yale College, Wrexham</title></circle></a><circle cx="181.7" cy="122.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r2lb20k3r2k2r3k2r3k2r3k2w2~x4/

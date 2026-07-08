@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Barbour"
   url: "/tartans/barbour/"
+- name: "Barbour"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3k20w2do11o21ly2o2/)
 (the same proportion at any scale), whose colour order is pattern [RKWBRYR](/stripes/rkwbryr/).
@@ -14,7 +16,7 @@ Part of the [Barbour](/tartans/barbour/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=212
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=212](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=212)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/o4y2o21do11w2k20r3~x2/"><circle cx="135.5" cy="148.9" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/variants/s7/o4y2o21dy11w2k20r3~x2/"><circle cx="135.0" cy="149.2" r="4" fill="#3465a4"><title>Barbour - Classic</title></circle></a><a href="/variants/s7/dg22w3k2y3k19r18b4~x2/"><circle cx="91.0" cy="153.7" r="4" fill="#3465a4"><title>Scotch House 2000, dress</title></circle></a><a href="/variants/s7/g22w3k2y3k19r18db4~x2/"><circle cx="81.0" cy="153.7" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><a href="/variants/s10/g19k18dr18w2y2dp2y2w2dr8dp3~x2/"><circle cx="99.7" cy="140.8" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/variants/s7/ly4y2ly21do11w2k20r3~x2/"><circle cx="112.5" cy="146.8" r="4" fill="#3465a4"><title>Barbour Corporate Tartan</title></circle></a><a href="/variants/s8/k10y2g11r11w1r1w1k9~x2/"><circle cx="131.4" cy="156.6" r="4" fill="#3465a4"><title>Unidentified No 5</title></circle></a><a href="/variants/s6/w2dp20dr3k10g20lo2~x2/"><circle cx="119.9" cy="169.4" r="4" fill="#3465a4"><title>Morris of Balgonie (Personal)</title></circle></a><a href="/variants/s7/lbi4k13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/"><circle cx="139.2" cy="180.5" r="4" fill="#3465a4"><title>Caledonian Brewery Corporate Tartan</title></circle></a><a href="/variants/s9/k2r8db2k2r2k6dy2g6y1~x2/"><circle cx="66.8" cy="165.9" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><circle cx="126.6" cy="145.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/o4y2o21do11w2k20r3~x2/"><circle cx="135.5" cy="149.3" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/variants/s7/o4y2o21dy11w2k20r3~x2/"><circle cx="135.0" cy="149.6" r="4" fill="#3465a4"><title>Barbour - Classic</title></circle></a><a href="/variants/s7/dg22w3k2y3k19r18b4~x2/"><circle cx="91.0" cy="154.0" r="4" fill="#3465a4"><title>Scotch House 2000, dress</title></circle></a><a href="/variants/s7/g22w3k2y3k19r18db4~x2/"><circle cx="81.0" cy="154.1" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><a href="/variants/s10/g19k18dr18w2y2dp2y2w2dr8dp3~x2/"><circle cx="99.6" cy="141.2" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/variants/s7/ly4y2ly21do11w2k20r3~x2/"><circle cx="112.5" cy="147.2" r="4" fill="#3465a4"><title>Barbour Corporate Tartan</title></circle></a><a href="/variants/s8/k10y2g11r11w1r1w1k9~x2/"><circle cx="131.4" cy="157.1" r="4" fill="#3465a4"><title>Unidentified No 5</title></circle></a><a href="/variants/s6/w2dp20dr3k10g20lo2~x2/"><circle cx="119.9" cy="169.8" r="4" fill="#3465a4"><title>Morris of Balgonie (Personal)</title></circle></a><a href="/variants/s7/lbi4k13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/"><circle cx="139.2" cy="181.0" r="4" fill="#3465a4"><title>Caledonian Brewery Corporate Tartan</title></circle></a><a href="/variants/s9/k2r8db2k2r2k6dy2g6y1~x2/"><circle cx="66.8" cy="166.4" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><circle cx="126.6" cy="145.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r3k20w2do11o21ly2o2~x2~o2204058-ly3307090/

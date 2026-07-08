@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Victoria (Yellow)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r6y60db12y6k12y2k2w2k2g18r18k3r4w2/)
 (the same proportion at any scale), whose colour order is pattern [RGBGKGKWKGRKRW](/stripes/rgbgkgkwkgrkrw/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4455
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4455](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4455)
 
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -67,8 +69,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/g4r4o1k1r19k1lb1r2db5r2lb1k1r2g24r5o1k1lb3~x2/"><circle cx="211.5" cy="52.5" r="4" fill="#3465a4"><title>Dundas (Red)</title></circle></a><a href="/variants/s18/g4r4b1k1r19k1lb1r2db5r2lb1k1r2g24r5b1k1lb3~x2/"><circle cx="209.6" cy="52.2" r="4" fill="#3465a4"><title>Dundas, (Red)</title></circle></a><a href="/variants/s11/w3k1r25k2dy2g25dy2y2dy10k1r2~x2/"><circle cx="176.7" cy="79.9" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/variants/s14/r8lo5g2lo4g2lo5n38k5g2k4g2k5r8lb4~x2/"><circle cx="157.4" cy="76.6" r="4" fill="#3465a4"><title>Berwick District Tartan</title></circle></a><a href="/variants/s11/g15r25g4k2y1db1y1k2g4db12w1~x2/"><circle cx="176.2" cy="85.8" r="4" fill="#3465a4"><title>Livingstone (Australia) Dress</title></circle></a><a href="/variants/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2~ly3307090-y2405105/"><circle cx="144.0" cy="77.1" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/variants/s11/db8lb1k6y1k2w2k2g12o28w1o4~x2/"><circle cx="191.4" cy="61.6" r="4" fill="#3465a4"><title>MacLean of Kingairloch</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5~x2/"><circle cx="158.7" cy="79.5" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5/"><circle cx="158.7" cy="79.5" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s12/w5k4r4g5r39k10db2k2db2k2g22ly5~x2/"><circle cx="160.0" cy="76.6" r="4" fill="#3465a4"><title>Boyd (Clan)</title></circle></a><circle cx="206.3" cy="57.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/g4r4o1k1r19k1lb1r2db5r2lb1k1r2g24r5o1k1lb3~x2/"><circle cx="211.3" cy="52.6" r="4" fill="#3465a4"><title>Dundas (Red)</title></circle></a><a href="/variants/s18/g4r4b1k1r19k1lb1r2db5r2lb1k1r2g24r5b1k1lb3~x2/"><circle cx="209.5" cy="52.3" r="4" fill="#3465a4"><title>Dundas, (Red)</title></circle></a><a href="/variants/s11/w3k1r25k2dy2g25dy2y2dy10k1r2~x2/"><circle cx="176.6" cy="80.0" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/variants/s14/r8lo5g2lo4g2lo5n38k5g2k4g2k5r8lb4~x2/"><circle cx="157.3" cy="76.7" r="4" fill="#3465a4"><title>Berwick District Tartan</title></circle></a><a href="/variants/s11/g15r25g4k2y1db1y1k2g4db12w1~x2/"><circle cx="176.1" cy="86.0" r="4" fill="#3465a4"><title>Livingstone (Australia) Dress</title></circle></a><a href="/variants/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2~ly3307090-y2405105/"><circle cx="143.9" cy="77.2" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/variants/s11/db8lb1k6y1k2w2k2g12o28w1o4~x2/"><circle cx="191.3" cy="61.6" r="4" fill="#3465a4"><title>MacLean of Kingairloch</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5~x2/"><circle cx="158.6" cy="79.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s12/y5g22k2db2k2db2k10r38g5r4k4w5/"><circle cx="158.6" cy="79.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/variants/s12/w5k4r4g5r39k10db2k2db2k2g22ly5~x2/"><circle cx="159.9" cy="76.8" r="4" fill="#3465a4"><title>Boyd (Clan)</title></circle></a><circle cx="206.1" cy="57.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/r6y60db12y6k12y2k2w2k2g18r18k3r4w2~x2/

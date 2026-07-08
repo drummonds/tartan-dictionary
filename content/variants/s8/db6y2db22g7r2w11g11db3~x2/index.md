@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Bahamas"
   url: "/tartans/bahamas/"
+- name: "Bahamas District Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db6y2db22g7r2w11g11db3/)
 (the same proportion at any scale), whose colour order is pattern [BGBGRWGB](/stripes/bgbgrwgb/).
@@ -14,7 +16,7 @@ Part of the [Bahamas](/tartans/bahamas/) tartan — the named design grouping th
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2089
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2089](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2089)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db3g11w11r2g7db22y2db2~x2/"><circle cx="192.3" cy="178.3" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/variants/s8/lb8ly2lb22dg6r2w10dg12lb3~x2/"><circle cx="225.6" cy="188.2" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/variants/s8/db15w2g2ly15r3db21r3g15~x2/"><circle cx="195.6" cy="189.8" r="4" fill="#3465a4"><title>Loyalhanna</title></circle></a><a href="/variants/s8/lb30r3lb3r3lb12dt30n3dt5~x2/"><circle cx="284.9" cy="190.2" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><a href="/variants/s7/lb6k8lb6g12db29w3db4~x2/"><circle cx="185.1" cy="179.8" r="4" fill="#3465a4"><title>Dickson (Kirkcudbrightshire)</title></circle></a><a href="/variants/s12/db4ri1db12w1ri4w1g4w1r4g12db1w2~x2~ri2406019-r1706009/"><circle cx="162.0" cy="156.0" r="4" fill="#3465a4"><title>Glenfalloch Corporate Tartan</title></circle></a><a href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/"><circle cx="207.2" cy="197.5" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s10/r3y1db15g16db3r6db6g8db15w3~x2/"><circle cx="246.0" cy="174.3" r="4" fill="#3465a4"><title>Steve Walls Commemorative</title></circle></a><a href="/variants/s6/w4g28db18r4db18y3~x2/"><circle cx="235.9" cy="214.5" r="4" fill="#3465a4"><title>MacIntyre, Inglis</title></circle></a><a href="/variants/s9/db3g4db24g6w3g4r3g8ly3~x2/"><circle cx="221.2" cy="181.6" r="4" fill="#3465a4"><title>Scottish Borders Tourist Board (Corp</title></circle></a><circle cx="202.9" cy="185.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db3g11w11r2g7db22y2db2~x2/"><circle cx="192.4" cy="178.8" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/variants/s8/lb8ly2lb22dg6r2w10dg12lb3~x2/"><circle cx="225.6" cy="188.7" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/variants/s8/db15w2g2ly15r3db21r3g15~x2/"><circle cx="195.7" cy="190.3" r="4" fill="#3465a4"><title>Loyalhanna</title></circle></a><a href="/variants/s8/lb30r3lb3r3lb12dt30n3dt5~x2/"><circle cx="285.0" cy="190.7" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><a href="/variants/s7/lb6k8lb6g12db29w3db4~x2/"><circle cx="185.1" cy="180.3" r="4" fill="#3465a4"><title>Dickson (Kirkcudbrightshire)</title></circle></a><a href="/variants/s12/db4ri1db12w1ri4w1g4w1r4g12db1w2~x2~ri2406019-r1706009/"><circle cx="162.0" cy="156.4" r="4" fill="#3465a4"><title>Glenfalloch Corporate Tartan</title></circle></a><a href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/"><circle cx="207.2" cy="197.9" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s10/r3y1db15g16db3r6db6g8db15w3~x2/"><circle cx="246.0" cy="174.7" r="4" fill="#3465a4"><title>Steve Walls Commemorative</title></circle></a><a href="/variants/s6/w4g28db18r4db18y3~x2/"><circle cx="236.0" cy="215.0" r="4" fill="#3465a4"><title>MacIntyre, Inglis</title></circle></a><a href="/variants/s9/db3g4db24g6w3g4r3g8ly3~x2/"><circle cx="221.2" cy="182.0" r="4" fill="#3465a4"><title>Scottish Borders Tourist Board (Corp</title></circle></a><circle cx="202.9" cy="185.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db6y2db22g7r2w11g11db3~x2/

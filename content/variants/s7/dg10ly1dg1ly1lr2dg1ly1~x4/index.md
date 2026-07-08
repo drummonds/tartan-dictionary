@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Green Watch"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg10ly1dg1ly1lr2dg1ly1/)
 (the same proportion at any scale), whose colour order is pattern [GYGYYGY](/stripes/gygyygy/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1526
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1526](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1526)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg2ly14dg8ly3dg12db2~x2/"><circle cx="306.3" cy="262.2" r="4" fill="#3465a4"><title>Confederate Infantry</title></circle></a><a href="/variants/s7/g3dy2g18dy21lo2g3lo2~x2/"><circle cx="358.4" cy="230.4" r="4" fill="#3465a4"><title>Prince David #1 (Royal)</title></circle></a><a href="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/"><circle cx="408.3" cy="191.0" r="4" fill="#3465a4"><title>Glenlivet Check (Corporate)</title></circle></a><a href="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/"><circle cx="404.1" cy="145.8" r="4" fill="#3465a4"><title>St. Patrick (Fashion)</title></circle></a><a href="/variants/s8/dy31w5dy2w5dy4w3dy2w7~x2/"><circle cx="433.9" cy="188.6" r="4" fill="#3465a4"><title>Menzies Brown &amp; White</title></circle></a><a href="/variants/s8/dg5r3dg3ly2dg1lyi8dg24ly2~x2~ly2705081-lyi3104101/"><circle cx="413.9" cy="143.3" r="4" fill="#3465a4"><title>St. Christopher (Corporate)</title></circle></a><circle cx="437.2" cy="200.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg2ly14dg8ly3dg12db2~x2/"><circle cx="306.5" cy="263.0" r="4" fill="#3465a4"><title>Confederate Infantry</title></circle></a><a href="/variants/s7/g3dy2g18dy21lo2g3lo2~x2/"><circle cx="358.5" cy="230.8" r="4" fill="#3465a4"><title>Prince David #1 (Royal)</title></circle></a><a href="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/"><circle cx="408.3" cy="191.4" r="4" fill="#3465a4"><title>Glenlivet Check (Corporate)</title></circle></a><a href="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/"><circle cx="404.1" cy="146.2" r="4" fill="#3465a4"><title>St. Patrick (Fashion)</title></circle></a><a href="/variants/s8/dy31w5dy2w5dy4w3dy2w7~x2/"><circle cx="434.0" cy="189.2" r="4" fill="#3465a4"><title>Menzies Brown &amp; White</title></circle></a><a href="/variants/s8/dg5r3dg3ly2dg1lyi8dg24ly2~x2~ly2705081-lyi3104101/"><circle cx="413.9" cy="143.6" r="4" fill="#3465a4"><title>St. Christopher (Corporate)</title></circle></a><circle cx="437.3" cy="200.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dg10ly1dg1ly1lr2dg1ly1~x4/

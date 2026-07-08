@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wyeth (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db18r18dp2g12db1/)
 (the same proportion at any scale), whose colour order is pattern [BRBGBGBR](/stripes/brbgbgbr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4787
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4787](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4787)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp1r5g15r3dp9r10w1~x4/"><circle cx="247.2" cy="196.5" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/variants/s7/r6g16r4db12r16lb1r2~x2/"><circle cx="274.5" cy="193.1" r="4" fill="#3465a4"><title>MacQuarrie #6</title></circle></a><a href="/variants/s7/r6g16r4db12r16w1r2~x2/"><circle cx="271.0" cy="192.0" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><a href="/variants/s9/g5dr1r4db2r20g12db16r4dr1~x2/"><circle cx="260.8" cy="163.5" r="4" fill="#3465a4"><title>Diana Princess of Wales</title></circle></a><a href="/variants/s6/db14g21db4r21db14y2~x2/"><circle cx="221.2" cy="239.4" r="4" fill="#3465a4"><title>Kilgour</title></circle></a><a href="/variants/s8/dg28r4dp25w5r22dg27r4dp2~x2/"><circle cx="263.1" cy="196.1" r="4" fill="#3465a4"><title>New Glasgow (Canada)</title></circle></a><a href="/variants/s8/r15db2r1db2r3db7g13dg3~x2~g2408144-dg1806142/"><circle cx="234.7" cy="182.2" r="4" fill="#3465a4"><title>Cranston Dress</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="236.4" cy="240.3" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/"><circle cx="242.0" cy="179.3" r="4" fill="#3465a4"><title>Cranston Dress Family Tartan</title></circle></a><a href="/variants/s7/db1r5g18r4db9r10w1~x4/"><circle cx="243.4" cy="187.1" r="4" fill="#3465a4"><title>MacKintosh Geddes</title></circle></a><circle cx="247.2" cy="194.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp1r5g15r3dp9r10w1~x4/"><circle cx="247.3" cy="197.0" r="4" fill="#3465a4"><title>Geddes</title></circle></a><a href="/variants/s7/r6g16r4db12r16lb1r2~x2/"><circle cx="274.5" cy="193.6" r="4" fill="#3465a4"><title>MacQuarrie #6</title></circle></a><a href="/variants/s7/r6g16r4db12r16w1r2~x2/"><circle cx="271.0" cy="192.5" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><a href="/variants/s9/g5dr1r4db2r20g12db16r4dr1~x2/"><circle cx="260.8" cy="163.8" r="4" fill="#3465a4"><title>Diana Princess of Wales</title></circle></a><a href="/variants/s6/db14g21db4r21db14y2~x2/"><circle cx="221.3" cy="240.0" r="4" fill="#3465a4"><title>Kilgour</title></circle></a><a href="/variants/s8/dg28r4dp25w5r22dg27r4dp2~x2/"><circle cx="263.1" cy="196.5" r="4" fill="#3465a4"><title>New Glasgow (Canada)</title></circle></a><a href="/variants/s8/r15db2r1db2r3db7g13dg3~x2~g2408144-dg1806142/"><circle cx="234.7" cy="182.6" r="4" fill="#3465a4"><title>Cranston Dress</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="236.6" cy="240.9" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/"><circle cx="242.0" cy="179.7" r="4" fill="#3465a4"><title>Cranston Dress Family Tartan</title></circle></a><a href="/variants/s7/db1r5g18r4db9r10w1~x4/"><circle cx="243.5" cy="187.6" r="4" fill="#3465a4"><title>MacKintosh Geddes</title></circle></a><circle cx="247.2" cy="194.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db18r18dp2g12db1~x4/

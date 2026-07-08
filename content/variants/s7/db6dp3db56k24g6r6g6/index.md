@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wcwm 9275-1395"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db6dp3db56k24g6r6g6/)
 (the same proportion at any scale), whose colour order is pattern [BBBKGRG](/stripes/bbbkgrg/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4561
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4561](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4561)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="337.4" cy="120.0" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/"><circle cx="295.3" cy="103.1" r="4" fill="#3465a4"><title>Mount Dora</title></circle></a><a href="/variants/s7/db36k10g3r3g6k1y2~x2/"><circle cx="333.2" cy="98.2" r="4" fill="#3465a4"><title>MacLaurin of Brioch</title></circle></a><a href="/variants/s7/db36k8g3dr3g6k1lo2~x2/"><circle cx="349.6" cy="97.4" r="4" fill="#3465a4"><title>MacLaurin of Broich (Clan)</title></circle></a><a href="/variants/s7/lb5db30k25lb5db30dp2lb5~x2/"><circle cx="292.5" cy="174.4" r="4" fill="#3465a4"><title>Van Loo (Personal)</title></circle></a><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="330.4" cy="124.1" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/variants/s6/db48w2k20g22r3g4~x2/"><circle cx="237.5" cy="139.1" r="4" fill="#3465a4"><title>MacFadzean</title></circle></a><a href="/variants/s6/r1db12k5o3db5w1~x4/"><circle cx="292.5" cy="170.3" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/variants/s6/r1db12k5ly3db5lb1~x4/"><circle cx="284.5" cy="170.8" r="4" fill="#3465a4"><title>Massachusetts (Unofficial)</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.9" cy="117.7" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><circle cx="306.7" cy="131.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="337.4" cy="120.1" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/"><circle cx="295.2" cy="103.1" r="4" fill="#3465a4"><title>Mount Dora</title></circle></a><a href="/variants/s7/db36k10g3r3g6k1y2~x2/"><circle cx="333.1" cy="98.3" r="4" fill="#3465a4"><title>MacLaurin of Brioch</title></circle></a><a href="/variants/s7/db36k8g3dr3g6k1lo2~x2/"><circle cx="349.5" cy="97.5" r="4" fill="#3465a4"><title>MacLaurin of Broich (Clan)</title></circle></a><a href="/variants/s7/lb5db30k25lb5db30dp2lb5~x2/"><circle cx="292.5" cy="174.8" r="4" fill="#3465a4"><title>Van Loo (Personal)</title></circle></a><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="330.3" cy="124.3" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/variants/s6/db48w2k20g22r3g4~x2/"><circle cx="237.4" cy="139.4" r="4" fill="#3465a4"><title>MacFadzean</title></circle></a><a href="/variants/s6/r1db12k5o3db5w1~x4/"><circle cx="292.5" cy="170.6" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/variants/s6/r1db12k5ly3db5lb1~x4/"><circle cx="284.5" cy="171.2" r="4" fill="#3465a4"><title>Massachusetts (Unofficial)</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.8" cy="118.0" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><circle cx="306.6" cy="131.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db6dp3db56k24g6r6g6/

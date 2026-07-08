@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brodie Silver"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3n20k2n20o20lb20r3/)
 (the same proportion at any scale), whose colour order is pattern [RBKBRWR](/stripes/rbkbrwr/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=373
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=373](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=373)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lp9n4lp5o4k3o12n18g4n18o6~x2~n1900000-o2500000/"><circle cx="228.2" cy="220.5" r="4" fill="#3465a4"><title>Jaggy Thistle (Fashion)</title></circle></a><a href="/variants/s6/w1dp1o7n4o1w1~x4~o2500000-n1900000/"><circle cx="325.7" cy="237.5" r="4" fill="#3465a4"><title>Lochnagar</title></circle></a><a href="/variants/s7/r3n20y2n20o20lb20r3~x2~n1900000-o2500000/"><circle cx="294.6" cy="239.0" r="4" fill="#3465a4"><title>Brodie Silver Clan Tartan</title></circle></a><a href="/variants/s6/w1o1n4o7lp1w1~x4~o2500000-n1900000/"><circle cx="347.0" cy="245.5" r="4" fill="#3465a4"><title>Lochnagar Plaid (District)</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="267.9" cy="231.5" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/"><circle cx="216.3" cy="230.1" r="4" fill="#3465a4"><title>Newmill Corporate Tartan</title></circle></a><a href="/variants/s7/o72do30o18b62y10do7b32/"><circle cx="292.5" cy="243.1" r="4" fill="#3465a4"><title>Manhattan Ethnic</title></circle></a><a href="/variants/s7/r10b44o5dg40o62r5o10/"><circle cx="285.4" cy="211.9" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/variants/s8/do9o9b9r1db1o9db1r1~x4/"><circle cx="267.7" cy="214.0" r="4" fill="#3465a4"><title>Jardine, of Castlemilk</title></circle></a><a href="/variants/s7/db4w1n12lr12o4lb1w2~x4~n1900000-lr2800000/"><circle cx="192.3" cy="192.0" r="4" fill="#3465a4"><title>Ontex</title></circle></a><circle cx="247.2" cy="217.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lp9n4lp5o4k3o12n18g4n18o6~x2~n1900000-o2500000/"><circle cx="228.3" cy="220.9" r="4" fill="#3465a4"><title>Jaggy Thistle (Fashion)</title></circle></a><a href="/variants/s6/w1dp1o7n4o1w1~x4~o2500000-n1900000/"><circle cx="325.9" cy="238.0" r="4" fill="#3465a4"><title>Lochnagar</title></circle></a><a href="/variants/s7/r3n20y2n20o20lb20r3~x2~n1900000-o2500000/"><circle cx="294.7" cy="239.3" r="4" fill="#3465a4"><title>Brodie Silver Clan Tartan</title></circle></a><a href="/variants/s6/w1o1n4o7lp1w1~x4~o2500000-n1900000/"><circle cx="347.2" cy="245.9" r="4" fill="#3465a4"><title>Lochnagar Plaid (District)</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="268.0" cy="231.8" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/"><circle cx="216.4" cy="230.4" r="4" fill="#3465a4"><title>Newmill Corporate Tartan</title></circle></a><a href="/variants/s7/o72do30o18b62y10do7b32/"><circle cx="292.6" cy="243.5" r="4" fill="#3465a4"><title>Manhattan Ethnic</title></circle></a><a href="/variants/s7/r10b44o5dg40o62r5o10/"><circle cx="285.5" cy="212.3" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/variants/s8/do9o9b9r1db1o9db1r1~x4/"><circle cx="267.8" cy="214.3" r="4" fill="#3465a4"><title>Jardine, of Castlemilk</title></circle></a><a href="/variants/s7/db4w1n12lr12o4lb1w2~x4~n1900000-lr2800000/"><circle cx="192.3" cy="192.3" r="4" fill="#3465a4"><title>Ontex</title></circle></a><circle cx="247.3" cy="218.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r3n20k2n20o20lb20r3~x2~n1900000-o2500000/

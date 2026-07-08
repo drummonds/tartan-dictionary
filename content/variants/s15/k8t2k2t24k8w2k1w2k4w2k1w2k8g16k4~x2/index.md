@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Fair Trade"
   url: "/tartans/fair-trade/"
+- name: "Fair Trade"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k8t2k2t24k8w2k1w2k4w2k1w2k8g16k4/)
 (the same proportion at any scale), whose colour order is pattern [KBKBKWKWKWKWKGK](/stripes/kbkbkwkwkwkwkgk/).
@@ -14,7 +16,7 @@ Part of the [Fair Trade](/tartans/fair-trade/) tartan — the named design group
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10980
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10980](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10980)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/"><circle cx="178.6" cy="98.9" r="4" fill="#3465a4"><title>Fair Trade</title></circle></a><a href="/variants/s11/g24y3g4y1g17k25db2k2db2k2db22~x2/"><circle cx="214.3" cy="126.9" r="4" fill="#3465a4"><title>Hunting, The</title></circle></a><a href="/variants/s17/k28r1db8g2db4g19k2g1w2g1k1g19db4g2db8r2db3~x4/"><circle cx="183.6" cy="75.1" r="4" fill="#3465a4"><title>Blairlogie or Blair Athol</title></circle></a><a href="/variants/s17/k28r2db9g2db4g20k1g1w2g1k1g20db4g2db9r1db3~x2/"><circle cx="187.5" cy="75.0" r="4" fill="#3465a4"><title>Blairlogie (District)</title></circle></a><a href="/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/"><circle cx="185.5" cy="137.4" r="4" fill="#3465a4"><title>Scottish Tourist Board (1981) (Corp)</title></circle></a><a href="/variants/s11/w6k1g28k24dp25g3dp3g3dp3g4dp3~x2/"><circle cx="188.3" cy="113.1" r="4" fill="#3465a4"><title>Rennie (Name)</title></circle></a><a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4/"><circle cx="219.3" cy="98.7" r="4" fill="#3465a4"><title>Gordon VS</title></circle></a><a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4~x2/"><circle cx="219.3" cy="98.7" r="4" fill="#3465a4"><title>Gordon, Ancient</title></circle></a><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2/"><circle cx="188.0" cy="102.6" r="4" fill="#3465a4"><title>Sutherland (Clan)</title></circle></a><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3/"><circle cx="188.0" cy="102.6" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><circle cx="172.2" cy="100.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/k8db2k2db24k8w2k1w2k4w2k1w2k8g16k4~x2/"><circle cx="178.5" cy="99.1" r="4" fill="#3465a4"><title>Fair Trade</title></circle></a><a href="/variants/s11/g24y3g4y1g17k25db2k2db2k2db22~x2/"><circle cx="214.2" cy="127.1" r="4" fill="#3465a4"><title>Hunting, The</title></circle></a><a href="/variants/s17/k28r1db8g2db4g19k2g1w2g1k1g19db4g2db8r2db3~x4/"><circle cx="183.4" cy="75.2" r="4" fill="#3465a4"><title>Blairlogie or Blair Athol</title></circle></a><a href="/variants/s17/k28r2db9g2db4g20k1g1w2g1k1g20db4g2db9r1db3~x2/"><circle cx="187.3" cy="75.1" r="4" fill="#3465a4"><title>Blairlogie (District)</title></circle></a><a href="/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/"><circle cx="185.4" cy="137.7" r="4" fill="#3465a4"><title>Scottish Tourist Board (1981) (Corp)</title></circle></a><a href="/variants/s11/w6k1g28k24dp25g3dp3g3dp3g4dp3~x2/"><circle cx="188.2" cy="113.4" r="4" fill="#3465a4"><title>Rennie (Name)</title></circle></a><a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4/"><circle cx="219.2" cy="98.8" r="4" fill="#3465a4"><title>Gordon VS</title></circle></a><a href="/variants/s17/db28k1db1k1db3k12g24y1g1y2g1y1g24k12db18k1db4~x2/"><circle cx="219.2" cy="98.8" r="4" fill="#3465a4"><title>Gordon, Ancient</title></circle></a><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2/"><circle cx="187.9" cy="102.8" r="4" fill="#3465a4"><title>Sutherland (Clan)</title></circle></a><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3/"><circle cx="187.9" cy="102.8" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><circle cx="172.1" cy="100.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/k8t2k2t24k8w2k1w2k4w2k1w2k8g16k4~x2/

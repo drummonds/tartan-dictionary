@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Blue Ridge"
   url: "/tartans/blue-ridge/"
+- name: "Blue Ridge (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6lb8r2lb2y2lb16g18lb4g4lb3/)
 (the same proportion at any scale), whose colour order is pattern [GWRWGWGWGW](/stripes/gwrwgwgwgw/).
@@ -14,7 +16,7 @@ Part of the [Blue Ridge](/tartans/blue-ridge/) tartan — the named design group
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3708
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3708](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3708)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db4r17db4g4db2g4db4g27db4y4~x2/"><circle cx="273.6" cy="175.7" r="4" fill="#3465a4"><title>Cape Breton University Chemistry Society</title></circle></a><a href="/variants/s12/ly2lb2ly1lb18g2lb10g10lb2g18lyi1g2lyi2~x2~ly2503076-lyi3407090/"><circle cx="361.3" cy="190.0" r="4" fill="#3465a4"><title>Yarmouth NS (District)</title></circle></a><a href="/variants/s8/lg8do2lg13r4lg12t22lg5lo3~x2~lg3302138/"><circle cx="320.7" cy="218.8" r="4" fill="#3465a4"><title>Kildare Irish County Tartan</title></circle></a><a href="/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/"><circle cx="301.1" cy="230.8" r="4" fill="#3465a4"><title>Jubilee</title></circle></a><a href="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/"><circle cx="296.3" cy="199.3" r="4" fill="#3465a4"><title>Gammell (Personal)</title></circle></a><a href="/variants/s17/g3lb24g8lb12g44dr6g44lb48g6lb48g44lo6g44lb12g8lb24g3/"><circle cx="357.1" cy="194.7" r="4" fill="#3465a4"><title>Jubilee (Artefact)</title></circle></a><a href="/variants/s5/n57w5g20n5lo10~x2/"><circle cx="370.6" cy="219.3" r="4" fill="#3465a4"><title>Johore</title></circle></a><a href="/variants/s10/ly3dg17t3dg3t3do5t18dr2t8dr2~x2/"><circle cx="302.7" cy="213.8" r="4" fill="#3465a4"><title>Donegal, County</title></circle></a><a href="/variants/s7/g1b8g8r1g8b8w1~x4/"><circle cx="316.9" cy="253.7" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s7/g1b8g8r1g8b8w1~x2/"><circle cx="316.9" cy="253.7" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><circle cx="332.6" cy="222.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db4r17db4g4db2g4db4g27db4y4~x2/"><circle cx="273.6" cy="176.1" r="4" fill="#3465a4"><title>Cape Breton University Chemistry Society</title></circle></a><a href="/variants/s12/ly2lb2ly1lb18g2lb10g10lb2g18lyi1g2lyi2~x2~ly2503076-lyi3407090/"><circle cx="361.4" cy="190.3" r="4" fill="#3465a4"><title>Yarmouth NS (District)</title></circle></a><a href="/variants/s8/lg8do2lg13r4lg12t22lg5lo3~x2~lg3302138/"><circle cx="320.8" cy="219.2" r="4" fill="#3465a4"><title>Kildare Irish County Tartan</title></circle></a><a href="/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/"><circle cx="301.2" cy="231.3" r="4" fill="#3465a4"><title>Jubilee</title></circle></a><a href="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/"><circle cx="296.4" cy="199.7" r="4" fill="#3465a4"><title>Gammell (Personal)</title></circle></a><a href="/variants/s17/g3lb24g8lb12g44dr6g44lb48g6lb48g44lo6g44lb12g8lb24g3/"><circle cx="357.2" cy="195.1" r="4" fill="#3465a4"><title>Jubilee (Artefact)</title></circle></a><a href="/variants/s5/n57w5g20n5lo10~x2/"><circle cx="370.8" cy="219.7" r="4" fill="#3465a4"><title>Johore</title></circle></a><a href="/variants/s10/ly3dg17t3dg3t3do5t18dr2t8dr2~x2/"><circle cx="302.8" cy="214.1" r="4" fill="#3465a4"><title>Donegal, County</title></circle></a><a href="/variants/s7/g1b8g8r1g8b8w1~x4/"><circle cx="317.0" cy="254.2" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s7/g1b8g8r1g8b8w1~x2/"><circle cx="317.0" cy="254.2" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><circle cx="332.7" cy="223.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g6lb8r2lb2y2lb16g18lb4g4lb3~x4/

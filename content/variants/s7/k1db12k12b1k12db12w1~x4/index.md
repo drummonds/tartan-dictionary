@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Marchmont"
   url: "/tartans/marchmont/"
+- name: "Marchmont"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1db12k12b1k12db12w1/)
 (the same proportion at any scale), whose colour order is pattern [KBKBKBW](/stripes/kbkbkbw/).
@@ -14,7 +16,7 @@ Part of the [Marchmont](/tartans/marchmont/) tartan — the named design groupin
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k1db12k12g1k12db12g1~x4/"><circle cx="311.3" cy="213.1" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/variants/s6/lb5k22db4k4db26k4~x2/"><circle cx="257.9" cy="223.6" r="4" fill="#3465a4"><title>Slanj, The</title></circle></a><a href="/variants/s6/k7r2k33db33k2db7~x2/"><circle cx="349.4" cy="186.5" r="4" fill="#3465a4"><title>Casterton (Corporate)</title></circle></a><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/"><circle cx="276.6" cy="177.2" r="4" fill="#3465a4"><title>South African Air Force (Military)</title></circle></a><a href="/variants/s8/n15k14t1y2t1k14n15k2~x4~n1802249-t2503227/"><circle cx="261.8" cy="173.0" r="4" fill="#3465a4"><title>South African Air Force</title></circle></a><a href="/variants/s6/k6db17k6db17k27w3~x2/"><circle cx="282.5" cy="230.0" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="298.3" cy="176.6" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s5/k9db3k28db25w2~x2/"><circle cx="336.3" cy="207.0" r="4" fill="#3465a4"><title>Press &amp; Journal</title></circle></a><a href="/variants/s7/k15r8y2db25k5db13k5~x2/"><circle cx="254.0" cy="188.6" r="4" fill="#3465a4"><title>Gifford (Personal)</title></circle></a><a href="/variants/s5/k30db6k6db41lb2~x2/"><circle cx="374.8" cy="191.6" r="4" fill="#3465a4"><title>Williams (New York) (Personal)</title></circle></a><circle cx="283.9" cy="197.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k1db12k12g1k12db12g1~x4/"><circle cx="311.3" cy="213.5" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/variants/s6/lb5k22db4k4db26k4~x2/"><circle cx="258.0" cy="224.2" r="4" fill="#3465a4"><title>Slanj, The</title></circle></a><a href="/variants/s6/k7r2k33db33k2db7~x2/"><circle cx="349.4" cy="186.8" r="4" fill="#3465a4"><title>Casterton (Corporate)</title></circle></a><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/"><circle cx="276.5" cy="177.5" r="4" fill="#3465a4"><title>South African Air Force (Military)</title></circle></a><a href="/variants/s8/n15k14t1y2t1k14n15k2~x4~n1802249-t2503227/"><circle cx="261.8" cy="173.4" r="4" fill="#3465a4"><title>South African Air Force</title></circle></a><a href="/variants/s6/k6db17k6db17k27w3~x2/"><circle cx="282.6" cy="230.6" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="298.3" cy="177.1" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s5/k9db3k28db25w2~x2/"><circle cx="336.3" cy="207.5" r="4" fill="#3465a4"><title>Press &amp; Journal</title></circle></a><a href="/variants/s7/k15r8y2db25k5db13k5~x2/"><circle cx="254.0" cy="189.0" r="4" fill="#3465a4"><title>Gifford (Personal)</title></circle></a><a href="/variants/s5/k30db6k6db41lb2~x2/"><circle cx="374.8" cy="192.0" r="4" fill="#3465a4"><title>Williams (New York) (Personal)</title></circle></a><circle cx="283.9" cy="197.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k1db12k12b1k12db12w1~x4/

@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/munro/"
 - name: "Munro"
   url: "/tartans/munro-2/"
+- name: "Munro"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13/)
 (the same proportion at any scale), whose colour order is pattern [RGRGRGRBYRBRYBRGRBYR](/stripes/rgrgrgrbyrbrybrgrbyr/).
@@ -16,7 +18,7 @@ Part of the [Munro](/tartans/munro-2/) tartan — the named design grouping this
 
 Sourced from logan-1831.  It is a [20 stripe tartan](/stripes/stripes20/).
 
-Original link /posts/logans-scottish-gael/
+Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 
 ## Provenance
 
@@ -29,7 +31,7 @@ James Logan recorded the **Munro** sett in 1831, on page 407 of the *Table of Cl
 
 > 6½ red · ½ yellow · ½ blue · 1½ red · 13 green · 1½ red · ½ blue · ½ yellow · 1½ red · 3 blue · 1½ red · ½ yellow · ½ blue · 13 red · 1½ green · 1½ red · 1½ green · 1½ red · 1½ green · 13 red
 
-In threads (at 8 to the eighth-inch) that is `R/52 Y4 B4 R12 G104 R12 B4 Y4 R12 B24 R12 Y4 B4 R104 G12 R12 G12 R12 G12 R/104`. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+Rendered at 8 threads to the eighth-inch that is `R/52 Y4 B4 R12 G104 R12 B4 Y4 R12 B24 R12 Y4 B4 R104 G12 R12 G12 R12 G12 R/104` — the eighths are the captured data, and the threadcount is derived from them at that stated factor. How many threads an eighth of cloth held depends on the weave's density, so the factor is a display calibration, not Logan's count; the sett's identity lives in the proportions, which the eighths record directly. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
 
 See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table and method.
 
@@ -49,6 +51,7 @@ Later records of the **Munro** name adjusted Logan's counts: [Munro](/setts/s17/
 <ol class="capture-chain">
 <li>James Logan, The Scottish Gaël (first edition) <small>1831</small> · Public domain<br><small>the printed Table of Clan Tartans, vol. II pp. 401-408, plus the Duke of Sussex plate</small></li>
 <li><a href="https://archive.org/details/scotishgalorcel02logagoog">Internet Archive scan</a><br><small>the digitised first edition the transcription was made from, cross-checked against the OCR</small></li>
+<li><a href="/posts/logans-scottish-gael/">Tartan Dictionary transcription — Logan's Scottish Gaël</a> <small>2026-06</small> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><br><small>by-eye transcription of the Table of Clan Tartans and the Duke of Sussex plate — depths in eighths of an inch, rendered at 8 threads per eighth (a display calibration anchored by the Register's Abercrombie ×8 stripe-for-stripe match); method and match report in the linked post</small></li>
 <li>this dictionary<br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
 </details>
@@ -90,8 +93,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/r20g2r2g2r2g2r19db1y1r2db4r2y1db1r2g18r2db1y1r19~x2/"><circle cx="428.7" cy="102.1" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s23/r32g8r4g8r8db8r12lb1r1g18r1lb1r32lb1r1g18r1lb1r12g6r1lb1r4~x2/"><circle cx="387.6" cy="90.6" r="4" fill="#3465a4"><title>MacAlister (Cockburn Collection 1810-20)</title></circle></a><a href="/variants/s23/r32g8r4g8r8db8r12w1r1g18r1w1r32w1r1g18r1w1r12g6r1w1r4~x2/"><circle cx="380.4" cy="88.3" r="4" fill="#3465a4"><title>MacAlister CC</title></circle></a><a href="/variants/s17/r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2r2g2~x2/"><circle cx="399.1" cy="104.3" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s17/r40w2db1r3g31r3db1w2r3db8r3w2db1r34g4r4g4~x2/"><circle cx="401.2" cy="74.7" r="4" fill="#3465a4"><title>Dalziel #1</title></circle></a><a href="/variants/s17/r19y1db1r2g18r2db1y1r2db4r2y1db1r19g2r2g2~x2/"><circle cx="381.2" cy="111.0" r="4" fill="#3465a4"><title>Munro (Logan)</title></circle></a><a href="/variants/s17/r24w1db2r4g32r4db2w1r4db6r4w1db2r32g2r3g6~x2/"><circle cx="370.7" cy="90.6" r="4" fill="#3465a4"><title>Dalzell</title></circle></a><a href="/variants/s22/r13g2r13dy2r4dy2r4dy2r42dy2r4dy2r4dy2r13g2r13g8r2g36r2g2~x2/"><circle cx="440.2" cy="114.9" r="4" fill="#3465a4"><title>Unidentified Cant #05</title></circle></a><a href="/variants/s17/w8r83g7r5g7r7g28r7g28r7g7r5g7r83w4r4w8/"><circle cx="435.1" cy="116.2" r="4" fill="#3465a4"><title>Rothesay (Red)</title></circle></a><a href="/variants/s17/ri24y1db1ri3g16ri3db1y1ri3db6ri3y1db1ri16g2r2g2~x2~ri2109032-r1807008/"><circle cx="374.0" cy="95.3" r="4" fill="#3465a4"><title>Munro Clan Tartan</title></circle></a><circle cx="405.9" cy="92.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/r20g2r2g2r2g2r19db1y1r2db4r2y1db1r2g18r2db1y1r19~x2/"><circle cx="428.7" cy="102.3" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s23/r32g8r4g8r8db8r12lb1r1g18r1lb1r32lb1r1g18r1lb1r12g6r1lb1r4~x2/"><circle cx="387.6" cy="90.7" r="4" fill="#3465a4"><title>MacAlister (Cockburn Collection 1810-20)</title></circle></a><a href="/variants/s23/r32g8r4g8r8db8r12w1r1g18r1w1r32w1r1g18r1w1r12g6r1w1r4~x2/"><circle cx="380.3" cy="88.4" r="4" fill="#3465a4"><title>MacAlister CC</title></circle></a><a href="/variants/s17/r24y1db1r3g16r3db1y1r3db6r3y1db1r16g2r2g2~x2/"><circle cx="399.1" cy="104.5" r="4" fill="#3465a4"><title>Munro</title></circle></a><a href="/variants/s17/r40w2db1r3g31r3db1w2r3db8r3w2db1r34g4r4g4~x2/"><circle cx="401.1" cy="74.8" r="4" fill="#3465a4"><title>Dalziel #1</title></circle></a><a href="/variants/s17/r19y1db1r2g18r2db1y1r2db4r2y1db1r19g2r2g2~x2/"><circle cx="381.1" cy="111.2" r="4" fill="#3465a4"><title>Munro (Logan)</title></circle></a><a href="/variants/s17/r24w1db2r4g32r4db2w1r4db6r4w1db2r32g2r3g6~x2/"><circle cx="370.6" cy="90.8" r="4" fill="#3465a4"><title>Dalzell</title></circle></a><a href="/variants/s22/r13g2r13dy2r4dy2r4dy2r42dy2r4dy2r4dy2r13g2r13g8r2g36r2g2~x2/"><circle cx="440.2" cy="115.1" r="4" fill="#3465a4"><title>Unidentified Cant #05</title></circle></a><a href="/variants/s17/w8r83g7r5g7r7g28r7g28r7g7r5g7r83w4r4w8/"><circle cx="435.1" cy="116.5" r="4" fill="#3465a4"><title>Rothesay (Red)</title></circle></a><a href="/variants/s17/ri24y1db1ri3g16ri3db1y1ri3db6ri3y1db1ri16g2r2g2~x2~ri2109032-r1807008/"><circle cx="373.9" cy="95.4" r="4" fill="#3465a4"><title>Munro Clan Tartan</title></circle></a><circle cx="405.8" cy="92.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s20/r26g3r3g3r3g3r26db1ly1r3db6r3ly1db1r3g26r3db1ly1r13~x4/

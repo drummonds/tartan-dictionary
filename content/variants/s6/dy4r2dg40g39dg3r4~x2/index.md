@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McGeorge (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy4r2dg40g39dg3r4/)
 (the same proportion at any scale), whose colour order is pattern [GRGGGR](/stripes/grgggr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2884
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2884](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2884)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r6dt4w2g27dt37y2~x2/"><circle cx="326.8" cy="172.9" r="4" fill="#3465a4"><title>Highlands of Durham (Corporate)</title></circle></a><a href="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/"><circle cx="384.7" cy="151.0" r="4" fill="#3465a4"><title>Abadia Da Cova (Corporate)</title></circle></a><a href="/variants/s6/r3dg1g32dg32g1y3~x2/"><circle cx="391.7" cy="176.5" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s6/r3dg2g32dg32g2w3~x2/"><circle cx="330.2" cy="192.3" r="4" fill="#3465a4"><title>Galloway Hunting</title></circle></a><a href="/variants/s6/r3dg1g32dg32g1w3~x2/"><circle cx="352.2" cy="163.4" r="4" fill="#3465a4"><title>Galloway, hunting</title></circle></a><a href="/variants/s6/g18y1dp5y1dg18r1~x4/"><circle cx="300.1" cy="188.5" r="4" fill="#3465a4"><title>Symonds (2016)</title></circle></a><a href="/variants/s5/ly5g33dg33r6w2~x2~g1903114-dg1405151/"><circle cx="316.4" cy="214.6" r="4" fill="#3465a4"><title>Symington</title></circle></a><a href="/variants/s5/dr8g19dg42ly3r1~x2/"><circle cx="403.6" cy="162.6" r="4" fill="#3465a4"><title>Nolan (Personal)</title></circle></a><a href="/variants/s7/r2dg19g2dg2g19dg2y2~x2/"><circle cx="354.0" cy="217.9" r="4" fill="#3465a4"><title>Hunting Kenmore</title></circle></a><a href="/variants/s5/do8g19dg42lo3r1~x2~do1102055-lo3006076/"><circle cx="413.5" cy="166.8" r="4" fill="#3465a4"><title>Nolan Family, John J (Personal)</title></circle></a><circle cx="363.5" cy="194.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r6dt4w2g27dt37y2~x2/"><circle cx="326.8" cy="173.1" r="4" fill="#3465a4"><title>Highlands of Durham (Corporate)</title></circle></a><a href="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/"><circle cx="384.6" cy="151.1" r="4" fill="#3465a4"><title>Abadia Da Cova (Corporate)</title></circle></a><a href="/variants/s6/r3dg1g32dg32g1y3~x2/"><circle cx="391.7" cy="176.7" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s6/r3dg2g32dg32g2w3~x2/"><circle cx="330.2" cy="192.6" r="4" fill="#3465a4"><title>Galloway Hunting</title></circle></a><a href="/variants/s6/r3dg1g32dg32g1w3~x2/"><circle cx="352.2" cy="163.6" r="4" fill="#3465a4"><title>Galloway, hunting</title></circle></a><a href="/variants/s6/g18y1dp5y1dg18r1~x4/"><circle cx="300.2" cy="188.7" r="4" fill="#3465a4"><title>Symonds (2016)</title></circle></a><a href="/variants/s5/ly5g33dg33r6w2~x2~g1903114-dg1405151/"><circle cx="316.5" cy="214.8" r="4" fill="#3465a4"><title>Symington</title></circle></a><a href="/variants/s5/dr8g19dg42ly3r1~x2/"><circle cx="403.6" cy="162.7" r="4" fill="#3465a4"><title>Nolan (Personal)</title></circle></a><a href="/variants/s7/r2dg19g2dg2g19dg2y2~x2/"><circle cx="354.1" cy="218.2" r="4" fill="#3465a4"><title>Hunting Kenmore</title></circle></a><a href="/variants/s5/do8g19dg42lo3r1~x2~do1102055-lo3006076/"><circle cx="413.5" cy="166.9" r="4" fill="#3465a4"><title>Nolan Family, John J (Personal)</title></circle></a><circle cx="363.5" cy="194.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dy4r2dg40g39dg3r4~x2/

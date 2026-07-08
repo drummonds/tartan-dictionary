@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scott Htg (Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3dy16g10r3g3lb2g3r3/)
 (the same proportion at any scale), whose colour order is pattern [RGGRGWGR](/stripes/rggrgwgr/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1546
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1546](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1546)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/"><circle cx="197.6" cy="222.6" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s12/o6dr4o24dg14ly9o3ly3o3ly9dg24o9ly6~x2/"><circle cx="207.2" cy="208.3" r="4" fill="#3465a4"><title>Pierce</title></circle></a><a href="/variants/s7/dp8r3y1r3g14r3y1~x4/"><circle cx="261.0" cy="192.9" r="4" fill="#3465a4"><title>Logan with Yellow</title></circle></a><a href="/variants/s8/r5dt12g3db4g20dt3g3r5~x4/"><circle cx="247.5" cy="227.7" r="4" fill="#3465a4"><title>Daks (0600150)</title></circle></a><a href="/variants/s14/dy16g10r3g3lb2g3r3g3lb2g3r3g10dy16r3~x2/"><circle cx="227.5" cy="198.5" r="4" fill="#3465a4"><title>Scott Hunting</title></circle></a><a href="/variants/s8/r3dr14g8r2g2w2g2r1~x2/"><circle cx="242.0" cy="175.2" r="4" fill="#3465a4"><title>Scott Hunting Clan Tartan</title></circle></a><a href="/variants/s10/r4lb3r32db30r4g32r3g32r3g3~x2/"><circle cx="252.9" cy="184.4" r="4" fill="#3465a4"><title>Unidentified Plaid #15</title></circle></a><a href="/variants/s9/g4r1db2r1g10dy5r3dy10y1~x4/"><circle cx="235.2" cy="200.2" r="4" fill="#3465a4"><title>Moncton, City of</title></circle></a><a href="/variants/s10/db4o7y3o12g15o5db20o5g4o2~x2/"><circle cx="235.9" cy="216.7" r="4" fill="#3465a4"><title>Tupper., Sir Charles..</title></circle></a><a href="/variants/s7/ri2r1ri10r2g10w1g2~x2~ri2008029-r1506028/"><circle cx="283.0" cy="203.1" r="4" fill="#3465a4"><title>Lennox</title></circle></a><circle cx="221.2" cy="215.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/"><circle cx="197.7" cy="223.1" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s12/o6dr4o24dg14ly9o3ly3o3ly9dg24o9ly6~x2/"><circle cx="207.3" cy="208.8" r="4" fill="#3465a4"><title>Pierce</title></circle></a><a href="/variants/s7/dp8r3y1r3g14r3y1~x4/"><circle cx="261.1" cy="193.3" r="4" fill="#3465a4"><title>Logan with Yellow</title></circle></a><a href="/variants/s8/r5dt12g3db4g20dt3g3r5~x4/"><circle cx="247.6" cy="228.2" r="4" fill="#3465a4"><title>Daks (0600150)</title></circle></a><a href="/variants/s14/dy16g10r3g3lb2g3r3g3lb2g3r3g10dy16r3~x2/"><circle cx="227.6" cy="198.9" r="4" fill="#3465a4"><title>Scott Hunting</title></circle></a><a href="/variants/s8/r3dr14g8r2g2w2g2r1~x2/"><circle cx="242.1" cy="175.6" r="4" fill="#3465a4"><title>Scott Hunting Clan Tartan</title></circle></a><a href="/variants/s10/r4lb3r32db30r4g32r3g32r3g3~x2/"><circle cx="253.0" cy="184.8" r="4" fill="#3465a4"><title>Unidentified Plaid #15</title></circle></a><a href="/variants/s9/g4r1db2r1g10dy5r3dy10y1~x4/"><circle cx="235.2" cy="200.6" r="4" fill="#3465a4"><title>Moncton, City of</title></circle></a><a href="/variants/s10/db4o7y3o12g15o5db20o5g4o2~x2/"><circle cx="236.0" cy="217.2" r="4" fill="#3465a4"><title>Tupper., Sir Charles..</title></circle></a><a href="/variants/s7/ri2r1ri10r2g10w1g2~x2~ri2008029-r1506028/"><circle cx="283.1" cy="203.6" r="4" fill="#3465a4"><title>Lennox</title></circle></a><circle cx="221.3" cy="216.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r3dy16g10r3g3lb2g3r3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Arbutus"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lr40dg3ly6dg2ly2lr2ly2dg10do2dg2ly2do2dg3lr2/)
 (the same proportion at any scale), whose colour order is pattern [YGBYGBGYYYGYGY](/stripes/ygbygbgyyygygy/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5037
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5037](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5037)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w6dy5w9db2t3db2ly36dy2ly4dy2~x2~db0705267-t2308259/"><circle cx="317.5" cy="134.5" r="4" fill="#3465a4"><title>Outpost Club</title></circle></a><a href="/variants/s14/lb16db2lb2db2lb3db6y52db6lb3db2lb2db2lb16dr3~x2/"><circle cx="326.3" cy="122.5" r="4" fill="#3465a4"><title>Scotch House (Corporate)</title></circle></a><circle cx="347.8" cy="111.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w6dy5w9db2t3db2ly36dy2ly4dy2~x2~db0705267-t2308259/"><circle cx="317.5" cy="134.8" r="4" fill="#3465a4"><title>Outpost Club</title></circle></a><a href="/variants/s14/lb16db2lb2db2lb3db6y52db6lb3db2lb2db2lb16dr3~x2/"><circle cx="326.3" cy="122.7" r="4" fill="#3465a4"><title>Scotch House (Corporate)</title></circle></a><circle cx="347.8" cy="112.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/lr40dg3ly6dg2ly2lr2ly2dg10do2dg2ly2do2dg3lr2~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Bahamas"
   url: "/tartans/bahamas/"
+- name: "Bahamas"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3g11w11r2g7db22y2db2/)
 (the same proportion at any scale), whose colour order is pattern [BGBGRWGB](/stripes/bgbgrwgb/).
@@ -14,7 +16,7 @@ Part of the [Bahamas](/tartans/bahamas/) tartan — the named design grouping th
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db6y2db22g7r2w11g11db3~x2/"><circle cx="202.9" cy="185.3" r="4" fill="#3465a4"><title>Bahamas District Tartan</title></circle></a><a href="/variants/s8/lb8ly2lb22dg6r2w10dg12lb3~x2/"><circle cx="225.6" cy="188.2" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/variants/s8/db15w2g2ly15r3db21r3g15~x2/"><circle cx="195.6" cy="189.8" r="4" fill="#3465a4"><title>Loyalhanna</title></circle></a><a href="/variants/s12/db4ri1db12w1ri4w1g4w1r4g12db1w2~x2~ri2406019-r1706009/"><circle cx="162.0" cy="156.0" r="4" fill="#3465a4"><title>Glenfalloch Corporate Tartan</title></circle></a><a href="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2~w3600000/"><circle cx="158.6" cy="164.4" r="4" fill="#3465a4"><title>Fraser Gathering Dress Clan Tartan</title></circle></a><a href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/"><circle cx="207.2" cy="197.5" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s9/db3g4db24g6w3g4r3g8ly3~x2/"><circle cx="221.2" cy="181.6" r="4" fill="#3465a4"><title>Scottish Borders Tourist Board (Corp</title></circle></a><a href="/variants/s7/r6db27lb2g2lb2g30w4~x2/"><circle cx="240.6" cy="164.6" r="4" fill="#3465a4"><title>MX-5 Owners' Club</title></circle></a><a href="/variants/s8/db12r2db2r2db2g10w12o3~x2/"><circle cx="115.8" cy="207.7" r="4" fill="#3465a4"><title>Idaho, Centennial</title></circle></a><a href="/variants/s7/t5dy28w5k20ly5t47ly4~x2/"><circle cx="185.4" cy="166.9" r="4" fill="#3465a4"><title>State Seal of Washington (Fashion)</title></circle></a><circle cx="192.3" cy="178.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db6y2db22g7r2w11g11db3~x2/"><circle cx="202.9" cy="185.8" r="4" fill="#3465a4"><title>Bahamas District Tartan</title></circle></a><a href="/variants/s8/lb8ly2lb22dg6r2w10dg12lb3~x2/"><circle cx="225.6" cy="188.7" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/variants/s8/db15w2g2ly15r3db21r3g15~x2/"><circle cx="195.7" cy="190.3" r="4" fill="#3465a4"><title>Loyalhanna</title></circle></a><a href="/variants/s12/db4ri1db12w1ri4w1g4w1r4g12db1w2~x2~ri2406019-r1706009/"><circle cx="162.0" cy="156.4" r="4" fill="#3465a4"><title>Glenfalloch Corporate Tartan</title></circle></a><a href="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2~w3600000/"><circle cx="158.6" cy="164.8" r="4" fill="#3465a4"><title>Fraser Gathering Dress Clan Tartan</title></circle></a><a href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/"><circle cx="207.2" cy="197.9" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s9/db3g4db24g6w3g4r3g8ly3~x2/"><circle cx="221.2" cy="182.0" r="4" fill="#3465a4"><title>Scottish Borders Tourist Board (Corp</title></circle></a><a href="/variants/s7/r6db27lb2g2lb2g30w4~x2/"><circle cx="240.7" cy="164.9" r="4" fill="#3465a4"><title>MX-5 Owners' Club</title></circle></a><a href="/variants/s8/db12r2db2r2db2g10w12o3~x2/"><circle cx="115.9" cy="208.3" r="4" fill="#3465a4"><title>Idaho, Centennial</title></circle></a><a href="/variants/s7/t5dy28w5k20ly5t47ly4~x2/"><circle cx="185.4" cy="167.3" r="4" fill="#3465a4"><title>State Seal of Washington (Fashion)</title></circle></a><circle cx="192.4" cy="178.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db3g11w11r2g7db22y2db2~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Scotch House 2000 Original"
   url: "/tartans/scotch-house-2000-original/"
+- name: "Scotch House 2000 Original"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db22r3db2r3db2k17g18ly4/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBKGY](/stripes/brbrbkgy/).
@@ -14,7 +16,7 @@ Part of the [Scotch House 2000 Original](/tartans/scotch-house-2000-original/) t
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3670
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3670](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3670)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db15k2w2k2w2k16n22y2~x4/"><circle cx="143.4" cy="155.9" r="4" fill="#3465a4"><title>Sneddon, Jonathan Taylor (Personal)</title></circle></a><a href="/variants/s8/r6db3r3db32k30g30y3r3~x2/"><circle cx="121.9" cy="160.5" r="4" fill="#3465a4"><title>MacDonald of Borrodale (Clan)</title></circle></a><a href="/variants/s9/db11k1db1k1db1k7dg8dr1lg6~x4/"><circle cx="124.0" cy="160.8" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><circle cx="127.6" cy="144.3" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><a href="/variants/s8/dr3g2dr3g18k14w2db16g3~x2/"><circle cx="128.8" cy="175.5" r="4" fill="#3465a4"><title>Mantle (Personal)</title></circle></a><a href="/variants/s10/r7db2g5db18g10db2k24db2g10y3~x2/"><circle cx="112.2" cy="158.7" r="4" fill="#3465a4"><title>Offally</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2/"><circle cx="142.2" cy="172.2" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2~x2/"><circle cx="142.2" cy="172.2" r="4" fill="#3465a4"><title>MacLeod, Macleod of Harris</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="132.3" cy="149.7" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/variants/s10/db20k3db3k3db3k16g3lo3g12dr2~x2/"><circle cx="148.1" cy="157.2" r="4" fill="#3465a4"><title>Barnes Hunting (Personal)</title></circle></a><circle cx="131.9" cy="162.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db15k2w2k2w2k16n22y2~x4/"><circle cx="143.4" cy="156.2" r="4" fill="#3465a4"><title>Sneddon, Jonathan Taylor (Personal)</title></circle></a><a href="/variants/s8/r6db3r3db32k30g30y3r3~x2/"><circle cx="121.9" cy="160.8" r="4" fill="#3465a4"><title>MacDonald of Borrodale (Clan)</title></circle></a><a href="/variants/s9/db11k1db1k1db1k7dg8dr1lg6~x4/"><circle cx="124.0" cy="161.1" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><circle cx="127.5" cy="144.6" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><a href="/variants/s8/dr3g2dr3g18k14w2db16g3~x2/"><circle cx="128.8" cy="175.9" r="4" fill="#3465a4"><title>Mantle (Personal)</title></circle></a><a href="/variants/s10/r7db2g5db18g10db2k24db2g10y3~x2/"><circle cx="112.2" cy="159.1" r="4" fill="#3465a4"><title>Offally</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2/"><circle cx="142.2" cy="172.6" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2~x2/"><circle cx="142.2" cy="172.6" r="4" fill="#3465a4"><title>MacLeod, Macleod of Harris</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="132.3" cy="150.1" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/variants/s10/db20k3db3k3db3k16g3lo3g12dr2~x2/"><circle cx="148.0" cy="157.5" r="4" fill="#3465a4"><title>Barnes Hunting (Personal)</title></circle></a><circle cx="131.9" cy="163.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db22r3db2r3db2k17g18ly4~x2/

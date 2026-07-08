@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "The Caledonian Hotel"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k27dg10r2/)
 (the same proportion at any scale), whose colour order is pattern [KGR](/stripes/kgr/).
 
 Sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/g9k18r2~x4/"><circle cx="306.1" cy="242.7" r="4" fill="#3465a4"><title>Cowie, Justine (Personal)</title></circle></a><a href="/variants/s4/db1r1k12g1~x4/"><circle cx="471.7" cy="163.6" r="4" fill="#3465a4"><title>MacNathair Sgianach</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="395.2" cy="189.6" r="4" fill="#3465a4"><title>Bacon, Red (Fashion)</title></circle></a><a href="/variants/s3/k69r14y5~x2/"><circle cx="462.0" cy="195.8" r="4" fill="#3465a4"><title>Batson (Personal)</title></circle></a><a href="/variants/s4/g14k80g14y5~x2/"><circle cx="405.9" cy="180.5" r="4" fill="#3465a4"><title>Westgate Fashion Tartan</title></circle></a><a href="/variants/s4/r3db12k50y3~x2/"><circle cx="444.1" cy="166.2" r="4" fill="#3465a4"><title>Rogues (United States), The</title></circle></a><a href="/variants/s4/r3lb12k50ly3~x2/"><circle cx="399.5" cy="155.6" r="4" fill="#3465a4"><title>Rogues, The (Corporate)</title></circle></a><a href="/variants/s4/dg43k14b14r2~x2/"><circle cx="337.6" cy="191.6" r="4" fill="#3465a4"><title>St. Andrews International Golf Club</title></circle></a><a href="/variants/s4/k61dg10g20w4~x2~dg1806142-g2408144/"><circle cx="314.4" cy="177.2" r="4" fill="#3465a4"><title>Wesley Owen 2010 (Personal)</title></circle></a><a href="/variants/s3/k10r3k1~x4/"><circle cx="463.2" cy="228.2" r="4" fill="#3465a4"><title>Red Watch</title></circle></a><circle cx="431.9" cy="230.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/g9k18r2~x4/"><circle cx="306.2" cy="243.4" r="4" fill="#3465a4"><title>Cowie, Justine (Personal)</title></circle></a><a href="/variants/s4/db1r1k12g1~x4/"><circle cx="471.7" cy="164.0" r="4" fill="#3465a4"><title>MacNathair Sgianach</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="395.3" cy="190.1" r="4" fill="#3465a4"><title>Bacon, Red (Fashion)</title></circle></a><a href="/variants/s3/k69r14y5~x2/"><circle cx="462.0" cy="196.3" r="4" fill="#3465a4"><title>Batson (Personal)</title></circle></a><a href="/variants/s4/g14k80g14y5~x2/"><circle cx="405.9" cy="181.0" r="4" fill="#3465a4"><title>Westgate Fashion Tartan</title></circle></a><a href="/variants/s4/r3db12k50y3~x2/"><circle cx="444.0" cy="166.5" r="4" fill="#3465a4"><title>Rogues (United States), The</title></circle></a><a href="/variants/s4/r3lb12k50ly3~x2/"><circle cx="399.4" cy="156.0" r="4" fill="#3465a4"><title>Rogues, The (Corporate)</title></circle></a><a href="/variants/s4/dg43k14b14r2~x2/"><circle cx="337.7" cy="192.0" r="4" fill="#3465a4"><title>St. Andrews International Golf Club</title></circle></a><a href="/variants/s4/k61dg10g20w4~x2~dg1806142-g2408144/"><circle cx="314.4" cy="177.7" r="4" fill="#3465a4"><title>Wesley Owen 2010 (Personal)</title></circle></a><a href="/variants/s3/k10r3k1~x4/"><circle cx="463.3" cy="228.9" r="4" fill="#3465a4"><title>Red Watch</title></circle></a><circle cx="431.9" cy="230.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/k27dg10r2~x4/

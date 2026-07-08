@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacQuarrie SM"
   url: "/tartans/macquarrie-sm/"
+- name: "MacQuarrie SM"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1w1r6db3r1g6r1g6r6db1r1w1/)
 (the same proportion at any scale), whose colour order is pattern [RWRBRGRGRBRW](/stripes/rwrbrgrgrbrw/).
@@ -14,7 +16,7 @@ Part of the [MacQuarrie SM](/tartans/macquarrie-sm/) tartan — the named design
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r2g2r12db10w3g10r2g2r2g10r12g2r2/"><circle cx="212.8" cy="201.9" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><a href="/variants/s13/r2g2r12db10lb3g10r2g2r2g10r12g2r2~x2/"><circle cx="220.7" cy="204.4" r="4" fill="#3465a4"><title>Matheson (Logan 1831)</title></circle></a><a href="/variants/s13/r2g2r12db10lb3g10r2g2r2g10r12g2r2/"><circle cx="220.7" cy="204.4" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1~x2/"><circle cx="237.0" cy="206.1" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1/"><circle cx="237.0" cy="206.1" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><a href="/variants/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4/"><circle cx="217.3" cy="208.5" r="4" fill="#3465a4"><title>Grant of Ballindalloch (Personal)</title></circle></a><a href="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/"><circle cx="211.1" cy="175.8" r="4" fill="#3465a4"><title>MacKinnon #3</title></circle></a><a href="/variants/s17/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6/"><circle cx="196.8" cy="180.0" r="4" fill="#3465a4"><title>Reid of Straloch (Personal)</title></circle></a><a href="/variants/s11/w2r4g8r16lb2r3g16r4lb2r4w2~x2/"><circle cx="272.8" cy="192.6" r="4" fill="#3465a4"><title>MacKinnon #10</title></circle></a><a href="/variants/s12/r3g3r3g14r3g3r3db5r18y2r8y2~x2/"><circle cx="325.7" cy="186.5" r="4" fill="#3465a4"><title>Burns</title></circle></a><circle cx="226.3" cy="202.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r2g2r12db10w3g10r2g2r2g10r12g2r2/"><circle cx="212.9" cy="202.4" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><a href="/variants/s13/r2g2r12db10lb3g10r2g2r2g10r12g2r2~x2/"><circle cx="220.8" cy="204.9" r="4" fill="#3465a4"><title>Matheson (Logan 1831)</title></circle></a><a href="/variants/s13/r2g2r12db10lb3g10r2g2r2g10r12g2r2/"><circle cx="220.8" cy="204.9" r="4" fill="#3465a4"><title>Matheson N</title></circle></a><a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1~x2/"><circle cx="237.1" cy="206.6" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1/"><circle cx="237.1" cy="206.6" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><a href="/variants/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4/"><circle cx="217.4" cy="209.0" r="4" fill="#3465a4"><title>Grant of Ballindalloch (Personal)</title></circle></a><a href="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/"><circle cx="211.2" cy="176.3" r="4" fill="#3465a4"><title>MacKinnon #3</title></circle></a><a href="/variants/s17/r1g1r6db2r1g1w1g6r2db6w1db1r1g2r6g1r1~x6/"><circle cx="196.9" cy="180.5" r="4" fill="#3465a4"><title>Reid of Straloch (Personal)</title></circle></a><a href="/variants/s11/w2r4g8r16lb2r3g16r4lb2r4w2~x2/"><circle cx="272.9" cy="193.1" r="4" fill="#3465a4"><title>MacKinnon #10</title></circle></a><a href="/variants/s12/r3g3r3g14r3g3r3db5r18y2r8y2~x2/"><circle cx="325.8" cy="186.9" r="4" fill="#3465a4"><title>Burns</title></circle></a><circle cx="226.4" cy="203.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r1w1r6db3r1g6r1g6r6db1r1w1~x2/

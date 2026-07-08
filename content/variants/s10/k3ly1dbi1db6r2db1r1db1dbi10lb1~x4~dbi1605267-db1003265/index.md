@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ertico"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3ly1dbi1db6r2db1r1db1dbi10lb1/)
 (the same proportion at any scale), whose colour order is pattern [KYBBRBRBBW](/stripes/kybbrbrbbw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11494
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11494](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11494)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2~db1406275-w4000000/"><circle cx="164.5" cy="140.0" r="4" fill="#3465a4"><title>Asman Hunting (Personal)</title></circle></a><a href="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2/"><circle cx="158.2" cy="138.9" r="4" fill="#3465a4"><title>Asman Hunting (Name)</title></circle></a><a href="/variants/s10/k3g1dr1db6n2db1n1db1dr10w1~x4/"><circle cx="178.0" cy="140.1" r="4" fill="#3465a4"><title>Crieff Primary School</title></circle></a><a href="/variants/s9/db1w2t12k2db2k2dp15db2y1~x2/"><circle cx="167.7" cy="120.5" r="4" fill="#3465a4"><title>Hek Family (Sunningdale, Berwick on Tweed)</title></circle></a><a href="/variants/s9/k3dp16g5dp3b2dp2k12db23w2~x2/"><circle cx="147.2" cy="148.3" r="4" fill="#3465a4"><title>Creiff Highland Gathering</title></circle></a><a href="/variants/s11/db6g3db3w2db5k2db3k2dp16r3k2~x2/"><circle cx="130.6" cy="150.1" r="4" fill="#3465a4"><title>Pearl O' the Tay (Corporate)</title></circle></a><a href="/variants/s9/db46y4db4y4db6k16n66lb11r6/"><circle cx="204.7" cy="122.7" r="4" fill="#3465a4"><title>Scottish Association for Neurological Sciences</title></circle></a><a href="/variants/s8/db10r1db1r1db1k6y9t2~x2/"><circle cx="159.3" cy="165.4" r="4" fill="#3465a4"><title>Antique 2000</title></circle></a><a href="/variants/s9/w3db25dr3r3dr3r5g10dr3k2~x2/"><circle cx="171.7" cy="127.5" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/variants/s10/n1r1n7k3n1k1n1k1db9y1~x4/"><circle cx="189.6" cy="158.4" r="4" fill="#3465a4"><title>Brady 60th, Keith James (Personal)</title></circle></a><circle cx="178.9" cy="143.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2~db1406275-w4000000/"><circle cx="164.5" cy="140.2" r="4" fill="#3465a4"><title>Asman Hunting (Personal)</title></circle></a><a href="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2/"><circle cx="158.2" cy="139.2" r="4" fill="#3465a4"><title>Asman Hunting (Name)</title></circle></a><a href="/variants/s10/k3g1dr1db6n2db1n1db1dr10w1~x4/"><circle cx="178.0" cy="140.2" r="4" fill="#3465a4"><title>Crieff Primary School</title></circle></a><a href="/variants/s9/db1w2t12k2db2k2dp15db2y1~x2/"><circle cx="167.6" cy="120.7" r="4" fill="#3465a4"><title>Hek Family (Sunningdale, Berwick on Tweed)</title></circle></a><a href="/variants/s9/k3dp16g5dp3b2dp2k12db23w2~x2/"><circle cx="147.1" cy="148.4" r="4" fill="#3465a4"><title>Creiff Highland Gathering</title></circle></a><a href="/variants/s11/db6g3db3w2db5k2db3k2dp16r3k2~x2/"><circle cx="130.5" cy="150.3" r="4" fill="#3465a4"><title>Pearl O' the Tay (Corporate)</title></circle></a><a href="/variants/s9/db46y4db4y4db6k16n66lb11r6/"><circle cx="204.6" cy="122.8" r="4" fill="#3465a4"><title>Scottish Association for Neurological Sciences</title></circle></a><a href="/variants/s8/db10r1db1r1db1k6y9t2~x2/"><circle cx="159.2" cy="165.8" r="4" fill="#3465a4"><title>Antique 2000</title></circle></a><a href="/variants/s9/w3db25dr3r3dr3r5g10dr3k2~x2/"><circle cx="171.7" cy="127.8" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/variants/s10/n1r1n7k3n1k1n1k1db9y1~x4/"><circle cx="189.6" cy="158.7" r="4" fill="#3465a4"><title>Brady 60th, Keith James (Personal)</title></circle></a><circle cx="178.8" cy="143.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k3ly1dbi1db6r2db1r1db1dbi10lb1~x4~dbi1605267-db1003265/

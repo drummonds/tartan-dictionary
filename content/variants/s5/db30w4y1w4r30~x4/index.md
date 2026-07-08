@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Philippine Heritage"
   url: "/tartans/philippine-heritage/"
+- name: "Philippine Heritage"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db30w4y1w4r30/)
 (the same proportion at any scale), whose colour order is pattern [BWGWR](/stripes/bwgwr/).
@@ -14,7 +16,7 @@ Part of the [Philippine Heritage](/tartans/philippine-heritage/) tartan — the 
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10660
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10660](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10660)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db30w4ly1w4r30~x4/"><circle cx="293.4" cy="159.8" r="4" fill="#3465a4"><title>Philippine Heritage (Corporate)</title></circle></a><a href="/variants/s7/lb4y1r28db24k5lb5k3~x4/"><circle cx="207.9" cy="116.8" r="4" fill="#3465a4"><title>McKnight #2 (Personal)</title></circle></a><a href="/variants/s5/b86g3r3g6r85~x2/"><circle cx="407.8" cy="181.6" r="4" fill="#3465a4"><title>MacNab 2</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="298.2" cy="158.0" r="4" fill="#3465a4"><title>Tartan Lassie (Fashion)</title></circle></a><a href="/variants/s4/r31db33g12w2~x2/"><circle cx="257.6" cy="223.0" r="4" fill="#3465a4"><title>Manor of Wrentnall (Personal)</title></circle></a><a href="/variants/s4/r31db33dg12w2~x2/"><circle cx="266.0" cy="224.2" r="4" fill="#3465a4"><title>Manor of Wrentnall (Personal)</title></circle></a><a href="/variants/s6/r40db15k2dp1db15k6~x2/"><circle cx="313.6" cy="119.7" r="4" fill="#3465a4"><title>Double Elvis Gallery (Corporate)</title></circle></a><a href="/variants/s6/r80db30k3dp2db30k12/"><circle cx="317.4" cy="119.0" r="4" fill="#3465a4"><title>Double Elvis Gallery</title></circle></a><a href="/variants/s6/k1r7k1r7db16g1~x4/"><circle cx="282.1" cy="158.1" r="4" fill="#3465a4"><title>Robinson Dress (Pendleton) #1</title></circle></a><a href="/variants/s6/k1r7k1r7db16g1~x2/"><circle cx="282.1" cy="158.1" r="4" fill="#3465a4"><title>Robinson, dress</title></circle></a><circle cx="294.4" cy="160.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db30w4ly1w4r30~x4/"><circle cx="293.5" cy="160.3" r="4" fill="#3465a4"><title>Philippine Heritage (Corporate)</title></circle></a><a href="/variants/s7/lb4y1r28db24k5lb5k3~x4/"><circle cx="207.8" cy="117.1" r="4" fill="#3465a4"><title>McKnight #2 (Personal)</title></circle></a><a href="/variants/s5/b86g3r3g6r85~x2/"><circle cx="407.9" cy="182.0" r="4" fill="#3465a4"><title>MacNab 2</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="298.2" cy="158.4" r="4" fill="#3465a4"><title>Tartan Lassie (Fashion)</title></circle></a><a href="/variants/s4/r31db33g12w2~x2/"><circle cx="257.7" cy="223.6" r="4" fill="#3465a4"><title>Manor of Wrentnall (Personal)</title></circle></a><a href="/variants/s4/r31db33dg12w2~x2/"><circle cx="266.1" cy="224.7" r="4" fill="#3465a4"><title>Manor of Wrentnall (Personal)</title></circle></a><a href="/variants/s6/r40db15k2dp1db15k6~x2/"><circle cx="313.6" cy="120.0" r="4" fill="#3465a4"><title>Double Elvis Gallery (Corporate)</title></circle></a><a href="/variants/s6/r80db30k3dp2db30k12/"><circle cx="317.3" cy="119.3" r="4" fill="#3465a4"><title>Double Elvis Gallery</title></circle></a><a href="/variants/s6/k1r7k1r7db16g1~x4/"><circle cx="282.1" cy="158.5" r="4" fill="#3465a4"><title>Robinson Dress (Pendleton) #1</title></circle></a><a href="/variants/s6/k1r7k1r7db16g1~x2/"><circle cx="282.1" cy="158.5" r="4" fill="#3465a4"><title>Robinson, dress</title></circle></a><circle cx="294.4" cy="160.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db30w4y1w4r30~x4/

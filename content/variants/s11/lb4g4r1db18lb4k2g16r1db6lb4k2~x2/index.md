@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Coopers & Lybrand"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb4g4r1db18lb4k2g16r1db6lb4k2/)
 (the same proportion at any scale), whose colour order is pattern [KWBRGKWBRGW](/stripes/kwbrgkwbrgw/).
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb4g4r1db24lb4k2g24r1db10lb4db2~x2/"><circle cx="226.9" cy="111.1" r="4" fill="#3465a4"><title>Coopers &amp; Lybrand</title></circle></a><a href="/variants/s12/k2t11k1t2k1t11k2db14k2g14k1r2~x2/"><circle cx="152.1" cy="138.7" r="4" fill="#3465a4"><title>Brown Ellis (Personal)</title></circle></a><a href="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/"><circle cx="153.7" cy="111.2" r="4" fill="#3465a4"><title>Ellis (Welsh Name)</title></circle></a><a href="/variants/s9/g40k8g4k8g4dr14b64lb9b3/"><circle cx="215.3" cy="122.9" r="4" fill="#3465a4"><title>West Lothian/Linlithgowshire</title></circle></a><a href="/variants/s9/w3ly2g8k2ly3k2db15k1ly2~x4/"><circle cx="138.2" cy="136.7" r="4" fill="#3465a4"><title>MacManus (Estimated threadcount)</title></circle></a><a href="/variants/s9/w3ly2g8ly2k3ly2db15k1ly2~x4/"><circle cx="143.2" cy="139.1" r="4" fill="#3465a4"><title>MacManus</title></circle></a><a href="/variants/s9/g40k8g4k8g4dr14db64lb9db3/"><circle cx="213.0" cy="120.8" r="4" fill="#3465a4"><title>West Lothian</title></circle></a><a href="/variants/s9/db24y2k8g16k1g3k1g3r4~x2/"><circle cx="193.0" cy="119.6" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/variants/s14/w4db20k1g2k1g2k4g1w2g1k4g16dp8g1~x2/"><circle cx="135.2" cy="98.6" r="4" fill="#3465a4"><title>St Andrew</title></circle></a><a href="/variants/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/"><circle cx="184.7" cy="102.7" r="4" fill="#3465a4"><title>Rankin</title></circle></a><circle cx="164.8" cy="129.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb4g4r1db24lb4k2g24r1db10lb4db2~x2/"><circle cx="226.8" cy="111.3" r="4" fill="#3465a4"><title>Coopers &amp; Lybrand</title></circle></a><a href="/variants/s12/k2t11k1t2k1t11k2db14k2g14k1r2~x2/"><circle cx="152.1" cy="138.9" r="4" fill="#3465a4"><title>Brown Ellis (Personal)</title></circle></a><a href="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/"><circle cx="153.6" cy="111.5" r="4" fill="#3465a4"><title>Ellis (Welsh Name)</title></circle></a><a href="/variants/s9/g40k8g4k8g4dr14b64lb9b3/"><circle cx="215.3" cy="123.1" r="4" fill="#3465a4"><title>West Lothian/Linlithgowshire</title></circle></a><a href="/variants/s9/w3ly2g8k2ly3k2db15k1ly2~x4/"><circle cx="138.1" cy="137.0" r="4" fill="#3465a4"><title>MacManus (Estimated threadcount)</title></circle></a><a href="/variants/s9/w3ly2g8ly2k3ly2db15k1ly2~x4/"><circle cx="143.2" cy="139.4" r="4" fill="#3465a4"><title>MacManus</title></circle></a><a href="/variants/s9/g40k8g4k8g4dr14db64lb9db3/"><circle cx="212.9" cy="121.0" r="4" fill="#3465a4"><title>West Lothian</title></circle></a><a href="/variants/s9/db24y2k8g16k1g3k1g3r4~x2/"><circle cx="192.9" cy="119.8" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/variants/s14/w4db20k1g2k1g2k4g1w2g1k4g16dp8g1~x2/"><circle cx="135.1" cy="98.7" r="4" fill="#3465a4"><title>St Andrew</title></circle></a><a href="/variants/s16/db36g10r2g10w2g10r2g10k14r2db12r3db2r2db4w2~x2/"><circle cx="184.6" cy="102.9" r="4" fill="#3465a4"><title>Rankin</title></circle></a><circle cx="164.8" cy="129.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/lb4g4r1db18lb4k2g16r1db6lb4k2~x2/

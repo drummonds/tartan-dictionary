@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified 17"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db16o2db16o19r4/)
 (the same proportion at any scale), whose colour order is pattern [BRBRR](/stripes/brbrr/).
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/"><circle cx="318.5" cy="193.7" r="4" fill="#3465a4"><title>Dege, of Saville Row</title></circle></a><a href="/variants/s5/db20k5db18lo26k6~x2/"><circle cx="206.4" cy="260.8" r="4" fill="#3465a4"><title>Johore Regiment (Military)</title></circle></a><a href="/variants/s6/db18y2o6y2o19r3~x2/"><circle cx="312.6" cy="216.9" r="4" fill="#3465a4"><title>Balfour blue &amp; brown</title></circle></a><a href="/variants/s6/o15r5o30db32o4y3~x2/"><circle cx="339.6" cy="214.7" r="4" fill="#3465a4"><title>Cameron, hunting</title></circle></a><a href="/variants/s6/do15r5do30db32do4lo3~x2/"><circle cx="388.4" cy="235.6" r="4" fill="#3465a4"><title>Cameron Hunting (Clan)</title></circle></a><a href="/variants/s5/lo1db6k5db6lb1~x6~db1406275-lb3300000/"><circle cx="287.2" cy="239.9" r="4" fill="#3465a4"><title>Bank of Scotland (1995)</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4~db1406275-dy1603076/"><circle cx="282.7" cy="220.6" r="4" fill="#3465a4"><title>Ancient Atlantic</title></circle></a><a href="/variants/s5/r1o8r2db8lb1~x2/"><circle cx="244.0" cy="229.6" r="4" fill="#3465a4"><title>Unamed, Riding cloak 1745</title></circle></a><a href="/variants/s6/db11r4y9db4y2db11~x2/"><circle cx="346.5" cy="282.3" r="4" fill="#3465a4"><title>Unidentified Sample</title></circle></a><a href="/variants/s5/db7y1db7lb11r2~x6/"><circle cx="263.2" cy="229.8" r="4" fill="#3465a4"><title>Brazell (Personal)</title></circle></a><circle cx="341.7" cy="257.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/"><circle cx="318.5" cy="194.2" r="4" fill="#3465a4"><title>Dege, of Saville Row</title></circle></a><a href="/variants/s5/db20k5db18lo26k6~x2/"><circle cx="206.6" cy="261.6" r="4" fill="#3465a4"><title>Johore Regiment (Military)</title></circle></a><a href="/variants/s6/db18y2o6y2o19r3~x2/"><circle cx="312.7" cy="217.4" r="4" fill="#3465a4"><title>Balfour blue &amp; brown</title></circle></a><a href="/variants/s6/o15r5o30db32o4y3~x2/"><circle cx="339.7" cy="215.1" r="4" fill="#3465a4"><title>Cameron, hunting</title></circle></a><a href="/variants/s6/do15r5do30db32do4lo3~x2/"><circle cx="388.5" cy="235.9" r="4" fill="#3465a4"><title>Cameron Hunting (Clan)</title></circle></a><a href="/variants/s5/lo1db6k5db6lb1~x6~db1406275-lb3300000/"><circle cx="287.3" cy="240.6" r="4" fill="#3465a4"><title>Bank of Scotland (1995)</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4~db1406275-dy1603076/"><circle cx="282.8" cy="221.1" r="4" fill="#3465a4"><title>Ancient Atlantic</title></circle></a><a href="/variants/s5/r1o8r2db8lb1~x2/"><circle cx="244.1" cy="230.2" r="4" fill="#3465a4"><title>Unamed, Riding cloak 1745</title></circle></a><a href="/variants/s6/db11r4y9db4y2db11~x2/"><circle cx="346.6" cy="283.0" r="4" fill="#3465a4"><title>Unidentified Sample</title></circle></a><a href="/variants/s5/db7y1db7lb11r2~x6/"><circle cx="263.4" cy="230.4" r="4" fill="#3465a4"><title>Brazell (Personal)</title></circle></a><circle cx="341.9" cy="258.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db16o2db16o19r4~x3/

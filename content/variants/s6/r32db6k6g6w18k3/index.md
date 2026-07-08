@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rose, White dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r32db6k6g6w18k3/)
 (the same proportion at any scale), whose colour order is pattern [KWGKBR](/stripes/kwgkbr/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="176.8" cy="157.9" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s6/r48db16y5g17w8k3~x2/"><circle cx="205.7" cy="134.2" r="4" fill="#3465a4"><title>Scottish American Society of Michigan (Official)</title></circle></a><a href="/variants/s5/k3r28k10w28lb3~x2/"><circle cx="161.2" cy="192.4" r="4" fill="#3465a4"><title>Wallace Dress, Red (Dance)</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="136.7" cy="179.4" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, dress</title></circle></a><a href="/variants/s6/y5k2g4lb18r25w5~x2/"><circle cx="181.5" cy="158.1" r="4" fill="#3465a4"><title>Christie (London)</title></circle></a><a href="/variants/s6/lo13t8r5k3w2g1~x4/"><circle cx="134.8" cy="160.1" r="4" fill="#3465a4"><title>Ball (Name)</title></circle></a><a href="/variants/s6/lo13t8r5k3w2g1~x4~r2109032/"><circle cx="134.4" cy="160.2" r="4" fill="#3465a4"><title>Ball</title></circle></a><a href="/variants/s5/r44g6k3g16w22/"><circle cx="234.7" cy="183.7" r="4" fill="#3465a4"><title>Basque (Corporate)</title></circle></a><a href="/variants/s5/dg4lb4k2r15ly4~x4/"><circle cx="206.7" cy="190.6" r="4" fill="#3465a4"><title>Benedict (Personal)</title></circle></a><a href="/variants/s6/k3r11db3w1db3w1~x4/"><circle cx="226.4" cy="167.1" r="4" fill="#3465a4"><title>Suntan (Masai Shuka) (District?)</title></circle></a><circle cx="160.7" cy="161.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="176.8" cy="158.4" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s6/r48db16y5g17w8k3~x2/"><circle cx="205.7" cy="134.5" r="4" fill="#3465a4"><title>Scottish American Society of Michigan (Official)</title></circle></a><a href="/variants/s5/k3r28k10w28lb3~x2/"><circle cx="161.3" cy="193.1" r="4" fill="#3465a4"><title>Wallace Dress, Red (Dance)</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="136.7" cy="180.0" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, dress</title></circle></a><a href="/variants/s6/y5k2g4lb18r25w5~x2/"><circle cx="181.5" cy="158.5" r="4" fill="#3465a4"><title>Christie (London)</title></circle></a><a href="/variants/s6/lo13t8r5k3w2g1~x4/"><circle cx="134.8" cy="160.6" r="4" fill="#3465a4"><title>Ball (Name)</title></circle></a><a href="/variants/s6/lo13t8r5k3w2g1~x4~r2109032/"><circle cx="134.4" cy="160.7" r="4" fill="#3465a4"><title>Ball</title></circle></a><a href="/variants/s5/r44g6k3g16w22/"><circle cx="234.8" cy="184.3" r="4" fill="#3465a4"><title>Basque (Corporate)</title></circle></a><a href="/variants/s5/dg4lb4k2r15ly4~x4/"><circle cx="206.8" cy="191.2" r="4" fill="#3465a4"><title>Benedict (Personal)</title></circle></a><a href="/variants/s6/k3r11db3w1db3w1~x4/"><circle cx="226.4" cy="167.6" r="4" fill="#3465a4"><title>Suntan (Masai Shuka) (District?)</title></circle></a><circle cx="160.7" cy="161.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r32db6k6g6w18k3/

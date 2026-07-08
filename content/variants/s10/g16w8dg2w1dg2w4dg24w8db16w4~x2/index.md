@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Spirit of Pakistan, The"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g16w8dg2w1dg2w4dg24w8db16w4/)
 (the same proportion at any scale), whose colour order is pattern [GWGWGWGWBW](/stripes/gwgwgwgwbw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10948
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10948](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10948)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/"><circle cx="248.4" cy="190.4" r="4" fill="#3465a4"><title>Norwich No.052</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/"><circle cx="251.6" cy="192.5" r="4" fill="#3465a4"><title>Unidentified No 52</title></circle></a><a href="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/"><circle cx="205.9" cy="205.0" r="4" fill="#3465a4"><title>Bannockbane Hunting (MacBean and Bishop)</title></circle></a><a href="/variants/s11/db2w5db5g11w5dg12lb1dg2lb26dg2db2~x2/"><circle cx="198.3" cy="140.6" r="4" fill="#3465a4"><title>Chalk (Personal)</title></circle></a><a href="/variants/s8/db4w2db1w18dg18g18y3g4~x2/"><circle cx="166.5" cy="179.4" r="4" fill="#3465a4"><title>Gigha, Green (Dance)</title></circle></a><a href="/variants/s9/w3db19w1lb17y11g10w1db3w1~x2/"><circle cx="176.5" cy="170.2" r="4" fill="#3465a4"><title>Bird Family (Australia) (Personal)</title></circle></a><a href="/variants/s7/dr5w36dp14dr9g28dr8dp2~x2/"><circle cx="192.7" cy="197.8" r="4" fill="#3465a4"><title>MacKintosh (Artefact)</title></circle></a><a href="/variants/s9/g22dr2g4dr2g4dr18w24dr1lo3~x2/"><circle cx="233.5" cy="164.2" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><a href="/variants/s8/dg3lo2dg30w18ly1dt30ly2dt3~x2/"><circle cx="236.2" cy="145.6" r="4" fill="#3465a4"><title>Bannockbane Green</title></circle></a><a href="/variants/s8/g2dy10g11y4dy1w18g2dy1~x2/"><circle cx="211.9" cy="183.9" r="4" fill="#3465a4"><title>Aviemore Check District Tartan</title></circle></a><circle cx="191.5" cy="177.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/"><circle cx="248.4" cy="190.8" r="4" fill="#3465a4"><title>Norwich No.052</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/"><circle cx="251.6" cy="192.9" r="4" fill="#3465a4"><title>Unidentified No 52</title></circle></a><a href="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/"><circle cx="206.0" cy="205.5" r="4" fill="#3465a4"><title>Bannockbane Hunting (MacBean and Bishop)</title></circle></a><a href="/variants/s11/db2w5db5g11w5dg12lb1dg2lb26dg2db2~x2/"><circle cx="198.3" cy="140.8" r="4" fill="#3465a4"><title>Chalk (Personal)</title></circle></a><a href="/variants/s8/db4w2db1w18dg18g18y3g4~x2/"><circle cx="166.5" cy="179.8" r="4" fill="#3465a4"><title>Gigha, Green (Dance)</title></circle></a><a href="/variants/s9/w3db19w1lb17y11g10w1db3w1~x2/"><circle cx="176.5" cy="170.5" r="4" fill="#3465a4"><title>Bird Family (Australia) (Personal)</title></circle></a><a href="/variants/s7/dr5w36dp14dr9g28dr8dp2~x2/"><circle cx="192.8" cy="198.3" r="4" fill="#3465a4"><title>MacKintosh (Artefact)</title></circle></a><a href="/variants/s9/g22dr2g4dr2g4dr18w24dr1lo3~x2/"><circle cx="233.5" cy="164.6" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><a href="/variants/s8/dg3lo2dg30w18ly1dt30ly2dt3~x2/"><circle cx="236.2" cy="145.8" r="4" fill="#3465a4"><title>Bannockbane Green</title></circle></a><a href="/variants/s8/g2dy10g11y4dy1w18g2dy1~x2/"><circle cx="212.0" cy="184.4" r="4" fill="#3465a4"><title>Aviemore Check District Tartan</title></circle></a><circle cx="191.5" cy="178.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g16w8dg2w1dg2w4dg24w8db16w4~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Blackstock Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2r7k6g12y1g1k2/)
 (the same proportion at any scale), whose colour order is pattern [KGGGKRK](/stripes/kgggkrk/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=288
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=288](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=288)
 
 ## Provenance
 
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k6r2k2r2k6db7g20ly2g3r2~x2/"><circle cx="153.0" cy="143.1" r="4" fill="#3465a4"><title>Connolly Hunting (Name)</title></circle></a><a href="/variants/s6/g21w2g4k17dr14k3~x2/"><circle cx="172.8" cy="202.5" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s6/g21w2g4k17dr14k3/"><circle cx="172.8" cy="202.5" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s6/k4r5k2y21g8k2~x2/"><circle cx="230.6" cy="181.5" r="4" fill="#3465a4"><title>MacDuck (Corporate)</title></circle></a><a href="/variants/s8/k7r3k27g27y3g3y3g3~x2/"><circle cx="206.4" cy="164.9" r="4" fill="#3465a4"><title>Brunton (Personal)</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3~x2/"><circle cx="157.0" cy="206.4" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3/"><circle cx="157.0" cy="206.4" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s7/dg12g6dg6r15k1r1k2~x2/"><circle cx="222.5" cy="174.9" r="4" fill="#3465a4"><title>Cook (Name)</title></circle></a><a href="/variants/s6/g3dr22lb5g10k10g2~x2/"><circle cx="185.1" cy="195.9" r="4" fill="#3465a4"><title>Strathspey (Fashion)</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="147.0" cy="148.2" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><circle cx="175.4" cy="171.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k6r2k2r2k6db7g20ly2g3r2~x2/"><circle cx="152.9" cy="143.4" r="4" fill="#3465a4"><title>Connolly Hunting (Name)</title></circle></a><a href="/variants/s6/g21w2g4k17dr14k3~x2/"><circle cx="172.9" cy="203.1" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s6/g21w2g4k17dr14k3/"><circle cx="172.9" cy="203.1" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s6/k4r5k2y21g8k2~x2/"><circle cx="230.7" cy="182.0" r="4" fill="#3465a4"><title>MacDuck (Corporate)</title></circle></a><a href="/variants/s8/k7r3k27g27y3g3y3g3~x2/"><circle cx="206.4" cy="165.4" r="4" fill="#3465a4"><title>Brunton (Personal)</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3~x2/"><circle cx="157.0" cy="206.9" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3/"><circle cx="157.0" cy="206.9" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s7/dg12g6dg6r15k1r1k2~x2/"><circle cx="222.5" cy="175.3" r="4" fill="#3465a4"><title>Cook (Name)</title></circle></a><a href="/variants/s6/g3dr22lb5g10k10g2~x2/"><circle cx="185.1" cy="196.5" r="4" fill="#3465a4"><title>Strathspey (Fashion)</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="147.0" cy="148.6" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><circle cx="175.4" cy="171.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k2r7k6g12y1g1k2~x4/

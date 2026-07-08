@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacKintosh/MacPherson"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r36g8y1k6lb4k1lb1k1lb4r11w1k1r1/)
 (the same proportion at any scale), whose colour order is pattern [RGGKWKWKWRWKR](/stripes/rggkwkwkwrwkr/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2577
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2577](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2577)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g7r122db17r12k12y3k4w3g48r16k4r6w5/"><circle cx="318.5" cy="28.5" r="4" fill="#3465a4"><title>Stuart/Stewart of Rothesay</title></circle></a><a href="/variants/s11/y1k1db2w1y1t3r31k2y5k2t1~x2~db1204274-t2205244/"><circle cx="341.5" cy="34.6" r="4" fill="#3465a4"><title>Scottish Banner, The</title></circle></a><a href="/variants/s14/g2r30db4r4k6y1k1w1k1g10r4k1r1w1~x2/"><circle cx="281.1" cy="35.0" r="4" fill="#3465a4"><title>Stuart/Stewart</title></circle></a><a href="/variants/s12/r46w2r2w3r2k3db7k2dy2r2g8w3~x2/"><circle cx="318.6" cy="41.9" r="4" fill="#3465a4"><title>Lions' Pride</title></circle></a><a href="/variants/s12/r36db4k6y1k1w1k1g8r4k1r2w1/"><circle cx="331.8" cy="24.5" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/variants/s12/r36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="331.8" cy="24.5" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/variants/s12/r87db8k11y2k3w2k3g13r11k2r5w3/"><circle cx="379.1" cy="14.0" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal</title></circle></a><a href="/variants/s12/r134lb10k14y2k3w3k3dg21r11k3r4w2/"><circle cx="411.8" cy="14.0" r="4" fill="#3465a4"><title>Royal Stewart - 1819</title></circle></a><a href="/variants/s13/r60k1r2y1g6db6r2o3r2db6g6y1k5~x2/"><circle cx="381.5" cy="14.0" r="4" fill="#3465a4"><title>Day (2016)</title></circle></a><a href="/variants/s12/r68n5k9y3k3lb3k3dg20r9k3r5lb4/"><circle cx="301.7" cy="50.1" r="4" fill="#3465a4"><title>British Caledonian Airways #4</title></circle></a><circle cx="324.6" cy="28.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g7r122db17r12k12y3k4w3g48r16k4r6w5/"><circle cx="318.3" cy="28.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Rothesay</title></circle></a><a href="/variants/s11/y1k1db2w1y1t3r31k2y5k2t1~x2~db1204274-t2205244/"><circle cx="341.3" cy="34.7" r="4" fill="#3465a4"><title>Scottish Banner, The</title></circle></a><a href="/variants/s14/g2r30db4r4k6y1k1w1k1g10r4k1r1w1~x2/"><circle cx="281.0" cy="35.1" r="4" fill="#3465a4"><title>Stuart/Stewart</title></circle></a><a href="/variants/s12/r46w2r2w3r2k3db7k2dy2r2g8w3~x2/"><circle cx="318.5" cy="42.0" r="4" fill="#3465a4"><title>Lions' Pride</title></circle></a><a href="/variants/s12/r36db4k6y1k1w1k1g8r4k1r2w1/"><circle cx="331.6" cy="24.6" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/variants/s12/r36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="331.6" cy="24.6" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/variants/s12/r87db8k11y2k3w2k3g13r11k2r5w3/"><circle cx="378.9" cy="14.0" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal</title></circle></a><a href="/variants/s12/r134lb10k14y2k3w3k3dg21r11k3r4w2/"><circle cx="411.6" cy="14.0" r="4" fill="#3465a4"><title>Royal Stewart - 1819</title></circle></a><a href="/variants/s13/r60k1r2y1g6db6r2o3r2db6g6y1k5~x2/"><circle cx="381.3" cy="14.0" r="4" fill="#3465a4"><title>Day (2016)</title></circle></a><a href="/variants/s12/r68n5k9y3k3lb3k3dg20r9k3r5lb4/"><circle cx="301.5" cy="50.2" r="4" fill="#3465a4"><title>British Caledonian Airways #4</title></circle></a><circle cx="324.4" cy="28.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/r36g8y1k6lb4k1lb1k1lb4r11w1k1r1~x2/

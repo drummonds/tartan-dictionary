@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacScott Family (America) (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g23dy5db13g5db5w3db5g5dy9g9/)
 (the same proportion at any scale), whose colour order is pattern [GGBGBWBGGG](/stripes/ggbgbwbggg/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10408
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10408](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10408)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g21db4w4db32g12y4g8r4g6db12/"><circle cx="223.7" cy="196.1" r="4" fill="#3465a4"><title>Harkness Hunting</title></circle></a><a href="/variants/s10/dg14w2db3g7dg2g7db3w2dg14lb2~x4/"><circle cx="255.9" cy="214.1" r="4" fill="#3465a4"><title>Manx Ellan Vannin</title></circle></a><a href="/variants/s10/g3lr3g18db14dr5db14dr5db14g21lr3~x2/"><circle cx="235.1" cy="247.9" r="4" fill="#3465a4"><title>Hamilton (Personal)</title></circle></a><a href="/variants/s10/y14db5g25db5w2g11db7w5g6y5~x2/"><circle cx="275.3" cy="218.6" r="4" fill="#3465a4"><title>Kerry County Crest (Fashion)</title></circle></a><a href="/variants/s6/db8dr4db24g35lb4g8/"><circle cx="318.7" cy="243.1" r="4" fill="#3465a4"><title>Heritage Tartan, The</title></circle></a><a href="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/"><circle cx="296.5" cy="196.3" r="4" fill="#3465a4"><title>Cork Irish County Tartan</title></circle></a><a href="/variants/s8/db3dy7g2y2g14dy2g2db3~x2/"><circle cx="317.3" cy="243.4" r="4" fill="#3465a4"><title>Daks (Loden)</title></circle></a><a href="/variants/s11/y1db8g2db2g6db1g6db2g2db8w1~x4/"><circle cx="311.3" cy="226.7" r="4" fill="#3465a4"><title>Bruce (Personal)</title></circle></a><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16/"><circle cx="307.9" cy="185.8" r="4" fill="#3465a4"><title>Aberlour Bicentenary (Commemorative)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/"><circle cx="277.4" cy="230.0" r="4" fill="#3465a4"><title>Cameron Hunting Clan Tartan</title></circle></a><circle cx="268.2" cy="239.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g21db4w4db32g12y4g8r4g6db12/"><circle cx="223.7" cy="196.5" r="4" fill="#3465a4"><title>Harkness Hunting</title></circle></a><a href="/variants/s10/dg14w2db3g7dg2g7db3w2dg14lb2~x4/"><circle cx="256.0" cy="214.5" r="4" fill="#3465a4"><title>Manx Ellan Vannin</title></circle></a><a href="/variants/s10/g3lr3g18db14dr5db14dr5db14g21lr3~x2/"><circle cx="235.2" cy="248.4" r="4" fill="#3465a4"><title>Hamilton (Personal)</title></circle></a><a href="/variants/s10/y14db5g25db5w2g11db7w5g6y5~x2/"><circle cx="275.4" cy="219.0" r="4" fill="#3465a4"><title>Kerry County Crest (Fashion)</title></circle></a><a href="/variants/s6/db8dr4db24g35lb4g8/"><circle cx="318.8" cy="243.6" r="4" fill="#3465a4"><title>Heritage Tartan, The</title></circle></a><a href="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/"><circle cx="296.5" cy="196.7" r="4" fill="#3465a4"><title>Cork Irish County Tartan</title></circle></a><a href="/variants/s8/db3dy7g2y2g14dy2g2db3~x2/"><circle cx="317.4" cy="243.8" r="4" fill="#3465a4"><title>Daks (Loden)</title></circle></a><a href="/variants/s11/y1db8g2db2g6db1g6db2g2db8w1~x4/"><circle cx="311.4" cy="227.1" r="4" fill="#3465a4"><title>Bruce (Personal)</title></circle></a><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16/"><circle cx="308.0" cy="186.2" r="4" fill="#3465a4"><title>Aberlour Bicentenary (Commemorative)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/"><circle cx="277.5" cy="230.5" r="4" fill="#3465a4"><title>Cameron Hunting Clan Tartan</title></circle></a><circle cx="268.3" cy="240.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/

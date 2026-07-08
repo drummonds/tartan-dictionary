@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Arkansas (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db49ly3dy13db12r4db5k7g26db4r2/)
 (the same proportion at any scale), whose colour order is pattern [BYGBRBKGBR](/stripes/bygbrbkgbr/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8618
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8618](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8618)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><circle cx="247.7" cy="78.7" r="4" fill="#3465a4"><title>Huaumé, Patrick Antoine (Personal)</title></circle></a><a href="/variants/s10/w2g15db8g2db32lb1db8k13r2lb1~x2/"><circle cx="268.5" cy="85.3" r="4" fill="#3465a4"><title>Pilkington (2016)</title></circle></a><a href="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/"><circle cx="295.3" cy="103.1" r="4" fill="#3465a4"><title>Mount Dora</title></circle></a><a href="/variants/s13/r3g1db2g4db30k2db4k2db30g27y3k3w3~x2/"><circle cx="289.4" cy="72.3" r="4" fill="#3465a4"><title>Joss</title></circle></a><a href="/variants/s9/db33k1db5k8g8r2g15y1w2~x2/"><circle cx="247.1" cy="87.7" r="4" fill="#3465a4"><title>Mulcahy (Name)</title></circle></a><a href="/variants/s10/db60lo2db10k9lb2k2dr2k2g28lo3~x2/"><circle cx="301.4" cy="70.7" r="4" fill="#3465a4"><title>Wcwm 9275-1510-1</title></circle></a><a href="/variants/s11/k7ly3db62n16g5n5g5n5g16db16k4/"><circle cx="282.9" cy="110.7" r="4" fill="#3465a4"><title>Polkemmet (Corporate)</title></circle></a><a href="/variants/s8/r3w6r2dg32db36k2db4y2~x2/"><circle cx="241.8" cy="118.5" r="4" fill="#3465a4"><title>Canadian Centennial</title></circle></a><a href="/variants/s10/r4db60g35db4ly4db4dy12db18k3w2~ly3206085-dy1804072/"><circle cx="292.5" cy="75.8" r="4" fill="#3465a4"><title>Fogarty (Tipperary)</title></circle></a><a href="/variants/s8/r3w6r2dg32db36k2db4lo2~x2/"><circle cx="236.4" cy="116.4" r="4" fill="#3465a4"><title>Canadian Centennial (Commemorative)</title></circle></a><circle cx="276.1" cy="102.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><circle cx="247.5" cy="78.7" r="4" fill="#3465a4"><title>Huaumé, Patrick Antoine (Personal)</title></circle></a><a href="/variants/s10/w2g15db8g2db32lb1db8k13r2lb1~x2/"><circle cx="268.4" cy="85.3" r="4" fill="#3465a4"><title>Pilkington (2016)</title></circle></a><a href="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/"><circle cx="295.2" cy="103.1" r="4" fill="#3465a4"><title>Mount Dora</title></circle></a><a href="/variants/s13/r3g1db2g4db30k2db4k2db30g27y3k3w3~x2/"><circle cx="289.3" cy="72.3" r="4" fill="#3465a4"><title>Joss</title></circle></a><a href="/variants/s9/db33k1db5k8g8r2g15y1w2~x2/"><circle cx="247.0" cy="87.8" r="4" fill="#3465a4"><title>Mulcahy (Name)</title></circle></a><a href="/variants/s10/db60lo2db10k9lb2k2dr2k2g28lo3~x2/"><circle cx="301.2" cy="70.7" r="4" fill="#3465a4"><title>Wcwm 9275-1510-1</title></circle></a><a href="/variants/s11/k7ly3db62n16g5n5g5n5g16db16k4/"><circle cx="282.8" cy="110.8" r="4" fill="#3465a4"><title>Polkemmet (Corporate)</title></circle></a><a href="/variants/s8/r3w6r2dg32db36k2db4y2~x2/"><circle cx="241.8" cy="118.6" r="4" fill="#3465a4"><title>Canadian Centennial</title></circle></a><a href="/variants/s10/r4db60g35db4ly4db4dy12db18k3w2~ly3206085-dy1804072/"><circle cx="292.3" cy="75.8" r="4" fill="#3465a4"><title>Fogarty (Tipperary)</title></circle></a><a href="/variants/s8/r3w6r2dg32db36k2db4lo2~x2/"><circle cx="236.3" cy="116.6" r="4" fill="#3465a4"><title>Canadian Centennial (Commemorative)</title></circle></a><circle cx="276.0" cy="103.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db49ly3dy13db12r4db5k7g26db4r2~x2/

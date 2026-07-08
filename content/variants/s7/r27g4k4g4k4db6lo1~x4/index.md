@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacLeay (Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r27g4k4g4k4db6lo1/)
 (the same proportion at any scale), whose colour order is pattern [RGKGKBY](/stripes/rgkgkby/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3437
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3437](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3437)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r28g4k4g4k4lb6y1~x2/"><circle cx="275.8" cy="99.4" r="4" fill="#3465a4"><title>Livingstone MacLay MacLeay</title></circle></a><a href="/variants/s7/w2dp5r34k5n9k12dp1~x2/"><circle cx="252.7" cy="95.3" r="4" fill="#3465a4"><title>Thomson, Reona Ellen (Personal)</title></circle></a><a href="/variants/s6/r97k18w5dr26k18n14/"><circle cx="266.6" cy="124.6" r="4" fill="#3465a4"><title>Bradley University</title></circle></a><a href="/variants/s8/o5k1r2k4r36k23w4y2~x2/"><circle cx="258.6" cy="73.3" r="4" fill="#3465a4"><title>Aberdeen Football Club (1999)</title></circle></a><a href="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/"><circle cx="253.1" cy="99.9" r="4" fill="#3465a4"><title>Motherwell F.C. Fir Park Dress (Spor</title></circle></a><a href="/variants/s8/dg5k1r2k4r36k23w4y2~x2/"><circle cx="257.8" cy="73.9" r="4" fill="#3465a4"><title>Aberdeen F.C.</title></circle></a><a href="/variants/s7/r27db4k4db4k4lb6y1~x4/"><circle cx="271.5" cy="102.2" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><a href="/variants/s7/r30db12k3g12y2g3w2~x2/"><circle cx="203.2" cy="127.8" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><a href="/variants/s6/r25db7r3g13lb1k2~x4/"><circle cx="292.4" cy="129.5" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s11/k5lb2r50k50r5w2r5g42r50k5w2/"><circle cx="232.1" cy="89.1" r="4" fill="#3465a4"><title>MacDonald of Glenaladale - 1772 (Cla</title></circle></a><circle cx="270.0" cy="102.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r28g4k4g4k4lb6y1~x2/"><circle cx="275.8" cy="99.7" r="4" fill="#3465a4"><title>Livingstone MacLay MacLeay</title></circle></a><a href="/variants/s7/w2dp5r34k5n9k12dp1~x2/"><circle cx="252.6" cy="95.6" r="4" fill="#3465a4"><title>Thomson, Reona Ellen (Personal)</title></circle></a><a href="/variants/s6/r97k18w5dr26k18n14/"><circle cx="266.6" cy="125.0" r="4" fill="#3465a4"><title>Bradley University</title></circle></a><a href="/variants/s8/o5k1r2k4r36k23w4y2~x2/"><circle cx="258.4" cy="73.6" r="4" fill="#3465a4"><title>Aberdeen Football Club (1999)</title></circle></a><a href="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/"><circle cx="253.0" cy="100.2" r="4" fill="#3465a4"><title>Motherwell F.C. Fir Park Dress (Spor</title></circle></a><a href="/variants/s8/dg5k1r2k4r36k23w4y2~x2/"><circle cx="257.6" cy="74.1" r="4" fill="#3465a4"><title>Aberdeen F.C.</title></circle></a><a href="/variants/s7/r27db4k4db4k4lb6y1~x4/"><circle cx="271.4" cy="102.5" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><a href="/variants/s7/r30db12k3g12y2g3w2~x2/"><circle cx="203.2" cy="128.1" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><a href="/variants/s6/r25db7r3g13lb1k2~x4/"><circle cx="292.4" cy="129.8" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s11/k5lb2r50k50r5w2r5g42r50k5w2/"><circle cx="232.0" cy="89.4" r="4" fill="#3465a4"><title>MacDonald of Glenaladale - 1772 (Cla</title></circle></a><circle cx="270.0" cy="103.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r27g4k4g4k4db6lo1~x4/

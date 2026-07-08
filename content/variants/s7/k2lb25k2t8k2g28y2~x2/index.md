@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Presley of Lonmay"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2lb25k2t8k2g28y2/)
 (the same proportion at any scale), whose colour order is pattern [GGKBKWK](/stripes/ggkbkwk/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5383
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5383](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5383)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g18k2b2k2lb3k2y6~x4/"><circle cx="213.2" cy="166.1" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/variants/s6/g35k3dbi26k4db4w3~x2~dbi1406275-db1106275/"><circle cx="219.4" cy="168.0" r="4" fill="#3465a4"><title>Pride of Yorkland (Fashion)</title></circle></a><a href="/variants/s8/o2lb14k1g11k2lr2b2k1~x4~o1604043-lr3103019/"><circle cx="148.3" cy="128.5" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s5/db10k3lb65g56y6/"><circle cx="268.2" cy="167.3" r="4" fill="#3465a4"><title>Phoenix Police Honor Guard (Corp.)</title></circle></a><a href="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/"><circle cx="237.8" cy="187.3" r="4" fill="#3465a4"><title>Eeraerts, Laurent (Personal)</title></circle></a><a href="/variants/s7/r3lb2dg20k3db8g2lb2~x2~dg1806142-g2408144/"><circle cx="202.8" cy="152.9" r="4" fill="#3465a4"><title>Royal British Legion (Corporate)</title></circle></a><a href="/variants/s10/lb24k2r2lb2db12g28r4g5lb3g3~x2/"><circle cx="194.8" cy="139.0" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><a href="/variants/s8/k3r1y1lb11g13lb5r1y1~x4/"><circle cx="198.5" cy="151.2" r="4" fill="#3465a4"><title>Snodgrass (Clan)</title></circle></a><a href="/variants/s7/r4lb38k4lb6k41g62ly4/"><circle cx="155.3" cy="147.5" r="4" fill="#3465a4"><title>Bennett, John Paul (Personal)</title></circle></a><a href="/variants/s6/k1y1db8g10lb7w1~x2/"><circle cx="118.6" cy="178.9" r="4" fill="#3465a4"><title>Porteous</title></circle></a><circle cx="196.7" cy="156.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g18k2b2k2lb3k2y6~x4/"><circle cx="213.2" cy="166.5" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/variants/s6/g35k3dbi26k4db4w3~x2~dbi1406275-db1106275/"><circle cx="219.4" cy="168.4" r="4" fill="#3465a4"><title>Pride of Yorkland (Fashion)</title></circle></a><a href="/variants/s8/o2lb14k1g11k2lr2b2k1~x4~o1604043-lr3103019/"><circle cx="148.2" cy="128.8" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s5/db10k3lb65g56y6/"><circle cx="268.2" cy="167.6" r="4" fill="#3465a4"><title>Phoenix Police Honor Guard (Corp.)</title></circle></a><a href="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/"><circle cx="237.9" cy="187.7" r="4" fill="#3465a4"><title>Eeraerts, Laurent (Personal)</title></circle></a><a href="/variants/s7/r3lb2dg20k3db8g2lb2~x2~dg1806142-g2408144/"><circle cx="202.8" cy="153.2" r="4" fill="#3465a4"><title>Royal British Legion (Corporate)</title></circle></a><a href="/variants/s10/lb24k2r2lb2db12g28r4g5lb3g3~x2/"><circle cx="194.8" cy="139.3" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><a href="/variants/s8/k3r1y1lb11g13lb5r1y1~x4/"><circle cx="198.5" cy="151.6" r="4" fill="#3465a4"><title>Snodgrass (Clan)</title></circle></a><a href="/variants/s7/r4lb38k4lb6k41g62ly4/"><circle cx="155.2" cy="147.9" r="4" fill="#3465a4"><title>Bennett, John Paul (Personal)</title></circle></a><a href="/variants/s6/k1y1db8g10lb7w1~x2/"><circle cx="118.6" cy="179.4" r="4" fill="#3465a4"><title>Porteous</title></circle></a><circle cx="196.7" cy="156.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k2lb25k2t8k2g28y2~x2/

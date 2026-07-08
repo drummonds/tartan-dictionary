@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tiree, Turquoise (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w42g3db1g2dp1g2w2lb20g1dp2g3db1g2dp1g2w2db3g1db2k1db2lb2/)
 (the same proportion at any scale), whose colour order is pattern [WBKBGBWGBGBGBGWWGBGBGW](/stripes/wbkbgbwgbgbgbgwwgbgbgw/).
 
 Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7598
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7598](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7598)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w63k4lb9y2lb4y2lb4dy11r8lb2r4w5~x2/"><circle cx="171.7" cy="30.7" r="4" fill="#3465a4"><title>Seller, Reproduction Dress</title></circle></a><a href="/variants/s15/w20r4w4r7w132k26db26y6db6w9g83r30k5r7w4/"><circle cx="176.8" cy="43.5" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><a href="/variants/s28/r4k3r15g42w5db3lo3db13k13w66r4w2r2w10r2w2r4w66k13db13lo3db3w5g42r15k3r4w2/"><circle cx="149.9" cy="21.2" r="4" fill="#3465a4"><title>Stewart/Stuart Dress (Four red lines)</title></circle></a><circle cx="229.3" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w63k4lb9y2lb4y2lb4dy11r8lb2r4w5~x2/"><circle cx="171.5" cy="30.8" r="4" fill="#3465a4"><title>Seller, Reproduction Dress</title></circle></a><a href="/variants/s15/w20r4w4r7w132k26db26y6db6w9g83r30k5r7w4/"><circle cx="176.7" cy="43.7" r="4" fill="#3465a4"><title>Stewart dress</title></circle></a><a href="/variants/s28/r4k3r15g42w5db3lo3db13k13w66r4w2r2w10r2w2r4w66k13db13lo3db3w5g42r15k3r4w2/"><circle cx="149.7" cy="21.2" r="4" fill="#3465a4"><title>Stewart/Stuart Dress (Four red lines)</title></circle></a><circle cx="229.1" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s22/w42g3db1g2dp1g2w2lb20g1dp2g3db1g2dp1g2w2db3g1db2k1db2lb2~x2/

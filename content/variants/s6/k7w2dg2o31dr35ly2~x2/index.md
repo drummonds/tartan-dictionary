@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mason (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k7w2dg2o31dr35ly2/)
 (the same proportion at any scale), whose colour order is pattern [KWGRBY](/stripes/kwgrby/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10720
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10720](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10720)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g24db2r25y2k3~x2/"><circle cx="249.0" cy="173.6" r="4" fill="#3465a4"><title>Bronte</title></circle></a><a href="/variants/s5/g24t2r25y2k3~x2/"><circle cx="253.5" cy="175.6" r="4" fill="#3465a4"><title>Bronte (Name)</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="206.8" cy="187.1" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s5/k7db3g28r28y3~x2/"><circle cx="190.7" cy="190.9" r="4" fill="#3465a4"><title>Turnbull, dress</title></circle></a><a href="/variants/s7/k2g6do4lb1r18do5ly1~x4/"><circle cx="235.0" cy="123.1" r="4" fill="#3465a4"><title>Snelgrove (Name)</title></circle></a><a href="/variants/s6/r63w4k4dp18ly4dg50~x2/"><circle cx="221.7" cy="139.0" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Portrait)</title></circle></a><a href="/variants/s6/r48t16ly5g17w8dy3~x2/"><circle cx="252.8" cy="160.1" r="4" fill="#3465a4"><title>Scottish American Soc. of Michigan</title></circle></a><a href="/variants/s6/k7w2g2dr31r35y2~x2/"><circle cx="243.9" cy="125.0" r="4" fill="#3465a4"><title>Mason, David Elsworth (Personal)</title></circle></a><a href="/variants/s6/r48db16y5g17w8k3~x2/"><circle cx="205.7" cy="134.2" r="4" fill="#3465a4"><title>Scottish American Society of Michigan (Official)</title></circle></a><a href="/variants/s6/r60k40y3o5lp3dg12~x2/"><circle cx="220.0" cy="107.9" r="4" fill="#3465a4"><title>Rei Okamoto (Personal)</title></circle></a><circle cx="252.7" cy="137.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g24db2r25y2k3~x2/"><circle cx="249.1" cy="174.1" r="4" fill="#3465a4"><title>Bronte</title></circle></a><a href="/variants/s5/g24t2r25y2k3~x2/"><circle cx="253.6" cy="176.0" r="4" fill="#3465a4"><title>Bronte (Name)</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="206.8" cy="187.6" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s5/k7db3g28r28y3~x2/"><circle cx="190.8" cy="191.4" r="4" fill="#3465a4"><title>Turnbull, dress</title></circle></a><a href="/variants/s7/k2g6do4lb1r18do5ly1~x4/"><circle cx="235.0" cy="123.4" r="4" fill="#3465a4"><title>Snelgrove (Name)</title></circle></a><a href="/variants/s6/r63w4k4dp18ly4dg50~x2/"><circle cx="221.7" cy="139.4" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Portrait)</title></circle></a><a href="/variants/s6/r48t16ly5g17w8dy3~x2/"><circle cx="252.8" cy="160.5" r="4" fill="#3465a4"><title>Scottish American Soc. of Michigan</title></circle></a><a href="/variants/s6/k7w2g2dr31r35y2~x2/"><circle cx="243.8" cy="125.2" r="4" fill="#3465a4"><title>Mason, David Elsworth (Personal)</title></circle></a><a href="/variants/s6/r48db16y5g17w8k3~x2/"><circle cx="205.7" cy="134.5" r="4" fill="#3465a4"><title>Scottish American Society of Michigan (Official)</title></circle></a><a href="/variants/s6/r60k40y3o5lp3dg12~x2/"><circle cx="219.9" cy="108.2" r="4" fill="#3465a4"><title>Rei Okamoto (Personal)</title></circle></a><circle cx="252.7" cy="137.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k7w2dg2o31dr35ly2~x2/

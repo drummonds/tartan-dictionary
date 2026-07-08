@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "City of London"
   url: "/tartans/city-of-london/"
+- name: "City of London"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k5n24w24k5/)
 (the same proportion at any scale), whose colour order is pattern [KBWK](/stripes/kbwk/).
@@ -14,7 +16,7 @@ Part of the [City of London](/tartans/city-of-london/) tartan — the named desi
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10734
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10734](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10734)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/n25k4w8r16~x4/"><circle cx="202.9" cy="248.0" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/variants/s4/n22y10w3k8~x2/"><circle cx="224.2" cy="242.2" r="4" fill="#3465a4"><title>Louisburg Canadian District Tartan</title></circle></a><a href="/variants/s4/k5n24w24r5~x2/"><circle cx="157.3" cy="249.0" r="4" fill="#3465a4"><title>City of London (Corporate)</title></circle></a><a href="/variants/s5/k4w3k4n9r1~x4/"><circle cx="163.6" cy="215.0" r="4" fill="#3465a4"><title>Oban Grey</title></circle></a><a href="/variants/s5/k3w3k3n10dr1~x6/"><circle cx="213.6" cy="200.9" r="4" fill="#3465a4"><title>Greystone (Burberry Grey)</title></circle></a><a href="/variants/s6/r2n20k5w10k10r2~x2/"><circle cx="150.0" cy="189.7" r="4" fill="#3465a4"><title>Thom(p)son, Grey</title></circle></a><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="132.0" cy="218.9" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.2" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/variants/s4/n20w13y24k3~x2/"><circle cx="177.8" cy="258.7" r="4" fill="#3465a4"><title>Spirit of Riverside (Corporate)</title></circle></a><a href="/variants/s6/r4n41k5w14k18r4~x2/"><circle cx="194.7" cy="175.5" r="4" fill="#3465a4"><title>Downside (Corporate)</title></circle></a><circle cx="143.1" cy="244.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/n25k4w8r16~x4/"><circle cx="203.1" cy="248.8" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/variants/s4/n22y10w3k8~x2/"><circle cx="224.3" cy="242.9" r="4" fill="#3465a4"><title>Louisburg Canadian District Tartan</title></circle></a><a href="/variants/s4/k5n24w24r5~x2/"><circle cx="157.5" cy="249.9" r="4" fill="#3465a4"><title>City of London (Corporate)</title></circle></a><a href="/variants/s5/k4w3k4n9r1~x4/"><circle cx="163.7" cy="215.7" r="4" fill="#3465a4"><title>Oban Grey</title></circle></a><a href="/variants/s5/k3w3k3n10dr1~x6/"><circle cx="213.7" cy="201.5" r="4" fill="#3465a4"><title>Greystone (Burberry Grey)</title></circle></a><a href="/variants/s6/r2n20k5w10k10r2~x2/"><circle cx="150.0" cy="190.3" r="4" fill="#3465a4"><title>Thom(p)son, Grey</title></circle></a><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="132.1" cy="219.6" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.8" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/variants/s4/n20w13y24k3~x2/"><circle cx="178.0" cy="259.4" r="4" fill="#3465a4"><title>Spirit of Riverside (Corporate)</title></circle></a><a href="/variants/s6/r4n41k5w14k18r4~x2/"><circle cx="194.7" cy="176.0" r="4" fill="#3465a4"><title>Downside (Corporate)</title></circle></a><circle cx="143.3" cy="245.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/k5n24w24k5~x2/

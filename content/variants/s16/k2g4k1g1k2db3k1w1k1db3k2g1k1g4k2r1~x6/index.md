@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacKean dress Family/Clan Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2g4k1g1k2db3k1w1k1db3k2g1k1g4k2r1/)
 (the same proportion at any scale), whose colour order is pattern [KGKGKBKWKBKGKGKR](/stripes/kgkgkbkwkbkgkgkr/).
 
 Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2339
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2339](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2339)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g6k3g7r3g6k13db13k3db13k13g3w3g6k3r4~x2/"><circle cx="58.1" cy="194.7" r="4" fill="#3465a4"><title>MacRae #2</title></circle></a><a href="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/"><circle cx="85.8" cy="215.0" r="4" fill="#3465a4"><title>Lloyd of Dolobran Family Tartan</title></circle></a><a href="/variants/s18/db9g3db9k4g10r4g10k6g2k7g2k7g2k6g10y4g10k8~x2/"><circle cx="88.1" cy="204.1" r="4" fill="#3465a4"><title>Stuart/Stewart Hunting Plaid</title></circle></a><a href="/variants/s12/g8dy2k6g11r2db12k12r2k6dy2k4r3~x2/"><circle cx="94.5" cy="185.5" r="4" fill="#3465a4"><title>Mandela Commemorative</title></circle></a><a href="/variants/s8/g5r4g19k10g8w4db18r4~x2/"><circle cx="97.0" cy="197.4" r="4" fill="#3465a4"><title>CSCA</title></circle></a><a href="/variants/s13/g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/"><circle cx="118.6" cy="211.9" r="4" fill="#3465a4"><title>Lochinvar Marine Harvest</title></circle></a><a href="/variants/s13/lo3g15k15db15k2db15k15g15dp3g15k15g15lo3~x2/"><circle cx="101.7" cy="198.5" r="4" fill="#3465a4"><title>MacBride</title></circle></a><a href="/variants/s18/db8dy3db3dy3db3dy3db4g4k3g3k3g3k3g13r8g4db3k6~x2/"><circle cx="52.2" cy="198.7" r="4" fill="#3465a4"><title>Not Specified #2</title></circle></a><a href="/variants/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="89.8" cy="170.4" r="4" fill="#3465a4"><title>Gemmell Clan Tartan</title></circle></a><a href="/variants/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/"><circle cx="84.5" cy="169.1" r="4" fill="#3465a4"><title>MacKenzie MINI Clan Miniature Tartan</title></circle></a><circle cx="69.9" cy="200.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g6k3g7r3g6k13db13k3db13k13g3w3g6k3r4~x2/"><circle cx="58.1" cy="195.2" r="4" fill="#3465a4"><title>MacRae #2</title></circle></a><a href="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/"><circle cx="85.9" cy="215.6" r="4" fill="#3465a4"><title>Lloyd of Dolobran Family Tartan</title></circle></a><a href="/variants/s18/db9g3db9k4g10r4g10k6g2k7g2k7g2k6g10y4g10k8~x2/"><circle cx="88.1" cy="204.6" r="4" fill="#3465a4"><title>Stuart/Stewart Hunting Plaid</title></circle></a><a href="/variants/s12/g8dy2k6g11r2db12k12r2k6dy2k4r3~x2/"><circle cx="94.5" cy="186.0" r="4" fill="#3465a4"><title>Mandela Commemorative</title></circle></a><a href="/variants/s8/g5r4g19k10g8w4db18r4~x2/"><circle cx="97.0" cy="197.9" r="4" fill="#3465a4"><title>CSCA</title></circle></a><a href="/variants/s13/g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/"><circle cx="118.7" cy="212.4" r="4" fill="#3465a4"><title>Lochinvar Marine Harvest</title></circle></a><a href="/variants/s13/lo3g15k15db15k2db15k15g15dp3g15k15g15lo3~x2/"><circle cx="101.7" cy="199.0" r="4" fill="#3465a4"><title>MacBride</title></circle></a><a href="/variants/s18/db8dy3db3dy3db3dy3db4g4k3g3k3g3k3g13r8g4db3k6~x2/"><circle cx="52.2" cy="199.2" r="4" fill="#3465a4"><title>Not Specified #2</title></circle></a><a href="/variants/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="89.8" cy="170.8" r="4" fill="#3465a4"><title>Gemmell Clan Tartan</title></circle></a><a href="/variants/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/"><circle cx="84.5" cy="169.6" r="4" fill="#3465a4"><title>MacKenzie MINI Clan Miniature Tartan</title></circle></a><circle cx="70.0" cy="200.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/k2g4k1g1k2db3k1w1k1db3k2g1k1g4k2r1~x6/

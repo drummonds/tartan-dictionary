@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Hay, White Dress"
   url: "/tartans/hay-white-dress/"
+- name: "Hay, White Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r6g4y4g25r4g6r4g6w34g4w4k4r4w6/)
 (the same proportion at any scale), whose colour order is pattern [RGGGRGRGWGWKRW](/stripes/rgggrgrgwgwkrw/).
@@ -14,7 +16,7 @@ Part of the [Hay, White Dress](/tartans/hay-white-dress/) tartan — the named d
 
 Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r3g2y2g14r2g3r2g3w17g2w2k2r2w3~x2/"><circle cx="147.7" cy="111.3" r="4" fill="#3465a4"><title>Hay, White Dress</title></circle></a><a href="/variants/s16/g10w4r4dr4g2dr4r4w4g10w4lb4w2lb4w23k2r2~x2/"><circle cx="117.5" cy="114.5" r="4" fill="#3465a4"><title>MacBean Dress</title></circle></a><a href="/variants/s9/k4lb4k2lb4k2lb22ly27y2r3~x2/"><circle cx="197.2" cy="129.6" r="4" fill="#3465a4"><title>Falkirk</title></circle></a><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10y23w2y4~x2/"><circle cx="170.4" cy="144.3" r="4" fill="#3465a4"><title>Oliphant Dress</title></circle></a><a href="/variants/s8/k3r1ly1lb11g13lb5r1ly1~x4~r2109032-ly3307090-g2408144/"><circle cx="219.6" cy="138.8" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s17/r3w5r2w12y1k2y1w2y1k2y2k2r1g4r2g4r2~x2/"><circle cx="104.0" cy="120.1" r="4" fill="#3465a4"><title>Anderson Dress</title></circle></a><a href="/variants/s15/lb12k8lb12w1ly2w1ly8w1ly2w1ly8w1ly2w1ly8/"><circle cx="196.8" cy="155.8" r="4" fill="#3465a4"><title>Bush (Artefact)</title></circle></a><a href="/variants/s9/g9k2r4g14w3lp3w23g5y3~x2/"><circle cx="155.5" cy="145.4" r="4" fill="#3465a4"><title>Taylor Dress #2</title></circle></a><a href="/variants/s16/r3k2lt2r2g20r3g2r2dp7r2g2w23k2lt2w2g2~x2/"><circle cx="95.6" cy="90.6" r="4" fill="#3465a4"><title>Stewart of Appin Dress</title></circle></a><a href="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="149.5" cy="111.6" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><circle cx="145.6" cy="137.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r3g2y2g14r2g3r2g3w17g2w2k2r2w3~x2/"><circle cx="147.7" cy="111.7" r="4" fill="#3465a4"><title>Hay, White Dress</title></circle></a><a href="/variants/s16/g10w4r4dr4g2dr4r4w4g10w4lb4w2lb4w23k2r2~x2/"><circle cx="117.4" cy="114.9" r="4" fill="#3465a4"><title>MacBean Dress</title></circle></a><a href="/variants/s9/k4lb4k2lb4k2lb22ly27y2r3~x2/"><circle cx="197.2" cy="130.0" r="4" fill="#3465a4"><title>Falkirk</title></circle></a><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10y23w2y4~x2/"><circle cx="170.4" cy="144.7" r="4" fill="#3465a4"><title>Oliphant Dress</title></circle></a><a href="/variants/s8/k3r1ly1lb11g13lb5r1ly1~x4~r2109032-ly3307090-g2408144/"><circle cx="219.6" cy="139.2" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s17/r3w5r2w12y1k2y1w2y1k2y2k2r1g4r2g4r2~x2/"><circle cx="104.0" cy="120.5" r="4" fill="#3465a4"><title>Anderson Dress</title></circle></a><a href="/variants/s15/lb12k8lb12w1ly2w1ly8w1ly2w1ly8w1ly2w1ly8/"><circle cx="196.9" cy="156.2" r="4" fill="#3465a4"><title>Bush (Artefact)</title></circle></a><a href="/variants/s9/g9k2r4g14w3lp3w23g5y3~x2/"><circle cx="155.5" cy="145.8" r="4" fill="#3465a4"><title>Taylor Dress #2</title></circle></a><a href="/variants/s16/r3k2lt2r2g20r3g2r2dp7r2g2w23k2lt2w2g2~x2/"><circle cx="95.5" cy="90.8" r="4" fill="#3465a4"><title>Stewart of Appin Dress</title></circle></a><a href="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="149.4" cy="111.9" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><circle cx="145.6" cy="138.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/r6g4y4g25r4g6r4g6w34g4w4k4r4w6/

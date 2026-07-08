@@ -10,6 +10,8 @@ crumbs:
   url: "/families/gordon-of-abergeldie/"
 - name: "Gordon of Abergeldie"
   url: "/tartans/gordon-of-abergeldie/"
+- name: "Gordon of Abergeldie, (Red..)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r20w1k1b6y1g18/)
 (the same proportion at any scale), whose colour order is pattern [GGBKWR](/stripes/ggbkwr/).
@@ -18,7 +20,7 @@ Part of the [Gordon of Abergeldie](/tartans/gordon-of-abergeldie/) tartan — th
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r20w1k1o6dy1g18~x2/"><circle cx="246.4" cy="137.2" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Red..) Portrait Tartan</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.2" cy="189.5" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/variants/s6/r63w4k4dp18ly4dg50~x2/"><circle cx="221.7" cy="139.0" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Portrait)</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="206.8" cy="187.1" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s5/k7db3g28r28y3~x2/"><circle cx="190.7" cy="190.9" r="4" fill="#3465a4"><title>Turnbull, dress</title></circle></a><a href="/variants/s6/t6dp5k2g18r28w2~x2/"><circle cx="209.1" cy="148.1" r="4" fill="#3465a4"><title>Dundhuin Ladies (Personal)</title></circle></a><a href="/variants/s5/g24t2r25y2k3~x2/"><circle cx="253.5" cy="175.6" r="4" fill="#3465a4"><title>Bronte (Name)</title></circle></a><a href="/variants/s5/g24db2r25y2k3~x2/"><circle cx="249.0" cy="173.6" r="4" fill="#3465a4"><title>Bronte</title></circle></a><a href="/variants/s6/r31g19lg27b1w1lo1~x2/"><circle cx="242.7" cy="142.8" r="4" fill="#3465a4"><title>Glencross, (Solway) (Personal)</title></circle></a><a href="/variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/"><circle cx="287.7" cy="154.9" r="4" fill="#3465a4"><title>Glencross (Solway) (Personal)</title></circle></a><circle cx="238.0" cy="137.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r20w1k1o6dy1g18~x2/"><circle cx="246.4" cy="137.5" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Red..) Portrait Tartan</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.3" cy="190.0" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/variants/s6/r63w4k4dp18ly4dg50~x2/"><circle cx="221.7" cy="139.4" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Portrait)</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="206.8" cy="187.6" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s5/k7db3g28r28y3~x2/"><circle cx="190.8" cy="191.4" r="4" fill="#3465a4"><title>Turnbull, dress</title></circle></a><a href="/variants/s6/t6dp5k2g18r28w2~x2/"><circle cx="209.1" cy="148.5" r="4" fill="#3465a4"><title>Dundhuin Ladies (Personal)</title></circle></a><a href="/variants/s5/g24t2r25y2k3~x2/"><circle cx="253.6" cy="176.0" r="4" fill="#3465a4"><title>Bronte (Name)</title></circle></a><a href="/variants/s5/g24db2r25y2k3~x2/"><circle cx="249.1" cy="174.1" r="4" fill="#3465a4"><title>Bronte</title></circle></a><a href="/variants/s6/r31g19lg27b1w1lo1~x2/"><circle cx="242.7" cy="143.1" r="4" fill="#3465a4"><title>Glencross, (Solway) (Personal)</title></circle></a><a href="/variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/"><circle cx="287.7" cy="155.1" r="4" fill="#3465a4"><title>Glencross (Solway) (Personal)</title></circle></a><circle cx="237.9" cy="137.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r20w1k1b6y1g18~x2/

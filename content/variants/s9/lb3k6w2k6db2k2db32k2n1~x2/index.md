@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nocken Blue Modern Tartan (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb3k6w2k6db2k2db32k2n1/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKWKW](/stripes/bkbkbkwkw/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10745
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10745](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10745)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db50k12n2k2w2k2n12db7k7w2~x2/"><circle cx="335.6" cy="106.1" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><a href="/variants/s7/k8ly2dp6ly2k36db84w7/"><circle cx="337.3" cy="88.3" r="4" fill="#3465a4"><title>Grahame Laurie Band (Corporate)</title></circle></a><a href="/variants/s7/db36k8g3dr3g6k1lo2~x2/"><circle cx="349.6" cy="97.4" r="4" fill="#3465a4"><title>MacLaurin of Broich (Clan)</title></circle></a><a href="/variants/s7/db36k10g3r3g6k1y2~x2/"><circle cx="333.2" cy="98.2" r="4" fill="#3465a4"><title>MacLaurin of Brioch</title></circle></a><a href="/variants/s8/k8y1k1db28k12g2k1lb2~x2/"><circle cx="301.4" cy="103.9" r="4" fill="#3465a4"><title>Hope-Weir/Weir</title></circle></a><a href="/variants/s10/db54lb3k5lb1k2lb1k2g8dr8lb2~x2/"><circle cx="375.4" cy="52.5" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s10/db108w6k10w3k3w3k3g12r12w4/"><circle cx="360.9" cy="50.3" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s7/k4w1lb2w1k16db36lb4~x2/"><circle cx="331.0" cy="107.9" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/variants/s7/n5k6w2g7w2db44w2~x2/"><circle cx="344.1" cy="107.6" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s8/y1db1k1db30k30w2db5ly1~x2~y2505139-ly3708101/"><circle cx="310.9" cy="95.3" r="4" fill="#3465a4"><title>Binder Wedding (Personal)</title></circle></a><circle cx="341.2" cy="79.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db50k12n2k2w2k2n12db7k7w2~x2/"><circle cx="335.5" cy="106.2" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><a href="/variants/s7/k8ly2dp6ly2k36db84w7/"><circle cx="337.2" cy="88.4" r="4" fill="#3465a4"><title>Grahame Laurie Band (Corporate)</title></circle></a><a href="/variants/s7/db36k8g3dr3g6k1lo2~x2/"><circle cx="349.5" cy="97.5" r="4" fill="#3465a4"><title>MacLaurin of Broich (Clan)</title></circle></a><a href="/variants/s7/db36k10g3r3g6k1y2~x2/"><circle cx="333.1" cy="98.3" r="4" fill="#3465a4"><title>MacLaurin of Brioch</title></circle></a><a href="/variants/s8/k8y1k1db28k12g2k1lb2~x2/"><circle cx="301.2" cy="103.9" r="4" fill="#3465a4"><title>Hope-Weir/Weir</title></circle></a><a href="/variants/s10/db54lb3k5lb1k2lb1k2g8dr8lb2~x2/"><circle cx="375.2" cy="52.4" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s10/db108w6k10w3k3w3k3g12r12w4/"><circle cx="360.7" cy="50.4" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s7/k4w1lb2w1k16db36lb4~x2/"><circle cx="330.9" cy="108.1" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/variants/s7/n5k6w2g7w2db44w2~x2/"><circle cx="344.0" cy="107.8" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s8/y1db1k1db30k30w2db5ly1~x2~y2505139-ly3708101/"><circle cx="310.8" cy="95.4" r="4" fill="#3465a4"><title>Binder Wedding (Personal)</title></circle></a><circle cx="341.0" cy="79.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/lb3k6w2k6db2k2db32k2n1~x2/

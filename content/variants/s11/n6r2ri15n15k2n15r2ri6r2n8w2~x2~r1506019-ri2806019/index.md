@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Frater"
   url: "/tartans/frater/"
+- name: "Frater (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n6r2ri15n15k2n15r2ri6r2n8w2/)
 (the same proportion at any scale), whose colour order is pattern [BRRBKBRRRBW](/stripes/brrbkbrrrbw/).
@@ -14,7 +16,7 @@ Part of the [Frater](/tartans/frater/) tartan — the named design grouping this
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6810
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6810](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6810)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n6dr2r15n15k2n15dr2r6dr2n8w2~x2/"><circle cx="314.8" cy="189.4" r="4" fill="#3465a4"><title>Frater</title></circle></a><a href="/variants/s13/n2r1n8o2k2n1o1n1o4n2k1n1r1~x4/"><circle cx="296.2" cy="180.2" r="4" fill="#3465a4"><title>Balmoral (Lavender) (Royal)</title></circle></a><a href="/variants/s10/lp9n4lp5o4k3o12n18g4n18o6~x2~n1900000-o2500000/"><circle cx="228.2" cy="220.5" r="4" fill="#3465a4"><title>Jaggy Thistle (Fashion)</title></circle></a><a href="/variants/s9/o17b2w2b2o20oi18db3oi6k2~x2~b2603265-oi2600000/"><circle cx="294.3" cy="171.4" r="4" fill="#3465a4"><title>Salt Lake Scots</title></circle></a><a href="/variants/s13/n2r1n8b2k2n1b1n1b4n2k1n1r1~x2/"><circle cx="288.7" cy="181.9" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><circle cx="309.0" cy="189.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n6dr2r15n15k2n15dr2r6dr2n8w2~x2/"><circle cx="314.9" cy="189.8" r="4" fill="#3465a4"><title>Frater</title></circle></a><a href="/variants/s13/n2r1n8o2k2n1o1n1o4n2k1n1r1~x4/"><circle cx="296.2" cy="180.5" r="4" fill="#3465a4"><title>Balmoral (Lavender) (Royal)</title></circle></a><a href="/variants/s10/lp9n4lp5o4k3o12n18g4n18o6~x2~n1900000-o2500000/"><circle cx="228.3" cy="220.9" r="4" fill="#3465a4"><title>Jaggy Thistle (Fashion)</title></circle></a><a href="/variants/s9/o17b2w2b2o20oi18db3oi6k2~x2~b2603265-oi2600000/"><circle cx="294.3" cy="171.6" r="4" fill="#3465a4"><title>Salt Lake Scots</title></circle></a><a href="/variants/s13/n2r1n8b2k2n1b1n1b4n2k1n1r1~x2/"><circle cx="288.8" cy="182.2" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><circle cx="309.1" cy="190.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/n6r2ri15n15k2n15r2ri6r2n8w2~x2~r1506019-ri2806019/

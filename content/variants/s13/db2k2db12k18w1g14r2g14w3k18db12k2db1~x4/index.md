@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Colquhoun"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2k2db12k18w1g14r2g14w3k18db12k2db1/)
 (the same proportion at any scale), whose colour order is pattern [BKBKWGRGWKBKB](/stripes/bkbkwgrgwkbkb/).
 
 Sourced from logan-1831.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link /posts/logans-scottish-gael/
+Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 
 ## Provenance
 
@@ -23,7 +25,7 @@ James Logan recorded the **Colquhoun** sett in 1831, on page 402 of the *Table o
 
 > ½ blue · 1 black · 6 blue · 9 black · 1½ white · 7 green · 1 red · 7 green · ½ white · 9 black · 6 blue · 1 black · 1 blue
 
-In threads (at 8 to the eighth-inch) that is `B/4 K8 B48 K72 W12 G56 R8 G56 W4 K72 B48 K8 B/8`. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+Rendered at 8 threads to the eighth-inch that is `B/4 K8 B48 K72 W12 G56 R8 G56 W4 K72 B48 K8 B/8` — the eighths are the captured data, and the threadcount is derived from them at that stated factor. How many threads an eighth of cloth held depends on the weave's density, so the factor is a display calibration, not Logan's count; the sett's identity lives in the proportions, which the eighths record directly. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
 
 See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table and method.
 
@@ -43,6 +45,7 @@ Later records of the **Colquhoun** name adjusted Logan's counts: [Colquhoun](/se
 <ol class="capture-chain">
 <li>James Logan, The Scottish Gaël (first edition) <small>1831</small> · Public domain<br><small>the printed Table of Clan Tartans, vol. II pp. 401-408, plus the Duke of Sussex plate</small></li>
 <li><a href="https://archive.org/details/scotishgalorcel02logagoog">Internet Archive scan</a><br><small>the digitised first edition the transcription was made from, cross-checked against the OCR</small></li>
+<li><a href="/posts/logans-scottish-gael/">Tartan Dictionary transcription — Logan's Scottish Gaël</a> <small>2026-06</small> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><br><small>by-eye transcription of the Table of Clan Tartans and the Duke of Sussex plate — depths in eighths of an inch, rendered at 8 threads per eighth (a display calibration anchored by the Register's Abercrombie ×8 stripe-for-stripe match); method and match report in the linked post</small></li>
 <li>this dictionary<br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
 </details>
@@ -69,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="136.6" cy="125.7" r="4" fill="#3465a4"><title>Campbell Red</title></circle></a><a href="/variants/s11/db10k10db10dr2k20w1g10dr2g4dr2g4~x2/"><circle cx="164.7" cy="138.8" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/"><circle cx="134.0" cy="126.5" r="4" fill="#3465a4"><title>Dyce #2</title></circle></a><a href="/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/"><circle cx="125.3" cy="139.6" r="4" fill="#3465a4"><title>Loch Carron</title></circle></a><a href="/variants/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/"><circle cx="134.0" cy="138.6" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/variants/s14/db22g1db2g1db4k16ly1g16r2g16ly1k16db16g1~x2/"><circle cx="172.5" cy="116.9" r="4" fill="#3465a4"><title>Milne of Corstorphine #2 (Personal)</title></circle></a><a href="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/"><circle cx="123.6" cy="151.5" r="4" fill="#3465a4"><title>Paterson (Dalgleish Version)</title></circle></a><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="144.9" cy="115.1" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/variants/s13/y2k1g12k12db12k1db1k1db12k12g12k1w2~x2/"><circle cx="123.0" cy="144.7" r="4" fill="#3465a4"><title>Campbell of Loudoun</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="121.0" cy="122.1" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><circle cx="149.7" cy="128.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="136.5" cy="125.9" r="4" fill="#3465a4"><title>Campbell Red</title></circle></a><a href="/variants/s11/db10k10db10dr2k20w1g10dr2g4dr2g4~x2/"><circle cx="164.6" cy="139.0" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/"><circle cx="133.9" cy="126.8" r="4" fill="#3465a4"><title>Dyce #2</title></circle></a><a href="/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/"><circle cx="125.3" cy="139.9" r="4" fill="#3465a4"><title>Loch Carron</title></circle></a><a href="/variants/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/"><circle cx="134.0" cy="138.9" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/variants/s14/db22g1db2g1db4k16ly1g16r2g16ly1k16db16g1~x2/"><circle cx="172.4" cy="117.1" r="4" fill="#3465a4"><title>Milne of Corstorphine #2 (Personal)</title></circle></a><a href="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/"><circle cx="123.5" cy="151.9" r="4" fill="#3465a4"><title>Paterson (Dalgleish Version)</title></circle></a><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="144.8" cy="115.3" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/variants/s13/y2k1g12k12db12k1db1k1db12k12g12k1w2~x2/"><circle cx="122.9" cy="145.0" r="4" fill="#3465a4"><title>Campbell of Loudoun</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="120.9" cy="122.3" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><circle cx="149.7" cy="129.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/

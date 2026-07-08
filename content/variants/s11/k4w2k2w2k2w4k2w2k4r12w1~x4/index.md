@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Napier Rose"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4w2k2w2k2w4k2w2k4r12w1/)
 (the same proportion at any scale), whose colour order is pattern [KWKWKWKWKRW](/stripes/kwkwkwkwkrw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3094
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3094](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3094)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r3lb19k4r3k3r7k3r5k3r5k2w2~x2/"><circle cx="148.1" cy="147.6" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><a href="/variants/s12/y4k2r7k15r3k3r3k7w28r7w6r2/"><circle cx="150.6" cy="127.6" r="4" fill="#3465a4"><title>Walker, dress</title></circle></a><a href="/variants/s11/k12lr4k4lr4k4lr10k4lr3k8dr24lr2~x2/"><circle cx="190.0" cy="166.9" r="4" fill="#3465a4"><title>Wcwm 9285 4906-1</title></circle></a><a href="/variants/s13/ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2/"><circle cx="143.5" cy="173.2" r="4" fill="#3465a4"><title>Unidentified (NZ)</title></circle></a><a href="/variants/s9/g24k3g2k3g4k4r20k3r6~x2~g2504202/"><circle cx="224.5" cy="163.1" r="4" fill="#3465a4"><title>Alma College</title></circle></a><a href="/variants/s6/lb2r12k2lb6k6lb1~x2/"><circle cx="198.5" cy="191.4" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish #2</title></circle></a><a href="/variants/s9/k1lb1r16g16k12lb8r16lb1k1~x2/"><circle cx="184.2" cy="148.4" r="4" fill="#3465a4"><title>MacNaughten</title></circle></a><a href="/variants/s9/k1w1r16g16k12w8r16w1k1~x2/"><circle cx="176.4" cy="146.3" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="190.4" cy="142.5" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2~r2609032/"><circle cx="193.0" cy="153.6" r="4" fill="#3465a4"><title>MacNaughton (Logan) #2</title></circle></a><circle cx="165.2" cy="160.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r3lb19k4r3k3r7k3r5k3r5k2w2~x2/"><circle cx="148.1" cy="148.1" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><a href="/variants/s12/y4k2r7k15r3k3r3k7w28r7w6r2/"><circle cx="150.6" cy="128.1" r="4" fill="#3465a4"><title>Walker, dress</title></circle></a><a href="/variants/s11/k12lr4k4lr4k4lr10k4lr3k8dr24lr2~x2/"><circle cx="190.0" cy="167.4" r="4" fill="#3465a4"><title>Wcwm 9285 4906-1</title></circle></a><a href="/variants/s13/ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2/"><circle cx="143.5" cy="173.8" r="4" fill="#3465a4"><title>Unidentified (NZ)</title></circle></a><a href="/variants/s9/g24k3g2k3g4k4r20k3r6~x2~g2504202/"><circle cx="224.5" cy="163.6" r="4" fill="#3465a4"><title>Alma College</title></circle></a><a href="/variants/s6/lb2r12k2lb6k6lb1~x2/"><circle cx="198.6" cy="192.1" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish #2</title></circle></a><a href="/variants/s9/k1lb1r16g16k12lb8r16lb1k1~x2/"><circle cx="184.2" cy="148.9" r="4" fill="#3465a4"><title>MacNaughten</title></circle></a><a href="/variants/s9/k1w1r16g16k12w8r16w1k1~x2/"><circle cx="176.4" cy="146.8" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="190.4" cy="142.9" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2~r2609032/"><circle cx="193.0" cy="154.1" r="4" fill="#3465a4"><title>MacNaughton (Logan) #2</title></circle></a><circle cx="165.2" cy="160.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k4w2k2w2k2w4k2w2k4r12w1~x4/

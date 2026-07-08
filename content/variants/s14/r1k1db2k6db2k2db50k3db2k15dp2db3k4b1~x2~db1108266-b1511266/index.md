@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bowcutt, David (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1k1db2k6db2k2db50k3db2k15dp2db3k4b1/)
 (the same proportion at any scale), whose colour order is pattern [BKBBKBKBKBKBKR](/stripes/bkbbkbkbkbkbkr/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10495
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10495](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10495)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/"><circle cx="337.3" cy="92.5" r="4" fill="#3465a4"><title>Bristow Helicopters</title></circle></a><a href="/variants/s10/db84dp1db1k2db2k30dp7db2g3lo2~x2/"><circle cx="448.1" cy="58.6" r="4" fill="#3465a4"><title>Ulster Scots (Fashion)</title></circle></a><a href="/variants/s10/db62r1db2r1db4k14g4k2g6k4~x2/"><circle cx="429.3" cy="54.9" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/"><circle cx="430.8" cy="82.4" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/variants/s15/db1k6db2k8db2k2db52r2db2y8db2y6db2y2r1~x2/"><circle cx="395.3" cy="34.6" r="4" fill="#3465a4"><title>(3) Laing</title></circle></a><a href="/variants/s10/k46w1ki3lb4ki3db3ki2db11ki1lb2~x2~k0504259-ki0700000/"><circle cx="381.9" cy="65.7" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><a href="/variants/s11/db130k18r6k6r6k6b18db14b5db18y4~db1003265-b2008266/"><circle cx="449.8" cy="75.2" r="4" fill="#3465a4"><title>Concours of Elegance</title></circle></a><a href="/variants/s10/db62r1db2r1db4k14g4w2g6k4~x2/"><circle cx="417.1" cy="52.2" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/variants/s9/k10db3k3db32g1db1g1db2n2~x2/"><circle cx="462.6" cy="104.4" r="4" fill="#3465a4"><title>Orman (Midlothian) (Personal)</title></circle></a><a href="/variants/s10/ki76db22k1y3k1db3k1w2k1db10~x2~ki0604259/"><circle cx="481.9" cy="77.6" r="4" fill="#3465a4"><title>Canberra, City of District Tartan</title></circle></a><circle cx="430.9" cy="45.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/"><circle cx="337.1" cy="92.6" r="4" fill="#3465a4"><title>Bristow Helicopters</title></circle></a><a href="/variants/s10/db84dp1db1k2db2k30dp7db2g3lo2~x2/"><circle cx="447.9" cy="58.4" r="4" fill="#3465a4"><title>Ulster Scots (Fashion)</title></circle></a><a href="/variants/s10/db62r1db2r1db4k14g4k2g6k4~x2/"><circle cx="429.1" cy="54.8" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/"><circle cx="430.7" cy="82.4" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/variants/s15/db1k6db2k8db2k2db52r2db2y8db2y6db2y2r1~x2/"><circle cx="395.1" cy="34.4" r="4" fill="#3465a4"><title>(3) Laing</title></circle></a><a href="/variants/s10/k46w1ki3lb4ki3db3ki2db11ki1lb2~x2~k0504259-ki0700000/"><circle cx="381.7" cy="65.5" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><a href="/variants/s11/db130k18r6k6r6k6b18db14b5db18y4~db1003265-b2008266/"><circle cx="449.6" cy="75.1" r="4" fill="#3465a4"><title>Concours of Elegance</title></circle></a><a href="/variants/s10/db62r1db2r1db4k14g4w2g6k4~x2/"><circle cx="417.0" cy="52.1" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/variants/s9/k10db3k3db32g1db1g1db2n2~x2/"><circle cx="462.5" cy="104.4" r="4" fill="#3465a4"><title>Orman (Midlothian) (Personal)</title></circle></a><a href="/variants/s10/ki76db22k1y3k1db3k1w2k1db10~x2~ki0604259/"><circle cx="481.7" cy="77.3" r="4" fill="#3465a4"><title>Canberra, City of District Tartan</title></circle></a><circle cx="430.7" cy="44.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/r1k1db2k6db2k2db50k3db2k15dp2db3k4b1~x2~db1108266-b1511266/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Faulkner"
   url: "/tartans/faulkner/"
+- name: "Faulkner (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g10n1k3dp22n1dp8k2r26ly1r6k3/)
 (the same proportion at any scale), whose colour order is pattern [GBKBBBKRYRK](/stripes/gbkbbbkryrk/).
@@ -14,7 +16,7 @@ Part of the [Faulkner](/tartans/faulkner/) tartan — the named design grouping 
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10080
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10080](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10080)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp7o2ri2r2dp23r2k2r1k15ri29lp2~x2~ri2109032-r2109013/"><circle cx="187.6" cy="72.1" r="4" fill="#3465a4"><title>MacHatters of the Old Pueblo</title></circle></a><a href="/variants/s9/k2dy1k2dy8r29n9db24w2db2~x2~db1204274/"><circle cx="195.9" cy="93.2" r="4" fill="#3465a4"><title>Lermontov Family Tartan</title></circle></a><a href="/variants/s9/k2y1k2y8r29n9db24w2db2~x2/"><circle cx="187.6" cy="91.8" r="4" fill="#3465a4"><title>Lermontov</title></circle></a><a href="/variants/s11/dg15r25dg4k2ly1db1ly1k2dg4db12w1~x2/"><circle cx="182.6" cy="84.3" r="4" fill="#3465a4"><title>Livingstone - Australia (Personal)</title></circle></a><a href="/variants/s6/r63w4k4dp18ly4dg50~x2~dp1607327/"><circle cx="165.4" cy="105.9" r="4" fill="#3465a4"><title>Gordon of Abergeldie</title></circle></a><a href="/variants/s15/w2dp2k2r4k1r21k4w1dp12k3w1g6k2db3r1~x2/"><circle cx="144.1" cy="64.5" r="4" fill="#3465a4"><title>Gaudet-Hillan (Personal)</title></circle></a><a href="/variants/s11/r48k10db12k2r3k2db12k10n10k2y3~x2/"><circle cx="211.8" cy="86.0" r="4" fill="#3465a4"><title>Brooks Brothers (WCWM)</title></circle></a><a href="/variants/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="178.9" cy="87.8" r="4" fill="#3465a4"><title>Kelly of Sleat Red</title></circle></a><a href="/variants/s11/lb8k1r22ly1r6k3dg10w1k3lb20w1~x2/"><circle cx="152.1" cy="91.1" r="4" fill="#3465a4"><title>Unnamed C20th - National Archives</title></circle></a><a href="/variants/s11/r4k4r32g4w3g4k13g3db18r2y3~x2/"><circle cx="148.6" cy="96.1" r="4" fill="#3465a4"><title>Norwell</title></circle></a><circle cx="194.8" cy="85.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp7o2ri2r2dp23r2k2r1k15ri29lp2~x2~ri2109032-r2109013/"><circle cx="187.5" cy="72.2" r="4" fill="#3465a4"><title>MacHatters of the Old Pueblo</title></circle></a><a href="/variants/s9/k2dy1k2dy8r29n9db24w2db2~x2~db1204274/"><circle cx="195.8" cy="93.3" r="4" fill="#3465a4"><title>Lermontov Family Tartan</title></circle></a><a href="/variants/s9/k2y1k2y8r29n9db24w2db2~x2/"><circle cx="187.5" cy="91.9" r="4" fill="#3465a4"><title>Lermontov</title></circle></a><a href="/variants/s11/dg15r25dg4k2ly1db1ly1k2dg4db12w1~x2/"><circle cx="182.5" cy="84.4" r="4" fill="#3465a4"><title>Livingstone - Australia (Personal)</title></circle></a><a href="/variants/s6/r63w4k4dp18ly4dg50~x2~dp1607327/"><circle cx="165.3" cy="106.2" r="4" fill="#3465a4"><title>Gordon of Abergeldie</title></circle></a><a href="/variants/s15/w2dp2k2r4k1r21k4w1dp12k3w1g6k2db3r1~x2/"><circle cx="144.0" cy="64.7" r="4" fill="#3465a4"><title>Gaudet-Hillan (Personal)</title></circle></a><a href="/variants/s11/r48k10db12k2r3k2db12k10n10k2y3~x2/"><circle cx="211.7" cy="86.1" r="4" fill="#3465a4"><title>Brooks Brothers (WCWM)</title></circle></a><a href="/variants/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="178.8" cy="88.0" r="4" fill="#3465a4"><title>Kelly of Sleat Red</title></circle></a><a href="/variants/s11/lb8k1r22ly1r6k3dg10w1k3lb20w1~x2/"><circle cx="152.0" cy="91.4" r="4" fill="#3465a4"><title>Unnamed C20th - National Archives</title></circle></a><a href="/variants/s11/r4k4r32g4w3g4k13g3db18r2y3~x2/"><circle cx="148.5" cy="96.3" r="4" fill="#3465a4"><title>Norwell</title></circle></a><circle cx="194.7" cy="85.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/g10n1k3dp22n1dp8k2r26ly1r6k3~x2/

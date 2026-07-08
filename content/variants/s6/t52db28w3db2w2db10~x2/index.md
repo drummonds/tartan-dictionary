@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St Andrews Earl of Royal family Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t52db28w3db2w2db10/)
 (the same proportion at any scale), whose colour order is pattern [BBWBWB](/stripes/bbwbwb/).
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=85
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=85](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=85)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/t52db28w5db3w2db10~x2/"><circle cx="387.9" cy="181.0" r="4" fill="#3465a4"><title>St. Andrews, Earl of</title></circle></a><a href="/variants/s7/db6lb2db2lb3db16t26dr2~x2/"><circle cx="357.9" cy="225.8" r="4" fill="#3465a4"><title>Federal Bureau of Investigation</title></circle></a><a href="/variants/s5/t50db15w3db4w2~x2/"><circle cx="516.7" cy="213.5" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990) (Corp)</title></circle></a><a href="/variants/s8/dbi8w4db6dbi2db6n10db63w3~dbi1406275-db1404245/"><circle cx="564.9" cy="162.8" r="4" fill="#3465a4"><title>Pride of the Clyde</title></circle></a><a href="/variants/s6/db3w1db12b12db1b3~x4/"><circle cx="431.4" cy="265.1" r="4" fill="#3465a4"><title>Erskine Blue (Fashion)</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="439.8" cy="223.1" r="4" fill="#3465a4"><title>Ikelman #1 (Personal)</title></circle></a><a href="/variants/s6/y1b15w5b1w5b1~x4/"><circle cx="408.8" cy="210.3" r="4" fill="#3465a4"><title>Whitley (Personal)</title></circle></a><a href="/variants/s6/w4db25b25db2b5w2~x2/"><circle cx="369.8" cy="243.4" r="4" fill="#3465a4"><title>Douglas, Variation</title></circle></a><a href="/variants/s5/db24t13db4t4w2~x2/"><circle cx="435.3" cy="262.5" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><circle cx="338.4" cy="235.0" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><circle cx="440.7" cy="211.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/t52db28w5db3w2db10~x2/"><circle cx="388.0" cy="181.3" r="4" fill="#3465a4"><title>St. Andrews, Earl of</title></circle></a><a href="/variants/s7/db6lb2db2lb3db16t26dr2~x2/"><circle cx="358.0" cy="226.1" r="4" fill="#3465a4"><title>Federal Bureau of Investigation</title></circle></a><a href="/variants/s5/t50db15w3db4w2~x2/"><circle cx="516.8" cy="213.9" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990) (Corp)</title></circle></a><a href="/variants/s8/dbi8w4db6dbi2db6n10db63w3~dbi1406275-db1404245/"><circle cx="564.9" cy="162.8" r="4" fill="#3465a4"><title>Pride of the Clyde</title></circle></a><a href="/variants/s6/db3w1db12b12db1b3~x4/"><circle cx="431.6" cy="265.5" r="4" fill="#3465a4"><title>Erskine Blue (Fashion)</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="439.9" cy="223.6" r="4" fill="#3465a4"><title>Ikelman #1 (Personal)</title></circle></a><a href="/variants/s6/y1b15w5b1w5b1~x4/"><circle cx="408.9" cy="210.8" r="4" fill="#3465a4"><title>Whitley (Personal)</title></circle></a><a href="/variants/s6/w4db25b25db2b5w2~x2/"><circle cx="369.9" cy="243.9" r="4" fill="#3465a4"><title>Douglas, Variation</title></circle></a><a href="/variants/s5/db24t13db4t4w2~x2/"><circle cx="435.4" cy="263.0" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><circle cx="338.5" cy="235.6" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><circle cx="440.8" cy="211.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/t52db28w3db2w2db10~x2/

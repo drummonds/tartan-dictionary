@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Norwegian Night"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db6w3r14k3y2k2w2k38w2k2y2/)
 (the same proportion at any scale), whose colour order is pattern [BWRKGKWKWKG](/stripes/bwrkgkwkwkg/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10772
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10772](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10772)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r9k3r9k2b4k4dp4k3dp2k32g6~x2/"><circle cx="246.1" cy="100.6" r="4" fill="#3465a4"><title>Brotherhood of Dirk, The</title></circle></a><a href="/variants/s11/r9k3r9k2t4k4dp4k3dp2k32g6~x2/"><circle cx="245.6" cy="100.9" r="4" fill="#3465a4"><title>Brotherhood of Dirk (Corporate)</title></circle></a><a href="/variants/s9/lg15k50w4r18k5db5k15y10k4~x2~lg2704216-w3600000/"><circle cx="217.4" cy="117.3" r="4" fill="#3465a4"><title>Care Leaver</title></circle></a><a href="/variants/s9/lbi15k50lb4r18k5db5k15ly10k4~x2~lbi3203246-lb3200000/"><circle cx="210.9" cy="115.3" r="4" fill="#3465a4"><title>Care Leaver</title></circle></a><a href="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/"><circle cx="269.4" cy="60.1" r="4" fill="#3465a4"><title>Northern Guard Supporters</title></circle></a><a href="/variants/s12/y2w1r2k20r9k20y7n20k5y1k1r1~x2/"><circle cx="216.8" cy="100.6" r="4" fill="#3465a4"><title>Cates Dress</title></circle></a><a href="/variants/s11/w5k4db2k5ly2r2ly2k30y3w7k4~x2~ly3307090-y2505139/"><circle cx="269.9" cy="82.5" r="4" fill="#3465a4"><title>Braddock Family (Northumberland) (Personal)</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22o14k3o6w4/"><circle cx="319.6" cy="48.0" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s11/k31lr4n2r2n2lr6n2lb4n2lr8k2~x2~lr2800000-n1700000/"><circle cx="212.3" cy="91.0" r="4" fill="#3465a4"><title>Rogue Attitude</title></circle></a><a href="/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/"><circle cx="262.9" cy="92.1" r="4" fill="#3465a4"><title>Good Conduct (USA)</title></circle></a><circle cx="270.1" cy="74.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r9k3r9k2b4k4dp4k3dp2k32g6~x2/"><circle cx="246.0" cy="100.9" r="4" fill="#3465a4"><title>Brotherhood of Dirk, The</title></circle></a><a href="/variants/s11/r9k3r9k2t4k4dp4k3dp2k32g6~x2/"><circle cx="245.5" cy="101.1" r="4" fill="#3465a4"><title>Brotherhood of Dirk (Corporate)</title></circle></a><a href="/variants/s9/lg15k50w4r18k5db5k15y10k4~x2~lg2704216-w3600000/"><circle cx="217.3" cy="117.6" r="4" fill="#3465a4"><title>Care Leaver</title></circle></a><a href="/variants/s9/lbi15k50lb4r18k5db5k15ly10k4~x2~lbi3203246-lb3200000/"><circle cx="210.8" cy="115.6" r="4" fill="#3465a4"><title>Care Leaver</title></circle></a><a href="/variants/s16/k8dr3k1w2n1y1k25n2y2k3dr5k1w3y7k1n1~x2/"><circle cx="269.2" cy="60.2" r="4" fill="#3465a4"><title>Northern Guard Supporters</title></circle></a><a href="/variants/s12/y2w1r2k20r9k20y7n20k5y1k1r1~x2/"><circle cx="216.7" cy="100.8" r="4" fill="#3465a4"><title>Cates Dress</title></circle></a><a href="/variants/s11/w5k4db2k5ly2r2ly2k30y3w7k4~x2~ly3307090-y2505139/"><circle cx="269.8" cy="82.7" r="4" fill="#3465a4"><title>Braddock Family (Northumberland) (Personal)</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22o14k3o6w4/"><circle cx="319.4" cy="48.1" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s11/k31lr4n2r2n2lr6n2lb4n2lr8k2~x2~lr2800000-n1700000/"><circle cx="212.1" cy="91.2" r="4" fill="#3465a4"><title>Rogue Attitude</title></circle></a><a href="/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/"><circle cx="262.8" cy="92.3" r="4" fill="#3465a4"><title>Good Conduct (USA)</title></circle></a><circle cx="270.0" cy="74.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db6w3r14k3y2k2w2k38w2k2y2~x2/

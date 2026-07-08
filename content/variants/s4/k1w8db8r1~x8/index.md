@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacRae Dress Purple"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1w8db8r1/)
 (the same proportion at any scale), whose colour order is pattern [KWBR](/stripes/kwbr/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5948
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5948](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5948)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db3w25k25r3~x2/"><circle cx="191.8" cy="208.4" r="4" fill="#3465a4"><title>Gleneckley</title></circle></a><a href="/variants/s5/k3w29o9lb19k3~x2/"><circle cx="192.1" cy="201.5" r="4" fill="#3465a4"><title>Islander Dress</title></circle></a><a href="/variants/s5/k8y2t21w3r2~x4~t2205244/"><circle cx="251.5" cy="166.7" r="4" fill="#3465a4"><title>Oklahoma State American District Tartan</title></circle></a><a href="/variants/s5/k8dy2t21w3r2~x4~t2205244/"><circle cx="251.7" cy="166.5" r="4" fill="#3465a4"><title>Oklahoma</title></circle></a><a href="/variants/s5/k8dy2t21w3r2~x4/"><circle cx="248.7" cy="167.6" r="4" fill="#3465a4"><title>Oklahoma (US State)</title></circle></a><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="255.6" cy="238.0" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s4/r21db61dy8w21~x2/"><circle cx="255.6" cy="237.8" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s4/k5n24w24r5~x2/"><circle cx="157.3" cy="249.0" r="4" fill="#3465a4"><title>City of London (Corporate)</title></circle></a><a href="/variants/s4/k4w35dp35o4~x2/"><circle cx="207.8" cy="206.0" r="4" fill="#3465a4"><title>MacRae - 2000 (Dress, Purple)</title></circle></a><a href="/variants/s5/k11lb38r11g11k5~x2/"><circle cx="183.2" cy="205.2" r="4" fill="#3465a4"><title>All as One (Corporate)</title></circle></a><circle cx="195.5" cy="214.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db3w25k25r3~x2/"><circle cx="191.9" cy="209.1" r="4" fill="#3465a4"><title>Gleneckley</title></circle></a><a href="/variants/s5/k3w29o9lb19k3~x2/"><circle cx="192.2" cy="202.2" r="4" fill="#3465a4"><title>Islander Dress</title></circle></a><a href="/variants/s5/k8y2t21w3r2~x4~t2205244/"><circle cx="251.5" cy="167.1" r="4" fill="#3465a4"><title>Oklahoma State American District Tartan</title></circle></a><a href="/variants/s5/k8dy2t21w3r2~x4~t2205244/"><circle cx="251.7" cy="167.0" r="4" fill="#3465a4"><title>Oklahoma</title></circle></a><a href="/variants/s5/k8dy2t21w3r2~x4/"><circle cx="248.7" cy="168.1" r="4" fill="#3465a4"><title>Oklahoma (US State)</title></circle></a><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="255.8" cy="238.7" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s4/r21db61dy8w21~x2/"><circle cx="255.7" cy="238.5" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s4/k5n24w24r5~x2/"><circle cx="157.5" cy="249.9" r="4" fill="#3465a4"><title>City of London (Corporate)</title></circle></a><a href="/variants/s4/k4w35dp35o4~x2/"><circle cx="207.9" cy="206.7" r="4" fill="#3465a4"><title>MacRae - 2000 (Dress, Purple)</title></circle></a><a href="/variants/s5/k11lb38r11g11k5~x2/"><circle cx="183.3" cy="205.8" r="4" fill="#3465a4"><title>All as One (Corporate)</title></circle></a><circle cx="195.6" cy="215.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/k1w8db8r1~x8/

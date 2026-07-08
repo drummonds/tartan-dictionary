@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Turnbull Dress, Bruce (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db10g4w27db40r4/)
 (the same proportion at any scale), whose colour order is pattern [BGWBR](/stripes/bgwbr/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7398
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7398](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7398)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/w11db20y3db8~x2/"><circle cx="353.9" cy="284.3" r="4" fill="#3465a4"><title>Lucard, Stéphane (Personal)</title></circle></a><a href="/variants/s6/r5db25w5db3g25db3~x2/"><circle cx="248.0" cy="216.7" r="4" fill="#3465a4"><title>Thayer USA (Name)</title></circle></a><a href="/variants/s4/g20r7db40w2~x2/"><circle cx="344.8" cy="202.7" r="4" fill="#3465a4"><title>McNiff, Kevin (Personal)</title></circle></a><a href="/variants/s3/db23w4r4~x4/"><circle cx="354.1" cy="245.2" r="4" fill="#3465a4"><title>Auchmaliddie Samkoma</title></circle></a><a href="/variants/s4/r1w8b8y1~x4/"><circle cx="253.4" cy="242.8" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="255.6" cy="238.0" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s4/r21db61dy8w21~x2/"><circle cx="255.6" cy="237.8" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s5/db37w9db3r9w3~x2/"><circle cx="372.6" cy="197.6" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s6/w4k26lb26k2lb5w2~x2/"><circle cx="255.1" cy="181.6" r="4" fill="#3465a4"><title>Indian Pipe Band (Corporate)</title></circle></a><a href="/variants/s6/lr8w3db40k12w3lr3~x2/"><circle cx="281.1" cy="154.7" r="4" fill="#3465a4"><title>Wolverines (Corporate)</title></circle></a><circle cx="292.8" cy="208.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/w11db20y3db8~x2/"><circle cx="354.1" cy="285.1" r="4" fill="#3465a4"><title>Lucard, Stéphane (Personal)</title></circle></a><a href="/variants/s6/r5db25w5db3g25db3~x2/"><circle cx="248.1" cy="217.2" r="4" fill="#3465a4"><title>Thayer USA (Name)</title></circle></a><a href="/variants/s4/g20r7db40w2~x2/"><circle cx="344.8" cy="203.1" r="4" fill="#3465a4"><title>McNiff, Kevin (Personal)</title></circle></a><a href="/variants/s3/db23w4r4~x4/"><circle cx="354.3" cy="245.9" r="4" fill="#3465a4"><title>Auchmaliddie Samkoma</title></circle></a><a href="/variants/s4/r1w8b8y1~x4/"><circle cx="253.6" cy="243.5" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="255.8" cy="238.7" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s4/r21db61dy8w21~x2/"><circle cx="255.7" cy="238.5" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s5/db37w9db3r9w3~x2/"><circle cx="372.6" cy="198.1" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s6/w4k26lb26k2lb5w2~x2/"><circle cx="255.2" cy="182.2" r="4" fill="#3465a4"><title>Indian Pipe Band (Corporate)</title></circle></a><a href="/variants/s6/lr8w3db40k12w3lr3~x2/"><circle cx="281.0" cy="155.1" r="4" fill="#3465a4"><title>Wolverines (Corporate)</title></circle></a><circle cx="292.9" cy="209.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db10g4w27db40r4~x2/

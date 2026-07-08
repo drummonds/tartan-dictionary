@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Granger"
   url: "/tartans/granger/"
+- name: "Granger"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b40k4b12k21b17w4/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBW](/stripes/bkbkbw/).
@@ -14,7 +16,7 @@ Part of the [Granger](/tartans/granger/) tartan — the named design grouping th
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db9k9db9k9db42w5~x2/"><circle cx="397.7" cy="205.9" r="4" fill="#3465a4"><title>Dollar Academy (1930s) (Corporate)</title></circle></a><a href="/variants/s6/db40w8db25w14db8y4~x2/"><circle cx="421.7" cy="235.9" r="4" fill="#3465a4"><title>Auchterlonie (Personal)</title></circle></a><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><circle cx="331.0" cy="194.3" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/variants/s6/db9k9db9k9db42lb5~x2/"><circle cx="417.8" cy="212.0" r="4" fill="#3465a4"><title>Dollar Academy</title></circle></a><a href="/variants/s6/r1t8k3t1k3t1~x8/"><circle cx="292.4" cy="209.6" r="4" fill="#3465a4"><title>Mackay (Blue)</title></circle></a><a href="/variants/s6/db1k3db1k3db8r1~x8/"><circle cx="344.7" cy="220.0" r="4" fill="#3465a4"><title>MacKay -1842 (VS) (Clan)</title></circle></a><a href="/variants/s6/db1k3db1k3db8r1~x4/"><circle cx="344.7" cy="220.0" r="4" fill="#3465a4"><title>Morgan (MacKay Blue) Clan Tartan</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="374.4" cy="143.2" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/variants/s6/db5k2db14k14db2lp2~x2/"><circle cx="302.7" cy="225.5" r="4" fill="#3465a4"><title>Royal Scotsman Train (Corporate)</title></circle></a><a href="/variants/s8/w4n15db8k4db28k2db4w2/"><circle cx="302.8" cy="159.0" r="4" fill="#3465a4"><title>Kelvinside Academy (School)</title></circle></a><circle cx="361.9" cy="209.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db9k9db9k9db42w5~x2/"><circle cx="397.7" cy="206.4" r="4" fill="#3465a4"><title>Dollar Academy (1930s) (Corporate)</title></circle></a><a href="/variants/s6/db40w8db25w14db8y4~x2/"><circle cx="421.8" cy="236.5" r="4" fill="#3465a4"><title>Auchterlonie (Personal)</title></circle></a><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><circle cx="331.1" cy="194.9" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/variants/s6/db9k9db9k9db42lb5~x2/"><circle cx="417.8" cy="212.5" r="4" fill="#3465a4"><title>Dollar Academy</title></circle></a><a href="/variants/s6/r1t8k3t1k3t1~x8/"><circle cx="292.4" cy="210.2" r="4" fill="#3465a4"><title>Mackay (Blue)</title></circle></a><a href="/variants/s6/db1k3db1k3db8r1~x8/"><circle cx="344.8" cy="220.5" r="4" fill="#3465a4"><title>MacKay -1842 (VS) (Clan)</title></circle></a><a href="/variants/s6/db1k3db1k3db8r1~x4/"><circle cx="344.8" cy="220.5" r="4" fill="#3465a4"><title>Morgan (MacKay Blue) Clan Tartan</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="374.4" cy="143.6" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/variants/s6/db5k2db14k14db2lp2~x2/"><circle cx="302.7" cy="226.0" r="4" fill="#3465a4"><title>Royal Scotsman Train (Corporate)</title></circle></a><a href="/variants/s8/w4n15db8k4db28k2db4w2/"><circle cx="302.8" cy="159.4" r="4" fill="#3465a4"><title>Kelvinside Academy (School)</title></circle></a><circle cx="362.0" cy="209.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/b40k4b12k21b17w4~x2/

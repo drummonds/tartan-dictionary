@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sands-Pingot Family, Alabama (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y6r1y4r4db2/)
 (the same proportion at any scale), whose colour order is pattern [BRGRG](/stripes/brgrg/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10580
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10580](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10580)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/ly6r1ly4r4db2~x5/"><circle cx="305.4" cy="282.0" r="4" fill="#3465a4"><title>Sands-Pingot (Name?)</title></circle></a><a href="/variants/s5/r18y3r18y30k4~x2/"><circle cx="346.1" cy="241.9" r="4" fill="#3465a4"><title>Shire of Hornwood (USA)</title></circle></a><a href="/variants/s6/y42b15r28y12b6r20/"><circle cx="333.8" cy="291.6" r="4" fill="#3465a4"><title>Kozlosky, Kilt</title></circle></a><a href="/variants/s4/y6w5y12r2~x2/"><circle cx="414.4" cy="287.3" r="4" fill="#3465a4"><title>One Account (Corporate)</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="386.9" cy="257.4" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s4/dr5o35dr46ly5~x2/"><circle cx="410.4" cy="261.6" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s5/o23dr4o23dr32lo4~x2/"><circle cx="395.3" cy="276.9" r="4" fill="#3465a4"><title>Hamilton, Red (Fashion?)</title></circle></a><a href="/variants/s5/n16r2n10r15lb5~x2/"><circle cx="385.5" cy="290.8" r="4" fill="#3465a4"><title>Mowbray, (Moubray)</title></circle></a><a href="/variants/s7/r8y2r15g10r4g10r4~x2/"><circle cx="361.0" cy="263.1" r="4" fill="#3465a4"><title>Caspari (Corporate)</title></circle></a><a href="/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/"><circle cx="386.0" cy="295.0" r="4" fill="#3465a4"><title>Tarim</title></circle></a><circle cx="374.5" cy="301.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/ly6r1ly4r4db2~x5/"><circle cx="305.7" cy="282.9" r="4" fill="#3465a4"><title>Sands-Pingot (Name?)</title></circle></a><a href="/variants/s5/r18y3r18y30k4~x2/"><circle cx="346.3" cy="242.5" r="4" fill="#3465a4"><title>Shire of Hornwood (USA)</title></circle></a><a href="/variants/s6/y42b15r28y12b6r20/"><circle cx="334.1" cy="292.2" r="4" fill="#3465a4"><title>Kozlosky, Kilt</title></circle></a><a href="/variants/s4/y6w5y12r2~x2/"><circle cx="414.7" cy="288.2" r="4" fill="#3465a4"><title>One Account (Corporate)</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="387.1" cy="258.0" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s4/dr5o35dr46ly5~x2/"><circle cx="410.6" cy="262.2" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s5/o23dr4o23dr32lo4~x2/"><circle cx="395.5" cy="277.5" r="4" fill="#3465a4"><title>Hamilton, Red (Fashion?)</title></circle></a><a href="/variants/s5/n16r2n10r15lb5~x2/"><circle cx="385.8" cy="291.4" r="4" fill="#3465a4"><title>Mowbray, (Moubray)</title></circle></a><a href="/variants/s7/r8y2r15g10r4g10r4~x2/"><circle cx="361.2" cy="263.8" r="4" fill="#3465a4"><title>Caspari (Corporate)</title></circle></a><a href="/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/"><circle cx="386.3" cy="295.7" r="4" fill="#3465a4"><title>Tarim</title></circle></a><circle cx="374.7" cy="302.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/y6r1y4r4db2~x5/

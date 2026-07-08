@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Auld Lang Syne, Grey Weavers Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4k2o12dr3k3dr3k23o10k2o6k2/)
 (the same proportion at any scale), whose colour order is pattern [KRKRKBKBRKW](/stripes/krkrkbkbrkw/).
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8081
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8081](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8081)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w4k2n12dr3k3dr3k23n10k2n6k2~x2/"><circle cx="211.7" cy="150.3" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey (Fashion)</title></circle></a><a href="/variants/s10/k6lb2n2lb3n2lb2n30k20w6k4~x2~n1900000/"><circle cx="205.9" cy="124.6" r="4" fill="#3465a4"><title>Nunavut</title></circle></a><a href="/variants/s11/k2r1dg10k10lb4k2lb2k2lb5k2lb2~x2/"><circle cx="154.4" cy="163.3" r="4" fill="#3465a4"><title>Bijral</title></circle></a><a href="/variants/s10/k6lb2n2lb3n2lb2n30k20w6k4~x2/"><circle cx="205.0" cy="124.4" r="4" fill="#3465a4"><title>Nunavut (District)</title></circle></a><a href="/variants/s6/ki37w18k37r2k2r2~x2~ki0705267-k0700000/"><circle cx="213.9" cy="129.1" r="4" fill="#3465a4"><title>Hakkarain (Personal)</title></circle></a><a href="/variants/s12/w12lb2k5lb2k10lb2k15lb2k20lb2y25lb2~x2/"><circle cx="202.7" cy="145.0" r="4" fill="#3465a4"><title>Liberty Square</title></circle></a><a href="/variants/s8/n22k2n2k2n2k16w16k3~x2/"><circle cx="188.3" cy="176.5" r="4" fill="#3465a4"><title>Laksaa (Manx)</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2/"><circle cx="195.3" cy="172.7" r="4" fill="#3465a4"><title>Ardmore (Fashion)</title></circle></a><a href="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/"><circle cx="167.1" cy="173.7" r="4" fill="#3465a4"><title>Cavan County Crest (Fashion)</title></circle></a><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/"><circle cx="206.6" cy="155.2" r="4" fill="#3465a4"><title>Wild Highlanders</title></circle></a><circle cx="194.8" cy="143.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w4k2n12dr3k3dr3k23n10k2n6k2~x2/"><circle cx="211.7" cy="150.7" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey (Fashion)</title></circle></a><a href="/variants/s10/k6lb2n2lb3n2lb2n30k20w6k4~x2~n1900000/"><circle cx="205.8" cy="124.9" r="4" fill="#3465a4"><title>Nunavut</title></circle></a><a href="/variants/s11/k2r1dg10k10lb4k2lb2k2lb5k2lb2~x2/"><circle cx="154.4" cy="163.7" r="4" fill="#3465a4"><title>Bijral</title></circle></a><a href="/variants/s10/k6lb2n2lb3n2lb2n30k20w6k4~x2/"><circle cx="205.0" cy="124.8" r="4" fill="#3465a4"><title>Nunavut (District)</title></circle></a><a href="/variants/s6/ki37w18k37r2k2r2~x2~ki0705267-k0700000/"><circle cx="213.9" cy="129.4" r="4" fill="#3465a4"><title>Hakkarain (Personal)</title></circle></a><a href="/variants/s12/w12lb2k5lb2k10lb2k15lb2k20lb2y25lb2~x2/"><circle cx="202.7" cy="145.4" r="4" fill="#3465a4"><title>Liberty Square</title></circle></a><a href="/variants/s8/n22k2n2k2n2k16w16k3~x2/"><circle cx="188.4" cy="177.1" r="4" fill="#3465a4"><title>Laksaa (Manx)</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2/"><circle cx="195.3" cy="173.2" r="4" fill="#3465a4"><title>Ardmore (Fashion)</title></circle></a><a href="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/"><circle cx="167.1" cy="174.2" r="4" fill="#3465a4"><title>Cavan County Crest (Fashion)</title></circle></a><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/"><circle cx="206.5" cy="155.6" r="4" fill="#3465a4"><title>Wild Highlanders</title></circle></a><circle cx="194.7" cy="143.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/w4k2o12dr3k3dr3k23o10k2o6k2~x2~o2500000/

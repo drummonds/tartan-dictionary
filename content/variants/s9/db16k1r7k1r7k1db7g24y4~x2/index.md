@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Knockando Woolmill"
   url: "/tartans/knockando-woolmill/"
+- name: "Knockando Woolmill"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db16k1r7k1r7k1db7g24y4/)
 (the same proportion at any scale), whose colour order is pattern [BKRKRKBGG](/stripes/bkrkrkbgg/).
@@ -14,7 +16,7 @@ Part of the [Knockando Woolmill](/tartans/knockando-woolmill/) tartan — the na
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10256
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10256](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10256)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy12n2k2n42k13g25n6k2r4k10~x2/"><circle cx="195.1" cy="123.2" r="4" fill="#3465a4"><title>Dinwoodie (Name)</title></circle></a><a href="/variants/s9/dy3k3dy3k18n28w1g22k2dy2~x2~n1702249-g2206152/"><circle cx="177.8" cy="116.3" r="4" fill="#3465a4"><title>Black Gold</title></circle></a><a href="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/"><circle cx="171.5" cy="118.8" r="4" fill="#3465a4"><title>Windsor</title></circle></a><a href="/variants/s14/k2g2r3db18r2g6r4lb1db6r3g18r3k2g2~x2/"><circle cx="176.7" cy="113.4" r="4" fill="#3465a4"><title>Glen Orchy #2 or MacIntyre</title></circle></a><a href="/variants/s9/db24y2k8g16k1g3k1g3r4~x2/"><circle cx="193.0" cy="119.6" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/"><circle cx="147.7" cy="130.2" r="4" fill="#3465a4"><title>Urquhart (Fashion)</title></circle></a><a href="/variants/s9/g26db3dr3db20dr3db3dr30lb3k2~x2/"><circle cx="212.0" cy="148.1" r="4" fill="#3465a4"><title>Ormiston (Personal)</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1g1y2~x2/"><circle cx="132.6" cy="129.6" r="4" fill="#3465a4"><title>Logan and MacLennan</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/"><circle cx="128.4" cy="127.0" r="4" fill="#3465a4"><title>Logan #7</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2~x2/"><circle cx="128.7" cy="137.7" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><circle cx="178.0" cy="128.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy12n2k2n42k13g25n6k2r4k10~x2/"><circle cx="195.1" cy="123.4" r="4" fill="#3465a4"><title>Dinwoodie (Name)</title></circle></a><a href="/variants/s9/dy3k3dy3k18n28w1g22k2dy2~x2~n1702249-g2206152/"><circle cx="177.7" cy="116.5" r="4" fill="#3465a4"><title>Black Gold</title></circle></a><a href="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/"><circle cx="171.4" cy="119.0" r="4" fill="#3465a4"><title>Windsor</title></circle></a><a href="/variants/s14/k2g2r3db18r2g6r4lb1db6r3g18r3k2g2~x2/"><circle cx="176.6" cy="113.6" r="4" fill="#3465a4"><title>Glen Orchy #2 or MacIntyre</title></circle></a><a href="/variants/s9/db24y2k8g16k1g3k1g3r4~x2/"><circle cx="192.9" cy="119.8" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/"><circle cx="147.7" cy="130.5" r="4" fill="#3465a4"><title>Urquhart (Fashion)</title></circle></a><a href="/variants/s9/g26db3dr3db20dr3db3dr30lb3k2~x2/"><circle cx="211.9" cy="148.4" r="4" fill="#3465a4"><title>Ormiston (Personal)</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1g1y2~x2/"><circle cx="132.5" cy="129.8" r="4" fill="#3465a4"><title>Logan and MacLennan</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/"><circle cx="128.3" cy="127.3" r="4" fill="#3465a4"><title>Logan #7</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2~x2/"><circle cx="128.7" cy="138.0" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><circle cx="178.0" cy="128.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db16k1r7k1r7k1db7g24y4~x2/

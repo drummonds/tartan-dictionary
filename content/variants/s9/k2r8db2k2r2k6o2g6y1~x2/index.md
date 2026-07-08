@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Craigmoor"
   url: "/tartans/craigmoor/"
+- name: "Craigmoor"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2r8db2k2r2k6o2g6y1/)
 (the same proportion at any scale), whose colour order is pattern [GGRKRKBRK](/stripes/ggrkrkbrk/).
@@ -14,7 +16,7 @@ Part of the [Craigmoor](/tartans/craigmoor/) tartan — the named design groupin
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k2r8db2k2r2k6dy2g6y1~x2/"><circle cx="66.8" cy="165.9" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><a href="/variants/s8/k14y3g18r15w2r3w2dp14~x2/"><circle cx="44.7" cy="167.1" r="4" fill="#3465a4"><title>Wilson's, No 83</title></circle></a><a href="/variants/s6/y3dy6g10k18r22w3~x2/"><circle cx="82.0" cy="181.2" r="4" fill="#3465a4"><title>Tyrolean (Fashion?)</title></circle></a><a href="/variants/s7/dg22w3k2y3k19r18b4~x2/"><circle cx="91.0" cy="153.7" r="4" fill="#3465a4"><title>Scotch House 2000, dress</title></circle></a><a href="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/"><circle cx="93.4" cy="166.7" r="4" fill="#3465a4"><title>Etienne-Carter, Sir George</title></circle></a><a href="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/"><circle cx="36.2" cy="165.3" r="4" fill="#3465a4"><title>Black Hills</title></circle></a><a href="/variants/s8/r5lb2o14w2k13dy13k2y3~x2/"><circle cx="37.0" cy="159.1" r="4" fill="#3465a4"><title>Culloden (Old and Rare) District Tartan</title></circle></a><a href="/variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/"><circle cx="70.8" cy="160.4" r="4" fill="#3465a4"><title>Walls, Steve C (Personal)</title></circle></a><a href="/variants/s10/r4do6o3do10k14t6r18t6k4t2~x2/"><circle cx="90.2" cy="180.2" r="4" fill="#3465a4"><title>Cartier, Sir George Etienne</title></circle></a><a href="/variants/s7/o4y2o21do11w2k20r3~x2/"><circle cx="135.5" cy="148.9" r="4" fill="#3465a4"><title>Barbour</title></circle></a><circle cx="65.9" cy="165.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k2r8db2k2r2k6dy2g6y1~x2/"><circle cx="66.8" cy="166.4" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><a href="/variants/s8/k14y3g18r15w2r3w2dp14~x2/"><circle cx="44.7" cy="167.5" r="4" fill="#3465a4"><title>Wilson's, No 83</title></circle></a><a href="/variants/s6/y3dy6g10k18r22w3~x2/"><circle cx="82.0" cy="181.7" r="4" fill="#3465a4"><title>Tyrolean (Fashion?)</title></circle></a><a href="/variants/s7/dg22w3k2y3k19r18b4~x2/"><circle cx="91.0" cy="154.0" r="4" fill="#3465a4"><title>Scotch House 2000, dress</title></circle></a><a href="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/"><circle cx="93.4" cy="167.1" r="4" fill="#3465a4"><title>Etienne-Carter, Sir George</title></circle></a><a href="/variants/s9/db3w2g14r14k2db7k9dy2k2~x2/"><circle cx="36.2" cy="165.8" r="4" fill="#3465a4"><title>Black Hills</title></circle></a><a href="/variants/s8/r5lb2o14w2k13dy13k2y3~x2/"><circle cx="36.9" cy="159.5" r="4" fill="#3465a4"><title>Culloden (Old and Rare) District Tartan</title></circle></a><a href="/variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/"><circle cx="70.8" cy="160.9" r="4" fill="#3465a4"><title>Walls, Steve C (Personal)</title></circle></a><a href="/variants/s10/r4do6o3do10k14t6r18t6k4t2~x2/"><circle cx="90.2" cy="180.7" r="4" fill="#3465a4"><title>Cartier, Sir George Etienne</title></circle></a><a href="/variants/s7/o4y2o21do11w2k20r3~x2/"><circle cx="135.5" cy="149.3" r="4" fill="#3465a4"><title>Barbour</title></circle></a><circle cx="65.9" cy="165.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k2r8db2k2r2k6o2g6y1~x2/

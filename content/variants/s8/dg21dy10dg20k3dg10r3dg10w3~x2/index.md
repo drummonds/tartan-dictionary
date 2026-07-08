@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hanby (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg21dy10dg20k3dg10r3dg10w3/)
 (the same proportion at any scale), whose colour order is pattern [GGGKGRGW](/stripes/gggkgrgw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7417
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7417](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7417)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/"><circle cx="334.3" cy="186.1" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="436.4" cy="198.3" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="314.7" cy="178.9" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s8/g8k2g13r4g12dp22g5y3~x2/"><circle cx="256.6" cy="184.7" r="4" fill="#3465a4"><title>Taylor Family Tartan</title></circle></a><a href="/variants/s6/dt40dy10dt8r20dt100w5/"><circle cx="550.3" cy="178.3" r="4" fill="#3465a4"><title>East of Scotland Tartan Army</title></circle></a><a href="/variants/s7/dg3w1dg12r6dg3k3g2~x4/"><circle cx="272.6" cy="171.0" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s8/dg5k15dg5k15dg19r2dg10b4~x2/"><circle cx="271.9" cy="216.1" r="4" fill="#3465a4"><title>Strath Halladale (Sutherland)</title></circle></a><a href="/variants/s9/k3dg14k8dg8dr3dg4lo3dg24w3~x2/"><circle cx="336.8" cy="171.8" r="4" fill="#3465a4"><title>MacStumer Hunting</title></circle></a><a href="/variants/s9/n3dy3r5dg10g3dg10k4dg24r3~x2~dg1806142-g2203152/"><circle cx="338.8" cy="175.5" r="4" fill="#3465a4"><title>Battle of the Somme Centenary</title></circle></a><a href="/variants/s9/dr3dg24k4dg10g3dg10dr5dy3n3~x2/"><circle cx="423.6" cy="202.6" r="4" fill="#3465a4"><title>Battle of the Somme Centenary</title></circle></a><circle cx="415.8" cy="218.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/"><circle cx="334.3" cy="186.6" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="436.5" cy="198.6" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="314.7" cy="179.3" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s8/g8k2g13r4g12dp22g5y3~x2/"><circle cx="256.7" cy="185.1" r="4" fill="#3465a4"><title>Taylor Family Tartan</title></circle></a><a href="/variants/s6/dt40dy10dt8r20dt100w5/"><circle cx="550.3" cy="178.6" r="4" fill="#3465a4"><title>East of Scotland Tartan Army</title></circle></a><a href="/variants/s7/dg3w1dg12r6dg3k3g2~x4/"><circle cx="272.6" cy="171.5" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s8/dg5k15dg5k15dg19r2dg10b4~x2/"><circle cx="271.9" cy="216.6" r="4" fill="#3465a4"><title>Strath Halladale (Sutherland)</title></circle></a><a href="/variants/s9/k3dg14k8dg8dr3dg4lo3dg24w3~x2/"><circle cx="336.8" cy="172.2" r="4" fill="#3465a4"><title>MacStumer Hunting</title></circle></a><a href="/variants/s9/n3dy3r5dg10g3dg10k4dg24r3~x2~dg1806142-g2203152/"><circle cx="338.9" cy="175.8" r="4" fill="#3465a4"><title>Battle of the Somme Centenary</title></circle></a><a href="/variants/s9/dr3dg24k4dg10g3dg10dr5dy3n3~x2/"><circle cx="423.7" cy="202.7" r="4" fill="#3465a4"><title>Battle of the Somme Centenary</title></circle></a><circle cx="415.9" cy="219.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg21dy10dg20k3dg10r3dg10w3~x2/

@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/scott/"
 - name: "Scott Dress"
   url: "/tartans/scott-dress/"
+- name: "Scott, dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4g5w2g5r4g14r10w30k1r2g4/)
 (the same proportion at any scale), whose colour order is pattern [GRKWRGRGWGR](/stripes/grkwrgrgwgr/).
@@ -16,7 +18,7 @@ Part of the [Scott Dress](/tartans/scott-dress/) tartan — the named design gro
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -83,8 +85,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg4r2k1w30r10dg14r4dg5w2dg5r4~x2/"><circle cx="193.6" cy="80.2" r="4" fill="#3465a4"><title>Scott Dress</title></circle></a><a href="/variants/s10/g7r3k3w54g24r5g5w5g5r5~x2/"><circle cx="261.8" cy="119.6" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/variants/s11/g26r5k1r2k1r5g16r5w16g2w8~x2/"><circle cx="247.6" cy="124.9" r="4" fill="#3465a4"><title>Livingston (Personal)</title></circle></a><a href="/variants/s10/r6g3w22r5w5k9g16r4k1r4~x2/"><circle cx="141.9" cy="138.4" r="4" fill="#3465a4"><title>MacDuff Dress #3</title></circle></a><a href="/variants/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="235.9" cy="149.6" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/variants/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/"><circle cx="262.2" cy="87.9" r="4" fill="#3465a4"><title>Royal Stuart / Stewart</title></circle></a><a href="/variants/s8/g3dg32g36o12k2w68dg3k2~x2~g2003152-dg1806142/"><circle cx="206.0" cy="105.4" r="4" fill="#3465a4"><title>Kintail Dress</title></circle></a><a href="/variants/s9/lb16k1r7k1r7k1lb7g24ly4~x2/"><circle cx="177.5" cy="129.0" r="4" fill="#3465a4"><title>Knockando Woolmill (Corporate)</title></circle></a><a href="/variants/s7/lb37k12ly17r3ly17k1y3~x2/"><circle cx="206.8" cy="121.3" r="4" fill="#3465a4"><title>Berger-MacLaren</title></circle></a><a href="/variants/s11/k7lb38g7k2g7k2g7ly21k3g4k3~x2/"><circle cx="158.6" cy="122.3" r="4" fill="#3465a4"><title>Chakraa (Fashion)</title></circle></a><circle cx="215.8" cy="111.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg4r2k1w30r10dg14r4dg5w2dg5r4~x2/"><circle cx="193.5" cy="80.5" r="4" fill="#3465a4"><title>Scott Dress</title></circle></a><a href="/variants/s10/g7r3k3w54g24r5g5w5g5r5~x2/"><circle cx="261.8" cy="120.0" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/variants/s11/g26r5k1r2k1r5g16r5w16g2w8~x2/"><circle cx="247.5" cy="125.3" r="4" fill="#3465a4"><title>Livingston (Personal)</title></circle></a><a href="/variants/s10/r6g3w22r5w5k9g16r4k1r4~x2/"><circle cx="141.9" cy="138.9" r="4" fill="#3465a4"><title>MacDuff Dress #3</title></circle></a><a href="/variants/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="235.9" cy="150.0" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/variants/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/"><circle cx="262.1" cy="88.2" r="4" fill="#3465a4"><title>Royal Stuart / Stewart</title></circle></a><a href="/variants/s8/g3dg32g36o12k2w68dg3k2~x2~g2003152-dg1806142/"><circle cx="205.9" cy="105.6" r="4" fill="#3465a4"><title>Kintail Dress</title></circle></a><a href="/variants/s9/lb16k1r7k1r7k1lb7g24ly4~x2/"><circle cx="177.4" cy="129.3" r="4" fill="#3465a4"><title>Knockando Woolmill (Corporate)</title></circle></a><a href="/variants/s7/lb37k12ly17r3ly17k1y3~x2/"><circle cx="206.8" cy="121.6" r="4" fill="#3465a4"><title>Berger-MacLaren</title></circle></a><a href="/variants/s11/k7lb38g7k2g7k2g7ly21k3g4k3~x2/"><circle cx="158.5" cy="122.7" r="4" fill="#3465a4"><title>Chakraa (Fashion)</title></circle></a><circle cx="215.8" cy="112.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r4g5w2g5r4g14r10w30k1r2g4~x2/

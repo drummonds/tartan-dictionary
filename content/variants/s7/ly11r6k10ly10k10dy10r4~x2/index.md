@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Duffus Hose, Lord"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly11r6k10ly10k10dy10r4/)
 (the same proportion at any scale), whose colour order is pattern [RGKYKRY](/stripes/rgkykry/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1006
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1006](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1006)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y15r7k12y12k12dy12r7~x2/"><circle cx="44.3" cy="314.4" r="4" fill="#3465a4"><title>Duffus Lord... Portrait Tartan</title></circle></a><a href="/variants/s7/y15r7k12y12k12o12r7~x2/"><circle cx="42.6" cy="313.2" r="4" fill="#3465a4"><title>Duffus, Lord</title></circle></a><a href="/variants/s4/r2g1w1k1~x20/"><circle cx="46.2" cy="286.6" r="4" fill="#3465a4"><title>Harazeen</title></circle></a><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><circle cx="111.4" cy="281.1" r="4" fill="#3465a4"><title>MacDuff #3</title></circle></a><a href="/variants/s7/k13dy28lo13dy28k18w18k13~x2/"><circle cx="67.3" cy="290.8" r="4" fill="#3465a4"><title>Boxer Beauty</title></circle></a><a href="/variants/s7/k13dy28y13dy28k18w18k13~x2/"><circle cx="71.7" cy="292.9" r="4" fill="#3465a4"><title>Boxer Beauty</title></circle></a><a href="/variants/s9/y6r13k13w5k13r13g5r4g6~x2/"><circle cx="56.4" cy="234.6" r="4" fill="#3465a4"><title>Akins Red Dress</title></circle></a><a href="/variants/s6/r6g5k5g5r6t1~x4~t2503227/"><circle cx="140.1" cy="262.8" r="4" fill="#3465a4"><title>Norwich No.028</title></circle></a><a href="/variants/s8/g6dp3k3dp3k3dp3g6r2~x2~dp1607327-r2109032/"><circle cx="101.9" cy="278.4" r="4" fill="#3465a4"><title>Wilson's No.137</title></circle></a><a href="/variants/s6/r2k1db2k1g2k1~x28/"><circle cx="33.8" cy="306.9" r="4" fill="#3465a4"><title>Burnicle (2015)</title></circle></a><circle cx="31.3" cy="293.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y15r7k12y12k12dy12r7~x2/"><circle cx="44.6" cy="315.4" r="4" fill="#3465a4"><title>Duffus Lord... Portrait Tartan</title></circle></a><a href="/variants/s7/y15r7k12y12k12o12r7~x2/"><circle cx="42.8" cy="314.2" r="4" fill="#3465a4"><title>Duffus, Lord</title></circle></a><a href="/variants/s4/r2g1w1k1~x20/"><circle cx="46.5" cy="287.6" r="4" fill="#3465a4"><title>Harazeen</title></circle></a><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><circle cx="111.6" cy="282.0" r="4" fill="#3465a4"><title>MacDuff #3</title></circle></a><a href="/variants/s7/k13dy28lo13dy28k18w18k13~x2/"><circle cx="67.5" cy="291.8" r="4" fill="#3465a4"><title>Boxer Beauty</title></circle></a><a href="/variants/s7/k13dy28y13dy28k18w18k13~x2/"><circle cx="71.9" cy="293.8" r="4" fill="#3465a4"><title>Boxer Beauty</title></circle></a><a href="/variants/s9/y6r13k13w5k13r13g5r4g6~x2/"><circle cx="56.5" cy="235.4" r="4" fill="#3465a4"><title>Akins Red Dress</title></circle></a><a href="/variants/s6/r6g5k5g5r6t1~x4~t2503227/"><circle cx="140.3" cy="263.7" r="4" fill="#3465a4"><title>Norwich No.028</title></circle></a><a href="/variants/s8/g6dp3k3dp3k3dp3g6r2~x2~dp1607327-r2109032/"><circle cx="102.1" cy="279.3" r="4" fill="#3465a4"><title>Wilson's No.137</title></circle></a><a href="/variants/s6/r2k1db2k1g2k1~x28/"><circle cx="34.0" cy="307.9" r="4" fill="#3465a4"><title>Burnicle (2015)</title></circle></a><circle cx="31.5" cy="294.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/ly11r6k10ly10k10dy10r4~x2/

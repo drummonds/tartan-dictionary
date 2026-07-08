@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bell Rock Lighthouse 200th Aniversar"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w5lb7db4lb2db25k13r1k2r4ri3/)
 (the same proportion at any scale), whose colour order is pattern [RRKRKBWBWW](/stripes/rrkrkbwbww/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10715
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10715](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10715)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w6n8dt4n2dt31k16dr1k2dr4r3~x2~n2002277-dt1203265/"><circle cx="203.6" cy="83.9" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Anniversary, The</title></circle></a><a href="/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/"><circle cx="166.0" cy="71.7" r="4" fill="#3465a4"><title>Colours of Hope</title></circle></a><a href="/variants/s10/g1b28k11dr5w1dr5k11ly1k2g1~x2/"><circle cx="195.9" cy="78.9" r="4" fill="#3465a4"><title>Scragg, Moran (Personal)</title></circle></a><a href="/variants/s14/w4k1db24k1r8w2g8w2db8k1y2k8y2k1~x2/"><circle cx="154.7" cy="72.7" r="4" fill="#3465a4"><title>South Africa</title></circle></a><a href="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/"><circle cx="168.3" cy="76.7" r="4" fill="#3465a4"><title>Clinton Wedding (Personal)</title></circle></a><a href="/variants/s12/db33r8k12y2k4w4k4g12db8k4db4w2~x2/"><circle cx="162.2" cy="102.8" r="4" fill="#3465a4"><title>MacBeth/Stewart Brydone 1862</title></circle></a><a href="/variants/s12/db33r8k12dy2k4w4k4g12db8k4db4w2~x2/"><circle cx="163.2" cy="103.1" r="4" fill="#3465a4"><title>MacLulich</title></circle></a><a href="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2~t2003246/"><circle cx="169.9" cy="76.6" r="4" fill="#3465a4"><title>Clinton Wedding</title></circle></a><a href="/variants/s11/g9r2m2g3m18g2k2g1k19db33w2~x2/"><circle cx="151.3" cy="71.8" r="4" fill="#3465a4"><title>Pride of Scotland</title></circle></a><a href="/variants/s10/dr2db24lb6k6g6k4g2k2g2k1~x2/"><circle cx="171.1" cy="91.7" r="4" fill="#3465a4"><title>Crookdake-Cheng (Personal)</title></circle></a><circle cx="157.1" cy="87.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w6n8dt4n2dt31k16dr1k2dr4r3~x2~n2002277-dt1203265/"><circle cx="203.5" cy="84.0" r="4" fill="#3465a4"><title>Bell Rock Lighthouse 200th Anniversary, The</title></circle></a><a href="/variants/s11/k3db28w2y2db1g4k8w3r4y10k2~x2/"><circle cx="165.8" cy="71.8" r="4" fill="#3465a4"><title>Colours of Hope</title></circle></a><a href="/variants/s10/g1b28k11dr5w1dr5k11ly1k2g1~x2/"><circle cx="195.8" cy="79.0" r="4" fill="#3465a4"><title>Scragg, Moran (Personal)</title></circle></a><a href="/variants/s14/w4k1db24k1r8w2g8w2db8k1y2k8y2k1~x2/"><circle cx="154.5" cy="72.8" r="4" fill="#3465a4"><title>South Africa</title></circle></a><a href="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2/"><circle cx="168.2" cy="76.8" r="4" fill="#3465a4"><title>Clinton Wedding (Personal)</title></circle></a><a href="/variants/s12/db33r8k12y2k4w4k4g12db8k4db4w2~x2/"><circle cx="162.1" cy="103.0" r="4" fill="#3465a4"><title>MacBeth/Stewart Brydone 1862</title></circle></a><a href="/variants/s12/db33r8k12dy2k4w4k4g12db8k4db4w2~x2/"><circle cx="163.1" cy="103.3" r="4" fill="#3465a4"><title>MacLulich</title></circle></a><a href="/variants/s12/w5db6r20k6t5k3db26r2ly1r2db3w3~x2~t2003246/"><circle cx="169.7" cy="76.8" r="4" fill="#3465a4"><title>Clinton Wedding</title></circle></a><a href="/variants/s11/g9r2m2g3m18g2k2g1k19db33w2~x2/"><circle cx="151.2" cy="71.9" r="4" fill="#3465a4"><title>Pride of Scotland</title></circle></a><a href="/variants/s10/dr2db24lb6k6g6k4g2k2g2k1~x2/"><circle cx="170.9" cy="91.8" r="4" fill="#3465a4"><title>Crookdake-Cheng (Personal)</title></circle></a><circle cx="156.9" cy="87.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w5lb7db4lb2db25k13r1k2r4ri3~x2~r1807033-ri2109032/

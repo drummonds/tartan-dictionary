@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wells Red, Greg (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n12k2n12y2k12w1k12y2r12k2r12/)
 (the same proportion at any scale), whose colour order is pattern [BKBGKWKGRKR](/stripes/bkbgkwkgrkr/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4594
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4594](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4594)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r8ly2r22k10dg6k6dg10k6dg10dgi3dg3dgi4~x2~dg1303152-dgi1605139/"><circle cx="113.4" cy="161.9" r="4" fill="#3465a4"><title>Iona</title></circle></a><a href="/variants/s11/r16k4r2k4r2k8r8g8k1db16w4~x2/"><circle cx="123.1" cy="134.8" r="4" fill="#3465a4"><title>Malawi</title></circle></a><a href="/variants/s10/r4do6o3do10k14t6r18t6k4t2~x2/"><circle cx="90.2" cy="180.2" r="4" fill="#3465a4"><title>Cartier, Sir George Etienne</title></circle></a><a href="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/"><circle cx="93.4" cy="166.7" r="4" fill="#3465a4"><title>Etienne-Carter, Sir George</title></circle></a><a href="/variants/s11/k14db22k5dy11k5y24k11dy11r54dy8k10/"><circle cx="97.8" cy="147.3" r="4" fill="#3465a4"><title>Derry County, Crest Range</title></circle></a><a href="/variants/s11/k4r6g8r16k6db10k2db10k2g8y1~x2/"><circle cx="94.3" cy="156.2" r="4" fill="#3465a4"><title>MacBrine (Name)</title></circle></a><a href="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/"><circle cx="78.2" cy="142.1" r="4" fill="#3465a4"><title>Derry County Crest (Fashion)</title></circle></a><a href="/variants/s12/r4o14dg2o4dg2k6o3k6ki14r2ki4r4~x2~ki0604259/"><circle cx="84.0" cy="168.8" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><circle cx="148.2" cy="161.4" r="4" fill="#3465a4"><title>North Berwick Pipe Band (Dancing)</title></circle></a><a href="/variants/s8/k8y4k16db10r19db10w2r6~x2/"><circle cx="101.0" cy="188.6" r="4" fill="#3465a4"><title>Sullivan of Braemar</title></circle></a><circle cx="118.5" cy="155.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r8ly2r22k10dg6k6dg10k6dg10dgi3dg3dgi4~x2~dg1303152-dgi1605139/"><circle cx="113.4" cy="162.3" r="4" fill="#3465a4"><title>Iona</title></circle></a><a href="/variants/s11/r16k4r2k4r2k8r8g8k1db16w4~x2/"><circle cx="123.1" cy="135.2" r="4" fill="#3465a4"><title>Malawi</title></circle></a><a href="/variants/s10/r4do6o3do10k14t6r18t6k4t2~x2/"><circle cx="90.2" cy="180.7" r="4" fill="#3465a4"><title>Cartier, Sir George Etienne</title></circle></a><a href="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/"><circle cx="93.4" cy="167.1" r="4" fill="#3465a4"><title>Etienne-Carter, Sir George</title></circle></a><a href="/variants/s11/k14db22k5dy11k5y24k11dy11r54dy8k10/"><circle cx="97.8" cy="147.6" r="4" fill="#3465a4"><title>Derry County, Crest Range</title></circle></a><a href="/variants/s11/k4r6g8r16k6db10k2db10k2g8y1~x2/"><circle cx="94.2" cy="156.6" r="4" fill="#3465a4"><title>MacBrine (Name)</title></circle></a><a href="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/"><circle cx="78.1" cy="142.5" r="4" fill="#3465a4"><title>Derry County Crest (Fashion)</title></circle></a><a href="/variants/s12/r4o14dg2o4dg2k6o3k6ki14r2ki4r4~x2~ki0604259/"><circle cx="84.0" cy="169.2" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/"><circle cx="148.2" cy="161.9" r="4" fill="#3465a4"><title>North Berwick Pipe Band (Dancing)</title></circle></a><a href="/variants/s8/k8y4k16db10r19db10w2r6~x2/"><circle cx="101.1" cy="189.1" r="4" fill="#3465a4"><title>Sullivan of Braemar</title></circle></a><circle cx="118.5" cy="155.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/n12k2n12y2k12w1k12y2r12k2r12~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Little Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4dr4k4dr4k4w8k2w8k8lo1/)
 (the same proportion at any scale), whose colour order is pattern [KBKBKWKWKY](/stripes/kbkbkwkwky/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2126
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2126](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2126)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/"><circle cx="153.4" cy="206.2" r="4" fill="#3465a4"><title>Little of Morton Rigg</title></circle></a><a href="/variants/s10/k5w4k4r4k4w7k2w7k8y1~x4/"><circle cx="157.2" cy="207.4" r="4" fill="#3465a4"><title>Little, Arisaid</title></circle></a><a href="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/"><circle cx="167.1" cy="173.7" r="4" fill="#3465a4"><title>Cavan County Crest (Fashion)</title></circle></a><a href="/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/"><circle cx="164.2" cy="209.2" r="4" fill="#3465a4"><title>Little of Morton Rig Family/Clan Tartan</title></circle></a><a href="/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/"><circle cx="156.1" cy="191.7" r="4" fill="#3465a4"><title>Brittany National (District)</title></circle></a><a href="/variants/s9/lg16k3lg16k26dp4k26n20k3n8/"><circle cx="163.9" cy="195.5" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s10/dp9k11lb2g9k3g9lb2k11dp9k3~x2~dp1607327/"><circle cx="117.8" cy="223.5" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/variants/s8/dg14r5dg14w5k2r5k2w9~x4/"><circle cx="166.7" cy="203.6" r="4" fill="#3465a4"><title>Unnamed (Hip Flask)</title></circle></a><a href="/variants/s10/dp16k17g18w2k5w2g18k17dp16k3~x2~dp1607327-w4000000/"><circle cx="126.6" cy="197.6" r="4" fill="#3465a4"><title>Wilson's No.175</title></circle></a><a href="/variants/s11/g10k10lb4k2dy2k2lb3k12lb12k2lb3~x2/"><circle cx="144.7" cy="190.6" r="4" fill="#3465a4"><title>Dalgliesh Dress</title></circle></a><circle cx="143.8" cy="206.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/"><circle cx="153.4" cy="206.8" r="4" fill="#3465a4"><title>Little of Morton Rigg</title></circle></a><a href="/variants/s10/k5w4k4r4k4w7k2w7k8y1~x4/"><circle cx="157.3" cy="208.1" r="4" fill="#3465a4"><title>Little, Arisaid</title></circle></a><a href="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/"><circle cx="167.1" cy="174.2" r="4" fill="#3465a4"><title>Cavan County Crest (Fashion)</title></circle></a><a href="/variants/s10/k4lb4k4lb4k4dr8k2dr8k8lo1~x4/"><circle cx="164.3" cy="209.8" r="4" fill="#3465a4"><title>Little of Morton Rig Family/Clan Tartan</title></circle></a><a href="/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/"><circle cx="156.1" cy="192.3" r="4" fill="#3465a4"><title>Brittany National (District)</title></circle></a><a href="/variants/s9/lg16k3lg16k26dp4k26n20k3n8/"><circle cx="164.0" cy="196.0" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s10/dp9k11lb2g9k3g9lb2k11dp9k3~x2~dp1607327/"><circle cx="117.9" cy="224.1" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/variants/s8/dg14r5dg14w5k2r5k2w9~x4/"><circle cx="166.8" cy="204.2" r="4" fill="#3465a4"><title>Unnamed (Hip Flask)</title></circle></a><a href="/variants/s10/dp16k17g18w2k5w2g18k17dp16k3~x2~dp1607327-w4000000/"><circle cx="126.6" cy="198.2" r="4" fill="#3465a4"><title>Wilson's No.175</title></circle></a><a href="/variants/s11/g10k10lb4k2dy2k2lb3k12lb12k2lb3~x2/"><circle cx="144.8" cy="191.2" r="4" fill="#3465a4"><title>Dalgliesh Dress</title></circle></a><circle cx="143.8" cy="206.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k4dr4k4dr4k4w8k2w8k8lo1~x4/

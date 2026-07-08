@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacCormick, dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3g13k10r13k2r3/)
 (the same proportion at any scale), whose colour order is pattern [KGKRKR](/stripes/kgkrkr/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3g13k10dr13k2dr3~x2/"><circle cx="172.7" cy="243.4" r="4" fill="#3465a4"><title>MacCormick (Dress)</title></circle></a><a href="/variants/s7/lo2dg7k6r11k1r1lo2~x4~r1908029/"><circle cx="168.4" cy="175.8" r="4" fill="#3465a4"><title>Blackstock Red (Dress)</title></circle></a><a href="/variants/s7/lo2dg7k6r11k1r1lo2~x4/"><circle cx="162.4" cy="172.6" r="4" fill="#3465a4"><title>Blackstock, Red Dress (Clan)</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3~x2/"><circle cx="157.0" cy="206.4" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3/"><circle cx="157.0" cy="206.4" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s7/y2g7k6r12k1r1y2~x4/"><circle cx="179.4" cy="170.1" r="4" fill="#3465a4"><title>Blackstock, dress</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.0" cy="183.1" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.8" cy="200.6" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s7/r20k14w2k14g9r3g11~x2/"><circle cx="134.3" cy="204.7" r="4" fill="#3465a4"><title>Brough</title></circle></a><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="158.3" cy="198.3" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><circle cx="151.0" cy="230.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3g13k10dr13k2dr3~x2/"><circle cx="172.8" cy="244.1" r="4" fill="#3465a4"><title>MacCormick (Dress)</title></circle></a><a href="/variants/s7/lo2dg7k6r11k1r1lo2~x4~r1908029/"><circle cx="168.5" cy="176.3" r="4" fill="#3465a4"><title>Blackstock Red (Dress)</title></circle></a><a href="/variants/s7/lo2dg7k6r11k1r1lo2~x4/"><circle cx="162.4" cy="173.1" r="4" fill="#3465a4"><title>Blackstock, Red Dress (Clan)</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3~x2/"><circle cx="157.0" cy="206.9" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3/"><circle cx="157.0" cy="206.9" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s7/y2g7k6r12k1r1y2~x4/"><circle cx="179.5" cy="170.6" r="4" fill="#3465a4"><title>Blackstock, dress</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.1" cy="183.7" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.9" cy="201.2" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s7/r20k14w2k14g9r3g11~x2/"><circle cx="134.4" cy="205.4" r="4" fill="#3465a4"><title>Brough</title></circle></a><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="158.3" cy="198.9" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><circle cx="151.1" cy="231.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k3g13k10r13k2r3~x2/

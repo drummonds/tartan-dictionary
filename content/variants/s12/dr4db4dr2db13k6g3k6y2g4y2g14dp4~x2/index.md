@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/kinloch/"
 - name: "Kinloch Anderson Hunting"
   url: "/tartans/kinloch-anderson-hunting/"
+- name: "Kinloch Anderson Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr4db4dr2db13k6g3k6y2g4y2g14dp4/)
 (the same proportion at any scale), whose colour order is pattern [BBBBKGKGGGGB](/stripes/bbbbkgkggggb/).
@@ -16,7 +18,7 @@ Part of the [Kinloch Anderson Hunting](/tartans/kinloch-anderson-hunting/) tarta
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1988
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1988](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1988)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr4g14o2g4o2k6g3k6db12dr2db4dr4~x2/"><circle cx="87.9" cy="184.7" r="4" fill="#3465a4"><title>Kinloch Anderson #2 (Corporate)</title></circle></a><a href="/variants/s17/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3~x2/"><circle cx="73.9" cy="154.3" r="4" fill="#3465a4"><title>Lee Cox (Personal)</title></circle></a><a href="/variants/s11/r2k1db8k7g8y2g8k7db8k1t2~x4/"><circle cx="57.0" cy="176.8" r="4" fill="#3465a4"><title>Adam Smith (Corporate)</title></circle></a><a href="/variants/s9/dr2lb1g7r1k7g1db7r1g2~x8~dr1004029-r1606028/"><circle cx="81.9" cy="166.9" r="4" fill="#3465a4"><title>MacCraig</title></circle></a><a href="/variants/s13/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2~x2/"><circle cx="33.8" cy="162.3" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><a href="/variants/s12/dr4g14dg2g4dg2k6g3k6db14dr2db4dr4~x2/"><circle cx="96.6" cy="185.6" r="4" fill="#3465a4"><title>Kinloch Anderson, hunting</title></circle></a><a href="/variants/s17/db12k2g2k2g2k2db13dr6k10dr6g13k2lo2k2lb2k2g12~x2/"><circle cx="59.3" cy="148.5" r="4" fill="#3465a4"><title>Cunningham Hunting</title></circle></a><a href="/variants/s11/dr2k1g7k6db7t2db7k6g7k1lo2~x4/"><circle cx="45.7" cy="186.3" r="4" fill="#3465a4"><title>Smith (Clan)</title></circle></a><a href="/variants/s14/k1y1k1g6k6db6r1db1r1db6k6g6k1t1~x4/"><circle cx="74.6" cy="160.4" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/variants/s12/db7w2g3db18y2k15y2g17r5g3r2g7~x2/"><circle cx="95.1" cy="146.5" r="4" fill="#3465a4"><title>Paisley</title></circle></a><circle cx="71.1" cy="172.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr4g14o2g4o2k6g3k6db12dr2db4dr4~x2/"><circle cx="87.9" cy="185.1" r="4" fill="#3465a4"><title>Kinloch Anderson #2 (Corporate)</title></circle></a><a href="/variants/s17/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3~x2/"><circle cx="73.9" cy="154.7" r="4" fill="#3465a4"><title>Lee Cox (Personal)</title></circle></a><a href="/variants/s11/r2k1db8k7g8y2g8k7db8k1t2~x4/"><circle cx="57.0" cy="177.2" r="4" fill="#3465a4"><title>Adam Smith (Corporate)</title></circle></a><a href="/variants/s9/dr2lb1g7r1k7g1db7r1g2~x8~dr1004029-r1606028/"><circle cx="81.8" cy="167.3" r="4" fill="#3465a4"><title>MacCraig</title></circle></a><a href="/variants/s13/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2~x2/"><circle cx="33.8" cy="162.7" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><a href="/variants/s12/dr4g14dg2g4dg2k6g3k6db14dr2db4dr4~x2/"><circle cx="96.6" cy="186.0" r="4" fill="#3465a4"><title>Kinloch Anderson, hunting</title></circle></a><a href="/variants/s17/db12k2g2k2g2k2db13dr6k10dr6g13k2lo2k2lb2k2g12~x2/"><circle cx="59.2" cy="148.8" r="4" fill="#3465a4"><title>Cunningham Hunting</title></circle></a><a href="/variants/s11/dr2k1g7k6db7t2db7k6g7k1lo2~x4/"><circle cx="45.7" cy="186.8" r="4" fill="#3465a4"><title>Smith (Clan)</title></circle></a><a href="/variants/s14/k1y1k1g6k6db6r1db1r1db6k6g6k1t1~x4/"><circle cx="74.6" cy="160.8" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/variants/s12/db7w2g3db18y2k15y2g17r5g3r2g7~x2/"><circle cx="95.0" cy="146.8" r="4" fill="#3465a4"><title>Paisley</title></circle></a><circle cx="71.1" cy="172.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dr4db4dr2db13k6g3k6y2g4y2g14dp4~x2/

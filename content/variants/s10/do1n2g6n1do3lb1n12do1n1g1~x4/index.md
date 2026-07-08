@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wicklow, County (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do1n2g6n1do3lb1n12do1n1g1/)
 (the same proportion at any scale), whose colour order is pattern [BBGBBWBBBG](/stripes/bbgbbwbbbg/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2265
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2265](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2265)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/"><circle cx="485.2" cy="233.2" r="4" fill="#3465a4"><title>Wicklow Irish County Tartan</title></circle></a><a href="/variants/s10/dr3n30g8dr2g2dr2g2dr8n7dr2~x2/"><circle cx="476.3" cy="215.7" r="4" fill="#3465a4"><title>Gray Family Tartan</title></circle></a><a href="/variants/s18/n1do1n12lb1do3n1g6n2do1n2g6n1do3lb1n12do1n1g1~x4/"><circle cx="436.3" cy="198.7" r="4" fill="#3465a4"><title>Wicklow, County</title></circle></a><a href="/variants/s9/n65dp3g3dp3g16do8g3do3b4~x2/"><circle cx="504.0" cy="169.9" r="4" fill="#3465a4"><title>Scottish National (hunting)</title></circle></a><a href="/variants/s7/dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090/"><circle cx="471.4" cy="277.8" r="4" fill="#3465a4"><title>Lister (Name)</title></circle></a><a href="/variants/s5/n57w5g20n5y10/"><circle cx="499.9" cy="258.2" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s8/dt14o1dt1o1dt6n14w1n1~x4/"><circle cx="411.9" cy="199.5" r="4" fill="#3465a4"><title>Corrie</title></circle></a><a href="/variants/s9/n3do18n4do3n4r13n21do2b3~x2/"><circle cx="343.6" cy="223.7" r="4" fill="#3465a4"><title>Leitrim</title></circle></a><a href="/variants/s11/ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000/"><circle cx="489.0" cy="233.2" r="4" fill="#3465a4"><title>Bute Heather, Ancient Wth'd (Fashion</title></circle></a><circle cx="438.7" cy="218.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/"><circle cx="485.3" cy="233.3" r="4" fill="#3465a4"><title>Wicklow Irish County Tartan</title></circle></a><a href="/variants/s10/dr3n30g8dr2g2dr2g2dr8n7dr2~x2/"><circle cx="476.4" cy="215.9" r="4" fill="#3465a4"><title>Gray Family Tartan</title></circle></a><a href="/variants/s18/n1do1n12lb1do3n1g6n2do1n2g6n1do3lb1n12do1n1g1~x4/"><circle cx="436.4" cy="198.7" r="4" fill="#3465a4"><title>Wicklow, County</title></circle></a><a href="/variants/s9/n65dp3g3dp3g16do8g3do3b4~x2/"><circle cx="504.0" cy="169.8" r="4" fill="#3465a4"><title>Scottish National (hunting)</title></circle></a><a href="/variants/s7/dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090/"><circle cx="471.6" cy="278.2" r="4" fill="#3465a4"><title>Lister (Name)</title></circle></a><a href="/variants/s5/n57w5g20n5y10/"><circle cx="500.1" cy="258.5" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s8/dt14o1dt1o1dt6n14w1n1~x4/"><circle cx="411.9" cy="199.7" r="4" fill="#3465a4"><title>Corrie</title></circle></a><a href="/variants/s9/n3do18n4do3n4r13n21do2b3~x2/"><circle cx="343.7" cy="223.9" r="4" fill="#3465a4"><title>Leitrim</title></circle></a><a href="/variants/s11/ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000/"><circle cx="489.1" cy="233.3" r="4" fill="#3465a4"><title>Bute Heather, Ancient Wth'd (Fashion</title></circle></a><circle cx="438.8" cy="218.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Strathspey"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1g5k5db5k1db1k1/)
 (the same proportion at any scale), whose colour order is pattern [KBKBKGK](/stripes/kbkbkgk/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k1dg5k5t5k1t1k1~x4/"><circle cx="175.5" cy="236.0" r="4" fill="#3465a4"><title>Strathspey District (District)</title></circle></a><a href="/variants/s7/db4k2db10k10g10k2dr3~x2/"><circle cx="121.8" cy="240.3" r="4" fill="#3465a4"><title>MacKinlay (Clan)</title></circle></a><a href="/variants/s7/db1k1db6k6g6k1w1~x2/"><circle cx="131.5" cy="211.6" r="4" fill="#3465a4"><title>Forbes #4</title></circle></a><a href="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/"><circle cx="218.2" cy="252.9" r="4" fill="#3465a4"><title>Black Watch (smallest sett)</title></circle></a><a href="/variants/s6/k1g3k3db3k1db1~x4/"><circle cx="148.5" cy="289.7" r="4" fill="#3465a4"><title>Sutherland 42nd</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="170.3" cy="222.0" r="4" fill="#3465a4"><title>Forbes - 1947 (Lyon Court)</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1/"><circle cx="170.3" cy="222.0" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x2/"><circle cx="170.3" cy="222.0" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><a href="/variants/s6/db6k6db18k18g22k5/"><circle cx="150.8" cy="269.3" r="4" fill="#3465a4"><title>Campbell, the 42nd</title></circle></a><a href="/variants/s6/t6k6t18k18g22k5~x2/"><circle cx="137.6" cy="268.6" r="4" fill="#3465a4"><title>Campbell, The 42nd</title></circle></a><circle cx="174.3" cy="235.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k1dg5k5t5k1t1k1~x4/"><circle cx="175.5" cy="236.7" r="4" fill="#3465a4"><title>Strathspey District (District)</title></circle></a><a href="/variants/s7/db4k2db10k10g10k2dr3~x2/"><circle cx="121.9" cy="240.9" r="4" fill="#3465a4"><title>MacKinlay (Clan)</title></circle></a><a href="/variants/s7/db1k1db6k6g6k1w1~x2/"><circle cx="131.6" cy="212.1" r="4" fill="#3465a4"><title>Forbes #4</title></circle></a><a href="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/"><circle cx="218.2" cy="253.4" r="4" fill="#3465a4"><title>Black Watch (smallest sett)</title></circle></a><a href="/variants/s6/k1g3k3db3k1db1~x4/"><circle cx="148.6" cy="290.5" r="4" fill="#3465a4"><title>Sutherland 42nd</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="170.4" cy="222.6" r="4" fill="#3465a4"><title>Forbes - 1947 (Lyon Court)</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1/"><circle cx="170.4" cy="222.6" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x2/"><circle cx="170.4" cy="222.6" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><a href="/variants/s6/db6k6db18k18g22k5/"><circle cx="151.0" cy="270.0" r="4" fill="#3465a4"><title>Campbell, the 42nd</title></circle></a><a href="/variants/s6/t6k6t18k18g22k5~x2/"><circle cx="137.7" cy="269.4" r="4" fill="#3465a4"><title>Campbell, The 42nd</title></circle></a><circle cx="174.4" cy="235.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k1g5k5db5k1db1k1~x4/

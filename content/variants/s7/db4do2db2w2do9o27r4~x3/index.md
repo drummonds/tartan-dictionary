@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified 35"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4do2db2w2do9o27r4/)
 (the same proportion at any scale), whose colour order is pattern [BBBWBRR](/stripes/bbbwbrr/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g4y9g3db4g3w3r32g4y3~x2/"><circle cx="284.5" cy="156.7" r="4" fill="#3465a4"><title>Antrim County Crest (Fashion)</title></circle></a><a href="/variants/s8/r6t22r6g20y2r45t2w5~x2/"><circle cx="320.7" cy="146.2" r="4" fill="#3465a4"><title>Elbrick Dress (Personal)</title></circle></a><a href="/variants/s7/r3b1r12o3dg12w1dg2~x4/"><circle cx="261.5" cy="175.1" r="4" fill="#3465a4"><title>Leckie (Personal)</title></circle></a><a href="/variants/s6/n47w6r24w3db5y3~x2/"><circle cx="337.6" cy="174.4" r="4" fill="#3465a4"><title>Duminiak (Trevose, Pennsylvania)</title></circle></a><a href="/variants/s8/r26n4r1dp2g1n4g14lb2~x2/"><circle cx="342.8" cy="136.3" r="4" fill="#3465a4"><title>Redpath, Robert A (Personal)</title></circle></a><a href="/variants/s7/r2g16ri1r2ri12y1lb1~x2~r1706009-ri2109032/"><circle cx="311.6" cy="165.0" r="4" fill="#3465a4"><title>Spragg (Name)</title></circle></a><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/"><circle cx="305.7" cy="101.7" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><a href="/variants/s11/r5g9y2g9r5db9r28g3lb2r4db2~x2/"><circle cx="294.8" cy="147.1" r="4" fill="#3465a4"><title>Loch Creran</title></circle></a><a href="/variants/s6/n47w6r24w3db5ly3~x2/"><circle cx="330.8" cy="172.1" r="4" fill="#3465a4"><title>Duminiak (Personal)</title></circle></a><a href="/variants/s8/r2ri6db5lg3g13ri20do2ri2~x2~r1906038-ri2109032/"><circle cx="260.2" cy="165.4" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><circle cx="323.9" cy="161.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g4y9g3db4g3w3r32g4y3~x2/"><circle cx="284.6" cy="157.0" r="4" fill="#3465a4"><title>Antrim County Crest (Fashion)</title></circle></a><a href="/variants/s8/r6t22r6g20y2r45t2w5~x2/"><circle cx="320.7" cy="146.5" r="4" fill="#3465a4"><title>Elbrick Dress (Personal)</title></circle></a><a href="/variants/s7/r3b1r12o3dg12w1dg2~x4/"><circle cx="261.5" cy="175.5" r="4" fill="#3465a4"><title>Leckie (Personal)</title></circle></a><a href="/variants/s6/n47w6r24w3db5y3~x2/"><circle cx="337.7" cy="174.7" r="4" fill="#3465a4"><title>Duminiak (Trevose, Pennsylvania)</title></circle></a><a href="/variants/s8/r26n4r1dp2g1n4g14lb2~x2/"><circle cx="342.8" cy="136.4" r="4" fill="#3465a4"><title>Redpath, Robert A (Personal)</title></circle></a><a href="/variants/s7/r2g16ri1r2ri12y1lb1~x2~r1706009-ri2109032/"><circle cx="311.6" cy="165.2" r="4" fill="#3465a4"><title>Spragg (Name)</title></circle></a><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/"><circle cx="305.7" cy="101.9" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><a href="/variants/s11/r5g9y2g9r5db9r28g3lb2r4db2~x2/"><circle cx="294.8" cy="147.4" r="4" fill="#3465a4"><title>Loch Creran</title></circle></a><a href="/variants/s6/n47w6r24w3db5ly3~x2/"><circle cx="330.9" cy="172.5" r="4" fill="#3465a4"><title>Duminiak (Personal)</title></circle></a><a href="/variants/s8/r2ri6db5lg3g13ri20do2ri2~x2~r1906038-ri2109032/"><circle cx="260.3" cy="165.7" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><circle cx="324.0" cy="161.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db4do2db2w2do9o27r4~x3/

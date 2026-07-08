@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sterling (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g11ly10db11t33w3/)
 (the same proportion at any scale), whose colour order is pattern [GYBBW](/stripes/gybbw/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10653
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10653](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10653)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr3b35db4g47w3~x2/"><circle cx="357.3" cy="212.1" r="4" fill="#3465a4"><title>Exabyte</title></circle></a><a href="/variants/s6/w4lb28db7y2g16lb4~x2/"><circle cx="296.2" cy="202.4" r="4" fill="#3465a4"><title>Allanton (Fashion)</title></circle></a><a href="/variants/s5/db9w4g36lb36r4/"><circle cx="222.3" cy="223.3" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><a href="/variants/s5/w2g29lb12db29lb2~x2/"><circle cx="259.9" cy="233.7" r="4" fill="#3465a4"><title>Wallace Blue (Fashion)</title></circle></a><a href="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/"><circle cx="237.8" cy="187.3" r="4" fill="#3465a4"><title>Eeraerts, Laurent (Personal)</title></circle></a><a href="/variants/s4/w2g13b13w2~x6/"><circle cx="300.7" cy="299.1" r="4" fill="#3465a4"><title>Dunoon</title></circle></a><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><circle cx="253.5" cy="207.7" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><circle cx="250.9" cy="305.1" r="4" fill="#3465a4"><title>Heriot Bay (District)</title></circle></a><a href="/variants/s6/ly30g3t2lb2t30lo4~x2~t2405244-lb3203246/"><circle cx="340.5" cy="204.8" r="4" fill="#3465a4"><title>South Aiken Presby Church (Corporate</title></circle></a><a href="/variants/s6/w15lg98db72lb25db8ly15/"><circle cx="237.1" cy="221.7" r="4" fill="#3465a4"><title>Afternoon Tea / Mint Tea</title></circle></a><circle cx="272.4" cy="244.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr3b35db4g47w3~x2/"><circle cx="357.4" cy="212.4" r="4" fill="#3465a4"><title>Exabyte</title></circle></a><a href="/variants/s6/w4lb28db7y2g16lb4~x2/"><circle cx="296.3" cy="202.8" r="4" fill="#3465a4"><title>Allanton (Fashion)</title></circle></a><a href="/variants/s5/db9w4g36lb36r4/"><circle cx="222.4" cy="223.8" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><a href="/variants/s5/w2g29lb12db29lb2~x2/"><circle cx="260.1" cy="234.2" r="4" fill="#3465a4"><title>Wallace Blue (Fashion)</title></circle></a><a href="/variants/s6/w3b12db1g15o3w1~x4~b2409265-db1406275/"><circle cx="237.9" cy="187.7" r="4" fill="#3465a4"><title>Eeraerts, Laurent (Personal)</title></circle></a><a href="/variants/s4/w2g13b13w2~x6/"><circle cx="301.0" cy="299.9" r="4" fill="#3465a4"><title>Dunoon</title></circle></a><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><circle cx="253.6" cy="208.0" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><circle cx="251.1" cy="305.7" r="4" fill="#3465a4"><title>Heriot Bay (District)</title></circle></a><a href="/variants/s6/ly30g3t2lb2t30lo4~x2~t2405244-lb3203246/"><circle cx="340.6" cy="205.1" r="4" fill="#3465a4"><title>South Aiken Presby Church (Corporate</title></circle></a><a href="/variants/s6/w15lg98db72lb25db8ly15/"><circle cx="237.2" cy="222.2" r="4" fill="#3465a4"><title>Afternoon Tea / Mint Tea</title></circle></a><circle cx="272.5" cy="245.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/g11ly10db11t33w3~x2/

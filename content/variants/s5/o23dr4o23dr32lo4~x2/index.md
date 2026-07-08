@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hamilton, Red (Fashion?)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o23dr4o23dr32lo4/)
 (the same proportion at any scale), whose colour order is pattern [RBRBY](/stripes/rbrby/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4043
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4043](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4043)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dr5o35dr46ly5~x2/"><circle cx="410.4" cy="261.6" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/"><circle cx="331.0" cy="217.6" r="4" fill="#3465a4"><title>Cetoloni Family Tartan</title></circle></a><a href="/variants/s8/dr32lo4dr32o23dr4o23dr4o23~x2/"><circle cx="380.3" cy="263.5" r="4" fill="#3465a4"><title>Hamilton, Red</title></circle></a><a href="/variants/s5/y6r1y4r4db2~x5/"><circle cx="374.5" cy="301.7" r="4" fill="#3465a4"><title>Sands-Pingot Family, Alabama (Personal)</title></circle></a><a href="/variants/s5/n16r2n10r15lb5~x2/"><circle cx="385.5" cy="290.8" r="4" fill="#3465a4"><title>Mowbray, (Moubray)</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="386.9" cy="257.4" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s6/n3dg1n10dg4r10n2~x4/"><circle cx="372.7" cy="259.3" r="4" fill="#3465a4"><title>Rob Roy (Film)</title></circle></a><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/"><circle cx="408.8" cy="293.2" r="4" fill="#3465a4"><title>Applecross</title></circle></a><a href="/variants/s6/r1g3r1g3r8y1~x8/"><circle cx="396.4" cy="238.0" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="350.2" cy="252.3" r="4" fill="#3465a4"><title>MacKinnon #6</title></circle></a><circle cx="395.3" cy="276.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dr5o35dr46ly5~x2/"><circle cx="410.6" cy="262.2" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/"><circle cx="331.1" cy="218.0" r="4" fill="#3465a4"><title>Cetoloni Family Tartan</title></circle></a><a href="/variants/s8/dr32lo4dr32o23dr4o23dr4o23~x2/"><circle cx="380.5" cy="264.1" r="4" fill="#3465a4"><title>Hamilton, Red</title></circle></a><a href="/variants/s5/y6r1y4r4db2~x5/"><circle cx="374.7" cy="302.4" r="4" fill="#3465a4"><title>Sands-Pingot Family, Alabama (Personal)</title></circle></a><a href="/variants/s5/n16r2n10r15lb5~x2/"><circle cx="385.8" cy="291.4" r="4" fill="#3465a4"><title>Mowbray, (Moubray)</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="387.1" cy="258.0" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s6/n3dg1n10dg4r10n2~x4/"><circle cx="372.8" cy="259.8" r="4" fill="#3465a4"><title>Rob Roy (Film)</title></circle></a><a href="/variants/s4/dg18r2dg7r18~x2~dg1806142-r2109032/"><circle cx="409.0" cy="293.9" r="4" fill="#3465a4"><title>Applecross</title></circle></a><a href="/variants/s6/r1g3r1g3r8y1~x8/"><circle cx="396.5" cy="238.6" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="350.4" cy="253.0" r="4" fill="#3465a4"><title>MacKinnon #6</title></circle></a><circle cx="395.5" cy="277.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/o23dr4o23dr32lo4~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tennessee Volunteer"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w12lo12w12k5lo45k5lb5lo10/)
 (the same proportion at any scale), whose colour order is pattern [WYWKYKWY](/stripes/wywkykwy/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4093
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4093](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4093)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/"><circle cx="304.2" cy="155.1" r="4" fill="#3465a4"><title>Dobrain (Personal)</title></circle></a><a href="/variants/s5/o13w3o1k3w1~x6/"><circle cx="357.9" cy="173.5" r="4" fill="#3465a4"><title>Glen App</title></circle></a><a href="/variants/s8/w20k2w20lo5k3w3lo4k2/"><circle cx="376.2" cy="179.4" r="4" fill="#3465a4"><title>Guzzo Dress (Personal)</title></circle></a><a href="/variants/s10/r22lb3ly14k3ly14k3ly14y3ly14y3~x2/"><circle cx="253.7" cy="184.7" r="4" fill="#3465a4"><title>Sutherland of Duffus (Clan)</title></circle></a><a href="/variants/s6/g3lo3k10lo26k3lo3~x2/"><circle cx="341.9" cy="183.3" r="4" fill="#3465a4"><title>Volkswagen Orange Trim</title></circle></a><a href="/variants/s6/lo26k10lo3g3lo3k3~x6/"><circle cx="341.9" cy="183.3" r="4" fill="#3465a4"><title>Volkswagen Orange Trim (Fashion)</title></circle></a><a href="/variants/s7/w4k2w25r21w3r8y3~x2/"><circle cx="267.2" cy="169.9" r="4" fill="#3465a4"><title>MacPherson, Burgundy dress</title></circle></a><a href="/variants/s13/w4r2w11y2k2w1y1w1y4w2k1w1r1~x2/"><circle cx="263.2" cy="137.3" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s7/w20g2w20k8r20g3r2~x2/"><circle cx="215.4" cy="180.4" r="4" fill="#3465a4"><title>Bull-Dog Sauce</title></circle></a><a href="/variants/s6/w2r4w2r4w9k1~x2/"><circle cx="305.2" cy="218.3" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><circle cx="303.7" cy="175.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/"><circle cx="304.2" cy="155.5" r="4" fill="#3465a4"><title>Dobrain (Personal)</title></circle></a><a href="/variants/s5/o13w3o1k3w1~x6/"><circle cx="358.0" cy="174.1" r="4" fill="#3465a4"><title>Glen App</title></circle></a><a href="/variants/s8/w20k2w20lo5k3w3lo4k2/"><circle cx="376.3" cy="180.1" r="4" fill="#3465a4"><title>Guzzo Dress (Personal)</title></circle></a><a href="/variants/s10/r22lb3ly14k3ly14k3ly14y3ly14y3~x2/"><circle cx="253.8" cy="185.3" r="4" fill="#3465a4"><title>Sutherland of Duffus (Clan)</title></circle></a><a href="/variants/s6/g3lo3k10lo26k3lo3~x2/"><circle cx="342.0" cy="184.0" r="4" fill="#3465a4"><title>Volkswagen Orange Trim</title></circle></a><a href="/variants/s6/lo26k10lo3g3lo3k3~x6/"><circle cx="342.0" cy="184.0" r="4" fill="#3465a4"><title>Volkswagen Orange Trim (Fashion)</title></circle></a><a href="/variants/s7/w4k2w25r21w3r8y3~x2/"><circle cx="267.3" cy="170.5" r="4" fill="#3465a4"><title>MacPherson, Burgundy dress</title></circle></a><a href="/variants/s13/w4r2w11y2k2w1y1w1y4w2k1w1r1~x2/"><circle cx="263.3" cy="137.8" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s7/w20g2w20k8r20g3r2~x2/"><circle cx="215.5" cy="181.1" r="4" fill="#3465a4"><title>Bull-Dog Sauce</title></circle></a><a href="/variants/s6/w2r4w2r4w9k1~x2/"><circle cx="305.4" cy="219.1" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><circle cx="303.8" cy="176.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Salt Lake County"
   url: "/tartans/salt-lake-county-2/"
+- name: "Salt Lake County District Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr40k1dr3k1w3k4w3k1dr3k1dr40k4/)
 (the same proportion at any scale), whose colour order is pattern [BKBKWKWKBKBK](/stripes/bkbkwkwkbkbk/).
@@ -14,7 +16,7 @@ Part of the [Salt Lake County](/tartans/salt-lake-county-2/) tartan — the name
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2394
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2394](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2394)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r40k1r3k1w3k4w3k1r3k1r40k4~x2/"><circle cx="539.8" cy="57.6" r="4" fill="#3465a4"><title>Salt Lake County</title></circle></a><a href="/variants/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="419.3" cy="83.1" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><a href="/variants/s13/w2k2lb2y2k2dr6k1dr12k2dr6w1dr23k1~x2/"><circle cx="425.4" cy="81.8" r="4" fill="#3465a4"><title>Wilding, Michael John (Personal)</title></circle></a><a href="/variants/s10/r7k3r3k22r3k3r3k37dy2k4~x2/"><circle cx="471.3" cy="118.8" r="4" fill="#3465a4"><title>Maier (Personal)</title></circle></a><a href="/variants/s9/r4k16w4k16r4k42r20k83r2/"><circle cx="507.7" cy="96.5" r="4" fill="#3465a4"><title>Brand Ambassador</title></circle></a><a href="/variants/s9/r2k8w2k8r2k21r10k42r1~x2/"><circle cx="509.3" cy="95.6" r="4" fill="#3465a4"><title>Brand Ambassador (Corporate)</title></circle></a><a href="/variants/s14/k91ly3k11w2r3k2r3w2k3r6k3r3ly3w3~x2/"><circle cx="479.3" cy="14.5" r="4" fill="#3465a4"><title>Firefighters</title></circle></a><a href="/variants/s8/k48r4k2r4k6r2k3r9~x2/"><circle cx="480.4" cy="116.5" r="4" fill="#3465a4"><title>Menzies Hunting</title></circle></a><a href="/variants/s10/k64r1k4r1k6r7w2r7k6lb2~x2/"><circle cx="494.6" cy="40.5" r="4" fill="#3465a4"><title>Noordermeer (Personal)</title></circle></a><a href="/variants/s8/dr32k2dr4k2dr2k8dr30lb3~x2/"><circle cx="554.9" cy="159.9" r="4" fill="#3465a4"><title>University of Chicago (Corporate)</title></circle></a><circle cx="557.7" cy="75.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r40k1r3k1w3k4w3k1r3k1r40k4~x2/"><circle cx="539.7" cy="57.9" r="4" fill="#3465a4"><title>Salt Lake County</title></circle></a><a href="/variants/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="419.2" cy="83.4" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><a href="/variants/s13/w2k2lb2y2k2dr6k1dr12k2dr6w1dr23k1~x2/"><circle cx="425.3" cy="82.0" r="4" fill="#3465a4"><title>Wilding, Michael John (Personal)</title></circle></a><a href="/variants/s10/r7k3r3k22r3k3r3k37dy2k4~x2/"><circle cx="471.2" cy="119.1" r="4" fill="#3465a4"><title>Maier (Personal)</title></circle></a><a href="/variants/s9/r4k16w4k16r4k42r20k83r2/"><circle cx="507.6" cy="96.7" r="4" fill="#3465a4"><title>Brand Ambassador</title></circle></a><a href="/variants/s9/r2k8w2k8r2k21r10k42r1~x2/"><circle cx="509.2" cy="95.9" r="4" fill="#3465a4"><title>Brand Ambassador (Corporate)</title></circle></a><a href="/variants/s14/k91ly3k11w2r3k2r3w2k3r6k3r3ly3w3~x2/"><circle cx="479.0" cy="14.5" r="4" fill="#3465a4"><title>Firefighters</title></circle></a><a href="/variants/s8/k48r4k2r4k6r2k3r9~x2/"><circle cx="480.3" cy="116.8" r="4" fill="#3465a4"><title>Menzies Hunting</title></circle></a><a href="/variants/s10/k64r1k4r1k6r7w2r7k6lb2~x2/"><circle cx="494.4" cy="40.6" r="4" fill="#3465a4"><title>Noordermeer (Personal)</title></circle></a><a href="/variants/s8/dr32k2dr4k2dr2k8dr30lb3~x2/"><circle cx="554.9" cy="160.2" r="4" fill="#3465a4"><title>University of Chicago (Corporate)</title></circle></a><circle cx="557.6" cy="75.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dr40k1dr3k1w3k4w3k1dr3k1dr40k4~x2/

@@ -10,6 +10,8 @@ crumbs:
   url: "/families/stewart-of-appin/"
 - name: "Stewart of Appin Hunting"
   url: "/tartans/stewart-of-appin-hunting/"
+- name: "Stewart of Appin, Ancient hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g11r4g4r7g41o11lb4db41r4db8/)
 (the same proportion at any scale), whose colour order is pattern [BRBWRGRGRG](/stripes/brbwrgrgrg/).
@@ -18,7 +20,7 @@ Part of the [Stewart of Appin Hunting](/tartans/stewart-of-appin-hunting/) tarta
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g11r4g4r7g41dy11lb4db41r4db8/"><circle cx="217.1" cy="171.0" r="4" fill="#3465a4"><title>Stewart of Appin Hunting Clan Tartan</title></circle></a><a href="/variants/s10/g8r3g3r5g26dy7lb3db28r3db6~x2/"><circle cx="184.4" cy="153.0" r="4" fill="#3465a4"><title>Stewart of Appin Hunting</title></circle></a><a href="/variants/s10/g11r4g4r7g41db11lb4db41r4db8/"><circle cx="258.5" cy="182.4" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #2</title></circle></a><a href="/variants/s10/g8r3g3r5g26db7lb3db28r3db6~x2/"><circle cx="250.0" cy="188.8" r="4" fill="#3465a4"><title>Stewart of Appin Htg (error)</title></circle></a><a href="/variants/s10/g5dt2g17ly2db5ly2o5db17g2ly4~x2/"><circle cx="188.5" cy="189.8" r="4" fill="#3465a4"><title>Antrim Irish County Tartan</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2lb8~x2/"><circle cx="200.2" cy="155.5" r="4" fill="#3465a4"><title>Currie of Arran (Clan/family)</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2t8~x2/"><circle cx="216.0" cy="162.2" r="4" fill="#3465a4"><title>Currie of Arran</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-lo2804072/"><circle cx="238.9" cy="142.0" r="4" fill="#3465a4"><title>Michigan, State of (District)</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-r1707033/"><circle cx="232.0" cy="139.4" r="4" fill="#3465a4"><title>Michigan State District Tartan</title></circle></a><a href="/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/"><circle cx="251.8" cy="166.9" r="4" fill="#3465a4"><title>Chisholm Hunting #2</title></circle></a><circle cx="217.5" cy="170.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g11r4g4r7g41dy11lb4db41r4db8/"><circle cx="217.1" cy="171.3" r="4" fill="#3465a4"><title>Stewart of Appin Hunting Clan Tartan</title></circle></a><a href="/variants/s10/g8r3g3r5g26dy7lb3db28r3db6~x2/"><circle cx="184.4" cy="153.3" r="4" fill="#3465a4"><title>Stewart of Appin Hunting</title></circle></a><a href="/variants/s10/g11r4g4r7g41db11lb4db41r4db8/"><circle cx="258.5" cy="182.7" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #2</title></circle></a><a href="/variants/s10/g8r3g3r5g26db7lb3db28r3db6~x2/"><circle cx="250.1" cy="189.2" r="4" fill="#3465a4"><title>Stewart of Appin Htg (error)</title></circle></a><a href="/variants/s10/g5dt2g17ly2db5ly2o5db17g2ly4~x2/"><circle cx="188.6" cy="190.1" r="4" fill="#3465a4"><title>Antrim Irish County Tartan</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2lb8~x2/"><circle cx="200.2" cy="155.7" r="4" fill="#3465a4"><title>Currie of Arran (Clan/family)</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2t8~x2/"><circle cx="216.0" cy="162.4" r="4" fill="#3465a4"><title>Currie of Arran</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-lo2804072/"><circle cx="238.9" cy="142.3" r="4" fill="#3465a4"><title>Michigan, State of (District)</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-r1707033/"><circle cx="232.0" cy="139.7" r="4" fill="#3465a4"><title>Michigan State District Tartan</title></circle></a><a href="/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/"><circle cx="251.8" cy="167.2" r="4" fill="#3465a4"><title>Chisholm Hunting #2</title></circle></a><circle cx="217.6" cy="171.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g11r4g4r7g41o11lb4db41r4db8/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Merchant Company, The"
   url: "/tartans/merchant-company-the/"
+- name: "Merchant Company, The"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1r1db14y1db1dr1db1dr1db2dg6db1dg1db1/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBBBBBGBRK](/stripes/bgbgbbbbbgbrk/).
@@ -14,7 +16,7 @@ Part of the [Merchant Company, The](/tartans/merchant-company-the/) tartan — t
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11128
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11128](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11128)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k1ri1db14lo1db1r1db1r2db1dg6db1dg1db1~x4~ri2109032-r1807033/"><circle cx="327.6" cy="101.4" r="4" fill="#3465a4"><title>Merchant Company, The</title></circle></a><a href="/variants/s9/r1db2dt1k3dt19db3y1db2y1~x4~db1208266-dt1102249/"><circle cx="403.4" cy="129.5" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/variants/s10/dbi56dg11r2dg7k2dg7r2dg7db3lo4~x2~dbi1406275-db1204274/"><circle cx="367.5" cy="92.1" r="4" fill="#3465a4"><title>CAL FIRE Local 2881</title></circle></a><a href="/variants/s11/dbi19k4dbi4db1dbi1db1dbi1dg5b3k1b4~x6~dbi1003265-dg1304144/"><circle cx="347.9" cy="132.6" r="4" fill="#3465a4"><title>Spirit of Scotland</title></circle></a><a href="/variants/s12/db92k14db18dbi5db5dbi5db5dg32b16k5b7y8~db0805267-dbi1604274/"><circle cx="315.1" cy="106.7" r="4" fill="#3465a4"><title>Bavidge</title></circle></a><a href="/variants/s11/g4k1dbi9k1g3k1db27r1db27w1r3~x2~dbi1404245-db1204274/"><circle cx="415.2" cy="88.8" r="4" fill="#3465a4"><title>HMS Neptune (Military)</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2o4~x2/"><circle cx="310.8" cy="141.8" r="4" fill="#3465a4"><title>Stewmann (2009) (Personal)</title></circle></a><circle cx="391.1" cy="116.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k1ri1db14lo1db1r1db1r2db1dg6db1dg1db1~x4~ri2109032-r1807033/"><circle cx="327.5" cy="101.4" r="4" fill="#3465a4"><title>Merchant Company, The</title></circle></a><a href="/variants/s9/r1db2dt1k3dt19db3y1db2y1~x4~db1208266-dt1102249/"><circle cx="403.3" cy="129.5" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/variants/s10/dbi56dg11r2dg7k2dg7r2dg7db3lo4~x2~dbi1406275-db1204274/"><circle cx="367.4" cy="92.0" r="4" fill="#3465a4"><title>CAL FIRE Local 2881</title></circle></a><a href="/variants/s11/dbi19k4dbi4db1dbi1db1dbi1dg5b3k1b4~x6~dbi1003265-dg1304144/"><circle cx="347.8" cy="132.6" r="4" fill="#3465a4"><title>Spirit of Scotland</title></circle></a><a href="/variants/s12/db92k14db18dbi5db5dbi5db5dg32b16k5b7y8~db0805267-dbi1604274/"><circle cx="314.9" cy="106.6" r="4" fill="#3465a4"><title>Bavidge</title></circle></a><a href="/variants/s11/g4k1dbi9k1g3k1db27r1db27w1r3~x2~dbi1404245-db1204274/"><circle cx="415.1" cy="88.7" r="4" fill="#3465a4"><title>HMS Neptune (Military)</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2o4~x2/"><circle cx="310.8" cy="141.8" r="4" fill="#3465a4"><title>Stewmann (2009) (Personal)</title></circle></a><circle cx="391.0" cy="116.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/k1r1db14y1db1dr1db1dr1db2dg6db1dg1db1~x4/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Hannay"
   url: "/tartans/hannay/"
+- name: "Hannay Blue (Fashion?)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k9lb4k2lb4k2lb30k9lb4db14dy2/)
 (the same proportion at any scale), whose colour order is pattern [GBWKWKWKWK](/stripes/gbwkwkwkwk/).
@@ -14,7 +16,7 @@ Part of the [Hannay](/tartans/hannay/) tartan — the named design grouping this
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6509
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6509](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6509)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k9t4k2t4k2t30k9t4db14dy2~x2~t2503227/"><circle cx="258.7" cy="121.4" r="4" fill="#3465a4"><title>Hannay Blue</title></circle></a><a href="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/"><circle cx="217.0" cy="137.4" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/"><circle cx="222.2" cy="134.6" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="274.9" cy="136.1" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s12/db4lb20k3lb2k3lb20db24k3db2k3db24r4~db0705267/"><circle cx="211.7" cy="144.2" r="4" fill="#3465a4"><title>Roberts Welsh Name Tartan</title></circle></a><a href="/variants/s9/k2r9w2db2w4db2w2db20w2~x4/"><circle cx="233.9" cy="144.2" r="4" fill="#3465a4"><title>Yudo (Corporate)</title></circle></a><a href="/variants/s12/db4lb20k3lb2k3lb20db24k3db2k3db24r4/"><circle cx="219.3" cy="147.3" r="4" fill="#3465a4"><title>Roberts (Welsh Name)</title></circle></a><a href="/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/"><circle cx="203.3" cy="118.2" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. St Andrew</title></circle></a><a href="/variants/s11/ly16k2ly2k2ly2db32r3db32ly16k2ly2~x2/"><circle cx="291.5" cy="127.9" r="4" fill="#3465a4"><title>MacLachlan, Gold Dress (Fashion)</title></circle></a><a href="/variants/s12/lb5k1w1k1lb5k7b10k1lb15b3k1w2~x4/"><circle cx="203.1" cy="137.4" r="4" fill="#3465a4"><title>Faulds</title></circle></a><circle cx="230.5" cy="135.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k9t4k2t4k2t30k9t4db14dy2~x2~t2503227/"><circle cx="258.6" cy="121.7" r="4" fill="#3465a4"><title>Hannay Blue</title></circle></a><a href="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/"><circle cx="217.0" cy="137.9" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/"><circle cx="222.2" cy="135.1" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="274.8" cy="136.5" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s12/db4lb20k3lb2k3lb20db24k3db2k3db24r4~db0705267/"><circle cx="211.6" cy="144.6" r="4" fill="#3465a4"><title>Roberts Welsh Name Tartan</title></circle></a><a href="/variants/s9/k2r9w2db2w4db2w2db20w2~x4/"><circle cx="233.9" cy="144.6" r="4" fill="#3465a4"><title>Yudo (Corporate)</title></circle></a><a href="/variants/s12/db4lb20k3lb2k3lb20db24k3db2k3db24r4/"><circle cx="219.3" cy="147.7" r="4" fill="#3465a4"><title>Roberts (Welsh Name)</title></circle></a><a href="/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/"><circle cx="203.2" cy="118.5" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. St Andrew</title></circle></a><a href="/variants/s11/ly16k2ly2k2ly2db32r3db32ly16k2ly2~x2/"><circle cx="291.5" cy="128.2" r="4" fill="#3465a4"><title>MacLachlan, Gold Dress (Fashion)</title></circle></a><a href="/variants/s12/lb5k1w1k1lb5k7b10k1lb15b3k1w2~x4/"><circle cx="203.1" cy="137.8" r="4" fill="#3465a4"><title>Faulds</title></circle></a><circle cx="230.5" cy="136.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k9lb4k2lb4k2lb30k9lb4db14dy2~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Barkwell (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r20k1ly3k1r60k30r48k4/)
 (the same proportion at any scale), whose colour order is pattern [KRKRKYKR](/stripes/krkrkykr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=217
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=217](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=217)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y4k1r30k15r24k2r4k1~x4/"><circle cx="426.6" cy="114.9" r="4" fill="#3465a4"><title>Oilmens (Corporate)</title></circle></a><a href="/variants/s10/r80w7k2w2k2r3k7r2b12k2~x2/"><circle cx="438.3" cy="42.9" r="4" fill="#3465a4"><title>Masai Shuka 05 (Artefact)</title></circle></a><a href="/variants/s11/r48k1w1k6ly4r2ly4k8r2k1w2~x2/"><circle cx="390.3" cy="34.1" r="4" fill="#3465a4"><title>Glennie (Personal)</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2/"><circle cx="453.5" cy="94.6" r="4" fill="#3465a4"><title>Virgin (Corporate)</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2~r2310029/"><circle cx="448.2" cy="92.5" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/variants/s7/k4r40k1r3k1w3k4~x2/"><circle cx="492.8" cy="74.2" r="4" fill="#3465a4"><title>Salt Lake County (District)</title></circle></a><a href="/variants/s7/k4dr40k1dr3k1w3k4~x2/"><circle cx="514.2" cy="90.1" r="4" fill="#3465a4"><title>Salt Lake County</title></circle></a><a href="/variants/s8/k4r4y2r41k4r4k12w2~x2/"><circle cx="374.9" cy="96.5" r="4" fill="#3465a4"><title>Aberdeen Football Club (2002)</title></circle></a><a href="/variants/s8/k4r4ly2r41k4r4k12w2~x2/"><circle cx="373.0" cy="96.0" r="4" fill="#3465a4"><title>Aberdeen F. C. (2002) (Sports)</title></circle></a><a href="/variants/s9/k5r40k4w2k4r10w4r5w1~x2/"><circle cx="447.8" cy="79.1" r="4" fill="#3465a4"><title>Southern Illinois University (Corp.)</title></circle></a><circle cx="479.8" cy="96.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y4k1r30k15r24k2r4k1~x4/"><circle cx="426.5" cy="115.3" r="4" fill="#3465a4"><title>Oilmens (Corporate)</title></circle></a><a href="/variants/s10/r80w7k2w2k2r3k7r2b12k2~x2/"><circle cx="438.1" cy="43.0" r="4" fill="#3465a4"><title>Masai Shuka 05 (Artefact)</title></circle></a><a href="/variants/s11/r48k1w1k6ly4r2ly4k8r2k1w2~x2/"><circle cx="390.2" cy="34.3" r="4" fill="#3465a4"><title>Glennie (Personal)</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2/"><circle cx="453.5" cy="95.0" r="4" fill="#3465a4"><title>Virgin (Corporate)</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2~r2310029/"><circle cx="448.1" cy="92.9" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/variants/s7/k4r40k1r3k1w3k4~x2/"><circle cx="492.7" cy="74.5" r="4" fill="#3465a4"><title>Salt Lake County (District)</title></circle></a><a href="/variants/s7/k4dr40k1dr3k1w3k4~x2/"><circle cx="514.1" cy="90.3" r="4" fill="#3465a4"><title>Salt Lake County</title></circle></a><a href="/variants/s8/k4r4y2r41k4r4k12w2~x2/"><circle cx="374.8" cy="96.9" r="4" fill="#3465a4"><title>Aberdeen Football Club (2002)</title></circle></a><a href="/variants/s8/k4r4ly2r41k4r4k12w2~x2/"><circle cx="372.9" cy="96.4" r="4" fill="#3465a4"><title>Aberdeen F. C. (2002) (Sports)</title></circle></a><a href="/variants/s9/k5r40k4w2k4r10w4r5w1~x2/"><circle cx="447.7" cy="79.4" r="4" fill="#3465a4"><title>Southern Illinois University (Corp.)</title></circle></a><circle cx="479.7" cy="96.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r20k1ly3k1r60k30r48k4~x2/

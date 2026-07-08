@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kerby/Kirby"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr6g1lb2g24k3g3k3g3k8db8lb2db4/)
 (the same proportion at any scale), whose colour order is pattern [BGWGKGKGKBWB](/stripes/bgwgkgkgkbwb/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1953
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1953](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1953)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2/"><circle cx="188.0" cy="102.6" r="4" fill="#3465a4"><title>Sutherland (Clan)</title></circle></a><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3/"><circle cx="188.0" cy="102.6" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/variants/s9/k4g34y1k18g3db18r3g3r3~x2/"><circle cx="216.7" cy="100.2" r="4" fill="#3465a4"><title>John.W.Mackay, Restricted</title></circle></a><a href="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/"><circle cx="178.2" cy="126.6" r="4" fill="#3465a4"><title>Hope-Vere (Lochcarron)</title></circle></a><a href="/variants/s9/k4g35lo1k18g3db18dr3g3dr3~x2/"><circle cx="227.9" cy="102.5" r="4" fill="#3465a4"><title>Mackay, John W. (Personal)</title></circle></a><a href="/variants/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/"><circle cx="211.6" cy="84.8" r="4" fill="#3465a4"><title>Blairlogie, or Blair Athol</title></circle></a><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/"><circle cx="203.4" cy="123.8" r="4" fill="#3465a4"><title>MacNeil 3</title></circle></a><a href="/variants/s12/db2w1db12k1db2k1db4k12g24k1g2r1~x2/"><circle cx="200.5" cy="93.1" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s12/r3db16k16g4k2g2k2g34r4g3r2g3~x2/"><circle cx="235.2" cy="120.1" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/variants/s17/k20y3db10g3db5g25k1g1w3g1k1g25db5g3db10y1db2~x4/"><circle cx="216.3" cy="88.3" r="4" fill="#3465a4"><title>Blairgowrie</title></circle></a><circle cx="193.9" cy="106.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2/"><circle cx="187.9" cy="102.8" r="4" fill="#3465a4"><title>Sutherland (Clan)</title></circle></a><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3/"><circle cx="187.9" cy="102.8" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/variants/s9/k4g34y1k18g3db18r3g3r3~x2/"><circle cx="216.5" cy="100.4" r="4" fill="#3465a4"><title>John.W.Mackay, Restricted</title></circle></a><a href="/variants/s10/g16k1lb2k1g3k5db12k1y1k3~x4/"><circle cx="178.1" cy="126.9" r="4" fill="#3465a4"><title>Hope-Vere (Lochcarron)</title></circle></a><a href="/variants/s9/k4g35lo1k18g3db18dr3g3dr3~x2/"><circle cx="227.8" cy="102.7" r="4" fill="#3465a4"><title>Mackay, John W. (Personal)</title></circle></a><a href="/variants/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/"><circle cx="211.5" cy="84.9" r="4" fill="#3465a4"><title>Blairlogie, or Blair Athol</title></circle></a><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/"><circle cx="203.3" cy="124.1" r="4" fill="#3465a4"><title>MacNeil 3</title></circle></a><a href="/variants/s12/db2w1db12k1db2k1db4k12g24k1g2r1~x2/"><circle cx="200.3" cy="93.2" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s12/r3db16k16g4k2g2k2g34r4g3r2g3~x2/"><circle cx="235.1" cy="120.4" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/variants/s17/k20y3db10g3db5g25k1g1w3g1k1g25db5g3db10y1db2~x4/"><circle cx="216.2" cy="88.5" r="4" fill="#3465a4"><title>Blairgowrie</title></circle></a><circle cx="193.8" cy="106.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dr6g1lb2g24k3g3k3g3k8db8lb2db4~x2/

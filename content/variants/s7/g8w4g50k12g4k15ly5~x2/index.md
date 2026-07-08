@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Instakilt, Green (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g8w4g50k12g4k15ly5/)
 (the same proportion at any scale), whose colour order is pattern [GWGKGKY](/stripes/gwgkgky/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7551
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7551](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7551)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g18ly2g18k4g2k15~x2/"><circle cx="311.0" cy="218.5" r="4" fill="#3465a4"><title>MacArthur (Highland Society)</title></circle></a><a href="/variants/s6/g18y2g18k4g2k15~x2/"><circle cx="313.9" cy="219.3" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/variants/s8/g10ly3w2k2g8k22g43lo4~x2/"><circle cx="313.0" cy="117.6" r="4" fill="#3465a4"><title>Celtic Pride</title></circle></a><a href="/variants/s8/dg48lo3k6w4dg3k15lo3dg4~x2~dg1605139/"><circle cx="337.0" cy="129.4" r="4" fill="#3465a4"><title>Birmingham Irish Pipes &amp; Drums</title></circle></a><a href="/variants/s7/g46k18g6k13r4k4w4~x2/"><circle cx="253.4" cy="161.1" r="4" fill="#3465a4"><title>Page</title></circle></a><a href="/variants/s7/k3g2k3g18dr2db2ly1~x4/"><circle cx="318.4" cy="125.4" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/variants/s7/k3g2k3g18r2db2ly1~x4~g2106142-r1606028-db1004274/"><circle cx="325.5" cy="125.2" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/variants/s8/y1g1r1g6k6g6w1g1~x4/"><circle cx="230.5" cy="186.1" r="4" fill="#3465a4"><title>Vermont</title></circle></a><a href="/variants/s6/r1g16k8g4k4y1~x2/"><circle cx="293.0" cy="168.6" r="4" fill="#3465a4"><title>Forbes #6</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1/"><circle cx="289.1" cy="165.4" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><circle cx="302.5" cy="158.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g18ly2g18k4g2k15~x2/"><circle cx="311.1" cy="219.2" r="4" fill="#3465a4"><title>MacArthur (Highland Society)</title></circle></a><a href="/variants/s6/g18y2g18k4g2k15~x2/"><circle cx="314.0" cy="220.0" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/variants/s8/g10ly3w2k2g8k22g43lo4~x2/"><circle cx="313.0" cy="118.0" r="4" fill="#3465a4"><title>Celtic Pride</title></circle></a><a href="/variants/s8/dg48lo3k6w4dg3k15lo3dg4~x2~dg1605139/"><circle cx="336.9" cy="129.7" r="4" fill="#3465a4"><title>Birmingham Irish Pipes &amp; Drums</title></circle></a><a href="/variants/s7/g46k18g6k13r4k4w4~x2/"><circle cx="253.4" cy="161.6" r="4" fill="#3465a4"><title>Page</title></circle></a><a href="/variants/s7/k3g2k3g18dr2db2ly1~x4/"><circle cx="318.4" cy="125.7" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/variants/s7/k3g2k3g18r2db2ly1~x4~g2106142-r1606028-db1004274/"><circle cx="325.4" cy="125.5" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/variants/s8/y1g1r1g6k6g6w1g1~x4/"><circle cx="230.6" cy="186.7" r="4" fill="#3465a4"><title>Vermont</title></circle></a><a href="/variants/s6/r1g16k8g4k4y1~x2/"><circle cx="293.0" cy="169.1" r="4" fill="#3465a4"><title>Forbes #6</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1/"><circle cx="289.1" cy="165.9" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><circle cx="302.6" cy="159.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g8w4g50k12g4k15ly5~x2/

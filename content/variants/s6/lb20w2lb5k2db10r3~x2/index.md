@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. Christopher's School (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb20w2lb5k2db10r3/)
 (the same proportion at any scale), whose colour order is pattern [RBKWWW](/stripes/rbkwww/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8261
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8261](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8261)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="152.7" cy="199.1" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/"><circle cx="275.8" cy="140.1" r="4" fill="#3465a4"><title>Moorpark Primary School (Corporate)</title></circle></a><a href="/variants/s5/lb25db11r5w1k1~x4/"><circle cx="309.9" cy="140.7" r="4" fill="#3465a4"><title>Mount Vernon Primary School</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="246.8" cy="195.0" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s6/ly8k2db20lb4w1k2~x4/"><circle cx="247.0" cy="134.6" r="4" fill="#3465a4"><title>Solberg-Bell</title></circle></a><a href="/variants/s8/db9lb27db2k4db2lb10db2w3~x2/"><circle cx="312.5" cy="151.0" r="4" fill="#3465a4"><title>Alaska Highlanders Pipes &amp; Drums Corporate Tartan</title></circle></a><a href="/variants/s7/w5k3w26db21w3db8y3~x2/"><circle cx="227.3" cy="188.5" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance)</title></circle></a><a href="/variants/s8/y4db24lb5g2db3k5lb33r2~x2/"><circle cx="213.3" cy="115.5" r="4" fill="#3465a4"><title>Los Angeles</title></circle></a><a href="/variants/s7/y3db2k2db30w30dbi2w3~x2~db1208274-k0601240-dbi1406275/"><circle cx="226.6" cy="129.5" r="4" fill="#3465a4"><title>Torridon, Saphire (Dance)</title></circle></a><a href="/variants/s7/k10lb30g3lb3g3lb3r6~x2/"><circle cx="283.3" cy="157.6" r="4" fill="#3465a4"><title>Kinding (Personal)</title></circle></a><circle cx="262.3" cy="171.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="152.7" cy="199.7" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/"><circle cx="275.8" cy="140.5" r="4" fill="#3465a4"><title>Moorpark Primary School (Corporate)</title></circle></a><a href="/variants/s5/lb25db11r5w1k1~x4/"><circle cx="309.9" cy="141.0" r="4" fill="#3465a4"><title>Mount Vernon Primary School</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="246.9" cy="195.5" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s6/ly8k2db20lb4w1k2~x4/"><circle cx="247.0" cy="134.9" r="4" fill="#3465a4"><title>Solberg-Bell</title></circle></a><a href="/variants/s8/db9lb27db2k4db2lb10db2w3~x2/"><circle cx="312.5" cy="151.4" r="4" fill="#3465a4"><title>Alaska Highlanders Pipes &amp; Drums Corporate Tartan</title></circle></a><a href="/variants/s7/w5k3w26db21w3db8y3~x2/"><circle cx="227.4" cy="189.1" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance)</title></circle></a><a href="/variants/s8/y4db24lb5g2db3k5lb33r2~x2/"><circle cx="213.2" cy="115.7" r="4" fill="#3465a4"><title>Los Angeles</title></circle></a><a href="/variants/s7/y3db2k2db30w30dbi2w3~x2~db1208274-k0601240-dbi1406275/"><circle cx="226.5" cy="129.9" r="4" fill="#3465a4"><title>Torridon, Saphire (Dance)</title></circle></a><a href="/variants/s7/k10lb30g3lb3g3lb3r6~x2/"><circle cx="283.3" cy="158.2" r="4" fill="#3465a4"><title>Kinding (Personal)</title></circle></a><circle cx="262.4" cy="171.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/lb20w2lb5k2db10r3~x2/

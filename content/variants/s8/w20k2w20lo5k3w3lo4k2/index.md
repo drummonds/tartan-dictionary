@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Guzzo Dress (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w20k2w20lo5k3w3lo4k2/)
 (the same proportion at any scale), whose colour order is pattern [KYWKYWKW](/stripes/kywkywkw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10560
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10560](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10560)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w20k2w20y5k3w3y4k2/"><circle cx="365.6" cy="174.8" r="4" fill="#3465a4"><title>Guzzo Dress (Montreal, Canada) (Personal)</title></circle></a><a href="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/"><circle cx="303.7" cy="175.6" r="4" fill="#3465a4"><title>Tennessee Volunteer</title></circle></a><a href="/variants/s7/k7w3k7w45r3w3r3~x2/"><circle cx="386.9" cy="133.9" r="4" fill="#3465a4"><title>White Stripes (Corporate)</title></circle></a><a href="/variants/s5/o13w3o1k3w1~x6/"><circle cx="357.9" cy="173.5" r="4" fill="#3465a4"><title>Glen App</title></circle></a><a href="/variants/s8/dr14w35k4w35dr14w8dr14w8~x2/"><circle cx="312.9" cy="211.6" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><a href="/variants/s13/w40ly3w10ly6w20k3w2k3w10dr4w2dr8w2~x2/"><circle cx="405.6" cy="111.4" r="4" fill="#3465a4"><title>Virginia Quadricentennial (District)</title></circle></a><a href="/variants/s5/w25k9w12y2db2~x2~w3600000-y2400000/"><circle cx="371.8" cy="187.0" r="4" fill="#3465a4"><title>Gairloch (Fashion)</title></circle></a><a href="/variants/s6/w8dr14w8dr14w35k4~x2/"><circle cx="299.6" cy="217.3" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><a href="/variants/s12/w12k3w28g6k4w2k2w14r11g3r4w4~x2/"><circle cx="286.8" cy="137.7" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s13/w40ly3w10ly6w20k3w2k3w10r4w2r8w2/"><circle cx="417.5" cy="113.8" r="4" fill="#3465a4"><title>Virginia Quadricentennial</title></circle></a><circle cx="376.2" cy="179.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w20k2w20y5k3w3y4k2/"><circle cx="365.7" cy="175.5" r="4" fill="#3465a4"><title>Guzzo Dress (Montreal, Canada) (Personal)</title></circle></a><a href="/variants/s8/w12lo12w12k5lo45k5lb5lo10~x2/"><circle cx="303.8" cy="176.2" r="4" fill="#3465a4"><title>Tennessee Volunteer</title></circle></a><a href="/variants/s7/k7w3k7w45r3w3r3~x2/"><circle cx="386.9" cy="134.5" r="4" fill="#3465a4"><title>White Stripes (Corporate)</title></circle></a><a href="/variants/s5/o13w3o1k3w1~x6/"><circle cx="358.0" cy="174.1" r="4" fill="#3465a4"><title>Glen App</title></circle></a><a href="/variants/s8/dr14w35k4w35dr14w8dr14w8~x2/"><circle cx="313.0" cy="212.3" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><a href="/variants/s13/w40ly3w10ly6w20k3w2k3w10dr4w2dr8w2~x2/"><circle cx="405.6" cy="111.8" r="4" fill="#3465a4"><title>Virginia Quadricentennial (District)</title></circle></a><a href="/variants/s5/w25k9w12y2db2~x2~w3600000-y2400000/"><circle cx="371.9" cy="187.7" r="4" fill="#3465a4"><title>Gairloch (Fashion)</title></circle></a><a href="/variants/s6/w8dr14w8dr14w35k4~x2/"><circle cx="299.7" cy="218.1" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><a href="/variants/s12/w12k3w28g6k4w2k2w14r11g3r4w4~x2/"><circle cx="286.8" cy="138.2" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s13/w40ly3w10ly6w20k3w2k3w10r4w2r8w2/"><circle cx="417.5" cy="114.3" r="4" fill="#3465a4"><title>Virginia Quadricentennial</title></circle></a><circle cx="376.3" cy="180.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/w20k2w20lo5k3w3lo4k2/

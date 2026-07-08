@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pride of Scotland Platinum Fashion Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k7n2lb2n2k13n2k2lb2n13k26lp2/)
 (the same proportion at any scale), whose colour order is pattern [KBWBKBKWBKW](/stripes/kbwbkbkwbkw/).
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6850
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6850](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6850)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2~n1900000-o2500000/"><circle cx="374.6" cy="82.5" r="4" fill="#3465a4"><title>Pride of Scotland Contemporary</title></circle></a><a href="/variants/s11/k1w1db8k9w1k9w1db2w1k4w1~x2/"><circle cx="281.6" cy="169.2" r="4" fill="#3465a4"><title>Clergy (Mackinlay)</title></circle></a><a href="/variants/s10/y4k3w3k44y4k22n22w3k3y4/"><circle cx="309.9" cy="123.1" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s11/k10n2oi2n2k14n2k2lp1n12k24o2~x2~n1900000-oi2500000/"><circle cx="351.7" cy="96.5" r="4" fill="#3465a4"><title>Pride of Scotland Platinum</title></circle></a><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="392.5" cy="128.3" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/variants/s8/k24n18k11n4k11n18k53ly4/"><circle cx="373.1" cy="179.5" r="4" fill="#3465a4"><title>Spirit of Glyndwr Gold (Fashion)</title></circle></a><a href="/variants/s8/k24n18k11n4k11n18k53r4/"><circle cx="372.4" cy="176.1" r="4" fill="#3465a4"><title>Spirit of Glyndwr Red (Fashion)</title></circle></a><a href="/variants/s8/k1g1k8n1k1n2k1n1~x8/"><circle cx="367.8" cy="174.1" r="4" fill="#3465a4"><title>Nightstalker (Corporate)</title></circle></a><a href="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/"><circle cx="334.9" cy="104.9" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s8/k1g1k8n1k1n2k1n1~x8~n1900000/"><circle cx="371.9" cy="175.3" r="4" fill="#3465a4"><title>Nightstalker</title></circle></a><circle cx="326.6" cy="130.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2~n1900000-o2500000/"><circle cx="374.5" cy="82.6" r="4" fill="#3465a4"><title>Pride of Scotland Contemporary</title></circle></a><a href="/variants/s11/k1w1db8k9w1k9w1db2w1k4w1~x2/"><circle cx="281.6" cy="169.7" r="4" fill="#3465a4"><title>Clergy (Mackinlay)</title></circle></a><a href="/variants/s10/y4k3w3k44y4k22n22w3k3y4/"><circle cx="309.8" cy="123.5" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s11/k10n2oi2n2k14n2k2lp1n12k24o2~x2~n1900000-oi2500000/"><circle cx="351.6" cy="96.6" r="4" fill="#3465a4"><title>Pride of Scotland Platinum</title></circle></a><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="392.4" cy="128.6" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/variants/s8/k24n18k11n4k11n18k53ly4/"><circle cx="373.1" cy="179.9" r="4" fill="#3465a4"><title>Spirit of Glyndwr Gold (Fashion)</title></circle></a><a href="/variants/s8/k24n18k11n4k11n18k53r4/"><circle cx="372.4" cy="176.5" r="4" fill="#3465a4"><title>Spirit of Glyndwr Red (Fashion)</title></circle></a><a href="/variants/s8/k1g1k8n1k1n2k1n1~x8/"><circle cx="367.8" cy="174.6" r="4" fill="#3465a4"><title>Nightstalker (Corporate)</title></circle></a><a href="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/"><circle cx="334.8" cy="105.2" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s8/k1g1k8n1k1n2k1n1~x8~n1900000/"><circle cx="371.9" cy="175.8" r="4" fill="#3465a4"><title>Nightstalker</title></circle></a><circle cx="326.5" cy="130.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k7n2lb2n2k13n2k2lb2n13k26lp2~x2/

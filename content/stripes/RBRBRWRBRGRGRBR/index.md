@@ -46,10 +46,10 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s15/r6db2r3dg12r2dg2r2db4r2lb2r14db2r2db1r6~x2~r2109032-db0906265-dg1405139-lb3203246/"><img src="/variants/s15/r6db2r3dg12r2dg2r2db4r2lb2r14db2r2db1r6~x2~r2109032-db0906265-dg1405139-lb3203246/sett.png" alt="Drummond of Megginch - Child's Kilt (c.1890) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s15/r8db2r2db2r32lb2r2db8r2g2r2g27r2db2r2~x2/">Grant (Official)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s15/r8db2r2db2r32lb2r2db8r2g2r2g27r2db2r2~x2/"><img src="/variants/s15/r8db2r2db2r32lb2r2db8r2g2r2g27r2db2r2~x2/sett.png" alt="Grant (Official) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3/">Grant D</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3/"><img src="/variants/s15/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3~x2/sett.png" alt="Grant D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s15/r3db1r1g10r1g1r1db3r1w1r12db1r1db1r3~x2/">Grant D</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s15/r3db1r1g10r1g1r1db3r1w1r12db1r1db1r3~x2/"><img src="/variants/s15/r3db1r1g10r1g1r1db3r1w1r12db1r1db1r3~x2/sett.png" alt="Grant D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3/">Grant D</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3/"><img src="/variants/s15/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3~x2/sett.png" alt="Grant D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s15/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3~x2/">Grant and Drummond</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s15/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3~x2/"><img src="/variants/s15/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3~x2/sett.png" alt="Grant and Drummond sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s15/r5db5r3g16r3g3r3db10r3lb5r12db5r3db3r5~x2/">Grant of Ballindalloch Clan Tartan</a></td></tr>

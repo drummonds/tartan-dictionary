@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Inverness Augustus"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr18g1k5g1k1g1dr9/)
 (the same proportion at any scale), whose colour order is pattern [BGKGKGB](/stripes/bgkgkgb/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1842
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1842](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1842)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dr12g6k1g2k1g1k6dr24w2~x2/"><circle cx="370.1" cy="116.8" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute Hunting</title></circle></a><a href="/variants/s8/dr64k8w3k8w3b4w3dr18~x2/"><circle cx="435.4" cy="108.5" r="4" fill="#3465a4"><title>Inverness - 2000 (Fashion)</title></circle></a><a href="/variants/s5/r3k16dg2k2dg2~x2/"><circle cx="409.0" cy="195.2" r="4" fill="#3465a4"><title>Gadsden (Artefact)</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="491.3" cy="157.9" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><a href="/variants/s8/dr32k2dr4k2dr2k8dr30lb3~x2/"><circle cx="554.9" cy="159.9" r="4" fill="#3465a4"><title>University of Chicago (Corporate)</title></circle></a><a href="/variants/s9/dr2k6dr24g2dr2r1dr6k1r2~x2/"><circle cx="486.2" cy="115.1" r="4" fill="#3465a4"><title>Fitzgibbon Red</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="428.4" cy="120.5" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/variants/s7/r3dy26r3dy3lb2dy3r3~x2/"><circle cx="508.6" cy="175.8" r="4" fill="#3465a4"><title>Scott Htg (Error 2)</title></circle></a><a href="/variants/s6/r8dg12lr5k11dg42k3~x2/"><circle cx="356.1" cy="170.1" r="4" fill="#3465a4"><title>Sir Billi (Corporate)</title></circle></a><a href="/variants/s6/dt40dy10dt8r20dt100w5/"><circle cx="550.3" cy="178.3" r="4" fill="#3465a4"><title>East of Scotland Tartan Army</title></circle></a><circle cx="501.6" cy="162.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dr12g6k1g2k1g1k6dr24w2~x2/"><circle cx="370.1" cy="117.1" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute Hunting</title></circle></a><a href="/variants/s8/dr64k8w3k8w3b4w3dr18~x2/"><circle cx="435.3" cy="108.8" r="4" fill="#3465a4"><title>Inverness - 2000 (Fashion)</title></circle></a><a href="/variants/s5/r3k16dg2k2dg2~x2/"><circle cx="409.1" cy="195.7" r="4" fill="#3465a4"><title>Gadsden (Artefact)</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="491.3" cy="158.4" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><a href="/variants/s8/dr32k2dr4k2dr2k8dr30lb3~x2/"><circle cx="554.9" cy="160.2" r="4" fill="#3465a4"><title>University of Chicago (Corporate)</title></circle></a><a href="/variants/s9/dr2k6dr24g2dr2r1dr6k1r2~x2/"><circle cx="486.2" cy="115.2" r="4" fill="#3465a4"><title>Fitzgibbon Red</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="428.4" cy="120.7" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/variants/s7/r3dy26r3dy3lb2dy3r3~x2/"><circle cx="508.6" cy="176.1" r="4" fill="#3465a4"><title>Scott Htg (Error 2)</title></circle></a><a href="/variants/s6/r8dg12lr5k11dg42k3~x2/"><circle cx="356.1" cy="170.5" r="4" fill="#3465a4"><title>Sir Billi (Corporate)</title></circle></a><a href="/variants/s6/dt40dy10dt8r20dt100w5/"><circle cx="550.3" cy="178.6" r="4" fill="#3465a4"><title>East of Scotland Tartan Army</title></circle></a><circle cx="501.6" cy="162.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dr18g1k5g1k1g1dr9~x2/

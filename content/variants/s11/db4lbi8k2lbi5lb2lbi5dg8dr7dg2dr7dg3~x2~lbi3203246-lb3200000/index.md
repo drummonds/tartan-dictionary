@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "DunBroch"
   url: "/tartans/dunbroch/"
+- name: "DunBroch (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4lbi8k2lbi5lb2lbi5dg8dr7dg2dr7dg3/)
 (the same proportion at any scale), whose colour order is pattern [BWKWWWGBGBG](/stripes/bwkwwwgbgbg/).
@@ -14,7 +16,7 @@ Part of the [DunBroch](/tartans/dunbroch/) tartan — the named design grouping 
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10641
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10641](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10641)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db4t8k2t5w2t5dg8dr7dg2dr7dg3~x2~t2704230-w3402083/"><circle cx="60.6" cy="229.8" r="4" fill="#3465a4"><title>DunBroch</title></circle></a><a href="/variants/s9/k13ly4g15w4r13w4g15w4db13~x2/"><circle cx="19.8" cy="222.0" r="4" fill="#3465a4"><title>Spirit of 1994 (Fashion)</title></circle></a><a href="/variants/s10/g5db3lb3g5w4dy2lb1dy2db1r1~x6~g2203152/"><circle cx="78.7" cy="223.6" r="4" fill="#3465a4"><title>Northern College (Ontario)</title></circle></a><a href="/variants/s9/k13y4g15w4r13w4g15w4db13~x2/"><circle cx="16.8" cy="219.2" r="4" fill="#3465a4"><title>Spirit of 1994</title></circle></a><a href="/variants/s7/k4n4lo1n4r4db4w1~x8~r2406019/"><circle cx="50.2" cy="242.3" r="4" fill="#3465a4"><title>Blackdown Hills Corporate Tartan</title></circle></a><a href="/variants/s14/g5k1g5k1db5w1db5g2w1dy2db1r3dy1r3~x4/"><circle cx="49.6" cy="181.8" r="4" fill="#3465a4"><title>Festival Celtique de Québec</title></circle></a><a href="/variants/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/"><circle cx="42.5" cy="180.0" r="4" fill="#3465a4"><title>Festival Celtique de Qubecc</title></circle></a><a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4/"><circle cx="14.0" cy="221.0" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4~db1404245/"><circle cx="14.0" cy="222.4" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><a href="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/"><circle cx="14.0" cy="215.3" r="4" fill="#3465a4"><title>Tipperary County Crest (Fashion)</title></circle></a><circle cx="42.6" cy="225.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db4t8k2t5w2t5dg8dr7dg2dr7dg3~x2~t2704230-w3402083/"><circle cx="60.7" cy="230.3" r="4" fill="#3465a4"><title>DunBroch</title></circle></a><a href="/variants/s9/k13ly4g15w4r13w4g15w4db13~x2/"><circle cx="19.9" cy="222.6" r="4" fill="#3465a4"><title>Spirit of 1994 (Fashion)</title></circle></a><a href="/variants/s10/g5db3lb3g5w4dy2lb1dy2db1r1~x6~g2203152/"><circle cx="78.8" cy="224.1" r="4" fill="#3465a4"><title>Northern College (Ontario)</title></circle></a><a href="/variants/s9/k13y4g15w4r13w4g15w4db13~x2/"><circle cx="16.9" cy="219.9" r="4" fill="#3465a4"><title>Spirit of 1994</title></circle></a><a href="/variants/s7/k4n4lo1n4r4db4w1~x8~r2406019/"><circle cx="50.3" cy="243.0" r="4" fill="#3465a4"><title>Blackdown Hills Corporate Tartan</title></circle></a><a href="/variants/s14/g5k1g5k1db5w1db5g2w1dy2db1r3dy1r3~x4/"><circle cx="49.7" cy="182.3" r="4" fill="#3465a4"><title>Festival Celtique de Québec</title></circle></a><a href="/variants/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/"><circle cx="42.6" cy="180.5" r="4" fill="#3465a4"><title>Festival Celtique de Qubecc</title></circle></a><a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4/"><circle cx="14.0" cy="221.6" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><a href="/variants/s13/lb4k4db4k4g4w1g4w1db3r4db3r4w1~x4~db1404245/"><circle cx="14.0" cy="223.0" r="4" fill="#3465a4"><title>Stanners (Personal)</title></circle></a><a href="/variants/s9/dr10lb36k24dr30ly8k16w18db16ly9/"><circle cx="14.0" cy="215.9" r="4" fill="#3465a4"><title>Tipperary County Crest (Fashion)</title></circle></a><circle cx="42.7" cy="226.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db4lbi8k2lbi5lb2lbi5dg8dr7dg2dr7dg3~x2~lbi3203246-lb3200000/

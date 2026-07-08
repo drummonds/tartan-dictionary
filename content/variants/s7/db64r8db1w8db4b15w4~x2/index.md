@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "North Carolina"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db64r8db1w8db4b15w4/)
 (the same proportion at any scale), whose colour order is pattern [BRBWBBW](/stripes/brbwbbw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3153
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3153](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3153)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb28db15r2db2w1db6~x2/"><circle cx="334.6" cy="153.7" r="4" fill="#3465a4"><title>Corries</title></circle></a><a href="/variants/s6/lb60db19w3db2r2db7~x2/"><circle cx="411.3" cy="135.1" r="4" fill="#3465a4"><title>Federal Bureaux of Investigation</title></circle></a><a href="/variants/s6/t136db45w7db4r4db16/"><circle cx="462.3" cy="151.9" r="4" fill="#3465a4"><title>S.C.O.T.S</title></circle></a><a href="/variants/s7/t62db22w3db2w2db3r1~x2/"><circle cx="474.8" cy="119.4" r="4" fill="#3465a4"><title>North Tyneside (Corporate)</title></circle></a><a href="/variants/s7/t62db22w3db2w2db3r1~x2~db1204274-w3600000/"><circle cx="481.0" cy="120.4" r="4" fill="#3465a4"><title>North Tyneside Pipe Band</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="374.4" cy="143.2" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2r8y3w4~x2/"><circle cx="468.2" cy="92.7" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/"><circle cx="496.0" cy="110.5" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="417.0" cy="153.2" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/variants/s6/db75k4r25db6k6w2~x2/"><circle cx="425.0" cy="107.5" r="4" fill="#3465a4"><title>Hong Kong St Andrew's Society</title></circle></a><circle cx="423.8" cy="107.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb28db15r2db2w1db6~x2/"><circle cx="334.6" cy="154.1" r="4" fill="#3465a4"><title>Corries</title></circle></a><a href="/variants/s6/lb60db19w3db2r2db7~x2/"><circle cx="411.3" cy="135.4" r="4" fill="#3465a4"><title>Federal Bureaux of Investigation</title></circle></a><a href="/variants/s6/t136db45w7db4r4db16/"><circle cx="462.2" cy="152.1" r="4" fill="#3465a4"><title>S.C.O.T.S</title></circle></a><a href="/variants/s7/t62db22w3db2w2db3r1~x2/"><circle cx="474.7" cy="119.5" r="4" fill="#3465a4"><title>North Tyneside (Corporate)</title></circle></a><a href="/variants/s7/t62db22w3db2w2db3r1~x2~db1204274-w3600000/"><circle cx="481.0" cy="120.4" r="4" fill="#3465a4"><title>North Tyneside Pipe Band</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="374.4" cy="143.6" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2r8y3w4~x2/"><circle cx="468.1" cy="92.9" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/"><circle cx="495.9" cy="110.6" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="417.0" cy="153.6" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/variants/s6/db75k4r25db6k6w2~x2/"><circle cx="424.9" cy="107.7" r="4" fill="#3465a4"><title>Hong Kong St Andrew's Society</title></circle></a><circle cx="423.8" cy="107.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db64r8db1w8db4b15w4~x2/

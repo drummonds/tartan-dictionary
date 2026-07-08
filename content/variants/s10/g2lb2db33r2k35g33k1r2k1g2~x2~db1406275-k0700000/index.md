@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Lochaber"
   url: "/tartans/lochaber/"
+- name: "Lochaber - 1819 (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g2lb2db33r2k35g33k1r2k1g2/)
 (the same proportion at any scale), whose colour order is pattern [GKRKGKRBWG](/stripes/gkrkgkrbwg/).
@@ -14,7 +16,7 @@ Part of the [Lochaber](/tartans/lochaber/) tartan — the named design grouping 
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=685
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=685](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=685)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g4lb2db33r2k35g33k1r2k1g4~x2~db1406275/"><circle cx="159.8" cy="67.1" r="4" fill="#3465a4"><title>Lochaber</title></circle></a><a href="/variants/s10/g4lb2db33r2k35g33k1r2k1g4~x2/"><circle cx="182.2" cy="87.7" r="4" fill="#3465a4"><title>Lochaber</title></circle></a><a href="/variants/s9/dy3k3dy3k18n28w1g22k2dy2~x2~n1702249-g2206152/"><circle cx="177.8" cy="116.3" r="4" fill="#3465a4"><title>Black Gold</title></circle></a><a href="/variants/s13/db4y2g24y2k12db3k2db2k2db14dr1db1dr3~x2/"><circle cx="165.3" cy="101.1" r="4" fill="#3465a4"><title>Baron of Greencastle Htg (Personal)</title></circle></a><a href="/variants/s11/g3db1g1db12k2db2k2db3k12dg24w3~x2~g2408144-dg1804144/"><circle cx="175.9" cy="108.0" r="4" fill="#3465a4"><title>Selby (Name)</title></circle></a><a href="/variants/s8/db64k11r2k4r2k4g32ly4~x2/"><circle cx="185.1" cy="72.4" r="4" fill="#3465a4"><title>Sinclair-Brown (Personal)</title></circle></a><a href="/variants/s8/db28y1db2k16g24k1g2r3~x2/"><circle cx="202.2" cy="117.2" r="4" fill="#3465a4"><title>Ogilvy VS</title></circle></a><a href="/variants/s9/db24y2k8g16k1g3k1g3r4~x2/"><circle cx="193.0" cy="119.6" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/variants/s8/g3r1g18k20r1db18lb1g2~x4/"><circle cx="166.3" cy="130.6" r="4" fill="#3465a4"><title>Lochaber #2</title></circle></a><a href="/variants/s12/t6k1r4k1t38k17n12dy5n5dy25k1ly4~x2/"><circle cx="168.5" cy="77.9" r="4" fill="#3465a4"><title>State Seal of New Jersey (Fashion)</title></circle></a><circle cx="211.6" cy="95.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g4lb2db33r2k35g33k1r2k1g4~x2~db1406275/"><circle cx="159.6" cy="67.1" r="4" fill="#3465a4"><title>Lochaber</title></circle></a><a href="/variants/s10/g4lb2db33r2k35g33k1r2k1g4~x2/"><circle cx="182.0" cy="87.8" r="4" fill="#3465a4"><title>Lochaber</title></circle></a><a href="/variants/s9/dy3k3dy3k18n28w1g22k2dy2~x2~n1702249-g2206152/"><circle cx="177.7" cy="116.5" r="4" fill="#3465a4"><title>Black Gold</title></circle></a><a href="/variants/s13/db4y2g24y2k12db3k2db2k2db14dr1db1dr3~x2/"><circle cx="165.1" cy="101.2" r="4" fill="#3465a4"><title>Baron of Greencastle Htg (Personal)</title></circle></a><a href="/variants/s11/g3db1g1db12k2db2k2db3k12dg24w3~x2~g2408144-dg1804144/"><circle cx="175.8" cy="108.1" r="4" fill="#3465a4"><title>Selby (Name)</title></circle></a><a href="/variants/s8/db64k11r2k4r2k4g32ly4~x2/"><circle cx="185.0" cy="72.4" r="4" fill="#3465a4"><title>Sinclair-Brown (Personal)</title></circle></a><a href="/variants/s8/db28y1db2k16g24k1g2r3~x2/"><circle cx="202.1" cy="117.4" r="4" fill="#3465a4"><title>Ogilvy VS</title></circle></a><a href="/variants/s9/db24y2k8g16k1g3k1g3r4~x2/"><circle cx="192.9" cy="119.8" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><a href="/variants/s8/g3r1g18k20r1db18lb1g2~x4/"><circle cx="166.2" cy="130.8" r="4" fill="#3465a4"><title>Lochaber #2</title></circle></a><a href="/variants/s12/t6k1r4k1t38k17n12dy5n5dy25k1ly4~x2/"><circle cx="168.3" cy="78.0" r="4" fill="#3465a4"><title>State Seal of New Jersey (Fashion)</title></circle></a><circle cx="211.5" cy="95.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g2lb2db33r2k35g33k1r2k1g2~x2~db1406275-k0700000/

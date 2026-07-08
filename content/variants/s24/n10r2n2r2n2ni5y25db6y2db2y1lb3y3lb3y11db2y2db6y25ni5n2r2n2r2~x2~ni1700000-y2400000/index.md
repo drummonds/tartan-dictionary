@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "LOOK Keith"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n10r2n2r2n2ni5y25db6y2db2y1lb3y3lb3y11db2y2db6y25ni5n2r2n2r2/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBBGBGBGWGWGBGBGBBRBR](/stripes/brbrbbgbgbgwgwgbgbgbbrbr/).
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11246
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11246](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11246)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/n10r2n2r2n2dt5o25db6o2db2o1lb3o3lb3o11db2o2db6o25dt5n2r2n2r2~x2~n1900000-o2500000/"><circle cx="322.5" cy="94.2" r="4" fill="#3465a4"><title>LOOK Keith</title></circle></a><a href="/variants/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2~n1900000-o2500000/"><circle cx="340.8" cy="154.7" r="4" fill="#3465a4"><title>Hand (Personal)</title></circle></a><circle cx="362.5" cy="108.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/n10r2n2r2n2dt5o25db6o2db2o1lb3o3lb3o11db2o2db6o25dt5n2r2n2r2~x2~n1900000-o2500000/"><circle cx="322.4" cy="94.1" r="4" fill="#3465a4"><title>LOOK Keith</title></circle></a><a href="/variants/s12/dg1n8o5n23o5db3o5dp3o5dg5o3w1~x2~n1900000-o2500000/"><circle cx="340.8" cy="154.6" r="4" fill="#3465a4"><title>Hand (Personal)</title></circle></a><circle cx="362.4" cy="108.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s24/n10r2n2r2n2ni5y25db6y2db2y1lb3y3lb3y11db2y2db6y25ni5n2r2n2r2~x2~ni1700000-y2400000/

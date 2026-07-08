@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Tennant"
   url: "/tartans/tennant/"
+- name: "Tennant (Yules)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1dy7g7db7g7db7r1/)
 (the same proportion at any scale), whose colour order is pattern [RBGBGGR](/stripes/rbgbggr/).
@@ -14,7 +16,7 @@ Part of the [Tennant](/tartans/tennant/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4090
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4090](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4090)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r1do7g7db7g7db7r1~x4/"><circle cx="194.3" cy="266.2" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/variants/s6/g3db1g8db7k3dy1~x2/"><circle cx="214.7" cy="223.1" r="4" fill="#3465a4"><title>Trafalgar (Fashion)</title></circle></a><a href="/variants/s6/g3db1g8db7k3y1~x2/"><circle cx="213.3" cy="222.8" r="4" fill="#3465a4"><title>Trafalger</title></circle></a><a href="/variants/s8/db7r3g7r1g7r3db7lb1~x2/"><circle cx="186.9" cy="244.9" r="4" fill="#3465a4"><title>Hebrides #8</title></circle></a><a href="/variants/s5/b10k10b10dg26y5~x2/"><circle cx="180.9" cy="262.6" r="4" fill="#3465a4"><title>Marshall of Keith (Personal)</title></circle></a><a href="/variants/s5/db2g4y1db1r2~x12/"><circle cx="182.9" cy="293.5" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/"><circle cx="277.4" cy="230.0" r="4" fill="#3465a4"><title>Cameron Hunting Clan Tartan</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="279.0" cy="230.7" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2/"><circle cx="279.0" cy="230.7" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s7/dg3b22do10o5dg21r6b3~x2/"><circle cx="203.3" cy="229.8" r="4" fill="#3465a4"><title>Swankie</title></circle></a><circle cx="194.0" cy="266.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r1do7g7db7g7db7r1~x4/"><circle cx="194.4" cy="266.8" r="4" fill="#3465a4"><title>Tennant</title></circle></a><a href="/variants/s6/g3db1g8db7k3dy1~x2/"><circle cx="214.8" cy="223.7" r="4" fill="#3465a4"><title>Trafalgar (Fashion)</title></circle></a><a href="/variants/s6/g3db1g8db7k3y1~x2/"><circle cx="213.4" cy="223.4" r="4" fill="#3465a4"><title>Trafalger</title></circle></a><a href="/variants/s8/db7r3g7r1g7r3db7lb1~x2/"><circle cx="187.1" cy="245.5" r="4" fill="#3465a4"><title>Hebrides #8</title></circle></a><a href="/variants/s5/b10k10b10dg26y5~x2/"><circle cx="181.0" cy="263.2" r="4" fill="#3465a4"><title>Marshall of Keith (Personal)</title></circle></a><a href="/variants/s5/db2g4y1db1r2~x12/"><circle cx="183.1" cy="294.3" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/"><circle cx="277.5" cy="230.5" r="4" fill="#3465a4"><title>Cameron Hunting Clan Tartan</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s7/dg3b22do10o5dg21r6b3~x2/"><circle cx="203.4" cy="230.2" r="4" fill="#3465a4"><title>Swankie</title></circle></a><circle cx="194.1" cy="267.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r1dy7g7db7g7db7r1~x8/

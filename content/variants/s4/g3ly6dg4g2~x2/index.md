@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pilgrims (Bedford)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g3ly6dg4g2/)
 (the same proportion at any scale), whose colour order is pattern [GGYG](/stripes/ggyg/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3339
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3339](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3339)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dg35g25r15lb23~x2~dg1804173-g2003114/"><circle cx="155.2" cy="366.0" r="4" fill="#3465a4"><title>Dunans Rising</title></circle></a><a href="/variants/s4/dp6g15dg15w2~x2/"><circle cx="240.8" cy="290.0" r="4" fill="#3465a4"><title>Thistle and Kudzu Scottish Society</title></circle></a><a href="/variants/s3/dp2g4y1~x4/"><circle cx="344.0" cy="346.4" r="4" fill="#3465a4"><title>Wilson's No.201</title></circle></a><circle cx="198.7" cy="360.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dg35g25r15lb23~x2~dg1804173-g2003114/"><circle cx="155.5" cy="366.0" r="4" fill="#3465a4"><title>Dunans Rising</title></circle></a><a href="/variants/s4/dp6g15dg15w2~x2/"><circle cx="241.0" cy="290.7" r="4" fill="#3465a4"><title>Thistle and Kudzu Scottish Society</title></circle></a><a href="/variants/s3/dp2g4y1~x4/"><circle cx="344.3" cy="347.2" r="4" fill="#3465a4"><title>Wilson's No.201</title></circle></a><circle cx="199.1" cy="361.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/g3ly6dg4g2~x2/

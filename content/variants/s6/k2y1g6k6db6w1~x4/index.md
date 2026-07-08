@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dyce #3"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2y1g6k6db6w1/)
 (the same proportion at any scale), whose colour order is pattern [KGGKBW](/stripes/kggkbw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1059
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1059](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1059)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y3k2g12k12db14w3/"><circle cx="76.9" cy="211.9" r="4" fill="#3465a4"><title>MacNeil of Barra</title></circle></a><a href="/variants/s6/y3k2g12k12db14w3~x2/"><circle cx="76.9" cy="211.9" r="4" fill="#3465a4"><title>MacNeil 6</title></circle></a><a href="/variants/s6/k3g8k8r2db8w2~x2/"><circle cx="63.3" cy="239.5" r="4" fill="#3465a4"><title>Mitchell Family Tartan</title></circle></a><a href="/variants/s6/dr1k1g6k6db6lr1~x4/"><circle cx="99.9" cy="212.9" r="4" fill="#3465a4"><title>Gaines Center for the Humanities</title></circle></a><a href="/variants/s6/y1k1g9k9db8w1~x4/"><circle cx="121.0" cy="189.8" r="4" fill="#3465a4"><title>MacNeil 4</title></circle></a><a href="/variants/s6/k2g17k16r2db17w2~x2/"><circle cx="109.5" cy="191.6" r="4" fill="#3465a4"><title>Galbraith</title></circle></a><a href="/variants/s6/k4w1g10k10db10r2~x4/"><circle cx="120.7" cy="197.5" r="4" fill="#3465a4"><title>Rose Hunting</title></circle></a><a href="/variants/s6/k4w1g10k10db10r2~x2/"><circle cx="120.7" cy="197.5" r="4" fill="#3465a4"><title>Rose Hunting</title></circle></a><a href="/variants/s6/k4w1g10k10db10r2/"><circle cx="120.7" cy="197.5" r="4" fill="#3465a4"><title>Rose Hunting</title></circle></a><a href="/variants/s6/k4g16k14y3db16r4~x2/"><circle cx="78.8" cy="226.5" r="4" fill="#3465a4"><title>Birse</title></circle></a><circle cx="98.5" cy="218.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y3k2g12k12db14w3/"><circle cx="77.0" cy="212.4" r="4" fill="#3465a4"><title>MacNeil of Barra</title></circle></a><a href="/variants/s6/y3k2g12k12db14w3~x2/"><circle cx="77.0" cy="212.4" r="4" fill="#3465a4"><title>MacNeil 6</title></circle></a><a href="/variants/s6/k3g8k8r2db8w2~x2/"><circle cx="63.4" cy="240.2" r="4" fill="#3465a4"><title>Mitchell Family Tartan</title></circle></a><a href="/variants/s6/dr1k1g6k6db6lr1~x4/"><circle cx="100.0" cy="213.4" r="4" fill="#3465a4"><title>Gaines Center for the Humanities</title></circle></a><a href="/variants/s6/y1k1g9k9db8w1~x4/"><circle cx="121.0" cy="190.2" r="4" fill="#3465a4"><title>MacNeil 4</title></circle></a><a href="/variants/s6/k2g17k16r2db17w2~x2/"><circle cx="109.5" cy="192.1" r="4" fill="#3465a4"><title>Galbraith</title></circle></a><a href="/variants/s6/k4w1g10k10db10r2~x4/"><circle cx="120.7" cy="198.0" r="4" fill="#3465a4"><title>Rose Hunting</title></circle></a><a href="/variants/s6/k4w1g10k10db10r2~x2/"><circle cx="120.7" cy="198.0" r="4" fill="#3465a4"><title>Rose Hunting</title></circle></a><a href="/variants/s6/k4w1g10k10db10r2/"><circle cx="120.7" cy="198.0" r="4" fill="#3465a4"><title>Rose Hunting</title></circle></a><a href="/variants/s6/k4g16k14y3db16r4~x2/"><circle cx="78.8" cy="227.0" r="4" fill="#3465a4"><title>Birse</title></circle></a><circle cx="98.5" cy="219.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k2y1g6k6db6w1~x4/

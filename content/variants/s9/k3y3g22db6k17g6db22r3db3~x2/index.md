@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Maresh"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3y3g22db6k17g6db22r3db3/)
 (the same proportion at any scale), whose colour order is pattern [BRBGKBGGK](/stripes/brbgkbggk/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2832
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2832](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2832)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g11lb3g5r3g5k22db22k5~x2/"><circle cx="114.1" cy="185.6" r="4" fill="#3465a4"><title>Wood (Personal)</title></circle></a><a href="/variants/s8/dr3g2dr3g18k14w2db16g3~x2/"><circle cx="128.8" cy="175.5" r="4" fill="#3465a4"><title>Mantle (Personal)</title></circle></a><a href="/variants/s10/db6dy2db18k6dy3k6g14r3g10r2~x2/"><circle cx="115.5" cy="181.2" r="4" fill="#3465a4"><title>MacMillan Hunting Clan Tartan</title></circle></a><a href="/variants/s7/db24k4r3k4g24k4b4~x2/"><circle cx="139.9" cy="178.0" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2~x2/"><circle cx="142.2" cy="172.2" r="4" fill="#3465a4"><title>MacLeod, Macleod of Harris</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2/"><circle cx="142.2" cy="172.2" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/"><circle cx="107.5" cy="179.2" r="4" fill="#3465a4"><title>Akins of Candler (Personal)</title></circle></a><a href="/variants/s10/db20k3db3k3db3k16g3lo3g12dr2~x2/"><circle cx="148.1" cy="157.2" r="4" fill="#3465a4"><title>Barnes Hunting (Personal)</title></circle></a><a href="/variants/s7/db24k4r3k4g24k4lo4~x2/"><circle cx="132.3" cy="174.8" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/r1k1g7k5db10k1y1~x2/"><circle cx="152.7" cy="170.1" r="4" fill="#3465a4"><title>MacLeod Small Clan Tartan</title></circle></a><circle cx="129.8" cy="182.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g11lb3g5r3g5k22db22k5~x2/"><circle cx="114.1" cy="186.0" r="4" fill="#3465a4"><title>Wood (Personal)</title></circle></a><a href="/variants/s8/dr3g2dr3g18k14w2db16g3~x2/"><circle cx="128.8" cy="175.9" r="4" fill="#3465a4"><title>Mantle (Personal)</title></circle></a><a href="/variants/s10/db6dy2db18k6dy3k6g14r3g10r2~x2/"><circle cx="115.5" cy="181.6" r="4" fill="#3465a4"><title>MacMillan Hunting Clan Tartan</title></circle></a><a href="/variants/s7/db24k4r3k4g24k4b4~x2/"><circle cx="139.9" cy="178.4" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2~x2/"><circle cx="142.2" cy="172.6" r="4" fill="#3465a4"><title>MacLeod, Macleod of Harris</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2/"><circle cx="142.2" cy="172.6" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s12/g12r2g2r2k12db12y2db12k2g11r2g2~x2/"><circle cx="107.5" cy="179.6" r="4" fill="#3465a4"><title>Akins of Candler (Personal)</title></circle></a><a href="/variants/s10/db20k3db3k3db3k16g3lo3g12dr2~x2/"><circle cx="148.0" cy="157.5" r="4" fill="#3465a4"><title>Barnes Hunting (Personal)</title></circle></a><a href="/variants/s7/db24k4r3k4g24k4lo4~x2/"><circle cx="132.3" cy="175.3" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/r1k1g7k5db10k1y1~x2/"><circle cx="152.7" cy="170.5" r="4" fill="#3465a4"><title>MacLeod Small Clan Tartan</title></circle></a><circle cx="129.8" cy="182.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k3y3g22db6k17g6db22r3db3~x2/

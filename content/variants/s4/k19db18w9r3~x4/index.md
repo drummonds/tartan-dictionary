@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Raven (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k19db18w9r3/)
 (the same proportion at any scale), whose colour order is pattern [KBWR](/stripes/kbwr/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7536
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7536](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7536)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/"><circle cx="136.0" cy="204.9" r="4" fill="#3465a4"><title>Bryson (1988) (Name)</title></circle></a><a href="/variants/s5/w3k25n9db17ly3~x2/"><circle cx="160.3" cy="200.4" r="4" fill="#3465a4"><title>Teylu Coleman (Name)</title></circle></a><a href="/variants/s5/k14r4k25db30w4~x2/"><circle cx="226.6" cy="217.5" r="4" fill="#3465a4"><title>Britannia</title></circle></a><a href="/variants/s4/db1n6k6r1~x10/"><circle cx="196.7" cy="235.7" r="4" fill="#3465a4"><title>Mayer, Chris (Personal)</title></circle></a><a href="/variants/s4/dr3n16k16lb3~x4/"><circle cx="183.9" cy="246.3" r="4" fill="#3465a4"><title>Thompson, Dress (Clan)</title></circle></a><a href="/variants/s5/r1db7k7g7w1~x6/"><circle cx="91.3" cy="223.1" r="4" fill="#3465a4"><title>Davidson of Tulloch (Clan)</title></circle></a><a href="/variants/s5/k7r3k24b28y3~x2/"><circle cx="225.6" cy="195.0" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s3/k5lb4y1~x2/"><circle cx="206.1" cy="283.9" r="4" fill="#3465a4"><title>Wilson's, No 118</title></circle></a><a href="/variants/s5/r6db35k36dbi36w6~db0805267-dbi1604274/"><circle cx="105.1" cy="234.9" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/db3w3db5k6y1~x4/"><circle cx="107.9" cy="241.1" r="4" fill="#3465a4"><title>Kilmarnock Football Club (Old)</title></circle></a><circle cx="126.7" cy="247.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/"><circle cx="136.0" cy="205.4" r="4" fill="#3465a4"><title>Bryson (1988) (Name)</title></circle></a><a href="/variants/s5/w3k25n9db17ly3~x2/"><circle cx="160.3" cy="200.9" r="4" fill="#3465a4"><title>Teylu Coleman (Name)</title></circle></a><a href="/variants/s5/k14r4k25db30w4~x2/"><circle cx="226.6" cy="218.1" r="4" fill="#3465a4"><title>Britannia</title></circle></a><a href="/variants/s4/db1n6k6r1~x10/"><circle cx="196.8" cy="236.3" r="4" fill="#3465a4"><title>Mayer, Chris (Personal)</title></circle></a><a href="/variants/s4/dr3n16k16lb3~x4/"><circle cx="184.0" cy="247.0" r="4" fill="#3465a4"><title>Thompson, Dress (Clan)</title></circle></a><a href="/variants/s5/r1db7k7g7w1~x6/"><circle cx="91.3" cy="223.7" r="4" fill="#3465a4"><title>Davidson of Tulloch (Clan)</title></circle></a><a href="/variants/s5/k7r3k24b28y3~x2/"><circle cx="225.6" cy="195.5" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s3/k5lb4y1~x2/"><circle cx="206.3" cy="284.8" r="4" fill="#3465a4"><title>Wilson's, No 118</title></circle></a><a href="/variants/s5/r6db35k36dbi36w6~db0805267-dbi1604274/"><circle cx="105.2" cy="235.5" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/db3w3db5k6y1~x4/"><circle cx="108.0" cy="241.8" r="4" fill="#3465a4"><title>Kilmarnock Football Club (Old)</title></circle></a><circle cx="126.8" cy="248.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/k19db18w9r3~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal Caledonian Curling Club"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt72dr2dt2dr5dt4y2dt4dr5dt2db2dt2db15lb2db3r2/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBGBBBBBBWBR](/stripes/bbbbbgbbbbbbwbr/).
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11346
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11346](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11346)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

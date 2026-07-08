@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Barrington Municipality"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y5n3db6dy8w5r17k2/)
 (the same proportion at any scale), whose colour order is pattern [GBBGWRK](/stripes/gbbgwrk/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11384
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11384](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11384)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r39db22k11y22g5~x2/"><circle cx="141.8" cy="220.0" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s6/dg3g3r22k5db22dy2~x2~dg1806142-g2408144/"><circle cx="164.6" cy="152.1" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><a href="/variants/s7/r16y2dy7y2lb24k2g2~x2/"><circle cx="182.9" cy="138.6" r="4" fill="#3465a4"><title>Traill (Personal)</title></circle></a><a href="/variants/s7/dg3g3r22k5db22dy2w2~x2~dg1806142-g2408144/"><circle cx="130.6" cy="124.1" r="4" fill="#3465a4"><title>MacLeod Soc. of Scotland, (Comm)</title></circle></a><a href="/variants/s7/lb4dp3b1g9w1r8k1~x4/"><circle cx="85.9" cy="156.8" r="4" fill="#3465a4"><title>Wilson's, No 121</title></circle></a><a href="/variants/s6/n2dg2r9k9g2y2~x4~dg1204144-g2408144/"><circle cx="77.3" cy="194.2" r="4" fill="#3465a4"><title>Wolves Wod Kindred</title></circle></a><a href="/variants/s8/r6y15do4db12g12dy4r25w5~x2/"><circle cx="108.3" cy="196.7" r="4" fill="#3465a4"><title>Young Presidents Organisation Dress</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.1" cy="220.6" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s6/w5n20k8r5dp36ly5~x2/"><circle cx="158.5" cy="170.4" r="4" fill="#3465a4"><title>Lord's Own Highlanders (Corporate)</title></circle></a><a href="/variants/s6/k9g2db16r22dg10w6~x2~g2408144-db1406275-dg1806142/"><circle cx="80.3" cy="181.8" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><circle cx="79.3" cy="162.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r39db22k11y22g5~x2/"><circle cx="141.9" cy="220.6" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s6/dg3g3r22k5db22dy2~x2~dg1806142-g2408144/"><circle cx="164.5" cy="152.5" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><a href="/variants/s7/r16y2dy7y2lb24k2g2~x2/"><circle cx="182.9" cy="139.0" r="4" fill="#3465a4"><title>Traill (Personal)</title></circle></a><a href="/variants/s7/dg3g3r22k5db22dy2w2~x2~dg1806142-g2408144/"><circle cx="130.5" cy="124.4" r="4" fill="#3465a4"><title>MacLeod Soc. of Scotland, (Comm)</title></circle></a><a href="/variants/s7/lb4dp3b1g9w1r8k1~x4/"><circle cx="86.0" cy="157.2" r="4" fill="#3465a4"><title>Wilson's, No 121</title></circle></a><a href="/variants/s6/n2dg2r9k9g2y2~x4~dg1204144-g2408144/"><circle cx="77.4" cy="194.8" r="4" fill="#3465a4"><title>Wolves Wod Kindred</title></circle></a><a href="/variants/s8/r6y15do4db12g12dy4r25w5~x2/"><circle cx="108.4" cy="197.2" r="4" fill="#3465a4"><title>Young Presidents Organisation Dress</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.2" cy="221.1" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s6/w5n20k8r5dp36ly5~x2/"><circle cx="158.5" cy="170.8" r="4" fill="#3465a4"><title>Lord's Own Highlanders (Corporate)</title></circle></a><a href="/variants/s6/k9g2db16r22dg10w6~x2~g2408144-db1406275-dg1806142/"><circle cx="80.3" cy="182.3" r="4" fill="#3465a4"><title>Nicolson of Taransay (Personal)</title></circle></a><circle cx="79.4" cy="162.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/y5n3db6dy8w5r17k2/

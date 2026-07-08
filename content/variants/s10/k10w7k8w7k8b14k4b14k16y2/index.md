@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Little of Morton Rig"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k10w7k8w7k8b14k4b14k16y2/)
 (the same proportion at any scale), whose colour order is pattern [GKBKBKWKWK](/stripes/gkbkbkwkwk/).
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k6lb3k8db7lo2db7lb1~x4~db1406275/"><circle cx="157.9" cy="208.2" r="4" fill="#3465a4"><title>St. Johnstone Football Club</title></circle></a><a href="/variants/s7/k19w8k19b16y4b16w2~x2/"><circle cx="166.0" cy="213.0" r="4" fill="#3465a4"><title>St Johnstone F.C.</title></circle></a><a href="/variants/s5/db3w3db5k6y1~x4/"><circle cx="107.9" cy="241.1" r="4" fill="#3465a4"><title>Kilmarnock Football Club (Old)</title></circle></a><a href="/variants/s10/k5w4k4r4k4w7k2w7k8y1~x4/"><circle cx="157.2" cy="207.4" r="4" fill="#3465a4"><title>Little, Arisaid</title></circle></a><a href="/variants/s7/k6lb3k8db7lo2db7lb1~x4/"><circle cx="158.0" cy="226.5" r="4" fill="#3465a4"><title>St. Johnstone F.C. (Sports)</title></circle></a><a href="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/"><circle cx="153.4" cy="206.2" r="4" fill="#3465a4"><title>Little of Morton Rigg</title></circle></a><a href="/variants/s10/k4dr4k4dr4k4w8k2w8k8lo1~x4/"><circle cx="143.8" cy="206.3" r="4" fill="#3465a4"><title>Little Dress</title></circle></a><a href="/variants/s9/db16k3db16k26dp4k26n20w3n8/"><circle cx="166.5" cy="189.6" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s11/k9b5w5k9b14k5w5k9w5k5b8~x2/"><circle cx="118.4" cy="273.8" r="4" fill="#3465a4"><title>Cummins (Personal)</title></circle></a><a href="/variants/s11/k9db5w5k9db14k5w5k9w5k5db8~x2/"><circle cx="121.4" cy="273.8" r="4" fill="#3465a4"><title>Cummins Royal Blue, B (Personal)</title></circle></a><circle cx="160.3" cy="209.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k6lb3k8db7lo2db7lb1~x4~db1406275/"><circle cx="157.9" cy="208.7" r="4" fill="#3465a4"><title>St. Johnstone Football Club</title></circle></a><a href="/variants/s7/k19w8k19b16y4b16w2~x2/"><circle cx="166.1" cy="213.6" r="4" fill="#3465a4"><title>St Johnstone F.C.</title></circle></a><a href="/variants/s5/db3w3db5k6y1~x4/"><circle cx="108.0" cy="241.8" r="4" fill="#3465a4"><title>Kilmarnock Football Club (Old)</title></circle></a><a href="/variants/s10/k5w4k4r4k4w7k2w7k8y1~x4/"><circle cx="157.3" cy="208.1" r="4" fill="#3465a4"><title>Little, Arisaid</title></circle></a><a href="/variants/s7/k6lb3k8db7lo2db7lb1~x4/"><circle cx="158.1" cy="227.1" r="4" fill="#3465a4"><title>St. Johnstone F.C. (Sports)</title></circle></a><a href="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/"><circle cx="153.4" cy="206.8" r="4" fill="#3465a4"><title>Little of Morton Rigg</title></circle></a><a href="/variants/s10/k4dr4k4dr4k4w8k2w8k8lo1~x4/"><circle cx="143.8" cy="206.9" r="4" fill="#3465a4"><title>Little Dress</title></circle></a><a href="/variants/s9/db16k3db16k26dp4k26n20w3n8/"><circle cx="166.5" cy="190.0" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s11/k9b5w5k9b14k5w5k9w5k5b8~x2/"><circle cx="118.5" cy="274.6" r="4" fill="#3465a4"><title>Cummins (Personal)</title></circle></a><a href="/variants/s11/k9db5w5k9db14k5w5k9w5k5db8~x2/"><circle cx="121.5" cy="274.6" r="4" fill="#3465a4"><title>Cummins Royal Blue, B (Personal)</title></circle></a><circle cx="160.3" cy="210.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k10w7k8w7k8b14k4b14k16y2/

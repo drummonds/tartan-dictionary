@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Methven"
   url: "/tartans/methven/"
+- name: "Methven"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o2dg3dy18o2dy2o21g2dg2g2dg24lo2/)
 (the same proportion at any scale), whose colour order is pattern [RGGRGRGGGGY](/stripes/rggrgrggggy/).
@@ -14,7 +16,7 @@ Part of the [Methven](/tartans/methven/) tartan — the named design grouping th
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11092
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11092](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11092)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/"><circle cx="232.6" cy="167.7" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/variants/s8/r2do1dg9gi1do2gi6g2gi1~x4~gi2205128-g2007139/"><circle cx="257.9" cy="220.3" r="4" fill="#3465a4"><title>Tomass</title></circle></a><a href="/variants/s8/dy35dg19r3g8r3dg8r3db3~x2/"><circle cx="324.2" cy="205.4" r="4" fill="#3465a4"><title>John Muir Way</title></circle></a><a href="/variants/s11/r6db3y3o32db24g32y3g3y3g3y6/"><circle cx="205.1" cy="177.7" r="4" fill="#3465a4"><title>Bonnie Brae Corporate Tartan</title></circle></a><a href="/variants/s13/r8g1r1g1r1g25dt1g1dt1g1dt25yi7y6~x2~dt1500000-yi2301120/"><circle cx="308.6" cy="136.7" r="4" fill="#3465a4"><title>Johansson (Aneby, Sweden), Christian (Personal)</title></circle></a><a href="/variants/s12/g9b3g4o3g3o4g3dg11oi30b3oi4g3~x2~o2102055-oi2104058/"><circle cx="318.3" cy="197.8" r="4" fill="#3465a4"><title>Harmony 5</title></circle></a><a href="/variants/s12/do11g3do4ly3do3ly4do3y13o34g3o4b3~x2~ly3307090-y2405105/"><circle cx="255.6" cy="151.2" r="4" fill="#3465a4"><title>Harmony 1</title></circle></a><a href="/variants/s12/do9lb3do4y3do3y4do3o11g30b3g4do3~x2/"><circle cx="241.3" cy="164.6" r="4" fill="#3465a4"><title>Harmony, 2</title></circle></a><a href="/variants/s11/dt2y10dg4o5dg2o3dg2o5dg4dt15lr2~x2~y2302166-dg1806142/"><circle cx="201.7" cy="224.1" r="4" fill="#3465a4"><title>Elwyn Glen (Scottish Borders)</title></circle></a><a href="/variants/s12/o12n3o3dt4o16dr3o3dr3o3dr16dt52o4/"><circle cx="362.6" cy="158.0" r="4" fill="#3465a4"><title>Drumbeg</title></circle></a><circle cx="277.2" cy="176.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/"><circle cx="232.7" cy="167.9" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/variants/s8/r2do1dg9gi1do2gi6g2gi1~x4~gi2205128-g2007139/"><circle cx="258.0" cy="220.5" r="4" fill="#3465a4"><title>Tomass</title></circle></a><a href="/variants/s8/dy35dg19r3g8r3dg8r3db3~x2/"><circle cx="324.2" cy="205.5" r="4" fill="#3465a4"><title>John Muir Way</title></circle></a><a href="/variants/s11/r6db3y3o32db24g32y3g3y3g3y6/"><circle cx="205.1" cy="178.0" r="4" fill="#3465a4"><title>Bonnie Brae Corporate Tartan</title></circle></a><a href="/variants/s13/r8g1r1g1r1g25dt1g1dt1g1dt25yi7y6~x2~dt1500000-yi2301120/"><circle cx="308.5" cy="136.6" r="4" fill="#3465a4"><title>Johansson (Aneby, Sweden), Christian (Personal)</title></circle></a><a href="/variants/s12/g9b3g4o3g3o4g3dg11oi30b3oi4g3~x2~o2102055-oi2104058/"><circle cx="318.4" cy="197.9" r="4" fill="#3465a4"><title>Harmony 5</title></circle></a><a href="/variants/s12/do11g3do4ly3do3ly4do3y13o34g3o4b3~x2~ly3307090-y2405105/"><circle cx="255.6" cy="151.3" r="4" fill="#3465a4"><title>Harmony 1</title></circle></a><a href="/variants/s12/do9lb3do4y3do3y4do3o11g30b3g4do3~x2/"><circle cx="241.3" cy="164.7" r="4" fill="#3465a4"><title>Harmony, 2</title></circle></a><a href="/variants/s11/dt2y10dg4o5dg2o3dg2o5dg4dt15lr2~x2~y2302166-dg1806142/"><circle cx="201.8" cy="224.4" r="4" fill="#3465a4"><title>Elwyn Glen (Scottish Borders)</title></circle></a><a href="/variants/s12/o12n3o3dt4o16dr3o3dr3o3dr16dt52o4/"><circle cx="362.6" cy="158.1" r="4" fill="#3465a4"><title>Drumbeg</title></circle></a><circle cx="277.2" cy="177.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/

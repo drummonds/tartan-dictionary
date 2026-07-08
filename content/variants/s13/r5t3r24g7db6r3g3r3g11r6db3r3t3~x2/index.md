@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dabney Red (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5t3r24g7db6r3g3r3g11r6db3r3t3/)
 (the same proportion at any scale), whose colour order is pattern [BRBRGRGRBGRBR](/stripes/brbrgrgrbgrbr/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7877
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7877](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7877)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r2g2r2g8r2g2r2db2r11y1r4y1~x4/"><circle cx="353.8" cy="178.3" r="4" fill="#3465a4"><title>Burns 1930</title></circle></a><a href="/variants/s12/r3g3r3g14r3g3r3db5r18y2r8y2~x2/"><circle cx="325.7" cy="186.5" r="4" fill="#3465a4"><title>Burns</title></circle></a><a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1~x2/"><circle cx="237.0" cy="206.1" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1/"><circle cx="237.0" cy="206.1" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><a href="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/"><circle cx="341.3" cy="164.0" r="4" fill="#3465a4"><title>London Caledonian Games Association</title></circle></a><a href="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/"><circle cx="376.8" cy="159.6" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/"><circle cx="376.8" cy="159.6" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/variants/s11/w2r4g8r16lb2r3g16r4lb2r4w2~x2/"><circle cx="272.8" cy="192.6" r="4" fill="#3465a4"><title>MacKinnon #10</title></circle></a><a href="/variants/s13/r9db2r21lb2r2db8r2g2r2g17r2db2r8~x2/"><circle cx="320.6" cy="159.3" r="4" fill="#3465a4"><title>London, Caledonian</title></circle></a><a href="/variants/s12/r1w1r6db3r1g6r1g6r6db1r1w1~x2/"><circle cx="226.3" cy="202.7" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><circle cx="294.6" cy="182.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r2g2r2g8r2g2r2db2r11y1r4y1~x4/"><circle cx="353.8" cy="178.7" r="4" fill="#3465a4"><title>Burns 1930</title></circle></a><a href="/variants/s12/r3g3r3g14r3g3r3db5r18y2r8y2~x2/"><circle cx="325.8" cy="186.9" r="4" fill="#3465a4"><title>Burns</title></circle></a><a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1~x2/"><circle cx="237.1" cy="206.6" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/variants/s12/r1lb1r6db3r1g6r1g6r6db1r1lb1/"><circle cx="237.1" cy="206.6" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><a href="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/"><circle cx="341.4" cy="164.4" r="4" fill="#3465a4"><title>London Caledonian Games Association</title></circle></a><a href="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/"><circle cx="376.9" cy="160.0" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/"><circle cx="376.9" cy="160.0" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/variants/s11/w2r4g8r16lb2r3g16r4lb2r4w2~x2/"><circle cx="272.9" cy="193.1" r="4" fill="#3465a4"><title>MacKinnon #10</title></circle></a><a href="/variants/s13/r9db2r21lb2r2db8r2g2r2g17r2db2r8~x2/"><circle cx="320.7" cy="159.7" r="4" fill="#3465a4"><title>London, Caledonian</title></circle></a><a href="/variants/s12/r1w1r6db3r1g6r1g6r6db1r1w1~x2/"><circle cx="226.4" cy="203.2" r="4" fill="#3465a4"><title>MacQuarrie SM</title></circle></a><circle cx="294.7" cy="183.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/r5t3r24g7db6r3g3r3g11r6db3r3t3~x2/

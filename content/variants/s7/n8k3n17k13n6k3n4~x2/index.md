@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scott Black and Grey"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n8k3n17k13n6k3n4/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKB](/stripes/bkbkbkb/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3696
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3696](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3696)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w2k1w6k6w2k1w1~x2/"><circle cx="288.2" cy="232.7" r="4" fill="#3465a4"><title>Scott (Abbreviated)</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="289.5" cy="185.4" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/variants/s9/dr1n6k1n1k2n1k1n6ly1~x8/"><circle cx="343.5" cy="189.1" r="4" fill="#3465a4"><title>Modowny (Fashion)</title></circle></a><a href="/variants/s9/r1n6k1n1k2n1k1n6ly1~x8/"><circle cx="341.1" cy="187.8" r="4" fill="#3465a4"><title>Mowdowny (Fashion)</title></circle></a><a href="/variants/s9/dr1n6k1n1k2n1k1n6dy1~x8/"><circle cx="357.7" cy="193.4" r="4" fill="#3465a4"><title>Modowny</title></circle></a><a href="/variants/s6/n6k16n6k16n45k4~x2/"><circle cx="363.8" cy="207.6" r="4" fill="#3465a4"><title>Grey Spirit Fashion Tartan</title></circle></a><a href="/variants/s6/n6k17n6k17n45k4~x2/"><circle cx="356.5" cy="209.1" r="4" fill="#3465a4"><title>Grey Spirit (Fashion)</title></circle></a><a href="/variants/s7/k17n4k13n4k3n45k3~x2/"><circle cx="363.8" cy="170.6" r="4" fill="#3465a4"><title>Black Spirit Fashion Tartan</title></circle></a><a href="/variants/s6/k3n25k3n3k21n3~x2/"><circle cx="326.2" cy="213.6" r="4" fill="#3465a4"><title>Slanj, Grey (Corporate)</title></circle></a><a href="/variants/s6/k4n4k1n4k4n1~x4/"><circle cx="252.4" cy="292.0" r="4" fill="#3465a4"><title>Highland Grey</title></circle></a><circle cx="338.9" cy="250.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w2k1w6k6w2k1w1~x2/"><circle cx="288.4" cy="233.5" r="4" fill="#3465a4"><title>Scott (Abbreviated)</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="289.5" cy="185.9" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/variants/s9/dr1n6k1n1k2n1k1n6ly1~x8/"><circle cx="343.5" cy="189.6" r="4" fill="#3465a4"><title>Modowny (Fashion)</title></circle></a><a href="/variants/s9/r1n6k1n1k2n1k1n6ly1~x8/"><circle cx="341.1" cy="188.3" r="4" fill="#3465a4"><title>Mowdowny (Fashion)</title></circle></a><a href="/variants/s9/dr1n6k1n1k2n1k1n6dy1~x8/"><circle cx="357.8" cy="193.9" r="4" fill="#3465a4"><title>Modowny</title></circle></a><a href="/variants/s6/n6k16n6k16n45k4~x2/"><circle cx="363.9" cy="208.2" r="4" fill="#3465a4"><title>Grey Spirit Fashion Tartan</title></circle></a><a href="/variants/s6/n6k17n6k17n45k4~x2/"><circle cx="356.6" cy="209.7" r="4" fill="#3465a4"><title>Grey Spirit (Fashion)</title></circle></a><a href="/variants/s7/k17n4k13n4k3n45k3~x2/"><circle cx="363.8" cy="171.1" r="4" fill="#3465a4"><title>Black Spirit Fashion Tartan</title></circle></a><a href="/variants/s6/k3n25k3n3k21n3~x2/"><circle cx="326.3" cy="214.2" r="4" fill="#3465a4"><title>Slanj, Grey (Corporate)</title></circle></a><a href="/variants/s6/k4n4k1n4k4n1~x4/"><circle cx="252.6" cy="292.9" r="4" fill="#3465a4"><title>Highland Grey</title></circle></a><circle cx="339.0" cy="251.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/n8k3n17k13n6k3n4~x2/

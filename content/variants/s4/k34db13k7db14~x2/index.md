@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Auchincloss (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k34db13k7db14/)
 (the same proportion at any scale), whose colour order is pattern [BKBK](/stripes/bkbk/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5082
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5082](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5082)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k5db1k5db7w2~x2/"><circle cx="224.0" cy="252.0" r="4" fill="#3465a4"><title>Grampian, T.V.</title></circle></a><a href="/variants/s5/k9db3k28db25w2~x2/"><circle cx="336.3" cy="207.0" r="4" fill="#3465a4"><title>Press &amp; Journal</title></circle></a><a href="/variants/s5/k15db4k15db28r2~x2/"><circle cx="328.7" cy="220.2" r="4" fill="#3465a4"><title>MacKay (Blue) #2</title></circle></a><a href="/variants/s5/k33db8k4db35dp3~x2/"><circle cx="360.3" cy="224.2" r="4" fill="#3465a4"><title>Fenston/Morris (Personal)</title></circle></a><a href="/variants/s5/k30db6k6db41lb2~x2/"><circle cx="374.8" cy="191.6" r="4" fill="#3465a4"><title>Williams (New York) (Personal)</title></circle></a><a href="/variants/s6/db9k9r3db9k9y1~x4/"><circle cx="219.8" cy="235.3" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/variants/s6/db9k9r3db9k9ly1~x4/"><circle cx="211.4" cy="232.7" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/variants/s6/r8k24db10k5db10k5~x2/"><circle cx="251.1" cy="249.1" r="4" fill="#3465a4"><title>Allen, Nicholas (Personal)</title></circle></a><a href="/variants/s4/k1db7k7ly1~x10/"><circle cx="278.7" cy="246.2" r="4" fill="#3465a4"><title>Wallace (Personal)</title></circle></a><a href="/variants/s4/k1db8k8y1/"><circle cx="309.2" cy="244.5" r="4" fill="#3465a4"><title>Wallace Blue</title></circle></a><circle cx="378.0" cy="301.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k5db1k5db7w2~x2/"><circle cx="224.1" cy="252.7" r="4" fill="#3465a4"><title>Grampian, T.V.</title></circle></a><a href="/variants/s5/k9db3k28db25w2~x2/"><circle cx="336.3" cy="207.5" r="4" fill="#3465a4"><title>Press &amp; Journal</title></circle></a><a href="/variants/s5/k15db4k15db28r2~x2/"><circle cx="328.8" cy="220.7" r="4" fill="#3465a4"><title>MacKay (Blue) #2</title></circle></a><a href="/variants/s5/k33db8k4db35dp3~x2/"><circle cx="360.4" cy="224.6" r="4" fill="#3465a4"><title>Fenston/Morris (Personal)</title></circle></a><a href="/variants/s5/k30db6k6db41lb2~x2/"><circle cx="374.8" cy="192.0" r="4" fill="#3465a4"><title>Williams (New York) (Personal)</title></circle></a><a href="/variants/s6/db9k9r3db9k9y1~x4/"><circle cx="219.9" cy="235.8" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/variants/s6/db9k9r3db9k9ly1~x4/"><circle cx="211.5" cy="233.2" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/variants/s6/r8k24db10k5db10k5~x2/"><circle cx="251.2" cy="249.8" r="4" fill="#3465a4"><title>Allen, Nicholas (Personal)</title></circle></a><a href="/variants/s4/k1db7k7ly1~x10/"><circle cx="278.8" cy="246.8" r="4" fill="#3465a4"><title>Wallace (Personal)</title></circle></a><a href="/variants/s4/k1db8k8y1/"><circle cx="309.3" cy="245.0" r="4" fill="#3465a4"><title>Wallace Blue</title></circle></a><circle cx="378.1" cy="301.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/k34db13k7db14~x2/

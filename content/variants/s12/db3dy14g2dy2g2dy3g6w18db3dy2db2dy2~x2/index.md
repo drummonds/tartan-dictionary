@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Raibert Check"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2/)
 (the same proportion at any scale), whose colour order is pattern [BGGGGGGWBGBG](/stripes/bggggggwbgbg/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3440
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3440](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3440)
 
 ## Provenance
 
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db4dy3db21dy2w14ly22dy3ly4~x2/"><circle cx="185.9" cy="204.6" r="4" fill="#3465a4"><title>Bannock Bane M.407</title></circle></a><a href="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/"><circle cx="205.9" cy="205.0" r="4" fill="#3465a4"><title>Bannockbane Hunting (MacBean and Bishop)</title></circle></a><a href="/variants/s10/g1dg15dp1dg1dp1dg2dp6w15lb1w1~x4/"><circle cx="216.9" cy="140.8" r="4" fill="#3465a4"><title>Tweedsmuir Dress (Dance)</title></circle></a><a href="/variants/s13/lb14dg4w4lb1w2ly2w2dg12lb4w2lb2w2ly1~x4/"><circle cx="229.9" cy="177.6" r="4" fill="#3465a4"><title>Entrelacs</title></circle></a><a href="/variants/s10/w1dr1g1dr11lb6dr1g14dr1g1w1~x4/"><circle cx="269.4" cy="170.9" r="4" fill="#3465a4"><title>Glen Tilt #2</title></circle></a><a href="/variants/s10/ly10db24ly5db13ly24db5g52db5dbi18w8~db1004274-dbi1406275/"><circle cx="150.6" cy="197.0" r="4" fill="#3465a4"><title>Leitrem County Crest (Fashion)</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1504144-g2408144/"><circle cx="237.5" cy="213.7" r="4" fill="#3465a4"><title>Universal Ancient</title></circle></a><a href="/variants/s17/g3dg15ly3dg3dp1dg1dp1dg1dp1dg1dp1dg1dp1dg1dp12w15g3~x2/"><circle cx="174.6" cy="120.7" r="4" fill="#3465a4"><title>Prickly Thistle</title></circle></a><a href="/variants/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/"><circle cx="268.2" cy="212.5" r="4" fill="#3465a4"><title>Kildonan Brown (Fashion)</title></circle></a><a href="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/"><circle cx="183.1" cy="171.3" r="4" fill="#3465a4"><title>Raibert, Check</title></circle></a><circle cx="185.9" cy="181.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db4dy3db21dy2w14ly22dy3ly4~x2/"><circle cx="186.0" cy="205.2" r="4" fill="#3465a4"><title>Bannock Bane M.407</title></circle></a><a href="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/"><circle cx="206.0" cy="205.5" r="4" fill="#3465a4"><title>Bannockbane Hunting (MacBean and Bishop)</title></circle></a><a href="/variants/s10/g1dg15dp1dg1dp1dg2dp6w15lb1w1~x4/"><circle cx="216.9" cy="141.1" r="4" fill="#3465a4"><title>Tweedsmuir Dress (Dance)</title></circle></a><a href="/variants/s13/lb14dg4w4lb1w2ly2w2dg12lb4w2lb2w2ly1~x4/"><circle cx="229.9" cy="178.1" r="4" fill="#3465a4"><title>Entrelacs</title></circle></a><a href="/variants/s10/w1dr1g1dr11lb6dr1g14dr1g1w1~x4/"><circle cx="269.5" cy="171.3" r="4" fill="#3465a4"><title>Glen Tilt #2</title></circle></a><a href="/variants/s10/ly10db24ly5db13ly24db5g52db5dbi18w8~db1004274-dbi1406275/"><circle cx="150.6" cy="197.4" r="4" fill="#3465a4"><title>Leitrem County Crest (Fashion)</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1504144-g2408144/"><circle cx="237.6" cy="214.2" r="4" fill="#3465a4"><title>Universal Ancient</title></circle></a><a href="/variants/s17/g3dg15ly3dg3dp1dg1dp1dg1dp1dg1dp1dg1dp1dg1dp12w15g3~x2/"><circle cx="174.6" cy="120.9" r="4" fill="#3465a4"><title>Prickly Thistle</title></circle></a><a href="/variants/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/"><circle cx="268.3" cy="213.0" r="4" fill="#3465a4"><title>Kildonan Brown (Fashion)</title></circle></a><a href="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/"><circle cx="183.1" cy="171.7" r="4" fill="#3465a4"><title>Raibert, Check</title></circle></a><circle cx="186.0" cy="181.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db3dy14g2dy2g2dy3g6w18db3dy2db2dy2~x2/

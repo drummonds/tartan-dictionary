@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cala Homes (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly5db24k8dbi18ly6dy3/)
 (the same proportion at any scale), whose colour order is pattern [GYBKBY](/stripes/gybkby/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=466
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=466](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=466)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y5db24k8dbi18y6o3~db0805267-dbi1604274/"><circle cx="166.5" cy="215.7" r="4" fill="#3465a4"><title>CALA Homes</title></circle></a><a href="/variants/s5/r2db16k11b19y2~x2/"><circle cx="162.9" cy="209.9" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s6/dp3db17n13dp2k20w2~x2/"><circle cx="146.5" cy="191.5" r="4" fill="#3465a4"><title>Commonwealth Games</title></circle></a><a href="/variants/s7/r1n5k5db1k1db6y1~x8/"><circle cx="133.9" cy="208.3" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><a href="/variants/s6/db15r6g8k2w2k2~x6/"><circle cx="145.0" cy="192.0" r="4" fill="#3465a4"><title>Stovell (2015)</title></circle></a><a href="/variants/s6/r4db24k12g14k4lb3~x2/"><circle cx="132.2" cy="198.5" r="4" fill="#3465a4"><title>MacPhail Hunting #2</title></circle></a><a href="/variants/s6/y6k2n11k7db24w6~x2/"><circle cx="154.3" cy="181.3" r="4" fill="#3465a4"><title>Clunie (Name)</title></circle></a><a href="/variants/s6/db6g27db3k19dp27w3~x2/"><circle cx="114.3" cy="197.9" r="4" fill="#3465a4"><title>Gold Brothers</title></circle></a><a href="/variants/s6/dp4r1t5dp4k6lb1~x4/"><circle cx="118.7" cy="230.5" r="4" fill="#3465a4"><title>Benreay Medical Centre (Corporate)</title></circle></a><a href="/variants/s7/lb6db17dp4db2k11g3lo4~x2/"><circle cx="105.1" cy="173.3" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><circle cx="138.0" cy="206.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y5db24k8dbi18y6o3~db0805267-dbi1604274/"><circle cx="166.5" cy="216.1" r="4" fill="#3465a4"><title>CALA Homes</title></circle></a><a href="/variants/s5/r2db16k11b19y2~x2/"><circle cx="163.0" cy="210.4" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s6/dp3db17n13dp2k20w2~x2/"><circle cx="146.5" cy="191.9" r="4" fill="#3465a4"><title>Commonwealth Games</title></circle></a><a href="/variants/s7/r1n5k5db1k1db6y1~x8/"><circle cx="133.9" cy="208.7" r="4" fill="#3465a4"><title>Lopez-Gasparotto</title></circle></a><a href="/variants/s6/db15r6g8k2w2k2~x6/"><circle cx="145.0" cy="192.5" r="4" fill="#3465a4"><title>Stovell (2015)</title></circle></a><a href="/variants/s6/r4db24k12g14k4lb3~x2/"><circle cx="132.3" cy="199.0" r="4" fill="#3465a4"><title>MacPhail Hunting #2</title></circle></a><a href="/variants/s6/y6k2n11k7db24w6~x2/"><circle cx="154.3" cy="181.8" r="4" fill="#3465a4"><title>Clunie (Name)</title></circle></a><a href="/variants/s6/db6g27db3k19dp27w3~x2/"><circle cx="114.3" cy="198.4" r="4" fill="#3465a4"><title>Gold Brothers</title></circle></a><a href="/variants/s6/dp4r1t5dp4k6lb1~x4/"><circle cx="118.7" cy="231.1" r="4" fill="#3465a4"><title>Benreay Medical Centre (Corporate)</title></circle></a><a href="/variants/s7/lb6db17dp4db2k11g3lo4~x2/"><circle cx="105.1" cy="173.7" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><circle cx="138.0" cy="206.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/ly5db24k8dbi18ly6dy3~ly3307090-db1204274-dbi1406275-dy1603076/

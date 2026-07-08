@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Atholl Highlanders (Military)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r8dg20k20db20k3r8/)
 (the same proportion at any scale), whose colour order is pattern [RGKBKR](/stripes/rgkbkr/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3017
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3017](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3017)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="145.5" cy="229.0" r="4" fill="#3465a4"><title>Murray #3</title></circle></a><a href="/variants/s6/r2k1db6k2g6o2~x4/"><circle cx="85.1" cy="221.4" r="4" fill="#3465a4"><title>MacCaughan or MacEachain Clan Tartan</title></circle></a><a href="/variants/s6/dp2dg6k2db6k1r2~x4/"><circle cx="138.1" cy="236.0" r="4" fill="#3465a4"><title>MacCaughan or MacEachain (Personal)</title></circle></a><a href="/variants/s6/dr2k1db6k2g6o2~x4/"><circle cx="96.2" cy="227.5" r="4" fill="#3465a4"><title>MacEachain (Clan)</title></circle></a><a href="/variants/s6/r2k1db6k2g6b2~x4/"><circle cx="85.6" cy="223.0" r="4" fill="#3465a4"><title>MacCaughan, or MacEachain</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2/"><circle cx="135.7" cy="215.4" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2~x2/"><circle cx="135.7" cy="215.4" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><a href="/variants/s7/r5dg19w3k19db19k3db2~x2/"><circle cx="126.6" cy="188.4" r="4" fill="#3465a4"><title>Fruin Colquhoun (Commemorative?)</title></circle></a><a href="/variants/s7/r5db8k5db24k24dg24y5~x2/"><circle cx="130.1" cy="231.4" r="4" fill="#3465a4"><title>Heritage (Corporate)</title></circle></a><a href="/variants/s6/db5k1g1k1r3k1~x4/"><circle cx="156.4" cy="219.5" r="4" fill="#3465a4"><title>Clerk</title></circle></a><circle cx="104.6" cy="242.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="145.6" cy="229.6" r="4" fill="#3465a4"><title>Murray #3</title></circle></a><a href="/variants/s6/r2k1db6k2g6o2~x4/"><circle cx="85.2" cy="221.9" r="4" fill="#3465a4"><title>MacCaughan or MacEachain Clan Tartan</title></circle></a><a href="/variants/s6/dp2dg6k2db6k1r2~x4/"><circle cx="138.2" cy="236.4" r="4" fill="#3465a4"><title>MacCaughan or MacEachain (Personal)</title></circle></a><a href="/variants/s6/dr2k1db6k2g6o2~x4/"><circle cx="96.2" cy="228.0" r="4" fill="#3465a4"><title>MacEachain (Clan)</title></circle></a><a href="/variants/s6/r2k1db6k2g6b2~x4/"><circle cx="85.7" cy="223.6" r="4" fill="#3465a4"><title>MacCaughan, or MacEachain</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2/"><circle cx="135.7" cy="216.0" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2~x2/"><circle cx="135.7" cy="216.0" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><a href="/variants/s7/r5dg19w3k19db19k3db2~x2/"><circle cx="126.6" cy="188.8" r="4" fill="#3465a4"><title>Fruin Colquhoun (Commemorative?)</title></circle></a><a href="/variants/s7/r5db8k5db24k24dg24y5~x2/"><circle cx="130.2" cy="231.9" r="4" fill="#3465a4"><title>Heritage (Corporate)</title></circle></a><a href="/variants/s6/db5k1g1k1r3k1~x4/"><circle cx="156.5" cy="220.1" r="4" fill="#3465a4"><title>Clerk</title></circle></a><circle cx="104.6" cy="243.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r8dg20k20db20k3r8~x2/

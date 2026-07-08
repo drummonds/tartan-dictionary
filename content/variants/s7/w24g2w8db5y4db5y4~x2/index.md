@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clackson Arisaid (Name?)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w24g2w8db5y4db5y4/)
 (the same proportion at any scale), whose colour order is pattern [GBGBWGW](/stripes/gbgbwgw/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6002
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6002](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6002)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5r3w26db21w3db8y3~x2/"><circle cx="251.3" cy="202.2" r="4" fill="#3465a4"><title>MacPherson, Blue &amp; White</title></circle></a><a href="/variants/s6/db4ly9w4db9ly18w1~x2/"><circle cx="374.9" cy="237.6" r="4" fill="#3465a4"><title>WVU Mountaineer (Corporate)</title></circle></a><a href="/variants/s9/w14lb3w14y1dg20w15lb3w7dp3~x2/"><circle cx="311.0" cy="172.0" r="4" fill="#3465a4"><title>Milne dress green</title></circle></a><a href="/variants/s8/w12lb2w12db17w12lb2w5r2~x4/"><circle cx="305.4" cy="217.1" r="4" fill="#3465a4"><title>Milne Royal Blue Dress (Dance)</title></circle></a><a href="/variants/s9/w20lo2n5w4db2n2db2n2dg1~x2/"><circle cx="335.0" cy="136.7" r="4" fill="#3465a4"><title>Boucherville Dress (District)</title></circle></a><a href="/variants/s7/w5r3w26dt21w3dt8y3~x2/"><circle cx="250.8" cy="203.5" r="4" fill="#3465a4"><title>MacPherson Dress, Blue (Dance)</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="313.5" cy="177.0" r="4" fill="#3465a4"><title>St John's</title></circle></a><a href="/variants/s6/w7db16w20db3w3y3~x2/"><circle cx="317.6" cy="254.0" r="4" fill="#3465a4"><title>Unidentified (Shirt)</title></circle></a><a href="/variants/s6/w5db16w5db16w33r3~x2/"><circle cx="306.6" cy="221.0" r="4" fill="#3465a4"><title>Buchanan Dress, Blue (Dance)</title></circle></a><a href="/variants/s6/lb50do4lb12do23y4do4~x2/"><circle cx="408.6" cy="212.6" r="4" fill="#3465a4"><title>Sligo</title></circle></a><circle cx="327.0" cy="197.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5r3w26db21w3db8y3~x2/"><circle cx="251.4" cy="202.8" r="4" fill="#3465a4"><title>MacPherson, Blue &amp; White</title></circle></a><a href="/variants/s6/db4ly9w4db9ly18w1~x2/"><circle cx="375.1" cy="238.3" r="4" fill="#3465a4"><title>WVU Mountaineer (Corporate)</title></circle></a><a href="/variants/s9/w14lb3w14y1dg20w15lb3w7dp3~x2/"><circle cx="311.1" cy="172.5" r="4" fill="#3465a4"><title>Milne dress green</title></circle></a><a href="/variants/s8/w12lb2w12db17w12lb2w5r2~x4/"><circle cx="305.5" cy="217.8" r="4" fill="#3465a4"><title>Milne Royal Blue Dress (Dance)</title></circle></a><a href="/variants/s9/w20lo2n5w4db2n2db2n2dg1~x2/"><circle cx="335.1" cy="137.1" r="4" fill="#3465a4"><title>Boucherville Dress (District)</title></circle></a><a href="/variants/s7/w5r3w26dt21w3dt8y3~x2/"><circle cx="250.9" cy="204.1" r="4" fill="#3465a4"><title>MacPherson Dress, Blue (Dance)</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="313.6" cy="177.4" r="4" fill="#3465a4"><title>St John's</title></circle></a><a href="/variants/s6/w7db16w20db3w3y3~x2/"><circle cx="317.8" cy="254.8" r="4" fill="#3465a4"><title>Unidentified (Shirt)</title></circle></a><a href="/variants/s6/w5db16w5db16w33r3~x2/"><circle cx="306.8" cy="221.7" r="4" fill="#3465a4"><title>Buchanan Dress, Blue (Dance)</title></circle></a><a href="/variants/s6/lb50do4lb12do23y4do4~x2/"><circle cx="408.7" cy="213.2" r="4" fill="#3465a4"><title>Sligo</title></circle></a><circle cx="327.1" cy="198.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w24g2w8db5y4db5y4~x2/

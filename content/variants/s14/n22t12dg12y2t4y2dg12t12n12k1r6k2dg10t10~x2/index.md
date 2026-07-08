@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Penman"
   url: "/tartans/penman/"
+- name: "Penman"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n22t12dg12y2t4y2dg12t12n12k1r6k2dg10t10/)
 (the same proportion at any scale), whose colour order is pattern [BBGGBGGBBKRKGB](/stripes/bbggbggbbkrkgb/).
@@ -14,7 +16,7 @@ Part of the [Penman](/tartans/penman/) tartan — the named design grouping this
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3316
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3316](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3316)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/n11db6g6y1db2y1g6db6n11k1r3k1g5db5~x2/"><circle cx="140.6" cy="165.9" r="4" fill="#3465a4"><title>Penman</title></circle></a><a href="/variants/s10/n6db3k1o10n12g6k1g6n1db2~x4~o2500000/"><circle cx="219.3" cy="194.0" r="4" fill="#3465a4"><title>Berkshire #2</title></circle></a><a href="/variants/s9/w4k2t18y4t18dy26dg18k1o2~x2/"><circle cx="172.9" cy="104.2" r="4" fill="#3465a4"><title>Hughes Interconnection Int.</title></circle></a><a href="/variants/s8/oi8k2g10dp30g30dg55k4o6~oi2404317-g1803114-dg1806142-o2206047/"><circle cx="244.2" cy="142.0" r="4" fill="#3465a4"><title>Aberuchill District Tartan</title></circle></a><circle cx="186.5" cy="157.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/n11db6g6y1db2y1g6db6n11k1r3k1g5db5~x2/"><circle cx="140.6" cy="166.1" r="4" fill="#3465a4"><title>Penman</title></circle></a><a href="/variants/s10/n6db3k1o10n12g6k1g6n1db2~x4~o2500000/"><circle cx="219.4" cy="194.2" r="4" fill="#3465a4"><title>Berkshire #2</title></circle></a><a href="/variants/s9/w4k2t18y4t18dy26dg18k1o2~x2/"><circle cx="172.8" cy="104.2" r="4" fill="#3465a4"><title>Hughes Interconnection Int.</title></circle></a><a href="/variants/s8/oi8k2g10dp30g30dg55k4o6~oi2404317-g1803114-dg1806142-o2206047/"><circle cx="244.1" cy="142.1" r="4" fill="#3465a4"><title>Aberuchill District Tartan</title></circle></a><circle cx="186.4" cy="157.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/n22t12dg12y2t4y2dg12t12n12k1r6k2dg10t10~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "President High School"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n83k7w6n10r7k3r20w3/)
 (the same proportion at any scale), whose colour order is pattern [BKWBRKRW](/stripes/bkwbrkrw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11002
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11002](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11002)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr64k8w3k8w3b4w3dr18~x2/"><circle cx="435.4" cy="108.5" r="4" fill="#3465a4"><title>Inverness - 2000 (Fashion)</title></circle></a><a href="/variants/s10/n32k5w3n3w3n7r5k1r17w3~x2/"><circle cx="299.1" cy="104.7" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s9/n16w1n1k1n8ly4r2w2r2~x4/"><circle cx="369.3" cy="132.7" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><a href="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/"><circle cx="350.7" cy="71.3" r="4" fill="#3465a4"><title>British Caledonian Airways #2</title></circle></a><a href="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/"><circle cx="425.7" cy="113.7" r="4" fill="#3465a4"><title>Vemma (Corporate) XXXXXXXXX</title></circle></a><a href="/variants/s7/n140k3w16k3do16k3do16/"><circle cx="473.7" cy="91.3" r="4" fill="#3465a4"><title>Crail</title></circle></a><a href="/variants/s7/db13k3db20o70db20o30w3~x2/"><circle cx="382.4" cy="153.0" r="4" fill="#3465a4"><title>Unidentified 21</title></circle></a><a href="/variants/s10/n5k1n33dp1n9k9dp5k1dr2k4~x2/"><circle cx="405.6" cy="100.6" r="4" fill="#3465a4"><title>Lochnagar Dress (Fashion)</title></circle></a><a href="/variants/s8/dr2n2k2n28k8n9k1ly2~x2/"><circle cx="430.3" cy="114.3" r="4" fill="#3465a4"><title>Highland Autumn (Fashion)</title></circle></a><a href="/variants/s9/n68k4n18o20k3w3k10lb8lr4~n1900000-o2500000/"><circle cx="315.9" cy="93.2" r="4" fill="#3465a4"><title>Carbon (Corporate)</title></circle></a><circle cx="409.4" cy="105.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr64k8w3k8w3b4w3dr18~x2/"><circle cx="435.3" cy="108.8" r="4" fill="#3465a4"><title>Inverness - 2000 (Fashion)</title></circle></a><a href="/variants/s10/n32k5w3n3w3n7r5k1r17w3~x2/"><circle cx="299.0" cy="105.0" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s9/n16w1n1k1n8ly4r2w2r2~x4/"><circle cx="369.3" cy="133.0" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><a href="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/"><circle cx="350.6" cy="71.3" r="4" fill="#3465a4"><title>British Caledonian Airways #2</title></circle></a><a href="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/"><circle cx="425.7" cy="114.0" r="4" fill="#3465a4"><title>Vemma (Corporate) XXXXXXXXX</title></circle></a><a href="/variants/s7/n140k3w16k3do16k3do16/"><circle cx="473.7" cy="91.4" r="4" fill="#3465a4"><title>Crail</title></circle></a><a href="/variants/s7/db13k3db20o70db20o30w3~x2/"><circle cx="382.4" cy="153.3" r="4" fill="#3465a4"><title>Unidentified 21</title></circle></a><a href="/variants/s10/n5k1n33dp1n9k9dp5k1dr2k4~x2/"><circle cx="405.6" cy="100.8" r="4" fill="#3465a4"><title>Lochnagar Dress (Fashion)</title></circle></a><a href="/variants/s8/dr2n2k2n28k8n9k1ly2~x2/"><circle cx="430.3" cy="114.5" r="4" fill="#3465a4"><title>Highland Autumn (Fashion)</title></circle></a><a href="/variants/s9/n68k4n18o20k3w3k10lb8lr4~n1900000-o2500000/"><circle cx="315.8" cy="93.4" r="4" fill="#3465a4"><title>Carbon (Corporate)</title></circle></a><circle cx="409.4" cy="105.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/n83k7w6n10r7k3r20w3~x2/

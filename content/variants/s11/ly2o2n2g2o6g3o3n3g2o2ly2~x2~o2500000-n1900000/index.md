@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Callanish (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly2o2n2g2o6g3o3n3g2o2ly2/)
 (the same proportion at any scale), whose colour order is pattern [YRBGRGRBGRY](/stripes/yrbgrgrbgry/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10393
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10393](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10393)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

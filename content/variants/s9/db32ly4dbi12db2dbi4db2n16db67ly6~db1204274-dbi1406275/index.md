@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Calum's Cabin"
   url: "/tartans/calum-s-cabin/"
+- name: "Calum's Cabin"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db32ly4dbi12db2dbi4db2n16db67ly6/)
 (the same proportion at any scale), whose colour order is pattern [BYBBBBBBY](/stripes/bybbbbbby/).
@@ -14,7 +16,7 @@ Part of the [Calum's Cabin](/tartans/calum-s-cabin/) tartan — the named design
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11237
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11237](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11237)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db32lo4dbi12db2dbi4db2dbi2n16db67lo6~db0705267-dbi1404245/"><circle cx="501.3" cy="147.1" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><a href="/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/"><circle cx="567.3" cy="113.6" r="4" fill="#3465a4"><title>United States Trade sett Tartan</title></circle></a><a href="/variants/s10/w6db32n3db3n1db3n2dbi4db1y2~x2~db1204274-dbi1406275/"><circle cx="437.4" cy="103.7" r="4" fill="#3465a4"><title>X Marks the Scot</title></circle></a><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><circle cx="519.8" cy="165.5" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/variants/s8/dbi8w4db6dbi2db6n10db63w3~dbi1406275-db1404245/"><circle cx="564.9" cy="162.8" r="4" fill="#3465a4"><title>Pride of the Clyde</title></circle></a><a href="/variants/s6/b10db6b3db62w4db5~x2/"><circle cx="623.4" cy="197.9" r="4" fill="#3465a4"><title>Auchairne</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/"><circle cx="496.0" cy="110.5" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s7/db4w3t6db40t8db12g3~x2/"><circle cx="484.1" cy="196.0" r="4" fill="#3465a4"><title>JetBlue (Corporate)</title></circle></a><a href="/variants/s6/b21y38b20y2b64w6/"><circle cx="535.9" cy="220.2" r="4" fill="#3465a4"><title>European Union</title></circle></a><a href="/variants/s8/db32w1db1y2db1r1db4dg16~x4/"><circle cx="488.2" cy="133.2" r="4" fill="#3465a4"><title>Royal Agricultural Winter Fair</title></circle></a><circle cx="551.7" cy="170.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db32lo4dbi12db2dbi4db2dbi2n16db67lo6~db0705267-dbi1404245/"><circle cx="501.3" cy="147.2" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><a href="/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/"><circle cx="567.2" cy="113.6" r="4" fill="#3465a4"><title>United States Trade sett Tartan</title></circle></a><a href="/variants/s10/w6db32n3db3n1db3n2dbi4db1y2~x2~db1204274-dbi1406275/"><circle cx="437.3" cy="103.8" r="4" fill="#3465a4"><title>X Marks the Scot</title></circle></a><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><circle cx="519.8" cy="165.8" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/variants/s8/dbi8w4db6dbi2db6n10db63w3~dbi1406275-db1404245/"><circle cx="564.9" cy="162.8" r="4" fill="#3465a4"><title>Pride of the Clyde</title></circle></a><a href="/variants/s6/b10db6b3db62w4db5~x2/"><circle cx="623.4" cy="198.2" r="4" fill="#3465a4"><title>Auchairne</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2dr8y3w4~x2/"><circle cx="495.9" cy="110.6" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s7/db4w3t6db40t8db12g3~x2/"><circle cx="484.2" cy="196.3" r="4" fill="#3465a4"><title>JetBlue (Corporate)</title></circle></a><a href="/variants/s6/b21y38b20y2b64w6/"><circle cx="536.1" cy="220.5" r="4" fill="#3465a4"><title>European Union</title></circle></a><a href="/variants/s8/db32w1db1y2db1r1db4dg16~x4/"><circle cx="488.1" cy="133.2" r="4" fill="#3465a4"><title>Royal Agricultural Winter Fair</title></circle></a><circle cx="551.7" cy="170.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db32ly4dbi12db2dbi4db2n16db67ly6~db1204274-dbi1406275/

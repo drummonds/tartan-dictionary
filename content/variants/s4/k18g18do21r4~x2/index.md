@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tennant"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k18g18do21r4/)
 (the same proportion at any scale), whose colour order is pattern [KGBR](/stripes/kgbr/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4088
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4088](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4088)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/b9g9k10lb2~x2/"><circle cx="90.8" cy="283.0" r="4" fill="#3465a4"><title>Wilson's, No 196</title></circle></a><a href="/variants/s5/n6r1k6r1g6~x6/"><circle cx="104.3" cy="243.8" r="4" fill="#3465a4"><title>Timespan</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2/"><circle cx="119.9" cy="272.8" r="4" fill="#3465a4"><title>Wilson's, No 159</title></circle></a><a href="/variants/s4/g9k11dp8lb2~x2/"><circle cx="115.4" cy="273.9" r="4" fill="#3465a4"><title>Wilson's No.228</title></circle></a><a href="/variants/s4/dp8k11g9w2~x2/"><circle cx="109.3" cy="272.1" r="4" fill="#3465a4"><title>Wilson's No 220</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2~dp1607327/"><circle cx="116.0" cy="270.0" r="4" fill="#3465a4"><title>Norwich Collection No. 60</title></circle></a><a href="/variants/s4/r9g9k10lb2~x2~r2109032/"><circle cx="92.8" cy="275.5" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2/"><circle cx="85.7" cy="235.7" r="4" fill="#3465a4"><title>Selkirk (Name)</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2~dp1607327/"><circle cx="82.5" cy="218.8" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><a href="/variants/s4/r6g5k5lb1~x2/"><circle cx="110.5" cy="263.7" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><circle cx="116.6" cy="280.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/b9g9k10lb2~x2/"><circle cx="91.0" cy="283.9" r="4" fill="#3465a4"><title>Wilson's, No 196</title></circle></a><a href="/variants/s5/n6r1k6r1g6~x6/"><circle cx="104.4" cy="244.5" r="4" fill="#3465a4"><title>Timespan</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2/"><circle cx="120.1" cy="273.5" r="4" fill="#3465a4"><title>Wilson's, No 159</title></circle></a><a href="/variants/s4/g9k11dp8lb2~x2/"><circle cx="115.5" cy="274.7" r="4" fill="#3465a4"><title>Wilson's No.228</title></circle></a><a href="/variants/s4/dp8k11g9w2~x2/"><circle cx="109.4" cy="272.9" r="4" fill="#3465a4"><title>Wilson's No 220</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2~dp1607327/"><circle cx="116.1" cy="270.8" r="4" fill="#3465a4"><title>Norwich Collection No. 60</title></circle></a><a href="/variants/s4/r9g9k10lb2~x2~r2109032/"><circle cx="93.0" cy="276.4" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2/"><circle cx="85.8" cy="236.4" r="4" fill="#3465a4"><title>Selkirk (Name)</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2~dp1607327/"><circle cx="82.6" cy="219.4" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><a href="/variants/s4/r6g5k5lb1~x2/"><circle cx="110.7" cy="264.6" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><circle cx="116.7" cy="281.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/k18g18do21r4~x2/

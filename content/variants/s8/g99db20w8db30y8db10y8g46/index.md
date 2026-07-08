@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Duke of York Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g99db20w8db30y8db10y8g46/)
 (the same proportion at any scale), whose colour order is pattern [GBWBGBGG](/stripes/gbwbgbgg/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1012
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1012](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1012)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g10db1w1db1y1db6g8r1~x8/"><circle cx="328.4" cy="185.9" r="4" fill="#3465a4"><title>Marshall Field</title></circle></a><a href="/variants/s8/g40db2w2db2y2db23g32r2~x2/"><circle cx="412.3" cy="151.8" r="4" fill="#3465a4"><title>Marshall, Fields</title></circle></a><a href="/variants/s8/g37w2g6db23y6db2y3db2~x2/"><circle cx="358.4" cy="181.6" r="4" fill="#3465a4"><title>MacAuliffe (Name)</title></circle></a><a href="/variants/s7/dr3g22db16g14dr2g6lo2~x2/"><circle cx="387.1" cy="233.1" r="4" fill="#3465a4"><title>Scottish Scouts (1957) (Corporate)</title></circle></a><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/"><circle cx="335.5" cy="163.9" r="4" fill="#3465a4"><title>MacAuliffe/McAucliffe</title></circle></a><a href="/variants/s6/g49db16dy3db2dy2db6~x2/"><circle cx="463.0" cy="191.6" r="4" fill="#3465a4"><title>Royal and Ancient, The</title></circle></a><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/"><circle cx="351.1" cy="196.0" r="4" fill="#3465a4"><title>Leatherneck</title></circle></a><a href="/variants/s12/g3db3g3db24g3db3g3lo2g18dr2g18lo2~x2/"><circle cx="353.9" cy="184.6" r="4" fill="#3465a4"><title>Greenways Marketing Intl</title></circle></a><a href="/variants/s7/dt16g4dt3g3lo2g24dr2~x2/"><circle cx="400.6" cy="221.8" r="4" fill="#3465a4"><title>St. Andrews Links (Corporate)</title></circle></a><a href="/variants/s5/g44db9r2db9g2~x2/"><circle cx="481.1" cy="193.1" r="4" fill="#3465a4"><title>Tyrconnell (Personal)</title></circle></a><circle cx="388.7" cy="203.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g10db1w1db1y1db6g8r1~x8/"><circle cx="328.5" cy="186.3" r="4" fill="#3465a4"><title>Marshall Field</title></circle></a><a href="/variants/s8/g40db2w2db2y2db23g32r2~x2/"><circle cx="412.3" cy="152.0" r="4" fill="#3465a4"><title>Marshall, Fields</title></circle></a><a href="/variants/s8/g37w2g6db23y6db2y3db2~x2/"><circle cx="358.5" cy="181.9" r="4" fill="#3465a4"><title>MacAuliffe (Name)</title></circle></a><a href="/variants/s7/dr3g22db16g14dr2g6lo2~x2/"><circle cx="387.2" cy="233.6" r="4" fill="#3465a4"><title>Scottish Scouts (1957) (Corporate)</title></circle></a><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/"><circle cx="335.5" cy="164.2" r="4" fill="#3465a4"><title>MacAuliffe/McAucliffe</title></circle></a><a href="/variants/s6/g49db16dy3db2dy2db6~x2/"><circle cx="463.1" cy="191.9" r="4" fill="#3465a4"><title>Royal and Ancient, The</title></circle></a><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/"><circle cx="351.2" cy="196.4" r="4" fill="#3465a4"><title>Leatherneck</title></circle></a><a href="/variants/s12/g3db3g3db24g3db3g3lo2g18dr2g18lo2~x2/"><circle cx="354.0" cy="185.0" r="4" fill="#3465a4"><title>Greenways Marketing Intl</title></circle></a><a href="/variants/s7/dt16g4dt3g3lo2g24dr2~x2/"><circle cx="400.7" cy="222.2" r="4" fill="#3465a4"><title>St. Andrews Links (Corporate)</title></circle></a><a href="/variants/s5/g44db9r2db9g2~x2/"><circle cx="481.2" cy="193.5" r="4" fill="#3465a4"><title>Tyrconnell (Personal)</title></circle></a><circle cx="388.8" cy="204.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g99db20w8db30y8db10y8g46/

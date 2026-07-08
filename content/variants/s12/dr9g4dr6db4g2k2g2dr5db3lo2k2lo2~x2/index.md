@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Westgaard Htg (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr9g4dr6db4g2k2g2dr5db3lo2k2lo2/)
 (the same proportion at any scale), whose colour order is pattern [BGBBGKGBBYKY](/stripes/bgbbgkgbbyky/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4250
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4250](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4250)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r8dy33y33k33r8db8y33db8r8/"><circle cx="100.0" cy="216.0" r="4" fill="#3465a4"><title>Jardine of Castlemilk</title></circle></a><a href="/variants/s10/dr5db1dr3db1dr5db4g3k3g3lo2~x4/"><circle cx="118.3" cy="234.0" r="4" fill="#3465a4"><title>MacGaugh (Name)</title></circle></a><a href="/variants/s11/dr16g16dr8k8y3k3db3k3y3dr14w3~x2/"><circle cx="134.9" cy="175.9" r="4" fill="#3465a4"><title>Mars (Personal)</title></circle></a><a href="/variants/s10/dt6ly2r6lb3k2ly6dt10r2dt3r2~x4/"><circle cx="133.4" cy="210.2" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s11/dr16g16dr8k8lo3k3db3k3lo3dr14w3~x2/"><circle cx="128.0" cy="174.1" r="4" fill="#3465a4"><title>Mars Family Tartan</title></circle></a><a href="/variants/s10/k5do1g3do1g3do1k5ri1r5ri1~x4~ri2109032-r1807033/"><circle cx="90.3" cy="196.7" r="4" fill="#3465a4"><title>Murdoch (Dalgliesh)</title></circle></a><a href="/variants/s11/y9dy3k4dy4k8dr17k3dr17db8k4w4~x2/"><circle cx="110.7" cy="180.3" r="4" fill="#3465a4"><title>Laois County, Crest Range</title></circle></a><a href="/variants/s11/y9ly3k4ly4k8dr17k3dr17db8k4w4~x2/"><circle cx="92.2" cy="175.6" r="4" fill="#3465a4"><title>Laois County Crest (Fashion)</title></circle></a><a href="/variants/s12/dp6k6dg6w1dg6k6dg6w1dg6k6dp6g1~x4~dp1607327-dg1806142-w3600000-g1903114/"><circle cx="108.2" cy="215.1" r="4" fill="#3465a4"><title>Wilson's No.233</title></circle></a><a href="/variants/s11/o6k3dg3k6dr2k2dr2k6dg3o14dy2~x2/"><circle cx="141.0" cy="172.9" r="4" fill="#3465a4"><title>Fountain of the Strong</title></circle></a><circle cx="135.3" cy="210.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r8dy33y33k33r8db8y33db8r8/"><circle cx="100.1" cy="216.6" r="4" fill="#3465a4"><title>Jardine of Castlemilk</title></circle></a><a href="/variants/s10/dr5db1dr3db1dr5db4g3k3g3lo2~x4/"><circle cx="118.4" cy="234.6" r="4" fill="#3465a4"><title>MacGaugh (Name)</title></circle></a><a href="/variants/s11/dr16g16dr8k8y3k3db3k3y3dr14w3~x2/"><circle cx="134.9" cy="176.3" r="4" fill="#3465a4"><title>Mars (Personal)</title></circle></a><a href="/variants/s10/dt6ly2r6lb3k2ly6dt10r2dt3r2~x4/"><circle cx="133.5" cy="210.8" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s11/dr16g16dr8k8lo3k3db3k3lo3dr14w3~x2/"><circle cx="128.0" cy="174.6" r="4" fill="#3465a4"><title>Mars Family Tartan</title></circle></a><a href="/variants/s10/k5do1g3do1g3do1k5ri1r5ri1~x4~ri2109032-r1807033/"><circle cx="90.4" cy="197.2" r="4" fill="#3465a4"><title>Murdoch (Dalgliesh)</title></circle></a><a href="/variants/s11/y9dy3k4dy4k8dr17k3dr17db8k4w4~x2/"><circle cx="110.7" cy="180.7" r="4" fill="#3465a4"><title>Laois County, Crest Range</title></circle></a><a href="/variants/s11/y9ly3k4ly4k8dr17k3dr17db8k4w4~x2/"><circle cx="92.2" cy="176.0" r="4" fill="#3465a4"><title>Laois County Crest (Fashion)</title></circle></a><a href="/variants/s12/dp6k6dg6w1dg6k6dg6w1dg6k6dp6g1~x4~dp1607327-dg1806142-w3600000-g1903114/"><circle cx="108.2" cy="215.7" r="4" fill="#3465a4"><title>Wilson's No.233</title></circle></a><a href="/variants/s11/o6k3dg3k6dr2k2dr2k6dg3o14dy2~x2/"><circle cx="141.0" cy="173.4" r="4" fill="#3465a4"><title>Fountain of the Strong</title></circle></a><circle cx="135.4" cy="211.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dr9g4dr6db4g2k2g2dr5db3lo2k2lo2~x2/

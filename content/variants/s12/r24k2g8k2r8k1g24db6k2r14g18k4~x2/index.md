@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Grant, Piper to the Laird of"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r24k2g8k2r8k1g24db6k2r14g18k4/)
 (the same proportion at any scale), whose colour order is pattern [KGRKBGKRKGKR](/stripes/kgrkbgkrkgkr/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1500
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1500](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1500)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r24k2g8k2r8k1g24lb6k2r14lb18k4~x2/"><circle cx="190.6" cy="127.5" r="4" fill="#3465a4"><title>Grant - 1714 (Piper) (Portrait)</title></circle></a><a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2~db1406275/"><circle cx="266.1" cy="107.3" r="4" fill="#3465a4"><title>Oriel #1</title></circle></a><a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2/"><circle cx="295.0" cy="127.4" r="4" fill="#3465a4"><title>Oriel #1 (District)</title></circle></a><a href="/variants/s12/k6r3k3r24lb4g10r2g4r2g24r6lb2~x2/"><circle cx="208.1" cy="143.2" r="4" fill="#3465a4"><title>Leach (1999)</title></circle></a><a href="/variants/s11/k9r1g1k3g20r5k3r20k5r3y2~x2/"><circle cx="192.0" cy="120.5" r="4" fill="#3465a4"><title>Army Cadet Force (Military)</title></circle></a><a href="/variants/s9/db3k5r2g2r3g12r6k1r3~x4/"><circle cx="162.9" cy="174.1" r="4" fill="#3465a4"><title>Fulton (1999) (Name)</title></circle></a><a href="/variants/s10/g4r2k2r20lb1k7r2g10r3k2~x2/"><circle cx="250.7" cy="119.5" r="4" fill="#3465a4"><title>MacKillop (Scottish Tartan Society)</title></circle></a><a href="/variants/s10/g4r4k2r20lb1k7r2g10r3k2~x2/"><circle cx="257.9" cy="122.7" r="4" fill="#3465a4"><title>MacKillop</title></circle></a><a href="/variants/s11/w2k35dg30k3lo30k2lo4k2lo30k3w2/"><circle cx="197.2" cy="121.2" r="4" fill="#3465a4"><title>Vaughan (Welsh Series)</title></circle></a><a href="/variants/s17/k2t2r32g32k24t18r32t2k2t2r32t18k24g32r32t2k1~x2/"><circle cx="191.8" cy="105.9" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><circle cx="231.5" cy="130.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r24k2g8k2r8k1g24lb6k2r14lb18k4~x2/"><circle cx="190.6" cy="127.8" r="4" fill="#3465a4"><title>Grant - 1714 (Piper) (Portrait)</title></circle></a><a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2~db1406275/"><circle cx="266.0" cy="107.6" r="4" fill="#3465a4"><title>Oriel #1</title></circle></a><a href="/variants/s9/r12db2r3g20k4g20r30k2r1~x2/"><circle cx="295.0" cy="127.7" r="4" fill="#3465a4"><title>Oriel #1 (District)</title></circle></a><a href="/variants/s12/k6r3k3r24lb4g10r2g4r2g24r6lb2~x2/"><circle cx="208.1" cy="143.6" r="4" fill="#3465a4"><title>Leach (1999)</title></circle></a><a href="/variants/s11/k9r1g1k3g20r5k3r20k5r3y2~x2/"><circle cx="192.0" cy="120.8" r="4" fill="#3465a4"><title>Army Cadet Force (Military)</title></circle></a><a href="/variants/s9/db3k5r2g2r3g12r6k1r3~x4/"><circle cx="162.9" cy="174.6" r="4" fill="#3465a4"><title>Fulton (1999) (Name)</title></circle></a><a href="/variants/s10/g4r2k2r20lb1k7r2g10r3k2~x2/"><circle cx="250.7" cy="119.8" r="4" fill="#3465a4"><title>MacKillop (Scottish Tartan Society)</title></circle></a><a href="/variants/s10/g4r4k2r20lb1k7r2g10r3k2~x2/"><circle cx="257.9" cy="123.1" r="4" fill="#3465a4"><title>MacKillop</title></circle></a><a href="/variants/s11/w2k35dg30k3lo30k2lo4k2lo30k3w2/"><circle cx="197.1" cy="121.6" r="4" fill="#3465a4"><title>Vaughan (Welsh Series)</title></circle></a><a href="/variants/s17/k2t2r32g32k24t18r32t2k2t2r32t18k24g32r32t2k1~x2/"><circle cx="191.7" cy="106.2" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><circle cx="231.4" cy="130.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r24k2g8k2r8k1g24db6k2r14g18k4~x2/

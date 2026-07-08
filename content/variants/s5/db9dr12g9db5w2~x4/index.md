@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Battle of Prestonpans (1745) Heritage Trust, The"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db9dr12g9db5w2/)
 (the same proportion at any scale), whose colour order is pattern [BBGBW](/stripes/bbgbw/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10841
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10841](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10841)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db9r12dg9db5w2~x4/"><circle cx="169.8" cy="274.7" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Herit</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2~dp0904014/"><circle cx="282.3" cy="241.7" r="4" fill="#3465a4"><title>Belfrage</title></circle></a><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="268.3" cy="225.2" r="4" fill="#3465a4"><title>Highland Spring Dress (2004) (Corp)</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="194.9" cy="279.1" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="193.7" cy="241.9" r="4" fill="#3465a4"><title>Edinburgh Bus Company (Corporate)</title></circle></a><a href="/variants/s4/db10g10r5w1~x2/"><circle cx="204.3" cy="256.7" r="4" fill="#3465a4"><title>Thorntons Law (Corporate)</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="221.3" cy="261.7" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s4/db13r5g5w3~x8/"><circle cx="201.9" cy="276.5" r="4" fill="#3465a4"><title>International Highland Games Fed.</title></circle></a><a href="/variants/s6/db14g21db4r21db14y2~x2/"><circle cx="221.2" cy="239.4" r="4" fill="#3465a4"><title>Kilgour</title></circle></a><a href="/variants/s5/db10w3db12y14r4~x2/"><circle cx="224.9" cy="278.7" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><circle cx="197.4" cy="298.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db9r12dg9db5w2~x4/"><circle cx="170.0" cy="275.5" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Herit</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2~dp0904014/"><circle cx="282.4" cy="242.2" r="4" fill="#3465a4"><title>Belfrage</title></circle></a><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="268.4" cy="225.7" r="4" fill="#3465a4"><title>Highland Spring Dress (2004) (Corp)</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="195.1" cy="279.9" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="193.8" cy="242.6" r="4" fill="#3465a4"><title>Edinburgh Bus Company (Corporate)</title></circle></a><a href="/variants/s4/db10g10r5w1~x2/"><circle cx="204.5" cy="257.4" r="4" fill="#3465a4"><title>Thorntons Law (Corporate)</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="221.5" cy="262.4" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s4/db13r5g5w3~x8/"><circle cx="202.1" cy="277.3" r="4" fill="#3465a4"><title>International Highland Games Fed.</title></circle></a><a href="/variants/s6/db14g21db4r21db14y2~x2/"><circle cx="221.3" cy="240.0" r="4" fill="#3465a4"><title>Kilgour</title></circle></a><a href="/variants/s5/db10w3db12y14r4~x2/"><circle cx="225.1" cy="279.5" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><circle cx="197.6" cy="299.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db9dr12g9db5w2~x4/

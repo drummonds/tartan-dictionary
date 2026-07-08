@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Little's Chauffeur Drive"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1n8w1db4dr8w1/)
 (the same proportion at any scale), whose colour order is pattern [BBWBBW](/stripes/bbwbbw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5905
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5905](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5905)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db2w2dr8db8w1~x2/"><circle cx="309.0" cy="272.4" r="4" fill="#3465a4"><title>Laval (Tartan de..) District Tartan</title></circle></a><a href="/variants/s5/db9dr12g9db5w2~x4/"><circle cx="197.4" cy="298.3" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Heritage Trust, The</title></circle></a><a href="/variants/s6/dr4do27ly6n19t38w4~x2/"><circle cx="242.5" cy="239.5" r="4" fill="#3465a4"><title>State Seal of Michigan (Fashion)</title></circle></a><a href="/variants/s7/n16dr3lb15dr18w15n3lb3~x2/"><circle cx="159.7" cy="274.7" r="4" fill="#3465a4"><title>Glasgow Dress (Dance)</title></circle></a><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="268.3" cy="225.2" r="4" fill="#3465a4"><title>Highland Spring Dress (2004) (Corp)</title></circle></a><a href="/variants/s6/w15dg98db72dr25db8ly15/"><circle cx="245.8" cy="210.6" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s8/db3dr2db18dr1w10n18dr2n3~x2/"><circle cx="259.3" cy="199.3" r="4" fill="#3465a4"><title>Bannockbane Silver</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6~w3600000/"><circle cx="215.3" cy="242.4" r="4" fill="#3465a4"><title>Utah</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/"><circle cx="201.8" cy="237.9" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/variants/s5/w3dr27w16db27ly3~x2/"><circle cx="215.8" cy="258.2" r="4" fill="#3465a4"><title>Common Ground Dress (Fashion)</title></circle></a><circle cx="253.7" cy="259.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db2w2dr8db8w1~x2/"><circle cx="309.2" cy="273.1" r="4" fill="#3465a4"><title>Laval (Tartan de..) District Tartan</title></circle></a><a href="/variants/s5/db9dr12g9db5w2~x4/"><circle cx="197.6" cy="299.0" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Heritage Trust, The</title></circle></a><a href="/variants/s6/dr4do27ly6n19t38w4~x2/"><circle cx="242.7" cy="239.8" r="4" fill="#3465a4"><title>State Seal of Michigan (Fashion)</title></circle></a><a href="/variants/s7/n16dr3lb15dr18w15n3lb3~x2/"><circle cx="159.9" cy="275.4" r="4" fill="#3465a4"><title>Glasgow Dress (Dance)</title></circle></a><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="268.4" cy="225.7" r="4" fill="#3465a4"><title>Highland Spring Dress (2004) (Corp)</title></circle></a><a href="/variants/s6/w15dg98db72dr25db8ly15/"><circle cx="245.9" cy="211.0" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s8/db3dr2db18dr1w10n18dr2n3~x2/"><circle cx="259.4" cy="199.7" r="4" fill="#3465a4"><title>Bannockbane Silver</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6~w3600000/"><circle cx="215.5" cy="242.9" r="4" fill="#3465a4"><title>Utah</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/"><circle cx="201.9" cy="238.4" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/variants/s5/w3dr27w16db27ly3~x2/"><circle cx="216.0" cy="258.9" r="4" fill="#3465a4"><title>Common Ground Dress (Fashion)</title></circle></a><circle cx="253.9" cy="259.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db1n8w1db4dr8w1~x6/

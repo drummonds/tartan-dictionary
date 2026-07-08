@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Baron of Greencastle Dress #2 (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr4k2dr24y2k12db3k2db2k2db12w1db1w3/)
 (the same proportion at any scale), whose colour order is pattern [BKBGKBKBKBWBW](/stripes/bkbgkbkbkbwbw/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=222
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=222](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=222)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr4k4dr28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="203.0" cy="102.2" r="4" fill="#3465a4"><title>Kelly of Sleat (Name)</title></circle></a><a href="/variants/s15/dr21k3y1k1w3k3db1k3db8k19y4k2y1k7y3~x2/"><circle cx="213.0" cy="90.9" r="4" fill="#3465a4"><title>Ruxton</title></circle></a><a href="/variants/s16/dr4k1db8k1ly3k2db4ly6db4w3k2db20k4dr21k1ly3~x2/"><circle cx="177.7" cy="95.4" r="4" fill="#3465a4"><title>Westmeath County Crest (Fashion)</title></circle></a><a href="/variants/s11/dr48k10db12k2dr3k2db12k10n10k2ly3~x2/"><circle cx="259.1" cy="109.7" r="4" fill="#3465a4"><title>Brooks Brothers (Corporate)</title></circle></a><a href="/variants/s15/dr22k3lo1k1w3k3db1k3db8k19lo4k2lo1k7lo3~x2/"><circle cx="202.5" cy="85.0" r="4" fill="#3465a4"><title>Ruxton</title></circle></a><a href="/variants/s11/n14k2db3k1lo2k1db3k14db3k1lb1~x2/"><circle cx="188.2" cy="121.2" r="4" fill="#3465a4"><title>McFly School</title></circle></a><a href="/variants/s14/db88k15g9r12g20k3y8k3g20r12g9k15db24k36~x2/"><circle cx="186.4" cy="92.8" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s11/n14k2db3k1y2k1db3k14db3k1w1~x2/"><circle cx="187.9" cy="120.3" r="4" fill="#3465a4"><title>McGuffey (School)</title></circle></a><a href="/variants/s14/db88k15g9r12g20k3y8k6g20r12g9k15db24k36/"><circle cx="183.6" cy="94.1" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12dg16r1k1y2~x2/"><circle cx="154.0" cy="132.9" r="4" fill="#3465a4"><title>MacLennan (Clan)</title></circle></a><circle cx="203.0" cy="93.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr4k4dr28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="202.9" cy="102.4" r="4" fill="#3465a4"><title>Kelly of Sleat (Name)</title></circle></a><a href="/variants/s15/dr21k3y1k1w3k3db1k3db8k19y4k2y1k7y3~x2/"><circle cx="212.8" cy="91.0" r="4" fill="#3465a4"><title>Ruxton</title></circle></a><a href="/variants/s16/dr4k1db8k1ly3k2db4ly6db4w3k2db20k4dr21k1ly3~x2/"><circle cx="177.6" cy="95.5" r="4" fill="#3465a4"><title>Westmeath County Crest (Fashion)</title></circle></a><a href="/variants/s11/dr48k10db12k2dr3k2db12k10n10k2ly3~x2/"><circle cx="259.0" cy="109.7" r="4" fill="#3465a4"><title>Brooks Brothers (Corporate)</title></circle></a><a href="/variants/s15/dr22k3lo1k1w3k3db1k3db8k19lo4k2lo1k7lo3~x2/"><circle cx="202.4" cy="85.2" r="4" fill="#3465a4"><title>Ruxton</title></circle></a><a href="/variants/s11/n14k2db3k1lo2k1db3k14db3k1lb1~x2/"><circle cx="188.1" cy="121.4" r="4" fill="#3465a4"><title>McFly School</title></circle></a><a href="/variants/s14/db88k15g9r12g20k3y8k3g20r12g9k15db24k36~x2/"><circle cx="186.2" cy="92.9" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s11/n14k2db3k1y2k1db3k14db3k1w1~x2/"><circle cx="187.8" cy="120.5" r="4" fill="#3465a4"><title>McGuffey (School)</title></circle></a><a href="/variants/s14/db88k15g9r12g20k3y8k6g20r12g9k15db24k36/"><circle cx="183.5" cy="94.3" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12dg16r1k1y2~x2/"><circle cx="153.9" cy="133.1" r="4" fill="#3465a4"><title>MacLennan (Clan)</title></circle></a><circle cx="202.9" cy="93.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/dr4k2dr24y2k12db3k2db2k2db12w1db1w3~x2/

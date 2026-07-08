@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacFarlane"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21/)
 (the same proportion at any scale), whose colour order is pattern [RKGWRKRWGBKRWGWRKBGWRKRWGKR](/stripes/rkgwrkrwgbkrwgwrkbgwrkrwgkr/).
 
 Sourced from logan-1831.  It is a [27 stripe tartan](/stripes/stripes27/).
 
-Original link /posts/logans-scottish-gael/
+Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 
 ## Provenance
 
@@ -23,7 +25,7 @@ James Logan recorded the **MacFarlane** sett in 1831, on page 405 of the *Table 
 
 > 10½ red · ½ black · 6 green · 1 white · 1½ red · ½ black · 1½ red · 1 white · 1 green · 6 purple · 2 black · 1½ red · 2 white · 1½ green · 2 white · 1½ red · 2 black · 6 purple · 1 green · 1 white · 1½ red · ½ black · 1½ red · 1 white · 6 green · ½ black · 21 red
 
-In threads (at 8 to the eighth-inch) that is `R/84 K4 G48 W8 R12 K4 R12 W8 G8 P48 K16 R12 W16 G12 W16 R12 K16 P48 G8 W8 R12 K4 R12 W8 G48 K4 R/168`. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+Rendered at 8 threads to the eighth-inch that is `R/84 K4 G48 W8 R12 K4 R12 W8 G8 P48 K16 R12 W16 G12 W16 R12 K16 P48 G8 W8 R12 K4 R12 W8 G48 K4 R/168` — the eighths are the captured data, and the threadcount is derived from them at that stated factor. How many threads an eighth of cloth held depends on the weave's density, so the factor is a display calibration, not Logan's count; the sett's identity lives in the proportions, which the eighths record directly. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
 
 See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table and method.
 
@@ -43,6 +45,7 @@ Later records of the **MacFarlane** name adjusted Logan's counts: [MacFarlane (L
 <ol class="capture-chain">
 <li>James Logan, The Scottish Gaël (first edition) <small>1831</small> · Public domain<br><small>the printed Table of Clan Tartans, vol. II pp. 401-408, plus the Duke of Sussex plate</small></li>
 <li><a href="https://archive.org/details/scotishgalorcel02logagoog">Internet Archive scan</a><br><small>the digitised first edition the transcription was made from, cross-checked against the OCR</small></li>
+<li><a href="/posts/logans-scottish-gael/">Tartan Dictionary transcription — Logan's Scottish Gaël</a> <small>2026-06</small> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><br><small>by-eye transcription of the Table of Clan Tartans and the Duke of Sussex plate — depths in eighths of an inch, rendered at 8 threads per eighth (a display calibration anchored by the Register's Abercrombie ×8 stripe-for-stripe match); method and match report in the linked post</small></li>
 <li>this dictionary<br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
 </details>
@@ -69,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/w2k2w3g4r2k2y2k3b2r32b2k3y2k2r2g4w3k2w2r1~x2/"><circle cx="200.7" cy="14.0" r="4" fill="#3465a4"><title>Hawick (Trade Sett)</title></circle></a><a href="/variants/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/"><circle cx="183.8" cy="25.7" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s23/db8k2r7k2db8k2r33w93y3r3y3w34r98y3r3y3r33k2db8k2r7k2db8~x2/"><circle cx="266.5" cy="14.0" r="4" fill="#3465a4"><title>Unidentified #13</title></circle></a><a href="/variants/s14/r42k1g12w2r3k1r3w2g2db12k4r3w4g3/"><circle cx="281.8" cy="39.2" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><a href="/variants/s14/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3~x2/"><circle cx="287.3" cy="39.2" r="4" fill="#3465a4"><title>Lendrum (Clan)</title></circle></a><a href="/variants/s23/k1y1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1~x2/"><circle cx="252.4" cy="39.3" r="4" fill="#3465a4"><title>Wood Dress</title></circle></a><a href="/variants/s22/y5g49r12g4r2g12r2g4r12g24k29b15r24g12r4g2r12g2r4g12r99w5~x2/"><circle cx="258.2" cy="21.5" r="4" fill="#3465a4"><title>Unidentified Plaid 4</title></circle></a><a href="/variants/s18/dg14r6ri2k3r65k2lb2r6k34r6lb2k2r4dg66r12ri2k2lb4~r2109032-ri2806019/"><circle cx="222.0" cy="17.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Ardshiel</title></circle></a><a href="/variants/s22/y5g49r12g4r2g12r2g4r12g24k29lb15r24g12r4g2r12g2r4g12r99w5~x2/"><circle cx="256.2" cy="20.8" r="4" fill="#3465a4"><title>Unidentified Plaid #8</title></circle></a><a href="/variants/s16/r24k1w1dg6w1y2r2k1r2y2w1lb6k2r3y3w1~x2/"><circle cx="148.2" cy="27.5" r="4" fill="#3465a4"><title>Hong Kong Police Pipe Band</title></circle></a><circle cx="232.0" cy="20.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/w2k2w3g4r2k2y2k3b2r32b2k3y2k2r2g4w3k2w2r1~x2/"><circle cx="200.5" cy="14.0" r="4" fill="#3465a4"><title>Hawick (Trade Sett)</title></circle></a><a href="/variants/s21/k4r6t4r44g20k4w6k4ly2k8t14k8ly2k4w6k4g20r44t4r6k1~x2/"><circle cx="183.6" cy="25.8" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s23/db8k2r7k2db8k2r33w93y3r3y3w34r98y3r3y3r33k2db8k2r7k2db8~x2/"><circle cx="266.3" cy="14.0" r="4" fill="#3465a4"><title>Unidentified #13</title></circle></a><a href="/variants/s14/r42k1g12w2r3k1r3w2g2db12k4r3w4g3/"><circle cx="281.7" cy="39.3" r="4" fill="#3465a4"><title>MacFarlane</title></circle></a><a href="/variants/s14/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3~x2/"><circle cx="287.1" cy="39.3" r="4" fill="#3465a4"><title>Lendrum (Clan)</title></circle></a><a href="/variants/s23/k1y1k2g1k1g10db8r10g2r10g2r30g2r10g2r10db8g10k1g1k2w1k1~x2/"><circle cx="252.3" cy="39.3" r="4" fill="#3465a4"><title>Wood Dress</title></circle></a><a href="/variants/s22/y5g49r12g4r2g12r2g4r12g24k29b15r24g12r4g2r12g2r4g12r99w5~x2/"><circle cx="258.0" cy="21.5" r="4" fill="#3465a4"><title>Unidentified Plaid 4</title></circle></a><a href="/variants/s18/dg14r6ri2k3r65k2lb2r6k34r6lb2k2r4dg66r12ri2k2lb4~r2109032-ri2806019/"><circle cx="221.8" cy="17.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Ardshiel</title></circle></a><a href="/variants/s22/y5g49r12g4r2g12r2g4r12g24k29lb15r24g12r4g2r12g2r4g12r99w5~x2/"><circle cx="256.1" cy="20.8" r="4" fill="#3465a4"><title>Unidentified Plaid #8</title></circle></a><a href="/variants/s16/r24k1w1dg6w1y2r2k1r2y2w1lb6k2r3y3w1~x2/"><circle cx="148.1" cy="27.5" r="4" fill="#3465a4"><title>Hong Kong Police Pipe Band</title></circle></a><circle cx="231.8" cy="20.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s27/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21~x4/

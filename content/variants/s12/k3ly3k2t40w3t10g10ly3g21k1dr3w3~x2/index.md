@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Maryland (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3ly3k2t40w3t10g10ly3g21k1dr3w3/)
 (the same proportion at any scale), whose colour order is pattern [KYKBWBGYGKBW](/stripes/kykbwbgygkbw/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8634
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8634](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8634)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w4t30k3g20r4k1w3k1r4g20k3t30w4r2~x2~g2408144/"><circle cx="231.8" cy="98.6" r="4" fill="#3465a4"><title>Scottish Prison Service</title></circle></a><a href="/variants/s10/w3t38lb2k4dp4k4g30y1g1y2~x2/"><circle cx="223.3" cy="66.1" r="4" fill="#3465a4"><title>Pinewoods Jubilee</title></circle></a><a href="/variants/s8/db30r2db4w1o11g4y2g22~x2/"><circle cx="261.2" cy="126.0" r="4" fill="#3465a4"><title>Yorkland</title></circle></a><a href="/variants/s9/y2g30k1t5w3t5k1dy12b2~x2~t2308259-b2008266/"><circle cx="226.8" cy="80.8" r="4" fill="#3465a4"><title>St Brigid's Quirindi</title></circle></a><a href="/variants/s12/r10db4r3db6w3db4w3db40g73k4db2y6/"><circle cx="247.6" cy="57.8" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/variants/s10/g28dg6db4dg6g5dp4g5db11k1w2~x2/"><circle cx="261.6" cy="114.3" r="4" fill="#3465a4"><title>Camenisch Enveglan Family (Personal)</title></circle></a><a href="/variants/s9/db2dy12k1t5w3t5k1g30ly2~x2/"><circle cx="234.4" cy="84.7" r="4" fill="#3465a4"><title>St Brigid's Parish Triple Celebratio</title></circle></a><a href="/variants/s8/dy4g3r2g36t30k3t3k3~x2/"><circle cx="290.5" cy="148.5" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/variants/s9/g90r1k10w6k4g6r10db62y8/"><circle cx="253.5" cy="62.9" r="4" fill="#3465a4"><title>Stirling, University of</title></circle></a><a href="/variants/s8/dy2r2k2t27k6g13k1lb2~x2/"><circle cx="227.8" cy="99.0" r="4" fill="#3465a4"><title>German MacLeod</title></circle></a><circle cx="264.3" cy="79.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w4t30k3g20r4k1w3k1r4g20k3t30w4r2~x2~g2408144/"><circle cx="231.7" cy="98.7" r="4" fill="#3465a4"><title>Scottish Prison Service</title></circle></a><a href="/variants/s10/w3t38lb2k4dp4k4g30y1g1y2~x2/"><circle cx="223.1" cy="66.0" r="4" fill="#3465a4"><title>Pinewoods Jubilee</title></circle></a><a href="/variants/s8/db30r2db4w1o11g4y2g22~x2/"><circle cx="261.1" cy="126.1" r="4" fill="#3465a4"><title>Yorkland</title></circle></a><a href="/variants/s9/y2g30k1t5w3t5k1dy12b2~x2~t2308259-b2008266/"><circle cx="226.6" cy="80.8" r="4" fill="#3465a4"><title>St Brigid's Quirindi</title></circle></a><a href="/variants/s12/r10db4r3db6w3db4w3db40g73k4db2y6/"><circle cx="247.5" cy="57.8" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/variants/s10/g28dg6db4dg6g5dp4g5db11k1w2~x2/"><circle cx="261.6" cy="114.4" r="4" fill="#3465a4"><title>Camenisch Enveglan Family (Personal)</title></circle></a><a href="/variants/s9/db2dy12k1t5w3t5k1g30ly2~x2/"><circle cx="234.3" cy="84.8" r="4" fill="#3465a4"><title>St Brigid's Parish Triple Celebratio</title></circle></a><a href="/variants/s8/dy4g3r2g36t30k3t3k3~x2/"><circle cx="290.5" cy="148.7" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/variants/s9/g90r1k10w6k4g6r10db62y8/"><circle cx="253.3" cy="62.9" r="4" fill="#3465a4"><title>Stirling, University of</title></circle></a><a href="/variants/s8/dy2r2k2t27k6g13k1lb2~x2/"><circle cx="227.7" cy="99.1" r="4" fill="#3465a4"><title>German MacLeod</title></circle></a><circle cx="264.1" cy="79.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2/

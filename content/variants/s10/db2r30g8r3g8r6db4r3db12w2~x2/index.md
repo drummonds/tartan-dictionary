@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Jenkins (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2r30g8r3g8r6db4r3db12w2/)
 (the same proportion at any scale), whose colour order is pattern [BRGRGRBRBW](/stripes/brgrgrbrbw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8428
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8428](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8428)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r7w2r32db7g3db2g3db2g16r3~x2/"><circle cx="322.8" cy="142.9" r="4" fill="#3465a4"><title>Chisholm Hunting</title></circle></a><a href="/variants/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/"><circle cx="320.4" cy="138.4" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/variants/s9/r2db12r2g11r4db5g2r24w2~x2/"><circle cx="273.5" cy="170.2" r="4" fill="#3465a4"><title>Fraser Gathering, Red (1997)</title></circle></a><a href="/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/"><circle cx="325.5" cy="146.9" r="4" fill="#3465a4"><title>Cruikshank (Name)</title></circle></a><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><circle cx="269.3" cy="168.5" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><circle cx="291.8" cy="158.7" r="4" fill="#3465a4"><title>Harkness</title></circle></a><a href="/variants/s9/db2r49db51r9w2r9g51r49db2~x2/"><circle cx="310.1" cy="150.2" r="4" fill="#3465a4"><title>Unidentified #20</title></circle></a><a href="/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/"><circle cx="275.1" cy="135.1" r="4" fill="#3465a4"><title>Robertson 1820 - White line</title></circle></a><a href="/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/"><circle cx="300.6" cy="105.2" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s10/g2r2db1r24w1db6r3g12r4db1/"><circle cx="369.1" cy="125.4" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><circle cx="303.8" cy="154.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r7w2r32db7g3db2g3db2g16r3~x2/"><circle cx="322.9" cy="143.3" r="4" fill="#3465a4"><title>Chisholm Hunting</title></circle></a><a href="/variants/s13/db4r1db1r18db10r1g1r6g10r6w1r4db1~x2/"><circle cx="320.4" cy="138.8" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/variants/s9/r2db12r2g11r4db5g2r24w2~x2/"><circle cx="273.6" cy="170.6" r="4" fill="#3465a4"><title>Fraser Gathering, Red (1997)</title></circle></a><a href="/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/"><circle cx="325.5" cy="147.2" r="4" fill="#3465a4"><title>Cruikshank (Name)</title></circle></a><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><circle cx="269.3" cy="168.9" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><circle cx="291.8" cy="159.1" r="4" fill="#3465a4"><title>Harkness</title></circle></a><a href="/variants/s9/db2r49db51r9w2r9g51r49db2~x2/"><circle cx="310.1" cy="150.6" r="4" fill="#3465a4"><title>Unidentified #20</title></circle></a><a href="/variants/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/"><circle cx="275.1" cy="135.4" r="4" fill="#3465a4"><title>Robertson 1820 - White line</title></circle></a><a href="/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/"><circle cx="300.6" cy="105.4" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s10/g2r2db1r24w1db6r3g12r4db1/"><circle cx="369.1" cy="125.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><circle cx="303.8" cy="154.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db2r30g8r3g8r6db4r3db12w2~x2/

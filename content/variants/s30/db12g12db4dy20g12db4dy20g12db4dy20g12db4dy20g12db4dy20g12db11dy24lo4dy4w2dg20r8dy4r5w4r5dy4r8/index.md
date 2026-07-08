@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Victorian fancy"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db12g12db4dy20g12db4dy20g12db4dy20g12db4dy20g12db4dy20g12db11dy24lo4dy4w2dg20r8dy4r5w4r5dy4r8/)
 (the same proportion at any scale), whose colour order is pattern [BGBGGBGGBGGBGGBGGBGYGWGRGRWRGR](/stripes/bgbggbggbggbggbggbgygwgrgrwrgr/).
 
 Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4391
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4391](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4391)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s30/db12g12db4o20g12db4o20g12db4o20g12db4o20g12db4o20g12db11o24b4o4w2dg20r8o4r5w4r5o4r8~g2508144-dg1104144/"><circle cx="146.8" cy="129.2" r="4" fill="#3465a4"><title>Unidentified, Victorian fancy</title></circle></a><a href="/variants/s21/g4db4r4db2g12db2g12db2r4g4w1ri4dbi2r4db4dbi4db4r4db2dbi12db2~x2~db1404245-r1706009-ri2406019-dbi1406275/"><circle cx="157.2" cy="162.2" r="4" fill="#3465a4"><title>Otago Peninsula Corporate Tartan</title></circle></a><a href="/variants/s26/dy3t12g6y3g6t12dy3t12g6y3g6y3g6t12dy6t12dy3w1dy3r3dy3w1dy3r3dy3w1~x2/"><circle cx="209.7" cy="163.8" r="4" fill="#3465a4"><title>Sprouston</title></circle></a><a href="/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2~db1406275-r2109032/"><circle cx="227.2" cy="124.5" r="4" fill="#3465a4"><title>Hart of Scotland</title></circle></a><a href="/variants/s29/r2g4n2g11dt9ri12dt2ri12dt9g2dt2g2dt2g6r2g6dt2g2dt2g2dt9ri12lo2ri12dt9g11n2g4r2~x2~ri1606028/"><circle cx="136.8" cy="169.8" r="4" fill="#3465a4"><title>Shearer</title></circle></a><circle cx="152.4" cy="133.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s30/db12g12db4o20g12db4o20g12db4o20g12db4o20g12db4o20g12db11o24b4o4w2dg20r8o4r5w4r5o4r8~g2508144-dg1104144/"><circle cx="146.8" cy="129.4" r="4" fill="#3465a4"><title>Unidentified, Victorian fancy</title></circle></a><a href="/variants/s21/g4db4r4db2g12db2g12db2r4g4w1ri4dbi2r4db4dbi4db4r4db2dbi12db2~x2~db1404245-r1706009-ri2406019-dbi1406275/"><circle cx="157.2" cy="162.3" r="4" fill="#3465a4"><title>Otago Peninsula Corporate Tartan</title></circle></a><a href="/variants/s26/dy3t12g6y3g6t12dy3t12g6y3g6y3g6t12dy6t12dy3w1dy3r3dy3w1dy3r3dy3w1~x2/"><circle cx="209.7" cy="163.9" r="4" fill="#3465a4"><title>Sprouston</title></circle></a><a href="/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2~db1406275-r2109032/"><circle cx="227.2" cy="124.6" r="4" fill="#3465a4"><title>Hart of Scotland</title></circle></a><a href="/variants/s29/r2g4n2g11dt9ri12dt2ri12dt9g2dt2g2dt2g6r2g6dt2g2dt2g2dt9ri12lo2ri12dt9g11n2g4r2~x2~ri1606028/"><circle cx="136.8" cy="170.0" r="4" fill="#3465a4"><title>Shearer</title></circle></a><circle cx="152.4" cy="134.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s30/db12g12db4dy20g12db4dy20g12db4dy20g12db4dy20g12db4dy20g12db11dy24lo4dy4w2dg20r8dy4r5w4r5dy4r8/

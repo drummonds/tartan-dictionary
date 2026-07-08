@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Urquhart"
   url: "/tartans/urquhart-2/"
+- name: "Urquhart - 1810 ((Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r9db11k3db3k3db3k20g20k3/)
 (the same proportion at any scale), whose colour order is pattern [KGKBKBKBR](/stripes/kgkbkbkbr/).
@@ -14,7 +16,7 @@ Part of the [Urquhart](/tartans/urquhart-2/) tartan — the named design groupin
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1086
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1086](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1086)
 
 ## Provenance
 
@@ -88,8 +90,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/"><circle cx="127.3" cy="182.1" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s9/db8k2db2k2db2k8g7k1w1~x2/"><circle cx="158.2" cy="192.1" r="4" fill="#3465a4"><title>Forbes #3</title></circle></a><a href="/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="133.5" cy="188.7" r="4" fill="#3465a4"><title>Newlands</title></circle></a><a href="/variants/s9/db12r2db4r4k15db4g4db2g12~x2/"><circle cx="132.5" cy="200.8" r="4" fill="#3465a4"><title>Alexander Hunting (Name)</title></circle></a><a href="/variants/s10/dg10k3w3k3w3k3dg10b6k15b3~x2/"><circle cx="122.1" cy="210.1" r="4" fill="#3465a4"><title>City of Edinburgh</title></circle></a><a href="/variants/s7/g8lb1g1k6dp6k1dp3~x4/"><circle cx="144.9" cy="208.6" r="4" fill="#3465a4"><title>Unnamed 19th Century Plaid</title></circle></a><a href="/variants/s7/y6g3y3g22k23dp23k4~x2/"><circle cx="128.3" cy="206.2" r="4" fill="#3465a4"><title>Gordon of Esslemont</title></circle></a><a href="/variants/s7/dp3k1dp8k6g8k1w2~x2/"><circle cx="137.3" cy="204.9" r="4" fill="#3465a4"><title>Baillie (Highland Society)</title></circle></a><a href="/variants/s8/db10k1db1k1db2k8g10w1~x4/"><circle cx="171.8" cy="179.0" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s8/db10k1db1k1db2k8g10w1~x2/"><circle cx="171.8" cy="179.0" r="4" fill="#3465a4"><title>Lamont</title></circle></a><circle cx="133.0" cy="191.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/"><circle cx="127.3" cy="182.5" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s9/db8k2db2k2db2k8g7k1w1~x2/"><circle cx="158.2" cy="192.6" r="4" fill="#3465a4"><title>Forbes #3</title></circle></a><a href="/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="133.5" cy="189.2" r="4" fill="#3465a4"><title>Newlands</title></circle></a><a href="/variants/s9/db12r2db4r4k15db4g4db2g12~x2/"><circle cx="132.5" cy="201.3" r="4" fill="#3465a4"><title>Alexander Hunting (Name)</title></circle></a><a href="/variants/s10/dg10k3w3k3w3k3dg10b6k15b3~x2/"><circle cx="122.2" cy="210.6" r="4" fill="#3465a4"><title>City of Edinburgh</title></circle></a><a href="/variants/s7/g8lb1g1k6dp6k1dp3~x4/"><circle cx="145.0" cy="209.1" r="4" fill="#3465a4"><title>Unnamed 19th Century Plaid</title></circle></a><a href="/variants/s7/y6g3y3g22k23dp23k4~x2/"><circle cx="128.3" cy="206.7" r="4" fill="#3465a4"><title>Gordon of Esslemont</title></circle></a><a href="/variants/s7/dp3k1dp8k6g8k1w2~x2/"><circle cx="137.4" cy="205.5" r="4" fill="#3465a4"><title>Baillie (Highland Society)</title></circle></a><a href="/variants/s8/db10k1db1k1db2k8g10w1~x4/"><circle cx="171.8" cy="179.4" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s8/db10k1db1k1db2k8g10w1~x2/"><circle cx="171.8" cy="179.4" r="4" fill="#3465a4"><title>Lamont</title></circle></a><circle cx="133.0" cy="191.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r9db11k3db3k3db3k20g20k3~x2/

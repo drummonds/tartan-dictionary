@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/brown/"
 - name: "Brown Watch"
   url: "/tartans/brown-watch-3/"
+- name: "Brown Watch (single) (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy7k2dy12k10dg12k3/)
 (the same proportion at any scale), whose colour order is pattern [GKGKGK](/stripes/gkgkgk/).
@@ -16,7 +18,7 @@ Part of the [Brown Watch](/tartans/brown-watch-3/) tartan — the named design g
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7812
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7812](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7812)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -77,8 +79,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy7k2dy12k10g12k3~x2/"><circle cx="184.5" cy="265.3" r="4" fill="#3465a4"><title>Brown Watch (single tramlines)</title></circle></a><a href="/variants/s7/k1dy4dg1k1dg1k1dy1~x10/"><circle cx="321.2" cy="279.8" r="4" fill="#3465a4"><title>McCanna NW Htg (Personal)</title></circle></a><a href="/variants/s7/k1do4dg1k1dg1k1do1~x14/"><circle cx="317.1" cy="276.8" r="4" fill="#3465a4"><title>McCanna NW (Olympia, USA) Hunting (Personal)</title></circle></a><a href="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/"><circle cx="218.2" cy="252.9" r="4" fill="#3465a4"><title>Black Watch (smallest sett)</title></circle></a><a href="/variants/s6/dg7db1dg1k4dp4k1~x4/"><circle cx="262.6" cy="241.8" r="4" fill="#3465a4"><title>MacArthur of Milton Hunting</title></circle></a><circle cx="277.9" cy="295.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy7k2dy12k10g12k3~x2/"><circle cx="184.6" cy="266.0" r="4" fill="#3465a4"><title>Brown Watch (single tramlines)</title></circle></a><a href="/variants/s7/k1dy4dg1k1dg1k1dy1~x10/"><circle cx="321.3" cy="280.2" r="4" fill="#3465a4"><title>McCanna NW Htg (Personal)</title></circle></a><a href="/variants/s7/k1do4dg1k1dg1k1do1~x14/"><circle cx="317.2" cy="277.2" r="4" fill="#3465a4"><title>McCanna NW (Olympia, USA) Hunting (Personal)</title></circle></a><a href="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/"><circle cx="218.2" cy="253.4" r="4" fill="#3465a4"><title>Black Watch (smallest sett)</title></circle></a><a href="/variants/s6/dg7db1dg1k4dp4k1~x4/"><circle cx="262.7" cy="242.1" r="4" fill="#3465a4"><title>MacArthur of Milton Hunting</title></circle></a><circle cx="278.1" cy="296.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dy7k2dy12k10dg12k3~x2/

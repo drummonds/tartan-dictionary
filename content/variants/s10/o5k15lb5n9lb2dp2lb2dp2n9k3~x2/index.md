@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ryukoku University Heian Junior Corporate Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o5k15lb5n9lb2dp2lb2dp2n9k3/)
 (the same proportion at any scale), whose colour order is pattern [KBBWBWBWKR](/stripes/kbbwbwbwkr/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10716
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10716](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10716)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/o4k16lb5n8lb2dp2lb2dp2n8k3~x2/"><circle cx="102.3" cy="163.4" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior High School</title></circle></a><a href="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/"><circle cx="88.6" cy="181.5" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/"><circle cx="120.7" cy="159.8" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s9/lr18k3lr4lb3lr4k19n20k2r4~x2~lr2800000-n1700000/"><circle cx="113.3" cy="157.8" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s12/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/"><circle cx="84.5" cy="156.8" r="4" fill="#3465a4"><title>Hargis (Name)</title></circle></a><a href="/variants/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/"><circle cx="78.8" cy="180.2" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/variants/s10/r3g18r4db3r4k13r3db18g2y3~x2/"><circle cx="92.2" cy="162.8" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn (District)</title></circle></a><a href="/variants/s13/db17r3db4r5db20r3k20g20r5g4r3k3y11~x2/"><circle cx="85.9" cy="170.2" r="4" fill="#3465a4"><title>MacSporran</title></circle></a><a href="/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/"><circle cx="90.4" cy="159.7" r="4" fill="#3465a4"><title>Rattray of Lude</title></circle></a><a href="/variants/s12/r6k20y4dy10t21k4t21dy10y4k20r6t3~x2/"><circle cx="87.8" cy="181.1" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><circle cx="87.4" cy="172.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/o4k16lb5n8lb2dp2lb2dp2n8k3~x2/"><circle cx="102.2" cy="163.9" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior High School</title></circle></a><a href="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/"><circle cx="88.6" cy="182.0" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/"><circle cx="120.7" cy="160.2" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s9/lr18k3lr4lb3lr4k19n20k2r4~x2~lr2800000-n1700000/"><circle cx="113.3" cy="158.2" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s12/w2k1dg8r2dg8k6db10r4k2r2k1w2~x2/"><circle cx="84.4" cy="157.1" r="4" fill="#3465a4"><title>Hargis (Name)</title></circle></a><a href="/variants/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/"><circle cx="78.8" cy="180.7" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/variants/s10/r3g18r4db3r4k13r3db18g2y3~x2/"><circle cx="92.2" cy="163.2" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn (District)</title></circle></a><a href="/variants/s13/db17r3db4r5db20r3k20g20r5g4r3k3y11~x2/"><circle cx="85.9" cy="170.6" r="4" fill="#3465a4"><title>MacSporran</title></circle></a><a href="/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/"><circle cx="90.4" cy="160.1" r="4" fill="#3465a4"><title>Rattray of Lude</title></circle></a><a href="/variants/s12/r6k20y4dy10t21k4t21dy10y4k20r6t3~x2/"><circle cx="87.9" cy="181.5" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><circle cx="87.4" cy="172.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/

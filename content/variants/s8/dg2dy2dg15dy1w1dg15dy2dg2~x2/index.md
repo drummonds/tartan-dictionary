@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Bannockbane Hunting"
   url: "/tartans/bannockbane-hunting/"
+- name: "Bannockbane Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2dy2dg15dy1w1dg15dy2dg2/)
 (the same proportion at any scale), whose colour order is pattern [GGGGWGGG](/stripes/ggggwggg/).
@@ -14,7 +16,7 @@ Part of the [Bannockbane Hunting](/tartans/bannockbane-hunting/) tartan — the 
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=200
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=200](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=200)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g2dy2g15dy1w1g15dy2g2~x2/"><circle cx="626.0" cy="217.5" r="4" fill="#3465a4"><title>Bannockbane Hunting Trade Tartan</title></circle></a><a href="/variants/s8/g2o2g15o1w1g15o2g2~x2/"><circle cx="626.0" cy="223.4" r="4" fill="#3465a4"><title>Bannockbane, hunting</title></circle></a><a href="/variants/s8/dt30dy2dt1w1dt10w1dt2dy2~x2/"><circle cx="626.0" cy="165.5" r="4" fill="#3465a4"><title>Royal Warrant Holders (Corporate)</title></circle></a><a href="/variants/s9/r2g2r2g4y3dy45g2dy3g2~x2/"><circle cx="546.2" cy="128.5" r="4" fill="#3465a4"><title>Welsh Stanley–Gpa (Personal)</title></circle></a><a href="/variants/s6/dt4k2dt16k2dt16k1~x4/"><circle cx="626.0" cy="231.0" r="4" fill="#3465a4"><title>Ben Dubh (The Black Mount)</title></circle></a><a href="/variants/s7/dt40dg3dp4dt28ly2lr2dt7~x2/"><circle cx="626.0" cy="188.8" r="4" fill="#3465a4"><title>Pisniak (Personal)</title></circle></a><a href="/variants/s9/dg6dy2o1dg15o3dy1dg15g6o1~x2/"><circle cx="516.2" cy="208.7" r="4" fill="#3465a4"><title>McCall, F W (Personal)</title></circle></a><a href="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g2203152-gi2408144/"><circle cx="564.5" cy="161.8" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/variants/s6/dg30dr2dg8dr1dg5w2/"><circle cx="626.0" cy="183.1" r="4" fill="#3465a4"><title>Dewi Sant</title></circle></a><circle cx="626.0" cy="243.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g2dy2g15dy1w1g15dy2g2~x2/"><circle cx="626.0" cy="217.9" r="4" fill="#3465a4"><title>Bannockbane Hunting Trade Tartan</title></circle></a><a href="/variants/s8/g2o2g15o1w1g15o2g2~x2/"><circle cx="626.0" cy="223.7" r="4" fill="#3465a4"><title>Bannockbane, hunting</title></circle></a><a href="/variants/s8/dt30dy2dt1w1dt10w1dt2dy2~x2/"><circle cx="626.0" cy="165.6" r="4" fill="#3465a4"><title>Royal Warrant Holders (Corporate)</title></circle></a><a href="/variants/s9/r2g2r2g4y3dy45g2dy3g2~x2/"><circle cx="546.2" cy="128.5" r="4" fill="#3465a4"><title>Welsh Stanley–Gpa (Personal)</title></circle></a><a href="/variants/s6/dt4k2dt16k2dt16k1~x4/"><circle cx="626.0" cy="231.3" r="4" fill="#3465a4"><title>Ben Dubh (The Black Mount)</title></circle></a><a href="/variants/s7/dt40dg3dp4dt28ly2lr2dt7~x2/"><circle cx="626.0" cy="189.0" r="4" fill="#3465a4"><title>Pisniak (Personal)</title></circle></a><a href="/variants/s9/dg6dy2o1dg15o3dy1dg15g6o1~x2/"><circle cx="516.3" cy="208.9" r="4" fill="#3465a4"><title>McCall, F W (Personal)</title></circle></a><a href="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g2203152-gi2408144/"><circle cx="564.5" cy="161.8" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/variants/s6/dg30dr2dg8dr1dg5w2/"><circle cx="626.0" cy="183.3" r="4" fill="#3465a4"><title>Dewi Sant</title></circle></a><circle cx="626.0" cy="243.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg2dy2dg15dy1w1dg15dy2dg2~x2/

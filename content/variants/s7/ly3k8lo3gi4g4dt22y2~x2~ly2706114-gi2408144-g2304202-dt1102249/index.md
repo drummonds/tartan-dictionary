@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Young Enterprise Scotland"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly3k8lo3gi4g4dt22y2/)
 (the same proportion at any scale), whose colour order is pattern [GBGGYKY](/stripes/gbggyky/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11634
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11634](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11634)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="232.5" cy="155.2" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><circle cx="198.0" cy="148.8" r="4" fill="#3465a4"><title>Shawlands International (Commem.)</title></circle></a><a href="/variants/s9/dr3ti16k12g2k2dg32t2dg2lr3~x2~ti2503227-t2405244/"><circle cx="178.2" cy="101.8" r="4" fill="#3465a4"><title>Scottish Ambulance Service (Corporat</title></circle></a><a href="/variants/s8/k3dbi3g15db15dp5r3y2dp1~x2~dbi1604274-db0805267-dp1607335-r2807041/"><circle cx="102.5" cy="131.3" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/variants/s8/k3dbi3g15db15o5lo3dy2o1~x2~dbi1406275-db1204274/"><circle cx="106.4" cy="131.8" r="4" fill="#3465a4"><title>Young Family Tartan</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lb2~x4/"><circle cx="145.6" cy="157.6" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/"><circle cx="148.1" cy="157.7" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/variants/s7/r5k12y2dg25y2db12lb5~x2/"><circle cx="138.3" cy="156.9" r="4" fill="#3465a4"><title>James</title></circle></a><a href="/variants/s7/y4g22r3k17r3db37w3~x2/"><circle cx="143.5" cy="142.6" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s7/w3dr3db16g32t3k3lo2~x2~db0906265-t2503227/"><circle cx="205.4" cy="113.0" r="4" fill="#3465a4"><title>Washington State</title></circle></a><circle cx="164.4" cy="138.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="232.5" cy="155.5" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s6/k3g44db27ly6r10w3~x2/"><circle cx="198.0" cy="149.2" r="4" fill="#3465a4"><title>Shawlands International (Commem.)</title></circle></a><a href="/variants/s9/dr3ti16k12g2k2dg32t2dg2lr3~x2~ti2503227-t2405244/"><circle cx="178.1" cy="101.9" r="4" fill="#3465a4"><title>Scottish Ambulance Service (Corporat</title></circle></a><a href="/variants/s8/k3dbi3g15db15dp5r3y2dp1~x2~dbi1604274-db0805267-dp1607335-r2807041/"><circle cx="102.4" cy="131.5" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/variants/s8/k3dbi3g15db15o5lo3dy2o1~x2~dbi1406275-db1204274/"><circle cx="106.3" cy="132.0" r="4" fill="#3465a4"><title>Young Family Tartan</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lb2~x4/"><circle cx="145.6" cy="157.9" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/variants/s7/r2k6y1dg12y1db6lr2~x4~db1305279-lr3200000/"><circle cx="148.0" cy="158.0" r="4" fill="#3465a4"><title>James (Personal)</title></circle></a><a href="/variants/s7/r5k12y2dg25y2db12lb5~x2/"><circle cx="138.2" cy="157.2" r="4" fill="#3465a4"><title>James</title></circle></a><a href="/variants/s7/y4g22r3k17r3db37w3~x2/"><circle cx="143.4" cy="142.9" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><a href="/variants/s7/w3dr3db16g32t3k3lo2~x2~db0906265-t2503227/"><circle cx="205.3" cy="113.2" r="4" fill="#3465a4"><title>Washington State</title></circle></a><circle cx="164.3" cy="139.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/ly3k8lo3gi4g4dt22y2~x2~ly2706114-gi2408144-g2304202-dt1102249/

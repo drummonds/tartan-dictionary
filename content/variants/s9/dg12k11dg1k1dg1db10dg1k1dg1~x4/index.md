@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Herron from Ulster (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg12k11dg1k1dg1db10dg1k1dg1/)
 (the same proportion at any scale), whose colour order is pattern [GKGBGKGKG](/stripes/gkgbgkgkg/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6638
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6638](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6638)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dp20dg2dp2dg2dp2dg8k24dg2k3~x2/"><circle cx="298.3" cy="181.2" r="4" fill="#3465a4"><title>Carlow Irish County Tartan</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1~x2/"><circle cx="253.3" cy="197.1" r="4" fill="#3465a4"><title>Black Watch Regimental Tartan</title></circle></a><a href="/variants/s8/dg40k20db10k4db7dg13k4db4~x2/"><circle cx="336.0" cy="218.0" r="4" fill="#3465a4"><title>Letham Personal Tartan</title></circle></a><a href="/variants/s9/dg5k1y2k1dg19k15y2db20dg3~x2/"><circle cx="259.6" cy="162.4" r="4" fill="#3465a4"><title>Maine Acadia</title></circle></a><a href="/variants/s9/k3dr1k14db14dr1db1dr1db1dr2~x4/"><circle cx="325.3" cy="168.6" r="4" fill="#3465a4"><title>Angus (District/Clan)</title></circle></a><a href="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/"><circle cx="266.9" cy="150.1" r="4" fill="#3465a4"><title>Daks (Chino Check) (Fashion)</title></circle></a><a href="/variants/s6/k4dg23k23dg2db23dg4~x2/"><circle cx="262.7" cy="236.3" r="4" fill="#3465a4"><title>MacKay - 1800 (Clan)</title></circle></a><a href="/variants/s9/db16k2db2k2db2k6dg13ly2dg3~x2/"><circle cx="228.5" cy="195.5" r="4" fill="#3465a4"><title>Christian Dewar (Personal)</title></circle></a><a href="/variants/s13/r2k2db21k8dg16db3dg16k8db3k3db21k2r2~x2/"><circle cx="250.9" cy="178.3" r="4" fill="#3465a4"><title>Metropolitan Atlanta Police, Emerald Society</title></circle></a><a href="/variants/s13/dg46k5dg6k5dg6k30db38y6db38k30dg36k6dg6/"><circle cx="221.7" cy="195.6" r="4" fill="#3465a4"><title>Dewar, Highlander</title></circle></a><circle cx="293.2" cy="191.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dp20dg2dp2dg2dp2dg8k24dg2k3~x2/"><circle cx="298.3" cy="181.4" r="4" fill="#3465a4"><title>Carlow Irish County Tartan</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8dg8k1dg8k8db8k1db1~x2/"><circle cx="253.3" cy="197.3" r="4" fill="#3465a4"><title>Black Watch Regimental Tartan</title></circle></a><a href="/variants/s8/dg40k20db10k4db7dg13k4db4~x2/"><circle cx="336.0" cy="218.4" r="4" fill="#3465a4"><title>Letham Personal Tartan</title></circle></a><a href="/variants/s9/dg5k1y2k1dg19k15y2db20dg3~x2/"><circle cx="259.5" cy="162.6" r="4" fill="#3465a4"><title>Maine Acadia</title></circle></a><a href="/variants/s9/k3dr1k14db14dr1db1dr1db1dr2~x4/"><circle cx="325.3" cy="168.7" r="4" fill="#3465a4"><title>Angus (District/Clan)</title></circle></a><a href="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/"><circle cx="266.9" cy="150.3" r="4" fill="#3465a4"><title>Daks (Chino Check) (Fashion)</title></circle></a><a href="/variants/s6/k4dg23k23dg2db23dg4~x2/"><circle cx="262.8" cy="236.7" r="4" fill="#3465a4"><title>MacKay - 1800 (Clan)</title></circle></a><a href="/variants/s9/db16k2db2k2db2k6dg13ly2dg3~x2/"><circle cx="228.6" cy="195.8" r="4" fill="#3465a4"><title>Christian Dewar (Personal)</title></circle></a><a href="/variants/s13/r2k2db21k8dg16db3dg16k8db3k3db21k2r2~x2/"><circle cx="250.9" cy="178.5" r="4" fill="#3465a4"><title>Metropolitan Atlanta Police, Emerald Society</title></circle></a><a href="/variants/s13/dg46k5dg6k5dg6k30db38y6db38k30dg36k6dg6/"><circle cx="221.7" cy="195.8" r="4" fill="#3465a4"><title>Dewar, Highlander</title></circle></a><circle cx="293.1" cy="191.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Loch Linnhe"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y3r4db2r31g10lb2r5db12r6g3/)
 (the same proportion at any scale), whose colour order is pattern [GRBRGWRBRG](/stripes/grbrgwrbrg/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11611
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11611](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11611)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r6dg8y2dg8r6db8r29dg3lb2r5db3~x2/"><circle cx="317.7" cy="143.0" r="4" fill="#3465a4"><title>Loch Creran (District)</title></circle></a><a href="/variants/s11/r5g9y2g9r5db9r28g3lb2r4db2~x2/"><circle cx="294.8" cy="147.1" r="4" fill="#3465a4"><title>Loch Creran</title></circle></a><a href="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/"><circle cx="327.9" cy="134.6" r="4" fill="#3465a4"><title>West Virginia Old Shawl</title></circle></a><a href="/variants/s10/r7w2r36t6dg3t3dg3t3dg12r4~x2/"><circle cx="366.3" cy="134.8" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/variants/s10/r7w2r36db6g3db3g3db3g12r4~x2/"><circle cx="356.9" cy="132.5" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/variants/s15/r16db6r6db5r40lb3r6dg12r5dp4r5dg30r5db5r12/"><circle cx="320.2" cy="133.7" r="4" fill="#3465a4"><title>Walkers Shortbread</title></circle></a><a href="/variants/s12/r23g3y1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="366.9" cy="101.6" r="4" fill="#3465a4"><title>Mair (Personal)</title></circle></a><a href="/variants/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="364.9" cy="101.1" r="4" fill="#3465a4"><title>Mair (Personal)</title></circle></a><a href="/variants/s10/r12w2r37db6g3db3r4db3g21r4~x2/"><circle cx="361.0" cy="139.4" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/variants/s8/r6g14r6db12r31lb2r4ly3~x2/"><circle cx="330.3" cy="157.0" r="4" fill="#3465a4"><title>Loch Lochy (District)</title></circle></a><circle cx="330.7" cy="139.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r6dg8y2dg8r6db8r29dg3lb2r5db3~x2/"><circle cx="317.7" cy="143.3" r="4" fill="#3465a4"><title>Loch Creran (District)</title></circle></a><a href="/variants/s11/r5g9y2g9r5db9r28g3lb2r4db2~x2/"><circle cx="294.8" cy="147.4" r="4" fill="#3465a4"><title>Loch Creran</title></circle></a><a href="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/"><circle cx="327.9" cy="134.9" r="4" fill="#3465a4"><title>West Virginia Old Shawl</title></circle></a><a href="/variants/s10/r7w2r36t6dg3t3dg3t3dg12r4~x2/"><circle cx="366.3" cy="135.1" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/variants/s10/r7w2r36db6g3db3g3db3g12r4~x2/"><circle cx="356.9" cy="132.9" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/variants/s15/r16db6r6db5r40lb3r6dg12r5dp4r5dg30r5db5r12/"><circle cx="320.2" cy="134.0" r="4" fill="#3465a4"><title>Walkers Shortbread</title></circle></a><a href="/variants/s12/r23g3y1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="366.9" cy="101.8" r="4" fill="#3465a4"><title>Mair (Personal)</title></circle></a><a href="/variants/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="364.8" cy="101.3" r="4" fill="#3465a4"><title>Mair (Personal)</title></circle></a><a href="/variants/s10/r12w2r37db6g3db3r4db3g21r4~x2/"><circle cx="361.0" cy="139.8" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/variants/s8/r6g14r6db12r31lb2r4ly3~x2/"><circle cx="330.3" cy="157.3" r="4" fill="#3465a4"><title>Loch Lochy (District)</title></circle></a><circle cx="330.7" cy="139.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/y3r4db2r31g10lb2r5db12r6g3~x2/

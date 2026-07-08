@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Baudoux et amis picards"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y4db7y4db26g3k1g3w9r2w4r2/)
 (the same proportion at any scale), whose colour order is pattern [GBGBGKGWRWR](/stripes/gbgbgkgwrwr/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10619
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10619](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10619)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r1w16n6db2w1r8w1db28k3db3k3db3k1lb1~x2/"><circle cx="186.5" cy="56.4" r="4" fill="#3465a4"><title>Russian Arctic Convoy</title></circle></a><a href="/variants/s13/lo2w3k1b9k1bi6g1bi3g1bi19k2w7lo1~x2~b1511266-bi2501240/"><circle cx="196.1" cy="93.2" r="4" fill="#3465a4"><title>Cahaba Memorial</title></circle></a><a href="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/"><circle cx="210.0" cy="82.5" r="4" fill="#3465a4"><title>Wiegratz Alba (Personal)</title></circle></a><a href="/variants/s15/db62ly3k3r15db18w3ly28n12k3n5ly5n5db6k12w8/"><circle cx="159.7" cy="73.5" r="4" fill="#3465a4"><title>Clare County Crest (Fashion)</title></circle></a><a href="/variants/s10/dr2db24lb6k6g6ly4g2ly2g2ly1~x2/"><circle cx="166.7" cy="92.2" r="4" fill="#3465a4"><title>Crookdake-Cheng (Personal)</title></circle></a><a href="/variants/s10/lb16db6k1y1k1db1lb4dy4k1r1~x4/"><circle cx="225.2" cy="94.9" r="4" fill="#3465a4"><title>Kirk in the Hills</title></circle></a><a href="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/"><circle cx="179.7" cy="85.3" r="4" fill="#3465a4"><title>Timmins (2013)</title></circle></a><a href="/variants/s9/lb50r3lb4r4lb7k14dg31ly2w2~x2/"><circle cx="224.8" cy="86.4" r="4" fill="#3465a4"><title>Highland Glen (Corporate)</title></circle></a><a href="/variants/s8/y4db24lb5g2db3k5lb33r2~x2/"><circle cx="213.3" cy="115.5" r="4" fill="#3465a4"><title>Los Angeles</title></circle></a><a href="/variants/s16/r3db14k12lb24k1w3k1lb24k12db2k2db2k2db8y1r3~x2/"><circle cx="147.8" cy="73.3" r="4" fill="#3465a4"><title>Royal Scottish Country Dance Society</title></circle></a><circle cx="204.4" cy="82.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r1w16n6db2w1r8w1db28k3db3k3db3k1lb1~x2/"><circle cx="186.3" cy="56.5" r="4" fill="#3465a4"><title>Russian Arctic Convoy</title></circle></a><a href="/variants/s13/lo2w3k1b9k1bi6g1bi3g1bi19k2w7lo1~x2~b1511266-bi2501240/"><circle cx="196.0" cy="93.4" r="4" fill="#3465a4"><title>Cahaba Memorial</title></circle></a><a href="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/"><circle cx="209.9" cy="82.7" r="4" fill="#3465a4"><title>Wiegratz Alba (Personal)</title></circle></a><a href="/variants/s15/db62ly3k3r15db18w3ly28n12k3n5ly5n5db6k12w8/"><circle cx="159.6" cy="73.6" r="4" fill="#3465a4"><title>Clare County Crest (Fashion)</title></circle></a><a href="/variants/s10/dr2db24lb6k6g6ly4g2ly2g2ly1~x2/"><circle cx="166.6" cy="92.3" r="4" fill="#3465a4"><title>Crookdake-Cheng (Personal)</title></circle></a><a href="/variants/s10/lb16db6k1y1k1db1lb4dy4k1r1~x4/"><circle cx="225.1" cy="95.1" r="4" fill="#3465a4"><title>Kirk in the Hills</title></circle></a><a href="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/"><circle cx="179.6" cy="85.5" r="4" fill="#3465a4"><title>Timmins (2013)</title></circle></a><a href="/variants/s9/lb50r3lb4r4lb7k14dg31ly2w2~x2/"><circle cx="224.7" cy="86.7" r="4" fill="#3465a4"><title>Highland Glen (Corporate)</title></circle></a><a href="/variants/s8/y4db24lb5g2db3k5lb33r2~x2/"><circle cx="213.2" cy="115.7" r="4" fill="#3465a4"><title>Los Angeles</title></circle></a><a href="/variants/s16/r3db14k12lb24k1w3k1lb24k12db2k2db2k2db8y1r3~x2/"><circle cx="147.6" cy="73.4" r="4" fill="#3465a4"><title>Royal Scottish Country Dance Society</title></circle></a><circle cx="204.3" cy="83.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/y4db7y4db26g3k1g3w9r2w4r2~x2/

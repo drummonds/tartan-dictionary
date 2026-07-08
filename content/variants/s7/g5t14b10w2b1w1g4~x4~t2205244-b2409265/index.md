@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Earl of St. Andrews (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g5t14b10w2b1w1g4/)
 (the same proportion at any scale), whose colour order is pattern [GBBWBWG](/stripes/gbbwbwg/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4777
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4777](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4777)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/b4y2b16db15g16w3g3w4~x2/"><circle cx="163.2" cy="228.5" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/variants/s7/t30db15w4dg12w9t8w3~x2/"><circle cx="243.5" cy="239.3" r="4" fill="#3465a4"><title>Newall (Personal)</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="260.6" cy="217.0" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/"><circle cx="229.6" cy="203.6" r="4" fill="#3465a4"><title>Highlands Country Club (Corporate)</title></circle></a><a href="/variants/s7/db6t47db22g47dp4g4n4/"><circle cx="290.2" cy="226.4" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/variants/s7/db6t47db22g47dp4g4n4~db1003265-t2105244/"><circle cx="283.8" cy="222.1" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/variants/s8/dg23db11t22r2t22db11dg23r2~x2~db1406275/"><circle cx="265.9" cy="249.2" r="4" fill="#3465a4"><title>Skibo</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/"><circle cx="276.2" cy="214.8" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><a href="/variants/s8/w3n36b6dg6b6dg12b32w3/"><circle cx="321.0" cy="226.2" r="4" fill="#3465a4"><title>Tenmaya</title></circle></a><a href="/variants/s6/db1g10db9t10db1t1~x4/"><circle cx="293.2" cy="272.6" r="4" fill="#3465a4"><title>Black Watch (Aljean)</title></circle></a><circle cx="285.6" cy="235.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/b4y2b16db15g16w3g3w4~x2/"><circle cx="163.3" cy="229.0" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/variants/s7/t30db15w4dg12w9t8w3~x2/"><circle cx="243.6" cy="239.8" r="4" fill="#3465a4"><title>Newall (Personal)</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="260.7" cy="217.3" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/"><circle cx="229.7" cy="204.1" r="4" fill="#3465a4"><title>Highlands Country Club (Corporate)</title></circle></a><a href="/variants/s7/db6t47db22g47dp4g4n4/"><circle cx="290.3" cy="226.6" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/variants/s7/db6t47db22g47dp4g4n4~db1003265-t2105244/"><circle cx="283.9" cy="222.3" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/variants/s8/dg23db11t22r2t22db11dg23r2~x2~db1406275/"><circle cx="266.1" cy="249.6" r="4" fill="#3465a4"><title>Skibo</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/"><circle cx="276.2" cy="215.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><a href="/variants/s8/w3n36b6dg6b6dg12b32w3/"><circle cx="321.1" cy="226.5" r="4" fill="#3465a4"><title>Tenmaya</title></circle></a><a href="/variants/s6/db1g10db9t10db1t1~x4/"><circle cx="293.3" cy="273.1" r="4" fill="#3465a4"><title>Black Watch (Aljean)</title></circle></a><circle cx="285.7" cy="235.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g5t14b10w2b1w1g4~x4~t2205244-b2409265/

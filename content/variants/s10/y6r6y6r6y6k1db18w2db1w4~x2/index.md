@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Catalunya Escocia"
   url: "/tartans/catalunya-escocia/"
+- name: "Catalunya Escocia"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y6r6y6r6y6k1db18w2db1w4/)
 (the same proportion at any scale), whose colour order is pattern [GRGRGKBWBW](/stripes/grgrgkbwbw/).
@@ -14,7 +16,7 @@ Part of the [Catalunya Escocia](/tartans/catalunya-escocia/) tartan — the name
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11163
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11163](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11163)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/"><circle cx="133.5" cy="140.4" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/"><circle cx="147.7" cy="130.2" r="4" fill="#3465a4"><title>Urquhart (Fashion)</title></circle></a><a href="/variants/s10/r15g6db36w2k6w2g30r32k6lb4/"><circle cx="119.5" cy="116.2" r="4" fill="#3465a4"><title>Steiff</title></circle></a><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/"><circle cx="164.2" cy="135.5" r="4" fill="#3465a4"><title>McGurk (Personal)</title></circle></a><a href="/variants/s9/db1r20g6k6g6r1k6db20w1~x2/"><circle cx="134.3" cy="126.0" r="4" fill="#3465a4"><title>Bush Pilot</title></circle></a><a href="/variants/s15/db4w2r6k1db12dg4db2r6db1r6w2dg8r2w16r4~x2/"><circle cx="97.4" cy="123.7" r="4" fill="#3465a4"><title>MacFarlane Dress</title></circle></a><a href="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="207.6" cy="112.6" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><a href="/variants/s11/r16k4r2k4r2k8r8g8k1db16w4~x2/"><circle cx="123.1" cy="134.8" r="4" fill="#3465a4"><title>Malawi</title></circle></a><a href="/variants/s11/k6r2db18lo2g2lo2g10r20db2lb1db6~x2/"><circle cx="141.8" cy="102.3" r="4" fill="#3465a4"><title>Aberdeen Asset Management (Corp)</title></circle></a><a href="/variants/s8/db6k3r14k3g14k3db6y1~x4~db1406275/"><circle cx="101.0" cy="162.7" r="4" fill="#3465a4"><title>Kilgour (Asymmetrical)</title></circle></a><circle cx="144.9" cy="141.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/"><circle cx="133.5" cy="140.8" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/"><circle cx="147.7" cy="130.5" r="4" fill="#3465a4"><title>Urquhart (Fashion)</title></circle></a><a href="/variants/s10/r15g6db36w2k6w2g30r32k6lb4/"><circle cx="119.4" cy="116.4" r="4" fill="#3465a4"><title>Steiff</title></circle></a><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/"><circle cx="164.2" cy="135.8" r="4" fill="#3465a4"><title>McGurk (Personal)</title></circle></a><a href="/variants/s9/db1r20g6k6g6r1k6db20w1~x2/"><circle cx="134.2" cy="126.3" r="4" fill="#3465a4"><title>Bush Pilot</title></circle></a><a href="/variants/s15/db4w2r6k1db12dg4db2r6db1r6w2dg8r2w16r4~x2/"><circle cx="97.4" cy="124.0" r="4" fill="#3465a4"><title>MacFarlane Dress</title></circle></a><a href="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="207.6" cy="112.8" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><a href="/variants/s11/r16k4r2k4r2k8r8g8k1db16w4~x2/"><circle cx="123.1" cy="135.2" r="4" fill="#3465a4"><title>Malawi</title></circle></a><a href="/variants/s11/k6r2db18lo2g2lo2g10r20db2lb1db6~x2/"><circle cx="141.7" cy="102.5" r="4" fill="#3465a4"><title>Aberdeen Asset Management (Corp)</title></circle></a><a href="/variants/s8/db6k3r14k3g14k3db6y1~x4~db1406275/"><circle cx="101.0" cy="163.1" r="4" fill="#3465a4"><title>Kilgour (Asymmetrical)</title></circle></a><circle cx="144.9" cy="141.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/y6r6y6r6y6k1db18w2db1w4~x2/

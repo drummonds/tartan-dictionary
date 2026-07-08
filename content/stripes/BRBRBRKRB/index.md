@@ -30,10 +30,10 @@ second parent, beside its family or clan).
 <tbody>
 <tr><td><a href="/variants/s9/t1r1k8r1t1r1n8r1t1~x4/">MacPherson Htg</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s9/t1r1k8r1t1r1n8r1t1~x4/"><img src="/variants/s9/t1r1k8r1t1r1n8r1t1~x4/sett.png" alt="MacPherson Htg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db1r1k8r1db1r1n8r1db1/">MacPherson Hunting</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db1r1k8r1db1r1n8r1db1/"><img src="/variants/s9/db1r1k8r1db1r1n8r1db1~x2/sett.png" alt="MacPherson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s9/t11r1k8r1t1r1n8r1t1~x4/">MacPherson Hunting</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s9/t11r1k8r1t1r1n8r1t1~x4/"><img src="/variants/s9/t11r1k8r1t1r1n8r1t1~x4/sett.png" alt="MacPherson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db1r1k8r1db1r1n8r1db1/">MacPherson Hunting</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db1r1k8r1db1r1n8r1db1/"><img src="/variants/s9/db1r1k8r1db1r1n8r1db1~x2/sett.png" alt="MacPherson Hunting sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

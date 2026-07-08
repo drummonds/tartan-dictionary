@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Logan #6"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr8k3o3dt28k20o28w3o3w3o3w6/)
 (the same proportion at any scale), whose colour order is pattern [BKRBKRWRWRW](/stripes/bkrbkrwrwrw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2186
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2186](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2186)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/"><circle cx="90.4" cy="159.7" r="4" fill="#3465a4"><title>Rattray of Lude</title></circle></a><a href="/variants/s11/dy2k10n2k2n2k3n10o16y2o2y2~x2/"><circle cx="132.6" cy="158.8" r="4" fill="#3465a4"><title>Dryburgh</title></circle></a><a href="/variants/s11/lb3k1dr12k1dr1k2dr1k6lbi12k1lo1~x4~lb3103284-lbi3200000/"><circle cx="128.3" cy="123.8" r="4" fill="#3465a4"><title>MacCandlish Arisaid Red</title></circle></a><a href="/variants/s10/g3r20k2db3k13db3k2g20r3db2~x2/"><circle cx="134.9" cy="156.1" r="4" fill="#3465a4"><title>Matthew Gloag</title></circle></a><a href="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/"><circle cx="93.4" cy="166.7" r="4" fill="#3465a4"><title>Etienne-Carter, Sir George</title></circle></a><a href="/variants/s12/y4w2y2w3y20k6do4k2do2k2do16r3~x2/"><circle cx="159.5" cy="138.6" r="4" fill="#3465a4"><title>Dorcas</title></circle></a><a href="/variants/s9/lr18k3lr4lb3lr4k19n20k2r4~x2~lr2800000-n1700000/"><circle cx="113.3" cy="157.8" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s10/dy3g2ly18k4dr15k4dy6k4ly2g3~x2/"><circle cx="87.9" cy="157.3" r="4" fill="#3465a4"><title>Fitzsimmons Red (Name)</title></circle></a><a href="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/"><circle cx="120.7" cy="159.8" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s10/r3g18r4db3r4k13r3db18g2y3~x2/"><circle cx="92.2" cy="162.8" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn (District)</title></circle></a><circle cx="106.4" cy="141.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k1g8k4r1db8r1db1r8g1w1~x4/"><circle cx="90.4" cy="160.1" r="4" fill="#3465a4"><title>Rattray of Lude</title></circle></a><a href="/variants/s11/dy2k10n2k2n2k3n10o16y2o2y2~x2/"><circle cx="132.5" cy="159.2" r="4" fill="#3465a4"><title>Dryburgh</title></circle></a><a href="/variants/s11/lb3k1dr12k1dr1k2dr1k6lbi12k1lo1~x4~lb3103284-lbi3200000/"><circle cx="128.2" cy="124.1" r="4" fill="#3465a4"><title>MacCandlish Arisaid Red</title></circle></a><a href="/variants/s10/g3r20k2db3k13db3k2g20r3db2~x2/"><circle cx="134.9" cy="156.5" r="4" fill="#3465a4"><title>Matthew Gloag</title></circle></a><a href="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/"><circle cx="93.4" cy="167.1" r="4" fill="#3465a4"><title>Etienne-Carter, Sir George</title></circle></a><a href="/variants/s12/y4w2y2w3y20k6do4k2do2k2do16r3~x2/"><circle cx="159.4" cy="139.0" r="4" fill="#3465a4"><title>Dorcas</title></circle></a><a href="/variants/s9/lr18k3lr4lb3lr4k19n20k2r4~x2~lr2800000-n1700000/"><circle cx="113.3" cy="158.2" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s10/dy3g2ly18k4dr15k4dy6k4ly2g3~x2/"><circle cx="87.9" cy="157.8" r="4" fill="#3465a4"><title>Fitzsimmons Red (Name)</title></circle></a><a href="/variants/s9/o18k3o4lb3o4k18n20k2r4~x2~o2500000-n1900000/"><circle cx="120.7" cy="160.2" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s10/r3g18r4db3r4k13r3db18g2y3~x2/"><circle cx="92.2" cy="163.2" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn (District)</title></circle></a><circle cx="106.3" cy="142.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dr8k3o3dt28k20o28w3o3w3o3w6/

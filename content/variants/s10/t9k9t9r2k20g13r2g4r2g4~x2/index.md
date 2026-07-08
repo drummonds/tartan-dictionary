@@ -10,6 +10,8 @@ crumbs:
   url: "/families/newlands-of-lauriston/"
 - name: "Newlands of Lauriston"
   url: "/tartans/newlands-of-lauriston/"
+- name: "Newlands of Lauriston"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t9k9t9r2k20g13r2g4r2g4/)
 (the same proportion at any scale), whose colour order is pattern [BKBRKGRGRG](/stripes/bkbrkgrgrg/).
@@ -18,7 +20,7 @@ Part of the [Newlands of Lauriston](/tartans/newlands-of-lauriston/) tartan — 
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3128
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3128](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3128)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="133.5" cy="188.7" r="4" fill="#3465a4"><title>Newlands</title></circle></a><a href="/variants/s13/t25k4t4k4t4k26g25r6g25k26t25k2r6~x2/"><circle cx="124.6" cy="163.6" r="4" fill="#3465a4"><title>Atholl (District)</title></circle></a><a href="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/"><circle cx="105.9" cy="173.0" r="4" fill="#3465a4"><title>Biskup (Personal)</title></circle></a><a href="/variants/s8/db10k6y1g6k1g6y1k6~x2~db1406275/"><circle cx="148.5" cy="176.6" r="4" fill="#3465a4"><title>Norwich No.115</title></circle></a><a href="/variants/s13/t25k4t4k4t4k26g25r9g25k26t25k2r9~x2/"><circle cx="113.7" cy="167.4" r="4" fill="#3465a4"><title>Atholl</title></circle></a><a href="/variants/s13/g56k6g7k6g7k35db45ly6db45k35g45k6g6/"><circle cx="153.9" cy="172.0" r="4" fill="#3465a4"><title>Dewar's Highlander</title></circle></a><a href="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/"><circle cx="127.3" cy="182.1" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/"><circle cx="141.2" cy="176.1" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/"><circle cx="158.8" cy="175.3" r="4" fill="#3465a4"><title>Antrim</title></circle></a><a href="/variants/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="133.4" cy="172.9" r="4" fill="#3465a4"><title>Stephenson Hunting</title></circle></a><circle cx="136.5" cy="180.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="133.5" cy="189.2" r="4" fill="#3465a4"><title>Newlands</title></circle></a><a href="/variants/s13/t25k4t4k4t4k26g25r6g25k26t25k2r6~x2/"><circle cx="124.5" cy="164.0" r="4" fill="#3465a4"><title>Atholl (District)</title></circle></a><a href="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/"><circle cx="105.9" cy="173.4" r="4" fill="#3465a4"><title>Biskup (Personal)</title></circle></a><a href="/variants/s8/db10k6y1g6k1g6y1k6~x2~db1406275/"><circle cx="148.5" cy="177.1" r="4" fill="#3465a4"><title>Norwich No.115</title></circle></a><a href="/variants/s13/t25k4t4k4t4k26g25r9g25k26t25k2r9~x2/"><circle cx="113.7" cy="167.8" r="4" fill="#3465a4"><title>Atholl</title></circle></a><a href="/variants/s13/g56k6g7k6g7k35db45ly6db45k35g45k6g6/"><circle cx="153.9" cy="172.4" r="4" fill="#3465a4"><title>Dewar's Highlander</title></circle></a><a href="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/"><circle cx="127.3" cy="182.5" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/"><circle cx="141.2" cy="176.5" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s10/g5k2g17y2k5y2b5k17g2y4~x2/"><circle cx="158.8" cy="175.8" r="4" fill="#3465a4"><title>Antrim</title></circle></a><a href="/variants/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="133.4" cy="173.3" r="4" fill="#3465a4"><title>Stephenson Hunting</title></circle></a><circle cx="136.5" cy="180.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/

@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/mactavish/"
 - name: "MacTavish Hunting"
   url: "/tartans/mactavish-hunting/"
+- name: "MacTavish Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb4dy28g6lb12k12lb3/)
 (the same proportion at any scale), whose colour order is pattern [WGGWKW](/stripes/wggwkw/).
@@ -16,7 +18,7 @@ Part of the [MacTavish Hunting](/tartans/mactavish-hunting/) tartan — the name
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2770
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2770](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2770)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb3dy26g4lb13k13lb2~x2/"><circle cx="193.9" cy="188.0" r="4" fill="#3465a4"><title>MacTavish Hunting Clan Tartan</title></circle></a><a href="/variants/s6/lb4o28g6lb12k12lb3~x2/"><circle cx="186.7" cy="204.8" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, hunting</title></circle></a><a href="/variants/s6/lb3o26g4lb13k13lb2~x2/"><circle cx="197.0" cy="187.0" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, hunting</title></circle></a><a href="/variants/s5/k3w3k3n10dr1~x6/"><circle cx="213.6" cy="200.9" r="4" fill="#3465a4"><title>Greystone (Burberry Grey)</title></circle></a><a href="/variants/s6/r10dy60db13w24db24dy8/"><circle cx="221.8" cy="221.5" r="4" fill="#3465a4"><title>Bronte House Check</title></circle></a><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="132.0" cy="218.9" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s6/g21w2g4k17dp14k3~x2/"><circle cx="171.2" cy="201.7" r="4" fill="#3465a4"><title>Wilson's No 158</title></circle></a><a href="/variants/s6/g3dr22lb5g10k10g2~x2/"><circle cx="185.1" cy="195.9" r="4" fill="#3465a4"><title>Strathspey (Fashion)</title></circle></a><a href="/variants/s7/y9k32g6w20y3w9k5~x2/"><circle cx="163.3" cy="178.9" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/variants/s6/g18lb2g4k14dp12k3~x2/"><circle cx="167.2" cy="212.3" r="4" fill="#3465a4"><title>Coburg</title></circle></a><circle cx="181.6" cy="205.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb3dy26g4lb13k13lb2~x2/"><circle cx="194.0" cy="188.5" r="4" fill="#3465a4"><title>MacTavish Hunting Clan Tartan</title></circle></a><a href="/variants/s6/lb4o28g6lb12k12lb3~x2/"><circle cx="186.8" cy="205.4" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, hunting</title></circle></a><a href="/variants/s6/lb3o26g4lb13k13lb2~x2/"><circle cx="197.0" cy="187.6" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, hunting</title></circle></a><a href="/variants/s5/k3w3k3n10dr1~x6/"><circle cx="213.7" cy="201.5" r="4" fill="#3465a4"><title>Greystone (Burberry Grey)</title></circle></a><a href="/variants/s6/r10dy60db13w24db24dy8/"><circle cx="221.9" cy="222.1" r="4" fill="#3465a4"><title>Bronte House Check</title></circle></a><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="132.1" cy="219.6" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s6/g21w2g4k17dp14k3~x2/"><circle cx="171.3" cy="202.2" r="4" fill="#3465a4"><title>Wilson's No 158</title></circle></a><a href="/variants/s6/g3dr22lb5g10k10g2~x2/"><circle cx="185.1" cy="196.5" r="4" fill="#3465a4"><title>Strathspey (Fashion)</title></circle></a><a href="/variants/s7/y9k32g6w20y3w9k5~x2/"><circle cx="163.3" cy="179.4" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/variants/s6/g18lb2g4k14dp12k3~x2/"><circle cx="167.3" cy="212.9" r="4" fill="#3465a4"><title>Coburg</title></circle></a><circle cx="181.6" cy="205.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/lb4dy28g6lb12k12lb3~x2/

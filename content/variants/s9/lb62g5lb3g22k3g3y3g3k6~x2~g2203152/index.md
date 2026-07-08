@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Oliver Hunting"
   url: "/tartans/oliver-hunting/"
+- name: "Oliver Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb62g5lb3g22k3g3y3g3k6/)
 (the same proportion at any scale), whose colour order is pattern [GGGKGWGWGWGKGGGK](/stripes/gggkgwgwgwgkgggk/).
@@ -14,7 +16,7 @@ Part of the [Oliver Hunting](/tartans/oliver-hunting/) tartan — the named desi
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3240
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3240](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3240)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g40k8g4k8g4dr14b64lb9b3/"><circle cx="215.3" cy="122.9" r="4" fill="#3465a4"><title>West Lothian/Linlithgowshire</title></circle></a><a href="/variants/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2~lb3200000-t2304245/"><circle cx="267.0" cy="142.0" r="4" fill="#3465a4"><title>Balmoral (Jack Allen)</title></circle></a><a href="/variants/s10/ly15k2ly3k2t50k2ly3k2w10k4~x2/"><circle cx="279.9" cy="100.1" r="4" fill="#3465a4"><title>D.E.B.S. (Fashion)</title></circle></a><a href="/variants/s11/g2r2lb23db2lb2db6lb2db2g33r2lb2~x2/"><circle cx="284.8" cy="142.4" r="4" fill="#3465a4"><title>Maine State</title></circle></a><a href="/variants/s11/g2r2lb21db2lb2db6lb2db2g33r2lb2~x2/"><circle cx="287.9" cy="142.3" r="4" fill="#3465a4"><title>Maine State District Tartan</title></circle></a><a href="/variants/s13/k2db2w2db3w38g2b12g3db4g30db2g6w2~x2/"><circle cx="184.4" cy="101.5" r="4" fill="#3465a4"><title>Crieff Turquoise (Dance)</title></circle></a><a href="/variants/s13/db4lb1g4r2g14db2g1db1lb1db1lb13r1g1~x4/"><circle cx="247.9" cy="150.0" r="4" fill="#3465a4"><title>Maine Dirigo</title></circle></a><a href="/variants/s11/r2w1g18db12g1db3w1r2w1db2g2~x2/"><circle cx="276.4" cy="138.8" r="4" fill="#3465a4"><title>MacKirgan</title></circle></a><a href="/variants/s8/lb2dr2lb30g20lb3g7k2y1~x2/"><circle cx="315.9" cy="118.3" r="4" fill="#3465a4"><title>L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy</title></circle></a><a href="/variants/s12/lb16g1lb1g1lb1k12g1lb1g1lb1g6dp2~x4/"><circle cx="205.4" cy="112.8" r="4" fill="#3465a4"><title>Stephen-Mathieson (Name)</title></circle></a><circle cx="273.9" cy="95.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g40k8g4k8g4dr14b64lb9b3/"><circle cx="215.3" cy="123.1" r="4" fill="#3465a4"><title>West Lothian/Linlithgowshire</title></circle></a><a href="/variants/s13/lb4t2lb25n16k4lb2n2lb2n10lb4k2lb2t2~x2~lb3200000-t2304245/"><circle cx="267.0" cy="142.4" r="4" fill="#3465a4"><title>Balmoral (Jack Allen)</title></circle></a><a href="/variants/s10/ly15k2ly3k2t50k2ly3k2w10k4~x2/"><circle cx="279.8" cy="100.4" r="4" fill="#3465a4"><title>D.E.B.S. (Fashion)</title></circle></a><a href="/variants/s11/g2r2lb23db2lb2db6lb2db2g33r2lb2~x2/"><circle cx="284.8" cy="142.7" r="4" fill="#3465a4"><title>Maine State</title></circle></a><a href="/variants/s11/g2r2lb21db2lb2db6lb2db2g33r2lb2~x2/"><circle cx="287.9" cy="142.5" r="4" fill="#3465a4"><title>Maine State District Tartan</title></circle></a><a href="/variants/s13/k2db2w2db3w38g2b12g3db4g30db2g6w2~x2/"><circle cx="184.3" cy="101.7" r="4" fill="#3465a4"><title>Crieff Turquoise (Dance)</title></circle></a><a href="/variants/s13/db4lb1g4r2g14db2g1db1lb1db1lb13r1g1~x4/"><circle cx="247.9" cy="150.3" r="4" fill="#3465a4"><title>Maine Dirigo</title></circle></a><a href="/variants/s11/r2w1g18db12g1db3w1r2w1db2g2~x2/"><circle cx="276.3" cy="139.1" r="4" fill="#3465a4"><title>MacKirgan</title></circle></a><a href="/variants/s8/lb2dr2lb30g20lb3g7k2y1~x2/"><circle cx="315.9" cy="118.6" r="4" fill="#3465a4"><title>L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy</title></circle></a><a href="/variants/s12/lb16g1lb1g1lb1k12g1lb1g1lb1g6dp2~x4/"><circle cx="205.3" cy="113.1" r="4" fill="#3465a4"><title>Stephen-Mathieson (Name)</title></circle></a><circle cx="273.8" cy="96.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/lb62g5lb3g22k3g3y3g3k6~x2~g2203152/

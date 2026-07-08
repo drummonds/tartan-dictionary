@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Adams"
   url: "/tartans/adams/"
+- name: "Adams"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr4g4k2g15do5g5do15g6w1db19dr2/)
 (the same proportion at any scale), whose colour order is pattern [BBWGBGBGKGB](/stripes/bbwgbgbgkgb/).
@@ -14,7 +16,7 @@ Part of the [Adams](/tartans/adams/) tartan — the named design grouping this s
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=24
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=24](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=24)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr4g4k2g17do5g5do17g6lb1db22dr2~x2/"><circle cx="188.0" cy="131.3" r="4" fill="#3465a4"><title>Adams (Name)</title></circle></a><a href="/variants/s13/y9k1dy31g30db36g3db3g3db36g30dy31k1w9~x2/"><circle cx="167.0" cy="107.9" r="4" fill="#3465a4"><title>Campbell, Brown (Personal)</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/"><circle cx="184.3" cy="133.7" r="4" fill="#3465a4"><title>Jones</title></circle></a><a href="/variants/s7/g20dg14db9y2db9k1w2~x4/"><circle cx="170.3" cy="160.7" r="4" fill="#3465a4"><title>Hughes</title></circle></a><a href="/variants/s14/dy3y3dy12y1k1db12k1db12k1g12k1dy12lb3db2~x2/"><circle cx="153.8" cy="139.9" r="4" fill="#3465a4"><title>Balmaha</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142/"><circle cx="180.5" cy="133.1" r="4" fill="#3465a4"><title>Jones (Name)</title></circle></a><a href="/variants/s8/o8k2dy10dp30dy30g55k4lo6/"><circle cx="190.3" cy="123.2" r="4" fill="#3465a4"><title>Aberuchill</title></circle></a><a href="/variants/s13/dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2~db1204274/"><circle cx="182.8" cy="143.1" r="4" fill="#3465a4"><title>Barbecue Presbyterian Church</title></circle></a><a href="/variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20dy7dg5~x2/"><circle cx="144.4" cy="108.2" r="4" fill="#3465a4"><title>Wild Geese</title></circle></a><a href="/variants/s15/g15db3g3db3g3db16o16k5y2k5o16db16g15r1k4~x2/"><circle cx="100.3" cy="130.7" r="4" fill="#3465a4"><title>Loseby, Luke (Personal)</title></circle></a><circle cx="175.3" cy="140.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr4g4k2g17do5g5do17g6lb1db22dr2~x2/"><circle cx="187.9" cy="131.4" r="4" fill="#3465a4"><title>Adams (Name)</title></circle></a><a href="/variants/s13/y9k1dy31g30db36g3db3g3db36g30dy31k1w9~x2/"><circle cx="166.9" cy="107.9" r="4" fill="#3465a4"><title>Campbell, Brown (Personal)</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/"><circle cx="184.2" cy="133.9" r="4" fill="#3465a4"><title>Jones</title></circle></a><a href="/variants/s7/g20dg14db9y2db9k1w2~x4/"><circle cx="170.2" cy="160.9" r="4" fill="#3465a4"><title>Hughes</title></circle></a><a href="/variants/s14/dy3y3dy12y1k1db12k1db12k1g12k1dy12lb3db2~x2/"><circle cx="153.8" cy="140.0" r="4" fill="#3465a4"><title>Balmaha</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142/"><circle cx="180.4" cy="133.3" r="4" fill="#3465a4"><title>Jones (Name)</title></circle></a><a href="/variants/s8/o8k2dy10dp30dy30g55k4lo6/"><circle cx="190.3" cy="123.4" r="4" fill="#3465a4"><title>Aberuchill</title></circle></a><a href="/variants/s13/dg17r2dg2r5dg29r2db31k2g29r5g2r2g17~x2~db1204274/"><circle cx="182.7" cy="143.3" r="4" fill="#3465a4"><title>Barbecue Presbyterian Church</title></circle></a><a href="/variants/s13/db8k1w5k1r5dg13k2g4k2g11dg20dy7dg5~x2/"><circle cx="144.3" cy="108.3" r="4" fill="#3465a4"><title>Wild Geese</title></circle></a><a href="/variants/s15/g15db3g3db3g3db16o16k5y2k5o16db16g15r1k4~x2/"><circle cx="100.2" cy="130.9" r="4" fill="#3465a4"><title>Loseby, Luke (Personal)</title></circle></a><circle cx="175.3" cy="140.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dr4g4k2g15do5g5do15g6w1db19dr2~x2/

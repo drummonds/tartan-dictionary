@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's No.112 (Light Blue)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg12k14y11dr3y3dr3y11k14dg12y3/)
 (the same proportion at any scale), whose colour order is pattern [GGKGBGBGKG](/stripes/ggkgbgbgkg/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4679
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4679](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4679)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y8g16k6g6k6g6k16dr21k5/"><circle cx="103.3" cy="239.2" r="4" fill="#3465a4"><title>Martin Family Tartan</title></circle></a><a href="/variants/s9/lo4g10k3g3k3g3k9dr11k3~x4/"><circle cx="94.2" cy="236.3" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/variants/s9/y8g16k6g6k6g6k16r21k5/"><circle cx="88.8" cy="230.6" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/variants/s6/y3dg6k6y4r1y1~x2/"><circle cx="147.6" cy="241.1" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><a href="/variants/s10/r4k6lb1g7k2g7lb1k6r4g2~x4/"><circle cx="119.3" cy="207.9" r="4" fill="#3465a4"><title>Walker James</title></circle></a><a href="/variants/s13/o25k4o4k4o4k23g23y4g23k23o23k4o4~x2/"><circle cx="119.3" cy="186.6" r="4" fill="#3465a4"><title>Poulter, Green (Corporate)</title></circle></a><a href="/variants/s7/k4dy9k13g6dy3g9w4~x2/"><circle cx="81.7" cy="254.5" r="4" fill="#3465a4"><title>Ramsay Hunting Family Tartan</title></circle></a><a href="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/"><circle cx="86.2" cy="225.9" r="4" fill="#3465a4"><title>Cameron (altered by weaver)</title></circle></a><a href="/variants/s10/r3k6r3k6g6k1w1k1g6r1~x2/"><circle cx="127.5" cy="200.7" r="4" fill="#3465a4"><title>MacDiarmid #3</title></circle></a><a href="/variants/s9/k1db3k3g3r1g3k3g1r1~x2/"><circle cx="75.8" cy="259.5" r="4" fill="#3465a4"><title>Unidentified No 30</title></circle></a><circle cx="103.0" cy="239.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y8g16k6g6k6g6k16dr21k5/"><circle cx="103.4" cy="239.9" r="4" fill="#3465a4"><title>Martin Family Tartan</title></circle></a><a href="/variants/s9/lo4g10k3g3k3g3k9dr11k3~x4/"><circle cx="94.3" cy="237.0" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/variants/s9/y8g16k6g6k6g6k16r21k5/"><circle cx="88.9" cy="231.3" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/variants/s6/y3dg6k6y4r1y1~x2/"><circle cx="147.7" cy="241.8" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><a href="/variants/s10/r4k6lb1g7k2g7lb1k6r4g2~x4/"><circle cx="119.3" cy="208.5" r="4" fill="#3465a4"><title>Walker James</title></circle></a><a href="/variants/s13/o25k4o4k4o4k23g23y4g23k23o23k4o4~x2/"><circle cx="119.3" cy="187.1" r="4" fill="#3465a4"><title>Poulter, Green (Corporate)</title></circle></a><a href="/variants/s7/k4dy9k13g6dy3g9w4~x2/"><circle cx="81.8" cy="255.3" r="4" fill="#3465a4"><title>Ramsay Hunting Family Tartan</title></circle></a><a href="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/"><circle cx="86.2" cy="226.5" r="4" fill="#3465a4"><title>Cameron (altered by weaver)</title></circle></a><a href="/variants/s10/r3k6r3k6g6k1w1k1g6r1~x2/"><circle cx="127.5" cy="201.3" r="4" fill="#3465a4"><title>MacDiarmid #3</title></circle></a><a href="/variants/s9/k1db3k3g3r1g3k3g1r1~x2/"><circle cx="76.0" cy="260.2" r="4" fill="#3465a4"><title>Unidentified No 30</title></circle></a><circle cx="103.1" cy="239.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dg12k14y11dr3y3dr3y11k14dg12y3~x2~dg1605139/

@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/kerr/"
 - name: "Kerr"
   url: "/tartans/kerr/"
+- name: "Kerr"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g20k1g2k1g3k14r28k1r2k4/)
 (the same proportion at any scale), whose colour order is pattern [GKGKGKRKRK](/stripes/gkgkgkrkrk/).
@@ -16,7 +18,7 @@ Part of the [Kerr](/tartans/kerr/) tartan — the named design grouping this set
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1954
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1954](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1954)
 
 ## Provenance
 
@@ -80,8 +82,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g20k1g2k1g3k14dr28k1dr2k4~x2/"><circle cx="252.7" cy="126.5" r="4" fill="#3465a4"><title>Kerr (Clan)</title></circle></a><a href="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/"><circle cx="248.6" cy="137.6" r="4" fill="#3465a4"><title>Stewart of Atholl</title></circle></a><a href="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/"><circle cx="255.8" cy="133.1" r="4" fill="#3465a4"><title>Stewart of Atholl (Clan)</title></circle></a><a href="/variants/s9/g24k3g2k3g4k4r20k3r6~x2/"><circle cx="224.9" cy="164.8" r="4" fill="#3465a4"><title>Alma College (Corporate)</title></circle></a><a href="/variants/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/"><circle cx="152.7" cy="132.0" r="4" fill="#3465a4"><title>Duns Pipe Band</title></circle></a><a href="/variants/s10/k21g2k2g2k3g15r29g2r2g4~x2/"><circle cx="204.3" cy="143.8" r="4" fill="#3465a4"><title>City of Armadale (District)</title></circle></a><a href="/variants/s10/k21g2k2g2k3g15r29g2r2g4~x2~r2109032/"><circle cx="206.2" cy="144.9" r="4" fill="#3465a4"><title>City of Armadale</title></circle></a><a href="/variants/s11/k9r1g1k3g20r5k3r20k5r3y2~x2/"><circle cx="192.0" cy="120.5" r="4" fill="#3465a4"><title>Army Cadet Force (Military)</title></circle></a><a href="/variants/s9/k8r1k3w5k5w3k5o23r3~x2/"><circle cx="192.6" cy="120.7" r="4" fill="#3465a4"><title>Southdown</title></circle></a><a href="/variants/s13/k1r1g1r21g1r1k10r1g14r1g1r1g1~x2/"><circle cx="270.5" cy="99.1" r="4" fill="#3465a4"><title>MacQuarrie #4</title></circle></a><circle cx="232.0" cy="114.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g20k1g2k1g3k14dr28k1dr2k4~x2/"><circle cx="252.6" cy="126.8" r="4" fill="#3465a4"><title>Kerr (Clan)</title></circle></a><a href="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/"><circle cx="248.6" cy="138.0" r="4" fill="#3465a4"><title>Stewart of Atholl</title></circle></a><a href="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/"><circle cx="255.7" cy="133.5" r="4" fill="#3465a4"><title>Stewart of Atholl (Clan)</title></circle></a><a href="/variants/s9/g24k3g2k3g4k4r20k3r6~x2/"><circle cx="224.9" cy="165.3" r="4" fill="#3465a4"><title>Alma College (Corporate)</title></circle></a><a href="/variants/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/"><circle cx="152.6" cy="132.4" r="4" fill="#3465a4"><title>Duns Pipe Band</title></circle></a><a href="/variants/s10/k21g2k2g2k3g15r29g2r2g4~x2/"><circle cx="204.2" cy="144.2" r="4" fill="#3465a4"><title>City of Armadale (District)</title></circle></a><a href="/variants/s10/k21g2k2g2k3g15r29g2r2g4~x2~r2109032/"><circle cx="206.2" cy="145.4" r="4" fill="#3465a4"><title>City of Armadale</title></circle></a><a href="/variants/s11/k9r1g1k3g20r5k3r20k5r3y2~x2/"><circle cx="192.0" cy="120.8" r="4" fill="#3465a4"><title>Army Cadet Force (Military)</title></circle></a><a href="/variants/s9/k8r1k3w5k5w3k5o23r3~x2/"><circle cx="192.5" cy="121.1" r="4" fill="#3465a4"><title>Southdown</title></circle></a><a href="/variants/s13/k1r1g1r21g1r1k10r1g14r1g1r1g1~x2/"><circle cx="270.4" cy="99.4" r="4" fill="#3465a4"><title>MacQuarrie #4</title></circle></a><circle cx="232.0" cy="114.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g20k1g2k1g3k14r28k1r2k4~x2/

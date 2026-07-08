@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ednie (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t11k4g4o1g4k1r1/)
 (the same proportion at any scale), whose colour order is pattern [BKGRGKR](/stripes/bkgrgkr/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8511
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8511](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8511)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/t24k8g8r2g8k1w2~x2/"><circle cx="214.4" cy="140.5" r="4" fill="#3465a4"><title>Ferguson of Atholl Clan</title></circle></a><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/"><circle cx="172.3" cy="176.1" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db22k11g24o2g3~x2/"><circle cx="181.8" cy="166.8" r="4" fill="#3465a4"><title>MacThomas Clan Tartan</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5~x2/"><circle cx="172.4" cy="176.1" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5/"><circle cx="172.4" cy="176.1" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="187.1" cy="184.0" r="4" fill="#3465a4"><title>Gammell (1978) (Personal)</title></circle></a><a href="/variants/s7/db3r2db22k11g24b2g3~x2/"><circle cx="183.0" cy="167.9" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s9/g5db24g7k10g24y2db2y2r2~x2/"><circle cx="204.5" cy="154.5" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s6/k2g11y1k8t9r2~x4/"><circle cx="113.7" cy="191.4" r="4" fill="#3465a4"><title>Forsyth (1795)</title></circle></a><a href="/variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/"><circle cx="158.4" cy="171.4" r="4" fill="#3465a4"><title>Royal College of Physicians Corporate Tartan</title></circle></a><circle cx="173.6" cy="175.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/t24k8g8r2g8k1w2~x2/"><circle cx="214.3" cy="140.8" r="4" fill="#3465a4"><title>Ferguson of Atholl Clan</title></circle></a><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/"><circle cx="172.3" cy="176.5" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db22k11g24o2g3~x2/"><circle cx="181.7" cy="167.1" r="4" fill="#3465a4"><title>MacThomas Clan Tartan</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5~x2/"><circle cx="172.4" cy="176.5" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5/"><circle cx="172.4" cy="176.5" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="187.2" cy="184.5" r="4" fill="#3465a4"><title>Gammell (1978) (Personal)</title></circle></a><a href="/variants/s7/db3r2db22k11g24b2g3~x2/"><circle cx="183.0" cy="168.2" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s9/g5db24g7k10g24y2db2y2r2~x2/"><circle cx="204.5" cy="154.8" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s6/k2g11y1k8t9r2~x4/"><circle cx="113.7" cy="191.9" r="4" fill="#3465a4"><title>Forsyth (1795)</title></circle></a><a href="/variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/"><circle cx="158.4" cy="171.8" r="4" fill="#3465a4"><title>Royal College of Physicians Corporate Tartan</title></circle></a><circle cx="173.6" cy="175.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/t11k4g4o1g4k1r1~x4/

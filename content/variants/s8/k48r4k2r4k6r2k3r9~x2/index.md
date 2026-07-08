@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Menzies Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k48r4k2r4k6r2k3r9/)
 (the same proportion at any scale), whose colour order is pattern [KRKRKRKR](/stripes/krkrkrkr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2929
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2929](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2929)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k30r3k2r3k2r27k30r4~x2/"><circle cx="366.9" cy="160.6" r="4" fill="#3465a4"><title>Murray of Ochtertyre #2</title></circle></a><a href="/variants/s10/k4w1r4k2g2r3k22r2k2r2/"><circle cx="364.2" cy="90.8" r="4" fill="#3465a4"><title>Valdres, Kvam and Vang</title></circle></a><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/"><circle cx="469.0" cy="99.2" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/variants/s8/k94r3k6r3k8r15k2y3~x2/"><circle cx="545.4" cy="70.7" r="4" fill="#3465a4"><title>Royal Army Physical Training Corps Association (Scotland)</title></circle></a><a href="/variants/s12/dr40k1dr3k1w3k4w3k1dr3k1dr40k4~x2/"><circle cx="557.7" cy="75.0" r="4" fill="#3465a4"><title>Salt Lake County District Tartan</title></circle></a><a href="/variants/s8/k198lr9k17lb13lr9k4lr13k4/"><circle cx="534.2" cy="59.4" r="4" fill="#3465a4"><title>London Fog Black (Fashion)</title></circle></a><a href="/variants/s10/r7k3r3k22r3k3r3k37dy2k4~x2/"><circle cx="471.3" cy="118.8" r="4" fill="#3465a4"><title>Maier (Personal)</title></circle></a><a href="/variants/s9/w2k3r10k5r3k5r15k35w1~x2/"><circle cx="353.1" cy="100.7" r="4" fill="#3465a4"><title>Bertea, A H (Personal)</title></circle></a><a href="/variants/s10/y6k2y2r10k4r4k4r2k35y2~x2/"><circle cx="343.3" cy="114.7" r="4" fill="#3465a4"><title>Einigkeit</title></circle></a><a href="/variants/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="419.3" cy="83.1" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><circle cx="480.4" cy="116.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k30r3k2r3k2r27k30r4~x2/"><circle cx="366.9" cy="161.1" r="4" fill="#3465a4"><title>Murray of Ochtertyre #2</title></circle></a><a href="/variants/s10/k4w1r4k2g2r3k22r2k2r2/"><circle cx="364.1" cy="91.0" r="4" fill="#3465a4"><title>Valdres, Kvam and Vang</title></circle></a><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/"><circle cx="468.9" cy="99.4" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/variants/s8/k94r3k6r3k8r15k2y3~x2/"><circle cx="545.2" cy="70.8" r="4" fill="#3465a4"><title>Royal Army Physical Training Corps Association (Scotland)</title></circle></a><a href="/variants/s12/dr40k1dr3k1w3k4w3k1dr3k1dr40k4~x2/"><circle cx="557.6" cy="75.2" r="4" fill="#3465a4"><title>Salt Lake County District Tartan</title></circle></a><a href="/variants/s8/k198lr9k17lb13lr9k4lr13k4/"><circle cx="534.0" cy="59.5" r="4" fill="#3465a4"><title>London Fog Black (Fashion)</title></circle></a><a href="/variants/s10/r7k3r3k22r3k3r3k37dy2k4~x2/"><circle cx="471.2" cy="119.1" r="4" fill="#3465a4"><title>Maier (Personal)</title></circle></a><a href="/variants/s9/w2k3r10k5r3k5r15k35w1~x2/"><circle cx="353.0" cy="101.0" r="4" fill="#3465a4"><title>Bertea, A H (Personal)</title></circle></a><a href="/variants/s10/y6k2y2r10k4r4k4r2k35y2~x2/"><circle cx="343.3" cy="115.0" r="4" fill="#3465a4"><title>Einigkeit</title></circle></a><a href="/variants/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="419.2" cy="83.4" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><circle cx="480.3" cy="116.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k48r4k2r4k6r2k3r9~x2/

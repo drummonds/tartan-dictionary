@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Manx, Mannin Plaid"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y1o5r5w1/)
 (the same proportion at any scale), whose colour order is pattern [GRRW](/stripes/grrw/).
 
 Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/y1dy5r5w1~x4/"><circle cx="228.6" cy="265.0" r="4" fill="#3465a4"><title>Manx Mannin Plaid</title></circle></a><a href="/variants/s4/dr5o35dr46ly5~x2/"><circle cx="410.4" cy="261.6" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/"><circle cx="331.0" cy="217.6" r="4" fill="#3465a4"><title>Cetoloni Family Tartan</title></circle></a><a href="/variants/s5/o1dr4r10y2w1~x4/"><circle cx="339.6" cy="200.4" r="4" fill="#3465a4"><title>Love</title></circle></a><a href="/variants/s6/ly23r22o52r8w6lyi18~ly2503076-lyi2705081/"><circle cx="325.3" cy="264.8" r="4" fill="#3465a4"><title>Lady Boys of Bangkok (Corporate)</title></circle></a><a href="/variants/s6/lr6o5k2y18r28w2~x2/"><circle cx="261.3" cy="159.9" r="4" fill="#3465a4"><title>Dundhuin</title></circle></a><a href="/variants/s4/r1g8o8w1~x2/"><circle cx="333.7" cy="271.2" r="4" fill="#3465a4"><title>MacKinnon, hunting</title></circle></a><a href="/variants/s5/k1dr9n8y8w1~x2/"><circle cx="194.9" cy="232.5" r="4" fill="#3465a4"><title>Pople (Name)</title></circle></a><a href="/variants/s5/o62n17ly12y8dg8~x2/"><circle cx="411.6" cy="245.1" r="4" fill="#3465a4"><title>Dundhuin Dress (Personal)</title></circle></a><a href="/variants/s3/r4g2lb1~x4/"><circle cx="324.7" cy="318.7" r="4" fill="#3465a4"><title>Wilson's, No 188</title></circle></a><circle cx="322.5" cy="296.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/y1dy5r5w1~x4/"><circle cx="228.8" cy="265.8" r="4" fill="#3465a4"><title>Manx Mannin Plaid</title></circle></a><a href="/variants/s4/dr5o35dr46ly5~x2/"><circle cx="410.6" cy="262.2" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/"><circle cx="331.1" cy="218.0" r="4" fill="#3465a4"><title>Cetoloni Family Tartan</title></circle></a><a href="/variants/s5/o1dr4r10y2w1~x4/"><circle cx="339.7" cy="200.8" r="4" fill="#3465a4"><title>Love</title></circle></a><a href="/variants/s6/ly23r22o52r8w6lyi18~ly2503076-lyi2705081/"><circle cx="325.5" cy="265.1" r="4" fill="#3465a4"><title>Lady Boys of Bangkok (Corporate)</title></circle></a><a href="/variants/s6/lr6o5k2y18r28w2~x2/"><circle cx="261.3" cy="160.2" r="4" fill="#3465a4"><title>Dundhuin</title></circle></a><a href="/variants/s4/r1g8o8w1~x2/"><circle cx="333.9" cy="271.7" r="4" fill="#3465a4"><title>MacKinnon, hunting</title></circle></a><a href="/variants/s5/k1dr9n8y8w1~x2/"><circle cx="195.0" cy="233.0" r="4" fill="#3465a4"><title>Pople (Name)</title></circle></a><a href="/variants/s5/o62n17ly12y8dg8~x2/"><circle cx="411.7" cy="245.4" r="4" fill="#3465a4"><title>Dundhuin Dress (Personal)</title></circle></a><a href="/variants/s3/r4g2lb1~x4/"><circle cx="325.0" cy="319.6" r="4" fill="#3465a4"><title>Wilson's, No 188</title></circle></a><circle cx="322.7" cy="297.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/y1o5r5w1~x4/

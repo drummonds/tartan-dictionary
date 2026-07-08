@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Shaw, Miss Rebecca (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb5k1w30dp15w8g30w8dp2/)
 (the same proportion at any scale), whose colour order is pattern [BWGWBWKW](/stripes/bwgwbwkw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6380
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6380](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6380)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w36db12w1r12g16y2~x2/"><circle cx="232.5" cy="141.7" r="4" fill="#3465a4"><title>MacNappy Tartan</title></circle></a><a href="/variants/s7/lb37k12ly17r3ly17k1y3~x2/"><circle cx="206.8" cy="121.3" r="4" fill="#3465a4"><title>Berger-MacLaren</title></circle></a><a href="/variants/s8/g3dg32g36o12k2w68dg3k2~x2~g2003152-dg1806142/"><circle cx="206.0" cy="105.4" r="4" fill="#3465a4"><title>Kintail Dress</title></circle></a><a href="/variants/s9/y1k6g4k1w16lb1w4lb6w1~x2/"><circle cx="201.2" cy="126.3" r="4" fill="#3465a4"><title>Henderson Dress (Clan?)</title></circle></a><a href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/"><circle cx="229.3" cy="137.0" r="4" fill="#3465a4"><title>Michigan, State of</title></circle></a><a href="/variants/s7/g18w55n19g20w2g20k5/"><circle cx="220.9" cy="162.7" r="4" fill="#3465a4"><title>Michigan State University</title></circle></a><a href="/variants/s7/w50gi15db10r2db10g8y3~x2~gi2304202-db1204274/"><circle cx="236.4" cy="123.2" r="4" fill="#3465a4"><title>Nimah, Carissa &amp; Bassem (Personal)</title></circle></a><a href="/variants/s7/lb17k12w9r2w9g1w2~x4/"><circle cx="147.7" cy="164.0" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><a href="/variants/s6/w36lb12w1r12g16y2~x2/"><circle cx="262.0" cy="151.9" r="4" fill="#3465a4"><title>MacNappy</title></circle></a><a href="/variants/s9/g3w29g3db3g3db6g13y3r2~x2/"><circle cx="213.8" cy="145.2" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><circle cx="218.9" cy="133.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w36db12w1r12g16y2~x2/"><circle cx="232.5" cy="142.1" r="4" fill="#3465a4"><title>MacNappy Tartan</title></circle></a><a href="/variants/s7/lb37k12ly17r3ly17k1y3~x2/"><circle cx="206.8" cy="121.6" r="4" fill="#3465a4"><title>Berger-MacLaren</title></circle></a><a href="/variants/s8/g3dg32g36o12k2w68dg3k2~x2~g2003152-dg1806142/"><circle cx="205.9" cy="105.6" r="4" fill="#3465a4"><title>Kintail Dress</title></circle></a><a href="/variants/s9/y1k6g4k1w16lb1w4lb6w1~x2/"><circle cx="201.2" cy="126.8" r="4" fill="#3465a4"><title>Henderson Dress (Clan?)</title></circle></a><a href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/"><circle cx="229.3" cy="137.3" r="4" fill="#3465a4"><title>Michigan, State of</title></circle></a><a href="/variants/s7/g18w55n19g20w2g20k5/"><circle cx="220.9" cy="163.2" r="4" fill="#3465a4"><title>Michigan State University</title></circle></a><a href="/variants/s7/w50gi15db10r2db10g8y3~x2~gi2304202-db1204274/"><circle cx="236.4" cy="123.5" r="4" fill="#3465a4"><title>Nimah, Carissa &amp; Bassem (Personal)</title></circle></a><a href="/variants/s7/lb17k12w9r2w9g1w2~x4/"><circle cx="147.8" cy="164.5" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><a href="/variants/s6/w36lb12w1r12g16y2~x2/"><circle cx="262.1" cy="152.3" r="4" fill="#3465a4"><title>MacNappy</title></circle></a><a href="/variants/s9/g3w29g3db3g3db6g13y3r2~x2/"><circle cx="213.8" cy="145.6" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><circle cx="218.8" cy="133.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/lb5k1w30dp15w8g30w8dp2~x2/

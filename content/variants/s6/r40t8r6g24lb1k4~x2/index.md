@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacPhail"
   url: "/tartans/macphail-2/"
+- name: "MacPhail (Blue Bands)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r40t8r6g24lb1k4/)
 (the same proportion at any scale), whose colour order is pattern [KWGRBR](/stripes/kwgrbr/).
@@ -14,7 +16,7 @@ Part of the [MacPhail](/tartans/macphail-2/) tartan — the named design groupin
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2696
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2696](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2696)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r25db7r3g13lb1k2~x4/"><circle cx="292.4" cy="129.5" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s6/r100k15g48db5r7db16~x2/"><circle cx="305.3" cy="143.3" r="4" fill="#3465a4"><title>Plummer (Personal)</title></circle></a><a href="/variants/s8/r56w2db6w2g32r11db6w5/"><circle cx="348.5" cy="130.6" r="4" fill="#3465a4"><title>Spens</title></circle></a><a href="/variants/s8/r36w1db3y1g16r8db3w5/"><circle cx="366.2" cy="104.0" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s6/r4k2dg28r38k1ly4~x2/"><circle cx="348.3" cy="116.4" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/variants/s6/g15k10r30dp2r20w1~x2/"><circle cx="328.7" cy="130.3" r="4" fill="#3465a4"><title>Kinnaird (Name)</title></circle></a><a href="/variants/s6/r36t8w1k5g20r18~x4/"><circle cx="338.2" cy="133.0" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r40lb11w2k12g36r32~x2/"><circle cx="247.9" cy="166.0" r="4" fill="#3465a4"><title>Caithness (1848) (District?)</title></circle></a><a href="/variants/s5/r24t3w1g9r12~x8/"><circle cx="375.4" cy="163.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/"><circle cx="298.5" cy="123.1" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><circle cx="323.8" cy="116.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r25db7r3g13lb1k2~x4/"><circle cx="292.4" cy="129.8" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s6/r100k15g48db5r7db16~x2/"><circle cx="305.3" cy="143.7" r="4" fill="#3465a4"><title>Plummer (Personal)</title></circle></a><a href="/variants/s8/r56w2db6w2g32r11db6w5/"><circle cx="348.5" cy="130.9" r="4" fill="#3465a4"><title>Spens</title></circle></a><a href="/variants/s8/r36w1db3y1g16r8db3w5/"><circle cx="366.2" cy="104.3" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s6/r4k2dg28r38k1ly4~x2/"><circle cx="348.3" cy="116.7" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/variants/s6/g15k10r30dp2r20w1~x2/"><circle cx="328.7" cy="130.8" r="4" fill="#3465a4"><title>Kinnaird (Name)</title></circle></a><a href="/variants/s6/r36t8w1k5g20r18~x4/"><circle cx="338.2" cy="133.3" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r40lb11w2k12g36r32~x2/"><circle cx="248.0" cy="166.6" r="4" fill="#3465a4"><title>Caithness (1848) (District?)</title></circle></a><a href="/variants/s5/r24t3w1g9r12~x8/"><circle cx="375.4" cy="163.8" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/"><circle cx="298.5" cy="123.4" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><circle cx="323.7" cy="116.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r40t8r6g24lb1k4~x2/

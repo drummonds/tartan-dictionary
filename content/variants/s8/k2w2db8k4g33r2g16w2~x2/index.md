@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sarros (Personal) XX"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2w2db8k4g33r2g16w2/)
 (the same proportion at any scale), whose colour order is pattern [KWBKGRGW](/stripes/kwbkgrgw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10526
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10526](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10526)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k2w2db8k4dg33r2dg16w2~x2/"><circle cx="384.2" cy="130.7" r="4" fill="#3465a4"><title>Sarros, Terrence (USA) (Personal)</title></circle></a><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="312.6" cy="129.0" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="371.0" cy="138.3" r="4" fill="#3465a4"><title>Tahrir (Liberation)</title></circle></a><a href="/variants/s8/g44w2g10t3k6w1o2k18~x2/"><circle cx="330.0" cy="83.7" r="4" fill="#3465a4"><title>Mull Rugby Club Corporate Sport Tartan</title></circle></a><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/"><circle cx="383.0" cy="93.3" r="4" fill="#3465a4"><title>Arnold Palmer Corporate Tartan</title></circle></a><a href="/variants/s8/k3g34t10g5r2k8dy2w3~x2/"><circle cx="250.3" cy="113.9" r="4" fill="#3465a4"><title>Lambert Kai (Personal)</title></circle></a><a href="/variants/s8/k3g34db10g5r2k8dy2w3~x2/"><circle cx="244.9" cy="110.3" r="4" fill="#3465a4"><title>Lambert (Front Royal) Kai</title></circle></a><a href="/variants/s7/r2g24k2g12y6k1r2~x2/"><circle cx="454.7" cy="153.8" r="4" fill="#3465a4"><title>Inman (2016)</title></circle></a><a href="/variants/s8/g44lr2g10lb3k6lr1r2k18~x2/"><circle cx="329.7" cy="82.1" r="4" fill="#3465a4"><title>Mull Rugby Club (Old)</title></circle></a><a href="/variants/s10/g55r4n3dp11w4db11n3r4g55k4~x2/"><circle cx="358.4" cy="92.9" r="4" fill="#3465a4"><title>Rollings (Personal)</title></circle></a><circle cx="358.1" cy="129.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k2w2db8k4dg33r2dg16w2~x2/"><circle cx="384.2" cy="130.9" r="4" fill="#3465a4"><title>Sarros, Terrence (USA) (Personal)</title></circle></a><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="312.5" cy="129.3" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="371.0" cy="138.7" r="4" fill="#3465a4"><title>Tahrir (Liberation)</title></circle></a><a href="/variants/s8/g44w2g10t3k6w1o2k18~x2/"><circle cx="329.9" cy="83.8" r="4" fill="#3465a4"><title>Mull Rugby Club Corporate Sport Tartan</title></circle></a><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/"><circle cx="382.9" cy="93.4" r="4" fill="#3465a4"><title>Arnold Palmer Corporate Tartan</title></circle></a><a href="/variants/s8/k3g34t10g5r2k8dy2w3~x2/"><circle cx="250.3" cy="114.2" r="4" fill="#3465a4"><title>Lambert Kai (Personal)</title></circle></a><a href="/variants/s8/k3g34db10g5r2k8dy2w3~x2/"><circle cx="244.8" cy="110.5" r="4" fill="#3465a4"><title>Lambert (Front Royal) Kai</title></circle></a><a href="/variants/s7/r2g24k2g12y6k1r2~x2/"><circle cx="454.7" cy="154.1" r="4" fill="#3465a4"><title>Inman (2016)</title></circle></a><a href="/variants/s8/g44lr2g10lb3k6lr1r2k18~x2/"><circle cx="329.6" cy="82.3" r="4" fill="#3465a4"><title>Mull Rugby Club (Old)</title></circle></a><a href="/variants/s10/g55r4n3dp11w4db11n3r4g55k4~x2/"><circle cx="358.3" cy="93.0" r="4" fill="#3465a4"><title>Rollings (Personal)</title></circle></a><circle cx="358.1" cy="130.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k2w2db8k4g33r2g16w2~x2/

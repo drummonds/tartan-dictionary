@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Martinez"
   url: "/tartans/martinez/"
+- name: "Martinez (2014)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db6k20dr3k20y1db2y1k25y1dr2y1dbi6/)
 (the same proportion at any scale), whose colour order is pattern [BGBGKGBGKBKB](/stripes/bgbgkgbgkbkb/).
@@ -14,7 +16,7 @@ Part of the [Martinez](/tartans/martinez/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11118
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11118](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11118)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db6k20r3t2k20ly2k25ly1r2ly1t6~x2/"><circle cx="373.2" cy="91.6" r="4" fill="#3465a4"><title>Martinez (2014)</title></circle></a><a href="/variants/s8/k50db2k13w1k13db5g15r2~x2/"><circle cx="427.9" cy="74.4" r="4" fill="#3465a4"><title>Center</title></circle></a><a href="/variants/s8/k50t2k13w1k13t5g15r2~x2/"><circle cx="419.5" cy="72.6" r="4" fill="#3465a4"><title>Center (Name)</title></circle></a><a href="/variants/s11/n2dr2k37dr3ri2dr3r1ri4dr4k19ri1~x2~dr1302028-ri1606028/"><circle cx="445.4" cy="68.1" r="4" fill="#3465a4"><title>Brodie, Graeme (Personal)</title></circle></a><a href="/variants/s9/k5ly1dg7dr1k45dr5ly3k4ly3~x2/"><circle cx="441.3" cy="69.6" r="4" fill="#3465a4"><title>Brooks Brothers Signature (Corporate</title></circle></a><a href="/variants/s7/k4n2k46db20k6dbi3g4~x2~db1404274-dbi1406275/"><circle cx="379.6" cy="104.2" r="4" fill="#3465a4"><title>Silver Thistle</title></circle></a><a href="/variants/s11/o2dy2k37dy3dr2dy3r1dr4dy4k19dr1~x2~o2500000/"><circle cx="458.0" cy="74.7" r="4" fill="#3465a4"><title>Brodie, Graeme (Personal)</title></circle></a><a href="/variants/s9/lo2k3db6dr4k48dr4db6k3lb2~x2/"><circle cx="401.1" cy="85.0" r="4" fill="#3465a4"><title>Highland Park</title></circle></a><a href="/variants/s9/k20db2k2db4dg4y2k40r2w3~x2/"><circle cx="417.1" cy="78.0" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles) Hunting</title></circle></a><a href="/variants/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2~n1900000-o2500000/"><circle cx="374.6" cy="82.5" r="4" fill="#3465a4"><title>Pride of Scotland Contemporary</title></circle></a><circle cx="429.1" cy="100.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db6k20r3t2k20ly2k25ly1r2ly1t6~x2/"><circle cx="373.0" cy="91.8" r="4" fill="#3465a4"><title>Martinez (2014)</title></circle></a><a href="/variants/s8/k50db2k13w1k13db5g15r2~x2/"><circle cx="427.8" cy="74.5" r="4" fill="#3465a4"><title>Center</title></circle></a><a href="/variants/s8/k50t2k13w1k13t5g15r2~x2/"><circle cx="419.3" cy="72.7" r="4" fill="#3465a4"><title>Center (Name)</title></circle></a><a href="/variants/s11/n2dr2k37dr3ri2dr3r1ri4dr4k19ri1~x2~dr1302028-ri1606028/"><circle cx="445.2" cy="68.1" r="4" fill="#3465a4"><title>Brodie, Graeme (Personal)</title></circle></a><a href="/variants/s9/k5ly1dg7dr1k45dr5ly3k4ly3~x2/"><circle cx="441.1" cy="69.7" r="4" fill="#3465a4"><title>Brooks Brothers Signature (Corporate</title></circle></a><a href="/variants/s7/k4n2k46db20k6dbi3g4~x2~db1404274-dbi1406275/"><circle cx="379.5" cy="104.3" r="4" fill="#3465a4"><title>Silver Thistle</title></circle></a><a href="/variants/s11/o2dy2k37dy3dr2dy3r1dr4dy4k19dr1~x2~o2500000/"><circle cx="457.9" cy="74.6" r="4" fill="#3465a4"><title>Brodie, Graeme (Personal)</title></circle></a><a href="/variants/s9/lo2k3db6dr4k48dr4db6k3lb2~x2/"><circle cx="400.9" cy="85.1" r="4" fill="#3465a4"><title>Highland Park</title></circle></a><a href="/variants/s9/k20db2k2db4dg4y2k40r2w3~x2/"><circle cx="417.0" cy="78.1" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles) Hunting</title></circle></a><a href="/variants/s11/k9n2o2n2k18n2k2lp1n19k33dp2~x2~n1900000-o2500000/"><circle cx="374.5" cy="82.6" r="4" fill="#3465a4"><title>Pride of Scotland Contemporary</title></circle></a><circle cx="428.9" cy="100.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db6k20dr3k20y1db2y1k25y1dr2y1dbi6~x2~db1404245-dbi1406275/

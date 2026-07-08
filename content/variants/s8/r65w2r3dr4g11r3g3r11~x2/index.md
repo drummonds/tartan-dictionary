@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/gudbrandsdalen/"
 - name: "Gudbrandsdalen, Rondastakken"
   url: "/tartans/gudbrandsdalen-rondastakken/"
+- name: "Gudbrandsdalen, Rondastakken"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r65w2r3dr4g11r3g3r11/)
 (the same proportion at any scale), whose colour order is pattern [RGRGBRWR](/stripes/rgrgbrwr/).
@@ -16,7 +18,7 @@ Part of the [Gudbrandsdalen, Rondastakken](/tartans/gudbrandsdalen-rondastakken/
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1556
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1556](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1556)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/ri65w2ri3r4dg11ri3dg3ri11~ri2008029-r1506028/"><circle cx="607.6" cy="112.6" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken</title></circle></a><a href="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/"><circle cx="583.4" cy="102.1" r="4" fill="#3465a4"><title>Duke of Sussex (Earl of Inverness)</title></circle></a><a href="/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/"><circle cx="609.3" cy="101.2" r="4" fill="#3465a4"><title>Earl of Inverness (Artefact)</title></circle></a><a href="/variants/s8/r42db4y1db6g1db1g1r12~x2/"><circle cx="575.8" cy="92.5" r="4" fill="#3465a4"><title>Inverness Earl of</title></circle></a><a href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/"><circle cx="616.2" cy="88.7" r="4" fill="#3465a4"><title>Burnett of Leys</title></circle></a><a href="/variants/s5/r39g6r2g3w1~x2/"><circle cx="624.8" cy="141.7" r="4" fill="#3465a4"><title>MacGregor #2</title></circle></a><a href="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/"><circle cx="570.3" cy="83.7" r="4" fill="#3465a4"><title>Prince of Denmark (Corporate)</title></circle></a><a href="/variants/s8/r60db5r5w2r5g2r5y2~x2/"><circle cx="626.0" cy="90.4" r="4" fill="#3465a4"><title>Burnett, of Leys</title></circle></a><a href="/variants/s6/r65g16r4dp4r4w5~x2/"><circle cx="499.1" cy="150.7" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="491.6" cy="90.8" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><circle cx="594.2" cy="108.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/ri65w2ri3r4dg11ri3dg3ri11~ri2008029-r1506028/"><circle cx="607.6" cy="112.8" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken</title></circle></a><a href="/variants/s8/r114g10w3g16ly3g3ly3r28~x2/"><circle cx="583.4" cy="102.2" r="4" fill="#3465a4"><title>Duke of Sussex (Earl of Inverness)</title></circle></a><a href="/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/"><circle cx="609.3" cy="101.3" r="4" fill="#3465a4"><title>Earl of Inverness (Artefact)</title></circle></a><a href="/variants/s8/r42db4y1db6g1db1g1r12~x2/"><circle cx="575.7" cy="92.7" r="4" fill="#3465a4"><title>Inverness Earl of</title></circle></a><a href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/"><circle cx="616.1" cy="88.9" r="4" fill="#3465a4"><title>Burnett of Leys</title></circle></a><a href="/variants/s5/r39g6r2g3w1~x2/"><circle cx="624.8" cy="142.0" r="4" fill="#3465a4"><title>MacGregor #2</title></circle></a><a href="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/"><circle cx="570.2" cy="83.9" r="4" fill="#3465a4"><title>Prince of Denmark (Corporate)</title></circle></a><a href="/variants/s8/r60db5r5w2r5g2r5y2~x2/"><circle cx="626.0" cy="90.5" r="4" fill="#3465a4"><title>Burnett, of Leys</title></circle></a><a href="/variants/s6/r65g16r4dp4r4w5~x2/"><circle cx="499.1" cy="151.1" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="491.6" cy="91.0" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><circle cx="594.1" cy="108.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r65w2r3dr4g11r3g3r11~x2/

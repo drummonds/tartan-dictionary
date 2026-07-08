@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Dunblane"
   url: "/tartans/dunblane/"
+- name: "Dunblane"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6y5w1g2w1g5w1g2w1r15db2w1/)
 (the same proportion at any scale), whose colour order is pattern [GGWGWGWGWRBW](/stripes/ggwgwgwgwrbw/).
@@ -14,7 +16,7 @@ Part of the [Dunblane](/tartans/dunblane/) tartan — the named design grouping 
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x2/"><circle cx="191.7" cy="135.4" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x4/"><circle cx="191.7" cy="135.4" r="4" fill="#3465a4"><title>Dunblane (District)</title></circle></a><a href="/variants/s11/w1db4o8r4w1r4w1r4g16db2w1~x2/"><circle cx="177.7" cy="147.3" r="4" fill="#3465a4"><title>Stuart / Stewart, Riding Cloak</title></circle></a><a href="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/"><circle cx="191.3" cy="149.1" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/variants/s11/g28lo18db4lo18ri3r2ri3r2ri3r2ri3~x2~ri2109032-r2109013/"><circle cx="236.4" cy="147.7" r="4" fill="#3465a4"><title>Commonwealth Games - 2014</title></circle></a><a href="/variants/s9/ly25r2w2db2w2r13dy28db2r3~x2/"><circle cx="184.0" cy="142.4" r="4" fill="#3465a4"><title>Brousseau (Personal)</title></circle></a><a href="/variants/s11/w1db4dy8r4w1r4w1r4g16db2w1~x2/"><circle cx="167.7" cy="145.6" r="4" fill="#3465a4"><title>Stuart/Stewart Riding Cloak</title></circle></a><a href="/variants/s14/r6w2r25dy2w9lg2lgi4lg2w9lg2lgi15dy2lgi2dy4~x2~lg2809145-lgi3204144/"><circle cx="163.3" cy="139.9" r="4" fill="#3465a4"><title>Sakura (Japanese Four Seasons)</title></circle></a><a href="/variants/s9/g25r2w2db2w2r13dy28db2r3~x2/"><circle cx="202.8" cy="152.6" r="4" fill="#3465a4"><title>Brousseau (Personal)</title></circle></a><a href="/variants/s11/r3y1dp1r20dr2dp9dr2g20dp1y1g3~x2/"><circle cx="243.8" cy="128.4" r="4" fill="#3465a4"><title>Scotland (Personal)</title></circle></a><circle cx="204.7" cy="144.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x2/"><circle cx="191.7" cy="135.7" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x4/"><circle cx="191.7" cy="135.7" r="4" fill="#3465a4"><title>Dunblane (District)</title></circle></a><a href="/variants/s11/w1db4o8r4w1r4w1r4g16db2w1~x2/"><circle cx="177.7" cy="147.5" r="4" fill="#3465a4"><title>Stuart / Stewart, Riding Cloak</title></circle></a><a href="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/"><circle cx="191.3" cy="149.5" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/variants/s11/g28lo18db4lo18ri3r2ri3r2ri3r2ri3~x2~ri2109032-r2109013/"><circle cx="236.4" cy="148.0" r="4" fill="#3465a4"><title>Commonwealth Games - 2014</title></circle></a><a href="/variants/s9/ly25r2w2db2w2r13dy28db2r3~x2/"><circle cx="184.0" cy="142.8" r="4" fill="#3465a4"><title>Brousseau (Personal)</title></circle></a><a href="/variants/s11/w1db4dy8r4w1r4w1r4g16db2w1~x2/"><circle cx="167.7" cy="145.9" r="4" fill="#3465a4"><title>Stuart/Stewart Riding Cloak</title></circle></a><a href="/variants/s14/r6w2r25dy2w9lg2lgi4lg2w9lg2lgi15dy2lgi2dy4~x2~lg2809145-lgi3204144/"><circle cx="163.3" cy="140.3" r="4" fill="#3465a4"><title>Sakura (Japanese Four Seasons)</title></circle></a><a href="/variants/s9/g25r2w2db2w2r13dy28db2r3~x2/"><circle cx="202.8" cy="152.9" r="4" fill="#3465a4"><title>Brousseau (Personal)</title></circle></a><a href="/variants/s11/r3y1dp1r20dr2dp9dr2g20dp1y1g3~x2/"><circle cx="243.8" cy="128.6" r="4" fill="#3465a4"><title>Scotland (Personal)</title></circle></a><circle cx="204.7" cy="144.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/g6y5w1g2w1g5w1g2w1r15db2w1~x2/

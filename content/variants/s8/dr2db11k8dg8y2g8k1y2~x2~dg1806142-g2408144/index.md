@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scout Mapping Service #2 (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr2db11k8dg8y2g8k1y2/)
 (the same proportion at any scale), whose colour order is pattern [BBKGGGKG](/stripes/bbkgggkg/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3823
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3823](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3823)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3dp8g20k20db17k3lg3~x2/"><circle cx="64.7" cy="190.9" r="4" fill="#3465a4"><title>Gracey (2013)</title></circle></a><a href="/variants/s10/k3db10k2w1k2g10k2dg10r1dg2~x4/"><circle cx="81.7" cy="155.1" r="4" fill="#3465a4"><title>Rutledge (Name)</title></circle></a><a href="/variants/s7/db20k6dy4db3k16g20w2~x2/"><circle cx="116.0" cy="187.9" r="4" fill="#3465a4"><title>Deloughery, Paul</title></circle></a><a href="/variants/s10/k3db10k2w1k2g10k2dg10r1dg1~x4/"><circle cx="76.9" cy="152.0" r="4" fill="#3465a4"><title>Rutledge</title></circle></a><a href="/variants/s7/y1k3g15k14db16r2w1~x2/"><circle cx="121.7" cy="141.9" r="4" fill="#3465a4"><title>Macneil of Barra - Chief (Personal)</title></circle></a><a href="/variants/s8/lo4k2dy15k2g15db15k2r1~x2/"><circle cx="100.5" cy="146.7" r="4" fill="#3465a4"><title>McCarter (2016)</title></circle></a><a href="/variants/s8/r5lb1db10w2k10g10k1y3~x4/"><circle cx="23.5" cy="151.6" r="4" fill="#3465a4"><title>Culloden 1746 - Original</title></circle></a><a href="/variants/s9/r2y2t9k10dg12k1y1k1dy1~x4/"><circle cx="111.1" cy="139.1" r="4" fill="#3465a4"><title>Trades House</title></circle></a><a href="/variants/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/"><circle cx="65.9" cy="162.2" r="4" fill="#3465a4"><title>Brotherston (Personal)</title></circle></a><a href="/variants/s8/dt4k9g20dp2dg20k5dt6lb2~x2/"><circle cx="102.9" cy="175.2" r="4" fill="#3465a4"><title>Linden</title></circle></a><circle cx="58.0" cy="177.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3dp8g20k20db17k3lg3~x2/"><circle cx="64.7" cy="191.3" r="4" fill="#3465a4"><title>Gracey (2013)</title></circle></a><a href="/variants/s10/k3db10k2w1k2g10k2dg10r1dg2~x4/"><circle cx="81.6" cy="155.4" r="4" fill="#3465a4"><title>Rutledge (Name)</title></circle></a><a href="/variants/s7/db20k6dy4db3k16g20w2~x2/"><circle cx="116.0" cy="188.3" r="4" fill="#3465a4"><title>Deloughery, Paul</title></circle></a><a href="/variants/s10/k3db10k2w1k2g10k2dg10r1dg1~x4/"><circle cx="76.8" cy="152.2" r="4" fill="#3465a4"><title>Rutledge</title></circle></a><a href="/variants/s7/y1k3g15k14db16r2w1~x2/"><circle cx="121.6" cy="142.2" r="4" fill="#3465a4"><title>Macneil of Barra - Chief (Personal)</title></circle></a><a href="/variants/s8/lo4k2dy15k2g15db15k2r1~x2/"><circle cx="100.4" cy="147.0" r="4" fill="#3465a4"><title>McCarter (2016)</title></circle></a><a href="/variants/s8/r5lb1db10w2k10g10k1y3~x4/"><circle cx="23.5" cy="151.9" r="4" fill="#3465a4"><title>Culloden 1746 - Original</title></circle></a><a href="/variants/s9/r2y2t9k10dg12k1y1k1dy1~x4/"><circle cx="111.1" cy="139.4" r="4" fill="#3465a4"><title>Trades House</title></circle></a><a href="/variants/s10/k10lb5dp10g20k6g6db10r2db2r4~x2/"><circle cx="65.9" cy="162.6" r="4" fill="#3465a4"><title>Brotherston (Personal)</title></circle></a><a href="/variants/s8/dt4k9g20dp2dg20k5dt6lb2~x2/"><circle cx="102.9" cy="175.5" r="4" fill="#3465a4"><title>Linden</title></circle></a><circle cx="58.0" cy="177.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dr2db11k8dg8y2g8k1y2~x2~dg1806142-g2408144/

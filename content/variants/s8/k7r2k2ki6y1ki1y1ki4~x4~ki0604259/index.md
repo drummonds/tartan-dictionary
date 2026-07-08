@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Printing Industries of America"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k7r2k2ki6y1ki1y1ki4/)
 (the same proportion at any scale), whose colour order is pattern [KGKGKKRK](/stripes/kgkgkkrk/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3413
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3413](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3413)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db17o2db2o2db2k17dbi13k4~x2~db1404245-dbi1406275/"><circle cx="202.7" cy="201.9" r="4" fill="#3465a4"><title>Balmoral Hotel</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7r8ly5~x2/"><circle cx="121.9" cy="201.6" r="4" fill="#3465a4"><title>MacAllum of Berwick (Clan?)</title></circle></a><a href="/variants/s8/k8r1k1r1k4db11y1db2~x6/"><circle cx="253.1" cy="168.2" r="4" fill="#3465a4"><title>Rutherford</title></circle></a><a href="/variants/s5/r1k8dg2db4r1~x8/"><circle cx="232.7" cy="208.2" r="4" fill="#3465a4"><title>Nairn</title></circle></a><a href="/variants/s9/k12db10k3lt4k3db10k12dg12k2~x2/"><circle cx="174.6" cy="227.0" r="4" fill="#3465a4"><title>Rainford (Personal)</title></circle></a><a href="/variants/s6/r8k24db10k5db10k5~x2/"><circle cx="251.1" cy="249.1" r="4" fill="#3465a4"><title>Allen, Nicholas (Personal)</title></circle></a><a href="/variants/s8/k3r2k14lb2db6lb2db16lb3~x2/"><circle cx="193.4" cy="179.4" r="4" fill="#3465a4"><title>Immanuel Presbyterian Church (Milwaukee)</title></circle></a><a href="/variants/s7/k1db12k12b1k12db12w1~x4/"><circle cx="283.9" cy="197.0" r="4" fill="#3465a4"><title>Marchmont</title></circle></a><a href="/variants/s8/k30r3k3r3k6db32dg3db3~x2/"><circle cx="272.6" cy="160.2" r="4" fill="#3465a4"><title>Holmes (Clan?)</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7k8y5~x2/"><circle cx="151.7" cy="209.6" r="4" fill="#3465a4"><title>MacCallum of Berwick</title></circle></a><circle cx="217.3" cy="206.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db17o2db2o2db2k17dbi13k4~x2~db1404245-dbi1406275/"><circle cx="202.7" cy="202.3" r="4" fill="#3465a4"><title>Balmoral Hotel</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7r8ly5~x2/"><circle cx="122.0" cy="202.1" r="4" fill="#3465a4"><title>MacAllum of Berwick (Clan?)</title></circle></a><a href="/variants/s8/k8r1k1r1k4db11y1db2~x6/"><circle cx="253.1" cy="168.5" r="4" fill="#3465a4"><title>Rutherford</title></circle></a><a href="/variants/s5/r1k8dg2db4r1~x8/"><circle cx="232.8" cy="208.7" r="4" fill="#3465a4"><title>Nairn</title></circle></a><a href="/variants/s9/k12db10k3lt4k3db10k12dg12k2~x2/"><circle cx="174.7" cy="227.6" r="4" fill="#3465a4"><title>Rainford (Personal)</title></circle></a><a href="/variants/s6/r8k24db10k5db10k5~x2/"><circle cx="251.2" cy="249.8" r="4" fill="#3465a4"><title>Allen, Nicholas (Personal)</title></circle></a><a href="/variants/s8/k3r2k14lb2db6lb2db16lb3~x2/"><circle cx="193.4" cy="179.8" r="4" fill="#3465a4"><title>Immanuel Presbyterian Church (Milwaukee)</title></circle></a><a href="/variants/s7/k1db12k12b1k12db12w1~x4/"><circle cx="283.9" cy="197.4" r="4" fill="#3465a4"><title>Marchmont</title></circle></a><a href="/variants/s8/k30r3k3r3k6db32dg3db3~x2/"><circle cx="272.6" cy="160.5" r="4" fill="#3465a4"><title>Holmes (Clan?)</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7k8y5~x2/"><circle cx="151.7" cy="210.0" r="4" fill="#3465a4"><title>MacCallum of Berwick</title></circle></a><circle cx="217.3" cy="206.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k7r2k2ki6y1ki1y1ki4~x4~ki0604259/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wheadon (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db40g7y3g7db15r5/)
 (the same proportion at any scale), whose colour order is pattern [BGGGBR](/stripes/bgggbr/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3972
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3972](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3972)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g16db59ly4db59g16dbi9~x2~db1106275-dbi1406275/"><circle cx="460.7" cy="215.4" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56dy8/"><circle cx="352.2" cy="154.9" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s7/db120g9r7y12g33y33db26/"><circle cx="373.5" cy="176.9" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><a href="/variants/s6/r5db15g3db15y3db3~x2/"><circle cx="424.2" cy="250.6" r="4" fill="#3465a4"><title>Abertay University (Estimated threadcount)</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2/"><circle cx="400.4" cy="235.8" r="4" fill="#3465a4"><title>City of Kincardine (District)</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2~db1204274/"><circle cx="403.0" cy="234.5" r="4" fill="#3465a4"><title>City of Kincardine</title></circle></a><a href="/variants/s5/dt68t7dt16k16ly4~x2/"><circle cx="474.4" cy="179.8" r="4" fill="#3465a4"><title>Burnett's &amp; Struth (Corporate)</title></circle></a><a href="/variants/s5/r2g5db27g11o2~x2/"><circle cx="352.2" cy="200.6" r="4" fill="#3465a4"><title>Hector James</title></circle></a><a href="/variants/s6/db64g20r4g3r4g3/"><circle cx="442.5" cy="166.7" r="4" fill="#3465a4"><title>Wilson</title></circle></a><a href="/variants/s6/db48g14r3g2r3g2~x2/"><circle cx="456.2" cy="160.6" r="4" fill="#3465a4"><title>Wilson #2</title></circle></a><circle cx="441.8" cy="196.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g16db59ly4db59g16dbi9~x2~db1106275-dbi1406275/"><circle cx="460.8" cy="215.8" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56dy8/"><circle cx="352.2" cy="155.1" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s7/db120g9r7y12g33y33db26/"><circle cx="373.5" cy="177.2" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><a href="/variants/s6/r5db15g3db15y3db3~x2/"><circle cx="424.3" cy="251.1" r="4" fill="#3465a4"><title>Abertay University (Estimated threadcount)</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2/"><circle cx="400.5" cy="236.4" r="4" fill="#3465a4"><title>City of Kincardine (District)</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2~db1204274/"><circle cx="403.1" cy="235.0" r="4" fill="#3465a4"><title>City of Kincardine</title></circle></a><a href="/variants/s5/dt68t7dt16k16ly4~x2/"><circle cx="474.4" cy="180.1" r="4" fill="#3465a4"><title>Burnett's &amp; Struth (Corporate)</title></circle></a><a href="/variants/s5/r2g5db27g11o2~x2/"><circle cx="352.2" cy="201.0" r="4" fill="#3465a4"><title>Hector James</title></circle></a><a href="/variants/s6/db64g20r4g3r4g3/"><circle cx="442.5" cy="167.0" r="4" fill="#3465a4"><title>Wilson</title></circle></a><a href="/variants/s6/db48g14r3g2r3g2~x2/"><circle cx="456.2" cy="160.8" r="4" fill="#3465a4"><title>Wilson #2</title></circle></a><circle cx="441.9" cy="196.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db40g7y3g7db15r5~x2/

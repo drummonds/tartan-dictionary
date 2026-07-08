@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Harbor Club"
   url: "/tartans/harbor-club/"
+- name: "Harbor Club (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r47dg14k5y2k3dg7/)
 (the same proportion at any scale), whose colour order is pattern [GKGKGKGKGR](/stripes/gkgkgkgkgr/).
@@ -14,7 +16,7 @@ Part of the [Harbor Club](/tartans/harbor-club/) tartan — the named design gro
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6469
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6469](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6469)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g4r2k2r20lb1k7r2g10r3k2~x2/"><circle cx="250.7" cy="119.5" r="4" fill="#3465a4"><title>MacKillop (Scottish Tartan Society)</title></circle></a><a href="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/"><circle cx="280.0" cy="74.7" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s11/k9o2k2ri2o18ri2k2r1k20ri33r2~x2~o2500000-ri2109032/"><circle cx="221.5" cy="87.0" r="4" fill="#3465a4"><title>Pride of Scotland, Silver (Fashion)</title></circle></a><a href="/variants/s11/db6k3r2k3r31k6dy2k6dy13k2dy2~x2/"><circle cx="216.2" cy="117.3" r="4" fill="#3465a4"><title>Rourke-Frew (Ontario)</title></circle></a><a href="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/"><circle cx="253.1" cy="99.9" r="4" fill="#3465a4"><title>Motherwell F.C. Fir Park Dress (Spor</title></circle></a><a href="/variants/s10/g4r4k2r20lb1k7r2g10r3k2~x2/"><circle cx="257.9" cy="122.7" r="4" fill="#3465a4"><title>MacKillop</title></circle></a><a href="/variants/s9/r34db4r1db4g2k3g1k3g22~x2/"><circle cx="283.5" cy="96.8" r="4" fill="#3465a4"><title>Queen of Scots</title></circle></a><a href="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/"><circle cx="250.0" cy="80.2" r="4" fill="#3465a4"><title>Sens</title></circle></a><a href="/variants/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/"><circle cx="248.7" cy="80.4" r="4" fill="#3465a4"><title>Sens (Corporate)</title></circle></a><a href="/variants/s11/k9r1g1k3g20r5k3r20k5r3y2~x2/"><circle cx="192.0" cy="120.5" r="4" fill="#3465a4"><title>Army Cadet Force (Military)</title></circle></a><circle cx="266.3" cy="107.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g4r2k2r20lb1k7r2g10r3k2~x2/"><circle cx="250.7" cy="119.8" r="4" fill="#3465a4"><title>MacKillop (Scottish Tartan Society)</title></circle></a><a href="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/"><circle cx="279.9" cy="74.9" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s11/k9o2k2ri2o18ri2k2r1k20ri33r2~x2~o2500000-ri2109032/"><circle cx="221.4" cy="87.2" r="4" fill="#3465a4"><title>Pride of Scotland, Silver (Fashion)</title></circle></a><a href="/variants/s11/db6k3r2k3r31k6dy2k6dy13k2dy2~x2/"><circle cx="216.1" cy="117.6" r="4" fill="#3465a4"><title>Rourke-Frew (Ontario)</title></circle></a><a href="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/"><circle cx="253.0" cy="100.2" r="4" fill="#3465a4"><title>Motherwell F.C. Fir Park Dress (Spor</title></circle></a><a href="/variants/s10/g4r4k2r20lb1k7r2g10r3k2~x2/"><circle cx="257.9" cy="123.1" r="4" fill="#3465a4"><title>MacKillop</title></circle></a><a href="/variants/s9/r34db4r1db4g2k3g1k3g22~x2/"><circle cx="283.4" cy="97.0" r="4" fill="#3465a4"><title>Queen of Scots</title></circle></a><a href="/variants/s10/r26w2y1k3y4r8k32w1k1w3~x2/"><circle cx="249.9" cy="80.4" r="4" fill="#3465a4"><title>Sens</title></circle></a><a href="/variants/s10/r26w2ly1k3ly4r8k32w1k1w3~x2/"><circle cx="248.6" cy="80.7" r="4" fill="#3465a4"><title>Sens (Corporate)</title></circle></a><a href="/variants/s11/k9r1g1k3g20r5k3r20k5r3y2~x2/"><circle cx="192.0" cy="120.8" r="4" fill="#3465a4"><title>Army Cadet Force (Military)</title></circle></a><circle cx="266.2" cy="107.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r47dg14k5y2k3dg7~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Daniel"
   url: "/tartans/daniel/"
+- name: "Daniel Welsh Name Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k5db26k2db4k2db26k3lr36k3dbi30k3t2/)
 (the same proportion at any scale), whose colour order is pattern [BKBKYKBKBKBK](/stripes/bkbkykbkbkbk/).
@@ -14,7 +16,7 @@ Part of the [Daniel](/tartans/daniel/) tartan — the named design grouping this
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8353
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8353](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8353)
 
 ## Provenance
 
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k5dbi26k2dbi4k2dbi26k3lr36k3db30k3t2~k0700000-dbi0806265-lr2800000-t2503227/"><circle cx="194.6" cy="126.5" r="4" fill="#3465a4"><title>Daniel (Welsh Name)</title></circle></a><a href="/variants/s11/dp4db2g2dp2g12dp2k2dp1k10db25w2~x2/"><circle cx="204.8" cy="104.0" r="4" fill="#3465a4"><title>O'Reilly Irish Fashion Tartan</title></circle></a><a href="/variants/s10/r7db2b5db2k24db2b10db28b10w3~x2/"><circle cx="154.1" cy="142.6" r="4" fill="#3465a4"><title>Colgan, USA, Robert James</title></circle></a><a href="/variants/s11/dr1db1dr8lb1k2db16k2lb1g8db1g1~x4/"><circle cx="209.2" cy="123.3" r="4" fill="#3465a4"><title>MacMichael</title></circle></a><a href="/variants/s11/k3b6k4dr6b18db53b18k8b6k3lo2~x2~b2603265/"><circle cx="229.3" cy="100.0" r="4" fill="#3465a4"><title>Australia 2000</title></circle></a><a href="/variants/s11/db4k2db20k13y1k2y2k2y1b23n4~x2/"><circle cx="171.5" cy="111.9" r="4" fill="#3465a4"><title>Michigan State Police (Corporate)</title></circle></a><a href="/variants/s11/r3b16k12db34k12b2k2b2k2b7r3~x2/"><circle cx="194.0" cy="138.3" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2dy3~x2/"><circle cx="184.0" cy="135.4" r="4" fill="#3465a4"><title>Forth</title></circle></a><a href="/variants/s12/t33db3t7db3t33r2k22g3dbi49g3k22r2~x2~db1106275-dbi1406275/"><circle cx="167.9" cy="97.6" r="4" fill="#3465a4"><title>U.S. 2001 Air Force</title></circle></a><a href="/variants/s8/k17lb2k3db16t28db2t3lo2~x2~lb3300000-t2204245/"><circle cx="192.9" cy="147.8" r="4" fill="#3465a4"><title>Banff and Buchan</title></circle></a><circle cx="178.3" cy="120.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k5dbi26k2dbi4k2dbi26k3lr36k3db30k3t2~k0700000-dbi0806265-lr2800000-t2503227/"><circle cx="194.5" cy="126.6" r="4" fill="#3465a4"><title>Daniel (Welsh Name)</title></circle></a><a href="/variants/s11/dp4db2g2dp2g12dp2k2dp1k10db25w2~x2/"><circle cx="204.7" cy="104.1" r="4" fill="#3465a4"><title>O'Reilly Irish Fashion Tartan</title></circle></a><a href="/variants/s10/r7db2b5db2k24db2b10db28b10w3~x2/"><circle cx="154.0" cy="142.9" r="4" fill="#3465a4"><title>Colgan, USA, Robert James</title></circle></a><a href="/variants/s11/dr1db1dr8lb1k2db16k2lb1g8db1g1~x4/"><circle cx="209.1" cy="123.5" r="4" fill="#3465a4"><title>MacMichael</title></circle></a><a href="/variants/s11/k3b6k4dr6b18db53b18k8b6k3lo2~x2~b2603265/"><circle cx="229.2" cy="100.2" r="4" fill="#3465a4"><title>Australia 2000</title></circle></a><a href="/variants/s11/db4k2db20k13y1k2y2k2y1b23n4~x2/"><circle cx="171.4" cy="112.0" r="4" fill="#3465a4"><title>Michigan State Police (Corporate)</title></circle></a><a href="/variants/s11/r3b16k12db34k12b2k2b2k2b7r3~x2/"><circle cx="193.9" cy="138.6" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/variants/s11/db4k3db23k9g2lb2g2lb2g8k2dy3~x2/"><circle cx="184.0" cy="135.6" r="4" fill="#3465a4"><title>Forth</title></circle></a><a href="/variants/s12/t33db3t7db3t33r2k22g3dbi49g3k22r2~x2~db1106275-dbi1406275/"><circle cx="167.8" cy="97.7" r="4" fill="#3465a4"><title>U.S. 2001 Air Force</title></circle></a><a href="/variants/s8/k17lb2k3db16t28db2t3lo2~x2~lb3300000-t2204245/"><circle cx="192.8" cy="148.0" r="4" fill="#3465a4"><title>Banff and Buchan</title></circle></a><circle cx="178.2" cy="121.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k5db26k2db4k2db26k3lr36k3dbi30k3t2~db0806265-lr2800000-dbi1404245-t2503227/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sandberg"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3k12g4db12r1k2r1/)
 (the same proportion at any scale), whose colour order is pattern [RKGBRKR](/stripes/rkgbrkr/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3649
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3649](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3649)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k2w1k12g5db11r1~x2/"><circle cx="181.6" cy="169.0" r="4" fill="#3465a4"><title>New England (Fashion)</title></circle></a><a href="/variants/s8/k6r4k19g4db25r5g3y2~x2/"><circle cx="155.4" cy="149.8" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s8/k6r4k19dg4db25r5dg3y2~x2/"><circle cx="170.2" cy="153.6" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s8/y3k12db1g5db12r1k2r1~x4/"><circle cx="157.2" cy="152.6" r="4" fill="#3465a4"><title>Sandberg of Greenock (Personal)</title></circle></a><a href="/variants/s6/db37n18k37r2k2r2~x2~db1204274/"><circle cx="238.9" cy="165.5" r="4" fill="#3465a4"><title>Hakkarain Personal Finnish Tartan</title></circle></a><a href="/variants/s7/r4k4db24k24g24k2r3~x2/"><circle cx="151.5" cy="179.5" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><a href="/variants/s7/lp10dp9n59dp9k59dp9lp5/"><circle cx="184.8" cy="168.7" r="4" fill="#3465a4"><title>Central Newcastle School</title></circle></a><a href="/variants/s9/db28k3db6k3db6k20o28k3w6~x2/"><circle cx="155.7" cy="170.4" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s9/db28k3db6k3db6k20dy28k3w6~x2/"><circle cx="180.2" cy="181.4" r="4" fill="#3465a4"><title>Forbes #5</title></circle></a><a href="/variants/s7/r3k2db25k28g25k2r3~x2/"><circle cx="167.5" cy="167.4" r="4" fill="#3465a4"><title>Coarse Kilt</title></circle></a><circle cx="184.1" cy="171.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k2w1k12g5db11r1~x2/"><circle cx="181.5" cy="169.3" r="4" fill="#3465a4"><title>New England (Fashion)</title></circle></a><a href="/variants/s8/k6r4k19g4db25r5g3y2~x2/"><circle cx="155.4" cy="150.1" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s8/k6r4k19dg4db25r5dg3y2~x2/"><circle cx="170.1" cy="153.9" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s8/y3k12db1g5db12r1k2r1~x4/"><circle cx="157.2" cy="152.9" r="4" fill="#3465a4"><title>Sandberg of Greenock (Personal)</title></circle></a><a href="/variants/s6/db37n18k37r2k2r2~x2~db1204274/"><circle cx="238.8" cy="165.8" r="4" fill="#3465a4"><title>Hakkarain Personal Finnish Tartan</title></circle></a><a href="/variants/s7/r4k4db24k24g24k2r3~x2/"><circle cx="151.5" cy="179.9" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><a href="/variants/s7/lp10dp9n59dp9k59dp9lp5/"><circle cx="184.8" cy="169.1" r="4" fill="#3465a4"><title>Central Newcastle School</title></circle></a><a href="/variants/s9/db28k3db6k3db6k20o28k3w6~x2/"><circle cx="155.7" cy="170.8" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s9/db28k3db6k3db6k20dy28k3w6~x2/"><circle cx="180.2" cy="181.7" r="4" fill="#3465a4"><title>Forbes #5</title></circle></a><a href="/variants/s7/r3k2db25k28g25k2r3~x2/"><circle cx="167.5" cy="167.8" r="4" fill="#3465a4"><title>Coarse Kilt</title></circle></a><circle cx="184.1" cy="171.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r3k12g4db12r1k2r1~x4/

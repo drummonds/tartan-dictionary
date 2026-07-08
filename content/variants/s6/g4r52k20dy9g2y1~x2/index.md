@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Jack, John (Fife) (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4r52k20dy9g2y1/)
 (the same proportion at any scale), whose colour order is pattern [GGGKRG](/stripes/gggkrg/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10719
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10719](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10719)
 
 ## Provenance
 
@@ -68,8 +70,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r60k40y3o5lp3dg12~x2/"><circle cx="220.0" cy="107.9" r="4" fill="#3465a4"><title>Rei Okamoto (Personal)</title></circle></a><a href="/variants/s6/r60k40y3o5p3dg12~x2/"><circle cx="221.8" cy="108.1" r="4" fill="#3465a4"><title>Rei Okamoto (Personal)</title></circle></a><a href="/variants/s5/r50k25dg10n5ly2~x2/"><circle cx="272.2" cy="127.7" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s5/r50k25g10n5y2~x2/"><circle cx="269.0" cy="127.4" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s8/y3g9db9k1y2k15r37g2~x2/"><circle cx="234.0" cy="86.4" r="4" fill="#3465a4"><title>Mensah</title></circle></a><a href="/variants/s6/r4k2dg28r38k1ly4~x2/"><circle cx="348.3" cy="116.4" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/variants/s6/r60k2w3dg20r10dg20~x2/"><circle cx="380.1" cy="131.4" r="4" fill="#3465a4"><title>Greig (Personal)</title></circle></a><a href="/variants/s8/o5k1r2k4r36k23w4y2~x2/"><circle cx="258.6" cy="73.3" r="4" fill="#3465a4"><title>Aberdeen Football Club (1999)</title></circle></a><a href="/variants/s6/r57dg21r8dg8k1w3~x2/"><circle cx="440.7" cy="103.1" r="4" fill="#3465a4"><title>MacGregor - 1800 (Clan)</title></circle></a><a href="/variants/s6/r40t8r6g24lb1k4~x2/"><circle cx="323.8" cy="116.2" r="4" fill="#3465a4"><title>MacPhail (Blue Bands)</title></circle></a><circle cx="331.6" cy="76.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r60k40y3o5lp3dg12~x2/"><circle cx="219.9" cy="108.2" r="4" fill="#3465a4"><title>Rei Okamoto (Personal)</title></circle></a><a href="/variants/s6/r60k40y3o5p3dg12~x2/"><circle cx="221.8" cy="108.4" r="4" fill="#3465a4"><title>Rei Okamoto (Personal)</title></circle></a><a href="/variants/s5/r50k25dg10n5ly2~x2/"><circle cx="272.2" cy="128.1" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s5/r50k25g10n5y2~x2/"><circle cx="269.0" cy="127.8" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s8/y3g9db9k1y2k15r37g2~x2/"><circle cx="233.9" cy="86.6" r="4" fill="#3465a4"><title>Mensah</title></circle></a><a href="/variants/s6/r4k2dg28r38k1ly4~x2/"><circle cx="348.3" cy="116.7" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/variants/s6/r60k2w3dg20r10dg20~x2/"><circle cx="380.1" cy="131.8" r="4" fill="#3465a4"><title>Greig (Personal)</title></circle></a><a href="/variants/s8/o5k1r2k4r36k23w4y2~x2/"><circle cx="258.4" cy="73.6" r="4" fill="#3465a4"><title>Aberdeen Football Club (1999)</title></circle></a><a href="/variants/s6/r57dg21r8dg8k1w3~x2/"><circle cx="440.7" cy="103.3" r="4" fill="#3465a4"><title>MacGregor - 1800 (Clan)</title></circle></a><a href="/variants/s6/r40t8r6g24lb1k4~x2/"><circle cx="323.7" cy="116.5" r="4" fill="#3465a4"><title>MacPhail (Blue Bands)</title></circle></a><circle cx="331.5" cy="77.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g4r52k20dy9g2y1~x2/

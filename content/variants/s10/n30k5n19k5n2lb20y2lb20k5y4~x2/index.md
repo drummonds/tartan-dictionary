@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sonsub"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n30k5n19k5n2lb20y2lb20k5y4/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBWGWKG](/stripes/bkbkbwgwkg/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3837
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3837](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3837)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lb12r6lb60n16k23n22lb6k6lb6n8r6n8~x2/"><circle cx="201.5" cy="154.0" r="4" fill="#3465a4"><title>Balmoral Variant (Corporate)</title></circle></a><a href="/variants/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2~lr2800000-lb3103284/"><circle cx="209.7" cy="168.7" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/variants/s7/lb35k23w18dr3w18k2w3~x2/"><circle cx="178.5" cy="151.3" r="4" fill="#3465a4"><title>Ferguson Dress Blue (Dance)</title></circle></a><a href="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="162.1" cy="135.6" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/variants/s12/t4r3k3r6k8t10w8k12w8t24k2t2~x2/"><circle cx="150.8" cy="156.6" r="4" fill="#3465a4"><title>Trillard (Personal)</title></circle></a><a href="/variants/s7/o19k2w4k2n5k2n5~x2~o2500000-n1900000/"><circle cx="218.7" cy="174.9" r="4" fill="#3465a4"><title>Kyle Tartan</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2n23w2~x2/"><circle cx="193.8" cy="149.6" r="4" fill="#3465a4"><title>Virtuoso (Corporate)</title></circle></a><a href="/variants/s11/y5lb36n5lb5n56k5n8k5n5k34y5/"><circle cx="190.3" cy="142.5" r="4" fill="#3465a4"><title>Chartered Institute of Bankers in Scotland</title></circle></a><a href="/variants/s14/w3k1n15k6n5k3n8k2n5y3w2y4k1w3~x2/"><circle cx="223.1" cy="145.1" r="4" fill="#3465a4"><title>Avalon - Washington House</title></circle></a><a href="/variants/s10/r4t18r4lb3r4k12r3t24k2ly3~x2/"><circle cx="220.2" cy="140.4" r="4" fill="#3465a4"><title>Keogh (Name)</title></circle></a><circle cx="216.4" cy="160.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lb12r6lb60n16k23n22lb6k6lb6n8r6n8~x2/"><circle cx="201.6" cy="154.5" r="4" fill="#3465a4"><title>Balmoral Variant (Corporate)</title></circle></a><a href="/variants/s12/lr3dg18k4lb12dg2lb3dg2lb3dg2lb12lr4lb3~x2~lr2800000-lb3103284/"><circle cx="209.7" cy="169.2" r="4" fill="#3465a4"><title>Breifne</title></circle></a><a href="/variants/s7/lb35k23w18dr3w18k2w3~x2/"><circle cx="178.5" cy="151.8" r="4" fill="#3465a4"><title>Ferguson Dress Blue (Dance)</title></circle></a><a href="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="162.1" cy="136.1" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/variants/s12/t4r3k3r6k8t10w8k12w8t24k2t2~x2/"><circle cx="150.8" cy="157.1" r="4" fill="#3465a4"><title>Trillard (Personal)</title></circle></a><a href="/variants/s7/o19k2w4k2n5k2n5~x2~o2500000-n1900000/"><circle cx="218.7" cy="175.4" r="4" fill="#3465a4"><title>Kyle Tartan</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2n23w2~x2/"><circle cx="193.8" cy="150.0" r="4" fill="#3465a4"><title>Virtuoso (Corporate)</title></circle></a><a href="/variants/s11/y5lb36n5lb5n56k5n8k5n5k34y5/"><circle cx="190.3" cy="142.9" r="4" fill="#3465a4"><title>Chartered Institute of Bankers in Scotland</title></circle></a><a href="/variants/s14/w3k1n15k6n5k3n8k2n5y3w2y4k1w3~x2/"><circle cx="223.1" cy="145.5" r="4" fill="#3465a4"><title>Avalon - Washington House</title></circle></a><a href="/variants/s10/r4t18r4lb3r4k12r3t24k2ly3~x2/"><circle cx="220.2" cy="140.8" r="4" fill="#3465a4"><title>Keogh (Name)</title></circle></a><circle cx="216.4" cy="160.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/n30k5n19k5n2lb20y2lb20k5y4~x2/

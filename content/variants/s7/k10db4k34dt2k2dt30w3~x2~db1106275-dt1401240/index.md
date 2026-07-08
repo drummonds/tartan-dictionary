@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Patriot, The (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k10db4k34dt2k2dt30w3/)
 (the same proportion at any scale), whose colour order is pattern [KBKBKBW](/stripes/kbkbkbw/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7343
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7343](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7343)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="305.1" cy="142.5" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/variants/s8/r6k55db8g6db10g6db6g4~x2/"><circle cx="272.0" cy="135.3" r="4" fill="#3465a4"><title>Frederiction Police Force</title></circle></a><a href="/variants/s6/k43dg8k8db21dg10w2~x2/"><circle cx="313.0" cy="167.9" r="4" fill="#3465a4"><title>Longmuir (2014)</title></circle></a><a href="/variants/s7/dr12lo6k88db45k6db6y6/"><circle cx="295.8" cy="136.1" r="4" fill="#3465a4"><title>City of Rome Pipe Band (Corporate)</title></circle></a><a href="/variants/s7/dr12lo6k88db45k6db6y6~db1406275/"><circle cx="290.9" cy="133.5" r="4" fill="#3465a4"><title>City of Rome Pipe Band</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="304.4" cy="152.6" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><a href="/variants/s6/k1ly2k3db12k18w1~x2/"><circle cx="322.6" cy="151.0" r="4" fill="#3465a4"><title>Jon's Theme (Fashion)</title></circle></a><a href="/variants/s5/r4k2dg28k39ly4~x2/"><circle cx="299.8" cy="163.2" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/variants/s8/n15k14t1y2t1k14n15k2~x4~n1802249-t2503227/"><circle cx="261.8" cy="173.0" r="4" fill="#3465a4"><title>South African Air Force</title></circle></a><a href="/variants/s6/k4dr2k12db12k1lo2~x2/"><circle cx="270.7" cy="187.7" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><circle cx="309.9" cy="153.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="305.1" cy="142.7" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/variants/s8/r6k55db8g6db10g6db6g4~x2/"><circle cx="271.9" cy="135.6" r="4" fill="#3465a4"><title>Frederiction Police Force</title></circle></a><a href="/variants/s6/k43dg8k8db21dg10w2~x2/"><circle cx="313.0" cy="168.1" r="4" fill="#3465a4"><title>Longmuir (2014)</title></circle></a><a href="/variants/s7/dr12lo6k88db45k6db6y6/"><circle cx="295.7" cy="136.3" r="4" fill="#3465a4"><title>City of Rome Pipe Band (Corporate)</title></circle></a><a href="/variants/s7/dr12lo6k88db45k6db6y6~db1406275/"><circle cx="290.8" cy="133.7" r="4" fill="#3465a4"><title>City of Rome Pipe Band</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="304.4" cy="153.0" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><a href="/variants/s6/k1ly2k3db12k18w1~x2/"><circle cx="322.5" cy="151.4" r="4" fill="#3465a4"><title>Jon's Theme (Fashion)</title></circle></a><a href="/variants/s5/r4k2dg28k39ly4~x2/"><circle cx="299.8" cy="163.5" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/variants/s8/n15k14t1y2t1k14n15k2~x4~n1802249-t2503227/"><circle cx="261.8" cy="173.4" r="4" fill="#3465a4"><title>South African Air Force</title></circle></a><a href="/variants/s6/k4dr2k12db12k1lo2~x2/"><circle cx="270.7" cy="188.1" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><circle cx="309.8" cy="154.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/

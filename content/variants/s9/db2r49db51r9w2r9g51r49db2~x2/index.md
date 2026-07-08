@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified #20"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2r49db51r9w2r9g51r49db2/)
 (the same proportion at any scale), whose colour order is pattern [BRBRWRGRB](/stripes/brbrwrgrb/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4221
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4221](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4221)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/"><circle cx="300.6" cy="105.2" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="319.4" cy="136.2" r="4" fill="#3465a4"><title>Carrick (Clan)</title></circle></a><a href="/variants/s9/r28db12r3g20m1g2m1g2r7~x2/"><circle cx="321.1" cy="136.4" r="4" fill="#3465a4"><title>Carrick</title></circle></a><a href="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/"><circle cx="255.2" cy="167.4" r="4" fill="#3465a4"><title>Glenaladale</title></circle></a><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><circle cx="291.8" cy="158.7" r="4" fill="#3465a4"><title>Harkness</title></circle></a><a href="/variants/s11/dg4g8db6dg8r6g2r2g2r24g1r3/"><circle cx="319.0" cy="139.4" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/variants/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="303.8" cy="154.5" r="4" fill="#3465a4"><title>Jenkins (Name)</title></circle></a><a href="/variants/s6/r2db12r2g12r24w1~x2/"><circle cx="321.5" cy="165.5" r="4" fill="#3465a4"><title>Fraser (1745)</title></circle></a><a href="/variants/s11/dp4g8db6dp8r6g2r2g2r24g1r3~x2/"><circle cx="324.7" cy="137.7" r="4" fill="#3465a4"><title>MacDougall</title></circle></a><a href="/variants/s10/g2r2db1r24w1db6r3g12r4db1/"><circle cx="369.1" cy="125.4" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><circle cx="310.1" cy="150.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/"><circle cx="300.6" cy="105.4" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="319.4" cy="136.4" r="4" fill="#3465a4"><title>Carrick (Clan)</title></circle></a><a href="/variants/s9/r28db12r3g20m1g2m1g2r7~x2/"><circle cx="321.1" cy="136.7" r="4" fill="#3465a4"><title>Carrick</title></circle></a><a href="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/"><circle cx="255.2" cy="167.9" r="4" fill="#3465a4"><title>Glenaladale</title></circle></a><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><circle cx="291.8" cy="159.1" r="4" fill="#3465a4"><title>Harkness</title></circle></a><a href="/variants/s11/dg4g8db6dg8r6g2r2g2r24g1r3/"><circle cx="319.0" cy="139.7" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/variants/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="303.8" cy="154.9" r="4" fill="#3465a4"><title>Jenkins (Name)</title></circle></a><a href="/variants/s6/r2db12r2g12r24w1~x2/"><circle cx="321.6" cy="165.9" r="4" fill="#3465a4"><title>Fraser (1745)</title></circle></a><a href="/variants/s11/dp4g8db6dp8r6g2r2g2r24g1r3~x2/"><circle cx="324.7" cy="138.0" r="4" fill="#3465a4"><title>MacDougall</title></circle></a><a href="/variants/s10/g2r2db1r24w1db6r3g12r4db1/"><circle cx="369.1" cy="125.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><circle cx="310.1" cy="150.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db2r49db51r9w2r9g51r49db2~x2/

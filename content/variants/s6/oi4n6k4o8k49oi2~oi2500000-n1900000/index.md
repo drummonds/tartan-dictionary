@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harley Davidson (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/oi4n6k4o8k49oi2/)
 (the same proportion at any scale), whose colour order is pattern [RBKRKR](/stripes/rbkrkr/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5816
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5816](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5816)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="389.1" cy="173.2" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/variants/s6/k83g4r4g10k1w3~x2/"><circle cx="501.7" cy="72.3" r="4" fill="#3465a4"><title>Perratt (Personal)</title></circle></a><a href="/variants/s6/k10lb2w5lb4k50t2~x2/"><circle cx="477.4" cy="107.3" r="4" fill="#3465a4"><title>London Fog Black</title></circle></a><a href="/variants/s5/k50db6r6n6w3~x2/"><circle cx="366.3" cy="127.9" r="4" fill="#3465a4"><title>Friends of Nordegg (Corporate)</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="417.7" cy="130.3" r="4" fill="#3465a4"><title>Perry Dress (Personal)</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="425.2" cy="154.4" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s5/k65g27w2k4y5~x2/"><circle cx="375.8" cy="124.6" r="4" fill="#3465a4"><title>Perry, hunting (Green)</title></circle></a><a href="/variants/s7/n3k31w6k8n3k12w2~x2/"><circle cx="427.1" cy="155.8" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s5/k65r27w2k4y5~x2/"><circle cx="381.6" cy="115.4" r="4" fill="#3465a4"><title>Perry, Ancient</title></circle></a><a href="/variants/s5/k75r26w2k4y5~x2/"><circle cx="413.3" cy="106.1" r="4" fill="#3465a4"><title>Perry / Pirrie (Personal)</title></circle></a><circle cx="412.3" cy="112.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="389.1" cy="173.7" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/variants/s6/k83g4r4g10k1w3~x2/"><circle cx="501.6" cy="72.5" r="4" fill="#3465a4"><title>Perratt (Personal)</title></circle></a><a href="/variants/s6/k10lb2w5lb4k50t2~x2/"><circle cx="477.3" cy="107.6" r="4" fill="#3465a4"><title>London Fog Black</title></circle></a><a href="/variants/s5/k50db6r6n6w3~x2/"><circle cx="366.2" cy="128.2" r="4" fill="#3465a4"><title>Friends of Nordegg (Corporate)</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="417.6" cy="130.5" r="4" fill="#3465a4"><title>Perry Dress (Personal)</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="425.2" cy="154.9" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s5/k65g27w2k4y5~x2/"><circle cx="375.7" cy="124.9" r="4" fill="#3465a4"><title>Perry, hunting (Green)</title></circle></a><a href="/variants/s7/n3k31w6k8n3k12w2~x2/"><circle cx="427.0" cy="156.2" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s5/k65r27w2k4y5~x2/"><circle cx="381.5" cy="115.7" r="4" fill="#3465a4"><title>Perry, Ancient</title></circle></a><a href="/variants/s5/k75r26w2k4y5~x2/"><circle cx="413.2" cy="106.3" r="4" fill="#3465a4"><title>Perry / Pirrie (Personal)</title></circle></a><circle cx="412.2" cy="112.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Madewell Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2k2w16dg13g6y2k2w2/)
 (the same proportion at any scale), whose colour order is pattern [RKWGGGKW](/stripes/rkwgggkw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2782
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2782](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2782)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w4k2w18k11db2g18ly2~x2/"><circle cx="121.2" cy="177.7" r="4" fill="#3465a4"><title>Barbour - Ancient</title></circle></a><a href="/variants/s10/y6k2g12r4g8k10w24t2w3t2~x2/"><circle cx="87.4" cy="134.4" r="4" fill="#3465a4"><title>Gillies Dress, Green (Dance)</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="134.3" cy="167.5" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="53.8" cy="165.9" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s10/y6k2g15r6g8k12w25lb2w3lb2~x2/"><circle cx="77.3" cy="134.6" r="4" fill="#3465a4"><title>Gillies, dress Green</title></circle></a><a href="/variants/s9/k3r3g21r8ri3r3k3lb25w3~x2~r2109032-ri2806019/"><circle cx="104.2" cy="144.4" r="4" fill="#3465a4"><title>Dunedin (USA)</title></circle></a><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><circle cx="145.5" cy="127.9" r="4" fill="#3465a4"><title>Mission (District)</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="144.4" cy="125.0" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/"><circle cx="106.1" cy="142.7" r="4" fill="#3465a4"><title>Kintyre (Fashion)</title></circle></a><a href="/variants/s11/dr1o6ly2w1k8w1ly2w9k1w4dy1~x4~o2500000/"><circle cx="106.4" cy="143.0" r="4" fill="#3465a4"><title>Kintyre</title></circle></a><circle cx="99.0" cy="151.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w4k2w18k11db2g18ly2~x2/"><circle cx="121.2" cy="178.3" r="4" fill="#3465a4"><title>Barbour - Ancient</title></circle></a><a href="/variants/s10/y6k2g12r4g8k10w24t2w3t2~x2/"><circle cx="87.4" cy="134.8" r="4" fill="#3465a4"><title>Gillies Dress, Green (Dance)</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="134.4" cy="168.0" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="53.8" cy="166.4" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s10/y6k2g15r6g8k12w25lb2w3lb2~x2/"><circle cx="77.3" cy="135.0" r="4" fill="#3465a4"><title>Gillies, dress Green</title></circle></a><a href="/variants/s9/k3r3g21r8ri3r3k3lb25w3~x2~r2109032-ri2806019/"><circle cx="104.2" cy="144.8" r="4" fill="#3465a4"><title>Dunedin (USA)</title></circle></a><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><circle cx="145.5" cy="128.3" r="4" fill="#3465a4"><title>Mission (District)</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="144.4" cy="125.3" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/"><circle cx="106.1" cy="143.1" r="4" fill="#3465a4"><title>Kintyre (Fashion)</title></circle></a><a href="/variants/s11/dr1o6ly2w1k8w1ly2w9k1w4dy1~x4~o2500000/"><circle cx="106.4" cy="143.4" r="4" fill="#3465a4"><title>Kintyre</title></circle></a><circle cx="99.0" cy="151.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r2k2w16dg13g6y2k2w2~x2/

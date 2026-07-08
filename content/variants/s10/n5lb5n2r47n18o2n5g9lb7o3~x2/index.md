@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Rikaco"
   url: "/tartans/rikaco/"
+- name: "Rikaco Red"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n5lb5n2r47n18o2n5g9lb7o3/)
 (the same proportion at any scale), whose colour order is pattern [BWBRBRBGWR](/stripes/bwbrbrbgwr/).
@@ -14,7 +16,7 @@ Part of the [Rikaco](/tartans/rikaco/) tartan — the named design grouping this
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10224
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10224](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10224)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n5lb5n2r47n18lr2n5g9lb7lr3~x2/"><circle cx="326.7" cy="134.5" r="4" fill="#3465a4"><title>Rikaco Red (Fashion)</title></circle></a><a href="/variants/s10/n22r2w1lo3r1n6r22lo3r1lr10~x4/"><circle cx="305.6" cy="148.4" r="4" fill="#3465a4"><title>Glenburnie School</title></circle></a><a href="/variants/s8/r26n4r1dp2g1n4g14lb2~x2/"><circle cx="342.8" cy="136.3" r="4" fill="#3465a4"><title>Redpath, Robert A (Personal)</title></circle></a><a href="/variants/s8/lr3lb3lr1y25lr15r5lb4dy2~x2/"><circle cx="321.0" cy="159.4" r="4" fill="#3465a4"><title>Rikaco Morning Dew #2</title></circle></a><a href="/variants/s13/g3t4g3t4g3r28dy2t2ri28t6ri9dy2t2~x2~r1807033-ri2109013/"><circle cx="281.5" cy="149.5" r="4" fill="#3465a4"><title>Pitcairn Heritage (Name)</title></circle></a><a href="/variants/s10/r2lo14o14dr1r2dr2t2dr2r20t2~x4/"><circle cx="294.0" cy="154.2" r="4" fill="#3465a4"><title>Star Is Born, A</title></circle></a><a href="/variants/s7/r3ly2r18db8w1o18r2~x2/"><circle cx="298.6" cy="168.7" r="4" fill="#3465a4"><title>Barbour - Cardinal Red</title></circle></a><a href="/variants/s12/o3n20r1n4r2n2r4n2r5g2dr20w3~x2~o2500000-n1900000/"><circle cx="260.4" cy="125.4" r="4" fill="#3465a4"><title>Ryutokukan High School (Corporate)</title></circle></a><a href="/variants/s12/dy21r2w1ly3r2dy5r21ly1y1ly1r1dy8~x2~dy1603076-ly3307090/"><circle cx="361.5" cy="123.6" r="4" fill="#3465a4"><title>Glendronach Corporate Tartan</title></circle></a><a href="/variants/s10/r4n4dt2n24lb1dt14n2r18n4dt3~x4/"><circle cx="348.3" cy="171.0" r="4" fill="#3465a4"><title>Marshall</title></circle></a><circle cx="335.8" cy="137.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n5lb5n2r47n18lr2n5g9lb7lr3~x2/"><circle cx="326.7" cy="134.7" r="4" fill="#3465a4"><title>Rikaco Red (Fashion)</title></circle></a><a href="/variants/s10/n22r2w1lo3r1n6r22lo3r1lr10~x4/"><circle cx="305.6" cy="148.5" r="4" fill="#3465a4"><title>Glenburnie School</title></circle></a><a href="/variants/s8/r26n4r1dp2g1n4g14lb2~x2/"><circle cx="342.8" cy="136.4" r="4" fill="#3465a4"><title>Redpath, Robert A (Personal)</title></circle></a><a href="/variants/s8/lr3lb3lr1y25lr15r5lb4dy2~x2/"><circle cx="321.0" cy="159.6" r="4" fill="#3465a4"><title>Rikaco Morning Dew #2</title></circle></a><a href="/variants/s13/g3t4g3t4g3r28dy2t2ri28t6ri9dy2t2~x2~r1807033-ri2109013/"><circle cx="281.5" cy="149.6" r="4" fill="#3465a4"><title>Pitcairn Heritage (Name)</title></circle></a><a href="/variants/s10/r2lo14o14dr1r2dr2t2dr2r20t2~x4/"><circle cx="294.1" cy="154.3" r="4" fill="#3465a4"><title>Star Is Born, A</title></circle></a><a href="/variants/s7/r3ly2r18db8w1o18r2~x2/"><circle cx="298.7" cy="169.0" r="4" fill="#3465a4"><title>Barbour - Cardinal Red</title></circle></a><a href="/variants/s12/o3n20r1n4r2n2r4n2r5g2dr20w3~x2~o2500000-n1900000/"><circle cx="260.4" cy="125.4" r="4" fill="#3465a4"><title>Ryutokukan High School (Corporate)</title></circle></a><a href="/variants/s12/dy21r2w1ly3r2dy5r21ly1y1ly1r1dy8~x2~dy1603076-ly3307090/"><circle cx="361.4" cy="123.7" r="4" fill="#3465a4"><title>Glendronach Corporate Tartan</title></circle></a><a href="/variants/s10/r4n4dt2n24lb1dt14n2r18n4dt3~x4/"><circle cx="348.3" cy="171.2" r="4" fill="#3465a4"><title>Marshall</title></circle></a><circle cx="335.8" cy="137.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/n5lb5n2r47n18o2n5g9lb7o3~x2/

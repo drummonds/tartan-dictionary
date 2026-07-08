@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Jubilation"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r11w13db30w13db11w2db8w2db11w13db30w13r11db2/)
 (the same proportion at any scale), whose colour order is pattern [BRWBWBWBWBWBWR](/stripes/brwbwbwbwbwbwr/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1910
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1910](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1910)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db8w2db11w13db30w13r11db2~x2/"><circle cx="292.4" cy="198.1" r="4" fill="#3465a4"><title>Jubilation (Commemorative)</title></circle></a><a href="/variants/s16/db6r5db3w2db3w2db3w16db3w2db3w2db3r5db6w2~x2/"><circle cx="212.7" cy="189.3" r="4" fill="#3465a4"><title>Jeux Canada Games '87</title></circle></a><a href="/variants/s10/db5r2db5w7db32w7r13db3r13w2~x2/"><circle cx="281.5" cy="166.2" r="4" fill="#3465a4"><title>America (Eagle version)</title></circle></a><a href="/variants/s11/db2w2r2w2r2db2r2db12dy1db2w2~x4/"><circle cx="286.0" cy="154.3" r="4" fill="#3465a4"><title>Good Morning America (Corporate)</title></circle></a><a href="/variants/s13/db4r3lb23db16w5lb3r2lb3w5lb11db2r1db4~x2/"><circle cx="261.4" cy="136.6" r="4" fill="#3465a4"><title>Illinois St Andrews Society Corporate Tartan</title></circle></a><a href="/variants/s12/db4w4db4w4db4w4db16ly2db16r6w3db4~x2/"><circle cx="314.4" cy="187.3" r="4" fill="#3465a4"><title>Parker Dress (USA)</title></circle></a><a href="/variants/s9/w16db3w2db3w2db3r5db6w2~x4/"><circle cx="262.8" cy="203.4" r="4" fill="#3465a4"><title>Jeux Canada Games '87 (Corporate)</title></circle></a><a href="/variants/s9/dy7db7dy4db26w12db3w14dr2db6/"><circle cx="261.9" cy="195.9" r="4" fill="#3465a4"><title>Aquascutum (Kinloch Anderson)</title></circle></a><circle cx="261.4" cy="180.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db8w2db11w13db30w13r11db2~x2/"><circle cx="292.5" cy="198.7" r="4" fill="#3465a4"><title>Jubilation (Commemorative)</title></circle></a><a href="/variants/s16/db6r5db3w2db3w2db3w16db3w2db3w2db3r5db6w2~x2/"><circle cx="212.7" cy="189.9" r="4" fill="#3465a4"><title>Jeux Canada Games '87</title></circle></a><a href="/variants/s10/db5r2db5w7db32w7r13db3r13w2~x2/"><circle cx="281.6" cy="166.7" r="4" fill="#3465a4"><title>America (Eagle version)</title></circle></a><a href="/variants/s11/db2w2r2w2r2db2r2db12dy1db2w2~x4/"><circle cx="286.0" cy="154.7" r="4" fill="#3465a4"><title>Good Morning America (Corporate)</title></circle></a><a href="/variants/s13/db4r3lb23db16w5lb3r2lb3w5lb11db2r1db4~x2/"><circle cx="261.4" cy="136.9" r="4" fill="#3465a4"><title>Illinois St Andrews Society Corporate Tartan</title></circle></a><a href="/variants/s12/db4w4db4w4db4w4db16ly2db16r6w3db4~x2/"><circle cx="314.5" cy="187.8" r="4" fill="#3465a4"><title>Parker Dress (USA)</title></circle></a><a href="/variants/s9/w16db3w2db3w2db3r5db6w2~x4/"><circle cx="262.9" cy="204.0" r="4" fill="#3465a4"><title>Jeux Canada Games '87 (Corporate)</title></circle></a><a href="/variants/s9/dy7db7dy4db26w12db3w14dr2db6/"><circle cx="262.0" cy="196.4" r="4" fill="#3465a4"><title>Aquascutum (Kinloch Anderson)</title></circle></a><circle cx="261.5" cy="181.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/

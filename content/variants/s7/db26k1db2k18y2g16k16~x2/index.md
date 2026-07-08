@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Mowat"
   url: "/tartans/mowat-2/"
+- name: "Mowat"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db26k1db2k18y2g16k16/)
 (the same proportion at any scale), whose colour order is pattern [BKBKGGK](/stripes/bkbkggk/).
@@ -14,7 +16,7 @@ Part of the [Mowat](/tartans/mowat-2/) tartan — the named design grouping this
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3034
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3034](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3034)
 
 ## Provenance
 
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db18k1db2k18y2g16k16/"><circle cx="224.6" cy="176.8" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/variants/s7/db18k1db2k18y2g16k16~x2/"><circle cx="224.6" cy="176.8" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/variants/s7/k2g10k9db9r1k1db2~x2/"><circle cx="155.8" cy="193.1" r="4" fill="#3465a4"><title>Reid and Taylor</title></circle></a><a href="/variants/s8/r3k2db25k28g25k2r1db2~x2/"><circle cx="199.8" cy="129.1" r="4" fill="#3465a4"><title>Common Kilt</title></circle></a><a href="/variants/s8/r2k4db23k14g16y1k4y2~x2/"><circle cx="163.7" cy="133.0" r="4" fill="#3465a4"><title>Thomas, baron of Craigie, Robert (Personal)</title></circle></a><a href="/variants/s8/n15k14t1y2t1k14n15k2~x4~n1802249-t2503227/"><circle cx="261.8" cy="173.0" r="4" fill="#3465a4"><title>South African Air Force</title></circle></a><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/"><circle cx="276.6" cy="177.2" r="4" fill="#3465a4"><title>South African Air Force (Military)</title></circle></a><a href="/variants/s7/db5k10db48k72w12dg48r5/"><circle cx="177.6" cy="161.1" r="4" fill="#3465a4"><title>Colquhoun (Clan)</title></circle></a><a href="/variants/s8/r7g3r2g33k31db31k3db3/"><circle cx="159.1" cy="157.5" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s7/r4k4db24k24g24k2r3~x2/"><circle cx="151.5" cy="179.5" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><circle cx="227.8" cy="160.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db18k1db2k18y2g16k16/"><circle cx="224.6" cy="177.2" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/variants/s7/db18k1db2k18y2g16k16~x2/"><circle cx="224.6" cy="177.2" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/variants/s7/k2g10k9db9r1k1db2~x2/"><circle cx="155.9" cy="193.6" r="4" fill="#3465a4"><title>Reid and Taylor</title></circle></a><a href="/variants/s8/r3k2db25k28g25k2r1db2~x2/"><circle cx="199.7" cy="129.4" r="4" fill="#3465a4"><title>Common Kilt</title></circle></a><a href="/variants/s8/r2k4db23k14g16y1k4y2~x2/"><circle cx="163.6" cy="133.2" r="4" fill="#3465a4"><title>Thomas, baron of Craigie, Robert (Personal)</title></circle></a><a href="/variants/s8/n15k14t1y2t1k14n15k2~x4~n1802249-t2503227/"><circle cx="261.8" cy="173.4" r="4" fill="#3465a4"><title>South African Air Force</title></circle></a><a href="/variants/s8/db15k14lb1y2lb1k14db15k2~x4/"><circle cx="276.5" cy="177.5" r="4" fill="#3465a4"><title>South African Air Force (Military)</title></circle></a><a href="/variants/s7/db5k10db48k72w12dg48r5/"><circle cx="177.6" cy="161.4" r="4" fill="#3465a4"><title>Colquhoun (Clan)</title></circle></a><a href="/variants/s8/r7g3r2g33k31db31k3db3/"><circle cx="159.0" cy="157.8" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s7/r4k4db24k24g24k2r3~x2/"><circle cx="151.5" cy="179.9" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><circle cx="227.7" cy="160.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db26k1db2k18y2g16k16~x2/

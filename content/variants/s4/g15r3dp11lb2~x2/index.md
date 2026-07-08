@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacNab 7"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g15r3dp11lb2/)
 (the same proportion at any scale), whose colour order is pattern [GRBW](/stripes/grbw/).
 
 Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/dp5g6y1~x4/"><circle cx="322.6" cy="324.6" r="4" fill="#3465a4"><title>Wilson's, No 81</title></circle></a><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="224.9" cy="225.0" r="4" fill="#3465a4"><title>ChuMac (Personal)</title></circle></a><a href="/variants/s5/k4lb3dp11g14w2~x2/"><circle cx="146.8" cy="220.1" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="134.3" cy="224.1" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/variants/s4/dp4g10w1r1~x2/"><circle cx="351.6" cy="225.2" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/variants/s4/dp4g10r1w1~x2~r2109032/"><circle cx="349.5" cy="223.6" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/variants/s4/g15r3dr11lb2~x2/"><circle cx="272.8" cy="259.2" r="4" fill="#3465a4"><title>MacNab WI 2</title></circle></a><a href="/variants/s4/g15r3dr11lb2/"><circle cx="272.8" cy="259.2" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="257.3" cy="258.6" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s4/g15r3db11w2/"><circle cx="245.4" cy="254.9" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><circle cx="261.8" cy="255.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/dp5g6y1~x4/"><circle cx="322.9" cy="325.4" r="4" fill="#3465a4"><title>Wilson's, No 81</title></circle></a><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="225.1" cy="225.5" r="4" fill="#3465a4"><title>ChuMac (Personal)</title></circle></a><a href="/variants/s5/k4lb3dp11g14w2~x2/"><circle cx="146.9" cy="220.7" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="134.4" cy="224.7" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/variants/s4/dp4g10w1r1~x2/"><circle cx="351.7" cy="225.8" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/variants/s4/dp4g10r1w1~x2~r2109032/"><circle cx="349.6" cy="224.2" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/variants/s4/g15r3dr11lb2~x2/"><circle cx="273.0" cy="259.8" r="4" fill="#3465a4"><title>MacNab WI 2</title></circle></a><a href="/variants/s4/g15r3dr11lb2/"><circle cx="273.0" cy="259.8" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="257.4" cy="259.2" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s4/g15r3db11w2/"><circle cx="245.5" cy="255.5" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><circle cx="261.9" cy="255.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/g15r3dp11lb2~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Delaware Fine Spirits Guild"
   url: "/tartans/delaware-fine-spirits-guild/"
+- name: "Delaware Fine Spirits Guild (Corp)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k5dg25k10g15y1g5/)
 (the same proportion at any scale), whose colour order is pattern [GGGKGK](/stripes/gggkgk/).
@@ -14,7 +16,7 @@ Part of the [Delaware Fine Spirits Guild](/tartans/delaware-fine-spirits-guild/)
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10204
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10204](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10204)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k10dg25k10g15y1g5~x2/"><circle cx="206.3" cy="184.5" r="4" fill="#3465a4"><title>Delaware Fine Spirits Guild</title></circle></a><a href="/variants/s8/g21w2g21k17dg12dp6k2w1~x2/"><circle cx="210.4" cy="150.0" r="4" fill="#3465a4"><title>Hibernian F. C. (2004) (C orporate)</title></circle></a><a href="/variants/s8/g22w2g22k18dg12dp6k2w1~x2/"><circle cx="216.0" cy="146.9" r="4" fill="#3465a4"><title>Hibernian Football Club</title></circle></a><a href="/variants/s7/r3k11dg29k28g19y2db1~x2~dg1504144-g2408144/"><circle cx="175.6" cy="122.5" r="4" fill="#3465a4"><title>PMMC</title></circle></a><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/"><circle cx="241.5" cy="181.1" r="4" fill="#3465a4"><title>John Telfar Dunbar Hunting</title></circle></a><a href="/variants/s8/dg14k1dg2k1dg2k10g14r2/"><circle cx="198.8" cy="170.4" r="4" fill="#3465a4"><title>Manor (Corporate)</title></circle></a><a href="/variants/s7/r4k4dt24k24g24k2r3~x2/"><circle cx="156.6" cy="182.2" r="4" fill="#3465a4"><title>Black Watch (Coarse Kilt)</title></circle></a><a href="/variants/s7/k3g3k3g21dg21k3g1~x2/"><circle cx="287.5" cy="172.4" r="4" fill="#3465a4"><title>Granite City (Silver Granite) Fashion Tartan</title></circle></a><a href="/variants/s6/db2k6g2k6dg12y1~x4~g2408144-dg1806142/"><circle cx="181.7" cy="183.9" r="4" fill="#3465a4"><title>Leahy (Australia) (Personal)</title></circle></a><a href="/variants/s5/g68k22n28dr3n12~x2/"><circle cx="284.5" cy="183.8" r="4" fill="#3465a4"><title>Herbage of Laggan (Personal)</title></circle></a><circle cx="229.9" cy="177.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k10dg25k10g15y1g5~x2/"><circle cx="206.3" cy="184.9" r="4" fill="#3465a4"><title>Delaware Fine Spirits Guild</title></circle></a><a href="/variants/s8/g21w2g21k17dg12dp6k2w1~x2/"><circle cx="210.3" cy="150.3" r="4" fill="#3465a4"><title>Hibernian F. C. (2004) (C orporate)</title></circle></a><a href="/variants/s8/g22w2g22k18dg12dp6k2w1~x2/"><circle cx="215.9" cy="147.2" r="4" fill="#3465a4"><title>Hibernian Football Club</title></circle></a><a href="/variants/s7/r3k11dg29k28g19y2db1~x2~dg1504144-g2408144/"><circle cx="175.5" cy="122.7" r="4" fill="#3465a4"><title>PMMC</title></circle></a><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/"><circle cx="241.5" cy="181.5" r="4" fill="#3465a4"><title>John Telfar Dunbar Hunting</title></circle></a><a href="/variants/s8/dg14k1dg2k1dg2k10g14r2/"><circle cx="198.8" cy="170.8" r="4" fill="#3465a4"><title>Manor (Corporate)</title></circle></a><a href="/variants/s7/r4k4dt24k24g24k2r3~x2/"><circle cx="156.6" cy="182.7" r="4" fill="#3465a4"><title>Black Watch (Coarse Kilt)</title></circle></a><a href="/variants/s7/k3g3k3g21dg21k3g1~x2/"><circle cx="287.5" cy="172.8" r="4" fill="#3465a4"><title>Granite City (Silver Granite) Fashion Tartan</title></circle></a><a href="/variants/s6/db2k6g2k6dg12y1~x4~g2408144-dg1806142/"><circle cx="181.7" cy="184.4" r="4" fill="#3465a4"><title>Leahy (Australia) (Personal)</title></circle></a><a href="/variants/s5/g68k22n28dr3n12~x2/"><circle cx="284.5" cy="184.2" r="4" fill="#3465a4"><title>Herbage of Laggan (Personal)</title></circle></a><circle cx="229.8" cy="178.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k5dg25k10g15y1g5~x2/

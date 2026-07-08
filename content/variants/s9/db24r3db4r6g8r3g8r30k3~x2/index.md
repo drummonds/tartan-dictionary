@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gates"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db24r3db4r6g8r3g8r30k3/)
 (the same proportion at any scale), whose colour order is pattern [BRBRGRGRK](/stripes/brbrgrgrk/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1316
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1316](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1316)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n28k3r22k8w3k8r22k3n28k3~x2/"><circle cx="195.1" cy="172.2" r="4" fill="#3465a4"><title>Henkel</title></circle></a><a href="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/"><circle cx="255.2" cy="167.4" r="4" fill="#3465a4"><title>Glenaladale</title></circle></a><a href="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="200.0" cy="160.8" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2/"><circle cx="208.5" cy="158.0" r="4" fill="#3465a4"><title>MacNaughton (Clan)</title></circle></a><a href="/variants/s9/r12db2r4db4k15g4r4g2r12~x2/"><circle cx="217.8" cy="184.8" r="4" fill="#3465a4"><title>Alexander - 1985 (Name)</title></circle></a><a href="/variants/s7/dp32g16r14k4r6dp7k2~x2/"><circle cx="247.9" cy="168.2" r="4" fill="#3465a4"><title>Aisteach</title></circle></a><a href="/variants/s6/k3n28k3r22k8w3~x2/"><circle cx="193.8" cy="182.1" r="4" fill="#3465a4"><title>Henkel (Corporate)</title></circle></a><a href="/variants/s6/r3db15r3g8r20k2~x2/"><circle cx="248.2" cy="190.5" r="4" fill="#3465a4"><title>Finnigan (Estimated threadcount)</title></circle></a><a href="/variants/s10/g3r2db2r13lb1db4r2g7r2db2~x2/"><circle cx="277.3" cy="172.6" r="4" fill="#3465a4"><title>MacKillop</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2~r2609032/"><circle cx="193.0" cy="153.6" r="4" fill="#3465a4"><title>MacNaughton (Logan) #2</title></circle></a><circle cx="230.7" cy="164.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n28k3r22k8w3k8r22k3n28k3~x2/"><circle cx="195.1" cy="172.6" r="4" fill="#3465a4"><title>Henkel</title></circle></a><a href="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/"><circle cx="255.2" cy="167.9" r="4" fill="#3465a4"><title>Glenaladale</title></circle></a><a href="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="200.1" cy="161.2" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2/"><circle cx="208.5" cy="158.4" r="4" fill="#3465a4"><title>MacNaughton (Clan)</title></circle></a><a href="/variants/s9/r12db2r4db4k15g4r4g2r12~x2/"><circle cx="217.9" cy="185.4" r="4" fill="#3465a4"><title>Alexander - 1985 (Name)</title></circle></a><a href="/variants/s7/dp32g16r14k4r6dp7k2~x2/"><circle cx="247.9" cy="168.6" r="4" fill="#3465a4"><title>Aisteach</title></circle></a><a href="/variants/s6/k3n28k3r22k8w3~x2/"><circle cx="193.9" cy="182.6" r="4" fill="#3465a4"><title>Henkel (Corporate)</title></circle></a><a href="/variants/s6/r3db15r3g8r20k2~x2/"><circle cx="248.3" cy="191.1" r="4" fill="#3465a4"><title>Finnigan (Estimated threadcount)</title></circle></a><a href="/variants/s10/g3r2db2r13lb1db4r2g7r2db2~x2/"><circle cx="277.4" cy="173.0" r="4" fill="#3465a4"><title>MacKillop</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2~r2609032/"><circle cx="193.0" cy="154.1" r="4" fill="#3465a4"><title>MacNaughton (Logan) #2</title></circle></a><circle cx="230.7" cy="164.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db24r3db4r6g8r3g8r30k3~x2/

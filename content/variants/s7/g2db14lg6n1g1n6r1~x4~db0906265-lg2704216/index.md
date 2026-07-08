@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Loch Ness in Scotland"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g2db14lg6n1g1n6r1/)
 (the same proportion at any scale), whose colour order is pattern [GBYBGBR](/stripes/gbybgbr/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11569
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11569](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11569)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r2db12dg2b11dg4db5b2dg24w2~x2/"><circle cx="272.7" cy="182.7" r="4" fill="#3465a4"><title>Fraser Gathering, hunting</title></circle></a><a href="/variants/s9/db2n10db1n1db10r1db10g10w2~x2/"><circle cx="248.3" cy="196.7" r="4" fill="#3465a4"><title>American Soc.of Travel Agents (Corp)</title></circle></a><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="196.9" cy="156.8" r="4" fill="#3465a4"><title>Ferster, James Carney (Personal)</title></circle></a><a href="/variants/s8/g26ri2g3dbi15db26r2db3dbi4~x2~ri2008029-dbi1604274-db0805267-r1506028/"><circle cx="213.5" cy="179.4" r="4" fill="#3465a4"><title>Grampian</title></circle></a><a href="/variants/s7/r6db27lb2g2lb2g30w4~x2/"><circle cx="240.6" cy="164.6" r="4" fill="#3465a4"><title>MX-5 Owners' Club</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="241.6" cy="212.4" r="4" fill="#3465a4"><title>Jamieson, Robert (Personal)</title></circle></a><a href="/variants/s6/w1db15r1n10g2lp1~x4/"><circle cx="292.8" cy="162.8" r="4" fill="#3465a4"><title>Peterson, Oren (Name)</title></circle></a><a href="/variants/s8/db60lb5w4o12g42dp12lb5dp12/"><circle cx="188.3" cy="152.0" r="4" fill="#3465a4"><title>St Columba</title></circle></a><a href="/variants/s11/db2n18db2n2db20r3db18g2db2g18w2/"><circle cx="265.5" cy="179.1" r="4" fill="#3465a4"><title>American Society of Travel Agents, The</title></circle></a><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><circle cx="253.5" cy="207.7" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><circle cx="239.9" cy="175.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r2db12dg2b11dg4db5b2dg24w2~x2/"><circle cx="272.8" cy="182.9" r="4" fill="#3465a4"><title>Fraser Gathering, hunting</title></circle></a><a href="/variants/s9/db2n10db1n1db10r1db10g10w2~x2/"><circle cx="248.3" cy="197.1" r="4" fill="#3465a4"><title>American Soc.of Travel Agents (Corp)</title></circle></a><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="196.9" cy="157.1" r="4" fill="#3465a4"><title>Ferster, James Carney (Personal)</title></circle></a><a href="/variants/s8/g26ri2g3dbi15db26r2db3dbi4~x2~ri2008029-dbi1604274-db0805267-r1506028/"><circle cx="213.5" cy="179.7" r="4" fill="#3465a4"><title>Grampian</title></circle></a><a href="/variants/s7/r6db27lb2g2lb2g30w4~x2/"><circle cx="240.7" cy="164.9" r="4" fill="#3465a4"><title>MX-5 Owners' Club</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="241.7" cy="212.9" r="4" fill="#3465a4"><title>Jamieson, Robert (Personal)</title></circle></a><a href="/variants/s6/w1db15r1n10g2lp1~x4/"><circle cx="292.8" cy="163.0" r="4" fill="#3465a4"><title>Peterson, Oren (Name)</title></circle></a><a href="/variants/s8/db60lb5w4o12g42dp12lb5dp12/"><circle cx="188.2" cy="152.3" r="4" fill="#3465a4"><title>St Columba</title></circle></a><a href="/variants/s11/db2n18db2n2db20r3db18g2db2g18w2/"><circle cx="265.5" cy="179.4" r="4" fill="#3465a4"><title>American Society of Travel Agents, The</title></circle></a><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><circle cx="253.6" cy="208.0" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><circle cx="239.9" cy="175.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g2db14lg6n1g1n6r1~x4~db0906265-lg2704216/

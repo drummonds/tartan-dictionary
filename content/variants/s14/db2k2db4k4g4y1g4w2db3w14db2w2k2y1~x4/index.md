@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gordon Dress #3"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2k2db4k4g4y1g4w2db3w14db2w2k2y1/)
 (the same proportion at any scale), whose colour order is pattern [BKBKGGGWBWBWKG](/stripes/bkbkgggwbwbwkg/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1456
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1456](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1456)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/"><circle cx="92.6" cy="142.0" r="4" fill="#3465a4"><title>Blair, dress</title></circle></a><a href="/variants/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4~x2/"><circle cx="79.5" cy="107.3" r="4" fill="#3465a4"><title>Lauder</title></circle></a><a href="/variants/s12/w6g2w28k13t6k4t4k4t16r2t2r4~x2/"><circle cx="109.4" cy="104.1" r="4" fill="#3465a4"><title>Sutherland Dress (Dance)</title></circle></a><a href="/variants/s13/db24k4g8y4g8k4w4k4w24k1w2k1y3~x2/"><circle cx="112.2" cy="98.5" r="4" fill="#3465a4"><title>Gordon Dress #4</title></circle></a><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/"><circle cx="135.4" cy="127.6" r="4" fill="#3465a4"><title>Sutherland, Dress</title></circle></a><a href="/variants/s21/w4db4w60db5w5k30db27k5db30k27g4lb5g66lb5g4k30w5db5w57db4w4/"><circle cx="99.9" cy="91.8" r="4" fill="#3465a4"><title>Graham Dress</title></circle></a><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/"><circle cx="132.2" cy="122.9" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/variants/s12/g4b3g3b4g4k8g3k9w29r2w4r2~x2/"><circle cx="149.4" cy="110.5" r="4" fill="#3465a4"><title>Ross, hunting dress</title></circle></a><a href="/variants/s12/dr4w4dr2w29k10dg3k10dg4g4dg3g3dg3~x2~dg1806142-g2408144/"><circle cx="134.1" cy="114.1" r="4" fill="#3465a4"><title>Ross Arisaid</title></circle></a><a href="/variants/s10/lo12k3t24r12t24k32w44t4w8t4/"><circle cx="100.8" cy="150.1" r="4" fill="#3465a4"><title>Gillies Dress Blue</title></circle></a><circle cx="107.3" cy="123.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/"><circle cx="92.6" cy="142.4" r="4" fill="#3465a4"><title>Blair, dress</title></circle></a><a href="/variants/s19/r4db4w52db5w5k26g25r6g28k25g3db26g6db25g3k27w50db4r4~x2/"><circle cx="79.4" cy="107.6" r="4" fill="#3465a4"><title>Lauder</title></circle></a><a href="/variants/s12/w6g2w28k13t6k4t4k4t16r2t2r4~x2/"><circle cx="109.3" cy="104.4" r="4" fill="#3465a4"><title>Sutherland Dress (Dance)</title></circle></a><a href="/variants/s13/db24k4g8y4g8k4w4k4w24k1w2k1y3~x2/"><circle cx="112.1" cy="98.7" r="4" fill="#3465a4"><title>Gordon Dress #4</title></circle></a><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/"><circle cx="135.4" cy="128.0" r="4" fill="#3465a4"><title>Sutherland, Dress</title></circle></a><a href="/variants/s21/w4db4w60db5w5k30db27k5db30k27g4lb5g66lb5g4k30w5db5w57db4w4/"><circle cx="99.8" cy="92.0" r="4" fill="#3465a4"><title>Graham Dress</title></circle></a><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/"><circle cx="132.2" cy="123.3" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/variants/s12/g4b3g3b4g4k8g3k9w29r2w4r2~x2/"><circle cx="149.4" cy="110.9" r="4" fill="#3465a4"><title>Ross, hunting dress</title></circle></a><a href="/variants/s12/dr4w4dr2w29k10dg3k10dg4g4dg3g3dg3~x2~dg1806142-g2408144/"><circle cx="134.0" cy="114.4" r="4" fill="#3465a4"><title>Ross Arisaid</title></circle></a><a href="/variants/s10/lo12k3t24r12t24k32w44t4w8t4/"><circle cx="100.7" cy="150.6" r="4" fill="#3465a4"><title>Gillies Dress Blue</title></circle></a><circle cx="107.3" cy="124.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/db2k2db4k4g4y1g4w2db3w14db2w2k2y1~x4/

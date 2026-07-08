@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Brigid Mhairi"
   url: "/tartans/brigid-mhairi/"
+- name: "Brigid Mhairi"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2g4lb11dp19db1dp19o4lo2/)
 (the same proportion at any scale), whose colour order is pattern [BGWBBBRY](/stripes/bgwbbbry/).
@@ -14,7 +16,7 @@ Part of the [Brigid Mhairi](/tartans/brigid-mhairi/) tartan — the named design
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10401
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10401](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10401)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp20lb8g8db8dp33r3~x2/"><circle cx="361.9" cy="200.8" r="4" fill="#3465a4"><title>McIntosh, Stuart (Personal)</title></circle></a><a href="/variants/s6/dp24k4lb10db3dp3w2~x2/"><circle cx="274.7" cy="153.2" r="4" fill="#3465a4"><title>Cramer (Personal)</title></circle></a><a href="/variants/s6/g4y3db35r13dp8w3~x2/"><circle cx="277.5" cy="152.6" r="4" fill="#3465a4"><title>Kilsyth</title></circle></a><a href="/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/"><circle cx="321.2" cy="90.6" r="4" fill="#3465a4"><title>Queens University, of Ontario</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="298.2" cy="158.0" r="4" fill="#3465a4"><title>Tartan Lassie (Fashion)</title></circle></a><a href="/variants/s7/db60w2r10dg6w4r15y10~x2/"><circle cx="325.1" cy="118.8" r="4" fill="#3465a4"><title>Iberia Dress, Blue (Fashion)</title></circle></a><a href="/variants/s9/db3r13db13r9db5w2dp9db21ly2~x2/"><circle cx="268.2" cy="190.1" r="4" fill="#3465a4"><title>Telfer, Brian William (Personal)</title></circle></a><a href="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/"><circle cx="256.9" cy="119.8" r="4" fill="#3465a4"><title>Yukon (asymmetric)</title></circle></a><a href="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/"><circle cx="274.8" cy="192.2" r="4" fill="#3465a4"><title>Telfer, Brian William (Personal)</title></circle></a><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/"><circle cx="356.7" cy="153.8" r="4" fill="#3465a4"><title>European Judo Union</title></circle></a><circle cx="311.5" cy="137.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp20lb8g8db8dp33r3~x2/"><circle cx="362.0" cy="201.2" r="4" fill="#3465a4"><title>McIntosh, Stuart (Personal)</title></circle></a><a href="/variants/s6/dp24k4lb10db3dp3w2~x2/"><circle cx="274.7" cy="153.6" r="4" fill="#3465a4"><title>Cramer (Personal)</title></circle></a><a href="/variants/s6/g4y3db35r13dp8w3~x2/"><circle cx="277.5" cy="152.9" r="4" fill="#3465a4"><title>Kilsyth</title></circle></a><a href="/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/"><circle cx="321.1" cy="90.7" r="4" fill="#3465a4"><title>Queens University, of Ontario</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="298.2" cy="158.4" r="4" fill="#3465a4"><title>Tartan Lassie (Fashion)</title></circle></a><a href="/variants/s7/db60w2r10dg6w4r15y10~x2/"><circle cx="325.0" cy="119.0" r="4" fill="#3465a4"><title>Iberia Dress, Blue (Fashion)</title></circle></a><a href="/variants/s9/db3r13db13r9db5w2dp9db21ly2~x2/"><circle cx="268.3" cy="190.5" r="4" fill="#3465a4"><title>Telfer, Brian William (Personal)</title></circle></a><a href="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/"><circle cx="256.8" cy="119.9" r="4" fill="#3465a4"><title>Yukon (asymmetric)</title></circle></a><a href="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/"><circle cx="274.9" cy="192.6" r="4" fill="#3465a4"><title>Telfer, Brian William (Personal)</title></circle></a><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/"><circle cx="356.7" cy="154.1" r="4" fill="#3465a4"><title>European Judo Union</title></circle></a><circle cx="311.5" cy="137.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db2g4lb11dp19db1dp19o4lo2~x2/

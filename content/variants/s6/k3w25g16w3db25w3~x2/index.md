@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Birnham, Blue (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3w25g16w3db25w3/)
 (the same proportion at any scale), whose colour order is pattern [KWGWBW](/stripes/kwgwbw/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7599
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7599](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7599)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5k3w26db21w3db8y3~x2/"><circle cx="227.3" cy="188.5" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance)</title></circle></a><a href="/variants/s5/k2w2g8db8w1/"><circle cx="161.2" cy="227.7" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k4w2g8db8w1/"><circle cx="129.1" cy="237.1" r="4" fill="#3465a4"><title>Douglas Green</title></circle></a><a href="/variants/s7/lb17k12w9r2w9g1w2~x4/"><circle cx="147.7" cy="164.0" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><a href="/variants/s7/k2lb16w2db16w15k2w2~x2/"><circle cx="137.4" cy="198.8" r="4" fill="#3465a4"><title>Strathclyde 1975 (District)</title></circle></a><a href="/variants/s7/k2b16w2ki16w15k2w2~x2~ki0604259/"><circle cx="127.4" cy="193.4" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/variants/s7/lb13dr1g13w1k1w7k3~x2/"><circle cx="135.4" cy="170.2" r="4" fill="#3465a4"><title>Chambers, Christopher J (Personal)</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="137.8" cy="149.8" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="114.4" cy="168.2" r="4" fill="#3465a4"><title>Alexander Brothers - 2007? (Corp.)</title></circle></a><a href="/variants/s6/lb1w6b1lb3k3lb1~x8/"><circle cx="143.2" cy="226.4" r="4" fill="#3465a4"><title>Thompson (Dance)</title></circle></a><circle cx="166.9" cy="209.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5k3w26db21w3db8y3~x2/"><circle cx="227.4" cy="189.1" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance)</title></circle></a><a href="/variants/s5/k2w2g8db8w1/"><circle cx="161.2" cy="228.4" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k4w2g8db8w1/"><circle cx="129.1" cy="237.7" r="4" fill="#3465a4"><title>Douglas Green</title></circle></a><a href="/variants/s7/lb17k12w9r2w9g1w2~x4/"><circle cx="147.8" cy="164.5" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><a href="/variants/s7/k2lb16w2db16w15k2w2~x2/"><circle cx="137.5" cy="199.4" r="4" fill="#3465a4"><title>Strathclyde 1975 (District)</title></circle></a><a href="/variants/s7/k2b16w2ki16w15k2w2~x2~ki0604259/"><circle cx="127.4" cy="194.0" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/variants/s7/lb13dr1g13w1k1w7k3~x2/"><circle cx="135.4" cy="170.6" r="4" fill="#3465a4"><title>Chambers, Christopher J (Personal)</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="137.8" cy="150.2" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="114.4" cy="168.7" r="4" fill="#3465a4"><title>Alexander Brothers - 2007? (Corp.)</title></circle></a><a href="/variants/s6/lb1w6b1lb3k3lb1~x8/"><circle cx="143.4" cy="227.1" r="4" fill="#3465a4"><title>Thompson (Dance)</title></circle></a><circle cx="167.0" cy="210.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k3w25g16w3db25w3~x2/

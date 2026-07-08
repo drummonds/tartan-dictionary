@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "American Soc.of Travel Agents (Corp)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2n10db1n1db10r1db10g10w2/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBRBGW](/stripes/bbbbbrbgw/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2316
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2316](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2316)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y3g17db3g3db3do5db18r2db8r2~x2/"><circle cx="255.9" cy="187.1" r="4" fill="#3465a4"><title>Donegal</title></circle></a><a href="/variants/s8/b36w4b4w4b16dg64r9b6~x2/"><circle cx="294.1" cy="169.3" r="4" fill="#3465a4"><title>Colvin</title></circle></a><a href="/variants/s9/r2db12dg2b11dg4db5b2dg24w2~x2/"><circle cx="272.7" cy="182.7" r="4" fill="#3465a4"><title>Fraser Gathering, hunting</title></circle></a><a href="/variants/s9/db32r4db4dy4db9n9db4n16w7~x2/"><circle cx="275.5" cy="192.8" r="4" fill="#3465a4"><title>Nevada State American District Tartan</title></circle></a><a href="/variants/s11/db2n18db2n2db20r3db18g2db2g18w2/"><circle cx="265.5" cy="179.1" r="4" fill="#3465a4"><title>American Society of Travel Agents, The</title></circle></a><a href="/variants/s11/db4n32db4n4db32m6db32dg4db3dg32w4/"><circle cx="289.0" cy="188.9" r="4" fill="#3465a4"><title>American Society of Travel Agents, The (2001)</title></circle></a><a href="/variants/s7/g2db14lg6n1g1n6r1~x4~db0906265-lg2704216/"><circle cx="239.9" cy="175.3" r="4" fill="#3465a4"><title>Loch Ness in Scotland</title></circle></a><a href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/"><circle cx="207.2" cy="197.5" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s9/dt3db4dt24db6r3db4g3db8w3~x2/"><circle cx="270.7" cy="196.3" r="4" fill="#3465a4"><title>Scozia (Fashion)</title></circle></a><a href="/variants/s10/b29db8y21r3y8b16w3db3w3y8~x2/"><circle cx="243.4" cy="194.3" r="4" fill="#3465a4"><title>Morneau (Quebec), Richard (Personal)</title></circle></a><circle cx="248.3" cy="196.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y3g17db3g3db3do5db18r2db8r2~x2/"><circle cx="256.0" cy="187.4" r="4" fill="#3465a4"><title>Donegal</title></circle></a><a href="/variants/s8/b36w4b4w4b16dg64r9b6~x2/"><circle cx="294.1" cy="169.6" r="4" fill="#3465a4"><title>Colvin</title></circle></a><a href="/variants/s9/r2db12dg2b11dg4db5b2dg24w2~x2/"><circle cx="272.8" cy="182.9" r="4" fill="#3465a4"><title>Fraser Gathering, hunting</title></circle></a><a href="/variants/s9/db32r4db4dy4db9n9db4n16w7~x2/"><circle cx="275.6" cy="193.2" r="4" fill="#3465a4"><title>Nevada State American District Tartan</title></circle></a><a href="/variants/s11/db2n18db2n2db20r3db18g2db2g18w2/"><circle cx="265.5" cy="179.4" r="4" fill="#3465a4"><title>American Society of Travel Agents, The</title></circle></a><a href="/variants/s11/db4n32db4n4db32m6db32dg4db3dg32w4/"><circle cx="289.0" cy="189.1" r="4" fill="#3465a4"><title>American Society of Travel Agents, The (2001)</title></circle></a><a href="/variants/s7/g2db14lg6n1g1n6r1~x4~db0906265-lg2704216/"><circle cx="239.9" cy="175.5" r="4" fill="#3465a4"><title>Loch Ness in Scotland</title></circle></a><a href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/"><circle cx="207.2" cy="197.9" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s9/dt3db4dt24db6r3db4g3db8w3~x2/"><circle cx="270.7" cy="196.5" r="4" fill="#3465a4"><title>Scozia (Fashion)</title></circle></a><a href="/variants/s10/b29db8y21r3y8b16w3db3w3y8~x2/"><circle cx="243.5" cy="194.6" r="4" fill="#3465a4"><title>Morneau (Quebec), Richard (Personal)</title></circle></a><circle cx="248.3" cy="197.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db2n10db1n1db10r1db10g10w2~x2/

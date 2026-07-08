@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacMillan (1946)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g22k2g5k2y10k3y10k2g5k2g22r8k2r8k2r8/)
 (the same proportion at any scale), whose colour order is pattern [GKGKGKGKGKGRKRKR](/stripes/gkgkgkgkgkgrkrkr/).
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5360
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5360](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5360)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/"><circle cx="252.3" cy="135.2" r="4" fill="#3465a4"><title>MacMillan Ancient</title></circle></a><a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1/"><circle cx="252.3" cy="135.2" r="4" fill="#3465a4"><title>MacMillan Ancient</title></circle></a><a href="/variants/s9/r16k3r16g44k3g8k3y20k4~x2/"><circle cx="219.1" cy="158.1" r="4" fill="#3465a4"><title>MacMillan, Society of Glasgow</title></circle></a><a href="/variants/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/"><circle cx="193.9" cy="136.6" r="4" fill="#3465a4"><title>MacGuire (Name)</title></circle></a><a href="/variants/s18/k3dg18dy3dg3dy3dg3dy18ly3dy3ly3dy3ly12db2ly12dy9ly12dg2db2~x2/"><circle cx="124.1" cy="144.2" r="4" fill="#3465a4"><title>Van Ingelgem Htg (Personal)</title></circle></a><a href="/variants/s12/k6r3k3r24lb4g10r2g4r2g24r6lb2~x2/"><circle cx="208.1" cy="143.2" r="4" fill="#3465a4"><title>Leach (1999)</title></circle></a><a href="/variants/s11/dr6g3k3n24g4k10g4dr2g24dr6g2~x2/"><circle cx="204.9" cy="166.1" r="4" fill="#3465a4"><title>MacNeish Htg</title></circle></a><a href="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3~x2/"><circle cx="161.4" cy="142.3" r="4" fill="#3465a4"><title>Cochrane (1974)</title></circle></a><a href="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3/"><circle cx="161.4" cy="142.3" r="4" fill="#3465a4"><title>Cochrane LC</title></circle></a><a href="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/"><circle cx="235.7" cy="130.2" r="4" fill="#3465a4"><title>MacMillan - 1847 (Clan)</title></circle></a><circle cx="199.5" cy="151.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/"><circle cx="252.3" cy="135.5" r="4" fill="#3465a4"><title>MacMillan Ancient</title></circle></a><a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1/"><circle cx="252.3" cy="135.5" r="4" fill="#3465a4"><title>MacMillan Ancient</title></circle></a><a href="/variants/s9/r16k3r16g44k3g8k3y20k4~x2/"><circle cx="219.1" cy="158.5" r="4" fill="#3465a4"><title>MacMillan, Society of Glasgow</title></circle></a><a href="/variants/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/"><circle cx="193.9" cy="137.0" r="4" fill="#3465a4"><title>MacGuire (Name)</title></circle></a><a href="/variants/s18/k3dg18dy3dg3dy3dg3dy18ly3dy3ly3dy3ly12db2ly12dy9ly12dg2db2~x2/"><circle cx="124.0" cy="144.6" r="4" fill="#3465a4"><title>Van Ingelgem Htg (Personal)</title></circle></a><a href="/variants/s12/k6r3k3r24lb4g10r2g4r2g24r6lb2~x2/"><circle cx="208.1" cy="143.6" r="4" fill="#3465a4"><title>Leach (1999)</title></circle></a><a href="/variants/s11/dr6g3k3n24g4k10g4dr2g24dr6g2~x2/"><circle cx="204.9" cy="166.4" r="4" fill="#3465a4"><title>MacNeish Htg</title></circle></a><a href="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3~x2/"><circle cx="161.4" cy="142.6" r="4" fill="#3465a4"><title>Cochrane (1974)</title></circle></a><a href="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3/"><circle cx="161.4" cy="142.6" r="4" fill="#3465a4"><title>Cochrane LC</title></circle></a><a href="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/"><circle cx="235.7" cy="130.5" r="4" fill="#3465a4"><title>MacMillan - 1847 (Clan)</title></circle></a><circle cx="199.5" cy="151.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/g22k2g5k2y10k3y10k2g5k2g22r8k2r8k2r8~x2/

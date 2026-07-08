@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ceredigion (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g5n1g1n12r1/)
 (the same proportion at any scale), whose colour order is pattern [GBGBR](/stripes/gbgbr/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=611
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=611](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=611)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n57w5g20n5y10/"><circle cx="499.9" cy="258.2" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s5/n60g13n9r8dy4~x2/"><circle cx="594.4" cy="232.3" r="4" fill="#3465a4"><title>Ballantyne Personal Tartan</title></circle></a><a href="/variants/s5/n60g13n9dr8y4~x2/"><circle cx="626.0" cy="257.8" r="4" fill="#3465a4"><title>Ballantyne (Personal)</title></circle></a><a href="/variants/s5/n40r2n20g19db2~db1204274/"><circle cx="610.1" cy="253.4" r="4" fill="#3465a4"><title>Lloyd of Wales</title></circle></a><a href="/variants/s5/n11o1n4o8dr1~x8~n1900000-o2500000/"><circle cx="574.2" cy="307.6" r="4" fill="#3465a4"><title>Cairns, David (Personal)</title></circle></a><a href="/variants/s4/dg8dr1db1n1~x10/"><circle cx="622.6" cy="292.2" r="4" fill="#3465a4"><title>Jodi Williams (Personal)</title></circle></a><a href="/variants/s8/n40db4n4dp5g5n3y6r3~x2/"><circle cx="489.1" cy="172.3" r="4" fill="#3465a4"><title>Miller Hargreaves (Personal)</title></circle></a><a href="/variants/s5/gii40w2g5gi5g15~x2~gii2604158-g1903114-gi2304202/"><circle cx="533.3" cy="252.3" r="4" fill="#3465a4"><title>Castle Bay (Fashion)</title></circle></a><a href="/variants/s5/dr6dg2b2dg17dr2~x4/"><circle cx="570.8" cy="293.5" r="4" fill="#3465a4"><title>Loton (Personal)</title></circle></a><a href="/variants/s5/dg37dy9dg3r9dy3~x2/"><circle cx="508.6" cy="245.6" r="4" fill="#3465a4"><title>Glen Trool District Tartan</title></circle></a><circle cx="570.6" cy="266.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n57w5g20n5y10/"><circle cx="500.1" cy="258.5" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s5/n60g13n9r8dy4~x2/"><circle cx="594.5" cy="232.4" r="4" fill="#3465a4"><title>Ballantyne Personal Tartan</title></circle></a><a href="/variants/s5/n60g13n9dr8y4~x2/"><circle cx="626.0" cy="257.9" r="4" fill="#3465a4"><title>Ballantyne (Personal)</title></circle></a><a href="/variants/s5/n40r2n20g19db2~db1204274/"><circle cx="610.2" cy="253.5" r="4" fill="#3465a4"><title>Lloyd of Wales</title></circle></a><a href="/variants/s5/n11o1n4o8dr1~x8~n1900000-o2500000/"><circle cx="574.4" cy="307.8" r="4" fill="#3465a4"><title>Cairns, David (Personal)</title></circle></a><a href="/variants/s4/dg8dr1db1n1~x10/"><circle cx="622.8" cy="292.3" r="4" fill="#3465a4"><title>Jodi Williams (Personal)</title></circle></a><a href="/variants/s8/n40db4n4dp5g5n3y6r3~x2/"><circle cx="489.2" cy="172.3" r="4" fill="#3465a4"><title>Miller Hargreaves (Personal)</title></circle></a><a href="/variants/s5/gii40w2g5gi5g15~x2~gii2604158-g1903114-gi2304202/"><circle cx="533.4" cy="252.4" r="4" fill="#3465a4"><title>Castle Bay (Fashion)</title></circle></a><a href="/variants/s5/dr6dg2b2dg17dr2~x4/"><circle cx="571.0" cy="293.7" r="4" fill="#3465a4"><title>Loton (Personal)</title></circle></a><a href="/variants/s5/dg37dy9dg3r9dy3~x2/"><circle cx="508.7" cy="245.9" r="4" fill="#3465a4"><title>Glen Trool District Tartan</title></circle></a><circle cx="570.8" cy="267.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/g5n1g1n12r1~x8/

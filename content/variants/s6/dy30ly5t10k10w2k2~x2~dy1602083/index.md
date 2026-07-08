@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Bryan Wedding"
   url: "/tartans/bryan-wedding/"
+- name: "Bryan Wedding (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy30ly5t10k10w2k2/)
 (the same proportion at any scale), whose colour order is pattern [GYBKWK](/stripes/gybkwk/).
@@ -14,7 +16,7 @@ Part of the [Bryan Wedding](/tartans/bryan-wedding/) tartan — the named design
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10502
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10502](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10502)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy30ly5lb10k10w2k2~x2/"><circle cx="213.2" cy="148.2" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/variants/s6/k4dg5k2o21b8k2~x2/"><circle cx="229.8" cy="177.9" r="4" fill="#3465a4"><title>MacDuck</title></circle></a><a href="/variants/s7/n6dp4n2w2n24k25ly4~x2/"><circle cx="217.7" cy="151.6" r="4" fill="#3465a4"><title>New York State Troopers (Corporate)</title></circle></a><a href="/variants/s7/n6dp4n2w2n25k26y4~x2/"><circle cx="223.6" cy="148.0" r="4" fill="#3465a4"><title>New York State Troopers</title></circle></a><a href="/variants/s6/lb12g16k12g24dp75y4/"><circle cx="261.1" cy="145.0" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><a href="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/"><circle cx="201.8" cy="131.6" r="4" fill="#3465a4"><title>Smoke Showing (UFES)</title></circle></a><a href="/variants/s6/w2k11y11db3k1r1~x2/"><circle cx="163.4" cy="162.6" r="4" fill="#3465a4"><title>Cornish National #2</title></circle></a><a href="/variants/s6/w2k11y11lb3k1r1~x2/"><circle cx="158.6" cy="161.3" r="4" fill="#3465a4"><title>Cornish National Small Set Tartan</title></circle></a><a href="/variants/s6/w5k26y26lb7k3r3~x2/"><circle cx="147.2" cy="172.8" r="4" fill="#3465a4"><title>Cornish, National</title></circle></a><a href="/variants/s6/lb12g12k12g24dp75ly4/"><circle cx="265.8" cy="140.0" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><circle cx="227.3" cy="154.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy30ly5lb10k10w2k2~x2/"><circle cx="213.1" cy="148.6" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/variants/s6/k4dg5k2o21b8k2~x2/"><circle cx="229.8" cy="178.4" r="4" fill="#3465a4"><title>MacDuck</title></circle></a><a href="/variants/s7/n6dp4n2w2n24k25ly4~x2/"><circle cx="217.6" cy="151.9" r="4" fill="#3465a4"><title>New York State Troopers (Corporate)</title></circle></a><a href="/variants/s7/n6dp4n2w2n25k26y4~x2/"><circle cx="223.5" cy="148.4" r="4" fill="#3465a4"><title>New York State Troopers</title></circle></a><a href="/variants/s6/lb12g16k12g24dp75y4/"><circle cx="261.1" cy="145.3" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><a href="/variants/s9/y3k18w2k4g12n33k4n5g3~x2/"><circle cx="201.8" cy="131.8" r="4" fill="#3465a4"><title>Smoke Showing (UFES)</title></circle></a><a href="/variants/s6/w2k11y11db3k1r1~x2/"><circle cx="163.4" cy="163.0" r="4" fill="#3465a4"><title>Cornish National #2</title></circle></a><a href="/variants/s6/w2k11y11lb3k1r1~x2/"><circle cx="158.6" cy="161.8" r="4" fill="#3465a4"><title>Cornish National Small Set Tartan</title></circle></a><a href="/variants/s6/w5k26y26lb7k3r3~x2/"><circle cx="147.3" cy="173.3" r="4" fill="#3465a4"><title>Cornish, National</title></circle></a><a href="/variants/s6/lb12g12k12g24dp75ly4/"><circle cx="265.8" cy="140.3" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><circle cx="227.3" cy="154.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dy30ly5t10k10w2k2~x2~dy1602083/

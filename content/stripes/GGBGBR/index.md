@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/dg9g1b2g1db4r1~x12~dg1806142-g2408144/">Gorman, George (Personal)</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/dg9g1b2g1db4r1~x12~dg1806142-g2408144/"><img src="/variants/s6/dg9g1b2g1db4r1~x12~dg1806142-g2408144/sett.png" alt="Gorman, George (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/dg9dgi1dp2dgi1db4r1~x12~dg1104144-dgi1706142/">Gorman, George (Personal)</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/dg9dgi1dp2dgi1db4r1~x12~dg1104144-dgi1706142/"><img src="/variants/s6/dg9dgi1dp2dgi1db4r1~x12~dg1104144-dgi1706142/sett.png" alt="Gorman, George (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/dg9g1b2g1db4r1~x12~dg1806142-g2408144/">Gorman, George (Personal)</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/dg9g1b2g1db4r1~x12~dg1806142-g2408144/"><img src="/variants/s6/dg9g1b2g1db4r1~x12~dg1806142-g2408144/sett.png" alt="Gorman, George (Personal) sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/setts/r12dbi3g5db16y2g2/">Dunbog, Primary School</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/r12dbi3g5db16y2g2/"><img src="/variants/s6/r12dbi3g5db16y2g2~x2~dbi1604274-db0805267/sett.png" alt="Dunbog, Primary School sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>

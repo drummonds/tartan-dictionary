@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lewis of Wales"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db56ly2dg19ly1dg2ly1db2/)
 (the same proportion at any scale), whose colour order is pattern [BYGYGYBYGYGY](/stripes/bygygybygygy/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2109
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2109](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2109)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db58n3g16dr3ly2g7db29dr3n2~x2/"><circle cx="482.6" cy="138.3" r="4" fill="#3465a4"><title>Aberdeen Mither Kirk (St Nicholas)</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="342.4" cy="140.7" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><a href="/variants/s10/db18g1dy3g1lr1db1dr2g2dr2lr2~x4/"><circle cx="355.1" cy="133.6" r="4" fill="#3465a4"><title>Anthony Plaid Blue</title></circle></a><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><circle cx="358.9" cy="179.1" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><a href="/variants/s8/g5y2dp40w1db15w1db1w1~x2/"><circle cx="438.2" cy="111.9" r="4" fill="#3465a4"><title>Jackson (Personal)</title></circle></a><a href="/variants/s8/dg5ly2dp40w1db15w1db1w1~x2/"><circle cx="451.3" cy="118.3" r="4" fill="#3465a4"><title>Jackson (Name)</title></circle></a><circle cx="470.4" cy="125.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db58n3g16dr3ly2g7db29dr3n2~x2/"><circle cx="482.6" cy="138.3" r="4" fill="#3465a4"><title>Aberdeen Mither Kirk (St Nicholas)</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="342.4" cy="140.7" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><a href="/variants/s10/db18g1dy3g1lr1db1dr2g2dr2lr2~x4/"><circle cx="355.0" cy="133.7" r="4" fill="#3465a4"><title>Anthony Plaid Blue</title></circle></a><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><circle cx="358.9" cy="179.4" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><a href="/variants/s8/g5y2dp40w1db15w1db1w1~x2/"><circle cx="438.2" cy="111.9" r="4" fill="#3465a4"><title>Jackson (Personal)</title></circle></a><a href="/variants/s8/dg5ly2dp40w1db15w1db1w1~x2/"><circle cx="451.2" cy="118.3" r="4" fill="#3465a4"><title>Jackson (Name)</title></circle></a><circle cx="470.3" cy="125.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db56ly2dg19ly1dg2ly1db2~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Spey"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1n1r1n1db1n1r1n1db1n1r1t1n1lb1/)
 (the same proportion at any scale), whose colour order is pattern [BBRBBBRBBBRBBW](/stripes/bbrbbbrbbbrbbw/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11653
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11653](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11653)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

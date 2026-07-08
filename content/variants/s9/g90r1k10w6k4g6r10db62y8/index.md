@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Stirling, University of"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g90r1k10w6k4g6r10db62y8/)
 (the same proportion at any scale), whose colour order is pattern [GBRGKWKRG](/stripes/gbrgkwkrg/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3970
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3970](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3970)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r4g64y4g4k6db4y4db56w4db4w1/"><circle cx="258.4" cy="52.0" r="4" fill="#3465a4"><title>Pringle</title></circle></a><a href="/variants/s9/g28r4k3n2k1dg2r3db20y2~x2/"><circle cx="194.5" cy="78.9" r="4" fill="#3465a4"><title>Stirling University</title></circle></a><a href="/variants/s12/r10db4r3db6w3db4w3db40g73k4db2y6/"><circle cx="247.6" cy="57.8" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/"><circle cx="215.7" cy="82.4" r="4" fill="#3465a4"><title>Lusk (Personal)</title></circle></a><a href="/variants/s8/dy2r2k2t27k6g13k1lb2~x2/"><circle cx="227.8" cy="99.0" r="4" fill="#3465a4"><title>German MacLeod</title></circle></a><a href="/variants/s8/g45k4ri2g4ri2k4db21r5~x2~ri2806019-r2109032/"><circle cx="284.1" cy="112.1" r="4" fill="#3465a4"><title>Shiach (Personal)</title></circle></a><a href="/variants/s8/db31y4g68w4db31r2k6r2~x2/"><circle cx="250.6" cy="94.6" r="4" fill="#3465a4"><title>Inkster (Name)</title></circle></a><a href="/variants/s11/db10g6dp4dr2dp4k10db6k4db28g55w4/"><circle cx="216.8" cy="86.0" r="4" fill="#3465a4"><title>1314 (Corporate)</title></circle></a><a href="/variants/s7/t13g2t12k8r1dt35ly1~x2~g2408144/"><circle cx="270.2" cy="110.0" r="4" fill="#3465a4"><title>Spirit of South Lanarkshire District Tartan</title></circle></a><a href="/variants/s7/lb13g2lb12k8r1dt35ly1~x2~g2408144/"><circle cx="228.1" cy="93.1" r="4" fill="#3465a4"><title>Spirit of South Lanarkshire</title></circle></a><circle cx="253.5" cy="62.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r4g64y4g4k6db4y4db56w4db4w1/"><circle cx="258.2" cy="51.9" r="4" fill="#3465a4"><title>Pringle</title></circle></a><a href="/variants/s9/g28r4k3n2k1dg2r3db20y2~x2/"><circle cx="194.4" cy="78.9" r="4" fill="#3465a4"><title>Stirling University</title></circle></a><a href="/variants/s12/r10db4r3db6w3db4w3db40g73k4db2y6/"><circle cx="247.5" cy="57.8" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/"><circle cx="215.6" cy="82.4" r="4" fill="#3465a4"><title>Lusk (Personal)</title></circle></a><a href="/variants/s8/dy2r2k2t27k6g13k1lb2~x2/"><circle cx="227.7" cy="99.1" r="4" fill="#3465a4"><title>German MacLeod</title></circle></a><a href="/variants/s8/g45k4ri2g4ri2k4db21r5~x2~ri2806019-r2109032/"><circle cx="284.0" cy="112.3" r="4" fill="#3465a4"><title>Shiach (Personal)</title></circle></a><a href="/variants/s8/db31y4g68w4db31r2k6r2~x2/"><circle cx="250.5" cy="94.7" r="4" fill="#3465a4"><title>Inkster (Name)</title></circle></a><a href="/variants/s11/db10g6dp4dr2dp4k10db6k4db28g55w4/"><circle cx="216.7" cy="86.1" r="4" fill="#3465a4"><title>1314 (Corporate)</title></circle></a><a href="/variants/s7/t13g2t12k8r1dt35ly1~x2~g2408144/"><circle cx="270.0" cy="110.1" r="4" fill="#3465a4"><title>Spirit of South Lanarkshire District Tartan</title></circle></a><a href="/variants/s7/lb13g2lb12k8r1dt35ly1~x2~g2408144/"><circle cx="227.9" cy="93.3" r="4" fill="#3465a4"><title>Spirit of South Lanarkshire</title></circle></a><circle cx="253.3" cy="62.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g90r1k10w6k4g6r10db62y8/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Park High School (Texas)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db19w1db6w1db2w2y2w1y18/)
 (the same proportion at any scale), whose colour order is pattern [BWBWBWGWG](/stripes/bwbwbwgwg/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11020
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11020](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11020)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lb4dp2lb6dp2lb10dp30g10dp2g9dp2~x2/"><circle cx="310.9" cy="185.2" r="4" fill="#3465a4"><title>Lang</title></circle></a><a href="/variants/s9/n8y4n35db2lt8db2n4db21n4~x2~db1108266-lt3103227/"><circle cx="399.0" cy="187.6" r="4" fill="#3465a4"><title>Bedford Academy</title></circle></a><a href="/variants/s13/y22w1y2w2db2w1db14w1db2w2db2w1db14~x4/"><circle cx="344.1" cy="147.0" r="4" fill="#3465a4"><title>Highland Park HS Pipe Band</title></circle></a><a href="/variants/s13/b24w1b2w2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><circle cx="335.6" cy="147.6" r="4" fill="#3465a4"><title>MacDonald, Lord Of the Isles hunting</title></circle></a><a href="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/"><circle cx="328.6" cy="220.5" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1970 (Corporate)</title></circle></a><a href="/variants/s8/y32db3r4db3r8db32w3db4~x2/"><circle cx="280.7" cy="181.7" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/variants/s9/dy7db7dy4db26w12db3w14dr2db6/"><circle cx="261.9" cy="195.9" r="4" fill="#3465a4"><title>Aquascutum (Kinloch Anderson)</title></circle></a><a href="/variants/s8/y35db3r4db3r8db30w3db4~x2/"><circle cx="275.8" cy="178.6" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/variants/s9/dt44y8dt8y22lb4y4lb11y2w2~x2~dt1100000-y2200000/"><circle cx="342.7" cy="169.4" r="4" fill="#3465a4"><title>Titanium</title></circle></a><a href="/variants/s7/db3y2db30y19ly14y2ly3~x2/"><circle cx="295.4" cy="208.2" r="4" fill="#3465a4"><title>Bannockbane Brown #2</title></circle></a><circle cx="355.2" cy="173.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lb4dp2lb6dp2lb10dp30g10dp2g9dp2~x2/"><circle cx="311.0" cy="185.7" r="4" fill="#3465a4"><title>Lang</title></circle></a><a href="/variants/s9/n8y4n35db2lt8db2n4db21n4~x2~db1108266-lt3103227/"><circle cx="399.1" cy="187.8" r="4" fill="#3465a4"><title>Bedford Academy</title></circle></a><a href="/variants/s13/y22w1y2w2db2w1db14w1db2w2db2w1db14~x4/"><circle cx="344.0" cy="147.3" r="4" fill="#3465a4"><title>Highland Park HS Pipe Band</title></circle></a><a href="/variants/s13/b24w1b2w2dg2w1dg12w1dg2w2dg2w1dg12~x2/"><circle cx="335.5" cy="147.9" r="4" fill="#3465a4"><title>MacDonald, Lord Of the Isles hunting</title></circle></a><a href="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/"><circle cx="328.7" cy="221.1" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1970 (Corporate)</title></circle></a><a href="/variants/s8/y32db3r4db3r8db32w3db4~x2/"><circle cx="280.7" cy="182.0" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/variants/s9/dy7db7dy4db26w12db3w14dr2db6/"><circle cx="262.0" cy="196.4" r="4" fill="#3465a4"><title>Aquascutum (Kinloch Anderson)</title></circle></a><a href="/variants/s8/y35db3r4db3r8db30w3db4~x2/"><circle cx="275.8" cy="179.0" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/variants/s9/dt44y8dt8y22lb4y4lb11y2w2~x2~dt1100000-y2200000/"><circle cx="342.7" cy="169.7" r="4" fill="#3465a4"><title>Titanium</title></circle></a><a href="/variants/s7/db3y2db30y19ly14y2ly3~x2/"><circle cx="295.5" cy="208.7" r="4" fill="#3465a4"><title>Bannockbane Brown #2</title></circle></a><circle cx="355.2" cy="174.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db19w1db6w1db2w2y2w1y18~x4/

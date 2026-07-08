@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Spirit of Glyndwr"
   url: "/tartans/spirit-of-glyndwr/"
+- name: "Spirit of Glyndwr Red (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k24n18k11n4k11n18k53r4/)
 (the same proportion at any scale), whose colour order is pattern [KBKBKBKR](/stripes/kbkbkbkr/).
@@ -14,7 +16,7 @@ Part of the [Spirit of Glyndwr](/tartans/spirit-of-glyndwr/) tartan — the name
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8352
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8352](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8352)
 
 ## Provenance
 
@@ -88,8 +90,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k24n18k11n4k11n18k53ly4/"><circle cx="373.1" cy="179.5" r="4" fill="#3465a4"><title>Spirit of Glyndwr Gold (Fashion)</title></circle></a><a href="/variants/s8/k1g1k8n1k1n2k1n1~x8/"><circle cx="367.8" cy="174.1" r="4" fill="#3465a4"><title>Nightstalker (Corporate)</title></circle></a><a href="/variants/s8/k1g1k8n1k1n2k1n1~x8~n1900000/"><circle cx="371.9" cy="175.3" r="4" fill="#3465a4"><title>Nightstalker</title></circle></a><a href="/variants/s8/k24n18k11n4k11n18k53n4/"><circle cx="402.7" cy="195.1" r="4" fill="#3465a4"><title>Spirit of Glyndwr Grey (Fashion)</title></circle></a><a href="/variants/s7/k17n4k13n4k3n45k3~x2/"><circle cx="363.8" cy="170.6" r="4" fill="#3465a4"><title>Black Spirit Fashion Tartan</title></circle></a><a href="/variants/s7/n13k3n3k3n3k35r3~x2/"><circle cx="365.8" cy="157.2" r="4" fill="#3465a4"><title>Holden Black (Corporate)</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="450.6" cy="111.7" r="4" fill="#3465a4"><title>Laird Abdullah (Personal)</title></circle></a><a href="/variants/s7/n1k21n5k3n5k9r1~x4/"><circle cx="432.8" cy="151.3" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><a href="/variants/s7/k14dp2k4lb3k12dp8k1~x2/"><circle cx="379.7" cy="184.6" r="4" fill="#3465a4"><title>Punky Princess</title></circle></a><a href="/variants/s7/k39n3k3n3k14n28r3~x2/"><circle cx="335.7" cy="168.3" r="4" fill="#3465a4"><title>Moffat (1984)</title></circle></a><circle cx="372.4" cy="176.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k24n18k11n4k11n18k53ly4/"><circle cx="373.1" cy="179.9" r="4" fill="#3465a4"><title>Spirit of Glyndwr Gold (Fashion)</title></circle></a><a href="/variants/s8/k1g1k8n1k1n2k1n1~x8/"><circle cx="367.8" cy="174.6" r="4" fill="#3465a4"><title>Nightstalker (Corporate)</title></circle></a><a href="/variants/s8/k1g1k8n1k1n2k1n1~x8~n1900000/"><circle cx="371.9" cy="175.8" r="4" fill="#3465a4"><title>Nightstalker</title></circle></a><a href="/variants/s8/k24n18k11n4k11n18k53n4/"><circle cx="402.8" cy="195.6" r="4" fill="#3465a4"><title>Spirit of Glyndwr Grey (Fashion)</title></circle></a><a href="/variants/s7/k17n4k13n4k3n45k3~x2/"><circle cx="363.8" cy="171.1" r="4" fill="#3465a4"><title>Black Spirit Fashion Tartan</title></circle></a><a href="/variants/s7/n13k3n3k3n3k35r3~x2/"><circle cx="365.8" cy="157.6" r="4" fill="#3465a4"><title>Holden Black (Corporate)</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="450.5" cy="111.9" r="4" fill="#3465a4"><title>Laird Abdullah (Personal)</title></circle></a><a href="/variants/s7/n1k21n5k3n5k9r1~x4/"><circle cx="432.7" cy="151.7" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><a href="/variants/s7/k14dp2k4lb3k12dp8k1~x2/"><circle cx="379.7" cy="185.1" r="4" fill="#3465a4"><title>Punky Princess</title></circle></a><a href="/variants/s7/k39n3k3n3k14n28r3~x2/"><circle cx="335.7" cy="168.7" r="4" fill="#3465a4"><title>Moffat (1984)</title></circle></a><circle cx="372.4" cy="176.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k24n18k11n4k11n18k53r4/

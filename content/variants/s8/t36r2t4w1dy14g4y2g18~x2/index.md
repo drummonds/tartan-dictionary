@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Yorkland (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t36r2t4w1dy14g4y2g18/)
 (the same proportion at any scale), whose colour order is pattern [BRBWGGGG](/stripes/brbwgggg/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4794
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4794](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4794)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy4g3r2g36t30k3t3k3~x2/"><circle cx="290.5" cy="148.5" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/variants/s8/db30r2db4w1o11g4y2g22~x2/"><circle cx="261.2" cy="126.0" r="4" fill="#3465a4"><title>Yorkland</title></circle></a><a href="/variants/s10/dg5lo1t4dt18dg2r2dg16db1t32dt3~x2/"><circle cx="308.5" cy="132.5" r="4" fill="#3465a4"><title>Heriot Watt University (Corporate)</title></circle></a><a href="/variants/s12/k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2/"><circle cx="264.3" cy="79.2" r="4" fill="#3465a4"><title>State Seal of Maryland (Fashion)</title></circle></a><a href="/variants/s6/y9g18b9r1w1db1~x4/"><circle cx="301.8" cy="188.3" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><a href="/variants/s10/dr5g25w3t5n15t5ly3t44n1w4~x2/"><circle cx="366.0" cy="139.2" r="4" fill="#3465a4"><title>State Seal of Texas (Fashion)</title></circle></a><a href="/variants/s8/db5r3g2r3dg12t34g2w2~x2~dg1804158/"><circle cx="332.9" cy="148.9" r="4" fill="#3465a4"><title>Moran (Drummond) Personal Tartan</title></circle></a><a href="/variants/s8/g2dg9dr16r2t30g3dg6w1~x2/"><circle cx="272.3" cy="136.3" r="4" fill="#3465a4"><title>The Climb (Fashion)</title></circle></a><a href="/variants/s7/lg22w1gi6r6gi6y3g12~x2~gi2504202-g2203152/"><circle cx="242.0" cy="185.0" r="4" fill="#3465a4"><title>Dalveen (District)</title></circle></a><a href="/variants/s8/g6ti22g6dy20y1g45t1w5~x2~ti2503227-t2405244/"><circle cx="359.9" cy="138.4" r="4" fill="#3465a4"><title>Elbrick Hunting (Personal)</title></circle></a><circle cx="350.7" cy="143.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy4g3r2g36t30k3t3k3~x2/"><circle cx="290.5" cy="148.7" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/variants/s8/db30r2db4w1o11g4y2g22~x2/"><circle cx="261.1" cy="126.1" r="4" fill="#3465a4"><title>Yorkland</title></circle></a><a href="/variants/s10/dg5lo1t4dt18dg2r2dg16db1t32dt3~x2/"><circle cx="308.5" cy="132.4" r="4" fill="#3465a4"><title>Heriot Watt University (Corporate)</title></circle></a><a href="/variants/s12/k3ly3k2t40w3t10g10ly3g21k1dr3w3~x2/"><circle cx="264.1" cy="79.2" r="4" fill="#3465a4"><title>State Seal of Maryland (Fashion)</title></circle></a><a href="/variants/s6/y9g18b9r1w1db1~x4/"><circle cx="301.8" cy="188.5" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><a href="/variants/s10/dr5g25w3t5n15t5ly3t44n1w4~x2/"><circle cx="365.9" cy="139.1" r="4" fill="#3465a4"><title>State Seal of Texas (Fashion)</title></circle></a><a href="/variants/s8/db5r3g2r3dg12t34g2w2~x2~dg1804158/"><circle cx="332.9" cy="148.9" r="4" fill="#3465a4"><title>Moran (Drummond) Personal Tartan</title></circle></a><a href="/variants/s8/g2dg9dr16r2t30g3dg6w1~x2/"><circle cx="272.2" cy="136.3" r="4" fill="#3465a4"><title>The Climb (Fashion)</title></circle></a><a href="/variants/s7/lg22w1gi6r6gi6y3g12~x2~gi2504202-g2203152/"><circle cx="242.0" cy="185.3" r="4" fill="#3465a4"><title>Dalveen (District)</title></circle></a><a href="/variants/s8/g6ti22g6dy20y1g45t1w5~x2~ti2503227-t2405244/"><circle cx="359.9" cy="138.5" r="4" fill="#3465a4"><title>Elbrick Hunting (Personal)</title></circle></a><circle cx="350.6" cy="143.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/t36r2t4w1dy14g4y2g18~x2/

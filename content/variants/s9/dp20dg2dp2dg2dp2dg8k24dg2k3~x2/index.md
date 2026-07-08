@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Carlow Irish County Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp20dg2dp2dg2dp2dg8k24dg2k3/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBGKGK](/stripes/bgbgbgkgk/).
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2275
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2275](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2275)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k3dr1k14db14dr1db1dr1db1dr2~x4/"><circle cx="325.3" cy="168.6" r="4" fill="#3465a4"><title>Angus (District/Clan)</title></circle></a><a href="/variants/s9/k3dr1k14db14dr1db1dr1db1dr2~x4~db1406275/"><circle cx="312.1" cy="162.8" r="4" fill="#3465a4"><title>Angus</title></circle></a><a href="/variants/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/"><circle cx="293.2" cy="191.4" r="4" fill="#3465a4"><title>Herron from Ulster (Personal)</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8dr8k1dr8k8db8k1db1~x4/"><circle cx="254.0" cy="193.1" r="4" fill="#3465a4"><title>Wine Watch (Fashion)</title></circle></a><a href="/variants/s10/k3dg4dp25k16dg3k3dg3k3dg6o3~x2/"><circle cx="219.9" cy="179.1" r="4" fill="#3465a4"><title>MacAndreis</title></circle></a><a href="/variants/s8/k21n1k1n1k1n1k1n7~x4/"><circle cx="250.6" cy="159.7" r="4" fill="#3465a4"><title>Lunar (Fashion)</title></circle></a><a href="/variants/s10/dr10k4dr4k6dr28k10dy4db30k4db7~x2/"><circle cx="248.8" cy="205.5" r="4" fill="#3465a4"><title>St George's School</title></circle></a><a href="/variants/s10/k2dr26n26k2n3k2n3k14dr2k2~x2/"><circle cx="248.1" cy="158.0" r="4" fill="#3465a4"><title>Wcwm 1527</title></circle></a><a href="/variants/s10/k2dr24n24k2n2k2n3k14dr2k2~x2/"><circle cx="238.2" cy="161.5" r="4" fill="#3465a4"><title>Douglas (WCWM)</title></circle></a><a href="/variants/s11/w2k35db30k3dr30k2dr4k2dr30k3w2/"><circle cx="260.7" cy="139.7" r="4" fill="#3465a4"><title>Gwyn (Welsh Name)</title></circle></a><circle cx="298.3" cy="181.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k3dr1k14db14dr1db1dr1db1dr2~x4/"><circle cx="325.3" cy="168.7" r="4" fill="#3465a4"><title>Angus (District/Clan)</title></circle></a><a href="/variants/s9/k3dr1k14db14dr1db1dr1db1dr2~x4~db1406275/"><circle cx="312.1" cy="163.1" r="4" fill="#3465a4"><title>Angus</title></circle></a><a href="/variants/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/"><circle cx="293.1" cy="191.6" r="4" fill="#3465a4"><title>Herron from Ulster (Personal)</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8dr8k1dr8k8db8k1db1~x4/"><circle cx="254.0" cy="193.4" r="4" fill="#3465a4"><title>Wine Watch (Fashion)</title></circle></a><a href="/variants/s10/k3dg4dp25k16dg3k3dg3k3dg6o3~x2/"><circle cx="219.9" cy="179.4" r="4" fill="#3465a4"><title>MacAndreis</title></circle></a><a href="/variants/s8/k21n1k1n1k1n1k1n7~x4/"><circle cx="250.6" cy="160.0" r="4" fill="#3465a4"><title>Lunar (Fashion)</title></circle></a><a href="/variants/s10/dr10k4dr4k6dr28k10dy4db30k4db7~x2/"><circle cx="248.8" cy="205.8" r="4" fill="#3465a4"><title>St George's School</title></circle></a><a href="/variants/s10/k2dr26n26k2n3k2n3k14dr2k2~x2/"><circle cx="248.1" cy="158.3" r="4" fill="#3465a4"><title>Wcwm 1527</title></circle></a><a href="/variants/s10/k2dr24n24k2n2k2n3k14dr2k2~x2/"><circle cx="238.1" cy="161.8" r="4" fill="#3465a4"><title>Douglas (WCWM)</title></circle></a><a href="/variants/s11/w2k35db30k3dr30k2dr4k2dr30k3w2/"><circle cx="260.6" cy="139.9" r="4" fill="#3465a4"><title>Gwyn (Welsh Name)</title></circle></a><circle cx="298.3" cy="181.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dp20dg2dp2dg2dp2dg8k24dg2k3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "U.S. Forces Thurso (Military)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db40dr3k10lo2lb15w2lb4/)
 (the same proportion at any scale), whose colour order is pattern [BBKYWWW](/stripes/bbkywww/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5074
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5074](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5074)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/"><circle cx="151.0" cy="124.0" r="4" fill="#3465a4"><title>Unidentified #23</title></circle></a><a href="/variants/s7/db35r2k16y2b25w2b6~x2/"><circle cx="182.5" cy="134.5" r="4" fill="#3465a4"><title>Unidentified 7</title></circle></a><a href="/variants/s8/dg4lb2db18r2k4r6lb1w1~x4/"><circle cx="193.4" cy="109.2" r="4" fill="#3465a4"><title>Glenn</title></circle></a><a href="/variants/s7/r3db25k6lb20y2lb2w3~x2/"><circle cx="155.2" cy="137.3" r="4" fill="#3465a4"><title>Madras College (Corporate)</title></circle></a><a href="/variants/s9/y3db24r3db8k1lb16k1db3w3~x2/"><circle cx="254.9" cy="98.1" r="4" fill="#3465a4"><title>MacCormick Festive</title></circle></a><a href="/variants/s7/db4r2db39k11g2w16r2~x2/"><circle cx="256.1" cy="118.6" r="4" fill="#3465a4"><title>Sinclair, The Jack</title></circle></a><a href="/variants/s7/db4r2db39k11g2w16r2~x2~r2109032/"><circle cx="256.2" cy="118.7" r="4" fill="#3465a4"><title>Sinclair Dress Personal Tartan</title></circle></a><a href="/variants/s8/db39dy3k14dy3lb14y4w2do2~x2/"><circle cx="180.3" cy="91.5" r="4" fill="#3465a4"><title>Unidentified Lady's kilt</title></circle></a><a href="/variants/s8/db39o3k14o3lb14y4w2do2~x2/"><circle cx="174.5" cy="88.1" r="4" fill="#3465a4"><title>Unidentified, Lady's kilt</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.9" cy="117.7" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><circle cx="231.7" cy="108.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/"><circle cx="151.0" cy="124.3" r="4" fill="#3465a4"><title>Unidentified #23</title></circle></a><a href="/variants/s7/db35r2k16y2b25w2b6~x2/"><circle cx="182.5" cy="134.7" r="4" fill="#3465a4"><title>Unidentified 7</title></circle></a><a href="/variants/s8/dg4lb2db18r2k4r6lb1w1~x4/"><circle cx="193.3" cy="109.4" r="4" fill="#3465a4"><title>Glenn</title></circle></a><a href="/variants/s7/r3db25k6lb20y2lb2w3~x2/"><circle cx="155.2" cy="137.6" r="4" fill="#3465a4"><title>Madras College (Corporate)</title></circle></a><a href="/variants/s9/y3db24r3db8k1lb16k1db3w3~x2/"><circle cx="254.8" cy="98.2" r="4" fill="#3465a4"><title>MacCormick Festive</title></circle></a><a href="/variants/s7/db4r2db39k11g2w16r2~x2/"><circle cx="256.0" cy="118.9" r="4" fill="#3465a4"><title>Sinclair, The Jack</title></circle></a><a href="/variants/s7/db4r2db39k11g2w16r2~x2~r2109032/"><circle cx="256.1" cy="119.0" r="4" fill="#3465a4"><title>Sinclair Dress Personal Tartan</title></circle></a><a href="/variants/s8/db39dy3k14dy3lb14y4w2do2~x2/"><circle cx="180.1" cy="91.6" r="4" fill="#3465a4"><title>Unidentified Lady's kilt</title></circle></a><a href="/variants/s8/db39o3k14o3lb14y4w2do2~x2/"><circle cx="174.4" cy="88.2" r="4" fill="#3465a4"><title>Unidentified, Lady's kilt</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.8" cy="118.0" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><circle cx="231.6" cy="109.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db40dr3k10lo2lb15w2lb4~x2/

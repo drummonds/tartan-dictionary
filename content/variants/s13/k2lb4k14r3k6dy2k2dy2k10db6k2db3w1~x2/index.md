@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Kennedy"
   url: "/tartans/kennedy/"
+- name: "Kennedy (Irish)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2lb4k14r3k6dy2k2dy2k10db6k2db3w1/)
 (the same proportion at any scale), whose colour order is pattern [KWKRKGKGKBKBW](/stripes/kwkrkgkgkbkbw/).
@@ -14,7 +16,7 @@ Part of the [Kennedy](/tartans/kennedy/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1945
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1945](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1945)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k2b4k14dg3k6o2k2o2k10db6k2db3w1~x2/"><circle cx="252.7" cy="117.0" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/variants/s14/k30r3db10y3k40lb5n5db8r3y5k25db8lb8k5/"><circle cx="246.0" cy="96.7" r="4" fill="#3465a4"><title>Parker Black (2009)</title></circle></a><a href="/variants/s11/k16n4lb3k2db1w1r1k2lb3n4k12~x4/"><circle cx="266.9" cy="92.3" r="4" fill="#3465a4"><title>Iron Horse</title></circle></a><a href="/variants/s12/g12k40db4lb4db4k28db7k8db7k8db10r4/"><circle cx="269.9" cy="140.1" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s9/k10dp3db4dp3k7b3g8k17y2~x2/"><circle cx="213.1" cy="162.7" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><a href="/variants/s9/lg15k50w4r18k5db5k15y10k4~x2~lg2704216-w3600000/"><circle cx="217.4" cy="117.3" r="4" fill="#3465a4"><title>Care Leaver</title></circle></a><a href="/variants/s12/k6r2k10o6k3lb8k3n9k13r5k1g2~x2~o2500000-n1900000/"><circle cx="146.2" cy="136.3" r="4" fill="#3465a4"><title>Dilanan (Musselburgh) (Personal)</title></circle></a><a href="/variants/s11/dp2r1k4y2k12y8k12y2k4y1w2~x2/"><circle cx="271.9" cy="132.9" r="4" fill="#3465a4"><title>Gary</title></circle></a><a href="/variants/s10/k4db16k3db3k32ly7k3r10k2w4~x2/"><circle cx="207.3" cy="111.9" r="4" fill="#3465a4"><title>Model T Ford (Corporate)</title></circle></a><a href="/variants/s15/g2dr4g2k16g2k16g4k2g2k2g4k4db8k1lb2~x2/"><circle cx="242.0" cy="109.8" r="4" fill="#3465a4"><title>MacKean Hunting</title></circle></a><circle cx="241.9" cy="112.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k2b4k14dg3k6o2k2o2k10db6k2db3w1~x2/"><circle cx="252.6" cy="117.3" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/variants/s14/k30r3db10y3k40lb5n5db8r3y5k25db8lb8k5/"><circle cx="245.9" cy="96.8" r="4" fill="#3465a4"><title>Parker Black (2009)</title></circle></a><a href="/variants/s11/k16n4lb3k2db1w1r1k2lb3n4k12~x4/"><circle cx="266.8" cy="92.5" r="4" fill="#3465a4"><title>Iron Horse</title></circle></a><a href="/variants/s12/g12k40db4lb4db4k28db7k8db7k8db10r4/"><circle cx="269.9" cy="140.4" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s9/k10dp3db4dp3k7b3g8k17y2~x2/"><circle cx="213.1" cy="163.1" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><a href="/variants/s9/lg15k50w4r18k5db5k15y10k4~x2~lg2704216-w3600000/"><circle cx="217.3" cy="117.6" r="4" fill="#3465a4"><title>Care Leaver</title></circle></a><a href="/variants/s12/k6r2k10o6k3lb8k3n9k13r5k1g2~x2~o2500000-n1900000/"><circle cx="146.2" cy="136.6" r="4" fill="#3465a4"><title>Dilanan (Musselburgh) (Personal)</title></circle></a><a href="/variants/s11/dp2r1k4y2k12y8k12y2k4y1w2~x2/"><circle cx="271.8" cy="133.2" r="4" fill="#3465a4"><title>Gary</title></circle></a><a href="/variants/s10/k4db16k3db3k32ly7k3r10k2w4~x2/"><circle cx="207.2" cy="112.2" r="4" fill="#3465a4"><title>Model T Ford (Corporate)</title></circle></a><a href="/variants/s15/g2dr4g2k16g2k16g4k2g2k2g4k4db8k1lb2~x2/"><circle cx="241.9" cy="110.0" r="4" fill="#3465a4"><title>MacKean Hunting</title></circle></a><circle cx="241.8" cy="112.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/k2lb4k14r3k6dy2k2dy2k10db6k2db3w1~x2/

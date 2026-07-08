@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "H.M.S. DUNCAN"
   url: "/tartans/h-m-s-duncan/"
+- name: "H.M.S. DUNCAN"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp3dt15db15r2db15y3/)
 (the same proportion at any scale), whose colour order is pattern [BBBRBG](/stripes/bbbrbg/).
@@ -14,7 +16,7 @@ Part of the [H.M.S. DUNCAN](/tartans/h-m-s-duncan/) tartan — the named design 
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10268
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10268](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10268)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/"><circle cx="476.7" cy="265.9" r="4" fill="#3465a4"><title>Wcwm 1255-1</title></circle></a><a href="/variants/s6/dp3n15db15r2db15y3~x2/"><circle cx="351.9" cy="250.0" r="4" fill="#3465a4"><title>HMS Duncan (Military)</title></circle></a><a href="/variants/s7/dp6dy2dp1dg25db16k2db4~x2/"><circle cx="393.1" cy="185.5" r="4" fill="#3465a4"><title>Lawrie</title></circle></a><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/"><circle cx="355.7" cy="171.3" r="4" fill="#3465a4"><title>Laurie</title></circle></a><a href="/variants/s8/db3dg10db5y1db10k1dr4w1~x4/"><circle cx="269.1" cy="186.8" r="4" fill="#3465a4"><title>Côté-Haché (Personal)</title></circle></a><a href="/variants/s6/dy34db27r3db27dy34w3~x2/"><circle cx="378.0" cy="255.8" r="4" fill="#3465a4"><title>London Regiment</title></circle></a><a href="/variants/s5/dy46dg23t23r4y4~x2/"><circle cx="314.8" cy="240.2" r="4" fill="#3465a4"><title>McMoosie Htg (Fashion)</title></circle></a><a href="/variants/s5/y1db11dbi5db2g1~x4~db1003265-dbi1605267/"><circle cx="516.3" cy="260.8" r="4" fill="#3465a4"><title>Open Championship, The</title></circle></a><a href="/variants/s5/y1db10dbi5db2g1~x8~db1204274-dbi1406275/"><circle cx="547.3" cy="286.9" r="4" fill="#3465a4"><title>Open Championship (2000)</title></circle></a><a href="/variants/s6/k2dg7db2dg7db16r1~x6~k0700000-db0805267/"><circle cx="408.4" cy="219.3" r="4" fill="#3465a4"><title>Hutton (Name)</title></circle></a><circle cx="397.0" cy="268.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/"><circle cx="476.8" cy="266.0" r="4" fill="#3465a4"><title>Wcwm 1255-1</title></circle></a><a href="/variants/s6/dp3n15db15r2db15y3~x2/"><circle cx="352.0" cy="250.3" r="4" fill="#3465a4"><title>HMS Duncan (Military)</title></circle></a><a href="/variants/s7/dp6dy2dp1dg25db16k2db4~x2/"><circle cx="393.1" cy="185.4" r="4" fill="#3465a4"><title>Lawrie</title></circle></a><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/"><circle cx="355.6" cy="171.2" r="4" fill="#3465a4"><title>Laurie</title></circle></a><a href="/variants/s8/db3dg10db5y1db10k1dr4w1~x4/"><circle cx="269.1" cy="187.0" r="4" fill="#3465a4"><title>Côté-Haché (Personal)</title></circle></a><a href="/variants/s6/dy34db27r3db27dy34w3~x2/"><circle cx="378.1" cy="256.2" r="4" fill="#3465a4"><title>London Regiment</title></circle></a><a href="/variants/s5/dy46dg23t23r4y4~x2/"><circle cx="314.9" cy="240.5" r="4" fill="#3465a4"><title>McMoosie Htg (Fashion)</title></circle></a><a href="/variants/s5/y1db11dbi5db2g1~x4~db1003265-dbi1605267/"><circle cx="516.4" cy="261.0" r="4" fill="#3465a4"><title>Open Championship, The</title></circle></a><a href="/variants/s5/y1db10dbi5db2g1~x8~db1204274-dbi1406275/"><circle cx="547.4" cy="287.0" r="4" fill="#3465a4"><title>Open Championship (2000)</title></circle></a><a href="/variants/s6/k2dg7db2dg7db16r1~x6~k0700000-db0805267/"><circle cx="408.5" cy="219.5" r="4" fill="#3465a4"><title>Hutton (Name)</title></circle></a><circle cx="397.1" cy="268.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dp3dt15db15r2db15y3~x2/

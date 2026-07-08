@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pride of Scotland Gold"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k9n2ly2k2w18ly2k2w1k19ly33dr2/)
 (the same proportion at any scale), whose colour order is pattern [BYKWKYWKYBK](/stripes/bykwkywkybk/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3379
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3379](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3379)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lo45g24k15w2lo2k1lo2w2lb11k3lo4w8~x2/"><circle cx="205.0" cy="65.5" r="4" fill="#3465a4"><title>MacGill of Jura (Clan?)</title></circle></a><a href="/variants/s9/r6g2w21dy2k8dy2g32w1k3~x2/"><circle cx="191.6" cy="93.6" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><a href="/variants/s8/r8ly44k32w2n52k7n7w3/"><circle cx="169.9" cy="122.2" r="4" fill="#3465a4"><title>Golden Wedding (Fashion)</title></circle></a><a href="/variants/s10/r6g2w21g2y2k8y2g32w1k3~x2/"><circle cx="200.3" cy="86.8" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><a href="/variants/s15/w3lb2w3r4w16k2w2k2w3k10g35k2g2k1g2~x2/"><circle cx="196.9" cy="56.8" r="4" fill="#3465a4"><title>Prestoungrange/Dolphinstoun/Wills dress</title></circle></a><a href="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/"><circle cx="186.2" cy="136.7" r="4" fill="#3465a4"><title>Burberry (Counterfeit #4)</title></circle></a><a href="/variants/s15/k3lb4r5k2lb5k2r5k2g25k3lb11k2r5k1w3~x2/"><circle cx="117.8" cy="86.8" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh)</title></circle></a><a href="/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/"><circle cx="176.5" cy="109.8" r="4" fill="#3465a4"><title>Varenne</title></circle></a><a href="/variants/s11/dy27w2dy3ly4dy3w2dy5k13n2w26n3~x2/"><circle cx="158.9" cy="119.0" r="4" fill="#3465a4"><title>MacKellar Dress, Maroon (Dance)</title></circle></a><a href="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/"><circle cx="186.4" cy="76.2" r="4" fill="#3465a4"><title>National Millennium</title></circle></a><circle cx="185.2" cy="82.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lo45g24k15w2lo2k1lo2w2lb11k3lo4w8~x2/"><circle cx="204.8" cy="65.7" r="4" fill="#3465a4"><title>MacGill of Jura (Clan?)</title></circle></a><a href="/variants/s9/r6g2w21dy2k8dy2g32w1k3~x2/"><circle cx="191.6" cy="93.8" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><a href="/variants/s8/r8ly44k32w2n52k7n7w3/"><circle cx="169.8" cy="122.5" r="4" fill="#3465a4"><title>Golden Wedding (Fashion)</title></circle></a><a href="/variants/s10/r6g2w21g2y2k8y2g32w1k3~x2/"><circle cx="200.2" cy="87.0" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><a href="/variants/s15/w3lb2w3r4w16k2w2k2w3k10g35k2g2k1g2~x2/"><circle cx="196.8" cy="57.0" r="4" fill="#3465a4"><title>Prestoungrange/Dolphinstoun/Wills dress</title></circle></a><a href="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/"><circle cx="186.2" cy="137.1" r="4" fill="#3465a4"><title>Burberry (Counterfeit #4)</title></circle></a><a href="/variants/s15/k3lb4r5k2lb5k2r5k2g25k3lb11k2r5k1w3~x2/"><circle cx="117.7" cy="87.1" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh)</title></circle></a><a href="/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/"><circle cx="176.4" cy="110.1" r="4" fill="#3465a4"><title>Varenne</title></circle></a><a href="/variants/s11/dy27w2dy3ly4dy3w2dy5k13n2w26n3~x2/"><circle cx="158.8" cy="119.4" r="4" fill="#3465a4"><title>MacKellar Dress, Maroon (Dance)</title></circle></a><a href="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/"><circle cx="186.3" cy="76.3" r="4" fill="#3465a4"><title>National Millennium</title></circle></a><circle cx="185.1" cy="82.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k9n2ly2k2w18ly2k2w1k19ly33dr2~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Letham"
   url: "/tartans/letham/"
+- name: "Letham Personal Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg40k20db10k4db7dg13k4db4/)
 (the same proportion at any scale), whose colour order is pattern [BKGBKBKG](/stripes/bkgbkbkg/).
@@ -14,7 +16,7 @@ Part of the [Letham](/tartans/letham/) tartan — the named design grouping this
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6718
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6718](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6718)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k1db12k12g1k12db12g1~x4/"><circle cx="311.3" cy="213.1" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/variants/s9/dg15db8k5db8dg15y3dg15db8k5~x2/"><circle cx="293.2" cy="274.5" r="4" fill="#3465a4"><title>Dewar, Robert Alexander</title></circle></a><a href="/variants/s8/r4dg3k2dg38db30k3db3k3~x2/"><circle cx="351.4" cy="159.2" r="4" fill="#3465a4"><title>Peter of Lee</title></circle></a><a href="/variants/s10/db1k1db8k2ly1dg12ly1db8k1db1~x4/"><circle cx="293.2" cy="168.6" r="4" fill="#3465a4"><title>Rowan (Name)</title></circle></a><a href="/variants/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/"><circle cx="293.2" cy="191.4" r="4" fill="#3465a4"><title>Herron from Ulster (Personal)</title></circle></a><a href="/variants/s11/k1b1dg7k8b1k8b1dg2b1k4b1~x4/"><circle cx="306.0" cy="188.3" r="4" fill="#3465a4"><title>Clergy, or Priest</title></circle></a><a href="/variants/s9/k3n6k2n8dt20o3dt2o2dt3~x2~n1900000-o2500000/"><circle cx="309.8" cy="192.9" r="4" fill="#3465a4"><title>Scottish Monuments (Corporate)</title></circle></a><a href="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/"><circle cx="218.2" cy="252.9" r="4" fill="#3465a4"><title>Black Watch (smallest sett)</title></circle></a><a href="/variants/s7/db4k4db16k14dg14dr3dg3~x2/"><circle cx="199.5" cy="254.4" r="4" fill="#3465a4"><title>Inneryne (Personal)</title></circle></a><a href="/variants/s7/db5dg8k1y2k1dg8db4~x4/"><circle cx="339.3" cy="247.0" r="4" fill="#3465a4"><title>Salvation Army Htg (Corporate)</title></circle></a><circle cx="336.0" cy="218.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k1db12k12g1k12db12g1~x4/"><circle cx="311.3" cy="213.5" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/variants/s9/dg15db8k5db8dg15y3dg15db8k5~x2/"><circle cx="293.4" cy="275.0" r="4" fill="#3465a4"><title>Dewar, Robert Alexander</title></circle></a><a href="/variants/s8/r4dg3k2dg38db30k3db3k3~x2/"><circle cx="351.3" cy="159.3" r="4" fill="#3465a4"><title>Peter of Lee</title></circle></a><a href="/variants/s10/db1k1db8k2ly1dg12ly1db8k1db1~x4/"><circle cx="293.2" cy="168.9" r="4" fill="#3465a4"><title>Rowan (Name)</title></circle></a><a href="/variants/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/"><circle cx="293.1" cy="191.6" r="4" fill="#3465a4"><title>Herron from Ulster (Personal)</title></circle></a><a href="/variants/s11/k1b1dg7k8b1k8b1dg2b1k4b1~x4/"><circle cx="306.0" cy="188.7" r="4" fill="#3465a4"><title>Clergy, or Priest</title></circle></a><a href="/variants/s9/k3n6k2n8dt20o3dt2o2dt3~x2~n1900000-o2500000/"><circle cx="309.8" cy="193.2" r="4" fill="#3465a4"><title>Scottish Monuments (Corporate)</title></circle></a><a href="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/"><circle cx="218.2" cy="253.4" r="4" fill="#3465a4"><title>Black Watch (smallest sett)</title></circle></a><a href="/variants/s7/db4k4db16k14dg14dr3dg3~x2/"><circle cx="199.5" cy="254.8" r="4" fill="#3465a4"><title>Inneryne (Personal)</title></circle></a><a href="/variants/s7/db5dg8k1y2k1dg8db4~x4/"><circle cx="339.4" cy="247.3" r="4" fill="#3465a4"><title>Salvation Army Htg (Corporate)</title></circle></a><circle cx="336.0" cy="218.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg40k20db10k4db7dg13k4db4~x2/

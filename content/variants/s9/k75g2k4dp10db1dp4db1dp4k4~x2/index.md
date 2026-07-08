@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Laird"
   url: "/tartans/laird/"
+- name: "Laird (Restricted)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k75g2k4dp10db1dp4db1dp4k4/)
 (the same proportion at any scale), whose colour order is pattern [KBBBBBKGK](/stripes/kbbbbbkgk/).
@@ -14,7 +16,7 @@ Part of the [Laird](/tartans/laird/) tartan — the named design grouping this s
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5807
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5807](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5807)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k75dp6n2k2n2dp6k12db2n2~x2/"><circle cx="580.3" cy="83.1" r="4" fill="#3465a4"><title>Clan Inebriated (Corporate)</title></circle></a><a href="/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/"><circle cx="562.6" cy="50.5" r="4" fill="#3465a4"><title>Selkirk Silver Band (Corporate)</title></circle></a><a href="/variants/s6/k120b4k12dt36dg3k6/"><circle cx="539.6" cy="117.9" r="4" fill="#3465a4"><title>Scottish Football Association (Corp)</title></circle></a><a href="/variants/s9/k100dp8n4k4n4dp8k25db10n4/"><circle cx="510.0" cy="106.1" r="4" fill="#3465a4"><title>CI (Corporate)</title></circle></a><a href="/variants/s12/k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000/"><circle cx="626.0" cy="54.5" r="4" fill="#3465a4"><title>Celkilt</title></circle></a><a href="/variants/s8/db8r1k6r1dy8r1k45dy1~x2/"><circle cx="479.8" cy="85.7" r="4" fill="#3465a4"><title>degli Uberti, Baron of Cartsburn (Personal)</title></circle></a><a href="/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2~n1700000-o2500000/"><circle cx="509.2" cy="45.9" r="4" fill="#3465a4"><title>Grassi (2009)</title></circle></a><a href="/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/"><circle cx="521.9" cy="62.9" r="4" fill="#3465a4"><title>Scotland's Lionheart</title></circle></a><a href="/variants/s7/k5r1k41dg8k8y1k5~x2/"><circle cx="608.3" cy="111.2" r="4" fill="#3465a4"><title>Callaghan</title></circle></a><a href="/variants/s10/k100dp5k4dp3k2g1k2dp2k4dp5~x2/"><circle cx="626.0" cy="77.2" r="4" fill="#3465a4"><title>Webster, Colin Wesley (Personal)</title></circle></a><circle cx="570.2" cy="65.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k75dp6n2k2n2dp6k12db2n2~x2/"><circle cx="580.1" cy="83.1" r="4" fill="#3465a4"><title>Clan Inebriated (Corporate)</title></circle></a><a href="/variants/s10/k75dr1k4n15k2n1k3db1k2dr1~x2/"><circle cx="562.4" cy="50.5" r="4" fill="#3465a4"><title>Selkirk Silver Band (Corporate)</title></circle></a><a href="/variants/s6/k120b4k12dt36dg3k6/"><circle cx="539.5" cy="117.9" r="4" fill="#3465a4"><title>Scottish Football Association (Corp)</title></circle></a><a href="/variants/s9/k100dp8n4k4n4dp8k25db10n4/"><circle cx="509.9" cy="106.1" r="4" fill="#3465a4"><title>CI (Corporate)</title></circle></a><a href="/variants/s12/k80n2k160dt8n2dt5n3dt3n4dt2n5w2~dt0900000/"><circle cx="626.0" cy="54.4" r="4" fill="#3465a4"><title>Celkilt</title></circle></a><a href="/variants/s8/db8r1k6r1dy8r1k45dy1~x2/"><circle cx="479.7" cy="85.6" r="4" fill="#3465a4"><title>degli Uberti, Baron of Cartsburn (Personal)</title></circle></a><a href="/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2~n1700000-o2500000/"><circle cx="509.0" cy="45.8" r="4" fill="#3465a4"><title>Grassi (2009)</title></circle></a><a href="/variants/s9/k78y16k2dt2k2y2k3r2k10~x2~y2100000-dt1700000/"><circle cx="521.7" cy="62.9" r="4" fill="#3465a4"><title>Scotland's Lionheart</title></circle></a><a href="/variants/s7/k5r1k41dg8k8y1k5~x2/"><circle cx="608.2" cy="111.3" r="4" fill="#3465a4"><title>Callaghan</title></circle></a><a href="/variants/s10/k100dp5k4dp3k2g1k2dp2k4dp5~x2/"><circle cx="626.0" cy="77.1" r="4" fill="#3465a4"><title>Webster, Colin Wesley (Personal)</title></circle></a><circle cx="570.1" cy="65.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k75g2k4dp10db1dp4db1dp4k4~x2/

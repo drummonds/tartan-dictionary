@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Washington State University Cougar"
   url: "/tartans/washington-state-university-cougar/"
+- name: "Washington State University Cougar"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r6w3n6o10r38w2n4/)
 (the same proportion at any scale), whose colour order is pattern [BWRRBWR](/stripes/bwrrbwr/).
@@ -14,7 +16,7 @@ Part of the [Washington State University Cougar](/tartans/washington-state-unive
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10831
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10831](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10831)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r6w3n6lb10r38w2n4/"><circle cx="424.2" cy="157.4" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s5/r12w1r2o1n3~x4~o2500000-n1900000/"><circle cx="516.2" cy="195.9" r="4" fill="#3465a4"><title>Glen Shee Plaid (Fashion)</title></circle></a><a href="/variants/s5/r12w1r2lb1n3~x4/"><circle cx="511.8" cy="196.9" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s7/r40db8lo8r4lo1r4lr8~x4/"><circle cx="461.5" cy="127.9" r="4" fill="#3465a4"><title>Wcwm 4907-1</title></circle></a><a href="/variants/s6/r40w2db2w2r1y20~x2/"><circle cx="474.1" cy="136.7" r="4" fill="#3465a4"><title>National Defense</title></circle></a><a href="/variants/s5/r24t3w1g9r12~x8/"><circle cx="375.4" cy="163.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r35w3r8y2g11~x2/"><circle cx="485.7" cy="179.8" r="4" fill="#3465a4"><title>Highlands at Wyomissing, The</title></circle></a><a href="/variants/s10/r4dg13r3dp4r3dp3r40dp3r2ly4~x2/"><circle cx="431.6" cy="122.2" r="4" fill="#3465a4"><title>Galway, County</title></circle></a><a href="/variants/s5/r12w1r2dg1b3~x4/"><circle cx="476.3" cy="183.9" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s8/r100db10w5db14y4dbi8y4r24~db1004274-dbi1406275/"><circle cx="478.9" cy="102.2" r="4" fill="#3465a4"><title>Earl of Inverness (Royal)</title></circle></a><circle cx="439.6" cy="160.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r6w3n6lb10r38w2n4/"><circle cx="424.3" cy="157.8" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s5/r12w1r2o1n3~x4~o2500000-n1900000/"><circle cx="516.3" cy="196.3" r="4" fill="#3465a4"><title>Glen Shee Plaid (Fashion)</title></circle></a><a href="/variants/s5/r12w1r2lb1n3~x4/"><circle cx="512.0" cy="197.4" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s7/r40db8lo8r4lo1r4lr8~x4/"><circle cx="461.5" cy="128.1" r="4" fill="#3465a4"><title>Wcwm 4907-1</title></circle></a><a href="/variants/s6/r40w2db2w2r1y20~x2/"><circle cx="474.1" cy="136.9" r="4" fill="#3465a4"><title>National Defense</title></circle></a><a href="/variants/s5/r24t3w1g9r12~x8/"><circle cx="375.4" cy="163.8" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r35w3r8y2g11~x2/"><circle cx="485.8" cy="180.2" r="4" fill="#3465a4"><title>Highlands at Wyomissing, The</title></circle></a><a href="/variants/s10/r4dg13r3dp4r3dp3r40dp3r2ly4~x2/"><circle cx="431.6" cy="122.4" r="4" fill="#3465a4"><title>Galway, County</title></circle></a><a href="/variants/s5/r12w1r2dg1b3~x4/"><circle cx="476.4" cy="184.4" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s8/r100db10w5db14y4dbi8y4r24~db1004274-dbi1406275/"><circle cx="478.9" cy="102.5" r="4" fill="#3465a4"><title>Earl of Inverness (Royal)</title></circle></a><circle cx="439.7" cy="160.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r6w3n6o10r38w2n4~n1900000-o2500000/

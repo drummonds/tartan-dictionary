@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ferring Pharmaceuticals"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb6t2db4dbi12t48dbi8ti8tii10ti9dbi8ti24dbi8t6dbi4lb4/)
 (the same proportion at any scale), whose colour order is pattern [WBBBBBBBBBBBBBW](/stripes/wbbbbbbbbbbbbbw/).
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1172
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1172](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1172)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>

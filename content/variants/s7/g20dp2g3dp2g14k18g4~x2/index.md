@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pringle, James (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g20dp2g3dp2g14k18g4/)
 (the same proportion at any scale), whose colour order is pattern [GBGBGKG](/stripes/gbgbgkg/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y1g1r1g6k6g6w1g1~x4/"><circle cx="230.5" cy="186.1" r="4" fill="#3465a4"><title>Vermont</title></circle></a><a href="/variants/s7/g24r4g3k14g5r2g10~x2/"><circle cx="341.1" cy="194.5" r="4" fill="#3465a4"><title>Northcroft (Personal)</title></circle></a><a href="/variants/s7/dr3g20k20g20lo2g2lo2~x2/"><circle cx="277.2" cy="182.9" r="4" fill="#3465a4"><title>Paton (Personal)</title></circle></a><a href="/variants/s7/g8w4g50k12g4k15ly5~x2/"><circle cx="302.5" cy="158.9" r="4" fill="#3465a4"><title>Instakilt, Green (Fashion)</title></circle></a><a href="/variants/s7/r3g24k28g19y3g3y3~x2/"><circle cx="247.6" cy="185.7" r="4" fill="#3465a4"><title>Paton</title></circle></a><a href="/variants/s6/g18y2g18k4g2k15~x2/"><circle cx="313.9" cy="219.3" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/variants/s6/g18ly2g18k4g2k15~x2/"><circle cx="311.0" cy="218.5" r="4" fill="#3465a4"><title>MacArthur (Highland Society)</title></circle></a><a href="/variants/s7/ly1dg11k6dg3ly1dg1ly1~x4/"><circle cx="334.2" cy="183.7" r="4" fill="#3465a4"><title>Angle, Green (Fashion)</title></circle></a><a href="/variants/s7/w1lg11k6lg3w1lg1w1~x4/"><circle cx="303.7" cy="184.0" r="4" fill="#3465a4"><title>Angle, Blue (Fashion)</title></circle></a><a href="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/"><circle cx="334.3" cy="186.1" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><circle cx="321.5" cy="202.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y1g1r1g6k6g6w1g1~x4/"><circle cx="230.6" cy="186.7" r="4" fill="#3465a4"><title>Vermont</title></circle></a><a href="/variants/s7/g24r4g3k14g5r2g10~x2/"><circle cx="341.1" cy="195.1" r="4" fill="#3465a4"><title>Northcroft (Personal)</title></circle></a><a href="/variants/s7/dr3g20k20g20lo2g2lo2~x2/"><circle cx="277.2" cy="183.4" r="4" fill="#3465a4"><title>Paton (Personal)</title></circle></a><a href="/variants/s7/g8w4g50k12g4k15ly5~x2/"><circle cx="302.6" cy="159.4" r="4" fill="#3465a4"><title>Instakilt, Green (Fashion)</title></circle></a><a href="/variants/s7/r3g24k28g19y3g3y3~x2/"><circle cx="247.6" cy="186.3" r="4" fill="#3465a4"><title>Paton</title></circle></a><a href="/variants/s6/g18y2g18k4g2k15~x2/"><circle cx="314.0" cy="220.0" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/variants/s6/g18ly2g18k4g2k15~x2/"><circle cx="311.1" cy="219.2" r="4" fill="#3465a4"><title>MacArthur (Highland Society)</title></circle></a><a href="/variants/s7/ly1dg11k6dg3ly1dg1ly1~x4/"><circle cx="334.2" cy="184.2" r="4" fill="#3465a4"><title>Angle, Green (Fashion)</title></circle></a><a href="/variants/s7/w1lg11k6lg3w1lg1w1~x4/"><circle cx="303.7" cy="184.6" r="4" fill="#3465a4"><title>Angle, Blue (Fashion)</title></circle></a><a href="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/"><circle cx="334.3" cy="186.6" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><circle cx="321.6" cy="202.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g20dp2g3dp2g14k18g4~x2/

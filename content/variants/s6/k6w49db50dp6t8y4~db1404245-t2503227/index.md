@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Pipers' Trail Dance, The"
   url: "/tartans/pipers-trail-dance-the/"
+- name: "Pipers' Trail Dance, The"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k6w49db50dp6t8y4/)
 (the same proportion at any scale), whose colour order is pattern [GBBBWK](/stripes/gbbbwk/).
@@ -14,7 +16,7 @@ Part of the [Pipers' Trail Dance, The](/tartans/pipers-trail-dance-the/) tartan 
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11200
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11200](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11200)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k6w49db50dp6dbi8ly4~db1204274-dbi1406275/"><circle cx="158.5" cy="144.8" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="153.9" cy="130.4" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="152.7" cy="199.1" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/variants/s7/k3y1w9y1db9k3lb1~x4/"><circle cx="100.7" cy="171.5" r="4" fill="#3465a4"><title>St. Francis Xavier University</title></circle></a><a href="/variants/s5/k1w7lo7db16y1~x4/"><circle cx="207.6" cy="161.6" r="4" fill="#3465a4"><title>Prehospital EMS (Corporate)</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="207.3" cy="161.4" r="4" fill="#3465a4"><title>Prehospital EMS Tartan (USA)</title></circle></a><a href="/variants/s6/w18k1db4g4dp10lo2~x4/"><circle cx="167.3" cy="135.6" r="4" fill="#3465a4"><title>Edgar-Feyen</title></circle></a><a href="/variants/s7/r3db25k6lb20y2lb2w3~x2/"><circle cx="155.2" cy="137.3" r="4" fill="#3465a4"><title>Madras College (Corporate)</title></circle></a><a href="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/"><circle cx="167.7" cy="136.6" r="4" fill="#3465a4"><title>Dignan School of Dancing</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="156.7" cy="175.2" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><circle cx="153.8" cy="144.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k6w49db50dp6dbi8ly4~db1204274-dbi1406275/"><circle cx="158.5" cy="145.2" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="153.8" cy="130.8" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="152.7" cy="199.7" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/variants/s7/k3y1w9y1db9k3lb1~x4/"><circle cx="100.8" cy="172.0" r="4" fill="#3465a4"><title>St. Francis Xavier University</title></circle></a><a href="/variants/s5/k1w7lo7db16y1~x4/"><circle cx="207.6" cy="162.1" r="4" fill="#3465a4"><title>Prehospital EMS (Corporate)</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="207.3" cy="161.9" r="4" fill="#3465a4"><title>Prehospital EMS Tartan (USA)</title></circle></a><a href="/variants/s6/w18k1db4g4dp10lo2~x4/"><circle cx="167.3" cy="136.0" r="4" fill="#3465a4"><title>Edgar-Feyen</title></circle></a><a href="/variants/s7/r3db25k6lb20y2lb2w3~x2/"><circle cx="155.2" cy="137.6" r="4" fill="#3465a4"><title>Madras College (Corporate)</title></circle></a><a href="/variants/s7/lo4dr2t32k10dp4lb21dp2~x2/"><circle cx="167.7" cy="136.9" r="4" fill="#3465a4"><title>Dignan School of Dancing</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="156.8" cy="175.8" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><circle cx="153.8" cy="144.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Highland Queen"
   url: "/tartans/highland-queen/"
+- name: "Highland Queen (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r8g4r30db6r2k1r2g6r8k1r4y2/)
 (the same proportion at any scale), whose colour order is pattern [GRKRGRKRBRGR](/stripes/grkrgrkrbrgr/).
@@ -14,7 +16,7 @@ Part of the [Highland Queen](/tartans/highland-queen/) tartan — the named desi
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10171
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10171](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10171)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r8g4r30lb6r2k1r2g6r8k1r4ly2~x2/"><circle cx="436.6" cy="78.9" r="4" fill="#3465a4"><title>Highland Queen</title></circle></a><a href="/variants/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/"><circle cx="325.8" cy="73.1" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/variants/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="328.5" cy="72.0" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/variants/s12/r36y4r1y4r4k8r4k2r4w2r1w4~x2/"><circle cx="387.2" cy="57.9" r="4" fill="#3465a4"><title>Manchester Reds</title></circle></a><a href="/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/"><circle cx="486.0" cy="97.4" r="4" fill="#3465a4"><title>MacPherson-Grant</title></circle></a><a href="/variants/s9/r24t14ly2t3k2t6r38ly1lr2~x2/"><circle cx="431.6" cy="93.2" r="4" fill="#3465a4"><title>Uddingston Rugby Club Centenary (Cor</title></circle></a><a href="/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/"><circle cx="499.3" cy="58.2" r="4" fill="#3465a4"><title>Junor</title></circle></a><a href="/variants/s7/r23k1g9r3db1lb1r1~x4/"><circle cx="422.0" cy="103.2" r="4" fill="#3465a4"><title>Perthshire Clayquhat District Tartan</title></circle></a><a href="/variants/s8/y8k2r23k1r17k1g4w3~x2/"><circle cx="371.4" cy="111.1" r="4" fill="#3465a4"><title>Hoa Sen</title></circle></a><a href="/variants/s10/r64db16r1db1r12g16r8db2r2k1~x2/"><circle cx="465.5" cy="66.8" r="4" fill="#3465a4"><title>Moffat (1950)</title></circle></a><circle cx="435.5" cy="78.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r8g4r30lb6r2k1r2g6r8k1r4ly2~x2/"><circle cx="436.5" cy="79.1" r="4" fill="#3465a4"><title>Highland Queen</title></circle></a><a href="/variants/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/"><circle cx="325.7" cy="73.4" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/variants/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="328.4" cy="72.2" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/variants/s12/r36y4r1y4r4k8r4k2r4w2r1w4~x2/"><circle cx="387.1" cy="58.2" r="4" fill="#3465a4"><title>Manchester Reds</title></circle></a><a href="/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/"><circle cx="486.0" cy="97.7" r="4" fill="#3465a4"><title>MacPherson-Grant</title></circle></a><a href="/variants/s9/r24t14ly2t3k2t6r38ly1lr2~x2/"><circle cx="431.5" cy="93.3" r="4" fill="#3465a4"><title>Uddingston Rugby Club Centenary (Cor</title></circle></a><a href="/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/"><circle cx="499.2" cy="58.3" r="4" fill="#3465a4"><title>Junor</title></circle></a><a href="/variants/s7/r23k1g9r3db1lb1r1~x4/"><circle cx="421.9" cy="103.5" r="4" fill="#3465a4"><title>Perthshire Clayquhat District Tartan</title></circle></a><a href="/variants/s8/y8k2r23k1r17k1g4w3~x2/"><circle cx="371.3" cy="111.4" r="4" fill="#3465a4"><title>Hoa Sen</title></circle></a><a href="/variants/s10/r64db16r1db1r12g16r8db2r2k1~x2/"><circle cx="465.4" cy="66.9" r="4" fill="#3465a4"><title>Moffat (1950)</title></circle></a><circle cx="435.4" cy="78.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r8g4r30db6r2k1r2g6r8k1r4y2~x2/

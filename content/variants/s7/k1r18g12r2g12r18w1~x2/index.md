@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacKinnon #4"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1r18g12r2g12r18w1/)
 (the same proportion at any scale), whose colour order is pattern [KRGRGRW](/stripes/krgrgrw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2548
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2548](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2548)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2g6r2g6r16y1~x2/"><circle cx="430.9" cy="206.1" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s7/r3g16r4k6r28g2lo3~x2/"><circle cx="295.7" cy="152.9" r="4" fill="#3465a4"><title>McInally (Name)</title></circle></a><a href="/variants/s6/r18g9r2g3k1n1~x4/"><circle cx="369.1" cy="156.4" r="4" fill="#3465a4"><title>MacGregor of Cardney - 1930 (Clan)</title></circle></a><a href="/variants/s6/r18g9r2g3k1w1~x4/"><circle cx="357.3" cy="152.6" r="4" fill="#3465a4"><title>MacGregor of Cardney</title></circle></a><a href="/variants/s6/r60k2w3dg20r10dg20~x2/"><circle cx="380.1" cy="131.4" r="4" fill="#3465a4"><title>Greig (Personal)</title></circle></a><a href="/variants/s6/k2r16g6r3g8w1~x4/"><circle cx="292.5" cy="172.7" r="4" fill="#3465a4"><title>MacAulay (Clan)</title></circle></a><a href="/variants/s6/k2r16g6r3g8w1/"><circle cx="292.5" cy="172.7" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s6/k2r16g6r3g8w1~x2/"><circle cx="292.5" cy="172.7" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s6/r35g16r5g5w2k3~x2/"><circle cx="351.7" cy="150.1" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s6/r96g42r16g17k4n6/"><circle cx="399.1" cy="148.2" r="4" fill="#3465a4"><title>MacGregor, Glengyle</title></circle></a><circle cx="352.0" cy="172.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2g6r2g6r16y1~x2/"><circle cx="431.0" cy="206.6" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s7/r3g16r4k6r28g2lo3~x2/"><circle cx="295.7" cy="153.4" r="4" fill="#3465a4"><title>McInally (Name)</title></circle></a><a href="/variants/s6/r18g9r2g3k1n1~x4/"><circle cx="369.2" cy="156.9" r="4" fill="#3465a4"><title>MacGregor of Cardney - 1930 (Clan)</title></circle></a><a href="/variants/s6/r18g9r2g3k1w1~x4/"><circle cx="357.3" cy="153.1" r="4" fill="#3465a4"><title>MacGregor of Cardney</title></circle></a><a href="/variants/s6/r60k2w3dg20r10dg20~x2/"><circle cx="380.1" cy="131.8" r="4" fill="#3465a4"><title>Greig (Personal)</title></circle></a><a href="/variants/s6/k2r16g6r3g8w1~x4/"><circle cx="292.5" cy="173.2" r="4" fill="#3465a4"><title>MacAulay (Clan)</title></circle></a><a href="/variants/s6/k2r16g6r3g8w1/"><circle cx="292.5" cy="173.2" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s6/k2r16g6r3g8w1~x2/"><circle cx="292.5" cy="173.2" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s6/r35g16r5g5w2k3~x2/"><circle cx="351.7" cy="150.5" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s6/r96g42r16g17k4n6/"><circle cx="399.1" cy="148.6" r="4" fill="#3465a4"><title>MacGregor, Glengyle</title></circle></a><circle cx="352.1" cy="172.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k1r18g12r2g12r18w1~x2/

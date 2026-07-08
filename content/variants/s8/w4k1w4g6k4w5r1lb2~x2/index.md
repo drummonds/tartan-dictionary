@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacDuff Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4k1w4g6k4w5r1lb2/)
 (the same proportion at any scale), whose colour order is pattern [WKWGKWRW](/stripes/wkwgkwrw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2419
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2419](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2419)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3w25g16w3db25w3~x2/"><circle cx="166.9" cy="209.9" r="4" fill="#3465a4"><title>Birnham, Blue (Dance)</title></circle></a><a href="/variants/s8/w16db4k12g4w6lo4w11y7~x2/"><circle cx="98.0" cy="214.5" r="4" fill="#3465a4"><title>MacLaren (D.C Dalgliesh version)</title></circle></a><a href="/variants/s8/w8b2k6dg2w3o2w6ly4~x4/"><circle cx="97.5" cy="215.3" r="4" fill="#3465a4"><title>MacLaren Albino (Dance)</title></circle></a><a href="/variants/s8/w16db4k12dg4w6lo4w11y7~x2/"><circle cx="97.8" cy="213.7" r="4" fill="#3465a4"><title>MacLaren Dress (Dance)</title></circle></a><a href="/variants/s8/w16db4k12g4w6b4w11y7~x2/"><circle cx="97.6" cy="215.0" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="112.7" cy="164.3" r="4" fill="#3465a4"><title>Hackett, William (Coatbridge) (Personal)</title></circle></a><a href="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x2~wi3600000-w3502055/"><circle cx="101.3" cy="215.8" r="4" fill="#3465a4"><title>Desang</title></circle></a><a href="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x4~wi3600000-w3502055/"><circle cx="101.3" cy="215.8" r="4" fill="#3465a4"><title>Desang (Corporate)</title></circle></a><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="114.4" cy="168.2" r="4" fill="#3465a4"><title>Alexander Brothers - 2007? (Corp.)</title></circle></a><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><circle cx="99.0" cy="151.3" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><circle cx="113.9" cy="217.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3w25g16w3db25w3~x2/"><circle cx="167.0" cy="210.5" r="4" fill="#3465a4"><title>Birnham, Blue (Dance)</title></circle></a><a href="/variants/s8/w16db4k12g4w6lo4w11y7~x2/"><circle cx="98.2" cy="215.3" r="4" fill="#3465a4"><title>MacLaren (D.C Dalgliesh version)</title></circle></a><a href="/variants/s8/w8b2k6dg2w3o2w6ly4~x4/"><circle cx="97.7" cy="216.0" r="4" fill="#3465a4"><title>MacLaren Albino (Dance)</title></circle></a><a href="/variants/s8/w16db4k12dg4w6lo4w11y7~x2/"><circle cx="97.9" cy="214.5" r="4" fill="#3465a4"><title>MacLaren Dress (Dance)</title></circle></a><a href="/variants/s8/w16db4k12g4w6b4w11y7~x2/"><circle cx="97.7" cy="215.7" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="112.8" cy="164.8" r="4" fill="#3465a4"><title>Hackett, William (Coatbridge) (Personal)</title></circle></a><a href="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x2~wi3600000-w3502055/"><circle cx="101.4" cy="216.5" r="4" fill="#3465a4"><title>Desang</title></circle></a><a href="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x4~wi3600000-w3502055/"><circle cx="101.4" cy="216.5" r="4" fill="#3465a4"><title>Desang (Corporate)</title></circle></a><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="114.4" cy="168.7" r="4" fill="#3465a4"><title>Alexander Brothers - 2007? (Corp.)</title></circle></a><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><circle cx="99.0" cy="151.7" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><circle cx="114.1" cy="218.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/w4k1w4g6k4w5r1lb2~x2/

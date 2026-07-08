@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Laval"
   url: "/tartans/laval/"
+- name: "Laval (Tartan de..) District Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2w2dr8db8w1/)
 (the same proportion at any scale), whose colour order is pattern [BWBBW](/stripes/bwbbw/).
@@ -14,7 +16,7 @@ Part of the [Laval](/tartans/laval/) tartan — the named design grouping this s
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2120
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2120](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2120)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w32dr12db12w2db3~x2/"><circle cx="342.6" cy="228.1" r="4" fill="#3465a4"><title>Fraser Arisaid Red (Dance)</title></circle></a><a href="/variants/s5/db9dr12g9db5w2~x4/"><circle cx="197.4" cy="298.3" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Heritage Trust, The</title></circle></a><a href="/variants/s5/db2w2b8db8w1~x2/"><circle cx="316.4" cy="280.8" r="4" fill="#3465a4"><title>Laval (Tartan de..)</title></circle></a><a href="/variants/s6/db1n8w1db4dr8w1~x6/"><circle cx="253.7" cy="259.4" r="4" fill="#3465a4"><title>Little's Chauffeur Drive</title></circle></a><a href="/variants/s4/db2g7db7w1~x2/"><circle cx="322.9" cy="292.5" r="4" fill="#3465a4"><title>Unidentified No 78</title></circle></a><a href="/variants/s4/db4w35db31w4~x2/"><circle cx="366.8" cy="287.4" r="4" fill="#3465a4"><title>Lewis, Navy (Dance)</title></circle></a><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="268.3" cy="225.2" r="4" fill="#3465a4"><title>Highland Spring Dress (2004) (Corp)</title></circle></a><a href="/variants/s5/w3dr27w16db27ly3~x2/"><circle cx="215.8" cy="258.2" r="4" fill="#3465a4"><title>Common Ground Dress (Fashion)</title></circle></a><a href="/variants/s5/y3db27w16dr27w3~x2/"><circle cx="193.9" cy="243.0" r="4" fill="#3465a4"><title>Common Ground (Dress)</title></circle></a><a href="/variants/s7/dr10db15g2db2w1db1w1~x4/"><circle cx="371.1" cy="187.1" r="4" fill="#3465a4"><title>Ikelman #4 (Personal)</title></circle></a><circle cx="309.0" cy="272.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w32dr12db12w2db3~x2/"><circle cx="342.8" cy="228.8" r="4" fill="#3465a4"><title>Fraser Arisaid Red (Dance)</title></circle></a><a href="/variants/s5/db9dr12g9db5w2~x4/"><circle cx="197.6" cy="299.0" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Heritage Trust, The</title></circle></a><a href="/variants/s5/db2w2b8db8w1~x2/"><circle cx="316.6" cy="281.5" r="4" fill="#3465a4"><title>Laval (Tartan de..)</title></circle></a><a href="/variants/s6/db1n8w1db4dr8w1~x6/"><circle cx="253.9" cy="259.9" r="4" fill="#3465a4"><title>Little's Chauffeur Drive</title></circle></a><a href="/variants/s4/db2g7db7w1~x2/"><circle cx="323.1" cy="293.3" r="4" fill="#3465a4"><title>Unidentified No 78</title></circle></a><a href="/variants/s4/db4w35db31w4~x2/"><circle cx="367.0" cy="288.3" r="4" fill="#3465a4"><title>Lewis, Navy (Dance)</title></circle></a><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="268.4" cy="225.7" r="4" fill="#3465a4"><title>Highland Spring Dress (2004) (Corp)</title></circle></a><a href="/variants/s5/w3dr27w16db27ly3~x2/"><circle cx="216.0" cy="258.9" r="4" fill="#3465a4"><title>Common Ground Dress (Fashion)</title></circle></a><a href="/variants/s5/y3db27w16dr27w3~x2/"><circle cx="194.1" cy="243.7" r="4" fill="#3465a4"><title>Common Ground (Dress)</title></circle></a><a href="/variants/s7/dr10db15g2db2w1db1w1~x4/"><circle cx="371.1" cy="187.4" r="4" fill="#3465a4"><title>Ikelman #4 (Personal)</title></circle></a><circle cx="309.2" cy="273.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db2w2dr8db8w1~x2/

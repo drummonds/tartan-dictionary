@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Ikelman"
   url: "/tartans/ikelman/"
+- name: "Ikelman #3 (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n11k4dr4lo4n11/)
 (the same proportion at any scale), whose colour order is pattern [BKBYBYBK](/stripes/bkbybybk/).
@@ -14,7 +16,7 @@ Part of the [Ikelman](/tartans/ikelman/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1813
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1813](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1813)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -85,8 +87,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="88.0" cy="238.1" r="4" fill="#3465a4"><title>Heidrick Family (Personal)</title></circle></a><a href="/variants/s4/r2g1w1k1~x20/"><circle cx="46.2" cy="286.6" r="4" fill="#3465a4"><title>Harazeen</title></circle></a><a href="/variants/s4/r3g1k3w1~x20/"><circle cx="97.4" cy="276.4" r="4" fill="#3465a4"><title>SAL Glindrande Stiernan</title></circle></a><a href="/variants/s8/g6dp3k3dp3k3dp3g6r2~x2~dp1607327-r2109032/"><circle cx="101.9" cy="278.4" r="4" fill="#3465a4"><title>Wilson's No.137</title></circle></a><a href="/variants/s5/dy12k4w2n6r3~x2/"><circle cx="153.2" cy="222.7" r="4" fill="#3465a4"><title>Strathblane (Fashion)</title></circle></a><a href="/variants/s7/db5r17dg16k10db10r17db5~x2/"><circle cx="127.6" cy="268.9" r="4" fill="#3465a4"><title>MacNaughton (Logan)</title></circle></a><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><circle cx="111.4" cy="281.1" r="4" fill="#3465a4"><title>MacDuff #3</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x4/"><circle cx="131.9" cy="240.6" r="4" fill="#3465a4"><title>Stewart (Artefact)</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x2/"><circle cx="131.9" cy="240.6" r="4" fill="#3465a4"><title>Stewart, Plaid</title></circle></a><a href="/variants/s7/do4o1do5w4k1w1lr1~x4/"><circle cx="181.2" cy="210.3" r="4" fill="#3465a4"><title>Elgin</title></circle></a><circle cx="143.8" cy="261.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="88.1" cy="238.9" r="4" fill="#3465a4"><title>Heidrick Family (Personal)</title></circle></a><a href="/variants/s4/r2g1w1k1~x20/"><circle cx="46.5" cy="287.6" r="4" fill="#3465a4"><title>Harazeen</title></circle></a><a href="/variants/s4/r3g1k3w1~x20/"><circle cx="97.6" cy="277.4" r="4" fill="#3465a4"><title>SAL Glindrande Stiernan</title></circle></a><a href="/variants/s8/g6dp3k3dp3k3dp3g6r2~x2~dp1607327-r2109032/"><circle cx="102.1" cy="279.3" r="4" fill="#3465a4"><title>Wilson's No.137</title></circle></a><a href="/variants/s5/dy12k4w2n6r3~x2/"><circle cx="153.3" cy="223.3" r="4" fill="#3465a4"><title>Strathblane (Fashion)</title></circle></a><a href="/variants/s7/db5r17dg16k10db10r17db5~x2/"><circle cx="127.8" cy="269.7" r="4" fill="#3465a4"><title>MacNaughton (Logan)</title></circle></a><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><circle cx="111.6" cy="282.0" r="4" fill="#3465a4"><title>MacDuff #3</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x4/"><circle cx="132.0" cy="241.3" r="4" fill="#3465a4"><title>Stewart (Artefact)</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x2/"><circle cx="132.0" cy="241.3" r="4" fill="#3465a4"><title>Stewart, Plaid</title></circle></a><a href="/variants/s7/do4o1do5w4k1w1lr1~x4/"><circle cx="181.3" cy="211.0" r="4" fill="#3465a4"><title>Elgin</title></circle></a><circle cx="143.9" cy="262.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/n11k4dr4lo4n11~x4/

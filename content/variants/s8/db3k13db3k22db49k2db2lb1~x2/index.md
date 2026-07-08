@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Blue Spirit"
   url: "/tartans/blue-spirit/"
+- name: "Blue Spirit"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3k13db3k22db49k2db2lb1/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKBW](/stripes/bkbkbkbw/).
@@ -14,7 +16,7 @@ Part of the [Blue Spirit](/tartans/blue-spirit/) tartan — the named design gro
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=305
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=305](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=305)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db3k12db3k17db40k2db2w1~x2/"><circle cx="427.9" cy="126.3" r="4" fill="#3465a4"><title>Blue Spirit Fashion Tartan</title></circle></a><a href="/variants/s8/k20db2k6db2k4db27w2db8~x2/"><circle cx="338.1" cy="178.0" r="4" fill="#3465a4"><title>Pride of Kinross</title></circle></a><a href="/variants/s6/k14db14k14db40k3db2~x2/"><circle cx="453.8" cy="209.2" r="4" fill="#3465a4"><title>Atlin (Fashion)</title></circle></a><a href="/variants/s7/db5w3db33k3db3k36db3~x2~w3600000/"><circle cx="328.6" cy="177.6" r="4" fill="#3465a4"><title>Argentina</title></circle></a><a href="/variants/s7/db5w3db33k3db3k36db3~x2/"><circle cx="323.9" cy="176.2" r="4" fill="#3465a4"><title>St. Andrew Soc. of River Plate (Corp</title></circle></a><a href="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/"><circle cx="345.0" cy="145.9" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><a href="/variants/s10/r4db4k2db31k10y3db5k11db6k3~x2/"><circle cx="326.1" cy="145.5" r="4" fill="#3465a4"><title>MacArthur Fox Green (Personal)</title></circle></a><a href="/variants/s7/db56k4w1db6k20w2k20~x2/"><circle cx="399.6" cy="124.3" r="4" fill="#3465a4"><title>Dalziel Rugby Club (Corporate)</title></circle></a><a href="/variants/s9/k10db3k3db32g1db1g1db2n2~x2/"><circle cx="462.6" cy="104.4" r="4" fill="#3465a4"><title>Orman (Midlothian) (Personal)</title></circle></a><a href="/variants/s8/db18w1k3w1db9w1k45db4~x2/"><circle cx="399.1" cy="106.8" r="4" fill="#3465a4"><title>Lynn (Personal)</title></circle></a><circle cx="446.2" cy="118.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db3k12db3k17db40k2db2w1~x2/"><circle cx="427.8" cy="126.4" r="4" fill="#3465a4"><title>Blue Spirit Fashion Tartan</title></circle></a><a href="/variants/s8/k20db2k6db2k4db27w2db8~x2/"><circle cx="338.1" cy="178.3" r="4" fill="#3465a4"><title>Pride of Kinross</title></circle></a><a href="/variants/s6/k14db14k14db40k3db2~x2/"><circle cx="453.8" cy="209.5" r="4" fill="#3465a4"><title>Atlin (Fashion)</title></circle></a><a href="/variants/s7/db5w3db33k3db3k36db3~x2~w3600000/"><circle cx="328.6" cy="178.0" r="4" fill="#3465a4"><title>Argentina</title></circle></a><a href="/variants/s7/db5w3db33k3db3k36db3~x2/"><circle cx="323.9" cy="176.5" r="4" fill="#3465a4"><title>St. Andrew Soc. of River Plate (Corp</title></circle></a><a href="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/"><circle cx="344.9" cy="146.0" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><a href="/variants/s10/r4db4k2db31k10y3db5k11db6k3~x2/"><circle cx="326.1" cy="145.7" r="4" fill="#3465a4"><title>MacArthur Fox Green (Personal)</title></circle></a><a href="/variants/s7/db56k4w1db6k20w2k20~x2/"><circle cx="399.5" cy="124.4" r="4" fill="#3465a4"><title>Dalziel Rugby Club (Corporate)</title></circle></a><a href="/variants/s9/k10db3k3db32g1db1g1db2n2~x2/"><circle cx="462.5" cy="104.4" r="4" fill="#3465a4"><title>Orman (Midlothian) (Personal)</title></circle></a><a href="/variants/s8/db18w1k3w1db9w1k45db4~x2/"><circle cx="399.0" cy="106.9" r="4" fill="#3465a4"><title>Lynn (Personal)</title></circle></a><circle cx="446.1" cy="118.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db3k13db3k22db49k2db2lb1~x2/

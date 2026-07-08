@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Guardian of Scotland"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y2k1dp8dbi4g4dbi20db7r25k1w2/)
 (the same proportion at any scale), whose colour order is pattern [GKBBGBBRKW](/stripes/gkbbgbbrkw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5787
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5787](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5787)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r2k1w25db7dbi20g4dbi4dp8k1y2~x2~db1106275-dbi1406275/"><circle cx="83.0" cy="63.4" r="4" fill="#3465a4"><title>Guardian of Scotland Dress (Fashion)</title></circle></a><a href="/variants/s14/m42dr2k15dr2dg22ly4lbi2dp2lbi2ly4lb7lbi2dp6lbi6~x2~lbi3200000-lb3103284/"><circle cx="94.7" cy="44.5" r="4" fill="#3465a4"><title>Dundee Pink Variation</title></circle></a><a href="/variants/s9/k2y1k2y8r29n9db24w2db2~x2/"><circle cx="187.6" cy="91.8" r="4" fill="#3465a4"><title>Lermontov</title></circle></a><a href="/variants/s11/r30w4y2w4db16dg8dp3dg8k10r3k4~x2/"><circle cx="83.6" cy="96.5" r="4" fill="#3465a4"><title>Filipino American</title></circle></a><a href="/variants/s9/k2dy1k2dy8r29n9db24w2db2~x2~db1204274/"><circle cx="195.9" cy="93.2" r="4" fill="#3465a4"><title>Lermontov Family Tartan</title></circle></a><circle cx="134.6" cy="71.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r2k1w25db7dbi20g4dbi4dp8k1y2~x2~db1106275-dbi1406275/"><circle cx="82.8" cy="63.5" r="4" fill="#3465a4"><title>Guardian of Scotland Dress (Fashion)</title></circle></a><a href="/variants/s14/m42dr2k15dr2dg22ly4lbi2dp2lbi2ly4lb7lbi2dp6lbi6~x2~lbi3200000-lb3103284/"><circle cx="94.6" cy="44.5" r="4" fill="#3465a4"><title>Dundee Pink Variation</title></circle></a><a href="/variants/s9/k2y1k2y8r29n9db24w2db2~x2/"><circle cx="187.5" cy="91.9" r="4" fill="#3465a4"><title>Lermontov</title></circle></a><a href="/variants/s11/r30w4y2w4db16dg8dp3dg8k10r3k4~x2/"><circle cx="83.5" cy="96.8" r="4" fill="#3465a4"><title>Filipino American</title></circle></a><a href="/variants/s9/k2dy1k2dy8r29n9db24w2db2~x2~db1204274/"><circle cx="195.8" cy="93.3" r="4" fill="#3465a4"><title>Lermontov Family Tartan</title></circle></a><circle cx="134.5" cy="71.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/y2k1dp8dbi4g4dbi20db7r25k1w2~x2~dbi1406275-db1106275/

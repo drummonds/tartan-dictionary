@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gairloch (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w25k9w12y2db2/)
 (the same proportion at any scale), whose colour order is pattern [BGWKW](/stripes/bgwkw/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3852
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3852](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3852)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/n62w11k4db17~x2/"><circle cx="370.3" cy="187.7" r="4" fill="#3465a4"><title>Thunderlord (Celtic Group, USA)</title></circle></a><a href="/variants/s5/w18n29lb2dp3k1~x2/"><circle cx="300.0" cy="134.9" r="4" fill="#3465a4"><title>Kinloch at Loch Awe (Personal)</title></circle></a><a href="/variants/s5/w18n29t2dp3k1~x2~t2405244/"><circle cx="299.0" cy="134.4" r="4" fill="#3465a4"><title>Kinloch of Loch Awe (Personal)</title></circle></a><a href="/variants/s4/n62w11k4lg17~x2/"><circle cx="368.5" cy="191.2" r="4" fill="#3465a4"><title>Thunderlord (Corporate)</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.9" cy="110.7" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s5/y25k9y12w2db2~x2/"><circle cx="388.4" cy="185.4" r="4" fill="#3465a4"><title>Gairloch</title></circle></a><a href="/variants/s4/w35db12r2n2~x2/"><circle cx="389.9" cy="181.4" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s7/lb11dy5k1dy2r1dy2lb11~x12/"><circle cx="332.9" cy="175.2" r="4" fill="#3465a4"><title>Carlisle Family Tartan</title></circle></a><a href="/variants/s8/w20k2w20y5k3w3y4k2/"><circle cx="365.6" cy="174.8" r="4" fill="#3465a4"><title>Guzzo Dress (Montreal, Canada) (Personal)</title></circle></a><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><circle cx="331.0" cy="194.3" r="4" fill="#3465a4"><title>Rea</title></circle></a><circle cx="371.8" cy="187.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/n62w11k4db17~x2/"><circle cx="370.3" cy="188.2" r="4" fill="#3465a4"><title>Thunderlord (Celtic Group, USA)</title></circle></a><a href="/variants/s5/w18n29lb2dp3k1~x2/"><circle cx="300.0" cy="135.2" r="4" fill="#3465a4"><title>Kinloch at Loch Awe (Personal)</title></circle></a><a href="/variants/s5/w18n29t2dp3k1~x2~t2405244/"><circle cx="299.0" cy="134.8" r="4" fill="#3465a4"><title>Kinloch of Loch Awe (Personal)</title></circle></a><a href="/variants/s4/n62w11k4lg17~x2/"><circle cx="368.6" cy="191.7" r="4" fill="#3465a4"><title>Thunderlord (Corporate)</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.9" cy="110.9" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s5/y25k9y12w2db2~x2/"><circle cx="388.5" cy="186.0" r="4" fill="#3465a4"><title>Gairloch</title></circle></a><a href="/variants/s4/w35db12r2n2~x2/"><circle cx="390.0" cy="182.0" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s7/lb11dy5k1dy2r1dy2lb11~x12/"><circle cx="332.9" cy="175.8" r="4" fill="#3465a4"><title>Carlisle Family Tartan</title></circle></a><a href="/variants/s8/w20k2w20y5k3w3y4k2/"><circle cx="365.7" cy="175.5" r="4" fill="#3465a4"><title>Guzzo Dress (Montreal, Canada) (Personal)</title></circle></a><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><circle cx="331.1" cy="194.9" r="4" fill="#3465a4"><title>Rea</title></circle></a><circle cx="371.9" cy="187.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/w25k9w12y2db2~x2~w3600000-y2400000/

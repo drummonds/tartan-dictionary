@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Cornish National Day"
   url: "/tartans/cornish-national-day/"
+- name: "Cornish, National Day"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k5w2y36b47r3/)
 (the same proportion at any scale), whose colour order is pattern [KWGBR](/stripes/kwgbr/).
@@ -14,7 +16,7 @@ Part of the [Cornish National Day](/tartans/cornish-national-day/) tartan — th
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k5w2y36lb47r3~x2/"><circle cx="291.6" cy="147.8" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/variants/s6/y8k2db20t4w1k2~x4~db1404245-t2503227/"><circle cx="283.5" cy="145.8" r="4" fill="#3465a4"><title>Solberg-Bell (Personal)</title></circle></a><a href="/variants/s6/ly8k2db20lb4w1k2~x4/"><circle cx="247.0" cy="134.6" r="4" fill="#3465a4"><title>Solberg-Bell</title></circle></a><a href="/variants/s6/k2w1g5dr1lb18dr2~x2/"><circle cx="313.4" cy="131.8" r="4" fill="#3465a4"><title>Norris (1998) (Name)</title></circle></a><a href="/variants/s5/lb72r16k5y2db16~x2/"><circle cx="354.6" cy="111.5" r="4" fill="#3465a4"><title>Thomas, Jean Marc (Personal)</title></circle></a><a href="/variants/s5/k1w7lo7db16y1~x4/"><circle cx="207.6" cy="161.6" r="4" fill="#3465a4"><title>Prehospital EMS (Corporate)</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="207.3" cy="161.4" r="4" fill="#3465a4"><title>Prehospital EMS Tartan (USA)</title></circle></a><a href="/variants/s6/lp4dy2dp4dy35t27r3~x2/"><circle cx="319.7" cy="174.7" r="4" fill="#3465a4"><title>Deeside, Royal</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="232.5" cy="155.2" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s5/n10k1db3g3ly1~x6/"><circle cx="293.3" cy="200.6" r="4" fill="#3465a4"><title>Celtic Norse Heritage Society</title></circle></a><circle cx="309.8" cy="153.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k5w2y36lb47r3~x2/"><circle cx="291.6" cy="148.2" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/variants/s6/y8k2db20t4w1k2~x4~db1404245-t2503227/"><circle cx="283.5" cy="146.0" r="4" fill="#3465a4"><title>Solberg-Bell (Personal)</title></circle></a><a href="/variants/s6/ly8k2db20lb4w1k2~x4/"><circle cx="247.0" cy="134.9" r="4" fill="#3465a4"><title>Solberg-Bell</title></circle></a><a href="/variants/s6/k2w1g5dr1lb18dr2~x2/"><circle cx="313.4" cy="132.2" r="4" fill="#3465a4"><title>Norris (1998) (Name)</title></circle></a><a href="/variants/s5/lb72r16k5y2db16~x2/"><circle cx="354.5" cy="111.8" r="4" fill="#3465a4"><title>Thomas, Jean Marc (Personal)</title></circle></a><a href="/variants/s5/k1w7lo7db16y1~x4/"><circle cx="207.6" cy="162.1" r="4" fill="#3465a4"><title>Prehospital EMS (Corporate)</title></circle></a><a href="/variants/s5/k1w7lo7db16dy1~x4/"><circle cx="207.3" cy="161.9" r="4" fill="#3465a4"><title>Prehospital EMS Tartan (USA)</title></circle></a><a href="/variants/s6/lp4dy2dp4dy35t27r3~x2/"><circle cx="319.7" cy="175.0" r="4" fill="#3465a4"><title>Deeside, Royal</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="232.5" cy="155.5" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s5/n10k1db3g3ly1~x6/"><circle cx="293.3" cy="201.0" r="4" fill="#3465a4"><title>Celtic Norse Heritage Society</title></circle></a><circle cx="309.8" cy="153.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k5w2y36b47r3~x2/

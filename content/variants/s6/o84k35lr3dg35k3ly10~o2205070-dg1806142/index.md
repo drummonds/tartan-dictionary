@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brandon (Manitoba)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o84k35lr3dg35k3ly10/)
 (the same proportion at any scale), whose colour order is pattern [RKYGKY](/stripes/rkygky/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=339
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=339](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=339)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y70k30w3g30k3y10/"><circle cx="286.2" cy="153.8" r="4" fill="#3465a4"><title>Jacobite #2</title></circle></a><a href="/variants/s8/g18r1w2k1w2r1o6k2~x4/"><circle cx="255.7" cy="116.9" r="4" fill="#3465a4"><title>Humphries (Name)</title></circle></a><a href="/variants/s6/y83k35w3g35k3ly10~y2405105-ly3307090/"><circle cx="233.2" cy="132.5" r="4" fill="#3465a4"><title>Brandon, Manitoba</title></circle></a><a href="/variants/s6/dy83k35w3g35k3y10/"><circle cx="258.1" cy="136.9" r="4" fill="#3465a4"><title>Brandon Manitoba Trade Tartan</title></circle></a><a href="/variants/s6/r25k7r3g13y1k2~x4/"><circle cx="291.8" cy="134.9" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s6/r25k7r3g13lb1k2~x4/"><circle cx="290.0" cy="134.3" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s6/g55k17r9k11y2k4~x2/"><circle cx="295.1" cy="132.3" r="4" fill="#3465a4"><title>Moran (Name)</title></circle></a><a href="/variants/s6/r10w2k10w10o35k5~x2/"><circle cx="218.5" cy="156.0" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/variants/s6/k1g6k1g6r16db1~x2/"><circle cx="299.3" cy="160.2" r="4" fill="#3465a4"><title>Denny, hunting</title></circle></a><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/"><circle cx="210.9" cy="112.6" r="4" fill="#3465a4"><title>Stansbury (2014)</title></circle></a><circle cx="242.8" cy="127.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y70k30w3g30k3y10/"><circle cx="286.2" cy="154.2" r="4" fill="#3465a4"><title>Jacobite #2</title></circle></a><a href="/variants/s8/g18r1w2k1w2r1o6k2~x4/"><circle cx="255.6" cy="117.2" r="4" fill="#3465a4"><title>Humphries (Name)</title></circle></a><a href="/variants/s6/y83k35w3g35k3ly10~y2405105-ly3307090/"><circle cx="233.2" cy="132.9" r="4" fill="#3465a4"><title>Brandon, Manitoba</title></circle></a><a href="/variants/s6/dy83k35w3g35k3y10/"><circle cx="258.0" cy="137.2" r="4" fill="#3465a4"><title>Brandon Manitoba Trade Tartan</title></circle></a><a href="/variants/s6/r25k7r3g13y1k2~x4/"><circle cx="291.8" cy="135.3" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s6/r25k7r3g13lb1k2~x4/"><circle cx="290.0" cy="134.7" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s6/g55k17r9k11y2k4~x2/"><circle cx="295.0" cy="132.6" r="4" fill="#3465a4"><title>Moran (Name)</title></circle></a><a href="/variants/s6/r10w2k10w10o35k5~x2/"><circle cx="218.5" cy="156.5" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/variants/s6/k1g6k1g6r16db1~x2/"><circle cx="299.3" cy="160.6" r="4" fill="#3465a4"><title>Denny, hunting</title></circle></a><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/"><circle cx="210.8" cy="112.9" r="4" fill="#3465a4"><title>Stansbury (2014)</title></circle></a><circle cx="242.8" cy="127.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/o84k35lr3dg35k3ly10~o2205070-dg1806142/

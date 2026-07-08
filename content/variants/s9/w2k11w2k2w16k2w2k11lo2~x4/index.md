@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacFie of Colonsay Dress (Fashion?)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2k11w2k2w16k2w2k11lo2/)
 (the same proportion at any scale), whose colour order is pattern [WKWKWKWKY](/stripes/wkwkwkwky/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3369
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3369](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3369)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k16w1k1w1k8w16k1w2~x2/"><circle cx="329.7" cy="165.9" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s9/w6k1w2k4w4k2w4k15r1~x2/"><circle cx="281.4" cy="153.5" r="4" fill="#3465a4"><title>Menzies Dress Tartan</title></circle></a><a href="/variants/s8/k1w8k8w1k8w4k4w1~x2/"><circle cx="296.9" cy="223.1" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/"><circle cx="149.9" cy="196.4" r="4" fill="#3465a4"><title>Breton District Tartan</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="289.5" cy="185.4" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/variants/s8/k10lb1k2lb1k4lb10g1lb2~x4/"><circle cx="267.4" cy="183.0" r="4" fill="#3465a4"><title>Martin's Own</title></circle></a><a href="/variants/s8/n22k2n2k2n2k16w16k3~x2/"><circle cx="188.3" cy="176.5" r="4" fill="#3465a4"><title>Laksaa (Manx)</title></circle></a><a href="/variants/s8/n21k2n2k2n2k15w17k3~x2/"><circle cx="181.5" cy="179.2" r="4" fill="#3465a4"><title>Laksaa</title></circle></a><a href="/variants/s7/w2k1w6k6w2k1w1~x2/"><circle cx="288.2" cy="232.7" r="4" fill="#3465a4"><title>Scott (Abbreviated)</title></circle></a><a href="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/"><circle cx="217.0" cy="137.4" r="4" fill="#3465a4"><title>Hannay</title></circle></a><circle cx="250.8" cy="185.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k16w1k1w1k8w16k1w2~x2/"><circle cx="329.7" cy="166.4" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s9/w6k1w2k4w4k2w4k15r1~x2/"><circle cx="281.3" cy="154.0" r="4" fill="#3465a4"><title>Menzies Dress Tartan</title></circle></a><a href="/variants/s8/k1w8k8w1k8w4k4w1~x2/"><circle cx="297.0" cy="223.9" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/"><circle cx="149.9" cy="197.0" r="4" fill="#3465a4"><title>Breton District Tartan</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="289.5" cy="185.9" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/variants/s8/k10lb1k2lb1k4lb10g1lb2~x4/"><circle cx="267.5" cy="183.6" r="4" fill="#3465a4"><title>Martin's Own</title></circle></a><a href="/variants/s8/n22k2n2k2n2k16w16k3~x2/"><circle cx="188.4" cy="177.1" r="4" fill="#3465a4"><title>Laksaa (Manx)</title></circle></a><a href="/variants/s8/n21k2n2k2n2k15w17k3~x2/"><circle cx="181.5" cy="179.7" r="4" fill="#3465a4"><title>Laksaa</title></circle></a><a href="/variants/s7/w2k1w6k6w2k1w1~x2/"><circle cx="288.4" cy="233.5" r="4" fill="#3465a4"><title>Scott (Abbreviated)</title></circle></a><a href="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/"><circle cx="217.0" cy="137.9" r="4" fill="#3465a4"><title>Hannay</title></circle></a><circle cx="250.9" cy="185.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/w2k11w2k2w16k2w2k11lo2~x4/

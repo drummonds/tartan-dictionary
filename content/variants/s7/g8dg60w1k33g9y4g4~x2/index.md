@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Duffy"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g8dg60w1k33g9y4g4/)
 (the same proportion at any scale), whose colour order is pattern [GGGKWGG](/stripes/gggkwgg/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1008
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1008](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1008)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k5dg25k10g15y1g5~x2/"><circle cx="229.9" cy="177.6" r="4" fill="#3465a4"><title>Delaware Fine Spirits Guild (Corp)</title></circle></a><a href="/variants/s11/dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1~x2~dgi1806142-g2408144/"><circle cx="291.5" cy="66.8" r="4" fill="#3465a4"><title>Undiscovered Scotland (Corporate)</title></circle></a><a href="/variants/s6/dy83k35w3g35k3y10/"><circle cx="258.1" cy="136.9" r="4" fill="#3465a4"><title>Brandon Manitoba Trade Tartan</title></circle></a><a href="/variants/s9/k4g35lo1k18g3db18dr3g3dr3~x2/"><circle cx="227.9" cy="102.5" r="4" fill="#3465a4"><title>Mackay, John W. (Personal)</title></circle></a><a href="/variants/s9/db10k12dg3k1dg1k1dg30dy4w4~x2/"><circle cx="271.3" cy="105.5" r="4" fill="#3465a4"><title>Hutchens (Kansas) (Personal)</title></circle></a><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/"><circle cx="311.1" cy="96.3" r="4" fill="#3465a4"><title>Henschke, Felix (Personal)</title></circle></a><a href="/variants/s9/db10k12dg3k1dg1k1dg30w4ly4~x2/"><circle cx="250.0" cy="98.4" r="4" fill="#3465a4"><title>Hutchens (Personal)</title></circle></a><a href="/variants/s9/k4g34y1k18g3db18r3g3r3~x2/"><circle cx="216.7" cy="100.2" r="4" fill="#3465a4"><title>John.W.Mackay, Restricted</title></circle></a><a href="/variants/s10/dg36k52lo2k8dg8dy8lo2dy6dg36dr1~x2/"><circle cx="334.4" cy="101.4" r="4" fill="#3465a4"><title>Grenauld</title></circle></a><a href="/variants/s7/r2db16w1k16g30r1g2~x2/"><circle cx="225.8" cy="118.2" r="4" fill="#3465a4"><title>Sinclair Hunting (VS)</title></circle></a><circle cx="299.2" cy="101.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k5dg25k10g15y1g5~x2/"><circle cx="229.8" cy="178.0" r="4" fill="#3465a4"><title>Delaware Fine Spirits Guild (Corp)</title></circle></a><a href="/variants/s11/dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1~x2~dgi1806142-g2408144/"><circle cx="291.3" cy="66.8" r="4" fill="#3465a4"><title>Undiscovered Scotland (Corporate)</title></circle></a><a href="/variants/s6/dy83k35w3g35k3y10/"><circle cx="258.0" cy="137.2" r="4" fill="#3465a4"><title>Brandon Manitoba Trade Tartan</title></circle></a><a href="/variants/s9/k4g35lo1k18g3db18dr3g3dr3~x2/"><circle cx="227.8" cy="102.7" r="4" fill="#3465a4"><title>Mackay, John W. (Personal)</title></circle></a><a href="/variants/s9/db10k12dg3k1dg1k1dg30dy4w4~x2/"><circle cx="271.2" cy="105.6" r="4" fill="#3465a4"><title>Hutchens (Kansas) (Personal)</title></circle></a><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/"><circle cx="311.0" cy="96.3" r="4" fill="#3465a4"><title>Henschke, Felix (Personal)</title></circle></a><a href="/variants/s9/db10k12dg3k1dg1k1dg30w4ly4~x2/"><circle cx="249.9" cy="98.5" r="4" fill="#3465a4"><title>Hutchens (Personal)</title></circle></a><a href="/variants/s9/k4g34y1k18g3db18r3g3r3~x2/"><circle cx="216.5" cy="100.4" r="4" fill="#3465a4"><title>John.W.Mackay, Restricted</title></circle></a><a href="/variants/s10/dg36k52lo2k8dg8dy8lo2dy6dg36dr1~x2/"><circle cx="334.3" cy="101.4" r="4" fill="#3465a4"><title>Grenauld</title></circle></a><a href="/variants/s7/r2db16w1k16g30r1g2~x2/"><circle cx="225.7" cy="118.5" r="4" fill="#3465a4"><title>Sinclair Hunting (VS)</title></circle></a><circle cx="299.0" cy="101.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g8dg60w1k33g9y4g4~x2/

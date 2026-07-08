@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "British Hills"
   url: "/tartans/british-hills/"
+- name: "British Hills"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2g17r8db8y2/)
 (the same proportion at any scale), whose colour order is pattern [GBRGR](/stripes/gbrgr/).
@@ -14,7 +16,7 @@ Part of the [British Hills](/tartans/british-hills/) tartan — the named design
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11235
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11235](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11235)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/ly2db8r8g17r1~x4/"><circle cx="268.7" cy="207.5" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/variants/s5/r1g7r3db7lb1~x2/"><circle cx="194.0" cy="247.7" r="4" fill="#3465a4"><title>Hebridean 4</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4/"><circle cx="209.5" cy="227.5" r="4" fill="#3465a4"><title>Wilson's, No 193</title></circle></a><a href="/variants/s4/g30y3db8r25~x2/"><circle cx="272.9" cy="249.2" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/variants/s4/g30ly3db8r25~x2/"><circle cx="265.7" cy="247.2" r="4" fill="#3465a4"><title>Dohmen (Personal)</title></circle></a><a href="/variants/s6/r3db12r4g18r6k2~x2/"><circle cx="182.4" cy="207.7" r="4" fill="#3465a4"><title>Eyre (Personal)</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="194.9" cy="279.1" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s7/db9r3y1r3g9r3y1~x2/"><circle cx="182.7" cy="221.8" r="4" fill="#3465a4"><title>Logan #2</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="258.0" cy="261.8" r="4" fill="#3465a4"><title>Unidentified #4</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="257.3" cy="258.6" r="4" fill="#3465a4"><title>MacNab</title></circle></a><circle cx="248.5" cy="240.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/ly2db8r8g17r1~x4/"><circle cx="268.8" cy="207.9" r="4" fill="#3465a4"><title>British Hills</title></circle></a><a href="/variants/s5/r1g7r3db7lb1~x2/"><circle cx="194.1" cy="248.3" r="4" fill="#3465a4"><title>Hebridean 4</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4/"><circle cx="209.6" cy="228.2" r="4" fill="#3465a4"><title>Wilson's, No 193</title></circle></a><a href="/variants/s4/g30y3db8r25~x2/"><circle cx="273.1" cy="249.8" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/variants/s4/g30ly3db8r25~x2/"><circle cx="265.9" cy="247.9" r="4" fill="#3465a4"><title>Dohmen (Personal)</title></circle></a><a href="/variants/s6/r3db12r4g18r6k2~x2/"><circle cx="182.5" cy="208.2" r="4" fill="#3465a4"><title>Eyre (Personal)</title></circle></a><a href="/variants/s4/db21g34r14w6~x2/"><circle cx="195.1" cy="279.9" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s7/db9r3y1r3g9r3y1~x2/"><circle cx="182.8" cy="222.4" r="4" fill="#3465a4"><title>Logan #2</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="258.1" cy="262.5" r="4" fill="#3465a4"><title>Unidentified #4</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="257.4" cy="259.2" r="4" fill="#3465a4"><title>MacNab</title></circle></a><circle cx="248.6" cy="240.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r2g17r8db8y2~x4/

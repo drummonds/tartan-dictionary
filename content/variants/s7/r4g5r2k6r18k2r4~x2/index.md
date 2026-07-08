@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacQuarrie #7"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4g5r2k6r18k2r4/)
 (the same proportion at any scale), whose colour order is pattern [RGRKRKR](/stripes/rgrkrkr/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2734
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2734](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2734)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r6w3r17k3r3k25r3~x2/"><circle cx="253.2" cy="177.6" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/variants/s6/r6g21k8r28k2r4~x2/"><circle cx="290.6" cy="183.6" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/variants/s7/r4g14r5k6r24g2r4~x2/"><circle cx="340.6" cy="181.1" r="4" fill="#3465a4"><title>Auld Lang Syne (red) Tartan</title></circle></a><a href="/variants/s7/r4g21r4k7r34lo3r4~x2/"><circle cx="280.0" cy="144.4" r="4" fill="#3465a4"><title>Kirk</title></circle></a><a href="/variants/s7/r3g16r4k6r28g1r3~x2/"><circle cx="376.1" cy="137.0" r="4" fill="#3465a4"><title>Maxwell</title></circle></a><a href="/variants/s7/k2r1k2r14w1r1w1~x8/"><circle cx="418.1" cy="124.7" r="4" fill="#3465a4"><title>White Stripes Dress, (Corporate)</title></circle></a><a href="/variants/s5/r75k15r4k15r4~x2/"><circle cx="462.0" cy="153.8" r="4" fill="#3465a4"><title>Masai Shuka 07 (Artefact)</title></circle></a><a href="/variants/s6/k6r3k28r28k3r6~x2/"><circle cx="300.9" cy="197.8" r="4" fill="#3465a4"><title>Erskine, Black &amp; Red (Clan)</title></circle></a><a href="/variants/s7/r8w4r50k12r4k15g5~x2/"><circle cx="317.9" cy="137.2" r="4" fill="#3465a4"><title>Instakilt, Red (Fashion)</title></circle></a><a href="/variants/s7/r8w4r50k12r4k15o5~x2/"><circle cx="320.6" cy="136.8" r="4" fill="#3465a4"><title>Instakilt, Pink (Fashion)</title></circle></a><circle cx="352.4" cy="180.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r6w3r17k3r3k25r3~x2/"><circle cx="253.3" cy="178.2" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/variants/s6/r6g21k8r28k2r4~x2/"><circle cx="290.6" cy="184.2" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/variants/s7/r4g14r5k6r24g2r4~x2/"><circle cx="340.7" cy="181.7" r="4" fill="#3465a4"><title>Auld Lang Syne (red) Tartan</title></circle></a><a href="/variants/s7/r4g21r4k7r34lo3r4~x2/"><circle cx="280.0" cy="144.9" r="4" fill="#3465a4"><title>Kirk</title></circle></a><a href="/variants/s7/r3g16r4k6r28g1r3~x2/"><circle cx="376.1" cy="137.4" r="4" fill="#3465a4"><title>Maxwell</title></circle></a><a href="/variants/s7/k2r1k2r14w1r1w1~x8/"><circle cx="418.2" cy="125.2" r="4" fill="#3465a4"><title>White Stripes Dress, (Corporate)</title></circle></a><a href="/variants/s5/r75k15r4k15r4~x2/"><circle cx="462.1" cy="154.4" r="4" fill="#3465a4"><title>Masai Shuka 07 (Artefact)</title></circle></a><a href="/variants/s6/k6r3k28r28k3r6~x2/"><circle cx="300.9" cy="198.5" r="4" fill="#3465a4"><title>Erskine, Black &amp; Red (Clan)</title></circle></a><a href="/variants/s7/r8w4r50k12r4k15g5~x2/"><circle cx="317.9" cy="137.7" r="4" fill="#3465a4"><title>Instakilt, Red (Fashion)</title></circle></a><a href="/variants/s7/r8w4r50k12r4k15o5~x2/"><circle cx="320.6" cy="137.3" r="4" fill="#3465a4"><title>Instakilt, Pink (Fashion)</title></circle></a><circle cx="352.4" cy="181.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r4g5r2k6r18k2r4~x2/

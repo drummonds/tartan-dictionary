@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highlands of Wyomissing (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr35w3dr8y2dg11/)
 (the same proportion at any scale), whose colour order is pattern [BWBGGGBW](/stripes/bwbgggbw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10958
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10958](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10958)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr27w3dr6w2g3~x4/"><circle cx="528.9" cy="197.0" r="4" fill="#3465a4"><title>Martin Family, Robert N (Personal)</title></circle></a><a href="/variants/s5/r24t3w1g9r12~x8/"><circle cx="375.4" cy="163.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="411.7" cy="205.4" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><a href="/variants/s6/w2dr45y3dg8db8w2~x2/"><circle cx="445.4" cy="150.8" r="4" fill="#3465a4"><title>Glencross (Moniaive) (Personal)</title></circle></a><a href="/variants/s6/w2dr45y3db8dg8w2~x2/"><circle cx="448.0" cy="152.6" r="4" fill="#3465a4"><title>Glencross (Moniaive) (Personal)</title></circle></a><a href="/variants/s6/dr58db12dr5g28dr7ly5~x2/"><circle cx="393.1" cy="213.8" r="4" fill="#3465a4"><title>Cairn O'Mount (Personal)</title></circle></a><a href="/variants/s5/r2dg1r1dg10w1~x4/"><circle cx="448.6" cy="201.0" r="4" fill="#3465a4"><title>Welsh National District Tartan</title></circle></a><a href="/variants/s4/dr40t8dr1w2~x4/"><circle cx="551.1" cy="165.9" r="4" fill="#3465a4"><title>Lyon College (Corporate)</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1/"><circle cx="409.6" cy="179.3" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1~x2/"><circle cx="409.6" cy="179.3" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><circle cx="456.4" cy="165.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr27w3dr6w2g3~x4/"><circle cx="529.0" cy="197.5" r="4" fill="#3465a4"><title>Martin Family, Robert N (Personal)</title></circle></a><a href="/variants/s5/r24t3w1g9r12~x8/"><circle cx="375.4" cy="163.8" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="411.9" cy="206.0" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><a href="/variants/s6/w2dr45y3dg8db8w2~x2/"><circle cx="445.4" cy="151.0" r="4" fill="#3465a4"><title>Glencross (Moniaive) (Personal)</title></circle></a><a href="/variants/s6/w2dr45y3db8dg8w2~x2/"><circle cx="448.0" cy="152.8" r="4" fill="#3465a4"><title>Glencross (Moniaive) (Personal)</title></circle></a><a href="/variants/s6/dr58db12dr5g28dr7ly5~x2/"><circle cx="393.2" cy="214.2" r="4" fill="#3465a4"><title>Cairn O'Mount (Personal)</title></circle></a><a href="/variants/s5/r2dg1r1dg10w1~x4/"><circle cx="448.7" cy="201.6" r="4" fill="#3465a4"><title>Welsh National District Tartan</title></circle></a><a href="/variants/s4/dr40t8dr1w2~x4/"><circle cx="551.1" cy="166.2" r="4" fill="#3465a4"><title>Lyon College (Corporate)</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1/"><circle cx="409.7" cy="179.8" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1~x2/"><circle cx="409.7" cy="179.8" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><circle cx="456.4" cy="166.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dr35w3dr8y2dg11~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Tweedbank"
   url: "/tartans/tweedbank/"
+- name: "Tweedbank"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4dr8dg1db4dg1db4dg1r25k25dg2k1dg2/)
 (the same proportion at any scale), whose colour order is pattern [GKGKRGBGBGBW](/stripes/gkgkrgbgbgbw/).
@@ -14,7 +16,7 @@ Part of the [Tweedbank](/tartans/tweedbank/) tartan — the named design groupin
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4166
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4166)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w4dr8g1db4g1db4g1r25k25g2k1g2~x2/"><circle cx="129.1" cy="63.5" r="4" fill="#3465a4"><title>Tweedbank (Corporate)</title></circle></a><a href="/variants/s12/y4w2r19n8k1n3k2n2k3n2k26lb4~x2/"><circle cx="168.0" cy="70.4" r="4" fill="#3465a4"><title>Aberdeen Forever</title></circle></a><a href="/variants/s12/y4w2r16n8k1n3k2n2k3n2k22lb4~x2/"><circle cx="149.0" cy="83.7" r="4" fill="#3465a4"><title>Aberdeen Forever (District)</title></circle></a><a href="/variants/s10/y2dp16k1r5k1lo8k1r5k16lg2~x4/"><circle cx="102.6" cy="106.1" r="4" fill="#3465a4"><title>Tribal</title></circle></a><a href="/variants/s15/w2dp2k2r4k1r21k4w1dp12k3w1g6k2db3r1~x2/"><circle cx="144.1" cy="64.5" r="4" fill="#3465a4"><title>Gaudet-Hillan (Personal)</title></circle></a><a href="/variants/s11/dg15r25dg4k2ly1db1ly1k2dg4db12w1~x2/"><circle cx="182.6" cy="84.3" r="4" fill="#3465a4"><title>Livingstone - Australia (Personal)</title></circle></a><a href="/variants/s13/dy6w4k3lb14w3r34k34w4lb3dy8w3g4k2~x2/"><circle cx="89.3" cy="82.7" r="4" fill="#3465a4"><title>Nazarian (Personal)</title></circle></a><a href="/variants/s10/y2dp16k1r5k1o8k1r5k16g2~x4/"><circle cx="120.3" cy="111.7" r="4" fill="#3465a4"><title>Tribal #2</title></circle></a><a href="/variants/s15/do28r3k2n2k2r3n8ly2k8ly5k3lyi2k2ly3k1~x2~ly2503076-lyi3104101/"><circle cx="167.0" cy="61.8" r="4" fill="#3465a4"><title>Caithness</title></circle></a><a href="/variants/s10/r4do4r4do12k32ly15ri1ly7lyi1ri1~x2~r1706009-ly2503076-ri2607041-lyi2705081/"><circle cx="175.8" cy="80.7" r="4" fill="#3465a4"><title>Hard Rock Cafe (Corporate)</title></circle></a><circle cx="133.4" cy="63.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w4dr8g1db4g1db4g1r25k25g2k1g2~x2/"><circle cx="128.9" cy="63.6" r="4" fill="#3465a4"><title>Tweedbank (Corporate)</title></circle></a><a href="/variants/s12/y4w2r19n8k1n3k2n2k3n2k26lb4~x2/"><circle cx="167.8" cy="70.5" r="4" fill="#3465a4"><title>Aberdeen Forever</title></circle></a><a href="/variants/s12/y4w2r16n8k1n3k2n2k3n2k22lb4~x2/"><circle cx="148.9" cy="83.9" r="4" fill="#3465a4"><title>Aberdeen Forever (District)</title></circle></a><a href="/variants/s10/y2dp16k1r5k1lo8k1r5k16lg2~x4/"><circle cx="102.5" cy="106.3" r="4" fill="#3465a4"><title>Tribal</title></circle></a><a href="/variants/s15/w2dp2k2r4k1r21k4w1dp12k3w1g6k2db3r1~x2/"><circle cx="144.0" cy="64.7" r="4" fill="#3465a4"><title>Gaudet-Hillan (Personal)</title></circle></a><a href="/variants/s11/dg15r25dg4k2ly1db1ly1k2dg4db12w1~x2/"><circle cx="182.5" cy="84.4" r="4" fill="#3465a4"><title>Livingstone - Australia (Personal)</title></circle></a><a href="/variants/s13/dy6w4k3lb14w3r34k34w4lb3dy8w3g4k2~x2/"><circle cx="89.2" cy="82.9" r="4" fill="#3465a4"><title>Nazarian (Personal)</title></circle></a><a href="/variants/s10/y2dp16k1r5k1o8k1r5k16g2~x4/"><circle cx="120.2" cy="112.0" r="4" fill="#3465a4"><title>Tribal #2</title></circle></a><a href="/variants/s15/do28r3k2n2k2r3n8ly2k8ly5k3lyi2k2ly3k1~x2~ly2503076-lyi3104101/"><circle cx="166.8" cy="61.8" r="4" fill="#3465a4"><title>Caithness</title></circle></a><a href="/variants/s10/r4do4r4do12k32ly15ri1ly7lyi1ri1~x2~r1706009-ly2503076-ri2607041-lyi2705081/"><circle cx="175.7" cy="80.8" r="4" fill="#3465a4"><title>Hard Rock Cafe (Corporate)</title></circle></a><circle cx="133.2" cy="64.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/w4dr8dg1db4dg1db4dg1r25k25dg2k1dg2~x2/

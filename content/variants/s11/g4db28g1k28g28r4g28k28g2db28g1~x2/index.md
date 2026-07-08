@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gunn"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4db28g1k28g28r4g28k28g2db28g1/)
 (the same proportion at any scale), whose colour order is pattern [GBGKGRGKGBG](/stripes/gbgkgrgkgbg/).
 
 Sourced from logan-1831.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link /posts/logans-scottish-gael/
+Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 
 ## Provenance
 
@@ -23,7 +25,7 @@ James Logan recorded the **Gunn** sett in 1831, on page 404 of the *Table of Cla
 
 > ¼ green · 7 blue · ½ green · 7 black · 7 green · 1 red · 7 green · 7 black · ¼ green · 7 blue · 1 green
 
-In threads (at 8 to the eighth-inch) that is `G/2 B56 G4 K56 G56 R8 G56 K56 G2 B56 G/8`. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+Rendered at 8 threads to the eighth-inch that is `G/2 B56 G4 K56 G56 R8 G56 K56 G2 B56 G/8` — the eighths are the captured data, and the threadcount is derived from them at that stated factor. How many threads an eighth of cloth held depends on the weave's density, so the factor is a display calibration, not Logan's count; the sett's identity lives in the proportions, which the eighths record directly. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
 
 See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table and method.
 
@@ -43,6 +45,7 @@ Later records of the **Gunn** name adjusted Logan's counts: [Gunn](/setts/s6/g2b
 <ol class="capture-chain">
 <li>James Logan, The Scottish Gaël (first edition) <small>1831</small> · Public domain<br><small>the printed Table of Clan Tartans, vol. II pp. 401-408, plus the Duke of Sussex plate</small></li>
 <li><a href="https://archive.org/details/scotishgalorcel02logagoog">Internet Archive scan</a><br><small>the digitised first edition the transcription was made from, cross-checked against the OCR</small></li>
+<li><a href="/posts/logans-scottish-gael/">Tartan Dictionary transcription — Logan's Scottish Gaël</a> <small>2026-06</small> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><br><small>by-eye transcription of the Table of Clan Tartans and the Duke of Sussex plate — depths in eighths of an inch, rendered at 8 threads per eighth (a display calibration anchored by the Register's Abercrombie ×8 stripe-for-stripe match); method and match report in the linked post</small></li>
 <li>this dictionary<br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
 </details>
@@ -69,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="167.2" cy="116.1" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><a href="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/"><circle cx="207.8" cy="138.3" r="4" fill="#3465a4"><title>Pitceathly Chamberlain (Personal)</title></circle></a><a href="/variants/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="136.6" cy="125.7" r="4" fill="#3465a4"><title>Campbell Red</title></circle></a><a href="/variants/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/"><circle cx="165.1" cy="151.8" r="4" fill="#3465a4"><title>Graham</title></circle></a><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="144.9" cy="115.1" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/variants/s8/db4k3db18k18g18db1g2w4~x2/"><circle cx="156.9" cy="160.8" r="4" fill="#3465a4"><title>Dress Watch</title></circle></a><a href="/variants/s7/db4r1db18k20g18r1g4~x2/"><circle cx="176.7" cy="165.9" r="4" fill="#3465a4"><title>Blair (Name)</title></circle></a><a href="/variants/s14/g19k1g4k1g3k10db20y1k7y1db20k10y3g1~x2/"><circle cx="192.0" cy="128.3" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/variants/s11/g24y3g4y1g17k25db2k2db2k2db22~x2/"><circle cx="214.3" cy="126.9" r="4" fill="#3465a4"><title>Hunting, The</title></circle></a><a href="/variants/s10/db2k3g5k7db20k2db5k2g20w1~x2/"><circle cx="210.2" cy="139.7" r="4" fill="#3465a4"><title>Pitceathly Chamberlain Tartan</title></circle></a><circle cx="177.9" cy="142.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="167.1" cy="116.3" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><a href="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/"><circle cx="207.7" cy="138.5" r="4" fill="#3465a4"><title>Pitceathly Chamberlain (Personal)</title></circle></a><a href="/variants/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="136.5" cy="125.9" r="4" fill="#3465a4"><title>Campbell Red</title></circle></a><a href="/variants/s11/k2db12k12g1t2g16t2g1k12db12k1~x4/"><circle cx="165.0" cy="152.2" r="4" fill="#3465a4"><title>Graham</title></circle></a><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="144.8" cy="115.3" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/variants/s8/db4k3db18k18g18db1g2w4~x2/"><circle cx="156.8" cy="161.2" r="4" fill="#3465a4"><title>Dress Watch</title></circle></a><a href="/variants/s7/db4r1db18k20g18r1g4~x2/"><circle cx="176.7" cy="166.3" r="4" fill="#3465a4"><title>Blair (Name)</title></circle></a><a href="/variants/s14/g19k1g4k1g3k10db20y1k7y1db20k10y3g1~x2/"><circle cx="191.9" cy="128.6" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/variants/s11/g24y3g4y1g17k25db2k2db2k2db22~x2/"><circle cx="214.2" cy="127.1" r="4" fill="#3465a4"><title>Hunting, The</title></circle></a><a href="/variants/s10/db2k3g5k7db20k2db5k2g20w1~x2/"><circle cx="210.1" cy="140.0" r="4" fill="#3465a4"><title>Pitceathly Chamberlain Tartan</title></circle></a><circle cx="177.8" cy="142.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/g4db28g1k28g28r4g28k28g2db28g1~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Contreceour Dress"
   url: "/tartans/contreceour-dress/"
+- name: "Contreceour Dress Corporate Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y10w1g2k2w2r1w2k2g2k1y10w7r3w13lb5/)
 (the same proportion at any scale), whose colour order is pattern [GWGKWRWKGKGWRWW](/stripes/gwgkwrwkgkgwrww/).
@@ -14,7 +16,7 @@ Part of the [Contreceour Dress](/tartans/contreceour-dress/) tartan — the name
 
 Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2295
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2295](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2295)
 
 ## Provenance
 
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/y10w1g2n2w2r1w2n2g2o1y10w7r3w13db5~x2/"><circle cx="132.1" cy="121.6" r="4" fill="#3465a4"><title>Contreceour dress</title></circle></a><a href="/variants/s16/g10w4r4dr4g2dr4r4w4g10w4lb4w2lb4w23k2r2~x2/"><circle cx="117.5" cy="114.5" r="4" fill="#3465a4"><title>MacBean Dress</title></circle></a><a href="/variants/s17/r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3~x2/"><circle cx="100.3" cy="86.9" r="4" fill="#3465a4"><title>Victoria</title></circle></a><a href="/variants/s14/r5w23db5w5k7y3k3w2k3g16r8g3r6w3~x2/"><circle cx="71.4" cy="120.8" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><a href="/variants/s11/w4lb5lo3lb22dy4k3g16lo7k2lo7dy2~x2/"><circle cx="104.9" cy="141.9" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><a href="/variants/s13/lb2w1lb12dt6k3w1g1w1g4w2k1w1r1~x4~lb3402028-r2109032/"><circle cx="106.7" cy="111.4" r="4" fill="#3465a4"><title>Diana Pink (Commemorative)</title></circle></a><a href="/variants/s14/w9r5w29db3k10ly2k3w3k3g12r6k3r3w2~x2/"><circle cx="132.2" cy="93.4" r="4" fill="#3465a4"><title>Hay - Stewart (Fashion)</title></circle></a><a href="/variants/s16/r4o2w2o23w2o2r4o2w2o2w12db6y2k4n2w2~x2/"><circle cx="127.0" cy="82.2" r="4" fill="#3465a4"><title>Palmer, General W.J.</title></circle></a><a href="/variants/s14/r12w1k1g12y2db5lb6r2lb2r4g2r2k2g2~x2/"><circle cx="95.7" cy="108.1" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><a href="/variants/s15/w2n2g2dy1y10w7r3w13db5y10w1g2n2w2r1~x4/"><circle cx="139.5" cy="127.1" r="4" fill="#3465a4"><title>Contrecoeur Dress</title></circle></a><circle cx="96.1" cy="102.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/y10w1g2n2w2r1w2n2g2o1y10w7r3w13db5~x2/"><circle cx="132.1" cy="121.9" r="4" fill="#3465a4"><title>Contreceour dress</title></circle></a><a href="/variants/s16/g10w4r4dr4g2dr4r4w4g10w4lb4w2lb4w23k2r2~x2/"><circle cx="117.4" cy="114.9" r="4" fill="#3465a4"><title>MacBean Dress</title></circle></a><a href="/variants/s17/r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3~x2/"><circle cx="100.2" cy="87.2" r="4" fill="#3465a4"><title>Victoria</title></circle></a><a href="/variants/s14/r5w23db5w5k7y3k3w2k3g16r8g3r6w3~x2/"><circle cx="71.4" cy="121.2" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><a href="/variants/s11/w4lb5lo3lb22dy4k3g16lo7k2lo7dy2~x2/"><circle cx="104.9" cy="142.3" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><a href="/variants/s13/lb2w1lb12dt6k3w1g1w1g4w2k1w1r1~x4~lb3402028-r2109032/"><circle cx="106.6" cy="111.7" r="4" fill="#3465a4"><title>Diana Pink (Commemorative)</title></circle></a><a href="/variants/s14/w9r5w29db3k10ly2k3w3k3g12r6k3r3w2~x2/"><circle cx="132.1" cy="93.7" r="4" fill="#3465a4"><title>Hay - Stewart (Fashion)</title></circle></a><a href="/variants/s16/r4o2w2o23w2o2r4o2w2o2w12db6y2k4n2w2~x2/"><circle cx="126.9" cy="82.4" r="4" fill="#3465a4"><title>Palmer, General W.J.</title></circle></a><a href="/variants/s14/r12w1k1g12y2db5lb6r2lb2r4g2r2k2g2~x2/"><circle cx="95.6" cy="108.3" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><a href="/variants/s15/w2n2g2dy1y10w7r3w13db5y10w1g2n2w2r1~x4/"><circle cx="139.5" cy="127.4" r="4" fill="#3465a4"><title>Contrecoeur Dress</title></circle></a><circle cx="96.1" cy="102.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/y10w1g2k2w2r1w2k2g2k1y10w7r3w13lb5~x2/

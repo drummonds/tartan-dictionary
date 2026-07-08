@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Carrick"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r28db12r3g20m1g2m1g2r7/)
 (the same proportion at any scale), whose colour order is pattern [RBRGRGRGR](/stripes/rbrgrgrgr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=575
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=575](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=575)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="319.4" cy="136.2" r="4" fill="#3465a4"><title>Carrick (Clan)</title></circle></a><a href="/variants/s11/dg4g8db6dg8r6g2r2g2r24g1r3/"><circle cx="319.0" cy="139.4" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/variants/s9/db2r49db51r9w2r9g51r49db2~x2/"><circle cx="310.1" cy="150.2" r="4" fill="#3465a4"><title>Unidentified #20</title></circle></a><a href="/variants/s10/r6w1r24db6g2db1g2db1g12r1~x2/"><circle cx="346.5" cy="124.2" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/variants/s10/r6w1r24db6g2db1g2db1g12r1/"><circle cx="346.5" cy="124.2" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/variants/s11/r3db1r1g21r3db18r35db1y1r4g1/"><circle cx="340.9" cy="104.1" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s12/r7b2db2r2g32r6db12r41g2r5b2g5~x2/"><circle cx="329.6" cy="128.8" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s8/r56w2db6w2g32r11db6w5/"><circle cx="348.5" cy="130.6" r="4" fill="#3465a4"><title>Spens</title></circle></a><a href="/variants/s10/r6w1r24dr6g2dr1g2dr1g12r1~x2/"><circle cx="365.3" cy="128.7" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/variants/s10/r6w1r24dr6g2dr1g2dr1g12r1/"><circle cx="365.3" cy="128.7" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><circle cx="321.1" cy="136.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="319.4" cy="136.4" r="4" fill="#3465a4"><title>Carrick (Clan)</title></circle></a><a href="/variants/s11/dg4g8db6dg8r6g2r2g2r24g1r3/"><circle cx="319.0" cy="139.7" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/variants/s9/db2r49db51r9w2r9g51r49db2~x2/"><circle cx="310.1" cy="150.6" r="4" fill="#3465a4"><title>Unidentified #20</title></circle></a><a href="/variants/s10/r6w1r24db6g2db1g2db1g12r1~x2/"><circle cx="346.5" cy="124.5" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/variants/s10/r6w1r24db6g2db1g2db1g12r1/"><circle cx="346.5" cy="124.5" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/variants/s11/r3db1r1g21r3db18r35db1y1r4g1/"><circle cx="340.9" cy="104.3" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s12/r7b2db2r2g32r6db12r41g2r5b2g5~x2/"><circle cx="329.6" cy="129.0" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s8/r56w2db6w2g32r11db6w5/"><circle cx="348.5" cy="130.9" r="4" fill="#3465a4"><title>Spens</title></circle></a><a href="/variants/s10/r6w1r24dr6g2dr1g2dr1g12r1~x2/"><circle cx="365.3" cy="129.0" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/variants/s10/r6w1r24dr6g2dr1g2dr1g12r1/"><circle cx="365.3" cy="129.0" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><circle cx="321.1" cy="136.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r28db12r3g20m1g2m1g2r7~x2/

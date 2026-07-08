@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Knights Templar St Andrews Corporate Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4r1db18k6w5k4w4k4w3k2r1db2/)
 (the same proportion at any scale), whose colour order is pattern [BRKWKWKWKBRW](/stripes/brkwkwkwkbrw/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=559
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=559](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=559)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/"><circle cx="178.7" cy="119.4" r="4" fill="#3465a4"><title>Scottish Knights Templar St. A (Corp</title></circle></a><a href="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/"><circle cx="118.5" cy="132.3" r="4" fill="#3465a4"><title>Dinarzh: Fortress of the Bear</title></circle></a><a href="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="162.1" cy="135.6" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/variants/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/"><circle cx="111.8" cy="141.3" r="4" fill="#3465a4"><title>Tommy</title></circle></a><a href="/variants/s9/db27k4db4k4db4k14lb14w2lb27/"><circle cx="175.1" cy="162.5" r="4" fill="#3465a4"><title>(1) Abercrombie</title></circle></a><a href="/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/"><circle cx="203.3" cy="118.2" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. St Andrew</title></circle></a><a href="/variants/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/"><circle cx="166.2" cy="115.4" r="4" fill="#3465a4"><title>Nigeria</title></circle></a><a href="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/"><circle cx="166.8" cy="107.4" r="4" fill="#3465a4"><title>Hogmany Plaid</title></circle></a><a href="/variants/s9/dr3k1w12k2b2k2ki14w2ki2~x2~b1511266-ki0604259/"><circle cx="139.2" cy="124.5" r="4" fill="#3465a4"><title>NEWYORKER</title></circle></a><a href="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/"><circle cx="153.7" cy="111.2" r="4" fill="#3465a4"><title>Ellis (Welsh Name)</title></circle></a><circle cx="151.1" cy="126.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lb4r1db20k6lb5k4lb4k4lb3k2r1db2~x2/"><circle cx="178.6" cy="119.6" r="4" fill="#3465a4"><title>Scottish Knights Templar St. A (Corp</title></circle></a><a href="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/"><circle cx="118.5" cy="132.7" r="4" fill="#3465a4"><title>Dinarzh: Fortress of the Bear</title></circle></a><a href="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="162.1" cy="136.1" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/variants/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/"><circle cx="111.8" cy="141.8" r="4" fill="#3465a4"><title>Tommy</title></circle></a><a href="/variants/s9/db27k4db4k4db4k14lb14w2lb27/"><circle cx="175.1" cy="163.0" r="4" fill="#3465a4"><title>(1) Abercrombie</title></circle></a><a href="/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/"><circle cx="203.2" cy="118.5" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. St Andrew</title></circle></a><a href="/variants/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/"><circle cx="166.1" cy="115.7" r="4" fill="#3465a4"><title>Nigeria</title></circle></a><a href="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/"><circle cx="166.7" cy="107.6" r="4" fill="#3465a4"><title>Hogmany Plaid</title></circle></a><a href="/variants/s9/dr3k1w12k2b2k2ki14w2ki2~x2~b1511266-ki0604259/"><circle cx="139.1" cy="124.8" r="4" fill="#3465a4"><title>NEWYORKER</title></circle></a><a href="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/"><circle cx="153.6" cy="111.5" r="4" fill="#3465a4"><title>Ellis (Welsh Name)</title></circle></a><circle cx="151.0" cy="126.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/

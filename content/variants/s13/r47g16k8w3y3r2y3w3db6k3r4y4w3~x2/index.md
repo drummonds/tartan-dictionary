@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/macgill/"
 - name: "MacGill"
   url: "/tartans/macgill/"
+- name: "MacGill Clan Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r47g16k8w3y3r2y3w3db6k3r4y4w3/)
 (the same proportion at any scale), whose colour order is pattern [RGKWGRGWBKRGW](/stripes/rgkwgrgwbkrgw/).
@@ -16,7 +18,7 @@ Part of the [MacGill](/tartans/macgill/) tartan — the named design grouping th
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1487
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1487](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1487)
 
 ## Provenance
 
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r28g10k7w2y2r1y2w2db5k2r2y2w3~x4/"><circle cx="183.2" cy="53.8" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/variants/s13/r41g13k8w2y2r1y2w2db6k2r3y2w5/"><circle cx="233.2" cy="30.1" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/variants/s13/r48g16k8w3y3r2o3w3db8k1r4y4w3~x2/"><circle cx="229.0" cy="14.7" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/variants/s12/r26w1k8y1g13k1w4k1y2k4lb3r8~x4/"><circle cx="188.8" cy="69.0" r="4" fill="#3465a4"><title>Drummond Relic</title></circle></a><a href="/variants/s11/r48lb8k10y2k3w2g25r10k3r3w2~x2/"><circle cx="232.8" cy="68.4" r="4" fill="#3465a4"><title>Followers' Plaid</title></circle></a><a href="/variants/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/"><circle cx="232.3" cy="44.6" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/variants/s11/r64lb12k16y2k4w3dg32r8k4r3w2~x2/"><circle cx="227.6" cy="53.6" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/variants/s12/db3r2db2r35dy2db3k2db5k4g13k1w3~x2/"><circle cx="234.3" cy="45.0" r="4" fill="#3465a4"><title>Celtic Nations</title></circle></a><a href="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/"><circle cx="216.1" cy="69.5" r="4" fill="#3465a4"><title>Strathclyde Fire Services (Corporate</title></circle></a><a href="/variants/s11/lb14k8y2k3w4k3g21r48lb4r5k3~x2/"><circle cx="189.7" cy="72.0" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><circle cx="217.9" cy="54.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r28g10k7w2y2r1y2w2db5k2r2y2w3~x4/"><circle cx="183.1" cy="53.9" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/variants/s13/r41g13k8w2y2r1y2w2db6k2r3y2w5/"><circle cx="233.1" cy="30.1" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/variants/s13/r48g16k8w3y3r2o3w3db8k1r4y4w3~x2/"><circle cx="228.8" cy="14.7" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/variants/s12/r26w1k8y1g13k1w4k1y2k4lb3r8~x4/"><circle cx="188.7" cy="69.2" r="4" fill="#3465a4"><title>Drummond Relic</title></circle></a><a href="/variants/s11/r48lb8k10y2k3w2g25r10k3r3w2~x2/"><circle cx="232.7" cy="68.6" r="4" fill="#3465a4"><title>Followers' Plaid</title></circle></a><a href="/variants/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/"><circle cx="232.2" cy="44.7" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/variants/s11/r64lb12k16y2k4w3dg32r8k4r3w2~x2/"><circle cx="227.4" cy="53.8" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/variants/s12/db3r2db2r35dy2db3k2db5k4g13k1w3~x2/"><circle cx="234.1" cy="45.1" r="4" fill="#3465a4"><title>Celtic Nations</title></circle></a><a href="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/"><circle cx="216.0" cy="69.7" r="4" fill="#3465a4"><title>Strathclyde Fire Services (Corporate</title></circle></a><a href="/variants/s11/lb14k8y2k3w4k3g21r48lb4r5k3~x2/"><circle cx="189.6" cy="72.2" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><circle cx="217.8" cy="54.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/r47g16k8w3y3r2y3w3db6k3r4y4w3~x2/

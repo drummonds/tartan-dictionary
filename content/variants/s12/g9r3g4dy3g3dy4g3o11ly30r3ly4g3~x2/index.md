@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harmony 5"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g9r3g4dy3g3dy4g3o11ly30r3ly4g3/)
 (the same proportion at any scale), whose colour order is pattern [GRGGGGGRYRYG](/stripes/grgggggryryg/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1610
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1610](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1610)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g28lo18db4lo18ri3r2ri3r2ri3r2ri3~x2~ri2109032-r2109013/"><circle cx="236.4" cy="147.7" r="4" fill="#3465a4"><title>Commonwealth Games - 2014</title></circle></a><a href="/variants/s10/g4n4g2ly36n14ly2lb4g7r5ly3~x2/"><circle cx="315.5" cy="150.1" r="4" fill="#3465a4"><title>Rikaco Eve (Fashion)</title></circle></a><a href="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/"><circle cx="244.2" cy="149.7" r="4" fill="#3465a4"><title>Dorcas (Fashion)</title></circle></a><a href="/variants/s12/dr3g16db2g2db2g3db6o20lr3o2lr2o3~x2/"><circle cx="228.8" cy="171.0" r="4" fill="#3465a4"><title>Callum, Blue (Fashion)</title></circle></a><a href="/variants/s15/ly18do3ly3do3ly3do16g16r2y2r2g16do16ly17do3ly3~x2/"><circle cx="158.3" cy="173.3" r="4" fill="#3465a4"><title>Lander (2013)</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2209032/"><circle cx="296.8" cy="178.3" r="4" fill="#3465a4"><title>Manitoba Red</title></circle></a><a href="/variants/s11/dr5r2y24lb2y2lb2y6lb8dr6lb8ly4~x2/"><circle cx="254.5" cy="168.5" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><a href="/variants/s9/r3g3lo2r18w2g21lo2g2lo3~x2/"><circle cx="293.4" cy="179.6" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/variants/s12/g6y5w1g2w1g5w1g2w1r15db2w1~x2/"><circle cx="204.7" cy="144.5" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/variants/s11/y6ly48db8ly16w4ly3g19r24ly4r9w4/"><circle cx="236.5" cy="138.3" r="4" fill="#3465a4"><title>Muirhead (Original)</title></circle></a><circle cx="231.0" cy="166.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g28lo18db4lo18ri3r2ri3r2ri3r2ri3~x2~ri2109032-r2109013/"><circle cx="236.4" cy="148.0" r="4" fill="#3465a4"><title>Commonwealth Games - 2014</title></circle></a><a href="/variants/s10/g4n4g2ly36n14ly2lb4g7r5ly3~x2/"><circle cx="315.5" cy="150.3" r="4" fill="#3465a4"><title>Rikaco Eve (Fashion)</title></circle></a><a href="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/"><circle cx="244.2" cy="150.0" r="4" fill="#3465a4"><title>Dorcas (Fashion)</title></circle></a><a href="/variants/s12/dr3g16db2g2db2g3db6o20lr3o2lr2o3~x2/"><circle cx="228.8" cy="171.2" r="4" fill="#3465a4"><title>Callum, Blue (Fashion)</title></circle></a><a href="/variants/s15/ly18do3ly3do3ly3do16g16r2y2r2g16do16ly17do3ly3~x2/"><circle cx="158.4" cy="173.7" r="4" fill="#3465a4"><title>Lander (2013)</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2209032/"><circle cx="296.8" cy="178.7" r="4" fill="#3465a4"><title>Manitoba Red</title></circle></a><a href="/variants/s11/dr5r2y24lb2y2lb2y6lb8dr6lb8ly4~x2/"><circle cx="254.6" cy="168.8" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><a href="/variants/s9/r3g3lo2r18w2g21lo2g2lo3~x2/"><circle cx="293.5" cy="180.0" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/variants/s12/g6y5w1g2w1g5w1g2w1r15db2w1~x2/"><circle cx="204.7" cy="144.8" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/variants/s11/y6ly48db8ly16w4ly3g19r24ly4r9w4/"><circle cx="236.5" cy="138.6" r="4" fill="#3465a4"><title>Muirhead (Original)</title></circle></a><circle cx="231.1" cy="166.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/g9r3g4dy3g3dy4g3o11ly30r3ly4g3~x2/

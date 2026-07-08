@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ville de Beauport District Canadian Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g16k1db12k1lb12k1r10y7k1y7k2lb1k4/)
 (the same proportion at any scale), whose colour order is pattern [GKBKWKRGKGKWK](/stripes/gkbkwkrgkgkwk/).
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2192
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2192](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2192)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g16k1db12k1b12k1r10y7k1y7k2b1k4~x2/"><circle cx="49.2" cy="124.4" r="4" fill="#3465a4"><title>Ville de Beauport</title></circle></a><a href="/variants/s13/g16k1db12k1n12k1r10y7k1y7k2n1k4~x2/"><circle cx="59.1" cy="127.5" r="4" fill="#3465a4"><title>Ville de Beauport</title></circle></a><a href="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/"><circle cx="39.2" cy="124.0" r="4" fill="#3465a4"><title>Bowling</title></circle></a><a href="/variants/s18/g12k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="55.1" cy="125.7" r="4" fill="#3465a4"><title>Buchanan 2</title></circle></a><a href="/variants/s15/w6g6w6g12lb8g14dy24k4lb4k4dp44w12g20k4lb5/"><circle cx="56.6" cy="124.1" r="4" fill="#3465a4"><title>Wexford County, Crest Range</title></circle></a><a href="/variants/s13/w6db18k1g8w2k8w2ly8k1r8dy2k1dy4~x2/"><circle cx="16.1" cy="94.3" r="4" fill="#3465a4"><title>Mozambique</title></circle></a><a href="/variants/s16/g3k2r12lb9k2lb9k16y3k3w5k3g25r13k4r5w3~x2/"><circle cx="34.2" cy="113.7" r="4" fill="#3465a4"><title>Wilson's, No 152</title></circle></a><a href="/variants/s11/ly40k5g48k5dr20k5lb14k10w4dr28lb10/"><circle cx="45.2" cy="138.0" r="4" fill="#3465a4"><title>Kildare County Crest (Fashion)</title></circle></a><a href="/variants/s15/db2k2db8k8g12k1w2k1g12k8r3lb3r14lb2r2~x2/"><circle cx="60.5" cy="117.0" r="4" fill="#3465a4"><title>Unidentified - C20th</title></circle></a><a href="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/"><circle cx="78.9" cy="94.3" r="4" fill="#3465a4"><title>Brinkie's Brae (Personal)</title></circle></a><circle cx="36.1" cy="119.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g16k1db12k1b12k1r10y7k1y7k2b1k4~x2/"><circle cx="49.1" cy="124.6" r="4" fill="#3465a4"><title>Ville de Beauport</title></circle></a><a href="/variants/s13/g16k1db12k1n12k1r10y7k1y7k2n1k4~x2/"><circle cx="59.0" cy="127.7" r="4" fill="#3465a4"><title>Ville de Beauport</title></circle></a><a href="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/"><circle cx="39.1" cy="124.3" r="4" fill="#3465a4"><title>Bowling</title></circle></a><a href="/variants/s18/g12k1db4k1y6k1y6k1db4k1r8w1r8k1db4k1g6db4~x4/"><circle cx="55.1" cy="126.0" r="4" fill="#3465a4"><title>Buchanan 2</title></circle></a><a href="/variants/s15/w6g6w6g12lb8g14dy24k4lb4k4dp44w12g20k4lb5/"><circle cx="56.5" cy="124.4" r="4" fill="#3465a4"><title>Wexford County, Crest Range</title></circle></a><a href="/variants/s13/w6db18k1g8w2k8w2ly8k1r8dy2k1dy4~x2/"><circle cx="16.0" cy="94.5" r="4" fill="#3465a4"><title>Mozambique</title></circle></a><a href="/variants/s16/g3k2r12lb9k2lb9k16y3k3w5k3g25r13k4r5w3~x2/"><circle cx="34.2" cy="114.0" r="4" fill="#3465a4"><title>Wilson's, No 152</title></circle></a><a href="/variants/s11/ly40k5g48k5dr20k5lb14k10w4dr28lb10/"><circle cx="45.2" cy="138.3" r="4" fill="#3465a4"><title>Kildare County Crest (Fashion)</title></circle></a><a href="/variants/s15/db2k2db8k8g12k1w2k1g12k8r3lb3r14lb2r2~x2/"><circle cx="60.5" cy="117.3" r="4" fill="#3465a4"><title>Unidentified - C20th</title></circle></a><a href="/variants/s17/k3w4k3r18db1n18k1g18w1db18r1n18g1r18k3w4k3~x2/"><circle cx="78.8" cy="94.5" r="4" fill="#3465a4"><title>Brinkie's Brae (Personal)</title></circle></a><circle cx="36.0" cy="120.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/g16k1db12k1lb12k1r10y7k1y7k2lb1k4~x2/

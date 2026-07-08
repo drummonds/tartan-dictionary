@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Walter"
   url: "/tartans/walter/"
+- name: "Walter"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r24w3y4dg18dp18dy3lb4/)
 (the same proportion at any scale), whose colour order is pattern [RWGGBGW](/stripes/rwggbgw/).
@@ -14,7 +16,7 @@ Part of the [Walter](/tartans/walter/) tartan — the named design grouping this
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r24w3y4dg18dp18g3lb4~x2/"><circle cx="103.6" cy="166.0" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/variants/s6/g25r9lb3y7w3dp11/"><circle cx="176.9" cy="204.5" r="4" fill="#3465a4"><title>Montessori School of Denver</title></circle></a><a href="/variants/s6/g25r9lb3y7w3dp11~x3/"><circle cx="176.9" cy="204.5" r="4" fill="#3465a4"><title>Montessori School of Denver (School)</title></circle></a><a href="/variants/s7/lb4dp3b1g9w1r8k1~x4/"><circle cx="85.9" cy="156.8" r="4" fill="#3465a4"><title>Wilson's, No 121</title></circle></a><a href="/variants/s6/r3y2g12dp12db14w3~x2/"><circle cx="105.5" cy="219.7" r="4" fill="#3465a4"><title>Jamestown Parish Church (Corporate)</title></circle></a><a href="/variants/s7/g21db21y3r21n3dp5n3~x2/"><circle cx="122.3" cy="206.5" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/variants/s7/g21lb21ly3r21n3dp5n3~x2/"><circle cx="125.4" cy="209.4" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/variants/s9/y3k2lb3r14g19k3w3dp10lb3~x2/"><circle cx="60.6" cy="137.8" r="4" fill="#3465a4"><title>Wilson's, No 110</title></circle></a><a href="/variants/s8/r6y15do4db12g12dy4r25w5~x2/"><circle cx="108.3" cy="196.7" r="4" fill="#3465a4"><title>Young Presidents Organisation Dress</title></circle></a><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/"><circle cx="127.3" cy="206.2" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll (Clan)</title></circle></a><circle cx="124.0" cy="182.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r24w3y4dg18dp18g3lb4~x2/"><circle cx="103.7" cy="166.3" r="4" fill="#3465a4"><title>Walter (Personal)</title></circle></a><a href="/variants/s6/g25r9lb3y7w3dp11/"><circle cx="177.0" cy="204.9" r="4" fill="#3465a4"><title>Montessori School of Denver</title></circle></a><a href="/variants/s6/g25r9lb3y7w3dp11~x3/"><circle cx="177.0" cy="204.9" r="4" fill="#3465a4"><title>Montessori School of Denver (School)</title></circle></a><a href="/variants/s7/lb4dp3b1g9w1r8k1~x4/"><circle cx="86.0" cy="157.2" r="4" fill="#3465a4"><title>Wilson's, No 121</title></circle></a><a href="/variants/s6/r3y2g12dp12db14w3~x2/"><circle cx="105.6" cy="220.1" r="4" fill="#3465a4"><title>Jamestown Parish Church (Corporate)</title></circle></a><a href="/variants/s7/g21db21y3r21n3dp5n3~x2/"><circle cx="122.4" cy="206.9" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/variants/s7/g21lb21ly3r21n3dp5n3~x2/"><circle cx="125.5" cy="209.8" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/variants/s9/y3k2lb3r14g19k3w3dp10lb3~x2/"><circle cx="60.5" cy="138.2" r="4" fill="#3465a4"><title>Wilson's, No 110</title></circle></a><a href="/variants/s8/r6y15do4db12g12dy4r25w5~x2/"><circle cx="108.4" cy="197.2" r="4" fill="#3465a4"><title>Young Presidents Organisation Dress</title></circle></a><a href="/variants/s6/g3dbi8r11db3k2dp2~x4~dbi1406275-db1404245/"><circle cx="127.3" cy="206.7" r="4" fill="#3465a4"><title>Nicolson of Tiree &amp; Coll (Clan)</title></circle></a><circle cx="124.0" cy="183.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r24w3y4dg18dp18dy3lb4~x2~dg1104144-dy1703114/

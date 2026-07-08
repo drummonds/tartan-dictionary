@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Believe"
   url: "/tartans/believe/"
+- name: "Believe - Colette"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n3k31w6k7n3k12w2/)
 (the same proportion at any scale), whose colour order is pattern [BKWKBKW](/stripes/bkwkbkw/).
@@ -14,7 +16,7 @@ Part of the [Believe](/tartans/believe/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11004
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11004](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11004)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n3k31w6k8n3k12w2~x2/"><circle cx="427.1" cy="155.8" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="368.0" cy="144.0" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s9/k25w1n3w1k31n3k31w2r9~x2/"><circle cx="469.7" cy="103.4" r="4" fill="#3465a4"><title>Savannah Harley Davidson (Corporate)</title></circle></a><a href="/variants/s9/k25w1n3w1k31n3k31w2r9~x2~n1700000/"><circle cx="471.6" cy="103.9" r="4" fill="#3465a4"><title>Savannah Harley Davidson</title></circle></a><a href="/variants/s6/k21w2k5w9k13g2~x4/"><circle cx="371.3" cy="192.7" r="4" fill="#3465a4"><title>New Zealand District Tartan</title></circle></a><a href="/variants/s6/k17dr6k2w6k17ly2~x2/"><circle cx="328.1" cy="191.2" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="426.0" cy="81.8" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s6/k4r4k20r1k20w4~x6/"><circle cx="469.1" cy="155.2" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/variants/s6/k36y5k1y1n5k12~x2/"><circle cx="522.7" cy="121.8" r="4" fill="#3465a4"><title>Merola (2016)</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="491.3" cy="157.9" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><circle cx="425.2" cy="154.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n3k31w6k8n3k12w2~x2/"><circle cx="427.0" cy="156.2" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="368.0" cy="144.4" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s9/k25w1n3w1k31n3k31w2r9~x2/"><circle cx="469.6" cy="103.6" r="4" fill="#3465a4"><title>Savannah Harley Davidson (Corporate)</title></circle></a><a href="/variants/s9/k25w1n3w1k31n3k31w2r9~x2~n1700000/"><circle cx="471.4" cy="104.2" r="4" fill="#3465a4"><title>Savannah Harley Davidson</title></circle></a><a href="/variants/s6/k21w2k5w9k13g2~x4/"><circle cx="371.3" cy="193.3" r="4" fill="#3465a4"><title>New Zealand District Tartan</title></circle></a><a href="/variants/s6/k17dr6k2w6k17ly2~x2/"><circle cx="328.2" cy="191.8" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="425.8" cy="82.0" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s6/k4r4k20r1k20w4~x6/"><circle cx="469.1" cy="155.7" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/variants/s6/k36y5k1y1n5k12~x2/"><circle cx="522.6" cy="122.0" r="4" fill="#3465a4"><title>Merola (2016)</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="491.3" cy="158.4" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><circle cx="425.2" cy="154.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/n3k31w6k7n3k12w2~x2/

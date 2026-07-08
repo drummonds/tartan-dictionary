@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Little, Arisaid"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k5w4k4r4k4w7k2w7k8y1/)
 (the same proportion at any scale), whose colour order is pattern [GKWKWKRKWK](/stripes/gkwkwkrkwk/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2129
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2129](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2129)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k4dr4k4dr4k4w8k2w8k8lo1~x4/"><circle cx="143.8" cy="206.3" r="4" fill="#3465a4"><title>Little Dress</title></circle></a><a href="/variants/s10/n6k1n1k1n2k4ly6k1n2k2~x8/"><circle cx="166.4" cy="211.6" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/"><circle cx="153.4" cy="206.2" r="4" fill="#3465a4"><title>Little of Morton Rigg</title></circle></a><a href="/variants/s9/g7k1dr8k2w7k10w7k2w4~x4/"><circle cx="102.2" cy="200.2" r="4" fill="#3465a4"><title>Borthwick Dress (Clan)</title></circle></a><a href="/variants/s8/k22w16dg2w14dg2w16k22dr3~x2~dg1806142/"><circle cx="196.6" cy="187.4" r="4" fill="#3465a4"><title>Kierson</title></circle></a><a href="/variants/s10/k10w7k8w7k8b14k4b14k16y2/"><circle cx="160.3" cy="209.7" r="4" fill="#3465a4"><title>Little of Morton Rig</title></circle></a><a href="/variants/s8/k22w16lo2w14lo2w16k22db3~x2/"><circle cx="196.9" cy="187.1" r="4" fill="#3465a4"><title>Kennison</title></circle></a><a href="/variants/s8/dg14r5dg14w5k2r5k2w9~x4/"><circle cx="166.7" cy="203.6" r="4" fill="#3465a4"><title>Unnamed (Hip Flask)</title></circle></a><a href="/variants/s9/k6r2k12y3k6lb16y3lb16k2~x2/"><circle cx="179.0" cy="179.5" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s5/db20k5db18lo26k6~x2~db1406275/"><circle cx="181.0" cy="243.8" r="4" fill="#3465a4"><title>Johore Regiment</title></circle></a><circle cx="157.2" cy="207.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k4dr4k4dr4k4w8k2w8k8lo1~x4/"><circle cx="143.8" cy="206.9" r="4" fill="#3465a4"><title>Little Dress</title></circle></a><a href="/variants/s10/n6k1n1k1n2k4ly6k1n2k2~x8/"><circle cx="166.5" cy="212.3" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/variants/s10/k4w4k4w4k4dr8k2dr8k8lo1~x4/"><circle cx="153.4" cy="206.8" r="4" fill="#3465a4"><title>Little of Morton Rigg</title></circle></a><a href="/variants/s9/g7k1dr8k2w7k10w7k2w4~x4/"><circle cx="102.2" cy="200.8" r="4" fill="#3465a4"><title>Borthwick Dress (Clan)</title></circle></a><a href="/variants/s8/k22w16dg2w14dg2w16k22dr3~x2~dg1806142/"><circle cx="196.6" cy="188.0" r="4" fill="#3465a4"><title>Kierson</title></circle></a><a href="/variants/s10/k10w7k8w7k8b14k4b14k16y2/"><circle cx="160.3" cy="210.3" r="4" fill="#3465a4"><title>Little of Morton Rig</title></circle></a><a href="/variants/s8/k22w16lo2w14lo2w16k22db3~x2/"><circle cx="196.9" cy="187.7" r="4" fill="#3465a4"><title>Kennison</title></circle></a><a href="/variants/s8/dg14r5dg14w5k2r5k2w9~x4/"><circle cx="166.8" cy="204.2" r="4" fill="#3465a4"><title>Unnamed (Hip Flask)</title></circle></a><a href="/variants/s9/k6r2k12y3k6lb16y3lb16k2~x2/"><circle cx="179.0" cy="180.1" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s5/db20k5db18lo26k6~x2~db1406275/"><circle cx="181.1" cy="244.6" r="4" fill="#3465a4"><title>Johore Regiment</title></circle></a><circle cx="157.3" cy="208.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k5w4k4r4k4w7k2w7k8y1~x4/

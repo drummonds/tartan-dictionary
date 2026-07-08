@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. Francis Xavier University"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3y1w9y1db9k3lb1/)
 (the same proportion at any scale), whose colour order is pattern [KGWGBKW](/stripes/kgwgbkw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3890
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3890](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3890)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r5w2db20y2k16w18k2w5~x2/"><circle cx="105.6" cy="162.2" r="4" fill="#3465a4"><title>Ailsa, Craig</title></circle></a><a href="/variants/s6/r2w12lb1k12b12k1~x2/"><circle cx="106.8" cy="170.0" r="4" fill="#3465a4"><title>Dutch, dress</title></circle></a><a href="/variants/s10/r1k1w2k2w2k1w4k1db9y1~x4/"><circle cx="115.0" cy="143.4" r="4" fill="#3465a4"><title>Thom(p)son</title></circle></a><a href="/variants/s8/k4y2k13y1w8lb13y2lb4~x2/"><circle cx="132.0" cy="171.0" r="4" fill="#3465a4"><title>Bannockbane, Blue</title></circle></a><a href="/variants/s6/dg10k1db13k3w9y3~x2/"><circle cx="97.6" cy="185.4" r="4" fill="#3465a4"><title>Inverary</title></circle></a><a href="/variants/s8/w4db32w12k5r9y8r4w4~x2/"><circle cx="124.8" cy="162.3" r="4" fill="#3465a4"><title>Brunnbauer (2015)</title></circle></a><a href="/variants/s9/k1w7dr6db7dr1g1dr1g1w1~x4/"><circle cx="97.8" cy="173.5" r="4" fill="#3465a4"><title>Oliver Dress (Dance)</title></circle></a><a href="/variants/s6/k6w49db50dp6dbi8ly4~db1204274-dbi1406275/"><circle cx="158.5" cy="144.8" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="137.8" cy="149.8" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/"><circle cx="121.0" cy="186.2" r="4" fill="#3465a4"><title>Kile (Red line) (Personal)</title></circle></a><circle cx="100.7" cy="171.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r5w2db20y2k16w18k2w5~x2/"><circle cx="105.6" cy="162.6" r="4" fill="#3465a4"><title>Ailsa, Craig</title></circle></a><a href="/variants/s6/r2w12lb1k12b12k1~x2/"><circle cx="106.8" cy="170.5" r="4" fill="#3465a4"><title>Dutch, dress</title></circle></a><a href="/variants/s10/r1k1w2k2w2k1w4k1db9y1~x4/"><circle cx="115.0" cy="143.8" r="4" fill="#3465a4"><title>Thom(p)son</title></circle></a><a href="/variants/s8/k4y2k13y1w8lb13y2lb4~x2/"><circle cx="132.0" cy="171.5" r="4" fill="#3465a4"><title>Bannockbane, Blue</title></circle></a><a href="/variants/s6/dg10k1db13k3w9y3~x2/"><circle cx="97.7" cy="185.9" r="4" fill="#3465a4"><title>Inverary</title></circle></a><a href="/variants/s8/w4db32w12k5r9y8r4w4~x2/"><circle cx="124.8" cy="162.8" r="4" fill="#3465a4"><title>Brunnbauer (2015)</title></circle></a><a href="/variants/s9/k1w7dr6db7dr1g1dr1g1w1~x4/"><circle cx="97.8" cy="174.0" r="4" fill="#3465a4"><title>Oliver Dress (Dance)</title></circle></a><a href="/variants/s6/k6w49db50dp6dbi8ly4~db1204274-dbi1406275/"><circle cx="158.5" cy="145.2" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="137.8" cy="150.2" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/"><circle cx="121.1" cy="186.8" r="4" fill="#3465a4"><title>Kile (Red line) (Personal)</title></circle></a><circle cx="100.8" cy="172.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k3y1w9y1db9k3lb1~x4/

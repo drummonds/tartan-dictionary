@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Lockhart"
   url: "/tartans/lockhart/"
+- name: "Lockhart"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g13k3g34k6db16r2db16k3g13/)
 (the same proportion at any scale), whose colour order is pattern [GKBRBKGKG](/stripes/gkbrbkgkg/).
@@ -14,7 +16,7 @@ Part of the [Lockhart](/tartans/lockhart/) tartan — the named design grouping 
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/"><circle cx="319.8" cy="180.8" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><a href="/variants/s8/db18dp2db16k13g3k2g42lo3~x2/"><circle cx="219.4" cy="132.8" r="4" fill="#3465a4"><title>McFadden (Personal)</title></circle></a><a href="/variants/s8/g2k3y1k3g2db8g16k1~x4/"><circle cx="272.4" cy="152.0" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/variants/s12/r4ki2g7ki15g3ki3g3ki7g28k7g6k2~ki0604259/"><circle cx="244.5" cy="142.9" r="4" fill="#3465a4"><title>Walker, hunting</title></circle></a><a href="/variants/s11/db4lb2k2db12lb4g6k6g28k2lb2g3~x2/"><circle cx="235.7" cy="139.4" r="4" fill="#3465a4"><title>Hudson Hunting (Personal)</title></circle></a><a href="/variants/s8/b26g6k8g3k8g30w3g3~x2/"><circle cx="209.6" cy="179.4" r="4" fill="#3465a4"><title>Riley (Personal)</title></circle></a><a href="/variants/s10/db19g7db7lb2g20k9g6k4g10w3~x2/"><circle cx="173.7" cy="179.4" r="4" fill="#3465a4"><title>O'Connell, William (Name)</title></circle></a><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/"><circle cx="241.5" cy="181.1" r="4" fill="#3465a4"><title>John Telfar Dunbar Hunting</title></circle></a><a href="/variants/s10/db17g5db5g17db4g17k2dy2k2g5~x2/"><circle cx="282.8" cy="193.4" r="4" fill="#3465a4"><title>Hueg (Hunting) (Personal)</title></circle></a><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/"><circle cx="204.9" cy="166.6" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><circle cx="276.9" cy="168.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/"><circle cx="319.8" cy="181.2" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><a href="/variants/s8/db18dp2db16k13g3k2g42lo3~x2/"><circle cx="219.4" cy="133.1" r="4" fill="#3465a4"><title>McFadden (Personal)</title></circle></a><a href="/variants/s8/g2k3y1k3g2db8g16k1~x4/"><circle cx="272.4" cy="152.3" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/variants/s12/r4ki2g7ki15g3ki3g3ki7g28k7g6k2~ki0604259/"><circle cx="244.5" cy="143.2" r="4" fill="#3465a4"><title>Walker, hunting</title></circle></a><a href="/variants/s11/db4lb2k2db12lb4g6k6g28k2lb2g3~x2/"><circle cx="235.7" cy="139.8" r="4" fill="#3465a4"><title>Hudson Hunting (Personal)</title></circle></a><a href="/variants/s8/b26g6k8g3k8g30w3g3~x2/"><circle cx="209.7" cy="179.9" r="4" fill="#3465a4"><title>Riley (Personal)</title></circle></a><a href="/variants/s10/db19g7db7lb2g20k9g6k4g10w3~x2/"><circle cx="173.7" cy="179.9" r="4" fill="#3465a4"><title>O'Connell, William (Name)</title></circle></a><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/"><circle cx="241.5" cy="181.5" r="4" fill="#3465a4"><title>John Telfar Dunbar Hunting</title></circle></a><a href="/variants/s10/db17g5db5g17db4g17k2dy2k2g5~x2/"><circle cx="282.8" cy="193.8" r="4" fill="#3465a4"><title>Hueg (Hunting) (Personal)</title></circle></a><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/"><circle cx="204.9" cy="167.0" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><circle cx="276.9" cy="168.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g13k3g34k6db16r2db16k3g13~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gangs of New York Fashion Check Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w5k20w2r5w20r2/)
 (the same proportion at any scale), whose colour order is pattern [RWRWKW](/stripes/rwrwkw/).
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8248
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8248](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8248)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w8dr14w8dr14w35k4~x2/"><circle cx="299.6" cy="217.3" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="246.0" cy="168.5" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><a href="/variants/s6/w2r12db2w6k6w1/"><circle cx="178.0" cy="185.1" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><circle cx="256.0" cy="140.8" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="190.8" cy="221.9" r="4" fill="#3465a4"><title>Braes High School Falkirk (School)</title></circle></a><a href="/variants/s5/k27w29k5w14r2~x2/"><circle cx="275.9" cy="198.6" r="4" fill="#3465a4"><title>McPartlin (Personal)</title></circle></a><a href="/variants/s5/w8k1w8k12w1~x2/"><circle cx="308.3" cy="226.1" r="4" fill="#3465a4"><title>MacLeod, Black &amp; White</title></circle></a><a href="/variants/s5/w14k2w14k19w2~x2/"><circle cx="306.5" cy="238.6" r="4" fill="#3465a4"><title>MacLeod Black &amp; White</title></circle></a><a href="/variants/s7/y3k9w3k20w30dp3w3~x2/"><circle cx="226.6" cy="166.3" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/variants/s8/r4w19dg2w8dg2w8k38w4~x2/"><circle cx="238.6" cy="136.2" r="4" fill="#3465a4"><title>St. Piran Dress</title></circle></a><circle cx="239.8" cy="197.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w8dr14w8dr14w35k4~x2/"><circle cx="299.7" cy="218.1" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="246.1" cy="169.0" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><a href="/variants/s6/w2r12db2w6k6w1/"><circle cx="178.1" cy="185.7" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><circle cx="256.0" cy="141.3" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="190.9" cy="222.7" r="4" fill="#3465a4"><title>Braes High School Falkirk (School)</title></circle></a><a href="/variants/s5/k27w29k5w14r2~x2/"><circle cx="276.0" cy="199.3" r="4" fill="#3465a4"><title>McPartlin (Personal)</title></circle></a><a href="/variants/s5/w8k1w8k12w1~x2/"><circle cx="308.5" cy="226.9" r="4" fill="#3465a4"><title>MacLeod, Black &amp; White</title></circle></a><a href="/variants/s5/w14k2w14k19w2~x2/"><circle cx="306.7" cy="239.4" r="4" fill="#3465a4"><title>MacLeod Black &amp; White</title></circle></a><a href="/variants/s7/y3k9w3k20w30dp3w3~x2/"><circle cx="226.6" cy="166.9" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/variants/s8/r4w19dg2w8dg2w8k38w4~x2/"><circle cx="238.6" cy="136.6" r="4" fill="#3465a4"><title>St. Piran Dress</title></circle></a><circle cx="239.9" cy="198.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w5k20w2r5w20r2~x2/

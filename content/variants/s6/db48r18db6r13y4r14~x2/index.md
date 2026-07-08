@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Butler"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db48r18db6r13y4r14/)
 (the same proportion at any scale), whose colour order is pattern [BRBRGR](/stripes/brbrgr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=458
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=458](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=458)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg2r21db60r48db2r3dg2~x2/"><circle cx="392.1" cy="148.3" r="4" fill="#3465a4"><title>Fraser, Isabella</title></circle></a><a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/"><circle cx="344.6" cy="230.2" r="4" fill="#3465a4"><title>British European</title></circle></a><a href="/variants/s6/r12db2r12db17w2r2~x4/"><circle cx="326.8" cy="222.0" r="4" fill="#3465a4"><title>British European (Corporate)</title></circle></a><a href="/variants/s6/db1r1db7r7db1r1~x4/"><circle cx="359.9" cy="238.2" r="4" fill="#3465a4"><title>MacGregor of Glengyle</title></circle></a><a href="/variants/s6/db2r2db15r15db2r2~x2/"><circle cx="346.3" cy="220.6" r="4" fill="#3465a4"><title>Hebrides #7</title></circle></a><a href="/variants/s6/g3r2db22r22db2w3~x2/"><circle cx="274.3" cy="186.0" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><a href="/variants/s5/db6r1db6r9w1~x2/"><circle cx="315.4" cy="242.2" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/variants/s5/db6r1db6r9w1~x4/"><circle cx="315.4" cy="242.2" r="4" fill="#3465a4"><title>Hamilton Red Clan Tartan</title></circle></a><a href="/variants/s6/db18r9db2r3k1n1~x4/"><circle cx="352.6" cy="149.9" r="4" fill="#3465a4"><title>MacGregor, Modern</title></circle></a><a href="/variants/s6/g1r1db16r16db1w1~x2/"><circle cx="326.4" cy="162.6" r="4" fill="#3465a4"><title>Galloway, dress</title></circle></a><circle cx="346.8" cy="211.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg2r21db60r48db2r3dg2~x2/"><circle cx="392.1" cy="148.6" r="4" fill="#3465a4"><title>Fraser, Isabella</title></circle></a><a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/"><circle cx="344.8" cy="230.8" r="4" fill="#3465a4"><title>British European</title></circle></a><a href="/variants/s6/r12db2r12db17w2r2~x4/"><circle cx="327.0" cy="222.6" r="4" fill="#3465a4"><title>British European (Corporate)</title></circle></a><a href="/variants/s6/db1r1db7r7db1r1~x4/"><circle cx="360.1" cy="238.8" r="4" fill="#3465a4"><title>MacGregor of Glengyle</title></circle></a><a href="/variants/s6/db2r2db15r15db2r2~x2/"><circle cx="346.4" cy="221.1" r="4" fill="#3465a4"><title>Hebrides #7</title></circle></a><a href="/variants/s6/g3r2db22r22db2w3~x2/"><circle cx="274.4" cy="186.5" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><a href="/variants/s5/db6r1db6r9w1~x2/"><circle cx="315.5" cy="242.9" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/variants/s5/db6r1db6r9w1~x4/"><circle cx="315.5" cy="242.9" r="4" fill="#3465a4"><title>Hamilton Red Clan Tartan</title></circle></a><a href="/variants/s6/db18r9db2r3k1n1~x4/"><circle cx="352.5" cy="150.3" r="4" fill="#3465a4"><title>MacGregor, Modern</title></circle></a><a href="/variants/s6/g1r1db16r16db1w1~x2/"><circle cx="326.5" cy="163.0" r="4" fill="#3465a4"><title>Galloway, dress</title></circle></a><circle cx="346.8" cy="212.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db48r18db6r13y4r14~x2/

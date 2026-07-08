@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Kings Mountain 1780"
   url: "/tartans/kings-mountain-1780/"
+- name: "Kings Mountain 1780 (Commemorative)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y9k1lb4k1r40k1n4g9y1/)
 (the same proportion at any scale), whose colour order is pattern [GGBKRKWKG](/stripes/ggbkrkwkg/).
@@ -14,7 +16,7 @@ Part of the [Kings Mountain 1780](/tartans/kings-mountain-1780/) tartan — the 
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10285
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10285](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10285)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y9k1lb4k1r30k1n4g9y3~x2/"><circle cx="265.4" cy="87.3" r="4" fill="#3465a4"><title>Kings Mountain 1780</title></circle></a><a href="/variants/s11/y1k1db2w1y1t3r31k2y5k2t1~x2~db1204274-t2205244/"><circle cx="341.5" cy="34.6" r="4" fill="#3465a4"><title>Scottish Banner, The</title></circle></a><a href="/variants/s8/r40g16ly2k8y4w1db5w2~x2~ly3307090-y2602166/"><circle cx="235.8" cy="55.3" r="4" fill="#3465a4"><title>Caledonian Soc., Ancient (Artefact)</title></circle></a><a href="/variants/s8/r40g16y2k8lb4w1db5w2~x2/"><circle cx="233.4" cy="53.7" r="4" fill="#3465a4"><title>Ancient Caledonian Society</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/"><circle cx="301.9" cy="60.6" r="4" fill="#3465a4"><title>Baxter Clan Tartan</title></circle></a><a href="/variants/s8/r36w1db3y1g16r8db3w5/"><circle cx="366.2" cy="104.0" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s9/r51y2k4w2g21r10k4lb4w2~x2/"><circle cx="310.1" cy="70.0" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s13/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3~x2~g2203152/"><circle cx="336.7" cy="30.9" r="4" fill="#3465a4"><title>Ellis Island American District Tartan</title></circle></a><a href="/variants/s13/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3~x2/"><circle cx="317.7" cy="26.5" r="4" fill="#3465a4"><title>Ellis Island (District)</title></circle></a><a href="/variants/s9/r33w1k3w1g13r7k3dp3w1~x2/"><circle cx="334.2" cy="72.4" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, dress</title></circle></a><circle cx="338.8" cy="60.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y9k1lb4k1r30k1n4g9y3~x2/"><circle cx="265.3" cy="87.4" r="4" fill="#3465a4"><title>Kings Mountain 1780</title></circle></a><a href="/variants/s11/y1k1db2w1y1t3r31k2y5k2t1~x2~db1204274-t2205244/"><circle cx="341.3" cy="34.7" r="4" fill="#3465a4"><title>Scottish Banner, The</title></circle></a><a href="/variants/s8/r40g16ly2k8y4w1db5w2~x2~ly3307090-y2602166/"><circle cx="235.6" cy="55.4" r="4" fill="#3465a4"><title>Caledonian Soc., Ancient (Artefact)</title></circle></a><a href="/variants/s8/r40g16y2k8lb4w1db5w2~x2/"><circle cx="233.3" cy="53.8" r="4" fill="#3465a4"><title>Ancient Caledonian Society</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/"><circle cx="301.8" cy="60.6" r="4" fill="#3465a4"><title>Baxter Clan Tartan</title></circle></a><a href="/variants/s8/r36w1db3y1g16r8db3w5/"><circle cx="366.2" cy="104.3" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s9/r51y2k4w2g21r10k4lb4w2~x2/"><circle cx="310.1" cy="70.2" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s13/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3~x2~g2203152/"><circle cx="336.6" cy="30.8" r="4" fill="#3465a4"><title>Ellis Island American District Tartan</title></circle></a><a href="/variants/s13/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3~x2/"><circle cx="317.5" cy="26.5" r="4" fill="#3465a4"><title>Ellis Island (District)</title></circle></a><a href="/variants/s9/r33w1k3w1g13r7k3dp3w1~x2/"><circle cx="334.1" cy="72.6" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, dress</title></circle></a><circle cx="338.7" cy="60.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/y9k1lb4k1r40k1n4g9y1~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Italian American"
   url: "/tartans/italian-american/"
+- name: "Italian American (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4k2w6k2t40k80g10w6r3/)
 (the same proportion at any scale), whose colour order is pattern [RKWKBKGWR](/stripes/rkwkbkgwr/).
@@ -14,7 +16,7 @@ Part of the [Italian American](/tartans/italian-american/) tartan — the named 
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10135
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10135](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10135)
 
 ## Provenance
 
@@ -88,8 +90,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r4k2w6k2db40k80g10w6r3/"><circle cx="278.7" cy="62.2" r="4" fill="#3465a4"><title>Italian American</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="352.4" cy="47.5" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s9/db10k12dg3k1dg1k1dg30w4ly4~x2/"><circle cx="250.0" cy="98.4" r="4" fill="#3465a4"><title>Hutchens (Personal)</title></circle></a><a href="/variants/s10/k53t3k2w1k2t3k5t32y1r3~x2/"><circle cx="333.8" cy="46.1" r="4" fill="#3465a4"><title>Estonian National Tartan (District)</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="255.7" cy="102.4" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/"><circle cx="253.7" cy="89.3" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/"><circle cx="290.7" cy="77.3" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/variants/s8/ly8n5dr1n15k2ly1k36n1~x2/"><circle cx="306.0" cy="96.5" r="4" fill="#3465a4"><title>Cirse 3D</title></circle></a><a href="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/"><circle cx="285.5" cy="78.5" r="4" fill="#3465a4"><title>Niagara Region</title></circle></a><a href="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/"><circle cx="288.3" cy="42.9" r="4" fill="#3465a4"><title>Montgomerie, Colin</title></circle></a><circle cx="269.1" cy="61.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r4k2w6k2db40k80g10w6r3/"><circle cx="278.5" cy="62.2" r="4" fill="#3465a4"><title>Italian American</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="352.2" cy="47.6" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s9/db10k12dg3k1dg1k1dg30w4ly4~x2/"><circle cx="249.9" cy="98.5" r="4" fill="#3465a4"><title>Hutchens (Personal)</title></circle></a><a href="/variants/s10/k53t3k2w1k2t3k5t32y1r3~x2/"><circle cx="333.5" cy="46.1" r="4" fill="#3465a4"><title>Estonian National Tartan (District)</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="255.6" cy="102.6" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/"><circle cx="253.6" cy="89.5" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/"><circle cx="290.6" cy="77.4" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/variants/s8/ly8n5dr1n15k2ly1k36n1~x2/"><circle cx="305.9" cy="96.7" r="4" fill="#3465a4"><title>Cirse 3D</title></circle></a><a href="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/"><circle cx="285.4" cy="78.6" r="4" fill="#3465a4"><title>Niagara Region</title></circle></a><a href="/variants/s9/lb2k1r5n3o12n4lb1k40db1~x2~n1900000-o2500000/"><circle cx="288.1" cy="42.9" r="4" fill="#3465a4"><title>Montgomerie, Colin</title></circle></a><circle cx="269.0" cy="62.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r4k2w6k2t40k80g10w6r3/

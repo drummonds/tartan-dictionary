@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacGleish Formal"
   url: "/tartans/macgleish-formal/"
+- name: "MacGleish Formal (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r50k25g10n5y2/)
 (the same proportion at any scale), whose colour order is pattern [GBGKR](/stripes/gbgkr/).
@@ -14,7 +16,7 @@ Part of the [MacGleish Formal](/tartans/macgleish-formal/) tartan — the named 
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10289
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10289](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10289)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r50k25dg10n5ly2~x2/"><circle cx="272.2" cy="127.7" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s5/db4y4r33k30w2~x2/"><circle cx="218.6" cy="142.9" r="4" fill="#3465a4"><title>Wormeck (2013) Germany</title></circle></a><a href="/variants/s7/r64k30g30t18w4t2w3/"><circle cx="190.6" cy="113.7" r="4" fill="#3465a4"><title>Clyde (Personal)</title></circle></a><a href="/variants/s4/db3k32r27w2~x2/"><circle cx="264.8" cy="173.6" r="4" fill="#3465a4"><title>Templar Grand Priory USA</title></circle></a><a href="/variants/s4/y1k8r13g1~x6/"><circle cx="290.1" cy="176.1" r="4" fill="#3465a4"><title>Billy Apple® Red</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="268.8" cy="136.5" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s6/g4r52k20dy9g2y1~x2/"><circle cx="331.6" cy="76.9" r="4" fill="#3465a4"><title>Jack, John (Fife) (Personal)</title></circle></a><a href="/variants/s6/r60k40y3o5lp3dg12~x2/"><circle cx="220.0" cy="107.9" r="4" fill="#3465a4"><title>Rei Okamoto (Personal)</title></circle></a><a href="/variants/s6/r60k40y3o5p3dg12~x2/"><circle cx="221.8" cy="108.1" r="4" fill="#3465a4"><title>Rei Okamoto (Personal)</title></circle></a><a href="/variants/s4/db1r16k16y1~x4/"><circle cx="266.8" cy="171.4" r="4" fill="#3465a4"><title>Skinner</title></circle></a><circle cx="269.0" cy="127.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r50k25dg10n5ly2~x2/"><circle cx="272.2" cy="128.1" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s5/db4y4r33k30w2~x2/"><circle cx="218.5" cy="143.4" r="4" fill="#3465a4"><title>Wormeck (2013) Germany</title></circle></a><a href="/variants/s7/r64k30g30t18w4t2w3/"><circle cx="190.5" cy="114.0" r="4" fill="#3465a4"><title>Clyde (Personal)</title></circle></a><a href="/variants/s4/db3k32r27w2~x2/"><circle cx="264.8" cy="174.1" r="4" fill="#3465a4"><title>Templar Grand Priory USA</title></circle></a><a href="/variants/s4/y1k8r13g1~x6/"><circle cx="290.1" cy="176.7" r="4" fill="#3465a4"><title>Billy Apple® Red</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="268.7" cy="136.9" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s6/g4r52k20dy9g2y1~x2/"><circle cx="331.5" cy="77.1" r="4" fill="#3465a4"><title>Jack, John (Fife) (Personal)</title></circle></a><a href="/variants/s6/r60k40y3o5lp3dg12~x2/"><circle cx="219.9" cy="108.2" r="4" fill="#3465a4"><title>Rei Okamoto (Personal)</title></circle></a><a href="/variants/s6/r60k40y3o5p3dg12~x2/"><circle cx="221.8" cy="108.4" r="4" fill="#3465a4"><title>Rei Okamoto (Personal)</title></circle></a><a href="/variants/s4/db1r16k16y1~x4/"><circle cx="266.9" cy="171.9" r="4" fill="#3465a4"><title>Skinner</title></circle></a><circle cx="269.0" cy="127.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r50k25g10n5y2~x2/

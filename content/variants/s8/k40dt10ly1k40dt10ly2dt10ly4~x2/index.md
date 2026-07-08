@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "1891 (Commemorative)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k40dt10ly1k40dt10ly2dt10ly4/)
 (the same proportion at any scale), whose colour order is pattern [KBYKBYBY](/stripes/kbykbyby/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10372
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10372](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10372)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/"><circle cx="376.7" cy="100.5" r="4" fill="#3465a4"><title>Lochnagar Dark Fashion Tartan</title></circle></a><a href="/variants/s6/k72g23k7g8r1w3~x2/"><circle cx="409.2" cy="93.0" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/variants/s9/k50w1n15w1k40n13k62w4dr21~x2/"><circle cx="424.9" cy="105.5" r="4" fill="#3465a4"><title>Provincewide HOG Chapter</title></circle></a><a href="/variants/s7/g12k1r1k12o9k45g9~x2/"><circle cx="359.3" cy="102.3" r="4" fill="#3465a4"><title>O'Boyle (Name)</title></circle></a><a href="/variants/s7/n1k21n5k3n5k9r1~x4/"><circle cx="432.8" cy="151.3" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><a href="/variants/s6/k53n22k10n10k2n4~x2/"><circle cx="414.1" cy="165.2" r="4" fill="#3465a4"><title>Black Isle</title></circle></a><a href="/variants/s10/dt8k2dt2k14dt2k2lr1dt19k27lr2~x2/"><circle cx="375.9" cy="140.5" r="4" fill="#3465a4"><title>Pride of Scotland, Muted (Fashion)</title></circle></a><a href="/variants/s9/dp3k40ly3dp6k10dp10k3ly1r3~x2/"><circle cx="404.6" cy="89.0" r="4" fill="#3465a4"><title>Midnight Glen (Fashion)</title></circle></a><a href="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"><circle cx="465.9" cy="114.1" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/variants/s6/k24n11k5n5k1n2~x4/"><circle cx="398.0" cy="173.0" r="4" fill="#3465a4"><title>Black Isle Corporate Tartan</title></circle></a><circle cx="428.5" cy="131.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/"><circle cx="376.6" cy="100.6" r="4" fill="#3465a4"><title>Lochnagar Dark Fashion Tartan</title></circle></a><a href="/variants/s6/k72g23k7g8r1w3~x2/"><circle cx="409.1" cy="93.2" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/variants/s9/k50w1n15w1k40n13k62w4dr21~x2/"><circle cx="424.7" cy="105.7" r="4" fill="#3465a4"><title>Provincewide HOG Chapter</title></circle></a><a href="/variants/s7/g12k1r1k12o9k45g9~x2/"><circle cx="359.2" cy="102.6" r="4" fill="#3465a4"><title>O'Boyle (Name)</title></circle></a><a href="/variants/s7/n1k21n5k3n5k9r1~x4/"><circle cx="432.7" cy="151.7" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><a href="/variants/s6/k53n22k10n10k2n4~x2/"><circle cx="414.1" cy="165.6" r="4" fill="#3465a4"><title>Black Isle</title></circle></a><a href="/variants/s10/dt8k2dt2k14dt2k2lr1dt19k27lr2~x2/"><circle cx="375.8" cy="140.7" r="4" fill="#3465a4"><title>Pride of Scotland, Muted (Fashion)</title></circle></a><a href="/variants/s9/dp3k40ly3dp6k10dp10k3ly1r3~x2/"><circle cx="404.4" cy="89.1" r="4" fill="#3465a4"><title>Midnight Glen (Fashion)</title></circle></a><a href="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"><circle cx="465.8" cy="114.4" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/variants/s6/k24n11k5n5k1n2~x4/"><circle cx="398.0" cy="173.4" r="4" fill="#3465a4"><title>Black Isle Corporate Tartan</title></circle></a><circle cx="428.4" cy="131.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k40dt10ly1k40dt10ly2dt10ly4~x2/

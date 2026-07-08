@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/mackintosh/"
 - name: "MacKintosh"
   url: "/tartans/mackintosh/"
+- name: "MacKintosh, Red"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r24g5r3g9r3db1/)
 (the same proportion at any scale), whose colour order is pattern [BRGRGR](/stripes/brgrgr/).
@@ -16,7 +18,7 @@ Part of the [MacKintosh](/tartans/mackintosh/) tartan — the named design group
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2576
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2576](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2576)
 
 ## Provenance
 
@@ -90,8 +92,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1g10r1db4r18g1~x4/"><circle cx="385.0" cy="182.5" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><a href="/variants/s6/r2g20r2db8r36g1~x2/"><circle cx="411.8" cy="154.9" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s6/r2g6r2g6r16y1~x2/"><circle cx="430.9" cy="206.1" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s6/r1g3r1g3r8y1~x8/"><circle cx="396.4" cy="238.0" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s6/r2dg6r2dg6r16ly1~x4/"><circle cx="408.2" cy="194.4" r="4" fill="#3465a4"><title>Cameron (Clan)</title></circle></a><a href="/variants/s6/r1g6r1g6r15y1~x2/"><circle cx="412.5" cy="204.6" r="4" fill="#3465a4"><title>Cameron Clan D</title></circle></a><a href="/variants/s6/r70db20r10g40r10db3/"><circle cx="385.5" cy="183.5" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r68db18r9g34r9db3~x2/"><circle cx="400.6" cy="180.7" r="4" fill="#3465a4"><title>MacKintosh #2</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1/"><circle cx="409.6" cy="179.3" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1~x2/"><circle cx="409.6" cy="179.3" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><circle cx="477.5" cy="177.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1g10r1db4r18g1~x4/"><circle cx="385.0" cy="183.0" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><a href="/variants/s6/r2g20r2db8r36g1~x2/"><circle cx="411.9" cy="155.3" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s6/r2g6r2g6r16y1~x2/"><circle cx="431.0" cy="206.6" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s6/r1g3r1g3r8y1~x8/"><circle cx="396.5" cy="238.6" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s6/r2dg6r2dg6r16ly1~x4/"><circle cx="408.3" cy="194.9" r="4" fill="#3465a4"><title>Cameron (Clan)</title></circle></a><a href="/variants/s6/r1g6r1g6r15y1~x2/"><circle cx="412.7" cy="205.1" r="4" fill="#3465a4"><title>Cameron Clan D</title></circle></a><a href="/variants/s6/r70db20r10g40r10db3/"><circle cx="385.6" cy="184.0" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r68db18r9g34r9db3~x2/"><circle cx="400.7" cy="181.2" r="4" fill="#3465a4"><title>MacKintosh #2</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1/"><circle cx="409.7" cy="179.8" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1~x2/"><circle cx="409.7" cy="179.8" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><circle cx="477.6" cy="177.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r24g5r3g9r3db1~x4/

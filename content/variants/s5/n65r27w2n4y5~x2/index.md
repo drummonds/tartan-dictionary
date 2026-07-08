@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Perry, Arisaid"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n65r27w2n4y5/)
 (the same proportion at any scale), whose colour order is pattern [BRWBG](/stripes/brwbg/).
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n60g13n9r8dy4~x2/"><circle cx="594.4" cy="232.3" r="4" fill="#3465a4"><title>Ballantyne Personal Tartan</title></circle></a><a href="/variants/s5/n60g13n9dr8y4~x2/"><circle cx="626.0" cy="257.8" r="4" fill="#3465a4"><title>Ballantyne (Personal)</title></circle></a><a href="/variants/s5/n57w5g20n5y10/"><circle cx="499.9" cy="258.2" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2/"><circle cx="580.6" cy="195.0" r="4" fill="#3465a4"><title>Heslop Lurdenlaw by Kelso</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2~r1406028/"><circle cx="607.0" cy="205.0" r="4" fill="#3465a4"><title>Heslop, William D Name Tartan</title></circle></a><a href="/variants/s7/r6w3n6o10r38w2n4~n1900000-o2500000/"><circle cx="439.6" cy="160.4" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s5/n40r2n20g19db2~db1204274/"><circle cx="610.1" cy="253.4" r="4" fill="#3465a4"><title>Lloyd of Wales</title></circle></a><a href="/variants/s6/r25dt5ri2r12n1w1~x2~r1506019-ri2607041/"><circle cx="525.3" cy="136.2" r="4" fill="#3465a4"><title>Fernie (Personal)</title></circle></a><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000/"><circle cx="371.0" cy="229.2" r="4" fill="#3465a4"><title>Bagpipe Shop, The (Corporate)</title></circle></a><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000-g2408144/"><circle cx="367.0" cy="227.9" r="4" fill="#3465a4"><title>Bagpipe Shop, The Corporate Tartan</title></circle></a><circle cx="554.2" cy="185.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n60g13n9r8dy4~x2/"><circle cx="594.5" cy="232.4" r="4" fill="#3465a4"><title>Ballantyne Personal Tartan</title></circle></a><a href="/variants/s5/n60g13n9dr8y4~x2/"><circle cx="626.0" cy="257.9" r="4" fill="#3465a4"><title>Ballantyne (Personal)</title></circle></a><a href="/variants/s5/n57w5g20n5y10/"><circle cx="500.1" cy="258.5" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2/"><circle cx="580.7" cy="195.1" r="4" fill="#3465a4"><title>Heslop Lurdenlaw by Kelso</title></circle></a><a href="/variants/s4/n44dg12db1r6~x2~r1406028/"><circle cx="607.1" cy="205.1" r="4" fill="#3465a4"><title>Heslop, William D Name Tartan</title></circle></a><a href="/variants/s7/r6w3n6o10r38w2n4~n1900000-o2500000/"><circle cx="439.7" cy="160.7" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s5/n40r2n20g19db2~db1204274/"><circle cx="610.2" cy="253.5" r="4" fill="#3465a4"><title>Lloyd of Wales</title></circle></a><a href="/variants/s6/r25dt5ri2r12n1w1~x2~r1506019-ri2607041/"><circle cx="525.3" cy="136.2" r="4" fill="#3465a4"><title>Fernie (Personal)</title></circle></a><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000/"><circle cx="371.1" cy="229.5" r="4" fill="#3465a4"><title>Bagpipe Shop, The (Corporate)</title></circle></a><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000-g2408144/"><circle cx="367.2" cy="228.2" r="4" fill="#3465a4"><title>Bagpipe Shop, The Corporate Tartan</title></circle></a><circle cx="554.3" cy="185.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/n65r27w2n4y5~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sidney, (Nova Scotia)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n16k4w2k4n6b11n2b16/)
 (the same proportion at any scale), whose colour order is pattern [BBBBKWKB](/stripes/bbbbkwkb/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db18g6db2lb10k3lb10db2g6db18g2~x2~db1406275/"><circle cx="234.6" cy="194.8" r="4" fill="#3465a4"><title>Crombie House Check Corporate Tartan</title></circle></a><a href="/variants/s8/n9db1n1db1n1db7k7dr2~x4/"><circle cx="201.2" cy="196.8" r="4" fill="#3465a4"><title>Caledonian Hotel (Corporate)</title></circle></a><a href="/variants/s11/b8k5b8dg27b13dg3b13o27b8o3b3~x2/"><circle cx="229.1" cy="197.7" r="4" fill="#3465a4"><title>McCall/MacCall</title></circle></a><a href="/variants/s8/k1db1k1db8n8k1n1lt1~x6/"><circle cx="235.6" cy="185.3" r="4" fill="#3465a4"><title>Auld Lang Syne Burns Commemorative Tartan</title></circle></a><a href="/variants/s6/t11k1t3k5dp9lo1~x2/"><circle cx="217.1" cy="199.3" r="4" fill="#3465a4"><title>Joker Fancy Tartan</title></circle></a><a href="/variants/s7/n19k2w2k2b5k2b5~x4/"><circle cx="257.9" cy="176.3" r="4" fill="#3465a4"><title>Kyle</title></circle></a><a href="/variants/s6/g3lb1db7lb1g3k1~x8~db1406275/"><circle cx="203.3" cy="220.6" r="4" fill="#3465a4"><title>Scott Green (Sir Walter)</title></circle></a><a href="/variants/s6/k3lb10db2g6db18g2~x2/"><circle cx="208.9" cy="199.6" r="4" fill="#3465a4"><title>Crombie House Check</title></circle></a><a href="/variants/s7/dp18g24k3db6dp2db5dp18~x2/"><circle cx="266.7" cy="199.4" r="4" fill="#3465a4"><title>Saorsa</title></circle></a><a href="/variants/s7/dg21k14dg9b21k3b12dp3~x2/"><circle cx="168.9" cy="235.3" r="4" fill="#3465a4"><title>Scotsman</title></circle></a><circle cx="224.4" cy="216.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db18g6db2lb10k3lb10db2g6db18g2~x2~db1406275/"><circle cx="234.6" cy="195.3" r="4" fill="#3465a4"><title>Crombie House Check Corporate Tartan</title></circle></a><a href="/variants/s8/n9db1n1db1n1db7k7dr2~x4/"><circle cx="201.3" cy="197.2" r="4" fill="#3465a4"><title>Caledonian Hotel (Corporate)</title></circle></a><a href="/variants/s11/b8k5b8dg27b13dg3b13o27b8o3b3~x2/"><circle cx="229.1" cy="198.1" r="4" fill="#3465a4"><title>McCall/MacCall</title></circle></a><a href="/variants/s8/k1db1k1db8n8k1n1lt1~x6/"><circle cx="235.6" cy="185.7" r="4" fill="#3465a4"><title>Auld Lang Syne Burns Commemorative Tartan</title></circle></a><a href="/variants/s6/t11k1t3k5dp9lo1~x2/"><circle cx="217.1" cy="199.8" r="4" fill="#3465a4"><title>Joker Fancy Tartan</title></circle></a><a href="/variants/s7/n19k2w2k2b5k2b5~x4/"><circle cx="258.0" cy="176.7" r="4" fill="#3465a4"><title>Kyle</title></circle></a><a href="/variants/s6/g3lb1db7lb1g3k1~x8~db1406275/"><circle cx="203.3" cy="221.1" r="4" fill="#3465a4"><title>Scott Green (Sir Walter)</title></circle></a><a href="/variants/s6/k3lb10db2g6db18g2~x2/"><circle cx="208.9" cy="200.2" r="4" fill="#3465a4"><title>Crombie House Check</title></circle></a><a href="/variants/s7/dp18g24k3db6dp2db5dp18~x2/"><circle cx="266.7" cy="199.8" r="4" fill="#3465a4"><title>Saorsa</title></circle></a><a href="/variants/s7/dg21k14dg9b21k3b12dp3~x2/"><circle cx="168.9" cy="235.8" r="4" fill="#3465a4"><title>Scotsman</title></circle></a><circle cx="224.4" cy="216.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/n16k4w2k4n6b11n2b16~x2/

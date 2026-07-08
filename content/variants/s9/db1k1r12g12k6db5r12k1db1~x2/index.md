@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/montrose/"
 - name: "Montrose"
   url: "/tartans/montrose/"
+- name: "Montrose"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1k1r12g12k6db5r12k1db1/)
 (the same proportion at any scale), whose colour order is pattern [BKRBKGRKB](/stripes/bkrbkgrkb/).
@@ -16,7 +18,7 @@ Part of the [Montrose](/tartans/montrose/) tartan — the named design grouping 
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -83,8 +85,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb2k2r27g27k12lb12r27k2lb2~x2/"><circle cx="206.9" cy="154.2" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><circle cx="177.1" cy="170.6" r="4" fill="#3465a4"><title>Graham Red</title></circle></a><a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2~x2/"><circle cx="145.2" cy="187.7" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2/"><circle cx="145.2" cy="187.7" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s10/n28k3r22k8w3k8r22k3n28k3~x2/"><circle cx="195.1" cy="172.2" r="4" fill="#3465a4"><title>Henkel</title></circle></a><a href="/variants/s9/k1db1r16g16k12db8r16db1k1~x2/"><circle cx="188.5" cy="149.0" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s9/k1lb1r16g16k12lb8r16lb1k1~x2/"><circle cx="184.2" cy="148.4" r="4" fill="#3465a4"><title>MacNaughten</title></circle></a><a href="/variants/s9/k1w1r16g16k12w8r16w1k1~x2/"><circle cx="176.4" cy="146.3" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s11/k2r8g2r8k8db1k4r2g12r8g2~x2/"><circle cx="180.3" cy="167.0" r="4" fill="#3465a4"><title>MacNicol/Nicolson (W &amp; A Smith)</title></circle></a><a href="/variants/s11/k2r8g2r8k8t1k4r2g12r8g2~x4/"><circle cx="180.3" cy="167.2" r="4" fill="#3465a4"><title>MacNicol Dress (Clan) (Smiths)</title></circle></a><circle cx="200.0" cy="160.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb2k2r27g27k12lb12r27k2lb2~x2/"><circle cx="206.9" cy="154.7" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><circle cx="177.2" cy="171.2" r="4" fill="#3465a4"><title>Graham Red</title></circle></a><a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2~x2/"><circle cx="145.2" cy="188.3" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2/"><circle cx="145.2" cy="188.3" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s10/n28k3r22k8w3k8r22k3n28k3~x2/"><circle cx="195.1" cy="172.6" r="4" fill="#3465a4"><title>Henkel</title></circle></a><a href="/variants/s9/k1db1r16g16k12db8r16db1k1~x2/"><circle cx="188.5" cy="149.5" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s9/k1lb1r16g16k12lb8r16lb1k1~x2/"><circle cx="184.2" cy="148.9" r="4" fill="#3465a4"><title>MacNaughten</title></circle></a><a href="/variants/s9/k1w1r16g16k12w8r16w1k1~x2/"><circle cx="176.4" cy="146.8" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s11/k2r8g2r8k8db1k4r2g12r8g2~x2/"><circle cx="180.4" cy="167.5" r="4" fill="#3465a4"><title>MacNicol/Nicolson (W &amp; A Smith)</title></circle></a><a href="/variants/s11/k2r8g2r8k8t1k4r2g12r8g2~x4/"><circle cx="180.3" cy="167.7" r="4" fill="#3465a4"><title>MacNicol Dress (Clan) (Smiths)</title></circle></a><circle cx="200.1" cy="161.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db1k1r12g12k6db5r12k1db1~x2/

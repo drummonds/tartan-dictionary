@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Freedom of Derry"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g14y7g14dg50g64w6g7/)
 (the same proportion at any scale), whose colour order is pattern [GGGGGWG](/stripes/gggggwg/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1277
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1277](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1277)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g60r7w10dg16g15w3g15~x2/"><circle cx="428.3" cy="179.6" r="4" fill="#3465a4"><title>Deer Park (Loton) (Personal)</title></circle></a><a href="/variants/s7/dt16g4dt3g3lo2g24dr2~x2/"><circle cx="400.6" cy="221.8" r="4" fill="#3465a4"><title>St. Andrews Links (Corporate)</title></circle></a><a href="/variants/s7/g24r9g4dg19y2dg6g7~x2/"><circle cx="309.2" cy="229.9" r="4" fill="#3465a4"><title>Doyle</title></circle></a><a href="/variants/s4/lb9g52dy15ly4~x2/"><circle cx="424.4" cy="241.2" r="4" fill="#3465a4"><title>McGuigan, Julia (Personal)</title></circle></a><a href="/variants/s5/g37dy9g3do9dy3~x2/"><circle cx="483.4" cy="251.7" r="4" fill="#3465a4"><title>Glen Boig Trade Tartan</title></circle></a><a href="/variants/s8/g99db20w8db30y8db10y8g46/"><circle cx="388.7" cy="203.8" r="4" fill="#3465a4"><title>Duke of York Hunting</title></circle></a><a href="/variants/s7/dr3g22db16g14dr2g6lo2~x2/"><circle cx="387.1" cy="233.1" r="4" fill="#3465a4"><title>Scottish Scouts (1957) (Corporate)</title></circle></a><a href="/variants/s9/g4y2g17dg2r4dg2g3dg11g2~x2/"><circle cx="347.2" cy="219.9" r="4" fill="#3465a4"><title>Armagh</title></circle></a><a href="/variants/s5/g13dy3g1do3dy1~x6/"><circle cx="494.0" cy="247.8" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="436.4" cy="198.3" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><circle cx="406.5" cy="233.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g60r7w10dg16g15w3g15~x2/"><circle cx="428.4" cy="180.0" r="4" fill="#3465a4"><title>Deer Park (Loton) (Personal)</title></circle></a><a href="/variants/s7/dt16g4dt3g3lo2g24dr2~x2/"><circle cx="400.7" cy="222.2" r="4" fill="#3465a4"><title>St. Andrews Links (Corporate)</title></circle></a><a href="/variants/s7/g24r9g4dg19y2dg6g7~x2/"><circle cx="309.3" cy="230.3" r="4" fill="#3465a4"><title>Doyle</title></circle></a><a href="/variants/s4/lb9g52dy15ly4~x2/"><circle cx="424.6" cy="241.7" r="4" fill="#3465a4"><title>McGuigan, Julia (Personal)</title></circle></a><a href="/variants/s5/g37dy9g3do9dy3~x2/"><circle cx="483.5" cy="252.1" r="4" fill="#3465a4"><title>Glen Boig Trade Tartan</title></circle></a><a href="/variants/s8/g99db20w8db30y8db10y8g46/"><circle cx="388.8" cy="204.2" r="4" fill="#3465a4"><title>Duke of York Hunting</title></circle></a><a href="/variants/s7/dr3g22db16g14dr2g6lo2~x2/"><circle cx="387.2" cy="233.6" r="4" fill="#3465a4"><title>Scottish Scouts (1957) (Corporate)</title></circle></a><a href="/variants/s9/g4y2g17dg2r4dg2g3dg11g2~x2/"><circle cx="347.3" cy="220.2" r="4" fill="#3465a4"><title>Armagh</title></circle></a><a href="/variants/s5/g13dy3g1do3dy1~x6/"><circle cx="494.2" cy="248.2" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="436.5" cy="198.6" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><circle cx="406.6" cy="233.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g14y7g14dg50g64w6g7/

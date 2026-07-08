@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lermontov Bicentenary"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy5dr6k5dr6dy36db3dy2k1/)
 (the same proportion at any scale), whose colour order is pattern [GBKBGBGK](/stripes/gbkbgbgk/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11000
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11000](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11000)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

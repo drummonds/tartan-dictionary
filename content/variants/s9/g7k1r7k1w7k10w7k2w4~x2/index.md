@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Borthwick Dress"
   url: "/tartans/borthwick-dress/"
+- name: "Borthwick, dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g7k1r7k1w7k10w7k2w4/)
 (the same proportion at any scale), whose colour order is pattern [GKRKWKWKW](/stripes/gkrkwkwkw/).
@@ -14,7 +16,7 @@ Part of the [Borthwick Dress](/tartans/borthwick-dress/) tartan — the named de
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g7k1dr8k2w7k10w7k2w4~x4/"><circle cx="102.2" cy="200.2" r="4" fill="#3465a4"><title>Borthwick Dress (Clan)</title></circle></a><a href="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/"><circle cx="84.0" cy="198.2" r="4" fill="#3465a4"><title>Borthwick Dress</title></circle></a><a href="/variants/s6/r6k14r6g14w27k4/"><circle cx="102.9" cy="214.4" r="4" fill="#3465a4"><title>Fraser Dress</title></circle></a><a href="/variants/s7/g16dp4g8dp13k3w26dp10~x2/"><circle cx="122.1" cy="213.0" r="4" fill="#3465a4"><title>Because You Care</title></circle></a><a href="/variants/s8/k4y2k13y1w8lb13y2lb4~x2/"><circle cx="132.0" cy="171.0" r="4" fill="#3465a4"><title>Bannockbane, Blue</title></circle></a><a href="/variants/s7/ly6k6y30k8lb18k6ly3~x2~ly3307090-y2602166/"><circle cx="142.1" cy="187.1" r="4" fill="#3465a4"><title>Cape Breton (yellow stripes)</title></circle></a><a href="/variants/s8/k4y2k13y1w8ly13y2ly4~x2/"><circle cx="130.4" cy="171.0" r="4" fill="#3465a4"><title>Bannockbane Light Tan</title></circle></a><a href="/variants/s7/w8k2n12k11w1dr6n4~x2/"><circle cx="125.3" cy="196.5" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/dg14r5dg14w5k2r5k2w9~x4/"><circle cx="166.7" cy="203.6" r="4" fill="#3465a4"><title>Unnamed (Hip Flask)</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2/"><circle cx="105.1" cy="196.3" r="4" fill="#3465a4"><title>Aberlour (Corporate)</title></circle></a><circle cx="107.1" cy="190.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g7k1dr8k2w7k10w7k2w4~x4/"><circle cx="102.2" cy="200.8" r="4" fill="#3465a4"><title>Borthwick Dress (Clan)</title></circle></a><a href="/variants/s9/g12k2r12k3w7k16w7k3w6~x2/"><circle cx="84.0" cy="198.9" r="4" fill="#3465a4"><title>Borthwick Dress</title></circle></a><a href="/variants/s6/r6k14r6g14w27k4/"><circle cx="103.0" cy="215.1" r="4" fill="#3465a4"><title>Fraser Dress</title></circle></a><a href="/variants/s7/g16dp4g8dp13k3w26dp10~x2/"><circle cx="122.2" cy="213.7" r="4" fill="#3465a4"><title>Because You Care</title></circle></a><a href="/variants/s8/k4y2k13y1w8lb13y2lb4~x2/"><circle cx="132.0" cy="171.5" r="4" fill="#3465a4"><title>Bannockbane, Blue</title></circle></a><a href="/variants/s7/ly6k6y30k8lb18k6ly3~x2~ly3307090-y2602166/"><circle cx="142.1" cy="187.7" r="4" fill="#3465a4"><title>Cape Breton (yellow stripes)</title></circle></a><a href="/variants/s8/k4y2k13y1w8ly13y2ly4~x2/"><circle cx="130.5" cy="171.5" r="4" fill="#3465a4"><title>Bannockbane Light Tan</title></circle></a><a href="/variants/s7/w8k2n12k11w1dr6n4~x2/"><circle cx="125.3" cy="197.1" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s8/dg14r5dg14w5k2r5k2w9~x4/"><circle cx="166.8" cy="204.2" r="4" fill="#3465a4"><title>Unnamed (Hip Flask)</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2/"><circle cx="105.1" cy="197.0" r="4" fill="#3465a4"><title>Aberlour (Corporate)</title></circle></a><circle cx="107.1" cy="191.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g7k1r7k1w7k10w7k2w4~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Totté"
   url: "/tartans/tott/"
+- name: "Totté (from Hofstade de Baerebeeck) (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k51r21y4r12g8db4r5/)
 (the same proportion at any scale), whose colour order is pattern [KRGRGBR](/stripes/krgrgbr/).
@@ -14,7 +16,7 @@ Part of the [Totté](/tartans/tott/) tartan — the named design grouping this s
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10770
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10770](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10770)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k51r21ly4r12g8db4r5~x2/"><circle cx="213.9" cy="133.5" r="4" fill="#3465a4"><title>Tott (Personal))</title></circle></a><a href="/variants/s8/o2k37r10db3r5dy4r3w2~x2/"><circle cx="252.2" cy="82.2" r="4" fill="#3465a4"><title>Westin Kierland</title></circle></a><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="140.7" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/y6k5r4k48o36w6/"><circle cx="214.4" cy="145.2" r="4" fill="#3465a4"><title>Drambuie dress</title></circle></a><a href="/variants/s8/t4r1k11r20k20r20g4ly1~x2/"><circle cx="229.7" cy="127.6" r="4" fill="#3465a4"><title>Templeton (Name?)</title></circle></a><a href="/variants/s8/k22ly4k4g4k16r36y3r6~x2/"><circle cx="197.9" cy="137.4" r="4" fill="#3465a4"><title>Dean Brae</title></circle></a><a href="/variants/s9/r60ly4k22g5k25lb8k4r4k4~x2/"><circle cx="218.7" cy="106.7" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/variants/s9/lo7k3db4k3dr21k2dr4k2w4~x2/"><circle cx="194.4" cy="139.3" r="4" fill="#3465a4"><title>Castle Stewart (District)</title></circle></a><a href="/variants/s11/r12k4g2w2k21db3k22r4g4r15w3~x2/"><circle cx="193.7" cy="132.0" r="4" fill="#3465a4"><title>MacDonald, Sir John A.</title></circle></a><a href="/variants/s11/r10k3g2w2k22db4k22r4g4r14w3~x2/"><circle cx="196.8" cy="130.4" r="4" fill="#3465a4"><title>York Region Pipe Band</title></circle></a><circle cx="216.4" cy="133.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k51r21ly4r12g8db4r5~x2/"><circle cx="213.8" cy="133.8" r="4" fill="#3465a4"><title>Tott (Personal))</title></circle></a><a href="/variants/s8/o2k37r10db3r5dy4r3w2~x2/"><circle cx="252.1" cy="82.4" r="4" fill="#3465a4"><title>Westin Kierland</title></circle></a><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="141.2" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/y6k5r4k48o36w6/"><circle cx="214.4" cy="145.6" r="4" fill="#3465a4"><title>Drambuie dress</title></circle></a><a href="/variants/s8/t4r1k11r20k20r20g4ly1~x2/"><circle cx="229.6" cy="128.0" r="4" fill="#3465a4"><title>Templeton (Name?)</title></circle></a><a href="/variants/s8/k22ly4k4g4k16r36y3r6~x2/"><circle cx="197.9" cy="137.8" r="4" fill="#3465a4"><title>Dean Brae</title></circle></a><a href="/variants/s9/r60ly4k22g5k25lb8k4r4k4~x2/"><circle cx="218.7" cy="107.0" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/variants/s9/lo7k3db4k3dr21k2dr4k2w4~x2/"><circle cx="194.4" cy="139.7" r="4" fill="#3465a4"><title>Castle Stewart (District)</title></circle></a><a href="/variants/s11/r12k4g2w2k21db3k22r4g4r15w3~x2/"><circle cx="193.7" cy="132.4" r="4" fill="#3465a4"><title>MacDonald, Sir John A.</title></circle></a><a href="/variants/s11/r10k3g2w2k22db4k22r4g4r14w3~x2/"><circle cx="196.7" cy="130.8" r="4" fill="#3465a4"><title>York Region Pipe Band</title></circle></a><circle cx="216.3" cy="134.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k51r21y4r12g8db4r5~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Taplin"
   url: "/tartans/taplin/"
+- name: "Taplin (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r52k2r5g3r5k5r5ly3r5k2r52/)
 (the same proportion at any scale), whose colour order is pattern [RKRGRKRYRKR](/stripes/rkrgrkryrkr/).
@@ -14,7 +16,7 @@ Part of the [Taplin](/tartans/taplin/) tartan — the named design grouping this
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2759
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2759](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2759)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r52k2r5y3r5k5r5g3r5k2r52~x2/"><circle cx="609.0" cy="81.8" r="4" fill="#3465a4"><title>Taplin</title></circle></a><a href="/variants/s12/r8g4r30lb6r2k1r2g6r8k1r4ly2~x2/"><circle cx="436.6" cy="78.9" r="4" fill="#3465a4"><title>Highland Queen</title></circle></a><a href="/variants/s12/r8g4r30db6r2k1r2g6r8k1r4y2~x2/"><circle cx="435.5" cy="78.2" r="4" fill="#3465a4"><title>Highland Queen (Corporate)</title></circle></a><a href="/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/"><circle cx="486.0" cy="97.4" r="4" fill="#3465a4"><title>MacPherson-Grant</title></circle></a><a href="/variants/s7/r75g12r3k2r2k2r36~x2/"><circle cx="626.0" cy="111.8" r="4" fill="#3465a4"><title>MacKintosh #5</title></circle></a><a href="/variants/s10/r64db4r1k4r12w4r1w4k4r1~x2/"><circle cx="516.5" cy="36.5" r="4" fill="#3465a4"><title>Ramsay (Angus &amp; Mearns)</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="537.9" cy="60.6" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="535.2" cy="64.7" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken #2</title></circle></a><a href="/variants/s10/r40w1r1k8r1w1r6w1r1k8~x2/"><circle cx="454.5" cy="62.4" r="4" fill="#3465a4"><title>Miyuki, Check Red, 1002A</title></circle></a><circle cx="603.0" cy="80.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r52k2r5y3r5k5r5g3r5k2r52~x2/"><circle cx="609.0" cy="82.0" r="4" fill="#3465a4"><title>Taplin</title></circle></a><a href="/variants/s12/r8g4r30lb6r2k1r2g6r8k1r4ly2~x2/"><circle cx="436.5" cy="79.1" r="4" fill="#3465a4"><title>Highland Queen</title></circle></a><a href="/variants/s12/r8g4r30db6r2k1r2g6r8k1r4y2~x2/"><circle cx="435.4" cy="78.4" r="4" fill="#3465a4"><title>Highland Queen (Corporate)</title></circle></a><a href="/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/"><circle cx="486.0" cy="97.7" r="4" fill="#3465a4"><title>MacPherson-Grant</title></circle></a><a href="/variants/s7/r75g12r3k2r2k2r36~x2/"><circle cx="626.0" cy="112.1" r="4" fill="#3465a4"><title>MacKintosh #5</title></circle></a><a href="/variants/s10/r64db4r1k4r12w4r1w4k4r1~x2/"><circle cx="516.4" cy="36.7" r="4" fill="#3465a4"><title>Ramsay (Angus &amp; Mearns)</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="537.8" cy="60.8" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="535.1" cy="64.9" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken #2</title></circle></a><a href="/variants/s10/r40w1r1k8r1w1r6w1r1k8~x2/"><circle cx="454.4" cy="62.7" r="4" fill="#3465a4"><title>Miyuki, Check Red, 1002A</title></circle></a><circle cx="602.9" cy="80.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r52k2r5g3r5k5r5ly3r5k2r52~x2/

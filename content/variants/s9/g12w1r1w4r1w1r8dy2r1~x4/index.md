@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Karibu"
   url: "/tartans/karibu/"
+- name: "Karibu (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g12w1r1w4r1w1r8dy2r1/)
 (the same proportion at any scale), whose colour order is pattern [GWRWRWRGR](/stripes/gwrwrwrgr/).
@@ -14,7 +16,7 @@ Part of the [Karibu](/tartans/karibu/) tartan — the named design grouping this
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10674
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10674](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10674)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g12w1r1w4r1w1r8y2r1~x4/"><circle cx="226.2" cy="172.4" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><circle cx="236.1" cy="157.9" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/variants/s8/do4r3do21r2w14ly22r3ly4~x2/"><circle cx="176.7" cy="190.2" r="4" fill="#3465a4"><title>Bannock Bane M.405</title></circle></a><a href="/variants/s10/w1r1g1r11db6r1g14r1g1w1~x4/"><circle cx="253.1" cy="152.7" r="4" fill="#3465a4"><title>Unidentified Specimen #2</title></circle></a><a href="/variants/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/"><circle cx="233.0" cy="163.5" r="4" fill="#3465a4"><title>Hynde</title></circle></a><a href="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/"><circle cx="191.3" cy="149.1" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/"><circle cx="183.1" cy="171.3" r="4" fill="#3465a4"><title>Raibert, Check</title></circle></a><a href="/variants/s8/do2r2do15r1w10o15r2o2~x2/"><circle cx="196.7" cy="170.6" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/o22do2o2do2o2do15w17do3~x2/"><circle cx="235.6" cy="195.8" r="4" fill="#3465a4"><title>Turnberry, Manx Snaefell</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.6" cy="176.4" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><circle cx="217.9" cy="169.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g12w1r1w4r1w1r8y2r1~x4/"><circle cx="226.3" cy="172.8" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><circle cx="236.1" cy="158.3" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/variants/s8/do4r3do21r2w14ly22r3ly4~x2/"><circle cx="176.7" cy="190.8" r="4" fill="#3465a4"><title>Bannock Bane M.405</title></circle></a><a href="/variants/s10/w1r1g1r11db6r1g14r1g1w1~x4/"><circle cx="253.1" cy="153.1" r="4" fill="#3465a4"><title>Unidentified Specimen #2</title></circle></a><a href="/variants/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/"><circle cx="233.0" cy="163.9" r="4" fill="#3465a4"><title>Hynde</title></circle></a><a href="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/"><circle cx="191.3" cy="149.5" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/"><circle cx="183.1" cy="171.7" r="4" fill="#3465a4"><title>Raibert, Check</title></circle></a><a href="/variants/s8/do2r2do15r1w10o15r2o2~x2/"><circle cx="196.8" cy="171.0" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/o22do2o2do2o2do15w17do3~x2/"><circle cx="235.7" cy="196.4" r="4" fill="#3465a4"><title>Turnberry, Manx Snaefell</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.6" cy="176.9" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><circle cx="218.0" cy="169.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g12w1r1w4r1w1r8dy2r1~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kernow Spirit (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k14w4k8y45w3k1y2/)
 (the same proportion at any scale), whose colour order is pattern [GKWGKWK](/stripes/gkwgkwk/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7619
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7619](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7619)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4y4w35y1k36y4k2~x2/"><circle cx="274.9" cy="112.9" r="4" fill="#3465a4"><title>Gleneagles, Hotel</title></circle></a><a href="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/"><circle cx="375.6" cy="99.5" r="4" fill="#3465a4"><title>Moonlight Glen (Fashion)</title></circle></a><a href="/variants/s8/k62w10y10k4w18k4ly3w4/"><circle cx="302.4" cy="110.9" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/"><circle cx="288.9" cy="151.7" r="4" fill="#3465a4"><title>Bannockbane Grey #3</title></circle></a><a href="/variants/s8/ly8n5dr1n15k2ly1k36n1~x2/"><circle cx="306.0" cy="96.5" r="4" fill="#3465a4"><title>Cirse 3D</title></circle></a><a href="/variants/s8/dr2n2k2n28k8n9k1ly2~x2/"><circle cx="430.3" cy="114.3" r="4" fill="#3465a4"><title>Highland Autumn (Fashion)</title></circle></a><a href="/variants/s9/y75k6w3n2k6n2k6w3n2/"><circle cx="435.3" cy="65.9" r="4" fill="#3465a4"><title>Norton (Corporate)</title></circle></a><a href="/variants/s6/g55k17r9k11y2k4~x2/"><circle cx="295.1" cy="132.3" r="4" fill="#3465a4"><title>Moran (Name)</title></circle></a><a href="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/"><circle cx="270.1" cy="120.8" r="4" fill="#3465a4"><title>Gleneagles Gold (Dalgleish)</title></circle></a><a href="/variants/s6/o72k16w9k4w5k16~x2/"><circle cx="317.3" cy="145.9" r="4" fill="#3465a4"><title>Machair (warp)</title></circle></a><circle cx="364.4" cy="103.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4y4w35y1k36y4k2~x2/"><circle cx="274.9" cy="113.2" r="4" fill="#3465a4"><title>Gleneagles, Hotel</title></circle></a><a href="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/"><circle cx="375.5" cy="99.8" r="4" fill="#3465a4"><title>Moonlight Glen (Fashion)</title></circle></a><a href="/variants/s8/k62w10y10k4w18k4ly3w4/"><circle cx="302.3" cy="111.3" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/"><circle cx="288.9" cy="152.1" r="4" fill="#3465a4"><title>Bannockbane Grey #3</title></circle></a><a href="/variants/s8/ly8n5dr1n15k2ly1k36n1~x2/"><circle cx="305.9" cy="96.7" r="4" fill="#3465a4"><title>Cirse 3D</title></circle></a><a href="/variants/s8/dr2n2k2n28k8n9k1ly2~x2/"><circle cx="430.3" cy="114.5" r="4" fill="#3465a4"><title>Highland Autumn (Fashion)</title></circle></a><a href="/variants/s9/y75k6w3n2k6n2k6w3n2/"><circle cx="435.2" cy="66.1" r="4" fill="#3465a4"><title>Norton (Corporate)</title></circle></a><a href="/variants/s6/g55k17r9k11y2k4~x2/"><circle cx="295.0" cy="132.6" r="4" fill="#3465a4"><title>Moran (Name)</title></circle></a><a href="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/"><circle cx="270.1" cy="121.1" r="4" fill="#3465a4"><title>Gleneagles Gold (Dalgleish)</title></circle></a><a href="/variants/s6/o72k16w9k4w5k16~x2/"><circle cx="317.3" cy="146.4" r="4" fill="#3465a4"><title>Machair (warp)</title></circle></a><circle cx="364.3" cy="103.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k14w4k8y45w3k1y2~x2/

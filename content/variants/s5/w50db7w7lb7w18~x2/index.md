@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sephardim (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w50db7w7lb7w18/)
 (the same proportion at any scale), whose colour order is pattern [WBWWW](/stripes/wbwww/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8135
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8135](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8135)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3n1w1n25w1n1dp3~x2/"><circle cx="599.5" cy="166.2" r="4" fill="#3465a4"><title>St Giles, Check</title></circle></a><a href="/variants/s5/w45t2w4t15w7~x2/"><circle cx="592.3" cy="238.4" r="4" fill="#3465a4"><title>Asahi (Estimated threadcount)</title></circle></a><a href="/variants/s5/lb37w9lb3db9w3~x2/"><circle cx="457.3" cy="246.6" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/variants/s5/t50db15w3db4w2~x2/"><circle cx="516.7" cy="213.5" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990) (Corp)</title></circle></a><a href="/variants/s6/dr2lb2n18lb1n2db2~x4/"><circle cx="581.1" cy="206.7" r="4" fill="#3465a4"><title>St. Giles Cathedral (Corporate)</title></circle></a><a href="/variants/s4/w20b20w3b3~x2/"><circle cx="421.5" cy="296.3" r="4" fill="#3465a4"><title>Unidentified, Plaid Barbie's Moss</title></circle></a><a href="/variants/s4/w20db20w3db3~x2/"><circle cx="385.4" cy="283.7" r="4" fill="#3465a4"><title>Barbie's Moss Plaid (Blue &amp; White)</title></circle></a><a href="/variants/s4/db4w35db31w4~x2/"><circle cx="366.8" cy="287.4" r="4" fill="#3465a4"><title>Lewis, Navy (Dance)</title></circle></a><a href="/variants/s6/w7db16w20db3w3y3~x2/"><circle cx="317.6" cy="254.0" r="4" fill="#3465a4"><title>Unidentified (Shirt)</title></circle></a><a href="/variants/s6/w5db16w5db16w33dr3~x2/"><circle cx="346.3" cy="248.0" r="4" fill="#3465a4"><title>Buchanan Dress Blue (Dance)</title></circle></a><circle cx="574.8" cy="272.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3n1w1n25w1n1dp3~x2/"><circle cx="599.6" cy="166.3" r="4" fill="#3465a4"><title>St Giles, Check</title></circle></a><a href="/variants/s5/w45t2w4t15w7~x2/"><circle cx="592.5" cy="239.0" r="4" fill="#3465a4"><title>Asahi (Estimated threadcount)</title></circle></a><a href="/variants/s5/lb37w9lb3db9w3~x2/"><circle cx="457.5" cy="247.2" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/variants/s5/t50db15w3db4w2~x2/"><circle cx="516.8" cy="213.9" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990) (Corp)</title></circle></a><a href="/variants/s6/dr2lb2n18lb1n2db2~x4/"><circle cx="581.2" cy="206.9" r="4" fill="#3465a4"><title>St. Giles Cathedral (Corporate)</title></circle></a><a href="/variants/s4/w20b20w3b3~x2/"><circle cx="421.7" cy="297.1" r="4" fill="#3465a4"><title>Unidentified, Plaid Barbie's Moss</title></circle></a><a href="/variants/s4/w20db20w3db3~x2/"><circle cx="385.6" cy="284.5" r="4" fill="#3465a4"><title>Barbie's Moss Plaid (Blue &amp; White)</title></circle></a><a href="/variants/s4/db4w35db31w4~x2/"><circle cx="367.0" cy="288.3" r="4" fill="#3465a4"><title>Lewis, Navy (Dance)</title></circle></a><a href="/variants/s6/w7db16w20db3w3y3~x2/"><circle cx="317.8" cy="254.8" r="4" fill="#3465a4"><title>Unidentified (Shirt)</title></circle></a><a href="/variants/s6/w5db16w5db16w33dr3~x2/"><circle cx="346.4" cy="248.7" r="4" fill="#3465a4"><title>Buchanan Dress Blue (Dance)</title></circle></a><circle cx="575.1" cy="272.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/w50db7w7lb7w18~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Merrilees Dress (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k23t6k6r5w35r10/)
 (the same proportion at any scale), whose colour order is pattern [KBKRWR](/stripes/kbkrwr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2939
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2939](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2939)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><circle cx="142.3" cy="198.0" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><a href="/variants/s5/k4w3k4n9r1~x4/"><circle cx="163.6" cy="215.0" r="4" fill="#3465a4"><title>Oban Grey</title></circle></a><a href="/variants/s6/w23db6w6r5k35r10~x2/"><circle cx="142.4" cy="197.8" r="4" fill="#3465a4"><title>Meg, Merrilees</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="105.6" cy="195.8" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2/"><circle cx="105.1" cy="196.3" r="4" fill="#3465a4"><title>Aberlour (Corporate)</title></circle></a><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="190.8" cy="221.9" r="4" fill="#3465a4"><title>Braes High School Falkirk (School)</title></circle></a><a href="/variants/s6/r2w30k15y2k15r2~x2/"><circle cx="216.3" cy="157.6" r="4" fill="#3465a4"><title>Brodie (WCWM)</title></circle></a><a href="/variants/s6/r4o30k6w13k13w3~x2/"><circle cx="166.1" cy="183.7" r="4" fill="#3465a4"><title>Thom(p)son camel</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="175.6" cy="204.8" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s6/r6k14r6g14w27k4/"><circle cx="102.9" cy="214.4" r="4" fill="#3465a4"><title>Fraser Dress</title></circle></a><circle cx="141.6" cy="199.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><circle cx="142.4" cy="198.7" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><a href="/variants/s5/k4w3k4n9r1~x4/"><circle cx="163.7" cy="215.7" r="4" fill="#3465a4"><title>Oban Grey</title></circle></a><a href="/variants/s6/w23db6w6r5k35r10~x2/"><circle cx="142.5" cy="198.5" r="4" fill="#3465a4"><title>Meg, Merrilees</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="105.6" cy="196.5" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2/"><circle cx="105.1" cy="197.0" r="4" fill="#3465a4"><title>Aberlour (Corporate)</title></circle></a><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="190.9" cy="222.7" r="4" fill="#3465a4"><title>Braes High School Falkirk (School)</title></circle></a><a href="/variants/s6/r2w30k15y2k15r2~x2/"><circle cx="216.3" cy="158.1" r="4" fill="#3465a4"><title>Brodie (WCWM)</title></circle></a><a href="/variants/s6/r4o30k6w13k13w3~x2/"><circle cx="166.2" cy="184.3" r="4" fill="#3465a4"><title>Thom(p)son camel</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="175.6" cy="205.4" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s6/r6k14r6g14w27k4/"><circle cx="103.0" cy="215.1" r="4" fill="#3465a4"><title>Fraser Dress</title></circle></a><circle cx="141.7" cy="199.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k23t6k6r5w35r10~x2/

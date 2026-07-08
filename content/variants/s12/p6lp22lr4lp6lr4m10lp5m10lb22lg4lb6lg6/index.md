@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kinloch Anderson, Romance of"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/p6lp22lr4lp6lr4m10lp5m10lb22lg4lb6lg6/)
 (the same proportion at any scale), whose colour order is pattern [BWYWYRWRWYWY](/stripes/bwywyrwrwywy/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5969
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5969](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5969)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

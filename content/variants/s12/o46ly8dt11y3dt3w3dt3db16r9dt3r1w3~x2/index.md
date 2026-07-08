@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Maciocia (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o46ly8dt11y3dt3w3dt3db16r9dt3r1w3/)
 (the same proportion at any scale), whose colour order is pattern [RYBGBWBBRBRW](/stripes/rybgbwbbrbrw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2488
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2488](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2488)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r35y7w1dg3w1y7dg19w2g17r12g5b5r5g2~x2/"><circle cx="236.8" cy="94.4" r="4" fill="#3465a4"><title>Unidentified 9</title></circle></a><a href="/variants/s20/r5y1r8w1db20w1b20w1g20y1r5y1r5y1g20y2r52w1y5w1~x2/"><circle cx="254.1" cy="42.2" r="4" fill="#3465a4"><title>Whitworth</title></circle></a><a href="/variants/s20/r5y1r8w1db20w1lb20w1g20y1r5y1r5y1g20y2r52w1y5w1~x2/"><circle cx="247.5" cy="39.8" r="4" fill="#3465a4"><title>Whitworth Artifact Tartan</title></circle></a><a href="/variants/s15/dy28r3do2n2do2r3n8ly2do8ly5do3w2do2ly3do1~x2/"><circle cx="219.8" cy="90.1" r="4" fill="#3465a4"><title>Caithness District Tartan</title></circle></a><a href="/variants/s9/g9y2g6r35db6lb1dr20db5lb2~x2/"><circle cx="240.5" cy="104.9" r="4" fill="#3465a4"><title>Telfer (Name)</title></circle></a><a href="/variants/s9/g9dy2g6r35db6lb1dr20db5lb2~x2/"><circle cx="239.8" cy="104.6" r="4" fill="#3465a4"><title>Telfer</title></circle></a><a href="/variants/s11/r22w1y7w1g21w1db12w1dr1w1r8~x2/"><circle cx="198.8" cy="110.3" r="4" fill="#3465a4"><title>Bendigo</title></circle></a><a href="/variants/s9/w2dg27dy1ly7lb5dy5r17dy6lb1~x2/"><circle cx="188.9" cy="118.2" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s18/y2b5r3g54r5g3r5db21b5r3b5g17r2db4r48b5r3w2/"><circle cx="227.0" cy="74.2" r="4" fill="#3465a4"><title>Sommerville</title></circle></a><a href="/variants/s9/g9y2g6r35db6lb1dr20db5lb2~x2~r2109032-db1004274/"><circle cx="250.5" cy="108.6" r="4" fill="#3465a4"><title>Telfer Name Tartan</title></circle></a><circle cx="225.5" cy="61.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r35y7w1dg3w1y7dg19w2g17r12g5b5r5g2~x2/"><circle cx="236.7" cy="94.5" r="4" fill="#3465a4"><title>Unidentified 9</title></circle></a><a href="/variants/s20/r5y1r8w1db20w1b20w1g20y1r5y1r5y1g20y2r52w1y5w1~x2/"><circle cx="254.0" cy="42.1" r="4" fill="#3465a4"><title>Whitworth</title></circle></a><a href="/variants/s20/r5y1r8w1db20w1lb20w1g20y1r5y1r5y1g20y2r52w1y5w1~x2/"><circle cx="247.3" cy="39.8" r="4" fill="#3465a4"><title>Whitworth Artifact Tartan</title></circle></a><a href="/variants/s15/dy28r3do2n2do2r3n8ly2do8ly5do3w2do2ly3do1~x2/"><circle cx="219.6" cy="90.1" r="4" fill="#3465a4"><title>Caithness District Tartan</title></circle></a><a href="/variants/s9/g9y2g6r35db6lb1dr20db5lb2~x2/"><circle cx="240.4" cy="105.0" r="4" fill="#3465a4"><title>Telfer (Name)</title></circle></a><a href="/variants/s9/g9dy2g6r35db6lb1dr20db5lb2~x2/"><circle cx="239.7" cy="104.8" r="4" fill="#3465a4"><title>Telfer</title></circle></a><a href="/variants/s11/r22w1y7w1g21w1db12w1dr1w1r8~x2/"><circle cx="198.7" cy="110.5" r="4" fill="#3465a4"><title>Bendigo</title></circle></a><a href="/variants/s9/w2dg27dy1ly7lb5dy5r17dy6lb1~x2/"><circle cx="188.9" cy="118.4" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s18/y2b5r3g54r5g3r5db21b5r3b5g17r2db4r48b5r3w2/"><circle cx="226.8" cy="74.2" r="4" fill="#3465a4"><title>Sommerville</title></circle></a><a href="/variants/s9/g9y2g6r35db6lb1dr20db5lb2~x2~r2109032-db1004274/"><circle cx="250.4" cy="108.7" r="4" fill="#3465a4"><title>Telfer Name Tartan</title></circle></a><circle cx="225.4" cy="61.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/o46ly8dt11y3dt3w3dt3db16r9dt3r1w3~x2/

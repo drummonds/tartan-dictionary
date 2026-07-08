@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Gathering (Fashion?)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k45r4k4n4ly16n76db8ly6db2w4/)
 (the same proportion at any scale), whose colour order is pattern [KRKBYBBYBW](/stripes/krkbybbybw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7894
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7894](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7894)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb11k2lb2k2dy2k11dg30r2dg3k1w5~x2/"><circle cx="188.9" cy="68.4" r="4" fill="#3465a4"><title>Labrador</title></circle></a><a href="/variants/s11/lb11k2lb2k2ly2k11dg30r2dg3k1w5~x2/"><circle cx="187.2" cy="68.2" r="4" fill="#3465a4"><title>Labrador (District)</title></circle></a><a href="/variants/s9/n47lo1k27o4dg5lo1o8t1k1~x2~n1900000-o2500000/"><circle cx="262.7" cy="55.4" r="4" fill="#3465a4"><title>Brighton Mac Dermott (Fashion)</title></circle></a><a href="/variants/s15/r4g3k11n3db3n30k1w4k1g3k3g3k3n12r2~x2/"><circle cx="228.6" cy="59.7" r="4" fill="#3465a4"><title>Trew 40th (Personal)</title></circle></a><a href="/variants/s12/db36y4k5w1k1w1k2g8r6k1r3w1~x4/"><circle cx="246.4" cy="40.8" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s12/db36y4k6w1k1w1k1g8r6k1r3w1/"><circle cx="246.6" cy="40.6" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s12/db36y4k6w1k1w1k1g8r6k1r3w1~x2/"><circle cx="246.6" cy="40.6" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s12/db40y4k3w2k3w2k3g10r6k2r4w2~x2/"><circle cx="200.3" cy="65.9" r="4" fill="#3465a4"><title>MacBeth #2</title></circle></a><a href="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/"><circle cx="186.4" cy="76.2" r="4" fill="#3465a4"><title>National Millennium</title></circle></a><a href="/variants/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/"><circle cx="131.7" cy="76.5" r="4" fill="#3465a4"><title>Beaudoux - Amis Picards (District)</title></circle></a><circle cx="216.5" cy="54.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb11k2lb2k2dy2k11dg30r2dg3k1w5~x2/"><circle cx="188.7" cy="68.5" r="4" fill="#3465a4"><title>Labrador</title></circle></a><a href="/variants/s11/lb11k2lb2k2ly2k11dg30r2dg3k1w5~x2/"><circle cx="187.1" cy="68.3" r="4" fill="#3465a4"><title>Labrador (District)</title></circle></a><a href="/variants/s9/n47lo1k27o4dg5lo1o8t1k1~x2~n1900000-o2500000/"><circle cx="262.5" cy="55.4" r="4" fill="#3465a4"><title>Brighton Mac Dermott (Fashion)</title></circle></a><a href="/variants/s15/r4g3k11n3db3n30k1w4k1g3k3g3k3n12r2~x2/"><circle cx="228.4" cy="59.7" r="4" fill="#3465a4"><title>Trew 40th (Personal)</title></circle></a><a href="/variants/s12/db36y4k5w1k1w1k2g8r6k1r3w1~x4/"><circle cx="246.2" cy="40.8" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s12/db36y4k6w1k1w1k1g8r6k1r3w1/"><circle cx="246.4" cy="40.5" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s12/db36y4k6w1k1w1k1g8r6k1r3w1~x2/"><circle cx="246.4" cy="40.5" r="4" fill="#3465a4"><title>MacBeth</title></circle></a><a href="/variants/s12/db40y4k3w2k3w2k3g10r6k2r4w2~x2/"><circle cx="200.1" cy="66.0" r="4" fill="#3465a4"><title>MacBeth #2</title></circle></a><a href="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/"><circle cx="186.3" cy="76.3" r="4" fill="#3465a4"><title>National Millennium</title></circle></a><a href="/variants/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/"><circle cx="131.5" cy="76.6" r="4" fill="#3465a4"><title>Beaudoux - Amis Picards (District)</title></circle></a><circle cx="216.3" cy="54.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k45r4k4n4ly16n76db8ly6db2w4/

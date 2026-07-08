@@ -10,6 +10,8 @@ crumbs:
   url: "/families/grant-of-achnarrow/"
 - name: "Grant of Achnarrow"
   url: "/tartans/grant-of-achnarrow/"
+- name: "Grant of Acharrow"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w6r2w38g8db6w2db2w2o14r7g2r3w2/)
 (the same proportion at any scale), whose colour order is pattern [WRGRRWBWBGWRW](/stripes/wrgrrwbwbgwrw/).
@@ -18,7 +20,7 @@ Part of the [Grant of Achnarrow](/tartans/grant-of-achnarrow/) tartan — the na
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w6r2w38g8db6w2db2w2ly14r7g2r3w2~x2/"><circle cx="260.3" cy="108.3" r="4" fill="#3465a4"><title>Grant of Auchnarrow</title></circle></a><a href="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w4002111-m2107000/"><circle cx="260.5" cy="127.8" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><a href="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/"><circle cx="272.6" cy="116.9" r="4" fill="#3465a4"><title>Ben Vorlich (Fashion)</title></circle></a><a href="/variants/s11/w38g10r2g3w2g3gi8lr3g2lr3w2~x2~g2001180-gi2104144/"><circle cx="307.2" cy="114.1" r="4" fill="#3465a4"><title>Glenmore Green Fashion Tartan</title></circle></a><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/"><circle cx="278.1" cy="94.9" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2/"><circle cx="248.3" cy="97.1" r="4" fill="#3465a4"><title>Barra, Fuschia (Dance)</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2~r2806019/"><circle cx="248.7" cy="97.6" r="4" fill="#3465a4"><title>Barra Fuschia</title></circle></a><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/"><circle cx="249.1" cy="126.8" r="4" fill="#3465a4"><title>Ben Ledi (Fashion)</title></circle></a><a href="/variants/s11/w32dr9ly1dr2w1dr2r7o4dr1o2w1~x4/"><circle cx="292.9" cy="73.3" r="4" fill="#3465a4"><title>Canna (Fashion)</title></circle></a><a href="/variants/s11/w32ri9ly1ri2w1ri2r7o4ri1o2w1~x4~ri1606028-r1406028-o2304058/"><circle cx="294.4" cy="73.2" r="4" fill="#3465a4"><title>Canna</title></circle></a><circle cx="253.0" cy="103.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w6r2w38g8db6w2db2w2ly14r7g2r3w2~x2/"><circle cx="260.3" cy="108.6" r="4" fill="#3465a4"><title>Grant of Auchnarrow</title></circle></a><a href="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w4002111-m2107000/"><circle cx="260.5" cy="128.1" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><a href="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/"><circle cx="272.6" cy="117.1" r="4" fill="#3465a4"><title>Ben Vorlich (Fashion)</title></circle></a><a href="/variants/s11/w38g10r2g3w2g3gi8lr3g2lr3w2~x2~g2001180-gi2104144/"><circle cx="307.2" cy="114.4" r="4" fill="#3465a4"><title>Glenmore Green Fashion Tartan</title></circle></a><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/"><circle cx="278.0" cy="95.2" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2/"><circle cx="248.2" cy="97.4" r="4" fill="#3465a4"><title>Barra, Fuschia (Dance)</title></circle></a><a href="/variants/s14/dp6w6r3w30dp20g6o1w8o1g4w2g7o1w6~x2~r2806019/"><circle cx="248.7" cy="97.8" r="4" fill="#3465a4"><title>Barra Fuschia</title></circle></a><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/"><circle cx="249.0" cy="127.1" r="4" fill="#3465a4"><title>Ben Ledi (Fashion)</title></circle></a><a href="/variants/s11/w32dr9ly1dr2w1dr2r7o4dr1o2w1~x4/"><circle cx="292.9" cy="73.5" r="4" fill="#3465a4"><title>Canna (Fashion)</title></circle></a><a href="/variants/s11/w32ri9ly1ri2w1ri2r7o4ri1o2w1~x4~ri1606028-r1406028-o2304058/"><circle cx="294.3" cy="73.4" r="4" fill="#3465a4"><title>Canna</title></circle></a><circle cx="253.0" cy="103.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/

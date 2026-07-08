@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "New Zealand"
   url: "/tartans/new-zealand/"
+- name: "New Zealand District Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k21w2k5w9k13g2/)
 (the same proportion at any scale), whose colour order is pattern [GKWKWK](/stripes/gkwkwk/).
@@ -14,7 +16,7 @@ Part of the [New Zealand](/tartans/new-zealand/) tartan — the named design gro
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3250
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3250](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3250)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k22w3k3w11k1~x2/"><circle cx="367.9" cy="168.9" r="4" fill="#3465a4"><title>MacPhee MacFee or MacIver</title></circle></a><a href="/variants/s6/k2n6k2n6k12r1~x4/"><circle cx="296.3" cy="197.3" r="4" fill="#3465a4"><title>MacSween, Black (Personal)</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="368.0" cy="144.0" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s6/n50k4n12k23lo4k4~x2/"><circle cx="359.1" cy="180.1" r="4" fill="#3465a4"><title>Sligo Irish County Tartan</title></circle></a><a href="/variants/s7/n3k31w6k8n3k12w2~x2/"><circle cx="427.1" cy="155.8" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="425.2" cy="154.4" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s6/k15n7k6n11k50n4~x2/"><circle cx="472.0" cy="193.6" r="4" fill="#3465a4"><title>Freedom of Scotland</title></circle></a><a href="/variants/s5/k37w9k3dg9w3~x2/"><circle cx="331.4" cy="177.3" r="4" fill="#3465a4"><title>Glen Coe Trade Tartan</title></circle></a><a href="/variants/s6/k17dr6k2w6k17ly2~x2/"><circle cx="328.1" cy="191.2" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/variants/s7/n1k21n5k3n5k9r1~x4/"><circle cx="432.8" cy="151.3" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><circle cx="371.3" cy="192.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k22w3k3w11k1~x2/"><circle cx="367.9" cy="169.5" r="4" fill="#3465a4"><title>MacPhee MacFee or MacIver</title></circle></a><a href="/variants/s6/k2n6k2n6k12r1~x4/"><circle cx="296.3" cy="197.8" r="4" fill="#3465a4"><title>MacSween, Black (Personal)</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="368.0" cy="144.4" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s6/n50k4n12k23lo4k4~x2/"><circle cx="359.1" cy="180.6" r="4" fill="#3465a4"><title>Sligo Irish County Tartan</title></circle></a><a href="/variants/s7/n3k31w6k8n3k12w2~x2/"><circle cx="427.0" cy="156.2" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="425.2" cy="154.9" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s6/k15n7k6n11k50n4~x2/"><circle cx="472.0" cy="194.1" r="4" fill="#3465a4"><title>Freedom of Scotland</title></circle></a><a href="/variants/s5/k37w9k3dg9w3~x2/"><circle cx="331.4" cy="177.9" r="4" fill="#3465a4"><title>Glen Coe Trade Tartan</title></circle></a><a href="/variants/s6/k17dr6k2w6k17ly2~x2/"><circle cx="328.2" cy="191.8" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/variants/s7/n1k21n5k3n5k9r1~x4/"><circle cx="432.7" cy="151.7" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><circle cx="371.3" cy="193.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k21w2k5w9k13g2~x4/

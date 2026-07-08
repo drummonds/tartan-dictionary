@@ -31,11 +31,11 @@ second parent, beside its family or clan).
 <tr><td><a href="/variants/s5/dp37w9dp3o9w3~x2/">Glen App</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/dp37w9dp3o9w3~x2/"><img src="/variants/s5/dp37w9dp3o9w3~x2/sett.png" alt="Glen App sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
-<tr><td><a href="/variants/s5/db13lb3db1r3lb1~x6/">Glen Moy</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s5/db13lb3db1r3lb1~x6/"><img src="/variants/s5/db13lb3db1r3lb1~x6/sett.png" alt="Glen Moy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s5/db37w9db3r9w3~x2/">Glen Moy</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s5/db37w9db3r9w3~x2/"><img src="/variants/s5/db37w9db3r9w3~x2/sett.png" alt="Glen Moy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s5/db13lb3db1r3lb1~x6/">Glen Moy</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s5/db13lb3db1r3lb1~x6/"><img src="/variants/s5/db13lb3db1r3lb1~x6/sett.png" alt="Glen Moy sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

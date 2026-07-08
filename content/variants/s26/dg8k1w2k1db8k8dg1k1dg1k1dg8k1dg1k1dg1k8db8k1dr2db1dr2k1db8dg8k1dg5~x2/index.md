@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Killen"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg8k1w2k1db8k8dg1k1dg1k1dg8k1dg1k1dg1k8db8k1dr2db1dr2k1db8dg8k1dg5/)
 (the same proportion at any scale), whose colour order is pattern [GKGBKBBBKBKGKGKGKGKGKBKWKGKWKBKGKGKGKGKGKBKBBBKBGK](/stripes/gkgbkbbbkbkgkgkgkgkgkbkwkgkwkbkgkgkgkgkgkbkbbbkbgk/).
 
 Sourced from register-of-tartans.  It is a [50 stripe tartan](/stripes/stripes50/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1971
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1971](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1971)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s40/r2g12k4db11r2db11k4db2k9db2k9db2k4db11dy2db11k4g12r2g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/"><circle cx="104.8" cy="142.8" r="4" fill="#3465a4"><title>Allen Personal Tartan</title></circle></a><a href="/variants/s15/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3~x2~dg1804158/"><circle cx="104.5" cy="158.7" r="4" fill="#3465a4"><title>Scotland's National</title></circle></a><a href="/variants/s27/db15k1db1k1db1k7dr8k1y3k1dr8k7db8k5db8k7dr8k1y3k1dr8k7db1k1db1k1db9~x4~db1406275/"><circle cx="163.0" cy="108.7" r="4" fill="#3465a4"><title>Dryer</title></circle></a><circle cx="121.9" cy="114.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s40/r2g12k4db11r2db11k4db2k9db2k9db2k4db11dy2db11k4g12r2g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/"><circle cx="104.8" cy="143.0" r="4" fill="#3465a4"><title>Allen Personal Tartan</title></circle></a><a href="/variants/s15/dt12w2dt2dr2dt2k10dg12k2dg4k2dg12k10dt12k2dr3~x2~dg1804158/"><circle cx="104.4" cy="159.0" r="4" fill="#3465a4"><title>Scotland's National</title></circle></a><a href="/variants/s27/db15k1db1k1db1k7dr8k1y3k1dr8k7db8k5db8k7dr8k1y3k1dr8k7db1k1db1k1db9~x4~db1406275/"><circle cx="162.8" cy="108.8" r="4" fill="#3465a4"><title>Dryer</title></circle></a><circle cx="121.8" cy="114.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s26/dg8k1w2k1db8k8dg1k1dg1k1dg8k1dg1k1dg1k8db8k1dr2db1dr2k1db8dg8k1dg5~x2/

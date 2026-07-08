@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's No.076"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp17k18w2g17k3g17w2k18dp17g3/)
 (the same proportion at any scale), whose colour order is pattern [BKWGKGWKBG](/stripes/bkwgkgwkbg/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4666
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4666)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/"><circle cx="127.9" cy="189.2" r="4" fill="#3465a4"><title>Wilson's No.150</title></circle></a><a href="/variants/s6/g19w2g4k13dp12k3~x2~w3600000-dp1607327/"><circle cx="125.5" cy="188.5" r="4" fill="#3465a4"><title>Wilson's No.158</title></circle></a><a href="/variants/s6/g19y2g4k13dp12k3~x2~dp1607327/"><circle cx="130.5" cy="189.3" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/variants/s10/dp9k11lb2g9k3g9lb2k11dp9k3~x2~dp1607327/"><circle cx="117.8" cy="223.5" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/variants/s7/dp3k1dp8k6g8k1w2~x2/"><circle cx="137.3" cy="204.9" r="4" fill="#3465a4"><title>Baillie (Highland Society)</title></circle></a><a href="/variants/s10/dp16k17g18w2k5w2g18k17dp16k3~x2~dp1607327-w4000000/"><circle cx="126.6" cy="197.6" r="4" fill="#3465a4"><title>Wilson's No.175</title></circle></a><a href="/variants/s9/db28k3db6k3db6k20o28k3w6~x2/"><circle cx="155.7" cy="170.4" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s11/db4k4db10k10dy2k10lr4db8lr12db2dp1~x2/"><circle cx="112.0" cy="164.6" r="4" fill="#3465a4"><title>Dutton, Stuart (Personal)</title></circle></a><a href="/variants/s9/db12r2db4r4k15db4g4db2g12~x2/"><circle cx="132.5" cy="200.8" r="4" fill="#3465a4"><title>Alexander Hunting (Name)</title></circle></a><a href="/variants/s13/db20dr3db3dr3db3k10lr14k4lr14k10db14dr3db3~x2/"><circle cx="135.0" cy="185.5" r="4" fill="#3465a4"><title>Commonwealth Variation</title></circle></a><circle cx="128.2" cy="195.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/"><circle cx="127.9" cy="189.7" r="4" fill="#3465a4"><title>Wilson's No.150</title></circle></a><a href="/variants/s6/g19w2g4k13dp12k3~x2~w3600000-dp1607327/"><circle cx="125.5" cy="189.0" r="4" fill="#3465a4"><title>Wilson's No.158</title></circle></a><a href="/variants/s6/g19y2g4k13dp12k3~x2~dp1607327/"><circle cx="130.5" cy="189.8" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/variants/s10/dp9k11lb2g9k3g9lb2k11dp9k3~x2~dp1607327/"><circle cx="117.9" cy="224.1" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/variants/s7/dp3k1dp8k6g8k1w2~x2/"><circle cx="137.4" cy="205.5" r="4" fill="#3465a4"><title>Baillie (Highland Society)</title></circle></a><a href="/variants/s10/dp16k17g18w2k5w2g18k17dp16k3~x2~dp1607327-w4000000/"><circle cx="126.6" cy="198.2" r="4" fill="#3465a4"><title>Wilson's No.175</title></circle></a><a href="/variants/s9/db28k3db6k3db6k20o28k3w6~x2/"><circle cx="155.7" cy="170.8" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s11/db4k4db10k10dy2k10lr4db8lr12db2dp1~x2/"><circle cx="112.0" cy="165.0" r="4" fill="#3465a4"><title>Dutton, Stuart (Personal)</title></circle></a><a href="/variants/s9/db12r2db4r4k15db4g4db2g12~x2/"><circle cx="132.5" cy="201.3" r="4" fill="#3465a4"><title>Alexander Hunting (Name)</title></circle></a><a href="/variants/s13/db20dr3db3dr3db3k10lr14k4lr14k10db14dr3db3~x2/"><circle cx="135.0" cy="186.0" r="4" fill="#3465a4"><title>Commonwealth Variation</title></circle></a><circle cx="128.2" cy="195.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dp17k18w2g17k3g17w2k18dp17g3~x2~dp1607327-g2203152/

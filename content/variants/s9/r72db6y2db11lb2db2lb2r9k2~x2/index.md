@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Junor (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r72db6y2db11lb2db2lb2r9k2/)
 (the same proportion at any scale), whose colour order is pattern [KRWBWBGBR](/stripes/krwbwbgbr/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2611
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2611](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2611)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r42db4y1db6g1db1g1r12~x2/"><circle cx="575.8" cy="92.5" r="4" fill="#3465a4"><title>Inverness Earl of</title></circle></a><a href="/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/"><circle cx="499.3" cy="58.2" r="4" fill="#3465a4"><title>Junor</title></circle></a><a href="/variants/s9/r24t14ly2t3k2t6r38ly1lr2~x2/"><circle cx="431.6" cy="93.2" r="4" fill="#3465a4"><title>Uddingston Rugby Club Centenary (Cor</title></circle></a><a href="/variants/s8/r36db3w1db6g1k1g1r9~x4/"><circle cx="499.8" cy="67.5" r="4" fill="#3465a4"><title>Inverness - 1829 (District)</title></circle></a><a href="/variants/s8/r36db3w1db6g1k1g1r9~x2/"><circle cx="499.8" cy="67.5" r="4" fill="#3465a4"><title>Inverness</title></circle></a><a href="/variants/s8/r114db10w3db16y3k3y3r28~x2/"><circle cx="521.7" cy="65.7" r="4" fill="#3465a4"><title>Inverness #2</title></circle></a><a href="/variants/s8/r48w4db4k4r12db4r1y4~x2/"><circle cx="467.1" cy="56.7" r="4" fill="#3465a4"><title>Brodie (W &amp; A Smith)</title></circle></a><a href="/variants/s8/r48w4db4k4r12db4r1y4/"><circle cx="467.1" cy="56.7" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/variants/s8/db3w2k2r62db2k2y2w2~x2/"><circle cx="517.7" cy="47.3" r="4" fill="#3465a4"><title>Singer Sewing Machine Company</title></circle></a><a href="/variants/s8/r36db3w1db6g1k1g1r9~x4~db1406275-w4000000/"><circle cx="383.4" cy="39.7" r="4" fill="#3465a4"><title>Inverness</title></circle></a><circle cx="485.2" cy="52.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r42db4y1db6g1db1g1r12~x2/"><circle cx="575.7" cy="92.7" r="4" fill="#3465a4"><title>Inverness Earl of</title></circle></a><a href="/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/"><circle cx="499.2" cy="58.3" r="4" fill="#3465a4"><title>Junor</title></circle></a><a href="/variants/s9/r24t14ly2t3k2t6r38ly1lr2~x2/"><circle cx="431.5" cy="93.3" r="4" fill="#3465a4"><title>Uddingston Rugby Club Centenary (Cor</title></circle></a><a href="/variants/s8/r36db3w1db6g1k1g1r9~x4/"><circle cx="499.7" cy="67.6" r="4" fill="#3465a4"><title>Inverness - 1829 (District)</title></circle></a><a href="/variants/s8/r36db3w1db6g1k1g1r9~x2/"><circle cx="499.7" cy="67.6" r="4" fill="#3465a4"><title>Inverness</title></circle></a><a href="/variants/s8/r114db10w3db16y3k3y3r28~x2/"><circle cx="521.6" cy="65.9" r="4" fill="#3465a4"><title>Inverness #2</title></circle></a><a href="/variants/s8/r48w4db4k4r12db4r1y4~x2/"><circle cx="467.0" cy="56.8" r="4" fill="#3465a4"><title>Brodie (W &amp; A Smith)</title></circle></a><a href="/variants/s8/r48w4db4k4r12db4r1y4/"><circle cx="467.0" cy="56.8" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/variants/s8/db3w2k2r62db2k2y2w2~x2/"><circle cx="517.6" cy="47.5" r="4" fill="#3465a4"><title>Singer Sewing Machine Company</title></circle></a><a href="/variants/s8/r36db3w1db6g1k1g1r9~x4~db1406275-w4000000/"><circle cx="383.3" cy="39.7" r="4" fill="#3465a4"><title>Inverness</title></circle></a><circle cx="485.1" cy="52.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r72db6y2db11lb2db2lb2r9k2~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Miyuki"
   url: "/tartans/miyuki/"
+- name: "Miyuki #3"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n12lb14r3o6lb10n28lb10o6r3lb8o10lb8r3o6lb40n6lb6n6/)
 (the same proportion at any scale), whose colour order is pattern [BWBWRRWRWRRWBWRRWB](/stripes/bwbwrrwrwrrwbwrrwb/).
@@ -14,7 +16,7 @@ Part of the [Miyuki](/tartans/miyuki/) tartan — the named design grouping this
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2969
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2969](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2969)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/n12lb14r3ri6lb10n28lb10ri6r3lb8ri10lb8r3ri6lb40n6lb6n6~n1900000-ri2109032/"><circle cx="297.4" cy="163.2" r="4" fill="#3465a4"><title>Miyuki #3 (Fashion)</title></circle></a><circle cx="329.7" cy="178.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/n12lb14r3ri6lb10n28lb10ri6r3lb8ri10lb8r3ri6lb40n6lb6n6~n1900000-ri2109032/"><circle cx="297.5" cy="163.5" r="4" fill="#3465a4"><title>Miyuki #3 (Fashion)</title></circle></a><circle cx="329.8" cy="178.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s18/n12lb14r3o6lb10n28lb10o6r3lb8o10lb8r3o6lb40n6lb6n6~n1900000-o2500000/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Vemma (Corporate) XXXXXXXXX"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o24lb2o7lb3k2n4k2lb1o4lb1/)
 (the same proportion at any scale), whose colour order is pattern [RWRWKBKWRW](/stripes/rwrwkbkwrw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10730
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10730](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10730)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/"><circle cx="304.2" cy="155.1" r="4" fill="#3465a4"><title>Dobrain (Personal)</title></circle></a><a href="/variants/s8/lo49db16k2w3db2w2db3lo2~x2/"><circle cx="369.8" cy="97.7" r="4" fill="#3465a4"><title>Irn Bru</title></circle></a><a href="/variants/s8/n83k7w6n10r7k3r20w3~x2/"><circle cx="409.4" cy="105.1" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s7/db13k3db20o70db20o30w3~x2/"><circle cx="382.4" cy="153.0" r="4" fill="#3465a4"><title>Unidentified 21</title></circle></a><a href="/variants/s10/o58k12o4k2y2k2o10w5k2y4~x2/"><circle cx="414.3" cy="75.2" r="4" fill="#3465a4"><title>Unnamed C20th - Skirt</title></circle></a><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><circle cx="350.3" cy="114.7" r="4" fill="#3465a4"><title>Scott - 1842 (Clan)</title></circle></a><a href="/variants/s10/r4g8w1g8r4g4r2g4r24k2~x2/"><circle cx="337.8" cy="125.6" r="4" fill="#3465a4"><title>Cumming/Comyn</title></circle></a><a href="/variants/s9/n16w1n1k1n8ly4r2w2r2~x4/"><circle cx="369.3" cy="132.7" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><a href="/variants/s6/r96g42r16g17k4lb6/"><circle cx="392.4" cy="146.0" r="4" fill="#3465a4"><title>MacGregor Hunting Glengyle Clan Tartan</title></circle></a><a href="/variants/s6/r96g42r16g17k4n6/"><circle cx="399.1" cy="148.2" r="4" fill="#3465a4"><title>MacGregor, Glengyle</title></circle></a><circle cx="425.7" cy="113.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/"><circle cx="304.2" cy="155.5" r="4" fill="#3465a4"><title>Dobrain (Personal)</title></circle></a><a href="/variants/s8/lo49db16k2w3db2w2db3lo2~x2/"><circle cx="369.8" cy="98.1" r="4" fill="#3465a4"><title>Irn Bru</title></circle></a><a href="/variants/s8/n83k7w6n10r7k3r20w3~x2/"><circle cx="409.4" cy="105.3" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s7/db13k3db20o70db20o30w3~x2/"><circle cx="382.4" cy="153.3" r="4" fill="#3465a4"><title>Unidentified 21</title></circle></a><a href="/variants/s10/o58k12o4k2y2k2o10w5k2y4~x2/"><circle cx="414.2" cy="75.5" r="4" fill="#3465a4"><title>Unnamed C20th - Skirt</title></circle></a><a href="/variants/s10/r4g4w3g4r4g14r28k1r3g4~x2/"><circle cx="350.3" cy="115.0" r="4" fill="#3465a4"><title>Scott - 1842 (Clan)</title></circle></a><a href="/variants/s10/r4g8w1g8r4g4r2g4r24k2~x2/"><circle cx="337.8" cy="125.9" r="4" fill="#3465a4"><title>Cumming/Comyn</title></circle></a><a href="/variants/s9/n16w1n1k1n8ly4r2w2r2~x4/"><circle cx="369.3" cy="133.0" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><a href="/variants/s6/r96g42r16g17k4lb6/"><circle cx="392.5" cy="146.4" r="4" fill="#3465a4"><title>MacGregor Hunting Glengyle Clan Tartan</title></circle></a><a href="/variants/s6/r96g42r16g17k4n6/"><circle cx="399.1" cy="148.6" r="4" fill="#3465a4"><title>MacGregor, Glengyle</title></circle></a><circle cx="425.7" cy="114.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/

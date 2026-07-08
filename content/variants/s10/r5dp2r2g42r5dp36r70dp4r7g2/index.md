@@ -10,6 +10,8 @@ crumbs:
   url: "/families/macpherson-of-cluny/"
 - name: "MacPherson Of Cluny"
   url: "/tartans/macpherson-of-cluny/"
+- name: "MacPherson of Cluny"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5dp2r2g42r5dp36r70dp4r7g2/)
 (the same proportion at any scale), whose colour order is pattern [GRBRBRGRBR](/stripes/grbrbrgrbr/).
@@ -18,7 +20,7 @@ Part of the [MacPherson Of Cluny](/tartans/macpherson-of-cluny/) tartan — the 
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=906
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=906](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=906)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -79,8 +81,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r5dp2r2g42r5dp36r70dp2y2r7g2~x2/"><circle cx="355.2" cy="105.4" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s13/r1g1r32dp32r8g1r1g1r8g32r32g1r1~x2/"><circle cx="378.3" cy="123.0" r="4" fill="#3465a4"><title>Unnamed 18th century plaid from Rothiemurchus</title></circle></a><a href="/variants/s13/r1g1r32db32r8g1r1g1r8g32r32g1r1~x2/"><circle cx="360.2" cy="120.0" r="4" fill="#3465a4"><title>Grant of Rothiemurchus</title></circle></a><a href="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/"><circle cx="341.9" cy="130.6" r="4" fill="#3465a4"><title>Fraser, Wedding dress</title></circle></a><a href="/variants/s13/r6db2r2g24r2g2r2db8r34db2r2db1r6~x2/"><circle cx="396.7" cy="109.8" r="4" fill="#3465a4"><title>Grant of Glenmoriston (Clan)</title></circle></a><a href="/variants/s13/dg2r3db2r48dg60r21dg2r21db60r48db2r3dg2/"><circle cx="350.6" cy="130.8" r="4" fill="#3465a4"><title>Fraser, Isabella (Artefact)</title></circle></a><a href="/variants/s11/r5dr2r2g42r5dr36r70dr2y2r7g2~x2/"><circle cx="366.8" cy="109.7" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s11/r5dr2r2g42r5dr36r70dr2y2r7g2/"><circle cx="366.8" cy="109.7" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="399.0" cy="148.5" r="4" fill="#3465a4"><title>MacDonald #7</title></circle></a><a href="/variants/s11/r3db1r1g21r3db18r35db1y1r4g1/"><circle cx="340.9" cy="104.1" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><circle cx="370.2" cy="127.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r5dp2r2g42r5dp36r70dp2y2r7g2~x2/"><circle cx="355.1" cy="105.6" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s13/r1g1r32dp32r8g1r1g1r8g32r32g1r1~x2/"><circle cx="378.2" cy="123.2" r="4" fill="#3465a4"><title>Unnamed 18th century plaid from Rothiemurchus</title></circle></a><a href="/variants/s13/r1g1r32db32r8g1r1g1r8g32r32g1r1~x2/"><circle cx="360.2" cy="120.3" r="4" fill="#3465a4"><title>Grant of Rothiemurchus</title></circle></a><a href="/variants/s13/g2r3db2r48db60r21g2r21g60r48db2r3g2~x2/"><circle cx="341.9" cy="130.9" r="4" fill="#3465a4"><title>Fraser, Wedding dress</title></circle></a><a href="/variants/s13/r6db2r2g24r2g2r2db8r34db2r2db1r6~x2/"><circle cx="396.7" cy="110.0" r="4" fill="#3465a4"><title>Grant of Glenmoriston (Clan)</title></circle></a><a href="/variants/s13/dg2r3db2r48dg60r21dg2r21db60r48db2r3dg2/"><circle cx="350.5" cy="131.1" r="4" fill="#3465a4"><title>Fraser, Isabella (Artefact)</title></circle></a><a href="/variants/s11/r5dr2r2g42r5dr36r70dr2y2r7g2~x2/"><circle cx="366.8" cy="109.9" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s11/r5dr2r2g42r5dr36r70dr2y2r7g2/"><circle cx="366.8" cy="109.9" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="399.0" cy="148.9" r="4" fill="#3465a4"><title>MacDonald #7</title></circle></a><a href="/variants/s11/r3db1r1g21r3db18r35db1y1r4g1/"><circle cx="340.9" cy="104.3" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><circle cx="370.2" cy="127.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r5dp2r2g42r5dp36r70dp4r7g2/

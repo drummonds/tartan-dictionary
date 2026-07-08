@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Flaumandrum"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n12k2n2k2n2k12dr12k1dy2k1dr12k12n12k1r2/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKBKGKBKBKR](/stripes/bkbkbkbkgkbkbkr/).
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1203
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1203](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1203)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/"><circle cx="173.8" cy="144.7" r="4" fill="#3465a4"><title>Bell's Whisky (SA)</title></circle></a><a href="/variants/s13/dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4/"><circle cx="130.1" cy="145.8" r="4" fill="#3465a4"><title>Red Hackle (Military)</title></circle></a><a href="/variants/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/"><circle cx="176.6" cy="142.6" r="4" fill="#3465a4"><title>Berwick (Fashion)</title></circle></a><a href="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="140.2" cy="162.9" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><a href="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/"><circle cx="145.2" cy="137.2" r="4" fill="#3465a4"><title>Unnamed C20th - Unregistered Error</title></circle></a><a href="/variants/s15/db9k1db1k1db1k7dr8k1y3k1dr8k7db8k1g3~x4/"><circle cx="136.5" cy="163.3" r="4" fill="#3465a4"><title>Dryer (Personal)</title></circle></a><a href="/variants/s13/b1dy1o8k1b1k1dy8k1dy1k1dy1k8ly1~x4/"><circle cx="138.5" cy="136.1" r="4" fill="#3465a4"><title>Unidentified #63</title></circle></a><a href="/variants/s11/lb3k1do12k1do1k2do1k6n12k1lo1~x4/"><circle cx="156.2" cy="134.7" r="4" fill="#3465a4"><title>MacCandlish Dress Grey</title></circle></a><a href="/variants/s14/db21k2db2k12y3k12g2k2g21k2r8k6r8k2~x2/"><circle cx="110.3" cy="136.0" r="4" fill="#3465a4"><title>Deas</title></circle></a><a href="/variants/s14/g21k2r8k6r8k2db21k2db2k12y3k12g2k2~x2/"><circle cx="110.3" cy="136.0" r="4" fill="#3465a4"><title>Deas</title></circle></a><circle cx="159.5" cy="139.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dg10w2dg18k3dg3k3dg3k18dp24k3dp3ly3~x2/"><circle cx="173.7" cy="144.9" r="4" fill="#3465a4"><title>Bell's Whisky (SA)</title></circle></a><a href="/variants/s13/dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4/"><circle cx="130.0" cy="146.1" r="4" fill="#3465a4"><title>Red Hackle (Military)</title></circle></a><a href="/variants/s13/do24g5n2k14dr2k3g3k3n14do6k4do3g2~x2/"><circle cx="176.6" cy="142.8" r="4" fill="#3465a4"><title>Berwick (Fashion)</title></circle></a><a href="/variants/s12/dr8w2dr22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="140.2" cy="163.2" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><a href="/variants/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/"><circle cx="145.1" cy="137.4" r="4" fill="#3465a4"><title>Unnamed C20th - Unregistered Error</title></circle></a><a href="/variants/s15/db9k1db1k1db1k7dr8k1y3k1dr8k7db8k1g3~x4/"><circle cx="136.5" cy="163.5" r="4" fill="#3465a4"><title>Dryer (Personal)</title></circle></a><a href="/variants/s13/b1dy1o8k1b1k1dy8k1dy1k1dy1k8ly1~x4/"><circle cx="138.5" cy="136.4" r="4" fill="#3465a4"><title>Unidentified #63</title></circle></a><a href="/variants/s11/lb3k1do12k1do1k2do1k6n12k1lo1~x4/"><circle cx="156.2" cy="135.0" r="4" fill="#3465a4"><title>MacCandlish Dress Grey</title></circle></a><a href="/variants/s14/db21k2db2k12y3k12g2k2g21k2r8k6r8k2~x2/"><circle cx="110.2" cy="136.3" r="4" fill="#3465a4"><title>Deas</title></circle></a><a href="/variants/s14/g21k2r8k6r8k2db21k2db2k12y3k12g2k2~x2/"><circle cx="110.2" cy="136.3" r="4" fill="#3465a4"><title>Deas</title></circle></a><circle cx="159.4" cy="139.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/n12k2n2k2n2k12dr12k1dy2k1dr12k12n12k1r2~x2/

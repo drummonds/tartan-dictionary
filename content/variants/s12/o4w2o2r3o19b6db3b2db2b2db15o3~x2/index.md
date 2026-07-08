@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scotch, House Cailean"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o4w2o2r3o19b6db3b2db2b2db15o3/)
 (the same proportion at any scale), whose colour order is pattern [RBBBBBBRRRWR](/stripes/rbbbbbbrrrwr/).
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dy4w2dy2r3dy19lb6db3lb2db2lb2db15dy3~x2/"><circle cx="214.3" cy="159.0" r="4" fill="#3465a4"><title>Cailean (Scotch House)</title></circle></a><a href="/variants/s12/o4w2o2w3o20db6lb3db2lb2db2lb16r3~x2/"><circle cx="197.9" cy="154.8" r="4" fill="#3465a4"><title>Callum, Scotch House</title></circle></a><a href="/variants/s12/r16db2r2db2r2db16g16dy1r16db16r2n2~x2/"><circle cx="228.2" cy="148.1" r="4" fill="#3465a4"><title>Army Medical Services</title></circle></a><a href="/variants/s13/b4r4db44w6db5o4db3o8db3o16b4r22w4/"><circle cx="216.3" cy="128.7" r="4" fill="#3465a4"><title>Largs</title></circle></a><a href="/variants/s10/b29db8y21r3y8b16w3db3w3y8~x2/"><circle cx="243.4" cy="194.3" r="4" fill="#3465a4"><title>Morneau (Quebec), Richard (Personal)</title></circle></a><a href="/variants/s14/n3dg19r2dg2r2db10r17dg2r2dg2r3lb2r3lb3~x2/"><circle cx="208.5" cy="147.7" r="4" fill="#3465a4"><title>Manx Heritage</title></circle></a><a href="/variants/s12/n4w2n2w3n20db6r3db2r2db2r17db3~x2/"><circle cx="238.3" cy="171.2" r="4" fill="#3465a4"><title>Eidart, Scotch House</title></circle></a><a href="/variants/s8/dp24g2o2g2o5g8lr20dy4~x2~o2605035-lr2903322/"><circle cx="194.1" cy="173.8" r="4" fill="#3465a4"><title>Glen Shee #2 (Fashion)</title></circle></a><a href="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/"><circle cx="229.6" cy="173.5" r="4" fill="#3465a4"><title>Toronto Blue Jays</title></circle></a><a href="/variants/s10/dr3b3dr18r2dr2r3dr2r4b18y2~x2/"><circle cx="287.9" cy="186.5" r="4" fill="#3465a4"><title>FC Barcelona (Corporate)</title></circle></a><circle cx="232.4" cy="161.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dy4w2dy2r3dy19lb6db3lb2db2lb2db15dy3~x2/"><circle cx="214.3" cy="159.3" r="4" fill="#3465a4"><title>Cailean (Scotch House)</title></circle></a><a href="/variants/s12/o4w2o2w3o20db6lb3db2lb2db2lb16r3~x2/"><circle cx="198.0" cy="155.1" r="4" fill="#3465a4"><title>Callum, Scotch House</title></circle></a><a href="/variants/s12/r16db2r2db2r2db16g16dy1r16db16r2n2~x2/"><circle cx="228.2" cy="148.4" r="4" fill="#3465a4"><title>Army Medical Services</title></circle></a><a href="/variants/s13/b4r4db44w6db5o4db3o8db3o16b4r22w4/"><circle cx="216.3" cy="128.9" r="4" fill="#3465a4"><title>Largs</title></circle></a><a href="/variants/s10/b29db8y21r3y8b16w3db3w3y8~x2/"><circle cx="243.5" cy="194.6" r="4" fill="#3465a4"><title>Morneau (Quebec), Richard (Personal)</title></circle></a><a href="/variants/s14/n3dg19r2dg2r2db10r17dg2r2dg2r3lb2r3lb3~x2/"><circle cx="208.5" cy="148.0" r="4" fill="#3465a4"><title>Manx Heritage</title></circle></a><a href="/variants/s12/n4w2n2w3n20db6r3db2r2db2r17db3~x2/"><circle cx="238.3" cy="171.6" r="4" fill="#3465a4"><title>Eidart, Scotch House</title></circle></a><a href="/variants/s8/dp24g2o2g2o5g8lr20dy4~x2~o2605035-lr2903322/"><circle cx="194.2" cy="174.2" r="4" fill="#3465a4"><title>Glen Shee #2 (Fashion)</title></circle></a><a href="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/"><circle cx="229.6" cy="173.9" r="4" fill="#3465a4"><title>Toronto Blue Jays</title></circle></a><a href="/variants/s10/dr3b3dr18r2dr2r3dr2r4b18y2~x2/"><circle cx="288.0" cy="186.8" r="4" fill="#3465a4"><title>FC Barcelona (Corporate)</title></circle></a><circle cx="232.4" cy="161.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/o4w2o2r3o19b6db3b2db2b2db15o3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "North Berwick Pipe Band (Dancing)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k10r2k10r10dg2r2dg2r2dg10r1w2/)
 (the same proportion at any scale), whose colour order is pattern [KRKRGRGRGRW](/stripes/krkrgrgrgrw/).
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/o15db2o2db2o2k12ki12k3ki12k12o12db2o2~x2~o2307041-db1406275-ki0700000/"><circle cx="133.4" cy="174.0" r="4" fill="#3465a4"><title>Balmoral Hotel (Corporate)</title></circle></a><a href="/variants/s11/r3k15r2k2r6n16k3n2k3n9w2~x2/"><circle cx="172.7" cy="165.0" r="4" fill="#3465a4"><title>Lunch with an Old Bag (Fundraising Committee)</title></circle></a><a href="/variants/s8/g1r9g3k3g3r1k9w1~x2/"><circle cx="155.9" cy="174.3" r="4" fill="#3465a4"><title>Manson Family Tartan</title></circle></a><a href="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><circle cx="132.5" cy="146.0" r="4" fill="#3465a4"><title>Bonner, (Bonnar)</title></circle></a><a href="/variants/s8/y5db2k2db12k16r20k2r4~x2/"><circle cx="160.9" cy="170.2" r="4" fill="#3465a4"><title>Aitken</title></circle></a><a href="/variants/s12/k6r3k3r24lb4k10r2g4r2g24r6lb2~x2/"><circle cx="174.0" cy="136.2" r="4" fill="#3465a4"><title>Bates (Name)</title></circle></a><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4~db1406275/"><circle cx="100.5" cy="179.2" r="4" fill="#3465a4"><title>Bonner or Bonnar</title></circle></a><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4/"><circle cx="99.1" cy="179.4" r="4" fill="#3465a4"><title>Bonnar (Name)</title></circle></a><a href="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/"><circle cx="160.1" cy="144.3" r="4" fill="#3465a4"><title>Red Watch (Fashion) #3</title></circle></a><a href="/variants/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/"><circle cx="159.1" cy="184.2" r="4" fill="#3465a4"><title>42nd Regiment (Musicians) (Mil.)</title></circle></a><circle cx="148.2" cy="161.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/o15db2o2db2o2k12ki12k3ki12k12o12db2o2~x2~o2307041-db1406275-ki0700000/"><circle cx="133.4" cy="174.5" r="4" fill="#3465a4"><title>Balmoral Hotel (Corporate)</title></circle></a><a href="/variants/s11/r3k15r2k2r6n16k3n2k3n9w2~x2/"><circle cx="172.7" cy="165.5" r="4" fill="#3465a4"><title>Lunch with an Old Bag (Fundraising Committee)</title></circle></a><a href="/variants/s8/g1r9g3k3g3r1k9w1~x2/"><circle cx="155.9" cy="174.9" r="4" fill="#3465a4"><title>Manson Family Tartan</title></circle></a><a href="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><circle cx="132.4" cy="146.4" r="4" fill="#3465a4"><title>Bonner, (Bonnar)</title></circle></a><a href="/variants/s8/y5db2k2db12k16r20k2r4~x2/"><circle cx="160.9" cy="170.6" r="4" fill="#3465a4"><title>Aitken</title></circle></a><a href="/variants/s12/k6r3k3r24lb4k10r2g4r2g24r6lb2~x2/"><circle cx="174.0" cy="136.6" r="4" fill="#3465a4"><title>Bates (Name)</title></circle></a><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4~db1406275/"><circle cx="100.5" cy="179.7" r="4" fill="#3465a4"><title>Bonner or Bonnar</title></circle></a><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4/"><circle cx="99.1" cy="179.9" r="4" fill="#3465a4"><title>Bonnar (Name)</title></circle></a><a href="/variants/s13/r26k2r3k2r3k16g18ly4g18k16r18k2r3~x2/"><circle cx="160.0" cy="144.7" r="4" fill="#3465a4"><title>Red Watch (Fashion) #3</title></circle></a><a href="/variants/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/"><circle cx="159.1" cy="184.7" r="4" fill="#3465a4"><title>42nd Regiment (Musicians) (Mil.)</title></circle></a><circle cx="148.2" cy="161.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k10r2k10r10dg2r2dg2r2dg10r1w2~x2/

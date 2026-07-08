@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Breon"
   url: "/tartans/breon/"
+- name: "Breon (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t25g25k6db10r6/)
 (the same proportion at any scale), whose colour order is pattern [BGKBR](/stripes/bgkbr/).
@@ -14,7 +16,7 @@ Part of the [Breon](/tartans/breon/) tartan — the named design grouping this s
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10488
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10488](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10488)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="114.8" cy="230.9" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="133.3" cy="262.1" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/variants/s6/lb3g8k9db7r2db2~x2/"><circle cx="52.2" cy="240.3" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/variants/s5/k2lb2g8db8w1~x2/"><circle cx="150.1" cy="216.8" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k2lb2g8db8w1/"><circle cx="150.1" cy="216.8" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k4t2g13db13w2~x4/"><circle cx="142.0" cy="220.6" r="4" fill="#3465a4"><title>Bath</title></circle></a><a href="/variants/s5/r2db10k5g12w2~x2/"><circle cx="116.5" cy="226.1" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/k7lb3g18db18w2~x2/"><circle cx="148.9" cy="212.5" r="4" fill="#3465a4"><title>Bhatti (Name)</title></circle></a><a href="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/"><circle cx="199.4" cy="201.6" r="4" fill="#3465a4"><title>Douglas, Green (Wilsons)</title></circle></a><a href="/variants/s5/r1db7k7g7w1~x6/"><circle cx="91.3" cy="223.1" r="4" fill="#3465a4"><title>Davidson of Tulloch (Clan)</title></circle></a><circle cx="118.9" cy="260.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="114.9" cy="231.5" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="133.4" cy="262.7" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/variants/s6/lb3g8k9db7r2db2~x2/"><circle cx="52.3" cy="241.0" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/variants/s5/k2lb2g8db8w1~x2/"><circle cx="150.2" cy="217.4" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k2lb2g8db8w1/"><circle cx="150.2" cy="217.4" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k4t2g13db13w2~x4/"><circle cx="142.0" cy="221.1" r="4" fill="#3465a4"><title>Bath</title></circle></a><a href="/variants/s5/r2db10k5g12w2~x2/"><circle cx="116.6" cy="226.7" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/k7lb3g18db18w2~x2/"><circle cx="148.9" cy="213.0" r="4" fill="#3465a4"><title>Bhatti (Name)</title></circle></a><a href="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/"><circle cx="199.4" cy="202.1" r="4" fill="#3465a4"><title>Douglas, Green (Wilsons)</title></circle></a><a href="/variants/s5/r1db7k7g7w1~x6/"><circle cx="91.3" cy="223.7" r="4" fill="#3465a4"><title>Davidson of Tulloch (Clan)</title></circle></a><circle cx="119.0" cy="261.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/t25g25k6db10r6~x2/

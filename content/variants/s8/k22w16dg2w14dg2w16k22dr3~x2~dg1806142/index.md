@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kierson"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k22w16dg2w14dg2w16k22dr3/)
 (the same proportion at any scale), whose colour order is pattern [BKWGWGWK](/stripes/bkwgwgwk/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1959
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1959](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1959)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k22w16lo2w14lo2w16k22db3~x2/"><circle cx="196.9" cy="187.1" r="4" fill="#3465a4"><title>Kennison</title></circle></a><a href="/variants/s10/y1k4b2k10w1b2w10b1w4y1~x4/"><circle cx="159.8" cy="157.6" r="4" fill="#3465a4"><title>Chieftain</title></circle></a><a href="/variants/s8/dg14r5dg14w5k2r5k2w9~x4/"><circle cx="166.7" cy="203.6" r="4" fill="#3465a4"><title>Unnamed (Hip Flask)</title></circle></a><a href="/variants/s8/r4w19dg2w8dg2w8k38w4~x2/"><circle cx="238.6" cy="136.2" r="4" fill="#3465a4"><title>St. Piran Dress</title></circle></a><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="270.6" cy="176.4" r="4" fill="#3465a4"><title>Forbes Dress (Clans Originaux)</title></circle></a><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="165.0" cy="181.0" r="4" fill="#3465a4"><title>Black &amp; White Golf (Corporate)</title></circle></a><a href="/variants/s7/y9k32g6w20y3w9k5~x2/"><circle cx="163.3" cy="178.9" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/variants/s7/w5r3w35k28w4k11w2~x2/"><circle cx="287.6" cy="163.5" r="4" fill="#3465a4"><title>MacPherson of Cluny (Black and White)</title></circle></a><a href="/variants/s9/k6r2k12y3k6lb16y3lb16k2~x2/"><circle cx="179.0" cy="179.5" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s6/w5k20w2r5w20r2~x2/"><circle cx="239.8" cy="197.8" r="4" fill="#3465a4"><title>Gangs of New York Fashion Check Tartan</title></circle></a><circle cx="196.6" cy="187.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k22w16lo2w14lo2w16k22db3~x2/"><circle cx="196.9" cy="187.7" r="4" fill="#3465a4"><title>Kennison</title></circle></a><a href="/variants/s10/y1k4b2k10w1b2w10b1w4y1~x4/"><circle cx="159.8" cy="158.1" r="4" fill="#3465a4"><title>Chieftain</title></circle></a><a href="/variants/s8/dg14r5dg14w5k2r5k2w9~x4/"><circle cx="166.8" cy="204.2" r="4" fill="#3465a4"><title>Unnamed (Hip Flask)</title></circle></a><a href="/variants/s8/r4w19dg2w8dg2w8k38w4~x2/"><circle cx="238.6" cy="136.6" r="4" fill="#3465a4"><title>St. Piran Dress</title></circle></a><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="270.7" cy="177.0" r="4" fill="#3465a4"><title>Forbes Dress (Clans Originaux)</title></circle></a><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="165.1" cy="181.6" r="4" fill="#3465a4"><title>Black &amp; White Golf (Corporate)</title></circle></a><a href="/variants/s7/y9k32g6w20y3w9k5~x2/"><circle cx="163.3" cy="179.4" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/variants/s7/w5r3w35k28w4k11w2~x2/"><circle cx="287.7" cy="164.0" r="4" fill="#3465a4"><title>MacPherson of Cluny (Black and White)</title></circle></a><a href="/variants/s9/k6r2k12y3k6lb16y3lb16k2~x2/"><circle cx="179.0" cy="180.1" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s6/w5k20w2r5w20r2~x2/"><circle cx="239.9" cy="198.5" r="4" fill="#3465a4"><title>Gangs of New York Fashion Check Tartan</title></circle></a><circle cx="196.6" cy="188.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k22w16dg2w14dg2w16k22dr3~x2~dg1806142/

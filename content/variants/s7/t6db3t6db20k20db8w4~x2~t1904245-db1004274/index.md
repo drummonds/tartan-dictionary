@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Allianz Deutschland 2012"
   url: "/tartans/allianz-deutschland-2012/"
+- name: "Allianz Deutschland 2012"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t6db3t6db20k20db8w4/)
 (the same proportion at any scale), whose colour order is pattern [BBBBKBW](/stripes/bbbbkbw/).
@@ -14,7 +16,7 @@ Part of the [Allianz Deutschland 2012](/tartans/allianz-deutschland-2012/) tarta
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10684
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10684](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10684)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dbi6db3dbi6db20k20db8w4~x2~dbi1406275-db1204274/"><circle cx="206.4" cy="221.9" r="4" fill="#3465a4"><title>Allianz Deutschland 2012 (Corporate)</title></circle></a><a href="/variants/s7/db6w3db21k16dp6k3dp6~x2/"><circle cx="202.8" cy="215.6" r="4" fill="#3465a4"><title>Heritage of Scotland</title></circle></a><a href="/variants/s6/k1db7k4lb1k4b1~x4/"><circle cx="238.5" cy="217.3" r="4" fill="#3465a4"><title>Scottish Express International</title></circle></a><a href="/variants/s6/r5db35k25db8ly10r5~x2/"><circle cx="199.7" cy="208.3" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><a href="/variants/s6/n6k6n21k16db36y4/"><circle cx="207.4" cy="216.8" r="4" fill="#3465a4"><title>Bareback (Corporate)</title></circle></a><a href="/variants/s7/dg21k14dg9b21k3b12dp3~x2/"><circle cx="168.9" cy="235.3" r="4" fill="#3465a4"><title>Scotsman</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="190.0" cy="222.0" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s6/db2y1db7w1k7w2~x6/"><circle cx="178.8" cy="193.2" r="4" fill="#3465a4"><title>Hawick Rugby Club</title></circle></a><a href="/variants/s8/k3r2k14lb2db6lb2db16lb3~x2/"><circle cx="193.4" cy="179.4" r="4" fill="#3465a4"><title>Immanuel Presbyterian Church (Milwaukee)</title></circle></a><a href="/variants/s6/db40k4db12k21g27w4~x2/"><circle cx="206.8" cy="207.8" r="4" fill="#3465a4"><title>Granger (Personal)</title></circle></a><circle cx="195.5" cy="219.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dbi6db3dbi6db20k20db8w4~x2~dbi1406275-db1204274/"><circle cx="206.4" cy="222.4" r="4" fill="#3465a4"><title>Allianz Deutschland 2012 (Corporate)</title></circle></a><a href="/variants/s7/db6w3db21k16dp6k3dp6~x2/"><circle cx="202.9" cy="216.1" r="4" fill="#3465a4"><title>Heritage of Scotland</title></circle></a><a href="/variants/s6/k1db7k4lb1k4b1~x4/"><circle cx="238.5" cy="217.8" r="4" fill="#3465a4"><title>Scottish Express International</title></circle></a><a href="/variants/s6/r5db35k25db8ly10r5~x2/"><circle cx="199.8" cy="208.9" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><a href="/variants/s6/n6k6n21k16db36y4/"><circle cx="207.5" cy="217.2" r="4" fill="#3465a4"><title>Bareback (Corporate)</title></circle></a><a href="/variants/s7/dg21k14dg9b21k3b12dp3~x2/"><circle cx="168.9" cy="235.8" r="4" fill="#3465a4"><title>Scotsman</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="190.1" cy="222.6" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s6/db2y1db7w1k7w2~x6/"><circle cx="178.8" cy="193.7" r="4" fill="#3465a4"><title>Hawick Rugby Club</title></circle></a><a href="/variants/s8/k3r2k14lb2db6lb2db16lb3~x2/"><circle cx="193.4" cy="179.8" r="4" fill="#3465a4"><title>Immanuel Presbyterian Church (Milwaukee)</title></circle></a><a href="/variants/s6/db40k4db12k21g27w4~x2/"><circle cx="206.8" cy="208.4" r="4" fill="#3465a4"><title>Granger (Personal)</title></circle></a><circle cx="195.5" cy="220.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/t6db3t6db20k20db8w4~x2~t1904245-db1004274/

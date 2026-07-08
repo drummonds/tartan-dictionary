@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Weston (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt4db4dp4k4w1/)
 (the same proportion at any scale), whose colour order is pattern [BBBKW](/stripes/bbbkw/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4609
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4609](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4609)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g9k11dp8lb2~x2/"><circle cx="115.4" cy="273.9" r="4" fill="#3465a4"><title>Wilson's No.228</title></circle></a><a href="/variants/s4/b9g9k10lb2~x2/"><circle cx="90.8" cy="283.0" r="4" fill="#3465a4"><title>Wilson's, No 196</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2~dp1607327/"><circle cx="116.0" cy="270.0" r="4" fill="#3465a4"><title>Norwich Collection No. 60</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2/"><circle cx="119.9" cy="272.8" r="4" fill="#3465a4"><title>Wilson's, No 159</title></circle></a><a href="/variants/s4/dp5k5g5w1~x4~dp1607327/"><circle cx="89.0" cy="277.6" r="4" fill="#3465a4"><title>Wilson's No.220</title></circle></a><a href="/variants/s4/db4k5g4r1~x4/"><circle cx="108.4" cy="281.9" r="4" fill="#3465a4"><title>Unidentified pattern #3</title></circle></a><a href="/variants/s4/dp6k5g5r1~x2/"><circle cx="124.9" cy="270.4" r="4" fill="#3465a4"><title>Unidentified No 60</title></circle></a><a href="/variants/s5/r4dg15k15db15lb4~x2/"><circle cx="65.9" cy="264.6" r="4" fill="#3465a4"><title>Dalmeny #1</title></circle></a><a href="/variants/s5/r4g15k15db15w4~x2/"><circle cx="37.1" cy="258.3" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s5/dr4db14k15dg14y4~x2/"><circle cx="107.1" cy="280.0" r="4" fill="#3465a4"><title>Scots Heritage</title></circle></a><circle cx="47.8" cy="293.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g9k11dp8lb2~x2/"><circle cx="115.5" cy="274.7" r="4" fill="#3465a4"><title>Wilson's No.228</title></circle></a><a href="/variants/s4/b9g9k10lb2~x2/"><circle cx="91.0" cy="283.9" r="4" fill="#3465a4"><title>Wilson's, No 196</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2~dp1607327/"><circle cx="116.1" cy="270.8" r="4" fill="#3465a4"><title>Norwich Collection No. 60</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2/"><circle cx="120.1" cy="273.5" r="4" fill="#3465a4"><title>Wilson's, No 159</title></circle></a><a href="/variants/s4/dp5k5g5w1~x4~dp1607327/"><circle cx="89.2" cy="278.5" r="4" fill="#3465a4"><title>Wilson's No.220</title></circle></a><a href="/variants/s4/db4k5g4r1~x4/"><circle cx="108.5" cy="282.7" r="4" fill="#3465a4"><title>Unidentified pattern #3</title></circle></a><a href="/variants/s4/dp6k5g5r1~x2/"><circle cx="125.1" cy="271.1" r="4" fill="#3465a4"><title>Unidentified No 60</title></circle></a><a href="/variants/s5/r4dg15k15db15lb4~x2/"><circle cx="66.0" cy="265.3" r="4" fill="#3465a4"><title>Dalmeny #1</title></circle></a><a href="/variants/s5/r4g15k15db15w4~x2/"><circle cx="37.2" cy="259.0" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s5/dr4db14k15dg14y4~x2/"><circle cx="107.2" cy="280.6" r="4" fill="#3465a4"><title>Scots Heritage</title></circle></a><circle cx="47.9" cy="293.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dt4db4dp4k4w1~x10/

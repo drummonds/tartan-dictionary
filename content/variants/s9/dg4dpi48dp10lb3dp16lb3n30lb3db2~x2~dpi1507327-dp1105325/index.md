@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Heather"
   url: "/tartans/heather-2/"
+- name: "Heather (NSPCC) (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg4dpi48dp10lb3dp16lb3n30lb3db2/)
 (the same proportion at any scale), whose colour order is pattern [BWBWBWBBG](/stripes/bwbwbwbbg/).
@@ -14,7 +16,7 @@ Part of the [Heather](/tartans/heather-2/) tartan — the named design grouping 
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2108
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2108](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2108)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db4lb3n30lb3dp16lb3dp10dpi48g4~x2~dp1105325-dpi1507327/"><circle cx="288.2" cy="150.1" r="4" fill="#3465a4"><title>Heather (RSPCC)</title></circle></a><a href="/variants/s8/dpi13dg16g4dp1g4dp34y1dp1~x2~dpi1607327-dp1105325/"><circle cx="383.3" cy="153.8" r="4" fill="#3465a4"><title>Heather Mead (Personal)</title></circle></a><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db1004274-dbi1406275-w3600000/"><circle cx="301.0" cy="108.4" r="4" fill="#3465a4"><title>University of Dundee</title></circle></a><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db1004274-dbi1406275/"><circle cx="298.5" cy="107.5" r="4" fill="#3465a4"><title>University of Dundee (Corporate)</title></circle></a><circle cx="316.2" cy="153.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db4lb3n30lb3dp16lb3dp10dpi48g4~x2~dp1105325-dpi1507327/"><circle cx="288.2" cy="150.1" r="4" fill="#3465a4"><title>Heather (RSPCC)</title></circle></a><a href="/variants/s8/dpi13dg16g4dp1g4dp34y1dp1~x2~dpi1607327-dp1105325/"><circle cx="383.3" cy="153.8" r="4" fill="#3465a4"><title>Heather Mead (Personal)</title></circle></a><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db1004274-dbi1406275-w3600000/"><circle cx="300.9" cy="108.3" r="4" fill="#3465a4"><title>University of Dundee</title></circle></a><a href="/variants/s10/db5n4r6ly1r9dbi35db5ly1db12w1~x2~db1004274-dbi1406275/"><circle cx="298.4" cy="107.5" r="4" fill="#3465a4"><title>University of Dundee (Corporate)</title></circle></a><circle cx="316.2" cy="153.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dg4dpi48dp10lb3dp16lb3n30lb3db2~x2~dpi1507327-dp1105325/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Innes Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb4k12r2k2r2k2w12y2w3db6w3k2g12k2w3r2/)
 (the same proportion at any scale), whose colour order is pattern [RWKGKWBWGWKRKRKW](/stripes/rwkgkwbwgwkrkrkw/).
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1830
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1830](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1830)
 
 ## Provenance
 
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/k8w9y6w10dp5g6dp5w36db8k8db8k8db8k8db8g38r8/"><circle cx="14.0" cy="116.5" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/variants/s15/lg4k12r2k2r2k2w12y2w3t6k3g12k2w3r2~x3/"><circle cx="14.0" cy="130.5" r="4" fill="#3465a4"><title>Innes Dress (Dance)</title></circle></a><a href="/variants/s20/lb3k3o1k1o1k1o1k1o3lb2k1y1k1o1k2db2w7k1w2o1~x2/"><circle cx="14.9" cy="129.2" r="4" fill="#3465a4"><title>Unidentified 29</title></circle></a><a href="/variants/s13/w4dy4k3dy9g13k3w3k3w3k9y4lb20w3~x2/"><circle cx="14.0" cy="154.2" r="4" fill="#3465a4"><title>Clodagh/Cork</title></circle></a><a href="/variants/s20/lb3k3dy1k1dy1k1dy1k1dy3lb2k1y1k1dy1k2db2w7k1w2dy1~x2/"><circle cx="17.1" cy="132.1" r="4" fill="#3465a4"><title>Unidentified #18</title></circle></a><a href="/variants/s24/k7g9k2ly2k2y2k2g9k7db7r2db3r2db7k7w2k2w11k2w3k2w11k2w2~x4/"><circle cx="14.0" cy="127.8" r="4" fill="#3465a4"><title>Malcolm Dress</title></circle></a><a href="/variants/s15/w13db3w13g10y2k7db5k2db2k2db5r8w2k2r2~x2/"><circle cx="36.6" cy="147.5" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/variants/s24/k2y2k2g9k7w2k3w12k2w4k2w12k3w2k7db7r2db3r2db7k7g9k2lb2~x2/"><circle cx="14.0" cy="125.2" r="4" fill="#3465a4"><title>Malcolm, dress</title></circle></a><a href="/variants/s12/k3lb13m11t3k10w2k10t3g6m3lg13t3~x2~g2007139-lg2909145/"><circle cx="14.0" cy="162.1" r="4" fill="#3465a4"><title>Cascade Summers</title></circle></a><a href="/variants/s12/dy2lb10k2w2k2dy2k2db3g3k2g2w2~x4/"><circle cx="14.0" cy="168.7" r="4" fill="#3465a4"><title>MacSheehy</title></circle></a><circle cx="14.0" cy="125.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/k8w9y6w10dp5g6dp5w36db8k8db8k8db8k8db8g38r8/"><circle cx="14.0" cy="116.8" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/variants/s15/lg4k12r2k2r2k2w12y2w3t6k3g12k2w3r2~x3/"><circle cx="14.0" cy="130.9" r="4" fill="#3465a4"><title>Innes Dress (Dance)</title></circle></a><a href="/variants/s20/lb3k3o1k1o1k1o1k1o3lb2k1y1k1o1k2db2w7k1w2o1~x2/"><circle cx="14.9" cy="129.6" r="4" fill="#3465a4"><title>Unidentified 29</title></circle></a><a href="/variants/s13/w4dy4k3dy9g13k3w3k3w3k9y4lb20w3~x2/"><circle cx="14.0" cy="154.7" r="4" fill="#3465a4"><title>Clodagh/Cork</title></circle></a><a href="/variants/s20/lb3k3dy1k1dy1k1dy1k1dy3lb2k1y1k1dy1k2db2w7k1w2dy1~x2/"><circle cx="17.0" cy="132.5" r="4" fill="#3465a4"><title>Unidentified #18</title></circle></a><a href="/variants/s24/k7g9k2ly2k2y2k2g9k7db7r2db3r2db7k7w2k2w11k2w3k2w11k2w2~x4/"><circle cx="14.0" cy="128.1" r="4" fill="#3465a4"><title>Malcolm Dress</title></circle></a><a href="/variants/s15/w13db3w13g10y2k7db5k2db2k2db5r8w2k2r2~x2/"><circle cx="36.6" cy="147.9" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/variants/s24/k2y2k2g9k7w2k3w12k2w4k2w12k3w2k7db7r2db3r2db7k7g9k2lb2~x2/"><circle cx="14.0" cy="125.5" r="4" fill="#3465a4"><title>Malcolm, dress</title></circle></a><a href="/variants/s12/k3lb13m11t3k10w2k10t3g6m3lg13t3~x2~g2007139-lg2909145/"><circle cx="14.0" cy="162.5" r="4" fill="#3465a4"><title>Cascade Summers</title></circle></a><a href="/variants/s12/dy2lb10k2w2k2dy2k2db3g3k2g2w2~x4/"><circle cx="14.0" cy="169.2" r="4" fill="#3465a4"><title>MacSheehy</title></circle></a><circle cx="14.0" cy="126.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/lb4k12r2k2r2k2w12y2w3db6w3k2g12k2w3r2~x2/

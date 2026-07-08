@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Keeper of the Quaich"
   url: "/tartans/keeper-of-the-quaich/"
+- name: "Keeper of the Quaich"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y3b40db27b3db3b3/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBG](/stripes/bbbbbg/).
@@ -14,7 +16,7 @@ Part of the [Keeper of the Quaich](/tartans/keeper-of-the-quaich/) tartan — th
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db13b1db3b6y1b1~x4/"><circle cx="513.3" cy="245.2" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s7/y4b3y1b17db40b2db3~x2/"><circle cx="526.5" cy="177.1" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s7/y4t3y1t17db40t2db3~x2/"><circle cx="502.5" cy="171.3" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s8/t15db65y7t4y3db30t15w3~x2/"><circle cx="461.5" cy="179.0" r="4" fill="#3465a4"><title>Hoosier (Fashion)</title></circle></a><a href="/variants/s6/db4r1db18t18w1t4~x4/"><circle cx="358.2" cy="200.7" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/variants/s9/y2dbi3r3dbi28db3dbi3db12r3w2~x2~dbi1406275-db1004274/"><circle cx="374.0" cy="160.0" r="4" fill="#3465a4"><title>Royal Scottish Corporation</title></circle></a><a href="/variants/s8/dy12dbi2dy2dbi30db3dbi2db13w4~x2~dbi1406275-db1204274/"><circle cx="379.3" cy="209.9" r="4" fill="#3465a4"><title>Highlands School (N. Carolina) Corporate Tartan</title></circle></a><a href="/variants/s6/w4db25b25db2b5w2~x2/"><circle cx="369.8" cy="243.4" r="4" fill="#3465a4"><title>Douglas, Variation</title></circle></a><a href="/variants/s6/bi3db1b16db16b2lb2~x4~bi2706275-b1709272/"><circle cx="425.5" cy="248.4" r="4" fill="#3465a4"><title>U.S.S. John Paul Jones (Military)</title></circle></a><a href="/variants/s8/db9t2db2y1t7db2r1t4~x4/"><circle cx="318.5" cy="232.7" r="4" fill="#3465a4"><title>Mercer, Charles</title></circle></a><circle cx="492.5" cy="241.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db13b1db3b6y1b1~x4/"><circle cx="513.5" cy="245.5" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s7/y4b3y1b17db40b2db3~x2/"><circle cx="526.5" cy="177.1" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s7/y4t3y1t17db40t2db3~x2/"><circle cx="502.5" cy="171.4" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s8/t15db65y7t4y3db30t15w3~x2/"><circle cx="461.5" cy="179.2" r="4" fill="#3465a4"><title>Hoosier (Fashion)</title></circle></a><a href="/variants/s6/db4r1db18t18w1t4~x4/"><circle cx="358.3" cy="201.0" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/variants/s9/y2dbi3r3dbi28db3dbi3db12r3w2~x2~dbi1406275-db1004274/"><circle cx="374.0" cy="160.1" r="4" fill="#3465a4"><title>Royal Scottish Corporation</title></circle></a><a href="/variants/s8/dy12dbi2dy2dbi30db3dbi2db13w4~x2~dbi1406275-db1204274/"><circle cx="379.4" cy="210.0" r="4" fill="#3465a4"><title>Highlands School (N. Carolina) Corporate Tartan</title></circle></a><a href="/variants/s6/w4db25b25db2b5w2~x2/"><circle cx="369.9" cy="243.9" r="4" fill="#3465a4"><title>Douglas, Variation</title></circle></a><a href="/variants/s6/bi3db1b16db16b2lb2~x4~bi2706275-b1709272/"><circle cx="425.6" cy="248.5" r="4" fill="#3465a4"><title>U.S.S. John Paul Jones (Military)</title></circle></a><a href="/variants/s8/db9t2db2y1t7db2r1t4~x4/"><circle cx="318.6" cy="233.1" r="4" fill="#3465a4"><title>Mercer, Charles</title></circle></a><circle cx="492.6" cy="241.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/y3b40db27b3db3b3/

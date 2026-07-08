@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ballindalloch (Estate Check)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg1ly1/)
 (the same proportion at any scale), whose colour order is pattern [GYGYGYGY](/stripes/gygygygy/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3641
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3641](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3641)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Commonwealth, Games 1986"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db12w4r12w5k4w12db20r4db5r4/)
 (the same proportion at any scale), whose colour order is pattern [BWRWKWBRBR](/stripes/bwrwkwbrbr/).
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4/"><circle cx="145.4" cy="218.9" r="4" fill="#3465a4"><title>Commonwealth Games 1986 (Corporate)</title></circle></a><a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4~db1406275/"><circle cx="150.3" cy="219.1" r="4" fill="#3465a4"><title>Commonwealth Games 1986</title></circle></a><a href="/variants/s10/db12w4r12w5k4o12db20r4db5r4~x2/"><circle cx="122.8" cy="197.1" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s10/lb7k2w2k2w2k2lb7t4k10w2~x4~lb3103284-t2405244/"><circle cx="113.5" cy="208.1" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/variants/s12/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2/"><circle cx="154.8" cy="224.4" r="4" fill="#3465a4"><title>Westgaard Ladies' (Personal)</title></circle></a><a href="/variants/s13/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/"><circle cx="114.1" cy="184.3" r="4" fill="#3465a4"><title>Poulter SG 102 (Fashion)</title></circle></a><a href="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/"><circle cx="110.6" cy="200.5" r="4" fill="#3465a4"><title>Edinburgh, City of</title></circle></a><a href="/variants/s9/db23k4db4r4db4r25w4k4w4~x2/"><circle cx="173.5" cy="176.1" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="193.7" cy="241.9" r="4" fill="#3465a4"><title>Edinburgh Bus Company (Corporate)</title></circle></a><a href="/variants/s10/dr3lb6k1dr1k1lb6dr2db6b1db3~x4~db1208266-b2603265/"><circle cx="113.9" cy="191.4" r="4" fill="#3465a4"><title>Ballater</title></circle></a><circle cx="147.4" cy="215.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4/"><circle cx="145.5" cy="219.6" r="4" fill="#3465a4"><title>Commonwealth Games 1986 (Corporate)</title></circle></a><a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4~db1406275/"><circle cx="150.4" cy="219.8" r="4" fill="#3465a4"><title>Commonwealth Games 1986</title></circle></a><a href="/variants/s10/db12w4r12w5k4o12db20r4db5r4~x2/"><circle cx="122.9" cy="197.7" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s10/lb7k2w2k2w2k2lb7t4k10w2~x4~lb3103284-t2405244/"><circle cx="113.6" cy="208.7" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/variants/s12/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2/"><circle cx="154.9" cy="225.0" r="4" fill="#3465a4"><title>Westgaard Ladies' (Personal)</title></circle></a><a href="/variants/s13/w25dp8w8dp8w8dp46k46lp8k46dp46w46dp8w8/"><circle cx="114.1" cy="184.9" r="4" fill="#3465a4"><title>Poulter SG 102 (Fashion)</title></circle></a><a href="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/"><circle cx="110.7" cy="201.1" r="4" fill="#3465a4"><title>Edinburgh, City of</title></circle></a><a href="/variants/s9/db23k4db4r4db4r25w4k4w4~x2/"><circle cx="173.5" cy="176.6" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="193.8" cy="242.6" r="4" fill="#3465a4"><title>Edinburgh Bus Company (Corporate)</title></circle></a><a href="/variants/s10/dr3lb6k1dr1k1lb6dr2db6b1db3~x4~db1208266-b2603265/"><circle cx="113.9" cy="191.9" r="4" fill="#3465a4"><title>Ballater</title></circle></a><circle cx="147.5" cy="216.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db12w4r12w5k4w12db20r4db5r4~x2/

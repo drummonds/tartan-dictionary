@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bomb Disposal"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k28r3y2r3k13g28k1g3k1g16/)
 (the same proportion at any scale), whose colour order is pattern [GKGKGKRGRK](/stripes/gkgkgkrgrk/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11225
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11225](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11225)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k28dr3y2dr3k13g28w1g3w1g16~x2/"><circle cx="237.1" cy="106.7" r="4" fill="#3465a4"><title>Bomb Disposal</title></circle></a><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/"><circle cx="210.9" cy="112.6" r="4" fill="#3465a4"><title>Stansbury (2014)</title></circle></a><a href="/variants/s11/k8g1k20g1k4g1k3g4w2g24dy3~x2/"><circle cx="261.4" cy="110.5" r="4" fill="#3465a4"><title>Malone (2016)</title></circle></a><a href="/variants/s10/k7g6ly3k12dr19k12g62k62g12dr7/"><circle cx="233.5" cy="129.0" r="4" fill="#3465a4"><title>Danareth (Corporate)</title></circle></a><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/"><circle cx="253.7" cy="89.3" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/variants/s10/k7g6y3k12dr19k12g62k62g12dr7/"><circle cx="235.3" cy="129.5" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/variants/s12/lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1~x2/"><circle cx="223.5" cy="86.5" r="4" fill="#3465a4"><title>Walker, Gauvin (Personal)</title></circle></a><a href="/variants/s10/k37g27w2k4r6k4w2g27k37y2~x2/"><circle cx="245.4" cy="118.1" r="4" fill="#3465a4"><title>Highlands of Durham #2</title></circle></a><a href="/variants/s7/r3g14k2b2g14k36y3~x2/"><circle cx="243.8" cy="129.7" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/"><circle cx="243.6" cy="108.4" r="4" fill="#3465a4"><title>Sarafilovic (Corporate)</title></circle></a><circle cx="232.7" cy="102.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k28dr3y2dr3k13g28w1g3w1g16~x2/"><circle cx="237.0" cy="106.9" r="4" fill="#3465a4"><title>Bomb Disposal</title></circle></a><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/"><circle cx="210.8" cy="112.9" r="4" fill="#3465a4"><title>Stansbury (2014)</title></circle></a><a href="/variants/s11/k8g1k20g1k4g1k3g4w2g24dy3~x2/"><circle cx="261.3" cy="110.8" r="4" fill="#3465a4"><title>Malone (2016)</title></circle></a><a href="/variants/s10/k7g6ly3k12dr19k12g62k62g12dr7/"><circle cx="233.4" cy="129.3" r="4" fill="#3465a4"><title>Danareth (Corporate)</title></circle></a><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/"><circle cx="253.6" cy="89.5" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/variants/s10/k7g6y3k12dr19k12g62k62g12dr7/"><circle cx="235.3" cy="129.8" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/variants/s12/lr1lb3k2g5dp4g1k14lb1k4g25lb2lr1~x2/"><circle cx="223.3" cy="86.6" r="4" fill="#3465a4"><title>Walker, Gauvin (Personal)</title></circle></a><a href="/variants/s10/k37g27w2k4r6k4w2g27k37y2~x2/"><circle cx="245.3" cy="118.4" r="4" fill="#3465a4"><title>Highlands of Durham #2</title></circle></a><a href="/variants/s7/r3g14k2b2g14k36y3~x2/"><circle cx="243.7" cy="130.0" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/"><circle cx="243.5" cy="108.6" r="4" fill="#3465a4"><title>Sarafilovic (Corporate)</title></circle></a><circle cx="232.5" cy="102.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k28r3y2r3k13g28k1g3k1g16~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacDiarmid"
   url: "/tartans/macdiarmid/"
+- name: "MacDiarmid"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k12r2k28dg12k1w3k1dg12r4/)
 (the same proportion at any scale), whose colour order is pattern [KRKGKWKGR](/stripes/krkgkwkgr/).
@@ -14,7 +16,7 @@ Part of the [MacDiarmid](/tartans/macdiarmid/) tartan — the named design group
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2329
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2329](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2329)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k12r2k28g12k1w3k1g12r4~x2/"><circle cx="272.2" cy="116.4" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/variants/s9/k6dg55g6k85g4k4dg12k2w5~dg1806142-g2408144/"><circle cx="317.2" cy="85.2" r="4" fill="#3465a4"><title>Dropkick Murphys</title></circle></a><a href="/variants/s10/k37g27w2k4r6k4w2g27k37y2~x2/"><circle cx="245.4" cy="118.1" r="4" fill="#3465a4"><title>Highlands of Durham #2</title></circle></a><a href="/variants/s8/k22g11k2g4k2g6k58lb6~x2/"><circle cx="277.0" cy="130.4" r="4" fill="#3465a4"><title>Stewart of Bute Hunting Clan/Family Tartan</title></circle></a><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/"><circle cx="253.7" cy="89.3" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/variants/s11/k48dp5k9g3k2g3k2g14dp7dy2dp10~x2/"><circle cx="315.7" cy="100.7" r="4" fill="#3465a4"><title>Paxton (Personal)</title></circle></a><a href="/variants/s11/dt8k2o2dt2k13dt2k2ly1dt14k26ly2~x2/"><circle cx="339.8" cy="115.5" r="4" fill="#3465a4"><title>Pride of Scotland Hunting/Dark Fashion Tartan</title></circle></a><a href="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/"><circle cx="276.9" cy="138.0" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles)</title></circle></a><a href="/variants/s10/k7g6y3k12dr19k12g62k62g12dr7/"><circle cx="235.3" cy="129.5" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/variants/s10/k7g6ly3k12dr19k12g62k62g12dr7/"><circle cx="233.5" cy="129.0" r="4" fill="#3465a4"><title>Danareth (Corporate)</title></circle></a><circle cx="296.0" cy="120.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k12r2k28g12k1w3k1g12r4~x2/"><circle cx="272.1" cy="116.7" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/variants/s9/k6dg55g6k85g4k4dg12k2w5~dg1806142-g2408144/"><circle cx="317.0" cy="85.3" r="4" fill="#3465a4"><title>Dropkick Murphys</title></circle></a><a href="/variants/s10/k37g27w2k4r6k4w2g27k37y2~x2/"><circle cx="245.3" cy="118.4" r="4" fill="#3465a4"><title>Highlands of Durham #2</title></circle></a><a href="/variants/s8/k22g11k2g4k2g6k58lb6~x2/"><circle cx="276.9" cy="130.6" r="4" fill="#3465a4"><title>Stewart of Bute Hunting Clan/Family Tartan</title></circle></a><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/"><circle cx="253.6" cy="89.5" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/variants/s11/k48dp5k9g3k2g3k2g14dp7dy2dp10~x2/"><circle cx="315.6" cy="100.8" r="4" fill="#3465a4"><title>Paxton (Personal)</title></circle></a><a href="/variants/s11/dt8k2o2dt2k13dt2k2ly1dt14k26ly2~x2/"><circle cx="339.7" cy="115.7" r="4" fill="#3465a4"><title>Pride of Scotland Hunting/Dark Fashion Tartan</title></circle></a><a href="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/"><circle cx="276.9" cy="138.3" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles)</title></circle></a><a href="/variants/s10/k7g6y3k12dr19k12g62k62g12dr7/"><circle cx="235.3" cy="129.8" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/variants/s10/k7g6ly3k12dr19k12g62k62g12dr7/"><circle cx="233.4" cy="129.3" r="4" fill="#3465a4"><title>Danareth (Corporate)</title></circle></a><circle cx="295.9" cy="120.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Milne Purple Dress (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w12db2w12o17w12db2w5r2/)
 (the same proportion at any scale), whose colour order is pattern [RWBWRWBW](/stripes/rwbwrwbw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2956
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2956](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2956)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w12lb2w12r17w12lb2w5dp2~x4/"><circle cx="335.8" cy="220.4" r="4" fill="#3465a4"><title>Milne, Dress (Dance)</title></circle></a><a href="/variants/s8/w18db4w18r30w18db4w9dp4/"><circle cx="285.9" cy="220.6" r="4" fill="#3465a4"><title>Milne, dress</title></circle></a><a href="/variants/s8/w12lb2w12db17w12lb2w5r2~x4/"><circle cx="305.4" cy="217.1" r="4" fill="#3465a4"><title>Milne Royal Blue Dress (Dance)</title></circle></a><a href="/variants/s8/w24t5w24db36w28t6w12r6/"><circle cx="280.0" cy="229.3" r="4" fill="#3465a4"><title>Milne Royal Blue Dress Fashion Tartan</title></circle></a><a href="/variants/s8/w12r2w12g17w12r2w5b2~x4/"><circle cx="327.8" cy="226.9" r="4" fill="#3465a4"><title>Milne, Green (Dance)</title></circle></a><a href="/variants/s8/w12dg2w12r17w12dg2w5p2~x4/"><circle cx="322.1" cy="215.4" r="4" fill="#3465a4"><title>Milne (Personal)</title></circle></a><a href="/variants/s14/w5db2w12o17w12db2w12db2w12o17w12db2w5r2~x4~r2109032/"><circle cx="295.8" cy="199.1" r="4" fill="#3465a4"><title>Milne Purple Dress Tartan</title></circle></a><a href="/variants/s9/w14lb3w14y1dg20w15lb3w7dp3~x2/"><circle cx="311.0" cy="172.0" r="4" fill="#3465a4"><title>Milne dress green</title></circle></a><a href="/variants/s9/w2r1w2g6w10r6w2g1w2~x4/"><circle cx="303.2" cy="213.7" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1999 (Corporate)</title></circle></a><a href="/variants/s14/w5lb2w12r17w12lb2w12lb2w12r17w12lb2w5dp2~x4/"><circle cx="311.4" cy="200.0" r="4" fill="#3465a4"><title>Milne Dress Fancy Tartan</title></circle></a><circle cx="324.4" cy="220.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w12lb2w12r17w12lb2w5dp2~x4/"><circle cx="335.9" cy="221.1" r="4" fill="#3465a4"><title>Milne, Dress (Dance)</title></circle></a><a href="/variants/s8/w18db4w18r30w18db4w9dp4/"><circle cx="286.1" cy="221.3" r="4" fill="#3465a4"><title>Milne, dress</title></circle></a><a href="/variants/s8/w12lb2w12db17w12lb2w5r2~x4/"><circle cx="305.5" cy="217.8" r="4" fill="#3465a4"><title>Milne Royal Blue Dress (Dance)</title></circle></a><a href="/variants/s8/w24t5w24db36w28t6w12r6/"><circle cx="280.2" cy="230.1" r="4" fill="#3465a4"><title>Milne Royal Blue Dress Fashion Tartan</title></circle></a><a href="/variants/s8/w12r2w12g17w12r2w5b2~x4/"><circle cx="328.0" cy="227.6" r="4" fill="#3465a4"><title>Milne, Green (Dance)</title></circle></a><a href="/variants/s8/w12dg2w12r17w12dg2w5p2~x4/"><circle cx="322.3" cy="216.2" r="4" fill="#3465a4"><title>Milne (Personal)</title></circle></a><a href="/variants/s14/w5db2w12o17w12db2w12db2w12o17w12db2w5r2~x4~r2109032/"><circle cx="295.9" cy="199.7" r="4" fill="#3465a4"><title>Milne Purple Dress Tartan</title></circle></a><a href="/variants/s9/w14lb3w14y1dg20w15lb3w7dp3~x2/"><circle cx="311.1" cy="172.5" r="4" fill="#3465a4"><title>Milne dress green</title></circle></a><a href="/variants/s9/w2r1w2g6w10r6w2g1w2~x4/"><circle cx="303.4" cy="214.3" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1999 (Corporate)</title></circle></a><a href="/variants/s14/w5lb2w12r17w12lb2w12lb2w12r17w12lb2w5dp2~x4/"><circle cx="311.5" cy="200.6" r="4" fill="#3465a4"><title>Milne Dress Fancy Tartan</title></circle></a><circle cx="324.5" cy="220.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/w12db2w12o17w12db2w5r2~x4/

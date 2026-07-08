@@ -4,6 +4,8 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Collinet (Personal)"
+  url: ""
 slug_full: "ly102ri6g6ri6lr6ri6dg6ri6dg6dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1r8dg4lr4~ri2307033-r1908022"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly102ri6g6ri6lr6ri6dg6ri6dg6dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1ri1dr1r8dg4lr4/)
@@ -11,7 +13,7 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 
 Sourced from tartans-authority.  It is a [69 stripe tartan](/stripes/stripes69/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8273
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8273](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8273)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

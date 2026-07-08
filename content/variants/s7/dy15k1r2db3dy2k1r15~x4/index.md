@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Scrymgeour"
   url: "/tartans/scrymgeour/"
+- name: "Scrymgeour Family Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy15k1r2db3dy2k1r15/)
 (the same proportion at any scale), whose colour order is pattern [GKRBGKR](/stripes/gkrbgkr/).
@@ -14,7 +16,7 @@ Part of the [Scrymgeour](/tartans/scrymgeour/) tartan — the named design group
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1627
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1627](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1627)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r15k1y2db3r2k1y15~x6/"><circle cx="298.0" cy="163.4" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s7/r15k1y2db3r2k1y15~x3/"><circle cx="298.0" cy="163.4" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s7/r46k3y6db8r6k3y46/"><circle cx="306.4" cy="161.9" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s6/r4k2dg28r38k1ly4~x2/"><circle cx="348.3" cy="116.4" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/"><circle cx="244.4" cy="149.5" r="4" fill="#3465a4"><title>Scrymgeour (Clan)</title></circle></a><a href="/variants/s6/y8k3y4k2r30y6~x2/"><circle cx="369.0" cy="172.2" r="4" fill="#3465a4"><title>Masai Shuka 16 (Artefact)</title></circle></a><a href="/variants/s7/r33k8dy12g12r8dy2r8~x2/"><circle cx="298.9" cy="165.2" r="4" fill="#3465a4"><title>Tipperary, County</title></circle></a><a href="/variants/s7/g6r2dp2g4dp2r12k1~x2/"><circle cx="257.3" cy="179.2" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><a href="/variants/s7/r107k9r5dp41r5g51r14/"><circle cx="325.0" cy="138.6" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/variants/s7/dp32g16r14k4r6dp7k2~x2/"><circle cx="247.9" cy="168.2" r="4" fill="#3465a4"><title>Aisteach</title></circle></a><circle cx="284.7" cy="156.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r15k1y2db3r2k1y15~x6/"><circle cx="298.0" cy="163.7" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s7/r15k1y2db3r2k1y15~x3/"><circle cx="298.0" cy="163.7" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s7/r46k3y6db8r6k3y46/"><circle cx="306.4" cy="162.2" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s6/r4k2dg28r38k1ly4~x2/"><circle cx="348.3" cy="116.7" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/"><circle cx="244.4" cy="149.9" r="4" fill="#3465a4"><title>Scrymgeour (Clan)</title></circle></a><a href="/variants/s6/y8k3y4k2r30y6~x2/"><circle cx="369.1" cy="172.6" r="4" fill="#3465a4"><title>Masai Shuka 16 (Artefact)</title></circle></a><a href="/variants/s7/r33k8dy12g12r8dy2r8~x2/"><circle cx="299.0" cy="165.7" r="4" fill="#3465a4"><title>Tipperary, County</title></circle></a><a href="/variants/s7/g6r2dp2g4dp2r12k1~x2/"><circle cx="257.3" cy="179.7" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><a href="/variants/s7/r107k9r5dp41r5g51r14/"><circle cx="325.0" cy="138.9" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/variants/s7/dp32g16r14k4r6dp7k2~x2/"><circle cx="247.9" cy="168.6" r="4" fill="#3465a4"><title>Aisteach</title></circle></a><circle cx="284.7" cy="157.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dy15k1r2db3dy2k1r15~x4/

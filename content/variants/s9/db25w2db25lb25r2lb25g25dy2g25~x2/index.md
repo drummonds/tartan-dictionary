@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Royal Columbian"
   url: "/tartans/royal-columbian/"
+- name: "Royal Columbian Canadian Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db25w2db25lb25r2lb25g25dy2g25/)
 (the same proportion at any scale), whose colour order is pattern [BWBWRWGGG](/stripes/bwbwrwggg/).
@@ -14,7 +16,7 @@ Part of the [Royal Columbian](/tartans/royal-columbian/) tartan — the named de
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1900
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1900](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1900)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/"><circle cx="132.3" cy="198.0" r="4" fill="#3465a4"><title>Royal Columbian</title></circle></a><a href="/variants/s10/lb6g20lb6w15db5w2db15n4db10r2~x2/"><circle cx="100.6" cy="181.1" r="4" fill="#3465a4"><title>Copar a'Beannichte Dress (Personal)</title></circle></a><a href="/variants/s9/dg20g6w15db5w2db15n4db10r2~x2~dg1806142-g2504202/"><circle cx="116.5" cy="181.7" r="4" fill="#3465a4"><title>Copar a'Beannichte Dress (Personal)</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10ly1~x2/"><circle cx="234.8" cy="183.8" r="4" fill="#3465a4"><title>Heckenberg Htg (Personal)</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><circle cx="240.3" cy="185.5" r="4" fill="#3465a4"><title>Graeme Heckenberg Hunting</title></circle></a><a href="/variants/s12/lb16g2lb16db18y2db13g11r2g9db12r2y2~x2~g2408144/"><circle cx="134.7" cy="176.6" r="4" fill="#3465a4"><title>E.C.R. (Corporate)</title></circle></a><a href="/variants/s10/ly7g11db4lb31db4g11dy4db14w3db4~x2/"><circle cx="140.9" cy="179.6" r="4" fill="#3465a4"><title>State Seal of Nebraska (Fashion)</title></circle></a><a href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/"><circle cx="207.2" cy="197.5" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s8/b4y2b16db15g16w3g3w4~x2/"><circle cx="163.2" cy="228.5" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/variants/s12/lb18db3lb10db3lb10db14ly2r7ly2g14ly2db14~x2/"><circle cx="150.2" cy="195.4" r="4" fill="#3465a4"><title>Ralston (UK)</title></circle></a><circle cx="138.8" cy="195.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/"><circle cx="132.3" cy="198.4" r="4" fill="#3465a4"><title>Royal Columbian</title></circle></a><a href="/variants/s10/lb6g20lb6w15db5w2db15n4db10r2~x2/"><circle cx="100.7" cy="181.5" r="4" fill="#3465a4"><title>Copar a'Beannichte Dress (Personal)</title></circle></a><a href="/variants/s9/dg20g6w15db5w2db15n4db10r2~x2~dg1806142-g2504202/"><circle cx="116.5" cy="182.1" r="4" fill="#3465a4"><title>Copar a'Beannichte Dress (Personal)</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10ly1~x2/"><circle cx="234.9" cy="184.2" r="4" fill="#3465a4"><title>Heckenberg Htg (Personal)</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><circle cx="240.3" cy="185.9" r="4" fill="#3465a4"><title>Graeme Heckenberg Hunting</title></circle></a><a href="/variants/s12/lb16g2lb16db18y2db13g11r2g9db12r2y2~x2~g2408144/"><circle cx="134.7" cy="177.0" r="4" fill="#3465a4"><title>E.C.R. (Corporate)</title></circle></a><a href="/variants/s10/ly7g11db4lb31db4g11dy4db14w3db4~x2/"><circle cx="141.0" cy="180.0" r="4" fill="#3465a4"><title>State Seal of Nebraska (Fashion)</title></circle></a><a href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/"><circle cx="207.2" cy="197.9" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s8/b4y2b16db15g16w3g3w4~x2/"><circle cx="163.3" cy="229.0" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/variants/s12/lb18db3lb10db3lb10db14ly2r7ly2g14ly2db14~x2/"><circle cx="150.3" cy="195.8" r="4" fill="#3465a4"><title>Ralston (UK)</title></circle></a><circle cx="138.8" cy="195.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db25w2db25lb25r2lb25g25dy2g25~x2/

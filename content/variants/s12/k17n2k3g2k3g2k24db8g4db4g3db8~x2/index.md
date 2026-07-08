@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Kells Irish Pubs"
   url: "/tartans/kells-irish-pubs/"
+- name: "Kells Irish Pubs"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k17n2k3g2k3g2k24db8g4db4g3db8/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBKGKGKBK](/stripes/bgbgbkgkgkbk/).
@@ -14,7 +16,7 @@ Part of the [Kells Irish Pubs](/tartans/kells-irish-pubs/) tartan — the named 
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10106
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10106](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10106)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k17n2k3g2k3g2k24t8g4t4g3t8~x2/"><circle cx="259.9" cy="141.6" r="4" fill="#3465a4"><title>Kells Irish Pubs (Corporate)</title></circle></a><a href="/variants/s12/g12k40db4lb4db4k28db7k8db7k8db10r4/"><circle cx="269.9" cy="140.1" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s14/k4b2k2dg14b2k2b2k4dg2k16b2k2b1k4~x2/"><circle cx="309.4" cy="137.5" r="4" fill="#3465a4"><title>Drummond, (Grey)</title></circle></a><a href="/variants/s13/k1w1k8dg1k1db8k1dg8k1db1k8w1k1~x6/"><circle cx="220.9" cy="155.2" r="4" fill="#3465a4"><title>Chess</title></circle></a><a href="/variants/s16/db14k21r2k3db4k21r3w3r3k21db4k3r2k21db14w3~x2/"><circle cx="282.2" cy="138.4" r="4" fill="#3465a4"><title>Royal Naval Association</title></circle></a><a href="/variants/s11/k1b1dg7k8b1k8b1dg2b1k4b1~x4/"><circle cx="306.0" cy="188.3" r="4" fill="#3465a4"><title>Clergy, or Priest</title></circle></a><a href="/variants/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/"><circle cx="214.1" cy="161.0" r="4" fill="#3465a4"><title>Chess (Universal)</title></circle></a><a href="/variants/s8/r6k55db8g6db10g6db6g4~x2/"><circle cx="272.0" cy="135.3" r="4" fill="#3465a4"><title>Frederiction Police Force</title></circle></a><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="244.7" cy="156.8" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/"><circle cx="224.1" cy="137.2" r="4" fill="#3465a4"><title>Shadow Halls</title></circle></a><circle cx="284.7" cy="146.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k17n2k3g2k3g2k24t8g4t4g3t8~x2/"><circle cx="259.8" cy="141.9" r="4" fill="#3465a4"><title>Kells Irish Pubs (Corporate)</title></circle></a><a href="/variants/s12/g12k40db4lb4db4k28db7k8db7k8db10r4/"><circle cx="269.9" cy="140.4" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s14/k4b2k2dg14b2k2b2k4dg2k16b2k2b1k4~x2/"><circle cx="309.3" cy="137.8" r="4" fill="#3465a4"><title>Drummond, (Grey)</title></circle></a><a href="/variants/s13/k1w1k8dg1k1db8k1dg8k1db1k8w1k1~x6/"><circle cx="220.8" cy="155.5" r="4" fill="#3465a4"><title>Chess</title></circle></a><a href="/variants/s16/db14k21r2k3db4k21r3w3r3k21db4k3r2k21db14w3~x2/"><circle cx="282.1" cy="138.7" r="4" fill="#3465a4"><title>Royal Naval Association</title></circle></a><a href="/variants/s11/k1b1dg7k8b1k8b1dg2b1k4b1~x4/"><circle cx="306.0" cy="188.7" r="4" fill="#3465a4"><title>Clergy, or Priest</title></circle></a><a href="/variants/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/"><circle cx="214.1" cy="161.4" r="4" fill="#3465a4"><title>Chess (Universal)</title></circle></a><a href="/variants/s8/r6k55db8g6db10g6db6g4~x2/"><circle cx="271.9" cy="135.6" r="4" fill="#3465a4"><title>Frederiction Police Force</title></circle></a><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="244.7" cy="157.2" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/"><circle cx="224.1" cy="137.5" r="4" fill="#3465a4"><title>Shadow Halls</title></circle></a><circle cx="284.7" cy="147.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k17n2k3g2k3g2k24db8g4db4g3db8~x2/

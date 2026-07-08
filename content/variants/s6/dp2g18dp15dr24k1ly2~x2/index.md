@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Miller, Reverend Ian (Personal"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp2g18dp15dr24k1ly2/)
 (the same proportion at any scale), whose colour order is pattern [BGBBKY](/stripes/bgbbky/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8541
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8541](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8541)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k8lo2n30dr30lb3~x2/"><circle cx="251.4" cy="185.1" r="4" fill="#3465a4"><title>Douglas Ancient Red</title></circle></a><a href="/variants/s6/r1n12k6ly1do10r1~x4/"><circle cx="195.9" cy="180.5" r="4" fill="#3465a4"><title>Andover (Fashion)</title></circle></a><a href="/variants/s5/r1n12k7do10r1~x4/"><circle cx="194.0" cy="176.7" r="4" fill="#3465a4"><title>Andover</title></circle></a><a href="/variants/s7/y1db14r28dg14r1g14y1~x2/"><circle cx="233.3" cy="152.5" r="4" fill="#3465a4"><title>Abernethy (Colerain, USA)</title></circle></a><a href="/variants/s7/r2n18k2n3k20dy30w2~x2/"><circle cx="198.9" cy="155.8" r="4" fill="#3465a4"><title>Bennett, J P. (Personal)</title></circle></a><a href="/variants/s6/n3r18k2dg18k24ri1~x2~r1706009-ri2109032/"><circle cx="213.7" cy="152.0" r="4" fill="#3465a4"><title>205 (Scottish) Field Hospital (Mil.)</title></circle></a><a href="/variants/s8/lb5k1r30dp15r8g30r8dp2~x2/"><circle cx="254.7" cy="126.4" r="4" fill="#3465a4"><title>Shaw Red of Tordarroch Dress (Clan 2</title></circle></a><a href="/variants/s8/lb5k1r30dp15r8g30r8dp2/"><circle cx="254.7" cy="126.4" r="4" fill="#3465a4"><title>Shaw of Tordarroch Clan Tartan</title></circle></a><a href="/variants/s7/dp18k7g5r4g7k1dy2~x2/"><circle cx="183.8" cy="154.4" r="4" fill="#3465a4"><title>Regent</title></circle></a><a href="/variants/s7/dp18k7g5r4g7k1y2~x2/"><circle cx="181.1" cy="153.6" r="4" fill="#3465a4"><title>Regent</title></circle></a><circle cx="242.8" cy="163.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k8lo2n30dr30lb3~x2/"><circle cx="251.4" cy="185.5" r="4" fill="#3465a4"><title>Douglas Ancient Red</title></circle></a><a href="/variants/s6/r1n12k6ly1do10r1~x4/"><circle cx="195.9" cy="180.9" r="4" fill="#3465a4"><title>Andover (Fashion)</title></circle></a><a href="/variants/s5/r1n12k7do10r1~x4/"><circle cx="194.0" cy="177.1" r="4" fill="#3465a4"><title>Andover</title></circle></a><a href="/variants/s7/y1db14r28dg14r1g14y1~x2/"><circle cx="233.3" cy="152.8" r="4" fill="#3465a4"><title>Abernethy (Colerain, USA)</title></circle></a><a href="/variants/s7/r2n18k2n3k20dy30w2~x2/"><circle cx="198.9" cy="156.1" r="4" fill="#3465a4"><title>Bennett, J P. (Personal)</title></circle></a><a href="/variants/s6/n3r18k2dg18k24ri1~x2~r1706009-ri2109032/"><circle cx="213.6" cy="152.3" r="4" fill="#3465a4"><title>205 (Scottish) Field Hospital (Mil.)</title></circle></a><a href="/variants/s8/lb5k1r30dp15r8g30r8dp2~x2/"><circle cx="254.7" cy="126.6" r="4" fill="#3465a4"><title>Shaw Red of Tordarroch Dress (Clan 2</title></circle></a><a href="/variants/s8/lb5k1r30dp15r8g30r8dp2/"><circle cx="254.7" cy="126.6" r="4" fill="#3465a4"><title>Shaw of Tordarroch Clan Tartan</title></circle></a><a href="/variants/s7/dp18k7g5r4g7k1dy2~x2/"><circle cx="183.7" cy="154.7" r="4" fill="#3465a4"><title>Regent</title></circle></a><a href="/variants/s7/dp18k7g5r4g7k1y2~x2/"><circle cx="181.0" cy="153.9" r="4" fill="#3465a4"><title>Regent</title></circle></a><circle cx="242.8" cy="163.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dp2g18dp15dr24k1ly2~x2/

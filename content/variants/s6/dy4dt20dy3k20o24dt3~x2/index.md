@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Edinburgh International Conference Centre, The"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy4dt20dy3k20o24dt3/)
 (the same proportion at any scale), whose colour order is pattern [BRKGBG](/stripes/brkgbg/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1080
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1080](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1080)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/o4db19o3k20oi24db3~x2~o2102055-oi2104058/"><circle cx="147.3" cy="214.5" r="4" fill="#3465a4"><title>Edinburgh International Conference Centre</title></circle></a><a href="/variants/s6/k3g17y2k18dp17g3~x2/"><circle cx="153.3" cy="208.9" r="4" fill="#3465a4"><title>Wilson's No.100</title></circle></a><a href="/variants/s7/g8lb1g1k6dp6k1dp3~x4/"><circle cx="144.9" cy="208.6" r="4" fill="#3465a4"><title>Unnamed 19th Century Plaid</title></circle></a><a href="/variants/s7/y6g3y3g22k23dp23k4~x2/"><circle cx="128.3" cy="206.2" r="4" fill="#3465a4"><title>Gordon of Esslemont</title></circle></a><a href="/variants/s6/g3k15dr8g2n8k2~x4/"><circle cx="183.6" cy="213.8" r="4" fill="#3465a4"><title>Lindsay Htg (Clan?)</title></circle></a><a href="/variants/s6/k2dg10y2k9dp8dg2~x2/"><circle cx="185.9" cy="255.6" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/variants/s7/y5k5g17k6n24k6y3~x2/"><circle cx="150.3" cy="209.7" r="4" fill="#3465a4"><title>Cape Breton</title></circle></a><a href="/variants/s9/k4r14t2dg16r3k3r3t12dg4~x2/"><circle cx="138.7" cy="194.4" r="4" fill="#3465a4"><title>Crook</title></circle></a><a href="/variants/s6/y3dg6k6y4r1y1~x2/"><circle cx="147.6" cy="241.1" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><a href="/variants/s6/g4dr28db6g10k10g3~x2/"><circle cx="224.3" cy="203.8" r="4" fill="#3465a4"><title>Canadian Autumn</title></circle></a><circle cx="154.9" cy="217.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/o4db19o3k20oi24db3~x2~o2102055-oi2104058/"><circle cx="147.4" cy="215.0" r="4" fill="#3465a4"><title>Edinburgh International Conference Centre</title></circle></a><a href="/variants/s6/k3g17y2k18dp17g3~x2/"><circle cx="153.4" cy="209.4" r="4" fill="#3465a4"><title>Wilson's No.100</title></circle></a><a href="/variants/s7/g8lb1g1k6dp6k1dp3~x4/"><circle cx="145.0" cy="209.1" r="4" fill="#3465a4"><title>Unnamed 19th Century Plaid</title></circle></a><a href="/variants/s7/y6g3y3g22k23dp23k4~x2/"><circle cx="128.3" cy="206.7" r="4" fill="#3465a4"><title>Gordon of Esslemont</title></circle></a><a href="/variants/s6/g3k15dr8g2n8k2~x4/"><circle cx="183.6" cy="214.3" r="4" fill="#3465a4"><title>Lindsay Htg (Clan?)</title></circle></a><a href="/variants/s6/k2dg10y2k9dp8dg2~x2/"><circle cx="186.0" cy="256.1" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/variants/s7/y5k5g17k6n24k6y3~x2/"><circle cx="150.4" cy="210.2" r="4" fill="#3465a4"><title>Cape Breton</title></circle></a><a href="/variants/s9/k4r14t2dg16r3k3r3t12dg4~x2/"><circle cx="138.7" cy="194.9" r="4" fill="#3465a4"><title>Crook</title></circle></a><a href="/variants/s6/y3dg6k6y4r1y1~x2/"><circle cx="147.7" cy="241.8" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><a href="/variants/s6/g4dr28db6g10k10g3~x2/"><circle cx="224.3" cy="204.2" r="4" fill="#3465a4"><title>Canadian Autumn</title></circle></a><circle cx="154.9" cy="218.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dy4dt20dy3k20o24dt3~x2/

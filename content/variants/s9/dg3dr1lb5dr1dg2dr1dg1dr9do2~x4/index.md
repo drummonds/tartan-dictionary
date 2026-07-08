@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Redwood Dress"
   url: "/tartans/redwood-dress/"
+- name: "Redwood Dress (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg3dr1lb5dr1dg2dr1dg1dr9do2/)
 (the same proportion at any scale), whose colour order is pattern [BBGBGBWBG](/stripes/bbgbgbwbg/).
@@ -14,7 +16,7 @@ Part of the [Redwood Dress](/tartans/redwood-dress/) tartan — the named design
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5423
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5423](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5423)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9dy2~x4/"><circle cx="280.4" cy="211.2" r="4" fill="#3465a4"><title>Redwood Dress</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r9db9r1~x4/"><circle cx="245.2" cy="201.3" r="4" fill="#3465a4"><title>Convention of the Baronage (Corp)</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r8db9r1~x4/"><circle cx="238.6" cy="202.2" r="4" fill="#3465a4"><title>Baronage</title></circle></a><a href="/variants/s10/lb1dr1g1dr11db6dr1g14dr1g1lb1~x4/"><circle cx="291.9" cy="177.9" r="4" fill="#3465a4"><title>Glen Tilt #1</title></circle></a><a href="/variants/s10/db28dr26w2db5w2dr26g28dr5w2dr5~x2/"><circle cx="293.2" cy="194.5" r="4" fill="#3465a4"><title>Glenfinnan (Clan?)</title></circle></a><a href="/variants/s6/w2dr12g6dr1n6dr1~x4/"><circle cx="305.7" cy="225.2" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/variants/s10/r4lb3r32db30r4g32r3g32r3g3~x2/"><circle cx="252.9" cy="184.4" r="4" fill="#3465a4"><title>Unidentified Plaid #15</title></circle></a><a href="/variants/s10/dr18ly2b6ly2b4ly2b12ly3dr4g2~x2/"><circle cx="249.1" cy="206.5" r="4" fill="#3465a4"><title>Unnamed</title></circle></a><a href="/variants/s8/do24g2do5ly14g2ly5dy17do2~x2/"><circle cx="264.0" cy="209.6" r="4" fill="#3465a4"><title>Loch Rannoch Trade Tartan</title></circle></a><a href="/variants/s9/g4y9g3db4g3w3dr32g4y3~x2~db1208266/"><circle cx="285.9" cy="169.5" r="4" fill="#3465a4"><title>Antrim County, Crest Range</title></circle></a><circle cx="283.9" cy="213.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9dy2~x4/"><circle cx="280.5" cy="211.6" r="4" fill="#3465a4"><title>Redwood Dress</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r9db9r1~x4/"><circle cx="245.3" cy="201.8" r="4" fill="#3465a4"><title>Convention of the Baronage (Corp)</title></circle></a><a href="/variants/s9/g3r9lb1g9r1g1r8db9r1~x4/"><circle cx="238.7" cy="202.7" r="4" fill="#3465a4"><title>Baronage</title></circle></a><a href="/variants/s10/lb1dr1g1dr11db6dr1g14dr1g1lb1~x4/"><circle cx="292.0" cy="178.2" r="4" fill="#3465a4"><title>Glen Tilt #1</title></circle></a><a href="/variants/s10/db28dr26w2db5w2dr26g28dr5w2dr5~x2/"><circle cx="293.3" cy="194.9" r="4" fill="#3465a4"><title>Glenfinnan (Clan?)</title></circle></a><a href="/variants/s6/w2dr12g6dr1n6dr1~x4/"><circle cx="305.8" cy="225.7" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/variants/s10/r4lb3r32db30r4g32r3g32r3g3~x2/"><circle cx="253.0" cy="184.8" r="4" fill="#3465a4"><title>Unidentified Plaid #15</title></circle></a><a href="/variants/s10/dr18ly2b6ly2b4ly2b12ly3dr4g2~x2/"><circle cx="249.2" cy="207.0" r="4" fill="#3465a4"><title>Unnamed</title></circle></a><a href="/variants/s8/do24g2do5ly14g2ly5dy17do2~x2/"><circle cx="264.0" cy="210.1" r="4" fill="#3465a4"><title>Loch Rannoch Trade Tartan</title></circle></a><a href="/variants/s9/g4y9g3db4g3w3dr32g4y3~x2~db1208266/"><circle cx="285.9" cy="169.8" r="4" fill="#3465a4"><title>Antrim County, Crest Range</title></circle></a><circle cx="284.0" cy="213.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9do2~x4/

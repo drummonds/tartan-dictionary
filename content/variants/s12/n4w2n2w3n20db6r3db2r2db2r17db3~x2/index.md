@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Eidart, Scotch House"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n4w2n2w3n20db6r3db2r2db2r17db3/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBRBBWBWB](/stripes/brbrbrbbwbwb/).
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r2dp3dg2r15dp3g19dp20r15dp3dg2r2~x2/"><circle cx="234.6" cy="180.0" r="4" fill="#3465a4"><title>Drumlithie, Rock and Wheel</title></circle></a><a href="/variants/s10/dr3b3dr18r2dr2r3dr2r4b18y2~x2/"><circle cx="287.9" cy="186.5" r="4" fill="#3465a4"><title>FC Barcelona (Corporate)</title></circle></a><a href="/variants/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/"><circle cx="205.6" cy="186.3" r="4" fill="#3465a4"><title>Roxburgh, Red</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="243.9" cy="180.7" r="4" fill="#3465a4"><title>Drumlithie</title></circle></a><a href="/variants/s15/lb3r24db4r8g32r4db4r8g4r4db32r8g4r4lb2~x2/"><circle cx="236.6" cy="141.5" r="4" fill="#3465a4"><title>MacIntyre (of Gatehouse)</title></circle></a><a href="/variants/s14/n3dg19r2dg2r2db10r17dg2r2dg2r3lb2r3lb3~x2/"><circle cx="208.5" cy="147.7" r="4" fill="#3465a4"><title>Manx Heritage</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="244.0" cy="182.7" r="4" fill="#3465a4"><title>Drumlithie Rock and Wheel Tartan</title></circle></a><a href="/variants/s11/dy2r11db1r1db1r1db4dbi6dy1dbi1ly1~x4~db1204274-dbi1706275/"><circle cx="245.1" cy="153.3" r="4" fill="#3465a4"><title>NHK Asaichi</title></circle></a><a href="/variants/s12/o4w2o2r3o19b6db3b2db2b2db15o3~x2/"><circle cx="232.4" cy="161.0" r="4" fill="#3465a4"><title>Scotch, House Cailean</title></circle></a><a href="/variants/s12/db16r1db1r1g12r16w2r16g12db12r1db1~x2/"><circle cx="218.0" cy="163.5" r="4" fill="#3465a4"><title>Fraser of Lovat</title></circle></a><circle cx="238.3" cy="171.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r2dp3dg2r15dp3g19dp20r15dp3dg2r2~x2/"><circle cx="234.6" cy="180.4" r="4" fill="#3465a4"><title>Drumlithie, Rock and Wheel</title></circle></a><a href="/variants/s10/dr3b3dr18r2dr2r3dr2r4b18y2~x2/"><circle cx="288.0" cy="186.8" r="4" fill="#3465a4"><title>FC Barcelona (Corporate)</title></circle></a><a href="/variants/s10/db3dg26db3r3db20r3db3r26dg5w3~x2/"><circle cx="205.7" cy="186.7" r="4" fill="#3465a4"><title>Roxburgh, Red</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="243.9" cy="181.0" r="4" fill="#3465a4"><title>Drumlithie</title></circle></a><a href="/variants/s15/lb3r24db4r8g32r4db4r8g4r4db32r8g4r4lb2~x2/"><circle cx="236.6" cy="141.8" r="4" fill="#3465a4"><title>MacIntyre (of Gatehouse)</title></circle></a><a href="/variants/s14/n3dg19r2dg2r2db10r17dg2r2dg2r3lb2r3lb3~x2/"><circle cx="208.5" cy="148.0" r="4" fill="#3465a4"><title>Manx Heritage</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="244.0" cy="183.0" r="4" fill="#3465a4"><title>Drumlithie Rock and Wheel Tartan</title></circle></a><a href="/variants/s11/dy2r11db1r1db1r1db4dbi6dy1dbi1ly1~x4~db1204274-dbi1706275/"><circle cx="245.1" cy="153.6" r="4" fill="#3465a4"><title>NHK Asaichi</title></circle></a><a href="/variants/s12/o4w2o2r3o19b6db3b2db2b2db15o3~x2/"><circle cx="232.4" cy="161.3" r="4" fill="#3465a4"><title>Scotch, House Cailean</title></circle></a><a href="/variants/s12/db16r1db1r1g12r16w2r16g12db12r1db1~x2/"><circle cx="218.1" cy="163.9" r="4" fill="#3465a4"><title>Fraser of Lovat</title></circle></a><circle cx="238.3" cy="171.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/n4w2n2w3n20db6r3db2r2db2r17db3~x2/

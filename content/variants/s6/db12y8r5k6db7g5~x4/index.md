@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mitchell, Martin (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db12y8r5k6db7g5/)
 (the same proportion at any scale), whose colour order is pattern [BGRKBG](/stripes/bgrkbg/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11501
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11501](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11501)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k12db12r4db12k12db11g12y4~x2/"><circle cx="96.1" cy="274.0" r="4" fill="#3465a4"><title>Montrose of Alabama</title></circle></a><a href="/variants/s5/b10k10b10dg26y5~x2/"><circle cx="180.9" cy="262.6" r="4" fill="#3465a4"><title>Marshall of Keith (Personal)</title></circle></a><a href="/variants/s6/g12k10y9db11ly3g9~x2/"><circle cx="61.3" cy="282.7" r="4" fill="#3465a4"><title>Centeno-Oxford</title></circle></a><a href="/variants/s6/k10y9db11g12ly3g9~x2/"><circle cx="61.7" cy="283.0" r="4" fill="#3465a4"><title>Centeno-Oxford (Personal)</title></circle></a><a href="/variants/s7/k3db3r1db3k3g3y1~x8/"><circle cx="59.3" cy="275.0" r="4" fill="#3465a4"><title>Melrose of Alabama</title></circle></a><a href="/variants/s7/n5db4y1db4k4dr4w1~x4/"><circle cx="69.6" cy="237.8" r="4" fill="#3465a4"><title>Devon Companion District Tartan</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2~db1404245/"><circle cx="91.0" cy="260.7" r="4" fill="#3465a4"><title>Gandy of Myrton Clan/Family Tartan</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2/"><circle cx="88.5" cy="258.6" r="4" fill="#3465a4"><title>Gandy of Myrton (Name)</title></circle></a><a href="/variants/s7/n5db4y1db4k4dy4w1~x4/"><circle cx="68.8" cy="238.8" r="4" fill="#3465a4"><title>Devon Companion</title></circle></a><a href="/variants/s4/db2dr1k1lb1~x10/"><circle cx="86.7" cy="327.1" r="4" fill="#3465a4"><title>Kucher, Gregory (Personal)</title></circle></a><circle cx="82.1" cy="292.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k12db12r4db12k12db11g12y4~x2/"><circle cx="96.2" cy="274.8" r="4" fill="#3465a4"><title>Montrose of Alabama</title></circle></a><a href="/variants/s5/b10k10b10dg26y5~x2/"><circle cx="181.0" cy="263.2" r="4" fill="#3465a4"><title>Marshall of Keith (Personal)</title></circle></a><a href="/variants/s6/g12k10y9db11ly3g9~x2/"><circle cx="61.4" cy="283.5" r="4" fill="#3465a4"><title>Centeno-Oxford</title></circle></a><a href="/variants/s6/k10y9db11g12ly3g9~x2/"><circle cx="61.8" cy="283.8" r="4" fill="#3465a4"><title>Centeno-Oxford (Personal)</title></circle></a><a href="/variants/s7/k3db3r1db3k3g3y1~x8/"><circle cx="59.5" cy="275.7" r="4" fill="#3465a4"><title>Melrose of Alabama</title></circle></a><a href="/variants/s7/n5db4y1db4k4dr4w1~x4/"><circle cx="69.7" cy="238.4" r="4" fill="#3465a4"><title>Devon Companion District Tartan</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2~db1404245/"><circle cx="91.1" cy="261.5" r="4" fill="#3465a4"><title>Gandy of Myrton Clan/Family Tartan</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2/"><circle cx="88.6" cy="259.4" r="4" fill="#3465a4"><title>Gandy of Myrton (Name)</title></circle></a><a href="/variants/s7/n5db4y1db4k4dy4w1~x4/"><circle cx="68.9" cy="239.3" r="4" fill="#3465a4"><title>Devon Companion</title></circle></a><a href="/variants/s4/db2dr1k1lb1~x10/"><circle cx="86.9" cy="328.1" r="4" fill="#3465a4"><title>Kucher, Gregory (Personal)</title></circle></a><circle cx="82.3" cy="293.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db12y8r5k6db7g5~x4/

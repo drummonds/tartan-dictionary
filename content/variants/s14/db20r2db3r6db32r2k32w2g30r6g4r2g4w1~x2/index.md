@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacDonald of Clanranald #4"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db20r2db3r6db32r2k32w2g30r6g4r2g4w1/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBRKWGRGRGW](/stripes/brbrbrkwgrgrgw/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2355
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2355](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2355)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db20r2db2r5db30r2k32w2g30r5g4r2g4w2/"><circle cx="141.5" cy="106.9" r="4" fill="#3465a4"><title>MacDonald of Clanranald #5</title></circle></a><a href="/variants/s13/db16r2db2r7db31r2k32w3g31r7g2r2g16~x2/"><circle cx="120.8" cy="121.7" r="4" fill="#3465a4"><title>Clanranald, MacDonald of</title></circle></a><a href="/variants/s14/db88k15g9r12g20k3y8k3g20r12g9k15db24k36~x2/"><circle cx="186.4" cy="92.8" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s14/db88k15g9r12g20k3y8k6g20r12g9k15db24k36/"><circle cx="183.6" cy="94.1" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s14/db20k2g3k2db20r3k20r2k20r3g30y3g1y2~x2/"><circle cx="151.2" cy="92.0" r="4" fill="#3465a4"><title>Glynn of Glynstewart (Personal)</title></circle></a><a href="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="152.8" cy="101.4" r="4" fill="#3465a4"><title>Robertson Htg - 1816 (Clan)</title></circle></a><a href="/variants/s10/g4lb2db33r2k35g33k1r2k1g4~x2~db1406275/"><circle cx="159.8" cy="67.1" r="4" fill="#3465a4"><title>Lochaber</title></circle></a><a href="/variants/s13/g6lb12dp3w1dp6lb4w1lb4dp6w1k28g5w1~x2/"><circle cx="141.6" cy="83.6" r="4" fill="#3465a4"><title>Willox (Name)</title></circle></a><a href="/variants/s8/db64k11r2k4r2k4g32ly4~x2/"><circle cx="185.1" cy="72.4" r="4" fill="#3465a4"><title>Sinclair-Brown (Personal)</title></circle></a><a href="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="156.6" cy="100.5" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><circle cx="168.6" cy="82.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db20r2db2r5db30r2k32w2g30r5g4r2g4w2/"><circle cx="141.4" cy="107.1" r="4" fill="#3465a4"><title>MacDonald of Clanranald #5</title></circle></a><a href="/variants/s13/db16r2db2r7db31r2k32w3g31r7g2r2g16~x2/"><circle cx="120.7" cy="121.9" r="4" fill="#3465a4"><title>Clanranald, MacDonald of</title></circle></a><a href="/variants/s14/db88k15g9r12g20k3y8k3g20r12g9k15db24k36~x2/"><circle cx="186.2" cy="92.9" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s14/db88k15g9r12g20k3y8k6g20r12g9k15db24k36/"><circle cx="183.5" cy="94.3" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s14/db20k2g3k2db20r3k20r2k20r3g30y3g1y2~x2/"><circle cx="151.0" cy="92.2" r="4" fill="#3465a4"><title>Glynn of Glynstewart (Personal)</title></circle></a><a href="/variants/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="152.7" cy="101.6" r="4" fill="#3465a4"><title>Robertson Htg - 1816 (Clan)</title></circle></a><a href="/variants/s10/g4lb2db33r2k35g33k1r2k1g4~x2~db1406275/"><circle cx="159.6" cy="67.1" r="4" fill="#3465a4"><title>Lochaber</title></circle></a><a href="/variants/s13/g6lb12dp3w1dp6lb4w1lb4dp6w1k28g5w1~x2/"><circle cx="141.5" cy="83.8" r="4" fill="#3465a4"><title>Willox (Name)</title></circle></a><a href="/variants/s8/db64k11r2k4r2k4g32ly4~x2/"><circle cx="185.0" cy="72.4" r="4" fill="#3465a4"><title>Sinclair-Brown (Personal)</title></circle></a><a href="/variants/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="156.5" cy="100.6" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><circle cx="168.5" cy="82.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/

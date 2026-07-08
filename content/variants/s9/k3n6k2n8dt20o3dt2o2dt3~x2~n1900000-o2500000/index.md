@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Monuments (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3n6k2n8dt20o3dt2o2dt3/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBBKBK](/stripes/brbrbbkbk/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3185
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3185](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3185)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dt8lb2dt27k10n4k2n3k2n16dt2~x2~dt1300000-n1800000/"><circle cx="300.8" cy="170.4" r="4" fill="#3465a4"><title>Highland Granite</title></circle></a><a href="/variants/s8/r4dg4k2dg29db21k3db3y3~x2/"><circle cx="302.4" cy="161.7" r="4" fill="#3465a4"><title>Peter of Lee (Chief) (Personal)</title></circle></a><a href="/variants/s8/dt14o1dt1o1dt6n14w1n1~x4/"><circle cx="411.9" cy="199.5" r="4" fill="#3465a4"><title>Corrie</title></circle></a><a href="/variants/s8/o5b12dg4r4dg27b3dg4o5/"><circle cx="321.8" cy="207.0" r="4" fill="#3465a4"><title>Daks, Muted Loden</title></circle></a><a href="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/"><circle cx="366.8" cy="186.8" r="4" fill="#3465a4"><title>U.S. Marine Corps (Military?)</title></circle></a><a href="/variants/s10/db1k1db8k2ly1dg12ly1db8k1db1~x4/"><circle cx="293.2" cy="168.6" r="4" fill="#3465a4"><title>Rowan (Name)</title></circle></a><a href="/variants/s8/dg40k20db10k4db7dg13k4db4~x2/"><circle cx="336.0" cy="218.0" r="4" fill="#3465a4"><title>Letham Personal Tartan</title></circle></a><a href="/variants/s8/k5dy5k5dy34n33k6n5o2~n1900000-o2500000/"><circle cx="286.8" cy="167.3" r="4" fill="#3465a4"><title>Brave for Men (Fashion)</title></circle></a><a href="/variants/s8/r4dg3k2dg38db30k3db3k3~x2/"><circle cx="351.4" cy="159.2" r="4" fill="#3465a4"><title>Peter of Lee</title></circle></a><a href="/variants/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/"><circle cx="319.5" cy="181.1" r="4" fill="#3465a4"><title>Glen Affric (Artefact)</title></circle></a><circle cx="309.8" cy="192.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dt8lb2dt27k10n4k2n3k2n16dt2~x2~dt1300000-n1800000/"><circle cx="300.8" cy="170.7" r="4" fill="#3465a4"><title>Highland Granite</title></circle></a><a href="/variants/s8/r4dg4k2dg29db21k3db3y3~x2/"><circle cx="302.3" cy="161.8" r="4" fill="#3465a4"><title>Peter of Lee (Chief) (Personal)</title></circle></a><a href="/variants/s8/dt14o1dt1o1dt6n14w1n1~x4/"><circle cx="411.9" cy="199.7" r="4" fill="#3465a4"><title>Corrie</title></circle></a><a href="/variants/s8/o5b12dg4r4dg27b3dg4o5/"><circle cx="321.9" cy="207.4" r="4" fill="#3465a4"><title>Daks, Muted Loden</title></circle></a><a href="/variants/s8/dg40r3dg4r3dg12db32lo4r3~x2/"><circle cx="366.8" cy="187.1" r="4" fill="#3465a4"><title>U.S. Marine Corps (Military?)</title></circle></a><a href="/variants/s10/db1k1db8k2ly1dg12ly1db8k1db1~x4/"><circle cx="293.2" cy="168.9" r="4" fill="#3465a4"><title>Rowan (Name)</title></circle></a><a href="/variants/s8/dg40k20db10k4db7dg13k4db4~x2/"><circle cx="336.0" cy="218.4" r="4" fill="#3465a4"><title>Letham Personal Tartan</title></circle></a><a href="/variants/s8/k5dy5k5dy34n33k6n5o2~n1900000-o2500000/"><circle cx="286.8" cy="167.6" r="4" fill="#3465a4"><title>Brave for Men (Fashion)</title></circle></a><a href="/variants/s8/r4dg3k2dg38db30k3db3k3~x2/"><circle cx="351.3" cy="159.3" r="4" fill="#3465a4"><title>Peter of Lee</title></circle></a><a href="/variants/s13/k2g2n10g2n7g2n7g2n5g2dr14n1g2~x4/"><circle cx="319.6" cy="181.3" r="4" fill="#3465a4"><title>Glen Affric (Artefact)</title></circle></a><circle cx="309.8" cy="193.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k3n6k2n8dt20o3dt2o2dt3~x2~n1900000-o2500000/

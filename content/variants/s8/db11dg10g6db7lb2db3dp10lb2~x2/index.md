@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hummelt, Katherine (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db11dg10g6db7lb2db3dp10lb2/)
 (the same proportion at any scale), whose colour order is pattern [BGGBWBBW](/stripes/bggbwbbw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11591
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11591](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11591)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db2g6db6b5db1b2~x2/"><circle cx="272.6" cy="309.5" r="4" fill="#3465a4"><title>Unnamed, No 54</title></circle></a><a href="/variants/s6/db2g6db6dp5db1dp2~x2/"><circle cx="278.0" cy="306.4" r="4" fill="#3465a4"><title>Unidentified no. 54</title></circle></a><a href="/variants/s6/db3g11db3dr11db18ly3~x2/"><circle cx="267.3" cy="266.5" r="4" fill="#3465a4"><title>Harbour Town Hilton Head, The</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2/"><circle cx="291.5" cy="245.0" r="4" fill="#3465a4"><title>Belfrage (Name)</title></circle></a><a href="/variants/s8/b13ly3b13g23dy16do13b23r5~x2~ly3608101-dy1103057/"><circle cx="175.6" cy="234.3" r="4" fill="#3465a4"><title>Unidentified 2</title></circle></a><a href="/variants/s11/dr3db14b14db2dr14db2dr14db2g14db2y3~x2/"><circle cx="208.0" cy="226.6" r="4" fill="#3465a4"><title>Clare</title></circle></a><a href="/variants/s10/b9dr1db5g5lb2g5db5dr1b9db2~x4/"><circle cx="227.1" cy="237.2" r="4" fill="#3465a4"><title>American Express Corporate Tartan</title></circle></a><a href="/variants/s6/db2b9dr1db9dg9w2~x4/"><circle cx="203.6" cy="246.0" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s9/b1dr5dg4db1g1db1g1db6w1~x4/"><circle cx="182.6" cy="217.3" r="4" fill="#3465a4"><title>McLion</title></circle></a><a href="/variants/s8/g3dp7b11db3o8w2db3b3~x2/"><circle cx="123.3" cy="231.6" r="4" fill="#3465a4"><title>Scotia</title></circle></a><circle cx="198.6" cy="269.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db2g6db6b5db1b2~x2/"><circle cx="272.8" cy="310.1" r="4" fill="#3465a4"><title>Unnamed, No 54</title></circle></a><a href="/variants/s6/db2g6db6dp5db1dp2~x2/"><circle cx="278.2" cy="307.0" r="4" fill="#3465a4"><title>Unidentified no. 54</title></circle></a><a href="/variants/s6/db3g11db3dr11db18ly3~x2/"><circle cx="267.5" cy="267.1" r="4" fill="#3465a4"><title>Harbour Town Hilton Head, The</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2/"><circle cx="291.6" cy="245.5" r="4" fill="#3465a4"><title>Belfrage (Name)</title></circle></a><a href="/variants/s8/b13ly3b13g23dy16do13b23r5~x2~ly3608101-dy1103057/"><circle cx="175.7" cy="234.8" r="4" fill="#3465a4"><title>Unidentified 2</title></circle></a><a href="/variants/s11/dr3db14b14db2dr14db2dr14db2g14db2y3~x2/"><circle cx="208.1" cy="226.9" r="4" fill="#3465a4"><title>Clare</title></circle></a><a href="/variants/s10/b9dr1db5g5lb2g5db5dr1b9db2~x4/"><circle cx="227.2" cy="237.5" r="4" fill="#3465a4"><title>American Express Corporate Tartan</title></circle></a><a href="/variants/s6/db2b9dr1db9dg9w2~x4/"><circle cx="203.7" cy="246.5" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s9/b1dr5dg4db1g1db1g1db6w1~x4/"><circle cx="182.7" cy="217.6" r="4" fill="#3465a4"><title>McLion</title></circle></a><a href="/variants/s8/g3dp7b11db3o8w2db3b3~x2/"><circle cx="123.4" cy="232.1" r="4" fill="#3465a4"><title>Scotia</title></circle></a><circle cx="198.8" cy="269.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db11dg10g6db7lb2db3dp10lb2~x2/

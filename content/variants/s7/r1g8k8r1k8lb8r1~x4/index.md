@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Triad Highland Games Proposed"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1g8k8r1k8lb8r1/)
 (the same proportion at any scale), whose colour order is pattern [RGKRKWR](/stripes/rgkrkwr/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4149
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4149](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4149)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2k8lo1k8g8lb8r2~x4/"><circle cx="108.7" cy="196.0" r="4" fill="#3465a4"><title>Brodie Hunting (Clan)</title></circle></a><a href="/variants/s7/r2k8y1k8g8db8r2~x4/"><circle cx="126.5" cy="201.3" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/variants/s7/r2k8y1k8g8db8r2~x2/"><circle cx="126.5" cy="201.3" r="4" fill="#3465a4"><title>Brodie hunting</title></circle></a><a href="/variants/s7/k4w19k11dg15k3dg16y3~x2/"><circle cx="132.5" cy="219.2" r="4" fill="#3465a4"><title>Lawson, William 2002</title></circle></a><a href="/variants/s9/lg16k3lg16k26dp4k26n20k3n8/"><circle cx="163.9" cy="195.5" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s6/k3db14r2k14g14k3~x2/"><circle cx="147.9" cy="218.7" r="4" fill="#3465a4"><title>Gallamore</title></circle></a><a href="/variants/s6/k3db12r2k12g12k3~x2/"><circle cx="142.0" cy="228.3" r="4" fill="#3465a4"><title>Ferguson of Balquhidder #3</title></circle></a><a href="/variants/s7/dp3k1dp8k6g8k1w2~x2/"><circle cx="137.3" cy="204.9" r="4" fill="#3465a4"><title>Baillie (Highland Society)</title></circle></a><a href="/variants/s7/r2db8g8k8y1g8r2/"><circle cx="131.1" cy="208.9" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/variants/s6/g18lb2g4k14dp12k3~x2/"><circle cx="167.2" cy="212.3" r="4" fill="#3465a4"><title>Coburg</title></circle></a><circle cx="148.9" cy="198.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2k8lo1k8g8lb8r2~x4/"><circle cx="108.8" cy="196.6" r="4" fill="#3465a4"><title>Brodie Hunting (Clan)</title></circle></a><a href="/variants/s7/r2k8y1k8g8db8r2~x4/"><circle cx="126.5" cy="201.8" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/variants/s7/r2k8y1k8g8db8r2~x2/"><circle cx="126.5" cy="201.8" r="4" fill="#3465a4"><title>Brodie hunting</title></circle></a><a href="/variants/s7/k4w19k11dg15k3dg16y3~x2/"><circle cx="132.6" cy="219.9" r="4" fill="#3465a4"><title>Lawson, William 2002</title></circle></a><a href="/variants/s9/lg16k3lg16k26dp4k26n20k3n8/"><circle cx="164.0" cy="196.0" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s6/k3db14r2k14g14k3~x2/"><circle cx="148.0" cy="219.3" r="4" fill="#3465a4"><title>Gallamore</title></circle></a><a href="/variants/s6/k3db12r2k12g12k3~x2/"><circle cx="142.1" cy="228.9" r="4" fill="#3465a4"><title>Ferguson of Balquhidder #3</title></circle></a><a href="/variants/s7/dp3k1dp8k6g8k1w2~x2/"><circle cx="137.4" cy="205.5" r="4" fill="#3465a4"><title>Baillie (Highland Society)</title></circle></a><a href="/variants/s7/r2db8g8k8y1g8r2/"><circle cx="131.2" cy="209.5" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/variants/s6/g18lb2g4k14dp12k3~x2/"><circle cx="167.3" cy="212.9" r="4" fill="#3465a4"><title>Coburg</title></circle></a><circle cx="149.0" cy="199.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r1g8k8r1k8lb8r1~x4/

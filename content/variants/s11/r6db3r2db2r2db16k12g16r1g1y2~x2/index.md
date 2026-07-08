@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Logan and MacLennan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r6db3r2db2r2db16k12g16r1g1y2/)
 (the same proportion at any scale), whose colour order is pattern [GGRGKBRBRBR](/stripes/ggrgkbrbrbr/).
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/"><circle cx="128.4" cy="127.0" r="4" fill="#3465a4"><title>Logan #7</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12dg16r1k1y2~x2/"><circle cx="154.0" cy="132.9" r="4" fill="#3465a4"><title>MacLennan (Clan)</title></circle></a><a href="/variants/s10/k3db9k2ly5db1ly5k2dg15k1r3~x2/"><circle cx="105.9" cy="138.2" r="4" fill="#3465a4"><title>New Zealand (2003)</title></circle></a><a href="/variants/s11/r6db6r3db3r3db28k21g28r21k2y4/"><circle cx="105.9" cy="138.1" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><circle cx="127.6" cy="144.3" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><a href="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/"><circle cx="171.5" cy="118.8" r="4" fill="#3465a4"><title>Windsor</title></circle></a><a href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/"><circle cx="147.7" cy="130.2" r="4" fill="#3465a4"><title>Urquhart (Fashion)</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="132.3" cy="149.7" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/variants/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/"><circle cx="122.9" cy="127.2" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/variants/s11/db8lb3db40r3k44lb3r3g40r2k4r7~x2/"><circle cx="136.4" cy="103.7" r="4" fill="#3465a4"><title>Lochaber Cameron</title></circle></a><circle cx="132.6" cy="129.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/"><circle cx="128.3" cy="127.3" r="4" fill="#3465a4"><title>Logan #7</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12dg16r1k1y2~x2/"><circle cx="153.9" cy="133.1" r="4" fill="#3465a4"><title>MacLennan (Clan)</title></circle></a><a href="/variants/s10/k3db9k2ly5db1ly5k2dg15k1r3~x2/"><circle cx="105.8" cy="138.5" r="4" fill="#3465a4"><title>New Zealand (2003)</title></circle></a><a href="/variants/s11/r6db6r3db3r3db28k21g28r21k2y4/"><circle cx="105.8" cy="138.4" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/variants/s10/r6db2g5db18g10db2k28db2g10lo3~x2/"><circle cx="127.5" cy="144.6" r="4" fill="#3465a4"><title>Ofally, County</title></circle></a><a href="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/"><circle cx="171.4" cy="119.0" r="4" fill="#3465a4"><title>Windsor</title></circle></a><a href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/"><circle cx="147.7" cy="130.5" r="4" fill="#3465a4"><title>Urquhart (Fashion)</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="132.3" cy="150.1" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/variants/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/"><circle cx="122.8" cy="127.5" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/variants/s11/db8lb3db40r3k44lb3r3g40r2k4r7~x2/"><circle cx="136.2" cy="103.8" r="4" fill="#3465a4"><title>Lochaber Cameron</title></circle></a><circle cx="132.5" cy="129.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r6db3r2db2r2db16k12g16r1g1y2~x2/

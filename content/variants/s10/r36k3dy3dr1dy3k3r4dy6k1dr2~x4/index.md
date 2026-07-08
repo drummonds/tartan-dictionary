@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Moulin"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r36k3dy3dr1dy3k3r4dy6k1dr2/)
 (the same proportion at any scale), whose colour order is pattern [BKGRKGBGKR](/stripes/bkgrkgbgkr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3029
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3029](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3029)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r52k5y5k8o5do5k2r6k1y2~x2/"><circle cx="373.8" cy="39.5" r="4" fill="#3465a4"><title>Braemar, Castle</title></circle></a><a href="/variants/s12/r36y4r1y4r4k8r4k2r4w2r1w4~x2/"><circle cx="387.2" cy="57.9" r="4" fill="#3465a4"><title>Manchester Reds</title></circle></a><a href="/variants/s10/r52k5y5k8ly5do5k2r6k1y2~x2/"><circle cx="364.7" cy="37.0" r="4" fill="#3465a4"><title>Braemar Castle Corporate Tartan</title></circle></a><a href="/variants/s12/k4r2k2ri2k2r36k2dp12k2ri1k3r2~x2~r2109032-ri2806019/"><circle cx="337.2" cy="55.8" r="4" fill="#3465a4"><title>Red Hatters United</title></circle></a><a href="/variants/s11/r48k1w1k6ly4r2ly4k8r2k1w2~x2/"><circle cx="390.3" cy="34.1" r="4" fill="#3465a4"><title>Glennie (Personal)</title></circle></a><a href="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2~ly2503076-do1103038/"><circle cx="441.6" cy="46.1" r="4" fill="#3465a4"><title>Braemar Castle</title></circle></a><a href="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2/"><circle cx="431.6" cy="43.1" r="4" fill="#3465a4"><title>Braemar Castle (Fashion)</title></circle></a><a href="/variants/s10/r64db16r1db1r12g16r8db2r2k1~x2/"><circle cx="465.5" cy="66.8" r="4" fill="#3465a4"><title>Moffat (1950)</title></circle></a><a href="/variants/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="328.5" cy="72.0" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/variants/s10/r80w7k2w2k2r3k7r2b12k2~x2/"><circle cx="438.3" cy="42.9" r="4" fill="#3465a4"><title>Masai Shuka 05 (Artefact)</title></circle></a><circle cx="404.3" cy="67.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r52k5y5k8o5do5k2r6k1y2~x2/"><circle cx="373.6" cy="39.6" r="4" fill="#3465a4"><title>Braemar, Castle</title></circle></a><a href="/variants/s12/r36y4r1y4r4k8r4k2r4w2r1w4~x2/"><circle cx="387.1" cy="58.2" r="4" fill="#3465a4"><title>Manchester Reds</title></circle></a><a href="/variants/s10/r52k5y5k8ly5do5k2r6k1y2~x2/"><circle cx="364.6" cy="37.1" r="4" fill="#3465a4"><title>Braemar Castle Corporate Tartan</title></circle></a><a href="/variants/s12/k4r2k2ri2k2r36k2dp12k2ri1k3r2~x2~r2109032-ri2806019/"><circle cx="337.1" cy="55.9" r="4" fill="#3465a4"><title>Red Hatters United</title></circle></a><a href="/variants/s11/r48k1w1k6ly4r2ly4k8r2k1w2~x2/"><circle cx="390.2" cy="34.3" r="4" fill="#3465a4"><title>Glennie (Personal)</title></circle></a><a href="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2~ly2503076-do1103038/"><circle cx="441.5" cy="46.2" r="4" fill="#3465a4"><title>Braemar Castle</title></circle></a><a href="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2/"><circle cx="431.4" cy="43.2" r="4" fill="#3465a4"><title>Braemar Castle (Fashion)</title></circle></a><a href="/variants/s10/r64db16r1db1r12g16r8db2r2k1~x2/"><circle cx="465.4" cy="66.9" r="4" fill="#3465a4"><title>Moffat (1950)</title></circle></a><a href="/variants/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="328.4" cy="72.2" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><a href="/variants/s10/r80w7k2w2k2r3k7r2b12k2~x2/"><circle cx="438.1" cy="43.0" r="4" fill="#3465a4"><title>Masai Shuka 05 (Artefact)</title></circle></a><circle cx="404.2" cy="67.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r36k3dy3dr1dy3k3r4dy6k1dr2~x4/

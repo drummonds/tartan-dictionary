@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Dundee"
   url: "/tartans/dundee-2/"
+- name: "Dundee #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ri30r2k6r2g17y7w2k2w2y4lb7w2k6w6/)
 (the same proportion at any scale), whose colour order is pattern [RRKRGGWKWGWWKW](/stripes/rrkrggwkwgwwkw/).
@@ -14,7 +16,7 @@ Part of the [Dundee](/tartans/dundee-2/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1030
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1030](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1030)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/ri42r2k15r2g22y4w2dp2w2y4lb7w2dp6w6~x2~ri2209032-r2208029/"><circle cx="82.9" cy="41.0" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s14/r30ri2k6ri2g17y7w2k2w2y4lb7w2k6w6~x2~r2109032-ri2406019/"><circle cx="60.9" cy="79.9" r="4" fill="#3465a4"><title>Dundee District Tartan</title></circle></a><a href="/variants/s13/k2r16w1db2w1y3w2y3w1db2w1g16lb2~x2/"><circle cx="100.2" cy="79.2" r="4" fill="#3465a4"><title>Gibbs, Gibson</title></circle></a><a href="/variants/s14/r30b2k6b2g17y7w2k2w2y4lb7w2k6w6~x2/"><circle cx="65.9" cy="84.1" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s13/r3w34k2n4k2y7k2y7k2n4k2o34lb3~x2/"><circle cx="99.9" cy="67.6" r="4" fill="#3465a4"><title>Buchanan, dress</title></circle></a><a href="/variants/s14/r12w1k1g12y2db5lb6r2lb2r4g2r2k2g2~x2/"><circle cx="95.7" cy="108.1" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><a href="/variants/s13/w2r12k1lb2k1y3k1y3k1lb2k1g12lb2~x2/"><circle cx="80.8" cy="110.4" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><a href="/variants/s10/r24g22k2w6k2ly2k15y6ri6w2~x2~r2109032-ri2806019/"><circle cx="43.1" cy="116.3" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><a href="/variants/s17/r48b4r28k5w4k6b4k7g8k7b4k6w4k5ri24b4g48~g2508144-ri2209032/"><circle cx="100.0" cy="90.5" r="4" fill="#3465a4"><title>Total</title></circle></a><a href="/variants/s10/r24g22k2w6k2y2k15lb6ri6w2~x2~r2109032-ri2406019/"><circle cx="41.6" cy="115.5" r="4" fill="#3465a4"><title>Bruce of Kinnaird Clan Tartan</title></circle></a><circle cx="60.5" cy="79.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/ri42r2k15r2g22y4w2dp2w2y4lb7w2dp6w6~x2~ri2209032-r2208029/"><circle cx="82.7" cy="41.0" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s14/r30ri2k6ri2g17y7w2k2w2y4lb7w2k6w6~x2~r2109032-ri2406019/"><circle cx="60.8" cy="80.1" r="4" fill="#3465a4"><title>Dundee District Tartan</title></circle></a><a href="/variants/s13/k2r16w1db2w1y3w2y3w1db2w1g16lb2~x2/"><circle cx="100.1" cy="79.3" r="4" fill="#3465a4"><title>Gibbs, Gibson</title></circle></a><a href="/variants/s14/r30b2k6b2g17y7w2k2w2y4lb7w2k6w6~x2/"><circle cx="65.8" cy="84.3" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s13/r3w34k2n4k2y7k2y7k2n4k2o34lb3~x2/"><circle cx="99.8" cy="67.7" r="4" fill="#3465a4"><title>Buchanan, dress</title></circle></a><a href="/variants/s14/r12w1k1g12y2db5lb6r2lb2r4g2r2k2g2~x2/"><circle cx="95.6" cy="108.3" r="4" fill="#3465a4"><title>Unidentified #31</title></circle></a><a href="/variants/s13/w2r12k1lb2k1y3k1y3k1lb2k1g12lb2~x2/"><circle cx="80.7" cy="110.6" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><a href="/variants/s10/r24g22k2w6k2ly2k15y6ri6w2~x2~r2109032-ri2806019/"><circle cx="43.1" cy="116.6" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><a href="/variants/s17/r48b4r28k5w4k6b4k7g8k7b4k6w4k5ri24b4g48~g2508144-ri2209032/"><circle cx="99.9" cy="90.8" r="4" fill="#3465a4"><title>Total</title></circle></a><a href="/variants/s10/r24g22k2w6k2y2k15lb6ri6w2~x2~r2109032-ri2406019/"><circle cx="41.5" cy="115.8" r="4" fill="#3465a4"><title>Bruce of Kinnaird Clan Tartan</title></circle></a><circle cx="60.4" cy="79.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/ri30r2k6r2g17y7w2k2w2y4lb7w2k6w6~x2~ri2209032-r2208029/

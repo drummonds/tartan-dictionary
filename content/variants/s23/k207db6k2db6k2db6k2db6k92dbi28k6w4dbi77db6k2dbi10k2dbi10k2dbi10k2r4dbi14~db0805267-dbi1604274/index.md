@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Plaid 12"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k207db6k2db6k2db6k2db6k92dbi28k6w4dbi77db6k2dbi10k2dbi10k2dbi10k2r4dbi14/)
 (the same proportion at any scale), whose colour order is pattern [BRKBKBKBKBBWKBKBKBKBKBK](/stripes/brkbkbkbkbbwkbkbkbkbkbk/).
 
 Sourced from weddslist.  It is a [23 stripe tartan](/stripes/stripes23/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/db8k50y2k2dy2k24db8k2y2n1y2n8y2n8y2n1y2k2~x2~y2400000-n1700000/"><circle cx="350.2" cy="28.3" r="4" fill="#3465a4"><title>Quraysh</title></circle></a><a href="/variants/s22/db5w1db5w1db5w1db5w1db5w1lo5b1y5b1lo5y1k36w1b3w1k72w1~x2~db1404245-b1511266/"><circle cx="341.4" cy="14.0" r="4" fill="#3465a4"><title>Khalsa</title></circle></a><a href="/variants/s29/db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2~x2/"><circle cx="298.2" cy="14.0" r="4" fill="#3465a4"><title>Westwood Metropolitan 1 (Fashion)</title></circle></a><a href="/variants/s15/db1k6db2k8db2k2db52r2db2y8db2y6db2y2r1~x2/"><circle cx="395.3" cy="34.6" r="4" fill="#3465a4"><title>(3) Laing</title></circle></a><a href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/"><circle cx="361.2" cy="44.3" r="4" fill="#3465a4"><title>Goldwire (2015)</title></circle></a><circle cx="385.8" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/db8k50y2k2dy2k24db8k2y2n1y2n8y2n8y2n1y2k2~x2~y2400000-n1700000/"><circle cx="350.0" cy="28.2" r="4" fill="#3465a4"><title>Quraysh</title></circle></a><a href="/variants/s22/db5w1db5w1db5w1db5w1db5w1lo5b1y5b1lo5y1k36w1b3w1k72w1~x2~db1404245-b1511266/"><circle cx="341.1" cy="14.0" r="4" fill="#3465a4"><title>Khalsa</title></circle></a><a href="/variants/s29/db98k98y1g10y1k11y1k1y1k1y1k1y1k1y1k1y1k11db1k1db10k1db1k1r7y1r10k10g2~x2/"><circle cx="297.9" cy="14.0" r="4" fill="#3465a4"><title>Westwood Metropolitan 1 (Fashion)</title></circle></a><a href="/variants/s15/db1k6db2k8db2k2db52r2db2y8db2y6db2y2r1~x2/"><circle cx="395.1" cy="34.4" r="4" fill="#3465a4"><title>(3) Laing</title></circle></a><a href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/"><circle cx="361.0" cy="44.3" r="4" fill="#3465a4"><title>Goldwire (2015)</title></circle></a><circle cx="385.5" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s23/k207db6k2db6k2db6k2db6k92dbi28k6w4dbi77db6k2dbi10k2dbi10k2dbi10k2r4dbi14~db0805267-dbi1604274/

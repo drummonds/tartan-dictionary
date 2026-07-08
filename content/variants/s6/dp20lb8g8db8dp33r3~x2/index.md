@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McIntosh, Stuart (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp20lb8g8db8dp33r3/)
 (the same proportion at any scale), whose colour order is pattern [BWGBBR](/stripes/bwgbbr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10215
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10215](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10215)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db2g4lb11dp19db1dp19o4lo2~x2/"><circle cx="311.5" cy="137.7" r="4" fill="#3465a4"><title>Brigid Mhairi</title></circle></a><a href="/variants/s6/dp24k4lb10db3dp3w2~x2/"><circle cx="274.7" cy="153.2" r="4" fill="#3465a4"><title>Cramer (Personal)</title></circle></a><a href="/variants/s6/dp46b15k12o8g8dp8~x2/"><circle cx="245.5" cy="201.1" r="4" fill="#3465a4"><title>Haut (Personal)</title></circle></a><a href="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/"><circle cx="374.3" cy="214.4" r="4" fill="#3465a4"><title>International Festival of Authors</title></circle></a><a href="/variants/s5/dp46k6g9lo9r4/"><circle cx="308.0" cy="157.8" r="4" fill="#3465a4"><title>Ayllu Thuban (Corporate)</title></circle></a><a href="/variants/s6/g4y3db35r13dp8w3~x2/"><circle cx="277.5" cy="152.6" r="4" fill="#3465a4"><title>Kilsyth</title></circle></a><a href="/variants/s6/dp30m5dp5b4dp4g12~x2~m2609322-b2306275/"><circle cx="378.7" cy="215.3" r="4" fill="#3465a4"><title>International Festival of Authors (C</title></circle></a><a href="/variants/s4/n10k2db2dp1~x5/"><circle cx="387.8" cy="210.6" r="4" fill="#3465a4"><title>Lord Willy's (Corporate)</title></circle></a><a href="/variants/s4/n25k5db5dp3~x2/"><circle cx="375.8" cy="219.5" r="4" fill="#3465a4"><title>Lord Willy's (New York)</title></circle></a><a href="/variants/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="291.9" cy="215.2" r="4" fill="#3465a4"><title>Woodcock (2014)</title></circle></a><circle cx="361.9" cy="200.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db2g4lb11dp19db1dp19o4lo2~x2/"><circle cx="311.5" cy="137.9" r="4" fill="#3465a4"><title>Brigid Mhairi</title></circle></a><a href="/variants/s6/dp24k4lb10db3dp3w2~x2/"><circle cx="274.7" cy="153.6" r="4" fill="#3465a4"><title>Cramer (Personal)</title></circle></a><a href="/variants/s6/dp46b15k12o8g8dp8~x2/"><circle cx="245.5" cy="201.6" r="4" fill="#3465a4"><title>Haut (Personal)</title></circle></a><a href="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/"><circle cx="374.4" cy="214.9" r="4" fill="#3465a4"><title>International Festival of Authors</title></circle></a><a href="/variants/s5/dp46k6g9lo9r4/"><circle cx="308.0" cy="158.2" r="4" fill="#3465a4"><title>Ayllu Thuban (Corporate)</title></circle></a><a href="/variants/s6/g4y3db35r13dp8w3~x2/"><circle cx="277.5" cy="152.9" r="4" fill="#3465a4"><title>Kilsyth</title></circle></a><a href="/variants/s6/dp30m5dp5b4dp4g12~x2~m2609322-b2306275/"><circle cx="378.8" cy="215.8" r="4" fill="#3465a4"><title>International Festival of Authors (C</title></circle></a><a href="/variants/s4/n10k2db2dp1~x5/"><circle cx="387.9" cy="211.1" r="4" fill="#3465a4"><title>Lord Willy's (Corporate)</title></circle></a><a href="/variants/s4/n25k5db5dp3~x2/"><circle cx="375.9" cy="220.0" r="4" fill="#3465a4"><title>Lord Willy's (New York)</title></circle></a><a href="/variants/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="292.0" cy="215.6" r="4" fill="#3465a4"><title>Woodcock (2014)</title></circle></a><circle cx="362.0" cy="201.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dp20lb8g8db8dp33r3~x2/

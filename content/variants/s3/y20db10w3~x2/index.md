@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Masai Shuka 04 (Artefact)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y20db10w3/)
 (the same proportion at any scale), whose colour order is pattern [GBW](/stripes/gbw/).
 
 Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7191
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7191](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7191)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/n22y10w3db8~x2/"><circle cx="325.2" cy="291.3" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s4/db18w4db3y12~x2/"><circle cx="320.5" cy="287.7" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><a href="/variants/s3/db53g42r14~x2/"><circle cx="250.5" cy="335.8" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/variants/s3/db53g42r14/"><circle cx="250.5" cy="335.8" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/variants/s4/w1g10db4lb1~x2/"><circle cx="370.9" cy="244.1" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="297.7" cy="300.5" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><a href="/variants/s5/db10w3db12y14r4~x2/"><circle cx="224.9" cy="278.7" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/variants/s4/y6w5y12r2~x2/"><circle cx="414.4" cy="287.3" r="4" fill="#3465a4"><title>One Account (Corporate)</title></circle></a><a href="/variants/s3/db5g6r1~x4/"><circle cx="289.6" cy="310.7" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><a href="/variants/s4/g15r3db11w2/"><circle cx="245.4" cy="254.9" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><circle cx="361.6" cy="300.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/n22y10w3db8~x2/"><circle cx="325.4" cy="291.9" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s4/db18w4db3y12~x2/"><circle cx="320.7" cy="288.5" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><a href="/variants/s3/db53g42r14~x2/"><circle cx="250.8" cy="336.7" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/variants/s3/db53g42r14/"><circle cx="250.8" cy="336.7" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/variants/s4/w1g10db4lb1~x2/"><circle cx="371.0" cy="244.7" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="297.9" cy="301.2" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><a href="/variants/s5/db10w3db12y14r4~x2/"><circle cx="225.1" cy="279.5" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/variants/s4/y6w5y12r2~x2/"><circle cx="414.7" cy="288.2" r="4" fill="#3465a4"><title>One Account (Corporate)</title></circle></a><a href="/variants/s3/db5g6r1~x4/"><circle cx="289.8" cy="311.5" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><a href="/variants/s4/g15r3db11w2/"><circle cx="245.5" cy="255.5" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><circle cx="361.8" cy="301.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/y20db10w3~x2/

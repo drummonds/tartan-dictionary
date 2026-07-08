@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Manson"
   url: "/tartans/manson/"
+- name: "Manson"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg1r24dg8k8dg8r1k4db16w1/)
 (the same proportion at any scale), whose colour order is pattern [GRGKGRKBW](/stripes/grgkgrkbw/).
@@ -14,7 +16,7 @@ Part of the [Manson](/tartans/manson/) tartan — the named design grouping this
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2810
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2810](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2810)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg1r11dg3k4dg4r1k2db11w1~x2/"><circle cx="120.8" cy="153.3" r="4" fill="#3465a4"><title>Manson (Name)</title></circle></a><a href="/variants/s9/db1r20g6k6g6r1k6db20w1~x2/"><circle cx="134.3" cy="126.0" r="4" fill="#3465a4"><title>Bush Pilot</title></circle></a><a href="/variants/s8/k3r2db30r1k18o30r2o3~x2/"><circle cx="196.2" cy="107.7" r="4" fill="#3465a4"><title>Bannockbane Navy Fashion Tartan</title></circle></a><a href="/variants/s7/dbi4y1r28db25k10dbi5k3~x2~dbi1605267-db1003265/"><circle cx="202.1" cy="128.0" r="4" fill="#3465a4"><title>McKnight (Personal)</title></circle></a><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/"><circle cx="164.2" cy="135.5" r="4" fill="#3465a4"><title>McGurk (Personal)</title></circle></a><a href="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="213.8" cy="113.0" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/variants/s7/dp18k7g5r4g7k1y2~x2/"><circle cx="181.1" cy="153.6" r="4" fill="#3465a4"><title>Regent</title></circle></a><a href="/variants/s12/dr4k4dr28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="203.0" cy="102.2" r="4" fill="#3465a4"><title>Kelly of Sleat (Name)</title></circle></a><a href="/variants/s7/dp18k7g5r4g7k1dy2~x2/"><circle cx="183.8" cy="154.4" r="4" fill="#3465a4"><title>Regent</title></circle></a><a href="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="207.6" cy="112.6" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><circle cx="162.0" cy="121.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg1r11dg3k4dg4r1k2db11w1~x2/"><circle cx="120.8" cy="153.7" r="4" fill="#3465a4"><title>Manson (Name)</title></circle></a><a href="/variants/s9/db1r20g6k6g6r1k6db20w1~x2/"><circle cx="134.2" cy="126.3" r="4" fill="#3465a4"><title>Bush Pilot</title></circle></a><a href="/variants/s8/k3r2db30r1k18o30r2o3~x2/"><circle cx="196.1" cy="107.9" r="4" fill="#3465a4"><title>Bannockbane Navy Fashion Tartan</title></circle></a><a href="/variants/s7/dbi4y1r28db25k10dbi5k3~x2~dbi1605267-db1003265/"><circle cx="202.1" cy="128.2" r="4" fill="#3465a4"><title>McKnight (Personal)</title></circle></a><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/"><circle cx="164.2" cy="135.8" r="4" fill="#3465a4"><title>McGurk (Personal)</title></circle></a><a href="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="213.8" cy="113.2" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/variants/s7/dp18k7g5r4g7k1y2~x2/"><circle cx="181.0" cy="153.9" r="4" fill="#3465a4"><title>Regent</title></circle></a><a href="/variants/s12/dr4k4dr28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="202.9" cy="102.4" r="4" fill="#3465a4"><title>Kelly of Sleat (Name)</title></circle></a><a href="/variants/s7/dp18k7g5r4g7k1dy2~x2/"><circle cx="183.7" cy="154.7" r="4" fill="#3465a4"><title>Regent</title></circle></a><a href="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="207.6" cy="112.8" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><circle cx="161.9" cy="121.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dg1r24dg8k8dg8r1k4db16w1~x2/

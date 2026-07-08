@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Oilmens"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4k2r24k15r30k1y4k1r30k15r24k2r4k1/)
 (the same proportion at any scale), whose colour order is pattern [KRKRKRKGKRKRKR](/stripes/krkrkrkgkrkrkr/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5435
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5435](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5435)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y4k1r30k15r24k2r4k1~x4/"><circle cx="426.6" cy="114.9" r="4" fill="#3465a4"><title>Oilmens (Corporate)</title></circle></a><a href="/variants/s8/r20k1ly3k1r60k30r48k4~x2/"><circle cx="479.8" cy="96.0" r="4" fill="#3465a4"><title>Barkwell (Personal)</title></circle></a><a href="/variants/s9/k5r40k4w2k4r10w4r5w1~x2/"><circle cx="447.8" cy="79.1" r="4" fill="#3465a4"><title>Southern Illinois University (Corp.)</title></circle></a><a href="/variants/s13/k6r1k1r1k1r5k2r5k4r2w1r40w1~x2/"><circle cx="494.9" cy="42.8" r="4" fill="#3465a4"><title>Jupiter Shop Channel Co Ltd</title></circle></a><a href="/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/"><circle cx="486.0" cy="97.4" r="4" fill="#3465a4"><title>MacPherson-Grant</title></circle></a><a href="/variants/s7/r18g1k5g1k1g1r9~x2/"><circle cx="448.0" cy="136.3" r="4" fill="#3465a4"><title>Duke of Sussex</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2/"><circle cx="453.5" cy="94.6" r="4" fill="#3465a4"><title>Virgin (Corporate)</title></circle></a><a href="/variants/s10/r40w1r1k8r1w1r6w1r1k8~x2/"><circle cx="454.5" cy="62.4" r="4" fill="#3465a4"><title>Miyuki, Check Red, 1002A</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2~r2310029/"><circle cx="448.2" cy="92.5" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/variants/s5/k22w1k12r43w1~x2/"><circle cx="382.6" cy="108.3" r="4" fill="#3465a4"><title>Knights Templar Hunting</title></circle></a><circle cx="427.1" cy="97.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y4k1r30k15r24k2r4k1~x4/"><circle cx="426.5" cy="115.3" r="4" fill="#3465a4"><title>Oilmens (Corporate)</title></circle></a><a href="/variants/s8/r20k1ly3k1r60k30r48k4~x2/"><circle cx="479.7" cy="96.3" r="4" fill="#3465a4"><title>Barkwell (Personal)</title></circle></a><a href="/variants/s9/k5r40k4w2k4r10w4r5w1~x2/"><circle cx="447.7" cy="79.4" r="4" fill="#3465a4"><title>Southern Illinois University (Corp.)</title></circle></a><a href="/variants/s13/k6r1k1r1k1r5k2r5k4r2w1r40w1~x2/"><circle cx="494.8" cy="43.0" r="4" fill="#3465a4"><title>Jupiter Shop Channel Co Ltd</title></circle></a><a href="/variants/s11/r90k6r6k6r90g6r6g45r6k4r3/"><circle cx="486.0" cy="97.7" r="4" fill="#3465a4"><title>MacPherson-Grant</title></circle></a><a href="/variants/s7/r18g1k5g1k1g1r9~x2/"><circle cx="448.0" cy="136.8" r="4" fill="#3465a4"><title>Duke of Sussex</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2/"><circle cx="453.5" cy="95.0" r="4" fill="#3465a4"><title>Virgin (Corporate)</title></circle></a><a href="/variants/s10/r40w1r1k8r1w1r6w1r1k8~x2/"><circle cx="454.4" cy="62.7" r="4" fill="#3465a4"><title>Miyuki, Check Red, 1002A</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2~r2310029/"><circle cx="448.1" cy="92.9" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/variants/s5/k22w1k12r43w1~x2/"><circle cx="382.6" cy="108.6" r="4" fill="#3465a4"><title>Knights Templar Hunting</title></circle></a><circle cx="427.0" cy="98.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/r4k2r24k15r30k1y4k1r30k15r24k2r4k1~x4/

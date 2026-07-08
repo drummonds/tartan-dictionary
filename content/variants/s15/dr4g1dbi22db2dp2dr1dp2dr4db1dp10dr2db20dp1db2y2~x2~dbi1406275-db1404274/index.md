@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Cathedral"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr4g1dbi22db2dp2dr1dp2dr4db1dp10dr2db20dp1db2y2/)
 (the same proportion at any scale), whose colour order is pattern [BGBBBBBBBBBBBBGBBBBBBBBBBBBG](/stripes/bgbbbbbbbbbbbbgbbbbbbbbbbbbg/).
 
 Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1707
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1707](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1707)
 
 ## Provenance
 

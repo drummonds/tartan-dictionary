@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacDuff #4"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4k2r24k6db6g16r3/)
 (the same proportion at any scale), whose colour order is pattern [RGBKRKR](/stripes/rgbkrkr/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2416
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2416](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2416)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r6g21k8r28k2r4~x2/"><circle cx="290.6" cy="183.6" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/variants/s6/r10g24k10r28lb3r6~x2/"><circle cx="246.7" cy="201.9" r="4" fill="#3465a4"><title>Nisbet</title></circle></a><a href="/variants/s6/r5w2r28k12g16r3~x2/"><circle cx="257.2" cy="169.1" r="4" fill="#3465a4"><title>MacKintosh #4</title></circle></a><a href="/variants/s6/r25k7r3g13lb1k2~x4/"><circle cx="290.0" cy="134.3" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.0" cy="183.1" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s6/k2r16g6r3g8lb1~x2/"><circle cx="297.2" cy="174.2" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s6/r25k7r3g13y1k2~x4/"><circle cx="291.8" cy="134.9" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2~r2609032/"><circle cx="193.0" cy="153.6" r="4" fill="#3465a4"><title>MacNaughton (Logan) #2</title></circle></a><a href="/variants/s7/k2r4w1r10g12r2w2~x4/"><circle cx="238.8" cy="174.1" r="4" fill="#3465a4"><title>Starr (1978) (Name)</title></circle></a><a href="/variants/s6/r100k15g48db5r7db16~x2/"><circle cx="305.3" cy="143.3" r="4" fill="#3465a4"><title>Plummer (Personal)</title></circle></a><circle cx="233.0" cy="168.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r6g21k8r28k2r4~x2/"><circle cx="290.6" cy="184.2" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/variants/s6/r10g24k10r28lb3r6~x2/"><circle cx="246.7" cy="202.6" r="4" fill="#3465a4"><title>Nisbet</title></circle></a><a href="/variants/s6/r5w2r28k12g16r3~x2/"><circle cx="257.2" cy="169.6" r="4" fill="#3465a4"><title>MacKintosh #4</title></circle></a><a href="/variants/s6/r25k7r3g13lb1k2~x4/"><circle cx="290.0" cy="134.7" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.1" cy="183.7" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s6/k2r16g6r3g8lb1~x2/"><circle cx="297.3" cy="174.7" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s6/r25k7r3g13y1k2~x4/"><circle cx="291.8" cy="135.3" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2~r2609032/"><circle cx="193.0" cy="154.1" r="4" fill="#3465a4"><title>MacNaughton (Logan) #2</title></circle></a><a href="/variants/s7/k2r4w1r10g12r2w2~x4/"><circle cx="238.9" cy="174.6" r="4" fill="#3465a4"><title>Starr (1978) (Name)</title></circle></a><a href="/variants/s6/r100k15g48db5r7db16~x2/"><circle cx="305.3" cy="143.7" r="4" fill="#3465a4"><title>Plummer (Personal)</title></circle></a><circle cx="233.0" cy="168.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r4k2r24k6db6g16r3~x2/

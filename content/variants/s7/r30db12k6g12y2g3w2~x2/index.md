@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Hewitt"
   url: "/tartans/hewitt/"
+- name: "Hewitt"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r30db12k6g12y2g3w2/)
 (the same proportion at any scale), whose colour order is pattern [RBKGGGW](/stripes/rbkgggw/).
@@ -14,7 +16,7 @@ Part of the [Hewitt](/tartans/hewitt/) tartan — the named design grouping this
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5929
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5929](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5929)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r30db12k3g12y2g3w2~x2/"><circle cx="203.2" cy="127.8" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><a href="/variants/s9/k4db12lb3db4g8lo2r24db4r4~x2/"><circle cx="161.5" cy="132.0" r="4" fill="#3465a4"><title>MacCreary (Personal)</title></circle></a><a href="/variants/s6/r48db16y5g17w8k3~x2/"><circle cx="205.7" cy="134.2" r="4" fill="#3465a4"><title>Scottish American Society of Michigan (Official)</title></circle></a><a href="/variants/s9/db3lb1k1r12b1g9r1lb1db3~x4/"><circle cx="164.7" cy="126.0" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s9/db3lb1k1r12ri1g9r1lb1db3~x4~r2109032-ri2406019/"><circle cx="167.6" cy="126.6" r="4" fill="#3465a4"><title>Moray of Abercairney Clan Tartan</title></circle></a><a href="/variants/s6/y5k2g4lb18r25w5~x2/"><circle cx="181.5" cy="158.1" r="4" fill="#3465a4"><title>Christie (London)</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="176.8" cy="157.9" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s7/r3n2r25o12k25w2lb2~x2~n1900000-o2500000/"><circle cx="143.9" cy="126.4" r="4" fill="#3465a4"><title>Bombeiros Voluntarios De Galicia (Co</title></circle></a><a href="/variants/s6/r63w4k4dp18ly4dg50~x2/"><circle cx="221.7" cy="139.0" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Portrait)</title></circle></a><a href="/variants/s6/t6dp5k2g18r28w2~x2/"><circle cx="209.1" cy="148.1" r="4" fill="#3465a4"><title>Dundhuin Ladies (Personal)</title></circle></a><circle cx="178.2" cy="131.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r30db12k3g12y2g3w2~x2/"><circle cx="203.2" cy="128.1" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><a href="/variants/s9/k4db12lb3db4g8lo2r24db4r4~x2/"><circle cx="161.5" cy="132.3" r="4" fill="#3465a4"><title>MacCreary (Personal)</title></circle></a><a href="/variants/s6/r48db16y5g17w8k3~x2/"><circle cx="205.7" cy="134.5" r="4" fill="#3465a4"><title>Scottish American Society of Michigan (Official)</title></circle></a><a href="/variants/s9/db3lb1k1r12b1g9r1lb1db3~x4/"><circle cx="164.7" cy="126.3" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s9/db3lb1k1r12ri1g9r1lb1db3~x4~r2109032-ri2406019/"><circle cx="167.6" cy="126.9" r="4" fill="#3465a4"><title>Moray of Abercairney Clan Tartan</title></circle></a><a href="/variants/s6/y5k2g4lb18r25w5~x2/"><circle cx="181.5" cy="158.5" r="4" fill="#3465a4"><title>Christie (London)</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="176.8" cy="158.4" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s7/r3n2r25o12k25w2lb2~x2~n1900000-o2500000/"><circle cx="143.8" cy="126.8" r="4" fill="#3465a4"><title>Bombeiros Voluntarios De Galicia (Co</title></circle></a><a href="/variants/s6/r63w4k4dp18ly4dg50~x2/"><circle cx="221.7" cy="139.4" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Portrait)</title></circle></a><a href="/variants/s6/t6dp5k2g18r28w2~x2/"><circle cx="209.1" cy="148.5" r="4" fill="#3465a4"><title>Dundhuin Ladies (Personal)</title></circle></a><circle cx="178.1" cy="131.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r30db12k6g12y2g3w2~x2/

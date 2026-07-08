@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Nowell/Noel"
   url: "/tartans/nowell-noel/"
+- name: "Nowell/Noel (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3g4db20g24k2lr3r1/)
 (the same proportion at any scale), whose colour order is pattern [BGBGKYR](/stripes/bgbgkyr/).
@@ -14,7 +16,7 @@ Part of the [Nowell/Noel](/tartans/nowell-noel/) tartan — the named design gro
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4108
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4108](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4108)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db8g2db10g12k1lr1r1~x4/"><circle cx="261.6" cy="173.8" r="4" fill="#3465a4"><title>Nowell/Noel</title></circle></a><a href="/variants/s8/r1g16db2g10db22y4r2y1~x2/"><circle cx="300.2" cy="169.8" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/variants/s6/k3g36db28r2db2y3~x2/"><circle cx="278.6" cy="150.5" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s7/dp6y2dp1g25db16k2db4~x2~dp1105325/"><circle cx="255.4" cy="141.7" r="4" fill="#3465a4"><title>Lowry Clan Tartan</title></circle></a><a href="/variants/s7/dp6r2dp1g25db16k2db4~x2~dp1105325/"><circle cx="251.8" cy="139.5" r="4" fill="#3465a4"><title>Laurie Clan Tartan</title></circle></a><a href="/variants/s7/dp6dy2dp1g25db16k2db4~x2~dp1105325/"><circle cx="256.8" cy="142.0" r="4" fill="#3465a4"><title>Lawrie Clan Tartan</title></circle></a><a href="/variants/s5/k3db3g23db21w2~x2~db1406275/"><circle cx="226.9" cy="190.2" r="4" fill="#3465a4"><title>Douglas Clan Tartan</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="231.5" cy="174.7" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s8/k3r1y1db11g13db5r1y1~x2/"><circle cx="209.4" cy="153.3" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s6/o4g9w2g24db37r3~x2/"><circle cx="278.7" cy="169.6" r="4" fill="#3465a4"><title>Hardie Clan Tartan</title></circle></a><circle cx="275.1" cy="134.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db8g2db10g12k1lr1r1~x4/"><circle cx="261.6" cy="174.2" r="4" fill="#3465a4"><title>Nowell/Noel</title></circle></a><a href="/variants/s8/r1g16db2g10db22y4r2y1~x2/"><circle cx="300.2" cy="170.0" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/variants/s6/k3g36db28r2db2y3~x2/"><circle cx="278.5" cy="150.8" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s7/dp6y2dp1g25db16k2db4~x2~dp1105325/"><circle cx="255.3" cy="141.9" r="4" fill="#3465a4"><title>Lowry Clan Tartan</title></circle></a><a href="/variants/s7/dp6r2dp1g25db16k2db4~x2~dp1105325/"><circle cx="251.7" cy="139.7" r="4" fill="#3465a4"><title>Laurie Clan Tartan</title></circle></a><a href="/variants/s7/dp6dy2dp1g25db16k2db4~x2~dp1105325/"><circle cx="256.8" cy="142.2" r="4" fill="#3465a4"><title>Lawrie Clan Tartan</title></circle></a><a href="/variants/s5/k3db3g23db21w2~x2~db1406275/"><circle cx="227.0" cy="190.7" r="4" fill="#3465a4"><title>Douglas Clan Tartan</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="231.5" cy="175.0" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s8/k3r1y1db11g13db5r1y1~x2/"><circle cx="209.4" cy="153.6" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s6/o4g9w2g24db37r3~x2/"><circle cx="278.7" cy="169.9" r="4" fill="#3465a4"><title>Hardie Clan Tartan</title></circle></a><circle cx="275.1" cy="134.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db3g4db20g24k2lr3r1~x2/

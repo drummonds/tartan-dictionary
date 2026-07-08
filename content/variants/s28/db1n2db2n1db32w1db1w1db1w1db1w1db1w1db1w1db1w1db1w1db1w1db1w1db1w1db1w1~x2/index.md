@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kilnsey (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1n2db2n1db32w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1db1w1/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBWBWBWBWBWBWBWBWBWBWBWBW](/stripes/bbbbbwbwbwbwbwbwbwbwbwbwbwbw/).
 
 Sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6015
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6015](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6015)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

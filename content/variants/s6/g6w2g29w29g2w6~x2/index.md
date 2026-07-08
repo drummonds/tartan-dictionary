@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Erskine, Green (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6w2g29w29g2w6/)
 (the same proportion at any scale), whose colour order is pattern [GWGWGW](/stripes/gwgwgw/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=941
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=941](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=941)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w12g12w1g12w12ly1~x4/"><circle cx="329.9" cy="266.9" r="4" fill="#3465a4"><title>Wallace Green Dress Fashion Tartan</title></circle></a><a href="/variants/s7/w5r3w26g21w3g8y3~x2/"><circle cx="276.7" cy="217.2" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance) #2</title></circle></a><a href="/variants/s7/w5r3w26dt21w3dt8y3~x2/"><circle cx="250.8" cy="203.5" r="4" fill="#3465a4"><title>MacPherson Dress, Blue (Dance)</title></circle></a><a href="/variants/s7/w5dr3w26g20w3g8y3~x2/"><circle cx="284.9" cy="223.8" r="4" fill="#3465a4"><title>MacPherson Dress, Green (Dance)</title></circle></a><a href="/variants/s7/w5r3w26g20w3g8y3~x2/"><circle cx="278.7" cy="217.2" r="4" fill="#3465a4"><title>MacPherson Dress Green (Dance)</title></circle></a><a href="/variants/s4/dg4w35g31w4~x2/"><circle cx="333.3" cy="273.3" r="4" fill="#3465a4"><title>Lewis, Green (Dance)</title></circle></a><a href="/variants/s6/y8w3y28w32dp3w4~x2/"><circle cx="345.4" cy="233.9" r="4" fill="#3465a4"><title>Ailsa Yellow Fashion Tartan</title></circle></a><circle cx="381.8" cy="241.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w12g12w1g12w12ly1~x4/"><circle cx="330.1" cy="267.6" r="4" fill="#3465a4"><title>Wallace Green Dress Fashion Tartan</title></circle></a><a href="/variants/s7/w5r3w26g21w3g8y3~x2/"><circle cx="276.8" cy="217.8" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance) #2</title></circle></a><a href="/variants/s7/w5r3w26dt21w3dt8y3~x2/"><circle cx="250.9" cy="204.1" r="4" fill="#3465a4"><title>MacPherson Dress, Blue (Dance)</title></circle></a><a href="/variants/s7/w5dr3w26g20w3g8y3~x2/"><circle cx="285.1" cy="224.4" r="4" fill="#3465a4"><title>MacPherson Dress, Green (Dance)</title></circle></a><a href="/variants/s7/w5r3w26g20w3g8y3~x2/"><circle cx="278.8" cy="217.9" r="4" fill="#3465a4"><title>MacPherson Dress Green (Dance)</title></circle></a><a href="/variants/s4/dg4w35g31w4~x2/"><circle cx="333.6" cy="274.1" r="4" fill="#3465a4"><title>Lewis, Green (Dance)</title></circle></a><a href="/variants/s6/y8w3y28w32dp3w4~x2/"><circle cx="345.6" cy="234.5" r="4" fill="#3465a4"><title>Ailsa Yellow Fashion Tartan</title></circle></a><circle cx="381.9" cy="242.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g6w2g29w29g2w6~x2/

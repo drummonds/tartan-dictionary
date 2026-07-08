@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacLeods Highlanders"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2/)
 (the same proportion at any scale), whose colour order is pattern [BRWRWKGKWKGKBKR](/stripes/brwrwkgkwkgkbkr/).
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2648
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2648](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2648)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db12k2db2k2db2k12g12r2w2r2g12k12db12r3db2~x2/"><circle cx="83.1" cy="168.7" r="4" fill="#3465a4"><title>MacKenzie Morgan</title></circle></a><a href="/variants/s15/t12k2t2k2t2k12dg12w2r2w2dg12k12t12r3t2~x2/"><circle cx="82.3" cy="170.6" r="4" fill="#3465a4"><title>Morgan Mackenzie (Personal?)</title></circle></a><a href="/variants/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/"><circle cx="84.5" cy="169.1" r="4" fill="#3465a4"><title>MacKenzie MINI Clan Miniature Tartan</title></circle></a><a href="/variants/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="89.8" cy="170.4" r="4" fill="#3465a4"><title>Gemmell Clan Tartan</title></circle></a><a href="/variants/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/"><circle cx="78.7" cy="177.4" r="4" fill="#3465a4"><title>Arndt (Personal)</title></circle></a><a href="/variants/s14/r2db4k1db1k1db1k8g8y2g8k8db8k1r2/"><circle cx="94.6" cy="159.1" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/variants/s14/r2db4k1db1k1db1k8g8y2g8k8db8k1r2~x2/"><circle cx="94.6" cy="159.1" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/variants/s13/db12k2r2k2r2k12g11y2g11k12db11k2r2~x2/"><circle cx="91.8" cy="176.4" r="4" fill="#3465a4"><title>Black Watch, Plaid of Pipers...</title></circle></a><a href="/variants/s15/db13w2db2r2db2k12g12k2g3k2g12k12db12k2r3~x2/"><circle cx="82.8" cy="166.1" r="4" fill="#3465a4"><title>Scottish National</title></circle></a><a href="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="84.9" cy="153.7" r="4" fill="#3465a4"><title>MacRae Hunting (Wilsons)</title></circle></a><circle cx="69.5" cy="163.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db12k2db2k2db2k12g12r2w2r2g12k12db12r3db2~x2/"><circle cx="83.0" cy="169.1" r="4" fill="#3465a4"><title>MacKenzie Morgan</title></circle></a><a href="/variants/s15/t12k2t2k2t2k12dg12w2r2w2dg12k12t12r3t2~x2/"><circle cx="82.3" cy="171.0" r="4" fill="#3465a4"><title>Morgan Mackenzie (Personal?)</title></circle></a><a href="/variants/s15/db6k1db1k1db1k6g6k1w2k1g6k6db6k1r2~x2/"><circle cx="84.5" cy="169.6" r="4" fill="#3465a4"><title>MacKenzie MINI Clan Miniature Tartan</title></circle></a><a href="/variants/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="89.8" cy="170.8" r="4" fill="#3465a4"><title>Gemmell Clan Tartan</title></circle></a><a href="/variants/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/"><circle cx="78.7" cy="177.8" r="4" fill="#3465a4"><title>Arndt (Personal)</title></circle></a><a href="/variants/s14/r2db4k1db1k1db1k8g8y2g8k8db8k1r2/"><circle cx="94.6" cy="159.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/variants/s14/r2db4k1db1k1db1k8g8y2g8k8db8k1r2~x2/"><circle cx="94.6" cy="159.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/variants/s13/db12k2r2k2r2k12g11y2g11k12db11k2r2~x2/"><circle cx="91.8" cy="176.8" r="4" fill="#3465a4"><title>Black Watch, Plaid of Pipers...</title></circle></a><a href="/variants/s15/db13w2db2r2db2k12g12k2g3k2g12k12db12k2r3~x2/"><circle cx="82.8" cy="166.5" r="4" fill="#3465a4"><title>Scottish National</title></circle></a><a href="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="84.8" cy="154.1" r="4" fill="#3465a4"><title>MacRae Hunting (Wilsons)</title></circle></a><circle cx="69.4" cy="163.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/db12r2w2r2w2k12g11k2w2k2g11k12db11k2r2~x2/

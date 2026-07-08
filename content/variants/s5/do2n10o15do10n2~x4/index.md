@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harmony 8"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do2n10o15do10n2/)
 (the same proportion at any scale), whose colour order is pattern [BBRBB](/stripes/bbrbb/).
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090/"><circle cx="471.4" cy="277.8" r="4" fill="#3465a4"><title>Lister (Name)</title></circle></a><a href="/variants/s5/r4dg1g6y3r2~x8~g1903114-y2303114/"><circle cx="285.5" cy="302.3" r="4" fill="#3465a4"><title>Belladrum Estate</title></circle></a><a href="/variants/s6/o3r19o18g19o3g3~x2/"><circle cx="311.7" cy="286.0" r="4" fill="#3465a4"><title>MacNab (Macgregor - Hastie)</title></circle></a><a href="/variants/s8/db5n15o4n4o24n4o4db5/"><circle cx="391.5" cy="272.8" r="4" fill="#3465a4"><title>Daks, (Muted Skye)</title></circle></a><a href="/variants/s8/do10o24dr3o3dr24dg3o6do6~x2/"><circle cx="340.8" cy="244.8" r="4" fill="#3465a4"><title>Earle's Flame (Fashion)</title></circle></a><a href="/variants/s4/n70lo16t3o45/"><circle cx="476.2" cy="257.0" r="4" fill="#3465a4"><title>Klymson (Personal)</title></circle></a><a href="/variants/s8/do24g2do5oi14g2oi5o17do2~x2~oi2104058-o2102055/"><circle cx="371.7" cy="236.4" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><a href="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1504144-g1903114/"><circle cx="317.8" cy="270.1" r="4" fill="#3465a4"><title>Glen Esk (1993)</title></circle></a><circle cx="365.2" cy="311.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090/"><circle cx="471.6" cy="278.2" r="4" fill="#3465a4"><title>Lister (Name)</title></circle></a><a href="/variants/s5/r4dg1g6y3r2~x8~g1903114-y2303114/"><circle cx="285.7" cy="302.9" r="4" fill="#3465a4"><title>Belladrum Estate</title></circle></a><a href="/variants/s6/o3r19o18g19o3g3~x2/"><circle cx="311.9" cy="286.5" r="4" fill="#3465a4"><title>MacNab (Macgregor - Hastie)</title></circle></a><a href="/variants/s8/db5n15o4n4o24n4o4db5/"><circle cx="391.7" cy="273.2" r="4" fill="#3465a4"><title>Daks, (Muted Skye)</title></circle></a><a href="/variants/s8/do10o24dr3o3dr24dg3o6do6~x2/"><circle cx="340.9" cy="245.1" r="4" fill="#3465a4"><title>Earle's Flame (Fashion)</title></circle></a><a href="/variants/s4/n70lo16t3o45/"><circle cx="476.3" cy="257.2" r="4" fill="#3465a4"><title>Klymson (Personal)</title></circle></a><a href="/variants/s8/do24g2do5oi14g2oi5o17do2~x2~oi2104058-o2102055/"><circle cx="371.8" cy="236.6" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><a href="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1504144-g1903114/"><circle cx="318.0" cy="270.6" r="4" fill="#3465a4"><title>Glen Esk (1993)</title></circle></a><circle cx="365.5" cy="312.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/do2n10o15do10n2~x4/

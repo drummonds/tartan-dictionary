@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harry/Parry"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db6ly3db3ly15r7db7r5db17r46ly4/)
 (the same proportion at any scale), whose colour order is pattern [BYBYRBRBRY](/stripes/bybyrbrbry/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5935
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5935](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5935)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r28g2r5g2r28db3r3g24r3db24r3db3~x2/"><circle cx="328.6" cy="165.5" r="4" fill="#3465a4"><title>Robertson #5</title></circle></a><a href="/variants/s9/db2r21db1w4db7w2db2w2r2~x2/"><circle cx="329.2" cy="138.2" r="4" fill="#3465a4"><title>31, Tartan (The.. )</title></circle></a><a href="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5~x2/"><circle cx="319.2" cy="154.6" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5/"><circle cx="319.2" cy="154.6" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r3g1r15db2r2db15r2g15r2db2r15g1r3~x2/"><circle cx="319.7" cy="159.5" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="303.8" cy="154.5" r="4" fill="#3465a4"><title>Jenkins (Name)</title></circle></a><a href="/variants/s13/r3g3r35db3r3db35r3g35r3db3r35g3r3~x2/"><circle cx="303.3" cy="160.3" r="4" fill="#3465a4"><title>Robertson 1819</title></circle></a><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><circle cx="291.8" cy="158.7" r="4" fill="#3465a4"><title>Harkness</title></circle></a><a href="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/"><circle cx="351.2" cy="146.0" r="4" fill="#3465a4"><title>American</title></circle></a><a href="/variants/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/"><circle cx="299.9" cy="174.9" r="4" fill="#3465a4"><title>Robertson Curtain</title></circle></a><circle cx="313.1" cy="160.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r28g2r5g2r28db3r3g24r3db24r3db3~x2/"><circle cx="328.6" cy="165.9" r="4" fill="#3465a4"><title>Robertson #5</title></circle></a><a href="/variants/s9/db2r21db1w4db7w2db2w2r2~x2/"><circle cx="329.2" cy="138.6" r="4" fill="#3465a4"><title>31, Tartan (The.. )</title></circle></a><a href="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5~x2/"><circle cx="319.3" cy="155.0" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r5g2r30db3r3db30r3g30r3db3r30g2r5/"><circle cx="319.3" cy="155.0" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s13/r3g1r15db2r2db15r2g15r2db2r15g1r3~x2/"><circle cx="319.8" cy="159.9" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/variants/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="303.8" cy="154.9" r="4" fill="#3465a4"><title>Jenkins (Name)</title></circle></a><a href="/variants/s13/r3g3r35db3r3db35r3g35r3db3r35g3r3~x2/"><circle cx="303.3" cy="160.7" r="4" fill="#3465a4"><title>Robertson 1819</title></circle></a><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><circle cx="291.8" cy="159.1" r="4" fill="#3465a4"><title>Harkness</title></circle></a><a href="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/"><circle cx="351.3" cy="146.4" r="4" fill="#3465a4"><title>American</title></circle></a><a href="/variants/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/"><circle cx="299.9" cy="175.3" r="4" fill="#3465a4"><title>Robertson Curtain</title></circle></a><circle cx="313.2" cy="160.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db6ly3db3ly15r7db7r5db17r46ly4/

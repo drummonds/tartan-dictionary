@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Myron"
   url: "/tartans/myron/"
+- name: "Myron"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3g3dr2g3y2g2y2g11db3k3db3k3db3k3db3g20r3/)
 (the same proportion at any scale), whose colour order is pattern [KGBGGGGGBKBKBKBGR](/stripes/kgbgggggbkbkbkbgr/).
@@ -14,7 +16,7 @@ Part of the [Myron](/tartans/myron/) tartan — the named design grouping this s
 
 Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/k1g1dr1g1lo1g1lo1g4db1k1db1k1db1k1db1g7dr1~x4/"><circle cx="187.6" cy="143.6" r="4" fill="#3465a4"><title>Myron</title></circle></a><a href="/variants/s16/g10k1g1k1g1k1db4k1w1k1db1y1k1g4k1r1~x4/"><circle cx="173.5" cy="102.8" r="4" fill="#3465a4"><title>Cockburn - 1830 (Clan)</title></circle></a><a href="/variants/s17/r3g24db4k3db3k3db3k3db4g12o2g2o2g3lo2g2k2~x2/"><circle cx="211.0" cy="97.4" r="4" fill="#3465a4"><title>Kennedy (Clan)</title></circle></a><a href="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2108022/"><circle cx="260.0" cy="67.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1807008-ri2108022/"><circle cx="259.7" cy="67.0" r="4" fill="#3465a4"><title>Kennedy Clan Tartan</title></circle></a><a href="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2008022/"><circle cx="260.2" cy="67.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/variants/s17/k2g2y1g3dr1g2dr1g12db4k3db3k3db3k3db4g24r2~x2~r1908029/"><circle cx="261.0" cy="67.8" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/variants/s17/r2k6g2k2g14k1y2k1t5r1t5k1w2k1g14k1t2~x2/"><circle cx="165.3" cy="96.9" r="4" fill="#3465a4"><title>Duncan of Sketraw</title></circle></a><a href="/variants/s12/dr4g2y2g24k2g3k3g3k10dp10w2dp4~x2/"><circle cx="159.9" cy="91.1" r="4" fill="#3465a4"><title>Kerby (Personal)</title></circle></a><a href="/variants/s12/k2w1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="219.5" cy="107.5" r="4" fill="#3465a4"><title>MacClure Htg (Name)</title></circle></a><circle cx="188.4" cy="113.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/k1g1dr1g1lo1g1lo1g4db1k1db1k1db1k1db1g7dr1~x4/"><circle cx="187.6" cy="144.0" r="4" fill="#3465a4"><title>Myron</title></circle></a><a href="/variants/s16/g10k1g1k1g1k1db4k1w1k1db1y1k1g4k1r1~x4/"><circle cx="173.4" cy="103.0" r="4" fill="#3465a4"><title>Cockburn - 1830 (Clan)</title></circle></a><a href="/variants/s17/r3g24db4k3db3k3db3k3db4g12o2g2o2g3lo2g2k2~x2/"><circle cx="210.9" cy="97.6" r="4" fill="#3465a4"><title>Kennedy (Clan)</title></circle></a><a href="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2108022/"><circle cx="259.8" cy="67.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1807008-ri2108022/"><circle cx="259.6" cy="67.1" r="4" fill="#3465a4"><title>Kennedy Clan Tartan</title></circle></a><a href="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2008022/"><circle cx="260.1" cy="67.3" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/variants/s17/k2g2y1g3dr1g2dr1g12db4k3db3k3db3k3db4g24r2~x2~r1908029/"><circle cx="260.9" cy="67.8" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/variants/s17/r2k6g2k2g14k1y2k1t5r1t5k1w2k1g14k1t2~x2/"><circle cx="165.2" cy="97.1" r="4" fill="#3465a4"><title>Duncan of Sketraw</title></circle></a><a href="/variants/s12/dr4g2y2g24k2g3k3g3k10dp10w2dp4~x2/"><circle cx="159.8" cy="91.2" r="4" fill="#3465a4"><title>Kerby (Personal)</title></circle></a><a href="/variants/s12/k2w1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="219.4" cy="107.7" r="4" fill="#3465a4"><title>MacClure Htg (Name)</title></circle></a><circle cx="188.3" cy="114.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/k3g3dr2g3y2g2y2g11db3k3db3k3db3k3db3g20r3~x2/

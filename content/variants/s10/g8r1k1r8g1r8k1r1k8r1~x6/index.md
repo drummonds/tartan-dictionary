@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hebrides South Uist #3"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g8r1k1r8g1r8k1r1k8r1/)
 (the same proportion at any scale), whose colour order is pattern [GRKRGRKRKRKRKRGRKR](/stripes/grkrgrkrkrkrkrgrkr/).
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1670
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1670](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1670)
 
 ## Provenance
 
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y4k2r7k15r3k3r3k7r28dg7r6dg2/"><circle cx="252.9" cy="124.5" r="4" fill="#3465a4"><title>Walker</title></circle></a><a href="/variants/s21/k4r3k3r4k22r4k3r3dg4r3k3r44k30r10dg10r40dg30r27k10r14dg3~x2/"><circle cx="269.1" cy="113.9" r="4" fill="#3465a4"><title>Murray of Tullibardine - Artefact</title></circle></a><a href="/variants/s12/r8g1r8g16r4k2lb1k4r8g1r8k1~x2/"><circle cx="285.1" cy="138.3" r="4" fill="#3465a4"><title>MacLeod and MacNicol</title></circle></a><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x4/"><circle cx="237.8" cy="126.0" r="4" fill="#3465a4"><title>Unidentified (Scolpaig)</title></circle></a><a href="/variants/s12/r2dy1k2r13k2r2k2r2k12r2dy1g2~x2/"><circle cx="233.9" cy="94.7" r="4" fill="#3465a4"><title>Hallingdal</title></circle></a><a href="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/"><circle cx="241.3" cy="117.9" r="4" fill="#3465a4"><title>Hallingdal</title></circle></a><a href="/variants/s15/r16k6r6g46r6g5r6k12r6lb6r48k6r6k6r16/"><circle cx="249.5" cy="130.4" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/variants/s11/k2r8g2r8k8db1k4r2g12r8g2~x2/"><circle cx="180.3" cy="167.0" r="4" fill="#3465a4"><title>MacNicol/Nicolson (W &amp; A Smith)</title></circle></a><a href="/variants/s11/k2r8g2r8k8t1k4r2g12r8g2~x4/"><circle cx="180.3" cy="167.2" r="4" fill="#3465a4"><title>MacNicol Dress (Clan) (Smiths)</title></circle></a><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/"><circle cx="232.5" cy="128.0" r="4" fill="#3465a4"><title>Hannay Dress (Dance)</title></circle></a><circle cx="241.9" cy="147.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y4k2r7k15r3k3r3k7r28dg7r6dg2/"><circle cx="252.9" cy="124.9" r="4" fill="#3465a4"><title>Walker</title></circle></a><a href="/variants/s21/k4r3k3r4k22r4k3r3dg4r3k3r44k30r10dg10r40dg30r27k10r14dg3~x2/"><circle cx="269.1" cy="114.3" r="4" fill="#3465a4"><title>Murray of Tullibardine - Artefact</title></circle></a><a href="/variants/s12/r8g1r8g16r4k2lb1k4r8g1r8k1~x2/"><circle cx="285.1" cy="138.7" r="4" fill="#3465a4"><title>MacLeod and MacNicol</title></circle></a><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x4/"><circle cx="237.8" cy="126.4" r="4" fill="#3465a4"><title>Unidentified (Scolpaig)</title></circle></a><a href="/variants/s12/r2dy1k2r13k2r2k2r2k12r2dy1g2~x2/"><circle cx="233.8" cy="95.0" r="4" fill="#3465a4"><title>Hallingdal</title></circle></a><a href="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/"><circle cx="241.3" cy="118.3" r="4" fill="#3465a4"><title>Hallingdal</title></circle></a><a href="/variants/s15/r16k6r6g46r6g5r6k12r6lb6r48k6r6k6r16/"><circle cx="249.5" cy="130.8" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/variants/s11/k2r8g2r8k8db1k4r2g12r8g2~x2/"><circle cx="180.4" cy="167.5" r="4" fill="#3465a4"><title>MacNicol/Nicolson (W &amp; A Smith)</title></circle></a><a href="/variants/s11/k2r8g2r8k8t1k4r2g12r8g2~x4/"><circle cx="180.3" cy="167.7" r="4" fill="#3465a4"><title>MacNicol Dress (Clan) (Smiths)</title></circle></a><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/"><circle cx="232.4" cy="128.4" r="4" fill="#3465a4"><title>Hannay Dress (Dance)</title></circle></a><circle cx="242.0" cy="148.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g8r1k1r8g1r8k1r1k8r1~x6/

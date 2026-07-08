@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Murison, Ina"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4db11lg4w3lg4ly6db3k3db4k1db30w3/)
 (the same proportion at any scale), whose colour order is pattern [RBYWYYBKBKBW](/stripes/rbywyybkbkbw/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1120
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1120](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1120)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r4db11lb4w3lb4y6db3k3db4k1db30w3~x2/"><circle cx="292.4" cy="70.6" r="4" fill="#3465a4"><title>Murison (2014)</title></circle></a><a href="/variants/s14/g5ly2w2db8k2db5k2db28k2db10w4g3w2ly4~x2/"><circle cx="284.8" cy="106.7" r="4" fill="#3465a4"><title>Carstairs</title></circle></a><a href="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/"><circle cx="298.5" cy="53.1" r="4" fill="#3465a4"><title>Wcwm 1105</title></circle></a><a href="/variants/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/"><circle cx="236.6" cy="90.9" r="4" fill="#3465a4"><title>Scotia (EWM)</title></circle></a><a href="/variants/s12/db25w2k2db15y2db1y2db15k2w2g16r1~x2/"><circle cx="325.2" cy="90.3" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Modern)</title></circle></a><a href="/variants/s14/db28k1r7k1db6k1lb4k1db6y2r3y2db4w6~x2/"><circle cx="273.8" cy="55.0" r="4" fill="#3465a4"><title>Rabbinical</title></circle></a><a href="/variants/s12/db25w2k2db15ly2db1ly2db15k2w2dg16r1~x2/"><circle cx="336.2" cy="92.9" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Pers)</title></circle></a><a href="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/"><circle cx="285.5" cy="78.5" r="4" fill="#3465a4"><title>Niagara Region</title></circle></a><a href="/variants/s9/y3db24r3db8k1lb16k1db3w3~x2/"><circle cx="254.9" cy="98.1" r="4" fill="#3465a4"><title>MacCormick Festive</title></circle></a><a href="/variants/s10/r4db60g35db4ly4db4dy12db18k3w2~ly3206085-dy1804072/"><circle cx="292.5" cy="75.8" r="4" fill="#3465a4"><title>Fogarty (Tipperary)</title></circle></a><circle cx="282.4" cy="69.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r4db11lb4w3lb4y6db3k3db4k1db30w3~x2/"><circle cx="292.2" cy="70.7" r="4" fill="#3465a4"><title>Murison (2014)</title></circle></a><a href="/variants/s14/g5ly2w2db8k2db5k2db28k2db10w4g3w2ly4~x2/"><circle cx="284.7" cy="106.9" r="4" fill="#3465a4"><title>Carstairs</title></circle></a><a href="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/"><circle cx="298.3" cy="53.1" r="4" fill="#3465a4"><title>Wcwm 1105</title></circle></a><a href="/variants/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/"><circle cx="236.5" cy="91.1" r="4" fill="#3465a4"><title>Scotia (EWM)</title></circle></a><a href="/variants/s12/db25w2k2db15y2db1y2db15k2w2g16r1~x2/"><circle cx="325.1" cy="90.4" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Modern)</title></circle></a><a href="/variants/s14/db28k1r7k1db6k1lb4k1db6y2r3y2db4w6~x2/"><circle cx="273.6" cy="55.0" r="4" fill="#3465a4"><title>Rabbinical</title></circle></a><a href="/variants/s12/db25w2k2db15ly2db1ly2db15k2w2dg16r1~x2/"><circle cx="336.1" cy="92.9" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Pers)</title></circle></a><a href="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/"><circle cx="285.4" cy="78.6" r="4" fill="#3465a4"><title>Niagara Region</title></circle></a><a href="/variants/s9/y3db24r3db8k1lb16k1db3w3~x2/"><circle cx="254.8" cy="98.2" r="4" fill="#3465a4"><title>MacCormick Festive</title></circle></a><a href="/variants/s10/r4db60g35db4ly4db4dy12db18k3w2~ly3206085-dy1804072/"><circle cx="292.3" cy="75.8" r="4" fill="#3465a4"><title>Fogarty (Tipperary)</title></circle></a><circle cx="282.3" cy="69.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r4db11lg4w3lg4ly6db3k3db4k1db30w3~x2/

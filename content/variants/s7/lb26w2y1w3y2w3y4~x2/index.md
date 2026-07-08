@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Argentine Flag"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb26w2y1w3y2w3y4/)
 (the same proportion at any scale), whose colour order is pattern [GWGWGWW](/stripes/gwgwgww/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10007
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10007](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10007)
 
 ## Provenance
 

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Howells"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6/)
 (the same proportion at any scale), whose colour order is pattern [BRGBRBGBGBGBGGR](/stripes/brgbrbgbgbgbggr/).
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5859
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5859](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5859)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2/"><circle cx="421.2" cy="209.3" r="4" fill="#3465a4"><title>Howell of Wales</title></circle></a><a href="/variants/s9/oi24do2oi3o6oi3do2dg15oi20do4~x2~oi2104058-o2102055/"><circle cx="478.5" cy="225.7" r="4" fill="#3465a4"><title>Land's End (Unnamed Camel)</title></circle></a><a href="/variants/s11/ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000/"><circle cx="489.0" cy="233.2" r="4" fill="#3465a4"><title>Bute Heather, Ancient Wth'd (Fashion</title></circle></a><circle cx="460.5" cy="218.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/n8r1dg3n5r1n5dg3n4dg12n14y1n14dg12y2r3~x2/"><circle cx="421.3" cy="209.4" r="4" fill="#3465a4"><title>Howell of Wales</title></circle></a><a href="/variants/s9/oi24do2oi3o6oi3do2dg15oi20do4~x2~oi2104058-o2102055/"><circle cx="478.6" cy="225.8" r="4" fill="#3465a4"><title>Land's End (Unnamed Camel)</title></circle></a><a href="/variants/s11/ly5n2y8n1y8n4y4n6y18lb1ly5~x2~n1900000-y2200000/"><circle cx="489.1" cy="233.3" r="4" fill="#3465a4"><title>Bute Heather, Ancient Wth'd (Fashion</title></circle></a><circle cx="460.6" cy="218.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6~x2/

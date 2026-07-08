@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacQuarrie"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r28g64r20db48r60t1r8t1r60db48r10/)
 (the same proportion at any scale), whose colour order is pattern [RBRBRBRBRGR](/stripes/rbrbrbrbrgr/).
 
 Sourced from logan-1831.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link /posts/logans-scottish-gael/
+Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 
 ## Provenance
 
@@ -23,7 +25,7 @@ James Logan recorded the **MacQuarrie** sett in 1831, on page 406 of the *Table 
 
 > 2½ red · 12 blue · 15 red · ¼ azure · 2 red · ¼ azure · 15 red · 12 blue · 5 red · 16 green · 7 red
 
-In threads (at 8 to the eighth-inch) that is `R/20 B96 R120 A2 R16 A2 R120 B96 R40 G128 R/56`. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+Rendered at 8 threads to the eighth-inch that is `R/20 B96 R120 A2 R16 A2 R120 B96 R40 G128 R/56` — the eighths are the captured data, and the threadcount is derived from them at that stated factor. How many threads an eighth of cloth held depends on the weave's density, so the factor is a display calibration, not Logan's count; the sett's identity lives in the proportions, which the eighths record directly. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
 
 See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table and method.
 
@@ -43,6 +45,7 @@ Later records of the **MacQuarrie** name adjusted Logan's counts: [MacQuarrie](/
 <ol class="capture-chain">
 <li>James Logan, The Scottish Gaël (first edition) <small>1831</small> · Public domain<br><small>the printed Table of Clan Tartans, vol. II pp. 401-408, plus the Duke of Sussex plate</small></li>
 <li><a href="https://archive.org/details/scotishgalorcel02logagoog">Internet Archive scan</a><br><small>the digitised first edition the transcription was made from, cross-checked against the OCR</small></li>
+<li><a href="/posts/logans-scottish-gael/">Tartan Dictionary transcription — Logan's Scottish Gaël</a> <small>2026-06</small> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><br><small>by-eye transcription of the Table of Clan Tartans and the Duke of Sussex plate — depths in eighths of an inch, rendered at 8 threads per eighth (a display calibration anchored by the Register's Abercrombie ×8 stripe-for-stripe match); method and match report in the linked post</small></li>
 <li>this dictionary<br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
 </details>
@@ -69,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2~x2/"><circle cx="364.3" cy="97.9" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2/"><circle cx="364.3" cy="97.9" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s11/r48db12r5g21r8db1r8g21r5db12r24~x4/"><circle cx="389.9" cy="137.2" r="4" fill="#3465a4"><title>MacIntosh</title></circle></a><a href="/variants/s9/db2r49db51r9w2r9g51r49db2~x2/"><circle cx="310.1" cy="150.2" r="4" fill="#3465a4"><title>Unidentified #20</title></circle></a><a href="/variants/s13/r4w1db1r32w2r2db12r2g16r4w1r4db2/"><circle cx="355.1" cy="95.0" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/"><circle cx="300.6" cy="105.2" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s12/db80r56dg3r56dg88r64db3r4dg3r4db3r64/"><circle cx="373.4" cy="144.1" r="4" fill="#3465a4"><title>Unidentified Cant #14</title></circle></a><a href="/variants/s11/dp4g8db6dp8r6g2r2g2r24g1r3~x2/"><circle cx="324.7" cy="137.7" r="4" fill="#3465a4"><title>MacDougall</title></circle></a><a href="/variants/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="319.4" cy="136.2" r="4" fill="#3465a4"><title>Carrick (Clan)</title></circle></a><a href="/variants/s9/r28db12r3g20m1g2m1g2r7~x2/"><circle cx="321.1" cy="136.4" r="4" fill="#3465a4"><title>Carrick</title></circle></a><circle cx="325.5" cy="128.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2~x2/"><circle cx="364.2" cy="98.1" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2/"><circle cx="364.2" cy="98.1" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s11/r48db12r5g21r8db1r8g21r5db12r24~x4/"><circle cx="389.9" cy="137.5" r="4" fill="#3465a4"><title>MacIntosh</title></circle></a><a href="/variants/s9/db2r49db51r9w2r9g51r49db2~x2/"><circle cx="310.1" cy="150.6" r="4" fill="#3465a4"><title>Unidentified #20</title></circle></a><a href="/variants/s13/r4w1db1r32w2r2db12r2g16r4w1r4db2/"><circle cx="355.0" cy="95.2" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/"><circle cx="300.6" cy="105.4" r="4" fill="#3465a4"><title>MacDonald of Glenaladale</title></circle></a><a href="/variants/s12/db80r56dg3r56dg88r64db3r4dg3r4db3r64/"><circle cx="373.4" cy="144.4" r="4" fill="#3465a4"><title>Unidentified Cant #14</title></circle></a><a href="/variants/s11/dp4g8db6dp8r6g2r2g2r24g1r3~x2/"><circle cx="324.7" cy="138.0" r="4" fill="#3465a4"><title>MacDougall</title></circle></a><a href="/variants/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="319.4" cy="136.4" r="4" fill="#3465a4"><title>Carrick (Clan)</title></circle></a><a href="/variants/s9/r28db12r3g20m1g2m1g2r7~x2/"><circle cx="321.1" cy="136.7" r="4" fill="#3465a4"><title>Carrick</title></circle></a><circle cx="325.5" cy="129.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r28g64r20db48r60t1r8t1r60db48r10~x2/

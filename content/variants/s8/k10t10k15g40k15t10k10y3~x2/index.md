@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "U.S. Border Patrol"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k10t10k15g40k15t10k10y3/)
 (the same proportion at any scale), whose colour order is pattern [GKBKGKBK](/stripes/gkbkgkbk/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4183
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4183](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4183)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g21w2g4k17db14k3/"><circle cx="169.2" cy="204.3" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s7/g8r3g30k8w3k36w8~x2/"><circle cx="198.4" cy="170.1" r="4" fill="#3465a4"><title>Cleghorn (Personal)</title></circle></a><a href="/variants/s6/g21y2g4k16dp14k3~x2/"><circle cx="178.9" cy="202.9" r="4" fill="#3465a4"><title>Wilson's, No 160</title></circle></a><a href="/variants/s6/g21w2g4k17dp14k3~x2/"><circle cx="171.2" cy="201.7" r="4" fill="#3465a4"><title>Wilson's No 158</title></circle></a><a href="/variants/s6/k2g9lb1k6b4g2~x2/"><circle cx="179.1" cy="212.5" r="4" fill="#3465a4"><title>Unnamed 3</title></circle></a><a href="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/"><circle cx="136.5" cy="180.2" r="4" fill="#3465a4"><title>Newlands of Lauriston</title></circle></a><a href="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/"><circle cx="206.8" cy="171.3" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/variants/s9/g14w1g7k7db2k2db2k2db7/"><circle cx="206.8" cy="171.3" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/variants/s9/g14w1g7k7db2k2db2k2db7~x2/"><circle cx="206.8" cy="171.3" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/variants/s6/g18lb2g4k14db12k3~x2/"><circle cx="165.3" cy="214.9" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><circle cx="183.8" cy="181.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g21w2g4k17db14k3/"><circle cx="169.2" cy="204.8" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s7/g8r3g30k8w3k36w8~x2/"><circle cx="198.4" cy="170.6" r="4" fill="#3465a4"><title>Cleghorn (Personal)</title></circle></a><a href="/variants/s6/g21y2g4k16dp14k3~x2/"><circle cx="178.9" cy="203.5" r="4" fill="#3465a4"><title>Wilson's, No 160</title></circle></a><a href="/variants/s6/g21w2g4k17dp14k3~x2/"><circle cx="171.3" cy="202.2" r="4" fill="#3465a4"><title>Wilson's No 158</title></circle></a><a href="/variants/s6/k2g9lb1k6b4g2~x2/"><circle cx="179.2" cy="213.1" r="4" fill="#3465a4"><title>Unnamed 3</title></circle></a><a href="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/"><circle cx="136.5" cy="180.7" r="4" fill="#3465a4"><title>Newlands of Lauriston</title></circle></a><a href="/variants/s9/g14w1g7k7db2k2db2k2db7~x4/"><circle cx="206.7" cy="171.7" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/variants/s9/g14w1g7k7db2k2db2k2db7/"><circle cx="206.7" cy="171.7" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/variants/s9/g14w1g7k7db2k2db2k2db7~x2/"><circle cx="206.7" cy="171.7" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/variants/s6/g18lb2g4k14db12k3~x2/"><circle cx="165.3" cy="215.5" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><circle cx="183.8" cy="182.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k10t10k15g40k15t10k10y3~x2/

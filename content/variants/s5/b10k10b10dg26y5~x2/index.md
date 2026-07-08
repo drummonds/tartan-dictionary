@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Marshall of Keith (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b10k10b10dg26y5/)
 (the same proportion at any scale), whose colour order is pattern [BKBGG](/stripes/bkbgg/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2840
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2840](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2840)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db4k4db4g9k2~x2/"><circle cx="154.9" cy="284.8" r="4" fill="#3465a4"><title>Austin Clan</title></circle></a><a href="/variants/s5/db4k4db4g9k2/"><circle cx="154.9" cy="284.8" r="4" fill="#3465a4"><title>Austin</title></circle></a><a href="/variants/s6/dr5t35k24t9g9dr5~x2/"><circle cx="208.6" cy="216.6" r="4" fill="#3465a4"><title>Notre Dame Marching Guard (Corp)</title></circle></a><a href="/variants/s5/db2k2db2o5dy1~x12/"><circle cx="170.7" cy="258.7" r="4" fill="#3465a4"><title>Chivas Regal (Corporate)</title></circle></a><a href="/variants/s5/db6k6db6o14dy3~x2/"><circle cx="158.3" cy="266.5" r="4" fill="#3465a4"><title>Chivas Regal</title></circle></a><a href="/variants/s5/g7k6db7k1db2~x2/"><circle cx="175.9" cy="261.6" r="4" fill="#3465a4"><title>Campbell of Glenlyon</title></circle></a><a href="/variants/s6/y5g16k16db16k2db2~x2/"><circle cx="127.0" cy="222.0" r="4" fill="#3465a4"><title>Hudson Valley Reg. Police P &amp; D (Cor</title></circle></a><a href="/variants/s6/g3db1g8db7k3dy1~x2/"><circle cx="214.7" cy="223.1" r="4" fill="#3465a4"><title>Trafalgar (Fashion)</title></circle></a><a href="/variants/s6/g3db1g8db7k3y1~x2/"><circle cx="213.3" cy="222.8" r="4" fill="#3465a4"><title>Trafalger</title></circle></a><a href="/variants/s6/db2k2db12k11g16w2~x2/"><circle cx="141.5" cy="213.1" r="4" fill="#3465a4"><title>Campbell of Argyll (Smiths)</title></circle></a><circle cx="180.9" cy="262.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db4k4db4g9k2~x2/"><circle cx="155.0" cy="285.6" r="4" fill="#3465a4"><title>Austin Clan</title></circle></a><a href="/variants/s5/db4k4db4g9k2/"><circle cx="155.0" cy="285.6" r="4" fill="#3465a4"><title>Austin</title></circle></a><a href="/variants/s6/dr5t35k24t9g9dr5~x2/"><circle cx="208.7" cy="217.2" r="4" fill="#3465a4"><title>Notre Dame Marching Guard (Corp)</title></circle></a><a href="/variants/s5/db2k2db2o5dy1~x12/"><circle cx="170.8" cy="259.4" r="4" fill="#3465a4"><title>Chivas Regal (Corporate)</title></circle></a><a href="/variants/s5/db6k6db6o14dy3~x2/"><circle cx="158.5" cy="267.2" r="4" fill="#3465a4"><title>Chivas Regal</title></circle></a><a href="/variants/s5/g7k6db7k1db2~x2/"><circle cx="176.0" cy="262.3" r="4" fill="#3465a4"><title>Campbell of Glenlyon</title></circle></a><a href="/variants/s6/y5g16k16db16k2db2~x2/"><circle cx="127.1" cy="222.6" r="4" fill="#3465a4"><title>Hudson Valley Reg. Police P &amp; D (Cor</title></circle></a><a href="/variants/s6/g3db1g8db7k3dy1~x2/"><circle cx="214.8" cy="223.7" r="4" fill="#3465a4"><title>Trafalgar (Fashion)</title></circle></a><a href="/variants/s6/g3db1g8db7k3y1~x2/"><circle cx="213.4" cy="223.4" r="4" fill="#3465a4"><title>Trafalger</title></circle></a><a href="/variants/s6/db2k2db12k11g16w2~x2/"><circle cx="141.5" cy="213.7" r="4" fill="#3465a4"><title>Campbell of Argyll (Smiths)</title></circle></a><circle cx="181.0" cy="263.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/b10k10b10dg26y5~x2/

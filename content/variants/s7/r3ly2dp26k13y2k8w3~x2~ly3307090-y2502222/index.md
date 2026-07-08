@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Curnow of Kernow (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3ly2dp26k13y2k8w3/)
 (the same proportion at any scale), whose colour order is pattern [RYBKGKW](/stripes/rybkgkw/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4084
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4084](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4084)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k62db15dp15o20lr5db5k15~x2/"><circle cx="241.4" cy="149.2" r="4" fill="#3465a4"><title>Black Raven</title></circle></a><a href="/variants/s6/w6k29n29dp7k3r3~x2/"><circle cx="163.4" cy="168.6" r="4" fill="#3465a4"><title>Jewell of Kernow (Personal)</title></circle></a><a href="/variants/s6/w6k29o29dp7k3r3~x2~o2500000/"><circle cx="154.9" cy="166.1" r="4" fill="#3465a4"><title>Jewell of Kernow (Personal)</title></circle></a><a href="/variants/s8/n6k2n23k23w2dp24db3r6~x2/"><circle cx="126.4" cy="150.7" r="4" fill="#3465a4"><title>Culloden Grey</title></circle></a><a href="/variants/s10/b6w1k12g6dp2w1dp2w1k12lb1~x2/"><circle cx="184.1" cy="121.5" r="4" fill="#3465a4"><title>Head of the Lakes</title></circle></a><a href="/variants/s7/r5lb2k30n26y2n2db4~x2/"><circle cx="192.4" cy="123.9" r="4" fill="#3465a4"><title>Milne-Murtaugh (Personal)</title></circle></a><a href="/variants/s7/k2dbi2r16db2y1db13w2~x2~dbi1604274-db0805267/"><circle cx="193.4" cy="119.2" r="4" fill="#3465a4"><title>Wishart, dress</title></circle></a><a href="/variants/s6/dg3b3r22k5ki22y2~x2~ki0604259/"><circle cx="153.0" cy="145.1" r="4" fill="#3465a4"><title>Clan MacLeod Society of Scotland, Centenary</title></circle></a><a href="/variants/s6/w5n20k8r5dp36ly5~x2/"><circle cx="158.5" cy="170.4" r="4" fill="#3465a4"><title>Lord's Own Highlanders (Corporate)</title></circle></a><a href="/variants/s8/y3db3k2db18k26r21g2lb3~x2/"><circle cx="125.8" cy="127.1" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><circle cx="189.7" cy="128.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k62db15dp15o20lr5db5k15~x2/"><circle cx="241.3" cy="149.6" r="4" fill="#3465a4"><title>Black Raven</title></circle></a><a href="/variants/s6/w6k29n29dp7k3r3~x2/"><circle cx="163.3" cy="169.1" r="4" fill="#3465a4"><title>Jewell of Kernow (Personal)</title></circle></a><a href="/variants/s6/w6k29o29dp7k3r3~x2~o2500000/"><circle cx="154.9" cy="166.5" r="4" fill="#3465a4"><title>Jewell of Kernow (Personal)</title></circle></a><a href="/variants/s8/n6k2n23k23w2dp24db3r6~x2/"><circle cx="126.3" cy="151.0" r="4" fill="#3465a4"><title>Culloden Grey</title></circle></a><a href="/variants/s10/b6w1k12g6dp2w1dp2w1k12lb1~x2/"><circle cx="184.0" cy="121.8" r="4" fill="#3465a4"><title>Head of the Lakes</title></circle></a><a href="/variants/s7/r5lb2k30n26y2n2db4~x2/"><circle cx="192.3" cy="124.2" r="4" fill="#3465a4"><title>Milne-Murtaugh (Personal)</title></circle></a><a href="/variants/s7/k2dbi2r16db2y1db13w2~x2~dbi1604274-db0805267/"><circle cx="193.3" cy="119.5" r="4" fill="#3465a4"><title>Wishart, dress</title></circle></a><a href="/variants/s6/dg3b3r22k5ki22y2~x2~ki0604259/"><circle cx="153.0" cy="145.4" r="4" fill="#3465a4"><title>Clan MacLeod Society of Scotland, Centenary</title></circle></a><a href="/variants/s6/w5n20k8r5dp36ly5~x2/"><circle cx="158.5" cy="170.8" r="4" fill="#3465a4"><title>Lord's Own Highlanders (Corporate)</title></circle></a><a href="/variants/s8/y3db3k2db18k26r21g2lb3~x2/"><circle cx="125.7" cy="127.4" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><circle cx="189.7" cy="128.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r3ly2dp26k13y2k8w3~x2~ly3307090-y2502222/

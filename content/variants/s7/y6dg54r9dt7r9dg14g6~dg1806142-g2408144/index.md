@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tulloch Homes"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y6dg54r9dt7r9dg14g6/)
 (the same proportion at any scale), whose colour order is pattern [GGRBRGG](/stripes/ggrbrgg/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4154
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4154](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4154)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g18r6g75db6g13o35g12db6/"><circle cx="470.6" cy="209.5" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/variants/s9/g4y2g17dg2r4dg2g3dg11g2~x2/"><circle cx="347.2" cy="219.9" r="4" fill="#3465a4"><title>Armagh</title></circle></a><a href="/variants/s6/lg50r4lg12y23r4g4~x2~g2408144/"><circle cx="421.4" cy="215.5" r="4" fill="#3465a4"><title>Ingenico</title></circle></a><a href="/variants/s6/lg50r4lg12y23r4g4~x2/"><circle cx="418.9" cy="214.5" r="4" fill="#3465a4"><title>Ingenico (Corporate)</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="436.4" cy="198.3" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/variants/s7/r2dg19g2dg2g19dg2y2~x2/"><circle cx="354.0" cy="217.9" r="4" fill="#3465a4"><title>Hunting Kenmore</title></circle></a><a href="/variants/s10/g12loi6lo16dg10w6dg8g12dg70loi9dg7~g2408144-loi2906085-lo2706066-dg1806142/"><circle cx="392.3" cy="190.8" r="4" fill="#3465a4"><title>Rams Timeless</title></circle></a><a href="/variants/s10/g12y6lo16dg10w6dg8g12dg70y9dg7~g2408144-dg1806142/"><circle cx="391.6" cy="191.0" r="4" fill="#3465a4"><title>Rams Timeless</title></circle></a><a href="/variants/s9/g4r5g31r5g31ly5g4ly27lyi3~x2~ly2503076-lyi3407090/"><circle cx="440.3" cy="231.9" r="4" fill="#3465a4"><title>Campbell &amp; Co (Beauly) (Corporate)</title></circle></a><a href="/variants/s10/g8r2lb3y2g4n4g14db2n2db2~x2/"><circle cx="312.4" cy="203.7" r="4" fill="#3465a4"><title>Lévesque, Pascal (Personal)</title></circle></a><circle cx="411.0" cy="207.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g18r6g75db6g13o35g12db6/"><circle cx="470.7" cy="209.8" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/variants/s9/g4y2g17dg2r4dg2g3dg11g2~x2/"><circle cx="347.3" cy="220.2" r="4" fill="#3465a4"><title>Armagh</title></circle></a><a href="/variants/s6/lg50r4lg12y23r4g4~x2~g2408144/"><circle cx="421.6" cy="215.9" r="4" fill="#3465a4"><title>Ingenico</title></circle></a><a href="/variants/s6/lg50r4lg12y23r4g4~x2/"><circle cx="419.0" cy="214.9" r="4" fill="#3465a4"><title>Ingenico (Corporate)</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="436.5" cy="198.6" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/variants/s7/r2dg19g2dg2g19dg2y2~x2/"><circle cx="354.1" cy="218.2" r="4" fill="#3465a4"><title>Hunting Kenmore</title></circle></a><a href="/variants/s10/g12loi6lo16dg10w6dg8g12dg70loi9dg7~g2408144-loi2906085-lo2706066-dg1806142/"><circle cx="392.4" cy="191.1" r="4" fill="#3465a4"><title>Rams Timeless</title></circle></a><a href="/variants/s10/g12y6lo16dg10w6dg8g12dg70y9dg7~g2408144-dg1806142/"><circle cx="391.6" cy="191.2" r="4" fill="#3465a4"><title>Rams Timeless</title></circle></a><a href="/variants/s9/g4r5g31r5g31ly5g4ly27lyi3~x2~ly2503076-lyi3407090/"><circle cx="440.4" cy="232.1" r="4" fill="#3465a4"><title>Campbell &amp; Co (Beauly) (Corporate)</title></circle></a><a href="/variants/s10/g8r2lb3y2g4n4g14db2n2db2~x2/"><circle cx="312.5" cy="204.0" r="4" fill="#3465a4"><title>Lévesque, Pascal (Personal)</title></circle></a><circle cx="411.1" cy="207.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/y6dg54r9dt7r9dg14g6~dg1806142-g2408144/

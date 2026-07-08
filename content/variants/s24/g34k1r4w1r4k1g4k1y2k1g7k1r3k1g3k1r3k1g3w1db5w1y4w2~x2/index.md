@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacMaster"
   url: "/tartans/macmaster/"
+- name: "MacMaster"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g34k1r4w1r4k1g4k1y2k1g7k1r3k1g3k1r3k1g3w1db5w1y4w2/)
 (the same proportion at any scale), whose colour order is pattern [GKRWRKGKGKGKRKGKRKGWBWGW](/stripes/gkrwrkgkgkgkrkgkrkgwbwgw/).
@@ -14,7 +16,7 @@ Part of the [MacMaster](/tartans/macmaster/) tartan — the named design groupin
 
 Sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/dg34k1r4w1r4k1dg4k1y2k1dg7k1r3k1dg3k1r3k1dg3w1db5w1y4w2~x2/"><circle cx="272.3" cy="14.0" r="4" fill="#3465a4"><title>MacMaster (USA) #2</title></circle></a><a href="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2~w4000000/"><circle cx="244.7" cy="31.6" r="4" fill="#3465a4"><title>Sillars</title></circle></a><a href="/variants/s31/g105db9k16y6k8w3k8g16r24k1r4k2r3k3r2k4r1k9g1k4g2k3g3k2g4k1g40r9g10k3w5~x2/"><circle cx="272.2" cy="14.0" r="4" fill="#3465a4"><title>Un-named C19th Plaid</title></circle></a><a href="/variants/s12/g42t3k8y2k2w3k2g12r5k2r2w2~x2/"><circle cx="199.1" cy="45.3" r="4" fill="#3465a4"><title>King George VI (Green Stewart)</title></circle></a><a href="/variants/s14/g40n1dp4n1dp4k4r1k1r1k1r1k1r2w4~x2/"><circle cx="304.6" cy="18.1" r="4" fill="#3465a4"><title>Mighty Men</title></circle></a><a href="/variants/s12/g46k3db6y2db3y2db3g7r6db2r3w4~x2/"><circle cx="212.0" cy="47.0" r="4" fill="#3465a4"><title>Seller (Personal)</title></circle></a><a href="/variants/s20/g82k2g2k2g2k8db28k1w6k1db28k1y6k1g32k2r5k2g15w6~x2/"><circle cx="279.7" cy="17.1" r="4" fill="#3465a4"><title>Unidentified #30</title></circle></a><a href="/variants/s20/g82k2g2k2g2k8db28k1w6k1db28k1dy6k1g32k2r5k2g15w6~x2/"><circle cx="279.3" cy="16.8" r="4" fill="#3465a4"><title>Unnamed No 38 Artifact Tartan</title></circle></a><a href="/variants/s17/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2/"><circle cx="290.5" cy="33.9" r="4" fill="#3465a4"><title>Cockburn</title></circle></a><a href="/variants/s17/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2~x2/"><circle cx="290.5" cy="33.9" r="4" fill="#3465a4"><title>Cockburn</title></circle></a><circle cx="263.5" cy="17.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/dg34k1r4w1r4k1dg4k1y2k1dg7k1r3k1dg3k1r3k1dg3w1db5w1y4w2~x2/"><circle cx="272.0" cy="14.0" r="4" fill="#3465a4"><title>MacMaster (USA) #2</title></circle></a><a href="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2~w4000000/"><circle cx="244.5" cy="31.5" r="4" fill="#3465a4"><title>Sillars</title></circle></a><a href="/variants/s31/g105db9k16y6k8w3k8g16r24k1r4k2r3k3r2k4r1k9g1k4g2k3g3k2g4k1g40r9g10k3w5~x2/"><circle cx="272.0" cy="14.0" r="4" fill="#3465a4"><title>Un-named C19th Plaid</title></circle></a><a href="/variants/s12/g42t3k8y2k2w3k2g12r5k2r2w2~x2/"><circle cx="198.9" cy="45.4" r="4" fill="#3465a4"><title>King George VI (Green Stewart)</title></circle></a><a href="/variants/s14/g40n1dp4n1dp4k4r1k1r1k1r1k1r2w4~x2/"><circle cx="304.4" cy="18.0" r="4" fill="#3465a4"><title>Mighty Men</title></circle></a><a href="/variants/s12/g46k3db6y2db3y2db3g7r6db2r3w4~x2/"><circle cx="211.8" cy="47.0" r="4" fill="#3465a4"><title>Seller (Personal)</title></circle></a><a href="/variants/s20/g82k2g2k2g2k8db28k1w6k1db28k1y6k1g32k2r5k2g15w6~x2/"><circle cx="279.5" cy="17.0" r="4" fill="#3465a4"><title>Unidentified #30</title></circle></a><a href="/variants/s20/g82k2g2k2g2k8db28k1w6k1db28k1dy6k1g32k2r5k2g15w6~x2/"><circle cx="279.1" cy="16.7" r="4" fill="#3465a4"><title>Unnamed No 38 Artifact Tartan</title></circle></a><a href="/variants/s17/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2/"><circle cx="290.2" cy="33.8" r="4" fill="#3465a4"><title>Cockburn</title></circle></a><a href="/variants/s17/g36k1g1k1g1k1db12k1w1k1db12k1y1k1g12k2r2~x2/"><circle cx="290.2" cy="33.8" r="4" fill="#3465a4"><title>Cockburn</title></circle></a><circle cx="263.3" cy="16.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s24/g34k1r4w1r4k1g4k1y2k1g7k1r3k1g3k1r3k1g3w1db5w1y4w2~x2/

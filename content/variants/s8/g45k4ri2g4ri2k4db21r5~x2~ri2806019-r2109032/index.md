@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Shiach (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g45k4ri2g4ri2k4db21r5/)
 (the same proportion at any scale), whose colour order is pattern [GKRGRKBR](/stripes/gkrgrkbr/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7645
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7645](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7645)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k3g2k3g18r2db2ly1~x4~g2106142-r1606028-db1004274/"><circle cx="325.5" cy="125.2" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/variants/s7/k3g2k3g18dr2db2ly1~x4/"><circle cx="318.4" cy="125.4" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/variants/s7/k3dg2k3dg18r2db2dy1~x4~dg1806142-r1606028-db1004274/"><circle cx="352.1" cy="132.9" r="4" fill="#3465a4"><title>Sevlon Bruce Personal Tartan</title></circle></a><a href="/variants/s7/r2db16w1k16g30r1g2~x2/"><circle cx="225.8" cy="118.2" r="4" fill="#3465a4"><title>Sinclair Hunting (VS)</title></circle></a><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="233.1" cy="166.9" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/variants/s6/g24k2db3k2db8r2~x2/"><circle cx="305.0" cy="170.2" r="4" fill="#3465a4"><title>Shaw (Clan 1)</title></circle></a><a href="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/"><circle cx="243.6" cy="108.4" r="4" fill="#3465a4"><title>Sarafilovic (Corporate)</title></circle></a><a href="/variants/s7/k4y1g2y1g35db32lb4~x2/"><circle cx="281.0" cy="111.6" r="4" fill="#3465a4"><title>McClurg (Name)</title></circle></a><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="257.9" cy="150.7" r="4" fill="#3465a4"><title>Shanahan (Corporate)</title></circle></a><a href="/variants/s8/w9dg2g2w3g18k2dg33lo2~x2/"><circle cx="225.1" cy="130.9" r="4" fill="#3465a4"><title>New World Irish (Fashion)</title></circle></a><circle cx="284.1" cy="112.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k3g2k3g18r2db2ly1~x4~g2106142-r1606028-db1004274/"><circle cx="325.4" cy="125.5" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/variants/s7/k3g2k3g18dr2db2ly1~x4/"><circle cx="318.4" cy="125.7" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/variants/s7/k3dg2k3dg18r2db2dy1~x4~dg1806142-r1606028-db1004274/"><circle cx="352.0" cy="133.1" r="4" fill="#3465a4"><title>Sevlon Bruce Personal Tartan</title></circle></a><a href="/variants/s7/r2db16w1k16g30r1g2~x2/"><circle cx="225.7" cy="118.5" r="4" fill="#3465a4"><title>Sinclair Hunting (VS)</title></circle></a><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="233.1" cy="167.4" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/variants/s6/g24k2db3k2db8r2~x2/"><circle cx="305.0" cy="170.6" r="4" fill="#3465a4"><title>Shaw (Clan 1)</title></circle></a><a href="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/"><circle cx="243.5" cy="108.6" r="4" fill="#3465a4"><title>Sarafilovic (Corporate)</title></circle></a><a href="/variants/s7/k4y1g2y1g35db32lb4~x2/"><circle cx="280.9" cy="111.8" r="4" fill="#3465a4"><title>McClurg (Name)</title></circle></a><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="257.9" cy="151.0" r="4" fill="#3465a4"><title>Shanahan (Corporate)</title></circle></a><a href="/variants/s8/w9dg2g2w3g18k2dg33lo2~x2/"><circle cx="225.1" cy="131.3" r="4" fill="#3465a4"><title>New World Irish (Fashion)</title></circle></a><circle cx="284.0" cy="112.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g45k4ri2g4ri2k4db21r5~x2~ri2806019-r2109032/

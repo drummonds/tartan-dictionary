@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Berwick Friendship"
   url: "/tartans/berwick-friendship/"
+- name: "Berwick Friendship (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t24k6r6y12g6t6g6t12y1k1r2/)
 (the same proportion at any scale), whose colour order is pattern [BKRGGBGBGKR](/stripes/bkrggbgbgkr/).
@@ -14,7 +16,7 @@ Part of the [Berwick Friendship](/tartans/berwick-friendship/) tartan — the na
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6184
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6184](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6184)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db24k6r6y12g6db6g6db12y1k1r2~x2/"><circle cx="231.1" cy="127.1" r="4" fill="#3465a4"><title>Berwick Friendship</title></circle></a><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><circle cx="212.1" cy="165.1" r="4" fill="#3465a4"><title>Gillies (House of Edgar)</title></circle></a><a href="/variants/s14/w4t30k3g20r4k1w3k1r4g20k3t30w4r2~x2~g2408144/"><circle cx="231.8" cy="98.6" r="4" fill="#3465a4"><title>Scottish Prison Service</title></circle></a><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/"><circle cx="204.9" cy="166.6" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><a href="/variants/s10/b24w2b6g9r6b3r6g35k2ly2~x2/"><circle cx="236.9" cy="124.4" r="4" fill="#3465a4"><title>O'Donohue Personal)</title></circle></a><a href="/variants/s10/y7n2k2n41k12g22n6k2r4k2~x2/"><circle cx="244.9" cy="115.5" r="4" fill="#3465a4"><title>Dinwiddie</title></circle></a><a href="/variants/s8/dy2g12k10r1t16r2t16r1~x4/"><circle cx="230.1" cy="157.6" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s8/k3r1ly1lb11g13lb5r1ly1~x4~r2109032-ly3307090-g2408144/"><circle cx="219.6" cy="138.8" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s8/k3r1y1lb11g13lb5r1y1~x4/"><circle cx="198.5" cy="151.2" r="4" fill="#3465a4"><title>Snodgrass (Clan)</title></circle></a><a href="/variants/s8/k3r1y1db11g13db5r1y1~x2/"><circle cx="209.4" cy="153.3" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><circle cx="250.7" cy="140.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db24k6r6y12g6db6g6db12y1k1r2~x2/"><circle cx="231.0" cy="127.3" r="4" fill="#3465a4"><title>Berwick Friendship</title></circle></a><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><circle cx="212.1" cy="165.4" r="4" fill="#3465a4"><title>Gillies (House of Edgar)</title></circle></a><a href="/variants/s14/w4t30k3g20r4k1w3k1r4g20k3t30w4r2~x2~g2408144/"><circle cx="231.7" cy="98.7" r="4" fill="#3465a4"><title>Scottish Prison Service</title></circle></a><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/"><circle cx="204.9" cy="167.0" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><a href="/variants/s10/b24w2b6g9r6b3r6g35k2ly2~x2/"><circle cx="236.8" cy="124.6" r="4" fill="#3465a4"><title>O'Donohue Personal)</title></circle></a><a href="/variants/s10/y7n2k2n41k12g22n6k2r4k2~x2/"><circle cx="244.8" cy="115.6" r="4" fill="#3465a4"><title>Dinwiddie</title></circle></a><a href="/variants/s8/dy2g12k10r1t16r2t16r1~x4/"><circle cx="230.1" cy="158.0" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s8/k3r1ly1lb11g13lb5r1ly1~x4~r2109032-ly3307090-g2408144/"><circle cx="219.6" cy="139.2" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s8/k3r1y1lb11g13lb5r1y1~x4/"><circle cx="198.5" cy="151.6" r="4" fill="#3465a4"><title>Snodgrass (Clan)</title></circle></a><a href="/variants/s8/k3r1y1db11g13db5r1y1~x2/"><circle cx="209.4" cy="153.6" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><circle cx="250.7" cy="140.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/t24k6r6y12g6t6g6t12y1k1r2~x2/

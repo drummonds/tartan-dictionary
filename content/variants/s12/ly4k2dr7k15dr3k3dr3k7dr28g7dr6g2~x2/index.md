@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Walker, Evening (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2/)
 (the same proportion at any scale), whose colour order is pattern [GBGBKBKBKBKY](/stripes/gbgbkbkbkbky/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2068
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2068](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2068)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/"><circle cx="241.3" cy="117.9" r="4" fill="#3465a4"><title>Hallingdal</title></circle></a><a href="/variants/s14/dr12k2ly2k2dr2k2ly2k2dr12k9dr12k2ly2k2~x2/"><circle cx="272.0" cy="127.0" r="4" fill="#3465a4"><title>City of New Bern 300 (District)</title></circle></a><a href="/variants/s9/dr22g11k2g4k2g6k16dr42lb6~x2/"><circle cx="304.2" cy="136.1" r="4" fill="#3465a4"><title>Stewart of Bute Hunting</title></circle></a><a href="/variants/s9/dr8dg8k1dg3k1dg1k10dr20w3~x2/"><circle cx="276.9" cy="145.4" r="4" fill="#3465a4"><title>Hunter of Bute (Clan ?)</title></circle></a><a href="/variants/s9/dr12g6k6g2k1g1k6dr24w2~x2/"><circle cx="300.6" cy="103.0" r="4" fill="#3465a4"><title>Hunter of Bute (Personal)</title></circle></a><a href="/variants/s15/w2dr20k4dr9k26dr2k6dr2k26dr4k4dr4k4dr18ly2~x2/"><circle cx="305.7" cy="141.5" r="4" fill="#3465a4"><title>Killin (Name)</title></circle></a><a href="/variants/s5/o16k2o9k37o10~x2/"><circle cx="218.6" cy="142.5" r="4" fill="#3465a4"><title>Highland Spring (1985) (Corporate)</title></circle></a><a href="/variants/s12/dr16dg4k3ly1k2lr1k3dg4dr4k1dr4lr1~x4/"><circle cx="286.1" cy="125.1" r="4" fill="#3465a4"><title>Unidentified #53</title></circle></a><a href="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/"><circle cx="276.9" cy="138.0" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles)</title></circle></a><a href="/variants/s14/n2k6o2k1o2k1n2k4n6k4n19r2n2r2~x4/"><circle cx="285.3" cy="109.3" r="4" fill="#3465a4"><title>Lochcarron Mill</title></circle></a><circle cx="277.3" cy="142.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/"><circle cx="241.3" cy="118.3" r="4" fill="#3465a4"><title>Hallingdal</title></circle></a><a href="/variants/s14/dr12k2ly2k2dr2k2ly2k2dr12k9dr12k2ly2k2~x2/"><circle cx="271.9" cy="127.3" r="4" fill="#3465a4"><title>City of New Bern 300 (District)</title></circle></a><a href="/variants/s9/dr22g11k2g4k2g6k16dr42lb6~x2/"><circle cx="304.2" cy="136.4" r="4" fill="#3465a4"><title>Stewart of Bute Hunting</title></circle></a><a href="/variants/s9/dr8dg8k1dg3k1dg1k10dr20w3~x2/"><circle cx="276.9" cy="145.7" r="4" fill="#3465a4"><title>Hunter of Bute (Clan ?)</title></circle></a><a href="/variants/s9/dr12g6k6g2k1g1k6dr24w2~x2/"><circle cx="300.5" cy="103.2" r="4" fill="#3465a4"><title>Hunter of Bute (Personal)</title></circle></a><a href="/variants/s15/w2dr20k4dr9k26dr2k6dr2k26dr4k4dr4k4dr18ly2~x2/"><circle cx="305.7" cy="141.8" r="4" fill="#3465a4"><title>Killin (Name)</title></circle></a><a href="/variants/s5/o16k2o9k37o10~x2/"><circle cx="218.6" cy="142.9" r="4" fill="#3465a4"><title>Highland Spring (1985) (Corporate)</title></circle></a><a href="/variants/s12/dr16dg4k3ly1k2lr1k3dg4dr4k1dr4lr1~x4/"><circle cx="286.0" cy="125.3" r="4" fill="#3465a4"><title>Unidentified #53</title></circle></a><a href="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/"><circle cx="276.9" cy="138.3" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles)</title></circle></a><a href="/variants/s14/n2k6o2k1o2k1n2k4n6k4n19r2n2r2~x4/"><circle cx="285.2" cy="109.6" r="4" fill="#3465a4"><title>Lochcarron Mill</title></circle></a><circle cx="277.2" cy="142.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/ly4k2dr7k15dr3k3dr3k7dr28g7dr6g2~x2/

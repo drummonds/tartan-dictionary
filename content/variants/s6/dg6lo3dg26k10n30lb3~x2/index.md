@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Montrose (1983)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg6lo3dg26k10n30lb3/)
 (the same proportion at any scale), whose colour order is pattern [GYGKBW](/stripes/gygkbw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2997
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2997](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2997)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r12db68w7k39g75r6g6/"><circle cx="149.5" cy="161.7" r="4" fill="#3465a4"><title>Rhun (Fashion)</title></circle></a><a href="/variants/s8/db4dr11db1g8dr2g4k1lo2~x4/"><circle cx="183.4" cy="178.8" r="4" fill="#3465a4"><title>Craik of Assington (Personal)</title></circle></a><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/"><circle cx="172.3" cy="176.1" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5~x2/"><circle cx="172.4" cy="176.1" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5/"><circle cx="172.4" cy="176.1" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s7/db3r2db22k11g24o2g3~x2/"><circle cx="181.8" cy="166.8" r="4" fill="#3465a4"><title>MacThomas Clan Tartan</title></circle></a><a href="/variants/s7/dg54db14y7r14k7db14r6~x2/"><circle cx="227.3" cy="181.8" r="4" fill="#3465a4"><title>Gloucester County Pipe Band (Corp)</title></circle></a><a href="/variants/s8/dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/"><circle cx="217.3" cy="177.6" r="4" fill="#3465a4"><title>Scottish Power</title></circle></a><a href="/variants/s7/g27dr2g4r15db26k2db6~x2/"><circle cx="195.4" cy="171.8" r="4" fill="#3465a4"><title>Bailies of Bennachie (Corporate)</title></circle></a><a href="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/"><circle cx="199.4" cy="201.6" r="4" fill="#3465a4"><title>Douglas, Green (Wilsons)</title></circle></a><circle cx="209.0" cy="195.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r12db68w7k39g75r6g6/"><circle cx="149.5" cy="162.1" r="4" fill="#3465a4"><title>Rhun (Fashion)</title></circle></a><a href="/variants/s8/db4dr11db1g8dr2g4k1lo2~x4/"><circle cx="183.4" cy="179.2" r="4" fill="#3465a4"><title>Craik of Assington (Personal)</title></circle></a><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/"><circle cx="172.3" cy="176.5" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5~x2/"><circle cx="172.4" cy="176.5" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5/"><circle cx="172.4" cy="176.5" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><a href="/variants/s7/db3r2db22k11g24o2g3~x2/"><circle cx="181.7" cy="167.1" r="4" fill="#3465a4"><title>MacThomas Clan Tartan</title></circle></a><a href="/variants/s7/dg54db14y7r14k7db14r6~x2/"><circle cx="227.3" cy="182.1" r="4" fill="#3465a4"><title>Gloucester County Pipe Band (Corp)</title></circle></a><a href="/variants/s8/dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/"><circle cx="217.3" cy="177.9" r="4" fill="#3465a4"><title>Scottish Power</title></circle></a><a href="/variants/s7/g27dr2g4r15db26k2db6~x2/"><circle cx="195.4" cy="172.2" r="4" fill="#3465a4"><title>Bailies of Bennachie (Corporate)</title></circle></a><a href="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/"><circle cx="199.4" cy="202.1" r="4" fill="#3465a4"><title>Douglas, Green (Wilsons)</title></circle></a><circle cx="209.0" cy="195.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dg6lo3dg26k10n30lb3~x2/

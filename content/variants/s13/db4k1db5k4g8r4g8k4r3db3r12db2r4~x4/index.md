@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Murray of Atholl, Red Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4k1db5k4g8r4g8k4r3db3r12db2r4/)
 (the same proportion at any scale), whose colour order is pattern [BKBKGRGKRBRBR](/stripes/bkbkgrgkrbrbr/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3065
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3065](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3065)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><circle cx="108.9" cy="183.8" r="4" fill="#3465a4"><title>Unidentified Sample #2</title></circle></a><a href="/variants/s10/g14k5db2r21g18k4db18r9k2r12/"><circle cx="153.4" cy="187.2" r="4" fill="#3465a4"><title>Ruben Delanghe (Personal)</title></circle></a><a href="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2/"><circle cx="107.6" cy="140.3" r="4" fill="#3465a4"><title>Bowie, Black (Name)</title></circle></a><a href="/variants/s16/dr15n20lr6k4n10lr22k28n6dr6lr22n6dr2lr12k2lr3n10~x2/"><circle cx="138.6" cy="149.6" r="4" fill="#3465a4"><title>Alexander Brothers - 1993 (Corp.)</title></circle></a><a href="/variants/s9/g12k1r10k2n10k14n10k2r4~x2/"><circle cx="116.0" cy="181.5" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><circle cx="132.5" cy="146.0" r="4" fill="#3465a4"><title>Bonner, (Bonnar)</title></circle></a><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="93.0" cy="210.2" r="4" fill="#3465a4"><title>Borthwick Hunting</title></circle></a><a href="/variants/s13/k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1~x4/"><circle cx="85.0" cy="199.9" r="4" fill="#3465a4"><title>Franklin (District)</title></circle></a><a href="/variants/s11/n12k2n12y2k12w1k12y2r12k2r12~x2/"><circle cx="118.5" cy="155.5" r="4" fill="#3465a4"><title>Wells Red, Greg (Personal)</title></circle></a><a href="/variants/s11/k4r6g8r16k6db10k2db10k2g8y1~x2/"><circle cx="94.3" cy="156.2" r="4" fill="#3465a4"><title>MacBrine (Name)</title></circle></a><circle cx="126.5" cy="177.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><circle cx="108.9" cy="184.3" r="4" fill="#3465a4"><title>Unidentified Sample #2</title></circle></a><a href="/variants/s10/g14k5db2r21g18k4db18r9k2r12/"><circle cx="153.5" cy="187.7" r="4" fill="#3465a4"><title>Ruben Delanghe (Personal)</title></circle></a><a href="/variants/s12/k9lo1dg3r5dg16k17r2t16r5t3r3t9~x2/"><circle cx="107.5" cy="140.7" r="4" fill="#3465a4"><title>Bowie, Black (Name)</title></circle></a><a href="/variants/s16/dr15n20lr6k4n10lr22k28n6dr6lr22n6dr2lr12k2lr3n10~x2/"><circle cx="138.6" cy="150.1" r="4" fill="#3465a4"><title>Alexander Brothers - 1993 (Corp.)</title></circle></a><a href="/variants/s9/g12k1r10k2n10k14n10k2r4~x2/"><circle cx="116.0" cy="182.0" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><circle cx="132.4" cy="146.4" r="4" fill="#3465a4"><title>Bonner, (Bonnar)</title></circle></a><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="93.1" cy="210.8" r="4" fill="#3465a4"><title>Borthwick Hunting</title></circle></a><a href="/variants/s13/k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1~x4/"><circle cx="85.1" cy="200.5" r="4" fill="#3465a4"><title>Franklin (District)</title></circle></a><a href="/variants/s11/n12k2n12y2k12w1k12y2r12k2r12~x2/"><circle cx="118.5" cy="155.9" r="4" fill="#3465a4"><title>Wells Red, Greg (Personal)</title></circle></a><a href="/variants/s11/k4r6g8r16k6db10k2db10k2g8y1~x2/"><circle cx="94.2" cy="156.6" r="4" fill="#3465a4"><title>MacBrine (Name)</title></circle></a><circle cx="126.5" cy="177.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/

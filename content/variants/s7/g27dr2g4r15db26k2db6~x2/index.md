@@ -10,6 +10,8 @@ crumbs:
   url: "/families/bailies-of-bennachie/"
 - name: "Bailies of Bennachie"
   url: "/tartans/bailies-of-bennachie/"
+- name: "Bailies of Bennachie (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g27dr2g4r15db26k2db6/)
 (the same proportion at any scale), whose colour order is pattern [BKBRGBG](/stripes/bkbrgbg/).
@@ -18,7 +20,7 @@ Part of the [Bailies of Bennachie](/tartans/bailies-of-bennachie/) tartan — th
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3628
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3628](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3628)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="187.1" cy="184.0" r="4" fill="#3465a4"><title>Gammell (1978) (Personal)</title></circle></a><a href="/variants/s7/db3r2db21k11g21r2g3~x2/"><circle cx="181.8" cy="187.0" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db21k11g21r2g3/"><circle cx="181.8" cy="187.0" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db2r2db21k11g21r2g2~x2/"><circle cx="182.4" cy="182.5" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s9/g11k2g1dr4db1dr4db13lb2db1~x4/"><circle cx="180.7" cy="155.5" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/"><circle cx="150.9" cy="163.8" r="4" fill="#3465a4"><title>Ritchie, Stephen James (Personal)</title></circle></a><a href="/variants/s8/db32k12db12g6r6g18k2y3~x2/"><circle cx="210.2" cy="158.5" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><circle cx="212.1" cy="165.1" r="4" fill="#3465a4"><title>Gillies (House of Edgar)</title></circle></a><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/"><circle cx="172.3" cy="176.1" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5~x2/"><circle cx="172.4" cy="176.1" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><circle cx="195.4" cy="171.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="187.2" cy="184.5" r="4" fill="#3465a4"><title>Gammell (1978) (Personal)</title></circle></a><a href="/variants/s7/db3r2db21k11g21r2g3~x2/"><circle cx="181.9" cy="187.4" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db21k11g21r2g3/"><circle cx="181.9" cy="187.4" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db2r2db21k11g21r2g2~x2/"><circle cx="182.4" cy="182.9" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s9/g11k2g1dr4db1dr4db13lb2db1~x4/"><circle cx="180.6" cy="155.7" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/"><circle cx="150.9" cy="164.2" r="4" fill="#3465a4"><title>Ritchie, Stephen James (Personal)</title></circle></a><a href="/variants/s8/db32k12db12g6r6g18k2y3~x2/"><circle cx="210.1" cy="158.9" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><circle cx="212.1" cy="165.4" r="4" fill="#3465a4"><title>Gillies (House of Edgar)</title></circle></a><a href="/variants/s7/db5dr3db32k16g32o3g5~x2/"><circle cx="172.3" cy="176.5" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5~x2/"><circle cx="172.4" cy="176.5" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><circle cx="195.4" cy="172.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g27dr2g4r15db26k2db6~x2/

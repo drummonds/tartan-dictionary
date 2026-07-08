@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Caithness Glass (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1lr10y2lr16db40lr1/)
 (the same proportion at any scale), whose colour order is pattern [RYGYBY](/stripes/rygyby/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8018
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8018](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8018)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb28db15r2db2w1db6~x2/"><circle cx="334.6" cy="153.7" r="4" fill="#3465a4"><title>Corries</title></circle></a><a href="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/"><circle cx="345.8" cy="89.6" r="4" fill="#3465a4"><title>Union Memorial Tartan (Military)</title></circle></a><a href="/variants/s6/dp2g3lp21dp42w1g2~x2/"><circle cx="425.9" cy="129.9" r="4" fill="#3465a4"><title>SiMBA</title></circle></a><a href="/variants/s8/dy4w1db42ri1w21db4w4r4~x2~ri2806019-r1807033/"><circle cx="321.1" cy="90.0" r="4" fill="#3465a4"><title>Presley of Memphis</title></circle></a><a href="/variants/s6/lb60db19w3db2r2db7~x2/"><circle cx="411.3" cy="135.1" r="4" fill="#3465a4"><title>Federal Bureaux of Investigation</title></circle></a><a href="/variants/s7/db60w2r10dg6w4r15y10~x2/"><circle cx="325.1" cy="118.8" r="4" fill="#3465a4"><title>Iberia Dress, Blue (Fashion)</title></circle></a><a href="/variants/s8/db28o3w1o3db4w2dp1w5~x4/"><circle cx="407.0" cy="115.6" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="423.8" cy="107.0" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s8/db28y3w1y3db4w2r1w5~x4/"><circle cx="411.2" cy="119.6" r="4" fill="#3465a4"><title>Baker Dress Family Tartan</title></circle></a><a href="/variants/s9/w3db2w2db40r3y1r10g10r1~x2/"><circle cx="340.5" cy="83.7" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><circle cx="376.8" cy="129.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb28db15r2db2w1db6~x2/"><circle cx="334.6" cy="154.1" r="4" fill="#3465a4"><title>Corries</title></circle></a><a href="/variants/s8/ly16r4ly4dy2db56r18dbi1db7~x2~ly3307090-dbi1106275/"><circle cx="345.7" cy="89.7" r="4" fill="#3465a4"><title>Union Memorial Tartan (Military)</title></circle></a><a href="/variants/s6/dp2g3lp21dp42w1g2~x2/"><circle cx="425.9" cy="130.1" r="4" fill="#3465a4"><title>SiMBA</title></circle></a><a href="/variants/s8/dy4w1db42ri1w21db4w4r4~x2~ri2806019-r1807033/"><circle cx="321.0" cy="90.2" r="4" fill="#3465a4"><title>Presley of Memphis</title></circle></a><a href="/variants/s6/lb60db19w3db2r2db7~x2/"><circle cx="411.3" cy="135.4" r="4" fill="#3465a4"><title>Federal Bureaux of Investigation</title></circle></a><a href="/variants/s7/db60w2r10dg6w4r15y10~x2/"><circle cx="325.0" cy="119.0" r="4" fill="#3465a4"><title>Iberia Dress, Blue (Fashion)</title></circle></a><a href="/variants/s8/db28o3w1o3db4w2dp1w5~x4/"><circle cx="406.9" cy="115.8" r="4" fill="#3465a4"><title>Baker</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="423.8" cy="107.1" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s8/db28y3w1y3db4w2r1w5~x4/"><circle cx="411.1" cy="119.8" r="4" fill="#3465a4"><title>Baker Dress Family Tartan</title></circle></a><a href="/variants/s9/w3db2w2db40r3y1r10g10r1~x2/"><circle cx="340.4" cy="83.8" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><circle cx="376.8" cy="129.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r1lr10y2lr16db40lr1~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tokharion"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1ly5db1ly5db2w1/)
 (the same proportion at any scale), whose colour order is pattern [BYBYBW](/stripes/bybybw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4133
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4133](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4133)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/ly72db16w9db4w5db16~x2/"><circle cx="394.1" cy="203.9" r="4" fill="#3465a4"><title>Machair</title></circle></a><a href="/variants/s6/db4ly9w4db9ly18w1~x2/"><circle cx="374.9" cy="237.6" r="4" fill="#3465a4"><title>WVU Mountaineer (Corporate)</title></circle></a><a href="/variants/s5/dr1ly9db2ly9db1~x4/"><circle cx="529.1" cy="256.8" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Camel (Fashio</title></circle></a><a href="/variants/s7/w24g2w8db5y4db5y4~x2/"><circle cx="327.0" cy="197.9" r="4" fill="#3465a4"><title>Clackson Arisaid (Name?)</title></circle></a><a href="/variants/s6/db1o5db1o5db2w1~x4/"><circle cx="370.6" cy="258.2" r="4" fill="#3465a4"><title>Tokharian</title></circle></a><a href="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/"><circle cx="328.6" cy="220.5" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1970 (Corporate)</title></circle></a><circle cx="378.5" cy="284.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/ly72db16w9db4w5db16~x2/"><circle cx="394.3" cy="204.5" r="4" fill="#3465a4"><title>Machair</title></circle></a><a href="/variants/s6/db4ly9w4db9ly18w1~x2/"><circle cx="375.1" cy="238.3" r="4" fill="#3465a4"><title>WVU Mountaineer (Corporate)</title></circle></a><a href="/variants/s5/dr1ly9db2ly9db1~x4/"><circle cx="529.3" cy="257.6" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Camel (Fashio</title></circle></a><a href="/variants/s7/w24g2w8db5y4db5y4~x2/"><circle cx="327.1" cy="198.5" r="4" fill="#3465a4"><title>Clackson Arisaid (Name?)</title></circle></a><a href="/variants/s6/db1o5db1o5db2w1~x4/"><circle cx="370.8" cy="258.9" r="4" fill="#3465a4"><title>Tokharian</title></circle></a><a href="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/"><circle cx="328.7" cy="221.1" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1970 (Corporate)</title></circle></a><circle cx="378.8" cy="285.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db1ly5db1ly5db2w1~x4/

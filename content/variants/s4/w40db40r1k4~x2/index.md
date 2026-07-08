@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Kimon Andreou"
   url: "/tartans/kimon-andreou/"
+- name: "Kimon Andreou Family (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w40db40r1k4/)
 (the same proportion at any scale), whose colour order is pattern [KRBW](/stripes/krbw/).
@@ -14,7 +16,7 @@ Part of the [Kimon Andreou](/tartans/kimon-andreou/) tartan — the named design
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10539
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10539](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10539)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/w40t40r1k4~x2/"><circle cx="293.5" cy="158.4" r="4" fill="#3465a4"><title>Kimon Andreou Family (Personal)</title></circle></a><a href="/variants/s4/k1w8db8r1~x8/"><circle cx="195.5" cy="214.9" r="4" fill="#3465a4"><title>MacRae Dress Purple</title></circle></a><a href="/variants/s4/n62w11k4db17~x2/"><circle cx="370.3" cy="187.7" r="4" fill="#3465a4"><title>Thunderlord (Celtic Group, USA)</title></circle></a><a href="/variants/s5/k8y2t21w3r2~x4~t2205244/"><circle cx="251.5" cy="166.7" r="4" fill="#3465a4"><title>Oklahoma State American District Tartan</title></circle></a><a href="/variants/s6/b53w27r5k19y1g11~x2/"><circle cx="192.5" cy="98.4" r="4" fill="#3465a4"><title>Crookstoun, James (West Lothian) (Personal)</title></circle></a><a href="/variants/s6/t53w27r5k19ly1g11~x2/"><circle cx="191.0" cy="101.7" r="4" fill="#3465a4"><title>Crookstoun (Personal)</title></circle></a><a href="/variants/s5/r14w6db38k3g2~x2/"><circle cx="299.6" cy="138.5" r="4" fill="#3465a4"><title>Doten (2013)</title></circle></a><a href="/variants/s5/k5w2y36b47r3~x2/"><circle cx="309.8" cy="153.6" r="4" fill="#3465a4"><title>Cornish, National Day</title></circle></a><a href="/variants/s5/k5w2y36lb47r3~x2/"><circle cx="291.6" cy="147.8" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/variants/s6/lb23w3k10r2db45y1~x2/"><circle cx="259.5" cy="83.2" r="4" fill="#3465a4"><title>Kirkcaldy</title></circle></a><circle cx="274.5" cy="147.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/w40t40r1k4~x2/"><circle cx="293.5" cy="158.8" r="4" fill="#3465a4"><title>Kimon Andreou Family (Personal)</title></circle></a><a href="/variants/s4/k1w8db8r1~x8/"><circle cx="195.6" cy="215.6" r="4" fill="#3465a4"><title>MacRae Dress Purple</title></circle></a><a href="/variants/s4/n62w11k4db17~x2/"><circle cx="370.3" cy="188.2" r="4" fill="#3465a4"><title>Thunderlord (Celtic Group, USA)</title></circle></a><a href="/variants/s5/k8y2t21w3r2~x4~t2205244/"><circle cx="251.5" cy="167.1" r="4" fill="#3465a4"><title>Oklahoma State American District Tartan</title></circle></a><a href="/variants/s6/b53w27r5k19y1g11~x2/"><circle cx="192.4" cy="98.6" r="4" fill="#3465a4"><title>Crookstoun, James (West Lothian) (Personal)</title></circle></a><a href="/variants/s6/t53w27r5k19ly1g11~x2/"><circle cx="190.9" cy="101.9" r="4" fill="#3465a4"><title>Crookstoun (Personal)</title></circle></a><a href="/variants/s5/r14w6db38k3g2~x2/"><circle cx="299.6" cy="138.8" r="4" fill="#3465a4"><title>Doten (2013)</title></circle></a><a href="/variants/s5/k5w2y36b47r3~x2/"><circle cx="309.8" cy="153.8" r="4" fill="#3465a4"><title>Cornish, National Day</title></circle></a><a href="/variants/s5/k5w2y36lb47r3~x2/"><circle cx="291.6" cy="148.2" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/variants/s6/lb23w3k10r2db45y1~x2/"><circle cx="259.4" cy="83.4" r="4" fill="#3465a4"><title>Kirkcaldy</title></circle></a><circle cx="274.5" cy="147.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/w40db40r1k4~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bro-sant-Brieg"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3g6db2y3db42k6w3/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBKW](/stripes/bgbgbkw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=386
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=386](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=386)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db50y4db3y4db8k2dbi12w5~x2~db1003265-dbi1605267/"><circle cx="409.9" cy="108.7" r="4" fill="#3465a4"><title>Indiana #2</title></circle></a><a href="/variants/s6/db35k10db4w2db3r2~x2/"><circle cx="452.5" cy="145.5" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers</title></circle></a><a href="/variants/s7/db35k10db4w2db3r2y2~x2/"><circle cx="412.0" cy="121.1" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers (Corp)</title></circle></a><a href="/variants/s8/db35g10lb10k10db23y1db3r2~x2/"><circle cx="322.8" cy="104.5" r="4" fill="#3465a4"><title>Lapsley, The Tom</title></circle></a><a href="/variants/s8/db35g10lb10k10db23ly1db3r2~x2/"><circle cx="321.8" cy="104.6" r="4" fill="#3465a4"><title>Lapsley, The Tom (Personal)</title></circle></a><a href="/variants/s10/ly4db44g5w2g2db2g2r2db3ly3~x2/"><circle cx="415.3" cy="89.9" r="4" fill="#3465a4"><title>Oxford University Dress (Corporate)</title></circle></a><a href="/variants/s8/db60g10db3lb6y2db9r2w2~x2/"><circle cx="470.2" cy="89.2" r="4" fill="#3465a4"><title>St. Petersburg City (District)</title></circle></a><a href="/variants/s9/b80k12dg3k3w3b24k3b4w3~x2/"><circle cx="485.4" cy="92.5" r="4" fill="#3465a4"><title>Suffolk County Police</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2~x2/"><circle cx="481.2" cy="97.2" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Centre</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2/"><circle cx="481.2" cy="97.2" r="4" fill="#3465a4"><title>Scotch Whisky, Heritage</title></circle></a><circle cx="409.9" cy="110.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db50y4db3y4db8k2dbi12w5~x2~db1003265-dbi1605267/"><circle cx="409.8" cy="108.8" r="4" fill="#3465a4"><title>Indiana #2</title></circle></a><a href="/variants/s6/db35k10db4w2db3r2~x2/"><circle cx="452.4" cy="145.7" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers</title></circle></a><a href="/variants/s7/db35k10db4w2db3r2y2~x2/"><circle cx="411.9" cy="121.3" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers (Corp)</title></circle></a><a href="/variants/s8/db35g10lb10k10db23y1db3r2~x2/"><circle cx="322.7" cy="104.7" r="4" fill="#3465a4"><title>Lapsley, The Tom</title></circle></a><a href="/variants/s8/db35g10lb10k10db23ly1db3r2~x2/"><circle cx="321.7" cy="104.8" r="4" fill="#3465a4"><title>Lapsley, The Tom (Personal)</title></circle></a><a href="/variants/s10/ly4db44g5w2g2db2g2r2db3ly3~x2/"><circle cx="415.2" cy="90.0" r="4" fill="#3465a4"><title>Oxford University Dress (Corporate)</title></circle></a><a href="/variants/s8/db60g10db3lb6y2db9r2w2~x2/"><circle cx="470.1" cy="89.2" r="4" fill="#3465a4"><title>St. Petersburg City (District)</title></circle></a><a href="/variants/s9/b80k12dg3k3w3b24k3b4w3~x2/"><circle cx="485.3" cy="92.7" r="4" fill="#3465a4"><title>Suffolk County Police</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2~x2/"><circle cx="481.1" cy="97.3" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Centre</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2/"><circle cx="481.1" cy="97.3" r="4" fill="#3465a4"><title>Scotch Whisky, Heritage</title></circle></a><circle cx="409.9" cy="110.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db3g6db2y3db42k6w3~x2/

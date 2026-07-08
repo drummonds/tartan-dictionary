@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harmony 8"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do2n10ly15do10n2/)
 (the same proportion at any scale), whose colour order is pattern [BBYBB](/stripes/bbybb/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1612
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1612](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1612)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/lb6do28lo20lb3~x2/"><circle cx="323.3" cy="278.6" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/"><circle cx="291.9" cy="248.9" r="4" fill="#3465a4"><title>Heil, Rudiger (Personal)</title></circle></a><a href="/variants/s4/w2g13lo13w2~x6/"><circle cx="314.1" cy="300.4" r="4" fill="#3465a4"><title>Dunoon Irish Corporate Tartan</title></circle></a><a href="/variants/s7/do5lo4do26ly26do4ly3w5~x2/"><circle cx="294.9" cy="226.4" r="4" fill="#3465a4"><title>Elgin District Tartan</title></circle></a><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="297.7" cy="300.5" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><a href="/variants/s4/lb6lo28dy20lb3~x2/"><circle cx="306.8" cy="267.2" r="4" fill="#3465a4"><title>Prince of Orange Tartan</title></circle></a><a href="/variants/s8/n9do1n1do1n1do7w7do2~x4/"><circle cx="261.4" cy="241.1" r="4" fill="#3465a4"><title>Grey Watch, Dress</title></circle></a><a href="/variants/s8/ly7db4ly2db4ly23n19db19n4~x2/"><circle cx="265.8" cy="244.1" r="4" fill="#3465a4"><title>Chindecella Gorse (Personal)</title></circle></a><a href="/variants/s4/w2dg13o13w2~x6/"><circle cx="258.0" cy="267.6" r="4" fill="#3465a4"><title>Dunoon Irish</title></circle></a><circle cx="268.0" cy="294.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/lb6do28lo20lb3~x2/"><circle cx="323.5" cy="279.4" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/"><circle cx="292.0" cy="249.5" r="4" fill="#3465a4"><title>Heil, Rudiger (Personal)</title></circle></a><a href="/variants/s4/w2g13lo13w2~x6/"><circle cx="314.4" cy="301.1" r="4" fill="#3465a4"><title>Dunoon Irish Corporate Tartan</title></circle></a><a href="/variants/s7/do5lo4do26ly26do4ly3w5~x2/"><circle cx="295.0" cy="227.1" r="4" fill="#3465a4"><title>Elgin District Tartan</title></circle></a><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="297.9" cy="301.2" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><a href="/variants/s4/lb6lo28dy20lb3~x2/"><circle cx="307.0" cy="268.0" r="4" fill="#3465a4"><title>Prince of Orange Tartan</title></circle></a><a href="/variants/s8/n9do1n1do1n1do7w7do2~x4/"><circle cx="261.5" cy="241.7" r="4" fill="#3465a4"><title>Grey Watch, Dress</title></circle></a><a href="/variants/s8/ly7db4ly2db4ly23n19db19n4~x2/"><circle cx="265.9" cy="244.7" r="4" fill="#3465a4"><title>Chindecella Gorse (Personal)</title></circle></a><a href="/variants/s4/w2dg13o13w2~x6/"><circle cx="258.2" cy="268.3" r="4" fill="#3465a4"><title>Dunoon Irish</title></circle></a><circle cx="268.3" cy="295.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/do2n10ly15do10n2~x4/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Loudoun's Highlanders"
   url: "/tartans/loudoun-s-highlanders/"
+- name: "Loudoun's Highlanders - 1747 #1 (Mil"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr4k2db24k20dg20lo3/)
 (the same proportion at any scale), whose colour order is pattern [BKBKGY](/stripes/bkbkgy/).
@@ -14,7 +16,7 @@ Part of the [Loudoun's Highlanders](/tartans/loudoun-s-highlanders/) tartan — 
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5492
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5492](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5492)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr4k2db24k20g20lo3~x2/"><circle cx="129.1" cy="185.7" r="4" fill="#3465a4"><title>Loudoun's Highlanders</title></circle></a><a href="/variants/s6/dp2dg6k2db6k1r2~x4/"><circle cx="138.1" cy="236.0" r="4" fill="#3465a4"><title>MacCaughan or MacEachain (Personal)</title></circle></a><a href="/variants/s6/r2db16r1k10g12o2~x2/"><circle cx="153.5" cy="168.0" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2~x2/"><circle cx="142.2" cy="172.2" r="4" fill="#3465a4"><title>MacLeod, Macleod of Harris</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2/"><circle cx="142.2" cy="172.2" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s7/r4k2db16k17dg16k2y4~x2/"><circle cx="156.0" cy="182.4" r="4" fill="#3465a4"><title>Wilson's No.230</title></circle></a><a href="/variants/s6/k2g17k16dr2db17lr2~x2/"><circle cx="117.6" cy="194.6" r="4" fill="#3465a4"><title>Mitchell (Clan)</title></circle></a><a href="/variants/s7/r1k1g7k5db10k1y1~x2/"><circle cx="152.7" cy="170.1" r="4" fill="#3465a4"><title>MacLeod Small Clan Tartan</title></circle></a><a href="/variants/s7/k1dg8w1k8w1db8r1~x4/"><circle cx="116.3" cy="182.1" r="4" fill="#3465a4"><title>Caie (2013)</title></circle></a><a href="/variants/s7/r5db8k5db24k24dg24y5~x2/"><circle cx="130.1" cy="231.4" r="4" fill="#3465a4"><title>Heritage (Corporate)</title></circle></a><circle cx="171.3" cy="197.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr4k2db24k20g20lo3~x2/"><circle cx="129.1" cy="186.1" r="4" fill="#3465a4"><title>Loudoun's Highlanders</title></circle></a><a href="/variants/s6/dp2dg6k2db6k1r2~x4/"><circle cx="138.2" cy="236.4" r="4" fill="#3465a4"><title>MacCaughan or MacEachain (Personal)</title></circle></a><a href="/variants/s6/r2db16r1k10g12o2~x2/"><circle cx="153.5" cy="168.3" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2~x2/"><circle cx="142.2" cy="172.6" r="4" fill="#3465a4"><title>MacLeod, Macleod of Harris</title></circle></a><a href="/variants/s7/r3k2g15k10db20k2y2/"><circle cx="142.2" cy="172.6" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s7/r4k2db16k17dg16k2y4~x2/"><circle cx="156.0" cy="182.7" r="4" fill="#3465a4"><title>Wilson's No.230</title></circle></a><a href="/variants/s6/k2g17k16dr2db17lr2~x2/"><circle cx="117.6" cy="195.1" r="4" fill="#3465a4"><title>Mitchell (Clan)</title></circle></a><a href="/variants/s7/r1k1g7k5db10k1y1~x2/"><circle cx="152.7" cy="170.5" r="4" fill="#3465a4"><title>MacLeod Small Clan Tartan</title></circle></a><a href="/variants/s7/k1dg8w1k8w1db8r1~x4/"><circle cx="116.3" cy="182.5" r="4" fill="#3465a4"><title>Caie (2013)</title></circle></a><a href="/variants/s7/r5db8k5db24k24dg24y5~x2/"><circle cx="130.2" cy="231.9" r="4" fill="#3465a4"><title>Heritage (Corporate)</title></circle></a><circle cx="171.3" cy="197.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dr4k2db24k20dg20lo3~x2/

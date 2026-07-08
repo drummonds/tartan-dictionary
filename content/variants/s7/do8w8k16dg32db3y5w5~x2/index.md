@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mellor, Phillip (Oldham)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do8w8k16dg32db3y5w5/)
 (the same proportion at any scale), whose colour order is pattern [BWKGBGW](/stripes/bwkgbgw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10320
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10320](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10320)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/"><circle cx="85.4" cy="152.4" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles)</title></circle></a><a href="/variants/s9/b3k2r2k12g10y1k1g2lb2~x4/"><circle cx="138.6" cy="126.2" r="4" fill="#3465a4"><title>Roderick Dhu</title></circle></a><a href="/variants/s8/w4k2lb18g18k18wi3k18r3~x2~w3600000-wi3703114/"><circle cx="109.4" cy="162.1" r="4" fill="#3465a4"><title>Hislop (Name)</title></circle></a><a href="/variants/s9/g16b2dp13lb2k6y2g16lb2k12~x2/"><circle cx="127.1" cy="168.2" r="4" fill="#3465a4"><title>Wilson's, No 225</title></circle></a><a href="/variants/s7/r3g3db4g17k13dt26w3~x2/"><circle cx="119.1" cy="172.1" r="4" fill="#3465a4"><title>Royal Burgh of Peebles (District)</title></circle></a><a href="/variants/s8/k45ly10g7r3w4db13w9r6~x2/"><circle cx="143.4" cy="112.1" r="4" fill="#3465a4"><title>Legion of Frontiersmen (Corporate)</title></circle></a><a href="/variants/s8/k6w3k2db30r9k4g20dy3~x2~g2408144/"><circle cx="129.0" cy="127.8" r="4" fill="#3465a4"><title>Minnesota American District Tartan</title></circle></a><a href="/variants/s7/w2r2db16k14g15r2ly2~x2/"><circle cx="72.3" cy="169.0" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass. (Co</title></circle></a><a href="/variants/s10/k6g14lb2r3lb2k16y2b16g16r3~x2/"><circle cx="83.3" cy="159.8" r="4" fill="#3465a4"><title>Unnamed 4</title></circle></a><a href="/variants/s9/ly3k2r3db20k24g20r3k2lb3~x2/"><circle cx="102.0" cy="128.8" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><circle cx="117.7" cy="155.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k10y3k2t20k10g15k2r3w3~x2/"><circle cx="85.4" cy="152.8" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles)</title></circle></a><a href="/variants/s9/b3k2r2k12g10y1k1g2lb2~x4/"><circle cx="138.5" cy="126.5" r="4" fill="#3465a4"><title>Roderick Dhu</title></circle></a><a href="/variants/s8/w4k2lb18g18k18wi3k18r3~x2~w3600000-wi3703114/"><circle cx="109.4" cy="162.6" r="4" fill="#3465a4"><title>Hislop (Name)</title></circle></a><a href="/variants/s9/g16b2dp13lb2k6y2g16lb2k12~x2/"><circle cx="127.1" cy="168.6" r="4" fill="#3465a4"><title>Wilson's, No 225</title></circle></a><a href="/variants/s7/r3g3db4g17k13dt26w3~x2/"><circle cx="119.1" cy="172.5" r="4" fill="#3465a4"><title>Royal Burgh of Peebles (District)</title></circle></a><a href="/variants/s8/k45ly10g7r3w4db13w9r6~x2/"><circle cx="143.3" cy="112.4" r="4" fill="#3465a4"><title>Legion of Frontiersmen (Corporate)</title></circle></a><a href="/variants/s8/k6w3k2db30r9k4g20dy3~x2~g2408144/"><circle cx="128.9" cy="128.1" r="4" fill="#3465a4"><title>Minnesota American District Tartan</title></circle></a><a href="/variants/s7/w2r2db16k14g15r2ly2~x2/"><circle cx="72.3" cy="169.4" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass. (Co</title></circle></a><a href="/variants/s10/k6g14lb2r3lb2k16y2b16g16r3~x2/"><circle cx="83.3" cy="160.2" r="4" fill="#3465a4"><title>Unnamed 4</title></circle></a><a href="/variants/s9/ly3k2r3db20k24g20r3k2lb3~x2/"><circle cx="101.9" cy="129.1" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><circle cx="117.6" cy="155.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/do8w8k16dg32db3y5w5~x2/

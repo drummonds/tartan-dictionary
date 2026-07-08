@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Silversea"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3dt20db20g2lr4lri17w3/)
 (the same proportion at any scale), whose colour order is pattern [RBBGYYW](/stripes/rbbgyyw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10261
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10261](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10261)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k1y1db8g10lb7w1~x2/"><circle cx="118.6" cy="178.9" r="4" fill="#3465a4"><title>Porteous</title></circle></a><a href="/variants/s6/k3ly3db20dg25lb18w3~x2/"><circle cx="105.5" cy="188.3" r="4" fill="#3465a4"><title>Porteous (Clan)</title></circle></a><a href="/variants/s6/k3y3db20g25lb18w3~x2/"><circle cx="102.4" cy="188.7" r="4" fill="#3465a4"><title>Porteous</title></circle></a><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="164.9" cy="176.5" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><circle cx="66.0" cy="174.8" r="4" fill="#3465a4"><title>Kentucky State American District Tartan</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="57.7" cy="174.1" r="4" fill="#3465a4"><title>Kentucky, State of (District)</title></circle></a><a href="/variants/s9/w3db4dg8k5dbi20g3y13g4w2~x2~db1004274-dbi1406275/"><circle cx="65.3" cy="148.5" r="4" fill="#3465a4"><title>Armagh County Crest (Fashion)</title></circle></a><a href="/variants/s7/dp2g8r1dy1db6lb15w1~x4/"><circle cx="180.8" cy="139.9" r="4" fill="#3465a4"><title>Manx National District Tartan</title></circle></a><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/"><circle cx="82.7" cy="195.4" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/"><circle cx="85.7" cy="198.3" r="4" fill="#3465a4"><title>Manx National (District)</title></circle></a><circle cx="101.0" cy="176.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k1y1db8g10lb7w1~x2/"><circle cx="118.6" cy="179.4" r="4" fill="#3465a4"><title>Porteous</title></circle></a><a href="/variants/s6/k3ly3db20dg25lb18w3~x2/"><circle cx="105.5" cy="188.7" r="4" fill="#3465a4"><title>Porteous (Clan)</title></circle></a><a href="/variants/s6/k3y3db20g25lb18w3~x2/"><circle cx="102.4" cy="189.2" r="4" fill="#3465a4"><title>Porteous</title></circle></a><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="164.9" cy="176.8" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><circle cx="66.1" cy="175.3" r="4" fill="#3465a4"><title>Kentucky State American District Tartan</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="57.7" cy="174.6" r="4" fill="#3465a4"><title>Kentucky, State of (District)</title></circle></a><a href="/variants/s9/w3db4dg8k5dbi20g3y13g4w2~x2~db1004274-dbi1406275/"><circle cx="65.2" cy="148.8" r="4" fill="#3465a4"><title>Armagh County Crest (Fashion)</title></circle></a><a href="/variants/s7/dp2g8r1dy1db6lb15w1~x4/"><circle cx="180.8" cy="140.2" r="4" fill="#3465a4"><title>Manx National District Tartan</title></circle></a><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/"><circle cx="82.7" cy="195.9" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/"><circle cx="85.7" cy="198.7" r="4" fill="#3465a4"><title>Manx National (District)</title></circle></a><circle cx="101.0" cy="176.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/

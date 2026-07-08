@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Delmarva (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n8r2n2lb1n1lb1n1lb1n2r2n6o1n12o1n6lb1n1ly4n1lb1n2r3n3lb1n1ly2n1lb1n8/)
 (the same proportion at any scale), whose colour order is pattern [BRBWBWBWBRBRBRBWBYBWBRBWBYBWB](/stripes/brbwbwbwbrbrbrbwbybwbrbwbybwb/).
 
 Sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10158
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10158](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10158)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

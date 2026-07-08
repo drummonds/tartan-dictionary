@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Teviotdale"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k5t3dy4ly1db13dy13g29w2/)
 (the same proportion at any scale), whose colour order is pattern [KBGYBGGW](/stripes/kbgybggw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4097
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4097](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4097)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k8dy4ly1db13dy13g29w2g29dy13db13ly1dy4k3~x2~db1406275-w3600000/"><circle cx="170.9" cy="80.4" r="4" fill="#3465a4"><title>Teviotdale District Tartan</title></circle></a><a href="/variants/s9/g28r4k3n2k1dg2r3db20y2~x2/"><circle cx="194.5" cy="78.9" r="4" fill="#3465a4"><title>Stirling University</title></circle></a><a href="/variants/s8/y1k6g32k12dr12dp9db6w1~x2/"><circle cx="148.0" cy="94.8" r="4" fill="#3465a4"><title>Fujitsu</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142/"><circle cx="180.5" cy="133.1" r="4" fill="#3465a4"><title>Jones (Name)</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/"><circle cx="184.3" cy="133.7" r="4" fill="#3465a4"><title>Jones</title></circle></a><a href="/variants/s9/y2g30k1t5w3t5k1dy12b2~x2~t2308259-b2008266/"><circle cx="226.8" cy="80.8" r="4" fill="#3465a4"><title>St Brigid's Quirindi</title></circle></a><a href="/variants/s8/o8k2dy10dp30dy30g55k4lo6/"><circle cx="190.3" cy="123.2" r="4" fill="#3465a4"><title>Aberuchill</title></circle></a><a href="/variants/s7/t13g2t12k8r1dt35ly1~x2~g2408144/"><circle cx="270.2" cy="110.0" r="4" fill="#3465a4"><title>Spirit of South Lanarkshire District Tartan</title></circle></a><a href="/variants/s8/g5y1r2g25k14db19w4g2~x2/"><circle cx="173.4" cy="115.1" r="4" fill="#3465a4"><title>Tooth</title></circle></a><a href="/variants/s7/db24dr8dg8r2g8k1ly2~x2~dg1806142-g2408144/"><circle cx="192.9" cy="116.7" r="4" fill="#3465a4"><title>Scout Mapping Service #1 (Corporate)</title></circle></a><circle cx="175.7" cy="105.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k8dy4ly1db13dy13g29w2g29dy13db13ly1dy4k3~x2~db1406275-w3600000/"><circle cx="170.8" cy="80.5" r="4" fill="#3465a4"><title>Teviotdale District Tartan</title></circle></a><a href="/variants/s9/g28r4k3n2k1dg2r3db20y2~x2/"><circle cx="194.4" cy="78.9" r="4" fill="#3465a4"><title>Stirling University</title></circle></a><a href="/variants/s8/y1k6g32k12dr12dp9db6w1~x2/"><circle cx="147.8" cy="94.9" r="4" fill="#3465a4"><title>Fujitsu</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142/"><circle cx="180.4" cy="133.3" r="4" fill="#3465a4"><title>Jones (Name)</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/"><circle cx="184.2" cy="133.9" r="4" fill="#3465a4"><title>Jones</title></circle></a><a href="/variants/s9/y2g30k1t5w3t5k1dy12b2~x2~t2308259-b2008266/"><circle cx="226.6" cy="80.8" r="4" fill="#3465a4"><title>St Brigid's Quirindi</title></circle></a><a href="/variants/s8/o8k2dy10dp30dy30g55k4lo6/"><circle cx="190.3" cy="123.4" r="4" fill="#3465a4"><title>Aberuchill</title></circle></a><a href="/variants/s7/t13g2t12k8r1dt35ly1~x2~g2408144/"><circle cx="270.0" cy="110.1" r="4" fill="#3465a4"><title>Spirit of South Lanarkshire District Tartan</title></circle></a><a href="/variants/s8/g5y1r2g25k14db19w4g2~x2/"><circle cx="173.3" cy="115.4" r="4" fill="#3465a4"><title>Tooth</title></circle></a><a href="/variants/s7/db24dr8dg8r2g8k1ly2~x2~dg1806142-g2408144/"><circle cx="192.8" cy="116.8" r="4" fill="#3465a4"><title>Scout Mapping Service #1 (Corporate)</title></circle></a><circle cx="175.6" cy="105.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k5t3dy4ly1db13dy13g29w2~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Copar a'Beannichte"
   url: "/tartans/copar-a-beannichte/"
+- name: "Copar a'Beannichte (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dgi20g6dg15db5dg2db15n4db10r2/)
 (the same proportion at any scale), whose colour order is pattern [GGGBGBBBR](/stripes/gggbgbbbr/).
@@ -14,7 +16,7 @@ Part of the [Copar a'Beannichte](/tartans/copar-a-beannichte/) tartan — the na
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6483
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6483](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6483)
 
 ## Provenance
 
@@ -87,8 +89,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g20lb6dg15db5dg2db15n4db10r2~x2/"><circle cx="162.0" cy="197.9" r="4" fill="#3465a4"><title>Copar a'Beannichte (Personal)</title></circle></a><a href="/variants/s9/dg15g3dr2g3dg8t12db20r2db4~x2~t2105244-db1004274/"><circle cx="224.4" cy="207.9" r="4" fill="#3465a4"><title>Westbrook (2013)</title></circle></a><a href="/variants/s9/dg3y2dr10dg10db20dg12r3db10w2~x2/"><circle cx="229.9" cy="203.3" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/variants/s9/dg20dr2g3db12k20dr2dt3db4dt3~x2/"><circle cx="155.0" cy="173.8" r="4" fill="#3465a4"><title>Ithilien Heather (Personal)</title></circle></a><a href="/variants/s8/dg12dgi6r1dg6dgi4dp8dy2w2~x4~dg1403171-dgi1805151/"><circle cx="240.6" cy="211.4" r="4" fill="#3465a4"><title>Connelly, James (Personal)</title></circle></a><a href="/variants/s8/db17w2db2r2db2do12dg16y3~x4/"><circle cx="214.8" cy="200.1" r="4" fill="#3465a4"><title>Blairmore House</title></circle></a><a href="/variants/s11/db30r6dy16dp8g10dp14g24y4dy10dp3dy28/"><circle cx="172.3" cy="201.9" r="4" fill="#3465a4"><title>Greyfriars</title></circle></a><a href="/variants/s12/o8dti8o4dti28dt12n6dt12dr4n8dr4n29lb6~o2500000-dti1102249-dt0900000-n1900000/"><circle cx="188.5" cy="208.4" r="4" fill="#3465a4"><title>Kinloch Anderson Granite (Corporate)</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="267.9" cy="231.5" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/variants/s11/dg10m2dg2o4dg16dp16o2b18y2b8o3~x2/"><circle cx="179.5" cy="187.4" r="4" fill="#3465a4"><title>Commonwealth Games 1998</title></circle></a><circle cx="212.0" cy="214.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g20lb6dg15db5dg2db15n4db10r2~x2/"><circle cx="162.0" cy="198.2" r="4" fill="#3465a4"><title>Copar a'Beannichte (Personal)</title></circle></a><a href="/variants/s9/dg15g3dr2g3dg8t12db20r2db4~x2~t2105244-db1004274/"><circle cx="224.4" cy="208.1" r="4" fill="#3465a4"><title>Westbrook (2013)</title></circle></a><a href="/variants/s9/dg3y2dr10dg10db20dg12r3db10w2~x2/"><circle cx="230.0" cy="203.6" r="4" fill="#3465a4"><title>Patel (2013)</title></circle></a><a href="/variants/s9/dg20dr2g3db12k20dr2dt3db4dt3~x2/"><circle cx="155.0" cy="173.9" r="4" fill="#3465a4"><title>Ithilien Heather (Personal)</title></circle></a><a href="/variants/s8/dg12dgi6r1dg6dgi4dp8dy2w2~x4~dg1403171-dgi1805151/"><circle cx="240.6" cy="211.6" r="4" fill="#3465a4"><title>Connelly, James (Personal)</title></circle></a><a href="/variants/s8/db17w2db2r2db2do12dg16y3~x4/"><circle cx="214.8" cy="200.3" r="4" fill="#3465a4"><title>Blairmore House</title></circle></a><a href="/variants/s11/db30r6dy16dp8g10dp14g24y4dy10dp3dy28/"><circle cx="172.3" cy="202.2" r="4" fill="#3465a4"><title>Greyfriars</title></circle></a><a href="/variants/s12/o8dti8o4dti28dt12n6dt12dr4n8dr4n29lb6~o2500000-dti1102249-dt0900000-n1900000/"><circle cx="188.5" cy="208.6" r="4" fill="#3465a4"><title>Kinloch Anderson Granite (Corporate)</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="268.0" cy="231.8" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/variants/s11/dg10m2dg2o4dg16dp16o2b18y2b8o3~x2/"><circle cx="179.5" cy="187.7" r="4" fill="#3465a4"><title>Commonwealth Games 1998</title></circle></a><circle cx="212.0" cy="215.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dgi20g6dg15db5dg2db15n4db10r2~x2~dgi1806142-g2504202/

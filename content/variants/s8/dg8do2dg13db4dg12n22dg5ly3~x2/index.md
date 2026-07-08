@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Pup"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg8do2dg13db4dg12n22dg5ly3/)
 (the same proportion at any scale), whose colour order is pattern [GBGBGBGY](/stripes/gbgbgbgy/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10231
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10231](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10231)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dt25r14dt8dy14t5dt12o6dt8lb2~x2/"><circle cx="296.7" cy="203.2" r="4" fill="#3465a4"><title>Johnstons of Elgin Bicentennial (Com</title></circle></a><a href="/variants/s9/n44y2dg27y2g16lb8dg16lb2dg8~x2/"><circle cx="310.0" cy="187.6" r="4" fill="#3465a4"><title>Crumlish (2015)</title></circle></a><a href="/variants/s7/dr30dg18lr3dg18dr20lb3g3~x2~lr2800000-lb3203246/"><circle cx="383.6" cy="247.5" r="4" fill="#3465a4"><title>Tartan for London, A (Fashion)</title></circle></a><a href="/variants/s8/dt14o1dt1o1dt6n14w1n1~x4/"><circle cx="411.9" cy="199.5" r="4" fill="#3465a4"><title>Corrie</title></circle></a><a href="/variants/s10/db20dg6db6lb2dg20dr8dg6dr4dg10lr3~x2/"><circle cx="322.9" cy="232.5" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><a href="/variants/s7/dg4t28dg11w2dg2g14y2~x2/"><circle cx="308.2" cy="212.2" r="4" fill="#3465a4"><title>Rhode Island State American District Tartan</title></circle></a><a href="/variants/s7/dt4t28dt11w2dt2g14y2~x2/"><circle cx="308.8" cy="212.1" r="4" fill="#3465a4"><title>Rhode Island, State of</title></circle></a><a href="/variants/s10/dg9w2dg24db37r3db37dg24w2dg9o4~x2~db1103284/"><circle cx="381.8" cy="190.5" r="4" fill="#3465a4"><title>Hardie</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="267.9" cy="231.5" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/variants/s11/dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2/"><circle cx="303.4" cy="269.7" r="4" fill="#3465a4"><title>Ralston Personal Tartan</title></circle></a><circle cx="379.4" cy="241.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dt25r14dt8dy14t5dt12o6dt8lb2~x2/"><circle cx="296.7" cy="203.4" r="4" fill="#3465a4"><title>Johnstons of Elgin Bicentennial (Com</title></circle></a><a href="/variants/s9/n44y2dg27y2g16lb8dg16lb2dg8~x2/"><circle cx="310.1" cy="187.8" r="4" fill="#3465a4"><title>Crumlish (2015)</title></circle></a><a href="/variants/s7/dr30dg18lr3dg18dr20lb3g3~x2~lr2800000-lb3203246/"><circle cx="383.7" cy="247.7" r="4" fill="#3465a4"><title>Tartan for London, A (Fashion)</title></circle></a><a href="/variants/s8/dt14o1dt1o1dt6n14w1n1~x4/"><circle cx="411.9" cy="199.7" r="4" fill="#3465a4"><title>Corrie</title></circle></a><a href="/variants/s10/db20dg6db6lb2dg20dr8dg6dr4dg10lr3~x2/"><circle cx="323.0" cy="232.8" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><a href="/variants/s7/dg4t28dg11w2dg2g14y2~x2/"><circle cx="308.3" cy="212.5" r="4" fill="#3465a4"><title>Rhode Island State American District Tartan</title></circle></a><a href="/variants/s7/dt4t28dt11w2dt2g14y2~x2/"><circle cx="308.8" cy="212.3" r="4" fill="#3465a4"><title>Rhode Island, State of</title></circle></a><a href="/variants/s10/dg9w2dg24db37r3db37dg24w2dg9o4~x2~db1103284/"><circle cx="381.8" cy="190.6" r="4" fill="#3465a4"><title>Hardie</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="268.0" cy="231.8" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/variants/s11/dg12n4dr4db4dr4n4dg18g5dg5g5db4~x2/"><circle cx="303.5" cy="270.1" r="4" fill="#3465a4"><title>Ralston Personal Tartan</title></circle></a><circle cx="379.5" cy="242.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg8do2dg13db4dg12n22dg5ly3~x2/

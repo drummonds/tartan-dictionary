@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dewar (WCWM)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1dy1db7dy5y7lr1/)
 (the same proportion at any scale), whose colour order is pattern [BGBGGY](/stripes/bgbggy/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=925
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=925](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=925)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy5g22dp15dpi11dp5g2~x2~dp1105325-dpi1607327/"><circle cx="254.0" cy="245.1" r="4" fill="#3465a4"><title>Scottish Ballet</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6~w3600000/"><circle cx="215.3" cy="242.4" r="4" fill="#3465a4"><title>Utah</title></circle></a><a href="/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/"><circle cx="216.8" cy="237.2" r="4" fill="#3465a4"><title>Lamont #2</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/"><circle cx="201.8" cy="237.9" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/variants/s7/db3dr19db13dr5g21dr8db3~x2/"><circle cx="295.9" cy="277.3" r="4" fill="#3465a4"><title>MacBean of Tomatin (Clan)</title></circle></a><a href="/variants/s7/g32dy7g7dy16db32y3dy8~x2~db1406275/"><circle cx="272.1" cy="248.8" r="4" fill="#3465a4"><title>Strange of Balcaskie Family Tartan</title></circle></a><a href="/variants/s8/dr17db2dr2db13dr2db2g17db2~x2/"><circle cx="286.6" cy="243.3" r="4" fill="#3465a4"><title>Remony (Red)</title></circle></a><a href="/variants/s7/g32dy7g7dy16db32y3dy8~x2/"><circle cx="262.0" cy="246.3" r="4" fill="#3465a4"><title>Strange of Balcaskie (Clan)</title></circle></a><a href="/variants/s11/dr3db14g14db2dr14db2dr14db2g14db2lo3~x2/"><circle cx="223.9" cy="235.4" r="4" fill="#3465a4"><title>Clare Irish County Tartan</title></circle></a><a href="/variants/s6/db3g11db3dr11db18ly3~x2/"><circle cx="267.3" cy="266.5" r="4" fill="#3465a4"><title>Harbour Town Hilton Head, The</title></circle></a><circle cx="245.3" cy="261.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy5g22dp15dpi11dp5g2~x2~dp1105325-dpi1607327/"><circle cx="254.1" cy="245.6" r="4" fill="#3465a4"><title>Scottish Ballet</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6~w3600000/"><circle cx="215.5" cy="242.9" r="4" fill="#3465a4"><title>Utah</title></circle></a><a href="/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/"><circle cx="216.9" cy="237.6" r="4" fill="#3465a4"><title>Lamont #2</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/"><circle cx="201.9" cy="238.4" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/variants/s7/db3dr19db13dr5g21dr8db3~x2/"><circle cx="296.1" cy="277.9" r="4" fill="#3465a4"><title>MacBean of Tomatin (Clan)</title></circle></a><a href="/variants/s7/g32dy7g7dy16db32y3dy8~x2~db1406275/"><circle cx="272.2" cy="249.2" r="4" fill="#3465a4"><title>Strange of Balcaskie Family Tartan</title></circle></a><a href="/variants/s8/dr17db2dr2db13dr2db2g17db2~x2/"><circle cx="286.7" cy="243.7" r="4" fill="#3465a4"><title>Remony (Red)</title></circle></a><a href="/variants/s7/g32dy7g7dy16db32y3dy8~x2/"><circle cx="262.2" cy="246.7" r="4" fill="#3465a4"><title>Strange of Balcaskie (Clan)</title></circle></a><a href="/variants/s11/dr3db14g14db2dr14db2dr14db2g14db2lo3~x2/"><circle cx="224.1" cy="235.9" r="4" fill="#3465a4"><title>Clare Irish County Tartan</title></circle></a><a href="/variants/s6/db3g11db3dr11db18ly3~x2/"><circle cx="267.5" cy="267.1" r="4" fill="#3465a4"><title>Harbour Town Hilton Head, The</title></circle></a><circle cx="245.4" cy="261.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db1dy1db7dy5y7lr1~x4/

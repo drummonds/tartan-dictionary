@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacLeod Society of Scotland"
   url: "/tartans/macleod-society-of-scotland/"
+- name: "MacLeod Society of Scotland Clan Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg3g3r22k5db22y2db22k5r22g3/)
 (the same proportion at any scale), whose colour order is pattern [GGRKBGBKRG](/stripes/ggrkbgbkrg/).
@@ -14,7 +16,7 @@ Part of the [MacLeod Society of Scotland](/tartans/macleod-society-of-scotland/)
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2375
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2375](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2375)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4db12lb3db4g8lo2r24db4r4~x2/"><circle cx="161.5" cy="132.0" r="4" fill="#3465a4"><title>MacCreary (Personal)</title></circle></a><a href="/variants/s10/k3g1r1db6n2db1n1db1r10w1~x4/"><circle cx="148.4" cy="124.5" r="4" fill="#3465a4"><title>Crieff Primary School</title></circle></a><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/"><circle cx="145.1" cy="113.2" r="4" fill="#3465a4"><title>Asman, Dress (Name)</title></circle></a><a href="/variants/s9/k9r4k2r20n9r4db18r4w2~x2/"><circle cx="163.9" cy="157.1" r="4" fill="#3465a4"><title>Stephens Dress</title></circle></a><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2~db1406275/"><circle cx="151.0" cy="114.2" r="4" fill="#3465a4"><title>Asman Red (Personal)</title></circle></a><a href="/variants/s6/dg3g3r22k5db22dy2~x2~dg1806142-g2408144/"><circle cx="164.6" cy="152.1" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><a href="/variants/s9/db3lb1k1r12b1g9r1lb1db3~x4/"><circle cx="164.7" cy="126.0" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s7/dg3g3r22k5db22dy2w2~x2~dg1806142-g2408144/"><circle cx="130.6" cy="124.1" r="4" fill="#3465a4"><title>MacLeod Soc. of Scotland, (Comm)</title></circle></a><a href="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/"><circle cx="156.0" cy="109.2" r="4" fill="#3465a4"><title>Catalan Dance</title></circle></a><a href="/variants/s7/k7dbi4r31db3y2db27lb4~x2~dbi1406275-db1204274/"><circle cx="213.9" cy="112.6" r="4" fill="#3465a4"><title>Wishart Dress</title></circle></a><circle cx="158.4" cy="138.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4db12lb3db4g8lo2r24db4r4~x2/"><circle cx="161.5" cy="132.3" r="4" fill="#3465a4"><title>MacCreary (Personal)</title></circle></a><a href="/variants/s10/k3g1r1db6n2db1n1db1r10w1~x4/"><circle cx="148.4" cy="124.8" r="4" fill="#3465a4"><title>Crieff Primary School</title></circle></a><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/"><circle cx="145.0" cy="113.4" r="4" fill="#3465a4"><title>Asman, Dress (Name)</title></circle></a><a href="/variants/s9/k9r4k2r20n9r4db18r4w2~x2/"><circle cx="163.9" cy="157.5" r="4" fill="#3465a4"><title>Stephens Dress</title></circle></a><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2~db1406275/"><circle cx="151.0" cy="114.4" r="4" fill="#3465a4"><title>Asman Red (Personal)</title></circle></a><a href="/variants/s6/dg3g3r22k5db22dy2~x2~dg1806142-g2408144/"><circle cx="164.5" cy="152.5" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><a href="/variants/s9/db3lb1k1r12b1g9r1lb1db3~x4/"><circle cx="164.7" cy="126.3" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s7/dg3g3r22k5db22dy2w2~x2~dg1806142-g2408144/"><circle cx="130.5" cy="124.4" r="4" fill="#3465a4"><title>MacLeod Soc. of Scotland, (Comm)</title></circle></a><a href="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/"><circle cx="155.9" cy="109.4" r="4" fill="#3465a4"><title>Catalan Dance</title></circle></a><a href="/variants/s7/k7dbi4r31db3y2db27lb4~x2~dbi1406275-db1204274/"><circle cx="213.8" cy="112.8" r="4" fill="#3465a4"><title>Wishart Dress</title></circle></a><circle cx="158.3" cy="139.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dg3g3r22k5db22y2db22k5r22g3~x2~dg1806142-g2408144/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gallowater, Original"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r10k17lb10dp17g40y10/)
 (the same proportion at any scale), whose colour order is pattern [GGBWKR](/stripes/ggbwkr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1301
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1301](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1301)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k19lb10dp19g40y10/"><circle cx="95.7" cy="251.7" r="4" fill="#3465a4"><title>Gala Water Old</title></circle></a><a href="/variants/s5/k4lb3dp11g14y2~x2/"><circle cx="148.4" cy="217.0" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/variants/s5/k4lb3dp11g14w2~x2/"><circle cx="146.8" cy="220.1" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/variants/s5/dp11lb2k10g10y2~x2/"><circle cx="84.8" cy="235.8" r="4" fill="#3465a4"><title>Wilson's, No 217</title></circle></a><a href="/variants/s5/dp11lb2k10g10y3~x2/"><circle cx="73.3" cy="223.4" r="4" fill="#3465a4"><title>Wilson's No.217</title></circle></a><a href="/variants/s5/dp11t2k10g10y3~x2~dp1607327-t2503227/"><circle cx="76.3" cy="241.1" r="4" fill="#3465a4"><title>Nobiliary Fraternity</title></circle></a><a href="/variants/s5/k4lb3g12dp13y2~x2/"><circle cx="137.4" cy="220.7" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="134.3" cy="224.1" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/variants/s5/k8lb3g13dp12y2~x2/"><circle cx="130.3" cy="223.9" r="4" fill="#3465a4"><title>Wilson's No.176</title></circle></a><a href="/variants/s6/r10k18lb10db18g40y5/"><circle cx="90.4" cy="190.7" r="4" fill="#3465a4"><title>Gallowater</title></circle></a><circle cx="61.3" cy="222.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k19lb10dp19g40y10/"><circle cx="95.8" cy="252.5" r="4" fill="#3465a4"><title>Gala Water Old</title></circle></a><a href="/variants/s5/k4lb3dp11g14y2~x2/"><circle cx="148.5" cy="217.5" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/variants/s5/k4lb3dp11g14w2~x2/"><circle cx="146.9" cy="220.7" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/variants/s5/dp11lb2k10g10y2~x2/"><circle cx="84.9" cy="236.4" r="4" fill="#3465a4"><title>Wilson's, No 217</title></circle></a><a href="/variants/s5/dp11lb2k10g10y3~x2/"><circle cx="73.4" cy="224.0" r="4" fill="#3465a4"><title>Wilson's No.217</title></circle></a><a href="/variants/s5/dp11t2k10g10y3~x2~dp1607327-t2503227/"><circle cx="76.4" cy="241.8" r="4" fill="#3465a4"><title>Nobiliary Fraternity</title></circle></a><a href="/variants/s5/k4lb3g12dp13y2~x2/"><circle cx="137.5" cy="221.3" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="134.4" cy="224.7" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/variants/s5/k8lb3g13dp12y2~x2/"><circle cx="130.4" cy="224.5" r="4" fill="#3465a4"><title>Wilson's No.176</title></circle></a><a href="/variants/s6/r10k18lb10db18g40y5/"><circle cx="90.4" cy="191.2" r="4" fill="#3465a4"><title>Gallowater</title></circle></a><circle cx="61.4" cy="223.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r10k17lb10dp17g40y10~x2/

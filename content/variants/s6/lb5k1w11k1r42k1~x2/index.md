@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Davet (2014)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb5k1w11k1r42k1/)
 (the same proportion at any scale), whose colour order is pattern [KRKWKW](/stripes/krkwkw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10984
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10984](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10984)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r62db8w20k3g4~x2/"><circle cx="338.2" cy="122.7" r="4" fill="#3465a4"><title>Nicolson Dress (Clan)</title></circle></a><a href="/variants/s5/r48k12n7k5w3~x2/"><circle cx="343.9" cy="142.1" r="4" fill="#3465a4"><title>Turner (Personal)</title></circle></a><a href="/variants/s6/db12k1r70k1g12k1~x2/"><circle cx="480.1" cy="80.9" r="4" fill="#3465a4"><title>Lawers Estate</title></circle></a><a href="/variants/s6/r70k1db12k1g12k1~x2/"><circle cx="480.1" cy="80.9" r="4" fill="#3465a4"><title>Lawers Estate (Corporate)</title></circle></a><a href="/variants/s8/r42k4w1k6y1db1y1r12~x2/"><circle cx="490.9" cy="49.7" r="4" fill="#3465a4"><title>Princess Elizabeth</title></circle></a><a href="/variants/s8/y8k2r23k1r17k1g4w3~x2/"><circle cx="371.4" cy="111.1" r="4" fill="#3465a4"><title>Hoa Sen</title></circle></a><a href="/variants/s6/r52y2db16y2db3w5~x2/"><circle cx="422.1" cy="128.2" r="4" fill="#3465a4"><title>Brock University Alumni Association</title></circle></a><a href="/variants/s8/r70t1r2g12k2g1k10w1~x2/"><circle cx="452.0" cy="40.0" r="4" fill="#3465a4"><title>Zamzam (Personal)</title></circle></a><a href="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2/"><circle cx="431.6" cy="43.1" r="4" fill="#3465a4"><title>Braemar Castle (Fashion)</title></circle></a><a href="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2~ly2503076-do1103038/"><circle cx="441.6" cy="46.1" r="4" fill="#3465a4"><title>Braemar Castle</title></circle></a><circle cx="422.7" cy="83.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r62db8w20k3g4~x2/"><circle cx="338.2" cy="123.1" r="4" fill="#3465a4"><title>Nicolson Dress (Clan)</title></circle></a><a href="/variants/s5/r48k12n7k5w3~x2/"><circle cx="343.9" cy="142.6" r="4" fill="#3465a4"><title>Turner (Personal)</title></circle></a><a href="/variants/s6/db12k1r70k1g12k1~x2/"><circle cx="480.0" cy="81.1" r="4" fill="#3465a4"><title>Lawers Estate</title></circle></a><a href="/variants/s6/r70k1db12k1g12k1~x2/"><circle cx="480.0" cy="81.1" r="4" fill="#3465a4"><title>Lawers Estate (Corporate)</title></circle></a><a href="/variants/s8/r42k4w1k6y1db1y1r12~x2/"><circle cx="490.8" cy="49.9" r="4" fill="#3465a4"><title>Princess Elizabeth</title></circle></a><a href="/variants/s8/y8k2r23k1r17k1g4w3~x2/"><circle cx="371.3" cy="111.4" r="4" fill="#3465a4"><title>Hoa Sen</title></circle></a><a href="/variants/s6/r52y2db16y2db3w5~x2/"><circle cx="422.1" cy="128.6" r="4" fill="#3465a4"><title>Brock University Alumni Association</title></circle></a><a href="/variants/s8/r70t1r2g12k2g1k10w1~x2/"><circle cx="451.8" cy="40.1" r="4" fill="#3465a4"><title>Zamzam (Personal)</title></circle></a><a href="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2/"><circle cx="431.4" cy="43.2" r="4" fill="#3465a4"><title>Braemar Castle (Fashion)</title></circle></a><a href="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2~ly2503076-do1103038/"><circle cx="441.5" cy="46.2" r="4" fill="#3465a4"><title>Braemar Castle</title></circle></a><circle cx="422.7" cy="83.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/lb5k1w11k1r42k1~x2/

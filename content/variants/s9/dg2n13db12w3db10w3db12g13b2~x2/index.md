@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Mounth, The"
   url: "/tartans/mounth-the/"
+- name: "Mounth, The"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2n13db12w3db10w3db12g13b2/)
 (the same proportion at any scale), whose colour order is pattern [BGBWBWBBG](/stripes/bgbwbwbbg/).
@@ -14,7 +16,7 @@ Part of the [Mounth, The](/tartans/mounth-the/) tartan — the named design grou
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb8dbi11w3dbi11db12g10dr2~x2~dbi1404245-db1106275/"><circle cx="127.2" cy="260.3" r="4" fill="#3465a4"><title>Loch Katrine</title></circle></a><a href="/variants/s9/y3lb6lg20db5g3db15ly3db3lg3~x2~lg2904173-db1404245-g2304202-ly3104101/"><circle cx="191.5" cy="213.1" r="4" fill="#3465a4"><title>WestJet</title></circle></a><a href="/variants/s10/g4do21ly10do5ly4dr4db10g6db30w4~x2/"><circle cx="169.0" cy="190.8" r="4" fill="#3465a4"><title>State Seal of Arizona (Fashion)</title></circle></a><a href="/variants/s7/n6dbi8n8g12db29w3db4~x2~dbi1105279/"><circle cx="250.3" cy="206.0" r="4" fill="#3465a4"><title>Dickson Name Tartan</title></circle></a><a href="/variants/s10/b9dr1db5g5lb2g5db5dr1b9db2~x4/"><circle cx="227.1" cy="237.2" r="4" fill="#3465a4"><title>American Express Corporate Tartan</title></circle></a><a href="/variants/s8/db5t43db18w4t6dr5dy25ly5~x2/"><circle cx="233.6" cy="189.9" r="4" fill="#3465a4"><title>State Seal of Iowa (Fashion)</title></circle></a><a href="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/"><circle cx="244.7" cy="191.3" r="4" fill="#3465a4"><title>U.S.I. Limited</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~dp1607327-db0805267-dbi1307262/"><circle cx="225.5" cy="200.7" r="4" fill="#3465a4"><title>Glasgow Cathedral Corporate Tartan</title></circle></a><a href="/variants/s8/db2dr1db10w1dy4g8ly1g2~x4/"><circle cx="209.5" cy="191.1" r="4" fill="#3465a4"><title>Ayrshire (District)</title></circle></a><a href="/variants/s11/g16lb2g4t4g4lb2g6db12dr2db20y3~x2/"><circle cx="227.2" cy="185.6" r="4" fill="#3465a4"><title>First Command Fin. Planning (Corp)</title></circle></a><circle cx="195.5" cy="227.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb8dbi11w3dbi11db12g10dr2~x2~dbi1404245-db1106275/"><circle cx="127.3" cy="260.9" r="4" fill="#3465a4"><title>Loch Katrine</title></circle></a><a href="/variants/s9/y3lb6lg20db5g3db15ly3db3lg3~x2~lg2904173-db1404245-g2304202-ly3104101/"><circle cx="191.6" cy="213.5" r="4" fill="#3465a4"><title>WestJet</title></circle></a><a href="/variants/s10/g4do21ly10do5ly4dr4db10g6db30w4~x2/"><circle cx="169.0" cy="191.2" r="4" fill="#3465a4"><title>State Seal of Arizona (Fashion)</title></circle></a><a href="/variants/s7/n6dbi8n8g12db29w3db4~x2~dbi1105279/"><circle cx="250.4" cy="206.3" r="4" fill="#3465a4"><title>Dickson Name Tartan</title></circle></a><a href="/variants/s10/b9dr1db5g5lb2g5db5dr1b9db2~x4/"><circle cx="227.2" cy="237.5" r="4" fill="#3465a4"><title>American Express Corporate Tartan</title></circle></a><a href="/variants/s8/db5t43db18w4t6dr5dy25ly5~x2/"><circle cx="233.6" cy="190.2" r="4" fill="#3465a4"><title>State Seal of Iowa (Fashion)</title></circle></a><a href="/variants/s11/db20n2lb2n4g20w2db16n7lb2db3lb5~x2/"><circle cx="244.7" cy="191.6" r="4" fill="#3465a4"><title>U.S.I. Limited</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~dp1607327-db0805267-dbi1307262/"><circle cx="225.5" cy="201.1" r="4" fill="#3465a4"><title>Glasgow Cathedral Corporate Tartan</title></circle></a><a href="/variants/s8/db2dr1db10w1dy4g8ly1g2~x4/"><circle cx="209.6" cy="191.4" r="4" fill="#3465a4"><title>Ayrshire (District)</title></circle></a><a href="/variants/s11/g16lb2g4t4g4lb2g6db12dr2db20y3~x2/"><circle cx="227.2" cy="185.9" r="4" fill="#3465a4"><title>First Command Fin. Planning (Corp)</title></circle></a><circle cx="195.6" cy="228.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dg2n13db12w3db10w3db12g13b2~x2/

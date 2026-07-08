@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tulchan Estate Check (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t1w1dy1w1dy1w1dy1w1dy1w1dy1w1dy1w1/)
 (the same proportion at any scale), whose colour order is pattern [BWGWGWGWGWGWGWGWGWGWGWGWGW](/stripes/bwgwgwgwgwgwgwgwgwgwgwgwgw/).
 
 Sourced from tartans-authority.  It is a [26 stripe tartan](/stripes/stripes26/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7925
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7925](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7925)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

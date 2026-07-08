@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scotstown"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n2dg17w6db5lo1/)
 (the same proportion at any scale), whose colour order is pattern [BGWBY](/stripes/bgwby/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11595
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11595](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11595)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/w1g10dp4lt1~x2/"><circle cx="371.1" cy="241.4" r="4" fill="#3465a4"><title>Wilson's No.205</title></circle></a><a href="/variants/s4/g20r7db40w2~x2/"><circle cx="344.8" cy="202.7" r="4" fill="#3465a4"><title>McNiff, Kevin (Personal)</title></circle></a><a href="/variants/s5/g47dr3g6db35lo3~x2/"><circle cx="346.8" cy="197.6" r="4" fill="#3465a4"><title>Gracie</title></circle></a><a href="/variants/s6/w15dg98db72dr25db8ly15/"><circle cx="245.8" cy="210.6" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s6/w4g28db18r4db18y3~x2/"><circle cx="235.9" cy="214.5" r="4" fill="#3465a4"><title>MacIntyre, Inglis</title></circle></a><a href="/variants/s6/y15db8r25db72dg98w15/"><circle cx="227.6" cy="195.9" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s6/lr4g24db10r3db12lo4~x2/"><circle cx="201.6" cy="219.8" r="4" fill="#3465a4"><title>Inglis (Name)</title></circle></a><a href="/variants/s5/g30w8db32y1db8~x2/"><circle cx="326.7" cy="196.4" r="4" fill="#3465a4"><title>Wimbledon</title></circle></a><a href="/variants/s5/w8r6ly2dg34db3~x2/"><circle cx="340.3" cy="159.8" r="4" fill="#3465a4"><title>Milling-Kristensen (Personal)</title></circle></a><a href="/variants/s5/db9w4dg36lb36r4~x2/"><circle cx="196.8" cy="210.2" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><circle cx="288.2" cy="189.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/w1g10dp4lt1~x2/"><circle cx="371.3" cy="242.0" r="4" fill="#3465a4"><title>Wilson's No.205</title></circle></a><a href="/variants/s4/g20r7db40w2~x2/"><circle cx="344.8" cy="203.1" r="4" fill="#3465a4"><title>McNiff, Kevin (Personal)</title></circle></a><a href="/variants/s5/g47dr3g6db35lo3~x2/"><circle cx="346.9" cy="197.9" r="4" fill="#3465a4"><title>Gracie</title></circle></a><a href="/variants/s6/w15dg98db72dr25db8ly15/"><circle cx="245.9" cy="211.0" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s6/w4g28db18r4db18y3~x2/"><circle cx="236.0" cy="215.0" r="4" fill="#3465a4"><title>MacIntyre, Inglis</title></circle></a><a href="/variants/s6/y15db8r25db72dg98w15/"><circle cx="227.6" cy="196.3" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s6/lr4g24db10r3db12lo4~x2/"><circle cx="201.7" cy="220.3" r="4" fill="#3465a4"><title>Inglis (Name)</title></circle></a><a href="/variants/s5/g30w8db32y1db8~x2/"><circle cx="326.7" cy="196.8" r="4" fill="#3465a4"><title>Wimbledon</title></circle></a><a href="/variants/s5/w8r6ly2dg34db3~x2/"><circle cx="340.3" cy="160.3" r="4" fill="#3465a4"><title>Milling-Kristensen (Personal)</title></circle></a><a href="/variants/s5/db9w4dg36lb36r4~x2/"><circle cx="196.9" cy="210.8" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><circle cx="288.2" cy="190.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/n2dg17w6db5lo1~x4/

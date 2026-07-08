@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Stewart of Appin Htg (error)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g8r3g3r5g26db7lb3db28r3db6/)
 (the same proportion at any scale), whose colour order is pattern [BRBWBGRGRG](/stripes/brbwbgrgrg/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=428
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=428](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=428)
 
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -67,8 +69,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g11r4g4r7g41db11lb4db41r4db8/"><circle cx="258.5" cy="182.4" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #2</title></circle></a><a href="/variants/s10/g11r4g4r7g41dy11lb4db41r4db8/"><circle cx="217.1" cy="171.0" r="4" fill="#3465a4"><title>Stewart of Appin Hunting Clan Tartan</title></circle></a><a href="/variants/s10/g11r4g4r7g41o11lb4db41r4db8/"><circle cx="217.5" cy="170.8" r="4" fill="#3465a4"><title>Stewart of Appin, Ancient hunting</title></circle></a><a href="/variants/s10/g3w3g18db14r5db14r5db14g21w3~x2/"><circle cx="197.5" cy="228.1" r="4" fill="#3465a4"><title>Hamilton of Clayton (Personal)</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/"><circle cx="246.7" cy="193.7" r="4" fill="#3465a4"><title>New Mexico, State of</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/"><circle cx="264.1" cy="198.9" r="4" fill="#3465a4"><title>New Mexico, State of (Fashion)</title></circle></a><a href="/variants/s9/g28r12g4db20y2db3y2db3g7~x2/"><circle cx="277.9" cy="181.9" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/variants/s9/g10r1g1r1g1r4db12r1db2~x2/"><circle cx="272.1" cy="186.8" r="4" fill="#3465a4"><title>Unidentified Portrait</title></circle></a><a href="/variants/s8/r2g12db2g8db18w3r2w2~x2/"><circle cx="210.7" cy="199.7" r="4" fill="#3465a4"><title>Albuquerque, City of</title></circle></a><a href="/variants/s14/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1~x4~g2408144/"><circle cx="239.9" cy="177.7" r="4" fill="#3465a4"><title>New Mexico District Tartan</title></circle></a><circle cx="250.0" cy="188.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g11r4g4r7g41db11lb4db41r4db8/"><circle cx="258.5" cy="182.7" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #2</title></circle></a><a href="/variants/s10/g11r4g4r7g41dy11lb4db41r4db8/"><circle cx="217.1" cy="171.3" r="4" fill="#3465a4"><title>Stewart of Appin Hunting Clan Tartan</title></circle></a><a href="/variants/s10/g11r4g4r7g41o11lb4db41r4db8/"><circle cx="217.6" cy="171.1" r="4" fill="#3465a4"><title>Stewart of Appin, Ancient hunting</title></circle></a><a href="/variants/s10/g3w3g18db14r5db14r5db14g21w3~x2/"><circle cx="197.6" cy="228.7" r="4" fill="#3465a4"><title>Hamilton of Clayton (Personal)</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/"><circle cx="246.7" cy="194.2" r="4" fill="#3465a4"><title>New Mexico, State of</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/"><circle cx="264.1" cy="199.3" r="4" fill="#3465a4"><title>New Mexico, State of (Fashion)</title></circle></a><a href="/variants/s9/g28r12g4db20y2db3y2db3g7~x2/"><circle cx="278.0" cy="182.3" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/variants/s9/g10r1g1r1g1r4db12r1db2~x2/"><circle cx="272.1" cy="187.2" r="4" fill="#3465a4"><title>Unidentified Portrait</title></circle></a><a href="/variants/s8/r2g12db2g8db18w3r2w2~x2/"><circle cx="210.8" cy="200.2" r="4" fill="#3465a4"><title>Albuquerque, City of</title></circle></a><a href="/variants/s14/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1~x4~g2408144/"><circle cx="240.0" cy="178.1" r="4" fill="#3465a4"><title>New Mexico District Tartan</title></circle></a><circle cx="250.1" cy="189.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g8r3g3r5g26db7lb3db28r3db6~x2/

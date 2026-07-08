@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Dohmen"
   url: "/tartans/dohmen/"
+- name: "Dohmen (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g30ly3db8r25/)
 (the same proportion at any scale), whose colour order is pattern [GYBR](/stripes/gybr/).
@@ -14,7 +16,7 @@ Part of the [Dohmen](/tartans/dohmen/) tartan — the named design grouping this
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10665
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10665](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10665)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g30y3db8r25~x2/"><circle cx="272.9" cy="249.2" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/variants/s4/lb2r4g5y1~x4/"><circle cx="223.5" cy="298.9" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.2" cy="189.5" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/variants/s4/r5g7k2lb1~x4/"><circle cx="196.1" cy="241.0" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/variants/s4/g15r3dr11lb2~x2/"><circle cx="272.8" cy="259.2" r="4" fill="#3465a4"><title>MacNab WI 2</title></circle></a><a href="/variants/s4/g15r3dr11lb2/"><circle cx="272.8" cy="259.2" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="206.8" cy="187.1" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s5/k7db3g28r28y3~x2/"><circle cx="190.7" cy="190.9" r="4" fill="#3465a4"><title>Turnbull, dress</title></circle></a><a href="/variants/s5/k5db4g24r21w3~x2/"><circle cx="175.0" cy="200.5" r="4" fill="#3465a4"><title>Sachie Hara Scottish Check (Personal)</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="258.0" cy="261.8" r="4" fill="#3465a4"><title>Unidentified #4</title></circle></a><circle cx="265.7" cy="247.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g30y3db8r25~x2/"><circle cx="273.1" cy="249.8" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/variants/s4/lb2r4g5y1~x4/"><circle cx="223.7" cy="299.7" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.3" cy="190.0" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/variants/s4/r5g7k2lb1~x4/"><circle cx="196.2" cy="241.8" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/variants/s4/g15r3dr11lb2~x2/"><circle cx="273.0" cy="259.8" r="4" fill="#3465a4"><title>MacNab WI 2</title></circle></a><a href="/variants/s4/g15r3dr11lb2/"><circle cx="273.0" cy="259.8" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="206.8" cy="187.6" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s5/k7db3g28r28y3~x2/"><circle cx="190.8" cy="191.4" r="4" fill="#3465a4"><title>Turnbull, dress</title></circle></a><a href="/variants/s5/k5db4g24r21w3~x2/"><circle cx="175.1" cy="201.1" r="4" fill="#3465a4"><title>Sachie Hara Scottish Check (Personal)</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="258.1" cy="262.5" r="4" fill="#3465a4"><title>Unidentified #4</title></circle></a><circle cx="265.9" cy="247.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/g30ly3db8r25~x2/

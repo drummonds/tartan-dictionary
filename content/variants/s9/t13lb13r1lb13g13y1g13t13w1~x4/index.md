@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Royal Columbian"
   url: "/tartans/royal-columbian/"
+- name: "Royal Columbian"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t13lb13r1lb13g13y1g13t13w1/)
 (the same proportion at any scale), whose colour order is pattern [BWRWGGGBW](/stripes/bwrwgggbw/).
@@ -14,7 +16,7 @@ Part of the [Royal Columbian](/tartans/royal-columbian/) tartan — the named de
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3599
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3599](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3599)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><circle cx="250.0" cy="213.3" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2t8~x2/"><circle cx="216.0" cy="162.2" r="4" fill="#3465a4"><title>Currie of Arran</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2lb8~x2/"><circle cx="200.2" cy="155.5" r="4" fill="#3465a4"><title>Currie of Arran (Clan/family)</title></circle></a><circle cx="223.3" cy="225.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><circle cx="250.1" cy="213.7" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2t8~x2/"><circle cx="216.0" cy="162.4" r="4" fill="#3465a4"><title>Currie of Arran</title></circle></a><a href="/variants/s11/b16w3b2dy4g24r2g4r5g4r2lb8~x2/"><circle cx="200.2" cy="155.7" r="4" fill="#3465a4"><title>Currie of Arran (Clan/family)</title></circle></a><circle cx="223.4" cy="226.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/t13lb13r1lb13g13y1g13t13w1~x4/

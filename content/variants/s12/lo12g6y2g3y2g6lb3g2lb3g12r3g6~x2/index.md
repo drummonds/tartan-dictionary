@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "O'Brien"
   url: "/tartans/o-brien/"
+- name: "O'Brien Irish Family Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lo12g6y2g3y2g6lb3g2lb3g12r3g6/)
 (the same proportion at any scale), whose colour order is pattern [GRGWGWGGGGGY](/stripes/grgwgwgggggy/).
@@ -14,7 +16,7 @@ Part of the [O'Brien](/tartans/o-brien/) tartan — the named design grouping th
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2225
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2225](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2225)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lo13g6y2g3y2g6lb3g2lb3g12r3g6~x2/"><circle cx="293.6" cy="222.5" r="4" fill="#3465a4"><title>O'Brien (Name)</title></circle></a><a href="/variants/s12/lo13g6y2g3y2g6lb3g2lb3g12r3g6~x2~lo2706066-g2203152/"><circle cx="352.2" cy="239.1" r="4" fill="#3465a4"><title>O'Brien</title></circle></a><a href="/variants/s12/b13g6y2g3y2g6lb3g2lb3g12r3g6~x2/"><circle cx="299.5" cy="226.5" r="4" fill="#3465a4"><title>O'Brien</title></circle></a><a href="/variants/s10/g8r2lb3y2g4n4g14db2n2db2~x2/"><circle cx="312.4" cy="203.7" r="4" fill="#3465a4"><title>Lévesque, Pascal (Personal)</title></circle></a><a href="/variants/s7/r4g3o8w3o4g18y3~x2/"><circle cx="278.1" cy="238.7" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/variants/s12/r3g8r2g18dr5g3do3g3do16g3do3g3~x2/"><circle cx="318.1" cy="202.2" r="4" fill="#3465a4"><title>Dublin</title></circle></a><a href="/variants/s14/g19dy3g19r3g19dy3g19r3g3r21lb3r21g3r3~x2/"><circle cx="322.9" cy="203.7" r="4" fill="#3465a4"><title>Burnett of Powis (Modern) (Personal)</title></circle></a><a href="/variants/s9/g5r9g10y2g2w2g10r9g5~x2/"><circle cx="303.8" cy="260.0" r="4" fill="#3465a4"><title>Wilson's, No 169</title></circle></a><a href="/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/"><circle cx="301.1" cy="230.8" r="4" fill="#3465a4"><title>Jubilee</title></circle></a><circle cx="295.0" cy="228.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lo13g6y2g3y2g6lb3g2lb3g12r3g6~x2/"><circle cx="293.7" cy="223.0" r="4" fill="#3465a4"><title>O'Brien (Name)</title></circle></a><a href="/variants/s12/lo13g6y2g3y2g6lb3g2lb3g12r3g6~x2~lo2706066-g2203152/"><circle cx="352.4" cy="239.4" r="4" fill="#3465a4"><title>O'Brien</title></circle></a><a href="/variants/s12/b13g6y2g3y2g6lb3g2lb3g12r3g6~x2/"><circle cx="299.6" cy="226.9" r="4" fill="#3465a4"><title>O'Brien</title></circle></a><a href="/variants/s10/g8r2lb3y2g4n4g14db2n2db2~x2/"><circle cx="312.5" cy="204.0" r="4" fill="#3465a4"><title>Lévesque, Pascal (Personal)</title></circle></a><a href="/variants/s7/r4g3o8w3o4g18y3~x2/"><circle cx="278.3" cy="239.1" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/variants/s12/r3g8r2g18dr5g3do3g3do16g3do3g3~x2/"><circle cx="318.2" cy="202.5" r="4" fill="#3465a4"><title>Dublin</title></circle></a><a href="/variants/s14/g19dy3g19r3g19dy3g19r3g3r21lb3r21g3r3~x2/"><circle cx="323.0" cy="204.2" r="4" fill="#3465a4"><title>Burnett of Powis (Modern) (Personal)</title></circle></a><a href="/variants/s9/g5r9g10y2g2w2g10r9g5~x2/"><circle cx="304.0" cy="260.7" r="4" fill="#3465a4"><title>Wilson's, No 169</title></circle></a><a href="/variants/s16/g17r3g17lb19g3lb19g17y3g17lb5g4lb10g3lb10g4lb5/"><circle cx="301.2" cy="231.3" r="4" fill="#3465a4"><title>Jubilee</title></circle></a><circle cx="295.2" cy="228.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/lo12g6y2g3y2g6lb3g2lb3g12r3g6~x2/

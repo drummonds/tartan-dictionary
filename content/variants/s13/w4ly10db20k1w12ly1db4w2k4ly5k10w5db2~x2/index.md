@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dinarzh: (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2/)
 (the same proportion at any scale), whose colour order is pattern [BWKYKWBYWKBYW](/stripes/bwkykwbywkbyw/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10598
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10598](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10598)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/"><circle cx="118.5" cy="132.3" r="4" fill="#3465a4"><title>Dinarzh: Fortress of the Bear</title></circle></a><a href="/variants/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/"><circle cx="111.8" cy="141.3" r="4" fill="#3465a4"><title>Tommy</title></circle></a><a href="/variants/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/"><circle cx="166.2" cy="115.4" r="4" fill="#3465a4"><title>Nigeria</title></circle></a><a href="/variants/s13/k8w7k2w3k2w3k2w3k2w7g18dp27w3~x2/"><circle cx="125.4" cy="135.6" r="4" fill="#3465a4"><title>IAPD</title></circle></a><a href="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/"><circle cx="85.4" cy="157.2" r="4" fill="#3465a4"><title>Campbell, 42nd dress</title></circle></a><a href="/variants/s12/k2y2db15y2k2y2w2y2w14y1k2y2~x2/"><circle cx="137.9" cy="123.3" r="4" fill="#3465a4"><title>Independence</title></circle></a><a href="/variants/s15/ly4n12k12n4lb18n1ly1n1lb2n1ly2n1lb4n1ly4~x4/"><circle cx="159.3" cy="119.2" r="4" fill="#3465a4"><title>Ettrick (Fashion)</title></circle></a><a href="/variants/s15/db2k2db8k8g12k1w2k1g12k8w3db3w14db2w2~x2/"><circle cx="87.2" cy="146.0" r="4" fill="#3465a4"><title>Forbes Dress</title></circle></a><a href="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/"><circle cx="166.8" cy="107.4" r="4" fill="#3465a4"><title>Hogmany Plaid</title></circle></a><a href="/variants/s13/db24k4g8y4g8k4w4k4w24k1w2k1y3~x2/"><circle cx="112.2" cy="98.5" r="4" fill="#3465a4"><title>Gordon Dress #4</title></circle></a><circle cx="121.0" cy="135.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/"><circle cx="118.5" cy="132.7" r="4" fill="#3465a4"><title>Dinarzh: Fortress of the Bear</title></circle></a><a href="/variants/s13/o4k1o5k4db11w2db11k4w2o2w15k2w3~x2/"><circle cx="111.8" cy="141.8" r="4" fill="#3465a4"><title>Tommy</title></circle></a><a href="/variants/s14/w4db24k1dg8w8dg8k1w4dg2w1dg2w4dg8w4~x2/"><circle cx="166.1" cy="115.7" r="4" fill="#3465a4"><title>Nigeria</title></circle></a><a href="/variants/s13/k8w7k2w3k2w3k2w3k2w7g18dp27w3~x2/"><circle cx="125.4" cy="136.0" r="4" fill="#3465a4"><title>IAPD</title></circle></a><a href="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/"><circle cx="85.4" cy="157.7" r="4" fill="#3465a4"><title>Campbell, 42nd dress</title></circle></a><a href="/variants/s12/k2y2db15y2k2y2w2y2w14y1k2y2~x2/"><circle cx="137.9" cy="123.7" r="4" fill="#3465a4"><title>Independence</title></circle></a><a href="/variants/s15/ly4n12k12n4lb18n1ly1n1lb2n1ly2n1lb4n1ly4~x4/"><circle cx="159.3" cy="119.5" r="4" fill="#3465a4"><title>Ettrick (Fashion)</title></circle></a><a href="/variants/s15/db2k2db8k8g12k1w2k1g12k8w3db3w14db2w2~x2/"><circle cx="87.2" cy="146.4" r="4" fill="#3465a4"><title>Forbes Dress</title></circle></a><a href="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/"><circle cx="166.7" cy="107.6" r="4" fill="#3465a4"><title>Hogmany Plaid</title></circle></a><a href="/variants/s13/db24k4g8y4g8k4w4k4w24k1w2k1y3~x2/"><circle cx="112.1" cy="98.7" r="4" fill="#3465a4"><title>Gordon Dress #4</title></circle></a><circle cx="121.0" cy="136.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/w4ly10db20k1w12ly1db4w2k4ly5k10w5db2~x2/

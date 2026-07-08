@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Blaylock"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4w2db8w3r16k2r5y2r5w2/)
 (the same proportion at any scale), whose colour order is pattern [KWBWRKRGRW](/stripes/kwbwrkrgrw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=300
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=300](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=300)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r20k5dg5r5w5n3dg3~x4/"><circle cx="204.2" cy="173.2" r="4" fill="#3465a4"><title>Mangles, Peter and Annette (Personal</title></circle></a><a href="/variants/s7/r20k5dg5r5w5lr3dg3~x4/"><circle cx="202.0" cy="171.8" r="4" fill="#3465a4"><title>Mangles, Peter and Annette Family/Personal Tartan</title></circle></a><a href="/variants/s8/r7db2k2y1k2r2k1w1~x2/"><circle cx="175.5" cy="164.3" r="4" fill="#3465a4"><title>Royal Stuart/Stewart</title></circle></a><a href="/variants/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/"><circle cx="201.4" cy="126.6" r="4" fill="#3465a4"><title>Cameron of Locheil (Bonner collection)</title></circle></a><a href="/variants/s10/w15g8k12g14r64k12r16k10y8k14/"><circle cx="152.7" cy="145.6" r="4" fill="#3465a4"><title>Carlow County Crest (Fashion)</title></circle></a><a href="/variants/s9/db3w12k11r4w2r2w2r24ly3~x2/"><circle cx="180.9" cy="127.6" r="4" fill="#3465a4"><title>Hearts Football Club (Corporate)</title></circle></a><a href="/variants/s7/r20k5g5r5w5n3g3~x4/"><circle cx="204.5" cy="175.2" r="4" fill="#3465a4"><title>Mangles, Peter and Annette (Personal)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><circle cx="224.4" cy="119.0" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/"><circle cx="224.4" cy="119.0" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s10/r30g12k5w2db6r30db12w2k5g12~x2/"><circle cx="217.3" cy="135.8" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><circle cx="187.4" cy="150.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r20k5dg5r5w5n3dg3~x4/"><circle cx="204.3" cy="173.8" r="4" fill="#3465a4"><title>Mangles, Peter and Annette (Personal</title></circle></a><a href="/variants/s7/r20k5dg5r5w5lr3dg3~x4/"><circle cx="202.0" cy="172.4" r="4" fill="#3465a4"><title>Mangles, Peter and Annette Family/Personal Tartan</title></circle></a><a href="/variants/s8/r7db2k2y1k2r2k1w1~x2/"><circle cx="175.5" cy="164.9" r="4" fill="#3465a4"><title>Royal Stuart/Stewart</title></circle></a><a href="/variants/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/"><circle cx="201.4" cy="126.9" r="4" fill="#3465a4"><title>Cameron of Locheil (Bonner collection)</title></circle></a><a href="/variants/s10/w15g8k12g14r64k12r16k10y8k14/"><circle cx="152.7" cy="146.0" r="4" fill="#3465a4"><title>Carlow County Crest (Fashion)</title></circle></a><a href="/variants/s9/db3w12k11r4w2r2w2r24ly3~x2/"><circle cx="180.9" cy="128.1" r="4" fill="#3465a4"><title>Hearts Football Club (Corporate)</title></circle></a><a href="/variants/s7/r20k5g5r5w5n3g3~x4/"><circle cx="204.5" cy="175.8" r="4" fill="#3465a4"><title>Mangles, Peter and Annette (Personal)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><circle cx="224.4" cy="119.3" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/"><circle cx="224.4" cy="119.3" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s10/r30g12k5w2db6r30db12w2k5g12~x2/"><circle cx="217.3" cy="136.2" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><circle cx="187.4" cy="150.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k4w2db8w3r16k2r5y2r5w2~x2/

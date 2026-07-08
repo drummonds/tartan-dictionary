@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Weaving for Life"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lr24n2lr6m3lr6w6lr6w6/)
 (the same proportion at any scale), whose colour order is pattern [WYWYRYBY](/stripes/wywyryby/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4040
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4040](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4040)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>

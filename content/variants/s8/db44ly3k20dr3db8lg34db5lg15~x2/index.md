@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "US Air Force Reserve Pipe Band"
   url: "/tartans/us-air-force-reserve-pipe-band/"
+- name: "US Air Force Reserve Pipe Band"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db44ly3k20dr3db8lg34db5lg15/)
 (the same proportion at any scale), whose colour order is pattern [BYKBBYBY](/stripes/bykbbyby/).
@@ -14,7 +16,7 @@ Part of the [US Air Force Reserve Pipe Band](/tartans/us-air-force-reserve-pipe-
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4180
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4180](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4180)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db44k23dr3db8lg34db5lg15~x2/"><circle cx="163.4" cy="147.2" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band Military Tartan</title></circle></a><a href="/variants/s7/k7db4g31db3y2db27lb4~x2/"><circle cx="222.6" cy="155.6" r="4" fill="#3465a4"><title>Wishart Htg (Clan)</title></circle></a><a href="/variants/s7/t5dy28w5k20ly5t47ly4~x2/"><circle cx="185.4" cy="166.9" r="4" fill="#3465a4"><title>State Seal of Washington (Fashion)</title></circle></a><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/"><circle cx="158.5" cy="154.5" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="156.7" cy="175.2" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><a href="/variants/s9/w3ly2g8k2ly3k2db15k1ly2~x4/"><circle cx="138.2" cy="136.7" r="4" fill="#3465a4"><title>MacManus (Estimated threadcount)</title></circle></a><a href="/variants/s9/w3ly2g8ly2k3ly2db15k1ly2~x4/"><circle cx="143.2" cy="139.1" r="4" fill="#3465a4"><title>MacManus</title></circle></a><a href="/variants/s7/db12k4g4dp1g4k1w1~x4/"><circle cx="187.1" cy="164.0" r="4" fill="#3465a4"><title>Alexander - 2000 (Name)</title></circle></a><a href="/variants/s7/db12k4g4r1g4k1lo1~x4/"><circle cx="188.1" cy="163.0" r="4" fill="#3465a4"><title>MacLaren (Clan)</title></circle></a><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/"><circle cx="148.0" cy="167.0" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><circle cx="173.7" cy="154.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db44k23dr3db8lg34db5lg15~x2/"><circle cx="163.3" cy="147.6" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band Military Tartan</title></circle></a><a href="/variants/s7/k7db4g31db3y2db27lb4~x2/"><circle cx="222.6" cy="155.9" r="4" fill="#3465a4"><title>Wishart Htg (Clan)</title></circle></a><a href="/variants/s7/t5dy28w5k20ly5t47ly4~x2/"><circle cx="185.4" cy="167.3" r="4" fill="#3465a4"><title>State Seal of Washington (Fashion)</title></circle></a><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/"><circle cx="158.5" cy="154.9" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/variants/s6/r1t10k2w4k4y1~x6/"><circle cx="156.8" cy="175.8" r="4" fill="#3465a4"><title>Thomson Dress (Blue)</title></circle></a><a href="/variants/s9/w3ly2g8k2ly3k2db15k1ly2~x4/"><circle cx="138.1" cy="137.0" r="4" fill="#3465a4"><title>MacManus (Estimated threadcount)</title></circle></a><a href="/variants/s9/w3ly2g8ly2k3ly2db15k1ly2~x4/"><circle cx="143.2" cy="139.4" r="4" fill="#3465a4"><title>MacManus</title></circle></a><a href="/variants/s7/db12k4g4dp1g4k1w1~x4/"><circle cx="187.1" cy="164.4" r="4" fill="#3465a4"><title>Alexander - 2000 (Name)</title></circle></a><a href="/variants/s7/db12k4g4r1g4k1lo1~x4/"><circle cx="188.1" cy="163.4" r="4" fill="#3465a4"><title>MacLaren (Clan)</title></circle></a><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/"><circle cx="148.0" cy="167.5" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><circle cx="173.7" cy="154.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/

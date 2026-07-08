@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Finnegan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o6k2g2k4r3k2r3k4g2o24y2/)
 (the same proportion at any scale), whose colour order is pattern [GRGKRKRKGKR](/stripes/grgkrkrkgkr/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1184
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1184](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1184)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/o19k2r1dy3w1dy1w1dy1k6o3dy1o3w1~x4/"><circle cx="276.9" cy="77.4" r="4" fill="#3465a4"><title>Leando (Coldingham) Hunting (Personal)</title></circle></a><a href="/variants/s15/r6k2r2k4r2k2r6g18r2y1r2k1r10w1r2~x4/"><circle cx="237.2" cy="93.0" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s14/b1r2g1k1r5g11r1k2g1r11g4b1r2w1~x2/"><circle cx="222.4" cy="122.9" r="4" fill="#3465a4"><title>MacKinnon 2</title></circle></a><a href="/variants/s9/k2r1g8r3g3r14y1r1w2~x2/"><circle cx="265.9" cy="129.4" r="4" fill="#3465a4"><title>Melieres, Michel (Personal)</title></circle></a><a href="/variants/s14/r1ri2g1k1ri5g11ri1k2g1ri11g4r1ri2w1~x2~r2208029-ri2209032/"><circle cx="226.1" cy="123.2" r="4" fill="#3465a4"><title>MacKinnon #9</title></circle></a><a href="/variants/s12/y14lo1y1lo1y2k3y3k3doi3do1doi9lo1~x4~doi1402055-do1103038/"><circle cx="228.3" cy="127.4" r="4" fill="#3465a4"><title>Glen Nevis #2 (Personal)</title></circle></a><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/"><circle cx="218.0" cy="149.2" r="4" fill="#3465a4"><title>Seton (Clan)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><circle cx="224.4" cy="119.0" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/"><circle cx="224.4" cy="119.0" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s10/w3o18k18y1r2t2r2y1o18t2~x2/"><circle cx="224.0" cy="95.1" r="4" fill="#3465a4"><title>Selkirk High (Corporate)</title></circle></a><circle cx="254.0" cy="113.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/o19k2r1dy3w1dy1w1dy1k6o3dy1o3w1~x4/"><circle cx="276.8" cy="77.7" r="4" fill="#3465a4"><title>Leando (Coldingham) Hunting (Personal)</title></circle></a><a href="/variants/s15/r6k2r2k4r2k2r6g18r2y1r2k1r10w1r2~x4/"><circle cx="237.2" cy="93.3" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s14/b1r2g1k1r5g11r1k2g1r11g4b1r2w1~x2/"><circle cx="222.4" cy="123.2" r="4" fill="#3465a4"><title>MacKinnon 2</title></circle></a><a href="/variants/s9/k2r1g8r3g3r14y1r1w2~x2/"><circle cx="265.8" cy="129.7" r="4" fill="#3465a4"><title>Melieres, Michel (Personal)</title></circle></a><a href="/variants/s14/r1ri2g1k1ri5g11ri1k2g1ri11g4r1ri2w1~x2~r2208029-ri2209032/"><circle cx="226.1" cy="123.6" r="4" fill="#3465a4"><title>MacKinnon #9</title></circle></a><a href="/variants/s12/y14lo1y1lo1y2k3y3k3doi3do1doi9lo1~x4~doi1402055-do1103038/"><circle cx="228.2" cy="127.7" r="4" fill="#3465a4"><title>Glen Nevis #2 (Personal)</title></circle></a><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/"><circle cx="218.0" cy="149.6" r="4" fill="#3465a4"><title>Seton (Clan)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><circle cx="224.4" cy="119.3" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/"><circle cx="224.4" cy="119.3" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s10/w3o18k18y1r2t2r2y1o18t2~x2/"><circle cx="223.9" cy="95.4" r="4" fill="#3465a4"><title>Selkirk High (Corporate)</title></circle></a><circle cx="253.9" cy="113.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/o6k2g2k4r3k2r3k4g2o24y2~x2/

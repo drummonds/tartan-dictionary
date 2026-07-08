@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Forget"
   url: "/tartans/forget/"
+- name: "Forget Family (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g8ly1g8ly12r1ly1/)
 (the same proportion at any scale), whose colour order is pattern [GYGYRY](/stripes/gygyry/).
@@ -14,7 +16,7 @@ Part of the [Forget](/tartans/forget/) tartan — the named design grouping this
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10694
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10694](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10694)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/ly11dg5ly10g4dg26ly4~x2~dg1806142-g2408144/"><circle cx="341.8" cy="278.8" r="4" fill="#3465a4"><title>North Dakota State University (Corp.</title></circle></a><a href="/variants/s6/y11dg5y10g4dg26y4~x2/"><circle cx="400.7" cy="293.1" r="4" fill="#3465a4"><title>North Dakota State University Bison</title></circle></a><a href="/variants/s6/dy6g2dy29g29dy2g6~x2/"><circle cx="443.1" cy="254.6" r="4" fill="#3465a4"><title>Harmony 11 #2</title></circle></a><a href="/variants/s6/g3ly3g20ly20g20ly3~x2/"><circle cx="470.4" cy="313.1" r="4" fill="#3465a4"><title>Barbie's Moss Plaid (Yellow &amp; Green)</title></circle></a><a href="/variants/s7/g3dy2g18dy21lo2g3lo2~x2/"><circle cx="358.4" cy="230.4" r="4" fill="#3465a4"><title>Prince David #1 (Royal)</title></circle></a><a href="/variants/s6/r2g12ly3g8ly14g2~x2/"><circle cx="362.1" cy="278.2" r="4" fill="#3465a4"><title>Confederate Artillery (Military)</title></circle></a><a href="/variants/s6/dg2y14dg8y3dg12lo2~x2/"><circle cx="382.7" cy="284.5" r="4" fill="#3465a4"><title>Confederate Cavalry (Military)</title></circle></a><a href="/variants/s6/y1db3y1g3y8w1~x4/"><circle cx="354.1" cy="242.4" r="4" fill="#3465a4"><title>Fraser Yellow #2</title></circle></a><a href="/variants/s5/g37dy9g3do9dy3~x2/"><circle cx="483.4" cy="251.7" r="4" fill="#3465a4"><title>Glen Boig Trade Tartan</title></circle></a><a href="/variants/s5/g13dy3g1do3dy1~x6/"><circle cx="494.0" cy="247.8" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><circle cx="395.2" cy="251.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/ly11dg5ly10g4dg26ly4~x2~dg1806142-g2408144/"><circle cx="342.0" cy="279.5" r="4" fill="#3465a4"><title>North Dakota State University (Corp.</title></circle></a><a href="/variants/s6/y11dg5y10g4dg26y4~x2/"><circle cx="400.9" cy="293.6" r="4" fill="#3465a4"><title>North Dakota State University Bison</title></circle></a><a href="/variants/s6/dy6g2dy29g29dy2g6~x2/"><circle cx="443.2" cy="255.1" r="4" fill="#3465a4"><title>Harmony 11 #2</title></circle></a><a href="/variants/s6/g3ly3g20ly20g20ly3~x2/"><circle cx="470.7" cy="313.8" r="4" fill="#3465a4"><title>Barbie's Moss Plaid (Yellow &amp; Green)</title></circle></a><a href="/variants/s7/g3dy2g18dy21lo2g3lo2~x2/"><circle cx="358.5" cy="230.8" r="4" fill="#3465a4"><title>Prince David #1 (Royal)</title></circle></a><a href="/variants/s6/r2g12ly3g8ly14g2~x2/"><circle cx="362.4" cy="278.9" r="4" fill="#3465a4"><title>Confederate Artillery (Military)</title></circle></a><a href="/variants/s6/dg2y14dg8y3dg12lo2~x2/"><circle cx="382.9" cy="285.1" r="4" fill="#3465a4"><title>Confederate Cavalry (Military)</title></circle></a><a href="/variants/s6/y1db3y1g3y8w1~x4/"><circle cx="354.2" cy="242.9" r="4" fill="#3465a4"><title>Fraser Yellow #2</title></circle></a><a href="/variants/s5/g37dy9g3do9dy3~x2/"><circle cx="483.5" cy="252.1" r="4" fill="#3465a4"><title>Glen Boig Trade Tartan</title></circle></a><a href="/variants/s5/g13dy3g1do3dy1~x6/"><circle cx="494.2" cy="248.2" r="4" fill="#3465a4"><title>Glen Boig</title></circle></a><circle cx="395.4" cy="252.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g8ly1g8ly12r1ly1~x4/

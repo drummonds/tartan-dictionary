@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Miyuki"
   url: "/tartans/miyuki/"
+- name: "Miyuki #3 (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n12lb14r3ri6lb10n28lb10ri6r3lb8ri10lb8r3ri6lb40n6lb6n6/)
 (the same proportion at any scale), whose colour order is pattern [BWBWRRWRWRRWBWRRWB](/stripes/bwbwrrwrwrrwbwrrwb/).
@@ -14,7 +16,7 @@ Part of the [Miyuki](/tartans/miyuki/) tartan — the named design grouping this
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2606
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2606](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2606)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/n12lb14r3o6lb10n28lb10o6r3lb8o10lb8r3o6lb40n6lb6n6~n1900000-o2500000/"><circle cx="329.7" cy="178.5" r="4" fill="#3465a4"><title>Miyuki #3</title></circle></a><a href="/variants/s16/lb19db4lb19ly5lb2ly19lb2ly5lb19w2lb19r5lb2r19lb2r5~x2/"><circle cx="310.8" cy="181.6" r="4" fill="#3465a4"><title>McBeams Boy</title></circle></a><a href="/variants/s12/do12r1do2r1do2lb2do3o9r1o2r1o3~x4~o2500000/"><circle cx="251.3" cy="146.5" r="4" fill="#3465a4"><title>Shieldhall</title></circle></a><a href="/variants/s13/lb12r4db4lb42r6lb6db11lb6g19lb8r4lb6db6/"><circle cx="307.8" cy="172.2" r="4" fill="#3465a4"><title>Bermuda Blue (1962) (District)</title></circle></a><a href="/variants/s13/k2g2b10g2b7g2b7g2b5g2r14b1g2~x2/"><circle cx="267.0" cy="161.0" r="4" fill="#3465a4"><title>Glen Affric, Fragment</title></circle></a><a href="/variants/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/"><circle cx="279.4" cy="153.5" r="4" fill="#3465a4"><title>Princess Marina #2</title></circle></a><a href="/variants/s13/r4g4r35b4r4g35r4b35r4b4r35g4r4/"><circle cx="316.6" cy="186.1" r="4" fill="#3465a4"><title>Robertson 1</title></circle></a><a href="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/"><circle cx="229.6" cy="173.5" r="4" fill="#3465a4"><title>Toronto Blue Jays</title></circle></a><a href="/variants/s17/r5w20o1w2o1w2o2w2o5n2o2n2o2n3o2n10w3~x2~o2500000-n1900000/"><circle cx="250.1" cy="126.9" r="4" fill="#3465a4"><title>Nike Golf Light (Corporate)</title></circle></a><circle cx="297.4" cy="163.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/n12lb14r3o6lb10n28lb10o6r3lb8o10lb8r3o6lb40n6lb6n6~n1900000-o2500000/"><circle cx="329.8" cy="178.7" r="4" fill="#3465a4"><title>Miyuki #3</title></circle></a><a href="/variants/s16/lb19db4lb19ly5lb2ly19lb2ly5lb19w2lb19r5lb2r19lb2r5~x2/"><circle cx="310.9" cy="182.0" r="4" fill="#3465a4"><title>McBeams Boy</title></circle></a><a href="/variants/s12/do12r1do2r1do2lb2do3o9r1o2r1o3~x4~o2500000/"><circle cx="251.3" cy="146.7" r="4" fill="#3465a4"><title>Shieldhall</title></circle></a><a href="/variants/s13/lb12r4db4lb42r6lb6db11lb6g19lb8r4lb6db6/"><circle cx="307.8" cy="172.7" r="4" fill="#3465a4"><title>Bermuda Blue (1962) (District)</title></circle></a><a href="/variants/s13/k2g2b10g2b7g2b7g2b5g2r14b1g2~x2/"><circle cx="267.0" cy="161.3" r="4" fill="#3465a4"><title>Glen Affric, Fragment</title></circle></a><a href="/variants/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/"><circle cx="279.5" cy="153.8" r="4" fill="#3465a4"><title>Princess Marina #2</title></circle></a><a href="/variants/s13/r4g4r35b4r4g35r4b35r4b4r35g4r4/"><circle cx="316.6" cy="186.6" r="4" fill="#3465a4"><title>Robertson 1</title></circle></a><a href="/variants/s11/r2dp1lb13n13dp4n4dp4n4lb13dp1w2~x2/"><circle cx="229.6" cy="173.9" r="4" fill="#3465a4"><title>Toronto Blue Jays</title></circle></a><a href="/variants/s17/r5w20o1w2o1w2o2w2o5n2o2n2o2n3o2n10w3~x2~o2500000-n1900000/"><circle cx="250.1" cy="127.1" r="4" fill="#3465a4"><title>Nike Golf Light (Corporate)</title></circle></a><circle cx="297.5" cy="163.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s18/n12lb14r3ri6lb10n28lb10ri6r3lb8ri10lb8r3ri6lb40n6lb6n6~n1900000-ri2109032/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacNeil"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2db12k12g12k5ly1k5g12k12db12w1/)
 (the same proportion at any scale), whose colour order is pattern [WBKGKYKGKBW](/stripes/wbkgkykgkbw/).
 
 Sourced from logan-1831.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link /posts/logans-scottish-gael/
+Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 
 ## Provenance
 
@@ -23,7 +25,7 @@ James Logan recorded the **MacNeil** sett in 1831, on page 406 of the *Table of 
 
 > 1 white · 6 smalt · 6 black · 6 green · 2½ black · ½ yellow · 2½ black · 6 green · 6 black · 6 smalt · ½ white
 
-In threads (at 8 to the eighth-inch) that is `W/8 B48 K48 G48 K20 Y4 K20 G48 K48 B48 W/4`. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+Rendered at 8 threads to the eighth-inch that is `W/8 B48 K48 G48 K20 Y4 K20 G48 K48 B48 W/4` — the eighths are the captured data, and the threadcount is derived from them at that stated factor. How many threads an eighth of cloth held depends on the weave's density, so the factor is a display calibration, not Logan's count; the sett's identity lives in the proportions, which the eighths record directly. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
 
 See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table and method.
 
@@ -43,6 +45,7 @@ Later records of the **MacNeil** name adjusted Logan's counts: [Macneil of Barra
 <ol class="capture-chain">
 <li>James Logan, The Scottish Gaël (first edition) <small>1831</small> · Public domain<br><small>the printed Table of Clan Tartans, vol. II pp. 401-408, plus the Duke of Sussex plate</small></li>
 <li><a href="https://archive.org/details/scotishgalorcel02logagoog">Internet Archive scan</a><br><small>the digitised first edition the transcription was made from, cross-checked against the OCR</small></li>
+<li><a href="/posts/logans-scottish-gael/">Tartan Dictionary transcription — Logan's Scottish Gaël</a> <small>2026-06</small> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><br><small>by-eye transcription of the Table of Clan Tartans and the Duke of Sussex plate — depths in eighths of an inch, rendered at 8 threads per eighth (a display calibration anchored by the Register's Abercrombie ×8 stripe-for-stripe match); method and match report in the linked post</small></li>
 <li>this dictionary<br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
 </details>
@@ -69,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3k1g12k12db12lb3db12k12g12k1y3~x2/"><circle cx="72.5" cy="155.9" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="114.9" cy="177.9" r="4" fill="#3465a4"><title>Robertson Hunting #2</title></circle></a><a href="/variants/s8/db18k20g20k5g20k20db18lb3~x2/"><circle cx="126.1" cy="148.6" r="4" fill="#3465a4"><title>Smith (Sir William)</title></circle></a><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/"><circle cx="137.2" cy="181.6" r="4" fill="#3465a4"><title>Dove (Personal)</title></circle></a><a href="/variants/s10/g48k3w8k3g48k34db60r4db60k34/"><circle cx="161.4" cy="146.6" r="4" fill="#3465a4"><title>MacPhail Hunting Corporate Tartan</title></circle></a><a href="/variants/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/"><circle cx="115.0" cy="167.6" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/"><circle cx="123.6" cy="151.5" r="4" fill="#3465a4"><title>Paterson (Dalgleish Version)</title></circle></a><a href="/variants/s12/db20k2db4k2db20k17g18dr2g4lb2g18k18~x2/"><circle cx="124.3" cy="167.3" r="4" fill="#3465a4"><title>Spar (UK) Ltd Corporate Tartan</title></circle></a><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/"><circle cx="113.3" cy="173.9" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><a href="/variants/s14/db10k2db2k2db2k8g8k1w2k1g8k8db9r2~x2/"><circle cx="109.3" cy="158.6" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><circle cx="121.2" cy="172.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3k1g12k12db12lb3db12k12g12k1y3~x2/"><circle cx="72.4" cy="156.3" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="114.9" cy="178.4" r="4" fill="#3465a4"><title>Robertson Hunting #2</title></circle></a><a href="/variants/s8/db18k20g20k5g20k20db18lb3~x2/"><circle cx="126.0" cy="148.9" r="4" fill="#3465a4"><title>Smith (Sir William)</title></circle></a><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/"><circle cx="137.2" cy="182.0" r="4" fill="#3465a4"><title>Dove (Personal)</title></circle></a><a href="/variants/s10/g48k3w8k3g48k34db60r4db60k34/"><circle cx="161.3" cy="146.9" r="4" fill="#3465a4"><title>MacPhail Hunting Corporate Tartan</title></circle></a><a href="/variants/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/"><circle cx="114.9" cy="168.0" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/"><circle cx="123.5" cy="151.9" r="4" fill="#3465a4"><title>Paterson (Dalgleish Version)</title></circle></a><a href="/variants/s12/db20k2db4k2db20k17g18dr2g4lb2g18k18~x2/"><circle cx="124.3" cy="167.7" r="4" fill="#3465a4"><title>Spar (UK) Ltd Corporate Tartan</title></circle></a><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/"><circle cx="113.3" cy="174.3" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><a href="/variants/s14/db10k2db2k2db2k8g8k1w2k1g8k8db9r2~x2/"><circle cx="109.3" cy="159.0" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><circle cx="121.2" cy="173.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/

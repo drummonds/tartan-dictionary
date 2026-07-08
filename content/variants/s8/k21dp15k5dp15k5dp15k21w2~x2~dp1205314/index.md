@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Spirit Weavers Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k21dp15k5dp15k5dp15k21w2/)
 (the same proportion at any scale), whose colour order is pattern [KBKBKBKW](/stripes/kbkbkbkw/).
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5739
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5739](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5739)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k14dp2k4lb3k12dp8k1~x2/"><circle cx="379.7" cy="184.6" r="4" fill="#3465a4"><title>Punky Princess</title></circle></a><a href="/variants/s8/k6db10k10b1k1b1k10b6~x4~db1406275/"><circle cx="295.8" cy="207.8" r="4" fill="#3465a4"><title>Oban</title></circle></a><a href="/variants/s8/k6db10k10b1k1b1k10b6~x4/"><circle cx="298.8" cy="209.5" r="4" fill="#3465a4"><title>Oban (Fashion)</title></circle></a><a href="/variants/s6/k6db17k6db17k27w3~x2/"><circle cx="282.5" cy="230.0" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/variants/s5/dp27k10dp27k35y6/"><circle cx="290.5" cy="271.5" r="4" fill="#3465a4"><title>Moorlands (Corporate)</title></circle></a><a href="/variants/s7/k1db12k12g1k12db12g1~x4/"><circle cx="311.3" cy="213.1" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/variants/s12/db12k12g1k12db12g1db12k12g1k12db12k1~x4/"><circle cx="294.7" cy="206.1" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/variants/s6/db9k9r3db9k9y1~x4/"><circle cx="219.8" cy="235.3" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/variants/s8/k21db3k12dr2db12k2db12w2~x2/"><circle cx="281.9" cy="188.1" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle F.C Corporate Weavers Tartan</title></circle></a><a href="/variants/s5/k15db4k15db28r2~x2/"><circle cx="328.7" cy="220.2" r="4" fill="#3465a4"><title>MacKay (Blue) #2</title></circle></a><circle cx="306.7" cy="227.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k14dp2k4lb3k12dp8k1~x2/"><circle cx="379.7" cy="185.1" r="4" fill="#3465a4"><title>Punky Princess</title></circle></a><a href="/variants/s8/k6db10k10b1k1b1k10b6~x4~db1406275/"><circle cx="295.8" cy="208.3" r="4" fill="#3465a4"><title>Oban</title></circle></a><a href="/variants/s8/k6db10k10b1k1b1k10b6~x4/"><circle cx="298.9" cy="210.0" r="4" fill="#3465a4"><title>Oban (Fashion)</title></circle></a><a href="/variants/s6/k6db17k6db17k27w3~x2/"><circle cx="282.6" cy="230.6" r="4" fill="#3465a4"><title>Swan, Brian E</title></circle></a><a href="/variants/s5/dp27k10dp27k35y6/"><circle cx="290.6" cy="272.2" r="4" fill="#3465a4"><title>Moorlands (Corporate)</title></circle></a><a href="/variants/s7/k1db12k12g1k12db12g1~x4/"><circle cx="311.3" cy="213.5" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/variants/s12/db12k12g1k12db12g1db12k12g1k12db12k1~x4/"><circle cx="294.8" cy="206.5" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/variants/s6/db9k9r3db9k9y1~x4/"><circle cx="219.9" cy="235.8" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/variants/s8/k21db3k12dr2db12k2db12w2~x2/"><circle cx="281.9" cy="188.5" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle F.C Corporate Weavers Tartan</title></circle></a><a href="/variants/s5/k15db4k15db28r2~x2/"><circle cx="328.8" cy="220.7" r="4" fill="#3465a4"><title>MacKay (Blue) #2</title></circle></a><circle cx="306.8" cy="227.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k21dp15k5dp15k5dp15k21w2~x2~dp1205314/

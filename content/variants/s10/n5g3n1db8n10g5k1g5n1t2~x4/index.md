@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Berkshire #1 (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n5g3n1db8n10g5k1g5n1t2/)
 (the same proportion at any scale), whose colour order is pattern [BBGKGBBBGB](/stripes/bbgkgbbbgb/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3681
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3681](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3681)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n6db3k1o10n12g6k1g6n1db2~x4~o2500000/"><circle cx="219.3" cy="194.0" r="4" fill="#3465a4"><title>Berkshire #2</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="267.9" cy="231.5" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/variants/s7/dg27dr2dg4o15db26k2db6~x2~dg1703114/"><circle cx="252.6" cy="190.1" r="4" fill="#3465a4"><title>Bailies of Bennachie Corporate Tartan</title></circle></a><a href="/variants/s8/dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/"><circle cx="217.3" cy="177.6" r="4" fill="#3465a4"><title>Scottish Power</title></circle></a><a href="/variants/s6/dbi11g15k2n5db3n11~x2~dbi1204274-db1106275/"><circle cx="165.0" cy="240.9" r="4" fill="#3465a4"><title>Saorsa (Corporate)</title></circle></a><a href="/variants/s14/n11db6g6y1db2y1g6db6n11k1r3k1g5db5~x2/"><circle cx="140.6" cy="165.9" r="4" fill="#3465a4"><title>Penman</title></circle></a><a href="/variants/s11/r3dg28g19dg3db19dg3db19dg3g19dg28w3~x2/"><circle cx="230.8" cy="206.1" r="4" fill="#3465a4"><title>Boys Brigade</title></circle></a><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14~db1406275/"><circle cx="234.0" cy="192.4" r="4" fill="#3465a4"><title>Powys Welsh District Tartan</title></circle></a><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><circle cx="250.0" cy="213.3" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/"><circle cx="196.4" cy="231.2" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><circle cx="229.6" cy="207.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n6db3k1o10n12g6k1g6n1db2~x4~o2500000/"><circle cx="219.4" cy="194.2" r="4" fill="#3465a4"><title>Berkshire #2</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="268.0" cy="231.8" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/variants/s7/dg27dr2dg4o15db26k2db6~x2~dg1703114/"><circle cx="252.7" cy="190.3" r="4" fill="#3465a4"><title>Bailies of Bennachie Corporate Tartan</title></circle></a><a href="/variants/s8/dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/"><circle cx="217.3" cy="177.9" r="4" fill="#3465a4"><title>Scottish Power</title></circle></a><a href="/variants/s6/dbi11g15k2n5db3n11~x2~dbi1204274-db1106275/"><circle cx="165.1" cy="241.4" r="4" fill="#3465a4"><title>Saorsa (Corporate)</title></circle></a><a href="/variants/s14/n11db6g6y1db2y1g6db6n11k1r3k1g5db5~x2/"><circle cx="140.6" cy="166.1" r="4" fill="#3465a4"><title>Penman</title></circle></a><a href="/variants/s11/r3dg28g19dg3db19dg3db19dg3g19dg28w3~x2/"><circle cx="230.8" cy="206.5" r="4" fill="#3465a4"><title>Boys Brigade</title></circle></a><a href="/variants/s12/dg24t7dg7t7dg7db22t7db4dy4db4t40r14~db1406275/"><circle cx="234.1" cy="192.7" r="4" fill="#3465a4"><title>Powys Welsh District Tartan</title></circle></a><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><circle cx="250.1" cy="213.7" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/"><circle cx="196.5" cy="231.6" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><circle cx="229.7" cy="208.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/n5g3n1db8n10g5k1g5n1t2~x4/

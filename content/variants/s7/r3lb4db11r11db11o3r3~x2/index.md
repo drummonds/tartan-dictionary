@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Stewart, Fragment"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3lb4db11r11db11o3r3/)
 (the same proportion at any scale), whose colour order is pattern [RRBRBWR](/stripes/rrbrbwr/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/"><circle cx="344.6" cy="230.2" r="4" fill="#3465a4"><title>British European</title></circle></a><a href="/variants/s6/r12db2r12db17w2r2~x4/"><circle cx="326.8" cy="222.0" r="4" fill="#3465a4"><title>British European (Corporate)</title></circle></a><a href="/variants/s6/db1r3db1r3db6g1~x4/"><circle cx="311.1" cy="250.9" r="4" fill="#3465a4"><title>Robbins</title></circle></a><a href="/variants/s5/db6r1db6r9w1~x2/"><circle cx="315.4" cy="242.2" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/variants/s5/db6r1db6r9w1~x4/"><circle cx="315.4" cy="242.2" r="4" fill="#3465a4"><title>Hamilton Red Clan Tartan</title></circle></a><a href="/variants/s5/db8r2db8r15w2~x4/"><circle cx="292.6" cy="247.4" r="4" fill="#3465a4"><title>Hamilton (Clan)</title></circle></a><a href="/variants/s7/r6w3r17db3r3db25r3~x2/"><circle cx="303.5" cy="203.5" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/variants/s5/db6r1db6r5w5~x4/"><circle cx="221.8" cy="287.5" r="4" fill="#3465a4"><title>U.S. Coast Guard (Corporate)</title></circle></a><a href="/variants/s6/ri2db13r3db3r16lb2~x4~ri2008029-r1506028/"><circle cx="324.9" cy="225.2" r="4" fill="#3465a4"><title>MacArthur-Fox, dress</title></circle></a><a href="/variants/s7/db7w1r7db4r2db4w2~x2/"><circle cx="274.6" cy="246.8" r="4" fill="#3465a4"><title>Coronation</title></circle></a><circle cx="211.9" cy="258.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/"><circle cx="344.8" cy="230.8" r="4" fill="#3465a4"><title>British European</title></circle></a><a href="/variants/s6/r12db2r12db17w2r2~x4/"><circle cx="327.0" cy="222.6" r="4" fill="#3465a4"><title>British European (Corporate)</title></circle></a><a href="/variants/s6/db1r3db1r3db6g1~x4/"><circle cx="311.2" cy="251.6" r="4" fill="#3465a4"><title>Robbins</title></circle></a><a href="/variants/s5/db6r1db6r9w1~x2/"><circle cx="315.5" cy="242.9" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/variants/s5/db6r1db6r9w1~x4/"><circle cx="315.5" cy="242.9" r="4" fill="#3465a4"><title>Hamilton Red Clan Tartan</title></circle></a><a href="/variants/s5/db8r2db8r15w2~x4/"><circle cx="292.8" cy="248.1" r="4" fill="#3465a4"><title>Hamilton (Clan)</title></circle></a><a href="/variants/s7/r6w3r17db3r3db25r3~x2/"><circle cx="303.6" cy="204.1" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/variants/s5/db6r1db6r5w5~x4/"><circle cx="222.0" cy="288.4" r="4" fill="#3465a4"><title>U.S. Coast Guard (Corporate)</title></circle></a><a href="/variants/s6/ri2db13r3db3r16lb2~x4~ri2008029-r1506028/"><circle cx="325.0" cy="225.7" r="4" fill="#3465a4"><title>MacArthur-Fox, dress</title></circle></a><a href="/variants/s7/db7w1r7db4r2db4w2~x2/"><circle cx="274.8" cy="247.5" r="4" fill="#3465a4"><title>Coronation</title></circle></a><circle cx="212.0" cy="259.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r3lb4db11r11db11o3r3~x2/

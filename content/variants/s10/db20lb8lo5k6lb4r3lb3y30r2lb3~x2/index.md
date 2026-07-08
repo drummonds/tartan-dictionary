@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Thousand Islands"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db20lb8lo5k6lb4r3lb3y30r2lb3/)
 (the same proportion at any scale), whose colour order is pattern [BWYKWRWGRW](/stripes/bwykwrwgrw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5563
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5563](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5563)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/"><circle cx="134.8" cy="135.2" r="4" fill="#3465a4"><title>Dunedin (USA) (District)</title></circle></a><a href="/variants/s10/r15g6db36w2k6w2g30r32k6lb4/"><circle cx="119.5" cy="116.2" r="4" fill="#3465a4"><title>Steiff</title></circle></a><a href="/variants/s9/dr3w6y4k25w3n30o30w3k2~x2~n1900000-o2500000/"><circle cx="90.7" cy="124.5" r="4" fill="#3465a4"><title>Craparo</title></circle></a><a href="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/"><circle cx="93.0" cy="131.9" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/variants/s12/db25g5db2y2k2r3g20r20db2w2k2r2~x2/"><circle cx="130.9" cy="109.9" r="4" fill="#3465a4"><title>Quebec, Plaid Du</title></circle></a><a href="/variants/s11/w4db5r3db22y4k3g17r7k2r7y2~x2/"><circle cx="100.2" cy="134.0" r="4" fill="#3465a4"><title>Crosser, Crozier</title></circle></a><a href="/variants/s11/dy5k3w2r20db10g2w1dy1g20k4dy3~x2/"><circle cx="111.5" cy="103.6" r="4" fill="#3465a4"><title>MacCulloch</title></circle></a><a href="/variants/s11/k6r2db18lo2g2lo2g10r20db2lb1db6~x2/"><circle cx="141.8" cy="102.3" r="4" fill="#3465a4"><title>Aberdeen Asset Management (Corp)</title></circle></a><a href="/variants/s11/w4db5r3db22dy4k3g17r7k2r7dy2~x2/"><circle cx="100.6" cy="133.8" r="4" fill="#3465a4"><title>Crosser Crozier Family Tartan</title></circle></a><a href="/variants/s14/r2o3do9oi2do5oi4w1o1w1o1w12k2w2o2~x2~o2102055-oi2104058/"><circle cx="97.4" cy="122.1" r="4" fill="#3465a4"><title>Harrods</title></circle></a><circle cx="135.8" cy="124.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/"><circle cx="134.8" cy="135.5" r="4" fill="#3465a4"><title>Dunedin (USA) (District)</title></circle></a><a href="/variants/s10/r15g6db36w2k6w2g30r32k6lb4/"><circle cx="119.4" cy="116.4" r="4" fill="#3465a4"><title>Steiff</title></circle></a><a href="/variants/s9/dr3w6y4k25w3n30o30w3k2~x2~n1900000-o2500000/"><circle cx="90.6" cy="124.8" r="4" fill="#3465a4"><title>Craparo</title></circle></a><a href="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/"><circle cx="92.9" cy="132.2" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/variants/s12/db25g5db2y2k2r3g20r20db2w2k2r2~x2/"><circle cx="130.8" cy="110.1" r="4" fill="#3465a4"><title>Quebec, Plaid Du</title></circle></a><a href="/variants/s11/w4db5r3db22y4k3g17r7k2r7y2~x2/"><circle cx="100.2" cy="134.3" r="4" fill="#3465a4"><title>Crosser, Crozier</title></circle></a><a href="/variants/s11/dy5k3w2r20db10g2w1dy1g20k4dy3~x2/"><circle cx="111.4" cy="103.8" r="4" fill="#3465a4"><title>MacCulloch</title></circle></a><a href="/variants/s11/k6r2db18lo2g2lo2g10r20db2lb1db6~x2/"><circle cx="141.7" cy="102.5" r="4" fill="#3465a4"><title>Aberdeen Asset Management (Corp)</title></circle></a><a href="/variants/s11/w4db5r3db22dy4k3g17r7k2r7dy2~x2/"><circle cx="100.5" cy="134.1" r="4" fill="#3465a4"><title>Crosser Crozier Family Tartan</title></circle></a><a href="/variants/s14/r2o3do9oi2do5oi4w1o1w1o1w12k2w2o2~x2~o2102055-oi2104058/"><circle cx="97.4" cy="122.4" r="4" fill="#3465a4"><title>Harrods</title></circle></a><circle cx="135.8" cy="125.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db20lb8lo5k6lb4r3lb3y30r2lb3~x2/

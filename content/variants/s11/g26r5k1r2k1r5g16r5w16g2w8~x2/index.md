@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Livingston (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g26r5k1r2k1r5g16r5w16g2w8/)
 (the same proportion at any scale), whose colour order is pattern [GRKRKRGRWGW](/stripes/grkrkrgrwgw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2131
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2131](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2131)
 
 <details class="attestations">
 <summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -68,8 +70,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r4g5w2g5r4g14r10w30k1r2g4~x2/"><circle cx="215.8" cy="111.8" r="4" fill="#3465a4"><title>Scott, dress</title></circle></a><a href="/variants/s10/g7r3k3w54g24r5g5w5g5r5~x2/"><circle cx="261.8" cy="119.6" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/variants/s10/ly15n1ly2lo2ly2n1ly3k8n10ly3~x4/"><circle cx="239.3" cy="147.7" r="4" fill="#3465a4"><title>Annan</title></circle></a><a href="/variants/s7/g3lo16w4k6g28lo1g3~x4/"><circle cx="293.9" cy="138.4" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/variants/s7/g3r16w4k6g28r1g3~x2/"><circle cx="296.2" cy="133.6" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/"><circle cx="235.7" cy="130.2" r="4" fill="#3465a4"><title>MacMillan - 1847 (Clan)</title></circle></a><a href="/variants/s9/w38r12w37g32k3w4k3g32r4~x2/"><circle cx="215.2" cy="173.5" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/variants/s9/w38r12w37g32k3w4k3g32r4/"><circle cx="215.2" cy="173.5" r="4" fill="#3465a4"><title>MacDiarmid, dress</title></circle></a><a href="/variants/s7/g6lo2g32k8w6lo20g5~x2/"><circle cx="257.3" cy="170.5" r="4" fill="#3465a4"><title>Pollock (Name)</title></circle></a><a href="/variants/s10/r6g2w21g2y2k8y2g32w1k3~x2/"><circle cx="200.3" cy="86.8" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><circle cx="247.6" cy="124.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r4g5w2g5r4g14r10w30k1r2g4~x2/"><circle cx="215.8" cy="112.2" r="4" fill="#3465a4"><title>Scott, dress</title></circle></a><a href="/variants/s10/g7r3k3w54g24r5g5w5g5r5~x2/"><circle cx="261.8" cy="120.0" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/variants/s10/ly15n1ly2lo2ly2n1ly3k8n10ly3~x4/"><circle cx="239.4" cy="148.2" r="4" fill="#3465a4"><title>Annan</title></circle></a><a href="/variants/s7/g3lo16w4k6g28lo1g3~x4/"><circle cx="293.9" cy="138.8" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/variants/s7/g3r16w4k6g28r1g3~x2/"><circle cx="296.2" cy="134.0" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/"><circle cx="235.7" cy="130.5" r="4" fill="#3465a4"><title>MacMillan - 1847 (Clan)</title></circle></a><a href="/variants/s9/w38r12w37g32k3w4k3g32r4~x2/"><circle cx="215.3" cy="174.0" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/variants/s9/w38r12w37g32k3w4k3g32r4/"><circle cx="215.3" cy="174.0" r="4" fill="#3465a4"><title>MacDiarmid, dress</title></circle></a><a href="/variants/s7/g6lo2g32k8w6lo20g5~x2/"><circle cx="257.4" cy="171.0" r="4" fill="#3465a4"><title>Pollock (Name)</title></circle></a><a href="/variants/s10/r6g2w21g2y2k8y2g32w1k3~x2/"><circle cx="200.2" cy="87.0" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><circle cx="247.5" cy="125.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/g26r5k1r2k1r5g16r5w16g2w8~x2/

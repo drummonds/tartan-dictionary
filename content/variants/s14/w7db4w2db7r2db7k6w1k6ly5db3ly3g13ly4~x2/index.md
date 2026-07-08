@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Redgate Dress"
   url: "/tartans/redgate-dress/"
+- name: "Redgate Dress (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w7db4w2db7r2db7k6w1k6ly5db3ly3g13ly4/)
 (the same proportion at any scale), whose colour order is pattern [WBWBRBKWKYBYGY](/stripes/wbwbrbkwkybygy/).
@@ -14,7 +16,7 @@ Part of the [Redgate Dress](/tartans/redgate-dress/) tartan — the named design
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10779
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10779](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10779)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w7db4w2db7r2db7k6w1k6dy5db3dy3g13dy4~x2/"><circle cx="33.0" cy="150.1" r="4" fill="#3465a4"><title>Redgate (Connecticut) Dress</title></circle></a><a href="/variants/s14/w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="14.0" cy="158.1" r="4" fill="#3465a4"><title>MacKenzie Dress</title></circle></a><a href="/variants/s13/lb21dy10lb18dr6lb18k20w2k20dg12dr6dg12dy8dg2/"><circle cx="57.8" cy="159.6" r="4" fill="#3465a4"><title>Redgate (Name)</title></circle></a><a href="/variants/s15/k6g10w10k2w23db10w2k6y2k8g10r12g4r8w4/"><circle cx="39.6" cy="136.7" r="4" fill="#3465a4"><title>Stuart/Stewart variant</title></circle></a><a href="/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/"><circle cx="75.7" cy="151.9" r="4" fill="#3465a4"><title>Murray of Atholl Dress</title></circle></a><a href="/variants/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7y2~x4/"><circle cx="47.5" cy="149.1" r="4" fill="#3465a4"><title>MacLellan/McLellan Dress (Personal)</title></circle></a><a href="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/"><circle cx="39.2" cy="124.0" r="4" fill="#3465a4"><title>Bowling</title></circle></a><a href="/variants/s11/k4n10k4g8k12r5g16t16r5t6w2~x2~t2503227/"><circle cx="25.6" cy="180.7" r="4" fill="#3465a4"><title>Manderson Family Tartan</title></circle></a><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><circle cx="51.9" cy="156.1" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/variants/s13/db4k4db10k10g13y3g13k10w4db4w16db2w3~x2/"><circle cx="28.2" cy="180.0" r="4" fill="#3465a4"><title>Gordon Dress</title></circle></a><circle cx="27.1" cy="150.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w7db4w2db7r2db7k6w1k6dy5db3dy3g13dy4~x2/"><circle cx="33.0" cy="150.5" r="4" fill="#3465a4"><title>Redgate (Connecticut) Dress</title></circle></a><a href="/variants/s14/w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="14.0" cy="158.5" r="4" fill="#3465a4"><title>MacKenzie Dress</title></circle></a><a href="/variants/s13/lb21dy10lb18dr6lb18k20w2k20dg12dr6dg12dy8dg2/"><circle cx="57.8" cy="160.0" r="4" fill="#3465a4"><title>Redgate (Name)</title></circle></a><a href="/variants/s15/k6g10w10k2w23db10w2k6y2k8g10r12g4r8w4/"><circle cx="39.6" cy="137.1" r="4" fill="#3465a4"><title>Stuart/Stewart variant</title></circle></a><a href="/variants/s12/w5db1w16db4w4k6g10dr2g10k6db10dr2~x2/"><circle cx="75.7" cy="152.3" r="4" fill="#3465a4"><title>Murray of Atholl Dress</title></circle></a><a href="/variants/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7y2~x4/"><circle cx="47.5" cy="149.5" r="4" fill="#3465a4"><title>MacLellan/McLellan Dress (Personal)</title></circle></a><a href="/variants/s13/w2y3k2y6g8k2w2k2g2k6ly3db14w1~x2~y2405105-ly3307090/"><circle cx="39.1" cy="124.3" r="4" fill="#3465a4"><title>Bowling</title></circle></a><a href="/variants/s11/k4n10k4g8k12r5g16t16r5t6w2~x2~t2503227/"><circle cx="25.6" cy="181.2" r="4" fill="#3465a4"><title>Manderson Family Tartan</title></circle></a><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><circle cx="51.9" cy="156.6" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/variants/s13/db4k4db10k10g13y3g13k10w4db4w16db2w3~x2/"><circle cx="28.3" cy="180.5" r="4" fill="#3465a4"><title>Gordon Dress</title></circle></a><circle cx="27.1" cy="150.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/w7db4w2db7r2db7k6w1k6ly5db3ly3g13ly4~x2/

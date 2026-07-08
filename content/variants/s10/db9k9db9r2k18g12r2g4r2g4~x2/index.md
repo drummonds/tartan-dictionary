@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Newlands"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db9k9db9r2k18g12r2g4r2g4/)
 (the same proportion at any scale), whose colour order is pattern [BKBRKGRGRG](/stripes/bkbrkgrgrg/).
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/"><circle cx="136.5" cy="180.2" r="4" fill="#3465a4"><title>Newlands of Lauriston</title></circle></a><a href="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/"><circle cx="127.3" cy="182.1" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s10/k3db17k20g18w4g18k20db18k2db2~x2/"><circle cx="135.0" cy="196.4" r="4" fill="#3465a4"><title>Argyll Campbell</title></circle></a><a href="/variants/s9/r9db11k3db3k3db3k20g20k3~x2/"><circle cx="133.0" cy="191.2" r="4" fill="#3465a4"><title>Urquhart - 1810 ((Clan)</title></circle></a><a href="/variants/s6/g19y2g4k13dp12k3~x2~dp1607327/"><circle cx="130.5" cy="189.3" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/variants/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/"><circle cx="141.2" cy="176.1" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s9/db12r2db4r4k15db4g4db2g12~x2/"><circle cx="132.5" cy="200.8" r="4" fill="#3465a4"><title>Alexander Hunting (Name)</title></circle></a><a href="/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/"><circle cx="127.9" cy="189.2" r="4" fill="#3465a4"><title>Wilson's No.150</title></circle></a><a href="/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/"><circle cx="145.5" cy="195.5" r="4" fill="#3465a4"><title>Granger/Grainger (Personal)</title></circle></a><a href="/variants/s5/db10k6lb1g6k1~x2/"><circle cx="133.4" cy="202.9" r="4" fill="#3465a4"><title>Unidentified No 115</title></circle></a><circle cx="133.5" cy="188.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/"><circle cx="136.5" cy="180.7" r="4" fill="#3465a4"><title>Newlands of Lauriston</title></circle></a><a href="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/"><circle cx="127.3" cy="182.5" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s10/k3db17k20g18w4g18k20db18k2db2~x2/"><circle cx="135.0" cy="196.9" r="4" fill="#3465a4"><title>Argyll Campbell</title></circle></a><a href="/variants/s9/r9db11k3db3k3db3k20g20k3~x2/"><circle cx="133.0" cy="191.7" r="4" fill="#3465a4"><title>Urquhart - 1810 ((Clan)</title></circle></a><a href="/variants/s6/g19y2g4k13dp12k3~x2~dp1607327/"><circle cx="130.5" cy="189.8" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/variants/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/"><circle cx="141.2" cy="176.5" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s9/db12r2db4r4k15db4g4db2g12~x2/"><circle cx="132.5" cy="201.3" r="4" fill="#3465a4"><title>Alexander Hunting (Name)</title></circle></a><a href="/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/"><circle cx="127.9" cy="189.7" r="4" fill="#3465a4"><title>Wilson's No.150</title></circle></a><a href="/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/"><circle cx="145.5" cy="196.0" r="4" fill="#3465a4"><title>Granger/Grainger (Personal)</title></circle></a><a href="/variants/s5/db10k6lb1g6k1~x2/"><circle cx="133.5" cy="203.5" r="4" fill="#3465a4"><title>Unidentified No 115</title></circle></a><circle cx="133.5" cy="189.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/

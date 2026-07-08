@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Chrysanthemum (Japanese Four Seasons)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w5dr1r20dr4w2dr4w2dr24o2dr1o4dr4/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBWBWBRBW](/stripes/brbrbwbwbrbw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5901
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5901](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5901)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r4dy4r1dy2r24w2db4w2r4db2dy18db2dy1w4~x2/"><circle cx="267.7" cy="107.7" r="4" fill="#3465a4"><title>San Francisco</title></circle></a><a href="/variants/s11/dp4g8db6dp8r6g2r2g2r24g1r3~x2/"><circle cx="324.7" cy="137.7" r="4" fill="#3465a4"><title>MacDougall</title></circle></a><a href="/variants/s11/dr4g8db6dr8r6g2r2g2r24g1r3~x2/"><circle cx="330.6" cy="140.0" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/variants/s11/dr4g8db6dr8r6g2r2g2r24g1r3/"><circle cx="330.6" cy="140.0" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/variants/s13/dy4r2dy2r2dy1r19dy3r2db11r3dy2r3lb2~x2/"><circle cx="337.1" cy="130.4" r="4" fill="#3465a4"><title>Châine des Rôtisseurs, (Grande Bretagne)</title></circle></a><a href="/variants/s13/r4w1db1r32w2r2db12r2g16r4w1r4db2/"><circle cx="355.1" cy="95.0" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2~x2/"><circle cx="364.3" cy="97.9" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2/"><circle cx="364.3" cy="97.9" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s11/dg4g8db6dg8r6g2r2g2r24g1r3/"><circle cx="319.0" cy="139.4" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="375.5" cy="124.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><circle cx="312.5" cy="117.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r4dy4r1dy2r24w2db4w2r4db2dy18db2dy1w4~x2/"><circle cx="267.7" cy="107.9" r="4" fill="#3465a4"><title>San Francisco</title></circle></a><a href="/variants/s11/dp4g8db6dp8r6g2r2g2r24g1r3~x2/"><circle cx="324.7" cy="138.0" r="4" fill="#3465a4"><title>MacDougall</title></circle></a><a href="/variants/s11/dr4g8db6dr8r6g2r2g2r24g1r3~x2/"><circle cx="330.6" cy="140.2" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/variants/s11/dr4g8db6dr8r6g2r2g2r24g1r3/"><circle cx="330.6" cy="140.2" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/variants/s13/dy4r2dy2r2dy1r19dy3r2db11r3dy2r3lb2~x2/"><circle cx="337.1" cy="130.7" r="4" fill="#3465a4"><title>Châine des Rôtisseurs, (Grande Bretagne)</title></circle></a><a href="/variants/s13/r4w1db1r32w2r2db12r2g16r4w1r4db2/"><circle cx="355.0" cy="95.2" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2~x2/"><circle cx="364.2" cy="98.1" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2/"><circle cx="364.2" cy="98.1" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s11/dg4g8db6dg8r6g2r2g2r24g1r3/"><circle cx="319.0" cy="139.7" r="4" fill="#3465a4"><title>MacDougall VS</title></circle></a><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="375.5" cy="124.9" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><circle cx="312.5" cy="118.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/w5dr1r20dr4w2dr4w2dr24o2dr1o4dr4~x2/

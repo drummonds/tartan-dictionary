@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Loch Freuchie"
   url: "/tartans/loch-freuchie/"
+- name: "Loch Freuchie District Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3db3k2db13k27g20r2g3lb3/)
 (the same proportion at any scale), whose colour order is pattern [RBKBKKGRGW](/stripes/rbkbkkgrgw/).
@@ -14,7 +16,7 @@ Part of the [Loch Freuchie](/tartans/loch-freuchie/) tartan — the named design
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10725
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10725](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10725)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r3db3k2db13y2k25g20r2g3lb3~x2/"><circle cx="115.3" cy="121.4" r="4" fill="#3465a4"><title>Loch Freuchie</title></circle></a><a href="/variants/s10/r3db3k2db18ly2k25g20r2g3lb3~x2/"><circle cx="106.6" cy="122.5" r="4" fill="#3465a4"><title>Loch Freuchie (District)</title></circle></a><a href="/variants/s9/o4k7o2db25k19w2g13k2y3~x2/"><circle cx="117.8" cy="133.6" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/variants/s11/r3k2g18k18db3k3db3k3db18y2w3~x2/"><circle cx="96.4" cy="135.5" r="4" fill="#3465a4"><title>Tindal</title></circle></a><a href="/variants/s11/r3k2g18k18db3k3db3k3db18dy2w3~x2/"><circle cx="97.6" cy="135.8" r="4" fill="#3465a4"><title>Tindal</title></circle></a><a href="/variants/s9/r2y2t9k10dg12k1y1k1dy1~x4/"><circle cx="111.1" cy="139.1" r="4" fill="#3465a4"><title>Trades House</title></circle></a><a href="/variants/s9/db4k2db16k12w1g13r2g2y4~x2/"><circle cx="125.0" cy="136.6" r="4" fill="#3465a4"><title>Cusack</title></circle></a><a href="/variants/s9/y3k2r3db20k24g20r3k2lb3~x2/"><circle cx="105.8" cy="130.0" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/variants/s9/ly3k2r3db20k24g20r3k2lb3~x2/"><circle cx="102.0" cy="128.8" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/"><circle cx="117.0" cy="138.0" r="4" fill="#3465a4"><title>Big Rory (Corporate)</title></circle></a><circle cx="108.9" cy="117.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r3db3k2db13y2k25g20r2g3lb3~x2/"><circle cx="115.2" cy="121.6" r="4" fill="#3465a4"><title>Loch Freuchie</title></circle></a><a href="/variants/s10/r3db3k2db18ly2k25g20r2g3lb3~x2/"><circle cx="106.5" cy="122.8" r="4" fill="#3465a4"><title>Loch Freuchie (District)</title></circle></a><a href="/variants/s9/o4k7o2db25k19w2g13k2y3~x2/"><circle cx="117.7" cy="133.9" r="4" fill="#3465a4"><title>Leung (Personal)</title></circle></a><a href="/variants/s11/r3k2g18k18db3k3db3k3db18y2w3~x2/"><circle cx="96.3" cy="135.8" r="4" fill="#3465a4"><title>Tindal</title></circle></a><a href="/variants/s11/r3k2g18k18db3k3db3k3db18dy2w3~x2/"><circle cx="97.5" cy="136.1" r="4" fill="#3465a4"><title>Tindal</title></circle></a><a href="/variants/s9/r2y2t9k10dg12k1y1k1dy1~x4/"><circle cx="111.1" cy="139.4" r="4" fill="#3465a4"><title>Trades House</title></circle></a><a href="/variants/s9/db4k2db16k12w1g13r2g2y4~x2/"><circle cx="124.9" cy="136.9" r="4" fill="#3465a4"><title>Cusack</title></circle></a><a href="/variants/s9/y3k2r3db20k24g20r3k2lb3~x2/"><circle cx="105.7" cy="130.2" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/variants/s9/ly3k2r3db20k24g20r3k2lb3~x2/"><circle cx="101.9" cy="129.1" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/variants/s10/db10w5db48k35g5k5g35r5g5dp5/"><circle cx="117.0" cy="138.2" r="4" fill="#3465a4"><title>Big Rory (Corporate)</title></circle></a><circle cx="108.8" cy="117.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r3db3k2db13k27g20r2g3lb3~x2/

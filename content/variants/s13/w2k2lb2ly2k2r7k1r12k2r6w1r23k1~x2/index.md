@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Wilding, Michael John"
   url: "/tartans/wilding-michael-john/"
+- name: "Wilding, Michael John (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2k2lb2ly2k2r7k1r12k2r6w1r23k1/)
 (the same proportion at any scale), whose colour order is pattern [KRWRKRKRKYWKW](/stripes/krwrkrkrkywkw/).
@@ -14,7 +16,7 @@ Part of the [Wilding, Michael John](/tartans/wilding-michael-john/) tartan — t
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11274
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11274](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11274)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r40k1r3k1w3k4w3k1r3k1r40k4~x2/"><circle cx="539.8" cy="57.6" r="4" fill="#3465a4"><title>Salt Lake County</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="537.9" cy="60.6" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/"><circle cx="319.0" cy="105.6" r="4" fill="#3465a4"><title>Hoben (Personal)</title></circle></a><a href="/variants/s14/r11ly3r11ly3k11lr2r51lr2k11ly3r11ly3r11g3~x2/"><circle cx="374.9" cy="69.5" r="4" fill="#3465a4"><title>Hackston (Green stripe) or Halkerston</title></circle></a><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="535.2" cy="64.7" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken #2</title></circle></a><a href="/variants/s12/r46w2r2w3r2k3db7k2dy2r2g8w3~x2/"><circle cx="318.6" cy="41.9" r="4" fill="#3465a4"><title>Lions' Pride</title></circle></a><a href="/variants/s12/r70w2r1w4r1k2db9k1y2r1g9w3~x2/"><circle cx="411.2" cy="14.0" r="4" fill="#3465a4"><title>Brittish Lions Corporate Tartan</title></circle></a><a href="/variants/s8/r56w2k12y3r12y3r12g3~x2/"><circle cx="462.6" cy="82.2" r="4" fill="#3465a4"><title>Hackston, or Halkerston</title></circle></a><a href="/variants/s8/r51lr2k11ly3r11ly3r11g3~x2/"><circle cx="454.8" cy="90.4" r="4" fill="#3465a4"><title>Hackston (Green stripe) (Portrait)</title></circle></a><a href="/variants/s11/r44db3k6ly2k2ly2k10r5k2r3w2~x2/"><circle cx="334.3" cy="57.6" r="4" fill="#3465a4"><title>Heritage Plaid</title></circle></a><circle cx="412.3" cy="66.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r40k1r3k1w3k4w3k1r3k1r40k4~x2/"><circle cx="539.7" cy="57.9" r="4" fill="#3465a4"><title>Salt Lake County</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="537.8" cy="60.8" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/"><circle cx="318.9" cy="105.9" r="4" fill="#3465a4"><title>Hoben (Personal)</title></circle></a><a href="/variants/s14/r11ly3r11ly3k11lr2r51lr2k11ly3r11ly3r11g3~x2/"><circle cx="374.8" cy="69.7" r="4" fill="#3465a4"><title>Hackston (Green stripe) or Halkerston</title></circle></a><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="535.1" cy="64.9" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken #2</title></circle></a><a href="/variants/s12/r46w2r2w3r2k3db7k2dy2r2g8w3~x2/"><circle cx="318.5" cy="42.0" r="4" fill="#3465a4"><title>Lions' Pride</title></circle></a><a href="/variants/s12/r70w2r1w4r1k2db9k1y2r1g9w3~x2/"><circle cx="411.0" cy="14.0" r="4" fill="#3465a4"><title>Brittish Lions Corporate Tartan</title></circle></a><a href="/variants/s8/r56w2k12y3r12y3r12g3~x2/"><circle cx="462.6" cy="82.5" r="4" fill="#3465a4"><title>Hackston, or Halkerston</title></circle></a><a href="/variants/s8/r51lr2k11ly3r11ly3r11g3~x2/"><circle cx="454.8" cy="90.7" r="4" fill="#3465a4"><title>Hackston (Green stripe) (Portrait)</title></circle></a><a href="/variants/s11/r44db3k6ly2k2ly2k10r5k2r3w2~x2/"><circle cx="334.2" cy="57.8" r="4" fill="#3465a4"><title>Heritage Plaid</title></circle></a><circle cx="412.2" cy="67.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/w2k2lb2ly2k2r7k1r12k2r6w1r23k1~x2/

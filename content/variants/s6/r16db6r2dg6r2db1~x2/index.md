@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/mackintosh/"
 - name: "MacKintosh"
   url: "/tartans/mackintosh/"
+- name: "MacKintosh Plaid"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r16db6r2dg6r2db1/)
 (the same proportion at any scale), whose colour order is pattern [BRGRBR](/stripes/brgrbr/).
@@ -16,7 +18,7 @@ Part of the [MacKintosh](/tartans/mackintosh/) tartan — the named design group
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2575
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2575](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2575)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -64,8 +66,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r16db6r2g6r2db1~x2/"><circle cx="381.3" cy="192.9" r="4" fill="#3465a4"><title>MacKintosh, Plaid</title></circle></a><a href="/variants/s6/r68db18r9g34r9db3~x2/"><circle cx="400.6" cy="180.7" r="4" fill="#3465a4"><title>MacKintosh #2</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1/"><circle cx="407.1" cy="178.3" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1~x2/"><circle cx="407.1" cy="178.3" r="4" fill="#3465a4"><title>MacKintosh 1</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1/"><circle cx="409.6" cy="179.3" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1~x2/"><circle cx="409.6" cy="179.3" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r70db20r10g40r10db3/"><circle cx="385.5" cy="183.5" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/db4r3db3r22dg8r2~x2/"><circle cx="405.3" cy="200.5" r="4" fill="#3465a4"><title>Auld Reekie</title></circle></a><a href="/variants/s6/db2r25g10r2db10r2~x2/"><circle cx="351.4" cy="199.8" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><a href="/variants/s6/db4r3db3r22g8r2~x2~db1406275-r2109032/"><circle cx="420.0" cy="207.9" r="4" fill="#3465a4"><title>Auld Reekie</title></circle></a><circle cx="386.7" cy="192.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r16db6r2g6r2db1~x2/"><circle cx="381.4" cy="193.4" r="4" fill="#3465a4"><title>MacKintosh, Plaid</title></circle></a><a href="/variants/s6/r68db18r9g34r9db3~x2/"><circle cx="400.7" cy="181.2" r="4" fill="#3465a4"><title>MacKintosh #2</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1/"><circle cx="407.2" cy="178.8" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1~x2/"><circle cx="407.2" cy="178.8" r="4" fill="#3465a4"><title>MacKintosh 1</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1/"><circle cx="409.7" cy="179.8" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1~x2/"><circle cx="409.7" cy="179.8" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r70db20r10g40r10db3/"><circle cx="385.6" cy="184.0" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/db4r3db3r22dg8r2~x2/"><circle cx="405.4" cy="201.0" r="4" fill="#3465a4"><title>Auld Reekie</title></circle></a><a href="/variants/s6/db2r25g10r2db10r2~x2/"><circle cx="351.5" cy="200.4" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><a href="/variants/s6/db4r3db3r22g8r2~x2~db1406275-r2109032/"><circle cx="420.1" cy="208.4" r="4" fill="#3465a4"><title>Auld Reekie</title></circle></a><circle cx="386.7" cy="193.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r16db6r2dg6r2db1~x2/

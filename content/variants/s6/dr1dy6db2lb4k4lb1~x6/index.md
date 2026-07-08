@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Thompson's Fancy"
   url: "/tartans/thompson-s-fancy/"
+- name: "Thompson's Fancy (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr1dy6db2lb4k4lb1/)
 (the same proportion at any scale), whose colour order is pattern [BGBWKW](/stripes/bgbwkw/).
@@ -14,7 +16,7 @@ Part of the [Thompson's Fancy](/tartans/thompson-s-fancy/) tartan — the named 
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3595
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3595](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3595)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2dy8db2lb4k4lb1~x6/"><circle cx="121.0" cy="208.4" r="4" fill="#3465a4"><title>Thompson's Fancy Personal Tartan</title></circle></a><a href="/variants/s6/r2o8db2lb4k4lb1~x6/"><circle cx="122.1" cy="207.0" r="4" fill="#3465a4"><title>Thom(p)son's, Fancy</title></circle></a><a href="/variants/s5/dp11t2k10g10y3~x2~dp1607327-t2503227/"><circle cx="76.3" cy="241.1" r="4" fill="#3465a4"><title>Nobiliary Fraternity</title></circle></a><a href="/variants/s5/dp11lb2k10g10y2~x2/"><circle cx="84.8" cy="235.8" r="4" fill="#3465a4"><title>Wilson's, No 217</title></circle></a><a href="/variants/s7/k6lb2db12g8r5k2g3~x4/"><circle cx="70.8" cy="214.3" r="4" fill="#3465a4"><title>Cooke (Personal)</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2/"><circle cx="85.7" cy="235.7" r="4" fill="#3465a4"><title>Selkirk (Name)</title></circle></a><a href="/variants/s5/dp27db4k27g27lo4~x2/"><circle cx="98.6" cy="224.4" r="4" fill="#3465a4"><title>Selkirk (Personal)</title></circle></a><a href="/variants/s8/db4lg2db10k12dg10lr3dg2lr4~x2~lg2909145-dg1405139/"><circle cx="65.4" cy="208.7" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/variants/s7/k6b2db12g8r5k2g3~x4/"><circle cx="76.0" cy="216.1" r="4" fill="#3465a4"><title>Cooke</title></circle></a><a href="/variants/s6/db6g27db3k19dp27w3~x2/"><circle cx="114.3" cy="197.9" r="4" fill="#3465a4"><title>Gold Brothers</title></circle></a><circle cx="91.0" cy="226.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2dy8db2lb4k4lb1~x6/"><circle cx="121.1" cy="209.0" r="4" fill="#3465a4"><title>Thompson's Fancy Personal Tartan</title></circle></a><a href="/variants/s6/r2o8db2lb4k4lb1~x6/"><circle cx="122.2" cy="207.6" r="4" fill="#3465a4"><title>Thom(p)son's, Fancy</title></circle></a><a href="/variants/s5/dp11t2k10g10y3~x2~dp1607327-t2503227/"><circle cx="76.4" cy="241.8" r="4" fill="#3465a4"><title>Nobiliary Fraternity</title></circle></a><a href="/variants/s5/dp11lb2k10g10y2~x2/"><circle cx="84.9" cy="236.4" r="4" fill="#3465a4"><title>Wilson's, No 217</title></circle></a><a href="/variants/s7/k6lb2db12g8r5k2g3~x4/"><circle cx="70.8" cy="214.9" r="4" fill="#3465a4"><title>Cooke (Personal)</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2/"><circle cx="85.8" cy="236.4" r="4" fill="#3465a4"><title>Selkirk (Name)</title></circle></a><a href="/variants/s5/dp27db4k27g27lo4~x2/"><circle cx="98.7" cy="224.9" r="4" fill="#3465a4"><title>Selkirk (Personal)</title></circle></a><a href="/variants/s8/db4lg2db10k12dg10lr3dg2lr4~x2~lg2909145-dg1405139/"><circle cx="65.4" cy="209.2" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/variants/s7/k6b2db12g8r5k2g3~x4/"><circle cx="76.0" cy="216.6" r="4" fill="#3465a4"><title>Cooke</title></circle></a><a href="/variants/s6/db6g27db3k19dp27w3~x2/"><circle cx="114.3" cy="198.4" r="4" fill="#3465a4"><title>Gold Brothers</title></circle></a><circle cx="91.0" cy="227.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dr1dy6db2lb4k4lb1~x6/

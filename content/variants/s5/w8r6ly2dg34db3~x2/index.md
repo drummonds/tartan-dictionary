@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Milling-Kristensen (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w8r6ly2dg34db3/)
 (the same proportion at any scale), whose colour order is pattern [BGYRW](/stripes/bgyrw/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10314
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10314](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10314)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="356.6" cy="169.9" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s5/r2w7db30g36y2~x2/"><circle cx="259.6" cy="179.2" r="4" fill="#3465a4"><title>Centennial-King George Lodge No.171</title></circle></a><a href="/variants/s5/dt30w2k6db3r3~x4/"><circle cx="376.9" cy="151.4" r="4" fill="#3465a4"><title>Edinburgh Crystal (Corporate)</title></circle></a><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="379.9" cy="156.8" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s6/g55y4db15w3dr3w5~x2/"><circle cx="390.5" cy="164.4" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s4/db8g20w4r1~x5/"><circle cx="345.2" cy="204.1" r="4" fill="#3465a4"><title>Farooq (Personal)</title></circle></a><a href="/variants/s6/k3lb1g21k2dr3lb2~x2/"><circle cx="356.5" cy="137.8" r="4" fill="#3465a4"><title>Leach Hunting</title></circle></a><a href="/variants/s8/dy62y7g7r3w3db13w3r5~x2/"><circle cx="338.1" cy="108.6" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="371.2" cy="104.9" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s8/r5w4dbi6db2g43db2dbi4r3~x2~dbi1406275-db1204274/"><circle cx="360.6" cy="121.2" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><circle cx="340.3" cy="159.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="356.7" cy="170.3" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s5/r2w7db30g36y2~x2/"><circle cx="259.7" cy="179.6" r="4" fill="#3465a4"><title>Centennial-King George Lodge No.171</title></circle></a><a href="/variants/s5/dt30w2k6db3r3~x4/"><circle cx="376.9" cy="151.7" r="4" fill="#3465a4"><title>Edinburgh Crystal (Corporate)</title></circle></a><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="379.9" cy="157.1" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s6/g55y4db15w3dr3w5~x2/"><circle cx="390.6" cy="164.7" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s4/db8g20w4r1~x5/"><circle cx="345.3" cy="204.6" r="4" fill="#3465a4"><title>Farooq (Personal)</title></circle></a><a href="/variants/s6/k3lb1g21k2dr3lb2~x2/"><circle cx="356.5" cy="138.2" r="4" fill="#3465a4"><title>Leach Hunting</title></circle></a><a href="/variants/s8/dy62y7g7r3w3db13w3r5~x2/"><circle cx="338.1" cy="108.7" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="371.1" cy="105.1" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s8/r5w4dbi6db2g43db2dbi4r3~x2~dbi1406275-db1204274/"><circle cx="360.5" cy="121.4" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><circle cx="340.3" cy="160.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/w8r6ly2dg34db3~x2/

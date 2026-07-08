@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Moffat (1950)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r64db16r1db1r12g16r8db2r2k1/)
 (the same proportion at any scale), whose colour order is pattern [KRBRGRBRBR](/stripes/krbrgrbrbr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2974
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2974](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2974)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r40w1r1db8r1w1r6w1r1db8~x2/"><circle cx="513.1" cy="90.6" r="4" fill="#3465a4"><title>Miyuki #2</title></circle></a><a href="/variants/s6/db12k1r70k1g12k1~x2/"><circle cx="480.1" cy="80.9" r="4" fill="#3465a4"><title>Lawers Estate</title></circle></a><a href="/variants/s6/r70k1db12k1g12k1~x2/"><circle cx="480.1" cy="80.9" r="4" fill="#3465a4"><title>Lawers Estate (Corporate)</title></circle></a><a href="/variants/s9/r50db3g6db1r3db1g8k1lb3~x2/"><circle cx="458.3" cy="50.0" r="4" fill="#3465a4"><title>MacAulay of Ardincaple (Clan)</title></circle></a><a href="/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/"><circle cx="456.8" cy="85.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2~ly2503076-do1103038/"><circle cx="441.6" cy="46.1" r="4" fill="#3465a4"><title>Braemar Castle</title></circle></a><a href="/variants/s9/r96db1g24db1r10db1g12k1w4~x2/"><circle cx="475.9" cy="52.8" r="4" fill="#3465a4"><title>MacAulay (MacGregor)</title></circle></a><a href="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2/"><circle cx="431.6" cy="43.1" r="4" fill="#3465a4"><title>Braemar Castle (Fashion)</title></circle></a><a href="/variants/s10/r36k3dy3dr1dy3k3r4dy6k1dr2~x4/"><circle cx="404.3" cy="67.8" r="4" fill="#3465a4"><title>Moulin</title></circle></a><a href="/variants/s8/r48w4db4k4r12db4r1y4/"><circle cx="467.1" cy="56.7" r="4" fill="#3465a4"><title>Brodie</title></circle></a><circle cx="465.5" cy="66.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r40w1r1db8r1w1r6w1r1db8~x2/"><circle cx="513.1" cy="90.8" r="4" fill="#3465a4"><title>Miyuki #2</title></circle></a><a href="/variants/s6/db12k1r70k1g12k1~x2/"><circle cx="480.0" cy="81.1" r="4" fill="#3465a4"><title>Lawers Estate</title></circle></a><a href="/variants/s6/r70k1db12k1g12k1~x2/"><circle cx="480.0" cy="81.1" r="4" fill="#3465a4"><title>Lawers Estate (Corporate)</title></circle></a><a href="/variants/s9/r50db3g6db1r3db1g8k1lb3~x2/"><circle cx="458.2" cy="50.1" r="4" fill="#3465a4"><title>MacAulay of Ardincaple (Clan)</title></circle></a><a href="/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/"><circle cx="456.7" cy="86.1" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2~ly2503076-do1103038/"><circle cx="441.5" cy="46.2" r="4" fill="#3465a4"><title>Braemar Castle</title></circle></a><a href="/variants/s9/r96db1g24db1r10db1g12k1w4~x2/"><circle cx="475.8" cy="52.8" r="4" fill="#3465a4"><title>MacAulay (MacGregor)</title></circle></a><a href="/variants/s9/r52k5y5ly5do5k2r6k1y2~x2/"><circle cx="431.4" cy="43.2" r="4" fill="#3465a4"><title>Braemar Castle (Fashion)</title></circle></a><a href="/variants/s10/r36k3dy3dr1dy3k3r4dy6k1dr2~x4/"><circle cx="404.2" cy="67.9" r="4" fill="#3465a4"><title>Moulin</title></circle></a><a href="/variants/s8/r48w4db4k4r12db4r1y4/"><circle cx="467.0" cy="56.8" r="4" fill="#3465a4"><title>Brodie</title></circle></a><circle cx="465.4" cy="66.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r64db16r1db1r12g16r8db2r2k1~x2/

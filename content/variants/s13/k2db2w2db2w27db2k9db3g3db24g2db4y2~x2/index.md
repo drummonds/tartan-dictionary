@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Yarrow Turquoise Dress Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2db2w2db2w27db2k9db3g3db24g2db4y2/)
 (the same proportion at any scale), whose colour order is pattern [GBGBGBKBWBWBK](/stripes/gbgbgbkbwbwbk/).
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8179
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8179](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8179)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db23w2db3lb4db3w2db5k11dp2w23k3~x2/"><circle cx="153.1" cy="131.6" r="4" fill="#3465a4"><title>MacKellar Royal Blue Dress Tartan</title></circle></a><a href="/variants/s12/y3w12k3w3k3w3k7db48k7db3g14w3~x2/"><circle cx="187.1" cy="98.3" r="4" fill="#3465a4"><title>MacDowall</title></circle></a><a href="/variants/s11/dr2db6lr2db2k9lb30k9db5lr4db2dr2~x2/"><circle cx="157.6" cy="113.2" r="4" fill="#3465a4"><title>Rangers Dress (Sports)</title></circle></a><a href="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/"><circle cx="153.7" cy="111.2" r="4" fill="#3465a4"><title>Ellis (Welsh Name)</title></circle></a><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/"><circle cx="135.4" cy="127.6" r="4" fill="#3465a4"><title>Sutherland, Dress</title></circle></a><a href="/variants/s7/db4r2db31k10g4w21g2~x2/"><circle cx="166.3" cy="126.2" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/"><circle cx="132.2" cy="122.9" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/"><circle cx="210.6" cy="111.1" r="4" fill="#3465a4"><title>Tiger of Sweden</title></circle></a><a href="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/"><circle cx="167.2" cy="106.5" r="4" fill="#3465a4"><title>Robert Wiseman Dairies, Golden Jubilee</title></circle></a><a href="/variants/s10/db8r3db34b3k9w31r5w3r3w8~x2/"><circle cx="150.8" cy="136.4" r="4" fill="#3465a4"><title>Stewart of Appin, dress</title></circle></a><circle cx="172.5" cy="102.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db23w2db3lb4db3w2db5k11dp2w23k3~x2/"><circle cx="153.0" cy="132.0" r="4" fill="#3465a4"><title>MacKellar Royal Blue Dress Tartan</title></circle></a><a href="/variants/s12/y3w12k3w3k3w3k7db48k7db3g14w3~x2/"><circle cx="187.0" cy="98.5" r="4" fill="#3465a4"><title>MacDowall</title></circle></a><a href="/variants/s11/dr2db6lr2db2k9lb30k9db5lr4db2dr2~x2/"><circle cx="157.5" cy="113.5" r="4" fill="#3465a4"><title>Rangers Dress (Sports)</title></circle></a><a href="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/"><circle cx="153.6" cy="111.5" r="4" fill="#3465a4"><title>Ellis (Welsh Name)</title></circle></a><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/"><circle cx="135.4" cy="128.0" r="4" fill="#3465a4"><title>Sutherland, Dress</title></circle></a><a href="/variants/s7/db4r2db31k10g4w21g2~x2/"><circle cx="166.3" cy="126.5" r="4" fill="#3465a4"><title>Sinclair Dress (Dance)</title></circle></a><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/"><circle cx="132.2" cy="123.3" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/variants/s14/db3g1k1db2lb16db2k4g1k1db16lb2db2k1g3~x2/"><circle cx="210.5" cy="111.4" r="4" fill="#3465a4"><title>Tiger of Sweden</title></circle></a><a href="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/"><circle cx="167.1" cy="106.8" r="4" fill="#3465a4"><title>Robert Wiseman Dairies, Golden Jubilee</title></circle></a><a href="/variants/s10/db8r3db34b3k9w31r5w3r3w8~x2/"><circle cx="150.8" cy="136.8" r="4" fill="#3465a4"><title>Stewart of Appin, dress</title></circle></a><circle cx="172.4" cy="103.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/k2db2w2db2w27db2k9db3g3db24g2db4y2~x2/

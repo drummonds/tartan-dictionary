@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "National Autistic Society Scotland"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r24dp16w3/)
 (the same proportion at any scale), whose colour order is pattern [RBW](/stripes/rbw/).
 
 Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10685
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10685](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10685)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r125k26lb20lo16/"><circle cx="341.6" cy="188.9" r="4" fill="#3465a4"><title>McPeek (Fashion)</title></circle></a><a href="/variants/s3/r30k10y3~x4/"><circle cx="387.1" cy="214.9" r="4" fill="#3465a4"><title>Masai Shuka 20 (Artefact)</title></circle></a><a href="/variants/s3/w9r20db2~x2/"><circle cx="382.8" cy="247.6" r="4" fill="#3465a4"><title>Masai Shuka 28 (Artefact)</title></circle></a><a href="/variants/s4/lb15w2r20w3~x4/"><circle cx="340.2" cy="253.4" r="4" fill="#3465a4"><title>Masai Shuka 24 (Artefact)</title></circle></a><a href="/variants/s3/r10dg4dy1~x8/"><circle cx="354.5" cy="255.1" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s3/r10dg4y1~x8/"><circle cx="354.2" cy="255.0" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s4/y1dy5r5w1~x4/"><circle cx="228.6" cy="265.0" r="4" fill="#3465a4"><title>Manx Mannin Plaid</title></circle></a><a href="/variants/s5/r30g12k5w8r30/"><circle cx="339.5" cy="224.4" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s4/k13dr40r13n8~x2/"><circle cx="270.5" cy="254.6" r="4" fill="#3465a4"><title>Maryville College</title></circle></a><a href="/variants/s4/r80lb40k5lo6/"><circle cx="372.8" cy="183.0" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><circle cx="350.4" cy="274.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r125k26lb20lo16/"><circle cx="341.8" cy="189.5" r="4" fill="#3465a4"><title>McPeek (Fashion)</title></circle></a><a href="/variants/s3/r30k10y3~x4/"><circle cx="387.2" cy="215.7" r="4" fill="#3465a4"><title>Masai Shuka 20 (Artefact)</title></circle></a><a href="/variants/s3/w9r20db2~x2/"><circle cx="383.0" cy="248.5" r="4" fill="#3465a4"><title>Masai Shuka 28 (Artefact)</title></circle></a><a href="/variants/s4/lb15w2r20w3~x4/"><circle cx="340.4" cy="254.1" r="4" fill="#3465a4"><title>Masai Shuka 24 (Artefact)</title></circle></a><a href="/variants/s3/r10dg4dy1~x8/"><circle cx="354.7" cy="255.7" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s3/r10dg4y1~x8/"><circle cx="354.4" cy="255.7" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s4/y1dy5r5w1~x4/"><circle cx="228.8" cy="265.8" r="4" fill="#3465a4"><title>Manx Mannin Plaid</title></circle></a><a href="/variants/s5/r30g12k5w8r30/"><circle cx="339.7" cy="225.2" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s4/k13dr40r13n8~x2/"><circle cx="270.7" cy="255.2" r="4" fill="#3465a4"><title>Maryville College</title></circle></a><a href="/variants/s4/r80lb40k5lo6/"><circle cx="372.9" cy="183.5" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><circle cx="350.6" cy="275.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/r24dp16w3~x4/

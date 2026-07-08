@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Loughborough Sport"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k15n3w10n7dp40w3dp6/)
 (the same proportion at any scale), whose colour order is pattern [BWBBWBK](/stripes/bwbbwbk/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11089
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11089](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11089)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r10db4r6db30k10db5w2~x2/"><circle cx="296.8" cy="162.0" r="4" fill="#3465a4"><title>Heritage of Wales (Fashion)</title></circle></a><a href="/variants/s6/k4db32r30db2w5k2~x2/"><circle cx="242.3" cy="147.6" r="4" fill="#3465a4"><title>Masai Shuka 17 (Artefact)</title></circle></a><a href="/variants/s6/dp24k4lb10db3dp3w2~x2/"><circle cx="274.7" cy="153.2" r="4" fill="#3465a4"><title>Cramer (Personal)</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="226.7" cy="150.0" r="4" fill="#3465a4"><title>Americana - 1978 #2 (Fashion)</title></circle></a><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="254.9" cy="133.6" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="197.8" cy="151.8" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/"><circle cx="204.2" cy="173.8" r="4" fill="#3465a4"><title>Yusra Personal Tartan</title></circle></a><a href="/variants/s6/k1r7k1r7db16g1~x4/"><circle cx="282.1" cy="158.1" r="4" fill="#3465a4"><title>Robinson Dress (Pendleton) #1</title></circle></a><a href="/variants/s6/k1r7k1r7db16g1~x2/"><circle cx="282.1" cy="158.1" r="4" fill="#3465a4"><title>Robinson, dress</title></circle></a><a href="/variants/s8/k2w3dp5y4w3y4dp25y2~x2/"><circle cx="322.0" cy="137.9" r="4" fill="#3465a4"><title>Western Illinois University</title></circle></a><circle cx="257.4" cy="155.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r10db4r6db30k10db5w2~x2/"><circle cx="296.8" cy="162.4" r="4" fill="#3465a4"><title>Heritage of Wales (Fashion)</title></circle></a><a href="/variants/s6/k4db32r30db2w5k2~x2/"><circle cx="242.3" cy="148.0" r="4" fill="#3465a4"><title>Masai Shuka 17 (Artefact)</title></circle></a><a href="/variants/s6/dp24k4lb10db3dp3w2~x2/"><circle cx="274.7" cy="153.6" r="4" fill="#3465a4"><title>Cramer (Personal)</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="226.6" cy="150.4" r="4" fill="#3465a4"><title>Americana - 1978 #2 (Fashion)</title></circle></a><a href="/variants/s8/r30db5r3db33g8k3db8w2~x2/"><circle cx="254.9" cy="133.9" r="4" fill="#3465a4"><title>Saint Margaret of Scotland Youth Group</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="197.8" cy="152.3" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/"><circle cx="204.3" cy="174.3" r="4" fill="#3465a4"><title>Yusra Personal Tartan</title></circle></a><a href="/variants/s6/k1r7k1r7db16g1~x4/"><circle cx="282.1" cy="158.5" r="4" fill="#3465a4"><title>Robinson Dress (Pendleton) #1</title></circle></a><a href="/variants/s6/k1r7k1r7db16g1~x2/"><circle cx="282.1" cy="158.5" r="4" fill="#3465a4"><title>Robinson, dress</title></circle></a><a href="/variants/s8/k2w3dp5y4w3y4dp25y2~x2/"><circle cx="321.9" cy="138.3" r="4" fill="#3465a4"><title>Western Illinois University</title></circle></a><circle cx="257.4" cy="155.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k15n3w10n7dp40w3dp6~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Akins Red Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y6r13k13w5k13r13g5r4g6/)
 (the same proportion at any scale), whose colour order is pattern [GRGRKWKRG](/stripes/grgrkwkrg/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=32
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=32](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=32)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3lb4k11r11g11do3r3~x4/"><circle cx="72.1" cy="227.5" r="4" fill="#3465a4"><title>Stewart /Stuart- Fragment Cf 1452 &amp; 1445</title></circle></a><a href="/variants/s8/k3y2k3dr8k8r8dg2r3~x4/"><circle cx="97.9" cy="221.0" r="4" fill="#3465a4"><title>Davis</title></circle></a><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><circle cx="111.4" cy="281.1" r="4" fill="#3465a4"><title>MacDuff #3</title></circle></a><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/"><circle cx="95.7" cy="228.8" r="4" fill="#3465a4"><title>Holden Monaro Corporate Tartan</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="93.9" cy="222.7" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/variants/s9/r8o33y33k33r8db8y33db8r8/"><circle cx="101.1" cy="215.9" r="4" fill="#3465a4"><title>Jardine, of Castlemilk</title></circle></a><a href="/variants/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/"><circle cx="43.3" cy="240.4" r="4" fill="#3465a4"><title>MacInroy Clan Tartan</title></circle></a><a href="/variants/s9/r8dy33y33k33r8db8y33db8r8/"><circle cx="100.0" cy="216.0" r="4" fill="#3465a4"><title>Jardine of Castlemilk</title></circle></a><a href="/variants/s9/y8g16k6g6k6g6k16r21k5/"><circle cx="88.8" cy="230.6" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/"><circle cx="91.7" cy="207.6" r="4" fill="#3465a4"><title>Cawte of Middlebanknock (Personal)</title></circle></a><circle cx="56.4" cy="234.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3lb4k11r11g11do3r3~x4/"><circle cx="72.2" cy="228.2" r="4" fill="#3465a4"><title>Stewart /Stuart- Fragment Cf 1452 &amp; 1445</title></circle></a><a href="/variants/s8/k3y2k3dr8k8r8dg2r3~x4/"><circle cx="98.0" cy="221.6" r="4" fill="#3465a4"><title>Davis</title></circle></a><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><circle cx="111.6" cy="282.0" r="4" fill="#3465a4"><title>MacDuff #3</title></circle></a><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/"><circle cx="95.8" cy="229.6" r="4" fill="#3465a4"><title>Holden Monaro Corporate Tartan</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="94.0" cy="223.4" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/variants/s9/r8o33y33k33r8db8y33db8r8/"><circle cx="101.2" cy="216.5" r="4" fill="#3465a4"><title>Jardine, of Castlemilk</title></circle></a><a href="/variants/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/"><circle cx="43.4" cy="241.1" r="4" fill="#3465a4"><title>MacInroy Clan Tartan</title></circle></a><a href="/variants/s9/r8dy33y33k33r8db8y33db8r8/"><circle cx="100.1" cy="216.6" r="4" fill="#3465a4"><title>Jardine of Castlemilk</title></circle></a><a href="/variants/s9/y8g16k6g6k6g6k16r21k5/"><circle cx="88.9" cy="231.3" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/"><circle cx="91.8" cy="208.2" r="4" fill="#3465a4"><title>Cawte of Middlebanknock (Personal)</title></circle></a><circle cx="56.5" cy="235.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/y6r13k13w5k13r13g5r4g6~x2/

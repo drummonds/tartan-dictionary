@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Louisburg"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n22y10w3db8/)
 (the same proportion at any scale), whose colour order is pattern [BGWB](/stripes/bgwb/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2229
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2229](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2229)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="297.7" cy="300.5" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><a href="/variants/s6/n2w2y7lb14n2w2~x2/"><circle cx="321.4" cy="257.2" r="4" fill="#3465a4"><title>Cairngorm Trade Tartan</title></circle></a><a href="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/"><circle cx="296.6" cy="291.2" r="4" fill="#3465a4"><title>Porcelanosa</title></circle></a><a href="/variants/s5/t10w3t12ly14r4~x2/"><circle cx="259.3" cy="298.4" r="4" fill="#3465a4"><title>MacLeod of Argentina</title></circle></a><a href="/variants/s6/b2w2y7dg14b2w2~x2/"><circle cx="252.8" cy="232.4" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="305.2" cy="251.0" r="4" fill="#3465a4"><title>Fong (Personal)</title></circle></a><a href="/variants/s4/w2g13b13w2~x6/"><circle cx="300.7" cy="299.1" r="4" fill="#3465a4"><title>Dunoon</title></circle></a><a href="/variants/s6/g8w3n6db11n30db5~x2/"><circle cx="374.5" cy="242.8" r="4" fill="#3465a4"><title>Craig Devlin (Dundee) (Personal)</title></circle></a><a href="/variants/s6/r15dt8g25dt72n98lb15~dt0900000/"><circle cx="254.5" cy="204.0" r="4" fill="#3465a4"><title>Afternoon Tea / Black Tea</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.2" cy="254.7" r="4" fill="#3465a4"><title>Corey (Name)</title></circle></a><circle cx="325.2" cy="291.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="297.9" cy="301.2" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><a href="/variants/s6/n2w2y7lb14n2w2~x2/"><circle cx="321.5" cy="257.7" r="4" fill="#3465a4"><title>Cairngorm Trade Tartan</title></circle></a><a href="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/"><circle cx="296.9" cy="291.8" r="4" fill="#3465a4"><title>Porcelanosa</title></circle></a><a href="/variants/s5/t10w3t12ly14r4~x2/"><circle cx="259.6" cy="299.2" r="4" fill="#3465a4"><title>MacLeod of Argentina</title></circle></a><a href="/variants/s6/b2w2y7dg14b2w2~x2/"><circle cx="253.0" cy="232.9" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="305.3" cy="251.5" r="4" fill="#3465a4"><title>Fong (Personal)</title></circle></a><a href="/variants/s4/w2g13b13w2~x6/"><circle cx="301.0" cy="299.9" r="4" fill="#3465a4"><title>Dunoon</title></circle></a><a href="/variants/s6/g8w3n6db11n30db5~x2/"><circle cx="374.6" cy="243.2" r="4" fill="#3465a4"><title>Craig Devlin (Dundee) (Personal)</title></circle></a><a href="/variants/s6/r15dt8g25dt72n98lb15~dt0900000/"><circle cx="254.5" cy="204.3" r="4" fill="#3465a4"><title>Afternoon Tea / Black Tea</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.3" cy="255.1" r="4" fill="#3465a4"><title>Corey (Name)</title></circle></a><circle cx="325.4" cy="291.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/n22y10w3db8~x2/

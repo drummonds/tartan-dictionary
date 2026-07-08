@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "European Union"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b21y38b20y2b64w6/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBW](/stripes/bgbgbw/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/b30w7b18w11b6y3~x2/"><circle cx="448.5" cy="252.8" r="4" fill="#3465a4"><title>Ochterlonie</title></circle></a><a href="/variants/s6/y1b15w5b1w5b1~x4/"><circle cx="408.8" cy="210.3" r="4" fill="#3465a4"><title>Whitley (Personal)</title></circle></a><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><circle cx="358.9" cy="179.1" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><circle cx="519.8" cy="165.5" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/variants/s9/db32ly4dbi12db2dbi4db2n16db67ly6~db1204274-dbi1406275/"><circle cx="551.7" cy="170.1" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><a href="/variants/s6/lo3dy33db24dy2db2dy2~x2/"><circle cx="478.8" cy="225.9" r="4" fill="#3465a4"><title>Keepers of the Quaich (Corporate)</title></circle></a><a href="/variants/s6/lo3dy33db24dy2db2dy2~x2~db1406275/"><circle cx="488.8" cy="228.2" r="4" fill="#3465a4"><title>Keepers of the Quaich</title></circle></a><a href="/variants/s6/lb48n28w4n28lb48y3~x2/"><circle cx="434.7" cy="249.0" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress</title></circle></a><a href="/variants/s6/lb10n1lb1n10lb18n5~x2/"><circle cx="535.5" cy="275.0" r="4" fill="#3465a4"><title>Harmony 13</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.0" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><circle cx="535.9" cy="220.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/b30w7b18w11b6y3~x2/"><circle cx="448.7" cy="253.4" r="4" fill="#3465a4"><title>Ochterlonie</title></circle></a><a href="/variants/s6/y1b15w5b1w5b1~x4/"><circle cx="408.9" cy="210.8" r="4" fill="#3465a4"><title>Whitley (Personal)</title></circle></a><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><circle cx="358.9" cy="179.4" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><circle cx="519.8" cy="165.8" r="4" fill="#3465a4"><title>Talisker</title></circle></a><a href="/variants/s9/db32ly4dbi12db2dbi4db2n16db67ly6~db1204274-dbi1406275/"><circle cx="551.7" cy="170.2" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><a href="/variants/s6/lo3dy33db24dy2db2dy2~x2/"><circle cx="478.9" cy="226.1" r="4" fill="#3465a4"><title>Keepers of the Quaich (Corporate)</title></circle></a><a href="/variants/s6/lo3dy33db24dy2db2dy2~x2~db1406275/"><circle cx="488.9" cy="228.4" r="4" fill="#3465a4"><title>Keepers of the Quaich</title></circle></a><a href="/variants/s6/lb48n28w4n28lb48y3~x2/"><circle cx="434.9" cy="249.5" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress</title></circle></a><a href="/variants/s6/lb10n1lb1n10lb18n5~x2/"><circle cx="535.7" cy="275.6" r="4" fill="#3465a4"><title>Harmony 13</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.3" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><circle cx="536.1" cy="220.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/b21y38b20y2b64w6/

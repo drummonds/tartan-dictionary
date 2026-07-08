@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Gray"
   url: "/tartans/gray/"
+- name: "Gray (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3n33g10r3g3r3g3r8n10r3/)
 (the same proportion at any scale), whose colour order is pattern [RBGRGRGRBR](/stripes/rbgrgrgrbr/).
@@ -14,7 +16,7 @@ Part of the [Gray](/tartans/gray/) tartan — the named design grouping this set
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2148
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2148](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2148)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr3n30g8dr2g2dr2g2dr8n7dr2~x2/"><circle cx="476.3" cy="215.7" r="4" fill="#3465a4"><title>Gray Family Tartan</title></circle></a><a href="/variants/s18/n33g10r3g3r3g3r8n10r3n10r8g3r3g3r3g10n33r3~x2/"><circle cx="423.9" cy="196.5" r="4" fill="#3465a4"><title>Gray (Personal)</title></circle></a><a href="/variants/s8/y5dg14o4db4o27dg3o4y5~x2/"><circle cx="364.8" cy="224.2" r="4" fill="#3465a4"><title>Invertere</title></circle></a><a href="/variants/s11/r4y34do20y4do8y6ri2y5do2y3r4~r1706009-ri2109032/"><circle cx="430.6" cy="176.4" r="4" fill="#3465a4"><title>Morgan Welsh Name Tartan</title></circle></a><a href="/variants/s8/db5n15o4n4o24n4o4db5/"><circle cx="391.5" cy="272.8" r="4" fill="#3465a4"><title>Daks, (Muted Skye)</title></circle></a><a href="/variants/s11/dr4y34do20y4do8y6r2y5do2y3dr4/"><circle cx="428.2" cy="177.4" r="4" fill="#3465a4"><title>Morgan of Wales</title></circle></a><a href="/variants/s10/dp3o23dp3o26dp3o3dp25o3g24o3~x2~dp1607327/"><circle cx="344.9" cy="222.6" r="4" fill="#3465a4"><title>Unidentified 18th Century</title></circle></a><a href="/variants/s14/g4o2g2o2g2o3db1o1g4o1db1o12db2o3~x2/"><circle cx="418.7" cy="202.2" r="4" fill="#3465a4"><title>MacAlister of Glenbarr</title></circle></a><a href="/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/"><circle cx="348.5" cy="187.1" r="4" fill="#3465a4"><title>Shieldhall (Fashion)</title></circle></a><a href="/variants/s9/n3do18n4do3n4r13n21do2b3~x2/"><circle cx="343.6" cy="223.7" r="4" fill="#3465a4"><title>Leitrim</title></circle></a><circle cx="421.8" cy="213.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr3n30g8dr2g2dr2g2dr8n7dr2~x2/"><circle cx="476.4" cy="215.9" r="4" fill="#3465a4"><title>Gray Family Tartan</title></circle></a><a href="/variants/s18/n33g10r3g3r3g3r8n10r3n10r8g3r3g3r3g10n33r3~x2/"><circle cx="424.0" cy="196.7" r="4" fill="#3465a4"><title>Gray (Personal)</title></circle></a><a href="/variants/s8/y5dg14o4db4o27dg3o4y5~x2/"><circle cx="364.9" cy="224.6" r="4" fill="#3465a4"><title>Invertere</title></circle></a><a href="/variants/s11/r4y34do20y4do8y6ri2y5do2y3r4~r1706009-ri2109032/"><circle cx="430.6" cy="176.5" r="4" fill="#3465a4"><title>Morgan Welsh Name Tartan</title></circle></a><a href="/variants/s8/db5n15o4n4o24n4o4db5/"><circle cx="391.7" cy="273.2" r="4" fill="#3465a4"><title>Daks, (Muted Skye)</title></circle></a><a href="/variants/s11/dr4y34do20y4do8y6r2y5do2y3dr4/"><circle cx="428.2" cy="177.6" r="4" fill="#3465a4"><title>Morgan of Wales</title></circle></a><a href="/variants/s10/dp3o23dp3o26dp3o3dp25o3g24o3~x2~dp1607327/"><circle cx="345.1" cy="223.0" r="4" fill="#3465a4"><title>Unidentified 18th Century</title></circle></a><a href="/variants/s14/g4o2g2o2g2o3db1o1g4o1db1o12db2o3~x2/"><circle cx="418.8" cy="202.5" r="4" fill="#3465a4"><title>MacAlister of Glenbarr</title></circle></a><a href="/variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/"><circle cx="348.6" cy="187.4" r="4" fill="#3465a4"><title>Shieldhall (Fashion)</title></circle></a><a href="/variants/s9/n3do18n4do3n4r13n21do2b3~x2/"><circle cx="343.7" cy="223.9" r="4" fill="#3465a4"><title>Leitrim</title></circle></a><circle cx="421.9" cy="213.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r3n33g10r3g3r3g3r8n10r3~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Lambert Dress"
   url: "/tartans/lambert-dress/"
+- name: "Lambert Dress (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t34g10t5r2k8dy2w3dy2k8r2t5g10t28k3/)
 (the same proportion at any scale), whose colour order is pattern [BGBRKGWGKRBGBK](/stripes/bgbrkgwgkrbgbk/).
@@ -14,7 +16,7 @@ Part of the [Lambert Dress](/tartans/lambert-dress/) tartan — the named design
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10661
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10661](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10661)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3~x2/"><circle cx="256.6" cy="95.6" r="4" fill="#3465a4"><title>Lambert (Front Royal) Dress</title></circle></a><a href="/variants/s12/db7lb1db1r2db9r1k9g13dp2g18r1g6~x2/"><circle cx="206.4" cy="115.5" r="4" fill="#3465a4"><title>West Highland Way (Corporate)</title></circle></a><a href="/variants/s11/ly3g3dr2g16k2db24k2g16dr2g3lb3~x2/"><circle cx="207.7" cy="128.5" r="4" fill="#3465a4"><title>Loch Tay (District)</title></circle></a><a href="/variants/s11/y3g3r2g16k2db24k2g16r2g3lb3~x2/"><circle cx="210.5" cy="128.3" r="4" fill="#3465a4"><title>Loch Tay</title></circle></a><a href="/variants/s15/db73k4lb6k4db73g73r4g73db73k4lb4k4db73g73y4/"><circle cx="264.7" cy="115.4" r="4" fill="#3465a4"><title>Cambridge</title></circle></a><a href="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/"><circle cx="224.1" cy="133.8" r="4" fill="#3465a4"><title>Hay Hunting</title></circle></a><a href="/variants/s11/dp8g8w3g8dp8w3t40r3k3t40w3~x2/"><circle cx="303.2" cy="121.1" r="4" fill="#3465a4"><title>World Peace (Fashion)</title></circle></a><a href="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1807008-ri2108022/"><circle cx="259.7" cy="67.0" r="4" fill="#3465a4"><title>Kennedy Clan Tartan</title></circle></a><a href="/variants/s11/g20k1n1k1g20k10n2k2r2db20w1~x2/"><circle cx="205.9" cy="100.4" r="4" fill="#3465a4"><title>Storrie (Name)</title></circle></a><a href="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2008022/"><circle cx="260.2" cy="67.2" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><circle cx="247.7" cy="99.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3~x2/"><circle cx="256.5" cy="95.7" r="4" fill="#3465a4"><title>Lambert (Front Royal) Dress</title></circle></a><a href="/variants/s12/db7lb1db1r2db9r1k9g13dp2g18r1g6~x2/"><circle cx="206.3" cy="115.7" r="4" fill="#3465a4"><title>West Highland Way (Corporate)</title></circle></a><a href="/variants/s11/ly3g3dr2g16k2db24k2g16dr2g3lb3~x2/"><circle cx="207.6" cy="128.8" r="4" fill="#3465a4"><title>Loch Tay (District)</title></circle></a><a href="/variants/s11/y3g3r2g16k2db24k2g16r2g3lb3~x2/"><circle cx="210.5" cy="128.5" r="4" fill="#3465a4"><title>Loch Tay</title></circle></a><a href="/variants/s15/db73k4lb6k4db73g73r4g73db73k4lb4k4db73g73y4/"><circle cx="264.7" cy="115.5" r="4" fill="#3465a4"><title>Cambridge</title></circle></a><a href="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/"><circle cx="224.1" cy="134.0" r="4" fill="#3465a4"><title>Hay Hunting</title></circle></a><a href="/variants/s11/dp8g8w3g8dp8w3t40r3k3t40w3~x2/"><circle cx="303.1" cy="121.3" r="4" fill="#3465a4"><title>World Peace (Fashion)</title></circle></a><a href="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1807008-ri2108022/"><circle cx="259.6" cy="67.1" r="4" fill="#3465a4"><title>Kennedy Clan Tartan</title></circle></a><a href="/variants/s11/g20k1n1k1g20k10n2k2r2db20w1~x2/"><circle cx="205.8" cy="100.5" r="4" fill="#3465a4"><title>Storrie (Name)</title></circle></a><a href="/variants/s17/k2g2y1g3r1g2r1g12db4k3db3k3db3k3db4g24ri2~x2~r1707016-ri2008022/"><circle cx="260.1" cy="67.3" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><circle cx="247.6" cy="99.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/t34g10t5r2k8dy2w3dy2k8r2t5g10t28k3~x2/

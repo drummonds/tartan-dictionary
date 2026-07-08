@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Hunt"
   url: "/tartans/hunt/"
+- name: "Hunt (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r9y2r45y20ly3/)
 (the same proportion at any scale), whose colour order is pattern [GRGYGRGR](/stripes/grgygrgr/).
@@ -14,7 +16,7 @@ Part of the [Hunt](/tartans/hunt/) tartan — the named design grouping this set
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1787
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1787](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1787)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr9y2dr45y20ly3~x2/"><circle cx="532.1" cy="214.7" r="4" fill="#3465a4"><title>Hunt (Personal)</title></circle></a><a href="/variants/s5/r37dy9r3g9dy3~x2/"><circle cx="447.0" cy="208.0" r="4" fill="#3465a4"><title>Glenshee #2</title></circle></a><a href="/variants/s5/db1dy9db2dy9r1~x4/"><circle cx="626.0" cy="273.6" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Camel</title></circle></a><a href="/variants/s6/y40r8y4w2y4ly5~x2~y2203076-ly3307090/"><circle cx="579.7" cy="183.5" r="4" fill="#3465a4"><title>Reid (1939)</title></circle></a><a href="/variants/s6/r29g2r2g2r6y21~x4/"><circle cx="512.7" cy="228.7" r="4" fill="#3465a4"><title>Maguire, Black</title></circle></a><a href="/variants/s6/r40w2db2w2r1y20~x2/"><circle cx="474.1" cy="136.7" r="4" fill="#3465a4"><title>National Defense</title></circle></a><a href="/variants/s6/r29g2r2g2r6dy21~x4/"><circle cx="419.1" cy="163.8" r="4" fill="#3465a4"><title>Maguire Clan Family Tartan</title></circle></a><a href="/variants/s8/r32n5r2n5r6n2r1n7~x4/"><circle cx="626.0" cy="186.6" r="4" fill="#3465a4"><title>Lomond</title></circle></a><a href="/variants/s5/r37o9r3g9o3~x2/"><circle cx="521.6" cy="233.0" r="4" fill="#3465a4"><title>Glen Shee</title></circle></a><circle cx="574.3" cy="212.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr9y2dr45y20ly3~x2/"><circle cx="532.3" cy="215.1" r="4" fill="#3465a4"><title>Hunt (Personal)</title></circle></a><a href="/variants/s5/r37dy9r3g9dy3~x2/"><circle cx="447.1" cy="208.5" r="4" fill="#3465a4"><title>Glenshee #2</title></circle></a><a href="/variants/s5/db1dy9db2dy9r1~x4/"><circle cx="626.0" cy="273.9" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Camel</title></circle></a><a href="/variants/s6/y40r8y4w2y4ly5~x2~y2203076-ly3307090/"><circle cx="579.8" cy="183.7" r="4" fill="#3465a4"><title>Reid (1939)</title></circle></a><a href="/variants/s6/r29g2r2g2r6y21~x4/"><circle cx="512.9" cy="229.0" r="4" fill="#3465a4"><title>Maguire, Black</title></circle></a><a href="/variants/s6/r40w2db2w2r1y20~x2/"><circle cx="474.1" cy="136.9" r="4" fill="#3465a4"><title>National Defense</title></circle></a><a href="/variants/s6/r29g2r2g2r6dy21~x4/"><circle cx="419.1" cy="164.2" r="4" fill="#3465a4"><title>Maguire Clan Family Tartan</title></circle></a><a href="/variants/s8/r32n5r2n5r6n2r1n7~x4/"><circle cx="626.0" cy="186.8" r="4" fill="#3465a4"><title>Lomond</title></circle></a><a href="/variants/s5/r37o9r3g9o3~x2/"><circle cx="521.7" cy="233.4" r="4" fill="#3465a4"><title>Glen Shee</title></circle></a><circle cx="574.4" cy="212.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r9y2r45y20ly3~x2~r1706009/

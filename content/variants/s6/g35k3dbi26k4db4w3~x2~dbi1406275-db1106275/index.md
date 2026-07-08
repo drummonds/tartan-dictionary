@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pride of Yorkland (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g35k3dbi26k4db4w3/)
 (the same proportion at any scale), whose colour order is pattern [GKBKBW](/stripes/gkbkbw/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3813
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3813](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3813)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k7db4g31db3y2db27lb4~x2/"><circle cx="222.6" cy="155.6" r="4" fill="#3465a4"><title>Wishart Htg (Clan)</title></circle></a><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="198.7" cy="197.7" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/"><circle cx="199.4" cy="201.6" r="4" fill="#3465a4"><title>Douglas, Green (Wilsons)</title></circle></a><a href="/variants/s5/k1lb1g8db8w1~x4/"><circle cx="197.4" cy="204.9" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s7/t5dy28w5k20ly5t47ly4~x2/"><circle cx="185.4" cy="166.9" r="4" fill="#3465a4"><title>State Seal of Washington (Fashion)</title></circle></a><a href="/variants/s8/k3r1y1db11g13db5r1y1~x2/"><circle cx="209.4" cy="153.3" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s9/g5db24g7k10g24y2db2y2r2~x2/"><circle cx="204.5" cy="154.5" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s9/g5db24g7k10g24dy2db2dy2r2~x2/"><circle cx="205.9" cy="154.8" r="4" fill="#3465a4"><title>Maitland Chief</title></circle></a><a href="/variants/s7/r3lb2dg20k3db8g2lb2~x2~dg1806142-g2408144/"><circle cx="202.8" cy="152.9" r="4" fill="#3465a4"><title>Royal British Legion (Corporate)</title></circle></a><a href="/variants/s5/g12lo1db8k1db1~x4/"><circle cx="292.6" cy="195.0" r="4" fill="#3465a4"><title>Rowan (Personal)</title></circle></a><circle cx="219.4" cy="168.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k7db4g31db3y2db27lb4~x2/"><circle cx="222.6" cy="155.9" r="4" fill="#3465a4"><title>Wishart Htg (Clan)</title></circle></a><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="198.7" cy="198.1" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/"><circle cx="199.4" cy="202.1" r="4" fill="#3465a4"><title>Douglas, Green (Wilsons)</title></circle></a><a href="/variants/s5/k1lb1g8db8w1~x4/"><circle cx="197.5" cy="205.4" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s7/t5dy28w5k20ly5t47ly4~x2/"><circle cx="185.4" cy="167.3" r="4" fill="#3465a4"><title>State Seal of Washington (Fashion)</title></circle></a><a href="/variants/s8/k3r1y1db11g13db5r1y1~x2/"><circle cx="209.4" cy="153.6" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s9/g5db24g7k10g24y2db2y2r2~x2/"><circle cx="204.5" cy="154.8" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s9/g5db24g7k10g24dy2db2dy2r2~x2/"><circle cx="205.9" cy="155.1" r="4" fill="#3465a4"><title>Maitland Chief</title></circle></a><a href="/variants/s7/r3lb2dg20k3db8g2lb2~x2~dg1806142-g2408144/"><circle cx="202.8" cy="153.2" r="4" fill="#3465a4"><title>Royal British Legion (Corporate)</title></circle></a><a href="/variants/s5/g12lo1db8k1db1~x4/"><circle cx="292.7" cy="195.5" r="4" fill="#3465a4"><title>Rowan (Personal)</title></circle></a><circle cx="219.4" cy="168.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g35k3dbi26k4db4w3~x2~dbi1406275-db1106275/

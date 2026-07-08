@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Confederate"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r12t18k1r4k1g6k2/)
 (the same proportion at any scale), whose colour order is pattern [KGKRKBR](/stripes/kgkrkbr/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=728
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=728](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=728)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r30k8g30t4r3t2~x2/"><circle cx="232.1" cy="169.1" r="4" fill="#3465a4"><title>Plummer Family Personal Tartan</title></circle></a><a href="/variants/s9/lb2k2r27g27k12lb12r27k2lb2~x2/"><circle cx="206.9" cy="154.2" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s8/r5k2dg1k2r5k2dg18ly3~x2/"><circle cx="250.9" cy="135.9" r="4" fill="#3465a4"><title>Midpac Tissue (non woven)</title></circle></a><a href="/variants/s7/y2g7k6r12k1r1y2~x4/"><circle cx="179.4" cy="170.1" r="4" fill="#3465a4"><title>Blackstock, dress</title></circle></a><a href="/variants/s6/r3db12r4g18r6k2~x2/"><circle cx="182.4" cy="207.7" r="4" fill="#3465a4"><title>Eyre (Personal)</title></circle></a><a href="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="200.0" cy="160.8" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s7/r4k2r24k6db6g16r3~x2/"><circle cx="233.0" cy="168.0" r="4" fill="#3465a4"><title>MacDuff #4</title></circle></a><a href="/variants/s6/k6r2g17r16k1lb2~x2/"><circle cx="210.5" cy="163.1" r="4" fill="#3465a4"><title>Unidentified #15</title></circle></a><a href="/variants/s7/g12lb6g6r15k1r1k2~x4/"><circle cx="210.2" cy="173.7" r="4" fill="#3465a4"><title>McCook/Cook (Name)</title></circle></a><a href="/variants/s7/g12lb6g6r15k1r1k2~x2/"><circle cx="210.2" cy="173.7" r="4" fill="#3465a4"><title>(2) Cook</title></circle></a><circle cx="224.0" cy="159.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r30k8g30t4r3t2~x2/"><circle cx="232.1" cy="169.5" r="4" fill="#3465a4"><title>Plummer Family Personal Tartan</title></circle></a><a href="/variants/s9/lb2k2r27g27k12lb12r27k2lb2~x2/"><circle cx="206.9" cy="154.7" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s8/r5k2dg1k2r5k2dg18ly3~x2/"><circle cx="250.9" cy="136.3" r="4" fill="#3465a4"><title>Midpac Tissue (non woven)</title></circle></a><a href="/variants/s7/y2g7k6r12k1r1y2~x4/"><circle cx="179.5" cy="170.6" r="4" fill="#3465a4"><title>Blackstock, dress</title></circle></a><a href="/variants/s6/r3db12r4g18r6k2~x2/"><circle cx="182.5" cy="208.2" r="4" fill="#3465a4"><title>Eyre (Personal)</title></circle></a><a href="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="200.1" cy="161.2" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s7/r4k2r24k6db6g16r3~x2/"><circle cx="233.0" cy="168.6" r="4" fill="#3465a4"><title>MacDuff #4</title></circle></a><a href="/variants/s6/k6r2g17r16k1lb2~x2/"><circle cx="210.5" cy="163.6" r="4" fill="#3465a4"><title>Unidentified #15</title></circle></a><a href="/variants/s7/g12lb6g6r15k1r1k2~x4/"><circle cx="210.3" cy="174.2" r="4" fill="#3465a4"><title>McCook/Cook (Name)</title></circle></a><a href="/variants/s7/g12lb6g6r15k1r1k2~x2/"><circle cx="210.3" cy="174.2" r="4" fill="#3465a4"><title>(2) Cook</title></circle></a><circle cx="224.0" cy="160.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r12t18k1r4k1g6k2~x2/

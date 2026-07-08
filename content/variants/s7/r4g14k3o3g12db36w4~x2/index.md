@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Vipont"
   url: "/tartans/vipont-2/"
+- name: "Vipont (White line)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4g14k3o3g12db36w4/)
 (the same proportion at any scale), whose colour order is pattern [RGKRGBW](/stripes/rgkrgbw/).
@@ -14,7 +16,7 @@ Part of the [Vipont](/tartans/vipont-2/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4463
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4463](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4463)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4g14k3lp3g12db36w4~x2/"><circle cx="195.0" cy="144.0" r="4" fill="#3465a4"><title>Vipont Family Tartan</title></circle></a><a href="/variants/s7/r4g14k3b3g12db36w4~x2/"><circle cx="199.6" cy="145.9" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s6/r1g1k1g9db9w1~x6/"><circle cx="214.7" cy="177.2" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><a href="/variants/s7/db20r2g9w6y4k2g8~x2/"><circle cx="123.6" cy="170.2" r="4" fill="#3465a4"><title>Crofters (Personal)</title></circle></a><a href="/variants/s6/db24k4r3g24k4o3~x2/"><circle cx="165.3" cy="186.7" r="4" fill="#3465a4"><title>(1) Skene</title></circle></a><a href="/variants/s6/db22w2k10g11r3g4~x2/"><circle cx="160.7" cy="182.3" r="4" fill="#3465a4"><title>Paterson Blue (Personal)</title></circle></a><a href="/variants/s6/r3w3db36g36k2r2~x2/"><circle cx="243.9" cy="142.7" r="4" fill="#3465a4"><title>Militello (Palermo) Dress (Personal)</title></circle></a><a href="/variants/s5/k2dy1g10db10w1~x6/"><circle cx="194.5" cy="192.2" r="4" fill="#3465a4"><title>Turnbull Hunting (1983) #2</title></circle></a><a href="/variants/s6/k6g15w2db22b2k4~x2/"><circle cx="168.1" cy="172.8" r="4" fill="#3465a4"><title>Leslie, Hebridean</title></circle></a><a href="/variants/s6/k6g15w2db22r2k4~x2/"><circle cx="166.0" cy="170.8" r="4" fill="#3465a4"><title>Leslie, Hebridean</title></circle></a><circle cx="196.1" cy="143.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4g14k3lp3g12db36w4~x2/"><circle cx="195.0" cy="144.3" r="4" fill="#3465a4"><title>Vipont Family Tartan</title></circle></a><a href="/variants/s7/r4g14k3b3g12db36w4~x2/"><circle cx="199.6" cy="146.2" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s6/r1g1k1g9db9w1~x6/"><circle cx="214.7" cy="177.6" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower</title></circle></a><a href="/variants/s7/db20r2g9w6y4k2g8~x2/"><circle cx="123.6" cy="170.7" r="4" fill="#3465a4"><title>Crofters (Personal)</title></circle></a><a href="/variants/s6/db24k4r3g24k4o3~x2/"><circle cx="165.4" cy="187.1" r="4" fill="#3465a4"><title>(1) Skene</title></circle></a><a href="/variants/s6/db22w2k10g11r3g4~x2/"><circle cx="160.7" cy="182.7" r="4" fill="#3465a4"><title>Paterson Blue (Personal)</title></circle></a><a href="/variants/s6/r3w3db36g36k2r2~x2/"><circle cx="243.9" cy="143.0" r="4" fill="#3465a4"><title>Militello (Palermo) Dress (Personal)</title></circle></a><a href="/variants/s5/k2dy1g10db10w1~x6/"><circle cx="194.6" cy="192.7" r="4" fill="#3465a4"><title>Turnbull Hunting (1983) #2</title></circle></a><a href="/variants/s6/k6g15w2db22b2k4~x2/"><circle cx="168.1" cy="173.2" r="4" fill="#3465a4"><title>Leslie, Hebridean</title></circle></a><a href="/variants/s6/k6g15w2db22r2k4~x2/"><circle cx="166.0" cy="171.2" r="4" fill="#3465a4"><title>Leslie, Hebridean</title></circle></a><circle cx="196.1" cy="143.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r4g14k3o3g12db36w4~x2/

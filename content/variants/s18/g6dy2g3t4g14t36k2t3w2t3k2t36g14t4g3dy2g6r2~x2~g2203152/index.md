@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Sarasota"
   url: "/tartans/sarasota/"
+- name: "Sarasota - Dunfermline"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6dy2g3t4g14t36k2t3w2t3k2t36g14t4g3dy2g6r2/)
 (the same proportion at any scale), whose colour order is pattern [GGGBGBKBWBKBGBGGGR](/stripes/gggbgbkbwbkbgbgggr/).
@@ -14,7 +16,7 @@ Part of the [Sarasota](/tartans/sarasota/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3653
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3653](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3653)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

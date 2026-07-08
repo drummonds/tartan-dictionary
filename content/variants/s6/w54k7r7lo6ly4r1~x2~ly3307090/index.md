@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Young, Christina"
   url: "/tartans/young-christina/"
+- name: "Young, Christina"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w54k7r7lo6ly4r1/)
 (the same proportion at any scale), whose colour order is pattern [RYYRKW](/stripes/ryyrkw/).
@@ -14,7 +16,7 @@ Part of the [Young, Christina](/tartans/young-christina/) tartan — the named d
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4799
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4799](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4799)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w162k10dg10b9y6dg3/"><circle cx="487.6" cy="63.3" r="4" fill="#3465a4"><title>Young, Christina</title></circle></a><a href="/variants/s5/k5w2y36lb47r3~x2/"><circle cx="291.6" cy="147.8" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/variants/s6/w52r22w6r8k1ri3~x2~r1506019-ri2806019/"><circle cx="371.2" cy="99.9" r="4" fill="#3465a4"><title>MacGregor Dress Burgundy (Dance)</title></circle></a><a href="/variants/s6/w52r22w6r8k1db3~x2/"><circle cx="383.5" cy="102.4" r="4" fill="#3465a4"><title>MacGregor Dress Red (Dance)</title></circle></a><a href="/variants/s9/w216k8dg24g24w4k4r45w8r12/"><circle cx="362.8" cy="47.8" r="4" fill="#3465a4"><title>Unidentified Arisaid</title></circle></a><a href="/variants/s5/lb72r16k5y2db16~x2/"><circle cx="354.6" cy="111.5" r="4" fill="#3465a4"><title>Thomas, Jean Marc (Personal)</title></circle></a><a href="/variants/s9/w216k8dg24b24w4k4r45w8r12/"><circle cx="363.8" cy="47.2" r="4" fill="#3465a4"><title>Unidentified, Arisaid</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.9" cy="110.7" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s6/r4w2ri2dr34w37k2~x2~r2607041-ri2806019/"><circle cx="239.1" cy="123.2" r="4" fill="#3465a4"><title>Papalia, Special Dress</title></circle></a><a href="/variants/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="354.4" cy="81.1" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><circle cx="374.2" cy="74.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w162k10dg10b9y6dg3/"><circle cx="487.5" cy="63.6" r="4" fill="#3465a4"><title>Young, Christina</title></circle></a><a href="/variants/s5/k5w2y36lb47r3~x2/"><circle cx="291.6" cy="148.2" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/variants/s6/w52r22w6r8k1ri3~x2~r1506019-ri2806019/"><circle cx="371.2" cy="100.2" r="4" fill="#3465a4"><title>MacGregor Dress Burgundy (Dance)</title></circle></a><a href="/variants/s6/w52r22w6r8k1db3~x2/"><circle cx="383.5" cy="102.8" r="4" fill="#3465a4"><title>MacGregor Dress Red (Dance)</title></circle></a><a href="/variants/s9/w216k8dg24g24w4k4r45w8r12/"><circle cx="362.6" cy="48.0" r="4" fill="#3465a4"><title>Unidentified Arisaid</title></circle></a><a href="/variants/s5/lb72r16k5y2db16~x2/"><circle cx="354.5" cy="111.8" r="4" fill="#3465a4"><title>Thomas, Jean Marc (Personal)</title></circle></a><a href="/variants/s9/w216k8dg24b24w4k4r45w8r12/"><circle cx="363.7" cy="47.4" r="4" fill="#3465a4"><title>Unidentified, Arisaid</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.9" cy="110.9" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s6/r4w2ri2dr34w37k2~x2~r2607041-ri2806019/"><circle cx="239.1" cy="123.6" r="4" fill="#3465a4"><title>Papalia, Special Dress</title></circle></a><a href="/variants/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="354.3" cy="81.4" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><circle cx="374.1" cy="74.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w54k7r7lo6ly4r1~x2~ly3307090/

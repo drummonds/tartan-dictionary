@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Protheroe (Welsh Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3/)
 (the same proportion at any scale), whose colour order is pattern [BGBYBGBBGBGG](/stripes/bgbybgbbgbgg/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5752
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5752](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5752)
 
 ## Provenance
 
@@ -68,8 +70,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10dr3~x4~db1204274-dbi1404245/"><circle cx="389.2" cy="254.0" r="4" fill="#3465a4"><title>Richard of Wales</title></circle></a><a href="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10r3~x4~db1204274-dbi1404245/"><circle cx="298.6" cy="212.8" r="4" fill="#3465a4"><title>Richards Welsh Name Tartan</title></circle></a><a href="/variants/s22/dg10dbi1ly1dbi1dg2dbi5db2dg2db2dg2dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dbi1404245-db1204274-dgi1605139/"><circle cx="389.4" cy="221.0" r="4" fill="#3465a4"><title>Protheroe of Wales</title></circle></a><a href="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/"><circle cx="434.5" cy="238.7" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><a href="/variants/s11/dy1dr5dp1dg2dr1dg12dp1dg2dp6db5b1~x4/"><circle cx="370.5" cy="217.5" r="4" fill="#3465a4"><title>Telfer, Jamie of the Fair Dodhead</title></circle></a><a href="/variants/s12/dbi10db22dg7g10dg22dp3dg22g10dg7db22dbi10db8~x2~dbi1406275-db1404245/"><circle cx="299.2" cy="286.9" r="4" fill="#3465a4"><title>Crawfordjohn Personal Tartan</title></circle></a><a href="/variants/s7/db8dbi10db22dg7g10dg22dp3~x2~db1404245-dbi1406275/"><circle cx="315.6" cy="303.0" r="4" fill="#3465a4"><title>Baron of Crawfordjohn (Personal)</title></circle></a><a href="/variants/s9/r2do15dg12do2dt12do2dg12do15ly2~x4~dt0803284/"><circle cx="358.9" cy="266.2" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><circle cx="368.3" cy="249.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10dr3~x4~db1204274-dbi1404245/"><circle cx="389.3" cy="254.0" r="4" fill="#3465a4"><title>Richard of Wales</title></circle></a><a href="/variants/s12/db5dg2db2dg2db2dbi5dg2dbi1lb1dbi1dg10r3~x4~db1204274-dbi1404245/"><circle cx="298.6" cy="213.0" r="4" fill="#3465a4"><title>Richards Welsh Name Tartan</title></circle></a><a href="/variants/s22/dg10dbi1ly1dbi1dg2dbi5db2dg2db2dg2dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dbi1404245-db1204274-dgi1605139/"><circle cx="389.4" cy="220.9" r="4" fill="#3465a4"><title>Protheroe of Wales</title></circle></a><a href="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/"><circle cx="434.6" cy="238.6" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><a href="/variants/s11/dy1dr5dp1dg2dr1dg12dp1dg2dp6db5b1~x4/"><circle cx="370.5" cy="217.4" r="4" fill="#3465a4"><title>Telfer, Jamie of the Fair Dodhead</title></circle></a><a href="/variants/s12/dbi10db22dg7g10dg22dp3dg22g10dg7db22dbi10db8~x2~dbi1406275-db1404245/"><circle cx="299.4" cy="287.1" r="4" fill="#3465a4"><title>Crawfordjohn Personal Tartan</title></circle></a><a href="/variants/s7/db8dbi10db22dg7g10dg22dp3~x2~db1404245-dbi1406275/"><circle cx="315.8" cy="303.2" r="4" fill="#3465a4"><title>Baron of Crawfordjohn (Personal)</title></circle></a><a href="/variants/s9/r2do15dg12do2dt12do2dg12do15ly2~x4~dt0803284/"><circle cx="359.0" cy="266.3" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><circle cx="368.4" cy="249.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dgi1605139-db1204274-dbi1404245/

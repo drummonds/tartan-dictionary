@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Copar a'Beannichte Dress"
   url: "/tartans/copar-a-beannichte-dress/"
+- name: "Copar a'Beannichte Dress (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb6g20lb6w15db5w2db15n4db10r2/)
 (the same proportion at any scale), whose colour order is pattern [RBBBWBWWGW](/stripes/rbbbwbwwgw/).
@@ -14,7 +16,7 @@ Part of the [Copar a'Beannichte Dress](/tartans/copar-a-beannichte-dress/) tarta
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=758
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=758)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg20g6w15db5w2db15n4db10r2~x2~dg1806142-g2504202/"><circle cx="116.5" cy="181.7" r="4" fill="#3465a4"><title>Copar a'Beannichte Dress (Personal)</title></circle></a><a href="/variants/s12/lb16g2lb16db18y2db13g11r2g9db12r2y2~x2~g2408144/"><circle cx="134.7" cy="176.6" r="4" fill="#3465a4"><title>E.C.R. (Corporate)</title></circle></a><a href="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/"><circle cx="132.3" cy="198.0" r="4" fill="#3465a4"><title>Royal Columbian</title></circle></a><a href="/variants/s9/db25w2db25lb25r2lb25g25dy2g25~x2/"><circle cx="138.8" cy="195.2" r="4" fill="#3465a4"><title>Royal Columbian Canadian Tartan</title></circle></a><a href="/variants/s12/lb18db3lb10db3lb10db14ly2r7ly2g14ly2db14~x2/"><circle cx="150.2" cy="195.4" r="4" fill="#3465a4"><title>Ralston (UK)</title></circle></a><a href="/variants/s8/db1lb9w3y3db9y1g1r1~x4/"><circle cx="133.1" cy="168.4" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><a href="/variants/s10/ly7g11db4lb31db4g11dy4db14w3db4~x2/"><circle cx="140.9" cy="179.6" r="4" fill="#3465a4"><title>State Seal of Nebraska (Fashion)</title></circle></a><a href="/variants/s9/r2db12dg2b11dg4db5b2w24g2~x2/"><circle cx="134.5" cy="147.4" r="4" fill="#3465a4"><title>Fraser Gathering, dress</title></circle></a><a href="/variants/s10/w8g14r6g24db30y10w40y10db7y4/"><circle cx="105.3" cy="187.9" r="4" fill="#3465a4"><title>John, Hamilton Gray</title></circle></a><a href="/variants/s9/db16w6r8db3lo1g1lg3db1g10~x4/"><circle cx="158.2" cy="146.8" r="4" fill="#3465a4"><title>Ogilvie of Inverquharity or Ohio</title></circle></a><circle cx="100.6" cy="181.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg20g6w15db5w2db15n4db10r2~x2~dg1806142-g2504202/"><circle cx="116.5" cy="182.1" r="4" fill="#3465a4"><title>Copar a'Beannichte Dress (Personal)</title></circle></a><a href="/variants/s12/lb16g2lb16db18y2db13g11r2g9db12r2y2~x2~g2408144/"><circle cx="134.7" cy="177.0" r="4" fill="#3465a4"><title>E.C.R. (Corporate)</title></circle></a><a href="/variants/s9/db25lb25r2lb25g25y2g25db25w4~x2/"><circle cx="132.3" cy="198.4" r="4" fill="#3465a4"><title>Royal Columbian</title></circle></a><a href="/variants/s9/db25w2db25lb25r2lb25g25dy2g25~x2/"><circle cx="138.8" cy="195.7" r="4" fill="#3465a4"><title>Royal Columbian Canadian Tartan</title></circle></a><a href="/variants/s12/lb18db3lb10db3lb10db14ly2r7ly2g14ly2db14~x2/"><circle cx="150.3" cy="195.8" r="4" fill="#3465a4"><title>Ralston (UK)</title></circle></a><a href="/variants/s8/db1lb9w3y3db9y1g1r1~x4/"><circle cx="133.1" cy="168.8" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><a href="/variants/s10/ly7g11db4lb31db4g11dy4db14w3db4~x2/"><circle cx="141.0" cy="180.0" r="4" fill="#3465a4"><title>State Seal of Nebraska (Fashion)</title></circle></a><a href="/variants/s9/r2db12dg2b11dg4db5b2w24g2~x2/"><circle cx="134.5" cy="147.8" r="4" fill="#3465a4"><title>Fraser Gathering, dress</title></circle></a><a href="/variants/s10/w8g14r6g24db30y10w40y10db7y4/"><circle cx="105.3" cy="188.4" r="4" fill="#3465a4"><title>John, Hamilton Gray</title></circle></a><a href="/variants/s9/db16w6r8db3lo1g1lg3db1g10~x4/"><circle cx="158.2" cy="147.1" r="4" fill="#3465a4"><title>Ogilvie of Inverquharity or Ohio</title></circle></a><circle cx="100.7" cy="181.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/lb6g20lb6w15db5w2db15n4db10r2~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mensah"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y3g9db9k1y2k15r37g2/)
 (the same proportion at any scale), whose colour order is pattern [GGBKGKRG](/stripes/ggbkgkrg/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2918
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2918](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2918)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w2dp5r34k5n9k12dp1~x2/"><circle cx="252.7" cy="95.3" r="4" fill="#3465a4"><title>Thomson, Reona Ellen (Personal)</title></circle></a><a href="/variants/s7/r72g16k8y4db8w3k50~x2/"><circle cx="198.4" cy="94.4" r="4" fill="#3465a4"><title>Stewart, Anthony C (Personal)</title></circle></a><a href="/variants/s7/r64k30y30db18w4db2w3/"><circle cx="197.4" cy="111.2" r="4" fill="#3465a4"><title>Clyde Family (Hurleford) (Personal)</title></circle></a><a href="/variants/s7/r64k30g30t18w4t2w3/"><circle cx="190.6" cy="113.7" r="4" fill="#3465a4"><title>Clyde (Personal)</title></circle></a><a href="/variants/s10/k5db5k2r47k18w2k5dg9db7w3~x2/"><circle cx="208.8" cy="83.0" r="4" fill="#3465a4"><title>Rikaco Holiday</title></circle></a><a href="/variants/s6/r25k7r3g13lb1k2~x4/"><circle cx="290.0" cy="134.3" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="178.9" cy="87.8" r="4" fill="#3465a4"><title>Kelly of Sleat Red</title></circle></a><a href="/variants/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="270.0" cy="102.8" r="4" fill="#3465a4"><title>MacLeay (Clan)</title></circle></a><a href="/variants/s11/k5lb2r50k50r5w2r5g42r50k5w2/"><circle cx="232.1" cy="89.1" r="4" fill="#3465a4"><title>MacDonald of Glenaladale - 1772 (Cla</title></circle></a><a href="/variants/s8/o5k1r2k4r36k23w4y2~x2/"><circle cx="258.6" cy="73.3" r="4" fill="#3465a4"><title>Aberdeen Football Club (1999)</title></circle></a><circle cx="234.0" cy="86.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w2dp5r34k5n9k12dp1~x2/"><circle cx="252.6" cy="95.6" r="4" fill="#3465a4"><title>Thomson, Reona Ellen (Personal)</title></circle></a><a href="/variants/s7/r72g16k8y4db8w3k50~x2/"><circle cx="198.3" cy="94.7" r="4" fill="#3465a4"><title>Stewart, Anthony C (Personal)</title></circle></a><a href="/variants/s7/r64k30y30db18w4db2w3/"><circle cx="197.3" cy="111.5" r="4" fill="#3465a4"><title>Clyde Family (Hurleford) (Personal)</title></circle></a><a href="/variants/s7/r64k30g30t18w4t2w3/"><circle cx="190.5" cy="114.0" r="4" fill="#3465a4"><title>Clyde (Personal)</title></circle></a><a href="/variants/s10/k5db5k2r47k18w2k5dg9db7w3~x2/"><circle cx="208.7" cy="83.2" r="4" fill="#3465a4"><title>Rikaco Holiday</title></circle></a><a href="/variants/s6/r25k7r3g13lb1k2~x4/"><circle cx="290.0" cy="134.7" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s12/r4k4r28dp4g4k10g4dp4g4dp8k1w3~x2/"><circle cx="178.8" cy="88.0" r="4" fill="#3465a4"><title>Kelly of Sleat Red</title></circle></a><a href="/variants/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="270.0" cy="103.1" r="4" fill="#3465a4"><title>MacLeay (Clan)</title></circle></a><a href="/variants/s11/k5lb2r50k50r5w2r5g42r50k5w2/"><circle cx="232.0" cy="89.4" r="4" fill="#3465a4"><title>MacDonald of Glenaladale - 1772 (Cla</title></circle></a><a href="/variants/s8/o5k1r2k4r36k23w4y2~x2/"><circle cx="258.4" cy="73.6" r="4" fill="#3465a4"><title>Aberdeen Football Club (1999)</title></circle></a><circle cx="233.9" cy="86.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/y3g9db9k1y2k15r37g2~x2/

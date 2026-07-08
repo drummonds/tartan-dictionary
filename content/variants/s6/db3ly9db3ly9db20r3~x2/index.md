@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Latin"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3ly9db3ly9db20r3/)
 (the same proportion at any scale), whose colour order is pattern [BYBYBR](/stripes/bybybr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4905
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4905](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4905)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db1y6db8r1db8g6y1~x4~g2408144/"><circle cx="282.3" cy="235.7" r="4" fill="#3465a4"><title>Hill of Banchory Primary School</title></circle></a><a href="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/"><circle cx="328.6" cy="220.5" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1970 (Corporate)</title></circle></a><a href="/variants/s6/r1t8k3t1k3t1~x8/"><circle cx="292.4" cy="209.6" r="4" fill="#3465a4"><title>Mackay (Blue)</title></circle></a><a href="/variants/s5/db10w3db12y14r4~x2/"><circle cx="224.9" cy="278.7" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/"><circle cx="319.6" cy="239.8" r="4" fill="#3465a4"><title>O'Long (Personal)</title></circle></a><a href="/variants/s6/db1r3db1r3db6g1~x4/"><circle cx="311.1" cy="250.9" r="4" fill="#3465a4"><title>Robbins</title></circle></a><a href="/variants/s5/db9y9db9lb23r3~x2/"><circle cx="209.9" cy="250.3" r="4" fill="#3465a4"><title>Tilburg (District)</title></circle></a><a href="/variants/s6/r10dy60db13w24db24dy8/"><circle cx="221.8" cy="221.5" r="4" fill="#3465a4"><title>Bronte House Check</title></circle></a><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><circle cx="331.0" cy="194.3" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/variants/s4/db18w4db3y12~x2/"><circle cx="320.5" cy="287.7" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><circle cx="289.7" cy="238.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db1y6db8r1db8g6y1~x4~g2408144/"><circle cx="282.4" cy="236.2" r="4" fill="#3465a4"><title>Hill of Banchory Primary School</title></circle></a><a href="/variants/s8/g1lb4dy12lb3dy6lb12g1lb1~x4/"><circle cx="328.7" cy="221.1" r="4" fill="#3465a4"><title>O'Neill Pipe Band 1970 (Corporate)</title></circle></a><a href="/variants/s6/r1t8k3t1k3t1~x8/"><circle cx="292.4" cy="210.2" r="4" fill="#3465a4"><title>Mackay (Blue)</title></circle></a><a href="/variants/s5/db10w3db12y14r4~x2/"><circle cx="225.1" cy="279.5" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/"><circle cx="319.8" cy="240.5" r="4" fill="#3465a4"><title>O'Long (Personal)</title></circle></a><a href="/variants/s6/db1r3db1r3db6g1~x4/"><circle cx="311.2" cy="251.6" r="4" fill="#3465a4"><title>Robbins</title></circle></a><a href="/variants/s5/db9y9db9lb23r3~x2/"><circle cx="210.1" cy="251.0" r="4" fill="#3465a4"><title>Tilburg (District)</title></circle></a><a href="/variants/s6/r10dy60db13w24db24dy8/"><circle cx="221.9" cy="222.1" r="4" fill="#3465a4"><title>Bronte House Check</title></circle></a><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><circle cx="331.1" cy="194.9" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/variants/s4/db18w4db3y12~x2/"><circle cx="320.7" cy="288.5" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><circle cx="289.8" cy="239.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db3ly9db3ly9db20r3~x2/

@@ -10,6 +10,8 @@ crumbs:
   url: "/families/bell-of-the-borders/"
 - name: "Bell of the Borders."
   url: "/tartans/bell-of-the-borders/"
+- name: "Bell of the Borders (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3g2k9lb2k2lb24y2lb2y1/)
 (the same proportion at any scale), whose colour order is pattern [GWGWKWKGR](/stripes/gwgwkwkgr/).
@@ -18,7 +20,7 @@ Part of the [Bell of the Borders.](/tartans/bell-of-the-borders/) tartan — the
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1489
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1489](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1489)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -79,8 +81,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><circle cx="281.5" cy="87.7" r="4" fill="#3465a4"><title>Bell Family Tartan</title></circle></a><a href="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/"><circle cx="285.6" cy="90.9" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="301.1" cy="94.4" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="274.9" cy="136.1" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s11/lb52k12dr3k3lb3k3do10n8k3n3lb3~x2~do1400000/"><circle cx="255.0" cy="89.5" r="4" fill="#3465a4"><title>Stewart Dress, Grey #1 (Fashion)</title></circle></a><a href="/variants/s11/lb32k10lo1k2lb1k2r7y3k1y3lb1~x4/"><circle cx="257.6" cy="58.4" r="4" fill="#3465a4"><title>Glen Coe #3</title></circle></a><a href="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/"><circle cx="226.6" cy="87.1" r="4" fill="#3465a4"><title>Liddell (New York) (Name)</title></circle></a><a href="/variants/s11/lb26k7g1k1lb1k1g5dp3k1dp2lb1~x4/"><circle cx="288.4" cy="80.9" r="4" fill="#3465a4"><title>Grotto Dove</title></circle></a><a href="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/"><circle cx="256.5" cy="44.6" r="4" fill="#3465a4"><title>Stuart/Stewart Royal variant</title></circle></a><a href="/variants/s11/lo1n8lb2k15lb20dr1lb1dr1lb8n3lb1~x2/"><circle cx="235.4" cy="108.9" r="4" fill="#3465a4"><title>Harris (Personal)</title></circle></a><circle cx="281.6" cy="88.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><circle cx="281.4" cy="88.0" r="4" fill="#3465a4"><title>Bell Family Tartan</title></circle></a><a href="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/"><circle cx="285.5" cy="91.2" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="301.0" cy="94.6" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="274.8" cy="136.5" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s11/lb52k12dr3k3lb3k3do10n8k3n3lb3~x2~do1400000/"><circle cx="254.9" cy="89.7" r="4" fill="#3465a4"><title>Stewart Dress, Grey #1 (Fashion)</title></circle></a><a href="/variants/s11/lb32k10lo1k2lb1k2r7y3k1y3lb1~x4/"><circle cx="257.4" cy="58.6" r="4" fill="#3465a4"><title>Glen Coe #3</title></circle></a><a href="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/"><circle cx="226.5" cy="87.4" r="4" fill="#3465a4"><title>Liddell (New York) (Name)</title></circle></a><a href="/variants/s11/lb26k7g1k1lb1k1g5dp3k1dp2lb1~x4/"><circle cx="288.3" cy="81.2" r="4" fill="#3465a4"><title>Grotto Dove</title></circle></a><a href="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/"><circle cx="256.4" cy="44.7" r="4" fill="#3465a4"><title>Stuart/Stewart Royal variant</title></circle></a><a href="/variants/s11/lo1n8lb2k15lb20dr1lb1dr1lb8n3lb1~x2/"><circle cx="235.3" cy="109.2" r="4" fill="#3465a4"><title>Harris (Personal)</title></circle></a><circle cx="281.6" cy="88.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r3g2k9lb2k2lb24y2lb2y1~x4/

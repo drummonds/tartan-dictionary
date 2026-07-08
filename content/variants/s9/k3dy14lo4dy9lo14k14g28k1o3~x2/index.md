@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Dutch Friendship"
   url: "/tartans/dutch-friendship/"
+- name: "Dutch Friendship"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3dy14lo4dy9lo14k14g28k1o3/)
 (the same proportion at any scale), whose colour order is pattern [KGYGYKGKR](/stripes/kgygykgkr/).
@@ -14,7 +16,7 @@ Part of the [Dutch Friendship](/tartans/dutch-friendship/) tartan — the named 
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1056
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1056](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1056)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3dy14lo4dy9lo14k14y14g14k1o3~x2~y2202111-g1903114/"><circle cx="40.8" cy="159.8" r="4" fill="#3465a4"><title>Dutch Friendship (Fashion)</title></circle></a><a href="/variants/s10/dr20k4g14k1o2k1g14k10w22o7~x2~w3600000/"><circle cx="86.9" cy="134.4" r="4" fill="#3465a4"><title>Border Union Cattle Show</title></circle></a><a href="/variants/s10/dy20k4g14k1o2k1g14k10w22o7~x2/"><circle cx="81.4" cy="134.8" r="4" fill="#3465a4"><title>Border Union Cattle Show (Corporate)</title></circle></a><a href="/variants/s8/k3w1r16k1g21t9k6w1~x4/"><circle cx="152.6" cy="130.6" r="4" fill="#3465a4"><title>Ford &amp; Etal</title></circle></a><a href="/variants/s6/ly16k7w1g7k1dy3~x4/"><circle cx="102.9" cy="137.7" r="4" fill="#3465a4"><title>Hamilton of Brandon</title></circle></a><a href="/variants/s11/dp4g3k1g3dp2g20k10dr20dp2k2lo4~x2/"><circle cx="161.8" cy="119.5" r="4" fill="#3465a4"><title>Moffat (1994)</title></circle></a><a href="/variants/s7/t18k7g5r4g7k1y2~x2/"><circle cx="122.6" cy="144.3" r="4" fill="#3465a4"><title>Wilson's No.232</title></circle></a><a href="/variants/s10/k3r9k4dy9y3dy9k4g26k2y3~x2/"><circle cx="137.8" cy="146.6" r="4" fill="#3465a4"><title>Cavan, County</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="147.0" cy="148.2" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><a href="/variants/s8/r8ly44k32w2n52k7n7w3/"><circle cx="169.9" cy="122.2" r="4" fill="#3465a4"><title>Golden Wedding (Fashion)</title></circle></a><circle cx="119.6" cy="129.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3dy14lo4dy9lo14k14y14g14k1o3~x2~y2202111-g1903114/"><circle cx="40.7" cy="160.2" r="4" fill="#3465a4"><title>Dutch Friendship (Fashion)</title></circle></a><a href="/variants/s10/dr20k4g14k1o2k1g14k10w22o7~x2~w3600000/"><circle cx="86.8" cy="134.7" r="4" fill="#3465a4"><title>Border Union Cattle Show</title></circle></a><a href="/variants/s10/dy20k4g14k1o2k1g14k10w22o7~x2/"><circle cx="81.4" cy="135.2" r="4" fill="#3465a4"><title>Border Union Cattle Show (Corporate)</title></circle></a><a href="/variants/s8/k3w1r16k1g21t9k6w1~x4/"><circle cx="152.6" cy="131.0" r="4" fill="#3465a4"><title>Ford &amp; Etal</title></circle></a><a href="/variants/s6/ly16k7w1g7k1dy3~x4/"><circle cx="102.9" cy="138.1" r="4" fill="#3465a4"><title>Hamilton of Brandon</title></circle></a><a href="/variants/s11/dp4g3k1g3dp2g20k10dr20dp2k2lo4~x2/"><circle cx="161.7" cy="119.7" r="4" fill="#3465a4"><title>Moffat (1994)</title></circle></a><a href="/variants/s7/t18k7g5r4g7k1y2~x2/"><circle cx="122.6" cy="144.6" r="4" fill="#3465a4"><title>Wilson's No.232</title></circle></a><a href="/variants/s10/k3r9k4dy9y3dy9k4g26k2y3~x2/"><circle cx="137.8" cy="146.9" r="4" fill="#3465a4"><title>Cavan, County</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="147.0" cy="148.6" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><a href="/variants/s8/r8ly44k32w2n52k7n7w3/"><circle cx="169.8" cy="122.5" r="4" fill="#3465a4"><title>Golden Wedding (Fashion)</title></circle></a><circle cx="119.5" cy="129.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k3dy14lo4dy9lo14k14g28k1o3~x2/

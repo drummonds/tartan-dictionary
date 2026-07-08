@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Pinafore"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g24k4g24k24lb7r24lb7/)
 (the same proportion at any scale), whose colour order is pattern [GKGKWRW](/stripes/gkgkwrw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4341
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4341](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4341)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3g14k14g2t14r3~x2/"><circle cx="119.0" cy="223.7" r="4" fill="#3465a4"><title>Morrison Society</title></circle></a><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="158.3" cy="198.3" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="139.9" cy="223.9" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s7/o6k2dg12ly8o5k2dg3~x4/"><circle cx="135.6" cy="228.2" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/variants/s7/k22g21k5g12lb12n3w4~x2/"><circle cx="115.7" cy="202.1" r="4" fill="#3465a4"><title>Disciples of Christ Motorcycle Ministry (Switzerland)</title></circle></a><a href="/variants/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="74.0" cy="251.9" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><a href="/variants/s6/g36lb4g8k29r24w7~x2/"><circle cx="122.9" cy="193.6" r="4" fill="#3465a4"><title>Entre Rios Province (Provisional</title></circle></a><a href="/variants/s6/g3dr22lb5g10k10g2~x2/"><circle cx="185.1" cy="195.9" r="4" fill="#3465a4"><title>Strathspey (Fashion)</title></circle></a><a href="/variants/s7/db14g18k3g18dr20k14lo3~x2/"><circle cx="108.4" cy="228.9" r="4" fill="#3465a4"><title>Scottish Parliament (unofficial)</title></circle></a><a href="/variants/s6/k4g14k14g2w14t3~x2/"><circle cx="102.9" cy="221.7" r="4" fill="#3465a4"><title>MacKay, Dress (Corporate)</title></circle></a><circle cx="121.8" cy="232.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3g14k14g2t14r3~x2/"><circle cx="119.0" cy="224.3" r="4" fill="#3465a4"><title>Morrison Society</title></circle></a><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="158.3" cy="198.9" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="140.0" cy="224.6" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s7/o6k2dg12ly8o5k2dg3~x4/"><circle cx="135.7" cy="228.9" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/variants/s7/k22g21k5g12lb12n3w4~x2/"><circle cx="115.8" cy="202.7" r="4" fill="#3465a4"><title>Disciples of Christ Motorcycle Ministry (Switzerland)</title></circle></a><a href="/variants/s7/k4lo9k13g6lo3g9w4~x2/"><circle cx="74.1" cy="252.7" r="4" fill="#3465a4"><title>Ramsay (Orange)</title></circle></a><a href="/variants/s6/g36lb4g8k29r24w7~x2/"><circle cx="123.0" cy="194.2" r="4" fill="#3465a4"><title>Entre Rios Province (Provisional</title></circle></a><a href="/variants/s6/g3dr22lb5g10k10g2~x2/"><circle cx="185.1" cy="196.5" r="4" fill="#3465a4"><title>Strathspey (Fashion)</title></circle></a><a href="/variants/s7/db14g18k3g18dr20k14lo3~x2/"><circle cx="108.5" cy="229.5" r="4" fill="#3465a4"><title>Scottish Parliament (unofficial)</title></circle></a><a href="/variants/s6/k4g14k14g2w14t3~x2/"><circle cx="103.0" cy="222.4" r="4" fill="#3465a4"><title>MacKay, Dress (Corporate)</title></circle></a><circle cx="121.9" cy="232.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g24k4g24k24lb7r24lb7~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sheffield High School"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db12g8lb4g8db12lb5/)
 (the same proportion at any scale), whose colour order is pattern [BGWGBW](/stripes/bgwgbw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5063
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5063](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5063)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/lb5db12g8lb4/"><circle cx="198.3" cy="350.5" r="4" fill="#3465a4"><title>Sheffield High (School)</title></circle></a><a href="/variants/s6/db2g6db6b5db1b2~x2/"><circle cx="272.6" cy="309.5" r="4" fill="#3465a4"><title>Unnamed, No 54</title></circle></a><a href="/variants/s10/dg3ly1b3ly1b3ly1dg3ly1b3ly1~x4/"><circle cx="210.7" cy="307.7" r="4" fill="#3465a4"><title>Unidentified Printing #2</title></circle></a><a href="/variants/s5/db8g2db8g15lb2~x4/"><circle cx="319.9" cy="283.2" r="4" fill="#3465a4"><title>Hamilton Green Hunting</title></circle></a><a href="/variants/s6/db3g11lb2db11b6g3~x2/"><circle cx="226.1" cy="285.9" r="4" fill="#3465a4"><title>Unnamed, No 29</title></circle></a><a href="/variants/s5/db1lb1dr4db4lb1~x4/"><circle cx="289.7" cy="312.8" r="4" fill="#3465a4"><title>Laval, Tartan de</title></circle></a><a href="/variants/s4/g4dp5g4lb2~x2/"><circle cx="246.9" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.209</title></circle></a><circle cx="223.0" cy="342.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/lb5db12g8lb4/"><circle cx="198.6" cy="351.5" r="4" fill="#3465a4"><title>Sheffield High (School)</title></circle></a><a href="/variants/s6/db2g6db6b5db1b2~x2/"><circle cx="272.8" cy="310.1" r="4" fill="#3465a4"><title>Unnamed, No 54</title></circle></a><a href="/variants/s10/dg3ly1b3ly1b3ly1dg3ly1b3ly1~x4/"><circle cx="210.9" cy="308.5" r="4" fill="#3465a4"><title>Unidentified Printing #2</title></circle></a><a href="/variants/s5/db8g2db8g15lb2~x4/"><circle cx="320.1" cy="283.8" r="4" fill="#3465a4"><title>Hamilton Green Hunting</title></circle></a><a href="/variants/s6/db3g11lb2db11b6g3~x2/"><circle cx="226.3" cy="286.5" r="4" fill="#3465a4"><title>Unnamed, No 29</title></circle></a><a href="/variants/s5/db1lb1dr4db4lb1~x4/"><circle cx="289.9" cy="313.5" r="4" fill="#3465a4"><title>Laval, Tartan de</title></circle></a><a href="/variants/s4/g4dp5g4lb2~x2/"><circle cx="247.3" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.209</title></circle></a><circle cx="223.3" cy="343.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db12g8lb4g8db12lb5/

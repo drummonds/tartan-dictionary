@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Menzies Mauve and White"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp120w10k4w11k3w5k3w19/)
 (the same proportion at any scale), whose colour order is pattern [BWKWKWKW](/stripes/bwkwkwkw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2930
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2930](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2930)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k32w4k2w4k4w2k1w6~x2/"><circle cx="436.9" cy="119.1" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/k36w4k3w4k6w2k1w12~x4/"><circle cx="416.3" cy="122.0" r="4" fill="#3465a4"><title>Menzies (1938)</title></circle></a><a href="/variants/s10/n1k6n35k6n2dp3n1k6n2w1~x2/"><circle cx="392.8" cy="81.1" r="4" fill="#3465a4"><title>Melrose Newbigging Grey (Name)</title></circle></a><a href="/variants/s10/db108w6k10w3k3w3k3g12r12w4/"><circle cx="360.9" cy="50.3" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s10/n5k1n33dp1n9k9dp5k1dr2k4~x2/"><circle cx="405.6" cy="100.6" r="4" fill="#3465a4"><title>Lochnagar Dress (Fashion)</title></circle></a><a href="/variants/s7/dp40k8ly8dp4ly1dp4lr8~x4/"><circle cx="379.4" cy="101.6" r="4" fill="#3465a4"><title>Wcwm 4907-2</title></circle></a><a href="/variants/s8/dr2n2k2n28k8n9k1ly2~x2/"><circle cx="430.3" cy="114.3" r="4" fill="#3465a4"><title>Highland Autumn (Fashion)</title></circle></a><a href="/variants/s10/db40ly1db1r9db1ly1db6ly1db1r9~x2/"><circle cx="491.7" cy="102.4" r="4" fill="#3465a4"><title>Miyuki</title></circle></a><circle cx="433.6" cy="83.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k32w4k2w4k4w2k1w6~x2/"><circle cx="436.8" cy="119.5" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/k36w4k3w4k6w2k1w12~x4/"><circle cx="416.2" cy="122.4" r="4" fill="#3465a4"><title>Menzies (1938)</title></circle></a><a href="/variants/s10/n1k6n35k6n2dp3n1k6n2w1~x2/"><circle cx="392.7" cy="81.3" r="4" fill="#3465a4"><title>Melrose Newbigging Grey (Name)</title></circle></a><a href="/variants/s10/db108w6k10w3k3w3k3g12r12w4/"><circle cx="360.7" cy="50.4" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s10/n5k1n33dp1n9k9dp5k1dr2k4~x2/"><circle cx="405.6" cy="100.8" r="4" fill="#3465a4"><title>Lochnagar Dress (Fashion)</title></circle></a><a href="/variants/s7/dp40k8ly8dp4ly1dp4lr8~x4/"><circle cx="379.3" cy="101.8" r="4" fill="#3465a4"><title>Wcwm 4907-2</title></circle></a><a href="/variants/s8/dr2n2k2n28k8n9k1ly2~x2/"><circle cx="430.3" cy="114.5" r="4" fill="#3465a4"><title>Highland Autumn (Fashion)</title></circle></a><a href="/variants/s10/db40ly1db1r9db1ly1db6ly1db1r9~x2/"><circle cx="491.6" cy="102.5" r="4" fill="#3465a4"><title>Miyuki</title></circle></a><circle cx="433.5" cy="83.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dp120w10k4w11k3w5k3w19/

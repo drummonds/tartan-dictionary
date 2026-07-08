@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Stuart/Stewart variant #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w46g5w1k3w1k5g4r6g2r4w2/)
 (the same proportion at any scale), whose colour order is pattern [WGWKWKGRGRW](/stripes/wgwkwkgrgrw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4028
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4028](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4028)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="246.5" cy="72.0" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/variants/s12/w12k3w28g6k4w2k2w14r11g3r4w4~x2/"><circle cx="286.8" cy="137.7" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="254.9" cy="30.7" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/"><circle cx="254.9" cy="30.7" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s12/w36db5k5y1k1w1k1g8r4k1r2w1/"><circle cx="255.0" cy="31.1" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s9/w216k8dg24g24w4k4r45w8r12/"><circle cx="362.8" cy="47.8" r="4" fill="#3465a4"><title>Unidentified Arisaid</title></circle></a><a href="/variants/s10/r2w28db4w2k6w2r4k1r2w1~x2/"><circle cx="323.4" cy="81.0" r="4" fill="#3465a4"><title>Rothesay, Dress (VS)</title></circle></a><a href="/variants/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/"><circle cx="262.2" cy="87.9" r="4" fill="#3465a4"><title>Royal Stuart / Stewart</title></circle></a><a href="/variants/s9/w216k8dg24b24w4k4r45w8r12/"><circle cx="363.8" cy="47.2" r="4" fill="#3465a4"><title>Unidentified, Arisaid</title></circle></a><a href="/variants/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><circle cx="286.0" cy="52.6" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><circle cx="346.9" cy="54.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r2w28db4w2k6w2g7r4k1r2w1~x2/"><circle cx="246.4" cy="72.3" r="4" fill="#3465a4"><title>Rothesay, Duke of</title></circle></a><a href="/variants/s12/w12k3w28g6k4w2k2w14r11g3r4w4~x2/"><circle cx="286.8" cy="138.2" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="254.8" cy="30.8" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/"><circle cx="254.8" cy="30.8" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s12/w36db5k5y1k1w1k1g8r4k1r2w1/"><circle cx="254.9" cy="31.2" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s9/w216k8dg24g24w4k4r45w8r12/"><circle cx="362.6" cy="48.0" r="4" fill="#3465a4"><title>Unidentified Arisaid</title></circle></a><a href="/variants/s10/r2w28db4w2k6w2r4k1r2w1~x2/"><circle cx="323.4" cy="81.4" r="4" fill="#3465a4"><title>Rothesay, Dress (VS)</title></circle></a><a href="/variants/s11/r3w28k2w2k2w2g12r8k1r1w1~x2/"><circle cx="262.1" cy="88.2" r="4" fill="#3465a4"><title>Royal Stuart / Stewart</title></circle></a><a href="/variants/s9/w216k8dg24b24w4k4r45w8r12/"><circle cx="363.7" cy="47.4" r="4" fill="#3465a4"><title>Unidentified, Arisaid</title></circle></a><a href="/variants/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><circle cx="285.8" cy="52.7" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><circle cx="346.8" cy="54.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/w46g5w1k3w1k5g4r6g2r4w2~x2/

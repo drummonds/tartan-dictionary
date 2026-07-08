@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bryant (Dalgleish) (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb3dr30k18db6g30k2/)
 (the same proportion at any scale), whose colour order is pattern [KGBKBW](/stripes/kgbkbw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=407
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=407](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=407)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g27db12k12r9k1y2~x2/"><circle cx="181.3" cy="144.7" r="4" fill="#3465a4"><title>Ferguson, Jeffrey S (Personal)</title></circle></a><a href="/variants/s6/g27db12k12r9k1ly2~x2/"><circle cx="178.0" cy="143.7" r="4" fill="#3465a4"><title>Ferguson, Jerrfey S (Personal)</title></circle></a><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="189.7" cy="150.6" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s6/r10dbi24r4k30g36db5~dbi1604274-db0805267/"><circle cx="100.0" cy="199.1" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s7/r2y18k2y3k20dy30w2~x2~y2300000/"><circle cx="184.2" cy="150.1" r="4" fill="#3465a4"><title>Bennett, John Paul Personal Tartan</title></circle></a><a href="/variants/s7/r2k1g15k7dy15k1y2~x2/"><circle cx="166.9" cy="156.9" r="4" fill="#3465a4"><title>Unidentified 20th Centuary</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1y2~x2/"><circle cx="101.7" cy="190.4" r="4" fill="#3465a4"><title>Campbell of Cawdor Clan Tartan</title></circle></a><a href="/variants/s6/w2k11y11db3k1r1~x2/"><circle cx="163.4" cy="162.6" r="4" fill="#3465a4"><title>Cornish National #2</title></circle></a><a href="/variants/s6/w2k11y11lb3k1r1~x2/"><circle cx="158.6" cy="161.3" r="4" fill="#3465a4"><title>Cornish National Small Set Tartan</title></circle></a><a href="/variants/s6/db2k6g2k6dg12y1~x4~g2408144-dg1806142/"><circle cx="181.7" cy="183.9" r="4" fill="#3465a4"><title>Leahy (Australia) (Personal)</title></circle></a><circle cx="149.9" cy="173.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g27db12k12r9k1y2~x2/"><circle cx="181.2" cy="145.0" r="4" fill="#3465a4"><title>Ferguson, Jeffrey S (Personal)</title></circle></a><a href="/variants/s6/g27db12k12r9k1ly2~x2/"><circle cx="177.9" cy="144.1" r="4" fill="#3465a4"><title>Ferguson, Jerrfey S (Personal)</title></circle></a><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="189.6" cy="151.0" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s6/r10dbi24r4k30g36db5~dbi1604274-db0805267/"><circle cx="100.1" cy="199.6" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s7/r2y18k2y3k20dy30w2~x2~y2300000/"><circle cx="184.1" cy="150.4" r="4" fill="#3465a4"><title>Bennett, John Paul Personal Tartan</title></circle></a><a href="/variants/s7/r2k1g15k7dy15k1y2~x2/"><circle cx="166.9" cy="157.3" r="4" fill="#3465a4"><title>Unidentified 20th Centuary</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1y2~x2/"><circle cx="101.7" cy="190.9" r="4" fill="#3465a4"><title>Campbell of Cawdor Clan Tartan</title></circle></a><a href="/variants/s6/w2k11y11db3k1r1~x2/"><circle cx="163.4" cy="163.0" r="4" fill="#3465a4"><title>Cornish National #2</title></circle></a><a href="/variants/s6/w2k11y11lb3k1r1~x2/"><circle cx="158.6" cy="161.8" r="4" fill="#3465a4"><title>Cornish National Small Set Tartan</title></circle></a><a href="/variants/s6/db2k6g2k6dg12y1~x4~g2408144-dg1806142/"><circle cx="181.7" cy="184.4" r="4" fill="#3465a4"><title>Leahy (Australia) (Personal)</title></circle></a><circle cx="149.8" cy="174.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/lb3dr30k18db6g30k2~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Diana, Plaid Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lr46r3do2y2lr7do2lr2do11ly6lb2ly3lr3/)
 (the same proportion at any scale), whose colour order is pattern [YRBGYBYBYWYY](/stripes/yrbgybybywyy/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=933
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=933](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=933)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r40lb2r6n2r2n2lo2n9w5ri2w4lo1~x2~r2109032-ri2806019/"><circle cx="398.5" cy="58.6" r="4" fill="#3465a4"><title>Rathmore (Fashion)</title></circle></a><a href="/variants/s9/r38y1db3w1g13r6db3lb3w1~x2/"><circle cx="392.9" cy="73.1" r="4" fill="#3465a4"><title>Drummond, Ancient</title></circle></a><a href="/variants/s9/r36w1db3y1g16r8db3lb2w1~x2/"><circle cx="378.0" cy="80.0" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s9/r36w1db3y1g16r8db3lb2w1/"><circle cx="378.0" cy="80.0" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s9/r36w1db3y1g16r8db3t2w1~x2/"><circle cx="380.2" cy="81.0" r="4" fill="#3465a4"><title>Drummond of Perth (Clan)</title></circle></a><a href="/variants/s9/r67y3n6lb3w25r10n6lb7w3~x2/"><circle cx="352.7" cy="109.0" r="4" fill="#3465a4"><title>Drummond of Perth Dress #3</title></circle></a><a href="/variants/s8/r72g3y2g26r14db6lb6w2/"><circle cx="416.9" cy="87.7" r="4" fill="#3465a4"><title>Stewart of Fingask - 1745 (Clan?)</title></circle></a><a href="/variants/s9/r67y3b6dg3w25r10b6dg7w3~x2/"><circle cx="337.1" cy="104.2" r="4" fill="#3465a4"><title>Drummond of Perth, dress</title></circle></a><a href="/variants/s10/lg8lr2r3lr2dy2lr28r10lb1db3lb2~x2/"><circle cx="317.1" cy="104.4" r="4" fill="#3465a4"><title>Confederate Memorial Commemmorative Tartan</title></circle></a><a href="/variants/s17/r46y2db2r5g46r5db2y2r5db10r5y2db2r49g5w5g5~x2/"><circle cx="351.4" cy="84.5" r="4" fill="#3465a4"><title>Stirling Weavers Guild</title></circle></a><circle cx="386.5" cy="80.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r40lb2r6n2r2n2lo2n9w5ri2w4lo1~x2~r2109032-ri2806019/"><circle cx="398.5" cy="58.7" r="4" fill="#3465a4"><title>Rathmore (Fashion)</title></circle></a><a href="/variants/s9/r38y1db3w1g13r6db3lb3w1~x2/"><circle cx="392.8" cy="73.2" r="4" fill="#3465a4"><title>Drummond, Ancient</title></circle></a><a href="/variants/s9/r36w1db3y1g16r8db3lb2w1~x2/"><circle cx="377.9" cy="80.1" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s9/r36w1db3y1g16r8db3lb2w1/"><circle cx="377.9" cy="80.1" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><a href="/variants/s9/r36w1db3y1g16r8db3t2w1~x2/"><circle cx="380.1" cy="81.1" r="4" fill="#3465a4"><title>Drummond of Perth (Clan)</title></circle></a><a href="/variants/s9/r67y3n6lb3w25r10n6lb7w3~x2/"><circle cx="352.7" cy="109.3" r="4" fill="#3465a4"><title>Drummond of Perth Dress #3</title></circle></a><a href="/variants/s8/r72g3y2g26r14db6lb6w2/"><circle cx="416.9" cy="87.8" r="4" fill="#3465a4"><title>Stewart of Fingask - 1745 (Clan?)</title></circle></a><a href="/variants/s9/r67y3b6dg3w25r10b6dg7w3~x2/"><circle cx="337.1" cy="104.5" r="4" fill="#3465a4"><title>Drummond of Perth, dress</title></circle></a><a href="/variants/s10/lg8lr2r3lr2dy2lr28r10lb1db3lb2~x2/"><circle cx="317.1" cy="104.5" r="4" fill="#3465a4"><title>Confederate Memorial Commemmorative Tartan</title></circle></a><a href="/variants/s17/r46y2db2r5g46r5db2y2r5db10r5y2db2r49g5w5g5~x2/"><circle cx="351.4" cy="84.6" r="4" fill="#3465a4"><title>Stirling Weavers Guild</title></circle></a><circle cx="386.4" cy="80.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/lr46r3do2y2lr7do2lr2do11ly6lb2ly3lr3~x2/

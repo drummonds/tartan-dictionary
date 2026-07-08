@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacNappy"
   url: "/tartans/macnappy/"
+- name: "MacNappy"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w36lb12w1r12g16y2/)
 (the same proportion at any scale), whose colour order is pattern [GGRWWW](/stripes/ggrwww/).
@@ -14,7 +16,7 @@ Part of the [MacNappy](/tartans/macnappy/) tartan — the named design grouping 
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10081
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10081](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10081)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w36db12w1r12g16y2~x2/"><circle cx="232.5" cy="141.7" r="4" fill="#3465a4"><title>MacNappy Tartan</title></circle></a><a href="/variants/s6/db4w2db1w36g21y4~x2/"><circle cx="356.0" cy="156.0" r="4" fill="#3465a4"><title>Skye, Green (Dance)</title></circle></a><a href="/variants/s6/lb52y2n24dr3dy26n4~x2/"><circle cx="300.3" cy="172.8" r="4" fill="#3465a4"><title>Outlander #1</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="246.8" cy="195.0" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="227.1" cy="116.6" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s6/r31g19lg27b1w1lo1~x2/"><circle cx="242.7" cy="142.8" r="4" fill="#3465a4"><title>Glencross, (Solway) (Personal)</title></circle></a><a href="/variants/s8/db4w1db2w18g3w1r9y4~x4/"><circle cx="220.0" cy="142.6" r="4" fill="#3465a4"><title>Manitoba Dress (1958) (District)</title></circle></a><a href="/variants/s7/lb8w16g18r2y4r1lb4~x2/"><circle cx="187.9" cy="184.3" r="4" fill="#3465a4"><title>Lake Ainslie Heritage</title></circle></a><a href="/variants/s8/lb5k1w30dp15w8g30w8dp2~x2/"><circle cx="218.9" cy="133.0" r="4" fill="#3465a4"><title>Shaw, Miss Rebecca (Personal)</title></circle></a><a href="/variants/s7/w8b5lb10o24w30b2dg2~x2/"><circle cx="252.5" cy="183.1" r="4" fill="#3465a4"><title>Shiel Magenta</title></circle></a><circle cx="262.0" cy="151.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w36db12w1r12g16y2~x2/"><circle cx="232.5" cy="142.1" r="4" fill="#3465a4"><title>MacNappy Tartan</title></circle></a><a href="/variants/s6/db4w2db1w36g21y4~x2/"><circle cx="356.1" cy="156.4" r="4" fill="#3465a4"><title>Skye, Green (Dance)</title></circle></a><a href="/variants/s6/lb52y2n24dr3dy26n4~x2/"><circle cx="300.3" cy="173.1" r="4" fill="#3465a4"><title>Outlander #1</title></circle></a><a href="/variants/s6/w8lb30g5w3db8r5/"><circle cx="246.9" cy="195.5" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="227.1" cy="116.9" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s6/r31g19lg27b1w1lo1~x2/"><circle cx="242.7" cy="143.1" r="4" fill="#3465a4"><title>Glencross, (Solway) (Personal)</title></circle></a><a href="/variants/s8/db4w1db2w18g3w1r9y4~x4/"><circle cx="220.0" cy="143.0" r="4" fill="#3465a4"><title>Manitoba Dress (1958) (District)</title></circle></a><a href="/variants/s7/lb8w16g18r2y4r1lb4~x2/"><circle cx="188.0" cy="184.7" r="4" fill="#3465a4"><title>Lake Ainslie Heritage</title></circle></a><a href="/variants/s8/lb5k1w30dp15w8g30w8dp2~x2/"><circle cx="218.8" cy="133.4" r="4" fill="#3465a4"><title>Shaw, Miss Rebecca (Personal)</title></circle></a><a href="/variants/s7/w8b5lb10o24w30b2dg2~x2/"><circle cx="252.6" cy="183.6" r="4" fill="#3465a4"><title>Shiel Magenta</title></circle></a><circle cx="262.1" cy="152.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w36lb12w1r12g16y2~x2/

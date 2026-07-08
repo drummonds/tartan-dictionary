@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Murray"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb3k16g16k16db3lb3/)
 (the same proportion at any scale), whose colour order is pattern [WBKGKW](/stripes/wbkgkw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3056
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3056](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3056)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k10g4k1lb2r1~x10/"><circle cx="274.2" cy="180.5" r="4" fill="#3465a4"><title>Brotherhood of the Kilt</title></circle></a><a href="/variants/s4/k3g15k20y3~x2/"><circle cx="266.0" cy="243.0" r="4" fill="#3465a4"><title>Scotch Tape 2 (Corporate)</title></circle></a><a href="/variants/s4/k1g8k8y1/"><circle cx="254.5" cy="234.3" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><a href="/variants/s4/k1g8k8ly1~x4/"><circle cx="250.0" cy="233.2" r="4" fill="#3465a4"><title>Wallace Htg (Clan)</title></circle></a><a href="/variants/s4/k4g33k33y4~x2/"><circle cx="256.2" cy="232.6" r="4" fill="#3465a4"><title>Wallace, hunting</title></circle></a><a href="/variants/s5/k12db3g23k23r3~x2/"><circle cx="232.2" cy="215.8" r="4" fill="#3465a4"><title>Douglas, (Black)</title></circle></a><a href="/variants/s5/k42w5dg16k10db21~x2/"><circle cx="246.4" cy="221.5" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s6/b1k4dr1k4dg5lr1~x4/"><circle cx="183.9" cy="226.2" r="4" fill="#3465a4"><title>Unidentified Dance</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="190.0" cy="222.0" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="227.8" cy="199.3" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><circle cx="208.2" cy="223.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k10g4k1lb2r1~x10/"><circle cx="274.2" cy="181.1" r="4" fill="#3465a4"><title>Brotherhood of the Kilt</title></circle></a><a href="/variants/s4/k3g15k20y3~x2/"><circle cx="266.1" cy="243.7" r="4" fill="#3465a4"><title>Scotch Tape 2 (Corporate)</title></circle></a><a href="/variants/s4/k1g8k8y1/"><circle cx="254.5" cy="235.0" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><a href="/variants/s4/k1g8k8ly1~x4/"><circle cx="250.1" cy="233.9" r="4" fill="#3465a4"><title>Wallace Htg (Clan)</title></circle></a><a href="/variants/s4/k4g33k33y4~x2/"><circle cx="256.3" cy="233.3" r="4" fill="#3465a4"><title>Wallace, hunting</title></circle></a><a href="/variants/s5/k12db3g23k23r3~x2/"><circle cx="232.3" cy="216.4" r="4" fill="#3465a4"><title>Douglas, (Black)</title></circle></a><a href="/variants/s5/k42w5dg16k10db21~x2/"><circle cx="246.4" cy="222.0" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s6/b1k4dr1k4dg5lr1~x4/"><circle cx="183.9" cy="226.7" r="4" fill="#3465a4"><title>Unidentified Dance</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="190.1" cy="222.6" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="227.8" cy="199.8" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><circle cx="208.2" cy="224.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/lb3k16g16k16db3lb3~x2/

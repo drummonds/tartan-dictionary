@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Supporter.com"
   url: "/tartans/supporter-com/"
+- name: "Supporter.com"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb60g9r7ly12g33ly33lb26/)
 (the same proportion at any scale), whose colour order is pattern [WGRYGYW](/stripes/wgrygyw/).
@@ -14,7 +16,7 @@ Part of the [Supporter.com](/tartans/supporter-com/) tartan — the named design
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11078
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11078](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11078)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb2o24ly14lb25ly14lb25y20lb2~x2/"><circle cx="287.7" cy="256.3" r="4" fill="#3465a4"><title>Froach's Grian</title></circle></a><a href="/variants/s6/g4o25g6lb12g12lb3~x2/"><circle cx="301.2" cy="272.8" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><a href="/variants/s8/lg8do2lg13r4lg12t22lg5lo3~x2~lg3302138/"><circle cx="320.7" cy="218.8" r="4" fill="#3465a4"><title>Kildare Irish County Tartan</title></circle></a><a href="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/"><circle cx="296.3" cy="199.3" r="4" fill="#3465a4"><title>Gammell (Personal)</title></circle></a><a href="/variants/s6/n2w2y7o14n2w2~x2~n1900000-o2500000/"><circle cx="326.7" cy="250.4" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s6/w1o1n4o7lp1w1~x4~o2500000-n1900000/"><circle cx="347.0" cy="245.5" r="4" fill="#3465a4"><title>Lochnagar Plaid (District)</title></circle></a><a href="/variants/s7/g3r1g12w4lb15ly1lb3~x4/"><circle cx="286.7" cy="190.5" r="4" fill="#3465a4"><title>Postcode Lottery</title></circle></a><a href="/variants/s8/lb12g2lb2g2lb2o8b8o1~x2/"><circle cx="278.9" cy="218.5" r="4" fill="#3465a4"><title>Universal, Ancient</title></circle></a><a href="/variants/s7/r2ly1t8r1g7ly1r2~x6/"><circle cx="241.6" cy="233.7" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/variants/s6/t6r6w1r6t6y1~x8~r2607041/"><circle cx="295.3" cy="280.9" r="4" fill="#3465a4"><title>Unidentified Lindley</title></circle></a><circle cx="292.4" cy="254.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb2o24ly14lb25ly14lb25y20lb2~x2/"><circle cx="287.9" cy="256.7" r="4" fill="#3465a4"><title>Froach's Grian</title></circle></a><a href="/variants/s6/g4o25g6lb12g12lb3~x2/"><circle cx="301.4" cy="273.4" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><a href="/variants/s8/lg8do2lg13r4lg12t22lg5lo3~x2~lg3302138/"><circle cx="320.8" cy="219.2" r="4" fill="#3465a4"><title>Kildare Irish County Tartan</title></circle></a><a href="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/"><circle cx="296.4" cy="199.7" r="4" fill="#3465a4"><title>Gammell (Personal)</title></circle></a><a href="/variants/s6/n2w2y7o14n2w2~x2~n1900000-o2500000/"><circle cx="326.9" cy="250.8" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><a href="/variants/s6/w1o1n4o7lp1w1~x4~o2500000-n1900000/"><circle cx="347.2" cy="245.9" r="4" fill="#3465a4"><title>Lochnagar Plaid (District)</title></circle></a><a href="/variants/s7/g3r1g12w4lb15ly1lb3~x4/"><circle cx="286.8" cy="190.9" r="4" fill="#3465a4"><title>Postcode Lottery</title></circle></a><a href="/variants/s8/lb12g2lb2g2lb2o8b8o1~x2/"><circle cx="279.0" cy="218.9" r="4" fill="#3465a4"><title>Universal, Ancient</title></circle></a><a href="/variants/s7/r2ly1t8r1g7ly1r2~x6/"><circle cx="241.7" cy="234.2" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/variants/s6/t6r6w1r6t6y1~x8~r2607041/"><circle cx="295.5" cy="281.5" r="4" fill="#3465a4"><title>Unidentified Lindley</title></circle></a><circle cx="292.6" cy="255.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lb60g9r7ly12g33ly33lb26/

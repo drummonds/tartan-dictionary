@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Aboyne II (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2ly1r5k4g5w1/)
 (the same proportion at any scale), whose colour order is pattern [RYRKGW](/stripes/ryrkgw/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8811
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8811](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8811)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r24w2y3g16k16w2y3~x2/"><circle cx="130.3" cy="157.0" r="4" fill="#3465a4"><title>MacLachlan #4</title></circle></a><a href="/variants/s7/r24w2y3g16k16w2y3/"><circle cx="130.3" cy="157.0" r="4" fill="#3465a4"><title>MacLachlan W</title></circle></a><a href="/variants/s6/r6g5k5g5r6t1~x4~t2503227/"><circle cx="140.1" cy="262.8" r="4" fill="#3465a4"><title>Norwich No.028</title></circle></a><a href="/variants/s4/r6g5k5lb1~x2/"><circle cx="110.5" cy="263.7" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.0" cy="183.1" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s9/y4k2dg7g7r5k2r15k2w4~x2/"><circle cx="97.7" cy="162.7" r="4" fill="#3465a4"><title>Thirkill</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4~r2109032/"><circle cx="129.8" cy="205.8" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/variants/s6/y3dy6g10k18r22w3~x2/"><circle cx="82.0" cy="181.2" r="4" fill="#3465a4"><title>Tyrolean (Fashion?)</title></circle></a><a href="/variants/s4/r9g9k10lb2~x2~r2109032/"><circle cx="92.8" cy="275.5" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/variants/s5/k6db3dg20r20y3~x2/"><circle cx="168.8" cy="210.5" r="4" fill="#3465a4"><title>Douglas of Roxburgh</title></circle></a><circle cx="93.9" cy="222.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r24w2y3g16k16w2y3~x2/"><circle cx="130.3" cy="157.4" r="4" fill="#3465a4"><title>MacLachlan #4</title></circle></a><a href="/variants/s7/r24w2y3g16k16w2y3/"><circle cx="130.3" cy="157.4" r="4" fill="#3465a4"><title>MacLachlan W</title></circle></a><a href="/variants/s6/r6g5k5g5r6t1~x4~t2503227/"><circle cx="140.3" cy="263.7" r="4" fill="#3465a4"><title>Norwich No.028</title></circle></a><a href="/variants/s4/r6g5k5lb1~x2/"><circle cx="110.7" cy="264.6" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.1" cy="183.7" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s9/y4k2dg7g7r5k2r15k2w4~x2/"><circle cx="97.7" cy="163.2" r="4" fill="#3465a4"><title>Thirkill</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4~r2109032/"><circle cx="129.9" cy="206.4" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/variants/s6/y3dy6g10k18r22w3~x2/"><circle cx="82.0" cy="181.7" r="4" fill="#3465a4"><title>Tyrolean (Fashion?)</title></circle></a><a href="/variants/s4/r9g9k10lb2~x2~r2109032/"><circle cx="93.0" cy="276.4" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/variants/s5/k6db3dg20r20y3~x2/"><circle cx="168.9" cy="211.1" r="4" fill="#3465a4"><title>Douglas of Roxburgh</title></circle></a><circle cx="94.0" cy="223.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r2ly1r5k4g5w1~x4/

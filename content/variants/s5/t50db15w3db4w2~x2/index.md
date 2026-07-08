@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Scottish Tourist Board"
   url: "/tartans/scottish-tourist-board/"
+- name: "Scottish Tourist Board (1990) (Corp)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t50db15w3db4w2/)
 (the same proportion at any scale), whose colour order is pattern [BBWBW](/stripes/bbwbw/).
@@ -14,7 +16,7 @@ Part of the [Scottish Tourist Board](/tartans/scottish-tourist-board/) tartan �
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2099
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2099](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2099)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/t52db28w3db2w2db10~x2/"><circle cx="440.7" cy="211.1" r="4" fill="#3465a4"><title>St Andrews Earl of Royal family Tartan</title></circle></a><a href="/variants/s6/t52db28w5db3w2db10~x2/"><circle cx="387.9" cy="181.0" r="4" fill="#3465a4"><title>St. Andrews, Earl of</title></circle></a><a href="/variants/s6/t136db45w7db4r4db16/"><circle cx="462.3" cy="151.9" r="4" fill="#3465a4"><title>S.C.O.T.S</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.0" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><a href="/variants/s5/lb37w9lb3db9w3~x2/"><circle cx="457.3" cy="246.6" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/variants/s5/db72lb6db12lb17w6~x2/"><circle cx="498.0" cy="230.1" r="4" fill="#3465a4"><title>GulfMark</title></circle></a><a href="/variants/s5/db24t13db4t4w2~x2/"><circle cx="435.3" cy="262.5" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/variants/s5/db24lb13db4lb4w2~x2/"><circle cx="396.4" cy="249.0" r="4" fill="#3465a4"><title>Gallaecia (Unofficial) (District)</title></circle></a><a href="/variants/s5/db3dbi2lb31db34w2~x2~db1204274-dbi1406275/"><circle cx="359.0" cy="208.2" r="4" fill="#3465a4"><title>Gilt Edge (Corporate)</title></circle></a><a href="/variants/s4/lb20dp3db7dy1~x4/"><circle cx="397.6" cy="201.6" r="4" fill="#3465a4"><title>Peacock (Samantha)</title></circle></a><circle cx="516.7" cy="213.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/t52db28w3db2w2db10~x2/"><circle cx="440.8" cy="211.4" r="4" fill="#3465a4"><title>St Andrews Earl of Royal family Tartan</title></circle></a><a href="/variants/s6/t52db28w5db3w2db10~x2/"><circle cx="388.0" cy="181.3" r="4" fill="#3465a4"><title>St. Andrews, Earl of</title></circle></a><a href="/variants/s6/t136db45w7db4r4db16/"><circle cx="462.2" cy="152.1" r="4" fill="#3465a4"><title>S.C.O.T.S</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.3" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><a href="/variants/s5/lb37w9lb3db9w3~x2/"><circle cx="457.5" cy="247.2" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/variants/s5/db72lb6db12lb17w6~x2/"><circle cx="498.1" cy="230.6" r="4" fill="#3465a4"><title>GulfMark</title></circle></a><a href="/variants/s5/db24t13db4t4w2~x2/"><circle cx="435.4" cy="263.0" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/variants/s5/db24lb13db4lb4w2~x2/"><circle cx="396.5" cy="249.6" r="4" fill="#3465a4"><title>Gallaecia (Unofficial) (District)</title></circle></a><a href="/variants/s5/db3dbi2lb31db34w2~x2~db1204274-dbi1406275/"><circle cx="359.1" cy="208.7" r="4" fill="#3465a4"><title>Gilt Edge (Corporate)</title></circle></a><a href="/variants/s4/lb20dp3db7dy1~x4/"><circle cx="397.7" cy="202.1" r="4" fill="#3465a4"><title>Peacock (Samantha)</title></circle></a><circle cx="516.8" cy="213.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/t50db15w3db4w2~x2/

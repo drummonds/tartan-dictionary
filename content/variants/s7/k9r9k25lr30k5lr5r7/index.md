@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rocket Dog (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k9r9k25lr30k5lr5r7/)
 (the same proportion at any scale), whose colour order is pattern [KRKYKYR](/stripes/krkykyr/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8020
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8020](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8020)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb4r28k6lb12k12lb3~x2/"><circle cx="198.0" cy="199.7" r="4" fill="#3465a4"><title>Thomson, Red (Name)</title></circle></a><a href="/variants/s6/r6k9r12w2k2w4~x2/"><circle cx="209.0" cy="225.5" r="4" fill="#3465a4"><title>Brice (Artefact)</title></circle></a><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="190.8" cy="221.9" r="4" fill="#3465a4"><title>Braes High School Falkirk (School)</title></circle></a><a href="/variants/s6/lb2r12k2lb6k6lb1~x2/"><circle cx="198.5" cy="191.4" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish #2</title></circle></a><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/"><circle cx="95.7" cy="228.8" r="4" fill="#3465a4"><title>Holden Monaro Corporate Tartan</title></circle></a><a href="/variants/s6/r19k8r18k50w14k6/"><circle cx="247.4" cy="199.2" r="4" fill="#3465a4"><title>Knights Breton</title></circle></a><a href="/variants/s6/k3r15k11y2k4r3~x2/"><circle cx="243.9" cy="205.0" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/variants/s6/k3g13k10r13k2r3~x2/"><circle cx="151.0" cy="230.9" r="4" fill="#3465a4"><title>MacCormick, dress</title></circle></a><a href="/variants/s7/r6k3r29k23w4k7y3~x2/"><circle cx="220.9" cy="162.2" r="4" fill="#3465a4"><title>MacPherson Red Cluny</title></circle></a><a href="/variants/s6/db4r30k6db13k13db3~x2/"><circle cx="217.4" cy="198.7" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish (Bonner)</title></circle></a><circle cx="176.1" cy="210.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb4r28k6lb12k12lb3~x2/"><circle cx="198.1" cy="200.4" r="4" fill="#3465a4"><title>Thomson, Red (Name)</title></circle></a><a href="/variants/s6/r6k9r12w2k2w4~x2/"><circle cx="209.2" cy="226.4" r="4" fill="#3465a4"><title>Brice (Artefact)</title></circle></a><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="190.9" cy="222.7" r="4" fill="#3465a4"><title>Braes High School Falkirk (School)</title></circle></a><a href="/variants/s6/lb2r12k2lb6k6lb1~x2/"><circle cx="198.6" cy="192.1" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish #2</title></circle></a><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/"><circle cx="95.8" cy="229.6" r="4" fill="#3465a4"><title>Holden Monaro Corporate Tartan</title></circle></a><a href="/variants/s6/r19k8r18k50w14k6/"><circle cx="247.5" cy="199.9" r="4" fill="#3465a4"><title>Knights Breton</title></circle></a><a href="/variants/s6/k3r15k11y2k4r3~x2/"><circle cx="244.0" cy="205.7" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/variants/s6/k3g13k10r13k2r3~x2/"><circle cx="151.1" cy="231.7" r="4" fill="#3465a4"><title>MacCormick, dress</title></circle></a><a href="/variants/s7/r6k3r29k23w4k7y3~x2/"><circle cx="220.9" cy="162.7" r="4" fill="#3465a4"><title>MacPherson Red Cluny</title></circle></a><a href="/variants/s6/db4r30k6db13k13db3~x2/"><circle cx="217.5" cy="199.3" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish (Bonner)</title></circle></a><circle cx="176.2" cy="210.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k9r9k25lr30k5lr5r7/

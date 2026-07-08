@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Norwich No.158"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g8k1ly1r1w1db8k1r4k1r4k1r4k1/)
 (the same proportion at any scale), whose colour order is pattern [GKYRWBKRKRKRK](/stripes/gkyrwbkrkrkrk/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3198
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3198](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3198)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db8k1r4k1r4k1r4k1g8k1y1r1w1~x2/"><circle cx="88.9" cy="132.1" r="4" fill="#3465a4"><title>Unidentified No 158 Silk Fragment</title></circle></a><a href="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="73.8" cy="139.5" r="4" fill="#3465a4"><title>MacPherson #6</title></circle></a><a href="/variants/s14/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5~x2/"><circle cx="62.8" cy="137.4" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><a href="/variants/s15/r14g3r14g13y2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="97.0" cy="136.6" r="4" fill="#3465a4"><title>MacPherson #8</title></circle></a><a href="/variants/s15/db1y3r3k2db8y3r2k1r2y3g8w1k1r12w1~x2/"><circle cx="110.6" cy="114.6" r="4" fill="#3465a4"><title>MacPherson #2</title></circle></a><a href="/variants/s12/lb1dg8k1lb2k1y2k1lb2k1r8w1lb1~x4/"><circle cx="60.1" cy="128.6" r="4" fill="#3465a4"><title>MacWhirter</title></circle></a><a href="/variants/s16/w7k24r4k4r4k4r24y4r6db12r6k4g20k4r6w4/"><circle cx="58.2" cy="135.5" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/variants/s16/w3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2/"><circle cx="61.0" cy="134.8" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/variants/s12/r20lb14k17y2k3w3k3g24r14k4r4w2~x2/"><circle cx="79.4" cy="123.5" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/variants/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><circle cx="86.1" cy="131.6" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><circle cx="89.7" cy="131.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db8k1r4k1r4k1r4k1g8k1y1r1w1~x2/"><circle cx="88.9" cy="132.5" r="4" fill="#3465a4"><title>Unidentified No 158 Silk Fragment</title></circle></a><a href="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="73.8" cy="139.8" r="4" fill="#3465a4"><title>MacPherson #6</title></circle></a><a href="/variants/s14/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5~x2/"><circle cx="62.7" cy="137.8" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><a href="/variants/s15/r14g3r14g13y2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="96.9" cy="137.0" r="4" fill="#3465a4"><title>MacPherson #8</title></circle></a><a href="/variants/s15/db1y3r3k2db8y3r2k1r2y3g8w1k1r12w1~x2/"><circle cx="110.6" cy="114.8" r="4" fill="#3465a4"><title>MacPherson #2</title></circle></a><a href="/variants/s12/lb1dg8k1lb2k1y2k1lb2k1r8w1lb1~x4/"><circle cx="60.0" cy="129.0" r="4" fill="#3465a4"><title>MacWhirter</title></circle></a><a href="/variants/s16/w7k24r4k4r4k4r24y4r6db12r6k4g20k4r6w4/"><circle cx="58.2" cy="135.9" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/variants/s16/w3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2/"><circle cx="61.0" cy="135.2" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/variants/s12/r20lb14k17y2k3w3k3g24r14k4r4w2~x2/"><circle cx="79.4" cy="123.9" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/variants/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><circle cx="86.0" cy="131.9" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><circle cx="89.7" cy="132.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2~db1406275/

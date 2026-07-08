@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/menzies/"
 - name: "Menzies"
   url: "/tartans/menzies-2/"
+- name: "Menzies"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k32w4k2w4k4w2k1w6/)
 (the same proportion at any scale), whose colour order is pattern [KWKWKWKW](/stripes/kwkwkwkw/).
@@ -16,7 +18,7 @@ Part of the [Menzies](/tartans/menzies-2/) tartan — the named design grouping 
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -83,8 +85,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k36w4k3w4k6w2k1w12~x4/"><circle cx="416.3" cy="122.0" r="4" fill="#3465a4"><title>Menzies (1938)</title></circle></a><a href="/variants/s8/k16w1k1w1k8w16k1w2~x2/"><circle cx="329.7" cy="165.9" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s8/k16n1k1n1k8n16k1n2~x2/"><circle cx="357.7" cy="169.4" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s8/dp120w10k4w11k3w5k3w19/"><circle cx="433.6" cy="83.2" r="4" fill="#3465a4"><title>Menzies Mauve and White</title></circle></a><a href="/variants/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="459.8" cy="97.8" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="392.5" cy="128.3" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/variants/s7/w24k16w1k16w3k8w2~x2/"><circle cx="330.7" cy="177.6" r="4" fill="#3465a4"><title>Saks Fifth Avenue (Corp)</title></circle></a><a href="/variants/s7/k17n4k13n4k3n45k3~x2/"><circle cx="363.8" cy="170.6" r="4" fill="#3465a4"><title>Black Spirit Fashion Tartan</title></circle></a><a href="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="392.5" cy="113.5" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/variants/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/"><circle cx="435.0" cy="111.1" r="4" fill="#3465a4"><title>Stuart/Stewart Mourning</title></circle></a><circle cx="436.9" cy="119.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k36w4k3w4k6w2k1w12~x4/"><circle cx="416.2" cy="122.4" r="4" fill="#3465a4"><title>Menzies (1938)</title></circle></a><a href="/variants/s8/k16w1k1w1k8w16k1w2~x2/"><circle cx="329.7" cy="166.4" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s8/k16n1k1n1k8n16k1n2~x2/"><circle cx="357.7" cy="169.9" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s8/dp120w10k4w11k3w5k3w19/"><circle cx="433.5" cy="83.4" r="4" fill="#3465a4"><title>Menzies Mauve and White</title></circle></a><a href="/variants/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="459.7" cy="98.1" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="392.4" cy="128.6" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/variants/s7/w24k16w1k16w3k8w2~x2/"><circle cx="330.8" cy="178.2" r="4" fill="#3465a4"><title>Saks Fifth Avenue (Corp)</title></circle></a><a href="/variants/s7/k17n4k13n4k3n45k3~x2/"><circle cx="363.8" cy="171.1" r="4" fill="#3465a4"><title>Black Spirit Fashion Tartan</title></circle></a><a href="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="392.4" cy="113.9" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/variants/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/"><circle cx="435.0" cy="111.5" r="4" fill="#3465a4"><title>Stuart/Stewart Mourning</title></circle></a><circle cx="436.8" cy="119.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k32w4k2w4k4w2k1w6~x2/

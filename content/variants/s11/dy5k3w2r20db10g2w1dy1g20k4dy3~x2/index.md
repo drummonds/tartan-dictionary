@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacCulloch"
   url: "/tartans/macculloch/"
+- name: "MacCulloch"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy5k3w2r20db10g2w1dy1g20k4dy3/)
 (the same proportion at any scale), whose colour order is pattern [GKGGWGBRWKG](/stripes/gkggwgbrwkg/).
@@ -14,7 +16,7 @@ Part of the [MacCulloch](/tartans/macculloch/) tartan — the named design group
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5356
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5356](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5356)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dy5k3w2r20db10dg2w1dy1dg20k4dy3~x2~k0700000-db1406275/"><circle cx="145.0" cy="111.8" r="4" fill="#3465a4"><title>MacCulloch (Name)</title></circle></a><a href="/variants/s11/o5k3w2r20db10g2w1r1g20k4o3~x2/"><circle cx="111.7" cy="101.0" r="4" fill="#3465a4"><title>MacCullough Family Tartan</title></circle></a><a href="/variants/s10/r15g6db36w2k6w2g30r32k6lb4/"><circle cx="119.5" cy="116.2" r="4" fill="#3465a4"><title>Steiff</title></circle></a><a href="/variants/s14/dr27g20k7w3ly3dr2ly3w3ly6dp6k2dr3ly4dp3~x2/"><circle cx="97.7" cy="103.1" r="4" fill="#3465a4"><title>Roman (Personal)</title></circle></a><a href="/variants/s11/db8k8y2k3w3k3g24r16db3r4k2~x2/"><circle cx="82.4" cy="122.6" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s13/t2g16k1t2k1lo4k1lo4k1t2k1dr16w2~x4/"><circle cx="108.6" cy="95.2" r="4" fill="#3465a4"><title>Baxter</title></circle></a><a href="/variants/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2~lb3200000-t2503227/"><circle cx="100.9" cy="92.3" r="4" fill="#3465a4"><title>Royal Scottish P.B. Assoc. (Corp.)</title></circle></a><a href="/variants/s10/lyi2k1r30db8g24ly5g5dp11k1lyi2~x2~lyi3104101-ly2503076/"><circle cx="150.2" cy="81.0" r="4" fill="#3465a4"><title>Guardian of Scotland, Wthd (Fashion)</title></circle></a><a href="/variants/s11/g15r25g4k2y1db1y1k2g4db12w1~x2/"><circle cx="176.2" cy="85.8" r="4" fill="#3465a4"><title>Livingstone (Australia) Dress</title></circle></a><a href="/variants/s14/ly10w2dy1w2n10ly8dy2k17dy2ly7n19k3y1k1~x2/"><circle cx="102.7" cy="97.3" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><circle cx="111.5" cy="103.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dy5k3w2r20db10dg2w1dy1dg20k4dy3~x2~k0700000-db1406275/"><circle cx="144.9" cy="111.9" r="4" fill="#3465a4"><title>MacCulloch (Name)</title></circle></a><a href="/variants/s11/o5k3w2r20db10g2w1r1g20k4o3~x2/"><circle cx="111.6" cy="101.3" r="4" fill="#3465a4"><title>MacCullough Family Tartan</title></circle></a><a href="/variants/s10/r15g6db36w2k6w2g30r32k6lb4/"><circle cx="119.4" cy="116.4" r="4" fill="#3465a4"><title>Steiff</title></circle></a><a href="/variants/s14/dr27g20k7w3ly3dr2ly3w3ly6dp6k2dr3ly4dp3~x2/"><circle cx="97.6" cy="103.4" r="4" fill="#3465a4"><title>Roman (Personal)</title></circle></a><a href="/variants/s11/db8k8y2k3w3k3g24r16db3r4k2~x2/"><circle cx="82.4" cy="122.9" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s13/t2g16k1t2k1lo4k1lo4k1t2k1dr16w2~x4/"><circle cx="108.4" cy="95.4" r="4" fill="#3465a4"><title>Baxter</title></circle></a><a href="/variants/s12/lb6k1t20r2g3r2k15r2g3r2k6ly3~x2~lb3200000-t2503227/"><circle cx="100.8" cy="92.5" r="4" fill="#3465a4"><title>Royal Scottish P.B. Assoc. (Corp.)</title></circle></a><a href="/variants/s10/lyi2k1r30db8g24ly5g5dp11k1lyi2~x2~lyi3104101-ly2503076/"><circle cx="150.1" cy="81.1" r="4" fill="#3465a4"><title>Guardian of Scotland, Wthd (Fashion)</title></circle></a><a href="/variants/s11/g15r25g4k2y1db1y1k2g4db12w1~x2/"><circle cx="176.1" cy="86.0" r="4" fill="#3465a4"><title>Livingstone (Australia) Dress</title></circle></a><a href="/variants/s14/ly10w2dy1w2n10ly8dy2k17dy2ly7n19k3y1k1~x2/"><circle cx="102.6" cy="97.5" r="4" fill="#3465a4"><title>Scottish Wildcat</title></circle></a><circle cx="111.4" cy="103.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dy5k3w2r20db10g2w1dy1g20k4dy3~x2/

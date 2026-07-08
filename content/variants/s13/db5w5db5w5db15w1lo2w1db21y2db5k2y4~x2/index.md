@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Jouy"
   url: "/tartans/jouy/"
+- name: "Jouy (La Chapelle Saint Sulpice) (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db5w5db5w5db15w1lo2w1db21y2db5k2y4/)
 (the same proportion at any scale), whose colour order is pattern [BWBWBWYWBGBKG](/stripes/bwbwbwywbgbkg/).
@@ -14,7 +16,7 @@ Part of the [Jouy](/tartans/jouy/) tartan — the named design grouping this set
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10827
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10827](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10827)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/b5w5b5w5b15w1o2w1b21ly2b5k2ly4~x2/"><circle cx="360.6" cy="115.7" r="4" fill="#3465a4"><title>Jouy (Personal)</title></circle></a><a href="/variants/s14/g5ly2w2db8k2db5k2db28k2db10w4g3w2ly4~x2/"><circle cx="284.8" cy="106.7" r="4" fill="#3465a4"><title>Carstairs</title></circle></a><a href="/variants/s16/b19k1g3k1b3k9b20k1y1k7y1k1b21k12b2g1~x2/"><circle cx="321.2" cy="101.3" r="4" fill="#3465a4"><title>Hope Vere / Weir</title></circle></a><a href="/variants/s16/b30k8b2k2b3k2b8r15b8k2b3k2b2k8b30w3~x2/"><circle cx="335.4" cy="114.4" r="4" fill="#3465a4"><title>Chicago, University of..</title></circle></a><a href="/variants/s12/w24db12w1db2w2db2w1db12k3db4k3db20~x2/"><circle cx="317.1" cy="123.7" r="4" fill="#3465a4"><title>Costa, David (Personal)</title></circle></a><a href="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2~g2408144-lb3203246/"><circle cx="313.2" cy="144.0" r="4" fill="#3465a4"><title>Jethart</title></circle></a><a href="/variants/s10/db42k6db3k3db3w5db17w7ly10k3~x2/"><circle cx="314.7" cy="130.8" r="4" fill="#3465a4"><title>California Riverside, Uni. (Corp)</title></circle></a><a href="/variants/s11/db6k1y6k1db28w1k2w1db16w1r5~x2/"><circle cx="410.8" cy="84.2" r="4" fill="#3465a4"><title>Historic Caledonian Railway Enthusiasts', The</title></circle></a><a href="/variants/s12/db25w2k2db15y2db1y2db15k2w2g16r1~x2/"><circle cx="325.2" cy="90.3" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Modern)</title></circle></a><a href="/variants/s11/db8k3db26k11lb3db8r4db8lb3k2w3~x2/"><circle cx="283.2" cy="136.9" r="4" fill="#3465a4"><title>Dublin Lie-ins (Corporate)</title></circle></a><circle cx="330.9" cy="103.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/b5w5b5w5b15w1o2w1b21ly2b5k2ly4~x2/"><circle cx="360.5" cy="116.0" r="4" fill="#3465a4"><title>Jouy (Personal)</title></circle></a><a href="/variants/s14/g5ly2w2db8k2db5k2db28k2db10w4g3w2ly4~x2/"><circle cx="284.7" cy="106.9" r="4" fill="#3465a4"><title>Carstairs</title></circle></a><a href="/variants/s16/b19k1g3k1b3k9b20k1y1k7y1k1b21k12b2g1~x2/"><circle cx="321.1" cy="101.5" r="4" fill="#3465a4"><title>Hope Vere / Weir</title></circle></a><a href="/variants/s16/b30k8b2k2b3k2b8r15b8k2b3k2b2k8b30w3~x2/"><circle cx="335.4" cy="114.6" r="4" fill="#3465a4"><title>Chicago, University of..</title></circle></a><a href="/variants/s12/w24db12w1db2w2db2w1db12k3db4k3db20~x2/"><circle cx="317.1" cy="124.0" r="4" fill="#3465a4"><title>Costa, David (Personal)</title></circle></a><a href="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2~g2408144-lb3203246/"><circle cx="313.1" cy="144.4" r="4" fill="#3465a4"><title>Jethart</title></circle></a><a href="/variants/s10/db42k6db3k3db3w5db17w7ly10k3~x2/"><circle cx="314.7" cy="131.1" r="4" fill="#3465a4"><title>California Riverside, Uni. (Corp)</title></circle></a><a href="/variants/s11/db6k1y6k1db28w1k2w1db16w1r5~x2/"><circle cx="410.7" cy="84.3" r="4" fill="#3465a4"><title>Historic Caledonian Railway Enthusiasts', The</title></circle></a><a href="/variants/s12/db25w2k2db15y2db1y2db15k2w2g16r1~x2/"><circle cx="325.1" cy="90.4" r="4" fill="#3465a4"><title>Quigley of Knockcroghery (Modern)</title></circle></a><a href="/variants/s11/db8k3db26k11lb3db8r4db8lb3k2w3~x2/"><circle cx="283.2" cy="137.2" r="4" fill="#3465a4"><title>Dublin Lie-ins (Corporate)</title></circle></a><circle cx="330.9" cy="103.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/db5w5db5w5db15w1lo2w1db21y2db5k2y4~x2/

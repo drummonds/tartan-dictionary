@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hebridean 1"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2r3g11r3db2lb2db11r2g2/)
 (the same proportion at any scale), whose colour order is pattern [BRGRBWBRG](/stripes/brgrbwbrg/).
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g22r3db10t2db10r21g22r3y2db2~x2/"><circle cx="228.1" cy="179.1" r="4" fill="#3465a4"><title>Glasgow Cathedral 2000</title></circle></a><a href="/variants/s8/db7r3g7r1g7r3db7lb1~x2/"><circle cx="186.9" cy="244.9" r="4" fill="#3465a4"><title>Hebrides #8</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="228.3" cy="231.4" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/db30r5g30r22db30r5g4/"><circle cx="252.7" cy="247.3" r="4" fill="#3465a4"><title>GS Gaelic School (School)</title></circle></a><a href="/variants/s10/db1g4db1r1db1y1db5r6db1y1~x2/"><circle cx="207.4" cy="212.9" r="4" fill="#3465a4"><title>Unidentified Specimen #3</title></circle></a><a href="/variants/s7/r2y1db8r1g7y1r2~x6/"><circle cx="200.2" cy="214.4" r="4" fill="#3465a4"><title>Cercle de Fermières de Saint-Élie d'Orford</title></circle></a><a href="/variants/s8/r3g6db2dbi2db11g9db2r3~x2~db1204274-dbi1406275/"><circle cx="199.9" cy="242.3" r="4" fill="#3465a4"><title>Daks (Navy)</title></circle></a><a href="/variants/s13/db12w2db2w2db2r10g12r3g12r10db12w2db2~x2/"><circle cx="145.9" cy="208.7" r="4" fill="#3465a4"><title>Black Watch (Piper)</title></circle></a><a href="/variants/s16/r3g11r3db2lb2db11r2g2r2db11lb2db2r3g11r3db2~x2/"><circle cx="172.3" cy="198.4" r="4" fill="#3465a4"><title>Hebrides #6</title></circle></a><a href="/variants/s8/r5g12db4dbi4db22g18db4r5~db0805267-dbi1604274/"><circle cx="186.9" cy="232.9" r="4" fill="#3465a4"><title>Daks, Navy</title></circle></a><circle cx="191.3" cy="218.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g22r3db10t2db10r21g22r3y2db2~x2/"><circle cx="228.1" cy="179.4" r="4" fill="#3465a4"><title>Glasgow Cathedral 2000</title></circle></a><a href="/variants/s8/db7r3g7r1g7r3db7lb1~x2/"><circle cx="187.1" cy="245.5" r="4" fill="#3465a4"><title>Hebrides #8</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="228.4" cy="231.9" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/db30r5g30r22db30r5g4/"><circle cx="252.9" cy="247.9" r="4" fill="#3465a4"><title>GS Gaelic School (School)</title></circle></a><a href="/variants/s10/db1g4db1r1db1y1db5r6db1y1~x2/"><circle cx="207.4" cy="213.3" r="4" fill="#3465a4"><title>Unidentified Specimen #3</title></circle></a><a href="/variants/s7/r2y1db8r1g7y1r2~x6/"><circle cx="200.2" cy="214.9" r="4" fill="#3465a4"><title>Cercle de Fermières de Saint-Élie d'Orford</title></circle></a><a href="/variants/s8/r3g6db2dbi2db11g9db2r3~x2~db1204274-dbi1406275/"><circle cx="200.0" cy="242.9" r="4" fill="#3465a4"><title>Daks (Navy)</title></circle></a><a href="/variants/s13/db12w2db2w2db2r10g12r3g12r10db12w2db2~x2/"><circle cx="145.9" cy="209.3" r="4" fill="#3465a4"><title>Black Watch (Piper)</title></circle></a><a href="/variants/s16/r3g11r3db2lb2db11r2g2r2db11lb2db2r3g11r3db2~x2/"><circle cx="172.4" cy="198.9" r="4" fill="#3465a4"><title>Hebrides #6</title></circle></a><a href="/variants/s8/r5g12db4dbi4db22g18db4r5~db0805267-dbi1604274/"><circle cx="187.0" cy="233.5" r="4" fill="#3465a4"><title>Daks, Navy</title></circle></a><circle cx="191.4" cy="219.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db2r3g11r3db2lb2db11r2g2~x2/

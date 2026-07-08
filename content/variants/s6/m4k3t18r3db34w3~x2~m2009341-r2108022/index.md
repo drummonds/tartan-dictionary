@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Margach, William"
   url: "/tartans/margach-william/"
+- name: "Margach, William (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/m4k3t18r3db34w3/)
 (the same proportion at any scale), whose colour order is pattern [RKBRBW](/stripes/rkbrbw/).
@@ -14,7 +16,7 @@ Part of the [Margach, William](/tartans/margach-william/) tartan — the named d
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10319
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10319](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10319)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp4k3b18r3db34w3~x2/"><circle cx="256.0" cy="155.4" r="4" fill="#3465a4"><title>Margach, William (Dumbarton)</title></circle></a><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.3" cy="147.4" r="4" fill="#3465a4"><title>Shearer (2016)</title></circle></a><a href="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/"><circle cx="195.2" cy="162.7" r="4" fill="#3465a4"><title>Nicolson of Harris (Clan?)</title></circle></a><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="196.9" cy="156.8" r="4" fill="#3465a4"><title>Ferster, James Carney (Personal)</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.1" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s6/w1db15r1n10g2lp1~x4/"><circle cx="292.8" cy="162.8" r="4" fill="#3465a4"><title>Peterson, Oren (Name)</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.7" cy="176.9" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s6/lb3k2g2k1db10w1~x8/"><circle cx="207.3" cy="164.1" r="4" fill="#3465a4"><title>Isle of Harris (District)</title></circle></a><a href="/variants/s5/k8dy2t21w3r2~x4~t2205244/"><circle cx="251.7" cy="166.5" r="4" fill="#3465a4"><title>Oklahoma</title></circle></a><a href="/variants/s5/k8y2t21w3r2~x4~t2205244/"><circle cx="251.5" cy="166.7" r="4" fill="#3465a4"><title>Oklahoma State American District Tartan</title></circle></a><circle cx="239.2" cy="149.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp4k3b18r3db34w3~x2/"><circle cx="256.0" cy="155.6" r="4" fill="#3465a4"><title>Margach, William (Dumbarton)</title></circle></a><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.2" cy="147.6" r="4" fill="#3465a4"><title>Shearer (2016)</title></circle></a><a href="/variants/s6/r3db15dbi8g5k2w1~x2~db1004274-dbi1406275/"><circle cx="195.2" cy="162.9" r="4" fill="#3465a4"><title>Nicolson of Harris (Clan?)</title></circle></a><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="196.9" cy="157.1" r="4" fill="#3465a4"><title>Ferster, James Carney (Personal)</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.4" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s6/w1db15r1n10g2lp1~x4/"><circle cx="292.8" cy="163.0" r="4" fill="#3465a4"><title>Peterson, Oren (Name)</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.7" cy="177.2" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s6/lb3k2g2k1db10w1~x8/"><circle cx="207.3" cy="164.5" r="4" fill="#3465a4"><title>Isle of Harris (District)</title></circle></a><a href="/variants/s5/k8dy2t21w3r2~x4~t2205244/"><circle cx="251.7" cy="167.0" r="4" fill="#3465a4"><title>Oklahoma</title></circle></a><a href="/variants/s5/k8y2t21w3r2~x4~t2205244/"><circle cx="251.5" cy="167.1" r="4" fill="#3465a4"><title>Oklahoma State American District Tartan</title></circle></a><circle cx="239.2" cy="149.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/m4k3t18r3db34w3~x2~m2009341-r2108022/

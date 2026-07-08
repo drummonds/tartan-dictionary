@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Edinburgh District"
   url: "/tartans/edinburgh-district/"
+- name: "Edinburgh District"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3db25r3ri3r3ri5g10r3k2/)
 (the same proportion at any scale), whose colour order is pattern [KRGRRRRBW](/stripes/krgrrrrbw/).
@@ -14,7 +16,7 @@ Part of the [Edinburgh District](/tartans/edinburgh-district/) tartan — the na
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w3db25dr3r3dr3r5g10dr3k2~x2/"><circle cx="171.7" cy="127.5" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/variants/s9/w3b25r3ri3r3ri5g10r3k2~x2~r1707008-ri2109032/"><circle cx="182.6" cy="129.1" r="4" fill="#3465a4"><title>Edinburgh District (District)</title></circle></a><a href="/variants/s9/db46y4db4y4db6k16n66w11r6/"><circle cx="188.2" cy="117.3" r="4" fill="#3465a4"><title>Scottish Association for N.S. (Corp)</title></circle></a><a href="/variants/s10/w2r5k2ly3k4db28r4dg14k4w2~x2/"><circle cx="145.5" cy="109.9" r="4" fill="#3465a4"><title>Loch Lomond &amp; the Trossachs (Fashion</title></circle></a><a href="/variants/s8/g5o2g2o9k9lr9db30w5~x2~lr2800000/"><circle cx="135.1" cy="128.9" r="4" fill="#3465a4"><title>Alexander of Menstry</title></circle></a><a href="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2~db1406275-w4000000/"><circle cx="164.5" cy="140.0" r="4" fill="#3465a4"><title>Asman Hunting (Personal)</title></circle></a><a href="/variants/s9/r2k1y2g3y4g3db12k1w2~x4/"><circle cx="130.4" cy="137.8" r="4" fill="#3465a4"><title>Federated Women's Institutes of</title></circle></a><a href="/variants/s9/w8db50k4r8k6r12g17dp7k4/"><circle cx="141.2" cy="120.0" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/variants/s10/y16k2y6k2r2k2db15g1db1w2~x2/"><circle cx="185.1" cy="107.0" r="4" fill="#3465a4"><title>Otago</title></circle></a><a href="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/"><circle cx="156.1" cy="119.2" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><circle cx="167.3" cy="123.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w3db25dr3r3dr3r5g10dr3k2~x2/"><circle cx="171.7" cy="127.8" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/variants/s9/w3b25r3ri3r3ri5g10r3k2~x2~r1707008-ri2109032/"><circle cx="182.5" cy="129.3" r="4" fill="#3465a4"><title>Edinburgh District (District)</title></circle></a><a href="/variants/s9/db46y4db4y4db6k16n66w11r6/"><circle cx="188.1" cy="117.5" r="4" fill="#3465a4"><title>Scottish Association for N.S. (Corp)</title></circle></a><a href="/variants/s10/w2r5k2ly3k4db28r4dg14k4w2~x2/"><circle cx="145.4" cy="110.1" r="4" fill="#3465a4"><title>Loch Lomond &amp; the Trossachs (Fashion</title></circle></a><a href="/variants/s8/g5o2g2o9k9lr9db30w5~x2~lr2800000/"><circle cx="135.0" cy="129.2" r="4" fill="#3465a4"><title>Alexander of Menstry</title></circle></a><a href="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2~db1406275-w4000000/"><circle cx="164.5" cy="140.2" r="4" fill="#3465a4"><title>Asman Hunting (Personal)</title></circle></a><a href="/variants/s9/r2k1y2g3y4g3db12k1w2~x4/"><circle cx="130.4" cy="138.0" r="4" fill="#3465a4"><title>Federated Women's Institutes of</title></circle></a><a href="/variants/s9/w8db50k4r8k6r12g17dp7k4/"><circle cx="141.2" cy="120.3" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><a href="/variants/s10/y16k2y6k2r2k2db15g1db1w2~x2/"><circle cx="185.0" cy="107.3" r="4" fill="#3465a4"><title>Otago</title></circle></a><a href="/variants/s9/w3db22k2r3k2r5g7b2k2~x2/"><circle cx="156.1" cy="119.5" r="4" fill="#3465a4"><title>Edinburgh</title></circle></a><circle cx="167.3" cy="123.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/w3db25r3ri3r3ri5g10r3k2~x2~r1506028-ri2008029/

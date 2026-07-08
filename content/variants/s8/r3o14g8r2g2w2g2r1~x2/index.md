@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scott, hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3o14g8r2g2w2g2r1/)
 (the same proportion at any scale), whose colour order is pattern [RGWGRGRR](/stripes/rgwgrgrr/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r3dy16g10r3g3lb2g3r3~x2/"><circle cx="221.2" cy="215.5" r="4" fill="#3465a4"><title>Scott Htg (Clan)</title></circle></a><a href="/variants/s8/g18lb3y1r2y1r3y1r10~x4/"><circle cx="327.9" cy="168.8" r="4" fill="#3465a4"><title>Brisbane (Artefact)</title></circle></a><a href="/variants/s9/r3g3lo2r18w2g21lo2g2lo3~x2/"><circle cx="293.4" cy="179.6" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="324.7" cy="205.6" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s7/r2g16ri1r2ri12y1lb1~x2~r1706009-ri2109032/"><circle cx="311.6" cy="165.0" r="4" fill="#3465a4"><title>Spragg (Name)</title></circle></a><a href="/variants/s7/ri2r1ri10r2g10w1g2~x2~ri2008029-r1506028/"><circle cx="283.0" cy="203.1" r="4" fill="#3465a4"><title>Lennox</title></circle></a><a href="/variants/s8/r5g2r2g35lo20r2lo20r2/"><circle cx="342.0" cy="190.0" r="4" fill="#3465a4"><title>PeachyKeen</title></circle></a><a href="/variants/s7/g5y5g5y35dr44r3dr3~x2~g2408144/"><circle cx="360.9" cy="191.1" r="4" fill="#3465a4"><title>Fernandes Family Tartan</title></circle></a><a href="/variants/s9/r14y2r6k1y14k1g10y1g10~x2/"><circle cx="227.0" cy="191.8" r="4" fill="#3465a4"><title>Grant, Champion</title></circle></a><a href="/variants/s7/g5y5g5y35dr44r3dr3~x2/"><circle cx="370.0" cy="194.1" r="4" fill="#3465a4"><title>Fernandes (Personal)</title></circle></a><circle cx="300.6" cy="197.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r3dy16g10r3g3lb2g3r3~x2/"><circle cx="221.3" cy="216.0" r="4" fill="#3465a4"><title>Scott Htg (Clan)</title></circle></a><a href="/variants/s8/g18lb3y1r2y1r3y1r10~x4/"><circle cx="327.9" cy="169.1" r="4" fill="#3465a4"><title>Brisbane (Artefact)</title></circle></a><a href="/variants/s9/r3g3lo2r18w2g21lo2g2lo3~x2/"><circle cx="293.5" cy="180.0" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="324.8" cy="206.0" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s7/r2g16ri1r2ri12y1lb1~x2~r1706009-ri2109032/"><circle cx="311.6" cy="165.2" r="4" fill="#3465a4"><title>Spragg (Name)</title></circle></a><a href="/variants/s7/ri2r1ri10r2g10w1g2~x2~ri2008029-r1506028/"><circle cx="283.1" cy="203.6" r="4" fill="#3465a4"><title>Lennox</title></circle></a><a href="/variants/s8/r5g2r2g35lo20r2lo20r2/"><circle cx="342.1" cy="190.4" r="4" fill="#3465a4"><title>PeachyKeen</title></circle></a><a href="/variants/s7/g5y5g5y35dr44r3dr3~x2~g2408144/"><circle cx="360.9" cy="191.4" r="4" fill="#3465a4"><title>Fernandes Family Tartan</title></circle></a><a href="/variants/s9/r14y2r6k1y14k1g10y1g10~x2/"><circle cx="227.1" cy="192.2" r="4" fill="#3465a4"><title>Grant, Champion</title></circle></a><a href="/variants/s7/g5y5g5y35dr44r3dr3~x2/"><circle cx="370.1" cy="194.4" r="4" fill="#3465a4"><title>Fernandes (Personal)</title></circle></a><circle cx="300.7" cy="198.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r3o14g8r2g2w2g2r1~x2/

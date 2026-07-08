@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Devon, Original"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n5g4w1g4o4dg4y1/)
 (the same proportion at any scale), whose colour order is pattern [BGWGRGG](/stripes/bgwgrgg/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w5g4b1g4r4b1dg4y1~x2~g2104115-dg1304144/"><circle cx="74.8" cy="235.2" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/variants/s5/lo17y17o17g26db5~x2/"><circle cx="168.2" cy="311.5" r="4" fill="#3465a4"><title>Wild Mustard Dreams</title></circle></a><a href="/variants/s6/r4t19g10n10dy15y2~x2/"><circle cx="187.4" cy="249.1" r="4" fill="#3465a4"><title>Isle of Rona (District)</title></circle></a><a href="/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/"><circle cx="241.4" cy="281.6" r="4" fill="#3465a4"><title>Styrian (Fashion)</title></circle></a><circle cx="152.1" cy="281.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w5g4b1g4r4b1dg4y1~x2~g2104115-dg1304144/"><circle cx="75.0" cy="235.8" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/variants/s5/lo17y17o17g26db5~x2/"><circle cx="168.4" cy="312.2" r="4" fill="#3465a4"><title>Wild Mustard Dreams</title></circle></a><a href="/variants/s6/r4t19g10n10dy15y2~x2/"><circle cx="187.5" cy="249.4" r="4" fill="#3465a4"><title>Isle of Rona (District)</title></circle></a><a href="/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/"><circle cx="241.5" cy="282.1" r="4" fill="#3465a4"><title>Styrian (Fashion)</title></circle></a><circle cx="152.3" cy="281.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/n5g4w1g4o4dg4y1~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified #65"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3db3r20k20db20g3/)
 (the same proportion at any scale), whose colour order is pattern [GBKRBR](/stripes/gbkrbr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5055
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5055](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5055)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/n32w4n4k24dp29k4/"><circle cx="171.5" cy="210.0" r="4" fill="#3465a4"><title>Grammar School at Leeds (School)</title></circle></a><a href="/variants/s5/db13k13db13r29y4~x2/"><circle cx="171.2" cy="236.3" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/variants/s6/k4o19k19o2dp22w4~x2/"><circle cx="142.0" cy="192.3" r="4" fill="#3465a4"><title>Dutch (District)</title></circle></a><a href="/variants/s6/w5dr34k22dr4lb24dr4~x2/"><circle cx="181.3" cy="199.8" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><a href="/variants/s5/r2dp8k8w1r2~x2/"><circle cx="176.2" cy="210.5" r="4" fill="#3465a4"><title>Inder (Corporate)</title></circle></a><a href="/variants/s7/y3db22k3db3k11r20y3~x2/"><circle cx="162.8" cy="191.8" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s9/db23k4db4r4db4r25w4k4w4~x2/"><circle cx="173.5" cy="176.1" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.3" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s6/db5k1g1k1r3k1~x4/"><circle cx="156.4" cy="219.5" r="4" fill="#3465a4"><title>Clerk</title></circle></a><a href="/variants/s7/lb5k26y4lb24dp8k3r4~x2/"><circle cx="135.4" cy="165.9" r="4" fill="#3465a4"><title>Pengelly, The Cornish (Name)</title></circle></a><circle cx="139.0" cy="210.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/n32w4n4k24dp29k4/"><circle cx="171.5" cy="210.6" r="4" fill="#3465a4"><title>Grammar School at Leeds (School)</title></circle></a><a href="/variants/s5/db13k13db13r29y4~x2/"><circle cx="171.3" cy="237.0" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/variants/s6/k4o19k19o2dp22w4~x2/"><circle cx="142.0" cy="192.8" r="4" fill="#3465a4"><title>Dutch (District)</title></circle></a><a href="/variants/s6/w5dr34k22dr4lb24dr4~x2/"><circle cx="181.4" cy="200.4" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><a href="/variants/s5/r2dp8k8w1r2~x2/"><circle cx="176.2" cy="211.1" r="4" fill="#3465a4"><title>Inder (Corporate)</title></circle></a><a href="/variants/s7/y3db22k3db3k11r20y3~x2/"><circle cx="162.9" cy="192.3" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s9/db23k4db4r4db4r25w4k4w4~x2/"><circle cx="173.5" cy="176.6" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.9" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s6/db5k1g1k1r3k1~x4/"><circle cx="156.5" cy="220.1" r="4" fill="#3465a4"><title>Clerk</title></circle></a><a href="/variants/s7/lb5k26y4lb24dp8k3r4~x2/"><circle cx="135.4" cy="166.4" r="4" fill="#3465a4"><title>Pengelly, The Cornish (Name)</title></circle></a><circle cx="139.0" cy="211.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r3db3r20k20db20g3~x2/

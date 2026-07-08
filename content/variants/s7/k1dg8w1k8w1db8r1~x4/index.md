@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Caie (2013)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1dg8w1k8w1db8r1/)
 (the same proportion at any scale), whose colour order is pattern [KGWKWBR](/stripes/kgwkwbr/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10865
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10865](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10865)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k1g8w1k8db8r1~x4/"><circle cx="109.3" cy="193.7" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/variants/s6/k1g8w1k8db8r1~x4~db1004274/"><circle cx="111.9" cy="193.4" r="4" fill="#3465a4"><title>Syme</title></circle></a><a href="/variants/s6/r2db8k8w1g8k1/"><circle cx="95.6" cy="198.7" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/variants/s6/r2db8k8w1g8k1~x2/"><circle cx="95.6" cy="198.7" r="4" fill="#3465a4"><title>Leslie, hunting</title></circle></a><a href="/variants/s6/k2g17k16r2db17w2~x2/"><circle cx="109.5" cy="191.6" r="4" fill="#3465a4"><title>Galbraith</title></circle></a><a href="/variants/s6/k2g12k12r1db12w2~x2/"><circle cx="121.4" cy="180.4" r="4" fill="#3465a4"><title>Russell or Mitchell or Hunter or Galbraith</title></circle></a><a href="/variants/s6/k2g12k12r1db12w2/"><circle cx="121.4" cy="180.4" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/variants/s6/k2g11y1k8db9r2~x4/"><circle cx="118.8" cy="189.9" r="4" fill="#3465a4"><title>Forsyth</title></circle></a><a href="/variants/s6/k2g17k16dr2db17lr2~x2/"><circle cx="117.6" cy="194.6" r="4" fill="#3465a4"><title>Mitchell (Clan)</title></circle></a><a href="/variants/s6/dr1k1g6k6db6lr1~x4/"><circle cx="99.9" cy="212.9" r="4" fill="#3465a4"><title>Gaines Center for the Humanities</title></circle></a><circle cx="116.3" cy="182.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k1g8w1k8db8r1~x4/"><circle cx="109.3" cy="194.2" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/variants/s6/k1g8w1k8db8r1~x4~db1004274/"><circle cx="111.9" cy="193.9" r="4" fill="#3465a4"><title>Syme</title></circle></a><a href="/variants/s6/r2db8k8w1g8k1/"><circle cx="95.7" cy="199.2" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/variants/s6/r2db8k8w1g8k1~x2/"><circle cx="95.7" cy="199.2" r="4" fill="#3465a4"><title>Leslie, hunting</title></circle></a><a href="/variants/s6/k2g17k16r2db17w2~x2/"><circle cx="109.5" cy="192.1" r="4" fill="#3465a4"><title>Galbraith</title></circle></a><a href="/variants/s6/k2g12k12r1db12w2~x2/"><circle cx="121.4" cy="180.8" r="4" fill="#3465a4"><title>Russell or Mitchell or Hunter or Galbraith</title></circle></a><a href="/variants/s6/k2g12k12r1db12w2/"><circle cx="121.4" cy="180.8" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><a href="/variants/s6/k2g11y1k8db9r2~x4/"><circle cx="118.8" cy="190.4" r="4" fill="#3465a4"><title>Forsyth</title></circle></a><a href="/variants/s6/k2g17k16dr2db17lr2~x2/"><circle cx="117.6" cy="195.1" r="4" fill="#3465a4"><title>Mitchell (Clan)</title></circle></a><a href="/variants/s6/dr1k1g6k6db6lr1~x4/"><circle cx="100.0" cy="213.4" r="4" fill="#3465a4"><title>Gaines Center for the Humanities</title></circle></a><circle cx="116.3" cy="182.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k1dg8w1k8w1db8r1~x4/

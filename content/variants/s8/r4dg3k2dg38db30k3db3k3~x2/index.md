@@ -10,6 +10,8 @@ crumbs:
   url: "/families/peter-of-lee/"
 - name: "Peter of Lee"
   url: "/tartans/peter-of-lee/"
+- name: "Peter of Lee"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4dg3k2dg38db30k3db3k3/)
 (the same proportion at any scale), whose colour order is pattern [KBKBGKGR](/stripes/kbkbgkgr/).
@@ -18,7 +20,7 @@ Part of the [Peter of Lee](/tartans/peter-of-lee/) tartan — the named design g
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -85,8 +87,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r4dg4k2dg29db21k3db3y3~x2/"><circle cx="302.4" cy="161.7" r="4" fill="#3465a4"><title>Peter of Lee (Chief) (Personal)</title></circle></a><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/"><circle cx="355.7" cy="171.3" r="4" fill="#3465a4"><title>Laurie</title></circle></a><a href="/variants/s9/db1k8db2dg16dr6dg16db2k8w1~x2/"><circle cx="290.2" cy="167.7" r="4" fill="#3465a4"><title>Basel Tattoo (Official)</title></circle></a><a href="/variants/s7/dp6ly2dp1dg25db16k2db4~x2/"><circle cx="326.9" cy="162.6" r="4" fill="#3465a4"><title>Lowry</title></circle></a><a href="/variants/s7/dg30db4dg2k20db18r1db4~x2/"><circle cx="300.1" cy="168.0" r="4" fill="#3465a4"><title>MacTaggart</title></circle></a><a href="/variants/s8/dg40k20db10k4db7dg13k4db4~x2/"><circle cx="336.0" cy="218.0" r="4" fill="#3465a4"><title>Letham Personal Tartan</title></circle></a><a href="/variants/s9/dg15db20k2r4k2db20dg15k2dy2~x2/"><circle cx="297.0" cy="194.7" r="4" fill="#3465a4"><title>Manroth (Personal)</title></circle></a><a href="/variants/s7/dg27dr2dg4o15db26k2db6~x2~dg1703114/"><circle cx="252.6" cy="190.1" r="4" fill="#3465a4"><title>Bailies of Bennachie Corporate Tartan</title></circle></a><a href="/variants/s7/dy2k27g9k2db29k1g2~x2~k0503265-db1003265/"><circle cx="326.6" cy="158.0" r="4" fill="#3465a4"><title>Caledonian Canals (Corporate)</title></circle></a><a href="/variants/s8/dr2dg13dr2dg13k13db30k1y2~x2/"><circle cx="280.4" cy="148.5" r="4" fill="#3465a4"><title>Chan (Name?)</title></circle></a><circle cx="351.4" cy="159.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r4dg4k2dg29db21k3db3y3~x2/"><circle cx="302.3" cy="161.8" r="4" fill="#3465a4"><title>Peter of Lee (Chief) (Personal)</title></circle></a><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/"><circle cx="355.6" cy="171.2" r="4" fill="#3465a4"><title>Laurie</title></circle></a><a href="/variants/s9/db1k8db2dg16dr6dg16db2k8w1~x2/"><circle cx="290.1" cy="167.9" r="4" fill="#3465a4"><title>Basel Tattoo (Official)</title></circle></a><a href="/variants/s7/dp6ly2dp1dg25db16k2db4~x2/"><circle cx="326.9" cy="162.6" r="4" fill="#3465a4"><title>Lowry</title></circle></a><a href="/variants/s7/dg30db4dg2k20db18r1db4~x2/"><circle cx="300.1" cy="168.1" r="4" fill="#3465a4"><title>MacTaggart</title></circle></a><a href="/variants/s8/dg40k20db10k4db7dg13k4db4~x2/"><circle cx="336.0" cy="218.4" r="4" fill="#3465a4"><title>Letham Personal Tartan</title></circle></a><a href="/variants/s9/dg15db20k2r4k2db20dg15k2dy2~x2/"><circle cx="297.0" cy="194.9" r="4" fill="#3465a4"><title>Manroth (Personal)</title></circle></a><a href="/variants/s7/dg27dr2dg4o15db26k2db6~x2~dg1703114/"><circle cx="252.7" cy="190.3" r="4" fill="#3465a4"><title>Bailies of Bennachie Corporate Tartan</title></circle></a><a href="/variants/s7/dy2k27g9k2db29k1g2~x2~k0503265-db1003265/"><circle cx="326.6" cy="158.1" r="4" fill="#3465a4"><title>Caledonian Canals (Corporate)</title></circle></a><a href="/variants/s8/dr2dg13dr2dg13k13db30k1y2~x2/"><circle cx="280.3" cy="148.5" r="4" fill="#3465a4"><title>Chan (Name?)</title></circle></a><circle cx="351.3" cy="159.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r4dg3k2dg38db30k3db3k3~x2/

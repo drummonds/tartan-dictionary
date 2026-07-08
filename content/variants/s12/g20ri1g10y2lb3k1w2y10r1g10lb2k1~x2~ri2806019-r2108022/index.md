@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lethbridge, City of"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g20ri1g10y2lb3k1w2y10r1g10lb2k1/)
 (the same proportion at any scale), whose colour order is pattern [GRGGWKWGRGWK](/stripes/grggwkwgrgwk/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2107
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2107](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2107)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g49t6k12ly4dr6g29lyi4dy16g7ly4~x2~ly2503076-lyi2705081/"><circle cx="269.9" cy="130.9" r="4" fill="#3465a4"><title>State Seal of New Hampshire (Fash.)</title></circle></a><a href="/variants/s13/g50dg3k3dg9db7dg2w4dg2r5dg2g8dg5dy4~x2~dg1605139/"><circle cx="286.1" cy="70.0" r="4" fill="#3465a4"><title>Irish American</title></circle></a><a href="/variants/s10/g55r4n3dp11w4db11n3r4g55k4~x2/"><circle cx="358.4" cy="92.9" r="4" fill="#3465a4"><title>Rollings (Personal)</title></circle></a><a href="/variants/s9/g40db8g8o8dt5o13k9g40r4~db1906256-dt1603265/"><circle cx="308.9" cy="163.4" r="4" fill="#3465a4"><title>Vorwerk, The</title></circle></a><a href="/variants/s10/g55dr4lb3dp11w4db11lb3dr4g55k4~x2/"><circle cx="352.6" cy="92.0" r="4" fill="#3465a4"><title>Rollings Personal Tartan</title></circle></a><circle cx="326.9" cy="109.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g49t6k12ly4dr6g29lyi4dy16g7ly4~x2~ly2503076-lyi2705081/"><circle cx="269.9" cy="131.1" r="4" fill="#3465a4"><title>State Seal of New Hampshire (Fash.)</title></circle></a><a href="/variants/s13/g50dg3k3dg9db7dg2w4dg2r5dg2g8dg5dy4~x2~dg1605139/"><circle cx="286.0" cy="69.9" r="4" fill="#3465a4"><title>Irish American</title></circle></a><a href="/variants/s10/g55r4n3dp11w4db11n3r4g55k4~x2/"><circle cx="358.3" cy="93.0" r="4" fill="#3465a4"><title>Rollings (Personal)</title></circle></a><a href="/variants/s9/g40db8g8o8dt5o13k9g40r4~db1906256-dt1603265/"><circle cx="308.9" cy="163.7" r="4" fill="#3465a4"><title>Vorwerk, The</title></circle></a><a href="/variants/s10/g55dr4lb3dp11w4db11lb3dr4g55k4~x2/"><circle cx="352.5" cy="92.1" r="4" fill="#3465a4"><title>Rollings Personal Tartan</title></circle></a><circle cx="326.9" cy="109.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/g20ri1g10y2lb3k1w2y10r1g10lb2k1~x2~ri2806019-r2108022/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Spirit of Lanarkshire (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k83y2db4r2k8g5r4w3/)
 (the same proportion at any scale), whose colour order is pattern [KGBRKGRW](/stripes/kgbrkgrw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6587
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6587](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6587)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db8r1k6r1ly8r1k45ly1~x2/"><circle cx="416.3" cy="66.7" r="4" fill="#3465a4"><title>degli Uberti, Baron of Cartsburn (P)</title></circle></a><a href="/variants/s10/w2dr3g5k50g4dr3w2lb3k2ly2~x2/"><circle cx="337.0" cy="44.3" r="4" fill="#3465a4"><title>Hawes (Personal)</title></circle></a><a href="/variants/s6/k83g4r4g10k1w3~x2/"><circle cx="501.7" cy="72.3" r="4" fill="#3465a4"><title>Perratt (Personal)</title></circle></a><a href="/variants/s7/dr90k3lb10k5r2k2lb2~x2/"><circle cx="515.9" cy="38.0" r="4" fill="#3465a4"><title>Lock in Northumberland</title></circle></a><a href="/variants/s6/k10lb2w5lb4k50t2~x2/"><circle cx="477.4" cy="107.3" r="4" fill="#3465a4"><title>London Fog Black</title></circle></a><a href="/variants/s6/k45db2dr2r2y1w1~x2/"><circle cx="447.3" cy="19.6" r="4" fill="#3465a4"><title>MacHattie Family Tartan</title></circle></a><a href="/variants/s5/k45t2r4y1w1~x2/"><circle cx="539.5" cy="74.1" r="4" fill="#3465a4"><title>McHattie (Personal)</title></circle></a><a href="/variants/s5/k45db2r4y1w1~x2/"><circle cx="546.9" cy="75.9" r="4" fill="#3465a4"><title>McHattie (Personal)</title></circle></a><a href="/variants/s7/t1k50r1k2n4db7w1~x2/"><circle cx="480.4" cy="40.9" r="4" fill="#3465a4"><title>Colleges Scotland (Corp)</title></circle></a><a href="/variants/s8/k60r3k15r3lb2r5db3r2~x2/"><circle cx="493.2" cy="79.5" r="4" fill="#3465a4"><title>Whitaker (2014)</title></circle></a><circle cx="481.8" cy="32.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db8r1k6r1ly8r1k45ly1~x2/"><circle cx="416.1" cy="66.8" r="4" fill="#3465a4"><title>degli Uberti, Baron of Cartsburn (P)</title></circle></a><a href="/variants/s10/w2dr3g5k50g4dr3w2lb3k2ly2~x2/"><circle cx="336.8" cy="44.4" r="4" fill="#3465a4"><title>Hawes (Personal)</title></circle></a><a href="/variants/s6/k83g4r4g10k1w3~x2/"><circle cx="501.6" cy="72.5" r="4" fill="#3465a4"><title>Perratt (Personal)</title></circle></a><a href="/variants/s7/dr90k3lb10k5r2k2lb2~x2/"><circle cx="515.7" cy="38.0" r="4" fill="#3465a4"><title>Lock in Northumberland</title></circle></a><a href="/variants/s6/k10lb2w5lb4k50t2~x2/"><circle cx="477.3" cy="107.6" r="4" fill="#3465a4"><title>London Fog Black</title></circle></a><a href="/variants/s6/k45db2dr2r2y1w1~x2/"><circle cx="447.1" cy="19.5" r="4" fill="#3465a4"><title>MacHattie Family Tartan</title></circle></a><a href="/variants/s5/k45t2r4y1w1~x2/"><circle cx="539.4" cy="74.2" r="4" fill="#3465a4"><title>McHattie (Personal)</title></circle></a><a href="/variants/s5/k45db2r4y1w1~x2/"><circle cx="546.7" cy="76.0" r="4" fill="#3465a4"><title>McHattie (Personal)</title></circle></a><a href="/variants/s7/t1k50r1k2n4db7w1~x2/"><circle cx="480.1" cy="40.8" r="4" fill="#3465a4"><title>Colleges Scotland (Corp)</title></circle></a><a href="/variants/s8/k60r3k15r3lb2r5db3r2~x2/"><circle cx="493.0" cy="79.7" r="4" fill="#3465a4"><title>Whitaker (2014)</title></circle></a><circle cx="481.6" cy="32.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k83y2db4r2k8g5r4w3~x2/

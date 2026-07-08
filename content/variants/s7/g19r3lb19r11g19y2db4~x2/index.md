@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Rotary"
   url: "/tartans/rotary/"
+- name: "Rotary Corporate Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g19r3lb19r11g19y2db4/)
 (the same proportion at any scale), whose colour order is pattern [BGGRWRG](/stripes/bggrwrg/).
@@ -14,7 +16,7 @@ Part of the [Rotary](/tartans/rotary/) tartan — the named design grouping this
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2187
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2187](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2187)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g15r3lb15r8g15ly2db4~x2/"><circle cx="216.7" cy="232.9" r="4" fill="#3465a4"><title>Rotary International</title></circle></a><a href="/variants/s7/g25r4db25r13g25y2lb6~x2/"><circle cx="239.6" cy="205.2" r="4" fill="#3465a4"><title>Rotary</title></circle></a><a href="/variants/s7/db24r27g20y6g20r2lb3~x2/"><circle cx="195.7" cy="203.5" r="4" fill="#3465a4"><title>Buchanhaven Heritage</title></circle></a><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="224.9" cy="225.0" r="4" fill="#3465a4"><title>ChuMac (Personal)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="279.0" cy="230.7" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2/"><circle cx="279.0" cy="230.7" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s7/r6g4do14w4do7g30lo4~x2/"><circle cx="238.5" cy="204.9" r="4" fill="#3465a4"><title>Newfoundland (District)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/"><circle cx="277.4" cy="230.0" r="4" fill="#3465a4"><title>Cameron Hunting Clan Tartan</title></circle></a><a href="/variants/s7/r5g20r5g20db24g6y4/"><circle cx="273.7" cy="248.9" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan</title></circle></a><a href="/variants/s6/o2g8dp4w2o13t2~x4/"><circle cx="252.1" cy="231.9" r="4" fill="#3465a4"><title>Ellan Vannin</title></circle></a><circle cx="238.7" cy="220.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g15r3lb15r8g15ly2db4~x2/"><circle cx="216.8" cy="233.4" r="4" fill="#3465a4"><title>Rotary International</title></circle></a><a href="/variants/s7/g25r4db25r13g25y2lb6~x2/"><circle cx="239.6" cy="205.6" r="4" fill="#3465a4"><title>Rotary</title></circle></a><a href="/variants/s7/db24r27g20y6g20r2lb3~x2/"><circle cx="195.7" cy="203.9" r="4" fill="#3465a4"><title>Buchanhaven Heritage</title></circle></a><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="225.1" cy="225.5" r="4" fill="#3465a4"><title>ChuMac (Personal)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s7/r6g4do14w4do7g30lo4~x2/"><circle cx="238.6" cy="205.3" r="4" fill="#3465a4"><title>Newfoundland (District)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/"><circle cx="277.5" cy="230.5" r="4" fill="#3465a4"><title>Cameron Hunting Clan Tartan</title></circle></a><a href="/variants/s7/r5g20r5g20db24g6y4/"><circle cx="273.8" cy="249.5" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan</title></circle></a><a href="/variants/s6/o2g8dp4w2o13t2~x4/"><circle cx="252.2" cy="232.4" r="4" fill="#3465a4"><title>Ellan Vannin</title></circle></a><circle cx="238.8" cy="221.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g19r3lb19r11g19y2db4~x2/

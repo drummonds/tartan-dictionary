@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Falkirk"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4lb4k2lb4k2lb22ly27y2r3/)
 (the same proportion at any scale), whose colour order is pattern [KWKWKWYGR](/stripes/kwkwkwygr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1146
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1146](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1146)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/ly24k5r2k2w2n8w3k2w2ly2~x2/"><circle cx="189.0" cy="115.2" r="4" fill="#3465a4"><title>Stuart/Stewart Fawn</title></circle></a><a href="/variants/s8/k3r1y1lb11g13lb5r1y1~x4/"><circle cx="198.5" cy="151.2" r="4" fill="#3465a4"><title>Snodgrass (Clan)</title></circle></a><a href="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/"><circle cx="214.2" cy="97.6" r="4" fill="#3465a4"><title>Glenmore Pink</title></circle></a><a href="/variants/s13/w9r5w29k10y2k3w3k3g12r6k3r3w2~x2/"><circle cx="160.8" cy="110.3" r="4" fill="#3465a4"><title>Hay, or Stewart</title></circle></a><a href="/variants/s8/lb4k13lb17ly2r2ly24lb2w2~x2/"><circle cx="162.6" cy="155.3" r="4" fill="#3465a4"><title>Lalage (Personal)</title></circle></a><a href="/variants/s6/w43k5r3g5y27o5~x2/"><circle cx="195.2" cy="135.2" r="4" fill="#3465a4"><title>Reekie, Charlene</title></circle></a><a href="/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/"><circle cx="182.4" cy="127.2" r="4" fill="#3465a4"><title>Etive, Burgundy (Dance)</title></circle></a><a href="/variants/s14/r6g4y4g25r4g6r4g6w34g4w4k4r4w6/"><circle cx="145.6" cy="137.6" r="4" fill="#3465a4"><title>Hay, White Dress</title></circle></a><a href="/variants/s9/y1k6g4k1w16lb1w4lb6w1~x2/"><circle cx="201.2" cy="126.3" r="4" fill="#3465a4"><title>Henderson Dress (Clan?)</title></circle></a><a href="/variants/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2/"><circle cx="152.7" cy="123.5" r="4" fill="#3465a4"><title>North West Territories (District)</title></circle></a><circle cx="197.2" cy="129.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/ly24k5r2k2w2n8w3k2w2ly2~x2/"><circle cx="188.9" cy="115.6" r="4" fill="#3465a4"><title>Stuart/Stewart Fawn</title></circle></a><a href="/variants/s8/k3r1y1lb11g13lb5r1y1~x4/"><circle cx="198.5" cy="151.6" r="4" fill="#3465a4"><title>Snodgrass (Clan)</title></circle></a><a href="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/"><circle cx="214.1" cy="97.9" r="4" fill="#3465a4"><title>Glenmore Pink</title></circle></a><a href="/variants/s13/w9r5w29k10y2k3w3k3g12r6k3r3w2~x2/"><circle cx="160.7" cy="110.7" r="4" fill="#3465a4"><title>Hay, or Stewart</title></circle></a><a href="/variants/s8/lb4k13lb17ly2r2ly24lb2w2~x2/"><circle cx="162.6" cy="155.8" r="4" fill="#3465a4"><title>Lalage (Personal)</title></circle></a><a href="/variants/s6/w43k5r3g5y27o5~x2/"><circle cx="195.2" cy="135.6" r="4" fill="#3465a4"><title>Reekie, Charlene</title></circle></a><a href="/variants/s9/r15ri1g3k1w11r3g3ri3w1~x4~r1506019-ri2806019/"><circle cx="182.4" cy="127.6" r="4" fill="#3465a4"><title>Etive, Burgundy (Dance)</title></circle></a><a href="/variants/s14/r6g4y4g25r4g6r4g6w34g4w4k4r4w6/"><circle cx="145.6" cy="138.0" r="4" fill="#3465a4"><title>Hay, White Dress</title></circle></a><a href="/variants/s9/y1k6g4k1w16lb1w4lb6w1~x2/"><circle cx="201.2" cy="126.8" r="4" fill="#3465a4"><title>Henderson Dress (Clan?)</title></circle></a><a href="/variants/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2/"><circle cx="152.7" cy="123.8" r="4" fill="#3465a4"><title>North West Territories (District)</title></circle></a><circle cx="197.2" cy="130.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k4lb4k2lb4k2lb22ly27y2r3~x2/

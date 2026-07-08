@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Tyndrum"
   url: "/tartans/tyndrum/"
+- name: "Tyndrum District Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n6k1n1k1n2k4dy6k1n2k2/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKGKBK](/stripes/bkbkbkgkbk/).
@@ -14,7 +16,7 @@ Part of the [Tyndrum](/tartans/tyndrum/) tartan — the named design grouping th
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1128
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1128](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1128)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n6k1n1k1n2k4ly6k1n2k2~x8/"><circle cx="166.4" cy="211.6" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/variants/s10/n6k1n1k1n2k4o6k1n2k2~x4/"><circle cx="183.3" cy="212.2" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6~n1900000-o2500000/"><circle cx="149.7" cy="200.7" r="4" fill="#3465a4"><title>Monarch of Argyll (Fashion)</title></circle></a><a href="/variants/s13/y18k3y3k3y3k13dg16k4dg16k13y16k3y3~x2/"><circle cx="162.0" cy="212.0" r="4" fill="#3465a4"><title>Campbell Collegiate</title></circle></a><a href="/variants/s13/do12k2do2k2do2k10g12k3g12k10do12k2do2~x2/"><circle cx="159.5" cy="212.2" r="4" fill="#3465a4"><title>Brown Watch (Fashion)</title></circle></a><a href="/variants/s12/o23k3o3k3n19k20n3k20n19o19n3o3~x2~o2500000-n1900000/"><circle cx="151.3" cy="197.0" r="4" fill="#3465a4"><title>Monarch of Argyll (Corporate)</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.8" cy="200.6" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s11/n1lb1n6k6lb1k6lb1n2lb1n3lb1~x2/"><circle cx="179.9" cy="202.9" r="4" fill="#3465a4"><title>Clergy (Grey)</title></circle></a><a href="/variants/s13/dt16k3dt3k3dt3k16g15k3g15k16dt15k3dt3~x2/"><circle cx="163.3" cy="219.9" r="4" fill="#3465a4"><title>42nd Regiment (Military)</title></circle></a><a href="/variants/s11/k2g2db10k10g2k10g2db3g2db5g2~x2/"><circle cx="189.9" cy="219.3" r="4" fill="#3465a4"><title>Clergy (Clark) (Clan)</title></circle></a><circle cx="203.3" cy="221.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n6k1n1k1n2k4ly6k1n2k2~x8/"><circle cx="166.5" cy="212.3" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/variants/s10/n6k1n1k1n2k4o6k1n2k2~x4/"><circle cx="183.4" cy="212.8" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/variants/s12/n23k6n6k6o38k40o6k40o38n38o6n6~n1900000-o2500000/"><circle cx="149.7" cy="201.2" r="4" fill="#3465a4"><title>Monarch of Argyll (Fashion)</title></circle></a><a href="/variants/s13/y18k3y3k3y3k13dg16k4dg16k13y16k3y3~x2/"><circle cx="162.0" cy="212.5" r="4" fill="#3465a4"><title>Campbell Collegiate</title></circle></a><a href="/variants/s13/do12k2do2k2do2k10g12k3g12k10do12k2do2~x2/"><circle cx="159.5" cy="212.8" r="4" fill="#3465a4"><title>Brown Watch (Fashion)</title></circle></a><a href="/variants/s12/o23k3o3k3n19k20n3k20n19o19n3o3~x2~o2500000-n1900000/"><circle cx="151.4" cy="197.5" r="4" fill="#3465a4"><title>Monarch of Argyll (Corporate)</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.9" cy="201.2" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s11/n1lb1n6k6lb1k6lb1n2lb1n3lb1~x2/"><circle cx="180.0" cy="203.5" r="4" fill="#3465a4"><title>Clergy (Grey)</title></circle></a><a href="/variants/s13/dt16k3dt3k3dt3k16g15k3g15k16dt15k3dt3~x2/"><circle cx="163.4" cy="220.5" r="4" fill="#3465a4"><title>42nd Regiment (Military)</title></circle></a><a href="/variants/s11/k2g2db10k10g2k10g2db3g2db5g2~x2/"><circle cx="189.9" cy="219.9" r="4" fill="#3465a4"><title>Clergy (Clark) (Clan)</title></circle></a><circle cx="203.3" cy="221.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/n6k1n1k1n2k4dy6k1n2k2~x4/

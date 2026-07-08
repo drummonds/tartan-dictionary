@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Sanix"
   url: "/tartans/sanix/"
+- name: "Sanix Modern"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2db16k11b19y2/)
 (the same proportion at any scale), whose colour order is pattern [GBKBR](/stripes/gbkbr/).
@@ -14,7 +16,7 @@ Part of the [Sanix](/tartans/sanix/) tartan — the named design grouping this s
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="152.7" cy="199.1" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/variants/s5/r6db35k36dbi36w6~db0805267-dbi1604274/"><circle cx="105.1" cy="234.9" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/dr1dbi8k6db10lo1~x4~dbi1404245-db1204274/"><circle cx="219.2" cy="226.3" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s6/w2dbi15n2db20r9w2~x2~dbi1604274-db0805267/"><circle cx="193.0" cy="196.7" r="4" fill="#3465a4"><title>The Open Championship</title></circle></a><a href="/variants/s5/k7lb3dy30db30w3~x2/"><circle cx="227.5" cy="202.6" r="4" fill="#3465a4"><title>Douglas, (Brown)</title></circle></a><a href="/variants/s5/b30k12db12k2w3~x2/"><circle cx="244.7" cy="184.8" r="4" fill="#3465a4"><title>MacNeil - 1994 (Personal)</title></circle></a><a href="/variants/s6/ly5db24k8dbi18ly6dy3~ly3307090-db1204274-dbi1406275-dy1603076/"><circle cx="138.0" cy="206.2" r="4" fill="#3465a4"><title>Cala Homes (Corporate)</title></circle></a><a href="/variants/s6/y5db24k8dbi18y6o3~db0805267-dbi1604274/"><circle cx="166.5" cy="215.7" r="4" fill="#3465a4"><title>CALA Homes</title></circle></a><a href="/variants/s5/dy16r8t57db56lb8/"><circle cx="224.8" cy="240.3" r="4" fill="#3465a4"><title>Bryson (1988)</title></circle></a><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="114.8" cy="230.9" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><circle cx="162.9" cy="209.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="152.7" cy="199.7" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/variants/s5/r6db35k36dbi36w6~db0805267-dbi1604274/"><circle cx="105.2" cy="235.5" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/dr1dbi8k6db10lo1~x4~dbi1404245-db1204274/"><circle cx="219.3" cy="226.7" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s6/w2dbi15n2db20r9w2~x2~dbi1604274-db0805267/"><circle cx="193.0" cy="197.2" r="4" fill="#3465a4"><title>The Open Championship</title></circle></a><a href="/variants/s5/k7lb3dy30db30w3~x2/"><circle cx="227.5" cy="203.0" r="4" fill="#3465a4"><title>Douglas, (Brown)</title></circle></a><a href="/variants/s5/b30k12db12k2w3~x2/"><circle cx="244.7" cy="185.3" r="4" fill="#3465a4"><title>MacNeil - 1994 (Personal)</title></circle></a><a href="/variants/s6/ly5db24k8dbi18ly6dy3~ly3307090-db1204274-dbi1406275-dy1603076/"><circle cx="138.0" cy="206.7" r="4" fill="#3465a4"><title>Cala Homes (Corporate)</title></circle></a><a href="/variants/s6/y5db24k8dbi18y6o3~db0805267-dbi1604274/"><circle cx="166.5" cy="216.1" r="4" fill="#3465a4"><title>CALA Homes</title></circle></a><a href="/variants/s5/dy16r8t57db56lb8/"><circle cx="224.9" cy="240.8" r="4" fill="#3465a4"><title>Bryson (1988)</title></circle></a><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="114.9" cy="231.5" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><circle cx="163.0" cy="210.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r2db16k11b19y2~x2/

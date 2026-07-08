@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "McMuldroch"
   url: "/tartans/mcmuldroch/"
+- name: "McMuldroch (2014)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g19k18dr18w2y2dp2y2w2dr8dp3/)
 (the same proportion at any scale), whose colour order is pattern [BBWGBGWBKG](/stripes/bbwgbgwbkg/).
@@ -14,7 +16,7 @@ Part of the [McMuldroch](/tartans/mcmuldroch/) tartan — the named design group
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11079
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11079](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11079)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><circle cx="86.1" cy="131.6" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/variants/s12/y8g2k4lo1k1lb1k1do8y3k1y1lb1~x4/"><circle cx="110.0" cy="140.7" r="4" fill="#3465a4"><title>Wcwm 9275-1258</title></circle></a><a href="/variants/s11/db8k8y2k3w3k3g24r16db3r4k2~x2/"><circle cx="82.4" cy="122.6" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s12/y5g19r2t11lb2r11g11r2k20r2k2lb2~x2~t2503227-lb3103284/"><circle cx="73.4" cy="134.3" r="4" fill="#3465a4"><title>Gordonstoun (Corporate)</title></circle></a><a href="/variants/s10/r3g18r4lb3r4k13r3db18g2y3~x2/"><circle cx="60.4" cy="148.6" r="4" fill="#3465a4"><title>Stirling, and Bannockburn</title></circle></a><a href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20y3~x2/"><circle cx="112.1" cy="134.1" r="4" fill="#3465a4"><title>Kelsey, William (Personal)</title></circle></a><a href="/variants/s12/y4g20r3db11lb3r11g11r3k20r3k3lb3~x2/"><circle cx="49.6" cy="154.5" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s11/dr8k3o3dt28k20o28w3o3w3o3w6/"><circle cx="106.4" cy="141.7" r="4" fill="#3465a4"><title>Logan #6</title></circle></a><a href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20ly3~x2/"><circle cx="111.9" cy="135.4" r="4" fill="#3465a4"><title>Kelsey, William (Personal)</title></circle></a><a href="/variants/s14/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2~x2/"><circle cx="98.4" cy="126.2" r="4" fill="#3465a4"><title>Gotts (Personal)</title></circle></a><circle cx="99.7" cy="140.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><circle cx="86.0" cy="131.9" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/variants/s12/y8g2k4lo1k1lb1k1do8y3k1y1lb1~x4/"><circle cx="110.0" cy="141.0" r="4" fill="#3465a4"><title>Wcwm 9275-1258</title></circle></a><a href="/variants/s11/db8k8y2k3w3k3g24r16db3r4k2~x2/"><circle cx="82.4" cy="122.9" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s12/y5g19r2t11lb2r11g11r2k20r2k2lb2~x2~t2503227-lb3103284/"><circle cx="73.3" cy="134.6" r="4" fill="#3465a4"><title>Gordonstoun (Corporate)</title></circle></a><a href="/variants/s10/r3g18r4lb3r4k13r3db18g2y3~x2/"><circle cx="60.4" cy="148.9" r="4" fill="#3465a4"><title>Stirling, and Bannockburn</title></circle></a><a href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20y3~x2/"><circle cx="112.1" cy="134.4" r="4" fill="#3465a4"><title>Kelsey, William (Personal)</title></circle></a><a href="/variants/s12/y4g20r3db11lb3r11g11r3k20r3k3lb3~x2/"><circle cx="49.6" cy="154.9" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s11/dr8k3o3dt28k20o28w3o3w3o3w6/"><circle cx="106.3" cy="142.0" r="4" fill="#3465a4"><title>Logan #6</title></circle></a><a href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20ly3~x2/"><circle cx="111.8" cy="135.7" r="4" fill="#3465a4"><title>Kelsey, William (Personal)</title></circle></a><a href="/variants/s14/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19w2~x2/"><circle cx="98.4" cy="126.4" r="4" fill="#3465a4"><title>Gotts (Personal)</title></circle></a><circle cx="99.6" cy="141.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g19k18dr18w2y2dp2y2w2dr8dp3~x2/

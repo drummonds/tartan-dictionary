@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lusk (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2g30k3dbi4k2db18lb1k3r2/)
 (the same proportion at any scale), whose colour order is pattern [KGKBKBWKR](/stripes/kgkbkbwkr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2252
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2252](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2252)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db10g6dp4dr2dp4k10db6k4db28g55w4/"><circle cx="216.8" cy="86.0" r="4" fill="#3465a4"><title>1314 (Corporate)</title></circle></a><a href="/variants/s11/dg55k13t4k3g6ly3t2k3dy10k12t14~x2~dg1806142-g2408144/"><circle cx="197.0" cy="85.6" r="4" fill="#3465a4"><title>State Seal of South Carolina (Fash)</title></circle></a><a href="/variants/s11/r2k1db30k6g12ly1db2ly1g12k3w1~x2/"><circle cx="214.1" cy="74.6" r="4" fill="#3465a4"><title>Hororata (District)</title></circle></a><a href="/variants/s11/r2k1db30k6g12y1db2y1g12k3w1~x2/"><circle cx="218.6" cy="76.0" r="4" fill="#3465a4"><title>Hororata</title></circle></a><a href="/variants/s9/g90r1k10w6k4g6r10db62y8/"><circle cx="253.5" cy="62.9" r="4" fill="#3465a4"><title>Stirling, University of</title></circle></a><a href="/variants/s11/lb11k2lb2k2dy2k11dg30r2dg3k1w5~x2/"><circle cx="188.9" cy="68.4" r="4" fill="#3465a4"><title>Labrador</title></circle></a><a href="/variants/s9/g4dr2g20db8k8db4lb1lo2k1~x2/"><circle cx="192.3" cy="115.7" r="4" fill="#3465a4"><title>Dodd of Branford</title></circle></a><a href="/variants/s11/db66k2db10k15g15r4g15r4g30y2w4/"><circle cx="221.4" cy="80.5" r="4" fill="#3465a4"><title>Mulcahy</title></circle></a><a href="/variants/s11/w4k1db16k1g32dr6k6lo6g4lo2g1~x2/"><circle cx="194.0" cy="76.4" r="4" fill="#3465a4"><title>Zambia</title></circle></a><a href="/variants/s9/g28r4k3n2k1dg2r3db20y2~x2/"><circle cx="194.5" cy="78.9" r="4" fill="#3465a4"><title>Stirling University</title></circle></a><circle cx="215.7" cy="82.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db10g6dp4dr2dp4k10db6k4db28g55w4/"><circle cx="216.7" cy="86.1" r="4" fill="#3465a4"><title>1314 (Corporate)</title></circle></a><a href="/variants/s11/dg55k13t4k3g6ly3t2k3dy10k12t14~x2~dg1806142-g2408144/"><circle cx="196.8" cy="85.6" r="4" fill="#3465a4"><title>State Seal of South Carolina (Fash)</title></circle></a><a href="/variants/s11/r2k1db30k6g12ly1db2ly1g12k3w1~x2/"><circle cx="213.9" cy="74.7" r="4" fill="#3465a4"><title>Hororata (District)</title></circle></a><a href="/variants/s11/r2k1db30k6g12y1db2y1g12k3w1~x2/"><circle cx="218.5" cy="76.1" r="4" fill="#3465a4"><title>Hororata</title></circle></a><a href="/variants/s9/g90r1k10w6k4g6r10db62y8/"><circle cx="253.3" cy="62.9" r="4" fill="#3465a4"><title>Stirling, University of</title></circle></a><a href="/variants/s11/lb11k2lb2k2dy2k11dg30r2dg3k1w5~x2/"><circle cx="188.7" cy="68.5" r="4" fill="#3465a4"><title>Labrador</title></circle></a><a href="/variants/s9/g4dr2g20db8k8db4lb1lo2k1~x2/"><circle cx="192.2" cy="115.9" r="4" fill="#3465a4"><title>Dodd of Branford</title></circle></a><a href="/variants/s11/db66k2db10k15g15r4g15r4g30y2w4/"><circle cx="221.3" cy="80.6" r="4" fill="#3465a4"><title>Mulcahy</title></circle></a><a href="/variants/s11/w4k1db16k1g32dr6k6lo6g4lo2g1~x2/"><circle cx="193.8" cy="76.5" r="4" fill="#3465a4"><title>Zambia</title></circle></a><a href="/variants/s9/g28r4k3n2k1dg2r3db20y2~x2/"><circle cx="194.4" cy="78.9" r="4" fill="#3465a4"><title>Stirling University</title></circle></a><circle cx="215.6" cy="82.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/

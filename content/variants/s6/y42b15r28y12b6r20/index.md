@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kozlosky, Kilt"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y42b15r28y12b6r20/)
 (the same proportion at any scale), whose colour order is pattern [GBRGBR](/stripes/gbrgbr/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/y6r1y4r4db2~x5/"><circle cx="374.5" cy="301.7" r="4" fill="#3465a4"><title>Sands-Pingot Family, Alabama (Personal)</title></circle></a><a href="/variants/s6/dy21ri8r14dy6ri3r10~x2~ri2806019-r2109032/"><circle cx="253.3" cy="248.7" r="4" fill="#3465a4"><title>Kozlosky (Personal)</title></circle></a><a href="/variants/s5/dy2y10r15dy10y2~x4/"><circle cx="296.5" cy="279.9" r="4" fill="#3465a4"><title>Harmony 9</title></circle></a><a href="/variants/s6/n3dg1n10dg4r10n2~x4/"><circle cx="372.7" cy="259.3" r="4" fill="#3465a4"><title>Rob Roy (Film)</title></circle></a><a href="/variants/s6/dg1r1dg7r4ri7r1~x4~dg1806142-r1807008-ri2109032/"><circle cx="297.3" cy="263.7" r="4" fill="#3465a4"><title>MacNab #2</title></circle></a><a href="/variants/s5/n16r2n10r15lb5~x2/"><circle cx="385.5" cy="290.8" r="4" fill="#3465a4"><title>Mowbray, (Moubray)</title></circle></a><a href="/variants/s7/ly36do15ly9r31lyi5do4r16~x2~ly2503076-lyi2705081/"><circle cx="300.0" cy="246.1" r="4" fill="#3465a4"><title>Manhattan Ethnic</title></circle></a><a href="/variants/s5/r18y3r18y30k4~x2/"><circle cx="346.1" cy="241.9" r="4" fill="#3465a4"><title>Shire of Hornwood (USA)</title></circle></a><a href="/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/"><circle cx="386.0" cy="295.0" r="4" fill="#3465a4"><title>Tarim</title></circle></a><a href="/variants/s6/dg1r1dg7r4ri7r1~x6~r1807033-ri2109032/"><circle cx="300.9" cy="263.1" r="4" fill="#3465a4"><title>Dewar (Name)</title></circle></a><circle cx="333.8" cy="291.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/y6r1y4r4db2~x5/"><circle cx="374.7" cy="302.4" r="4" fill="#3465a4"><title>Sands-Pingot Family, Alabama (Personal)</title></circle></a><a href="/variants/s6/dy21ri8r14dy6ri3r10~x2~ri2806019-r2109032/"><circle cx="253.5" cy="249.3" r="4" fill="#3465a4"><title>Kozlosky (Personal)</title></circle></a><a href="/variants/s5/dy2y10r15dy10y2~x4/"><circle cx="296.7" cy="280.5" r="4" fill="#3465a4"><title>Harmony 9</title></circle></a><a href="/variants/s6/n3dg1n10dg4r10n2~x4/"><circle cx="372.8" cy="259.8" r="4" fill="#3465a4"><title>Rob Roy (Film)</title></circle></a><a href="/variants/s6/dg1r1dg7r4ri7r1~x4~dg1806142-r1807008-ri2109032/"><circle cx="297.5" cy="264.3" r="4" fill="#3465a4"><title>MacNab #2</title></circle></a><a href="/variants/s5/n16r2n10r15lb5~x2/"><circle cx="385.8" cy="291.4" r="4" fill="#3465a4"><title>Mowbray, (Moubray)</title></circle></a><a href="/variants/s7/ly36do15ly9r31lyi5do4r16~x2~ly2503076-lyi2705081/"><circle cx="300.2" cy="246.5" r="4" fill="#3465a4"><title>Manhattan Ethnic</title></circle></a><a href="/variants/s5/r18y3r18y30k4~x2/"><circle cx="346.3" cy="242.5" r="4" fill="#3465a4"><title>Shire of Hornwood (USA)</title></circle></a><a href="/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/"><circle cx="386.3" cy="295.7" r="4" fill="#3465a4"><title>Tarim</title></circle></a><a href="/variants/s6/dg1r1dg7r4ri7r1~x6~r1807033-ri2109032/"><circle cx="301.0" cy="263.6" r="4" fill="#3465a4"><title>Dewar (Name)</title></circle></a><circle cx="334.1" cy="292.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/y42b15r28y12b6r20/

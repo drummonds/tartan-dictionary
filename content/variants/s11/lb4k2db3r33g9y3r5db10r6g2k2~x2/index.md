@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacArthur-Fox Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb4k2db3r33g9y3r5db10r6g2k2/)
 (the same proportion at any scale), whose colour order is pattern [KGRBRGGRBKW](/stripes/kgrbrggrbkw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2284
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2284](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2284)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3db1r1db2r12lb1r1k4w1g6r1~x4/"><circle cx="213.9" cy="106.0" r="4" fill="#3465a4"><title>McLinden, Thomas (Personal)</title></circle></a><a href="/variants/s11/r35db2dg16r2dg16w2r17b4k6r3db2~x2~r2108029/"><circle cx="262.0" cy="102.7" r="4" fill="#3465a4"><title>Chafee of Glenmary (Personal)</title></circle></a><a href="/variants/s13/y3r25k8r4db8w2db3w2db8r4g8r25y3~x2/"><circle cx="222.0" cy="106.2" r="4" fill="#3465a4"><title>Maynard</title></circle></a><a href="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/"><circle cx="216.1" cy="69.5" r="4" fill="#3465a4"><title>Strathclyde Fire Services (Corporate</title></circle></a><a href="/variants/s15/r3g1r2g1r18k4y1k2w1db4g6r3k1r2w1~x2/"><circle cx="233.2" cy="66.1" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #4</title></circle></a><a href="/variants/s14/w3r30k4dg2db17y3db2y3db17dg2k4r30w3r2~x2~dg1806142/"><circle cx="214.3" cy="86.2" r="4" fill="#3465a4"><title>Unidentified Lindley #4</title></circle></a><a href="/variants/s9/r13y1k3ly1dg4r1k2y1w1~x4~y2602166-ly3307090/"><circle cx="206.3" cy="98.5" r="4" fill="#3465a4"><title>Gillespie</title></circle></a><a href="/variants/s9/r13lb1k3y1g4r1k2lb1w1~x4/"><circle cx="203.8" cy="98.9" r="4" fill="#3465a4"><title>Gillespie</title></circle></a><a href="/variants/s9/r13lb1k3dy1g4r1k2lb1w1~x4/"><circle cx="203.2" cy="98.6" r="4" fill="#3465a4"><title>Gillespie Family Tartan</title></circle></a><a href="/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/"><circle cx="199.6" cy="93.6" r="4" fill="#3465a4"><title>Burns 250th Anniversary (Commem.)</title></circle></a><circle cx="255.0" cy="93.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r3db1r1db2r12lb1r1k4w1g6r1~x4/"><circle cx="213.8" cy="106.3" r="4" fill="#3465a4"><title>McLinden, Thomas (Personal)</title></circle></a><a href="/variants/s11/r35db2dg16r2dg16w2r17b4k6r3db2~x2~r2108029/"><circle cx="262.0" cy="102.9" r="4" fill="#3465a4"><title>Chafee of Glenmary (Personal)</title></circle></a><a href="/variants/s13/y3r25k8r4db8w2db3w2db8r4g8r25y3~x2/"><circle cx="221.9" cy="106.5" r="4" fill="#3465a4"><title>Maynard</title></circle></a><a href="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/"><circle cx="216.0" cy="69.7" r="4" fill="#3465a4"><title>Strathclyde Fire Services (Corporate</title></circle></a><a href="/variants/s15/r3g1r2g1r18k4y1k2w1db4g6r3k1r2w1~x2/"><circle cx="233.1" cy="66.3" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #4</title></circle></a><a href="/variants/s14/w3r30k4dg2db17y3db2y3db17dg2k4r30w3r2~x2~dg1806142/"><circle cx="214.2" cy="86.4" r="4" fill="#3465a4"><title>Unidentified Lindley #4</title></circle></a><a href="/variants/s9/r13y1k3ly1dg4r1k2y1w1~x4~y2602166-ly3307090/"><circle cx="206.2" cy="98.8" r="4" fill="#3465a4"><title>Gillespie</title></circle></a><a href="/variants/s9/r13lb1k3y1g4r1k2lb1w1~x4/"><circle cx="203.8" cy="99.2" r="4" fill="#3465a4"><title>Gillespie</title></circle></a><a href="/variants/s9/r13lb1k3dy1g4r1k2lb1w1~x4/"><circle cx="203.2" cy="98.9" r="4" fill="#3465a4"><title>Gillespie Family Tartan</title></circle></a><a href="/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/"><circle cx="199.5" cy="93.9" r="4" fill="#3465a4"><title>Burns 250th Anniversary (Commem.)</title></circle></a><circle cx="255.0" cy="93.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/lb4k2db3r33g9y3r5db10r6g2k2~x2/

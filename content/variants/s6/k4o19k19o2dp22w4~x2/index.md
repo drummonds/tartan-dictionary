@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Dutch"
   url: "/tartans/dutch/"
+- name: "Dutch (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4o19k19o2dp22w4/)
 (the same proportion at any scale), whose colour order is pattern [KRKRBW](/stripes/krkrbw/).
@@ -14,7 +16,7 @@ Part of the [Dutch](/tartans/dutch/) tartan — the named design grouping this s
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1134
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1134](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1134)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4lo19k19lo2dp22w4~x2/"><circle cx="136.4" cy="194.3" r="4" fill="#3465a4"><title>Dutch</title></circle></a><a href="/variants/s6/w2db12lo1k12lo12k1~x2/"><circle cx="141.0" cy="186.7" r="4" fill="#3465a4"><title>Dutch District Tartan</title></circle></a><a href="/variants/s5/k60w8lo15dp74k14/"><circle cx="203.8" cy="194.2" r="4" fill="#3465a4"><title>Gingles (Personal)</title></circle></a><a href="/variants/s6/r3db3r20k20db20g3~x2/"><circle cx="139.0" cy="210.8" r="4" fill="#3465a4"><title>Unidentified #65</title></circle></a><a href="/variants/s8/y5db2k2db12k16r20k2r4~x2/"><circle cx="160.9" cy="170.2" r="4" fill="#3465a4"><title>Aitken</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.3" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s7/y3db22k3db3k11r20y3~x2/"><circle cx="162.8" cy="191.8" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s6/n32w4n4k24dp29k4/"><circle cx="171.5" cy="210.0" r="4" fill="#3465a4"><title>Grammar School at Leeds (School)</title></circle></a><a href="/variants/s5/r2dp8k8w1r2~x2/"><circle cx="176.2" cy="210.5" r="4" fill="#3465a4"><title>Inder (Corporate)</title></circle></a><a href="/variants/s6/r26lb3r4k16db16k4~x2/"><circle cx="181.0" cy="194.7" r="4" fill="#3465a4"><title>Graham of Menteith, (Red)</title></circle></a><circle cx="142.0" cy="192.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4lo19k19lo2dp22w4~x2/"><circle cx="136.5" cy="194.9" r="4" fill="#3465a4"><title>Dutch</title></circle></a><a href="/variants/s6/w2db12lo1k12lo12k1~x2/"><circle cx="141.0" cy="187.2" r="4" fill="#3465a4"><title>Dutch District Tartan</title></circle></a><a href="/variants/s5/k60w8lo15dp74k14/"><circle cx="203.8" cy="194.8" r="4" fill="#3465a4"><title>Gingles (Personal)</title></circle></a><a href="/variants/s6/r3db3r20k20db20g3~x2/"><circle cx="139.0" cy="211.4" r="4" fill="#3465a4"><title>Unidentified #65</title></circle></a><a href="/variants/s8/y5db2k2db12k16r20k2r4~x2/"><circle cx="160.9" cy="170.6" r="4" fill="#3465a4"><title>Aitken</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.9" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s7/y3db22k3db3k11r20y3~x2/"><circle cx="162.9" cy="192.3" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s6/n32w4n4k24dp29k4/"><circle cx="171.5" cy="210.6" r="4" fill="#3465a4"><title>Grammar School at Leeds (School)</title></circle></a><a href="/variants/s5/r2dp8k8w1r2~x2/"><circle cx="176.2" cy="211.1" r="4" fill="#3465a4"><title>Inder (Corporate)</title></circle></a><a href="/variants/s6/r26lb3r4k16db16k4~x2/"><circle cx="181.0" cy="195.3" r="4" fill="#3465a4"><title>Graham of Menteith, (Red)</title></circle></a><circle cx="142.0" cy="192.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k4o19k19o2dp22w4~x2/

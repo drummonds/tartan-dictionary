@@ -12,7 +12,7 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 
 Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3578
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3578](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3578)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -59,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db0805267-dbi1604274/"><circle cx="193.3" cy="120.3" r="4" fill="#3465a4"><title>Round Table</title></circle></a><a href="/variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db1204274-dbi1406275/"><circle cx="198.9" cy="121.3" r="4" fill="#3465a4"><title>Round Table Corporate Tartan</title></circle></a><a href="/variants/s22/db24k3db2k3db24lb20k3lb2k3lb20db4lb20k3lb2k3lb20db24k3db2k3db24r4~db0705267/"><circle cx="198.6" cy="122.8" r="4" fill="#3465a4"><title>Roberts of Wales</title></circle></a><a href="/variants/s14/lb6k2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4~x2/"><circle cx="212.6" cy="155.0" r="4" fill="#3465a4"><title>MacHinery Dress</title></circle></a><circle cx="194.1" cy="120.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db0805267-dbi1604274/"><circle cx="193.3" cy="120.6" r="4" fill="#3465a4"><title>Round Table</title></circle></a><a href="/variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db1204274-dbi1406275/"><circle cx="198.8" cy="121.7" r="4" fill="#3465a4"><title>Round Table Corporate Tartan</title></circle></a><a href="/variants/s22/db24k3db2k3db24lb20k3lb2k3lb20db4lb20k3lb2k3lb20db24k3db2k3db24r4~db0705267/"><circle cx="198.5" cy="123.1" r="4" fill="#3465a4"><title>Roberts of Wales</title></circle></a><a href="/variants/s14/lb6k2lb24w4lb4dr2db16lb20w4lb20db16w16db3w4~x2/"><circle cx="212.6" cy="155.4" r="4" fill="#3465a4"><title>MacHinery Dress</title></circle></a><circle cx="194.1" cy="120.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s26/lb11db2lb11k2db2lb5w2lb5w2lb5db10lb1dbi2lb1db10k4lb5k2lb5k4db2lb2db2lb11dbi2lb1~x2~db0804274-dbi1605267/

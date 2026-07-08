@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Scotsman"
   url: "/tartans/scotsman/"
+- name: "Scotsman"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g21k14g9db21k3db12dp3/)
 (the same proportion at any scale), whose colour order is pattern [BBKBGKG](/stripes/bbkbgkg/).
@@ -14,7 +16,7 @@ Part of the [Scotsman](/tartans/scotsman/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3687
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3687](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3687)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg21k14dg9b21k3b12dp3~x2/"><circle cx="168.9" cy="235.3" r="4" fill="#3465a4"><title>Scotsman</title></circle></a><a href="/variants/s5/g7k6db7k1db2~x2/"><circle cx="175.9" cy="261.6" r="4" fill="#3465a4"><title>Campbell of Glenlyon</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="145.5" cy="229.0" r="4" fill="#3465a4"><title>Murray #3</title></circle></a><a href="/variants/s6/db2k2db12k11g16w2~x2/"><circle cx="141.5" cy="213.1" r="4" fill="#3465a4"><title>Campbell of Argyll (Smiths)</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="124.0" cy="228.1" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/variants/s10/db18k17db3g18db4g18db3k17db18b4~x2/"><circle cx="134.1" cy="227.2" r="4" fill="#3465a4"><title>Scottish Airports Corporate Tartan</title></circle></a><a href="/variants/s6/y5g16k16db16k2db2~x2/"><circle cx="127.0" cy="222.0" r="4" fill="#3465a4"><title>Hudson Valley Reg. Police P &amp; D (Cor</title></circle></a><a href="/variants/s9/db7k2db2k2db2k7g7w1g7~x4/"><circle cx="130.7" cy="215.7" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/variants/s8/k1g4r1k4db1k1db7g1~x6/"><circle cx="162.1" cy="196.1" r="4" fill="#3465a4"><title>Brabender</title></circle></a><a href="/variants/s6/db40k4db12k21g27w4~x2/"><circle cx="206.8" cy="207.8" r="4" fill="#3465a4"><title>Granger (Personal)</title></circle></a><circle cx="157.3" cy="234.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg21k14dg9b21k3b12dp3~x2/"><circle cx="168.9" cy="235.8" r="4" fill="#3465a4"><title>Scotsman</title></circle></a><a href="/variants/s5/g7k6db7k1db2~x2/"><circle cx="176.0" cy="262.3" r="4" fill="#3465a4"><title>Campbell of Glenlyon</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="145.6" cy="229.6" r="4" fill="#3465a4"><title>Murray #3</title></circle></a><a href="/variants/s6/db2k2db12k11g16w2~x2/"><circle cx="141.5" cy="213.7" r="4" fill="#3465a4"><title>Campbell of Argyll (Smiths)</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="124.1" cy="228.7" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/variants/s10/db18k17db3g18db4g18db3k17db18b4~x2/"><circle cx="134.2" cy="227.7" r="4" fill="#3465a4"><title>Scottish Airports Corporate Tartan</title></circle></a><a href="/variants/s6/y5g16k16db16k2db2~x2/"><circle cx="127.1" cy="222.6" r="4" fill="#3465a4"><title>Hudson Valley Reg. Police P &amp; D (Cor</title></circle></a><a href="/variants/s9/db7k2db2k2db2k7g7w1g7~x4/"><circle cx="130.8" cy="216.3" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/variants/s8/k1g4r1k4db1k1db7g1~x6/"><circle cx="162.1" cy="196.6" r="4" fill="#3465a4"><title>Brabender</title></circle></a><a href="/variants/s6/db40k4db12k21g27w4~x2/"><circle cx="206.8" cy="208.4" r="4" fill="#3465a4"><title>Granger (Personal)</title></circle></a><circle cx="157.4" cy="235.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g21k14g9db21k3db12dp3~x2/

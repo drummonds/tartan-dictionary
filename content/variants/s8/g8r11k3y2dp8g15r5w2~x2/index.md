@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's, No 109"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g8r11k3y2dp8g15r5w2/)
 (the same proportion at any scale), whose colour order is pattern [GRKGBGRW](/stripes/grkgbgrw/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg9w2dg9k2ly14lyi4w2r2~x4~ly2503076-lyi2705081/"><circle cx="127.5" cy="179.8" r="4" fill="#3465a4"><title>MacShane (Clan)</title></circle></a><a href="/variants/s14/r5g15dp8ly2k3r11g8r11k3ly2dp8g15r5w2~x2/"><circle cx="98.9" cy="163.7" r="4" fill="#3465a4"><title>Wilson's No.109</title></circle></a><a href="/variants/s6/k2lb1dp6g6r1g1~x4/"><circle cx="152.3" cy="204.4" r="4" fill="#3465a4"><title>Wilson's, No 183</title></circle></a><a href="/variants/s8/r2lb1r8k4db1g10lr1g2~x4/"><circle cx="146.7" cy="147.9" r="4" fill="#3465a4"><title>Sawyer</title></circle></a><a href="/variants/s8/r2lb1r8k4db1g10w1g2~x4/"><circle cx="142.8" cy="147.2" r="4" fill="#3465a4"><title>Sawyer</title></circle></a><a href="/variants/s8/g5lg5y26k4y6r5k15w4~x2/"><circle cx="121.9" cy="164.1" r="4" fill="#3465a4"><title>Cornish Christophers (Personal)</title></circle></a><a href="/variants/s9/y4k2dg7g7r5k2r15k2w4~x2/"><circle cx="97.7" cy="162.7" r="4" fill="#3465a4"><title>Thirkill</title></circle></a><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><circle cx="99.8" cy="160.7" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/variants/s8/g16db4g8k2y1k6w8r10~x2/"><circle cx="119.0" cy="153.1" r="4" fill="#3465a4"><title>Red Deer, City of</title></circle></a><a href="/variants/s9/g13w2g10k5r13k3r5db15o5~x2/"><circle cx="55.0" cy="186.4" r="4" fill="#3465a4"><title>Glen Chalmadale</title></circle></a><circle cx="128.8" cy="185.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg9w2dg9k2ly14lyi4w2r2~x4~ly2503076-lyi2705081/"><circle cx="127.6" cy="180.3" r="4" fill="#3465a4"><title>MacShane (Clan)</title></circle></a><a href="/variants/s14/r5g15dp8ly2k3r11g8r11k3ly2dp8g15r5w2~x2/"><circle cx="98.9" cy="164.1" r="4" fill="#3465a4"><title>Wilson's No.109</title></circle></a><a href="/variants/s6/k2lb1dp6g6r1g1~x4/"><circle cx="152.4" cy="205.0" r="4" fill="#3465a4"><title>Wilson's, No 183</title></circle></a><a href="/variants/s8/r2lb1r8k4db1g10lr1g2~x4/"><circle cx="146.6" cy="148.3" r="4" fill="#3465a4"><title>Sawyer</title></circle></a><a href="/variants/s8/r2lb1r8k4db1g10w1g2~x4/"><circle cx="142.8" cy="147.6" r="4" fill="#3465a4"><title>Sawyer</title></circle></a><a href="/variants/s8/g5lg5y26k4y6r5k15w4~x2/"><circle cx="122.0" cy="164.6" r="4" fill="#3465a4"><title>Cornish Christophers (Personal)</title></circle></a><a href="/variants/s9/y4k2dg7g7r5k2r15k2w4~x2/"><circle cx="97.7" cy="163.2" r="4" fill="#3465a4"><title>Thirkill</title></circle></a><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><circle cx="99.8" cy="161.2" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/variants/s8/g16db4g8k2y1k6w8r10~x2/"><circle cx="119.0" cy="153.6" r="4" fill="#3465a4"><title>Red Deer, City of</title></circle></a><a href="/variants/s9/g13w2g10k5r13k3r5db15o5~x2/"><circle cx="55.1" cy="186.9" r="4" fill="#3465a4"><title>Glen Chalmadale</title></circle></a><circle cx="128.8" cy="186.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g8r11k3y2dp8g15r5w2~x2/

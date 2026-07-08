@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Aguilar Pardo, Luis Alejandro (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4y3r2y22lb22w2lb3k2/)
 (the same proportion at any scale), whose colour order is pattern [GGRGWWWK](/stripes/ggrgwwwk/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11147
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11147](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11147)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g4ly3r2ly22lb22w2lb3k2~x2/"><circle cx="227.6" cy="153.2" r="4" fill="#3465a4"><title>Pardo, Luis Alejandro Aguilar</title></circle></a><a href="/variants/s10/k2lg3w2lg3n4lg19o6n23r3ly2~x2~n1900000-o2500000/"><circle cx="170.8" cy="129.5" r="4" fill="#3465a4"><title>MacLeroy &amp; Troine</title></circle></a><a href="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/"><circle cx="161.0" cy="132.5" r="4" fill="#3465a4"><title>Murray of Abercairney</title></circle></a><a href="/variants/s8/k3r1y1lb11g13lb5r1y1~x4/"><circle cx="198.5" cy="151.2" r="4" fill="#3465a4"><title>Snodgrass (Clan)</title></circle></a><a href="/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/"><circle cx="134.8" cy="135.2" r="4" fill="#3465a4"><title>Dunedin (USA) (District)</title></circle></a><a href="/variants/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2~w3600000/"><circle cx="159.5" cy="125.6" r="4" fill="#3465a4"><title>North West Territories</title></circle></a><a href="/variants/s10/y4g2y2g2y2g24k2r16w9db3~x2/"><circle cx="158.5" cy="126.4" r="4" fill="#3465a4"><title>North West Territories</title></circle></a><a href="/variants/s11/lb4r3y2r9lb3g24lb3r9k3r3w2~x2/"><circle cx="153.5" cy="125.2" r="4" fill="#3465a4"><title>Wilson's, No 128</title></circle></a><a href="/variants/s8/k3r1ly1lb11g13lb5r1ly1~x4~r2109032-ly3307090-g2408144/"><circle cx="219.6" cy="138.8" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2/"><circle cx="152.7" cy="123.5" r="4" fill="#3465a4"><title>North West Territories (District)</title></circle></a><circle cx="215.9" cy="146.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g4ly3r2ly22lb22w2lb3k2~x2/"><circle cx="227.6" cy="153.5" r="4" fill="#3465a4"><title>Pardo, Luis Alejandro Aguilar</title></circle></a><a href="/variants/s10/k2lg3w2lg3n4lg19o6n23r3ly2~x2~n1900000-o2500000/"><circle cx="170.8" cy="129.8" r="4" fill="#3465a4"><title>MacLeroy &amp; Troine</title></circle></a><a href="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/"><circle cx="161.0" cy="132.8" r="4" fill="#3465a4"><title>Murray of Abercairney</title></circle></a><a href="/variants/s8/k3r1y1lb11g13lb5r1y1~x4/"><circle cx="198.5" cy="151.6" r="4" fill="#3465a4"><title>Snodgrass (Clan)</title></circle></a><a href="/variants/s9/w3lb25dr3r3dr3r8g21dr3k2~x2/"><circle cx="134.8" cy="135.5" r="4" fill="#3465a4"><title>Dunedin (USA) (District)</title></circle></a><a href="/variants/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2~w3600000/"><circle cx="159.5" cy="125.9" r="4" fill="#3465a4"><title>North West Territories</title></circle></a><a href="/variants/s10/y4g2y2g2y2g24k2r16w9db3~x2/"><circle cx="158.5" cy="126.7" r="4" fill="#3465a4"><title>North West Territories</title></circle></a><a href="/variants/s11/lb4r3y2r9lb3g24lb3r9k3r3w2~x2/"><circle cx="153.4" cy="125.5" r="4" fill="#3465a4"><title>Wilson's, No 128</title></circle></a><a href="/variants/s8/k3r1ly1lb11g13lb5r1ly1~x4~r2109032-ly3307090-g2408144/"><circle cx="219.6" cy="139.2" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2/"><circle cx="152.7" cy="123.8" r="4" fill="#3465a4"><title>North West Territories (District)</title></circle></a><circle cx="215.9" cy="146.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g4y3r2y22lb22w2lb3k2~x2/

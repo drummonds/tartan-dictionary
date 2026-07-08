@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mica, Green (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy6o2dy12k4dp14k1dy3ly2/)
 (the same proportion at any scale), whose colour order is pattern [GRGKBKGY](/stripes/grgkbkgy/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3472
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3472](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3472)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dy6r3dy34k16y3dt22r4~x2/"><circle cx="263.0" cy="191.6" r="4" fill="#3465a4"><title>Ballantrae (Macnaughtons)</title></circle></a><a href="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/"><circle cx="257.2" cy="159.1" r="4" fill="#3465a4"><title>By Storm</title></circle></a><a href="/variants/s9/w2dr14k1n5k1n5do8dr10ly2~x4/"><circle cx="239.9" cy="156.7" r="4" fill="#3465a4"><title>East Kilbride #2</title></circle></a><a href="/variants/s7/dg54db14y7r14k7db14r6~x2/"><circle cx="227.3" cy="181.8" r="4" fill="#3465a4"><title>Gloucester County Pipe Band (Corp)</title></circle></a><a href="/variants/s6/y1do10k8dr8do1ly1~x4/"><circle cx="219.2" cy="204.2" r="4" fill="#3465a4"><title>Unidentified #66</title></circle></a><a href="/variants/s10/dt8lb2dt27k10n4k2n3k2n16dt2~x2~dt1300000-n1800000/"><circle cx="300.8" cy="170.4" r="4" fill="#3465a4"><title>Highland Granite</title></circle></a><a href="/variants/s8/dp24do2g3o2g3k11do29w2~x2/"><circle cx="212.4" cy="136.3" r="4" fill="#3465a4"><title>Alba</title></circle></a><a href="/variants/s8/k5dy5k5dy34n33k6n5o2~n1900000-o2500000/"><circle cx="286.8" cy="167.3" r="4" fill="#3465a4"><title>Brave for Men (Fashion)</title></circle></a><a href="/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/"><circle cx="185.1" cy="172.7" r="4" fill="#3465a4"><title>Lochaber (Ingles Buchan)</title></circle></a><a href="/variants/s7/dg27dr2dg4o15db26k2db6~x2~dg1703114/"><circle cx="252.6" cy="190.1" r="4" fill="#3465a4"><title>Bailies of Bennachie Corporate Tartan</title></circle></a><circle cx="272.0" cy="174.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dy6r3dy34k16y3dt22r4~x2/"><circle cx="263.0" cy="191.8" r="4" fill="#3465a4"><title>Ballantrae (Macnaughtons)</title></circle></a><a href="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/"><circle cx="257.2" cy="159.3" r="4" fill="#3465a4"><title>By Storm</title></circle></a><a href="/variants/s9/w2dr14k1n5k1n5do8dr10ly2~x4/"><circle cx="239.8" cy="157.0" r="4" fill="#3465a4"><title>East Kilbride #2</title></circle></a><a href="/variants/s7/dg54db14y7r14k7db14r6~x2/"><circle cx="227.3" cy="182.1" r="4" fill="#3465a4"><title>Gloucester County Pipe Band (Corp)</title></circle></a><a href="/variants/s6/y1do10k8dr8do1ly1~x4/"><circle cx="219.2" cy="204.5" r="4" fill="#3465a4"><title>Unidentified #66</title></circle></a><a href="/variants/s10/dt8lb2dt27k10n4k2n3k2n16dt2~x2~dt1300000-n1800000/"><circle cx="300.8" cy="170.7" r="4" fill="#3465a4"><title>Highland Granite</title></circle></a><a href="/variants/s8/dp24do2g3o2g3k11do29w2~x2/"><circle cx="212.4" cy="136.4" r="4" fill="#3465a4"><title>Alba</title></circle></a><a href="/variants/s8/k5dy5k5dy34n33k6n5o2~n1900000-o2500000/"><circle cx="286.8" cy="167.6" r="4" fill="#3465a4"><title>Brave for Men (Fashion)</title></circle></a><a href="/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/"><circle cx="185.0" cy="173.0" r="4" fill="#3465a4"><title>Lochaber (Ingles Buchan)</title></circle></a><a href="/variants/s7/dg27dr2dg4o15db26k2db6~x2~dg1703114/"><circle cx="252.7" cy="190.3" r="4" fill="#3465a4"><title>Bailies of Bennachie Corporate Tartan</title></circle></a><circle cx="272.0" cy="175.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dy6o2dy12k4dp14k1dy3ly2~x2/

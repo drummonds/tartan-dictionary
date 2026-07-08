@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Masai Shuka 24 (Artefact)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb15w2r20w3/)
 (the same proportion at any scale), whose colour order is pattern [WRWW](/stripes/wrww/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7284
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7284](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7284)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r80lb40k5lo6/"><circle cx="372.8" cy="183.0" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><a href="/variants/s3/w9r20db2~x2/"><circle cx="382.8" cy="247.6" r="4" fill="#3465a4"><title>Masai Shuka 28 (Artefact)</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="273.6" cy="213.3" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s4/r4w35r31w4~x2/"><circle cx="361.0" cy="259.3" r="4" fill="#3465a4"><title>Lewis, Red (Dance)</title></circle></a><a href="/variants/s3/r24dp16w3~x4/"><circle cx="350.4" cy="274.5" r="4" fill="#3465a4"><title>National Autistic Society Scotland</title></circle></a><a href="/variants/s3/r10dg4y1~x8/"><circle cx="354.2" cy="255.0" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s3/r10dg4dy1~x8/"><circle cx="354.5" cy="255.1" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s6/r12db2y2w2db4w3~x2/"><circle cx="225.5" cy="216.9" r="4" fill="#3465a4"><title>Winnipeg Embroiders' Guild (Corp.)</title></circle></a><a href="/variants/s5/db15w2r20db2r4~x2/"><circle cx="348.9" cy="218.2" r="4" fill="#3465a4"><title>Masai Shuka 25 (Artefact)</title></circle></a><a href="/variants/s5/r12g8r54db45g6/"><circle cx="321.2" cy="230.6" r="4" fill="#3465a4"><title>Wotherspoon</title></circle></a><circle cx="340.2" cy="253.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r80lb40k5lo6/"><circle cx="372.9" cy="183.5" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><a href="/variants/s3/w9r20db2~x2/"><circle cx="383.0" cy="248.5" r="4" fill="#3465a4"><title>Masai Shuka 28 (Artefact)</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="273.7" cy="213.9" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s4/r4w35r31w4~x2/"><circle cx="361.2" cy="260.2" r="4" fill="#3465a4"><title>Lewis, Red (Dance)</title></circle></a><a href="/variants/s3/r24dp16w3~x4/"><circle cx="350.6" cy="275.3" r="4" fill="#3465a4"><title>National Autistic Society Scotland</title></circle></a><a href="/variants/s3/r10dg4y1~x8/"><circle cx="354.4" cy="255.7" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s3/r10dg4dy1~x8/"><circle cx="354.7" cy="255.7" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s6/r12db2y2w2db4w3~x2/"><circle cx="225.7" cy="217.6" r="4" fill="#3465a4"><title>Winnipeg Embroiders' Guild (Corp.)</title></circle></a><a href="/variants/s5/db15w2r20db2r4~x2/"><circle cx="349.1" cy="218.9" r="4" fill="#3465a4"><title>Masai Shuka 25 (Artefact)</title></circle></a><a href="/variants/s5/r12g8r54db45g6/"><circle cx="321.3" cy="231.3" r="4" fill="#3465a4"><title>Wotherspoon</title></circle></a><circle cx="340.4" cy="254.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/lb15w2r20w3~x4/

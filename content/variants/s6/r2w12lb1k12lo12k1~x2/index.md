@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Dutch Dress"
   url: "/tartans/dutch-dress/"
+- name: "Dutch Dress District Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2w12lb1k12lo12k1/)
 (the same proportion at any scale), whose colour order is pattern [KYKWWR](/stripes/kykwwr/).
@@ -14,7 +16,7 @@ Part of the [Dutch Dress](/tartans/dutch-dress/) tartan — the named design gro
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1133
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1133](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1133)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2w12y1k12o12k1~x2/"><circle cx="105.9" cy="165.3" r="4" fill="#3465a4"><title>Dutch Dress</title></circle></a><a href="/variants/s6/r3n27k6lo13k14r3~x2/"><circle cx="158.3" cy="194.8" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special grey</title></circle></a><a href="/variants/s6/w2k1o10k6t12ly2~x2/"><circle cx="126.8" cy="177.3" r="4" fill="#3465a4"><title>Soroptimist International (Corporate</title></circle></a><a href="/variants/s7/w39db9k10g11r7k3r7~x2/"><circle cx="148.2" cy="148.1" r="4" fill="#3465a4"><title>MacDuff Dress #5</title></circle></a><a href="/variants/s5/k3r28k10w28lb3~x2/"><circle cx="161.2" cy="192.4" r="4" fill="#3465a4"><title>Wallace Dress, Red (Dance)</title></circle></a><a href="/variants/s7/r34w3dg4g23w24k3dg4~x2/"><circle cx="135.9" cy="163.1" r="4" fill="#3465a4"><title>MacLachlan Dress Clan Tartan</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="134.3" cy="167.5" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s6/r2n20k5w10k10r2~x2/"><circle cx="150.0" cy="189.7" r="4" fill="#3465a4"><title>Thom(p)son, Grey</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="106.3" cy="162.3" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.2" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><circle cx="107.0" cy="167.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2w12y1k12o12k1~x2/"><circle cx="105.9" cy="165.8" r="4" fill="#3465a4"><title>Dutch Dress</title></circle></a><a href="/variants/s6/r3n27k6lo13k14r3~x2/"><circle cx="158.4" cy="195.4" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special grey</title></circle></a><a href="/variants/s6/w2k1o10k6t12ly2~x2/"><circle cx="126.8" cy="177.8" r="4" fill="#3465a4"><title>Soroptimist International (Corporate</title></circle></a><a href="/variants/s7/w39db9k10g11r7k3r7~x2/"><circle cx="148.3" cy="148.6" r="4" fill="#3465a4"><title>MacDuff Dress #5</title></circle></a><a href="/variants/s5/k3r28k10w28lb3~x2/"><circle cx="161.3" cy="193.1" r="4" fill="#3465a4"><title>Wallace Dress, Red (Dance)</title></circle></a><a href="/variants/s7/r34w3dg4g23w24k3dg4~x2/"><circle cx="135.9" cy="163.6" r="4" fill="#3465a4"><title>MacLachlan Dress Clan Tartan</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="134.4" cy="168.0" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s6/r2n20k5w10k10r2~x2/"><circle cx="150.0" cy="190.3" r="4" fill="#3465a4"><title>Thom(p)son, Grey</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="106.3" cy="162.9" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.8" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><circle cx="107.0" cy="167.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r2w12lb1k12lo12k1~x2/

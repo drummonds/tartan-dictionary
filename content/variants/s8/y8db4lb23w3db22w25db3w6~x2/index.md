@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Culloden, Blue Dress (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y8db4lb23w3db22w25db3w6/)
 (the same proportion at any scale), whose colour order is pattern [GBWWBWBW](/stripes/gbwwbwbw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=831
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=831](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=831)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db2w2db8b8w10db2w1db1~x2/"><circle cx="246.5" cy="241.2" r="4" fill="#3465a4"><title>Laval (Tartan de..), dress</title></circle></a><a href="/variants/s7/db1g7db7dbi2w6db1w1~x4~db0906265-dbi1208266/"><circle cx="162.4" cy="238.6" r="4" fill="#3465a4"><title>Blue Boy, The (Fashion)</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><circle cx="257.4" cy="217.7" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2~db1404245/"><circle cx="275.6" cy="204.7" r="4" fill="#3465a4"><title>Keela</title></circle></a><a href="/variants/s7/w5r3w26db21w3db8y3~x2/"><circle cx="251.3" cy="202.2" r="4" fill="#3465a4"><title>MacPherson, Blue &amp; White</title></circle></a><a href="/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2~db1204274-dbi1406275/"><circle cx="169.1" cy="202.5" r="4" fill="#3465a4"><title>Sibbald Blue (2014)</title></circle></a><a href="/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2~db1003265-dbi1404245/"><circle cx="165.7" cy="202.7" r="4" fill="#3465a4"><title>Sibbald Blue (2014)</title></circle></a><a href="/variants/s8/db4dy3db21dy2w14ly22dy3ly4~x2/"><circle cx="185.9" cy="204.6" r="4" fill="#3465a4"><title>Bannock Bane M.407</title></circle></a><a href="/variants/s7/dr2lb1db8lb8y8lb1y1~x2/"><circle cx="205.7" cy="236.5" r="4" fill="#3465a4"><title>Over Mountain</title></circle></a><a href="/variants/s8/do4y2do13y1w13lb13y2lb4~x2/"><circle cx="186.4" cy="209.0" r="4" fill="#3465a4"><title>Bannockbane Tan</title></circle></a><circle cx="180.0" cy="226.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db2w2db8b8w10db2w1db1~x2/"><circle cx="246.7" cy="241.8" r="4" fill="#3465a4"><title>Laval (Tartan de..), dress</title></circle></a><a href="/variants/s7/db1g7db7dbi2w6db1w1~x4~db0906265-dbi1208266/"><circle cx="162.5" cy="239.2" r="4" fill="#3465a4"><title>Blue Boy, The (Fashion)</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><circle cx="257.5" cy="218.2" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2~db1404245/"><circle cx="275.7" cy="205.2" r="4" fill="#3465a4"><title>Keela</title></circle></a><a href="/variants/s7/w5r3w26db21w3db8y3~x2/"><circle cx="251.4" cy="202.8" r="4" fill="#3465a4"><title>MacPherson, Blue &amp; White</title></circle></a><a href="/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2~db1204274-dbi1406275/"><circle cx="169.2" cy="203.0" r="4" fill="#3465a4"><title>Sibbald Blue (2014)</title></circle></a><a href="/variants/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2~db1003265-dbi1404245/"><circle cx="165.8" cy="203.2" r="4" fill="#3465a4"><title>Sibbald Blue (2014)</title></circle></a><a href="/variants/s8/db4dy3db21dy2w14ly22dy3ly4~x2/"><circle cx="186.0" cy="205.2" r="4" fill="#3465a4"><title>Bannock Bane M.407</title></circle></a><a href="/variants/s7/dr2lb1db8lb8y8lb1y1~x2/"><circle cx="205.9" cy="237.1" r="4" fill="#3465a4"><title>Over Mountain</title></circle></a><a href="/variants/s8/do4y2do13y1w13lb13y2lb4~x2/"><circle cx="186.5" cy="209.6" r="4" fill="#3465a4"><title>Bannockbane Tan</title></circle></a><circle cx="180.1" cy="227.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/y8db4lb23w3db22w25db3w6~x2/

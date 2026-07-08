@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Edinburgh Military Tattoo 50th"
   url: "/tartans/edinburgh-military-tattoo-50th/"
+- name: "Edinburgh Military Tattoo 50th Military Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1db8r6g8k1/)
 (the same proportion at any scale), whose colour order is pattern [KBRGK](/stripes/kbrgk/).
@@ -14,7 +16,7 @@ Part of the [Edinburgh Military Tattoo 50th](/tartans/edinburgh-military-tattoo-
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3614
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3614](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3614)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k1dg8r6db8k1~x4/"><circle cx="166.0" cy="231.6" r="4" fill="#3465a4"><title>Edinburgh Tattoo 50th (Commemorative</title></circle></a><a href="/variants/s6/db15r6g8k2w2k2~x6/"><circle cx="145.0" cy="192.0" r="4" fill="#3465a4"><title>Stovell (2015)</title></circle></a><a href="/variants/s5/r1db6k3g6w1~x4/"><circle cx="106.6" cy="227.1" r="4" fill="#3465a4"><title>Davidson of Tulloch #2</title></circle></a><a href="/variants/s5/r1db6k3g6w1/"><circle cx="106.6" cy="227.1" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/r1db6k3g6w1~x2/"><circle cx="106.6" cy="227.1" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/r2db10k5g12w2~x2/"><circle cx="116.5" cy="226.1" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="145.5" cy="229.0" r="4" fill="#3465a4"><title>Murray #3</title></circle></a><a href="/variants/s6/k4w2g13k13b12k2~x2/"><circle cx="132.4" cy="220.3" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s5/k2g12k11t12w1~x2~g2203152/"><circle cx="148.4" cy="215.1" r="4" fill="#3465a4"><title>MacKirdy</title></circle></a><a href="/variants/s6/r2db8k8w1g8k1/"><circle cx="95.6" cy="198.7" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><circle cx="138.2" cy="225.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k1dg8r6db8k1~x4/"><circle cx="166.0" cy="232.2" r="4" fill="#3465a4"><title>Edinburgh Tattoo 50th (Commemorative</title></circle></a><a href="/variants/s6/db15r6g8k2w2k2~x6/"><circle cx="145.0" cy="192.5" r="4" fill="#3465a4"><title>Stovell (2015)</title></circle></a><a href="/variants/s5/r1db6k3g6w1~x4/"><circle cx="106.6" cy="227.8" r="4" fill="#3465a4"><title>Davidson of Tulloch #2</title></circle></a><a href="/variants/s5/r1db6k3g6w1/"><circle cx="106.6" cy="227.8" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/r1db6k3g6w1~x2/"><circle cx="106.6" cy="227.8" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/r2db10k5g12w2~x2/"><circle cx="116.6" cy="226.7" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="145.6" cy="229.6" r="4" fill="#3465a4"><title>Murray #3</title></circle></a><a href="/variants/s6/k4w2g13k13b12k2~x2/"><circle cx="132.4" cy="220.9" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s5/k2g12k11t12w1~x2~g2203152/"><circle cx="148.4" cy="215.7" r="4" fill="#3465a4"><title>MacKirdy</title></circle></a><a href="/variants/s6/r2db8k8w1g8k1/"><circle cx="95.7" cy="199.2" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><circle cx="138.3" cy="226.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k1db8r6g8k1~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Entrepreneurial Spark"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k14lo3w8lo4k6w9k31g1/)
 (the same proportion at any scale), whose colour order is pattern [GKWKYWYK](/stripes/gkwkywyk/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10996
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10996](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10996)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="368.0" cy="144.0" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s9/k50w1n15w1k40n13k62w4dr21~x2/"><circle cx="424.9" cy="105.5" r="4" fill="#3465a4"><title>Provincewide HOG Chapter</title></circle></a><a href="/variants/s5/k37w9k3dg9w3~x2/"><circle cx="331.4" cy="177.3" r="4" fill="#3465a4"><title>Glen Coe Trade Tartan</title></circle></a><a href="/variants/s7/k1n2k7n11k18y2k1~x2/"><circle cx="359.0" cy="155.8" r="4" fill="#3465a4"><title>DDB Canada (Fashion)</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="333.8" cy="106.6" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s11/k7lb2w2lb2k13lb2k2b1lb13k26b2~x2/"><circle cx="339.7" cy="99.4" r="4" fill="#3465a4"><title>Pride of Scotland Royal fashion Tartan</title></circle></a><a href="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/"><circle cx="334.9" cy="104.9" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="283.7" cy="148.2" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/"><circle cx="375.6" cy="99.5" r="4" fill="#3465a4"><title>Moonlight Glen (Fashion)</title></circle></a><a href="/variants/s7/w4k30r1k1r3w12y3~x2/"><circle cx="289.8" cy="99.7" r="4" fill="#3465a4"><title>Richecourt, Baron of (Personal)</title></circle></a><circle cx="332.4" cy="115.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="368.0" cy="144.4" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s9/k50w1n15w1k40n13k62w4dr21~x2/"><circle cx="424.7" cy="105.7" r="4" fill="#3465a4"><title>Provincewide HOG Chapter</title></circle></a><a href="/variants/s5/k37w9k3dg9w3~x2/"><circle cx="331.4" cy="177.9" r="4" fill="#3465a4"><title>Glen Coe Trade Tartan</title></circle></a><a href="/variants/s7/k1n2k7n11k18y2k1~x2/"><circle cx="358.9" cy="156.2" r="4" fill="#3465a4"><title>DDB Canada (Fashion)</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="333.7" cy="106.9" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s11/k7lb2w2lb2k13lb2k2b1lb13k26b2~x2/"><circle cx="339.6" cy="99.6" r="4" fill="#3465a4"><title>Pride of Scotland Royal fashion Tartan</title></circle></a><a href="/variants/s10/ly2k3w3k44ly4k22lb22w3k3ly2/"><circle cx="334.8" cy="105.2" r="4" fill="#3465a4"><title>Ashers of Nairn</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="283.7" cy="148.7" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/"><circle cx="375.5" cy="99.8" r="4" fill="#3465a4"><title>Moonlight Glen (Fashion)</title></circle></a><a href="/variants/s7/w4k30r1k1r3w12y3~x2/"><circle cx="289.7" cy="100.1" r="4" fill="#3465a4"><title>Richecourt, Baron of (Personal)</title></circle></a><circle cx="332.3" cy="115.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k14lo3w8lo4k6w9k31g1~x2/

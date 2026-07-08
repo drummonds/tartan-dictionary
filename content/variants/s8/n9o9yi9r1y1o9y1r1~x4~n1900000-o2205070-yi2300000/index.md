@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Jardine"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n9o9yi9r1y1o9y1r1/)
 (the same proportion at any scale), whose colour order is pattern [BRGRGRGR](/stripes/brgrgrgr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1881
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1881](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1881)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

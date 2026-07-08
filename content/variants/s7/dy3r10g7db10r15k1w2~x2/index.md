@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/east/"
 - name: "East Kilbride"
   url: "/tartans/east-kilbride/"
+- name: "East Kilbride"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy3r10g7db10r15k1w2/)
 (the same proportion at any scale), whose colour order is pattern [GRGBRKW](/stripes/grgbrkw/).
@@ -16,7 +18,7 @@ Part of the [East Kilbride](/tartans/east-kilbride/) tartan — the named design
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1066
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1066](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1066)
 
 ## Provenance
 
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y3r10g7db10r15k1w2~x2/"><circle cx="210.6" cy="153.4" r="4" fill="#3465a4"><title>East Kilbride</title></circle></a><a href="/variants/s6/y5k2g4lb18r25w5~x2/"><circle cx="181.5" cy="158.1" r="4" fill="#3465a4"><title>Christie (London)</title></circle></a><a href="/variants/s6/r48db16y5g17w8k3~x2/"><circle cx="205.7" cy="134.2" r="4" fill="#3465a4"><title>Scottish American Society of Michigan (Official)</title></circle></a><a href="/variants/s7/r52db16k16g22r16y3r16/"><circle cx="271.5" cy="156.3" r="4" fill="#3465a4"><title>Sturrock</title></circle></a><a href="/variants/s6/r3db15r3g8r20k2~x2/"><circle cx="248.2" cy="190.5" r="4" fill="#3465a4"><title>Finnigan (Estimated threadcount)</title></circle></a><a href="/variants/s6/r40lb11w2k12g36r32~x2/"><circle cx="247.9" cy="166.0" r="4" fill="#3465a4"><title>Caithness (1848) (District?)</title></circle></a><a href="/variants/s6/r25db7r3g13lb1k2~x4/"><circle cx="292.4" cy="129.5" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s6/k3r24lb16w11y1g3~x2/"><circle cx="177.4" cy="128.6" r="4" fill="#3465a4"><title>Bro-sant-Malou</title></circle></a><a href="/variants/s7/r52t16k16g22r16lo3r16~x2/"><circle cx="174.0" cy="144.7" r="4" fill="#3465a4"><title>Sturrock (Blue/Black)</title></circle></a><a href="/variants/s7/r30db12k3g12y2g3w2~x2/"><circle cx="203.2" cy="127.8" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><circle cx="208.0" cy="152.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y3r10g7db10r15k1w2~x2/"><circle cx="210.6" cy="153.8" r="4" fill="#3465a4"><title>East Kilbride</title></circle></a><a href="/variants/s6/y5k2g4lb18r25w5~x2/"><circle cx="181.5" cy="158.5" r="4" fill="#3465a4"><title>Christie (London)</title></circle></a><a href="/variants/s6/r48db16y5g17w8k3~x2/"><circle cx="205.7" cy="134.5" r="4" fill="#3465a4"><title>Scottish American Society of Michigan (Official)</title></circle></a><a href="/variants/s7/r52db16k16g22r16y3r16/"><circle cx="271.5" cy="156.7" r="4" fill="#3465a4"><title>Sturrock</title></circle></a><a href="/variants/s6/r3db15r3g8r20k2~x2/"><circle cx="248.3" cy="191.1" r="4" fill="#3465a4"><title>Finnigan (Estimated threadcount)</title></circle></a><a href="/variants/s6/r40lb11w2k12g36r32~x2/"><circle cx="248.0" cy="166.6" r="4" fill="#3465a4"><title>Caithness (1848) (District?)</title></circle></a><a href="/variants/s6/r25db7r3g13lb1k2~x4/"><circle cx="292.4" cy="129.8" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s6/k3r24lb16w11y1g3~x2/"><circle cx="177.4" cy="128.9" r="4" fill="#3465a4"><title>Bro-sant-Malou</title></circle></a><a href="/variants/s7/r52t16k16g22r16lo3r16~x2/"><circle cx="173.9" cy="145.2" r="4" fill="#3465a4"><title>Sturrock (Blue/Black)</title></circle></a><a href="/variants/s7/r30db12k3g12y2g3w2~x2/"><circle cx="203.2" cy="128.1" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><circle cx="208.0" cy="152.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dy3r10g7db10r15k1w2~x2/

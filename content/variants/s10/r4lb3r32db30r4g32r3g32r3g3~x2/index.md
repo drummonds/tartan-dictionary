@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Plaid #15"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4lb3r32db30r4g32r3g32r3g3/)
 (the same proportion at any scale), whose colour order is pattern [GRGRGRBRWR](/stripes/grgrgrbrwr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4348
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4348](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4348)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/"><circle cx="263.8" cy="172.5" r="4" fill="#3465a4"><title>Cape Breton University</title></circle></a><a href="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x4/"><circle cx="291.7" cy="183.9" r="4" fill="#3465a4"><title>Nithsdale (3 colours) (District)</title></circle></a><a href="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x2/"><circle cx="291.7" cy="183.9" r="4" fill="#3465a4"><title>Nithsdale</title></circle></a><a href="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x4~r1807033/"><circle cx="304.3" cy="189.5" r="4" fill="#3465a4"><title>Nithsdale</title></circle></a><a href="/variants/s10/db4r17db4g4db2g4db4g27db4y4~x2/"><circle cx="273.6" cy="175.7" r="4" fill="#3465a4"><title>Cape Breton University Chemistry Society</title></circle></a><a href="/variants/s10/g22r3db10t2db10r21g22r3y2db2~x2/"><circle cx="228.1" cy="179.1" r="4" fill="#3465a4"><title>Glasgow Cathedral 2000</title></circle></a><a href="/variants/s8/g28r4dp25w5r22g27r4dp2~x2/"><circle cx="249.0" cy="196.4" r="4" fill="#3465a4"><title>New Glasgow (Canada)</title></circle></a><a href="/variants/s10/g3r2db2r14t1db4r2g12r2db2~x8/"><circle cx="271.0" cy="167.8" r="4" fill="#3465a4"><title>MacKillop (Clan)</title></circle></a><a href="/variants/s9/g10r1g1r1g1r4db12r1db2~x2/"><circle cx="272.1" cy="186.8" r="4" fill="#3465a4"><title>Unidentified Portrait</title></circle></a><a href="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/"><circle cx="242.0" cy="179.3" r="4" fill="#3465a4"><title>Cranston Dress Family Tartan</title></circle></a><circle cx="252.9" cy="184.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/"><circle cx="263.8" cy="172.9" r="4" fill="#3465a4"><title>Cape Breton University</title></circle></a><a href="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x4/"><circle cx="291.8" cy="184.3" r="4" fill="#3465a4"><title>Nithsdale (3 colours) (District)</title></circle></a><a href="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x2/"><circle cx="291.8" cy="184.3" r="4" fill="#3465a4"><title>Nithsdale</title></circle></a><a href="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x4~r1807033/"><circle cx="304.4" cy="189.9" r="4" fill="#3465a4"><title>Nithsdale</title></circle></a><a href="/variants/s10/db4r17db4g4db2g4db4g27db4y4~x2/"><circle cx="273.6" cy="176.1" r="4" fill="#3465a4"><title>Cape Breton University Chemistry Society</title></circle></a><a href="/variants/s10/g22r3db10t2db10r21g22r3y2db2~x2/"><circle cx="228.1" cy="179.4" r="4" fill="#3465a4"><title>Glasgow Cathedral 2000</title></circle></a><a href="/variants/s8/g28r4dp25w5r22g27r4dp2~x2/"><circle cx="249.1" cy="196.9" r="4" fill="#3465a4"><title>New Glasgow (Canada)</title></circle></a><a href="/variants/s10/g3r2db2r14t1db4r2g12r2db2~x8/"><circle cx="271.0" cy="168.2" r="4" fill="#3465a4"><title>MacKillop (Clan)</title></circle></a><a href="/variants/s9/g10r1g1r1g1r4db12r1db2~x2/"><circle cx="272.1" cy="187.2" r="4" fill="#3465a4"><title>Unidentified Portrait</title></circle></a><a href="/variants/s8/r30db3r2db3r6db14g26dg6~g2408144-dg1806142/"><circle cx="242.0" cy="179.7" r="4" fill="#3465a4"><title>Cranston Dress Family Tartan</title></circle></a><circle cx="253.0" cy="184.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r4lb3r32db30r4g32r3g32r3g3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hibernian S3"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g49w4lo11/)
 (the same proportion at any scale), whose colour order is pattern [GWY](/stripes/gwy/).
 
 Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11043
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11043](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11043)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/g30w2dr5~x4/"><circle cx="578.0" cy="253.5" r="4" fill="#3465a4"><title>S3</title></circle></a><a href="/variants/s4/g9o20g40w5~x2/"><circle cx="449.1" cy="289.2" r="4" fill="#3465a4"><title>O'Neill (Australia) (Name)</title></circle></a><a href="/variants/s3/g12db3y1~x4/"><circle cx="533.9" cy="276.8" r="4" fill="#3465a4"><title>Unidentified pattern #2</title></circle></a><a href="/variants/s4/g9o20g46lg5~x2/"><circle cx="536.0" cy="299.8" r="4" fill="#3465a4"><title>O'Neill, Red (Corporate?)</title></circle></a><a href="/variants/s5/g50k6b11g25ly4~x2/"><circle cx="454.4" cy="206.3" r="4" fill="#3465a4"><title>Glen of Daviot (Dalgleish)</title></circle></a><a href="/variants/s4/g72r25y8w5/"><circle cx="423.1" cy="219.3" r="4" fill="#3465a4"><title>Sugell (Name?)</title></circle></a><a href="/variants/s3/g16dy3g2~x10/"><circle cx="626.0" cy="319.4" r="4" fill="#3465a4"><title>Hallstatt (Artefact)</title></circle></a><a href="/variants/s4/w1g10dp4lt1~x2/"><circle cx="371.1" cy="241.4" r="4" fill="#3465a4"><title>Wilson's No.205</title></circle></a><a href="/variants/s4/w1g10db4lb1~x2/"><circle cx="370.9" cy="244.1" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/variants/s4/dp4g10w1r1~x2/"><circle cx="351.6" cy="225.2" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><circle cx="546.0" cy="274.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/g30w2dr5~x4/"><circle cx="578.2" cy="254.1" r="4" fill="#3465a4"><title>S3</title></circle></a><a href="/variants/s4/g9o20g40w5~x2/"><circle cx="449.3" cy="289.8" r="4" fill="#3465a4"><title>O'Neill (Australia) (Name)</title></circle></a><a href="/variants/s3/g12db3y1~x4/"><circle cx="534.1" cy="277.4" r="4" fill="#3465a4"><title>Unidentified pattern #2</title></circle></a><a href="/variants/s4/g9o20g46lg5~x2/"><circle cx="536.2" cy="300.2" r="4" fill="#3465a4"><title>O'Neill, Red (Corporate?)</title></circle></a><a href="/variants/s5/g50k6b11g25ly4~x2/"><circle cx="454.5" cy="206.8" r="4" fill="#3465a4"><title>Glen of Daviot (Dalgleish)</title></circle></a><a href="/variants/s4/g72r25y8w5/"><circle cx="423.2" cy="219.8" r="4" fill="#3465a4"><title>Sugell (Name?)</title></circle></a><a href="/variants/s3/g16dy3g2~x10/"><circle cx="626.0" cy="320.0" r="4" fill="#3465a4"><title>Hallstatt (Artefact)</title></circle></a><a href="/variants/s4/w1g10dp4lt1~x2/"><circle cx="371.3" cy="242.0" r="4" fill="#3465a4"><title>Wilson's No.205</title></circle></a><a href="/variants/s4/w1g10db4lb1~x2/"><circle cx="371.0" cy="244.7" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/variants/s4/dp4g10w1r1~x2/"><circle cx="351.7" cy="225.8" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><circle cx="546.2" cy="275.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/g49w4lo11~x2/

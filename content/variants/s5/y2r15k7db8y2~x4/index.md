@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Aberdeen University"
   url: "/tartans/aberdeen-university/"
+- name: "Aberdeen University"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y2r15k7db8y2/)
 (the same proportion at any scale), whose colour order is pattern [GBKRG](/stripes/gbkrg/).
@@ -14,7 +16,7 @@ Part of the [Aberdeen University](/tartans/aberdeen-university/) tartan — the 
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy4r27k12db15dy4~x2/"><circle cx="177.5" cy="220.2" r="4" fill="#3465a4"><title>Aberdeen University (1992)</title></circle></a><a href="/variants/s5/w3db12k12r20g2~x2/"><circle cx="140.5" cy="189.0" r="4" fill="#3465a4"><title>Baillie of Polkemett</title></circle></a><a href="/variants/s5/w3t12k12r20g2~x2/"><circle cx="138.1" cy="190.9" r="4" fill="#3465a4"><title>Baillie of Polkemmet Red</title></circle></a><a href="/variants/s5/db15k20n12r34lb3~x2/"><circle cx="149.2" cy="199.1" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/variants/s5/db13k13db13r29y4~x2/"><circle cx="171.2" cy="236.3" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/variants/s4/db1r8k8lo1~x4/"><circle cx="212.8" cy="205.9" r="4" fill="#3465a4"><title>Skinner (Name)</title></circle></a><a href="/variants/s5/r39db22k11y22g5~x2/"><circle cx="141.8" cy="220.0" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s6/k3r11db3w1db3w1~x4/"><circle cx="226.4" cy="167.1" r="4" fill="#3465a4"><title>Suntan (Masai Shuka) (District?)</title></circle></a><a href="/variants/s4/y1k8r8w1~x4/"><circle cx="209.2" cy="205.8" r="4" fill="#3465a4"><title>Connel (Clan)</title></circle></a><a href="/variants/s4/y1k8r8w1~x2/"><circle cx="209.2" cy="205.8" r="4" fill="#3465a4"><title>Connel</title></circle></a><circle cx="179.8" cy="212.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy4r27k12db15dy4~x2/"><circle cx="177.6" cy="220.8" r="4" fill="#3465a4"><title>Aberdeen University (1992)</title></circle></a><a href="/variants/s5/w3db12k12r20g2~x2/"><circle cx="140.6" cy="189.6" r="4" fill="#3465a4"><title>Baillie of Polkemett</title></circle></a><a href="/variants/s5/w3t12k12r20g2~x2/"><circle cx="138.2" cy="191.5" r="4" fill="#3465a4"><title>Baillie of Polkemmet Red</title></circle></a><a href="/variants/s5/db15k20n12r34lb3~x2/"><circle cx="149.2" cy="199.7" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/variants/s5/db13k13db13r29y4~x2/"><circle cx="171.3" cy="237.0" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/variants/s4/db1r8k8lo1~x4/"><circle cx="212.8" cy="206.6" r="4" fill="#3465a4"><title>Skinner (Name)</title></circle></a><a href="/variants/s5/r39db22k11y22g5~x2/"><circle cx="141.9" cy="220.6" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s6/k3r11db3w1db3w1~x4/"><circle cx="226.4" cy="167.6" r="4" fill="#3465a4"><title>Suntan (Masai Shuka) (District?)</title></circle></a><a href="/variants/s4/y1k8r8w1~x4/"><circle cx="209.2" cy="206.5" r="4" fill="#3465a4"><title>Connel (Clan)</title></circle></a><a href="/variants/s4/y1k8r8w1~x2/"><circle cx="209.2" cy="206.5" r="4" fill="#3465a4"><title>Connel</title></circle></a><circle cx="179.9" cy="213.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/y2r15k7db8y2~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Norwich No.077"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg5r9dg10w2dg2ly2dg10r9dg5/)
 (the same proportion at any scale), whose colour order is pattern [GRGWGYGRG](/stripes/grgwgygrg/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3194
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3194](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3194)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g5r9g10y2g2w2g10r9g5~x2/"><circle cx="303.8" cy="260.0" r="4" fill="#3465a4"><title>Wilson's, No 169</title></circle></a><a href="/variants/s9/g2r3g4y1g1w1g4r3g2~x2/"><circle cx="299.8" cy="276.6" r="4" fill="#3465a4"><title>Unidentified #33</title></circle></a><a href="/variants/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/"><circle cx="235.4" cy="189.5" r="4" fill="#3465a4"><title>Hunter (USA)</title></circle></a><a href="/variants/s8/g9r2g2r2g2r8g11w2~x4/"><circle cx="357.5" cy="248.8" r="4" fill="#3465a4"><title>Leeds University Corporate Tartan</title></circle></a><a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x20/"><circle cx="268.3" cy="244.0" r="4" fill="#3465a4"><title>Lumsden 1797</title></circle></a><a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x14/"><circle cx="268.3" cy="244.0" r="4" fill="#3465a4"><title>Lumsden Boghead</title></circle></a><a href="/variants/s7/r6g1r6db1g3k3g3~x4/"><circle cx="208.6" cy="224.9" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s7/db6r3g2r3g12r3g2~x2/"><circle cx="279.1" cy="250.1" r="4" fill="#3465a4"><title>Skene Clan Tartan</title></circle></a><a href="/variants/s11/y1r4g1r1g3r1g3r1g1r4w1~x2/"><circle cx="266.0" cy="243.2" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/variants/s11/g6r3db6r3g12r3db6r3g12r3y2~x2/"><circle cx="235.7" cy="232.9" r="4" fill="#3465a4"><title>Hall (1994)</title></circle></a><circle cx="276.4" cy="244.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g5r9g10y2g2w2g10r9g5~x2/"><circle cx="304.0" cy="260.7" r="4" fill="#3465a4"><title>Wilson's, No 169</title></circle></a><a href="/variants/s9/g2r3g4y1g1w1g4r3g2~x2/"><circle cx="300.1" cy="277.4" r="4" fill="#3465a4"><title>Unidentified #33</title></circle></a><a href="/variants/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/"><circle cx="235.5" cy="190.0" r="4" fill="#3465a4"><title>Hunter (USA)</title></circle></a><a href="/variants/s8/g9r2g2r2g2r8g11w2~x4/"><circle cx="357.7" cy="249.5" r="4" fill="#3465a4"><title>Leeds University Corporate Tartan</title></circle></a><a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x20/"><circle cx="268.5" cy="244.7" r="4" fill="#3465a4"><title>Lumsden 1797</title></circle></a><a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x14/"><circle cx="268.5" cy="244.7" r="4" fill="#3465a4"><title>Lumsden Boghead</title></circle></a><a href="/variants/s7/r6g1r6db1g3k3g3~x4/"><circle cx="208.7" cy="225.6" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s7/db6r3g2r3g12r3g2~x2/"><circle cx="279.3" cy="250.8" r="4" fill="#3465a4"><title>Skene Clan Tartan</title></circle></a><a href="/variants/s11/y1r4g1r1g3r1g3r1g1r4w1~x2/"><circle cx="266.1" cy="243.8" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/variants/s11/g6r3db6r3g12r3db6r3g12r3y2~x2/"><circle cx="235.8" cy="233.5" r="4" fill="#3465a4"><title>Hall (1994)</title></circle></a><circle cx="276.6" cy="244.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/

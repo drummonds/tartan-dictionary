@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Buffalo (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db6n3k4dy3k3n3k3dg14lb28n3lb3k2/)
 (the same proportion at any scale), whose colour order is pattern [BBKGKBKGWBWK](/stripes/bbkgkbkgwbwk/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4086
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4086](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4086)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lb29db3k10lo2k2lb2k2g10dr5k3dr2lb2~x2/"><circle cx="155.1" cy="91.7" r="4" fill="#3465a4"><title>Stuart/Stewart Blue</title></circle></a><a href="/variants/s15/lb30g8r2k8y2k8r2g8db11r2lb10r3lb2r2db3~x2/"><circle cx="116.5" cy="95.2" r="4" fill="#3465a4"><title>Mungall Family Tartan</title></circle></a><a href="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/"><circle cx="152.7" cy="88.6" r="4" fill="#3465a4"><title>Stewart Blue</title></circle></a><a href="/variants/s11/db3k2lb3r2lb3k2lb24dt24r3db3w2~x2/"><circle cx="165.0" cy="108.3" r="4" fill="#3465a4"><title>Hamburg #2 (Corporate)</title></circle></a><a href="/variants/s9/dp4k2w3k2db30g9k4w20dy3~x2~g2408144/"><circle cx="122.6" cy="113.9" r="4" fill="#3465a4"><title>Minnesota Dress American District Tartan</title></circle></a><a href="/variants/s9/dp4k2w3k2db30g9k4w20dy3~x2/"><circle cx="123.2" cy="113.9" r="4" fill="#3465a4"><title>Minnesota Dress</title></circle></a><a href="/variants/s15/db62ly3k3r15db18w3ly28n12k3n5ly5n5db6k12w8/"><circle cx="159.7" cy="73.5" r="4" fill="#3465a4"><title>Clare County Crest (Fashion)</title></circle></a><a href="/variants/s11/r4k2g25k2lb10k2g4k2db25k2y4~x2/"><circle cx="115.8" cy="116.2" r="4" fill="#3465a4"><title>Ayrton (amended)</title></circle></a><a href="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/"><circle cx="121.3" cy="122.7" r="4" fill="#3465a4"><title>Glasgow, City of Culture</title></circle></a><a href="/variants/s11/dy4k2db25k2g4k2lb10k2g25k2r4~x2/"><circle cx="116.0" cy="116.1" r="4" fill="#3465a4"><title>Ayrton (1979) (Personal)</title></circle></a><circle cx="128.4" cy="101.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lb29db3k10lo2k2lb2k2g10dr5k3dr2lb2~x2/"><circle cx="155.0" cy="91.9" r="4" fill="#3465a4"><title>Stuart/Stewart Blue</title></circle></a><a href="/variants/s15/lb30g8r2k8y2k8r2g8db11r2lb10r3lb2r2db3~x2/"><circle cx="116.4" cy="95.5" r="4" fill="#3465a4"><title>Mungall Family Tartan</title></circle></a><a href="/variants/s12/lb29db3k10y2k2lb2k2g10r5k3r2lb2~x2/"><circle cx="152.6" cy="88.9" r="4" fill="#3465a4"><title>Stewart Blue</title></circle></a><a href="/variants/s11/db3k2lb3r2lb3k2lb24dt24r3db3w2~x2/"><circle cx="165.0" cy="108.6" r="4" fill="#3465a4"><title>Hamburg #2 (Corporate)</title></circle></a><a href="/variants/s9/dp4k2w3k2db30g9k4w20dy3~x2~g2408144/"><circle cx="122.5" cy="114.2" r="4" fill="#3465a4"><title>Minnesota Dress American District Tartan</title></circle></a><a href="/variants/s9/dp4k2w3k2db30g9k4w20dy3~x2/"><circle cx="123.1" cy="114.2" r="4" fill="#3465a4"><title>Minnesota Dress</title></circle></a><a href="/variants/s15/db62ly3k3r15db18w3ly28n12k3n5ly5n5db6k12w8/"><circle cx="159.6" cy="73.6" r="4" fill="#3465a4"><title>Clare County Crest (Fashion)</title></circle></a><a href="/variants/s11/r4k2g25k2lb10k2g4k2db25k2y4~x2/"><circle cx="115.7" cy="116.4" r="4" fill="#3465a4"><title>Ayrton (amended)</title></circle></a><a href="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/"><circle cx="121.2" cy="122.9" r="4" fill="#3465a4"><title>Glasgow, City of Culture</title></circle></a><a href="/variants/s11/dy4k2db25k2g4k2lb10k2g25k2r4~x2/"><circle cx="115.9" cy="116.3" r="4" fill="#3465a4"><title>Ayrton (1979) (Personal)</title></circle></a><circle cx="128.3" cy="101.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db6n3k4dy3k3n3k3dg14lb28n3lb3k2~x2/

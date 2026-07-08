@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "St. Andrews New Golf Club"
   url: "/tartans/st-andrews-new-golf-club/"
+- name: "St. Andrews New Golf Club"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp4db18r2db2r2db9g20db3g4/)
 (the same proportion at any scale), whose colour order is pattern [BBRBRBGBG](/stripes/bbrbrbgbg/).
@@ -14,7 +16,7 @@ Part of the [St. Andrews New Golf Club](/tartans/st-andrews-new-golf-club/) tart
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3882
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3882](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3882)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dp4db18dr2db2dr2db9g20db3g4~x2/"><circle cx="321.9" cy="216.6" r="4" fill="#3465a4"><title>St. Andrews New Golf Club (Corp)</title></circle></a><a href="/variants/s9/dt3db4dt24db6r3db4g3db8w3~x2/"><circle cx="270.7" cy="196.3" r="4" fill="#3465a4"><title>Scozia (Fashion)</title></circle></a><a href="/variants/s10/y3g17db3g3db3do5db18r2db8r2~x2/"><circle cx="255.9" cy="187.1" r="4" fill="#3465a4"><title>Donegal</title></circle></a><a href="/variants/s7/db13g8r5db3g2r1y1~x4/"><circle cx="273.5" cy="197.6" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><a href="/variants/s11/db2n18db2n2db20r3db18g2db2g18w2/"><circle cx="265.5" cy="179.1" r="4" fill="#3465a4"><title>American Society of Travel Agents, The</title></circle></a><a href="/variants/s7/db1y6db8r1db8g6y1~x4/"><circle cx="293.2" cy="239.1" r="4" fill="#3465a4"><title>Hill of Banchory Primary (School)</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/"><circle cx="264.1" cy="198.9" r="4" fill="#3465a4"><title>New Mexico, State of (Fashion)</title></circle></a><a href="/variants/s6/dg4db12r3db12dg32w4~x2/"><circle cx="328.7" cy="216.8" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="294.8" cy="208.1" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><a href="/variants/s10/g8r3g3r5g26db7lb3db28r3db6~x2/"><circle cx="250.0" cy="188.8" r="4" fill="#3465a4"><title>Stewart of Appin Htg (error)</title></circle></a><circle cx="296.8" cy="200.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dp4db18dr2db2dr2db9g20db3g4~x2/"><circle cx="321.9" cy="216.9" r="4" fill="#3465a4"><title>St. Andrews New Golf Club (Corp)</title></circle></a><a href="/variants/s9/dt3db4dt24db6r3db4g3db8w3~x2/"><circle cx="270.7" cy="196.5" r="4" fill="#3465a4"><title>Scozia (Fashion)</title></circle></a><a href="/variants/s10/y3g17db3g3db3do5db18r2db8r2~x2/"><circle cx="256.0" cy="187.4" r="4" fill="#3465a4"><title>Donegal</title></circle></a><a href="/variants/s7/db13g8r5db3g2r1y1~x4/"><circle cx="273.5" cy="198.0" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><a href="/variants/s11/db2n18db2n2db20r3db18g2db2g18w2/"><circle cx="265.5" cy="179.4" r="4" fill="#3465a4"><title>American Society of Travel Agents, The</title></circle></a><a href="/variants/s7/db1y6db8r1db8g6y1~x4/"><circle cx="293.3" cy="239.6" r="4" fill="#3465a4"><title>Hill of Banchory Primary (School)</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/"><circle cx="264.1" cy="199.3" r="4" fill="#3465a4"><title>New Mexico, State of (Fashion)</title></circle></a><a href="/variants/s6/dg4db12r3db12dg32w4~x2/"><circle cx="328.7" cy="217.2" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="294.9" cy="208.5" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><a href="/variants/s10/g8r3g3r5g26db7lb3db28r3db6~x2/"><circle cx="250.1" cy="189.2" r="4" fill="#3465a4"><title>Stewart of Appin Htg (error)</title></circle></a><circle cx="296.8" cy="200.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dp4db18r2db2r2db9g20db3g4~x2~dp1607327-r1606028/

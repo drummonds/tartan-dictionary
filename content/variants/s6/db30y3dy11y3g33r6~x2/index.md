@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Balfour Hunting"
   url: "/tartans/balfour-hunting/"
+- name: "Balfour Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db30y3dy11y3g33r6/)
 (the same proportion at any scale), whose colour order is pattern [BGGGGR](/stripes/bggggr/).
@@ -14,7 +16,7 @@ Part of the [Balfour Hunting](/tartans/balfour-hunting/) tartan — the named de
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4866
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4866](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4866)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="198.7" cy="197.7" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s5/r2y1g10db10w1~x6/"><circle cx="225.6" cy="207.7" r="4" fill="#3465a4"><title>Turnbull Hunting (Name)</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.0" cy="213.1" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/variants/s5/dr7y3g28db28w3~x2/"><circle cx="238.2" cy="230.0" r="4" fill="#3465a4"><title>Turnbull Hunting</title></circle></a><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="164.9" cy="176.5" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.2" cy="254.7" r="4" fill="#3465a4"><title>Corey (Name)</title></circle></a><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/"><circle cx="236.3" cy="196.4" r="4" fill="#3465a4"><title>Canine All Dogs</title></circle></a><a href="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/"><circle cx="199.4" cy="201.6" r="4" fill="#3465a4"><title>Douglas, Green (Wilsons)</title></circle></a><a href="/variants/s6/ly5db30w3g15y8r4~x2/"><circle cx="188.3" cy="183.1" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/variants/s6/dg9g1b2g1db4r1~x12~dg1806142-g2408144/"><circle cx="283.3" cy="214.8" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><circle cx="216.8" cy="207.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="198.7" cy="198.1" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s5/r2y1g10db10w1~x6/"><circle cx="225.7" cy="208.2" r="4" fill="#3465a4"><title>Turnbull Hunting (Name)</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.0" cy="213.6" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/variants/s5/dr7y3g28db28w3~x2/"><circle cx="238.3" cy="230.5" r="4" fill="#3465a4"><title>Turnbull Hunting</title></circle></a><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="164.9" cy="176.8" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.3" cy="255.1" r="4" fill="#3465a4"><title>Corey (Name)</title></circle></a><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/"><circle cx="236.4" cy="196.8" r="4" fill="#3465a4"><title>Canine All Dogs</title></circle></a><a href="/variants/s5/k1dbi1g8db8w1~x4~dbi1406275-db1204274/"><circle cx="199.4" cy="202.1" r="4" fill="#3465a4"><title>Douglas, Green (Wilsons)</title></circle></a><a href="/variants/s6/ly5db30w3g15y8r4~x2/"><circle cx="188.4" cy="183.5" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/variants/s6/dg9g1b2g1db4r1~x12~dg1806142-g2408144/"><circle cx="283.4" cy="215.2" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><circle cx="216.9" cy="207.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db30y3dy11y3g33r6~x2/

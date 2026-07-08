@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hughes (USA) (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k12db3t4db3k39db3t2k3t2db3k39db3t4db3k12t4/)
 (the same proportion at any scale), whose colour order is pattern [BKBBBKKBBKBBKKBBBK](/stripes/bkbbbkkbbkbbkkbbbk/).
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1780
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1780](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1780)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/db28dy3db28k2db2k2db3k34dy2k3r3k3dy2k34db3k2db2k2~x2/"><circle cx="325.6" cy="105.7" r="4" fill="#3465a4"><title>Cleikum</title></circle></a><a href="/variants/s6/k40db10g6k2g3k2~x2/"><circle cx="245.5" cy="142.6" r="4" fill="#3465a4"><title>Daks (Chino Check)</title></circle></a><a href="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/"><circle cx="266.9" cy="150.1" r="4" fill="#3465a4"><title>Daks (Chino Check) (Fashion)</title></circle></a><a href="/variants/s17/dy3k20db4dg3db3dg3db3dg3db4k13lo2k2lo2k2dg2k2dg3~x2/"><circle cx="225.6" cy="125.7" r="4" fill="#3465a4"><title>Fermanagh, County</title></circle></a><a href="/variants/s16/dg18k6dg1k1db1k6db1k2db1k6db1k1dg1k6dg21y1~x2/"><circle cx="365.6" cy="117.5" r="4" fill="#3465a4"><title>Grand Lodge of Scotland Corporate Weavers Tartan</title></circle></a><a href="/variants/s6/k70y4k3w2k2w2~x2/"><circle cx="373.1" cy="101.6" r="4" fill="#3465a4"><title>Kang Personal Tartan</title></circle></a><a href="/variants/s20/k3dr30k2dr4k2dr30k3db30k35w2k35db30k3dr30k2dr4k2dr30k3w2/"><circle cx="262.6" cy="125.9" r="4" fill="#3465a4"><title>Gwyn of Wales</title></circle></a><circle cx="300.7" cy="104.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/db28dy3db28k2db2k2db3k34dy2k3r3k3dy2k34db3k2db2k2~x2/"><circle cx="325.4" cy="105.7" r="4" fill="#3465a4"><title>Cleikum</title></circle></a><a href="/variants/s6/k40db10g6k2g3k2~x2/"><circle cx="245.4" cy="142.8" r="4" fill="#3465a4"><title>Daks (Chino Check)</title></circle></a><a href="/variants/s11/ki25k7ki2k2ki2k2db10g6k2g3ki2~x2~ki0700000/"><circle cx="266.9" cy="150.3" r="4" fill="#3465a4"><title>Daks (Chino Check) (Fashion)</title></circle></a><a href="/variants/s17/dy3k20db4dg3db3dg3db3dg3db4k13lo2k2lo2k2dg2k2dg3~x2/"><circle cx="225.5" cy="125.9" r="4" fill="#3465a4"><title>Fermanagh, County</title></circle></a><a href="/variants/s16/dg18k6dg1k1db1k6db1k2db1k6db1k1dg1k6dg21y1~x2/"><circle cx="365.5" cy="117.5" r="4" fill="#3465a4"><title>Grand Lodge of Scotland Corporate Weavers Tartan</title></circle></a><a href="/variants/s6/k70y4k3w2k2w2~x2/"><circle cx="373.0" cy="101.6" r="4" fill="#3465a4"><title>Kang Personal Tartan</title></circle></a><a href="/variants/s20/k3dr30k2dr4k2dr30k3db30k35w2k35db30k3dr30k2dr4k2dr30k3w2/"><circle cx="262.5" cy="126.0" r="4" fill="#3465a4"><title>Gwyn of Wales</title></circle></a><circle cx="300.5" cy="104.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/k12db3t4db3k39db3t2k3t2db3k39db3t4db3k12t4~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Keppoch"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k5g2k5g2db8g25w4/)
 (the same proportion at any scale), whose colour order is pattern [KGKGBGW](/stripes/kgkgbgw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1951
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1951](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1951)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/b26g6k8g3k8g30w3g3~x2/"><circle cx="209.6" cy="179.4" r="4" fill="#3465a4"><title>Riley (Personal)</title></circle></a><a href="/variants/s9/w1g16lb2g12k1g12k10dp10lb1~x2/"><circle cx="260.1" cy="153.5" r="4" fill="#3465a4"><title>Faskin Family (Aberdeenshire)</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x2/"><circle cx="268.4" cy="135.9" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x4/"><circle cx="268.4" cy="135.9" r="4" fill="#3465a4"><title>MacKendrick (Clan)</title></circle></a><a href="/variants/s9/dy1k6g4k1g16db1g4db6w1~x4/"><circle cx="268.4" cy="135.8" r="4" fill="#3465a4"><title>Henderson/MacKendrick</title></circle></a><a href="/variants/s8/g2k3y1k3g2db8g16k1~x4/"><circle cx="272.4" cy="152.0" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/variants/s7/g8w4g50k12g4k15ly5~x2/"><circle cx="302.5" cy="158.9" r="4" fill="#3465a4"><title>Instakilt, Green (Fashion)</title></circle></a><a href="/variants/s8/g44k2g2k2g3k12db10r3~x2/"><circle cx="334.3" cy="119.3" r="4" fill="#3465a4"><title>Celtic (New) Corporate Sport Tartan</title></circle></a><a href="/variants/s6/g3db8g3k4g15r2~x2/"><circle cx="269.3" cy="215.5" r="4" fill="#3465a4"><title>Lauder (Family)</title></circle></a><a href="/variants/s6/w12k3g50w3k13dy6~x2/"><circle cx="271.6" cy="153.5" r="4" fill="#3465a4"><title>Limerick County, Crest Range</title></circle></a><circle cx="252.9" cy="164.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/b26g6k8g3k8g30w3g3~x2/"><circle cx="209.7" cy="179.9" r="4" fill="#3465a4"><title>Riley (Personal)</title></circle></a><a href="/variants/s9/w1g16lb2g12k1g12k10dp10lb1~x2/"><circle cx="260.1" cy="154.0" r="4" fill="#3465a4"><title>Faskin Family (Aberdeenshire)</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x2/"><circle cx="268.3" cy="136.2" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x4/"><circle cx="268.3" cy="136.2" r="4" fill="#3465a4"><title>MacKendrick (Clan)</title></circle></a><a href="/variants/s9/dy1k6g4k1g16db1g4db6w1~x4/"><circle cx="268.4" cy="136.1" r="4" fill="#3465a4"><title>Henderson/MacKendrick</title></circle></a><a href="/variants/s8/g2k3y1k3g2db8g16k1~x4/"><circle cx="272.4" cy="152.3" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/variants/s7/g8w4g50k12g4k15ly5~x2/"><circle cx="302.6" cy="159.4" r="4" fill="#3465a4"><title>Instakilt, Green (Fashion)</title></circle></a><a href="/variants/s8/g44k2g2k2g3k12db10r3~x2/"><circle cx="334.2" cy="119.5" r="4" fill="#3465a4"><title>Celtic (New) Corporate Sport Tartan</title></circle></a><a href="/variants/s6/g3db8g3k4g15r2~x2/"><circle cx="269.4" cy="216.0" r="4" fill="#3465a4"><title>Lauder (Family)</title></circle></a><a href="/variants/s6/w12k3g50w3k13dy6~x2/"><circle cx="271.6" cy="154.0" r="4" fill="#3465a4"><title>Limerick County, Crest Range</title></circle></a><circle cx="252.9" cy="165.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k5g2k5g2db8g25w4~x2/

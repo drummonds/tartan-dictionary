@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Staines"
   url: "/tartans/staines/"
+- name: "Staines"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db12k1/)
 (the same proportion at any scale), whose colour order is pattern [BK](/stripes/bk/).
@@ -14,7 +16,7 @@ Part of the [Staines](/tartans/staines/) tartan — the named design grouping th
 
 Sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10857
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10857](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10857)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s2/k15lb1~x12/"><circle cx="626.0" cy="242.7" r="4" fill="#3465a4"><title>Joy's Fancy, Allen (Personal)</title></circle></a><a href="/variants/s3/db1k12db1~x10/"><circle cx="626.0" cy="242.7" r="4" fill="#3465a4"><title>Staines (2013)</title></circle></a><a href="/variants/s4/db8dr1k1n1~x10/"><circle cx="486.1" cy="226.5" r="4" fill="#3465a4"><title>Kucher, Gregory</title></circle></a><a href="/variants/s4/r2k6db33w2~x4/"><circle cx="458.3" cy="161.6" r="4" fill="#3465a4"><title>McCallie</title></circle></a><a href="/variants/s2/dy9n1~x12/"><circle cx="626.0" cy="366.0" r="4" fill="#3465a4"><title>Outlander #4</title></circle></a><a href="/variants/s3/db33g3r1~x2~db1406275-r2109032/"><circle cx="626.0" cy="177.2" r="4" fill="#3465a4"><title>Norwich No.030</title></circle></a><a href="/variants/s4/k50r1db3dp1~x4/"><circle cx="626.0" cy="121.7" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/variants/s5/r5w4k4db80w4~x2/"><circle cx="516.6" cy="128.7" r="4" fill="#3465a4"><title>Volunteer Lifesaving Corps (Corp.)</title></circle></a><a href="/variants/s4/db50k12db21w5~x2/"><circle cx="475.3" cy="230.0" r="4" fill="#3465a4"><title>Coinean Dubh</title></circle></a><a href="/variants/s2/k20dt1~x6/"><circle cx="626.0" cy="279.4" r="4" fill="#3465a4"><title>Black Shadow (Fashion)</title></circle></a><circle cx="626.0" cy="291.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s2/k15lb1~x12/"><circle cx="626.0" cy="243.3" r="4" fill="#3465a4"><title>Joy's Fancy, Allen (Personal)</title></circle></a><a href="/variants/s3/db1k12db1~x10/"><circle cx="626.0" cy="243.1" r="4" fill="#3465a4"><title>Staines (2013)</title></circle></a><a href="/variants/s4/db8dr1k1n1~x10/"><circle cx="486.1" cy="226.8" r="4" fill="#3465a4"><title>Kucher, Gregory</title></circle></a><a href="/variants/s4/r2k6db33w2~x4/"><circle cx="458.3" cy="161.9" r="4" fill="#3465a4"><title>McCallie</title></circle></a><a href="/variants/s2/dy9n1~x12/"><circle cx="626.0" cy="366.0" r="4" fill="#3465a4"><title>Outlander #4</title></circle></a><a href="/variants/s3/db33g3r1~x2~db1406275-r2109032/"><circle cx="626.0" cy="177.3" r="4" fill="#3465a4"><title>Norwich No.030</title></circle></a><a href="/variants/s4/k50r1db3dp1~x4/"><circle cx="626.0" cy="121.7" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/variants/s5/r5w4k4db80w4~x2/"><circle cx="516.5" cy="128.9" r="4" fill="#3465a4"><title>Volunteer Lifesaving Corps (Corp.)</title></circle></a><a href="/variants/s4/db50k12db21w5~x2/"><circle cx="475.4" cy="230.6" r="4" fill="#3465a4"><title>Coinean Dubh</title></circle></a><a href="/variants/s2/k20dt1~x6/"><circle cx="626.0" cy="279.7" r="4" fill="#3465a4"><title>Black Shadow (Fashion)</title></circle></a><circle cx="626.0" cy="291.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s2/db12k1~x10/

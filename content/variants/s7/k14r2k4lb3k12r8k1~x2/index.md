@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Punky Princess (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k14r2k4lb3k12r8k1/)
 (the same proportion at any scale), whose colour order is pattern [KRKWKRK](/stripes/krkwkrk/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10618
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10618](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10618)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k16w15k4db12k22r2k6~x2/"><circle cx="242.3" cy="186.5" r="4" fill="#3465a4"><title>Sanley-Cantamessa (Personal)</title></circle></a><a href="/variants/s5/k55r18k4r18k38/"><circle cx="406.4" cy="210.1" r="4" fill="#3465a4"><title>Unidentified Kirtle</title></circle></a><a href="/variants/s8/k25r25k10lb3k10r25k25r3~x2/"><circle cx="260.6" cy="204.8" r="4" fill="#3465a4"><title>bodog.com Corporate Tartan</title></circle></a><a href="/variants/s7/k2lb5k1lb1k10r1k1~x4/"><circle cx="328.6" cy="163.7" r="4" fill="#3465a4"><title>Lundy Reform</title></circle></a><a href="/variants/s6/k4r4k20r1k20w4~x6/"><circle cx="469.1" cy="155.2" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/variants/s5/k13r2k13r19k2~x2/"><circle cx="311.3" cy="221.2" r="4" fill="#3465a4"><title>MacLeod of Raasay (Highland Society of London)</title></circle></a><a href="/variants/s5/k6r1k6r9k1~x4/"><circle cx="306.8" cy="223.7" r="4" fill="#3465a4"><title>MacLeod of Raasay</title></circle></a><a href="/variants/s6/r19k8r18k50w14k6/"><circle cx="247.4" cy="199.2" r="4" fill="#3465a4"><title>Knights Breton</title></circle></a><a href="/variants/s6/k2r6k2r6k12y1~x4/"><circle cx="289.7" cy="186.1" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/variants/s6/k2r6k2r6k12y1~x2/"><circle cx="289.7" cy="186.1" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><circle cx="353.7" cy="173.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k16w15k4db12k22r2k6~x2/"><circle cx="242.3" cy="187.1" r="4" fill="#3465a4"><title>Sanley-Cantamessa (Personal)</title></circle></a><a href="/variants/s5/k55r18k4r18k38/"><circle cx="406.5" cy="210.7" r="4" fill="#3465a4"><title>Unidentified Kirtle</title></circle></a><a href="/variants/s8/k25r25k10lb3k10r25k25r3~x2/"><circle cx="260.7" cy="205.5" r="4" fill="#3465a4"><title>bodog.com Corporate Tartan</title></circle></a><a href="/variants/s7/k2lb5k1lb1k10r1k1~x4/"><circle cx="328.6" cy="164.2" r="4" fill="#3465a4"><title>Lundy Reform</title></circle></a><a href="/variants/s6/k4r4k20r1k20w4~x6/"><circle cx="469.1" cy="155.7" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/variants/s5/k13r2k13r19k2~x2/"><circle cx="311.4" cy="221.9" r="4" fill="#3465a4"><title>MacLeod of Raasay (Highland Society of London)</title></circle></a><a href="/variants/s5/k6r1k6r9k1~x4/"><circle cx="306.9" cy="224.5" r="4" fill="#3465a4"><title>MacLeod of Raasay</title></circle></a><a href="/variants/s6/r19k8r18k50w14k6/"><circle cx="247.5" cy="199.9" r="4" fill="#3465a4"><title>Knights Breton</title></circle></a><a href="/variants/s6/k2r6k2r6k12y1~x4/"><circle cx="289.8" cy="186.7" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/variants/s6/k2r6k2r6k12y1~x2/"><circle cx="289.8" cy="186.7" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><circle cx="353.7" cy="174.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k14r2k4lb3k12r8k1~x2/

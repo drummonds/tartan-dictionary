@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacEdward"
   url: "/tartans/macedward/"
+- name: "MacEdward (MacGregor Hastie)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr6lo1dr24dg6db2k1db2k1db12dr1/)
 (the same proportion at any scale), whose colour order is pattern [BBKBKBGBYB](/stripes/bbkbkbgbyb/).
@@ -14,7 +16,7 @@ Part of the [MacEdward](/tartans/macedward/) tartan — the named design groupin
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2426
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2426](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2426)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2~x2/"><circle cx="383.6" cy="122.0" r="4" fill="#3465a4"><title>Methodist Church</title></circle></a><a href="/variants/s12/k2lb1dr2dg6dr2db4dr2k2dr15dg2dr2k1~x4/"><circle cx="333.2" cy="139.2" r="4" fill="#3465a4"><title>MacClure</title></circle></a><a href="/variants/s14/dr2db2dr1db2dr1db28k6dr2b1dr2b1dr24k1r1~x2~db1404245-b2409265/"><circle cx="347.8" cy="92.6" r="4" fill="#3465a4"><title>Chisholm, Christopher (Personal)</title></circle></a><a href="/variants/s7/dt27k5dp2n1dp1w1dp5~x4~dt0900000-n1900000/"><circle cx="445.1" cy="124.9" r="4" fill="#3465a4"><title>Caledonian Mist</title></circle></a><a href="/variants/s6/k2dr1dbi17dr17db1y2~x4~dbi1404245-db1204274/"><circle cx="373.6" cy="184.9" r="4" fill="#3465a4"><title>Murdoch (Geoffrey)</title></circle></a><a href="/variants/s10/db2ki3db33k11ki3db3dp15db4lb1db2~x2~db1404245-ki0503284/"><circle cx="378.1" cy="113.7" r="4" fill="#3465a4"><title>Scottish Thistle</title></circle></a><a href="/variants/s6/k2dr1db17dr17b1y2~x4/"><circle cx="336.0" cy="170.0" r="4" fill="#3465a4"><title>Murdoch</title></circle></a><a href="/variants/s9/r1db2dt1k3dt19db3y1db2y1~x4~db1208266-dt1102249/"><circle cx="403.4" cy="129.5" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/"><circle cx="410.6" cy="172.9" r="4" fill="#3465a4"><title>Connecticut State Police Pipe Band</title></circle></a><a href="/variants/s13/dr3r1db1dr1dg13dr3db4lb1dr16dg2dr2r1dg3~x2/"><circle cx="388.7" cy="165.3" r="4" fill="#3465a4"><title>MacDonald of Glencoe</title></circle></a><circle cx="400.2" cy="133.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2~x2/"><circle cx="383.5" cy="122.0" r="4" fill="#3465a4"><title>Methodist Church</title></circle></a><a href="/variants/s12/k2lb1dr2dg6dr2db4dr2k2dr15dg2dr2k1~x4/"><circle cx="333.2" cy="139.3" r="4" fill="#3465a4"><title>MacClure</title></circle></a><a href="/variants/s14/dr2db2dr1db2dr1db28k6dr2b1dr2b1dr24k1r1~x2~db1404245-b2409265/"><circle cx="347.7" cy="92.4" r="4" fill="#3465a4"><title>Chisholm, Christopher (Personal)</title></circle></a><a href="/variants/s7/dt27k5dp2n1dp1w1dp5~x4~dt0900000-n1900000/"><circle cx="445.0" cy="124.9" r="4" fill="#3465a4"><title>Caledonian Mist</title></circle></a><a href="/variants/s6/k2dr1dbi17dr17db1y2~x4~dbi1404245-db1204274/"><circle cx="373.6" cy="184.9" r="4" fill="#3465a4"><title>Murdoch (Geoffrey)</title></circle></a><a href="/variants/s10/db2ki3db33k11ki3db3dp15db4lb1db2~x2~db1404245-ki0503284/"><circle cx="378.0" cy="113.7" r="4" fill="#3465a4"><title>Scottish Thistle</title></circle></a><a href="/variants/s6/k2dr1db17dr17b1y2~x4/"><circle cx="336.0" cy="170.1" r="4" fill="#3465a4"><title>Murdoch</title></circle></a><a href="/variants/s9/r1db2dt1k3dt19db3y1db2y1~x4~db1208266-dt1102249/"><circle cx="403.3" cy="129.5" r="4" fill="#3465a4"><title>Pagus Wasia</title></circle></a><a href="/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/"><circle cx="410.6" cy="173.0" r="4" fill="#3465a4"><title>Connecticut State Police Pipe Band</title></circle></a><a href="/variants/s13/dr3r1db1dr1dg13dr3db4lb1dr16dg2dr2r1dg3~x2/"><circle cx="388.7" cy="165.3" r="4" fill="#3465a4"><title>MacDonald of Glencoe</title></circle></a><circle cx="400.1" cy="133.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dr6lo1dr24dg6db2k1db2k1db12dr1~x2/

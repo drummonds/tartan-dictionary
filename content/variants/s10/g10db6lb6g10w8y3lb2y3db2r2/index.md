@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Northern College"
   url: "/tartans/northern-college/"
+- name: "Northern College"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g10db6lb6g10w8y3lb2y3db2r2/)
 (the same proportion at any scale), whose colour order is pattern [GBWGWGWGBR](/stripes/gbwgwgwgbr/).
@@ -14,7 +16,7 @@ Part of the [Northern College](/tartans/northern-college/) tartan — the named 
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g5db3lb3g5w4dy2lb1dy2db1r1~x6/"><circle cx="70.2" cy="223.3" r="4" fill="#3465a4"><title>Northern College (Corporate)</title></circle></a><a href="/variants/s10/g5db3lb3g5w4dy2lb1dy2db1r1~x6~g2203152/"><circle cx="78.7" cy="223.6" r="4" fill="#3465a4"><title>Northern College (Ontario)</title></circle></a><a href="/variants/s9/dg2n13dg12w3lb10w3lb12g13r2~x2/"><circle cx="86.2" cy="216.9" r="4" fill="#3465a4"><title>Mounth The.. Corporate Tartan</title></circle></a><a href="/variants/s8/w5g4lb1g4r4lb1dg4dy1~x6/"><circle cx="61.9" cy="234.4" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/variants/s8/w5g4b1g4r4b1dg4y1~x2~g2104115-dg1304144/"><circle cx="74.8" cy="235.2" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/variants/s11/w5g2w5db5r2db5g11y2g11db5r2~x4/"><circle cx="139.7" cy="220.1" r="4" fill="#3465a4"><title>Kremlin Zoria</title></circle></a><a href="/variants/s16/g4w2r2lb3db3do2db2do2g2do2g3do2g8do6w8lb2~x2/"><circle cx="50.5" cy="209.9" r="4" fill="#3465a4"><title>Missouri Dress (Proposed) (District)</title></circle></a><a href="/variants/s7/y1db4o1g5dr2g1w1~x2~o1905046-dr1205000/"><circle cx="133.6" cy="221.9" r="4" fill="#3465a4"><title>Deeside District</title></circle></a><a href="/variants/s15/lb3g1lb1g5r2do4lb3g2w1lb1y1g1do2r2y1~x4/"><circle cx="69.7" cy="207.4" r="4" fill="#3465a4"><title>Highlands of Haliburton (District)</title></circle></a><a href="/variants/s9/g8r1g4do2w4lb3w1lb3w4~x8/"><circle cx="152.1" cy="222.5" r="4" fill="#3465a4"><title>Gaelic College of St.Anns</title></circle></a><circle cx="90.9" cy="221.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g5db3lb3g5w4dy2lb1dy2db1r1~x6/"><circle cx="70.3" cy="223.9" r="4" fill="#3465a4"><title>Northern College (Corporate)</title></circle></a><a href="/variants/s10/g5db3lb3g5w4dy2lb1dy2db1r1~x6~g2203152/"><circle cx="78.8" cy="224.1" r="4" fill="#3465a4"><title>Northern College (Ontario)</title></circle></a><a href="/variants/s9/dg2n13dg12w3lb10w3lb12g13r2~x2/"><circle cx="86.3" cy="217.4" r="4" fill="#3465a4"><title>Mounth The.. Corporate Tartan</title></circle></a><a href="/variants/s8/w5g4lb1g4r4lb1dg4dy1~x6/"><circle cx="62.1" cy="235.0" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/variants/s8/w5g4b1g4r4b1dg4y1~x2~g2104115-dg1304144/"><circle cx="75.0" cy="235.8" r="4" fill="#3465a4"><title>Devon Rural Skills Trust</title></circle></a><a href="/variants/s11/w5g2w5db5r2db5g11y2g11db5r2~x4/"><circle cx="139.8" cy="220.7" r="4" fill="#3465a4"><title>Kremlin Zoria</title></circle></a><a href="/variants/s16/g4w2r2lb3db3do2db2do2g2do2g3do2g8do6w8lb2~x2/"><circle cx="50.6" cy="210.5" r="4" fill="#3465a4"><title>Missouri Dress (Proposed) (District)</title></circle></a><a href="/variants/s7/y1db4o1g5dr2g1w1~x2~o1905046-dr1205000/"><circle cx="133.7" cy="222.4" r="4" fill="#3465a4"><title>Deeside District</title></circle></a><a href="/variants/s15/lb3g1lb1g5r2do4lb3g2w1lb1y1g1do2r2y1~x4/"><circle cx="69.8" cy="207.9" r="4" fill="#3465a4"><title>Highlands of Haliburton (District)</title></circle></a><a href="/variants/s9/g8r1g4do2w4lb3w1lb3w4~x8/"><circle cx="152.2" cy="223.1" r="4" fill="#3465a4"><title>Gaelic College of St.Anns</title></circle></a><circle cx="91.0" cy="222.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g10db6lb6g10w8y3lb2y3db2r2/

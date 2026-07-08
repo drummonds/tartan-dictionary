@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Susan G Komen 06"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w6n27dp6o40lr44w8o4/)
 (the same proportion at any scale), whose colour order is pattern [RWYRBBW](/stripes/rwyrbbw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4039
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4039](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4039)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n7r1dt6r8lb1~x8/"><circle cx="255.5" cy="259.2" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><a href="/variants/s7/r12w4r3ly18r3lyi4g2~x2~ly2503076-lyi3106095/"><circle cx="262.8" cy="213.4" r="4" fill="#3465a4"><title>Golden Pheasant</title></circle></a><a href="/variants/s8/n2o2n15o2w10oi15o2oi2~x2~o2102055-oi2104058/"><circle cx="225.2" cy="225.2" r="4" fill="#3465a4"><title>Bannockbane, Grey</title></circle></a><a href="/variants/s5/dt7r1n6r8lb1~x8/"><circle cx="249.5" cy="257.3" r="4" fill="#3465a4"><title>Callum (Buchan)</title></circle></a><a href="/variants/s5/b15t20n12r34y3~x2~t2004230-y2301060/"><circle cx="273.6" cy="251.9" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/variants/s7/o10n3db1lb8db1lo2g5~x4/"><circle cx="170.1" cy="205.8" r="4" fill="#3465a4"><title>Porcupine City of</title></circle></a><a href="/variants/s9/dp12n3r13dp4r10w2lb18n22r4~x2/"><circle cx="165.2" cy="200.7" r="4" fill="#3465a4"><title>Wild Rose (Commemorative)</title></circle></a><circle cx="236.3" cy="215.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n7r1dt6r8lb1~x8/"><circle cx="255.6" cy="259.8" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><a href="/variants/s7/r12w4r3ly18r3lyi4g2~x2~ly2503076-lyi3106095/"><circle cx="262.9" cy="213.8" r="4" fill="#3465a4"><title>Golden Pheasant</title></circle></a><a href="/variants/s8/n2o2n15o2w10oi15o2oi2~x2~o2102055-oi2104058/"><circle cx="225.3" cy="225.6" r="4" fill="#3465a4"><title>Bannockbane, Grey</title></circle></a><a href="/variants/s5/dt7r1n6r8lb1~x8/"><circle cx="249.6" cy="257.8" r="4" fill="#3465a4"><title>Callum (Buchan)</title></circle></a><a href="/variants/s5/b15t20n12r34y3~x2~t2004230-y2301060/"><circle cx="273.8" cy="252.2" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/variants/s7/o10n3db1lb8db1lo2g5~x4/"><circle cx="170.2" cy="206.2" r="4" fill="#3465a4"><title>Porcupine City of</title></circle></a><a href="/variants/s9/dp12n3r13dp4r10w2lb18n22r4~x2/"><circle cx="165.3" cy="201.1" r="4" fill="#3465a4"><title>Wild Rose (Commemorative)</title></circle></a><circle cx="236.4" cy="215.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w6n27dp6o40lr44w8o4~o2505023-lr3003019/

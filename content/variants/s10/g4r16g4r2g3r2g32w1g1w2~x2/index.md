@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rothesay #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4r16g4r2g3r2g32w1g1w2/)
 (the same proportion at any scale), whose colour order is pattern [GRGRGRGWGW](/stripes/grgrgrgwgw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3572
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3572](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3572)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/"><circle cx="414.6" cy="160.9" r="4" fill="#3465a4"><title>Rothesay Hunting Family Tartan</title></circle></a><a href="/variants/s10/dg3r6dg2r1dg2r1dg16w1dg2w3~x4/"><circle cx="392.9" cy="154.0" r="4" fill="#3465a4"><title>Prince of Wales (Fashion)</title></circle></a><a href="/variants/s10/g3dr6g2dr1g2dr1g16lr1g2lr3~x4/"><circle cx="458.5" cy="166.6" r="4" fill="#3465a4"><title>Prince of Wales Fashion Weavers Tartan</title></circle></a><a href="/variants/s8/g34r4g4r4g4r12g20w5~x2/"><circle cx="395.8" cy="200.3" r="4" fill="#3465a4"><title>Leeds, University of (Dance) #1</title></circle></a><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="407.6" cy="162.0" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><a href="/variants/s8/g164r20g6r20g23r14g4r36/"><circle cx="531.0" cy="152.9" r="4" fill="#3465a4"><title>Aukland &amp; District Pipe Band (Corp)</title></circle></a><a href="/variants/s17/w2g32r2g3r2g4r16g4r16g4r2g3r2g32w1g1w2~x2/"><circle cx="441.0" cy="117.1" r="4" fill="#3465a4"><title>Rothesay, hunting</title></circle></a><a href="/variants/s9/r4g24r6g4r4g6r44g1w4~x2~w4000000/"><circle cx="440.2" cy="125.4" r="4" fill="#3465a4"><title>Baluch Regiment</title></circle></a><a href="/variants/s10/g3db1g2dbi1g3r3g2r2g18db2~x2~dbi1003246-r2109032/"><circle cx="491.4" cy="154.0" r="4" fill="#3465a4"><title>Owen (Welsh Name)</title></circle></a><a href="/variants/s9/r5g20r5g3r4g5r36g1w4~x2/"><circle cx="430.9" cy="136.3" r="4" fill="#3465a4"><title>Fitzgerald/Baluchistan</title></circle></a><circle cx="459.0" cy="133.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/"><circle cx="414.6" cy="161.3" r="4" fill="#3465a4"><title>Rothesay Hunting Family Tartan</title></circle></a><a href="/variants/s10/dg3r6dg2r1dg2r1dg16w1dg2w3~x4/"><circle cx="392.9" cy="154.4" r="4" fill="#3465a4"><title>Prince of Wales (Fashion)</title></circle></a><a href="/variants/s10/g3dr6g2dr1g2dr1g16lr1g2lr3~x4/"><circle cx="458.5" cy="166.9" r="4" fill="#3465a4"><title>Prince of Wales Fashion Weavers Tartan</title></circle></a><a href="/variants/s8/g34r4g4r4g4r12g20w5~x2/"><circle cx="395.9" cy="200.8" r="4" fill="#3465a4"><title>Leeds, University of (Dance) #1</title></circle></a><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="407.6" cy="162.4" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><a href="/variants/s8/g164r20g6r20g23r14g4r36/"><circle cx="531.0" cy="153.1" r="4" fill="#3465a4"><title>Aukland &amp; District Pipe Band (Corp)</title></circle></a><a href="/variants/s17/w2g32r2g3r2g4r16g4r16g4r2g3r2g32w1g1w2~x2/"><circle cx="441.0" cy="117.3" r="4" fill="#3465a4"><title>Rothesay, hunting</title></circle></a><a href="/variants/s9/r4g24r6g4r4g6r44g1w4~x2~w4000000/"><circle cx="440.1" cy="125.7" r="4" fill="#3465a4"><title>Baluch Regiment</title></circle></a><a href="/variants/s10/g3db1g2dbi1g3r3g2r2g18db2~x2~dbi1003246-r2109032/"><circle cx="491.4" cy="154.3" r="4" fill="#3465a4"><title>Owen (Welsh Name)</title></circle></a><a href="/variants/s9/r5g20r5g3r4g5r36g1w4~x2/"><circle cx="430.9" cy="136.6" r="4" fill="#3465a4"><title>Fitzgerald/Baluchistan</title></circle></a><circle cx="459.0" cy="133.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g4r16g4r2g3r2g32w1g1w2~x2/

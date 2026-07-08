@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hebrides South Uist #4"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4db24r2db1r8db1r3db24r3db2r2g7r2db2r3db24r2db1r8db1r2db24w1db2r2db2r2g2db2/)
 (the same proportion at any scale), whose colour order is pattern [BGRBRBWBRBRBRBRBRGRBRBRBRBRBRBRBRBRBRBRGRBRBRBRBRBWBRBRG](/stripes/bgrbrbwbrbrbrbrbrgrbrbrbrbrbrbrbrbrbrbrgrbrbrbrbrbwbrbrg/).
 
 Sourced from register-of-tartans.  It is a [56 stripe tartan](/stripes/stripes56/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1671
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1671](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1671)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>

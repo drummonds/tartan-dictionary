@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Modowny"
   url: "/tartans/modowny/"
+- name: "Modowny (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr1n6k1n1k2n1k1n6ly1/)
 (the same proportion at any scale), whose colour order is pattern [BBKBKBKBY](/stripes/bbkbkbkby/).
@@ -14,7 +16,7 @@ Part of the [Modowny](/tartans/modowny/) tartan — the named design grouping th
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5677
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5677](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5677)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r1n6k1n1k2n1k1n6ly1~x8/"><circle cx="341.1" cy="187.8" r="4" fill="#3465a4"><title>Mowdowny (Fashion)</title></circle></a><a href="/variants/s9/dr1n6k1n1k2n1k1n6dy1~x8/"><circle cx="357.7" cy="193.4" r="4" fill="#3465a4"><title>Modowny</title></circle></a><a href="/variants/s9/db3n44k9n10k9n10k9n44r3~x2/"><circle cx="435.0" cy="153.1" r="4" fill="#3465a4"><title>VersaCold/Atlas (Corporate)</title></circle></a><a href="/variants/s9/n22b9k4n14dr2n11k2n2k2~x2/"><circle cx="362.1" cy="165.0" r="4" fill="#3465a4"><title>Greyhound Grenadiers Pipe Band</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="289.5" cy="185.4" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/variants/s7/n8k3n17k13n6k3n4~x2/"><circle cx="338.9" cy="250.3" r="4" fill="#3465a4"><title>Scott Black and Grey</title></circle></a><a href="/variants/s11/db5ly1n19k6n4k4n12w1n12k2db2~x2/"><circle cx="352.6" cy="130.8" r="4" fill="#3465a4"><title>Apollo 12 (Commemorative)</title></circle></a><a href="/variants/s9/n16k13n7dy3r2dy3n7k13n16~x2/"><circle cx="256.4" cy="209.8" r="4" fill="#3465a4"><title>Klappert, Denmark (Personal)</title></circle></a><a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4/"><circle cx="341.5" cy="178.4" r="4" fill="#3465a4"><title>Welsh National (Fashion)</title></circle></a><a href="/variants/s12/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3~x2/"><circle cx="300.9" cy="167.0" r="4" fill="#3465a4"><title>Royal Army of Oman</title></circle></a><circle cx="343.5" cy="189.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r1n6k1n1k2n1k1n6ly1~x8/"><circle cx="341.1" cy="188.3" r="4" fill="#3465a4"><title>Mowdowny (Fashion)</title></circle></a><a href="/variants/s9/dr1n6k1n1k2n1k1n6dy1~x8/"><circle cx="357.8" cy="193.9" r="4" fill="#3465a4"><title>Modowny</title></circle></a><a href="/variants/s9/db3n44k9n10k9n10k9n44r3~x2/"><circle cx="435.0" cy="153.5" r="4" fill="#3465a4"><title>VersaCold/Atlas (Corporate)</title></circle></a><a href="/variants/s9/n22b9k4n14dr2n11k2n2k2~x2/"><circle cx="362.1" cy="165.3" r="4" fill="#3465a4"><title>Greyhound Grenadiers Pipe Band</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="289.5" cy="185.9" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/variants/s7/n8k3n17k13n6k3n4~x2/"><circle cx="339.0" cy="251.1" r="4" fill="#3465a4"><title>Scott Black and Grey</title></circle></a><a href="/variants/s11/db5ly1n19k6n4k4n12w1n12k2db2~x2/"><circle cx="352.5" cy="131.1" r="4" fill="#3465a4"><title>Apollo 12 (Commemorative)</title></circle></a><a href="/variants/s9/n16k13n7dy3r2dy3n7k13n16~x2/"><circle cx="256.5" cy="210.3" r="4" fill="#3465a4"><title>Klappert, Denmark (Personal)</title></circle></a><a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4/"><circle cx="341.6" cy="178.9" r="4" fill="#3465a4"><title>Welsh National (Fashion)</title></circle></a><a href="/variants/s12/dg6w3dg15r3dg15y3k10dg21r3k3r3dg3~x2/"><circle cx="300.9" cy="167.4" r="4" fill="#3465a4"><title>Royal Army of Oman</title></circle></a><circle cx="343.5" cy="189.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dr1n6k1n1k2n1k1n6ly1~x8/

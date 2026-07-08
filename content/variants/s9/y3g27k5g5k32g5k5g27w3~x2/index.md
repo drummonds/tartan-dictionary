@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/maciver/"
 - name: "MacIver Hunting"
   url: "/tartans/maciver-hunting/"
+- name: "MacIver hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y3g27k5g5k32g5k5g27w3/)
 (the same proportion at any scale), whose colour order is pattern [GGKGKGKGW](/stripes/ggkgkgkgw/).
@@ -16,7 +18,7 @@ Part of the [MacIver Hunting](/tartans/maciver-hunting/) tartan — the named de
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr3g20k20g20lo2g2lo2~x2/"><circle cx="277.2" cy="182.9" r="4" fill="#3465a4"><title>Paton (Personal)</title></circle></a><a href="/variants/s7/r3g24k28g19y3g3y3~x2/"><circle cx="247.6" cy="185.7" r="4" fill="#3465a4"><title>Paton</title></circle></a><a href="/variants/s10/k8g4r1k2g16ly1k8g2k2g4~x4/"><circle cx="261.0" cy="145.4" r="4" fill="#3465a4"><title>Manitoba Cue (Corporate)</title></circle></a><a href="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/"><circle cx="263.3" cy="145.9" r="4" fill="#3465a4"><title>Manitoba Cue Sports</title></circle></a><a href="/variants/s10/r4g4k2g31k10y3g5k11g6k3~x2/"><circle cx="276.8" cy="139.2" r="4" fill="#3465a4"><title>MacArthur-Fox Green</title></circle></a><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="219.2" cy="187.8" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s8/g5k15g5k15g19r2g13lb4~x2/"><circle cx="218.3" cy="203.6" r="4" fill="#3465a4"><title>Strath Hallidale (Fashion)</title></circle></a><a href="/variants/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8lb4~x2/"><circle cx="249.1" cy="138.4" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><a href="/variants/s8/k3w7g3k16g17w1g8k1~x2/"><circle cx="229.6" cy="167.9" r="4" fill="#3465a4"><title>Utah Valley University</title></circle></a><a href="/variants/s8/k4g32k4g4k8w3k8lb4~x2/"><circle cx="242.6" cy="158.5" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><circle cx="261.1" cy="166.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr3g20k20g20lo2g2lo2~x2/"><circle cx="277.2" cy="183.4" r="4" fill="#3465a4"><title>Paton (Personal)</title></circle></a><a href="/variants/s7/r3g24k28g19y3g3y3~x2/"><circle cx="247.6" cy="186.3" r="4" fill="#3465a4"><title>Paton</title></circle></a><a href="/variants/s10/k8g4r1k2g16ly1k8g2k2g4~x4/"><circle cx="261.0" cy="145.8" r="4" fill="#3465a4"><title>Manitoba Cue (Corporate)</title></circle></a><a href="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/"><circle cx="263.2" cy="146.3" r="4" fill="#3465a4"><title>Manitoba Cue Sports</title></circle></a><a href="/variants/s10/r4g4k2g31k10y3g5k11g6k3~x2/"><circle cx="276.7" cy="139.6" r="4" fill="#3465a4"><title>MacArthur-Fox Green</title></circle></a><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="219.3" cy="188.4" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s8/g5k15g5k15g19r2g13lb4~x2/"><circle cx="218.3" cy="204.2" r="4" fill="#3465a4"><title>Strath Hallidale (Fashion)</title></circle></a><a href="/variants/s14/k8w3k8g4k4g32k4g32k4g4k8w3k8lb4~x2/"><circle cx="249.0" cy="138.8" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><a href="/variants/s8/k3w7g3k16g17w1g8k1~x2/"><circle cx="229.6" cy="168.5" r="4" fill="#3465a4"><title>Utah Valley University</title></circle></a><a href="/variants/s8/k4g32k4g4k8w3k8lb4~x2/"><circle cx="242.5" cy="158.9" r="4" fill="#3465a4"><title>Hartmann (Personal)</title></circle></a><circle cx="261.1" cy="166.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/y3g27k5g5k32g5k5g27w3~x2/

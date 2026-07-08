@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Poulter SG 105 (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lg25lo8lg8lo8lg8lo46w46g8w46lo46lg46lo8lg8/)
 (the same proportion at any scale), whose colour order is pattern [YYYYWGWYYYYYY](/stripes/yyyywgwyyyyyy/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7718
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7718](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7718)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

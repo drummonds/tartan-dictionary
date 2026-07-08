@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Covenant College (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t4db2t1db23lb2t2/)
 (the same proportion at any scale), whose colour order is pattern [BWBBBBBBBW](/stripes/bwbbbbbbbw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7518
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7518](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7518)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/t11db7t3db70lb4db6~x2/"><circle cx="626.0" cy="200.9" r="4" fill="#3465a4"><title>Auchairne (Corporate)</title></circle></a><a href="/variants/s6/t11db7t3db70lb4db6~x2~db1004274/"><circle cx="626.0" cy="193.2" r="4" fill="#3465a4"><title>Auchairne</title></circle></a><a href="/variants/s6/db13b1db3b6y1b1~x4/"><circle cx="513.3" cy="245.2" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s6/db13lb1db3lb6y1lb1~x4/"><circle cx="414.5" cy="214.3" r="4" fill="#3465a4"><title>Hepburn #2</title></circle></a><a href="/variants/s7/y4t3y1t17db40t2db3~x2/"><circle cx="502.5" cy="171.3" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s7/y4b3y1b17db40b2db3~x2/"><circle cx="526.5" cy="177.1" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s6/b10db6b3db62w4db5~x2/"><circle cx="623.4" cy="197.9" r="4" fill="#3465a4"><title>Auchairne</title></circle></a><a href="/variants/s6/y3b40db27b3db3b3/"><circle cx="492.5" cy="241.1" r="4" fill="#3465a4"><title>Keeper of the Quaich</title></circle></a><a href="/variants/s8/db28ly3lb1ly3db4lb2dp1lb5~x4/"><circle cx="457.8" cy="147.8" r="4" fill="#3465a4"><title>Baker (Name)</title></circle></a><a href="/variants/s8/t15db65y7t4y3db30t15w3~x2/"><circle cx="461.5" cy="179.0" r="4" fill="#3465a4"><title>Hoosier (Fashion)</title></circle></a><circle cx="621.1" cy="181.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/t11db7t3db70lb4db6~x2/"><circle cx="626.0" cy="201.1" r="4" fill="#3465a4"><title>Auchairne (Corporate)</title></circle></a><a href="/variants/s6/t11db7t3db70lb4db6~x2~db1004274/"><circle cx="626.0" cy="193.4" r="4" fill="#3465a4"><title>Auchairne</title></circle></a><a href="/variants/s6/db13b1db3b6y1b1~x4/"><circle cx="513.5" cy="245.5" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s6/db13lb1db3lb6y1lb1~x4/"><circle cx="414.6" cy="214.8" r="4" fill="#3465a4"><title>Hepburn #2</title></circle></a><a href="/variants/s7/y4t3y1t17db40t2db3~x2/"><circle cx="502.5" cy="171.4" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s7/y4b3y1b17db40b2db3~x2/"><circle cx="526.5" cy="177.1" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s6/b10db6b3db62w4db5~x2/"><circle cx="623.4" cy="198.2" r="4" fill="#3465a4"><title>Auchairne</title></circle></a><a href="/variants/s6/y3b40db27b3db3b3/"><circle cx="492.6" cy="241.3" r="4" fill="#3465a4"><title>Keeper of the Quaich</title></circle></a><a href="/variants/s8/db28ly3lb1ly3db4lb2dp1lb5~x4/"><circle cx="457.8" cy="148.1" r="4" fill="#3465a4"><title>Baker (Name)</title></circle></a><a href="/variants/s8/t15db65y7t4y3db30t15w3~x2/"><circle cx="461.5" cy="179.2" r="4" fill="#3465a4"><title>Hoosier (Fashion)</title></circle></a><circle cx="621.2" cy="181.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/t4db2t1db23lb2t2~x2~t2405244-lb3103284/

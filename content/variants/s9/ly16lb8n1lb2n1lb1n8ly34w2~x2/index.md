@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Stuart of Bute St Colmac"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly16lb8n1lb2n1lb1n8ly34w2/)
 (the same proportion at any scale), whose colour order is pattern [WYBWBWBWY](/stripes/wybwbwbwy/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10777
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10777](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10777)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

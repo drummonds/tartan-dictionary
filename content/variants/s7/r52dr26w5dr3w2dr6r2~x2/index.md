@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. Andrews School (Delaware) (Corp)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r52dr26w5dr3w2dr6r2/)
 (the same proportion at any scale), whose colour order is pattern [RBWBWBR](/stripes/rbwbwbr/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7744
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7744](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7744)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r40db8lo8r4lo1r4lr8~x4/"><circle cx="461.5" cy="127.9" r="4" fill="#3465a4"><title>Wcwm 4907-1</title></circle></a><a href="/variants/s6/r80dp19r8g36r10dp2~x2/"><circle cx="455.0" cy="157.0" r="4" fill="#3465a4"><title>Lovat or Fraser #2</title></circle></a><a href="/variants/s7/dg1y1dg1w1dg10r20y1~x4/"><circle cx="385.9" cy="139.4" r="4" fill="#3465a4"><title>Maver (Buckie)</title></circle></a><a href="/variants/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="399.0" cy="148.5" r="4" fill="#3465a4"><title>MacDonald #7</title></circle></a><a href="/variants/s10/r4dg13r3dp4r3dp3r40dp3r2ly4~x2/"><circle cx="431.6" cy="122.2" r="4" fill="#3465a4"><title>Galway, County</title></circle></a><a href="/variants/s6/r29g2r2g2r6dy21~x4/"><circle cx="419.1" cy="163.8" r="4" fill="#3465a4"><title>Maguire Clan Family Tartan</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1/"><circle cx="407.1" cy="178.3" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1~x2/"><circle cx="407.1" cy="178.3" r="4" fill="#3465a4"><title>MacKintosh 1</title></circle></a><a href="/variants/s6/r52y2db16y2db3w5~x2/"><circle cx="422.1" cy="128.2" r="4" fill="#3465a4"><title>Brock University Alumni Association</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1/"><circle cx="409.6" cy="179.3" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><circle cx="410.7" cy="143.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r40db8lo8r4lo1r4lr8~x4/"><circle cx="461.5" cy="128.1" r="4" fill="#3465a4"><title>Wcwm 4907-1</title></circle></a><a href="/variants/s6/r80dp19r8g36r10dp2~x2/"><circle cx="455.0" cy="157.3" r="4" fill="#3465a4"><title>Lovat or Fraser #2</title></circle></a><a href="/variants/s7/dg1y1dg1w1dg10r20y1~x4/"><circle cx="385.9" cy="139.8" r="4" fill="#3465a4"><title>Maver (Buckie)</title></circle></a><a href="/variants/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="399.0" cy="148.9" r="4" fill="#3465a4"><title>MacDonald #7</title></circle></a><a href="/variants/s10/r4dg13r3dp4r3dp3r40dp3r2ly4~x2/"><circle cx="431.6" cy="122.4" r="4" fill="#3465a4"><title>Galway, County</title></circle></a><a href="/variants/s6/r29g2r2g2r6dy21~x4/"><circle cx="419.1" cy="164.2" r="4" fill="#3465a4"><title>Maguire Clan Family Tartan</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1/"><circle cx="407.2" cy="178.8" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1~x2/"><circle cx="407.2" cy="178.8" r="4" fill="#3465a4"><title>MacKintosh 1</title></circle></a><a href="/variants/s6/r52y2db16y2db3w5~x2/"><circle cx="422.1" cy="128.6" r="4" fill="#3465a4"><title>Brock University Alumni Association</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1/"><circle cx="409.7" cy="179.8" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><circle cx="410.7" cy="143.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r52dr26w5dr3w2dr6r2~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Leando Dress (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t38do4r3dy6w2dy2w2dy2do12t6dy2t6w2/)
 (the same proportion at any scale), whose colour order is pattern [BBRGWGWGBBGBW](/stripes/bbrgwgwgbbgbw/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10369
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10369](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10369)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/t38dp4t8w2t4w3t4dg14r7t2r4w2~x2/"><circle cx="341.2" cy="125.6" r="4" fill="#3465a4"><title>Louth Irish County Tartan</title></circle></a><a href="/variants/s14/db5w5n36y3n3r3n3y3n9dg8w3db3w3dg3~x2/"><circle cx="285.7" cy="121.6" r="4" fill="#3465a4"><title>Freiburg</title></circle></a><a href="/variants/s12/t40r2t7db5ly2db3w2db10n6t2n4w2~x2/"><circle cx="346.6" cy="115.5" r="4" fill="#3465a4"><title>Plymouth Armada (Commemorative)</title></circle></a><a href="/variants/s12/w2r5b4g8b4r5w2r5b40g8b4w2~x2/"><circle cx="366.1" cy="135.1" r="4" fill="#3465a4"><title>Yamaue (Corporate)</title></circle></a><a href="/variants/s8/w2db40g22y3g2r3g2w2~x2/"><circle cx="305.9" cy="128.1" r="4" fill="#3465a4"><title>Tartan Day SA</title></circle></a><a href="/variants/s8/db5r3g2r3dg12t34g2w2~x2/"><circle cx="302.6" cy="136.9" r="4" fill="#3465a4"><title>Moran (Wedding) (Personal)</title></circle></a><a href="/variants/s12/t48dp4t8lr2t4r3t4dg14dr7t2dr4r2~x2/"><circle cx="398.0" cy="105.3" r="4" fill="#3465a4"><title>Louth, County</title></circle></a><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="294.1" cy="142.4" r="4" fill="#3465a4"><title>Kruenaegel-Schropp Name Tartan</title></circle></a><a href="/variants/s9/n18y1n2y1n2db6w4o1g6~x2/"><circle cx="293.1" cy="140.4" r="4" fill="#3465a4"><title>Nickel Lodge, Centennial</title></circle></a><a href="/variants/s14/g11r6db6o2g3o2db6r6g36y2o2y2db5r5~x2/"><circle cx="300.4" cy="126.1" r="4" fill="#3465a4"><title>Westmeath</title></circle></a><circle cx="330.8" cy="117.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/t38dp4t8w2t4w3t4dg14r7t2r4w2~x2/"><circle cx="341.1" cy="125.8" r="4" fill="#3465a4"><title>Louth Irish County Tartan</title></circle></a><a href="/variants/s14/db5w5n36y3n3r3n3y3n9dg8w3db3w3dg3~x2/"><circle cx="285.6" cy="121.7" r="4" fill="#3465a4"><title>Freiburg</title></circle></a><a href="/variants/s12/t40r2t7db5ly2db3w2db10n6t2n4w2~x2/"><circle cx="346.5" cy="115.5" r="4" fill="#3465a4"><title>Plymouth Armada (Commemorative)</title></circle></a><a href="/variants/s12/w2r5b4g8b4r5w2r5b40g8b4w2~x2/"><circle cx="366.1" cy="135.3" r="4" fill="#3465a4"><title>Yamaue (Corporate)</title></circle></a><a href="/variants/s8/w2db40g22y3g2r3g2w2~x2/"><circle cx="305.9" cy="128.3" r="4" fill="#3465a4"><title>Tartan Day SA</title></circle></a><a href="/variants/s8/db5r3g2r3dg12t34g2w2~x2/"><circle cx="302.5" cy="137.0" r="4" fill="#3465a4"><title>Moran (Wedding) (Personal)</title></circle></a><a href="/variants/s12/t48dp4t8lr2t4r3t4dg14dr7t2dr4r2~x2/"><circle cx="398.0" cy="105.3" r="4" fill="#3465a4"><title>Louth, County</title></circle></a><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="294.1" cy="142.6" r="4" fill="#3465a4"><title>Kruenaegel-Schropp Name Tartan</title></circle></a><a href="/variants/s9/n18y1n2y1n2db6w4o1g6~x2/"><circle cx="293.1" cy="140.5" r="4" fill="#3465a4"><title>Nickel Lodge, Centennial</title></circle></a><a href="/variants/s14/g11r6db6o2g3o2db6r6g36y2o2y2db5r5~x2/"><circle cx="300.4" cy="126.3" r="4" fill="#3465a4"><title>Westmeath</title></circle></a><circle cx="330.7" cy="117.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/t38do4r3dy6w2dy2w2dy2do12t6dy2t6w2~x2/

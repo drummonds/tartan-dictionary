@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's No.228 #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp8k11dg9k11dp8lb2/)
 (the same proportion at any scale), whose colour order is pattern [BKGKBW](/stripes/bkgkbw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4756
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4756](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4756)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3dp9k11lb2g9k3~x2/"><circle cx="151.2" cy="232.9" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/variants/s6/k2dg10y2k9dp8dg2~x2/"><circle cx="185.9" cy="255.6" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/variants/s6/k2g8db2k9dp7k2~x2/"><circle cx="144.6" cy="241.0" r="4" fill="#3465a4"><title>Campbell, Sir Walter Scott</title></circle></a><a href="/variants/s4/g9k11dp8lb2~x2/"><circle cx="115.4" cy="273.9" r="4" fill="#3465a4"><title>Wilson's No.228</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2/"><circle cx="119.9" cy="272.8" r="4" fill="#3465a4"><title>Wilson's, No 159</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2~dp1607327/"><circle cx="116.0" cy="270.0" r="4" fill="#3465a4"><title>Norwich Collection No. 60</title></circle></a><a href="/variants/s4/dp8k11g9w2~x2/"><circle cx="109.3" cy="272.1" r="4" fill="#3465a4"><title>Wilson's No 220</title></circle></a><a href="/variants/s4/dp6k5g5r1~x2/"><circle cx="124.9" cy="270.4" r="4" fill="#3465a4"><title>Unidentified No 60</title></circle></a><a href="/variants/s6/db9k9r3db9k9y1~x4/"><circle cx="219.8" cy="235.3" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/variants/s7/r20dg29db10dg16r6dg10k19~x2/"><circle cx="184.5" cy="256.9" r="4" fill="#3465a4"><title>MacDonagh (Name)</title></circle></a><circle cx="177.9" cy="275.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3dp9k11lb2g9k3~x2/"><circle cx="151.3" cy="233.6" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/variants/s6/k2dg10y2k9dp8dg2~x2/"><circle cx="186.0" cy="256.1" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/variants/s6/k2g8db2k9dp7k2~x2/"><circle cx="144.7" cy="241.7" r="4" fill="#3465a4"><title>Campbell, Sir Walter Scott</title></circle></a><a href="/variants/s4/g9k11dp8lb2~x2/"><circle cx="115.5" cy="274.7" r="4" fill="#3465a4"><title>Wilson's No.228</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2/"><circle cx="120.1" cy="273.5" r="4" fill="#3465a4"><title>Wilson's, No 159</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2~dp1607327/"><circle cx="116.1" cy="270.8" r="4" fill="#3465a4"><title>Norwich Collection No. 60</title></circle></a><a href="/variants/s4/dp8k11g9w2~x2/"><circle cx="109.4" cy="272.9" r="4" fill="#3465a4"><title>Wilson's No 220</title></circle></a><a href="/variants/s4/dp6k5g5r1~x2/"><circle cx="125.1" cy="271.1" r="4" fill="#3465a4"><title>Unidentified No 60</title></circle></a><a href="/variants/s6/db9k9r3db9k9y1~x4/"><circle cx="219.9" cy="235.8" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/variants/s7/r20dg29db10dg16r6dg10k19~x2/"><circle cx="184.6" cy="257.6" r="4" fill="#3465a4"><title>MacDonagh (Name)</title></circle></a><circle cx="178.0" cy="275.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dp8k11dg9k11dp8lb2~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kremlin Zoria"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w5g2w5db5r2db5g11y2g11db5r2/)
 (the same proportion at any scale), whose colour order is pattern [RBGGGBRBWGW](/stripes/rbgggbrbwgw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2016
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2016](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2016)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db4dy24g17dy3w18dy3w18dy3g17dy24r4~x2/"><circle cx="145.4" cy="193.1" r="4" fill="#3465a4"><title>Fraser Hunting Dress Clan Tartan</title></circle></a><a href="/variants/s11/r4do15g11do3lb11do3lb11do3g11do15t4~x2/"><circle cx="153.4" cy="234.1" r="4" fill="#3465a4"><title>Fraser Hunting Dress</title></circle></a><a href="/variants/s10/g5db3lb3g5w4dy2lb1dy2db1r1~x6/"><circle cx="70.2" cy="223.3" r="4" fill="#3465a4"><title>Northern College (Corporate)</title></circle></a><a href="/variants/s10/g10db6lb6g10w8y3lb2y3db2r2/"><circle cx="90.9" cy="221.9" r="4" fill="#3465a4"><title>Northern College</title></circle></a><a href="/variants/s8/g1w1g6db5w6r1g1lo1~x4/"><circle cx="128.9" cy="207.2" r="4" fill="#3465a4"><title>Vermont Dress</title></circle></a><a href="/variants/s11/g5db2g12db12r2db12w2g12r2g4y3~x2/"><circle cx="216.0" cy="212.0" r="4" fill="#3465a4"><title>Hunter of Hunterston</title></circle></a><a href="/variants/s10/g3w3g18db14r5db14r5db14g21w3~x2/"><circle cx="197.5" cy="228.1" r="4" fill="#3465a4"><title>Hamilton of Clayton (Personal)</title></circle></a><a href="/variants/s11/g5lb2g16lb10k2w3db6lb14w2db4w2~x2/"><circle cx="140.2" cy="183.0" r="4" fill="#3465a4"><title>Scottish Motor Trade Assoc. (Corp)</title></circle></a><a href="/variants/s9/g8r1g4do2w4lb3w1lb3w4~x8/"><circle cx="152.1" cy="222.5" r="4" fill="#3465a4"><title>Gaelic College of St.Anns</title></circle></a><a href="/variants/s11/g5db2g14db14r2db14w2g14r2g4lo3~x2/"><circle cx="224.1" cy="199.2" r="4" fill="#3465a4"><title>Hunter of Hunterston (Clan)</title></circle></a><circle cx="139.7" cy="220.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db4dy24g17dy3w18dy3w18dy3g17dy24r4~x2/"><circle cx="145.5" cy="193.6" r="4" fill="#3465a4"><title>Fraser Hunting Dress Clan Tartan</title></circle></a><a href="/variants/s11/r4do15g11do3lb11do3lb11do3g11do15t4~x2/"><circle cx="153.5" cy="234.7" r="4" fill="#3465a4"><title>Fraser Hunting Dress</title></circle></a><a href="/variants/s10/g5db3lb3g5w4dy2lb1dy2db1r1~x6/"><circle cx="70.3" cy="223.9" r="4" fill="#3465a4"><title>Northern College (Corporate)</title></circle></a><a href="/variants/s10/g10db6lb6g10w8y3lb2y3db2r2/"><circle cx="91.0" cy="222.5" r="4" fill="#3465a4"><title>Northern College</title></circle></a><a href="/variants/s8/g1w1g6db5w6r1g1lo1~x4/"><circle cx="129.0" cy="207.8" r="4" fill="#3465a4"><title>Vermont Dress</title></circle></a><a href="/variants/s11/g5db2g12db12r2db12w2g12r2g4y3~x2/"><circle cx="216.1" cy="212.5" r="4" fill="#3465a4"><title>Hunter of Hunterston</title></circle></a><a href="/variants/s10/g3w3g18db14r5db14r5db14g21w3~x2/"><circle cx="197.6" cy="228.7" r="4" fill="#3465a4"><title>Hamilton of Clayton (Personal)</title></circle></a><a href="/variants/s11/g5lb2g16lb10k2w3db6lb14w2db4w2~x2/"><circle cx="140.3" cy="183.5" r="4" fill="#3465a4"><title>Scottish Motor Trade Assoc. (Corp)</title></circle></a><a href="/variants/s9/g8r1g4do2w4lb3w1lb3w4~x8/"><circle cx="152.2" cy="223.1" r="4" fill="#3465a4"><title>Gaelic College of St.Anns</title></circle></a><a href="/variants/s11/g5db2g14db14r2db14w2g14r2g4lo3~x2/"><circle cx="224.2" cy="199.6" r="4" fill="#3465a4"><title>Hunter of Hunterston (Clan)</title></circle></a><circle cx="139.8" cy="220.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/w5g2w5db5r2db5g11y2g11db5r2~x4/

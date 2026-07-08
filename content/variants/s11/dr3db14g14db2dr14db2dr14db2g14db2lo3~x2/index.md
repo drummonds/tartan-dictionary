@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clare Irish County Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr3db14g14db2dr14db2dr14db2g14db2lo3/)
 (the same proportion at any scale), whose colour order is pattern [BBGBBBBBGBY](/stripes/bbgbbbbbgby/).
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2248
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2248](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2248)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr3db14b14db2dr14db2dr14db2g14db2y3~x2/"><circle cx="208.0" cy="226.6" r="4" fill="#3465a4"><title>Clare</title></circle></a><a href="/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/"><circle cx="216.8" cy="237.2" r="4" fill="#3465a4"><title>Lamont #2</title></circle></a><a href="/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/"><circle cx="215.7" cy="209.0" r="4" fill="#3465a4"><title>Kerry, County</title></circle></a><a href="/variants/s11/do6ly4do3db2do5db2do3db2g14dr3db2~x2/"><circle cx="193.4" cy="220.2" r="4" fill="#3465a4"><title>Limerick, County</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6~w3600000/"><circle cx="215.3" cy="242.4" r="4" fill="#3465a4"><title>Utah</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/"><circle cx="201.8" cy="237.9" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/variants/s13/dr3lb2dr3lb2dr14db6lb3db6g16dr6t6dr6lb3~x2/"><circle cx="190.9" cy="207.6" r="4" fill="#3465a4"><title>Ritchie</title></circle></a><a href="/variants/s10/g3lr3g18db14dr5db14dr5db14g21lr3~x2/"><circle cx="235.1" cy="247.9" r="4" fill="#3465a4"><title>Hamilton (Personal)</title></circle></a><a href="/variants/s17/dr3g3dr18g6dr4db3lb3db18dr6g18lb3g3dr3db4dr18g3dr3~x2/"><circle cx="252.6" cy="209.7" r="4" fill="#3465a4"><title>Reid Red Clan/Family Tartan</title></circle></a><a href="/variants/s15/dy8g20db15dy6g4dy8db4dy6g20dy8db6dy4lb2dy4db6/"><circle cx="235.5" cy="225.6" r="4" fill="#3465a4"><title>Unidentified Fragment #2</title></circle></a><circle cx="223.9" cy="235.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr3db14b14db2dr14db2dr14db2g14db2y3~x2/"><circle cx="208.1" cy="226.9" r="4" fill="#3465a4"><title>Clare</title></circle></a><a href="/variants/s8/dp11dy2dp2dy2dp2dy11g14w2~x2/"><circle cx="216.9" cy="237.6" r="4" fill="#3465a4"><title>Lamont #2</title></circle></a><a href="/variants/s15/lo2db3dy3db4g16db3dy3db4g3db3dy16db4g3db3lo2~x2/"><circle cx="215.8" cy="209.3" r="4" fill="#3465a4"><title>Kerry, County</title></circle></a><a href="/variants/s11/do6ly4do3db2do5db2do3db2g14dr3db2~x2/"><circle cx="193.4" cy="220.6" r="4" fill="#3465a4"><title>Limerick, County</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6~w3600000/"><circle cx="215.5" cy="242.9" r="4" fill="#3465a4"><title>Utah</title></circle></a><a href="/variants/s8/w2dr3dg9dr3db2dr3db3w1~x6/"><circle cx="201.9" cy="238.4" r="4" fill="#3465a4"><title>Utah (US State)</title></circle></a><a href="/variants/s13/dr3lb2dr3lb2dr14db6lb3db6g16dr6t6dr6lb3~x2/"><circle cx="190.9" cy="208.0" r="4" fill="#3465a4"><title>Ritchie</title></circle></a><a href="/variants/s10/g3lr3g18db14dr5db14dr5db14g21lr3~x2/"><circle cx="235.2" cy="248.4" r="4" fill="#3465a4"><title>Hamilton (Personal)</title></circle></a><a href="/variants/s17/dr3g3dr18g6dr4db3lb3db18dr6g18lb3g3dr3db4dr18g3dr3~x2/"><circle cx="252.6" cy="210.1" r="4" fill="#3465a4"><title>Reid Red Clan/Family Tartan</title></circle></a><a href="/variants/s15/dy8g20db15dy6g4dy8db4dy6g20dy8db6dy4lb2dy4db6/"><circle cx="235.6" cy="225.9" r="4" fill="#3465a4"><title>Unidentified Fragment #2</title></circle></a><circle cx="224.1" cy="235.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dr3db14g14db2dr14db2dr14db2g14db2lo3~x2/

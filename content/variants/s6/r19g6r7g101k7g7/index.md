@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Loch Laggan"
   url: "/tartans/loch-laggan/"
+- name: "Loch Laggan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r19g6r7g101k7g7/)
 (the same proportion at any scale), whose colour order is pattern [GKGRGR](/stripes/gkgrgr/).
@@ -14,7 +16,7 @@ Part of the [Loch Laggan](/tartans/loch-laggan/) tartan — the named design gro
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r4g2r1g19k1g2~x4/"><circle cx="557.5" cy="146.9" r="4" fill="#3465a4"><title>Loch Laggan</title></circle></a><a href="/variants/s6/r4g2r1g20k1g1~x4/"><circle cx="529.1" cy="158.5" r="4" fill="#3465a4"><title>Loch Laggan (District)</title></circle></a><a href="/variants/s6/g23r3g7r3g23dp7~x2/"><circle cx="506.4" cy="255.1" r="4" fill="#3465a4"><title>Highland Spring (1997)</title></circle></a><a href="/variants/s5/r8dg3r4dg44w4~x2/"><circle cx="542.5" cy="173.3" r="4" fill="#3465a4"><title>Welsh National</title></circle></a><a href="/variants/s5/r2g1r1g11w1~x8/"><circle cx="492.2" cy="211.4" r="4" fill="#3465a4"><title>Welsh, National</title></circle></a><a href="/variants/s5/r2dg1r1dg10w1~x4/"><circle cx="448.6" cy="201.0" r="4" fill="#3465a4"><title>Welsh National District Tartan</title></circle></a><a href="/variants/s7/g24r4g3k14g5r2g10~x2/"><circle cx="341.1" cy="194.5" r="4" fill="#3465a4"><title>Northcroft (Personal)</title></circle></a><a href="/variants/s7/g3r16g4k6g28r1g3~x2/"><circle cx="369.0" cy="149.9" r="4" fill="#3465a4"><title>Maxwell, hunting</title></circle></a><a href="/variants/s5/g62r7k4r4g62~x2/"><circle cx="607.8" cy="206.6" r="4" fill="#3465a4"><title>MacNab, Ancient</title></circle></a><a href="/variants/s7/g3dr16g4k6g28dr2g3~x2/"><circle cx="349.7" cy="183.7" r="4" fill="#3465a4"><title>Maxwell Htg (Clan)</title></circle></a><circle cx="499.6" cy="162.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r4g2r1g19k1g2~x4/"><circle cx="557.5" cy="147.2" r="4" fill="#3465a4"><title>Loch Laggan</title></circle></a><a href="/variants/s6/r4g2r1g20k1g1~x4/"><circle cx="529.2" cy="158.8" r="4" fill="#3465a4"><title>Loch Laggan (District)</title></circle></a><a href="/variants/s6/g23r3g7r3g23dp7~x2/"><circle cx="506.6" cy="255.7" r="4" fill="#3465a4"><title>Highland Spring (1997)</title></circle></a><a href="/variants/s5/r8dg3r4dg44w4~x2/"><circle cx="542.5" cy="173.7" r="4" fill="#3465a4"><title>Welsh National</title></circle></a><a href="/variants/s5/r2g1r1g11w1~x8/"><circle cx="492.3" cy="211.9" r="4" fill="#3465a4"><title>Welsh, National</title></circle></a><a href="/variants/s5/r2dg1r1dg10w1~x4/"><circle cx="448.7" cy="201.6" r="4" fill="#3465a4"><title>Welsh National District Tartan</title></circle></a><a href="/variants/s7/g24r4g3k14g5r2g10~x2/"><circle cx="341.1" cy="195.1" r="4" fill="#3465a4"><title>Northcroft (Personal)</title></circle></a><a href="/variants/s7/g3r16g4k6g28r1g3~x2/"><circle cx="369.0" cy="150.3" r="4" fill="#3465a4"><title>Maxwell, hunting</title></circle></a><a href="/variants/s5/g62r7k4r4g62~x2/"><circle cx="607.9" cy="207.1" r="4" fill="#3465a4"><title>MacNab, Ancient</title></circle></a><a href="/variants/s7/g3dr16g4k6g28dr2g3~x2/"><circle cx="349.8" cy="184.1" r="4" fill="#3465a4"><title>Maxwell Htg (Clan)</title></circle></a><circle cx="499.6" cy="162.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r19g6r7g101k7g7/

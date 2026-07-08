@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Heritage"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2dbi6k1db7g13k11db42r2/)
 (the same proportion at any scale), whose colour order is pattern [KBKBGKBR](/stripes/kbkbgkbr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5103
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5103](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5103)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db64k11r2k4r2k4g32y4~x2/"><circle cx="281.2" cy="95.3" r="4" fill="#3465a4"><title>Sinclair-Brown</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="299.2" cy="111.7" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/variants/s7/db36k10g3r3g6k1y2~x2/"><circle cx="333.2" cy="98.2" r="4" fill="#3465a4"><title>MacLaurin of Brioch</title></circle></a><a href="/variants/s7/db36k8g3dr3g6k1lo2~x2/"><circle cx="349.6" cy="97.4" r="4" fill="#3465a4"><title>MacLaurin of Broich (Clan)</title></circle></a><a href="/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/"><circle cx="307.8" cy="101.5" r="4" fill="#3465a4"><title>Suttle (Personal)</title></circle></a><a href="/variants/s8/lb2dbi19k4dbi4k4g9db2k1~x4~dbi1404245-db1106275/"><circle cx="246.1" cy="142.3" r="4" fill="#3465a4"><title>Dollar Academy (1999)</title></circle></a><a href="/variants/s8/db9dg5w1dg15k2dg1k44r1~x2/"><circle cx="367.5" cy="84.2" r="4" fill="#3465a4"><title>Ataç, H.M. &amp; I.C. (Personal)</title></circle></a><a href="/variants/s8/n36k18n5db7n5k7r1g2~x2/"><circle cx="306.4" cy="101.2" r="4" fill="#3465a4"><title>Suttle (Personal)</title></circle></a><a href="/variants/s10/db6w1db40o1k12dg12o6dg2dp2dg4~x2/"><circle cx="310.1" cy="79.9" r="4" fill="#3465a4"><title>Scotland the Brave (Fashion)</title></circle></a><a href="/variants/s8/k8y1k1db28k12g2k1lb2~x2/"><circle cx="301.4" cy="103.9" r="4" fill="#3465a4"><title>Hope-Weir/Weir</title></circle></a><circle cx="344.4" cy="100.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db64k11r2k4r2k4g32y4~x2/"><circle cx="281.0" cy="95.4" r="4" fill="#3465a4"><title>Sinclair-Brown</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="299.1" cy="111.8" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/variants/s7/db36k10g3r3g6k1y2~x2/"><circle cx="333.1" cy="98.3" r="4" fill="#3465a4"><title>MacLaurin of Brioch</title></circle></a><a href="/variants/s7/db36k8g3dr3g6k1lo2~x2/"><circle cx="349.5" cy="97.5" r="4" fill="#3465a4"><title>MacLaurin of Broich (Clan)</title></circle></a><a href="/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/"><circle cx="307.6" cy="101.7" r="4" fill="#3465a4"><title>Suttle (Personal)</title></circle></a><a href="/variants/s8/lb2dbi19k4dbi4k4g9db2k1~x4~dbi1404245-db1106275/"><circle cx="246.1" cy="142.6" r="4" fill="#3465a4"><title>Dollar Academy (1999)</title></circle></a><a href="/variants/s8/db9dg5w1dg15k2dg1k44r1~x2/"><circle cx="367.3" cy="84.1" r="4" fill="#3465a4"><title>Ataç, H.M. &amp; I.C. (Personal)</title></circle></a><a href="/variants/s8/n36k18n5db7n5k7r1g2~x2/"><circle cx="306.3" cy="101.3" r="4" fill="#3465a4"><title>Suttle (Personal)</title></circle></a><a href="/variants/s10/db6w1db40o1k12dg12o6dg2dp2dg4~x2/"><circle cx="309.9" cy="79.8" r="4" fill="#3465a4"><title>Scotland the Brave (Fashion)</title></circle></a><a href="/variants/s8/k8y1k1db28k12g2k1lb2~x2/"><circle cx="301.2" cy="103.9" r="4" fill="#3465a4"><title>Hope-Weir/Weir</title></circle></a><circle cx="344.2" cy="100.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k2dbi6k1db7g13k11db42r2~x2~dbi1605267-db1003265/

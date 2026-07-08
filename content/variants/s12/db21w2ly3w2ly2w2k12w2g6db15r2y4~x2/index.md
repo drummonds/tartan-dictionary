@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Robitaille, Jean-Francois (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db21w2ly3w2ly2w2k12w2g6db15r2y4/)
 (the same proportion at any scale), whose colour order is pattern [BWYWYWKWGBRG](/stripes/bwywywkwgbrg/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10649
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10649](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10649)
 
 ## Provenance
 
@@ -68,8 +70,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2lyi4~x2~ly2503076-lyi3407090/"><circle cx="141.5" cy="112.7" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/variants/s13/g12db3n3w2n3db3g5k8db31lb5db8w4r6~x2/"><circle cx="152.7" cy="93.1" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/"><circle cx="122.5" cy="103.9" r="4" fill="#3465a4"><title>Queen Mary RMS</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12lp3r1~x2/"><circle cx="94.7" cy="122.2" r="4" fill="#3465a4"><title>Fitzgerald Hunting Family Tartan</title></circle></a><a href="/variants/s11/db50k10db6k10db6g5lp5g5o8g23w5~x2/"><circle cx="163.4" cy="128.7" r="4" fill="#3465a4"><title>Scottish Hockey Union (Sports)</title></circle></a><a href="/variants/s10/n3lb18dr2lb18g3db8k20g2k5lo3~x2/"><circle cx="103.0" cy="123.9" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12b3r1~x2/"><circle cx="98.7" cy="124.0" r="4" fill="#3465a4"><title>Fitzgerald, hunting</title></circle></a><a href="/variants/s11/db2w2db21ly3db4ri3db3r4g18t4w2~x2~ri2109032-r1707008/"><circle cx="171.0" cy="130.6" r="4" fill="#3465a4"><title>Sons of Scotland (Corporate)</title></circle></a><a href="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="157.6" cy="123.0" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><a href="/variants/s10/k1dr4k1w3k1g7k2db16r2ly1~x2/"><circle cx="128.0" cy="90.8" r="4" fill="#3465a4"><title>Twempy</title></circle></a><circle cx="142.5" cy="113.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2lyi4~x2~ly2503076-lyi3407090/"><circle cx="141.4" cy="112.9" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/variants/s13/g12db3n3w2n3db3g5k8db31lb5db8w4r6~x2/"><circle cx="152.6" cy="93.3" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/variants/s12/db24y4n4dp4db24r4w3k18w9r4k3w2~x2/"><circle cx="122.4" cy="104.1" r="4" fill="#3465a4"><title>Queen Mary RMS</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12lp3r1~x2/"><circle cx="94.6" cy="122.5" r="4" fill="#3465a4"><title>Fitzgerald Hunting Family Tartan</title></circle></a><a href="/variants/s11/db50k10db6k10db6g5lp5g5o8g23w5~x2/"><circle cx="163.4" cy="128.9" r="4" fill="#3465a4"><title>Scottish Hockey Union (Sports)</title></circle></a><a href="/variants/s10/n3lb18dr2lb18g3db8k20g2k5lo3~x2/"><circle cx="102.9" cy="124.3" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12b3r1~x2/"><circle cx="98.6" cy="124.3" r="4" fill="#3465a4"><title>Fitzgerald, hunting</title></circle></a><a href="/variants/s11/db2w2db21ly3db4ri3db3r4g18t4w2~x2~ri2109032-r1707008/"><circle cx="170.9" cy="130.8" r="4" fill="#3465a4"><title>Sons of Scotland (Corporate)</title></circle></a><a href="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="157.5" cy="123.2" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><a href="/variants/s10/k1dr4k1w3k1g7k2db16r2ly1~x2/"><circle cx="127.8" cy="90.9" r="4" fill="#3465a4"><title>Twempy</title></circle></a><circle cx="142.4" cy="113.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db21w2ly3w2ly2w2k12w2g6db15r2y4~x2/

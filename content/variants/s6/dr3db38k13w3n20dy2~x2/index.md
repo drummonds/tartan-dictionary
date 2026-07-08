@@ -10,6 +10,8 @@ crumbs:
   url: "/families/lloyd-of-astargus/"
 - name: "Lloyd of Astargus"
   url: "/tartans/lloyd-of-astargus/"
+- name: "LLoyd of Astargus Canadian Family Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr3db38k13w3n20dy2/)
 (the same proportion at any scale), whose colour order is pattern [BBKWBG](/stripes/bbkwbg/).
@@ -18,7 +20,7 @@ Part of the [Lloyd of Astargus](/tartans/lloyd-of-astargus/) tartan — the name
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5771
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5771](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5771)
 
 ## Provenance
 
@@ -77,8 +79,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="230.0" cy="140.1" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/dg10w2k10dy10db35r6~x2/"><circle cx="220.8" cy="154.2" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s8/n18k3g3r2w3db36k2y6~x2/"><circle cx="220.9" cy="100.8" r="4" fill="#3465a4"><title>M'Kleod</title></circle></a><a href="/variants/s6/r2w6k12db36n12y1~x2/"><circle cx="247.8" cy="105.8" r="4" fill="#3465a4"><title>Alan Stone Family (Personal)</title></circle></a><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><circle cx="234.4" cy="124.9" r="4" fill="#3465a4"><title>Italian National</title></circle></a><a href="/variants/s6/w12db48k13n22k3y6/"><circle cx="189.4" cy="160.6" r="4" fill="#3465a4"><title>Clunie (Personal)</title></circle></a><a href="/variants/s7/dbi49g3k22r2t33db3t7~x2~dbi1406275-db1106275/"><circle cx="205.7" cy="123.9" r="4" fill="#3465a4"><title>U.S. 2001 Air Force (Military?)</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.1" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.3" cy="147.4" r="4" fill="#3465a4"><title>Shearer (2016)</title></circle></a><a href="/variants/s6/m1g2n10r1db15w1~x4/"><circle cx="296.8" cy="162.5" r="4" fill="#3465a4"><title>Oren Peterson</title></circle></a><circle cx="233.5" cy="142.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="229.9" cy="140.3" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/dg10w2k10dy10db35r6~x2/"><circle cx="220.7" cy="154.4" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s8/n18k3g3r2w3db36k2y6~x2/"><circle cx="220.8" cy="100.9" r="4" fill="#3465a4"><title>M'Kleod</title></circle></a><a href="/variants/s6/r2w6k12db36n12y1~x2/"><circle cx="247.7" cy="106.0" r="4" fill="#3465a4"><title>Alan Stone Family (Personal)</title></circle></a><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><circle cx="234.3" cy="125.1" r="4" fill="#3465a4"><title>Italian National</title></circle></a><a href="/variants/s6/w12db48k13n22k3y6/"><circle cx="189.4" cy="160.9" r="4" fill="#3465a4"><title>Clunie (Personal)</title></circle></a><a href="/variants/s7/dbi49g3k22r2t33db3t7~x2~dbi1406275-db1106275/"><circle cx="205.7" cy="124.1" r="4" fill="#3465a4"><title>U.S. 2001 Air Force (Military?)</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.4" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.2" cy="147.6" r="4" fill="#3465a4"><title>Shearer (2016)</title></circle></a><a href="/variants/s6/m1g2n10r1db15w1~x4/"><circle cx="296.8" cy="162.7" r="4" fill="#3465a4"><title>Oren Peterson</title></circle></a><circle cx="233.5" cy="142.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dr3db38k13w3n20dy2~x2/

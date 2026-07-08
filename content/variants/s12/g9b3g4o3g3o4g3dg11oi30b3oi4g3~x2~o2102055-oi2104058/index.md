@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harmony 5"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g9b3g4o3g3o4g3dg11oi30b3oi4g3/)
 (the same proportion at any scale), whose colour order is pattern [GBGRGRGGRBRG](/stripes/gbgrgrggrbrg/).
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/"><circle cx="277.2" cy="176.8" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/variants/s8/dy35dg19r3g8r3dg8r3db3~x2/"><circle cx="324.2" cy="205.4" r="4" fill="#3465a4"><title>John Muir Way</title></circle></a><a href="/variants/s13/b3t3b3t3b3g23t2y2t23r6b8y2t2~x2/"><circle cx="312.8" cy="195.6" r="4" fill="#3465a4"><title>Pitcairn Hunting Corporate Tartan</title></circle></a><a href="/variants/s8/r2do1dg9gi1do2gi6g2gi1~x4~gi2205128-g2007139/"><circle cx="257.9" cy="220.3" r="4" fill="#3465a4"><title>Tomass</title></circle></a><a href="/variants/s8/n9dy9yi9r1y1dy9y1r1~x4~n1900000-yi2300000/"><circle cx="319.7" cy="235.1" r="4" fill="#3465a4"><title>Jardine (Clan)</title></circle></a><a href="/variants/s13/b3t3b3t3b3g22t2y2t22r5b8y2t2~x2/"><circle cx="317.3" cy="200.0" r="4" fill="#3465a4"><title>Pitcairn Heritage Htg (Name)</title></circle></a><a href="/variants/s6/y15g98n72r25n8lb15/"><circle cx="318.4" cy="232.3" r="4" fill="#3465a4"><title>Afternoon Tea / Afternoon Tea</title></circle></a><a href="/variants/s13/r8g1r1g1r1g25dt1g1dt1g1dt25yi7y6~x2~dt1500000-yi2301120/"><circle cx="308.6" cy="136.7" r="4" fill="#3465a4"><title>Johansson (Aneby, Sweden), Christian (Personal)</title></circle></a><a href="/variants/s10/t5w1o9t5r4t5g20y1g1y1~x4/"><circle cx="290.7" cy="144.9" r="4" fill="#3465a4"><title>Hobkirk</title></circle></a><a href="/variants/s7/y23o4dy6dg6y4lb1y4~x4/"><circle cx="353.1" cy="166.2" r="4" fill="#3465a4"><title>Tricor</title></circle></a><circle cx="318.3" cy="197.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/o2dg3dy18o2dy2o21g2dg2g2dg24lo2~x2/"><circle cx="277.2" cy="177.0" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/variants/s8/dy35dg19r3g8r3dg8r3db3~x2/"><circle cx="324.2" cy="205.5" r="4" fill="#3465a4"><title>John Muir Way</title></circle></a><a href="/variants/s13/b3t3b3t3b3g23t2y2t23r6b8y2t2~x2/"><circle cx="312.8" cy="195.6" r="4" fill="#3465a4"><title>Pitcairn Hunting Corporate Tartan</title></circle></a><a href="/variants/s8/r2do1dg9gi1do2gi6g2gi1~x4~gi2205128-g2007139/"><circle cx="258.0" cy="220.5" r="4" fill="#3465a4"><title>Tomass</title></circle></a><a href="/variants/s8/n9dy9yi9r1y1dy9y1r1~x4~n1900000-yi2300000/"><circle cx="319.8" cy="235.4" r="4" fill="#3465a4"><title>Jardine (Clan)</title></circle></a><a href="/variants/s13/b3t3b3t3b3g22t2y2t22r5b8y2t2~x2/"><circle cx="317.4" cy="200.0" r="4" fill="#3465a4"><title>Pitcairn Heritage Htg (Name)</title></circle></a><a href="/variants/s6/y15g98n72r25n8lb15/"><circle cx="318.5" cy="232.5" r="4" fill="#3465a4"><title>Afternoon Tea / Afternoon Tea</title></circle></a><a href="/variants/s13/r8g1r1g1r1g25dt1g1dt1g1dt25yi7y6~x2~dt1500000-yi2301120/"><circle cx="308.5" cy="136.6" r="4" fill="#3465a4"><title>Johansson (Aneby, Sweden), Christian (Personal)</title></circle></a><a href="/variants/s10/t5w1o9t5r4t5g20y1g1y1~x4/"><circle cx="290.6" cy="144.8" r="4" fill="#3465a4"><title>Hobkirk</title></circle></a><a href="/variants/s7/y23o4dy6dg6y4lb1y4~x4/"><circle cx="353.1" cy="166.3" r="4" fill="#3465a4"><title>Tricor</title></circle></a><circle cx="318.4" cy="197.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/g9b3g4o3g3o4g3dg11oi30b3oi4g3~x2~o2102055-oi2104058/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "German American"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr4k4ly3k4dr54r5k54dr4k3db9k2w4/)
 (the same proportion at any scale), whose colour order is pattern [BKYKBRKBKBKW](/stripes/bkykbrkbkbkw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1334
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1334](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1334)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dy90n8k10n3k4g4k3r16k14lo6k28/"><circle cx="253.1" cy="64.1" r="4" fill="#3465a4"><title>Father’s Pride, The</title></circle></a><a href="/variants/s14/do4o3do4o2do4db8do30k4db4k36do4r2k4w2/"><circle cx="214.8" cy="85.4" r="4" fill="#3465a4"><title>Capercaillie (Corporate)</title></circle></a><a href="/variants/s14/do4o3do4o2do4db8do30k4db4k36do4r2k4w2~r2109032/"><circle cx="215.5" cy="85.7" r="4" fill="#3465a4"><title>Capercaillie</title></circle></a><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/"><circle cx="254.8" cy="39.7" r="4" fill="#3465a4"><title>Hudson's Bay (Corporate)</title></circle></a><a href="/variants/s13/dr4k4dr65k8dr6k35ly2k2g7k35r3k2r4/"><circle cx="300.2" cy="71.3" r="4" fill="#3465a4"><title>Firefighters' Memorial</title></circle></a><a href="/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/"><circle cx="270.7" cy="61.5" r="4" fill="#3465a4"><title>YMCA</title></circle></a><a href="/variants/s11/k35do11n3w1ly3y1dy5k5n2w2do22~x2/"><circle cx="211.9" cy="54.9" r="4" fill="#3465a4"><title>International Bear Pride</title></circle></a><a href="/variants/s10/k2y2k24y2k2y2dy30lr3g2r2~x2/"><circle cx="207.5" cy="94.7" r="4" fill="#3465a4"><title>Spotsylvania County, Sherrif's Office of</title></circle></a><a href="/variants/s12/y6k2r8k4dr64dg14k63r4k4r8k2y6/"><circle cx="235.8" cy="72.9" r="4" fill="#3465a4"><title>Integrated Landscape Management (ILM)</title></circle></a><a href="/variants/s13/r21k3y1k5db1k3db8k29y4k2y1k7y3~x2/"><circle cx="241.2" cy="62.6" r="4" fill="#3465a4"><title>(5) Ruxton</title></circle></a><circle cx="244.3" cy="58.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dy90n8k10n3k4g4k3r16k14lo6k28/"><circle cx="252.9" cy="64.1" r="4" fill="#3465a4"><title>Father’s Pride, The</title></circle></a><a href="/variants/s14/do4o3do4o2do4db8do30k4db4k36do4r2k4w2/"><circle cx="214.6" cy="85.4" r="4" fill="#3465a4"><title>Capercaillie (Corporate)</title></circle></a><a href="/variants/s14/do4o3do4o2do4db8do30k4db4k36do4r2k4w2~r2109032/"><circle cx="215.3" cy="85.7" r="4" fill="#3465a4"><title>Capercaillie</title></circle></a><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2/"><circle cx="254.6" cy="39.7" r="4" fill="#3465a4"><title>Hudson's Bay (Corporate)</title></circle></a><a href="/variants/s13/dr4k4dr65k8dr6k35ly2k2g7k35r3k2r4/"><circle cx="300.0" cy="71.3" r="4" fill="#3465a4"><title>Firefighters' Memorial</title></circle></a><a href="/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/"><circle cx="270.6" cy="61.5" r="4" fill="#3465a4"><title>YMCA</title></circle></a><a href="/variants/s11/k35do11n3w1ly3y1dy5k5n2w2do22~x2/"><circle cx="211.7" cy="54.9" r="4" fill="#3465a4"><title>International Bear Pride</title></circle></a><a href="/variants/s10/k2y2k24y2k2y2dy30lr3g2r2~x2/"><circle cx="207.4" cy="94.8" r="4" fill="#3465a4"><title>Spotsylvania County, Sherrif's Office of</title></circle></a><a href="/variants/s12/y6k2r8k4dr64dg14k63r4k4r8k2y6/"><circle cx="235.7" cy="72.9" r="4" fill="#3465a4"><title>Integrated Landscape Management (ILM)</title></circle></a><a href="/variants/s13/r21k3y1k5db1k3db8k29y4k2y1k7y3~x2/"><circle cx="241.0" cy="62.6" r="4" fill="#3465a4"><title>(5) Ruxton</title></circle></a><circle cx="244.1" cy="58.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dr4k4ly3k4dr54r5k54dr4k3db9k2w4/

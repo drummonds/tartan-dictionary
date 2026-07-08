@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Southdown"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k8r1k3w5k5w3k5o23r3/)
 (the same proportion at any scale), whose colour order is pattern [KRKWKWKRR](/stripes/krkwkwkrr/).
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k9r1g1k3g20r5k3r20k5r3y2~x2/"><circle cx="192.0" cy="120.5" r="4" fill="#3465a4"><title>Army Cadet Force (Military)</title></circle></a><a href="/variants/s9/k3r1k3w5k5w3k5dy23r3~x2/"><circle cx="212.0" cy="93.5" r="4" fill="#3465a4"><title>Southdown</title></circle></a><a href="/variants/s9/k8r1k3w5k5w3k5dr23r3~x2/"><circle cx="198.5" cy="120.6" r="4" fill="#3465a4"><title>Southdown Tartan</title></circle></a><a href="/variants/s8/lb19r2lb3r2lb3k43r22g3~x2/"><circle cx="212.6" cy="116.2" r="4" fill="#3465a4"><title>Carson Red (Personal)</title></circle></a><a href="/variants/s11/w2k35dg30k3lo30k2lo4k2lo30k3w2/"><circle cx="197.2" cy="121.2" r="4" fill="#3465a4"><title>Vaughan (Welsh Series)</title></circle></a><a href="/variants/s9/k1db1r16g16k12db8r16db1k1~x2/"><circle cx="188.5" cy="149.0" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s8/r45k2r2k28w16r4k4lo2/"><circle cx="247.5" cy="107.7" r="4" fill="#3465a4"><title>Barbecue Plaid</title></circle></a><a href="/variants/s9/k40w25k10y8k3y8k10r25w4~x2/"><circle cx="173.3" cy="155.8" r="4" fill="#3465a4"><title>Buchanan Old Dress</title></circle></a><a href="/variants/s9/k1lb1r16g16k12lb8r16lb1k1~x2/"><circle cx="184.2" cy="148.4" r="4" fill="#3465a4"><title>MacNaughten</title></circle></a><a href="/variants/s8/k15dg1k3r9dg1r3lo11k1~x4/"><circle cx="181.5" cy="141.3" r="4" fill="#3465a4"><title>Island of Innis, The</title></circle></a><circle cx="192.6" cy="120.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k9r1g1k3g20r5k3r20k5r3y2~x2/"><circle cx="192.0" cy="120.8" r="4" fill="#3465a4"><title>Army Cadet Force (Military)</title></circle></a><a href="/variants/s9/k3r1k3w5k5w3k5dy23r3~x2/"><circle cx="211.8" cy="93.8" r="4" fill="#3465a4"><title>Southdown</title></circle></a><a href="/variants/s9/k8r1k3w5k5w3k5dr23r3~x2/"><circle cx="198.4" cy="121.0" r="4" fill="#3465a4"><title>Southdown Tartan</title></circle></a><a href="/variants/s8/lb19r2lb3r2lb3k43r22g3~x2/"><circle cx="212.5" cy="116.6" r="4" fill="#3465a4"><title>Carson Red (Personal)</title></circle></a><a href="/variants/s11/w2k35dg30k3lo30k2lo4k2lo30k3w2/"><circle cx="197.1" cy="121.6" r="4" fill="#3465a4"><title>Vaughan (Welsh Series)</title></circle></a><a href="/variants/s9/k1db1r16g16k12db8r16db1k1~x2/"><circle cx="188.5" cy="149.5" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s8/r45k2r2k28w16r4k4lo2/"><circle cx="247.4" cy="108.0" r="4" fill="#3465a4"><title>Barbecue Plaid</title></circle></a><a href="/variants/s9/k40w25k10y8k3y8k10r25w4~x2/"><circle cx="173.3" cy="156.3" r="4" fill="#3465a4"><title>Buchanan Old Dress</title></circle></a><a href="/variants/s9/k1lb1r16g16k12lb8r16lb1k1~x2/"><circle cx="184.2" cy="148.9" r="4" fill="#3465a4"><title>MacNaughten</title></circle></a><a href="/variants/s8/k15dg1k3r9dg1r3lo11k1~x4/"><circle cx="181.5" cy="141.8" r="4" fill="#3465a4"><title>Island of Innis, The</title></circle></a><circle cx="192.5" cy="121.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k8r1k3w5k5w3k5o23r3~x2/

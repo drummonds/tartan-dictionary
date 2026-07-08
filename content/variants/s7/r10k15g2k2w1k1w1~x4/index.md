@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ikelman No 4"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r10k15g2k2w1k1w1/)
 (the same proportion at any scale), whose colour order is pattern [RKGKWKW](/stripes/rkgkwkw/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="340.2" cy="106.5" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s6/k4r26k4w2k13y4~x2/"><circle cx="241.9" cy="154.6" r="4" fill="#3465a4"><title>Dunbar #2</title></circle></a><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="257.2" cy="132.8" r="4" fill="#3465a4"><title>Cunard o' the Clyde</title></circle></a><a href="/variants/s7/k11w1k1w1k4n8r1~x8/"><circle cx="272.6" cy="158.8" r="4" fill="#3465a4"><title>Dunfermline Athletic (2008) (Corp)</title></circle></a><a href="/variants/s6/k8dr49k8lb3k20lo3~x2/"><circle cx="325.8" cy="157.7" r="4" fill="#3465a4"><title>Dunbar (District)</title></circle></a><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="140.7" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/dy6k5ly4k48dr36w6/"><circle cx="235.9" cy="153.7" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/"><circle cx="280.4" cy="110.8" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s5/k31r12y2n5k2~x4/"><circle cx="323.2" cy="149.3" r="4" fill="#3465a4"><title>Perry (2014)</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="283.7" cy="148.2" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><circle cx="274.0" cy="132.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="340.2" cy="106.8" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s6/k4r26k4w2k13y4~x2/"><circle cx="241.9" cy="155.1" r="4" fill="#3465a4"><title>Dunbar #2</title></circle></a><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="257.2" cy="133.2" r="4" fill="#3465a4"><title>Cunard o' the Clyde</title></circle></a><a href="/variants/s7/k11w1k1w1k4n8r1~x8/"><circle cx="272.6" cy="159.3" r="4" fill="#3465a4"><title>Dunfermline Athletic (2008) (Corp)</title></circle></a><a href="/variants/s6/k8dr49k8lb3k20lo3~x2/"><circle cx="325.8" cy="158.1" r="4" fill="#3465a4"><title>Dunbar (District)</title></circle></a><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="141.2" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/dy6k5ly4k48dr36w6/"><circle cx="235.9" cy="154.1" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/"><circle cx="280.3" cy="111.1" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s5/k31r12y2n5k2~x4/"><circle cx="323.1" cy="149.8" r="4" fill="#3465a4"><title>Perry (2014)</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="283.7" cy="148.7" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><circle cx="273.9" cy="133.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r10k15g2k2w1k1w1~x4/

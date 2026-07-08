@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Highlands Country Club"
   url: "/tartans/highlands-country-club/"
+- name: "Highlands Country Club (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g5db15lbi11lb2lbi1lb1g4/)
 (the same proportion at any scale), whose colour order is pattern [GBWWWWG](/stripes/gbwwwwg/).
@@ -14,7 +16,7 @@ Part of the [Highlands Country Club](/tartans/highlands-country-club/) tartan �
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=687
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=687](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=687)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w9t3y3t24db24y2db2y2~x2/"><circle cx="248.9" cy="199.1" r="4" fill="#3465a4"><title>Halesowen (District)</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/"><circle cx="251.6" cy="192.5" r="4" fill="#3465a4"><title>Unidentified No 52</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/"><circle cx="248.4" cy="190.4" r="4" fill="#3465a4"><title>Norwich No.052</title></circle></a><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="268.3" cy="225.2" r="4" fill="#3465a4"><title>Highland Spring Dress (2004) (Corp)</title></circle></a><a href="/variants/s5/dg35db40w11y3dg7~x2/"><circle cx="277.5" cy="229.7" r="4" fill="#3465a4"><title>Fife Ethylene Plant</title></circle></a><a href="/variants/s7/g5db15lb11w2lb1w1dg4~x4/"><circle cx="195.4" cy="186.3" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/variants/s8/r2g12db2g8db18w3r2w2~x2/"><circle cx="210.7" cy="199.7" r="4" fill="#3465a4"><title>Albuquerque, City of</title></circle></a><a href="/variants/s6/g4w28dp8dy2db17g4~x2/"><circle cx="206.6" cy="188.0" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/variants/s6/g4w28dp8y2db17g4~x2/"><circle cx="207.3" cy="188.3" r="4" fill="#3465a4"><title>Manx, dress</title></circle></a><a href="/variants/s7/db1g7db7dbi2w6db1w1~x4~db0906265-dbi1208266/"><circle cx="162.4" cy="238.6" r="4" fill="#3465a4"><title>Blue Boy, The (Fashion)</title></circle></a><circle cx="229.6" cy="203.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w9t3y3t24db24y2db2y2~x2/"><circle cx="248.9" cy="199.5" r="4" fill="#3465a4"><title>Halesowen (District)</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/"><circle cx="251.6" cy="192.9" r="4" fill="#3465a4"><title>Unidentified No 52</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/"><circle cx="248.4" cy="190.8" r="4" fill="#3465a4"><title>Norwich No.052</title></circle></a><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="268.4" cy="225.7" r="4" fill="#3465a4"><title>Highland Spring Dress (2004) (Corp)</title></circle></a><a href="/variants/s5/dg35db40w11y3dg7~x2/"><circle cx="277.6" cy="230.2" r="4" fill="#3465a4"><title>Fife Ethylene Plant</title></circle></a><a href="/variants/s7/g5db15lb11w2lb1w1dg4~x4/"><circle cx="195.4" cy="186.7" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/variants/s8/r2g12db2g8db18w3r2w2~x2/"><circle cx="210.8" cy="200.2" r="4" fill="#3465a4"><title>Albuquerque, City of</title></circle></a><a href="/variants/s6/g4w28dp8dy2db17g4~x2/"><circle cx="206.7" cy="188.5" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/variants/s6/g4w28dp8y2db17g4~x2/"><circle cx="207.4" cy="188.8" r="4" fill="#3465a4"><title>Manx, dress</title></circle></a><a href="/variants/s7/db1g7db7dbi2w6db1w1~x4~db0906265-dbi1208266/"><circle cx="162.5" cy="239.2" r="4" fill="#3465a4"><title>Blue Boy, The (Fashion)</title></circle></a><circle cx="229.7" cy="204.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unnamed C18th - Pr Ch Ed Plaid?"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r10dg3y3w1k2w1y3dg12w2r3w1/)
 (the same proportion at any scale), whose colour order is pattern [RGGWKWGGWRW](/stripes/rggwkwggwrw/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8420
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8420](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8420)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y4w2y2w3y20k6do4k2do2k2do16r3~x2/"><circle cx="159.5" cy="138.6" r="4" fill="#3465a4"><title>Dorcas</title></circle></a><a href="/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/"><circle cx="180.6" cy="149.2" r="4" fill="#3465a4"><title>Connolly Dress</title></circle></a><a href="/variants/s12/y4lr2y2lr3y20k6do4k2do2k2do16r3~x2/"><circle cx="173.1" cy="141.8" r="4" fill="#3465a4"><title>Scotch House 'Dorcas' (Fashion)</title></circle></a><a href="/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/"><circle cx="176.5" cy="109.8" r="4" fill="#3465a4"><title>Varenne</title></circle></a><a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x2/"><circle cx="191.7" cy="135.4" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x4/"><circle cx="191.7" cy="135.4" r="4" fill="#3465a4"><title>Dunblane (District)</title></circle></a><a href="/variants/s9/ly25r2w2db2w2r13dy28db2r3~x2/"><circle cx="184.0" cy="142.4" r="4" fill="#3465a4"><title>Brousseau (Personal)</title></circle></a><a href="/variants/s8/k14ly3g18r15w2r3w2dp14~x2~dp1607327/"><circle cx="73.9" cy="142.2" r="4" fill="#3465a4"><title>Wilson's No.083</title></circle></a><a href="/variants/s10/g6dg2g3dg2g6db8r20ly2r3g2~x2/"><circle cx="216.0" cy="168.9" r="4" fill="#3465a4"><title>Connolly Dress (Name)</title></circle></a><a href="/variants/s8/k10ly2dg11r11w1r1w1k9~x4/"><circle cx="111.9" cy="137.6" r="4" fill="#3465a4"><title>Norwich No.005</title></circle></a><circle cx="151.5" cy="146.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y4w2y2w3y20k6do4k2do2k2do16r3~x2/"><circle cx="159.4" cy="139.0" r="4" fill="#3465a4"><title>Dorcas</title></circle></a><a href="/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/"><circle cx="180.6" cy="149.6" r="4" fill="#3465a4"><title>Connolly Dress</title></circle></a><a href="/variants/s12/y4lr2y2lr3y20k6do4k2do2k2do16r3~x2/"><circle cx="173.1" cy="142.1" r="4" fill="#3465a4"><title>Scotch House 'Dorcas' (Fashion)</title></circle></a><a href="/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/"><circle cx="176.4" cy="110.1" r="4" fill="#3465a4"><title>Varenne</title></circle></a><a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x2/"><circle cx="191.7" cy="135.7" r="4" fill="#3465a4"><title>Dunblane</title></circle></a><a href="/variants/s12/dg6y5w1dg2w1dg5w1dg2w1r15dp2w1~x4/"><circle cx="191.7" cy="135.7" r="4" fill="#3465a4"><title>Dunblane (District)</title></circle></a><a href="/variants/s9/ly25r2w2db2w2r13dy28db2r3~x2/"><circle cx="184.0" cy="142.8" r="4" fill="#3465a4"><title>Brousseau (Personal)</title></circle></a><a href="/variants/s8/k14ly3g18r15w2r3w2dp14~x2~dp1607327/"><circle cx="73.9" cy="142.6" r="4" fill="#3465a4"><title>Wilson's No.083</title></circle></a><a href="/variants/s10/g6dg2g3dg2g6db8r20ly2r3g2~x2/"><circle cx="216.1" cy="169.3" r="4" fill="#3465a4"><title>Connolly Dress (Name)</title></circle></a><a href="/variants/s8/k10ly2dg11r11w1r1w1k9~x4/"><circle cx="111.8" cy="138.0" r="4" fill="#3465a4"><title>Norwich No.005</title></circle></a><circle cx="151.5" cy="146.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r10dg3y3w1k2w1y3dg12w2r3w1~x4/

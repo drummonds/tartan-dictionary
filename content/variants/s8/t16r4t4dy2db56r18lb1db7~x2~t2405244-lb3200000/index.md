@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Union Memorial Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t16r4t4dy2db56r18lb1db7/)
 (the same proportion at any scale), whose colour order is pattern [BRBGBRWB](/stripes/brbgbrwb/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4396
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4396](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4396)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w2db2w1db40r3ly1r10dg10r1~x2/"><circle cx="370.4" cy="84.4" r="4" fill="#3465a4"><title>Russian Scottish (District)</title></circle></a><a href="/variants/s9/dbi66w1db10w1db10w1db12r2lb24~x2~dbi1406275-db1404245/"><circle cx="356.5" cy="99.7" r="4" fill="#3465a4"><title>RAAF #2</title></circle></a><a href="/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2/"><circle cx="383.3" cy="67.4" r="4" fill="#3465a4"><title>Chinese Scottish (Corporate)</title></circle></a><a href="/variants/s9/db70w6db21g10t27g4t4g1r4~x2/"><circle cx="388.7" cy="100.1" r="4" fill="#3465a4"><title>State Seal of Tennessee (Fashion)</title></circle></a><a href="/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2~g2408144/"><circle cx="380.0" cy="66.4" r="4" fill="#3465a4"><title>Chinese Scottish District Tartan</title></circle></a><a href="/variants/s9/w3db2w2db40r3y1r10g10r1~x2/"><circle cx="340.5" cy="83.7" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><circle cx="424.8" cy="81.8" r="4" fill="#3465a4"><title>Hybelius, J-A (Personal)</title></circle></a><a href="/variants/s8/db6w2b2w3db24r1dbi35r2~x2~db0805267-dbi1604274/"><circle cx="322.9" cy="119.4" r="4" fill="#3465a4"><title>Raith Rovers F.C.</title></circle></a><a href="/variants/s7/db60w2r10dg6w4r15y10~x2/"><circle cx="325.1" cy="118.8" r="4" fill="#3465a4"><title>Iberia Dress, Blue (Fashion)</title></circle></a><a href="/variants/s8/db26r2t16db23t16r2w2y1~x2~db1003265-t2304245/"><circle cx="341.9" cy="156.0" r="4" fill="#3465a4"><title>Boxing Scotland</title></circle></a><circle cx="383.2" cy="102.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w2db2w1db40r3ly1r10dg10r1~x2/"><circle cx="370.3" cy="84.4" r="4" fill="#3465a4"><title>Russian Scottish (District)</title></circle></a><a href="/variants/s9/dbi66w1db10w1db10w1db12r2lb24~x2~dbi1406275-db1404245/"><circle cx="356.4" cy="99.7" r="4" fill="#3465a4"><title>RAAF #2</title></circle></a><a href="/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2/"><circle cx="383.1" cy="67.4" r="4" fill="#3465a4"><title>Chinese Scottish (Corporate)</title></circle></a><a href="/variants/s9/db70w6db21g10t27g4t4g1r4~x2/"><circle cx="388.6" cy="100.2" r="4" fill="#3465a4"><title>State Seal of Tennessee (Fashion)</title></circle></a><a href="/variants/s10/db58w2db1w1db6g3r3g6r24y3~x2~g2408144/"><circle cx="379.8" cy="66.4" r="4" fill="#3465a4"><title>Chinese Scottish District Tartan</title></circle></a><a href="/variants/s9/w3db2w2db40r3y1r10g10r1~x2/"><circle cx="340.4" cy="83.8" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><circle cx="424.7" cy="81.9" r="4" fill="#3465a4"><title>Hybelius, J-A (Personal)</title></circle></a><a href="/variants/s8/db6w2b2w3db24r1dbi35r2~x2~db0805267-dbi1604274/"><circle cx="322.8" cy="119.5" r="4" fill="#3465a4"><title>Raith Rovers F.C.</title></circle></a><a href="/variants/s7/db60w2r10dg6w4r15y10~x2/"><circle cx="325.0" cy="119.0" r="4" fill="#3465a4"><title>Iberia Dress, Blue (Fashion)</title></circle></a><a href="/variants/s8/db26r2t16db23t16r2w2y1~x2~db1003265-t2304245/"><circle cx="341.9" cy="156.3" r="4" fill="#3465a4"><title>Boxing Scotland</title></circle></a><circle cx="383.1" cy="102.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/t16r4t4dy2db56r18lb1db7~x2~t2405244-lb3200000/

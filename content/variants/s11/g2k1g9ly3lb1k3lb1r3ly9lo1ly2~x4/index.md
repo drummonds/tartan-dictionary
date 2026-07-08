@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Asman, Day Tan (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g2k1g9ly3lb1k3lb1r3ly9lo1ly2/)
 (the same proportion at any scale), whose colour order is pattern [GKGYWKWRYYY](/stripes/gkgywkwryyy/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3529
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3529](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3529)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2/"><circle cx="152.7" cy="123.5" r="4" fill="#3465a4"><title>North West Territories (District)</title></circle></a><a href="/variants/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2~w3600000/"><circle cx="159.5" cy="125.6" r="4" fill="#3465a4"><title>North West Territories</title></circle></a><a href="/variants/s10/y4g2y2g2y2g24k2r16w9db3~x2/"><circle cx="158.5" cy="126.4" r="4" fill="#3465a4"><title>North West Territories</title></circle></a><a href="/variants/s13/w2ly14y3k6w2k2w2k2g8ly6k2ly3w1~x2/"><circle cx="131.2" cy="133.2" r="4" fill="#3465a4"><title>O'Farrell (Name)</title></circle></a><a href="/variants/s12/ly3g2w2r2ly12k2g12r2g2lb2g2y2~x4/"><circle cx="117.0" cy="147.5" r="4" fill="#3465a4"><title>Arizona (District)</title></circle></a><a href="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/"><circle cx="123.4" cy="182.2" r="4" fill="#3465a4"><title>Eire</title></circle></a><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><circle cx="99.8" cy="160.7" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/variants/s10/r3g18r4lb3r4k13r3lg18g2ly3~x2~lb3203246-ly3307090/"><circle cx="47.5" cy="149.3" r="4" fill="#3465a4"><title>Stirling and Bannockburn</title></circle></a><a href="/variants/s8/dr2ly24dr2ly3dr2g24k8dy2~x2/"><circle cx="169.7" cy="147.4" r="4" fill="#3465a4"><title>Botherston (Name)</title></circle></a><a href="/variants/s12/o4w2o2w3o18k6g3k2g2k2g14b3~x2/"><circle cx="137.6" cy="146.1" r="4" fill="#3465a4"><title>Dorcas, Check</title></circle></a><circle cx="119.3" cy="147.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2/"><circle cx="152.7" cy="123.8" r="4" fill="#3465a4"><title>North West Territories (District)</title></circle></a><a href="/variants/s10/lo4g2lo2g2lo2g24k2r16w9db3~x2~w3600000/"><circle cx="159.5" cy="125.9" r="4" fill="#3465a4"><title>North West Territories</title></circle></a><a href="/variants/s10/y4g2y2g2y2g24k2r16w9db3~x2/"><circle cx="158.5" cy="126.7" r="4" fill="#3465a4"><title>North West Territories</title></circle></a><a href="/variants/s13/w2ly14y3k6w2k2w2k2g8ly6k2ly3w1~x2/"><circle cx="131.2" cy="133.6" r="4" fill="#3465a4"><title>O'Farrell (Name)</title></circle></a><a href="/variants/s12/ly3g2w2r2ly12k2g12r2g2lb2g2y2~x4/"><circle cx="117.0" cy="147.9" r="4" fill="#3465a4"><title>Arizona (District)</title></circle></a><a href="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/"><circle cx="123.5" cy="182.7" r="4" fill="#3465a4"><title>Eire</title></circle></a><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><circle cx="99.8" cy="161.2" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/variants/s10/r3g18r4lb3r4k13r3lg18g2ly3~x2~lb3203246-ly3307090/"><circle cx="47.5" cy="149.7" r="4" fill="#3465a4"><title>Stirling and Bannockburn</title></circle></a><a href="/variants/s8/dr2ly24dr2ly3dr2g24k8dy2~x2/"><circle cx="169.7" cy="147.9" r="4" fill="#3465a4"><title>Botherston (Name)</title></circle></a><a href="/variants/s12/o4w2o2w3o18k6g3k2g2k2g14b3~x2/"><circle cx="137.6" cy="146.5" r="4" fill="#3465a4"><title>Dorcas, Check</title></circle></a><circle cx="119.3" cy="148.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/g2k1g9ly3lb1k3lb1r3ly9lo1ly2~x4/

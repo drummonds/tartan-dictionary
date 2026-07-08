@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dorward"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o7r3o9g15db19o14r4/)
 (the same proportion at any scale), whose colour order is pattern [RRBGRRR](/stripes/rrbgrrr/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1o4g3o1db3o1~x2/"><circle cx="226.9" cy="284.6" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><a href="/variants/s7/dy7r3dy9g15db19dy14r4~x2/"><circle cx="220.7" cy="267.7" r="4" fill="#3465a4"><title>Dorward/Dogwood</title></circle></a><a href="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/"><circle cx="198.5" cy="270.3" r="4" fill="#3465a4"><title>Torana</title></circle></a><a href="/variants/s7/r10b44o5dg40o62r5o10/"><circle cx="285.4" cy="211.9" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/variants/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/"><circle cx="190.8" cy="230.5" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/variants/s5/db2g4y1db1r2~x12/"><circle cx="182.9" cy="293.5" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/variants/s8/r10g14r3db14r10g14r3db4~x2/"><circle cx="192.3" cy="278.1" r="4" fill="#3465a4"><title>Glasgow District Tartan</title></circle></a><a href="/variants/s6/dy1db3dy1g3dy4r1~x2/"><circle cx="234.3" cy="290.4" r="4" fill="#3465a4"><title>Fraser Hunting #2</title></circle></a><a href="/variants/s7/db2g4y1db1r2g4r2~x12/"><circle cx="218.8" cy="282.2" r="4" fill="#3465a4"><title>Creek Indian Nation (District)</title></circle></a><a href="/variants/s8/r3g6db2dbi2db11g9db2r3~x2~db1204274-dbi1406275/"><circle cx="199.9" cy="242.3" r="4" fill="#3465a4"><title>Daks (Navy)</title></circle></a><circle cx="211.4" cy="261.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1o4g3o1db3o1~x2/"><circle cx="227.1" cy="285.3" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><a href="/variants/s7/dy7r3dy9g15db19dy14r4~x2/"><circle cx="220.9" cy="268.3" r="4" fill="#3465a4"><title>Dorward/Dogwood</title></circle></a><a href="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/"><circle cx="198.7" cy="271.0" r="4" fill="#3465a4"><title>Torana</title></circle></a><a href="/variants/s7/r10b44o5dg40o62r5o10/"><circle cx="285.5" cy="212.3" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/variants/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/"><circle cx="190.9" cy="231.0" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/variants/s5/db2g4y1db1r2~x12/"><circle cx="183.1" cy="294.3" r="4" fill="#3465a4"><title>Creek Indian Nation</title></circle></a><a href="/variants/s8/r10g14r3db14r10g14r3db4~x2/"><circle cx="192.5" cy="278.9" r="4" fill="#3465a4"><title>Glasgow District Tartan</title></circle></a><a href="/variants/s6/dy1db3dy1g3dy4r1~x2/"><circle cx="234.5" cy="291.1" r="4" fill="#3465a4"><title>Fraser Hunting #2</title></circle></a><a href="/variants/s7/db2g4y1db1r2g4r2~x12/"><circle cx="219.0" cy="282.9" r="4" fill="#3465a4"><title>Creek Indian Nation (District)</title></circle></a><a href="/variants/s8/r3g6db2dbi2db11g9db2r3~x2~db1204274-dbi1406275/"><circle cx="200.0" cy="242.9" r="4" fill="#3465a4"><title>Daks (Navy)</title></circle></a><circle cx="211.5" cy="262.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/o7r3o9g15db19o14r4~x2/

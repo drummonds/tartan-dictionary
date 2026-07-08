@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Smith (Sir William)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db18k20g20k5g20k20db18lb3/)
 (the same proportion at any scale), whose colour order is pattern [BKGKKKGKBW](/stripes/bkgkkkgkbw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3823
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3823](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3823)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g48k3w8k3g48k34db60r4db60k34/"><circle cx="161.4" cy="146.6" r="4" fill="#3465a4"><title>MacPhail Hunting Corporate Tartan</title></circle></a><a href="/variants/s11/r3k1g12k12db12lb3db12k12g12k1y3~x2/"><circle cx="72.5" cy="155.9" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="114.9" cy="177.9" r="4" fill="#3465a4"><title>Robertson Hunting #2</title></circle></a><a href="/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/"><circle cx="121.2" cy="172.6" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/"><circle cx="134.0" cy="138.6" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/"><circle cx="123.6" cy="151.5" r="4" fill="#3465a4"><title>Paterson (Dalgleish Version)</title></circle></a><a href="/variants/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="167.2" cy="116.1" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><a href="/variants/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="136.6" cy="125.7" r="4" fill="#3465a4"><title>Campbell Red</title></circle></a><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="144.9" cy="115.1" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/variants/s11/db10k10db10dr2k20w1g10dr2g4dr2g4~x2/"><circle cx="164.7" cy="138.8" r="4" fill="#3465a4"><title>Newman</title></circle></a><circle cx="126.1" cy="148.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g48k3w8k3g48k34db60r4db60k34/"><circle cx="161.3" cy="146.9" r="4" fill="#3465a4"><title>MacPhail Hunting Corporate Tartan</title></circle></a><a href="/variants/s11/r3k1g12k12db12lb3db12k12g12k1y3~x2/"><circle cx="72.4" cy="156.3" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="114.9" cy="178.4" r="4" fill="#3465a4"><title>Robertson Hunting #2</title></circle></a><a href="/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/"><circle cx="121.2" cy="173.0" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/"><circle cx="134.0" cy="138.9" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/"><circle cx="123.5" cy="151.9" r="4" fill="#3465a4"><title>Paterson (Dalgleish Version)</title></circle></a><a href="/variants/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="167.1" cy="116.3" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><a href="/variants/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="136.5" cy="125.9" r="4" fill="#3465a4"><title>Campbell Red</title></circle></a><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="144.8" cy="115.3" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/variants/s11/db10k10db10dr2k20w1g10dr2g4dr2g4~x2/"><circle cx="164.6" cy="139.0" r="4" fill="#3465a4"><title>Newman</title></circle></a><circle cx="126.0" cy="148.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db18k20g20k5g20k20db18lb3~x2/

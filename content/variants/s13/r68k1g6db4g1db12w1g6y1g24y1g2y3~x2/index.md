@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Ellis Island"
   url: "/tartans/ellis-island/"
+- name: "Ellis Island"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r68k1g6db4g1db12w1g6y1g24y1g2y3/)
 (the same proportion at any scale), whose colour order is pattern [GGGGGGWBGBGKR](/stripes/ggggggwbgbgkr/).
@@ -14,7 +16,7 @@ Part of the [Ellis Island](/tartans/ellis-island/) tartan — the named design g
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10364
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10364](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10364)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3~x2/"><circle cx="317.7" cy="26.5" r="4" fill="#3465a4"><title>Ellis Island (District)</title></circle></a><a href="/variants/s13/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3~x2~g2203152/"><circle cx="336.7" cy="30.9" r="4" fill="#3465a4"><title>Ellis Island American District Tartan</title></circle></a><a href="/variants/s16/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4~x2/"><circle cx="293.3" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s16/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4/"><circle cx="293.3" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2~x2/"><circle cx="290.9" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2/"><circle cx="290.9" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s16/r94k3w2g21w3y3r5k2r5y3w3n21k7r7y8w4~x2/"><circle cx="319.3" cy="14.0" r="4" fill="#3465a4"><title>MacKintosh 8</title></circle></a><a href="/variants/s20/g28r1g2r3g1r16g1r3g2r1g14k3y3k3db3k3r48w3r3w3~x2/"><circle cx="280.2" cy="14.0" r="4" fill="#3465a4"><title>Moray Plaid</title></circle></a><a href="/variants/s12/o30y1k2g10k1r3k1r3k1r3k1w1~x2/"><circle cx="285.0" cy="53.4" r="4" fill="#3465a4"><title>Tweedmouth Middle School</title></circle></a><a href="/variants/s16/r60g2w1g15w2y3r3k1r3y3n2w16k4r4y6w2/"><circle cx="290.2" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><circle cx="314.5" cy="25.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3~x2/"><circle cx="317.5" cy="26.5" r="4" fill="#3465a4"><title>Ellis Island (District)</title></circle></a><a href="/variants/s13/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3~x2~g2203152/"><circle cx="336.6" cy="30.8" r="4" fill="#3465a4"><title>Ellis Island American District Tartan</title></circle></a><a href="/variants/s16/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4~x2/"><circle cx="293.1" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s16/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4/"><circle cx="293.1" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2~x2/"><circle cx="290.7" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2/"><circle cx="290.7" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s16/r94k3w2g21w3y3r5k2r5y3w3n21k7r7y8w4~x2/"><circle cx="319.1" cy="14.0" r="4" fill="#3465a4"><title>MacKintosh 8</title></circle></a><a href="/variants/s20/g28r1g2r3g1r16g1r3g2r1g14k3y3k3db3k3r48w3r3w3~x2/"><circle cx="280.0" cy="14.0" r="4" fill="#3465a4"><title>Moray Plaid</title></circle></a><a href="/variants/s12/o30y1k2g10k1r3k1r3k1r3k1w1~x2/"><circle cx="284.9" cy="53.4" r="4" fill="#3465a4"><title>Tweedmouth Middle School</title></circle></a><a href="/variants/s16/r60g2w1g15w2y3r3k1r3y3n2w16k4r4y6w2/"><circle cx="290.0" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><circle cx="314.4" cy="25.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/r68k1g6db4g1db12w1g6y1g24y1g2y3~x2/

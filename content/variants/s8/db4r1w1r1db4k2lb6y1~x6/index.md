@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Lopatinsky"
   url: "/tartans/lopatinsky/"
+- name: "Lopatinsky"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4r1w1r1db4k2lb6y1/)
 (the same proportion at any scale), whose colour order is pattern [BRWRBKWG](/stripes/brwrbkwg/).
@@ -14,7 +16,7 @@ Part of the [Lopatinsky](/tartans/lopatinsky/) tartan — the named design group
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5745
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5745](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5745)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db24r6w6r6w6r6db25k12t36y6/"><circle cx="84.4" cy="174.3" r="4" fill="#3465a4"><title>Lopatinsky (Personal)</title></circle></a><a href="/variants/s10/db28r3w3r3w3r3db28k12lb38wi8~w3600000-wi3905105/"><circle cx="143.1" cy="124.4" r="4" fill="#3465a4"><title>GYL family (Personal)</title></circle></a><a href="/variants/s10/db28r3w3r3w3r3db14k12lb38y8/"><circle cx="117.9" cy="124.1" r="4" fill="#3465a4"><title>GYL (Personal)</title></circle></a><a href="/variants/s8/db1lb9w3y3db9y1g1r1~x4/"><circle cx="133.1" cy="168.4" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><a href="/variants/s7/r3db25k6lb20y2lb2w3~x2/"><circle cx="155.2" cy="137.3" r="4" fill="#3465a4"><title>Madras College (Corporate)</title></circle></a><a href="/variants/s10/dr3lb6k1dr1k1lb6dr2db6b1db3~x4~db1208266-b2603265/"><circle cx="113.9" cy="191.4" r="4" fill="#3465a4"><title>Ballater</title></circle></a><a href="/variants/s7/db3lb24k11db20w2db5y3~x2/"><circle cx="162.9" cy="166.1" r="4" fill="#3465a4"><title>Icelandair</title></circle></a><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="152.7" cy="199.1" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.5" cy="200.7" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s7/lb6db17dp4db2k11g3lo4~x2/"><circle cx="105.1" cy="173.3" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><circle cx="95.0" cy="183.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db24r6w6r6w6r6db25k12t36y6/"><circle cx="84.4" cy="174.7" r="4" fill="#3465a4"><title>Lopatinsky (Personal)</title></circle></a><a href="/variants/s10/db28r3w3r3w3r3db28k12lb38wi8~w3600000-wi3905105/"><circle cx="143.1" cy="124.8" r="4" fill="#3465a4"><title>GYL family (Personal)</title></circle></a><a href="/variants/s10/db28r3w3r3w3r3db14k12lb38y8/"><circle cx="117.9" cy="124.4" r="4" fill="#3465a4"><title>GYL (Personal)</title></circle></a><a href="/variants/s8/db1lb9w3y3db9y1g1r1~x4/"><circle cx="133.1" cy="168.8" r="4" fill="#3465a4"><title>Curd (2013)</title></circle></a><a href="/variants/s7/r3db25k6lb20y2lb2w3~x2/"><circle cx="155.2" cy="137.6" r="4" fill="#3465a4"><title>Madras College (Corporate)</title></circle></a><a href="/variants/s10/dr3lb6k1dr1k1lb6dr2db6b1db3~x4~db1208266-b2603265/"><circle cx="113.9" cy="191.9" r="4" fill="#3465a4"><title>Ballater</title></circle></a><a href="/variants/s7/db3lb24k11db20w2db5y3~x2/"><circle cx="162.9" cy="166.5" r="4" fill="#3465a4"><title>Icelandair</title></circle></a><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="152.7" cy="199.7" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.5" cy="201.2" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s7/lb6db17dp4db2k11g3lo4~x2/"><circle cx="105.1" cy="173.7" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><circle cx="95.0" cy="183.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db4r1w1r1db4k2lb6y1~x6/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glasgow"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg20r3n3r15w19dg3lb2/)
 (the same proportion at any scale), whose colour order is pattern [GRBRWGW](/stripes/grbrwgw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1348
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1348](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1348)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg2do8dg8r3do1w12dg2g1~x2/"><circle cx="132.2" cy="175.4" r="4" fill="#3465a4"><title>National Trust Corporate Tartan</title></circle></a><a href="/variants/s7/dg8b6dg48w31o42g6o8/"><circle cx="158.6" cy="201.9" r="4" fill="#3465a4"><title>Bannockbane, Green</title></circle></a><a href="/variants/s6/r3w33dp8dg18r9g3~x2/"><circle cx="178.6" cy="182.4" r="4" fill="#3465a4"><title>MacKintosh Dress (Dance)</title></circle></a><a href="/variants/s8/r6db2dp21w3dg19w26dg3w5~x2/"><circle cx="164.9" cy="168.3" r="4" fill="#3465a4"><title>Culloden Dress Ancient</title></circle></a><a href="/variants/s8/r4w2r1w18dp18o18g3o4~x2/"><circle cx="156.0" cy="153.6" r="4" fill="#3465a4"><title>Gigha Lilac</title></circle></a><a href="/variants/s8/w6ri8g24ri8db6r8db8w3~x2~ri2008029-r2008022/"><circle cx="118.1" cy="210.7" r="4" fill="#3465a4"><title>Utah Centennial</title></circle></a><a href="/variants/s8/lb4k13lb17ly2r2ly24lb2w2~x2/"><circle cx="162.6" cy="155.3" r="4" fill="#3465a4"><title>Lalage (Personal)</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="134.3" cy="167.5" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.6" cy="176.4" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/do4r3do21r2w14ly22r3ly4~x2/"><circle cx="176.7" cy="190.2" r="4" fill="#3465a4"><title>Bannock Bane M.405</title></circle></a><circle cx="150.0" cy="186.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg2do8dg8r3do1w12dg2g1~x2/"><circle cx="132.2" cy="175.9" r="4" fill="#3465a4"><title>National Trust Corporate Tartan</title></circle></a><a href="/variants/s7/dg8b6dg48w31o42g6o8/"><circle cx="158.7" cy="202.4" r="4" fill="#3465a4"><title>Bannockbane, Green</title></circle></a><a href="/variants/s6/r3w33dp8dg18r9g3~x2/"><circle cx="178.6" cy="183.0" r="4" fill="#3465a4"><title>MacKintosh Dress (Dance)</title></circle></a><a href="/variants/s8/r6db2dp21w3dg19w26dg3w5~x2/"><circle cx="164.9" cy="168.8" r="4" fill="#3465a4"><title>Culloden Dress Ancient</title></circle></a><a href="/variants/s8/r4w2r1w18dp18o18g3o4~x2/"><circle cx="156.1" cy="154.1" r="4" fill="#3465a4"><title>Gigha Lilac</title></circle></a><a href="/variants/s8/w6ri8g24ri8db6r8db8w3~x2~ri2008029-r2008022/"><circle cx="118.2" cy="211.2" r="4" fill="#3465a4"><title>Utah Centennial</title></circle></a><a href="/variants/s8/lb4k13lb17ly2r2ly24lb2w2~x2/"><circle cx="162.6" cy="155.8" r="4" fill="#3465a4"><title>Lalage (Personal)</title></circle></a><a href="/variants/s7/dr36w3lo4g24w24k3lo6~x2/"><circle cx="134.4" cy="168.0" r="4" fill="#3465a4"><title>MacLachlan Dress</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.6" cy="176.9" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/do4r3do21r2w14ly22r3ly4~x2/"><circle cx="176.7" cy="190.8" r="4" fill="#3465a4"><title>Bannock Bane M.405</title></circle></a><circle cx="150.1" cy="186.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dg20r3n3r15w19dg3lb2~x2/

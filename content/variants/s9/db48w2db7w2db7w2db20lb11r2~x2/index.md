@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "RAAF"
   url: "/tartans/raaf-2/"
+- name: "RAAF #4"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db48w2db7w2db7w2db20lb11r2/)
 (the same proportion at any scale), whose colour order is pattern [BWBWBWBWR](/stripes/bwbwbwbwr/).
@@ -14,7 +16,7 @@ Part of the [RAAF](/tartans/raaf-2/) tartan — the named design grouping this s
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5341
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5341](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5341)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db66w2db10w2db10w2db12r3lb24~x2/"><circle cx="466.7" cy="113.1" r="4" fill="#3465a4"><title>RAAF</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.3" cy="63.7" r="4" fill="#3465a4"><title>Stratford (Ontario), City of</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="417.0" cy="153.2" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2~x2/"><circle cx="481.2" cy="97.2" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Centre</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2/"><circle cx="481.2" cy="97.2" r="4" fill="#3465a4"><title>Scotch Whisky, Heritage</title></circle></a><a href="/variants/s7/db8r2db18r1db2w10db4~x2/"><circle cx="402.1" cy="181.5" r="4" fill="#3465a4"><title>Nike ACG Lunarstorm (Fashion)</title></circle></a><a href="/variants/s9/t7db5lr6db5r7db2t2db70lr2/"><circle cx="547.6" cy="79.0" r="4" fill="#3465a4"><title>United States (Personal)</title></circle></a><a href="/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/"><circle cx="567.3" cy="113.6" r="4" fill="#3465a4"><title>United States Trade sett Tartan</title></circle></a><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="431.7" cy="139.3" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/variants/s9/w12db79lo6db53lb4db22lp10db24g8/"><circle cx="475.9" cy="140.6" r="4" fill="#3465a4"><title>Centrica Energy (Corporate)</title></circle></a><circle cx="505.7" cy="128.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db66w2db10w2db10w2db12r3lb24~x2/"><circle cx="466.6" cy="113.3" r="4" fill="#3465a4"><title>RAAF</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.1" cy="63.7" r="4" fill="#3465a4"><title>Stratford (Ontario), City of</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="417.0" cy="153.6" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2~x2/"><circle cx="481.1" cy="97.3" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Centre</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2/"><circle cx="481.1" cy="97.3" r="4" fill="#3465a4"><title>Scotch Whisky, Heritage</title></circle></a><a href="/variants/s7/db8r2db18r1db2w10db4~x2/"><circle cx="402.1" cy="182.0" r="4" fill="#3465a4"><title>Nike ACG Lunarstorm (Fashion)</title></circle></a><a href="/variants/s9/t7db5lr6db5r7db2t2db70lr2/"><circle cx="547.5" cy="79.0" r="4" fill="#3465a4"><title>United States (Personal)</title></circle></a><a href="/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/"><circle cx="567.2" cy="113.6" r="4" fill="#3465a4"><title>United States Trade sett Tartan</title></circle></a><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="431.6" cy="139.6" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/variants/s9/w12db79lo6db53lb4db22lp10db24g8/"><circle cx="475.9" cy="140.8" r="4" fill="#3465a4"><title>Centrica Energy (Corporate)</title></circle></a><circle cx="505.7" cy="129.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db48w2db7w2db7w2db20lb11r2~x2/

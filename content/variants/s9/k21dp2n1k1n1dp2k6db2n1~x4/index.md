@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Clan Inebriated"
   url: "/tartans/clan-inebriated/"
+- name: "Clan Inebriated"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k21dp2n1k1n1dp2k6db2n1/)
 (the same proportion at any scale), whose colour order is pattern [BBKBBKBBK](/stripes/bbkbbkbbk/).
@@ -14,7 +16,7 @@ Part of the [Clan Inebriated](/tartans/clan-inebriated/) tartan — the named de
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5691
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5691](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5691)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k100dp8n4k4n4dp8k25db10n4/"><circle cx="510.0" cy="106.1" r="4" fill="#3465a4"><title>CI (Corporate)</title></circle></a><a href="/variants/s9/k75dp6n2k2n2dp6k12db2n2~x2/"><circle cx="580.3" cy="83.1" r="4" fill="#3465a4"><title>Clan Inebriated (Corporate)</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="426.0" cy="81.8" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/"><circle cx="572.7" cy="133.4" r="4" fill="#3465a4"><title>STLTH</title></circle></a><a href="/variants/s7/n1k21n5k3n5k9r1~x4/"><circle cx="432.8" cy="151.3" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><a href="/variants/s9/k20db2k2db4dg4y2k40r2w3~x2/"><circle cx="417.1" cy="78.0" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles) Hunting</title></circle></a><a href="/variants/s7/k4n2k46db20k6dbi3g4~x2~db1404274-dbi1406275/"><circle cx="379.6" cy="104.2" r="4" fill="#3465a4"><title>Silver Thistle</title></circle></a><a href="/variants/s9/dp3n2o2k60n2k3n12k1o3~x2~n1900000-o2500000/"><circle cx="460.7" cy="55.3" r="4" fill="#3465a4"><title>Grassi (Personal)</title></circle></a><a href="/variants/s9/k25w1n3w1k31n3k31w2r9~x2~n1700000/"><circle cx="471.6" cy="103.9" r="4" fill="#3465a4"><title>Savannah Harley Davidson</title></circle></a><a href="/variants/s9/k25w1n3w1k31n3k31w2r9~x2/"><circle cx="469.7" cy="103.4" r="4" fill="#3465a4"><title>Savannah Harley Davidson (Corporate)</title></circle></a><circle cx="485.4" cy="115.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k100dp8n4k4n4dp8k25db10n4/"><circle cx="509.9" cy="106.1" r="4" fill="#3465a4"><title>CI (Corporate)</title></circle></a><a href="/variants/s9/k75dp6n2k2n2dp6k12db2n2~x2/"><circle cx="580.1" cy="83.1" r="4" fill="#3465a4"><title>Clan Inebriated (Corporate)</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="425.8" cy="82.0" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/"><circle cx="572.6" cy="133.5" r="4" fill="#3465a4"><title>STLTH</title></circle></a><a href="/variants/s7/n1k21n5k3n5k9r1~x4/"><circle cx="432.7" cy="151.7" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><a href="/variants/s9/k20db2k2db4dg4y2k40r2w3~x2/"><circle cx="417.0" cy="78.1" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles) Hunting</title></circle></a><a href="/variants/s7/k4n2k46db20k6dbi3g4~x2~db1404274-dbi1406275/"><circle cx="379.5" cy="104.3" r="4" fill="#3465a4"><title>Silver Thistle</title></circle></a><a href="/variants/s9/dp3n2o2k60n2k3n12k1o3~x2~n1900000-o2500000/"><circle cx="460.5" cy="55.3" r="4" fill="#3465a4"><title>Grassi (Personal)</title></circle></a><a href="/variants/s9/k25w1n3w1k31n3k31w2r9~x2~n1700000/"><circle cx="471.4" cy="104.2" r="4" fill="#3465a4"><title>Savannah Harley Davidson</title></circle></a><a href="/variants/s9/k25w1n3w1k31n3k31w2r9~x2/"><circle cx="469.6" cy="103.6" r="4" fill="#3465a4"><title>Savannah Harley Davidson (Corporate)</title></circle></a><circle cx="485.3" cy="115.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k21dp2n1k1n1dp2k6db2n1~x4/

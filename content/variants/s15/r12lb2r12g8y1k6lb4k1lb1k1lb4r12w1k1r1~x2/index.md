@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/macpherson/"
 - name: "MacPherson"
   url: "/tartans/macpherson/"
+- name: "MacPherson"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r12lb2r12g8y1k6lb4k1lb1k1lb4r12w1k1r1/)
 (the same proportion at any scale), whose colour order is pattern [RKWRWKWKWKGGRWR](/stripes/rkwrwkwkwkggrwr/).
@@ -16,7 +18,7 @@ Part of the [MacPherson](/tartans/macpherson/) tartan — the named design group
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -79,8 +81,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y3r25k8r4db8w2db3w2db8r4g8r25y3~x2/"><circle cx="222.0" cy="106.2" r="4" fill="#3465a4"><title>Maynard</title></circle></a><a href="/variants/s11/r3db1r1db2r12lb1r1k4w1g6r1~x4/"><circle cx="213.9" cy="106.0" r="4" fill="#3465a4"><title>McLinden, Thomas (Personal)</title></circle></a><a href="/variants/s15/r12w2r12g8y1k6w4k1w1k1w4r12w1k1r1~x2/"><circle cx="210.1" cy="110.6" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s13/k1r14lb8k9y1k2w2k2g10r15k4r12w1~x2/"><circle cx="167.5" cy="107.5" r="4" fill="#3465a4"><title>Wilson's, No 1</title></circle></a><a href="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><circle cx="166.6" cy="104.4" r="4" fill="#3465a4"><title>Peacock (Personal)</title></circle></a><a href="/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/"><circle cx="199.6" cy="93.6" r="4" fill="#3465a4"><title>Burns 250th Anniversary (Commem.)</title></circle></a><a href="/variants/s15/r3g1r2g1r18k4y1k2w1db4g6r3k1r2w1~x2/"><circle cx="233.2" cy="66.1" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #4</title></circle></a><a href="/variants/s13/k4w1r2g16r8g8r15lo1r14y2r2k1w4~x2/"><circle cx="219.7" cy="107.7" r="4" fill="#3465a4"><title>Melieres-Frost</title></circle></a><a href="/variants/s13/k2r14lb8k9y1k2w2k2g10r15k4r12w2~x2/"><circle cx="156.0" cy="111.4" r="4" fill="#3465a4"><title>Harden (Name)</title></circle></a><a href="/variants/s16/r24w2r2w2r4k11w12db3w12k11r4w2r2w2r24y3~x2/"><circle cx="183.5" cy="106.6" r="4" fill="#3465a4"><title>Heart of Midlothian Football Club</title></circle></a><circle cx="202.8" cy="100.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y3r25k8r4db8w2db3w2db8r4g8r25y3~x2/"><circle cx="221.9" cy="106.5" r="4" fill="#3465a4"><title>Maynard</title></circle></a><a href="/variants/s11/r3db1r1db2r12lb1r1k4w1g6r1~x4/"><circle cx="213.8" cy="106.3" r="4" fill="#3465a4"><title>McLinden, Thomas (Personal)</title></circle></a><a href="/variants/s15/r12w2r12g8y1k6w4k1w1k1w4r12w1k1r1~x2/"><circle cx="210.1" cy="111.0" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s13/k1r14lb8k9y1k2w2k2g10r15k4r12w1~x2/"><circle cx="167.4" cy="107.9" r="4" fill="#3465a4"><title>Wilson's, No 1</title></circle></a><a href="/variants/s13/w2k1t2lb1dg4r1dg4r3k3r12lb1r2k1~x4/"><circle cx="166.5" cy="104.7" r="4" fill="#3465a4"><title>Peacock (Personal)</title></circle></a><a href="/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/"><circle cx="199.5" cy="93.9" r="4" fill="#3465a4"><title>Burns 250th Anniversary (Commem.)</title></circle></a><a href="/variants/s15/r3g1r2g1r18k4y1k2w1db4g6r3k1r2w1~x2/"><circle cx="233.1" cy="66.3" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #4</title></circle></a><a href="/variants/s13/k4w1r2g16r8g8r15lo1r14y2r2k1w4~x2/"><circle cx="219.6" cy="108.0" r="4" fill="#3465a4"><title>Melieres-Frost</title></circle></a><a href="/variants/s13/k2r14lb8k9y1k2w2k2g10r15k4r12w2~x2/"><circle cx="155.9" cy="111.8" r="4" fill="#3465a4"><title>Harden (Name)</title></circle></a><a href="/variants/s16/r24w2r2w2r4k11w12db3w12k11r4w2r2w2r24y3~x2/"><circle cx="183.5" cy="107.0" r="4" fill="#3465a4"><title>Heart of Midlothian Football Club</title></circle></a><circle cx="202.7" cy="100.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/r12lb2r12g8y1k6lb4k1lb1k1lb4r12w1k1r1~x2/

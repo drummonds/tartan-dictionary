@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Basque (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r44g6k3g16w22/)
 (the same proportion at any scale), whose colour order is pattern [RGKGW](/stripes/rgkgw/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8055
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8055](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8055)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r10g3k1g3t1~x16/"><circle cx="305.2" cy="193.7" r="4" fill="#3465a4"><title>Espy (Fashion?)</title></circle></a><a href="/variants/s6/k1g6k1g6r16db1~x2/"><circle cx="299.3" cy="160.2" r="4" fill="#3465a4"><title>Denny, hunting</title></circle></a><a href="/variants/s6/r32db6k6g6w18k3/"><circle cx="160.7" cy="161.0" r="4" fill="#3465a4"><title>Rose, White dress</title></circle></a><a href="/variants/s6/k2r16g6r3g8w1~x4/"><circle cx="292.5" cy="172.7" r="4" fill="#3465a4"><title>MacAulay (Clan)</title></circle></a><a href="/variants/s6/k2r16g6r3g8w1/"><circle cx="292.5" cy="172.7" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s6/k2r16g6r3g8w1~x2/"><circle cx="292.5" cy="172.7" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><circle cx="178.7" cy="188.9" r="4" fill="#3465a4"><title>Strathspey, Check</title></circle></a><a href="/variants/s7/r20k5g5r5w5n3g3~x4/"><circle cx="204.5" cy="175.2" r="4" fill="#3465a4"><title>Mangles, Peter and Annette (Personal)</title></circle></a><a href="/variants/s6/g9r2g9r14k1w2~x2/"><circle cx="271.3" cy="189.2" r="4" fill="#3465a4"><title>MacGregor of Balquidder (Logan)</title></circle></a><a href="/variants/s6/g9r2g9r14k1w2~x4/"><circle cx="271.3" cy="189.2" r="4" fill="#3465a4"><title>MacGregor of Balquidder - 1831 (Clan</title></circle></a><circle cx="234.7" cy="183.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r10g3k1g3t1~x16/"><circle cx="305.3" cy="194.2" r="4" fill="#3465a4"><title>Espy (Fashion?)</title></circle></a><a href="/variants/s6/k1g6k1g6r16db1~x2/"><circle cx="299.3" cy="160.6" r="4" fill="#3465a4"><title>Denny, hunting</title></circle></a><a href="/variants/s6/r32db6k6g6w18k3/"><circle cx="160.7" cy="161.5" r="4" fill="#3465a4"><title>Rose, White dress</title></circle></a><a href="/variants/s6/k2r16g6r3g8w1~x4/"><circle cx="292.5" cy="173.2" r="4" fill="#3465a4"><title>MacAulay (Clan)</title></circle></a><a href="/variants/s6/k2r16g6r3g8w1/"><circle cx="292.5" cy="173.2" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s6/k2r16g6r3g8w1~x2/"><circle cx="292.5" cy="173.2" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><circle cx="178.8" cy="189.5" r="4" fill="#3465a4"><title>Strathspey, Check</title></circle></a><a href="/variants/s7/r20k5g5r5w5n3g3~x4/"><circle cx="204.5" cy="175.8" r="4" fill="#3465a4"><title>Mangles, Peter and Annette (Personal)</title></circle></a><a href="/variants/s6/g9r2g9r14k1w2~x2/"><circle cx="271.4" cy="189.7" r="4" fill="#3465a4"><title>MacGregor of Balquidder (Logan)</title></circle></a><a href="/variants/s6/g9r2g9r14k1w2~x4/"><circle cx="271.4" cy="189.7" r="4" fill="#3465a4"><title>MacGregor of Balquidder - 1831 (Clan</title></circle></a><circle cx="234.8" cy="184.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r44g6k3g16w22/

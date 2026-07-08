@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Ruthven"
   url: "/tartans/ruthven/"
+- name: "Ruthven"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3g15db18r30db1r2/)
 (the same proportion at any scale), whose colour order is pattern [RBRBGW](/stripes/rbrbgw/).
@@ -14,7 +16,7 @@ Part of the [Ruthven](/tartans/ruthven/) tartan — the named design grouping th
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db1r14g7db7r1~x4/"><circle cx="309.8" cy="219.0" r="4" fill="#3465a4"><title>Fraser of Boblainy, Hugh (Personal)</title></circle></a><a href="/variants/s6/w3g15db18r30g1r2~x2/"><circle cx="284.1" cy="158.6" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/variants/s6/y2db1r16db16r1g2~x2/"><circle cx="307.8" cy="172.5" r="4" fill="#3465a4"><title>Galloway dress</title></circle></a><a href="/variants/s6/dg2r1db16r16db1y2~x2/"><circle cx="311.6" cy="173.2" r="4" fill="#3465a4"><title>Galloway Dress (Yellow Line)</title></circle></a><a href="/variants/s6/w6g15db18r30g2r4~x2/"><circle cx="238.1" cy="194.5" r="4" fill="#3465a4"><title>Ruthven (V.S.)</title></circle></a><a href="/variants/s6/w3g15db18r15g1r2~x2/"><circle cx="200.1" cy="193.8" r="4" fill="#3465a4"><title>Nibley</title></circle></a><a href="/variants/s6/w3dg18db22r19dg1r2~x2/"><circle cx="224.3" cy="183.7" r="4" fill="#3465a4"><title>Nibley (Personal)</title></circle></a><a href="/variants/s8/r56w2db6w2g32r11db6w5/"><circle cx="348.5" cy="130.6" r="4" fill="#3465a4"><title>Spens</title></circle></a><a href="/variants/s6/r60db20r8g45r8db2~x2/"><circle cx="360.8" cy="177.5" r="4" fill="#3465a4"><title>Caledonian</title></circle></a><a href="/variants/s6/db2r24g24r1db24r2~x2/"><circle cx="260.9" cy="192.6" r="4" fill="#3465a4"><title>Mar Dress</title></circle></a><circle cx="287.6" cy="160.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db1r14g7db7r1~x4/"><circle cx="309.9" cy="219.6" r="4" fill="#3465a4"><title>Fraser of Boblainy, Hugh (Personal)</title></circle></a><a href="/variants/s6/w3g15db18r30g1r2~x2/"><circle cx="284.2" cy="159.0" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/variants/s6/y2db1r16db16r1g2~x2/"><circle cx="307.8" cy="172.9" r="4" fill="#3465a4"><title>Galloway dress</title></circle></a><a href="/variants/s6/dg2r1db16r16db1y2~x2/"><circle cx="311.7" cy="173.6" r="4" fill="#3465a4"><title>Galloway Dress (Yellow Line)</title></circle></a><a href="/variants/s6/w6g15db18r30g2r4~x2/"><circle cx="238.2" cy="195.1" r="4" fill="#3465a4"><title>Ruthven (V.S.)</title></circle></a><a href="/variants/s6/w3g15db18r15g1r2~x2/"><circle cx="200.1" cy="194.2" r="4" fill="#3465a4"><title>Nibley</title></circle></a><a href="/variants/s6/w3dg18db22r19dg1r2~x2/"><circle cx="224.3" cy="184.1" r="4" fill="#3465a4"><title>Nibley (Personal)</title></circle></a><a href="/variants/s8/r56w2db6w2g32r11db6w5/"><circle cx="348.5" cy="130.9" r="4" fill="#3465a4"><title>Spens</title></circle></a><a href="/variants/s6/r60db20r8g45r8db2~x2/"><circle cx="360.9" cy="177.9" r="4" fill="#3465a4"><title>Caledonian</title></circle></a><a href="/variants/s6/db2r24g24r1db24r2~x2/"><circle cx="260.9" cy="193.0" r="4" fill="#3465a4"><title>Mar Dress</title></circle></a><circle cx="287.6" cy="160.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w3g15db18r30db1r2~x2/

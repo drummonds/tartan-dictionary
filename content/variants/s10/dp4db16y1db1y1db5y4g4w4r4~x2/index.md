@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Yukon"
   url: "/tartans/yukon/"
+- name: "Yukon"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp4db16y1db1y1db5y4g4w4r4/)
 (the same proportion at any scale), whose colour order is pattern [BBGBGBGGWR](/stripes/bbgbgbggwr/).
@@ -14,7 +16,7 @@ Part of the [Yukon](/tartans/yukon/) tartan — the named design grouping this s
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -82,8 +84,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/"><circle cx="256.9" cy="119.8" r="4" fill="#3465a4"><title>Yukon (asymmetric)</title></circle></a><a href="/variants/s9/db45r4n20w3ly9dr4ly3dr9n11~x2/"><circle cx="210.6" cy="144.3" r="4" fill="#3465a4"><title>United Arrows House Check</title></circle></a><a href="/variants/s9/db16w6r8db3y1g1b3db1g9~x2/"><circle cx="166.0" cy="146.6" r="4" fill="#3465a4"><title>Ohio</title></circle></a><a href="/variants/s8/db6y2db22g7r2w11g11db3~x2/"><circle cx="202.9" cy="185.3" r="4" fill="#3465a4"><title>Bahamas District Tartan</title></circle></a><a href="/variants/s11/dr5r2db24lb2db2lb2db6lb8dr6lb8ly4~x2/"><circle cx="214.7" cy="156.1" r="4" fill="#3465a4"><title>Tasmania (District)</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x4/"><circle cx="215.3" cy="150.0" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/"><circle cx="215.3" cy="150.0" r="4" fill="#3465a4"><title>Yorkshire, C.C.C.</title></circle></a><a href="/variants/s9/db16w6r8db3y1g1lb3db1g9~x2/"><circle cx="162.8" cy="145.5" r="4" fill="#3465a4"><title>Ohio District Tartan</title></circle></a><a href="/variants/s9/y2g20db8r3db2r2db16w1lb2~x2/"><circle cx="245.7" cy="133.2" r="4" fill="#3465a4"><title>Scotland’s Golf Coast</title></circle></a><a href="/variants/s10/dbi30w2r3w2db14lr3g14dbi18r2dbi3~x2~dbi1605267-db0906265/"><circle cx="280.8" cy="145.3" r="4" fill="#3465a4"><title>Kansai St Andrews Society</title></circle></a><circle cx="215.1" cy="138.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/"><circle cx="256.8" cy="119.9" r="4" fill="#3465a4"><title>Yukon (asymmetric)</title></circle></a><a href="/variants/s9/db45r4n20w3ly9dr4ly3dr9n11~x2/"><circle cx="210.6" cy="144.5" r="4" fill="#3465a4"><title>United Arrows House Check</title></circle></a><a href="/variants/s9/db16w6r8db3y1g1b3db1g9~x2/"><circle cx="166.0" cy="146.9" r="4" fill="#3465a4"><title>Ohio</title></circle></a><a href="/variants/s8/db6y2db22g7r2w11g11db3~x2/"><circle cx="202.9" cy="185.8" r="4" fill="#3465a4"><title>Bahamas District Tartan</title></circle></a><a href="/variants/s11/dr5r2db24lb2db2lb2db6lb8dr6lb8ly4~x2/"><circle cx="214.7" cy="156.4" r="4" fill="#3465a4"><title>Tasmania (District)</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x4/"><circle cx="215.3" cy="150.4" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/"><circle cx="215.3" cy="150.4" r="4" fill="#3465a4"><title>Yorkshire, C.C.C.</title></circle></a><a href="/variants/s9/db16w6r8db3y1g1lb3db1g9~x2/"><circle cx="162.8" cy="145.8" r="4" fill="#3465a4"><title>Ohio District Tartan</title></circle></a><a href="/variants/s9/y2g20db8r3db2r2db16w1lb2~x2/"><circle cx="245.6" cy="133.4" r="4" fill="#3465a4"><title>Scotland’s Golf Coast</title></circle></a><a href="/variants/s10/dbi30w2r3w2db14lr3g14dbi18r2dbi3~x2~dbi1605267-db0906265/"><circle cx="280.8" cy="145.5" r="4" fill="#3465a4"><title>Kansai St Andrews Society</title></circle></a><circle cx="215.1" cy="139.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dp4db16y1db1y1db5y4g4w4r4~x2/

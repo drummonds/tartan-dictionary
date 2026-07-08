@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nisbett Rose Dress Family Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w16k16ri40w3r6w3r40k16w16g4/)
 (the same proportion at any scale), whose colour order is pattern [GWKRWRWRKW](/stripes/gwkrwrwrkw/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=946
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=946](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=946)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/"><circle cx="78.2" cy="142.1" r="4" fill="#3465a4"><title>Derry County Crest (Fashion)</title></circle></a><a href="/variants/s9/k4w26k10lo8k3lo8k10r26w4~x2/"><circle cx="89.4" cy="178.1" r="4" fill="#3465a4"><title>Lord Laird</title></circle></a><a href="/variants/s14/lo2r15lo3dr2lo3k14lo2lb6w2lb6lo2r7lb10w1~x2/"><circle cx="77.8" cy="117.0" r="4" fill="#3465a4"><title>Dalrymple of Castleton</title></circle></a><a href="/variants/s10/y6k2r15g5r8k12w24lb2w4lb2~x2/"><circle cx="80.3" cy="128.8" r="4" fill="#3465a4"><title>Gillies, dress Red</title></circle></a><a href="/variants/s7/y3r3lo2r20k16lb24w2~x2/"><circle cx="109.5" cy="138.6" r="4" fill="#3465a4"><title>Oor Wullie (DC Thomson)</title></circle></a><a href="/variants/s7/ly3r3dy2r20k16lb24w2~x2/"><circle cx="107.2" cy="137.8" r="4" fill="#3465a4"><title>Oor Wullie (Corporate)</title></circle></a><a href="/variants/s11/r16k6r14g22k16db16w10r6w45k4r4/"><circle cx="79.4" cy="148.0" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/variants/s8/lb4lr4lb4lr5k8g2r19ly1~x2/"><circle cx="145.3" cy="115.9" r="4" fill="#3465a4"><title>Edinburgh Napier University (Corp.)</title></circle></a><a href="/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/"><circle cx="133.5" cy="140.4" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/variants/s10/ly6k2r12dg4r8k10w24lb2w3lb2~x2/"><circle cx="89.7" cy="124.3" r="4" fill="#3465a4"><title>Gillies Red Dress</title></circle></a><circle cx="87.3" cy="140.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/"><circle cx="78.1" cy="142.5" r="4" fill="#3465a4"><title>Derry County Crest (Fashion)</title></circle></a><a href="/variants/s9/k4w26k10lo8k3lo8k10r26w4~x2/"><circle cx="89.4" cy="178.8" r="4" fill="#3465a4"><title>Lord Laird</title></circle></a><a href="/variants/s14/lo2r15lo3dr2lo3k14lo2lb6w2lb6lo2r7lb10w1~x2/"><circle cx="77.8" cy="117.3" r="4" fill="#3465a4"><title>Dalrymple of Castleton</title></circle></a><a href="/variants/s10/y6k2r15g5r8k12w24lb2w4lb2~x2/"><circle cx="80.2" cy="129.3" r="4" fill="#3465a4"><title>Gillies, dress Red</title></circle></a><a href="/variants/s7/y3r3lo2r20k16lb24w2~x2/"><circle cx="109.5" cy="139.1" r="4" fill="#3465a4"><title>Oor Wullie (DC Thomson)</title></circle></a><a href="/variants/s7/ly3r3dy2r20k16lb24w2~x2/"><circle cx="107.2" cy="138.2" r="4" fill="#3465a4"><title>Oor Wullie (Corporate)</title></circle></a><a href="/variants/s11/r16k6r14g22k16db16w10r6w45k4r4/"><circle cx="79.4" cy="148.4" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/variants/s8/lb4lr4lb4lr5k8g2r19ly1~x2/"><circle cx="145.2" cy="116.3" r="4" fill="#3465a4"><title>Edinburgh Napier University (Corp.)</title></circle></a><a href="/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/"><circle cx="133.5" cy="140.8" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/variants/s10/ly6k2r12dg4r8k10w24lb2w3lb2~x2/"><circle cx="89.7" cy="124.8" r="4" fill="#3465a4"><title>Gillies Red Dress</title></circle></a><circle cx="87.3" cy="140.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w16k16ri40w3r6w3r40k16w16g4~ri2406019-r2109032/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Spragg, Andrew"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr2b16r1dr2r12y1lb1/)
 (the same proportion at any scale), whose colour order is pattern [BBRBRGW](/stripes/bbrbrgw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10162
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10162](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10162)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4db36ri35dg2ri2dg8w4~x2~r2309032-ri2510029/"><circle cx="232.7" cy="139.4" r="4" fill="#3465a4"><title>Cherry, John S (Personal)</title></circle></a><a href="/variants/s8/y6r21b2dg6b41lb2b2lb6/"><circle cx="329.5" cy="146.2" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/variants/s5/db15r2ri15t6lb1~x2~ri2109032-t2205244/"><circle cx="234.1" cy="196.0" r="4" fill="#3465a4"><title>O2 (Corporate)</title></circle></a><a href="/variants/s9/gi4g3gi9b14y8b2r35lp2r3~x2~gi2203208-b1813263-r2208029-lp3004317/"><circle cx="255.9" cy="130.8" r="4" fill="#3465a4"><title>Hogeboom (Toronto) (Personal)</title></circle></a><a href="/variants/s8/r30db3r2db3r6db14b26g6/"><circle cx="261.7" cy="181.9" r="4" fill="#3465a4"><title>Cranston, dress</title></circle></a><a href="/variants/s6/n47w6r24w3db5y3~x2/"><circle cx="337.6" cy="174.4" r="4" fill="#3465a4"><title>Duminiak (Trevose, Pennsylvania)</title></circle></a><a href="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/"><circle cx="255.8" cy="202.1" r="4" fill="#3465a4"><title>Stevens #3</title></circle></a><a href="/variants/s6/y2dt1t29r29dt1g2~x2~dt1703227-t2004245/"><circle cx="370.0" cy="149.0" r="4" fill="#3465a4"><title>Reagan</title></circle></a><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/"><circle cx="268.9" cy="136.9" r="4" fill="#3465a4"><title>Manitoba Masonic</title></circle></a><a href="/variants/s8/lb1n12r1db1r1db2r5lb1~x4/"><circle cx="345.0" cy="182.7" r="4" fill="#3465a4"><title>Tenmaya Check</title></circle></a><circle cx="309.4" cy="159.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4db36ri35dg2ri2dg8w4~x2~r2309032-ri2510029/"><circle cx="232.7" cy="139.7" r="4" fill="#3465a4"><title>Cherry, John S (Personal)</title></circle></a><a href="/variants/s8/y6r21b2dg6b41lb2b2lb6/"><circle cx="329.5" cy="146.4" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/variants/s5/db15r2ri15t6lb1~x2~ri2109032-t2205244/"><circle cx="234.1" cy="196.4" r="4" fill="#3465a4"><title>O2 (Corporate)</title></circle></a><a href="/variants/s9/gi4g3gi9b14y8b2r35lp2r3~x2~gi2203208-b1813263-r2208029-lp3004317/"><circle cx="255.9" cy="130.9" r="4" fill="#3465a4"><title>Hogeboom (Toronto) (Personal)</title></circle></a><a href="/variants/s8/r30db3r2db3r6db14b26g6/"><circle cx="261.8" cy="182.2" r="4" fill="#3465a4"><title>Cranston, dress</title></circle></a><a href="/variants/s6/n47w6r24w3db5y3~x2/"><circle cx="337.7" cy="174.7" r="4" fill="#3465a4"><title>Duminiak (Trevose, Pennsylvania)</title></circle></a><a href="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/"><circle cx="255.9" cy="202.5" r="4" fill="#3465a4"><title>Stevens #3</title></circle></a><a href="/variants/s6/y2dt1t29r29dt1g2~x2~dt1703227-t2004245/"><circle cx="370.0" cy="149.2" r="4" fill="#3465a4"><title>Reagan</title></circle></a><a href="/variants/s8/y3db8w3db34r34dg4r4w2~x2/"><circle cx="268.8" cy="137.2" r="4" fill="#3465a4"><title>Manitoba Masonic</title></circle></a><a href="/variants/s8/lb1n12r1db1r1db2r5lb1~x4/"><circle cx="345.0" cy="183.0" r="4" fill="#3465a4"><title>Tenmaya Check</title></circle></a><circle cx="309.4" cy="159.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dr2b16r1dr2r12y1lb1~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gloucester County Pipe Band (Corp)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg54db14y7r14k7db14r6/)
 (the same proportion at any scale), whose colour order is pattern [GBGRKBR](/stripes/gbgrkbr/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7539
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7539](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7539)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg6lo3dg26k10n30lb3~x2/"><circle cx="209.0" cy="195.2" r="4" fill="#3465a4"><title>Montrose (1983)</title></circle></a><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><circle cx="183.3" cy="203.4" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/variants/s5/r1n12k7do10r1~x4/"><circle cx="194.0" cy="176.7" r="4" fill="#3465a4"><title>Andover</title></circle></a><a href="/variants/s8/dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/"><circle cx="217.3" cy="177.6" r="4" fill="#3465a4"><title>Scottish Power</title></circle></a><a href="/variants/s7/dg7dp3w1g2dg1k2dp1~x8/"><circle cx="184.5" cy="196.3" r="4" fill="#3465a4"><title>Lindley-Highfield Name Tartan</title></circle></a><a href="/variants/s6/r1n12k6ly1do10r1~x4/"><circle cx="195.9" cy="180.5" r="4" fill="#3465a4"><title>Andover (Fashion)</title></circle></a><a href="/variants/s8/k3r1y1db11g13db5r1y1~x2/"><circle cx="209.4" cy="153.3" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s11/ki16k2lb2k4dg16r2ki15k6lb2ki3lb4~x2~ki0700000-k0504259/"><circle cx="196.9" cy="170.1" r="4" fill="#3465a4"><title>Scottish Tartans Authority</title></circle></a><a href="/variants/s9/g26db3dr3db20dr3db3dr30lb3k2~x2/"><circle cx="212.0" cy="148.1" r="4" fill="#3465a4"><title>Ormiston (Personal)</title></circle></a><a href="/variants/s9/lb1k1dr10g10k5db5dr10k1lb1~x4/"><circle cx="180.9" cy="171.4" r="4" fill="#3465a4"><title>Graham of Montrose Red</title></circle></a><circle cx="227.3" cy="181.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg6lo3dg26k10n30lb3~x2/"><circle cx="209.0" cy="195.6" r="4" fill="#3465a4"><title>Montrose (1983)</title></circle></a><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><circle cx="183.4" cy="203.8" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/variants/s5/r1n12k7do10r1~x4/"><circle cx="194.0" cy="177.1" r="4" fill="#3465a4"><title>Andover</title></circle></a><a href="/variants/s8/dg5g32dp5k10dg8dr3dg8dp3~x2~dg1603171-g2203152/"><circle cx="217.3" cy="177.9" r="4" fill="#3465a4"><title>Scottish Power</title></circle></a><a href="/variants/s7/dg7dp3w1g2dg1k2dp1~x8/"><circle cx="184.5" cy="196.7" r="4" fill="#3465a4"><title>Lindley-Highfield Name Tartan</title></circle></a><a href="/variants/s6/r1n12k6ly1do10r1~x4/"><circle cx="195.9" cy="180.9" r="4" fill="#3465a4"><title>Andover (Fashion)</title></circle></a><a href="/variants/s8/k3r1y1db11g13db5r1y1~x2/"><circle cx="209.4" cy="153.6" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s11/ki16k2lb2k4dg16r2ki15k6lb2ki3lb4~x2~ki0700000-k0504259/"><circle cx="196.8" cy="170.3" r="4" fill="#3465a4"><title>Scottish Tartans Authority</title></circle></a><a href="/variants/s9/g26db3dr3db20dr3db3dr30lb3k2~x2/"><circle cx="211.9" cy="148.4" r="4" fill="#3465a4"><title>Ormiston (Personal)</title></circle></a><a href="/variants/s9/lb1k1dr10g10k5db5dr10k1lb1~x4/"><circle cx="180.9" cy="171.8" r="4" fill="#3465a4"><title>Graham of Montrose Red</title></circle></a><circle cx="227.3" cy="182.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dg54db14y7r14k7db14r6~x2/

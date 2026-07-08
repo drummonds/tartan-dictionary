@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Los Angeles District Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ti33k5t3g2ti5t24y4t24ti5g2t3k5ti33r2/)
 (the same proportion at any scale), whose colour order is pattern [BKBGBBGBBGBKBR](/stripes/bkbgbbgbbgbkbr/).
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6071
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6071](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6071)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/t10r4t44lr8k8t4lr4t4lr50t8g6t5y4db6~t2405244-lr2800000/"><circle cx="236.3" cy="114.7" r="4" fill="#3465a4"><title>RAF Kinloss (Military)</title></circle></a><a href="/variants/s13/n19o4t2n10o22k1g3k1o3w1t5o1k3~x2~n1900000-o2500000/"><circle cx="258.8" cy="117.3" r="4" fill="#3465a4"><title>Giants Causeway (District)</title></circle></a><a href="/variants/s16/n26db2n2db2n3db9n5lb2n2ly2n10db14k3r2k4db8~x2~n2002249-db1404245/"><circle cx="270.3" cy="127.3" r="4" fill="#3465a4"><title>Frogaletto (Personal)</title></circle></a><circle cx="307.1" cy="139.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/t10r4t44lr8k8t4lr4t4lr50t8g6t5y4db6~t2405244-lr2800000/"><circle cx="236.2" cy="114.7" r="4" fill="#3465a4"><title>RAF Kinloss (Military)</title></circle></a><a href="/variants/s13/n19o4t2n10o22k1g3k1o3w1t5o1k3~x2~n1900000-o2500000/"><circle cx="258.7" cy="117.3" r="4" fill="#3465a4"><title>Giants Causeway (District)</title></circle></a><a href="/variants/s16/n26db2n2db2n3db9n5lb2n2ly2n10db14k3r2k4db8~x2~n2002249-db1404245/"><circle cx="270.2" cy="127.4" r="4" fill="#3465a4"><title>Frogaletto (Personal)</title></circle></a><circle cx="307.1" cy="139.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/ti33k5t3g2ti5t24y4t24ti5g2t3k5ti33r2~x2~ti2603227/

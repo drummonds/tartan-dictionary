@@ -10,6 +10,8 @@ crumbs:
   url: "/families/graham-of-menteith/"
 - name: "Graham of Menteith"
   url: "/tartans/graham-of-menteith-2/"
+- name: "Graham of Menteith (Red)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r36lb3r5k21db24k3/)
 (the same proportion at any scale), whose colour order is pattern [KBKRWR](/stripes/kbkrwr/).
@@ -18,7 +20,7 @@ Part of the [Graham of Menteith](/tartans/graham-of-menteith-2/) tartan — the 
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1483
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1483](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1483)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r26lb3r4k16db16k4~x2/"><circle cx="181.0" cy="194.7" r="4" fill="#3465a4"><title>Graham of Menteith, (Red)</title></circle></a><a href="/variants/s6/k3r11db3w1db3w1~x4/"><circle cx="226.4" cy="167.1" r="4" fill="#3465a4"><title>Suntan (Masai Shuka) (District?)</title></circle></a><a href="/variants/s8/k4o8m30k8o6k8o12w3~x2/"><circle cx="165.1" cy="170.9" r="4" fill="#3465a4"><title>Believe - Corinna</title></circle></a><a href="/variants/s7/dp32g16r14k4r6dp7k2~x2/"><circle cx="247.9" cy="168.2" r="4" fill="#3465a4"><title>Aisteach</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.3" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s7/k23r27db3r5w3k14y6~x2/"><circle cx="178.5" cy="165.0" r="4" fill="#3465a4"><title>Hoffman Texas German</title></circle></a><a href="/variants/s7/y3db22k3db3k11r20y3~x2/"><circle cx="162.8" cy="191.8" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2/"><circle cx="208.5" cy="158.0" r="4" fill="#3465a4"><title>MacNaughton (Clan)</title></circle></a><a href="/variants/s6/db4r30k6db13k13db3~x2/"><circle cx="217.4" cy="198.7" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish (Bonner)</title></circle></a><a href="/variants/s10/r7k3r4k5r25k7y2db22k3db4~x2/"><circle cx="206.0" cy="144.2" r="4" fill="#3465a4"><title>St. George's (Edinburgh) (School)</title></circle></a><circle cx="207.3" cy="176.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r26lb3r4k16db16k4~x2/"><circle cx="181.0" cy="195.3" r="4" fill="#3465a4"><title>Graham of Menteith, (Red)</title></circle></a><a href="/variants/s6/k3r11db3w1db3w1~x4/"><circle cx="226.4" cy="167.6" r="4" fill="#3465a4"><title>Suntan (Masai Shuka) (District?)</title></circle></a><a href="/variants/s8/k4o8m30k8o6k8o12w3~x2/"><circle cx="165.2" cy="171.4" r="4" fill="#3465a4"><title>Believe - Corinna</title></circle></a><a href="/variants/s7/dp32g16r14k4r6dp7k2~x2/"><circle cx="247.9" cy="168.6" r="4" fill="#3465a4"><title>Aisteach</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.9" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s7/k23r27db3r5w3k14y6~x2/"><circle cx="178.5" cy="165.5" r="4" fill="#3465a4"><title>Hoffman Texas German</title></circle></a><a href="/variants/s7/y3db22k3db3k11r20y3~x2/"><circle cx="162.9" cy="192.3" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2/"><circle cx="208.5" cy="158.4" r="4" fill="#3465a4"><title>MacNaughton (Clan)</title></circle></a><a href="/variants/s6/db4r30k6db13k13db3~x2/"><circle cx="217.5" cy="199.3" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish (Bonner)</title></circle></a><a href="/variants/s10/r7k3r4k5r25k7y2db22k3db4~x2/"><circle cx="206.0" cy="144.6" r="4" fill="#3465a4"><title>St. George's (Edinburgh) (School)</title></circle></a><circle cx="207.3" cy="176.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r36lb3r5k21db24k3~x2~db1406275/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "78th Highlanders (Fraser) (Mil.)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg26o2dg2o2g19o28g3o28g19dg22o2dg2/)
 (the same proportion at any scale), whose colour order is pattern [GRGGRGRGRGRG](/stripes/grggrgrgrgrg/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6389
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6389](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6389)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1~x4/"><circle cx="331.5" cy="241.5" r="4" fill="#3465a4"><title>Tyneside Scottish (Green)</title></circle></a><a href="/variants/s12/dt32g3dt3g3dt3g26y26g3y26g26dt24g3~x2/"><circle cx="313.5" cy="251.4" r="4" fill="#3465a4"><title>MacIver Family (Personal)</title></circle></a><a href="/variants/s9/dg1r1g22dy21dg12r11g22r1dg1~x2/"><circle cx="304.9" cy="183.4" r="4" fill="#3465a4"><title>MacNaughton Htg</title></circle></a><a href="/variants/s7/dy10r5dy62dg40dy5g44r10/"><circle cx="309.5" cy="228.1" r="4" fill="#3465a4"><title>Ballintrae Trade Tartan</title></circle></a><a href="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1405139-g2104115/"><circle cx="301.3" cy="264.2" r="4" fill="#3465a4"><title>Glen Esk (Fashion)</title></circle></a><a href="/variants/s10/o5do5o5do5o5g24do1db12g6do3~x2/"><circle cx="275.7" cy="178.1" r="4" fill="#3465a4"><title>Royal Scottish Agricultural Benevolent Institution</title></circle></a><a href="/variants/s7/dy5r3dy31dg20dy3g22r5~x2/"><circle cx="301.2" cy="235.8" r="4" fill="#3465a4"><title>Ballantrae (Dalgety)</title></circle></a><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2~g2205128-dg1303152/"><circle cx="298.8" cy="221.5" r="4" fill="#3465a4"><title>Crantock</title></circle></a><a href="/variants/s13/g8dr1g1dr1g1dr6r8dr1r8dr6g7dr1g1~x2~r1908029/"><circle cx="259.1" cy="224.5" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s13/g8dr1g1dr1g1dr6r8dr1r8dr6g7dr1g1~r1908029/"><circle cx="259.1" cy="224.5" r="4" fill="#3465a4"><title>MacNab</title></circle></a><circle cx="310.8" cy="214.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dy11y1dy1y1dy1y8g8y1g8y8dy8y1dy1~x4/"><circle cx="331.7" cy="241.8" r="4" fill="#3465a4"><title>Tyneside Scottish (Green)</title></circle></a><a href="/variants/s12/dt32g3dt3g3dt3g26y26g3y26g26dt24g3~x2/"><circle cx="313.6" cy="251.7" r="4" fill="#3465a4"><title>MacIver Family (Personal)</title></circle></a><a href="/variants/s9/dg1r1g22dy21dg12r11g22r1dg1~x2/"><circle cx="304.9" cy="183.7" r="4" fill="#3465a4"><title>MacNaughton Htg</title></circle></a><a href="/variants/s7/dy10r5dy62dg40dy5g44r10/"><circle cx="309.6" cy="228.4" r="4" fill="#3465a4"><title>Ballintrae Trade Tartan</title></circle></a><a href="/variants/s7/dg2r1dg8r5g5r1g2~x4~dg1405139-g2104115/"><circle cx="301.5" cy="264.7" r="4" fill="#3465a4"><title>Glen Esk (Fashion)</title></circle></a><a href="/variants/s10/o5do5o5do5o5g24do1db12g6do3~x2/"><circle cx="275.7" cy="178.3" r="4" fill="#3465a4"><title>Royal Scottish Agricultural Benevolent Institution</title></circle></a><a href="/variants/s7/dy5r3dy31dg20dy3g22r5~x2/"><circle cx="301.3" cy="236.1" r="4" fill="#3465a4"><title>Ballantrae (Dalgety)</title></circle></a><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2~g2205128-dg1303152/"><circle cx="298.9" cy="221.9" r="4" fill="#3465a4"><title>Crantock</title></circle></a><a href="/variants/s13/g8dr1g1dr1g1dr6r8dr1r8dr6g7dr1g1~x2~r1908029/"><circle cx="259.2" cy="225.0" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s13/g8dr1g1dr1g1dr6r8dr1r8dr6g7dr1g1~r1908029/"><circle cx="259.2" cy="225.0" r="4" fill="#3465a4"><title>MacNab</title></circle></a><circle cx="310.9" cy="214.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dg26o2dg2o2g19o28g3o28g19dg22o2dg2~x2/

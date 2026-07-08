@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Balmoral"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n2r1n8b2k2n1b1n1b4n2k1n1r1/)
 (the same proportion at any scale), whose colour order is pattern [BRBBKBBBBBKBR](/stripes/brbbkbbbbbkbr/).
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k2g2b10g2b7g2b7g2b5g2r14b1g2~x2/"><circle cx="267.0" cy="161.0" r="4" fill="#3465a4"><title>Glen Affric, Fragment</title></circle></a><a href="/variants/s11/b8k5b8dg27b13dg3b13o27b8o3b3~x2/"><circle cx="229.1" cy="197.7" r="4" fill="#3465a4"><title>McCall/MacCall</title></circle></a><a href="/variants/s13/b9r5b47dg13k11b5dg5b5dg21b11k5b5r5/"><circle cx="268.0" cy="159.4" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s13/n2r1n8lp2k2n1lp1n1lp4n2k1n1r1~x2/"><circle cx="251.6" cy="166.1" r="4" fill="#3465a4"><title>Balmoral Royal Tartan</title></circle></a><a href="/variants/s13/n2r1n8o2k2n1o1n1o4n2k1n1r1~x4/"><circle cx="296.2" cy="180.2" r="4" fill="#3465a4"><title>Balmoral (Lavender) (Royal)</title></circle></a><a href="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/"><circle cx="278.6" cy="144.0" r="4" fill="#3465a4"><title>Balmoral, Gillies</title></circle></a><a href="/variants/s14/lb4o4k4o18k3n36w3n36k3o18k4o4lb4o3~x2~o2500000-n1900000/"><circle cx="255.2" cy="131.3" r="4" fill="#3465a4"><title>Hebridean Granite</title></circle></a><a href="/variants/s13/db16g4k4n22db5n22k3r5g4n4g4r4k4~x2/"><circle cx="190.9" cy="167.6" r="4" fill="#3465a4"><title>Gayre, hunting</title></circle></a><a href="/variants/s9/n22b9k4n14dr2n11k2n2k2~x2/"><circle cx="362.1" cy="165.0" r="4" fill="#3465a4"><title>Greyhound Grenadiers Pipe Band</title></circle></a><a href="/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12~n1900000-o2500000/"><circle cx="247.3" cy="147.2" r="4" fill="#3465a4"><title>CBS (Corporate)</title></circle></a><circle cx="288.7" cy="181.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k2g2b10g2b7g2b7g2b5g2r14b1g2~x2/"><circle cx="267.0" cy="161.3" r="4" fill="#3465a4"><title>Glen Affric, Fragment</title></circle></a><a href="/variants/s11/b8k5b8dg27b13dg3b13o27b8o3b3~x2/"><circle cx="229.1" cy="198.1" r="4" fill="#3465a4"><title>McCall/MacCall</title></circle></a><a href="/variants/s13/b9r5b47dg13k11b5dg5b5dg21b11k5b5r5/"><circle cx="268.0" cy="159.8" r="4" fill="#3465a4"><title>Balmoral</title></circle></a><a href="/variants/s13/n2r1n8lp2k2n1lp1n1lp4n2k1n1r1~x2/"><circle cx="251.6" cy="166.5" r="4" fill="#3465a4"><title>Balmoral Royal Tartan</title></circle></a><a href="/variants/s13/n2r1n8o2k2n1o1n1o4n2k1n1r1~x4/"><circle cx="296.2" cy="180.5" r="4" fill="#3465a4"><title>Balmoral (Lavender) (Royal)</title></circle></a><a href="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/"><circle cx="278.6" cy="144.3" r="4" fill="#3465a4"><title>Balmoral, Gillies</title></circle></a><a href="/variants/s14/lb4o4k4o18k3n36w3n36k3o18k4o4lb4o3~x2~o2500000-n1900000/"><circle cx="255.2" cy="131.5" r="4" fill="#3465a4"><title>Hebridean Granite</title></circle></a><a href="/variants/s13/db16g4k4n22db5n22k3r5g4n4g4r4k4~x2/"><circle cx="190.9" cy="167.9" r="4" fill="#3465a4"><title>Gayre, hunting</title></circle></a><a href="/variants/s9/n22b9k4n14dr2n11k2n2k2~x2/"><circle cx="362.1" cy="165.3" r="4" fill="#3465a4"><title>Greyhound Grenadiers Pipe Band</title></circle></a><a href="/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12~n1900000-o2500000/"><circle cx="247.2" cy="147.5" r="4" fill="#3465a4"><title>CBS (Corporate)</title></circle></a><circle cx="288.8" cy="182.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/n2r1n8b2k2n1b1n1b4n2k1n1r1~x2/

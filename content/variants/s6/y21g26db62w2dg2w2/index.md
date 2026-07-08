@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nynashamn Whisky Society (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y21g26db62w2dg2w2/)
 (the same proportion at any scale), whose colour order is pattern [GGBWGW](/stripes/ggbwgw/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7641
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7641](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7641)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db62ly4dy10do3g21~x2/"><circle cx="402.6" cy="184.3" r="4" fill="#3465a4"><title>McGovern (2016)</title></circle></a><a href="/variants/s7/dr1g4ly1g3dr4db15w1~x4/"><circle cx="303.4" cy="176.2" r="4" fill="#3465a4"><title>Bressuire (District)</title></circle></a><a href="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="314.6" cy="156.3" r="4" fill="#3465a4"><title>Kruenaegel and Schropp</title></circle></a><a href="/variants/s5/r2w7db30g36y2~x2/"><circle cx="259.6" cy="179.2" r="4" fill="#3465a4"><title>Centennial-King George Lodge No.171</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="342.4" cy="140.7" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><a href="/variants/s6/w15dg98db72dr25db8ly15/"><circle cx="245.8" cy="210.6" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s6/lb52y2n24dr3dy26n4~x2/"><circle cx="300.3" cy="172.8" r="4" fill="#3465a4"><title>Outlander #1</title></circle></a><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><circle cx="358.9" cy="179.1" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><a href="/variants/s7/db50g25ly3lb8r1w1r1~x2/"><circle cx="333.8" cy="88.9" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/variants/s7/db50g25y3n8r1w1r1~x2/"><circle cx="363.0" cy="98.3" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><circle cx="344.3" cy="155.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db62ly4dy10do3g21~x2/"><circle cx="402.6" cy="184.6" r="4" fill="#3465a4"><title>McGovern (2016)</title></circle></a><a href="/variants/s7/dr1g4ly1g3dr4db15w1~x4/"><circle cx="303.4" cy="176.5" r="4" fill="#3465a4"><title>Bressuire (District)</title></circle></a><a href="/variants/s8/db20dr1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="314.6" cy="156.5" r="4" fill="#3465a4"><title>Kruenaegel and Schropp</title></circle></a><a href="/variants/s5/r2w7db30g36y2~x2/"><circle cx="259.7" cy="179.6" r="4" fill="#3465a4"><title>Centennial-King George Lodge No.171</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="342.4" cy="140.7" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><a href="/variants/s6/w15dg98db72dr25db8ly15/"><circle cx="245.9" cy="211.0" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s6/lb52y2n24dr3dy26n4~x2/"><circle cx="300.3" cy="173.1" r="4" fill="#3465a4"><title>Outlander #1</title></circle></a><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><circle cx="358.9" cy="179.4" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><a href="/variants/s7/db50g25ly3lb8r1w1r1~x2/"><circle cx="333.6" cy="89.0" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/variants/s7/db50g25y3n8r1w1r1~x2/"><circle cx="362.8" cy="98.3" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><circle cx="344.3" cy="156.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/y21g26db62w2dg2w2/

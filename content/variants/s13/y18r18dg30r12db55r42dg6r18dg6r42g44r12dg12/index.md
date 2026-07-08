@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Plaid #4"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y18r18dg30r12db55r42dg6r18dg6r42g44r12dg12/)
 (the same proportion at any scale), whose colour order is pattern [GRGRBRGRGRGRG](/stripes/grgrbrgrgrgrg/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4351
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4351](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4351)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/ly3dr2ly9dr1ly3dr3dp3dr10ly2dr10dp3dr3do6dr2do6dp2r2~x2/"><circle cx="188.6" cy="172.1" r="4" fill="#3465a4"><title>Thom, Calum (Personal)</title></circle></a><a href="/variants/s14/n3dg19r2dg2r2db10r17dg2r2dg2r3lb2r3lb3~x2/"><circle cx="208.5" cy="147.7" r="4" fill="#3465a4"><title>Manx Heritage</title></circle></a><a href="/variants/s8/db8y1g12r10ly2r6ly2r4~x4/"><circle cx="209.6" cy="194.7" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/variants/s10/dg30lo3dg4lo3dg30r30y4db8y4r30~x2/"><circle cx="245.1" cy="178.1" r="4" fill="#3465a4"><title>Hutcheson</title></circle></a><a href="/variants/s10/r6w1r6db2r6g12y1db8lb4r4~x2/"><circle cx="173.5" cy="172.8" r="4" fill="#3465a4"><title>Unidentified No 57</title></circle></a><a href="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/"><circle cx="211.1" cy="175.8" r="4" fill="#3465a4"><title>MacKinnon #3</title></circle></a><a href="/variants/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4/"><circle cx="217.3" cy="208.5" r="4" fill="#3465a4"><title>Grant of Ballindalloch (Personal)</title></circle></a><a href="/variants/s11/r3o18g10o2db10o2db10o2g10o18w3~x2/"><circle cx="227.2" cy="195.3" r="4" fill="#3465a4"><title>Fraser hunting</title></circle></a><a href="/variants/s9/ly3do2r14ly8do14dg16r13do2ly3~x2/"><circle cx="166.9" cy="203.7" r="4" fill="#3465a4"><title>Monaghan, County</title></circle></a><a href="/variants/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/"><circle cx="235.4" cy="189.5" r="4" fill="#3465a4"><title>Hunter (USA)</title></circle></a><circle cx="196.5" cy="189.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/ly3dr2ly9dr1ly3dr3dp3dr10ly2dr10dp3dr3do6dr2do6dp2r2~x2/"><circle cx="188.6" cy="172.5" r="4" fill="#3465a4"><title>Thom, Calum (Personal)</title></circle></a><a href="/variants/s14/n3dg19r2dg2r2db10r17dg2r2dg2r3lb2r3lb3~x2/"><circle cx="208.5" cy="148.0" r="4" fill="#3465a4"><title>Manx Heritage</title></circle></a><a href="/variants/s8/db8y1g12r10ly2r6ly2r4~x4/"><circle cx="209.6" cy="195.2" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/variants/s10/dg30lo3dg4lo3dg30r30y4db8y4r30~x2/"><circle cx="245.2" cy="178.5" r="4" fill="#3465a4"><title>Hutcheson</title></circle></a><a href="/variants/s10/r6w1r6db2r6g12y1db8lb4r4~x2/"><circle cx="173.6" cy="173.2" r="4" fill="#3465a4"><title>Unidentified No 57</title></circle></a><a href="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/"><circle cx="211.2" cy="176.3" r="4" fill="#3465a4"><title>MacKinnon #3</title></circle></a><a href="/variants/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4/"><circle cx="217.4" cy="209.0" r="4" fill="#3465a4"><title>Grant of Ballindalloch (Personal)</title></circle></a><a href="/variants/s11/r3o18g10o2db10o2db10o2g10o18w3~x2/"><circle cx="227.2" cy="195.7" r="4" fill="#3465a4"><title>Fraser hunting</title></circle></a><a href="/variants/s9/ly3do2r14ly8do14dg16r13do2ly3~x2/"><circle cx="166.9" cy="204.2" r="4" fill="#3465a4"><title>Monaghan, County</title></circle></a><a href="/variants/s11/dg6r2dg14r14db2r14w2dg14db2dg4ly3~x2/"><circle cx="235.5" cy="190.0" r="4" fill="#3465a4"><title>Hunter (USA)</title></circle></a><circle cx="196.6" cy="190.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/y18r18dg30r12db55r42dg6r18dg6r42g44r12dg12/

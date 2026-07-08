@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ochterlonie"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db35lr8db21lr13db6ly4/)
 (the same proportion at any scale), whose colour order is pattern [BYBYBY](/stripes/bybyby/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4825
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4825](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4825)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/"><circle cx="320.8" cy="180.5" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s7/db12lb1dr3lb1dr3lb1db6~x4/"><circle cx="468.2" cy="237.1" r="4" fill="#3465a4"><title>BC Corps of Commissionaires</title></circle></a><a href="/variants/s7/db12lb1r3lb1r3lb1db6~x4/"><circle cx="403.4" cy="200.9" r="4" fill="#3465a4"><title>BC Corps of Commissionaires, The</title></circle></a><a href="/variants/s6/db40w8db25w14db8y4~x2/"><circle cx="421.7" cy="235.9" r="4" fill="#3465a4"><title>Auchterlonie (Personal)</title></circle></a><a href="/variants/s6/dr3lb10dr3lb4dr20w1~x4/"><circle cx="441.9" cy="210.0" r="4" fill="#3465a4"><title>Monica</title></circle></a><a href="/variants/s7/db36lo5db8lb3db8lb10db3~x2/"><circle cx="491.5" cy="219.2" r="4" fill="#3465a4"><title>Scottish Qualifications Auth. (Corp)</title></circle></a><a href="/variants/s6/b30w7b18w11b6y3~x2/"><circle cx="448.5" cy="252.8" r="4" fill="#3465a4"><title>Ochterlonie</title></circle></a><a href="/variants/s5/dr1db9ly2db9ly1~x4/"><circle cx="541.3" cy="258.0" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Blue (Fashion</title></circle></a><a href="/variants/s6/db3lb3db16lb16db16w3~x2/"><circle cx="359.3" cy="288.6" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/variants/s6/db24lb6db10lb6db32dy3~x2/"><circle cx="529.5" cy="241.9" r="4" fill="#3465a4"><title>Sultan of Qaboo's Air Force</title></circle></a><circle cx="437.4" cy="258.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/"><circle cx="320.8" cy="181.0" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s7/db12lb1dr3lb1dr3lb1db6~x4/"><circle cx="468.3" cy="237.5" r="4" fill="#3465a4"><title>BC Corps of Commissionaires</title></circle></a><a href="/variants/s7/db12lb1r3lb1r3lb1db6~x4/"><circle cx="403.5" cy="201.4" r="4" fill="#3465a4"><title>BC Corps of Commissionaires, The</title></circle></a><a href="/variants/s6/db40w8db25w14db8y4~x2/"><circle cx="421.8" cy="236.5" r="4" fill="#3465a4"><title>Auchterlonie (Personal)</title></circle></a><a href="/variants/s6/dr3lb10dr3lb4dr20w1~x4/"><circle cx="442.0" cy="210.5" r="4" fill="#3465a4"><title>Monica</title></circle></a><a href="/variants/s7/db36lo5db8lb3db8lb10db3~x2/"><circle cx="491.6" cy="219.7" r="4" fill="#3465a4"><title>Scottish Qualifications Auth. (Corp)</title></circle></a><a href="/variants/s6/b30w7b18w11b6y3~x2/"><circle cx="448.7" cy="253.4" r="4" fill="#3465a4"><title>Ochterlonie</title></circle></a><a href="/variants/s5/dr1db9ly2db9ly1~x4/"><circle cx="541.5" cy="258.6" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Blue (Fashion</title></circle></a><a href="/variants/s6/db3lb3db16lb16db16w3~x2/"><circle cx="359.5" cy="289.4" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/variants/s6/db24lb6db10lb6db32dy3~x2/"><circle cx="529.6" cy="242.4" r="4" fill="#3465a4"><title>Sultan of Qaboo's Air Force</title></circle></a><circle cx="437.6" cy="259.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db35lr8db21lr13db6ly4~x2/

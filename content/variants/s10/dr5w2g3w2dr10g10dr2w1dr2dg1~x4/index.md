@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glenfinnan (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr5w2g3w2dr10g10dr2w1dr2dg1/)
 (the same proportion at any scale), whose colour order is pattern [BWGWBGBWBG](/stripes/bwgwbgbwbg/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3848
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3848](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3848)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg20dr8lr2dr8dg5ly8dg2ly8~x2/"><circle cx="237.4" cy="229.7" r="4" fill="#3465a4"><title>Unidentified #57</title></circle></a><a href="/variants/s10/dy22t2dy3y4dy3t2dy12t4w19dy3~x2/"><circle cx="297.6" cy="181.2" r="4" fill="#3465a4"><title>Burns Battalion (Fashion)</title></circle></a><a href="/variants/s8/do24g2do5ly14g2ly5dy17do2~x2/"><circle cx="264.0" cy="209.6" r="4" fill="#3465a4"><title>Loch Rannoch Trade Tartan</title></circle></a><a href="/variants/s10/w1dr1g1dr11lb6dr1g14dr1g1w1~x4/"><circle cx="269.4" cy="170.9" r="4" fill="#3465a4"><title>Glen Tilt #2</title></circle></a><a href="/variants/s10/db28dr26w2db5w2dr26g28dr5w2dr5~x2/"><circle cx="293.2" cy="194.5" r="4" fill="#3465a4"><title>Glenfinnan (Clan?)</title></circle></a><a href="/variants/s10/ly4dr21ly1dr21g8db4g5db4g4ly4~db1204274/"><circle cx="337.2" cy="174.7" r="4" fill="#3465a4"><title>Rice (Welsh Name)</title></circle></a><a href="/variants/s6/w2dr12g6dr1n6dr1~x4/"><circle cx="305.7" cy="225.2" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/variants/s9/do22ly11dg2ly4dg2ly6dg16do42lr6~x2/"><circle cx="354.4" cy="171.5" r="4" fill="#3465a4"><title>Kenmore (Fashion)</title></circle></a><a href="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9dy2~x4/"><circle cx="280.4" cy="211.2" r="4" fill="#3465a4"><title>Redwood Dress</title></circle></a><a href="/variants/s6/b2w2y7dg14b2w2~x2/"><circle cx="252.8" cy="232.4" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><circle cx="272.5" cy="202.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg20dr8lr2dr8dg5ly8dg2ly8~x2/"><circle cx="237.5" cy="230.3" r="4" fill="#3465a4"><title>Unidentified #57</title></circle></a><a href="/variants/s10/dy22t2dy3y4dy3t2dy12t4w19dy3~x2/"><circle cx="297.7" cy="181.7" r="4" fill="#3465a4"><title>Burns Battalion (Fashion)</title></circle></a><a href="/variants/s8/do24g2do5ly14g2ly5dy17do2~x2/"><circle cx="264.0" cy="210.1" r="4" fill="#3465a4"><title>Loch Rannoch Trade Tartan</title></circle></a><a href="/variants/s10/w1dr1g1dr11lb6dr1g14dr1g1w1~x4/"><circle cx="269.5" cy="171.3" r="4" fill="#3465a4"><title>Glen Tilt #2</title></circle></a><a href="/variants/s10/db28dr26w2db5w2dr26g28dr5w2dr5~x2/"><circle cx="293.3" cy="194.9" r="4" fill="#3465a4"><title>Glenfinnan (Clan?)</title></circle></a><a href="/variants/s10/ly4dr21ly1dr21g8db4g5db4g4ly4~db1204274/"><circle cx="337.2" cy="175.1" r="4" fill="#3465a4"><title>Rice (Welsh Name)</title></circle></a><a href="/variants/s6/w2dr12g6dr1n6dr1~x4/"><circle cx="305.8" cy="225.7" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/variants/s9/do22ly11dg2ly4dg2ly6dg16do42lr6~x2/"><circle cx="354.4" cy="171.9" r="4" fill="#3465a4"><title>Kenmore (Fashion)</title></circle></a><a href="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9dy2~x4/"><circle cx="280.5" cy="211.6" r="4" fill="#3465a4"><title>Redwood Dress</title></circle></a><a href="/variants/s6/b2w2y7dg14b2w2~x2/"><circle cx="253.0" cy="232.9" r="4" fill="#3465a4"><title>Cairngorm</title></circle></a><circle cx="272.6" cy="202.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dr5w2g3w2dr10g10dr2w1dr2dg1~x4/

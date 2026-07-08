@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Springbank"
   url: "/tartans/springbank/"
+- name: "Springbank"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k14n2k2n5k25w1n9b3k3w1k14/)
 (the same proportion at any scale), whose colour order is pattern [KBKBKWBBKWK](/stripes/kbkbkwbbkwk/).
@@ -14,7 +16,7 @@ Part of the [Springbank](/tartans/springbank/) tartan — the named design group
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11289
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11289](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11289)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k14n2k2n5k25w1n9o3k3w1k14~x2/"><circle cx="390.3" cy="108.0" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/variants/s11/k14n2k2n5k25ly1n9lp3k3w1k14~x2/"><circle cx="369.4" cy="93.3" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/variants/s11/db6k20r3t2k20ly2k25ly1r2ly1t6~x2/"><circle cx="373.2" cy="91.6" r="4" fill="#3465a4"><title>Martinez (2014)</title></circle></a><a href="/variants/s12/k5r2k30lb8w1k9w2k9w1lb8k30r3~x2/"><circle cx="402.9" cy="86.8" r="4" fill="#3465a4"><title>Glasgow Caledonian University Corporate Tartan</title></circle></a><a href="/variants/s10/k49o8k4n6oi4n6k4o8k49oi2~n1900000-oi2500000/"><circle cx="425.7" cy="99.2" r="4" fill="#3465a4"><title>Harley Davidson</title></circle></a><a href="/variants/s12/k45o9k12r1k1g12k1r1k12o9k45g9~x2~o2404317/"><circle cx="410.8" cy="75.6" r="4" fill="#3465a4"><title>O'Boyle</title></circle></a><a href="/variants/s12/k10n5k2n5k10w1k26w1n4w1k5w1~x2/"><circle cx="422.8" cy="110.9" r="4" fill="#3465a4"><title>Clergy #3</title></circle></a><a href="/variants/s11/k10n2oi2n2k14n2k2lp1n12k24o2~x2~n1900000-oi2500000/"><circle cx="351.7" cy="96.5" r="4" fill="#3465a4"><title>Pride of Scotland Platinum</title></circle></a><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="392.5" cy="128.3" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/variants/s17/k5r2k30lb8w1k9w2k9w1lb8k30r3k30lb8w1k9w2~x2/"><circle cx="396.6" cy="74.4" r="4" fill="#3465a4"><title>Glasgow Caledonian University</title></circle></a><circle cx="389.9" cy="108.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k14n2k2n5k25w1n9o3k3w1k14~x2/"><circle cx="390.2" cy="108.3" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/variants/s11/k14n2k2n5k25ly1n9lp3k3w1k14~x2/"><circle cx="369.3" cy="93.5" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/variants/s11/db6k20r3t2k20ly2k25ly1r2ly1t6~x2/"><circle cx="373.0" cy="91.8" r="4" fill="#3465a4"><title>Martinez (2014)</title></circle></a><a href="/variants/s12/k5r2k30lb8w1k9w2k9w1lb8k30r3~x2/"><circle cx="402.7" cy="87.0" r="4" fill="#3465a4"><title>Glasgow Caledonian University Corporate Tartan</title></circle></a><a href="/variants/s10/k49o8k4n6oi4n6k4o8k49oi2~n1900000-oi2500000/"><circle cx="425.6" cy="99.4" r="4" fill="#3465a4"><title>Harley Davidson</title></circle></a><a href="/variants/s12/k45o9k12r1k1g12k1r1k12o9k45g9~x2~o2404317/"><circle cx="410.6" cy="75.7" r="4" fill="#3465a4"><title>O'Boyle</title></circle></a><a href="/variants/s12/k10n5k2n5k10w1k26w1n4w1k5w1~x2/"><circle cx="422.7" cy="111.2" r="4" fill="#3465a4"><title>Clergy #3</title></circle></a><a href="/variants/s11/k10n2oi2n2k14n2k2lp1n12k24o2~x2~n1900000-oi2500000/"><circle cx="351.6" cy="96.6" r="4" fill="#3465a4"><title>Pride of Scotland Platinum</title></circle></a><a href="/variants/s10/k22n17k2n4k2n2k37n4k2r3~x2/"><circle cx="392.4" cy="128.6" r="4" fill="#3465a4"><title>Witches' Blood, The</title></circle></a><a href="/variants/s17/k5r2k30lb8w1k9w2k9w1lb8k30r3k30lb8w1k9w2~x2/"><circle cx="396.5" cy="74.6" r="4" fill="#3465a4"><title>Glasgow Caledonian University</title></circle></a><circle cx="389.8" cy="108.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k14n2k2n5k25w1n9b3k3w1k14~x2/

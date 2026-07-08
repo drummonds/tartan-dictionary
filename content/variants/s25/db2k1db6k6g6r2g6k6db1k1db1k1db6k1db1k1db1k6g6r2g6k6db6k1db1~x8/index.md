@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Murray"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2k1db6k6g6r2g6k6db1k1db1k1db6k1db1k1db1k6g6r2g6k6db6k1db1/)
 (the same proportion at any scale), whose colour order is pattern [BKBKGRGKBKBKBKBKBKGRGKBKB](/stripes/bkbkgrgkbkbkbkbkbkgrgkbkb/).
 
 Sourced from logan-1831.  It is a [25 stripe tartan](/stripes/stripes25/).
 
-Original link /posts/logans-scottish-gael/
+Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 
 ## Provenance
 
@@ -23,7 +25,7 @@ James Logan recorded the **Murray** sett in 1831, on page 407 of the *Table of C
 
 > 1 blue · 1 black · 6 blue · 6 black · 6 green · 2 red · 6 green · 6 black · 1 blue · 1 black · 1 blue · 1 black · 6 blue · 1 black · 1 blue · 1 black · 1 blue · 6 black · 6 green · 2 red · 6 green · 6 black · 6 blue · 1 black · 2 blue
 
-In threads (at 8 to the eighth-inch) that is `B/8 K8 B48 K48 G48 R16 G48 K48 B8 K8 B8 K8 B48 K8 B8 K8 B8 K48 G48 R16 G48 K48 B48 K8 B/16`. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+Rendered at 8 threads to the eighth-inch that is `B/8 K8 B48 K48 G48 R16 G48 K48 B8 K8 B8 K8 B48 K8 B8 K8 B8 K48 G48 R16 G48 K48 B48 K8 B/16` — the eighths are the captured data, and the threadcount is derived from them at that stated factor. How many threads an eighth of cloth held depends on the weave's density, so the factor is a display calibration, not Logan's count; the sett's identity lives in the proportions, which the eighths record directly. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
 
 See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table and method.
 
@@ -43,6 +45,7 @@ Later records of the **Murray** name adjusted Logan's counts: [Murray](/setts/s6
 <ol class="capture-chain">
 <li>James Logan, The Scottish Gaël (first edition) <small>1831</small> · Public domain<br><small>the printed Table of Clan Tartans, vol. II pp. 401-408, plus the Duke of Sussex plate</small></li>
 <li><a href="https://archive.org/details/scotishgalorcel02logagoog">Internet Archive scan</a><br><small>the digitised first edition the transcription was made from, cross-checked against the OCR</small></li>
+<li><a href="/posts/logans-scottish-gael/">Tartan Dictionary transcription — Logan's Scottish Gaël</a> <small>2026-06</small> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><br><small>by-eye transcription of the Table of Clan Tartans and the Duke of Sussex plate — depths in eighths of an inch, rendered at 8 threads per eighth (a display calibration anchored by the Register's Abercrombie ×8 stripe-for-stripe match); method and match report in the linked post</small></li>
 <li>this dictionary<br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
 </details>
@@ -69,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/k2g8k7db8dp2db8k7g2k2g2k2g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/"><circle cx="94.8" cy="189.7" r="4" fill="#3465a4"><title>Lochinvar Marine Harvest (Corporate)</title></circle></a><a href="/variants/s24/k1t8k8g8w2g8k8t1k1t1k1t8k1t1k1t1k8g8y2g8k8t8k1t1~x2~w4000000/"><circle cx="94.6" cy="141.9" r="4" fill="#3465a4"><title>Campbell of Argyll (no guards)</title></circle></a><a href="/variants/s28/k1g6k6db1k1db1k1db7k1db1k1db1k6g6k1r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/"><circle cx="112.2" cy="133.7" r="4" fill="#3465a4"><title>MacEwen (Clans Originaux)</title></circle></a><a href="/variants/s32/k2db14k14g14ly2g2ly4g2ly2g14k14db2k2db2k2db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2~db1406275/"><circle cx="97.8" cy="136.8" r="4" fill="#3465a4"><title>Gordon of Esselmont</title></circle></a><a href="/variants/s11/g8k1g8k8r1db8w1db8r1k8r1~x4/"><circle cx="87.4" cy="151.7" r="4" fill="#3465a4"><title>Hunter of Peebleshire</title></circle></a><a href="/variants/s25/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5~x4/"><circle cx="88.3" cy="195.4" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s21/g2r2g12k4db11r2db11k4db2k9db2k9db2k4db11y2db11k4g12r2g2~x2/"><circle cx="116.4" cy="165.4" r="4" fill="#3465a4"><title>Allen, Christopher Holler</title></circle></a><a href="/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1~x2/"><circle cx="109.4" cy="200.3" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1/"><circle cx="109.4" cy="200.3" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/variants/s11/k16db2lb2db4g16lb2k15db6lb2k3lb4~x2/"><circle cx="134.9" cy="151.2" r="4" fill="#3465a4"><title>Wilson's No.157</title></circle></a><circle cx="104.1" cy="170.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/k2g8k7db8dp2db8k7g2k2g2k2g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/"><circle cx="94.8" cy="190.2" r="4" fill="#3465a4"><title>Lochinvar Marine Harvest (Corporate)</title></circle></a><a href="/variants/s24/k1t8k8g8w2g8k8t1k1t1k1t8k1t1k1t1k8g8y2g8k8t8k1t1~x2~w4000000/"><circle cx="94.6" cy="142.3" r="4" fill="#3465a4"><title>Campbell of Argyll (no guards)</title></circle></a><a href="/variants/s28/k1g6k6db1k1db1k1db7k1db1k1db1k6g6k1r1k1g6k6db6k1db1k1db6k6g6k1ly1~x4/"><circle cx="112.1" cy="133.9" r="4" fill="#3465a4"><title>MacEwen (Clans Originaux)</title></circle></a><a href="/variants/s32/k2db14k14g14ly2g2ly4g2ly2g14k14db2k2db2k2db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2~db1406275/"><circle cx="97.7" cy="137.1" r="4" fill="#3465a4"><title>Gordon of Esselmont</title></circle></a><a href="/variants/s11/g8k1g8k8r1db8w1db8r1k8r1~x4/"><circle cx="87.3" cy="152.1" r="4" fill="#3465a4"><title>Hunter of Peebleshire</title></circle></a><a href="/variants/s25/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5~x4/"><circle cx="88.3" cy="195.9" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s21/g2r2g12k4db11r2db11k4db2k9db2k9db2k4db11y2db11k4g12r2g2~x2/"><circle cx="116.4" cy="165.7" r="4" fill="#3465a4"><title>Allen, Christopher Holler</title></circle></a><a href="/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1~x2/"><circle cx="109.4" cy="200.8" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1/"><circle cx="109.4" cy="200.8" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/variants/s11/k16db2lb2db4g16lb2k15db6lb2k3lb4~x2/"><circle cx="134.8" cy="151.6" r="4" fill="#3465a4"><title>Wilson's No.157</title></circle></a><circle cx="104.1" cy="171.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s25/db2k1db6k6g6r2g6k6db1k1db1k1db6k1db1k1db1k6g6r2g6k6db6k1db1~x8/

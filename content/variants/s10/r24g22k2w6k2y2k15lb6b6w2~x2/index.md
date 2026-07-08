@@ -10,6 +10,8 @@ crumbs:
   url: "/families/bruce-of-kinnaird/"
 - name: "Bruce of Kinnaird"
   url: "/tartans/bruce-of-kinnaird/"
+- name: "Bruce of Kinnaird"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r24g22k2w6k2y2k15lb6b6w2/)
 (the same proportion at any scale), whose colour order is pattern [RGKWKGKWBW](/stripes/rgkwkgkwbw/).
@@ -18,7 +20,7 @@ Part of the [Bruce of Kinnaird](/tartans/bruce-of-kinnaird/) tartan — the name
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r24g22k2w6k2y2k15lb6ri6w2~x2~r2109032-ri2406019/"><circle cx="41.6" cy="115.5" r="4" fill="#3465a4"><title>Bruce of Kinnaird Clan Tartan</title></circle></a><a href="/variants/s10/r24g22k2w6k2ly2k15y6ri6w2~x2~r2109032-ri2806019/"><circle cx="43.1" cy="116.3" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><a href="/variants/s9/k2lb6k1db7g13w1k11r14y2~x2/"><circle cx="26.5" cy="126.4" r="4" fill="#3465a4"><title>Teall of Teallach (Personal)</title></circle></a><a href="/variants/s12/db20lb6k8y2k4w4k4g13r7k4r3w2~x2/"><circle cx="14.0" cy="127.0" r="4" fill="#3465a4"><title>Stuart/Stewart Black #3</title></circle></a><a href="/variants/s13/w2r12k1lb2k1y3k1y3k1lb2k1g12lb2~x2/"><circle cx="80.8" cy="110.4" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><a href="/variants/s10/db4k1w2k3y1n12o1k12o12r4~x2/"><circle cx="63.2" cy="119.1" r="4" fill="#3465a4"><title>Campbell, hunting</title></circle></a><a href="/variants/s9/y3k2lb3r14g19k3w3dp10lb3~x2/"><circle cx="60.6" cy="137.8" r="4" fill="#3465a4"><title>Wilson's, No 110</title></circle></a><a href="/variants/s8/k3r18w2g21b2dp7lb5w2~x2/"><circle cx="97.1" cy="132.1" r="4" fill="#3465a4"><title>Wilson's, No 132</title></circle></a><a href="/variants/s13/w3r3k3r6dg6k2w3k2lo3k6db2do20lo3~x2/"><circle cx="45.1" cy="105.0" r="4" fill="#3465a4"><title>Cree (Fashion)</title></circle></a><a href="/variants/s8/db8lb1dbi1lb1r12y6k12w2~x4~db1404245-dbi1406275/"><circle cx="52.0" cy="129.8" r="4" fill="#3465a4"><title>Maryland</title></circle></a><circle cx="39.7" cy="115.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r24g22k2w6k2y2k15lb6ri6w2~x2~r2109032-ri2406019/"><circle cx="41.5" cy="115.8" r="4" fill="#3465a4"><title>Bruce of Kinnaird Clan Tartan</title></circle></a><a href="/variants/s10/r24g22k2w6k2ly2k15y6ri6w2~x2~r2109032-ri2806019/"><circle cx="43.1" cy="116.6" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><a href="/variants/s9/k2lb6k1db7g13w1k11r14y2~x2/"><circle cx="26.4" cy="126.7" r="4" fill="#3465a4"><title>Teall of Teallach (Personal)</title></circle></a><a href="/variants/s12/db20lb6k8y2k4w4k4g13r7k4r3w2~x2/"><circle cx="14.0" cy="127.3" r="4" fill="#3465a4"><title>Stuart/Stewart Black #3</title></circle></a><a href="/variants/s13/w2r12k1lb2k1y3k1y3k1lb2k1g12lb2~x2/"><circle cx="80.7" cy="110.6" r="4" fill="#3465a4"><title>Buchanan #3</title></circle></a><a href="/variants/s10/db4k1w2k3y1n12o1k12o12r4~x2/"><circle cx="63.1" cy="119.3" r="4" fill="#3465a4"><title>Campbell, hunting</title></circle></a><a href="/variants/s9/y3k2lb3r14g19k3w3dp10lb3~x2/"><circle cx="60.5" cy="138.2" r="4" fill="#3465a4"><title>Wilson's, No 110</title></circle></a><a href="/variants/s8/k3r18w2g21b2dp7lb5w2~x2/"><circle cx="97.0" cy="132.4" r="4" fill="#3465a4"><title>Wilson's, No 132</title></circle></a><a href="/variants/s13/w3r3k3r6dg6k2w3k2lo3k6db2do20lo3~x2/"><circle cx="45.0" cy="105.2" r="4" fill="#3465a4"><title>Cree (Fashion)</title></circle></a><a href="/variants/s8/db8lb1dbi1lb1r12y6k12w2~x4~db1404245-dbi1406275/"><circle cx="52.0" cy="130.1" r="4" fill="#3465a4"><title>Maryland</title></circle></a><circle cx="39.6" cy="116.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r24g22k2w6k2y2k15lb6b6w2~x2/

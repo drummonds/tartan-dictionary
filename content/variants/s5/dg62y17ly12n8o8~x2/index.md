@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dundhuin Hunting (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg62y17ly12n8o8/)
 (the same proportion at any scale), whose colour order is pattern [GGYBR](/stripes/ggybr/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10230
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10230](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10230)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.7" cy="192.1" r="4" fill="#3465a4"><title>Clare, Richard (Personal)</title></circle></a><a href="/variants/s4/r1g8dy8w1~x2/"><circle cx="271.9" cy="251.8" r="4" fill="#3465a4"><title>MacKinnon Hunting #2</title></circle></a><a href="/variants/s5/db5lo5dy13y41r3~x2~lo3006076-y2505139/"><circle cx="359.1" cy="189.2" r="4" fill="#3465a4"><title>Clare (Prince George) (Personal)</title></circle></a><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="224.9" cy="225.0" r="4" fill="#3465a4"><title>ChuMac (Personal)</title></circle></a><a href="/variants/s5/r17db7y8dg58k6~x2/"><circle cx="318.9" cy="183.0" r="4" fill="#3465a4"><title>St Johns County's Sheriff's Office</title></circle></a><a href="/variants/s4/dp4g10r1w1~x2~r2109032/"><circle cx="349.5" cy="223.6" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/variants/s4/dp4g10w1r1~x2/"><circle cx="351.6" cy="225.2" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/variants/s5/r17db7ly8g58k6~x2/"><circle cx="283.1" cy="178.3" r="4" fill="#3465a4"><title>St Johns County Sheriff Office (Cor)</title></circle></a><a href="/variants/s4/g30y3db8r25~x2/"><circle cx="272.9" cy="249.2" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/variants/s4/dp4g10r1y1~x2/"><circle cx="377.3" cy="232.5" r="4" fill="#3465a4"><title>Wilson's, No 192</title></circle></a><circle cx="317.6" cy="218.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.7" cy="192.4" r="4" fill="#3465a4"><title>Clare, Richard (Personal)</title></circle></a><a href="/variants/s4/r1g8dy8w1~x2/"><circle cx="272.1" cy="252.4" r="4" fill="#3465a4"><title>MacKinnon Hunting #2</title></circle></a><a href="/variants/s5/db5lo5dy13y41r3~x2~lo3006076-y2505139/"><circle cx="359.1" cy="189.6" r="4" fill="#3465a4"><title>Clare (Prince George) (Personal)</title></circle></a><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="225.1" cy="225.5" r="4" fill="#3465a4"><title>ChuMac (Personal)</title></circle></a><a href="/variants/s5/r17db7y8dg58k6~x2/"><circle cx="319.0" cy="183.4" r="4" fill="#3465a4"><title>St Johns County's Sheriff's Office</title></circle></a><a href="/variants/s4/dp4g10r1w1~x2~r2109032/"><circle cx="349.6" cy="224.2" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/variants/s4/dp4g10w1r1~x2/"><circle cx="351.7" cy="225.8" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/variants/s5/r17db7ly8g58k6~x2/"><circle cx="283.2" cy="178.8" r="4" fill="#3465a4"><title>St Johns County Sheriff Office (Cor)</title></circle></a><a href="/variants/s4/g30y3db8r25~x2/"><circle cx="273.1" cy="249.8" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/variants/s4/dp4g10r1y1~x2/"><circle cx="377.4" cy="233.0" r="4" fill="#3465a4"><title>Wilson's, No 192</title></circle></a><circle cx="317.7" cy="218.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dg62y17ly12n8o8~x2/

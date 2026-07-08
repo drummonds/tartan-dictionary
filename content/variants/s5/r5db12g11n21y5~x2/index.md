@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Inspiration"
   url: "/tartans/inspiration/"
+- name: "Inspiration"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5db12g11n21y5/)
 (the same proportion at any scale), whose colour order is pattern [GBGBR](/stripes/gbgbr/).
@@ -14,7 +16,7 @@ Part of the [Inspiration](/tartans/inspiration/) tartan — the named design gro
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10893
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10893](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10893)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy5n21ly11db12r5~x2/"><circle cx="147.7" cy="273.9" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="133.3" cy="262.1" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/variants/s6/r4t19g10n10dy15y2~x2/"><circle cx="187.4" cy="249.1" r="4" fill="#3465a4"><title>Isle of Rona (District)</title></circle></a><a href="/variants/s6/dr7db20dr4k18g20dp5~x2~db1406275-k0700000/"><circle cx="110.8" cy="256.7" r="4" fill="#3465a4"><title>Williamson (Personal)</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="226.5" cy="284.3" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/variants/s4/dg35g25r15lb23~x2~dg1804173-g2003114/"><circle cx="155.2" cy="366.0" r="4" fill="#3465a4"><title>Dunans Rising</title></circle></a><a href="/variants/s5/db2dp3g3n6y2~x2/"><circle cx="208.1" cy="338.7" r="4" fill="#3465a4"><title>Dunoon Burgh Hall Trust</title></circle></a><a href="/variants/s6/r10dbi6g24db24r6y3~dbi1406275-db1004274/"><circle cx="163.1" cy="226.3" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><a href="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/"><circle cx="296.6" cy="291.2" r="4" fill="#3465a4"><title>Porcelanosa</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="107.4" cy="274.3" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><circle cx="201.7" cy="295.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy5n21ly11db12r5~x2/"><circle cx="147.9" cy="274.5" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="133.4" cy="262.7" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/variants/s6/r4t19g10n10dy15y2~x2/"><circle cx="187.5" cy="249.4" r="4" fill="#3465a4"><title>Isle of Rona (District)</title></circle></a><a href="/variants/s6/dr7db20dr4k18g20dp5~x2~db1406275-k0700000/"><circle cx="110.9" cy="257.2" r="4" fill="#3465a4"><title>Williamson (Personal)</title></circle></a><a href="/variants/s4/db3g6y1r3~x10/"><circle cx="226.7" cy="285.0" r="4" fill="#3465a4"><title>Delroeux, John Michael (Personal)</title></circle></a><a href="/variants/s4/dg35g25r15lb23~x2~dg1804173-g2003114/"><circle cx="155.5" cy="366.0" r="4" fill="#3465a4"><title>Dunans Rising</title></circle></a><a href="/variants/s5/db2dp3g3n6y2~x2/"><circle cx="208.4" cy="339.3" r="4" fill="#3465a4"><title>Dunoon Burgh Hall Trust</title></circle></a><a href="/variants/s6/r10dbi6g24db24r6y3~dbi1406275-db1004274/"><circle cx="163.2" cy="226.8" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><a href="/variants/s4/lb24o9n23y3~x2~o2500000-n1900000/"><circle cx="296.9" cy="291.8" r="4" fill="#3465a4"><title>Porcelanosa</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="107.6" cy="275.0" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><circle cx="201.9" cy="296.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r5db12g11n21y5~x2/

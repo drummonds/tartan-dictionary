@@ -10,6 +10,8 @@ crumbs:
   url: "/families/macrae-of-conchra/"
 - name: "MacRae of Conchra"
   url: "/tartans/macrae-of-conchra/"
+- name: "MacRae of Conchra"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1w8b8y1/)
 (the same proportion at any scale), whose colour order is pattern [GBWR](/stripes/gbwr/).
@@ -18,7 +20,7 @@ Part of the [MacRae of Conchra](/tartans/macrae-of-conchra/) tartan — the name
 
 Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r7w36db36y7~x2/"><circle cx="182.2" cy="258.4" r="4" fill="#3465a4"><title>MacRae of Conchra #3</title></circle></a><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="255.6" cy="238.0" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s4/r21db61dy8w21~x2/"><circle cx="255.6" cy="237.8" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s6/g4w28dp8y2db17g4~x2/"><circle cx="207.3" cy="188.3" r="4" fill="#3465a4"><title>Manx, dress</title></circle></a><a href="/variants/s6/g4w28dp8dy2db17g4~x2/"><circle cx="206.6" cy="188.0" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/variants/s5/y15r9lb30w3db4~x2/"><circle cx="260.4" cy="214.6" r="4" fill="#3465a4"><title>S.I.D.E. (Corporate)</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="221.3" cy="261.7" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s3/g13r2lb13~x2/"><circle cx="287.9" cy="282.2" r="4" fill="#3465a4"><title>Wilson's No.161</title></circle></a><a href="/variants/s4/db8g8w4r1~x5/"><circle cx="173.1" cy="266.1" r="4" fill="#3465a4"><title>Farooq in Livingston (Personal)</title></circle></a><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="297.7" cy="300.5" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><circle cx="253.4" cy="242.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r7w36db36y7~x2/"><circle cx="182.4" cy="259.3" r="4" fill="#3465a4"><title>MacRae of Conchra #3</title></circle></a><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="255.8" cy="238.7" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s4/r21db61dy8w21~x2/"><circle cx="255.7" cy="238.5" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s6/g4w28dp8y2db17g4~x2/"><circle cx="207.4" cy="188.8" r="4" fill="#3465a4"><title>Manx, dress</title></circle></a><a href="/variants/s6/g4w28dp8dy2db17g4~x2/"><circle cx="206.7" cy="188.5" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/variants/s5/y15r9lb30w3db4~x2/"><circle cx="260.5" cy="215.1" r="4" fill="#3465a4"><title>S.I.D.E. (Corporate)</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="221.5" cy="262.4" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s3/g13r2lb13~x2/"><circle cx="288.1" cy="282.9" r="4" fill="#3465a4"><title>Wilson's No.161</title></circle></a><a href="/variants/s4/db8g8w4r1~x5/"><circle cx="173.3" cy="266.9" r="4" fill="#3465a4"><title>Farooq in Livingston (Personal)</title></circle></a><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="297.9" cy="301.2" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><circle cx="253.6" cy="243.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/r1w8b8y1~x4/

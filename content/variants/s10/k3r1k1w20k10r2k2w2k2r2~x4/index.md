@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Buckleigh Dress (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3r1k1w20k10r2k2w2k2r2/)
 (the same proportion at any scale), whose colour order is pattern [KRKWKRKWKR](/stripes/krkwkrkwkr/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3761
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3761](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3761)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w30n5k6n2k2w2k13n5k2n2w2~x2/"><circle cx="233.0" cy="131.9" r="4" fill="#3465a4"><title>Stewart Grey Dress Tartan</title></circle></a><a href="/variants/s11/y3k2y2k2y2k28lb32y2lb3y2lb3~x2/"><circle cx="249.6" cy="117.1" r="4" fill="#3465a4"><title>General Choi</title></circle></a><a href="/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/"><circle cx="258.1" cy="108.9" r="4" fill="#3465a4"><title>Menzies Black Dress</title></circle></a><a href="/variants/s9/k2n2w4n6w27n15k42n2w2/"><circle cx="226.7" cy="133.0" r="4" fill="#3465a4"><title>Swansea City AFC</title></circle></a><a href="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/"><circle cx="279.1" cy="142.5" r="4" fill="#3465a4"><title>MacKnight (Name)</title></circle></a><a href="/variants/s7/k4o4w35o1k36o4k2~x2/"><circle cx="275.0" cy="111.8" r="4" fill="#3465a4"><title>Gleneagles</title></circle></a><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><circle cx="256.0" cy="140.8" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/variants/s7/k4y4w35y1k36y4k2~x2/"><circle cx="274.9" cy="112.9" r="4" fill="#3465a4"><title>Gleneagles, Hotel</title></circle></a><a href="/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/"><circle cx="181.3" cy="122.4" r="4" fill="#3465a4"><title>Scott, (MacRae)</title></circle></a><a href="/variants/s12/dr8w1k3dr3k10w3k5w25k3dr3k12w3~x2/"><circle cx="213.9" cy="127.0" r="4" fill="#3465a4"><title>Buildbase</title></circle></a><circle cx="254.8" cy="116.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w30n5k6n2k2w2k13n5k2n2w2~x2/"><circle cx="233.0" cy="132.4" r="4" fill="#3465a4"><title>Stewart Grey Dress Tartan</title></circle></a><a href="/variants/s11/y3k2y2k2y2k28lb32y2lb3y2lb3~x2/"><circle cx="249.6" cy="117.4" r="4" fill="#3465a4"><title>General Choi</title></circle></a><a href="/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/"><circle cx="258.0" cy="109.2" r="4" fill="#3465a4"><title>Menzies Black Dress</title></circle></a><a href="/variants/s9/k2n2w4n6w27n15k42n2w2/"><circle cx="226.6" cy="133.4" r="4" fill="#3465a4"><title>Swansea City AFC</title></circle></a><a href="/variants/s9/k12lb1k2lb6k4lb3k4lb21r4~x2/"><circle cx="279.1" cy="142.9" r="4" fill="#3465a4"><title>MacKnight (Name)</title></circle></a><a href="/variants/s7/k4o4w35o1k36o4k2~x2/"><circle cx="274.9" cy="112.2" r="4" fill="#3465a4"><title>Gleneagles</title></circle></a><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><circle cx="256.0" cy="141.3" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/variants/s7/k4y4w35y1k36y4k2~x2/"><circle cx="274.9" cy="113.2" r="4" fill="#3465a4"><title>Gleneagles, Hotel</title></circle></a><a href="/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/"><circle cx="181.3" cy="122.8" r="4" fill="#3465a4"><title>Scott, (MacRae)</title></circle></a><a href="/variants/s12/dr8w1k3dr3k10w3k5w25k3dr3k12w3~x2/"><circle cx="213.9" cy="127.4" r="4" fill="#3465a4"><title>Buildbase</title></circle></a><circle cx="254.8" cy="116.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k3r1k1w20k10r2k2w2k2r2~x4/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Gillies Dress"
   url: "/tartans/gillies-dress/"
+- name: "Gillies Dress, Green (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y6k2g12r4g8k10w24t2w3t2/)
 (the same proportion at any scale), whose colour order is pattern [BWBWKGRGKG](/stripes/bwbwkgrgkg/).
@@ -14,7 +16,7 @@ Part of the [Gillies Dress](/tartans/gillies-dress/) tartan — the named design
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=638
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=638](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=638)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y6k2g15r6g8k12w25lb2w3lb2~x2/"><circle cx="77.3" cy="134.6" r="4" fill="#3465a4"><title>Gillies, dress Green</title></circle></a><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><circle cx="51.9" cy="156.1" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/variants/s8/db7w30k13g9r6g16k2y7~x2/"><circle cx="69.8" cy="149.4" r="4" fill="#3465a4"><title>MacLaren dress</title></circle></a><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><circle cx="99.0" cy="151.3" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/variants/s11/w4lb5lo3lb22dy4k3g16lo7k2lo7dy2~x2/"><circle cx="104.9" cy="141.9" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><a href="/variants/s8/db2w12k8g8r2g8k1y2~x2/"><circle cx="83.6" cy="158.7" r="4" fill="#3465a4"><title>MacLaren Dress</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~lr2800000-lb3203246/"><circle cx="112.1" cy="153.6" r="4" fill="#3465a4"><title>Alexander of Menstry Htg (Personal)</title></circle></a><a href="/variants/s10/y4t25g3k3g3k3g13w24k2r3~x2/"><circle cx="83.1" cy="128.3" r="4" fill="#3465a4"><title>MacLeod Special Dress (Dance)</title></circle></a><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><circle cx="145.5" cy="127.9" r="4" fill="#3465a4"><title>Mission (District)</title></circle></a><a href="/variants/s8/db2w12k8g8r2g8k1lo2~x2/"><circle cx="83.2" cy="158.2" r="4" fill="#3465a4"><title>MacLaren Dress (Clan)</title></circle></a><circle cx="87.4" cy="134.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y6k2g15r6g8k12w25lb2w3lb2~x2/"><circle cx="77.3" cy="135.0" r="4" fill="#3465a4"><title>Gillies, dress Green</title></circle></a><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><circle cx="51.9" cy="156.6" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/variants/s8/db7w30k13g9r6g16k2y7~x2/"><circle cx="69.8" cy="149.9" r="4" fill="#3465a4"><title>MacLaren dress</title></circle></a><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><circle cx="99.0" cy="151.7" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/variants/s11/w4lb5lo3lb22dy4k3g16lo7k2lo7dy2~x2/"><circle cx="104.9" cy="142.3" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><a href="/variants/s8/db2w12k8g8r2g8k1y2~x2/"><circle cx="83.6" cy="159.2" r="4" fill="#3465a4"><title>MacLaren Dress</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~lr2800000-lb3203246/"><circle cx="112.1" cy="154.0" r="4" fill="#3465a4"><title>Alexander of Menstry Htg (Personal)</title></circle></a><a href="/variants/s10/y4t25g3k3g3k3g13w24k2r3~x2/"><circle cx="83.0" cy="128.7" r="4" fill="#3465a4"><title>MacLeod Special Dress (Dance)</title></circle></a><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><circle cx="145.5" cy="128.3" r="4" fill="#3465a4"><title>Mission (District)</title></circle></a><a href="/variants/s8/db2w12k8g8r2g8k1lo2~x2/"><circle cx="83.2" cy="158.7" r="4" fill="#3465a4"><title>MacLaren Dress (Clan)</title></circle></a><circle cx="87.4" cy="134.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/y6k2g12r4g8k10w24t2w3t2~x2/

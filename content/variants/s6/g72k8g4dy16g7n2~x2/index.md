@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacAndrew Hunting (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g72k8g4dy16g7n2/)
 (the same proportion at any scale), whose colour order is pattern [BGGGKG](/stripes/bgggkg/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7609
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7609](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7609)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g50k6b11g25ly4~x2/"><circle cx="454.4" cy="206.3" r="4" fill="#3465a4"><title>Glen of Daviot (Dalgleish)</title></circle></a><a href="/variants/s7/r2g24k2g12y6k1r2~x2/"><circle cx="454.7" cy="153.8" r="4" fill="#3465a4"><title>Inman (2016)</title></circle></a><a href="/variants/s6/g30db8g5lb4g5r1~x4/"><circle cx="500.2" cy="167.9" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="451.6" cy="184.4" r="4" fill="#3465a4"><title>Welsh Assembly (Fashion)</title></circle></a><a href="/variants/s7/r3g22db16g14r2g6y1~x2/"><circle cx="396.7" cy="189.3" r="4" fill="#3465a4"><title>Scottish Scouts</title></circle></a><a href="/variants/s8/g10ly3w2k2g8k22g43lo4~x2/"><circle cx="313.0" cy="117.6" r="4" fill="#3465a4"><title>Celtic Pride</title></circle></a><a href="/variants/s5/dr2k4g45k3y2~x2/"><circle cx="498.0" cy="136.9" r="4" fill="#3465a4"><title>Mar, Tribe of (Clan)</title></circle></a><a href="/variants/s5/r2k4g45k3y2/"><circle cx="494.1" cy="134.4" r="4" fill="#3465a4"><title>Mar, (Tribe of..)</title></circle></a><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="358.1" cy="129.9" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/variants/s5/r2k3g45k3y2/"><circle cx="513.0" cy="134.7" r="4" fill="#3465a4"><title>Mar Tribe</title></circle></a><circle cx="493.2" cy="129.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g50k6b11g25ly4~x2/"><circle cx="454.5" cy="206.8" r="4" fill="#3465a4"><title>Glen of Daviot (Dalgleish)</title></circle></a><a href="/variants/s7/r2g24k2g12y6k1r2~x2/"><circle cx="454.7" cy="154.1" r="4" fill="#3465a4"><title>Inman (2016)</title></circle></a><a href="/variants/s6/g30db8g5lb4g5r1~x4/"><circle cx="500.3" cy="168.2" r="4" fill="#3465a4"><title>Annapolis Valley</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="451.7" cy="184.8" r="4" fill="#3465a4"><title>Welsh Assembly (Fashion)</title></circle></a><a href="/variants/s7/r3g22db16g14r2g6y1~x2/"><circle cx="396.7" cy="189.7" r="4" fill="#3465a4"><title>Scottish Scouts</title></circle></a><a href="/variants/s8/g10ly3w2k2g8k22g43lo4~x2/"><circle cx="313.0" cy="118.0" r="4" fill="#3465a4"><title>Celtic Pride</title></circle></a><a href="/variants/s5/dr2k4g45k3y2~x2/"><circle cx="498.0" cy="137.3" r="4" fill="#3465a4"><title>Mar, Tribe of (Clan)</title></circle></a><a href="/variants/s5/r2k4g45k3y2/"><circle cx="494.1" cy="134.8" r="4" fill="#3465a4"><title>Mar, (Tribe of..)</title></circle></a><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="358.1" cy="130.2" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/variants/s5/r2k3g45k3y2/"><circle cx="512.9" cy="135.0" r="4" fill="#3465a4"><title>Mar Tribe</title></circle></a><circle cx="493.1" cy="129.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g72k8g4dy16g7n2~x2/

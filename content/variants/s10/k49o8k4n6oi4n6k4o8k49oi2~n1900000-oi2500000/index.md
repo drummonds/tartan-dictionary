@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harley Davidson"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k49o8k4n6oi4n6k4o8k49oi2/)
 (the same proportion at any scale), whose colour order is pattern [KRKBRBKRKR](/stripes/krkbrbkrkr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1599
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1599](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1599)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k70lo5k3n4dp4n4k3lo12/"><circle cx="408.7" cy="89.9" r="4" fill="#3465a4"><title>State University of New York College at Buffalo</title></circle></a><a href="/variants/s11/k14n2k2n5k25w1n9b3k3w1k14~x2/"><circle cx="389.9" cy="108.3" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/variants/s11/k14n2k2n5k25w1n9o3k3w1k14~x2/"><circle cx="390.3" cy="108.0" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="450.6" cy="111.7" r="4" fill="#3465a4"><title>Laird Abdullah (Personal)</title></circle></a><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/"><circle cx="439.1" cy="76.2" r="4" fill="#3465a4"><title>Racing Stewart, Stealth (Corporate)</title></circle></a><a href="/variants/s8/k62r3k3lo3k3r3k9n5~x2/"><circle cx="518.8" cy="91.5" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/variants/s8/k21r1k1y1k1r1k3w3~x6/"><circle cx="460.5" cy="87.1" r="4" fill="#3465a4"><title>Black Country (District)</title></circle></a><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="454.7" cy="88.0" r="4" fill="#3465a4"><title>Racing Stewart (Stealth)</title></circle></a><a href="/variants/s11/k68n11k16n4k4n4k4n19k14w4k14/"><circle cx="416.1" cy="123.9" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/variants/s12/k45o9k12r1k1g12k1r1k12o9k45g9~x2~o2404317/"><circle cx="410.8" cy="75.6" r="4" fill="#3465a4"><title>O'Boyle</title></circle></a><circle cx="425.7" cy="99.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k70lo5k3n4dp4n4k3lo12/"><circle cx="408.5" cy="90.1" r="4" fill="#3465a4"><title>State University of New York College at Buffalo</title></circle></a><a href="/variants/s11/k14n2k2n5k25w1n9b3k3w1k14~x2/"><circle cx="389.8" cy="108.5" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/variants/s11/k14n2k2n5k25w1n9o3k3w1k14~x2/"><circle cx="390.2" cy="108.3" r="4" fill="#3465a4"><title>Springbank</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="450.5" cy="111.9" r="4" fill="#3465a4"><title>Laird Abdullah (Personal)</title></circle></a><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/"><circle cx="438.9" cy="76.2" r="4" fill="#3465a4"><title>Racing Stewart, Stealth (Corporate)</title></circle></a><a href="/variants/s8/k62r3k3lo3k3r3k9n5~x2/"><circle cx="518.7" cy="91.7" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/variants/s8/k21r1k1y1k1r1k3w3~x6/"><circle cx="460.4" cy="87.4" r="4" fill="#3465a4"><title>Black Country (District)</title></circle></a><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="454.5" cy="88.1" r="4" fill="#3465a4"><title>Racing Stewart (Stealth)</title></circle></a><a href="/variants/s11/k68n11k16n4k4n4k4n19k14w4k14/"><circle cx="416.0" cy="124.2" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/variants/s12/k45o9k12r1k1g12k1r1k12o9k45g9~x2~o2404317/"><circle cx="410.6" cy="75.7" r="4" fill="#3465a4"><title>O'Boyle</title></circle></a><circle cx="425.6" cy="99.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k49o8k4n6oi4n6k4o8k49oi2~n1900000-oi2500000/

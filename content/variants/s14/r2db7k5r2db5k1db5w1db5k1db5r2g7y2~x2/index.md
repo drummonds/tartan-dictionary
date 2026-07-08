@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacLellan, McLellan hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2db7k5r2db5k1db5w1db5k1db5r2g7y2/)
 (the same proportion at any scale), whose colour order is pattern [GGRBKBWBKBRKBR](/stripes/ggrbkbwbkbrkbr/).
 
 Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/k2db7k5r2db5k2db5w1db5k1db5r2dg7y2~x4/"><circle cx="166.4" cy="177.9" r="4" fill="#3465a4"><title>MacLellan/McLellan Hunting (Personal)</title></circle></a><a href="/variants/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1dg7w1y2~x4/"><circle cx="110.5" cy="157.3" r="4" fill="#3465a4"><title>MacLellan/McLellan (Personal)</title></circle></a><a href="/variants/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1g7w1y2~x2/"><circle cx="103.0" cy="156.3" r="4" fill="#3465a4"><title>MacLellan, Blue McLellan</title></circle></a><a href="/variants/s12/db20g3dy3db3r7g6db3k12db3k3db24w3~x2/"><circle cx="226.2" cy="141.0" r="4" fill="#3465a4"><title>Bhoyrub Clan/Family Tartan</title></circle></a><a href="/variants/s11/db15k3db19w3db5y5r3y5lb3y5k3~x2/"><circle cx="197.7" cy="160.2" r="4" fill="#3465a4"><title>Gouranga</title></circle></a><a href="/variants/s7/db36r4db6g18db15k18w4~x2/"><circle cx="166.1" cy="177.0" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/variants/s10/db4g1db2g2n6g2k3r1db8w1~x2/"><circle cx="150.5" cy="169.5" r="4" fill="#3465a4"><title>EAIE 2015</title></circle></a><a href="/variants/s12/lb6db20lg5db5lg5db20dr14db4k18db30ly4db4/"><circle cx="226.1" cy="159.4" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/variants/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/"><circle cx="127.0" cy="181.0" r="4" fill="#3465a4"><title>Encyclopaedia Britannica</title></circle></a><a href="/variants/s9/w3db3r2db14k3g12k14db16y2~x2/"><circle cx="146.4" cy="166.3" r="4" fill="#3465a4"><title>Royal Navy Submarine Service</title></circle></a><circle cx="155.6" cy="168.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/k2db7k5r2db5k2db5w1db5k1db5r2dg7y2~x4/"><circle cx="166.4" cy="178.2" r="4" fill="#3465a4"><title>MacLellan/McLellan Hunting (Personal)</title></circle></a><a href="/variants/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1dg7w1y2~x4/"><circle cx="110.5" cy="157.6" r="4" fill="#3465a4"><title>MacLellan/McLellan (Personal)</title></circle></a><a href="/variants/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1g7w1y2~x2/"><circle cx="103.0" cy="156.7" r="4" fill="#3465a4"><title>MacLellan, Blue McLellan</title></circle></a><a href="/variants/s12/db20g3dy3db3r7g6db3k12db3k3db24w3~x2/"><circle cx="226.1" cy="141.3" r="4" fill="#3465a4"><title>Bhoyrub Clan/Family Tartan</title></circle></a><a href="/variants/s11/db15k3db19w3db5y5r3y5lb3y5k3~x2/"><circle cx="197.7" cy="160.6" r="4" fill="#3465a4"><title>Gouranga</title></circle></a><a href="/variants/s7/db36r4db6g18db15k18w4~x2/"><circle cx="166.1" cy="177.4" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/variants/s10/db4g1db2g2n6g2k3r1db8w1~x2/"><circle cx="150.5" cy="169.9" r="4" fill="#3465a4"><title>EAIE 2015</title></circle></a><a href="/variants/s12/lb6db20lg5db5lg5db20dr14db4k18db30ly4db4/"><circle cx="226.1" cy="159.7" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/variants/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/"><circle cx="127.0" cy="181.5" r="4" fill="#3465a4"><title>Encyclopaedia Britannica</title></circle></a><a href="/variants/s9/w3db3r2db14k3g12k14db16y2~x2/"><circle cx="146.4" cy="166.7" r="4" fill="#3465a4"><title>Royal Navy Submarine Service</title></circle></a><circle cx="155.5" cy="169.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7y2~x2/

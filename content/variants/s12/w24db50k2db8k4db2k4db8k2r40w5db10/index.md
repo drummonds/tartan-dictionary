@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Norwegian Centennial"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w24db50k2db8k4db2k4db8k2r40w5db10/)
 (the same proportion at any scale), whose colour order is pattern [BWRKBKBKBKBW](/stripes/bwrkbkbkbkbw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5412
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5412](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5412)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/b30k5r2k1r10w1r1w1k3w2~x4/"><circle cx="288.6" cy="80.3" r="4" fill="#3465a4"><title>Masai Shuka 11 (Artefact)</title></circle></a><a href="/variants/s10/dp17g1dp2k2dp2g1dp3k8w17g2~x4/"><circle cx="195.2" cy="126.2" r="4" fill="#3465a4"><title>Kyle, Grape (Dance)</title></circle></a><a href="/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/"><circle cx="203.3" cy="118.2" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. St Andrew</title></circle></a><a href="/variants/s9/r3db20k6w5k4w3k2r1db2~x2/"><circle cx="213.8" cy="124.0" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. International</title></circle></a><a href="/variants/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/"><circle cx="213.3" cy="101.7" r="4" fill="#3465a4"><title>Lesotho</title></circle></a><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2~db1406275/"><circle cx="218.2" cy="106.1" r="4" fill="#3465a4"><title>Scottish Knights Templar International</title></circle></a><a href="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/"><circle cx="166.8" cy="107.4" r="4" fill="#3465a4"><title>Hogmany Plaid</title></circle></a><a href="/variants/s9/k6db49g10k2g10k2lr26k2g2~x2/"><circle cx="224.4" cy="114.5" r="4" fill="#3465a4"><title>Madras 3 (Fashion)</title></circle></a><a href="/variants/s10/k9lb4k2lb4k2lb30k9lb4db14dy2~x2/"><circle cx="230.5" cy="135.8" r="4" fill="#3465a4"><title>Hannay Blue (Fashion?)</title></circle></a><a href="/variants/s8/b8r11b28r4k17o1k7r2~x2/"><circle cx="229.0" cy="132.2" r="4" fill="#3465a4"><title>Kilbranan Sound (Personal)</title></circle></a><circle cx="234.0" cy="98.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/b30k5r2k1r10w1r1w1k3w2~x4/"><circle cx="288.5" cy="80.5" r="4" fill="#3465a4"><title>Masai Shuka 11 (Artefact)</title></circle></a><a href="/variants/s10/dp17g1dp2k2dp2g1dp3k8w17g2~x4/"><circle cx="195.1" cy="126.6" r="4" fill="#3465a4"><title>Kyle, Grape (Dance)</title></circle></a><a href="/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/"><circle cx="203.2" cy="118.5" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. St Andrew</title></circle></a><a href="/variants/s9/r3db20k6w5k4w3k2r1db2~x2/"><circle cx="213.8" cy="124.3" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. International</title></circle></a><a href="/variants/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/"><circle cx="213.2" cy="102.0" r="4" fill="#3465a4"><title>Lesotho</title></circle></a><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2~db1406275/"><circle cx="218.1" cy="106.3" r="4" fill="#3465a4"><title>Scottish Knights Templar International</title></circle></a><a href="/variants/s13/r4w13k6w6k6w6k5w1k24b28r2b2r4~x2/"><circle cx="166.7" cy="107.6" r="4" fill="#3465a4"><title>Hogmany Plaid</title></circle></a><a href="/variants/s9/k6db49g10k2g10k2lr26k2g2~x2/"><circle cx="224.3" cy="114.8" r="4" fill="#3465a4"><title>Madras 3 (Fashion)</title></circle></a><a href="/variants/s10/k9lb4k2lb4k2lb30k9lb4db14dy2~x2/"><circle cx="230.5" cy="136.2" r="4" fill="#3465a4"><title>Hannay Blue (Fashion?)</title></circle></a><a href="/variants/s8/b8r11b28r4k17o1k7r2~x2/"><circle cx="228.9" cy="132.5" r="4" fill="#3465a4"><title>Kilbranan Sound (Personal)</title></circle></a><circle cx="233.9" cy="98.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/w24db50k2db8k4db2k4db8k2r40w5db10/

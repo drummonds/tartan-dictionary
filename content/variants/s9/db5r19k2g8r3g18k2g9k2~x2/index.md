@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hubbard (2016)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db5r19k2g8r3g18k2g9k2/)
 (the same proportion at any scale), whose colour order is pattern [BRKGRGKGK](/stripes/brkgrgkgk/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11576
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11576](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11576)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/"><circle cx="191.6" cy="177.5" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/variants/s8/g36k2g2k2g3k12lb10r20~x2/"><circle cx="216.5" cy="143.3" r="4" fill="#3465a4"><title>Georgia, State of</title></circle></a><a href="/variants/s9/db1o9g5o1k5o1g5o9w1~x2/"><circle cx="223.2" cy="175.7" r="4" fill="#3465a4"><title>Duchess of York</title></circle></a><a href="/variants/s10/do1lr2k5do3k1y4k1y10k1y1~x4/"><circle cx="225.4" cy="159.8" r="4" fill="#3465a4"><title>Braemar, Camel</title></circle></a><a href="/variants/s7/g12lb6g6r15k1r1k2~x4/"><circle cx="210.2" cy="173.7" r="4" fill="#3465a4"><title>McCook/Cook (Name)</title></circle></a><a href="/variants/s7/g12lb6g6r15k1r1k2~x2/"><circle cx="210.2" cy="173.7" r="4" fill="#3465a4"><title>(2) Cook</title></circle></a><a href="/variants/s7/dg12g6dg6r15k1r1k2~x2/"><circle cx="222.5" cy="174.9" r="4" fill="#3465a4"><title>Cook (Name)</title></circle></a><a href="/variants/s12/g10k1g10dr1g1k1g1k1dr10k1lo1k1~x4/"><circle cx="275.5" cy="145.7" r="4" fill="#3465a4"><title>Ulster Red (District)</title></circle></a><a href="/variants/s9/k4ly15dg5k3dg7k3dg30r20dg3~x2/"><circle cx="212.6" cy="168.0" r="4" fill="#3465a4"><title>MacKillen</title></circle></a><a href="/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/"><circle cx="267.2" cy="167.6" r="4" fill="#3465a4"><title>MacCall/McCall</title></circle></a><circle cx="233.5" cy="180.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/"><circle cx="191.6" cy="177.9" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/variants/s8/g36k2g2k2g3k12lb10r20~x2/"><circle cx="216.5" cy="143.7" r="4" fill="#3465a4"><title>Georgia, State of</title></circle></a><a href="/variants/s9/db1o9g5o1k5o1g5o9w1~x2/"><circle cx="223.2" cy="176.2" r="4" fill="#3465a4"><title>Duchess of York</title></circle></a><a href="/variants/s10/do1lr2k5do3k1y4k1y10k1y1~x4/"><circle cx="225.5" cy="160.3" r="4" fill="#3465a4"><title>Braemar, Camel</title></circle></a><a href="/variants/s7/g12lb6g6r15k1r1k2~x4/"><circle cx="210.3" cy="174.2" r="4" fill="#3465a4"><title>McCook/Cook (Name)</title></circle></a><a href="/variants/s7/g12lb6g6r15k1r1k2~x2/"><circle cx="210.3" cy="174.2" r="4" fill="#3465a4"><title>(2) Cook</title></circle></a><a href="/variants/s7/dg12g6dg6r15k1r1k2~x2/"><circle cx="222.5" cy="175.3" r="4" fill="#3465a4"><title>Cook (Name)</title></circle></a><a href="/variants/s12/g10k1g10dr1g1k1g1k1dr10k1lo1k1~x4/"><circle cx="275.5" cy="146.0" r="4" fill="#3465a4"><title>Ulster Red (District)</title></circle></a><a href="/variants/s9/k4ly15dg5k3dg7k3dg30r20dg3~x2/"><circle cx="212.6" cy="168.5" r="4" fill="#3465a4"><title>MacKillen</title></circle></a><a href="/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/"><circle cx="267.2" cy="168.1" r="4" fill="#3465a4"><title>MacCall/McCall</title></circle></a><circle cx="233.5" cy="180.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db5r19k2g8r3g18k2g9k2~x2/

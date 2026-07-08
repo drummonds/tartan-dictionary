@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Schmidt"
   url: "/tartans/schmidt/"
+- name: "Schmidt (2014)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3db20dbi8db4g20k2g2r2g3ly3/)
 (the same proportion at any scale), whose colour order is pattern [KBBBGKGRGY](/stripes/kbbbgkgrgy/).
@@ -14,7 +16,7 @@ Part of the [Schmidt](/tartans/schmidt/) tartan — the named design grouping th
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11046
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11046](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11046)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3db20dbi8db4g20k2g2r2g3y3~x2~db0705267-dbi1204274/"><circle cx="140.0" cy="142.5" r="4" fill="#3465a4"><title>Schmidt (2014)</title></circle></a><a href="/variants/s9/r2k1y2g3y4g3db12k1w2~x4/"><circle cx="130.4" cy="137.8" r="4" fill="#3465a4"><title>Federated Women's Institutes of</title></circle></a><a href="/variants/s11/dy4k2db25k2g4k2lb10k2g25k2r4~x2/"><circle cx="116.0" cy="116.1" r="4" fill="#3465a4"><title>Ayrton (1979) (Personal)</title></circle></a><a href="/variants/s11/r4k2g25k2lb10k2g4k2db25k2y4~x2/"><circle cx="115.8" cy="116.2" r="4" fill="#3465a4"><title>Ayrton (amended)</title></circle></a><a href="/variants/s7/r3g20k2n11k2db20lr2~x2/"><circle cx="133.8" cy="169.4" r="4" fill="#3465a4"><title>Grandfather Mountain Games American Corporate Tartan</title></circle></a><a href="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/"><circle cx="148.9" cy="136.1" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/variants/s9/k3ri3g21r8ri3r4k3db26w3~x2~ri2008029-r1707016/"><circle cx="110.0" cy="144.4" r="4" fill="#3465a4"><title>Dunedin</title></circle></a><a href="/variants/s11/lb6g13k12t3k3ly3t30k3n11ly3n5~x2/"><circle cx="98.2" cy="145.7" r="4" fill="#3465a4"><title>State Seal of Kentucky (Fashion)</title></circle></a><a href="/variants/s9/dbi4t3dbi6k2db12g2db2g24lb2~x2~dbi1406275-t2405244-db1004274-lb3203246/"><circle cx="201.6" cy="143.2" r="4" fill="#3465a4"><title>Halcrow Howell (Name)</title></circle></a><a href="/variants/s9/k3y3g22db6k17g6db22r3db3~x2/"><circle cx="129.8" cy="182.3" r="4" fill="#3465a4"><title>Maresh</title></circle></a><circle cx="146.3" cy="144.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3db20dbi8db4g20k2g2r2g3y3~x2~db0705267-dbi1204274/"><circle cx="140.0" cy="142.7" r="4" fill="#3465a4"><title>Schmidt (2014)</title></circle></a><a href="/variants/s9/r2k1y2g3y4g3db12k1w2~x4/"><circle cx="130.4" cy="138.0" r="4" fill="#3465a4"><title>Federated Women's Institutes of</title></circle></a><a href="/variants/s11/dy4k2db25k2g4k2lb10k2g25k2r4~x2/"><circle cx="115.9" cy="116.3" r="4" fill="#3465a4"><title>Ayrton (1979) (Personal)</title></circle></a><a href="/variants/s11/r4k2g25k2lb10k2g4k2db25k2y4~x2/"><circle cx="115.7" cy="116.4" r="4" fill="#3465a4"><title>Ayrton (amended)</title></circle></a><a href="/variants/s7/r3g20k2n11k2db20lr2~x2/"><circle cx="133.8" cy="169.8" r="4" fill="#3465a4"><title>Grandfather Mountain Games American Corporate Tartan</title></circle></a><a href="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/"><circle cx="148.9" cy="136.3" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/variants/s9/k3ri3g21r8ri3r4k3db26w3~x2~ri2008029-r1707016/"><circle cx="110.0" cy="144.7" r="4" fill="#3465a4"><title>Dunedin</title></circle></a><a href="/variants/s11/lb6g13k12t3k3ly3t30k3n11ly3n5~x2/"><circle cx="98.2" cy="146.0" r="4" fill="#3465a4"><title>State Seal of Kentucky (Fashion)</title></circle></a><a href="/variants/s9/dbi4t3dbi6k2db12g2db2g24lb2~x2~dbi1406275-t2405244-db1004274-lb3203246/"><circle cx="201.5" cy="143.4" r="4" fill="#3465a4"><title>Halcrow Howell (Name)</title></circle></a><a href="/variants/s9/k3y3g22db6k17g6db22r3db3~x2/"><circle cx="129.8" cy="182.7" r="4" fill="#3465a4"><title>Maresh</title></circle></a><circle cx="146.3" cy="144.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k3db20dbi8db4g20k2g2r2g3ly3~x2~db1204274-dbi1406275/

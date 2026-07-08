@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s6/r60db20r8g45r8db2~x2/">Caledonian</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/r60db20r8g45r8db2~x2/"><img src="/variants/s6/r60db20r8g45r8db2~x2/sett.png" alt="Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/r60dp20r8g45r8dp2/">Caledonian</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/r60dp20r8g45r8dp2/"><img src="/variants/s6/r60dp20r8g45r8dp2/sett.png" alt="Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/r60db20r8g45r8db2~x2/">Caledonian</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/r60db20r8g45r8db2~x2/"><img src="/variants/s6/r60db20r8g45r8db2~x2/sett.png" alt="Caledonian sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/db2r25g10r2db10r2~x2/">Grant of Lurg</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/db2r25g10r2db10r2~x2/"><img src="/variants/s6/db2r25g10r2db10r2~x2/sett.png" alt="Grant of Lurg sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/r80dp19r8g36r10dp2~x2/">Lovat or Fraser #2</a></td></tr>

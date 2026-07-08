@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Inspiration"
   url: "/tartans/inspiration/"
+- name: "Inspiration"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy5n21ly11db12r5/)
 (the same proportion at any scale), whose colour order is pattern [GBYBR](/stripes/gbybr/).
@@ -14,7 +16,7 @@ Part of the [Inspiration](/tartans/inspiration/) tartan — the named design gro
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10893
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10893](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10893)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="183.4" cy="220.6" r="4" fill="#3465a4"><title>Unidentified (Sock Tie)</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="201.7" cy="295.9" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/g15dg18dp23w4r8~x2/"><circle cx="125.3" cy="264.9" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="133.3" cy="262.1" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/variants/s6/r1db3dr1g3dr5lb1~x4/"><circle cx="184.1" cy="249.7" r="4" fill="#3465a4"><title>Lanark (Fashion #1)</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="195.1" cy="277.2" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="96.4" cy="230.7" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s6/dy19g23ly3db15r11w5~x2/"><circle cx="91.7" cy="229.6" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="107.4" cy="274.3" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/variants/s5/lb1dp3r1g3lb1~x4/"><circle cx="130.1" cy="296.2" r="4" fill="#3465a4"><title>Wilson's No.95</title></circle></a><circle cx="147.7" cy="273.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="183.5" cy="221.1" r="4" fill="#3465a4"><title>Unidentified (Sock Tie)</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="201.9" cy="296.5" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/g15dg18dp23w4r8~x2/"><circle cx="125.4" cy="265.6" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="133.4" cy="262.7" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/variants/s6/r1db3dr1g3dr5lb1~x4/"><circle cx="184.2" cy="250.3" r="4" fill="#3465a4"><title>Lanark (Fashion #1)</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="195.2" cy="278.0" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="96.5" cy="231.3" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s6/dy19g23ly3db15r11w5~x2/"><circle cx="91.8" cy="230.2" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="107.6" cy="275.0" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/variants/s5/lb1dp3r1g3lb1~x4/"><circle cx="130.3" cy="297.0" r="4" fill="#3465a4"><title>Wilson's No.95</title></circle></a><circle cx="147.9" cy="274.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dy5n21ly11db12r5~x2/

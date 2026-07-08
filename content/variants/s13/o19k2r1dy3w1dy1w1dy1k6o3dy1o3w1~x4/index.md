@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Leando (Coldingham) Hunting (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o19k2r1dy3w1dy1w1dy1k6o3dy1o3w1/)
 (the same proportion at any scale), whose colour order is pattern [RKRGWGWGKRGRW](/stripes/rkrgwgwgkrgrw/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10368
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10368](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10368)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/o6k2g2k4r3k2r3k4g2o24y2~x2/"><circle cx="254.0" cy="113.1" r="4" fill="#3465a4"><title>Finnegan</title></circle></a><a href="/variants/s15/r6k2r2k4r2k2r6g18r2y1r2k1r10w1r2~x4/"><circle cx="237.2" cy="93.0" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s11/o40k10n2k2lr2k3dr8o6k2o8lr2~x2/"><circle cx="241.3" cy="66.9" r="4" fill="#3465a4"><title>Islay</title></circle></a><a href="/variants/s14/r3dg2ly1dg18r1dg1r1dg6r24dg2r1k1r1w3~x2/"><circle cx="283.0" cy="69.5" r="4" fill="#3465a4"><title>Hay - 1842 (Clan)</title></circle></a><a href="/variants/s10/r6w1r24db6g2k1g2k1g12r1~x2/"><circle cx="300.0" cy="95.6" r="4" fill="#3465a4"><title>Chisholm #2</title></circle></a><a href="/variants/s10/r6w1r24db6g2k1g2k1g12r1/"><circle cx="300.0" cy="95.6" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/"><circle cx="253.1" cy="99.9" r="4" fill="#3465a4"><title>Motherwell F.C. Fir Park Dress (Spor</title></circle></a><a href="/variants/s10/w3o18k18y1r2t2r2y1o18t2~x2/"><circle cx="224.0" cy="95.1" r="4" fill="#3465a4"><title>Selkirk High (Corporate)</title></circle></a><a href="/variants/s16/w6k7dr2y2dr2y2dr2y2k7y2dr34y2dr2y2dr2y2~x2/"><circle cx="292.6" cy="83.6" r="4" fill="#3465a4"><title>DeWolfe</title></circle></a><a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4~ly2503076/"><circle cx="250.2" cy="61.1" r="4" fill="#3465a4"><title>U.S. Customs &amp; Border Protection</title></circle></a><circle cx="276.9" cy="77.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/o6k2g2k4r3k2r3k4g2o24y2~x2/"><circle cx="253.9" cy="113.4" r="4" fill="#3465a4"><title>Finnegan</title></circle></a><a href="/variants/s15/r6k2r2k4r2k2r6g18r2y1r2k1r10w1r2~x4/"><circle cx="237.2" cy="93.3" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s11/o40k10n2k2lr2k3dr8o6k2o8lr2~x2/"><circle cx="241.2" cy="67.0" r="4" fill="#3465a4"><title>Islay</title></circle></a><a href="/variants/s14/r3dg2ly1dg18r1dg1r1dg6r24dg2r1k1r1w3~x2/"><circle cx="282.9" cy="69.6" r="4" fill="#3465a4"><title>Hay - 1842 (Clan)</title></circle></a><a href="/variants/s10/r6w1r24db6g2k1g2k1g12r1~x2/"><circle cx="299.9" cy="95.8" r="4" fill="#3465a4"><title>Chisholm #2</title></circle></a><a href="/variants/s10/r6w1r24db6g2k1g2k1g12r1/"><circle cx="299.9" cy="95.8" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/"><circle cx="253.0" cy="100.2" r="4" fill="#3465a4"><title>Motherwell F.C. Fir Park Dress (Spor</title></circle></a><a href="/variants/s10/w3o18k18y1r2t2r2y1o18t2~x2/"><circle cx="223.9" cy="95.4" r="4" fill="#3465a4"><title>Selkirk High (Corporate)</title></circle></a><a href="/variants/s16/w6k7dr2y2dr2y2dr2y2k7y2dr34y2dr2y2dr2y2~x2/"><circle cx="292.5" cy="83.8" r="4" fill="#3465a4"><title>DeWolfe</title></circle></a><a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4~ly2503076/"><circle cx="250.1" cy="61.2" r="4" fill="#3465a4"><title>U.S. Customs &amp; Border Protection</title></circle></a><circle cx="276.8" cy="77.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/o19k2r1dy3w1dy1w1dy1k6o3dy1o3w1~x4/

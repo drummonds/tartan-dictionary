@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Leitrim Irish County Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lr3k2lri18lb3o13lb4dg3lb4k18lb3/)
 (the same proportion at any scale), whose colour order is pattern [WKWGWRWYKY](/stripes/wkwgwrwyky/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2271
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2271](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2271)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2~x2~lyi3202083-ly2804101/"><circle cx="27.1" cy="166.1" r="4" fill="#3465a4"><title>Merise and Lars (Personal)</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x4/"><circle cx="51.9" cy="157.9" r="4" fill="#3465a4"><title>Comyn/Cumming</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x2~r1908029-y1904072/"><circle cx="53.0" cy="158.9" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/variants/s10/r3g18r4lb3r4k13r3db18g2y3~x2/"><circle cx="60.4" cy="148.6" r="4" fill="#3465a4"><title>Stirling, and Bannockburn</title></circle></a><a href="/variants/s9/dr3w6y4k25w3n30o30w3k2~x2~n1900000-o2500000/"><circle cx="90.7" cy="124.5" r="4" fill="#3465a4"><title>Craparo</title></circle></a><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><circle cx="51.9" cy="156.1" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/"><circle cx="93.0" cy="131.9" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="53.8" cy="165.9" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s12/lb1dg8k1lb2k1y2k1lb2k1r8w1lb1~x4/"><circle cx="60.1" cy="128.6" r="4" fill="#3465a4"><title>MacWhirter</title></circle></a><a href="/variants/s9/w2db3r6k8g12lo1db4k2w2~x2/"><circle cx="52.2" cy="147.2" r="4" fill="#3465a4"><title>National (1934), The</title></circle></a><circle cx="58.9" cy="151.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2~x2~lyi3202083-ly2804101/"><circle cx="27.1" cy="166.5" r="4" fill="#3465a4"><title>Merise and Lars (Personal)</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x4/"><circle cx="51.9" cy="158.4" r="4" fill="#3465a4"><title>Comyn/Cumming</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10lb4k2lb4~x2~r1908029-y1904072/"><circle cx="53.0" cy="159.3" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><a href="/variants/s10/r3g18r4lb3r4k13r3db18g2y3~x2/"><circle cx="60.4" cy="148.9" r="4" fill="#3465a4"><title>Stirling, and Bannockburn</title></circle></a><a href="/variants/s9/dr3w6y4k25w3n30o30w3k2~x2~n1900000-o2500000/"><circle cx="90.6" cy="124.8" r="4" fill="#3465a4"><title>Craparo</title></circle></a><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><circle cx="51.9" cy="156.6" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/"><circle cx="92.9" cy="132.2" r="4" fill="#3465a4"><title>Crozier/Crosser</title></circle></a><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="53.8" cy="166.4" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s12/lb1dg8k1lb2k1y2k1lb2k1r8w1lb1~x4/"><circle cx="60.0" cy="129.0" r="4" fill="#3465a4"><title>MacWhirter</title></circle></a><a href="/variants/s9/w2db3r6k8g12lo1db4k2w2~x2/"><circle cx="52.2" cy="147.6" r="4" fill="#3465a4"><title>National (1934), The</title></circle></a><circle cx="58.9" cy="151.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/lr3k2lri18lb3o13lb4dg3lb4k18lb3~x2~lr2804043-lri2900000/

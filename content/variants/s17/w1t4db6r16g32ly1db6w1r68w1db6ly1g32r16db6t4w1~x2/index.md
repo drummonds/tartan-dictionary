@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Drummond"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1/)
 (the same proportion at any scale), whose colour order is pattern [WBBRGYBWRWBYGRBBW](/stripes/wbbrgybwrwbygrbbw/).
 
 Sourced from logan-1831.  It is a [17 stripe tartan](/stripes/stripes17/).
 
-Original link /posts/logans-scottish-gael/
+Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 
 ## Provenance
 
@@ -23,7 +25,7 @@ James Logan recorded the **Drummond** sett in 1831, on page 403 of the *Table of
 
 > ¼ white · 1 azure · 1½ blue · 4 red · 8 green · ¼ yellow · 1½ blue · ¼ white · 17 red · ¼ white · 1½ blue · ¼ yellow · 8 green · 4 red · 1½ blue · 1 azure · ¼ white
 
-In threads (at 8 to the eighth-inch) that is `W/2 A8 B12 R32 G64 Y2 B12 W2 R136 W2 B12 Y2 G64 R32 B12 A8 W/2`. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+Rendered at 8 threads to the eighth-inch that is `W/2 A8 B12 R32 G64 Y2 B12 W2 R136 W2 B12 Y2 G64 R32 B12 A8 W/2` — the eighths are the captured data, and the threadcount is derived from them at that stated factor. How many threads an eighth of cloth held depends on the weave's density, so the factor is a display calibration, not Logan's count; the sett's identity lives in the proportions, which the eighths record directly. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
 
 See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table and method.
 
@@ -43,6 +45,7 @@ Later records of the **Drummond** name adjusted Logan's counts: [Drummond](/sett
 <ol class="capture-chain">
 <li>James Logan, The Scottish Gaël (first edition) <small>1831</small> · Public domain<br><small>the printed Table of Clan Tartans, vol. II pp. 401-408, plus the Duke of Sussex plate</small></li>
 <li><a href="https://archive.org/details/scotishgalorcel02logagoog">Internet Archive scan</a><br><small>the digitised first edition the transcription was made from, cross-checked against the OCR</small></li>
+<li><a href="/posts/logans-scottish-gael/">Tartan Dictionary transcription — Logan's Scottish Gaël</a> <small>2026-06</small> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><br><small>by-eye transcription of the Table of Clan Tartans and the Duke of Sussex plate — depths in eighths of an inch, rendered at 8 threads per eighth (a display calibration anchored by the Register's Abercrombie ×8 stripe-for-stripe match); method and match report in the linked post</small></li>
 <li>this dictionary<br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
 </details>
@@ -69,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/r5y1r8w1db20w1lb20w1g20y1r5y1r5y1g20y2r52w1y5w1~x2/"><circle cx="247.5" cy="39.8" r="4" fill="#3465a4"><title>Whitworth Artifact Tartan</title></circle></a><a href="/variants/s20/r5y1r8w1db20w1b20w1g20y1r5y1r5y1g20y2r52w1y5w1~x2/"><circle cx="254.1" cy="42.2" r="4" fill="#3465a4"><title>Whitworth</title></circle></a><a href="/variants/s13/r6b1db2r2g40r6db13lb1r48g2r4b1g4~x2/"><circle cx="344.8" cy="69.7" r="4" fill="#3465a4"><title>MacDonald of Glencoe</title></circle></a><a href="/variants/s17/r36ly2db1r3g41r3db1ly2r3db12r3ly2db1r36g3ri3g4~x2~r2109032-ri2307033/"><circle cx="350.2" cy="67.6" r="4" fill="#3465a4"><title>Munro (Clan)</title></circle></a><a href="/variants/s17/ri24w1db2ri8g52ri8db2w1ri8db12ri8w1db2ri52g4r6g6~x2~ri2109032-r1707016/"><circle cx="358.9" cy="64.8" r="4" fill="#3465a4"><title>Dalzell</title></circle></a><a href="/variants/s13/r5y1db2r2g30r5db10lb1r42g2r4y1g4~x2/"><circle cx="353.3" cy="75.7" r="4" fill="#3465a4"><title>MacDonald of Glencoe #2</title></circle></a><a href="/variants/s17/r65w2dp8lb4w2lb4dp8w2g32w2r8ri4dp2ri4r8w2dp16~x2~r2109032-ri2406019/"><circle cx="259.4" cy="52.5" r="4" fill="#3465a4"><title>Birral (Clan)</title></circle></a><a href="/variants/s17/lb4dp8w2g32w2r8ri4dp2ri4r8w2dp16r65w2dp8lb4w2~x2~w3600000-r2109032-ri2406019/"><circle cx="265.0" cy="54.4" r="4" fill="#3465a4"><title>Birral/Burrell</title></circle></a><a href="/variants/s17/r65w2dp8lb4w2lb4dp8w2g32w2r8b4dp2b4r8w2dp16~x2/"><circle cx="260.4" cy="55.2" r="4" fill="#3465a4"><title>Birral, Burrell</title></circle></a><a href="/variants/s24/lb2dp10r3ri4g72ri7g4ri10db24dp6r5ri4r5dp7g24ri24g24ri3db3ri74dp7r5ri6lb2~x2~r2208029-ri2209032/"><circle cx="235.1" cy="49.6" r="4" fill="#3465a4"><title>MacDougall of MacDougall</title></circle></a><circle cx="302.0" cy="47.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/r5y1r8w1db20w1lb20w1g20y1r5y1r5y1g20y2r52w1y5w1~x2/"><circle cx="247.3" cy="39.8" r="4" fill="#3465a4"><title>Whitworth Artifact Tartan</title></circle></a><a href="/variants/s20/r5y1r8w1db20w1b20w1g20y1r5y1r5y1g20y2r52w1y5w1~x2/"><circle cx="254.0" cy="42.1" r="4" fill="#3465a4"><title>Whitworth</title></circle></a><a href="/variants/s13/r6b1db2r2g40r6db13lb1r48g2r4b1g4~x2/"><circle cx="344.7" cy="69.8" r="4" fill="#3465a4"><title>MacDonald of Glencoe</title></circle></a><a href="/variants/s17/r36ly2db1r3g41r3db1ly2r3db12r3ly2db1r36g3ri3g4~x2~r2109032-ri2307033/"><circle cx="350.1" cy="67.7" r="4" fill="#3465a4"><title>Munro (Clan)</title></circle></a><a href="/variants/s17/ri24w1db2ri8g52ri8db2w1ri8db12ri8w1db2ri52g4r6g6~x2~ri2109032-r1707016/"><circle cx="358.8" cy="64.8" r="4" fill="#3465a4"><title>Dalzell</title></circle></a><a href="/variants/s13/r5y1db2r2g30r5db10lb1r42g2r4y1g4~x2/"><circle cx="353.2" cy="75.8" r="4" fill="#3465a4"><title>MacDonald of Glencoe #2</title></circle></a><a href="/variants/s17/r65w2dp8lb4w2lb4dp8w2g32w2r8ri4dp2ri4r8w2dp16~x2~r2109032-ri2406019/"><circle cx="259.3" cy="52.5" r="4" fill="#3465a4"><title>Birral (Clan)</title></circle></a><a href="/variants/s17/lb4dp8w2g32w2r8ri4dp2ri4r8w2dp16r65w2dp8lb4w2~x2~w3600000-r2109032-ri2406019/"><circle cx="264.9" cy="54.3" r="4" fill="#3465a4"><title>Birral/Burrell</title></circle></a><a href="/variants/s17/r65w2dp8lb4w2lb4dp8w2g32w2r8b4dp2b4r8w2dp16~x2/"><circle cx="260.3" cy="55.2" r="4" fill="#3465a4"><title>Birral, Burrell</title></circle></a><a href="/variants/s24/lb2dp10r3ri4g72ri7g4ri10db24dp6r5ri4r5dp7g24ri24g24ri3db3ri74dp7r5ri6lb2~x2~r2208029-ri2209032/"><circle cx="234.9" cy="49.6" r="4" fill="#3465a4"><title>MacDougall of MacDougall</title></circle></a><circle cx="301.9" cy="47.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/w1t4db6r16g32ly1db6w1r68w1db6ly1g32r16db6t4w1~x2/

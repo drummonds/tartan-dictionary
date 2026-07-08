@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacPherson #10"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1w14k6w1k3y1/)
 (the same proportion at any scale), whose colour order is pattern [GKWKWR](/stripes/gkwkwr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2702
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2702](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2702)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k27w29k5w14r2~x2/"><circle cx="275.9" cy="198.6" r="4" fill="#3465a4"><title>McPartlin (Personal)</title></circle></a><a href="/variants/s5/k5w25r6k45w4~x2/"><circle cx="288.1" cy="184.8" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><circle cx="256.0" cy="140.8" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9y1/"><circle cx="291.7" cy="118.3" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9y1~x2/"><circle cx="291.7" cy="118.3" r="4" fill="#3465a4"><title>MacPherson 6</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9ly1~x2~w3600000/"><circle cx="299.9" cy="122.9" r="4" fill="#3465a4"><title>MacPherson Dress (1842)</title></circle></a><a href="/variants/s7/y3k9w3k20w30dp3w3~x2/"><circle cx="226.6" cy="166.3" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/variants/s6/r4n41k5w14k18r4~x2/"><circle cx="194.7" cy="175.5" r="4" fill="#3465a4"><title>Downside (Corporate)</title></circle></a><a href="/variants/s6/r2w30k15y2k15r2~x2/"><circle cx="216.3" cy="157.6" r="4" fill="#3465a4"><title>Brodie (WCWM)</title></circle></a><a href="/variants/s5/k23y3k23w36r4~x2/"><circle cx="223.6" cy="192.2" r="4" fill="#3465a4"><title>Macleod, Winnifred Mary, Dress</title></circle></a><circle cx="274.7" cy="150.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k27w29k5w14r2~x2/"><circle cx="276.0" cy="199.3" r="4" fill="#3465a4"><title>McPartlin (Personal)</title></circle></a><a href="/variants/s5/k5w25r6k45w4~x2/"><circle cx="288.1" cy="185.5" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><circle cx="256.0" cy="141.3" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9y1/"><circle cx="291.6" cy="118.7" r="4" fill="#3465a4"><title>MacPherson Dress</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9y1~x2/"><circle cx="291.6" cy="118.7" r="4" fill="#3465a4"><title>MacPherson 6</title></circle></a><a href="/variants/s7/w3r1w30k20w3k9ly1~x2~w3600000/"><circle cx="299.8" cy="123.3" r="4" fill="#3465a4"><title>MacPherson Dress (1842)</title></circle></a><a href="/variants/s7/y3k9w3k20w30dp3w3~x2/"><circle cx="226.6" cy="166.9" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/variants/s6/r4n41k5w14k18r4~x2/"><circle cx="194.7" cy="176.0" r="4" fill="#3465a4"><title>Downside (Corporate)</title></circle></a><a href="/variants/s6/r2w30k15y2k15r2~x2/"><circle cx="216.3" cy="158.1" r="4" fill="#3465a4"><title>Brodie (WCWM)</title></circle></a><a href="/variants/s5/k23y3k23w36r4~x2/"><circle cx="223.6" cy="192.8" r="4" fill="#3465a4"><title>Macleod, Winnifred Mary, Dress</title></circle></a><circle cx="274.7" cy="151.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r1w14k6w1k3y1~x4/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Australia 2000"
   url: "/tartans/australia-2000/"
+- name: "Australia 2000 (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3lb6k4dr6lb18db53lb18k8lb6k3lo2/)
 (the same proportion at any scale), whose colour order is pattern [KWKBWBWKWKY](/stripes/kwkbwbwkwky/).
@@ -14,7 +16,7 @@ Part of the [Australia 2000](/tartans/australia-2000/) tartan — the named desi
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4148
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4148](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4148)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k3b6k4dr6b18db53b18k8b6k3lo2~x2~b2603265/"><circle cx="229.3" cy="100.0" r="4" fill="#3465a4"><title>Australia 2000</title></circle></a><a href="/variants/s9/lb14w1lb3y2lb3w1lb4db24r3~x2/"><circle cx="262.8" cy="124.2" r="4" fill="#3465a4"><title>Musselburgh</title></circle></a><a href="/variants/s11/db15y30w30k20w20k15w10y4db94w4r10/"><circle cx="177.4" cy="108.9" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><a href="/variants/s11/db15ly30w30k20w20k15w10ly4db94w4r10/"><circle cx="174.3" cy="108.5" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><a href="/variants/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/"><circle cx="213.3" cy="101.7" r="4" fill="#3465a4"><title>Lesotho</title></circle></a><a href="/variants/s10/y6db3k3db36k10lb18db6k2g4k3~x2/"><circle cx="210.6" cy="115.5" r="4" fill="#3465a4"><title>Dinwiddie Hunting (Name)</title></circle></a><a href="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/"><circle cx="153.7" cy="111.2" r="4" fill="#3465a4"><title>Ellis (Welsh Name)</title></circle></a><a href="/variants/s12/y3w12k3w3k3w3k7db48k7db3g14w3~x2/"><circle cx="187.1" cy="98.3" r="4" fill="#3465a4"><title>MacDowall</title></circle></a><a href="/variants/s11/dr2db6lr2db2k9lb30k9db5lr4db2dr2~x2/"><circle cx="157.6" cy="113.2" r="4" fill="#3465a4"><title>Rangers Dress (Sports)</title></circle></a><a href="/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/"><circle cx="203.3" cy="118.2" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. St Andrew</title></circle></a><circle cx="207.4" cy="93.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k3b6k4dr6b18db53b18k8b6k3lo2~x2~b2603265/"><circle cx="229.2" cy="100.2" r="4" fill="#3465a4"><title>Australia 2000</title></circle></a><a href="/variants/s9/lb14w1lb3y2lb3w1lb4db24r3~x2/"><circle cx="262.7" cy="124.4" r="4" fill="#3465a4"><title>Musselburgh</title></circle></a><a href="/variants/s11/db15y30w30k20w20k15w10y4db94w4r10/"><circle cx="177.3" cy="109.1" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><a href="/variants/s11/db15ly30w30k20w20k15w10ly4db94w4r10/"><circle cx="174.2" cy="108.7" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><a href="/variants/s13/w4k1db24k1dg12k1w12k1db12w4k1w1k2~x2/"><circle cx="213.2" cy="102.0" r="4" fill="#3465a4"><title>Lesotho</title></circle></a><a href="/variants/s10/y6db3k3db36k10lb18db6k2g4k3~x2/"><circle cx="210.5" cy="115.8" r="4" fill="#3465a4"><title>Dinwiddie Hunting (Name)</title></circle></a><a href="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/"><circle cx="153.6" cy="111.5" r="4" fill="#3465a4"><title>Ellis (Welsh Name)</title></circle></a><a href="/variants/s12/y3w12k3w3k3w3k7db48k7db3g14w3~x2/"><circle cx="187.0" cy="98.5" r="4" fill="#3465a4"><title>MacDowall</title></circle></a><a href="/variants/s11/dr2db6lr2db2k9lb30k9db5lr4db2dr2~x2/"><circle cx="157.5" cy="113.5" r="4" fill="#3465a4"><title>Rangers Dress (Sports)</title></circle></a><a href="/variants/s10/w4r1db20k6w5k4w3k2r1db2~x2/"><circle cx="203.2" cy="118.5" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. St Andrew</title></circle></a><circle cx="207.3" cy="94.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k3lb6k4dr6lb18db53lb18k8lb6k3lo2~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "De Nardi Hunting (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db30r3db3y3db3g30db36w5/)
 (the same proportion at any scale), whose colour order is pattern [BRBGBGBW](/stripes/brbgbgbw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=901
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=901](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=901)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r2db8dy1db16w1g12db27w1db1w1~x2/"><circle cx="447.5" cy="117.4" r="4" fill="#3465a4"><title>World Youth Congress (Corporate)</title></circle></a><a href="/variants/s8/db16w1db1w1db8g16r1db2~x2/"><circle cx="347.6" cy="167.0" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/variants/s8/db23w1db1w1db8g22r1db3~x4/"><circle cx="368.9" cy="149.5" r="4" fill="#3465a4"><title>Roxburgh, Green (District)</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56ly8/"><circle cx="324.8" cy="146.4" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56dy8/"><circle cx="352.2" cy="154.9" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="339.8" cy="183.7" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s9/db1k1db8y1g12y1db8k1db1~x2/"><circle cx="290.0" cy="167.2" r="4" fill="#3465a4"><title>Rowan</title></circle></a><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="294.8" cy="208.1" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><a href="/variants/s9/db32r4db4dy4db9n9db4n16w7~x2/"><circle cx="275.5" cy="192.8" r="4" fill="#3465a4"><title>Nevada State American District Tartan</title></circle></a><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><circle cx="358.9" cy="179.1" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><circle cx="340.5" cy="171.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r2db8dy1db16w1g12db27w1db1w1~x2/"><circle cx="447.5" cy="117.5" r="4" fill="#3465a4"><title>World Youth Congress (Corporate)</title></circle></a><a href="/variants/s8/db16w1db1w1db8g16r1db2~x2/"><circle cx="347.6" cy="167.3" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/variants/s8/db23w1db1w1db8g22r1db3~x4/"><circle cx="368.9" cy="149.8" r="4" fill="#3465a4"><title>Roxburgh, Green (District)</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56ly8/"><circle cx="324.7" cy="146.7" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56dy8/"><circle cx="352.2" cy="155.1" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="339.8" cy="184.1" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s9/db1k1db8y1g12y1db8k1db1~x2/"><circle cx="290.0" cy="167.5" r="4" fill="#3465a4"><title>Rowan</title></circle></a><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="294.9" cy="208.5" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><a href="/variants/s9/db32r4db4dy4db9n9db4n16w7~x2/"><circle cx="275.6" cy="193.2" r="4" fill="#3465a4"><title>Nevada State American District Tartan</title></circle></a><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><circle cx="358.9" cy="179.4" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><circle cx="340.5" cy="171.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db30r3db3y3db3g30db36w5~x2/

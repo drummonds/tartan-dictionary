@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Gillies"
   url: "/tartans/gillies/"
+- name: "Gillies (House of Edgar)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t32k12t12g6r6g18k2y3/)
 (the same proportion at any scale), whose colour order is pattern [BKBGRGKG](/stripes/bkbgrgkg/).
@@ -14,7 +16,7 @@ Part of the [Gillies](/tartans/gillies/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1341
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1341](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1341)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db32k12db12g6r6g18k2y3~x2/"><circle cx="210.2" cy="158.5" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s9/g4dr2g20db8k8db4lb1lo2k1~x2/"><circle cx="192.3" cy="115.7" r="4" fill="#3465a4"><title>Dodd of Branford</title></circle></a><a href="/variants/s7/t24k8g8r2g8k1w2~x2/"><circle cx="214.4" cy="140.5" r="4" fill="#3465a4"><title>Ferguson of Atholl Clan</title></circle></a><a href="/variants/s9/db10y3db30y5k8g16r4g16r2~x2/"><circle cx="186.8" cy="161.2" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/variants/s8/dy2g12k10r1t16r2t16r1~x4/"><circle cx="230.1" cy="157.6" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s9/db10y3db30y5k8g16b4g16b2~x2/"><circle cx="192.9" cy="165.5" r="4" fill="#3465a4"><title>MacMillan, hunting</title></circle></a><a href="/variants/s7/g27dr2g4r15db26k2db6~x2/"><circle cx="195.4" cy="171.8" r="4" fill="#3465a4"><title>Bailies of Bennachie (Corporate)</title></circle></a><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><circle cx="173.6" cy="175.4" r="4" fill="#3465a4"><title>Ednie (Personal)</title></circle></a><a href="/variants/s7/db4k2db16w1k8g24r4~x2/"><circle cx="191.3" cy="138.7" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/variants/s7/db4k2db16w1k8g24r4/"><circle cx="191.3" cy="138.7" r="4" fill="#3465a4"><title>Colquhoun VS</title></circle></a><circle cx="212.1" cy="165.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db32k12db12g6r6g18k2y3~x2/"><circle cx="210.1" cy="158.9" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s9/g4dr2g20db8k8db4lb1lo2k1~x2/"><circle cx="192.2" cy="115.9" r="4" fill="#3465a4"><title>Dodd of Branford</title></circle></a><a href="/variants/s7/t24k8g8r2g8k1w2~x2/"><circle cx="214.3" cy="140.8" r="4" fill="#3465a4"><title>Ferguson of Atholl Clan</title></circle></a><a href="/variants/s9/db10y3db30y5k8g16r4g16r2~x2/"><circle cx="186.8" cy="161.6" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/variants/s8/dy2g12k10r1t16r2t16r1~x4/"><circle cx="230.1" cy="158.0" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s9/db10y3db30y5k8g16b4g16b2~x2/"><circle cx="192.9" cy="165.8" r="4" fill="#3465a4"><title>MacMillan, hunting</title></circle></a><a href="/variants/s7/g27dr2g4r15db26k2db6~x2/"><circle cx="195.4" cy="172.2" r="4" fill="#3465a4"><title>Bailies of Bennachie (Corporate)</title></circle></a><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><circle cx="173.6" cy="175.8" r="4" fill="#3465a4"><title>Ednie (Personal)</title></circle></a><a href="/variants/s7/db4k2db16w1k8g24r4~x2/"><circle cx="191.2" cy="139.0" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/variants/s7/db4k2db16w1k8g24r4/"><circle cx="191.2" cy="139.0" r="4" fill="#3465a4"><title>Colquhoun VS</title></circle></a><circle cx="212.1" cy="165.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/t32k12t12g6r6g18k2y3~x2/

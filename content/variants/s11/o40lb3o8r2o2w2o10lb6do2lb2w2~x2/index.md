@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Spencer"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o40lb3o8r2o2w2o10lb6do2lb2w2/)
 (the same proportion at any scale), whose colour order is pattern [RWRRRWRWBWW](/stripes/rwrrrwrwbww/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3857
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3857](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3857)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dogwood"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg4do10dg10ly6do1lr26dg2do1/)
 (the same proportion at any scale), whose colour order is pattern [BGYBYGBG](/stripes/bgybygbg/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=943
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=943](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=943)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2~dy1603076-ly3307090/"><circle cx="221.6" cy="187.3" r="4" fill="#3465a4"><title>Aviemore Check</title></circle></a><a href="/variants/s9/g22dr2g4dr2g4dr18w24dr1lo3~x2/"><circle cx="233.5" cy="164.2" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><a href="/variants/s8/w4lb30g6dr2g6dr28y2dr3~x2/"><circle cx="238.2" cy="165.4" r="4" fill="#3465a4"><title>Scotland 2000 Commemorative Tartan</title></circle></a><a href="/variants/s8/g3dr12g12ly5dr1w25g2dr1~x2/"><circle cx="244.2" cy="165.1" r="4" fill="#3465a4"><title>Dogwood Trade Tartan</title></circle></a><a href="/variants/s8/g4dr14g14ly6dr1w30g2dr1~x2/"><circle cx="253.7" cy="157.3" r="4" fill="#3465a4"><title>British Columbia #2</title></circle></a><a href="/variants/s10/dg5dr2dg2lr34dg18dr4dg4lr4dg4dr4~x2/"><circle cx="318.0" cy="167.8" r="4" fill="#3465a4"><title>Buccleuch Dress (Fashion)</title></circle></a><a href="/variants/s7/dr5w36dp14dr9g28dr8dp2~x2/"><circle cx="192.7" cy="197.8" r="4" fill="#3465a4"><title>MacKintosh (Artefact)</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.6" cy="176.4" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/ly3dy12do14r4do1lb26do2dy1~x2/"><circle cx="227.5" cy="135.1" r="4" fill="#3465a4"><title>Turnberry</title></circle></a><a href="/variants/s6/w3g15db18r30db1r2~x2/"><circle cx="287.6" cy="160.5" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><circle cx="271.9" cy="160.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2~dy1603076-ly3307090/"><circle cx="221.7" cy="187.8" r="4" fill="#3465a4"><title>Aviemore Check</title></circle></a><a href="/variants/s9/g22dr2g4dr2g4dr18w24dr1lo3~x2/"><circle cx="233.5" cy="164.6" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><a href="/variants/s8/w4lb30g6dr2g6dr28y2dr3~x2/"><circle cx="238.2" cy="165.8" r="4" fill="#3465a4"><title>Scotland 2000 Commemorative Tartan</title></circle></a><a href="/variants/s8/g3dr12g12ly5dr1w25g2dr1~x2/"><circle cx="244.3" cy="165.5" r="4" fill="#3465a4"><title>Dogwood Trade Tartan</title></circle></a><a href="/variants/s8/g4dr14g14ly6dr1w30g2dr1~x2/"><circle cx="253.7" cy="157.7" r="4" fill="#3465a4"><title>British Columbia #2</title></circle></a><a href="/variants/s10/dg5dr2dg2lr34dg18dr4dg4lr4dg4dr4~x2/"><circle cx="318.0" cy="168.3" r="4" fill="#3465a4"><title>Buccleuch Dress (Fashion)</title></circle></a><a href="/variants/s7/dr5w36dp14dr9g28dr8dp2~x2/"><circle cx="192.8" cy="198.3" r="4" fill="#3465a4"><title>MacKintosh (Artefact)</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.6" cy="176.9" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/ly3dy12do14r4do1lb26do2dy1~x2/"><circle cx="227.5" cy="135.4" r="4" fill="#3465a4"><title>Turnberry</title></circle></a><a href="/variants/s6/w3g15db18r30db1r2~x2/"><circle cx="287.6" cy="160.8" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><circle cx="271.9" cy="160.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg4do10dg10ly6do1lr26dg2do1~x4/

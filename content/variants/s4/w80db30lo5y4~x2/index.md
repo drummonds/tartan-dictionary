@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tarbh Deargh (Red Bull)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w80db30lo5y4/)
 (the same proportion at any scale), whose colour order is pattern [GYBW](/stripes/gybw/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4072
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4072](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4072)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/w14t5r1lb1~x8/"><circle cx="413.5" cy="210.5" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s4/w4n28lb48y3~x2/"><circle cx="434.9" cy="245.0" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress (Clan)</title></circle></a><a href="/variants/s4/lb9db1w1y1~x20/"><circle cx="507.0" cy="236.9" r="4" fill="#3465a4"><title>Varrie Commemorative Tartan</title></circle></a><a href="/variants/s4/lb11db1w1y1~x20/"><circle cx="554.8" cy="226.8" r="4" fill="#3465a4"><title>Varrie</title></circle></a><a href="/variants/s4/w81dg6lo8dg8~x2/"><circle cx="517.9" cy="212.7" r="4" fill="#3465a4"><title>Young in Australia</title></circle></a><a href="/variants/s4/lb20dp3db7dy1~x4/"><circle cx="397.6" cy="201.6" r="4" fill="#3465a4"><title>Peacock (Samantha)</title></circle></a><a href="/variants/s3/lb8dg1dr2~x20/"><circle cx="400.0" cy="246.4" r="4" fill="#3465a4"><title>Gyle</title></circle></a><a href="/variants/s5/w14dp4dy1g8db2~x2/"><circle cx="232.8" cy="203.1" r="4" fill="#3465a4"><title>Manx Laxey Dress Green</title></circle></a><a href="/variants/s4/w35db12r2n2~x2/"><circle cx="389.9" cy="181.4" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s4/w4lb28db49y3~x2~db1204274/"><circle cx="356.7" cy="211.9" r="4" fill="#3465a4"><title>McKerrell of Hillhouse</title></circle></a><circle cx="407.2" cy="193.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/w14t5r1lb1~x8/"><circle cx="413.6" cy="211.1" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s4/w4n28lb48y3~x2/"><circle cx="435.0" cy="245.5" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress (Clan)</title></circle></a><a href="/variants/s4/lb9db1w1y1~x20/"><circle cx="507.2" cy="237.4" r="4" fill="#3465a4"><title>Varrie Commemorative Tartan</title></circle></a><a href="/variants/s4/lb11db1w1y1~x20/"><circle cx="555.0" cy="227.3" r="4" fill="#3465a4"><title>Varrie</title></circle></a><a href="/variants/s4/w81dg6lo8dg8~x2/"><circle cx="518.1" cy="213.3" r="4" fill="#3465a4"><title>Young in Australia</title></circle></a><a href="/variants/s4/lb20dp3db7dy1~x4/"><circle cx="397.7" cy="202.1" r="4" fill="#3465a4"><title>Peacock (Samantha)</title></circle></a><a href="/variants/s3/lb8dg1dr2~x20/"><circle cx="400.2" cy="247.1" r="4" fill="#3465a4"><title>Gyle</title></circle></a><a href="/variants/s5/w14dp4dy1g8db2~x2/"><circle cx="232.9" cy="203.7" r="4" fill="#3465a4"><title>Manx Laxey Dress Green</title></circle></a><a href="/variants/s4/w35db12r2n2~x2/"><circle cx="390.0" cy="182.0" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s4/w4lb28db49y3~x2~db1204274/"><circle cx="356.8" cy="212.4" r="4" fill="#3465a4"><title>McKerrell of Hillhouse</title></circle></a><circle cx="407.3" cy="194.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/w80db30lo5y4~x2/

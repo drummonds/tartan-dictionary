@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Nova Scotia Dress"
   url: "/tartans/nova-scotia-dress/"
+- name: "Nova Scotia Dress (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t2w20r1y2dg8g4dg2g2dg2t20w2/)
 (the same proportion at any scale), whose colour order is pattern [BWRGGGGGGBW](/stripes/bwrggggggbw/).
@@ -14,7 +16,7 @@ Part of the [Nova Scotia Dress](/tartans/nova-scotia-dress/) tartan — the name
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=660
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=660](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=660)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db2w20r1y2dg8g4dg2g2dg2db20w2~x2/"><circle cx="141.0" cy="108.3" r="4" fill="#3465a4"><title>Nova Scotia Dress</title></circle></a><a href="/variants/s11/db2w20r1y2dg8b4dg2b2dg2db20w2~x2/"><circle cx="143.1" cy="107.8" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><a href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/"><circle cx="229.3" cy="137.0" r="4" fill="#3465a4"><title>Michigan, State of</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-r1707033/"><circle cx="232.0" cy="139.4" r="4" fill="#3465a4"><title>Michigan State District Tartan</title></circle></a><a href="/variants/s15/t4w2t1w19r2do4t8g4w2t3dy2g2do2r2dy2~x2/"><circle cx="153.9" cy="106.5" r="4" fill="#3465a4"><title>Highlands of Haliburton Dress</title></circle></a><a href="/variants/s7/b16r1g16w1dy1w8dr3~x2/"><circle cx="173.3" cy="160.3" r="4" fill="#3465a4"><title>Chambers, Christopher J (Personal)</title></circle></a><a href="/variants/s10/g4y1lb3db15g2r2g14dbi1lb28db2~x2~db0805267-dbi1604274/"><circle cx="214.2" cy="102.8" r="4" fill="#3465a4"><title>Heriot Watt University</title></circle></a><a href="/variants/s12/dp6lb2w24r15g12lb4w4lb4w4lb4g34y4/"><circle cx="165.9" cy="132.6" r="4" fill="#3465a4"><title>Fredericton (District)</title></circle></a><a href="/variants/s11/db16w3db1y4g24r1g3r4g3r1lb8~x2/"><circle cx="211.2" cy="113.4" r="4" fill="#3465a4"><title>Currie</title></circle></a><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/"><circle cx="194.9" cy="111.5" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><circle cx="158.0" cy="117.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db2w20r1y2dg8g4dg2g2dg2db20w2~x2/"><circle cx="140.9" cy="108.6" r="4" fill="#3465a4"><title>Nova Scotia Dress</title></circle></a><a href="/variants/s11/db2w20r1y2dg8b4dg2b2dg2db20w2~x2/"><circle cx="143.0" cy="108.0" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><a href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/"><circle cx="229.3" cy="137.3" r="4" fill="#3465a4"><title>Michigan, State of</title></circle></a><a href="/variants/s10/db18w1db4w1lo4g1lo2g12r2g4~x2~w4000000-r1707033/"><circle cx="232.0" cy="139.7" r="4" fill="#3465a4"><title>Michigan State District Tartan</title></circle></a><a href="/variants/s15/t4w2t1w19r2do4t8g4w2t3dy2g2do2r2dy2~x2/"><circle cx="153.9" cy="106.7" r="4" fill="#3465a4"><title>Highlands of Haliburton Dress</title></circle></a><a href="/variants/s7/b16r1g16w1dy1w8dr3~x2/"><circle cx="173.4" cy="160.6" r="4" fill="#3465a4"><title>Chambers, Christopher J (Personal)</title></circle></a><a href="/variants/s10/g4y1lb3db15g2r2g14dbi1lb28db2~x2~db0805267-dbi1604274/"><circle cx="214.2" cy="103.0" r="4" fill="#3465a4"><title>Heriot Watt University</title></circle></a><a href="/variants/s12/dp6lb2w24r15g12lb4w4lb4w4lb4g34y4/"><circle cx="165.8" cy="132.9" r="4" fill="#3465a4"><title>Fredericton (District)</title></circle></a><a href="/variants/s11/db16w3db1y4g24r1g3r4g3r1lb8~x2/"><circle cx="211.1" cy="113.6" r="4" fill="#3465a4"><title>Currie</title></circle></a><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/"><circle cx="194.9" cy="111.8" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><circle cx="157.9" cy="117.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/t2w20r1y2dg8g4dg2g2dg2t20w2~x2/

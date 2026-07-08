@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glen Coe Trade Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k37w9k3dg9w3/)
 (the same proportion at any scale), whose colour order is pattern [KWKGW](/stripes/kwkgw/).
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1243
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1243](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1243)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="304.2" cy="151.4" r="4" fill="#3465a4"><title>St. Piran Cornish Flag</title></circle></a><a href="/variants/s5/k5w25r6k45w4~x2/"><circle cx="288.1" cy="184.8" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="283.7" cy="148.2" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/variants/s6/k21w2k5w9k13g2~x4/"><circle cx="371.3" cy="192.7" r="4" fill="#3465a4"><title>New Zealand District Tartan</title></circle></a><a href="/variants/s5/n4k48n16r12db3~x2/"><circle cx="299.3" cy="163.9" r="4" fill="#3465a4"><title>Calgary Firefighters</title></circle></a><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="389.1" cy="173.2" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/variants/s6/k44g8k4dg13k4w3~x2~g2203152-dg1806142/"><circle cx="350.8" cy="148.1" r="4" fill="#3465a4"><title>Childers (Personal)</title></circle></a><a href="/variants/s5/k22w3k3w11k1~x2/"><circle cx="367.9" cy="168.9" r="4" fill="#3465a4"><title>MacPhee MacFee or MacIver</title></circle></a><a href="/variants/s4/k46dy7k8w20~x2/"><circle cx="307.5" cy="226.9" r="4" fill="#3465a4"><title>Lords of Skye (Fashion?)</title></circle></a><a href="/variants/s4/k46o7k8w20~x2/"><circle cx="303.8" cy="224.2" r="4" fill="#3465a4"><title>Lords, of Skye</title></circle></a><circle cx="331.4" cy="177.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="304.1" cy="151.9" r="4" fill="#3465a4"><title>St. Piran Cornish Flag</title></circle></a><a href="/variants/s5/k5w25r6k45w4~x2/"><circle cx="288.1" cy="185.5" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="283.7" cy="148.7" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/variants/s6/k21w2k5w9k13g2~x4/"><circle cx="371.3" cy="193.3" r="4" fill="#3465a4"><title>New Zealand District Tartan</title></circle></a><a href="/variants/s5/n4k48n16r12db3~x2/"><circle cx="299.3" cy="164.3" r="4" fill="#3465a4"><title>Calgary Firefighters</title></circle></a><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="389.1" cy="173.7" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/variants/s6/k44g8k4dg13k4w3~x2~g2203152-dg1806142/"><circle cx="350.8" cy="148.5" r="4" fill="#3465a4"><title>Childers (Personal)</title></circle></a><a href="/variants/s5/k22w3k3w11k1~x2/"><circle cx="367.9" cy="169.5" r="4" fill="#3465a4"><title>MacPhee MacFee or MacIver</title></circle></a><a href="/variants/s4/k46dy7k8w20~x2/"><circle cx="307.6" cy="227.6" r="4" fill="#3465a4"><title>Lords of Skye (Fashion?)</title></circle></a><a href="/variants/s4/k46o7k8w20~x2/"><circle cx="303.9" cy="224.9" r="4" fill="#3465a4"><title>Lords, of Skye</title></circle></a><circle cx="331.4" cy="177.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k37w9k3dg9w3~x2/

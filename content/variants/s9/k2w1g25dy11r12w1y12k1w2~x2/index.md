@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Leaf Peeper"
   url: "/tartans/leaf-peeper/"
+- name: "Leaf Peeper"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2w1g25dy11r12w1y12k1w2/)
 (the same proportion at any scale), whose colour order is pattern [KWGGRWGKW](/stripes/kwggrwgkw/).
@@ -14,7 +16,7 @@ Part of the [Leaf Peeper](/tartans/leaf-peeper/) tartan — the named design gro
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10915
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10915](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10915)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k2w1dg25dy11r12w1ly12k1w2~x2~dy1503076-ly3307090/"><circle cx="152.8" cy="107.3" r="4" fill="#3465a4"><title>Leaf Peeper</title></circle></a><a href="/variants/s8/o8k2dy10dp30dy30g55k4lo6/"><circle cx="190.3" cy="123.2" r="4" fill="#3465a4"><title>Aberuchill</title></circle></a><a href="/variants/s8/o4r3o24k1w7k1g24y3~x2/"><circle cx="229.3" cy="120.2" r="4" fill="#3465a4"><title>Layton, Mervin</title></circle></a><a href="/variants/s9/w2g27y1dy7db5y5r17y6db1~x2/"><circle cx="217.7" cy="131.6" r="4" fill="#3465a4"><title>Elystan Glodrydd (Welsh Tribe)</title></circle></a><a href="/variants/s11/w3k1r25k2dy2g25dy2y2dy10k1r2~x2/"><circle cx="176.7" cy="79.9" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/variants/s10/y4g2y2g2y2g24k2r16w9db3~x2/"><circle cx="158.5" cy="126.4" r="4" fill="#3465a4"><title>North West Territories</title></circle></a><a href="/variants/s14/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9~x2~r2806019/"><circle cx="138.7" cy="109.8" r="4" fill="#3465a4"><title>Golden Broom</title></circle></a><a href="/variants/s11/o5k3w2r20db10g2w1r1g20k4o3~x2/"><circle cx="111.7" cy="101.0" r="4" fill="#3465a4"><title>MacCullough Family Tartan</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x4/"><circle cx="143.3" cy="96.6" r="4" fill="#3465a4"><title>Baxter (Clan)</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/"><circle cx="143.3" cy="96.6" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><circle cx="169.7" cy="115.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k2w1dg25dy11r12w1ly12k1w2~x2~dy1503076-ly3307090/"><circle cx="152.7" cy="107.6" r="4" fill="#3465a4"><title>Leaf Peeper</title></circle></a><a href="/variants/s8/o8k2dy10dp30dy30g55k4lo6/"><circle cx="190.3" cy="123.4" r="4" fill="#3465a4"><title>Aberuchill</title></circle></a><a href="/variants/s8/o4r3o24k1w7k1g24y3~x2/"><circle cx="229.3" cy="120.4" r="4" fill="#3465a4"><title>Layton, Mervin</title></circle></a><a href="/variants/s9/w2g27y1dy7db5y5r17y6db1~x2/"><circle cx="217.6" cy="131.7" r="4" fill="#3465a4"><title>Elystan Glodrydd (Welsh Tribe)</title></circle></a><a href="/variants/s11/w3k1r25k2dy2g25dy2y2dy10k1r2~x2/"><circle cx="176.6" cy="80.0" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/variants/s10/y4g2y2g2y2g24k2r16w9db3~x2/"><circle cx="158.5" cy="126.7" r="4" fill="#3465a4"><title>North West Territories</title></circle></a><a href="/variants/s14/g12y3g6dr19k1r8k2lb4k2g19k1dr19k1r9~x2~r2806019/"><circle cx="138.7" cy="110.0" r="4" fill="#3465a4"><title>Golden Broom</title></circle></a><a href="/variants/s11/o5k3w2r20db10g2w1r1g20k4o3~x2/"><circle cx="111.6" cy="101.3" r="4" fill="#3465a4"><title>MacCullough Family Tartan</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x4/"><circle cx="143.2" cy="96.8" r="4" fill="#3465a4"><title>Baxter (Clan)</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/"><circle cx="143.2" cy="96.8" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><circle cx="169.6" cy="115.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k2w1g25dy11r12w1y12k1w2~x2/

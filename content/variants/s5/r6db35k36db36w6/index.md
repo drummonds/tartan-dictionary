@@ -10,6 +10,8 @@ crumbs:
   url: "/families/davidson-of-tulloch/"
 - name: "Davidson of Tulloch"
   url: "/tartans/davidson-of-tulloch/"
+- name: "Davidson of Tulloch Clan Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r6db35k36db36w6/)
 (the same proportion at any scale), whose colour order is pattern [RBKBW](/stripes/rbkbw/).
@@ -18,7 +20,7 @@ Part of the [Davidson of Tulloch](/tartans/davidson-of-tulloch/) tartan — the 
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1360
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1360](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1360)
 
 ## Provenance
 
@@ -77,8 +79,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/y4db24k23db30w4~x2/"><circle cx="303.5" cy="231.3" r="4" fill="#3465a4"><title>Bank of Scotland</title></circle></a><a href="/variants/s5/lo1db6k5db6lb1~x6~db1406275-lb3300000/"><circle cx="287.2" cy="239.9" r="4" fill="#3465a4"><title>Bank of Scotland (1995)</title></circle></a><a href="/variants/s5/lo1db6k5db6lb1~x6/"><circle cx="289.6" cy="242.6" r="4" fill="#3465a4"><title>Bank of Scotland (1995) (Corporate)</title></circle></a><a href="/variants/s6/r1db12k5o3db5w1~x4/"><circle cx="292.5" cy="170.3" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/variants/s6/r5db35k25db8ly10r5~x2/"><circle cx="199.7" cy="208.3" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><a href="/variants/s6/r1db12k5ly3db5lb1~x4/"><circle cx="284.5" cy="170.8" r="4" fill="#3465a4"><title>Massachusetts (Unofficial)</title></circle></a><a href="/variants/s6/db24w4db24ly4dr5k4~x2/"><circle cx="349.6" cy="195.8" r="4" fill="#3465a4"><title>de Grussa (Personal)</title></circle></a><a href="/variants/s6/db24w4db24y4dr5k4~x2/"><circle cx="363.1" cy="199.5" r="4" fill="#3465a4"><title>De Grussa</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="294.1" cy="198.2" r="4" fill="#3465a4"><title>Mirror (Corporate)</title></circle></a><a href="/variants/s4/r4db32k15w2~x2/"><circle cx="330.3" cy="186.3" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><circle cx="267.3" cy="240.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/y4db24k23db30w4~x2/"><circle cx="303.5" cy="231.8" r="4" fill="#3465a4"><title>Bank of Scotland</title></circle></a><a href="/variants/s5/lo1db6k5db6lb1~x6~db1406275-lb3300000/"><circle cx="287.3" cy="240.6" r="4" fill="#3465a4"><title>Bank of Scotland (1995)</title></circle></a><a href="/variants/s5/lo1db6k5db6lb1~x6/"><circle cx="289.7" cy="243.2" r="4" fill="#3465a4"><title>Bank of Scotland (1995) (Corporate)</title></circle></a><a href="/variants/s6/r1db12k5o3db5w1~x4/"><circle cx="292.5" cy="170.6" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/variants/s6/r5db35k25db8ly10r5~x2/"><circle cx="199.8" cy="208.9" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><a href="/variants/s6/r1db12k5ly3db5lb1~x4/"><circle cx="284.5" cy="171.2" r="4" fill="#3465a4"><title>Massachusetts (Unofficial)</title></circle></a><a href="/variants/s6/db24w4db24ly4dr5k4~x2/"><circle cx="349.6" cy="196.3" r="4" fill="#3465a4"><title>de Grussa (Personal)</title></circle></a><a href="/variants/s6/db24w4db24y4dr5k4~x2/"><circle cx="363.1" cy="200.0" r="4" fill="#3465a4"><title>De Grussa</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="294.1" cy="198.7" r="4" fill="#3465a4"><title>Mirror (Corporate)</title></circle></a><a href="/variants/s4/r4db32k15w2~x2/"><circle cx="330.3" cy="186.7" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><circle cx="267.4" cy="240.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r6db35k36db36w6/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Wedding"
   url: "/tartans/wedding/"
+- name: "Wedding (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ri2dp30w1ly2r1/)
 (the same proportion at any scale), whose colour order is pattern [RBWYR](/stripes/rbwyr/).
@@ -14,7 +16,7 @@ Part of the [Wedding](/tartans/wedding/) tartan — the named design grouping th
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10522
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10522](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10522)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/o2r1dp30w1y2~x2/"><circle cx="593.3" cy="114.8" r="4" fill="#3465a4"><title>Wedding</title></circle></a><a href="/variants/s5/dy1k2dp27k2dg1~x2/"><circle cx="626.0" cy="143.8" r="4" fill="#3465a4"><title>Carolina University, Western</title></circle></a><a href="/variants/s5/k50db3p2r3w1~x4/"><circle cx="552.6" cy="74.0" r="4" fill="#3465a4"><title>Fettes (Personal)</title></circle></a><a href="/variants/s5/k50db3lp2r3w1~x4/"><circle cx="543.9" cy="72.3" r="4" fill="#3465a4"><title>Fettes (Personal)</title></circle></a><a href="/variants/s5/r5w4k4db80w4~x2/"><circle cx="516.6" cy="128.7" r="4" fill="#3465a4"><title>Volunteer Lifesaving Corps (Corp.)</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.7" cy="109.5" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s4/r2k6db33w2~x4/"><circle cx="458.3" cy="161.6" r="4" fill="#3465a4"><title>McCallie</title></circle></a><a href="/variants/s4/y2k3dr31w1~x4/"><circle cx="590.4" cy="135.6" r="4" fill="#3465a4"><title>Riddick Furya</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4~r1506028/"><circle cx="521.0" cy="181.2" r="4" fill="#3465a4"><title>Martin Family, Robert N Personal Tartan</title></circle></a><a href="/variants/s5/k45db2r4y1w1~x2/"><circle cx="546.9" cy="75.9" r="4" fill="#3465a4"><title>McHattie (Personal)</title></circle></a><circle cx="558.6" cy="103.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/o2r1dp30w1y2~x2/"><circle cx="593.3" cy="114.9" r="4" fill="#3465a4"><title>Wedding</title></circle></a><a href="/variants/s5/dy1k2dp27k2dg1~x2/"><circle cx="626.0" cy="143.9" r="4" fill="#3465a4"><title>Carolina University, Western</title></circle></a><a href="/variants/s5/k50db3p2r3w1~x4/"><circle cx="552.4" cy="74.1" r="4" fill="#3465a4"><title>Fettes (Personal)</title></circle></a><a href="/variants/s5/k50db3lp2r3w1~x4/"><circle cx="543.8" cy="72.4" r="4" fill="#3465a4"><title>Fettes (Personal)</title></circle></a><a href="/variants/s5/r5w4k4db80w4~x2/"><circle cx="516.5" cy="128.9" r="4" fill="#3465a4"><title>Volunteer Lifesaving Corps (Corp.)</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.6" cy="109.6" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s4/r2k6db33w2~x4/"><circle cx="458.3" cy="161.9" r="4" fill="#3465a4"><title>McCallie</title></circle></a><a href="/variants/s4/y2k3dr31w1~x4/"><circle cx="590.4" cy="135.9" r="4" fill="#3465a4"><title>Riddick Furya</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4~r1506028/"><circle cx="521.1" cy="181.8" r="4" fill="#3465a4"><title>Martin Family, Robert N Personal Tartan</title></circle></a><a href="/variants/s5/k45db2r4y1w1~x2/"><circle cx="546.7" cy="76.0" r="4" fill="#3465a4"><title>McHattie (Personal)</title></circle></a><circle cx="558.6" cy="104.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/ri2dp30w1ly2r1~x2~ri2806019-r2109032/

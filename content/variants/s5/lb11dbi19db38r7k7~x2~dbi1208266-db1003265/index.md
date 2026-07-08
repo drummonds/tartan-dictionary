@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rose, Danny and Hanna (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb11dbi19db38r7k7/)
 (the same proportion at any scale), whose colour order is pattern [KRBBW](/stripes/krbbw/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11219
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11219](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11219)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="196.9" cy="156.8" r="4" fill="#3465a4"><title>Ferster, James Carney (Personal)</title></circle></a><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="152.7" cy="199.1" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/variants/s5/k1r2lb1db5ly1~x16/"><circle cx="169.0" cy="210.5" r="4" fill="#3465a4"><title>University of Trinity College</title></circle></a><a href="/variants/s5/r6db35k36dbi36w6~db0805267-dbi1604274/"><circle cx="105.1" cy="234.9" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/g1k9lb4db9lb1~x6/"><circle cx="159.6" cy="210.7" r="4" fill="#3465a4"><title>Wallace Blue Dress Tartan</title></circle></a><a href="/variants/s5/r2db16k11b19y2~x2/"><circle cx="162.9" cy="209.9" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/"><circle cx="136.0" cy="204.9" r="4" fill="#3465a4"><title>Bryson (1988) (Name)</title></circle></a><a href="/variants/s5/k3r11db26dy11lo3~x2/"><circle cx="212.5" cy="199.2" r="4" fill="#3465a4"><title>Novotel, The</title></circle></a><a href="/variants/s6/y4k28r2db22b8db3~x2/"><circle cx="201.8" cy="163.9" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s6/db31lb4db6k19r20y4~x2/"><circle cx="157.9" cy="193.1" r="4" fill="#3465a4"><title>Fife (McGill)</title></circle></a><circle cx="169.1" cy="223.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="196.9" cy="157.1" r="4" fill="#3465a4"><title>Ferster, James Carney (Personal)</title></circle></a><a href="/variants/s5/r2db12k5lb16w2~x4/"><circle cx="152.7" cy="199.7" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/variants/s5/k1r2lb1db5ly1~x16/"><circle cx="169.1" cy="211.1" r="4" fill="#3465a4"><title>University of Trinity College</title></circle></a><a href="/variants/s5/r6db35k36dbi36w6~db0805267-dbi1604274/"><circle cx="105.2" cy="235.5" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/g1k9lb4db9lb1~x6/"><circle cx="159.6" cy="211.3" r="4" fill="#3465a4"><title>Wallace Blue Dress Tartan</title></circle></a><a href="/variants/s5/r2db16k11b19y2~x2/"><circle cx="163.0" cy="210.4" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/"><circle cx="136.0" cy="205.4" r="4" fill="#3465a4"><title>Bryson (1988) (Name)</title></circle></a><a href="/variants/s5/k3r11db26dy11lo3~x2/"><circle cx="212.5" cy="199.7" r="4" fill="#3465a4"><title>Novotel, The</title></circle></a><a href="/variants/s6/y4k28r2db22b8db3~x2/"><circle cx="201.8" cy="164.2" r="4" fill="#3465a4"><title>Loch Long One Design</title></circle></a><a href="/variants/s6/db31lb4db6k19r20y4~x2/"><circle cx="157.9" cy="193.6" r="4" fill="#3465a4"><title>Fife (McGill)</title></circle></a><circle cx="169.2" cy="223.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/lb11dbi19db38r7k7~x2~dbi1208266-db1003265/

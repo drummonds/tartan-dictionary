@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Scotland's Own"
   url: "/tartans/scotland-s-own/"
+- name: "Scotland's Own"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4w1db30k15dp4db2k2db2k10db4dp2db2/)
 (the same proportion at any scale), whose colour order is pattern [BBBKBKBBKBWB](/stripes/bbbkbkbbkbwb/).
@@ -14,7 +16,7 @@ Part of the [Scotland's Own](/tartans/scotland-s-own/) tartan — the named desi
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db4y1db30k15dp4db2k2db2k10db4dp2db2~x2/"><circle cx="356.3" cy="93.3" r="4" fill="#3465a4"><title>Scotland's Own</title></circle></a><a href="/variants/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/"><circle cx="337.3" cy="92.5" r="4" fill="#3465a4"><title>Bristow Helicopters</title></circle></a><a href="/variants/s8/k4n1dp5n1k20db37n4db4~x2/"><circle cx="368.8" cy="123.3" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/variants/s10/db50k12n2k2w2k2n12db7k7w2~x2/"><circle cx="335.6" cy="106.1" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><a href="/variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/"><circle cx="430.8" cy="82.4" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/variants/s8/k28r1k2r1k8db24g2db3~x2/"><circle cx="349.5" cy="122.1" r="4" fill="#3465a4"><title>Home or Hume (Vestiarium Scoticum)</title></circle></a><a href="/variants/s11/db9k1dbi4k1db18b5k1b1k1b5db4~x2~db0805267-dbi1604274/"><circle cx="372.0" cy="148.0" r="4" fill="#3465a4"><title>Indigo Blue Works</title></circle></a><a href="/variants/s10/r4db4k2db31k10y3db5k11db6k3~x2/"><circle cx="326.1" cy="145.5" r="4" fill="#3465a4"><title>MacArthur Fox Green (Personal)</title></circle></a><a href="/variants/s10/w4db52k12db12k12db12k12dg24db8k1~x2/"><circle cx="343.1" cy="120.0" r="4" fill="#3465a4"><title>Dollar Academy, The</title></circle></a><a href="/variants/s7/k8dr26k22db110w4k5w4/"><circle cx="373.2" cy="119.1" r="4" fill="#3465a4"><title>University of Edinburgh</title></circle></a><circle cx="366.1" cy="111.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db4y1db30k15dp4db2k2db2k10db4dp2db2~x2/"><circle cx="356.1" cy="93.2" r="4" fill="#3465a4"><title>Scotland's Own</title></circle></a><a href="/variants/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/"><circle cx="337.1" cy="92.6" r="4" fill="#3465a4"><title>Bristow Helicopters</title></circle></a><a href="/variants/s8/k4n1dp5n1k20db37n4db4~x2/"><circle cx="368.7" cy="123.4" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><a href="/variants/s10/db50k12n2k2w2k2n12db7k7w2~x2/"><circle cx="335.5" cy="106.2" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><a href="/variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/"><circle cx="430.7" cy="82.4" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/variants/s8/k28r1k2r1k8db24g2db3~x2/"><circle cx="349.4" cy="122.3" r="4" fill="#3465a4"><title>Home or Hume (Vestiarium Scoticum)</title></circle></a><a href="/variants/s11/db9k1dbi4k1db18b5k1b1k1b5db4~x2~db0805267-dbi1604274/"><circle cx="371.9" cy="148.1" r="4" fill="#3465a4"><title>Indigo Blue Works</title></circle></a><a href="/variants/s10/r4db4k2db31k10y3db5k11db6k3~x2/"><circle cx="326.1" cy="145.7" r="4" fill="#3465a4"><title>MacArthur Fox Green (Personal)</title></circle></a><a href="/variants/s10/w4db52k12db12k12db12k12dg24db8k1~x2/"><circle cx="343.0" cy="120.0" r="4" fill="#3465a4"><title>Dollar Academy, The</title></circle></a><a href="/variants/s7/k8dr26k22db110w4k5w4/"><circle cx="373.1" cy="119.3" r="4" fill="#3465a4"><title>University of Edinburgh</title></circle></a><circle cx="366.0" cy="111.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db4w1db30k15dp4db2k2db2k10db4dp2db2~x2/

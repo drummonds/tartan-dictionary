@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Mortell"
   url: "/tartans/mortell/"
+- name: "Mortell (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db20lb2w5r2db10lb5db20lb2w5r5/)
 (the same proportion at any scale), whose colour order is pattern [BWWRBWBWWR](/stripes/bwwrbwbwwr/).
@@ -14,7 +16,7 @@ Part of the [Mortell](/tartans/mortell/) tartan — the named design grouping th
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10192
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10192](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10192)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/"><circle cx="326.6" cy="183.0" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s12/db4w4db4w4db4w4db16ly2db16r6w3db4~x2/"><circle cx="314.4" cy="187.3" r="4" fill="#3465a4"><title>Parker Dress (USA)</title></circle></a><a href="/variants/s7/db11w1r12db6r1db6w1~x4/"><circle cx="355.2" cy="206.2" r="4" fill="#3465a4"><title>Coronation (1936) #2</title></circle></a><a href="/variants/s7/db11w1r12db6r1db6w1~x2/"><circle cx="355.2" cy="206.2" r="4" fill="#3465a4"><title>Coronation</title></circle></a><a href="/variants/s6/db3lb14db3n16db34r3~x2/"><circle cx="311.0" cy="205.7" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="374.4" cy="143.2" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/variants/s7/db14r6db52lb4db4lb51y8/"><circle cx="288.4" cy="179.7" r="4" fill="#3465a4"><title>International Police Association (IPA 2010)</title></circle></a><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/"><circle cx="287.4" cy="179.5" r="4" fill="#3465a4"><title>Int. Police Association (Official)</title></circle></a><a href="/variants/s6/b40k4b12k21b17w4~x2/"><circle cx="361.9" cy="209.3" r="4" fill="#3465a4"><title>Granger</title></circle></a><a href="/variants/s14/db4r6db16w4db4w4db4w4db16ly2db16r6w3db4~x2/"><circle cx="320.1" cy="183.6" r="4" fill="#3465a4"><title>Parker (USA)</title></circle></a><circle cx="320.8" cy="180.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/"><circle cx="326.7" cy="183.5" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s12/db4w4db4w4db4w4db16ly2db16r6w3db4~x2/"><circle cx="314.5" cy="187.8" r="4" fill="#3465a4"><title>Parker Dress (USA)</title></circle></a><a href="/variants/s7/db11w1r12db6r1db6w1~x4/"><circle cx="355.3" cy="206.7" r="4" fill="#3465a4"><title>Coronation (1936) #2</title></circle></a><a href="/variants/s7/db11w1r12db6r1db6w1~x2/"><circle cx="355.3" cy="206.7" r="4" fill="#3465a4"><title>Coronation</title></circle></a><a href="/variants/s6/db3lb14db3n16db34r3~x2/"><circle cx="311.1" cy="206.1" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="374.4" cy="143.6" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/variants/s7/db14r6db52lb4db4lb51y8/"><circle cx="288.5" cy="180.2" r="4" fill="#3465a4"><title>International Police Association (IPA 2010)</title></circle></a><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/"><circle cx="287.5" cy="180.0" r="4" fill="#3465a4"><title>Int. Police Association (Official)</title></circle></a><a href="/variants/s6/b40k4b12k21b17w4~x2/"><circle cx="362.0" cy="209.9" r="4" fill="#3465a4"><title>Granger</title></circle></a><a href="/variants/s14/db4r6db16w4db4w4db4w4db16ly2db16r6w3db4~x2/"><circle cx="320.2" cy="184.1" r="4" fill="#3465a4"><title>Parker (USA)</title></circle></a><circle cx="320.8" cy="181.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/

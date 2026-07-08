@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Bannockbane Navy"
   url: "/tartans/bannockbane-navy/"
+- name: "Bannockbane Navy"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3r2db30r1w18o30r2o3/)
 (the same proportion at any scale), whose colour order is pattern [BRBRWRRR](/stripes/brbrwrrr/).
@@ -14,7 +16,7 @@ Part of the [Bannockbane Navy](/tartans/bannockbane-navy/) tartan — the named 
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5045
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5045](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5045)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/ly3dy12do14r4do1lb26do2dy1~x2/"><circle cx="227.5" cy="135.1" r="4" fill="#3465a4"><title>Turnberry</title></circle></a><a href="/variants/s9/g3r12g15r2w1db30w1g2r2~x2/"><circle cx="279.7" cy="127.4" r="4" fill="#3465a4"><title>Christmas Morning</title></circle></a><a href="/variants/s8/db3o2db18o1w10n18o2n3~x2/"><circle cx="219.5" cy="172.8" r="4" fill="#3465a4"><title>Bannockbane, Modern Silver</title></circle></a><a href="/variants/s8/n3r2n30r1w18o14r2o3~x2~n1900000-o2500000/"><circle cx="289.8" cy="146.1" r="4" fill="#3465a4"><title>Bannockbane Variant</title></circle></a><a href="/variants/s10/lb63dp21w16dp2w4dp4w12lo6w16k21~x2/"><circle cx="171.8" cy="106.7" r="4" fill="#3465a4"><title>Xain (Personal)</title></circle></a><a href="/variants/s6/w3g15db18r15g1r2~x2/"><circle cx="200.1" cy="193.8" r="4" fill="#3465a4"><title>Nibley</title></circle></a><a href="/variants/s6/w3g15db18r30g1r2~x2/"><circle cx="284.1" cy="158.6" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/variants/s9/y3dg4y1dg15r24db15w1db4w3~x4/"><circle cx="198.6" cy="137.0" r="4" fill="#3465a4"><title>Forrester (Clan)</title></circle></a><a href="/variants/s6/w3g15db18r30db1r2~x2/"><circle cx="287.6" cy="160.5" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.6" cy="176.4" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><circle cx="229.1" cy="133.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/ly3dy12do14r4do1lb26do2dy1~x2/"><circle cx="227.5" cy="135.4" r="4" fill="#3465a4"><title>Turnberry</title></circle></a><a href="/variants/s9/g3r12g15r2w1db30w1g2r2~x2/"><circle cx="279.6" cy="127.6" r="4" fill="#3465a4"><title>Christmas Morning</title></circle></a><a href="/variants/s8/db3o2db18o1w10n18o2n3~x2/"><circle cx="219.5" cy="173.2" r="4" fill="#3465a4"><title>Bannockbane, Modern Silver</title></circle></a><a href="/variants/s8/n3r2n30r1w18o14r2o3~x2~n1900000-o2500000/"><circle cx="289.8" cy="146.4" r="4" fill="#3465a4"><title>Bannockbane Variant</title></circle></a><a href="/variants/s10/lb63dp21w16dp2w4dp4w12lo6w16k21~x2/"><circle cx="171.7" cy="107.0" r="4" fill="#3465a4"><title>Xain (Personal)</title></circle></a><a href="/variants/s6/w3g15db18r15g1r2~x2/"><circle cx="200.1" cy="194.2" r="4" fill="#3465a4"><title>Nibley</title></circle></a><a href="/variants/s6/w3g15db18r30g1r2~x2/"><circle cx="284.2" cy="159.0" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/variants/s9/y3dg4y1dg15r24db15w1db4w3~x4/"><circle cx="198.5" cy="137.3" r="4" fill="#3465a4"><title>Forrester (Clan)</title></circle></a><a href="/variants/s6/w3g15db18r30db1r2~x2/"><circle cx="287.6" cy="160.8" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.6" cy="176.9" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><circle cx="229.1" cy="133.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db3r2db30r1w18o30r2o3~x2/

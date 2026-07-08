@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "North American Sheep Breeders Association"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n2w1ly17n14w15n2w2/)
 (the same proportion at any scale), whose colour order is pattern [BWYBWBW](/stripes/bwybwbw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3088
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3088](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3088)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n12dt2n2dt2n2dt10w12dt3~x2~n1900000-dt0900000/"><circle cx="227.1" cy="260.1" r="4" fill="#3465a4"><title>Grey Watch Dress (Fashion)</title></circle></a><a href="/variants/s8/ly22do2ly2do2ly2do15w17do3~x2/"><circle cx="270.1" cy="226.9" r="4" fill="#3465a4"><title>Turnberry Manx Snaefell Family Tartan</title></circle></a><a href="/variants/s8/do2lo2do15lo1w10ly15lo2ly2~x2/"><circle cx="232.9" cy="205.6" r="4" fill="#3465a4"><title>Bannockbane Orange Stripes</title></circle></a><a href="/variants/s6/n2w2y7lb14n2w2~x2/"><circle cx="321.4" cy="257.2" r="4" fill="#3465a4"><title>Cairngorm Trade Tartan</title></circle></a><circle cx="298.2" cy="238.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n12dt2n2dt2n2dt10w12dt3~x2~n1900000-dt0900000/"><circle cx="227.2" cy="260.8" r="4" fill="#3465a4"><title>Grey Watch Dress (Fashion)</title></circle></a><a href="/variants/s8/ly22do2ly2do2ly2do15w17do3~x2/"><circle cx="270.3" cy="227.6" r="4" fill="#3465a4"><title>Turnberry Manx Snaefell Family Tartan</title></circle></a><a href="/variants/s8/do2lo2do15lo1w10ly15lo2ly2~x2/"><circle cx="233.0" cy="206.1" r="4" fill="#3465a4"><title>Bannockbane Orange Stripes</title></circle></a><a href="/variants/s6/n2w2y7lb14n2w2~x2/"><circle cx="321.5" cy="257.7" r="4" fill="#3465a4"><title>Cairngorm Trade Tartan</title></circle></a><circle cx="298.4" cy="238.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/n2w1ly17n14w15n2w2~x2/

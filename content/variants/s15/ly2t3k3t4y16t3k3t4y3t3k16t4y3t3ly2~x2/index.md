@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kerry Irish County Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly2t3k3t4y16t3k3t4y3t3k16t4y3t3ly2/)
 (the same proportion at any scale), whose colour order is pattern [YBGBKBGBKBGBKBY](/stripes/ybgbkbgbkbgbkby/).
 
 Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2263
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2263](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2263)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/lb15k2lb2k2lb2k14g12w2g4lb4g4w2g12k14lb15k2lb2~x2/"><circle cx="110.5" cy="163.5" r="4" fill="#3465a4"><title>Arbuthnott (Clan)</title></circle></a><a href="/variants/s15/n2t14k3t3k3t3k15t4r2g2r2g11r2g2r2~x2/"><circle cx="100.1" cy="150.8" r="4" fill="#3465a4"><title>Homecoming (Fashion)</title></circle></a><a href="/variants/s15/g8k4t28k5t5k5t5k24g5k5g5k5g39r5t8/"><circle cx="146.0" cy="151.5" r="4" fill="#3465a4"><title>Princess Louise</title></circle></a><a href="/variants/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/"><circle cx="113.6" cy="184.5" r="4" fill="#3465a4"><title>MacDonald #2</title></circle></a><a href="/variants/s17/db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2/"><circle cx="109.7" cy="163.5" r="4" fill="#3465a4"><title>Gordon of Esselmont (Clan)</title></circle></a><a href="/variants/s13/t23k3t3k3t3k22g22w3g22k22t18k3t3~x2/"><circle cx="125.9" cy="182.0" r="4" fill="#3465a4"><title>Lamont (Clan)</title></circle></a><a href="/variants/s8/t30ly3t4k25y26k3y3r4~x2~t2503227-ly3307090-y2602166/"><circle cx="119.3" cy="136.0" r="4" fill="#3465a4"><title>Ogilvie Hunting</title></circle></a><a href="/variants/s18/dr3g20k2db3k12db3k2dr20g3dr20k2db3k12db3k2g20dr3db2~x2/"><circle cx="147.8" cy="147.8" r="4" fill="#3465a4"><title>Matthew Gloag Corporate Tartan</title></circle></a><a href="/variants/s12/db8r1db2r3db12r1k12g12r3g2r1g8/"><circle cx="135.7" cy="164.2" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s12/db8r1db2r3db12r1k12g12r3g2r1g8~x2/"><circle cx="135.7" cy="164.2" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><circle cx="126.1" cy="164.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/lb15k2lb2k2lb2k14g12w2g4lb4g4w2g12k14lb15k2lb2~x2/"><circle cx="110.5" cy="164.0" r="4" fill="#3465a4"><title>Arbuthnott (Clan)</title></circle></a><a href="/variants/s15/n2t14k3t3k3t3k15t4r2g2r2g11r2g2r2~x2/"><circle cx="100.1" cy="151.1" r="4" fill="#3465a4"><title>Homecoming (Fashion)</title></circle></a><a href="/variants/s15/g8k4t28k5t5k5t5k24g5k5g5k5g39r5t8/"><circle cx="146.0" cy="151.9" r="4" fill="#3465a4"><title>Princess Louise</title></circle></a><a href="/variants/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/"><circle cx="113.6" cy="185.0" r="4" fill="#3465a4"><title>MacDonald #2</title></circle></a><a href="/variants/s17/db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2/"><circle cx="109.7" cy="163.8" r="4" fill="#3465a4"><title>Gordon of Esselmont (Clan)</title></circle></a><a href="/variants/s13/t23k3t3k3t3k22g22w3g22k22t18k3t3~x2/"><circle cx="125.9" cy="182.5" r="4" fill="#3465a4"><title>Lamont (Clan)</title></circle></a><a href="/variants/s8/t30ly3t4k25y26k3y3r4~x2~t2503227-ly3307090-y2602166/"><circle cx="119.3" cy="136.4" r="4" fill="#3465a4"><title>Ogilvie Hunting</title></circle></a><a href="/variants/s18/dr3g20k2db3k12db3k2dr20g3dr20k2db3k12db3k2g20dr3db2~x2/"><circle cx="147.7" cy="148.1" r="4" fill="#3465a4"><title>Matthew Gloag Corporate Tartan</title></circle></a><a href="/variants/s12/db8r1db2r3db12r1k12g12r3g2r1g8/"><circle cx="135.7" cy="164.6" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s12/db8r1db2r3db12r1k12g12r3g2r1g8~x2/"><circle cx="135.7" cy="164.6" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><circle cx="126.1" cy="164.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/ly2t3k3t4y16t3k3t4y3t3k16t4y3t3ly2~x2/

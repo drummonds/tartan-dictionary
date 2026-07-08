@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Williamson"
   url: "/tartans/williamson/"
+- name: "Williamson (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr7db20dr4k18g20dp5/)
 (the same proportion at any scale), whose colour order is pattern [BBBKGB](/stripes/bbbkgb/).
@@ -14,7 +16,7 @@ Part of the [Williamson](/tartans/williamson/) tartan — the named design group
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4077
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4077](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4077)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r7db20r4k18g20dp5~x2/"><circle cx="52.0" cy="233.7" r="4" fill="#3465a4"><title>Williamson (Personal)</title></circle></a><a href="/variants/s5/dr4db14k15dg14y4~x2/"><circle cx="107.1" cy="280.0" r="4" fill="#3465a4"><title>Scots Heritage</title></circle></a><a href="/variants/s5/k1dg8r6db8k1~x4/"><circle cx="166.0" cy="231.6" r="4" fill="#3465a4"><title>Edinburgh Tattoo 50th (Commemorative</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="76.2" cy="210.9" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s5/r4dg15k15db15lb4~x2/"><circle cx="65.9" cy="264.6" r="4" fill="#3465a4"><title>Dalmeny #1</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="133.3" cy="262.1" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><circle cx="183.3" cy="203.4" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/variants/s6/dp2dg6k2db6k1r2~x4/"><circle cx="138.1" cy="236.0" r="4" fill="#3465a4"><title>MacCaughan or MacEachain (Personal)</title></circle></a><a href="/variants/s6/k4g16k14y3db16r4~x2/"><circle cx="78.8" cy="226.5" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/variants/s6/k4dg16k14ly3t16r4~x2/"><circle cx="77.4" cy="226.2" r="4" fill="#3465a4"><title>Birse</title></circle></a><circle cx="110.8" cy="256.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r7db20r4k18g20dp5~x2/"><circle cx="52.1" cy="234.3" r="4" fill="#3465a4"><title>Williamson (Personal)</title></circle></a><a href="/variants/s5/dr4db14k15dg14y4~x2/"><circle cx="107.2" cy="280.6" r="4" fill="#3465a4"><title>Scots Heritage</title></circle></a><a href="/variants/s5/k1dg8r6db8k1~x4/"><circle cx="166.0" cy="232.2" r="4" fill="#3465a4"><title>Edinburgh Tattoo 50th (Commemorative</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="76.3" cy="211.4" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s5/r4dg15k15db15lb4~x2/"><circle cx="66.0" cy="265.3" r="4" fill="#3465a4"><title>Dalmeny #1</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="133.4" cy="262.7" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><circle cx="183.4" cy="203.8" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/variants/s6/dp2dg6k2db6k1r2~x4/"><circle cx="138.2" cy="236.4" r="4" fill="#3465a4"><title>MacCaughan or MacEachain (Personal)</title></circle></a><a href="/variants/s6/k4g16k14y3db16r4~x2/"><circle cx="78.8" cy="227.0" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/variants/s6/k4dg16k14ly3t16r4~x2/"><circle cx="77.5" cy="226.8" r="4" fill="#3465a4"><title>Birse</title></circle></a><circle cx="110.9" cy="257.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dr7db20dr4k18g20dp5~x2~db1406275-k0700000/

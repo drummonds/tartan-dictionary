@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Blue Meadow Check (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t4g8t18w3/)
 (the same proportion at any scale), whose colour order is pattern [BGBW](/stripes/bgbw/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3707
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3707](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3707)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db2g7db7w1~x2/"><circle cx="322.9" cy="292.5" r="4" fill="#3465a4"><title>Unidentified No 78</title></circle></a><a href="/variants/s4/lb48g25lb13y5~x2/"><circle cx="476.5" cy="295.6" r="4" fill="#3465a4"><title>Laurel Park</title></circle></a><a href="/variants/s5/lb4w2g17lb17lo2~x4~w4000000-g2405163/"><circle cx="389.9" cy="278.9" r="4" fill="#3465a4"><title>Bermuda (1986)</title></circle></a><a href="/variants/s5/lb4w2g17lb17lo2~x4/"><circle cx="354.4" cy="267.2" r="4" fill="#3465a4"><title>Bermuda (1986) (Fashion)</title></circle></a><a href="/variants/s5/db11g2db15g18w2~x2/"><circle cx="341.1" cy="271.6" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/variants/s4/w2g13b13w2~x6/"><circle cx="300.7" cy="299.1" r="4" fill="#3465a4"><title>Dunoon</title></circle></a><a href="/variants/s4/b30y5b4r12~x4/"><circle cx="429.1" cy="247.5" r="4" fill="#3465a4"><title>UEFA (Glasgow)</title></circle></a><a href="/variants/s6/g8w3n6db11n30db5~x2/"><circle cx="374.5" cy="242.8" r="4" fill="#3465a4"><title>Craig Devlin (Dundee) (Personal)</title></circle></a><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/"><circle cx="441.5" cy="233.0" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><a href="/variants/s3/g9r2lb2~x4/"><circle cx="421.0" cy="305.1" r="4" fill="#3465a4"><title>Wilson's, No 212</title></circle></a><circle cx="471.5" cy="322.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db2g7db7w1~x2/"><circle cx="323.1" cy="293.3" r="4" fill="#3465a4"><title>Unidentified No 78</title></circle></a><a href="/variants/s4/lb48g25lb13y5~x2/"><circle cx="476.8" cy="296.2" r="4" fill="#3465a4"><title>Laurel Park</title></circle></a><a href="/variants/s5/lb4w2g17lb17lo2~x4~w4000000-g2405163/"><circle cx="390.1" cy="279.3" r="4" fill="#3465a4"><title>Bermuda (1986)</title></circle></a><a href="/variants/s5/lb4w2g17lb17lo2~x4/"><circle cx="354.7" cy="267.7" r="4" fill="#3465a4"><title>Bermuda (1986) (Fashion)</title></circle></a><a href="/variants/s5/db11g2db15g18w2~x2/"><circle cx="341.2" cy="272.2" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/variants/s4/w2g13b13w2~x6/"><circle cx="301.0" cy="299.9" r="4" fill="#3465a4"><title>Dunoon</title></circle></a><a href="/variants/s4/b30y5b4r12~x4/"><circle cx="429.3" cy="248.0" r="4" fill="#3465a4"><title>UEFA (Glasgow)</title></circle></a><a href="/variants/s6/g8w3n6db11n30db5~x2/"><circle cx="374.6" cy="243.2" r="4" fill="#3465a4"><title>Craig Devlin (Dundee) (Personal)</title></circle></a><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/"><circle cx="441.6" cy="233.5" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><a href="/variants/s3/g9r2lb2~x4/"><circle cx="421.3" cy="305.9" r="4" fill="#3465a4"><title>Wilson's, No 212</title></circle></a><circle cx="471.8" cy="323.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/t4g8t18w3~x2/

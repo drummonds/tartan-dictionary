@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Steve Walls Commemorative"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3y1db15g16db3r6db6g8db15w3/)
 (the same proportion at any scale), whose colour order is pattern [RGBGBRBGBW](/stripes/rgbgbrbgbw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10891
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10891](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10891)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g14dp11lb3k2lb3dp11g14dy1~x2~g2203152-dp1105325/"><circle cx="238.0" cy="182.6" r="4" fill="#3465a4"><title>Wellington (Wilson 122)</title></circle></a><a href="/variants/s9/r2ly13db8ly3db33g3db8g13o2~x2/"><circle cx="281.6" cy="147.1" r="4" fill="#3465a4"><title>Burt #1 (Name)</title></circle></a><a href="/variants/s8/db6y2db22g7r2w11g11db3~x2/"><circle cx="202.9" cy="185.3" r="4" fill="#3465a4"><title>Bahamas District Tartan</title></circle></a><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="294.8" cy="208.1" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><a href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/"><circle cx="207.2" cy="197.5" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s9/db2n10db1n1db10r1db10g10w2~x2/"><circle cx="248.3" cy="196.7" r="4" fill="#3465a4"><title>American Soc.of Travel Agents (Corp)</title></circle></a><a href="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/"><circle cx="173.7" cy="154.2" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="339.8" cy="183.7" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s8/db15w2g2ly15r3db21r3g15~x2/"><circle cx="195.6" cy="189.8" r="4" fill="#3465a4"><title>Loyalhanna</title></circle></a><a href="/variants/s10/db22g6db5lb2g22r6g5r4g9w3~x2/"><circle cx="235.6" cy="179.2" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><circle cx="246.0" cy="174.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g14dp11lb3k2lb3dp11g14dy1~x2~g2203152-dp1105325/"><circle cx="238.0" cy="183.0" r="4" fill="#3465a4"><title>Wellington (Wilson 122)</title></circle></a><a href="/variants/s9/r2ly13db8ly3db33g3db8g13o2~x2/"><circle cx="281.6" cy="147.4" r="4" fill="#3465a4"><title>Burt #1 (Name)</title></circle></a><a href="/variants/s8/db6y2db22g7r2w11g11db3~x2/"><circle cx="202.9" cy="185.8" r="4" fill="#3465a4"><title>Bahamas District Tartan</title></circle></a><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="294.9" cy="208.5" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><a href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/"><circle cx="207.2" cy="197.9" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s9/db2n10db1n1db10r1db10g10w2~x2/"><circle cx="248.3" cy="197.1" r="4" fill="#3465a4"><title>American Soc.of Travel Agents (Corp)</title></circle></a><a href="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/"><circle cx="173.7" cy="154.6" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="339.8" cy="184.1" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s8/db15w2g2ly15r3db21r3g15~x2/"><circle cx="195.7" cy="190.3" r="4" fill="#3465a4"><title>Loyalhanna</title></circle></a><a href="/variants/s10/db22g6db5lb2g22r6g5r4g9w3~x2/"><circle cx="235.7" cy="179.6" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><circle cx="246.0" cy="174.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r3y1db15g16db3r6db6g8db15w3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Caledonian Brewery Corporate Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lbi4k13g6dr16lb2dr2g2/)
 (the same proportion at any scale), whose colour order is pattern [GBWBGKW](/stripes/gbwbgkw/).
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2315
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2315](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2315)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w5k26dy26lb7k3r3~x2/"><circle cx="154.3" cy="173.9" r="4" fill="#3465a4"><title>Cornish National District Tartan</title></circle></a><a href="/variants/s7/dp6k3dp21k23w3g24r3~x2/"><circle cx="115.3" cy="186.7" r="4" fill="#3465a4"><title>Colquhoun #3</title></circle></a><a href="/variants/s6/w5k26y26lb7k3r3~x2/"><circle cx="147.2" cy="172.8" r="4" fill="#3465a4"><title>Cornish, National</title></circle></a><a href="/variants/s6/w2k11y11db3k1r1~x2/"><circle cx="163.4" cy="162.6" r="4" fill="#3465a4"><title>Cornish National #2</title></circle></a><a href="/variants/s6/o3k17dt11o2oi20w2~x2~dt1600000-oi2500000/"><circle cx="128.7" cy="180.8" r="4" fill="#3465a4"><title>Commonwealth Games Council (Corp.)</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="108.7" cy="195.2" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/variants/s9/lb1k1dr10g10k5db5dr10k1lb1~x4/"><circle cx="180.9" cy="171.4" r="4" fill="#3465a4"><title>Graham of Montrose Red</title></circle></a><a href="/variants/s6/w2k11y11lb3k1r1~x2/"><circle cx="158.6" cy="161.3" r="4" fill="#3465a4"><title>Cornish National Small Set Tartan</title></circle></a><a href="/variants/s6/w6k29n29dp7k3r3~x2/"><circle cx="163.4" cy="168.6" r="4" fill="#3465a4"><title>Jewell of Kernow (Personal)</title></circle></a><a href="/variants/s6/g3k15r8g2n8k2~x4/"><circle cx="164.7" cy="204.3" r="4" fill="#3465a4"><title>Thompson Black (Fashion)</title></circle></a><circle cx="139.2" cy="180.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w5k26dy26lb7k3r3~x2/"><circle cx="154.3" cy="174.4" r="4" fill="#3465a4"><title>Cornish National District Tartan</title></circle></a><a href="/variants/s7/dp6k3dp21k23w3g24r3~x2/"><circle cx="115.3" cy="187.2" r="4" fill="#3465a4"><title>Colquhoun #3</title></circle></a><a href="/variants/s6/w5k26y26lb7k3r3~x2/"><circle cx="147.3" cy="173.3" r="4" fill="#3465a4"><title>Cornish, National</title></circle></a><a href="/variants/s6/w2k11y11db3k1r1~x2/"><circle cx="163.4" cy="163.0" r="4" fill="#3465a4"><title>Cornish National #2</title></circle></a><a href="/variants/s6/o3k17dt11o2oi20w2~x2~dt1600000-oi2500000/"><circle cx="128.7" cy="181.2" r="4" fill="#3465a4"><title>Commonwealth Games Council (Corp.)</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="108.7" cy="195.7" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/variants/s9/lb1k1dr10g10k5db5dr10k1lb1~x4/"><circle cx="180.9" cy="171.8" r="4" fill="#3465a4"><title>Graham of Montrose Red</title></circle></a><a href="/variants/s6/w2k11y11lb3k1r1~x2/"><circle cx="158.6" cy="161.8" r="4" fill="#3465a4"><title>Cornish National Small Set Tartan</title></circle></a><a href="/variants/s6/w6k29n29dp7k3r3~x2/"><circle cx="163.3" cy="169.1" r="4" fill="#3465a4"><title>Jewell of Kernow (Personal)</title></circle></a><a href="/variants/s6/g3k15r8g2n8k2~x4/"><circle cx="164.7" cy="204.9" r="4" fill="#3465a4"><title>Thompson Black (Fashion)</title></circle></a><circle cx="139.2" cy="181.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lbi4k13g6dr16lb2dr2g2~x2~lbi3200000-lb3103284/

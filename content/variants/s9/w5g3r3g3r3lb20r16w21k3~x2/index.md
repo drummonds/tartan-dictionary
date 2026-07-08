@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Oliver Dress, Pink (Dance?)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w5g3r3g3r3lb20r16w21k3/)
 (the same proportion at any scale), whose colour order is pattern [KWRWRGRGW](/stripes/kwrwrgrgw/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1259
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1259](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1259)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w4lb32w12k5r9lo8r4w4~x2/"><circle cx="152.1" cy="172.5" r="4" fill="#3465a4"><title>Brunnbauer (2015)</title></circle></a><a href="/variants/s7/k2lb10r5w2db2w2r2~x6/"><circle cx="116.5" cy="197.7" r="4" fill="#3465a4"><title>U.S. Postal Service (Corporate)</title></circle></a><a href="/variants/s10/r5w28r5lb3r5k21r5lb28w3y5~x2/"><circle cx="73.4" cy="149.8" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress (Dist)</title></circle></a><a href="/variants/s10/y4w2y2w8r16g3r3g8r6k2~x2/"><circle cx="163.6" cy="169.0" r="4" fill="#3465a4"><title>Melieres, Carolyn (Personal)</title></circle></a><a href="/variants/s6/r1w12g6r8lb3y1~x4/"><circle cx="183.5" cy="198.5" r="4" fill="#3465a4"><title>MacLean, dress</title></circle></a><a href="/variants/s7/r34w3dg4g23w24k3dg4~x2/"><circle cx="135.9" cy="163.1" r="4" fill="#3465a4"><title>MacLachlan Dress Clan Tartan</title></circle></a><a href="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/"><circle cx="191.3" cy="149.1" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/variants/s7/r19lb5t2w12t2y4g8~x2/"><circle cx="141.1" cy="187.7" r="4" fill="#3465a4"><title>Northern Ontario (District)</title></circle></a><a href="/variants/s6/k4lb28r6w12r12w3~x2/"><circle cx="201.3" cy="206.4" r="4" fill="#3465a4"><title>Thompson, D.C. (Personal)</title></circle></a><a href="/variants/s7/r19lb5t2w12t2y4g8~x2~g2203152/"><circle cx="147.4" cy="188.8" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><circle cx="128.4" cy="182.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w4lb32w12k5r9lo8r4w4~x2/"><circle cx="152.1" cy="173.0" r="4" fill="#3465a4"><title>Brunnbauer (2015)</title></circle></a><a href="/variants/s7/k2lb10r5w2db2w2r2~x6/"><circle cx="116.6" cy="198.3" r="4" fill="#3465a4"><title>U.S. Postal Service (Corporate)</title></circle></a><a href="/variants/s10/r5w28r5lb3r5k21r5lb28w3y5~x2/"><circle cx="73.4" cy="150.3" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress (Dist)</title></circle></a><a href="/variants/s10/y4w2y2w8r16g3r3g8r6k2~x2/"><circle cx="163.6" cy="169.6" r="4" fill="#3465a4"><title>Melieres, Carolyn (Personal)</title></circle></a><a href="/variants/s6/r1w12g6r8lb3y1~x4/"><circle cx="183.6" cy="199.0" r="4" fill="#3465a4"><title>MacLean, dress</title></circle></a><a href="/variants/s7/r34w3dg4g23w24k3dg4~x2/"><circle cx="135.9" cy="163.6" r="4" fill="#3465a4"><title>MacLachlan Dress Clan Tartan</title></circle></a><a href="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/"><circle cx="191.3" cy="149.5" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/variants/s7/r19lb5t2w12t2y4g8~x2/"><circle cx="141.2" cy="188.2" r="4" fill="#3465a4"><title>Northern Ontario (District)</title></circle></a><a href="/variants/s6/k4lb28r6w12r12w3~x2/"><circle cx="201.4" cy="207.0" r="4" fill="#3465a4"><title>Thompson, D.C. (Personal)</title></circle></a><a href="/variants/s7/r19lb5t2w12t2y4g8~x2~g2203152/"><circle cx="147.5" cy="189.3" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><circle cx="128.5" cy="183.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/w5g3r3g3r3lb20r16w21k3~x2/

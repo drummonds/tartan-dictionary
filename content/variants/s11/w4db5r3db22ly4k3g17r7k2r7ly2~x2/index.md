@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Crozier/Crosser"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4db5r3db22ly4k3g17r7k2r7ly2/)
 (the same proportion at any scale), whose colour order is pattern [WBRBYKGRKRY](/stripes/wbrbykgrkry/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=816
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=816](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=816)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w4db5r3db22y4k3g17r7k2r7y2~x2/"><circle cx="100.2" cy="134.0" r="4" fill="#3465a4"><title>Crosser, Crozier</title></circle></a><a href="/variants/s11/w4db5r3db22dy4k3g17r7k2r7dy2~x2/"><circle cx="100.6" cy="133.8" r="4" fill="#3465a4"><title>Crosser Crozier Family Tartan</title></circle></a><a href="/variants/s11/db8k8y2k3w3k3g24r16db3r4k2~x2/"><circle cx="82.4" cy="122.6" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s10/r3g18r4lb3r4k13r3db18g2y3~x2/"><circle cx="60.4" cy="148.6" r="4" fill="#3465a4"><title>Stirling, and Bannockburn</title></circle></a><a href="/variants/s9/k3ri3g21r8ri3r4k3db26w3~x2~ri2008029-r1707016/"><circle cx="110.0" cy="144.4" r="4" fill="#3465a4"><title>Dunedin</title></circle></a><a href="/variants/s9/r2k1y2g3y4g3db12k1w2~x4/"><circle cx="130.4" cy="137.8" r="4" fill="#3465a4"><title>Federated Women's Institutes of</title></circle></a><a href="/variants/s9/r17k5w4k6ly5db31k5g6w3~x2/"><circle cx="98.4" cy="133.1" r="4" fill="#3465a4"><title>Dean/Dundas (Personal)</title></circle></a><a href="/variants/s10/r15g6db36w2k6w2g30r32k6lb4/"><circle cx="119.5" cy="116.2" r="4" fill="#3465a4"><title>Steiff</title></circle></a><a href="/variants/s12/db25g5db2y2k2r3g20r20db2w2k2r2~x2/"><circle cx="130.9" cy="109.9" r="4" fill="#3465a4"><title>Quebec, Plaid Du</title></circle></a><a href="/variants/s9/dr3w6y4k25w3n30o30w3k2~x2~n1900000-o2500000/"><circle cx="90.7" cy="124.5" r="4" fill="#3465a4"><title>Craparo</title></circle></a><circle cx="93.0" cy="131.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w4db5r3db22y4k3g17r7k2r7y2~x2/"><circle cx="100.2" cy="134.3" r="4" fill="#3465a4"><title>Crosser, Crozier</title></circle></a><a href="/variants/s11/w4db5r3db22dy4k3g17r7k2r7dy2~x2/"><circle cx="100.5" cy="134.1" r="4" fill="#3465a4"><title>Crosser Crozier Family Tartan</title></circle></a><a href="/variants/s11/db8k8y2k3w3k3g24r16db3r4k2~x2/"><circle cx="82.4" cy="122.9" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s10/r3g18r4lb3r4k13r3db18g2y3~x2/"><circle cx="60.4" cy="148.9" r="4" fill="#3465a4"><title>Stirling, and Bannockburn</title></circle></a><a href="/variants/s9/k3ri3g21r8ri3r4k3db26w3~x2~ri2008029-r1707016/"><circle cx="110.0" cy="144.7" r="4" fill="#3465a4"><title>Dunedin</title></circle></a><a href="/variants/s9/r2k1y2g3y4g3db12k1w2~x4/"><circle cx="130.4" cy="138.0" r="4" fill="#3465a4"><title>Federated Women's Institutes of</title></circle></a><a href="/variants/s9/r17k5w4k6ly5db31k5g6w3~x2/"><circle cx="98.3" cy="133.5" r="4" fill="#3465a4"><title>Dean/Dundas (Personal)</title></circle></a><a href="/variants/s10/r15g6db36w2k6w2g30r32k6lb4/"><circle cx="119.4" cy="116.4" r="4" fill="#3465a4"><title>Steiff</title></circle></a><a href="/variants/s12/db25g5db2y2k2r3g20r20db2w2k2r2~x2/"><circle cx="130.8" cy="110.1" r="4" fill="#3465a4"><title>Quebec, Plaid Du</title></circle></a><a href="/variants/s9/dr3w6y4k25w3n30o30w3k2~x2~n1900000-o2500000/"><circle cx="90.6" cy="124.8" r="4" fill="#3465a4"><title>Craparo</title></circle></a><circle cx="92.9" cy="132.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/w4db5r3db22ly4k3g17r7k2r7ly2~x2/

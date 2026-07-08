@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Diana Hunting Plaid"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy46lb3dy7g2r2g2w2g11lb6db2lb3r2/)
 (the same proportion at any scale), whose colour order is pattern [GWGGRGWGWBWR](/stripes/gwggrgwgwbwr/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=929
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=929](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=929)
 
 ## Provenance
 
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy62y7g7r3w3db13w3r5~x2/"><circle cx="338.1" cy="108.6" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s17/dt31w2g2y1w1y1g2w1r5w2dt3b2g1b2dt3w2r2~x2/"><circle cx="310.0" cy="45.1" r="4" fill="#3465a4"><title>7th Cavalry (Military)</title></circle></a><a href="/variants/s9/y3g6dg32r4y2r2dp7dg2w2~x2/"><circle cx="309.9" cy="124.9" r="4" fill="#3465a4"><title>Pienaar (Personal)</title></circle></a><a href="/variants/s10/dg67k2dg2k2dg2y8r8k8y2lb7~x2/"><circle cx="381.1" cy="66.9" r="4" fill="#3465a4"><title>Moran (French) (Name)</title></circle></a><a href="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/"><circle cx="350.7" cy="71.3" r="4" fill="#3465a4"><title>British Caledonian Airways #2</title></circle></a><a href="/variants/s12/dr42db3dr6lo2dr2lb2dr2g14r8dr2r3lb2~x2/"><circle cx="354.8" cy="88.2" r="4" fill="#3465a4"><title>Wcwm 1286-9</title></circle></a><a href="/variants/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/"><circle cx="343.2" cy="132.8" r="4" fill="#3465a4"><title>Chisholm Hunting Clan Tartan</title></circle></a><a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4~ly2503076/"><circle cx="250.2" cy="61.1" r="4" fill="#3465a4"><title>U.S. Customs &amp; Border Protection</title></circle></a><a href="/variants/s8/dr62ly7g7r3w3db13w3r5~x2/"><circle cx="324.6" cy="98.7" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/"><circle cx="261.4" cy="85.5" r="4" fill="#3465a4"><title>Mighty Men (Corporate)</title></circle></a><circle cx="329.1" cy="79.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy62y7g7r3w3db13w3r5~x2/"><circle cx="338.1" cy="108.7" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s17/dt31w2g2y1w1y1g2w1r5w2dt3b2g1b2dt3w2r2~x2/"><circle cx="309.8" cy="45.0" r="4" fill="#3465a4"><title>7th Cavalry (Military)</title></circle></a><a href="/variants/s9/y3g6dg32r4y2r2dp7dg2w2~x2/"><circle cx="309.8" cy="125.1" r="4" fill="#3465a4"><title>Pienaar (Personal)</title></circle></a><a href="/variants/s10/dg67k2dg2k2dg2y8r8k8y2lb7~x2/"><circle cx="381.0" cy="66.9" r="4" fill="#3465a4"><title>Moran (French) (Name)</title></circle></a><a href="/variants/s12/n68t5k9lo3k3lb3k3n20dr9k3dr5lb4/"><circle cx="350.6" cy="71.3" r="4" fill="#3465a4"><title>British Caledonian Airways #2</title></circle></a><a href="/variants/s12/dr42db3dr6lo2dr2lb2dr2g14r8dr2r3lb2~x2/"><circle cx="354.7" cy="88.2" r="4" fill="#3465a4"><title>Wcwm 1286-9</title></circle></a><a href="/variants/s10/dy6w1dy24db6g2db1g2db1g12r1~x2/"><circle cx="343.1" cy="132.9" r="4" fill="#3465a4"><title>Chisholm Hunting Clan Tartan</title></circle></a><a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4~ly2503076/"><circle cx="250.1" cy="61.2" r="4" fill="#3465a4"><title>U.S. Customs &amp; Border Protection</title></circle></a><a href="/variants/s8/dr62ly7g7r3w3db13w3r5~x2/"><circle cx="324.5" cy="98.9" r="4" fill="#3465a4"><title>Legion of Frontiersmen</title></circle></a><a href="/variants/s14/g20lb1o2lb1o2db4r1db1r1db1r1db1r2w2~x4/"><circle cx="261.3" cy="85.6" r="4" fill="#3465a4"><title>Mighty Men (Corporate)</title></circle></a><circle cx="329.0" cy="79.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dy46lb3dy7g2r2g2w2g11lb6db2lb3r2~x2/

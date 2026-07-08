@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Culloden - 1977 (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b2w4k2w1b4k1b1g1/)
 (the same proportion at any scale), whose colour order is pattern [BWKWBKBG](/stripes/bwkwbkbg/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4622
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4622](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4622)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lb7k2w2k2w2k2lb7t4k10w2~x4~lb3103284-t2405244/"><circle cx="113.5" cy="208.1" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/variants/s8/k3db10ly5db16g3w16g5w3~x2/"><circle cx="112.6" cy="205.9" r="4" fill="#3465a4"><title>Ship Hector, The (Commemorative)</title></circle></a><a href="/variants/s7/k4db2k15w10lb15db2lb4~x2~k0503265-db1605267/"><circle cx="127.4" cy="206.3" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/variants/s8/k4db9y6db22g4w20g6w4/"><circle cx="111.6" cy="200.2" r="4" fill="#3465a4"><title>Ship Hector</title></circle></a><a href="/variants/s8/dy2db6w2db9w9db2w6r2~x4/"><circle cx="177.9" cy="241.7" r="4" fill="#3465a4"><title>North Vancouver Island</title></circle></a><a href="/variants/s8/r2w6db2w9db9w2db6y2~x2/"><circle cx="178.7" cy="242.1" r="4" fill="#3465a4"><title>North Vancouver, Island</title></circle></a><a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4/"><circle cx="145.4" cy="218.9" r="4" fill="#3465a4"><title>Commonwealth Games 1986 (Corporate)</title></circle></a><a href="/variants/s10/db12w4r12w5k4w12db20r4db5r4~x2/"><circle cx="147.4" cy="215.8" r="4" fill="#3465a4"><title>Commonwealth, Games 1986</title></circle></a><a href="/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/"><circle cx="105.6" cy="185.9" r="4" fill="#3465a4"><title>Ship Hector, The</title></circle></a><a href="/variants/s6/lb1w6b1lb3k3lb1~x8/"><circle cx="143.2" cy="226.4" r="4" fill="#3465a4"><title>Thompson (Dance)</title></circle></a><circle cx="123.7" cy="236.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lb7k2w2k2w2k2lb7t4k10w2~x4~lb3103284-t2405244/"><circle cx="113.6" cy="208.7" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/variants/s8/k3db10ly5db16g3w16g5w3~x2/"><circle cx="112.7" cy="206.5" r="4" fill="#3465a4"><title>Ship Hector, The (Commemorative)</title></circle></a><a href="/variants/s7/k4db2k15w10lb15db2lb4~x2~k0503265-db1605267/"><circle cx="127.4" cy="206.9" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/variants/s8/k4db9y6db22g4w20g6w4/"><circle cx="111.6" cy="200.8" r="4" fill="#3465a4"><title>Ship Hector</title></circle></a><a href="/variants/s8/dy2db6w2db9w9db2w6r2~x4/"><circle cx="178.0" cy="242.4" r="4" fill="#3465a4"><title>North Vancouver Island</title></circle></a><a href="/variants/s8/r2w6db2w9db9w2db6y2~x2/"><circle cx="178.9" cy="242.9" r="4" fill="#3465a4"><title>North Vancouver, Island</title></circle></a><a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4/"><circle cx="145.5" cy="219.6" r="4" fill="#3465a4"><title>Commonwealth Games 1986 (Corporate)</title></circle></a><a href="/variants/s10/db12w4r12w5k4w12db20r4db5r4~x2/"><circle cx="147.5" cy="216.4" r="4" fill="#3465a4"><title>Commonwealth, Games 1986</title></circle></a><a href="/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/"><circle cx="105.7" cy="186.4" r="4" fill="#3465a4"><title>Ship Hector, The</title></circle></a><a href="/variants/s6/lb1w6b1lb3k3lb1~x8/"><circle cx="143.4" cy="227.1" r="4" fill="#3465a4"><title>Thompson (Dance)</title></circle></a><circle cx="123.8" cy="237.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/b2w4k2w1b4k1b1g1~x4/

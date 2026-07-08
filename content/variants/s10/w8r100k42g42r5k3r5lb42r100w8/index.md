@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Plaid #7"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w8r100k42g42r5k3r5lb42r100w8/)
 (the same proportion at any scale), whose colour order is pattern [WRKGRKRWRW](/stripes/wrkgrkrwrw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4354
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4354](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4354)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/"><circle cx="319.0" cy="105.6" r="4" fill="#3465a4"><title>Hoben (Personal)</title></circle></a><a href="/variants/s14/r103k8g16w4r9k3r9w4g7db41k14r14w10g6/"><circle cx="267.8" cy="49.2" r="4" fill="#3465a4"><title>MacFarlane, Red</title></circle></a><a href="/variants/s7/r28g4k4g4k4lb6y1~x2/"><circle cx="275.8" cy="99.4" r="4" fill="#3465a4"><title>Livingstone MacLay MacLeay</title></circle></a><a href="/variants/s8/r24lb2lo7lb3k8lb1r4lb1~x2/"><circle cx="267.4" cy="75.6" r="4" fill="#3465a4"><title>VeMMA Corporate Tartan</title></circle></a><a href="/variants/s12/r47k1r6w3db2w3r6k13g2w2r2k13~x2/"><circle cx="326.7" cy="32.2" r="4" fill="#3465a4"><title>Trevison</title></circle></a><a href="/variants/s9/r33w1k3w1g13r7k3dp3w1~x2/"><circle cx="334.2" cy="72.4" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, dress</title></circle></a><a href="/variants/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/"><circle cx="325.8" cy="73.1" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/variants/s9/r40y1k2n1w15r5k5n5w1~x2/"><circle cx="324.5" cy="57.8" r="4" fill="#3465a4"><title>Drummond of Perth Dress</title></circle></a><a href="/variants/s9/r8y1g20r29k2r29w20r2db7~x2/"><circle cx="258.8" cy="102.0" r="4" fill="#3465a4"><title>Unidentified Travelling costume</title></circle></a><a href="/variants/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="328.5" cy="72.0" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><circle cx="285.7" cy="86.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/"><circle cx="318.9" cy="105.9" r="4" fill="#3465a4"><title>Hoben (Personal)</title></circle></a><a href="/variants/s14/r103k8g16w4r9k3r9w4g7db41k14r14w10g6/"><circle cx="267.6" cy="49.4" r="4" fill="#3465a4"><title>MacFarlane, Red</title></circle></a><a href="/variants/s7/r28g4k4g4k4lb6y1~x2/"><circle cx="275.8" cy="99.7" r="4" fill="#3465a4"><title>Livingstone MacLay MacLeay</title></circle></a><a href="/variants/s8/r24lb2lo7lb3k8lb1r4lb1~x2/"><circle cx="267.3" cy="75.9" r="4" fill="#3465a4"><title>VeMMA Corporate Tartan</title></circle></a><a href="/variants/s12/r47k1r6w3db2w3r6k13g2w2r2k13~x2/"><circle cx="326.5" cy="32.3" r="4" fill="#3465a4"><title>Trevison</title></circle></a><a href="/variants/s9/r33w1k3w1g13r7k3dp3w1~x2/"><circle cx="334.1" cy="72.6" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, dress</title></circle></a><a href="/variants/s11/g2r26db4r2k4r2g8r4k1r1w2~x2/"><circle cx="325.7" cy="73.4" r="4" fill="#3465a4"><title>Stewart of Rothesay</title></circle></a><a href="/variants/s9/r40y1k2n1w15r5k5n5w1~x2/"><circle cx="324.4" cy="58.0" r="4" fill="#3465a4"><title>Drummond of Perth Dress</title></circle></a><a href="/variants/s9/r8y1g20r29k2r29w20r2db7~x2/"><circle cx="258.8" cy="102.3" r="4" fill="#3465a4"><title>Unidentified Travelling costume</title></circle></a><a href="/variants/s11/dg2r26db4r2k4r2dg8r4k1r1w2~x2/"><circle cx="328.4" cy="72.2" r="4" fill="#3465a4"><title>Stewart/Stuart of Rothesay (Sobieski)</title></circle></a><circle cx="285.6" cy="86.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w8r100k42g42r5k3r5lb42r100w8/

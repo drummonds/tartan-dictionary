@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/clark/"
 - name: "Clark"
   url: "/tartans/clark-2/"
+- name: "Clark (Clerke/Clergy/Priest)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4lb4db14k15lb4k15lb4db7lb4db10lb4/)
 (the same proportion at any scale), whose colour order is pattern [KWBKWKWBWBW](/stripes/kwbkwkwbwbw/).
@@ -16,7 +18,7 @@ Part of the [Clark](/tartans/clark-2/) tartan — the named design grouping this
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=666
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=666)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -86,8 +88,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k2lb2db10k10lb2k10lb2db3lb2db5lb2~x2/"><circle cx="176.0" cy="214.1" r="4" fill="#3465a4"><title>Clergy Blue Tartan</title></circle></a><a href="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x2/"><circle cx="195.2" cy="203.2" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x4/"><circle cx="195.2" cy="203.2" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/variants/s11/k1lb1db6k6lp1k6lb1db2lb1db3lb1~x2/"><circle cx="175.7" cy="189.6" r="4" fill="#3465a4"><title>Clergy &quot;Two Spirit&quot; (Personal)</title></circle></a><a href="/variants/s11/db4w4db19k19w4k19w4db7w4db11w4~x2/"><circle cx="152.0" cy="218.3" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/"><circle cx="154.4" cy="217.5" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/"><circle cx="187.2" cy="178.0" r="4" fill="#3465a4"><title>Immanuel Presbyterian Church (Corp)</title></circle></a><a href="/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/"><circle cx="131.3" cy="223.9" r="4" fill="#3465a4"><title>City of Pointe-Claire</title></circle></a><a href="/variants/s16/db10k2db2k4t5k6t6k4t6k6t5k4db2k2db10k4~x4~db1406275/"><circle cx="142.4" cy="234.7" r="4" fill="#3465a4"><title>Saul (Personal)</title></circle></a><a href="/variants/s9/k4db1k1db1k1db4r2db4w2~x4/"><circle cx="160.1" cy="229.8" r="4" fill="#3465a4"><title>Broz Sanz Elementary (Corporate)</title></circle></a><circle cx="134.8" cy="241.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k2lb2db10k10lb2k10lb2db3lb2db5lb2~x2/"><circle cx="176.1" cy="214.7" r="4" fill="#3465a4"><title>Clergy Blue Tartan</title></circle></a><a href="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x2/"><circle cx="195.2" cy="203.8" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x4/"><circle cx="195.2" cy="203.8" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/variants/s11/k1lb1db6k6lp1k6lb1db2lb1db3lb1~x2/"><circle cx="175.7" cy="190.0" r="4" fill="#3465a4"><title>Clergy &quot;Two Spirit&quot; (Personal)</title></circle></a><a href="/variants/s11/db4w4db19k19w4k19w4db7w4db11w4~x2/"><circle cx="152.1" cy="219.0" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/"><circle cx="154.4" cy="218.1" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/"><circle cx="187.2" cy="178.5" r="4" fill="#3465a4"><title>Immanuel Presbyterian Church (Corp)</title></circle></a><a href="/variants/s10/db4w1dy1k2db4dy2w1dy1w1dy1~x4/"><circle cx="131.3" cy="224.6" r="4" fill="#3465a4"><title>City of Pointe-Claire</title></circle></a><a href="/variants/s16/db10k2db2k4t5k6t6k4t6k6t5k4db2k2db10k4~x4~db1406275/"><circle cx="142.5" cy="235.3" r="4" fill="#3465a4"><title>Saul (Personal)</title></circle></a><a href="/variants/s9/k4db1k1db1k1db4r2db4w2~x4/"><circle cx="160.2" cy="230.4" r="4" fill="#3465a4"><title>Broz Sanz Elementary (Corporate)</title></circle></a><circle cx="134.9" cy="242.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k4lb4db14k15lb4k15lb4db7lb4db10lb4~x2/

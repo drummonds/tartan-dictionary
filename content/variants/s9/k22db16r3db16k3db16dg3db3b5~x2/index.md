@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Jethart"
   url: "/tartans/jethart/"
+- name: "Jethart"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k22db16r3db16k3db16dg3db3b5/)
 (the same proportion at any scale), whose colour order is pattern [BBGBKBRBK](/stripes/bbgbkbrbk/).
@@ -14,7 +16,7 @@ Part of the [Jethart](/tartans/jethart/) tartan — the named design grouping th
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2/"><circle cx="248.1" cy="164.8" r="4" fill="#3465a4"><title>Jethart (District)</title></circle></a><a href="/variants/s6/db1k3db1k3db8r1~x8/"><circle cx="344.7" cy="220.0" r="4" fill="#3465a4"><title>MacKay -1842 (VS) (Clan)</title></circle></a><a href="/variants/s6/db1k3db1k3db8r1~x4/"><circle cx="344.7" cy="220.0" r="4" fill="#3465a4"><title>Morgan (MacKay Blue) Clan Tartan</title></circle></a><a href="/variants/s9/r3db21r3db3k13db13lb3db3w2~x2/"><circle cx="280.6" cy="154.2" r="4" fill="#3465a4"><title>Fitzgerald, Blue</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4/"><circle cx="279.4" cy="221.6" r="4" fill="#3465a4"><title>Atlantic, Ancient (Fashion)</title></circle></a><a href="/variants/s8/db65k9db21y8db21w8db35r35/"><circle cx="328.7" cy="185.3" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/variants/s12/r4dy4db9w3dy2k9db21dy2db2dy2db8dy3~x2/"><circle cx="264.2" cy="150.2" r="4" fill="#3465a4"><title>Ruxton Dress</title></circle></a><a href="/variants/s10/db8k1db8k2dg6r1dg6k2db8lb1~x2/"><circle cx="284.0" cy="204.2" r="4" fill="#3465a4"><title>Dalmeny - 1965 (Fashion)</title></circle></a><a href="/variants/s13/y2db3r2db19k7db6k22db6k7db19r2db3w2~x2/"><circle cx="269.5" cy="144.1" r="4" fill="#3465a4"><title>MacIver of Strome (Personal)</title></circle></a><a href="/variants/s11/db8k3db26k11lb3db8r4db8lb3k2w3~x2/"><circle cx="283.2" cy="136.9" r="4" fill="#3465a4"><title>Dublin Lie-ins (Corporate)</title></circle></a><circle cx="280.0" cy="195.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2/"><circle cx="248.1" cy="165.2" r="4" fill="#3465a4"><title>Jethart (District)</title></circle></a><a href="/variants/s6/db1k3db1k3db8r1~x8/"><circle cx="344.8" cy="220.5" r="4" fill="#3465a4"><title>MacKay -1842 (VS) (Clan)</title></circle></a><a href="/variants/s6/db1k3db1k3db8r1~x4/"><circle cx="344.8" cy="220.5" r="4" fill="#3465a4"><title>Morgan (MacKay Blue) Clan Tartan</title></circle></a><a href="/variants/s9/r3db21r3db3k13db13lb3db3w2~x2/"><circle cx="280.5" cy="154.5" r="4" fill="#3465a4"><title>Fitzgerald, Blue</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4/"><circle cx="279.5" cy="222.1" r="4" fill="#3465a4"><title>Atlantic, Ancient (Fashion)</title></circle></a><a href="/variants/s8/db65k9db21y8db21w8db35r35/"><circle cx="328.7" cy="185.8" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/variants/s12/r4dy4db9w3dy2k9db21dy2db2dy2db8dy3~x2/"><circle cx="264.2" cy="150.5" r="4" fill="#3465a4"><title>Ruxton Dress</title></circle></a><a href="/variants/s10/db8k1db8k2dg6r1dg6k2db8lb1~x2/"><circle cx="284.0" cy="204.5" r="4" fill="#3465a4"><title>Dalmeny - 1965 (Fashion)</title></circle></a><a href="/variants/s13/y2db3r2db19k7db6k22db6k7db19r2db3w2~x2/"><circle cx="269.4" cy="144.3" r="4" fill="#3465a4"><title>MacIver of Strome (Personal)</title></circle></a><a href="/variants/s11/db8k3db26k11lb3db8r4db8lb3k2w3~x2/"><circle cx="283.2" cy="137.2" r="4" fill="#3465a4"><title>Dublin Lie-ins (Corporate)</title></circle></a><circle cx="280.0" cy="195.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k22db16r3db16k3db16dg3db3b5~x2/

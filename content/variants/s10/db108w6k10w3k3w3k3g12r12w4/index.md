@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Racing Stewart"
   url: "/tartans/racing-stewart/"
+- name: "Racing Stewart"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db108w6k10w3k3w3k3g12r12w4/)
 (the same proportion at any scale), whose colour order is pattern [BWKWKWKGRW](/stripes/bwkwkwkgrw/).
@@ -14,7 +16,7 @@ Part of the [Racing Stewart](/tartans/racing-stewart/) tartan — the named desi
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db54lb3k5lb1k2lb1k2g8dr8lb2~x2/"><circle cx="375.4" cy="52.5" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s7/db62k22w3k2w2k3r1~x2/"><circle cx="411.9" cy="81.1" r="4" fill="#3465a4"><title>Tyneside Blue, North Tyneside Pipe Band</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="437.8" cy="85.7" r="4" fill="#3465a4"><title>Michael (John) (Personal)</title></circle></a><a href="/variants/s7/k8dr26k22db110w4k5w4/"><circle cx="373.2" cy="119.1" r="4" fill="#3465a4"><title>University of Edinburgh</title></circle></a><a href="/variants/s11/db90k10y2k4w2k4t14r12k2r5w4/"><circle cx="322.3" cy="29.7" r="4" fill="#3465a4"><title>Lanyard Blue (Fashion)</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="299.2" cy="111.7" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/variants/s7/db60w1y4k4w1lp8w2~x2/"><circle cx="456.9" cy="59.5" r="4" fill="#3465a4"><title>Nunavut Territory (District)</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="260.5" cy="78.4" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan</title></circle></a><a href="/variants/s7/k4w1lb2w1k16db36lb4~x2/"><circle cx="331.0" cy="107.9" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/variants/s7/k4w1lb2w1k16t36lb4~x2~lb3203246-t2405244/"><circle cx="312.5" cy="107.4" r="4" fill="#3465a4"><title>NHS Grampian (Corporate)</title></circle></a><circle cx="360.9" cy="50.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db54lb3k5lb1k2lb1k2g8dr8lb2~x2/"><circle cx="375.2" cy="52.4" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s7/db62k22w3k2w2k3r1~x2/"><circle cx="411.8" cy="81.1" r="4" fill="#3465a4"><title>Tyneside Blue, North Tyneside Pipe Band</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="437.7" cy="85.8" r="4" fill="#3465a4"><title>Michael (John) (Personal)</title></circle></a><a href="/variants/s7/k8dr26k22db110w4k5w4/"><circle cx="373.1" cy="119.3" r="4" fill="#3465a4"><title>University of Edinburgh</title></circle></a><a href="/variants/s11/db90k10y2k4w2k4t14r12k2r5w4/"><circle cx="322.1" cy="29.6" r="4" fill="#3465a4"><title>Lanyard Blue (Fashion)</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="299.1" cy="111.8" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/variants/s7/db60w1y4k4w1lp8w2~x2/"><circle cx="456.8" cy="59.5" r="4" fill="#3465a4"><title>Nunavut Territory (District)</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="260.4" cy="78.5" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan</title></circle></a><a href="/variants/s7/k4w1lb2w1k16db36lb4~x2/"><circle cx="330.9" cy="108.1" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/variants/s7/k4w1lb2w1k16t36lb4~x2~lb3203246-t2405244/"><circle cx="312.4" cy="107.6" r="4" fill="#3465a4"><title>NHS Grampian (Corporate)</title></circle></a><circle cx="360.7" cy="50.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db108w6k10w3k3w3k3g12r12w4/

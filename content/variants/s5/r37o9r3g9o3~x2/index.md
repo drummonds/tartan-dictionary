@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/glen/"
 - name: "Glen Shee"
   url: "/tartans/glen-shee/"
+- name: "Glen Shee"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r37o9r3g9o3/)
 (the same proportion at any scale), whose colour order is pattern [RGRRR](/stripes/rgrrr/).
@@ -16,7 +18,7 @@ Part of the [Glen Shee](/tartans/glen-shee/) tartan — the named design groupin
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr37do9dr3g9do3~x2/"><circle cx="562.4" cy="266.1" r="4" fill="#3465a4"><title>Glen Shee #1 (Fashion)</title></circle></a><a href="/variants/s5/o23dr4o23dr32lo4~x2/"><circle cx="395.3" cy="276.9" r="4" fill="#3465a4"><title>Hamilton, Red (Fashion?)</title></circle></a><a href="/variants/s6/r29g2r2g2r6y21~x4/"><circle cx="512.7" cy="228.7" r="4" fill="#3465a4"><title>Maguire, Black</title></circle></a><a href="/variants/s4/dr5o35dr46ly5~x2/"><circle cx="410.4" cy="261.6" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s5/r37dy9r3g9dy3~x2/"><circle cx="447.0" cy="208.0" r="4" fill="#3465a4"><title>Glenshee #2</title></circle></a><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/"><circle cx="331.0" cy="217.6" r="4" fill="#3465a4"><title>Cetoloni Family Tartan</title></circle></a><a href="/variants/s5/r12w1r2o1n3~x4~o2500000-n1900000/"><circle cx="516.2" cy="195.9" r="4" fill="#3465a4"><title>Glen Shee Plaid (Fashion)</title></circle></a><a href="/variants/s5/r12w1r2lb1n3~x4/"><circle cx="511.8" cy="196.9" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s5/r9y2r45y20ly3~x2~r1706009/"><circle cx="574.3" cy="212.0" r="4" fill="#3465a4"><title>Hunt (Personal)</title></circle></a><circle cx="521.6" cy="233.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr37do9dr3g9do3~x2/"><circle cx="562.6" cy="266.3" r="4" fill="#3465a4"><title>Glen Shee #1 (Fashion)</title></circle></a><a href="/variants/s5/o23dr4o23dr32lo4~x2/"><circle cx="395.5" cy="277.5" r="4" fill="#3465a4"><title>Hamilton, Red (Fashion?)</title></circle></a><a href="/variants/s6/r29g2r2g2r6y21~x4/"><circle cx="512.9" cy="229.0" r="4" fill="#3465a4"><title>Maguire, Black</title></circle></a><a href="/variants/s4/dr5o35dr46ly5~x2/"><circle cx="410.6" cy="262.2" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s5/r37dy9r3g9dy3~x2/"><circle cx="447.1" cy="208.5" r="4" fill="#3465a4"><title>Glenshee #2</title></circle></a><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/"><circle cx="331.1" cy="218.0" r="4" fill="#3465a4"><title>Cetoloni Family Tartan</title></circle></a><a href="/variants/s5/r12w1r2o1n3~x4~o2500000-n1900000/"><circle cx="516.3" cy="196.3" r="4" fill="#3465a4"><title>Glen Shee Plaid (Fashion)</title></circle></a><a href="/variants/s5/r12w1r2lb1n3~x4/"><circle cx="512.0" cy="197.4" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s5/r9y2r45y20ly3~x2~r1706009/"><circle cx="574.4" cy="212.2" r="4" fill="#3465a4"><title>Hunt (Personal)</title></circle></a><circle cx="521.7" cy="233.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r37o9r3g9o3~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "New Mexico"
   url: "/tartans/new-mexico/"
+- name: "New Mexico"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1g16db2g10db22y4r2y1/)
 (the same proportion at any scale), whose colour order is pattern [GRGBGBGR](/stripes/grgbgbgr/).
@@ -14,7 +16,7 @@ Part of the [New Mexico](/tartans/new-mexico/) tartan — the named design group
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/"><circle cx="264.1" cy="198.9" r="4" fill="#3465a4"><title>New Mexico, State of (Fashion)</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/"><circle cx="246.7" cy="193.7" r="4" fill="#3465a4"><title>New Mexico, State of</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="332.4" cy="200.6" r="4" fill="#3465a4"><title>Connacht Irish District Tartan</title></circle></a><a href="/variants/s7/db3g4db20g24k2lr3r1~x2/"><circle cx="275.1" cy="134.4" r="4" fill="#3465a4"><title>Nowell/Noel (Name)</title></circle></a><a href="/variants/s9/r6db2r1db8r3db16g28w2g4~x2/"><circle cx="288.6" cy="146.2" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s9/r6db2r1db16r3db16g28w2g4~x2/"><circle cx="281.8" cy="151.0" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s6/db4r11g11db22y1g4~x2/"><circle cx="289.9" cy="190.0" r="4" fill="#3465a4"><title>Harvey</title></circle></a><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/"><circle cx="335.5" cy="163.9" r="4" fill="#3465a4"><title>MacAuliffe/McAucliffe</title></circle></a><a href="/variants/s9/g28r12g4db20y2db3y2db3g7~x2/"><circle cx="277.9" cy="181.9" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/variants/s7/db26g4db3g3y2g24r2~x2/"><circle cx="321.0" cy="189.0" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><circle cx="300.2" cy="169.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/"><circle cx="264.1" cy="199.3" r="4" fill="#3465a4"><title>New Mexico, State of (Fashion)</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/"><circle cx="246.7" cy="194.2" r="4" fill="#3465a4"><title>New Mexico, State of</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="332.5" cy="201.0" r="4" fill="#3465a4"><title>Connacht Irish District Tartan</title></circle></a><a href="/variants/s7/db3g4db20g24k2lr3r1~x2/"><circle cx="275.1" cy="134.6" r="4" fill="#3465a4"><title>Nowell/Noel (Name)</title></circle></a><a href="/variants/s9/r6db2r1db8r3db16g28w2g4~x2/"><circle cx="288.6" cy="146.4" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s9/r6db2r1db16r3db16g28w2g4~x2/"><circle cx="281.8" cy="151.3" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s6/db4r11g11db22y1g4~x2/"><circle cx="289.9" cy="190.4" r="4" fill="#3465a4"><title>Harvey</title></circle></a><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/"><circle cx="335.5" cy="164.2" r="4" fill="#3465a4"><title>MacAuliffe/McAucliffe</title></circle></a><a href="/variants/s9/g28r12g4db20y2db3y2db3g7~x2/"><circle cx="278.0" cy="182.3" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/variants/s7/db26g4db3g3y2g24r2~x2/"><circle cx="321.0" cy="189.4" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><circle cx="300.2" cy="170.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r1g16db2g10db22y4r2y1~x2/

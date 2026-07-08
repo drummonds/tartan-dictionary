@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Logan, Dark"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k9b4k1b4g15r4k1/)
 (the same proportion at any scale), whose colour order is pattern [KBKBGRK](/stripes/kbkbgrk/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r7g3r2g33k31db31k3db3/"><circle cx="159.1" cy="157.5" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s7/k9lr4k1lr4dg15r4k1~x4~lr2805035-r2109032/"><circle cx="173.3" cy="164.2" r="4" fill="#3465a4"><title>Logan - 1797 (Dark)</title></circle></a><a href="/variants/s6/k4w2g18k13db12k2~x2/"><circle cx="140.9" cy="205.2" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s7/k4db16k12g24r1g2k2~x2/"><circle cx="212.1" cy="146.8" r="4" fill="#3465a4"><title>Dundas</title></circle></a><a href="/variants/s8/k4y2k13y1w8n13y2n4~x2/"><circle cx="138.5" cy="172.1" r="4" fill="#3465a4"><title>Bannockbane Grey #1</title></circle></a><a href="/variants/s7/r4k4dt24k24g24k2r3~x2/"><circle cx="156.6" cy="182.2" r="4" fill="#3465a4"><title>Black Watch (Coarse Kilt)</title></circle></a><a href="/variants/s7/r12db68w7k39g75r6g6/"><circle cx="149.5" cy="161.7" r="4" fill="#3465a4"><title>Rhun (Fashion)</title></circle></a><a href="/variants/s7/r4lb38k4lb6k41g62ly4/"><circle cx="155.3" cy="147.5" r="4" fill="#3465a4"><title>Bennett, John Paul (Personal)</title></circle></a><a href="/variants/s7/g3db12w1k12g13r2g2~x4/"><circle cx="151.1" cy="170.1" r="4" fill="#3465a4"><title>MacFadzean/MacPhedran</title></circle></a><a href="/variants/s7/g3db12w1k12g13r2g2~x2/"><circle cx="151.1" cy="170.1" r="4" fill="#3465a4"><title>Paterson (Personal)</title></circle></a><circle cx="162.1" cy="167.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r7g3r2g33k31db31k3db3/"><circle cx="159.0" cy="157.8" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s7/k9lr4k1lr4dg15r4k1~x4~lr2805035-r2109032/"><circle cx="173.3" cy="164.6" r="4" fill="#3465a4"><title>Logan - 1797 (Dark)</title></circle></a><a href="/variants/s6/k4w2g18k13db12k2~x2/"><circle cx="140.9" cy="205.8" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s7/k4db16k12g24r1g2k2~x2/"><circle cx="212.1" cy="147.2" r="4" fill="#3465a4"><title>Dundas</title></circle></a><a href="/variants/s8/k4y2k13y1w8n13y2n4~x2/"><circle cx="138.6" cy="172.6" r="4" fill="#3465a4"><title>Bannockbane Grey #1</title></circle></a><a href="/variants/s7/r4k4dt24k24g24k2r3~x2/"><circle cx="156.6" cy="182.7" r="4" fill="#3465a4"><title>Black Watch (Coarse Kilt)</title></circle></a><a href="/variants/s7/r12db68w7k39g75r6g6/"><circle cx="149.5" cy="162.1" r="4" fill="#3465a4"><title>Rhun (Fashion)</title></circle></a><a href="/variants/s7/r4lb38k4lb6k41g62ly4/"><circle cx="155.2" cy="147.9" r="4" fill="#3465a4"><title>Bennett, John Paul (Personal)</title></circle></a><a href="/variants/s7/g3db12w1k12g13r2g2~x4/"><circle cx="151.1" cy="170.5" r="4" fill="#3465a4"><title>MacFadzean/MacPhedran</title></circle></a><a href="/variants/s7/g3db12w1k12g13r2g2~x2/"><circle cx="151.1" cy="170.5" r="4" fill="#3465a4"><title>Paterson (Personal)</title></circle></a><circle cx="162.1" cy="168.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k9b4k1b4g15r4k1~x2/

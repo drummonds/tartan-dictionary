@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Blue Brough from Orkney"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4n8db54y6db23n4k4r14k4n2db2k4db4/)
 (the same proportion at any scale), whose colour order is pattern [BKBBKRKBBGBBK](/stripes/bkbbkrkbbgbbk/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10463
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10463](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10463)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2/"><circle cx="331.1" cy="78.0" r="4" fill="#3465a4"><title>Brough from Orkney (Name)</title></circle></a><a href="/variants/s14/db40lb2k4r3n6db2r16db2n6r3k4lb2db40lb6~x2/"><circle cx="315.5" cy="87.7" r="4" fill="#3465a4"><title>St. Leonards</title></circle></a><a href="/variants/s11/y4db5lb2db30k1db4k4db1k15r6w3~x2/"><circle cx="244.1" cy="71.6" r="4" fill="#3465a4"><title>Correctional Service Canada</title></circle></a><a href="/variants/s12/db68o5k9o3k3lb3k3n20db9k3db5lb4/"><circle cx="333.4" cy="81.8" r="4" fill="#3465a4"><title>British Caledonian Airways #1</title></circle></a><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/"><circle cx="353.3" cy="93.9" r="4" fill="#3465a4"><title>European Union (Fashion)</title></circle></a><a href="/variants/s11/db74r6k12y3k3w3r16db8k3r4w3~x2/"><circle cx="319.6" cy="68.5" r="4" fill="#3465a4"><title>Suffolk County Police (Corporate)</title></circle></a><a href="/variants/s11/db50k14g3dr2g3dr2g3dr2g3k2lo2~x2/"><circle cx="327.2" cy="76.6" r="4" fill="#3465a4"><title>Minnock (Name)</title></circle></a><a href="/variants/s8/ly4dp2db30k3dp8db5dp1r2~x2/"><circle cx="388.6" cy="109.0" r="4" fill="#3465a4"><title>Royal British Legion Scotland (Corp)</title></circle></a><a href="/variants/s11/db4y2db5dr11db4dr2db2g10db28k1dr2~x2/"><circle cx="375.0" cy="117.3" r="4" fill="#3465a4"><title>Rabbie Burns</title></circle></a><a href="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/"><circle cx="295.3" cy="103.1" r="4" fill="#3465a4"><title>Mount Dora</title></circle></a><circle cx="344.4" cy="82.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2/"><circle cx="331.0" cy="78.1" r="4" fill="#3465a4"><title>Brough from Orkney (Name)</title></circle></a><a href="/variants/s14/db40lb2k4r3n6db2r16db2n6r3k4lb2db40lb6~x2/"><circle cx="315.4" cy="87.8" r="4" fill="#3465a4"><title>St. Leonards</title></circle></a><a href="/variants/s11/y4db5lb2db30k1db4k4db1k15r6w3~x2/"><circle cx="244.0" cy="71.7" r="4" fill="#3465a4"><title>Correctional Service Canada</title></circle></a><a href="/variants/s12/db68o5k9o3k3lb3k3n20db9k3db5lb4/"><circle cx="333.2" cy="81.8" r="4" fill="#3465a4"><title>British Caledonian Airways #1</title></circle></a><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/"><circle cx="353.2" cy="94.0" r="4" fill="#3465a4"><title>European Union (Fashion)</title></circle></a><a href="/variants/s11/db74r6k12y3k3w3r16db8k3r4w3~x2/"><circle cx="319.5" cy="68.6" r="4" fill="#3465a4"><title>Suffolk County Police (Corporate)</title></circle></a><a href="/variants/s11/db50k14g3dr2g3dr2g3dr2g3k2lo2~x2/"><circle cx="327.0" cy="76.6" r="4" fill="#3465a4"><title>Minnock (Name)</title></circle></a><a href="/variants/s8/ly4dp2db30k3dp8db5dp1r2~x2/"><circle cx="388.5" cy="109.1" r="4" fill="#3465a4"><title>Royal British Legion Scotland (Corp)</title></circle></a><a href="/variants/s11/db4y2db5dr11db4dr2db2g10db28k1dr2~x2/"><circle cx="374.9" cy="117.3" r="4" fill="#3465a4"><title>Rabbie Burns</title></circle></a><a href="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/"><circle cx="295.2" cy="103.1" r="4" fill="#3465a4"><title>Mount Dora</title></circle></a><circle cx="344.3" cy="82.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/k4n8db54y6db23n4k4r14k4n2db2k4db4/

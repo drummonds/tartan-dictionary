@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Care Leaver"
   url: "/tartans/care-leaver/"
+- name: "Care Leaver"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lg15k50w4r18k5db5k15y10k4/)
 (the same proportion at any scale), whose colour order is pattern [KGKBKRWKY](/stripes/kgkbkrwky/).
@@ -14,7 +16,7 @@ Part of the [Care Leaver](/tartans/care-leaver/) tartan — the named design gro
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11184
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11184](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11184)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lbi15k50lb4r18k5db5k15ly10k4~x2~lbi3203246-lb3200000/"><circle cx="210.9" cy="115.3" r="4" fill="#3465a4"><title>Care Leaver</title></circle></a><a href="/variants/s11/db6w3r14k3y2k2w2k38w2k2y2~x2/"><circle cx="270.1" cy="74.1" r="4" fill="#3465a4"><title>Norwegian Night</title></circle></a><a href="/variants/s12/k4r8ly4k2ly4k40g5dp4g5k2t2w4~x2/"><circle cx="210.0" cy="47.8" r="4" fill="#3465a4"><title>MacMunn</title></circle></a><a href="/variants/s10/b6w1k12g6dp2w1dp2w1k12lb1~x2/"><circle cx="184.1" cy="121.5" r="4" fill="#3465a4"><title>Head of the Lakes</title></circle></a><a href="/variants/s8/k1w1y2g1k10db1r2w1~x10/"><circle cx="214.6" cy="114.3" r="4" fill="#3465a4"><title>Kaptain Family (Personal)</title></circle></a><a href="/variants/s12/y2w1r2k20r9k20y7n20k5y1k1r1~x2/"><circle cx="216.8" cy="100.6" r="4" fill="#3465a4"><title>Cates Dress</title></circle></a><a href="/variants/s7/k2r1ly1y8k15y2dp1~x4~ly3307090-y2602166/"><circle cx="262.1" cy="124.3" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/variants/s11/k16n4lb3k2db1w1r1k2lb3n4k12~x4/"><circle cx="266.9" cy="92.3" r="4" fill="#3465a4"><title>Iron Horse</title></circle></a><a href="/variants/s10/k4db16k3db3k32ly7k3r10k2w4~x2/"><circle cx="207.3" cy="111.9" r="4" fill="#3465a4"><title>Model T Ford (Corporate)</title></circle></a><a href="/variants/s11/dr10k3dg2w2k22b4k22dr4dg4dr14w3~x2/"><circle cx="221.7" cy="143.3" r="4" fill="#3465a4"><title>MacDonald, Sir John A</title></circle></a><circle cx="217.4" cy="117.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lbi15k50lb4r18k5db5k15ly10k4~x2~lbi3203246-lb3200000/"><circle cx="210.8" cy="115.6" r="4" fill="#3465a4"><title>Care Leaver</title></circle></a><a href="/variants/s11/db6w3r14k3y2k2w2k38w2k2y2~x2/"><circle cx="270.0" cy="74.3" r="4" fill="#3465a4"><title>Norwegian Night</title></circle></a><a href="/variants/s12/k4r8ly4k2ly4k40g5dp4g5k2t2w4~x2/"><circle cx="209.8" cy="47.9" r="4" fill="#3465a4"><title>MacMunn</title></circle></a><a href="/variants/s10/b6w1k12g6dp2w1dp2w1k12lb1~x2/"><circle cx="184.0" cy="121.8" r="4" fill="#3465a4"><title>Head of the Lakes</title></circle></a><a href="/variants/s8/k1w1y2g1k10db1r2w1~x10/"><circle cx="214.5" cy="114.6" r="4" fill="#3465a4"><title>Kaptain Family (Personal)</title></circle></a><a href="/variants/s12/y2w1r2k20r9k20y7n20k5y1k1r1~x2/"><circle cx="216.7" cy="100.8" r="4" fill="#3465a4"><title>Cates Dress</title></circle></a><a href="/variants/s7/k2r1ly1y8k15y2dp1~x4~ly3307090-y2602166/"><circle cx="262.0" cy="124.7" r="4" fill="#3465a4"><title>Coalfields Regeneration Trust, The</title></circle></a><a href="/variants/s11/k16n4lb3k2db1w1r1k2lb3n4k12~x4/"><circle cx="266.8" cy="92.5" r="4" fill="#3465a4"><title>Iron Horse</title></circle></a><a href="/variants/s10/k4db16k3db3k32ly7k3r10k2w4~x2/"><circle cx="207.2" cy="112.2" r="4" fill="#3465a4"><title>Model T Ford (Corporate)</title></circle></a><a href="/variants/s11/dr10k3dg2w2k22b4k22dr4dg4dr14w3~x2/"><circle cx="221.7" cy="143.6" r="4" fill="#3465a4"><title>MacDonald, Sir John A</title></circle></a><circle cx="217.3" cy="117.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/lg15k50w4r18k5db5k15y10k4~x2~lg2704216-w3600000/

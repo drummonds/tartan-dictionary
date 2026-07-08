@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Buchanan #7"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k18y17k2y17k9r17w2r17k9g18k10g18/)
 (the same proportion at any scale), whose colour order is pattern [GKGKRWRKGKGK](/stripes/gkgkrwrkgkgk/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=420
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=420](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=420)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r8ly2r22k10dg6k6dg10k6dg10dgi3dg3dgi4~x2~dg1303152-dgi1605139/"><circle cx="113.4" cy="161.9" r="4" fill="#3465a4"><title>Iona</title></circle></a><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="93.0" cy="210.2" r="4" fill="#3465a4"><title>Borthwick Hunting</title></circle></a><a href="/variants/s15/dg16w2r7w2k14w8dg15w2g17w6g6r8k6r8k2/"><circle cx="19.2" cy="165.5" r="4" fill="#3465a4"><title>Huntly Old</title></circle></a><a href="/variants/s16/r16t6k8g13r7k8g13r7k2r7k2r7g13k8t6r8~x4/"><circle cx="103.9" cy="198.3" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s10/r4g7y3g12k16lb5r20lb5k4lb2~x2/"><circle cx="81.1" cy="164.6" r="4" fill="#3465a4"><title>Unidentified #9</title></circle></a><a href="/variants/s9/g12k1r10k2y10k14y10k2r4~x2/"><circle cx="113.1" cy="180.6" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/"><circle cx="93.4" cy="166.7" r="4" fill="#3465a4"><title>Etienne-Carter, Sir George</title></circle></a><a href="/variants/s10/k3dy14lo4dy9lo14k14y14g14k1o3~x2~y2202111-g1903114/"><circle cx="40.8" cy="159.8" r="4" fill="#3465a4"><title>Dutch Friendship (Fashion)</title></circle></a><a href="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/"><circle cx="91.7" cy="207.6" r="4" fill="#3465a4"><title>Cawte of Middlebanknock (Personal)</title></circle></a><a href="/variants/s9/g13w2g10k5r13k3r5db15o5~x2/"><circle cx="55.0" cy="186.4" r="4" fill="#3465a4"><title>Glen Chalmadale</title></circle></a><circle cx="53.5" cy="194.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r8ly2r22k10dg6k6dg10k6dg10dgi3dg3dgi4~x2~dg1303152-dgi1605139/"><circle cx="113.4" cy="162.3" r="4" fill="#3465a4"><title>Iona</title></circle></a><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="93.1" cy="210.8" r="4" fill="#3465a4"><title>Borthwick Hunting</title></circle></a><a href="/variants/s15/dg16w2r7w2k14w8dg15w2g17w6g6r8k6r8k2/"><circle cx="19.2" cy="165.9" r="4" fill="#3465a4"><title>Huntly Old</title></circle></a><a href="/variants/s16/r16t6k8g13r7k8g13r7k2r7k2r7g13k8t6r8~x4/"><circle cx="104.0" cy="199.0" r="4" fill="#3465a4"><title>MacDuff</title></circle></a><a href="/variants/s10/r4g7y3g12k16lb5r20lb5k4lb2~x2/"><circle cx="81.1" cy="165.1" r="4" fill="#3465a4"><title>Unidentified #9</title></circle></a><a href="/variants/s9/g12k1r10k2y10k14y10k2r4~x2/"><circle cx="113.2" cy="181.2" r="4" fill="#3465a4"><title>Borthwick D</title></circle></a><a href="/variants/s10/r4g6y3g12k14db5r20db5k4db2~x2/"><circle cx="93.4" cy="167.1" r="4" fill="#3465a4"><title>Etienne-Carter, Sir George</title></circle></a><a href="/variants/s10/k3dy14lo4dy9lo14k14y14g14k1o3~x2~y2202111-g1903114/"><circle cx="40.7" cy="160.2" r="4" fill="#3465a4"><title>Dutch Friendship (Fashion)</title></circle></a><a href="/variants/s9/g13y16w4y4r4y4k20y8r8~x2/"><circle cx="91.8" cy="208.2" r="4" fill="#3465a4"><title>Cawte of Middlebanknock (Personal)</title></circle></a><a href="/variants/s9/g13w2g10k5r13k3r5db15o5~x2/"><circle cx="55.1" cy="186.9" r="4" fill="#3465a4"><title>Glen Chalmadale</title></circle></a><circle cx="53.5" cy="195.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k18y17k2y17k9r17w2r17k9g18k10g18~x2/

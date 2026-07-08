@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Digital Equipment Corp."
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t8k5t16n9t3n3t3n3t10lr3/)
 (the same proportion at any scale), whose colour order is pattern [BKBBBBBBBY](/stripes/bkbbbbbbby/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=937
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=937](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=937)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

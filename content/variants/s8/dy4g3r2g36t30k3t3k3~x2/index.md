@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Chartered Accountants of Scotland"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy4g3r2g36t30k3t3k3/)
 (the same proportion at any scale), whose colour order is pattern [GGRGBKBK](/stripes/ggrgbkbk/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4862
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4862)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y3g2k1g30t24k2t2k2~x2/"><circle cx="350.4" cy="143.7" r="4" fill="#3465a4"><title>Johnston (Clan)</title></circle></a><a href="/variants/s8/y3g2k1g30t24k2t2k2~x2~t2105244/"><circle cx="347.0" cy="122.3" r="4" fill="#3465a4"><title>Johnston/Johnstone</title></circle></a><a href="/variants/s8/k1t1k1t12g12k1g1ly1~x4~t2105244/"><circle cx="266.9" cy="167.1" r="4" fill="#3465a4"><title>Banff Centennial</title></circle></a><a href="/variants/s8/y3g2k1g30db24k2db2k2/"><circle cx="303.2" cy="121.8" r="4" fill="#3465a4"><title>Johnston</title></circle></a><a href="/variants/s8/y3g2k1g30db24k2db2k2~x2/"><circle cx="303.2" cy="121.8" r="4" fill="#3465a4"><title>Johnston / Johnstone</title></circle></a><a href="/variants/s8/k1t1k1t7g8k1g1ly1~x4/"><circle cx="215.8" cy="189.7" r="4" fill="#3465a4"><title>Banff Centennial (Commemorative)</title></circle></a><a href="/variants/s8/r3g1k1g12t12k1t1k1~x4/"><circle cx="238.9" cy="170.9" r="4" fill="#3465a4"><title>Peter of Lee (Personal)</title></circle></a><a href="/variants/s6/dg4w1dg26t26k2t4~x4/"><circle cx="345.2" cy="168.4" r="4" fill="#3465a4"><title>Melville (Two black lines)</title></circle></a><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><circle cx="212.1" cy="165.1" r="4" fill="#3465a4"><title>Gillies (House of Edgar)</title></circle></a><a href="/variants/s7/dp6y2dp1g25db16k2db4~x2~dp1105325/"><circle cx="255.4" cy="141.7" r="4" fill="#3465a4"><title>Lowry Clan Tartan</title></circle></a><circle cx="290.5" cy="148.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y3g2k1g30t24k2t2k2~x2/"><circle cx="350.3" cy="143.8" r="4" fill="#3465a4"><title>Johnston (Clan)</title></circle></a><a href="/variants/s8/y3g2k1g30t24k2t2k2~x2~t2105244/"><circle cx="347.0" cy="122.4" r="4" fill="#3465a4"><title>Johnston/Johnstone</title></circle></a><a href="/variants/s8/k1t1k1t12g12k1g1ly1~x4~t2105244/"><circle cx="266.9" cy="167.4" r="4" fill="#3465a4"><title>Banff Centennial</title></circle></a><a href="/variants/s8/y3g2k1g30db24k2db2k2/"><circle cx="303.2" cy="121.9" r="4" fill="#3465a4"><title>Johnston</title></circle></a><a href="/variants/s8/y3g2k1g30db24k2db2k2~x2/"><circle cx="303.2" cy="121.9" r="4" fill="#3465a4"><title>Johnston / Johnstone</title></circle></a><a href="/variants/s8/k1t1k1t7g8k1g1ly1~x4/"><circle cx="215.8" cy="190.2" r="4" fill="#3465a4"><title>Banff Centennial (Commemorative)</title></circle></a><a href="/variants/s8/r3g1k1g12t12k1t1k1~x4/"><circle cx="238.9" cy="171.2" r="4" fill="#3465a4"><title>Peter of Lee (Personal)</title></circle></a><a href="/variants/s6/dg4w1dg26t26k2t4~x4/"><circle cx="345.2" cy="168.7" r="4" fill="#3465a4"><title>Melville (Two black lines)</title></circle></a><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><circle cx="212.1" cy="165.4" r="4" fill="#3465a4"><title>Gillies (House of Edgar)</title></circle></a><a href="/variants/s7/dp6y2dp1g25db16k2db4~x2~dp1105325/"><circle cx="255.3" cy="141.9" r="4" fill="#3465a4"><title>Lowry Clan Tartan</title></circle></a><circle cx="290.5" cy="148.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dy4g3r2g36t30k3t3k3~x2/

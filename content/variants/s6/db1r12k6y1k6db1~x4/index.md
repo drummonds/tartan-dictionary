@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cetoloni (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1r12k6y1k6db1/)
 (the same proportion at any scale), whose colour order is pattern [BKGKRB](/stripes/bkgkrb/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=612
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=612](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=612)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k1r8k8y1~x6/"><circle cx="262.9" cy="217.5" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s4/k1r8k8y1~x4/"><circle cx="262.9" cy="217.5" r="4" fill="#3465a4"><title>Wallace (Clan)</title></circle></a><a href="/variants/s4/k1r8k8y1/"><circle cx="262.9" cy="217.5" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s4/k1r8k8y1~x2/"><circle cx="262.9" cy="217.5" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s4/r28k4w2k13~x2/"><circle cx="287.4" cy="155.6" r="4" fill="#3465a4"><title>Dunbar Ancient</title></circle></a><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="140.7" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/r8k8lo1k8r8db1~x4~db1406275/"><circle cx="211.1" cy="209.5" r="4" fill="#3465a4"><title>Skinner</title></circle></a><a href="/variants/s6/r8k8y1k8r8w1~x4/"><circle cx="209.3" cy="209.7" r="4" fill="#3465a4"><title>Connel</title></circle></a><a href="/variants/s6/db4r30k6db13k13db3~x2/"><circle cx="217.4" cy="198.7" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish (Bonner)</title></circle></a><a href="/variants/s5/k18r4k18r32w3~x2/"><circle cx="255.0" cy="203.1" r="4" fill="#3465a4"><title>Munro (Black and Red)</title></circle></a><circle cx="227.4" cy="166.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k1r8k8y1~x6/"><circle cx="262.9" cy="218.2" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s4/k1r8k8y1~x4/"><circle cx="262.9" cy="218.2" r="4" fill="#3465a4"><title>Wallace (Clan)</title></circle></a><a href="/variants/s4/k1r8k8y1/"><circle cx="262.9" cy="218.2" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s4/k1r8k8y1~x2/"><circle cx="262.9" cy="218.2" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s4/r28k4w2k13~x2/"><circle cx="287.4" cy="156.1" r="4" fill="#3465a4"><title>Dunbar Ancient</title></circle></a><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="141.2" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/r8k8lo1k8r8db1~x4~db1406275/"><circle cx="211.2" cy="210.1" r="4" fill="#3465a4"><title>Skinner</title></circle></a><a href="/variants/s6/r8k8y1k8r8w1~x4/"><circle cx="209.4" cy="210.4" r="4" fill="#3465a4"><title>Connel</title></circle></a><a href="/variants/s6/db4r30k6db13k13db3~x2/"><circle cx="217.5" cy="199.3" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish (Bonner)</title></circle></a><a href="/variants/s5/k18r4k18r32w3~x2/"><circle cx="255.0" cy="203.8" r="4" fill="#3465a4"><title>Munro (Black and Red)</title></circle></a><circle cx="227.4" cy="167.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db1r12k6y1k6db1~x4/

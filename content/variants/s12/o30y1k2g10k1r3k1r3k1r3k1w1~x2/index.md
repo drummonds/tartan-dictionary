@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tweedmouth Middle School"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o30y1k2g10k1r3k1r3k1r3k1w1/)
 (the same proportion at any scale), whose colour order is pattern [RGKGKRKRKRKW](/stripes/rgkgkrkrkrkw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4167
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4167](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4167)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/"><circle cx="301.9" cy="60.6" r="4" fill="#3465a4"><title>Baxter Clan Tartan</title></circle></a><a href="/variants/s13/r68k1g6db4g1db12w1g6y1g24y1g2y3~x2/"><circle cx="314.5" cy="25.3" r="4" fill="#3465a4"><title>Ellis Island</title></circle></a><a href="/variants/s13/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3~x2/"><circle cx="317.7" cy="26.5" r="4" fill="#3465a4"><title>Ellis Island (District)</title></circle></a><a href="/variants/s14/r6y60db12y6k12y2k2w2k2g18r18k3r4w2~x2/"><circle cx="206.3" cy="57.3" r="4" fill="#3465a4"><title>Victoria (Yellow)</title></circle></a><a href="/variants/s9/y9k1lb4k1r30k1n4g9y3~x2/"><circle cx="265.4" cy="87.3" r="4" fill="#3465a4"><title>Kings Mountain 1780</title></circle></a><a href="/variants/s18/g4r4o1k1r19k1lb1r2db5r2lb1k1r2g24r5o1k1lb3~x2/"><circle cx="211.5" cy="52.5" r="4" fill="#3465a4"><title>Dundas (Red)</title></circle></a><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/"><circle cx="305.7" cy="101.7" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~x2~r1908029/"><circle cx="257.2" cy="20.0" r="4" fill="#3465a4"><title>MacBain</title></circle></a><a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~r1908029/"><circle cx="257.2" cy="20.0" r="4" fill="#3465a4"><title>MacBain</title></circle></a><a href="/variants/s17/g4r3lb1dp1r35dp1lb1r3dp16r3lb1dp1r2g35r7k1lb2~x2/"><circle cx="272.4" cy="51.1" r="4" fill="#3465a4"><title>Unidentified #14</title></circle></a><circle cx="285.0" cy="53.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/"><circle cx="301.8" cy="60.6" r="4" fill="#3465a4"><title>Baxter Clan Tartan</title></circle></a><a href="/variants/s13/r68k1g6db4g1db12w1g6y1g24y1g2y3~x2/"><circle cx="314.4" cy="25.3" r="4" fill="#3465a4"><title>Ellis Island</title></circle></a><a href="/variants/s13/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3~x2/"><circle cx="317.5" cy="26.5" r="4" fill="#3465a4"><title>Ellis Island (District)</title></circle></a><a href="/variants/s14/r6y60db12y6k12y2k2w2k2g18r18k3r4w2~x2/"><circle cx="206.1" cy="57.4" r="4" fill="#3465a4"><title>Victoria (Yellow)</title></circle></a><a href="/variants/s9/y9k1lb4k1r30k1n4g9y3~x2/"><circle cx="265.3" cy="87.4" r="4" fill="#3465a4"><title>Kings Mountain 1780</title></circle></a><a href="/variants/s18/g4r4o1k1r19k1lb1r2db5r2lb1k1r2g24r5o1k1lb3~x2/"><circle cx="211.3" cy="52.6" r="4" fill="#3465a4"><title>Dundas (Red)</title></circle></a><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/"><circle cx="305.7" cy="101.9" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~x2~r1908029/"><circle cx="257.0" cy="20.0" r="4" fill="#3465a4"><title>MacBain</title></circle></a><a href="/variants/s19/r60w2lb5k2w2k2lb5w2k2g12k2w2r5dr5g2dr5r5w2g10~r1908029/"><circle cx="257.0" cy="20.0" r="4" fill="#3465a4"><title>MacBain</title></circle></a><a href="/variants/s17/g4r3lb1dp1r35dp1lb1r3dp16r3lb1dp1r2g35r7k1lb2~x2/"><circle cx="272.3" cy="51.1" r="4" fill="#3465a4"><title>Unidentified #14</title></circle></a><circle cx="284.9" cy="53.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/o30y1k2g10k1r3k1r3k1r3k1w1~x2/

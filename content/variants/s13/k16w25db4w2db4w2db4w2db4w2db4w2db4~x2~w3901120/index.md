@@ -18,7 +18,7 @@ Part of the [Hanna](/tartans/hanna/) tartan — the named design grouping this s
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1584
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1584](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1584)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -66,8 +66,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k8w13db2w1db2w1db2w1db2w1db2w1db2~x2/"><circle cx="220.9" cy="138.8" r="4" fill="#3465a4"><title>Hanna Personal Tartan</title></circle></a><a href="/variants/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4/"><circle cx="215.6" cy="141.9" r="4" fill="#3465a4"><title>Hanna</title></circle></a><circle cx="250.5" cy="118.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k8w13db2w1db2w1db2w1db2w1db2w1db2~x2/"><circle cx="220.9" cy="139.3" r="4" fill="#3465a4"><title>Hanna Personal Tartan</title></circle></a><a href="/variants/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4/"><circle cx="215.5" cy="142.3" r="4" fill="#3465a4"><title>Hanna</title></circle></a><circle cx="250.4" cy="118.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4~x2~w3901120/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Indiana (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db49dy19g5dg6g5dg6g35dg1lr4dg1g4/)
 (the same proportion at any scale), whose colour order is pattern [BGGGGGGGYGG](/stripes/bgggggggygg/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8628
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8628](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8628)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dp4g6db4g28w4g6db6dbi46db1w4~x2~db1404245-dbi1406275/"><circle cx="301.0" cy="118.8" r="4" fill="#3465a4"><title>State Seal of Connecticut (Fashion)</title></circle></a><a href="/variants/s16/t8db6dp40dg16db1dg7t2dg5t4dg4t4dg2t5dg1t36w6/"><circle cx="285.7" cy="110.3" r="4" fill="#3465a4"><title>Bell-McTier Thistle (Personal)</title></circle></a><a href="/variants/s16/n8db6dp40g16n1g7n2g5n4g4n4g2n5g1n36w6~n1703265-db1104274/"><circle cx="304.6" cy="114.6" r="4" fill="#3465a4"><title>Bell-McTier Thistle</title></circle></a><a href="/variants/s10/db3dbi3db1g26db10dt1db3dp5dbi4ly2~x2~db1004274-dbi1406275/"><circle cx="280.2" cy="131.6" r="4" fill="#3465a4"><title>Rikaco Heirloom (Fashion)</title></circle></a><a href="/variants/s8/db23w1r3w1db12y9g40dp3~x2/"><circle cx="278.3" cy="120.8" r="4" fill="#3465a4"><title>Pictou County</title></circle></a><a href="/variants/s12/w4dg1g31y1g4dg21db4dg1db36r2db9w2~x2/"><circle cx="243.3" cy="95.3" r="4" fill="#3465a4"><title>St Ninian's Day</title></circle></a><a href="/variants/s15/g46r6g6r2g8r2g6r2g6dy36r2db47r6db24y6/"><circle cx="219.7" cy="122.7" r="4" fill="#3465a4"><title>Cochrane Hunting</title></circle></a><circle cx="287.4" cy="122.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dp4g6db4g28w4g6db6dbi46db1w4~x2~db1404245-dbi1406275/"><circle cx="300.9" cy="118.9" r="4" fill="#3465a4"><title>State Seal of Connecticut (Fashion)</title></circle></a><a href="/variants/s16/t8db6dp40dg16db1dg7t2dg5t4dg4t4dg2t5dg1t36w6/"><circle cx="285.6" cy="110.2" r="4" fill="#3465a4"><title>Bell-McTier Thistle (Personal)</title></circle></a><a href="/variants/s16/n8db6dp40g16n1g7n2g5n4g4n4g2n5g1n36w6~n1703265-db1104274/"><circle cx="304.5" cy="114.6" r="4" fill="#3465a4"><title>Bell-McTier Thistle</title></circle></a><a href="/variants/s10/db3dbi3db1g26db10dt1db3dp5dbi4ly2~x2~db1004274-dbi1406275/"><circle cx="280.2" cy="131.6" r="4" fill="#3465a4"><title>Rikaco Heirloom (Fashion)</title></circle></a><a href="/variants/s8/db23w1r3w1db12y9g40dp3~x2/"><circle cx="278.3" cy="120.9" r="4" fill="#3465a4"><title>Pictou County</title></circle></a><a href="/variants/s12/w4dg1g31y1g4dg21db4dg1db36r2db9w2~x2/"><circle cx="243.1" cy="95.3" r="4" fill="#3465a4"><title>St Ninian's Day</title></circle></a><a href="/variants/s15/g46r6g6r2g8r2g6r2g6dy36r2db47r6db24y6/"><circle cx="219.6" cy="122.8" r="4" fill="#3465a4"><title>Cochrane Hunting</title></circle></a><circle cx="287.3" cy="122.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db49dy19g5dg6g5dg6g35dg1lr4dg1g4~x2/

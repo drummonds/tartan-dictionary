@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harvey"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4r11g11db22y1g4/)
 (the same proportion at any scale), whose colour order is pattern [BRGBGG](/stripes/brgbgg/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1622
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1622](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1622)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="332.0" cy="207.3" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="332.4" cy="200.6" r="4" fill="#3465a4"><title>Connacht Irish District Tartan</title></circle></a><a href="/variants/s7/db13g8r5db3g2r1y1~x4/"><circle cx="273.5" cy="197.6" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><a href="/variants/s7/db2y1db18g7r7db1g1~x2/"><circle cx="339.5" cy="166.3" r="4" fill="#3465a4"><title>Unnamed C20th - USA</title></circle></a><a href="/variants/s5/r2g5db27g11o2~x2/"><circle cx="352.2" cy="200.6" r="4" fill="#3465a4"><title>Hector James</title></circle></a><a href="/variants/s6/db8y1dg5y12r1dg2~x6/"><circle cx="289.6" cy="222.0" r="4" fill="#3465a4"><title>McCabe (2016)</title></circle></a><a href="/variants/s6/w4g28db18r4db18y3~x2/"><circle cx="235.9" cy="214.5" r="4" fill="#3465a4"><title>MacIntyre, Inglis</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/"><circle cx="264.1" cy="198.9" r="4" fill="#3465a4"><title>New Mexico, State of (Fashion)</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/"><circle cx="246.7" cy="193.7" r="4" fill="#3465a4"><title>New Mexico, State of</title></circle></a><a href="/variants/s6/dg7w1dg18db6r18dg2~x2/"><circle cx="316.8" cy="193.9" r="4" fill="#3465a4"><title>Finlaggan</title></circle></a><circle cx="289.9" cy="190.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="332.0" cy="207.7" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="332.5" cy="201.0" r="4" fill="#3465a4"><title>Connacht Irish District Tartan</title></circle></a><a href="/variants/s7/db13g8r5db3g2r1y1~x4/"><circle cx="273.5" cy="198.0" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><a href="/variants/s7/db2y1db18g7r7db1g1~x2/"><circle cx="339.5" cy="166.6" r="4" fill="#3465a4"><title>Unnamed C20th - USA</title></circle></a><a href="/variants/s5/r2g5db27g11o2~x2/"><circle cx="352.2" cy="201.0" r="4" fill="#3465a4"><title>Hector James</title></circle></a><a href="/variants/s6/db8y1dg5y12r1dg2~x6/"><circle cx="289.7" cy="222.4" r="4" fill="#3465a4"><title>McCabe (2016)</title></circle></a><a href="/variants/s6/w4g28db18r4db18y3~x2/"><circle cx="236.0" cy="215.0" r="4" fill="#3465a4"><title>MacIntyre, Inglis</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/"><circle cx="264.1" cy="199.3" r="4" fill="#3465a4"><title>New Mexico, State of (Fashion)</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/"><circle cx="246.7" cy="194.2" r="4" fill="#3465a4"><title>New Mexico, State of</title></circle></a><a href="/variants/s6/dg7w1dg18db6r18dg2~x2/"><circle cx="316.8" cy="194.3" r="4" fill="#3465a4"><title>Finlaggan</title></circle></a><circle cx="289.9" cy="190.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db4r11g11db22y1g4~x2/

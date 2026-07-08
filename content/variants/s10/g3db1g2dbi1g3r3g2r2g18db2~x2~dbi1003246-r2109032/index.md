@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/owen/"
 - name: "Owen"
   url: "/tartans/owen/"
+- name: "Owen (Welsh Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g3db1g2dbi1g3r3g2r2g18db2/)
 (the same proportion at any scale), whose colour order is pattern [BGRGRGBGBG](/stripes/bgrgrgbgbg/).
@@ -16,7 +18,7 @@ Part of the [Owen](/tartans/owen/) tartan — the named design grouping this set
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5750
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5750](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5750)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g3dbi1g2r1g3db3g2db2g18dbi2~x2~dbi1404245-db1003246/"><circle cx="499.2" cy="159.8" r="4" fill="#3465a4"><title>Owen Welsh Name Tartan</title></circle></a><a href="/variants/s10/g51dp3g5ly3g5dp5g5dp5g5ly3~x2/"><circle cx="487.0" cy="146.4" r="4" fill="#3465a4"><title>Highland Hospice</title></circle></a><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="407.6" cy="162.0" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/"><circle cx="414.6" cy="160.9" r="4" fill="#3465a4"><title>Rothesay Hunting Family Tartan</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w1g1w2~x2/"><circle cx="459.0" cy="133.2" r="4" fill="#3465a4"><title>Rothesay #2</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="451.6" cy="184.4" r="4" fill="#3465a4"><title>Welsh Assembly (Fashion)</title></circle></a><a href="/variants/s10/g3dr6g2dr1g2dr1g16lr1g2lr3~x4/"><circle cx="458.5" cy="166.6" r="4" fill="#3465a4"><title>Prince of Wales Fashion Weavers Tartan</title></circle></a><a href="/variants/s13/g2ri1g30r1g3r1g10lo9g2r5db3w1r1~x2~ri2806019-r2209032/"><circle cx="406.7" cy="87.7" r="4" fill="#3465a4"><title>Hans, Jaswinder (Personal)</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="436.4" cy="198.3" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/variants/s14/n9g4w5g30r2g4r2g4r2g30w5g4n9g5~x2/"><circle cx="437.6" cy="165.3" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><circle cx="491.4" cy="154.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g3dbi1g2r1g3db3g2db2g18dbi2~x2~dbi1404245-db1003246/"><circle cx="499.2" cy="160.0" r="4" fill="#3465a4"><title>Owen Welsh Name Tartan</title></circle></a><a href="/variants/s10/g51dp3g5ly3g5dp5g5dp5g5ly3~x2/"><circle cx="487.0" cy="146.7" r="4" fill="#3465a4"><title>Highland Hospice</title></circle></a><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="407.6" cy="162.4" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/"><circle cx="414.6" cy="161.3" r="4" fill="#3465a4"><title>Rothesay Hunting Family Tartan</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w1g1w2~x2/"><circle cx="459.0" cy="133.5" r="4" fill="#3465a4"><title>Rothesay #2</title></circle></a><a href="/variants/s8/g5n9g4w5g30r2g4r2~x2/"><circle cx="451.7" cy="184.8" r="4" fill="#3465a4"><title>Welsh Assembly (Fashion)</title></circle></a><a href="/variants/s10/g3dr6g2dr1g2dr1g16lr1g2lr3~x4/"><circle cx="458.5" cy="166.9" r="4" fill="#3465a4"><title>Prince of Wales Fashion Weavers Tartan</title></circle></a><a href="/variants/s13/g2ri1g30r1g3r1g10lo9g2r5db3w1r1~x2~ri2806019-r2209032/"><circle cx="406.6" cy="87.8" r="4" fill="#3465a4"><title>Hans, Jaswinder (Personal)</title></circle></a><a href="/variants/s8/g18r6g75db6g13dy35g12db6/"><circle cx="436.5" cy="198.6" r="4" fill="#3465a4"><title>Glenlivet</title></circle></a><a href="/variants/s14/n9g4w5g30r2g4r2g4r2g30w5g4n9g5~x2/"><circle cx="437.7" cy="165.5" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><circle cx="491.4" cy="154.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g3db1g2dbi1g3r3g2r2g18db2~x2~dbi1003246-r2109032/

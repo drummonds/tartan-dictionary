@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sardar Chadha (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lr6g34db4g4k32g4db34g4db2g5/)
 (the same proportion at any scale), whose colour order is pattern [GBGBGKGBGY](/stripes/gbgbgkgbgy/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8455
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8455](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8455)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/"><circle cx="185.5" cy="137.4" r="4" fill="#3465a4"><title>Scottish Tourist Board (1981) (Corp)</title></circle></a><a href="/variants/s10/db2k3g5k7db20k2db5k2g20w1~x2/"><circle cx="210.2" cy="139.7" r="4" fill="#3465a4"><title>Pitceathly Chamberlain Tartan</title></circle></a><a href="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/"><circle cx="207.8" cy="138.3" r="4" fill="#3465a4"><title>Pitceathly Chamberlain (Personal)</title></circle></a><a href="/variants/s9/db14k2db2k2db2k7g7w1g14~x2/"><circle cx="192.2" cy="169.8" r="4" fill="#3465a4"><title>Abercrombie D</title></circle></a><a href="/variants/s9/db14k2db2k2db2k7g7w1g14/"><circle cx="192.2" cy="169.8" r="4" fill="#3465a4"><title>Abercrombie D</title></circle></a><a href="/variants/s10/db56k6db6k6db6k44g44y4g5y8/"><circle cx="179.6" cy="150.7" r="4" fill="#3465a4"><title>Gordon #2</title></circle></a><a href="/variants/s8/db2g1db16r1k12g16r1g2~x2/"><circle cx="189.3" cy="154.9" r="4" fill="#3465a4"><title>Lochaber District</title></circle></a><a href="/variants/s9/k2db3g16lb1k13lb1db18k2db2~x2/"><circle cx="202.1" cy="147.3" r="4" fill="#3465a4"><title>Hebridean Old.. District Tartan</title></circle></a><a href="/variants/s10/db32g2db2g14k2g14k2g2k15r2~x2/"><circle cx="201.5" cy="142.4" r="4" fill="#3465a4"><title>Dunedin Chapter</title></circle></a><a href="/variants/s11/g24y3g4y1g17k25db2k2db2k2db22~x2/"><circle cx="214.3" cy="126.9" r="4" fill="#3465a4"><title>Hunting, The</title></circle></a><circle cx="188.7" cy="143.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db30k2db2k2db2k32g15r2g4r4g30~x2/"><circle cx="185.4" cy="137.7" r="4" fill="#3465a4"><title>Scottish Tourist Board (1981) (Corp)</title></circle></a><a href="/variants/s10/db2k3g5k7db20k2db5k2g20w1~x2/"><circle cx="210.1" cy="140.0" r="4" fill="#3465a4"><title>Pitceathly Chamberlain Tartan</title></circle></a><a href="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/"><circle cx="207.7" cy="138.5" r="4" fill="#3465a4"><title>Pitceathly Chamberlain (Personal)</title></circle></a><a href="/variants/s9/db14k2db2k2db2k7g7w1g14~x2/"><circle cx="192.2" cy="170.2" r="4" fill="#3465a4"><title>Abercrombie D</title></circle></a><a href="/variants/s9/db14k2db2k2db2k7g7w1g14/"><circle cx="192.2" cy="170.2" r="4" fill="#3465a4"><title>Abercrombie D</title></circle></a><a href="/variants/s10/db56k6db6k6db6k44g44y4g5y8/"><circle cx="179.5" cy="151.0" r="4" fill="#3465a4"><title>Gordon #2</title></circle></a><a href="/variants/s8/db2g1db16r1k12g16r1g2~x2/"><circle cx="189.3" cy="155.3" r="4" fill="#3465a4"><title>Lochaber District</title></circle></a><a href="/variants/s9/k2db3g16lb1k13lb1db18k2db2~x2/"><circle cx="202.1" cy="147.6" r="4" fill="#3465a4"><title>Hebridean Old.. District Tartan</title></circle></a><a href="/variants/s10/db32g2db2g14k2g14k2g2k15r2~x2/"><circle cx="201.4" cy="142.6" r="4" fill="#3465a4"><title>Dunedin Chapter</title></circle></a><a href="/variants/s11/g24y3g4y1g17k25db2k2db2k2db22~x2/"><circle cx="214.2" cy="127.1" r="4" fill="#3465a4"><title>Hunting, The</title></circle></a><circle cx="188.7" cy="143.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/lr6g34db4g4k32g4db34g4db2g5/

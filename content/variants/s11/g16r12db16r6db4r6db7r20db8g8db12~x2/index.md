@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Fiddes"
   url: "/tartans/fiddes-2/"
+- name: "Fiddes #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g16r12db16r6db4r6db7r20db8g8db12/)
 (the same proportion at any scale), whose colour order is pattern [BGBRBRBRBRG](/stripes/bgbrbrbrbrg/).
@@ -14,7 +16,7 @@ Part of the [Fiddes](/tartans/fiddes-2/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1175
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1175](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1175)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -84,8 +86,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db18g5db6r25db6r5db5r6db18r12g16~x2/"><circle cx="219.7" cy="247.4" r="4" fill="#3465a4"><title>Fiddes (Artefact)</title></circle></a><a href="/variants/s11/db13r4db4r9db14r4db14g15r8g8r4~x2/"><circle cx="200.4" cy="273.9" r="4" fill="#3465a4"><title>McCaslin</title></circle></a><a href="/variants/s5/r4dg4r1db4r4~x12~dg1605139/"><circle cx="186.8" cy="301.0" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/variants/s8/r10g14r3db14r10g14r3db4~x2/"><circle cx="192.3" cy="278.1" r="4" fill="#3465a4"><title>Glasgow District Tartan</title></circle></a><a href="/variants/s13/db13r4db4r9db14r4db14g15r8g8r4g8w4~x2/"><circle cx="141.9" cy="252.5" r="4" fill="#3465a4"><title>MacCaslan (Artefact)</title></circle></a><a href="/variants/s12/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2/"><circle cx="154.8" cy="224.4" r="4" fill="#3465a4"><title>Westgaard Ladies' (Personal)</title></circle></a><a href="/variants/s8/r3db3r3db10g10r3g3r3~x2/"><circle cx="169.8" cy="275.0" r="4" fill="#3465a4"><title>Flora MacDonald</title></circle></a><a href="/variants/s5/r5dp5r1g5r5~x8~dp1607327/"><circle cx="205.7" cy="288.8" r="4" fill="#3465a4"><title>Gow (Portrait)</title></circle></a><a href="/variants/s13/r12g14r4g14r4g14r4db8r5db8r12g3r12/"><circle cx="222.0" cy="261.0" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><a href="/variants/s13/r12g14r4g14r4g14r4db8r5db8r12g3r12~x2/"><circle cx="222.0" cy="261.0" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><circle cx="191.8" cy="266.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db18g5db6r25db6r5db5r6db18r12g16~x2/"><circle cx="219.9" cy="248.1" r="4" fill="#3465a4"><title>Fiddes (Artefact)</title></circle></a><a href="/variants/s11/db13r4db4r9db14r4db14g15r8g8r4~x2/"><circle cx="200.6" cy="274.6" r="4" fill="#3465a4"><title>McCaslin</title></circle></a><a href="/variants/s5/r4dg4r1db4r4~x12~dg1605139/"><circle cx="187.0" cy="301.8" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/variants/s8/r10g14r3db14r10g14r3db4~x2/"><circle cx="192.5" cy="278.9" r="4" fill="#3465a4"><title>Glasgow District Tartan</title></circle></a><a href="/variants/s13/db13r4db4r9db14r4db14g15r8g8r4g8w4~x2/"><circle cx="142.1" cy="253.2" r="4" fill="#3465a4"><title>MacCaslan (Artefact)</title></circle></a><a href="/variants/s12/dr9lb4dr6t4lb2k2lb2dr5t3lb2k2lb2~x2/"><circle cx="154.9" cy="225.0" r="4" fill="#3465a4"><title>Westgaard Ladies' (Personal)</title></circle></a><a href="/variants/s8/r3db3r3db10g10r3g3r3~x2/"><circle cx="170.0" cy="275.8" r="4" fill="#3465a4"><title>Flora MacDonald</title></circle></a><a href="/variants/s5/r5dp5r1g5r5~x8~dp1607327/"><circle cx="205.9" cy="289.6" r="4" fill="#3465a4"><title>Gow (Portrait)</title></circle></a><a href="/variants/s13/r12g14r4g14r4g14r4db8r5db8r12g3r12/"><circle cx="222.2" cy="261.7" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><a href="/variants/s13/r12g14r4g14r4g14r4db8r5db8r12g3r12~x2/"><circle cx="222.2" cy="261.7" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><circle cx="192.0" cy="266.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/g16r12db16r6db4r6db7r20db8g8db12~x2/

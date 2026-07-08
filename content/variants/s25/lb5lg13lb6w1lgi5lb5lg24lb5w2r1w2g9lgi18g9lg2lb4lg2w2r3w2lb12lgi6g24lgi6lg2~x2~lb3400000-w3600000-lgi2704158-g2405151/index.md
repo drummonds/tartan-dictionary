@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Morddyn (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb5lg13lb6w1lgi5lb5lg24lb5w2r1w2g9lgi18g9lg2lb4lg2w2r3w2lb12lgi6g24lgi6lg2/)
 (the same proportion at any scale), whose colour order is pattern [WYWWYWYWWRWGYGYWYWRWWYGYY](/stripes/wywwywywwrwgygywywrwwygyy/).
 
 Sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10317
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10317](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10317)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

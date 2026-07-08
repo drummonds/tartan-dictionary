@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mount Vernon Primary School"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb25db11r5w1k1/)
 (the same proportion at any scale), whose colour order is pattern [KWRBW](/stripes/kwrbw/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10420
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10420](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10420)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/lb72r16k5y2db16~x2/"><circle cx="354.6" cy="111.5" r="4" fill="#3465a4"><title>Thomas, Jean Marc (Personal)</title></circle></a><a href="/variants/s5/db10k3lb65dg56y6/"><circle cx="241.6" cy="153.8" r="4" fill="#3465a4"><title>Phoenix Police Honor Guard</title></circle></a><a href="/variants/s6/lb20w2lb5k2db10r3~x2/"><circle cx="262.3" cy="171.0" r="4" fill="#3465a4"><title>St. Christopher's School (Corporate)</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.9" cy="110.7" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s5/r14w6db38k3g2~x2/"><circle cx="299.6" cy="138.5" r="4" fill="#3465a4"><title>Doten (2013)</title></circle></a><a href="/variants/s5/r14lr6db38k3g2~x2/"><circle cx="313.5" cy="141.4" r="4" fill="#3465a4"><title>Doten (2013)</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="366.5" cy="149.0" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s4/w40db40r1k4~x2/"><circle cx="274.5" cy="147.4" r="4" fill="#3465a4"><title>Kimon Andreou Family (Personal)</title></circle></a><a href="/variants/s5/k8y2t21w3r2~x4~t2205244/"><circle cx="251.5" cy="166.7" r="4" fill="#3465a4"><title>Oklahoma State American District Tartan</title></circle></a><a href="/variants/s5/k8dy2t21w3r2~x4~t2205244/"><circle cx="251.7" cy="166.5" r="4" fill="#3465a4"><title>Oklahoma</title></circle></a><circle cx="309.9" cy="140.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/lb72r16k5y2db16~x2/"><circle cx="354.5" cy="111.8" r="4" fill="#3465a4"><title>Thomas, Jean Marc (Personal)</title></circle></a><a href="/variants/s5/db10k3lb65dg56y6/"><circle cx="241.6" cy="154.2" r="4" fill="#3465a4"><title>Phoenix Police Honor Guard</title></circle></a><a href="/variants/s6/lb20w2lb5k2db10r3~x2/"><circle cx="262.4" cy="171.5" r="4" fill="#3465a4"><title>St. Christopher's School (Corporate)</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.9" cy="110.9" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s5/r14w6db38k3g2~x2/"><circle cx="299.6" cy="138.8" r="4" fill="#3465a4"><title>Doten (2013)</title></circle></a><a href="/variants/s5/r14lr6db38k3g2~x2/"><circle cx="313.5" cy="141.7" r="4" fill="#3465a4"><title>Doten (2013)</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="366.5" cy="149.3" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s4/w40db40r1k4~x2/"><circle cx="274.5" cy="147.9" r="4" fill="#3465a4"><title>Kimon Andreou Family (Personal)</title></circle></a><a href="/variants/s5/k8y2t21w3r2~x4~t2205244/"><circle cx="251.5" cy="167.1" r="4" fill="#3465a4"><title>Oklahoma State American District Tartan</title></circle></a><a href="/variants/s5/k8dy2t21w3r2~x4~t2205244/"><circle cx="251.7" cy="167.0" r="4" fill="#3465a4"><title>Oklahoma</title></circle></a><circle cx="309.9" cy="141.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/lb25db11r5w1k1~x4/

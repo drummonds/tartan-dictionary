@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Golfers"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b4r2k9r25k3r2k3r4db15w3/)
 (the same proportion at any scale), whose colour order is pattern [BRKRKRKRBW](/stripes/brkrkrkrbw/).
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="187.8" cy="122.3" r="4" fill="#3465a4"><title>Golfing Stewart (Fashion)</title></circle></a><a href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.9" cy="122.2" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><a href="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t1903246-dg1405139/"><circle cx="206.1" cy="112.2" r="4" fill="#3465a4"><title>Lochcarron Dress</title></circle></a><a href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/"><circle cx="199.7" cy="125.9" r="4" fill="#3465a4"><title>Caledon (Corporate)</title></circle></a><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="190.4" cy="142.5" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/variants/s11/y4k1r12db3r3db16r3db3r12k1w4~x2/"><circle cx="220.0" cy="127.2" r="4" fill="#3465a4"><title>MacKeever</title></circle></a><a href="/variants/s12/k3db2g2db22r4g3r3g2r22k2r2y2~x2/"><circle cx="210.7" cy="114.0" r="4" fill="#3465a4"><title>Harris, Jeffrey S (Personal)</title></circle></a><a href="/variants/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/"><circle cx="201.4" cy="126.6" r="4" fill="#3465a4"><title>Cameron of Locheil (Bonner collection)</title></circle></a><a href="/variants/s8/r2k3y1k3r2db8r16k1~x4/"><circle cx="281.1" cy="130.6" r="4" fill="#3465a4"><title>Leslie Red (VS) (Clan)</title></circle></a><a href="/variants/s12/k2db2g2db22r4g3r3g2r22k2r2ly2~x2/"><circle cx="214.3" cy="111.7" r="4" fill="#3465a4"><title>Harris, Jeffrey S (Personal)</title></circle></a><circle cx="186.2" cy="122.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="187.7" cy="122.7" r="4" fill="#3465a4"><title>Golfing Stewart (Fashion)</title></circle></a><a href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.8" cy="122.6" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><a href="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t1903246-dg1405139/"><circle cx="206.0" cy="112.5" r="4" fill="#3465a4"><title>Lochcarron Dress</title></circle></a><a href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/"><circle cx="199.6" cy="126.2" r="4" fill="#3465a4"><title>Caledon (Corporate)</title></circle></a><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="190.4" cy="142.9" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/variants/s11/y4k1r12db3r3db16r3db3r12k1w4~x2/"><circle cx="220.0" cy="127.5" r="4" fill="#3465a4"><title>MacKeever</title></circle></a><a href="/variants/s12/k3db2g2db22r4g3r3g2r22k2r2y2~x2/"><circle cx="210.6" cy="114.2" r="4" fill="#3465a4"><title>Harris, Jeffrey S (Personal)</title></circle></a><a href="/variants/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/"><circle cx="201.4" cy="126.9" r="4" fill="#3465a4"><title>Cameron of Locheil (Bonner collection)</title></circle></a><a href="/variants/s8/r2k3y1k3r2db8r16k1~x4/"><circle cx="281.1" cy="131.0" r="4" fill="#3465a4"><title>Leslie Red (VS) (Clan)</title></circle></a><a href="/variants/s12/k2db2g2db22r4g3r3g2r22k2r2ly2~x2/"><circle cx="214.2" cy="112.0" r="4" fill="#3465a4"><title>Harris, Jeffrey S (Personal)</title></circle></a><circle cx="186.2" cy="122.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/b4r2k9r25k3r2k3r4db15w3~x2/

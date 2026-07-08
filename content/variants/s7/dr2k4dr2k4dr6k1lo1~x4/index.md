@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacIan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr2k4dr2k4dr6k1lo1/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKY](/stripes/bkbkbky/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5214
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5214](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5214)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4k8r4k8r12k1y2~x4/"><circle cx="259.0" cy="192.6" r="4" fill="#3465a4"><title>MacDonald of Ardnamurchan (Clan?)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y2~x2/"><circle cx="259.0" cy="192.6" r="4" fill="#3465a4"><title>MacIain</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y1~x2/"><circle cx="274.5" cy="187.1" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><a href="/variants/s7/k4dr2k22dr22k3dr4lb2~x2/"><circle cx="330.8" cy="188.9" r="4" fill="#3465a4"><title>Menzies of Culdares</title></circle></a><a href="/variants/s8/db1r1k2r7k7r1k2w1~x6/"><circle cx="218.1" cy="170.4" r="4" fill="#3465a4"><title>Nakayama (Personal)</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.8" cy="200.6" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s7/k2dr1k6dr6k1dr1k1~x4/"><circle cx="376.3" cy="241.3" r="4" fill="#3465a4"><title>Campbell of Lochlane</title></circle></a><a href="/variants/s6/k3g13k10dr13k2dr3~x2/"><circle cx="172.7" cy="243.4" r="4" fill="#3465a4"><title>MacCormick (Dress)</title></circle></a><a href="/variants/s5/k6r1k6r9k1~x4/"><circle cx="306.8" cy="223.7" r="4" fill="#3465a4"><title>MacLeod of Raasay</title></circle></a><a href="/variants/s6/k3r15k11y2k4r3~x2/"><circle cx="243.9" cy="205.0" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><circle cx="273.1" cy="245.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4k8r4k8r12k1y2~x4/"><circle cx="259.1" cy="193.2" r="4" fill="#3465a4"><title>MacDonald of Ardnamurchan (Clan?)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y2~x2/"><circle cx="259.1" cy="193.2" r="4" fill="#3465a4"><title>MacIain</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y1~x2/"><circle cx="274.5" cy="187.8" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><a href="/variants/s7/k4dr2k22dr22k3dr4lb2~x2/"><circle cx="330.8" cy="189.3" r="4" fill="#3465a4"><title>Menzies of Culdares</title></circle></a><a href="/variants/s8/db1r1k2r7k7r1k2w1~x6/"><circle cx="218.1" cy="170.9" r="4" fill="#3465a4"><title>Nakayama (Personal)</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.9" cy="201.2" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s7/k2dr1k6dr6k1dr1k1~x4/"><circle cx="376.4" cy="241.8" r="4" fill="#3465a4"><title>Campbell of Lochlane</title></circle></a><a href="/variants/s6/k3g13k10dr13k2dr3~x2/"><circle cx="172.8" cy="244.1" r="4" fill="#3465a4"><title>MacCormick (Dress)</title></circle></a><a href="/variants/s5/k6r1k6r9k1~x4/"><circle cx="306.9" cy="224.5" r="4" fill="#3465a4"><title>MacLeod of Raasay</title></circle></a><a href="/variants/s6/k3r15k11y2k4r3~x2/"><circle cx="244.0" cy="205.7" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><circle cx="273.2" cy="245.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dr2k4dr2k4dr6k1lo1~x4/

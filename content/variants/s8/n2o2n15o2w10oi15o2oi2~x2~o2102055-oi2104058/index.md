@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Bannockbane"
   url: "/tartans/bannockbane-3/"
+- name: "Bannockbane, Grey"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n2o2n15o2w10oi15o2oi2/)
 (the same proportion at any scale), whose colour order is pattern [BRBRWRRR](/stripes/brbrwrrr/).
@@ -14,7 +16,7 @@ Part of the [Bannockbane](/tartans/bannockbane-3/) tartan — the named design g
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2ly1t8r1g7ly1r2~x6/"><circle cx="241.6" cy="233.7" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/variants/s5/g6y1r1lb2r2~x4/"><circle cx="210.4" cy="240.6" r="4" fill="#3465a4"><title>Wilson's No.179</title></circle></a><a href="/variants/s9/k3lr15t3lr4t3lr4t10y30w3~x2~lr2800000-t2503227/"><circle cx="250.2" cy="187.2" r="4" fill="#3465a4"><title>Highland Road (Fashion)</title></circle></a><a href="/variants/s9/b3do2o14g17do14b8o14do2b3~x2/"><circle cx="227.8" cy="241.9" r="4" fill="#3465a4"><title>Monaghan</title></circle></a><a href="/variants/s9/t3r2dg16r2t3r2n16r2t3~x4/"><circle cx="251.5" cy="218.8" r="4" fill="#3465a4"><title>MacPherson Gathering 1996</title></circle></a><a href="/variants/s14/b10lb1b3lb6b1lb3b1o5y1o3y6o1y3o1~x4~lb3200000-o2607049/"><circle cx="216.5" cy="205.0" r="4" fill="#3465a4"><title>MacGlashan</title></circle></a><a href="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/"><circle cx="197.6" cy="222.6" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s7/r10b44o5dg40o62r5o10/"><circle cx="285.4" cy="211.9" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/variants/s9/r1g6y1r2y1r2y1db6y1~x2/"><circle cx="159.8" cy="224.5" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><a href="/variants/s7/w6n27dp6o40lr44w8o4~o2505023-lr3003019/"><circle cx="236.3" cy="215.5" r="4" fill="#3465a4"><title>Susan G Komen 06</title></circle></a><circle cx="225.2" cy="225.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2ly1t8r1g7ly1r2~x6/"><circle cx="241.7" cy="234.2" r="4" fill="#3465a4"><title>Cercle de Fermieres de St-Elie . . .</title></circle></a><a href="/variants/s5/g6y1r1lb2r2~x4/"><circle cx="210.5" cy="241.1" r="4" fill="#3465a4"><title>Wilson's No.179</title></circle></a><a href="/variants/s9/k3lr15t3lr4t3lr4t10y30w3~x2~lr2800000-t2503227/"><circle cx="250.2" cy="187.5" r="4" fill="#3465a4"><title>Highland Road (Fashion)</title></circle></a><a href="/variants/s9/b3do2o14g17do14b8o14do2b3~x2/"><circle cx="227.9" cy="242.4" r="4" fill="#3465a4"><title>Monaghan</title></circle></a><a href="/variants/s9/t3r2dg16r2t3r2n16r2t3~x4/"><circle cx="251.6" cy="219.1" r="4" fill="#3465a4"><title>MacPherson Gathering 1996</title></circle></a><a href="/variants/s14/b10lb1b3lb6b1lb3b1o5y1o3y6o1y3o1~x4~lb3200000-o2607049/"><circle cx="216.6" cy="205.4" r="4" fill="#3465a4"><title>MacGlashan</title></circle></a><a href="/variants/s8/dp11o2dp2o2dp2o11g14w2~x2/"><circle cx="197.7" cy="223.1" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s7/r10b44o5dg40o62r5o10/"><circle cx="285.5" cy="212.3" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/variants/s9/r1g6y1r2y1r2y1db6y1~x2/"><circle cx="159.9" cy="225.0" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><a href="/variants/s7/w6n27dp6o40lr44w8o4~o2505023-lr3003019/"><circle cx="236.4" cy="215.9" r="4" fill="#3465a4"><title>Susan G Komen 06</title></circle></a><circle cx="225.3" cy="225.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/n2o2n15o2w10oi15o2oi2~x2~o2102055-oi2104058/

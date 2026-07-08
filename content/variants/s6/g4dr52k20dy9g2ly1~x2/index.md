@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Jack (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4dr52k20dy9g2ly1/)
 (the same proportion at any scale), whose colour order is pattern [GBKGGY](/stripes/gbkggy/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10719
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10719](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10719)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/"><circle cx="384.7" cy="151.0" r="4" fill="#3465a4"><title>Abadia Da Cova (Corporate)</title></circle></a><a href="/variants/s8/db10y2dg2w1dg18r1k45r2~x2/"><circle cx="310.8" cy="65.0" r="4" fill="#3465a4"><title>Downs</title></circle></a><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/"><circle cx="311.1" cy="96.3" r="4" fill="#3465a4"><title>Henschke, Felix (Personal)</title></circle></a><a href="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/"><circle cx="299.6" cy="88.0" r="4" fill="#3465a4"><title>Town of Petawawa</title></circle></a><a href="/variants/s6/r4k2dg28r38k1ly4~x2/"><circle cx="348.3" cy="116.4" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/variants/s6/k8r2k13y2dg48db6~x2/"><circle cx="376.5" cy="136.5" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s6/k8r2k13dy2dg48db6~x2/"><circle cx="387.8" cy="140.5" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s8/dr64k10lo4r5lb2k2db3lo4~x2/"><circle cx="397.0" cy="59.8" r="4" fill="#3465a4"><title>Conroy (Personal)</title></circle></a><a href="/variants/s8/dr64k10lo4r5lb2k2db3lo4~x2~lb3300000/"><circle cx="396.1" cy="59.5" r="4" fill="#3465a4"><title>Conroy (Personal)</title></circle></a><a href="/variants/s6/db1lb2k50dg50dy2r1~x2/"><circle cx="335.7" cy="92.0" r="4" fill="#3465a4"><title>Josse (Bro Sant Malo), Gilbert (Personal)</title></circle></a><circle cx="392.7" cy="105.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/"><circle cx="384.6" cy="151.1" r="4" fill="#3465a4"><title>Abadia Da Cova (Corporate)</title></circle></a><a href="/variants/s8/db10y2dg2w1dg18r1k45r2~x2/"><circle cx="310.6" cy="64.9" r="4" fill="#3465a4"><title>Downs</title></circle></a><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/"><circle cx="311.0" cy="96.3" r="4" fill="#3465a4"><title>Henschke, Felix (Personal)</title></circle></a><a href="/variants/s9/dg4w1db2y2k3db3w1dr22y1~x4/"><circle cx="299.4" cy="88.0" r="4" fill="#3465a4"><title>Town of Petawawa</title></circle></a><a href="/variants/s6/r4k2dg28r38k1ly4~x2/"><circle cx="348.3" cy="116.7" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/variants/s6/k8r2k13y2dg48db6~x2/"><circle cx="376.4" cy="136.6" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s6/k8r2k13dy2dg48db6~x2/"><circle cx="387.7" cy="140.5" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s8/dr64k10lo4r5lb2k2db3lo4~x2/"><circle cx="396.8" cy="59.8" r="4" fill="#3465a4"><title>Conroy (Personal)</title></circle></a><a href="/variants/s8/dr64k10lo4r5lb2k2db3lo4~x2~lb3300000/"><circle cx="395.9" cy="59.6" r="4" fill="#3465a4"><title>Conroy (Personal)</title></circle></a><a href="/variants/s6/db1lb2k50dg50dy2r1~x2/"><circle cx="335.6" cy="92.0" r="4" fill="#3465a4"><title>Josse (Bro Sant Malo), Gilbert (Personal)</title></circle></a><circle cx="392.6" cy="106.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g4dr52k20dy9g2ly1~x2/

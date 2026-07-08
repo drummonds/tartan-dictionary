@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacLean of Duart Dress Clan Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb12o2db4g2dr3r3dr3r19w30n2w4k2/)
 (the same proportion at any scale), whose colour order is pattern [KWBWRBRBGBRW](/stripes/kwbwrbrbgbrw/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=573
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=573](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=573)
 
 ## Provenance
 

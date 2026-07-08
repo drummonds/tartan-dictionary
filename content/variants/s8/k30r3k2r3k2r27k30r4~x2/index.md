@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Murray of Ochtertyre #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k30r3k2r3k2r27k30r4/)
 (the same proportion at any scale), whose colour order is pattern [KRKRKRKR](/stripes/krkrkrkr/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8415
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8415](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8415)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k48r4k2r4k6r2k3r9~x2/"><circle cx="480.4" cy="116.5" r="4" fill="#3465a4"><title>Menzies Hunting</title></circle></a><a href="/variants/s8/k12r3k2r16k8r12k2r3~x2/"><circle cx="308.7" cy="206.2" r="4" fill="#3465a4"><title>MacLeod #2</title></circle></a><a href="/variants/s9/k4r4k19r9k9r19k2r2w2~x2/"><circle cx="253.2" cy="173.0" r="4" fill="#3465a4"><title>Pink MacLeod (Personal)</title></circle></a><a href="/variants/s10/k4w1r4k2g2r3k22r2k2r2/"><circle cx="364.2" cy="90.8" r="4" fill="#3465a4"><title>Valdres, Kvam and Vang</title></circle></a><a href="/variants/s9/k8r1k1r1k1r10k10r1k1~x4/"><circle cx="309.7" cy="143.4" r="4" fill="#3465a4"><title>Murray of Ochtertyre</title></circle></a><a href="/variants/s8/k25r25k10lb3k10r25k25r3~x2/"><circle cx="260.6" cy="204.8" r="4" fill="#3465a4"><title>bodog.com Corporate Tartan</title></circle></a><a href="/variants/s9/w2k3r10k5r3k5r15k35w1~x2/"><circle cx="353.1" cy="100.7" r="4" fill="#3465a4"><title>Bertea, A H (Personal)</title></circle></a><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/"><circle cx="280.4" cy="110.8" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/"><circle cx="293.6" cy="136.5" r="4" fill="#3465a4"><title>Hanna of Falkirk (Clan?)</title></circle></a><a href="/variants/s4/k23r3k1r12~x4/"><circle cx="368.8" cy="148.7" r="4" fill="#3465a4"><title>Ewing</title></circle></a><circle cx="366.9" cy="160.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k48r4k2r4k6r2k3r9~x2/"><circle cx="480.3" cy="116.8" r="4" fill="#3465a4"><title>Menzies Hunting</title></circle></a><a href="/variants/s8/k12r3k2r16k8r12k2r3~x2/"><circle cx="308.7" cy="207.0" r="4" fill="#3465a4"><title>MacLeod #2</title></circle></a><a href="/variants/s9/k4r4k19r9k9r19k2r2w2~x2/"><circle cx="253.3" cy="173.6" r="4" fill="#3465a4"><title>Pink MacLeod (Personal)</title></circle></a><a href="/variants/s10/k4w1r4k2g2r3k22r2k2r2/"><circle cx="364.1" cy="91.0" r="4" fill="#3465a4"><title>Valdres, Kvam and Vang</title></circle></a><a href="/variants/s9/k8r1k1r1k1r10k10r1k1~x4/"><circle cx="309.7" cy="143.8" r="4" fill="#3465a4"><title>Murray of Ochtertyre</title></circle></a><a href="/variants/s8/k25r25k10lb3k10r25k25r3~x2/"><circle cx="260.7" cy="205.5" r="4" fill="#3465a4"><title>bodog.com Corporate Tartan</title></circle></a><a href="/variants/s9/w2k3r10k5r3k5r15k35w1~x2/"><circle cx="353.0" cy="101.0" r="4" fill="#3465a4"><title>Bertea, A H (Personal)</title></circle></a><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/"><circle cx="280.3" cy="111.1" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/"><circle cx="293.6" cy="136.9" r="4" fill="#3465a4"><title>Hanna of Falkirk (Clan?)</title></circle></a><a href="/variants/s4/k23r3k1r12~x4/"><circle cx="368.7" cy="149.2" r="4" fill="#3465a4"><title>Ewing</title></circle></a><circle cx="366.9" cy="161.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k30r3k2r3k2r27k30r4~x2/

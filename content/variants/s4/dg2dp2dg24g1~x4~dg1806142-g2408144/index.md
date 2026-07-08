@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Walters"
   url: "/tartans/walters/"
+- name: "Walters (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2dp2dg24g1/)
 (the same proportion at any scale), whose colour order is pattern [BGGGBG](/stripes/bgggbg/).
@@ -14,7 +16,7 @@ Part of the [Walters](/tartans/walters/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4489
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4489](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4489)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dg2dp2dg24dpi1~x4~dg1806142-dpi1507327/"><circle cx="626.0" cy="228.7" r="4" fill="#3465a4"><title>Walters (Personal)</title></circle></a><a href="/variants/s3/g16dy3g2~x10/"><circle cx="626.0" cy="319.4" r="4" fill="#3465a4"><title>Hallstatt (Artefact)</title></circle></a><a href="/variants/s3/dg20o1dg4~x3/"><circle cx="626.0" cy="282.1" r="4" fill="#3465a4"><title>Castle Fraser Check</title></circle></a><a href="/variants/s5/dt32dr3dt4k2lo3~x2/"><circle cx="549.2" cy="168.4" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting</title></circle></a><a href="/variants/s5/dg100ly4dg2lyi3lyii6~x2~ly2503076-lyi2705081-lyii3104101/"><circle cx="626.0" cy="141.0" r="4" fill="#3465a4"><title>Lagrande</title></circle></a><a href="/variants/s5/g62r7k4r4g62~x2/"><circle cx="607.8" cy="206.6" r="4" fill="#3465a4"><title>MacNab, Ancient</title></circle></a><a href="/variants/s3/dr1g22lo1~x4/"><circle cx="626.0" cy="250.3" r="4" fill="#3465a4"><title>Kenmore Hunting</title></circle></a><a href="/variants/s3/k1g22dr1~x4/"><circle cx="626.0" cy="200.6" r="4" fill="#3465a4"><title>Kenmore Hunting (Fashion)</title></circle></a><a href="/variants/s4/g9o20g46lg5~x2/"><circle cx="536.0" cy="299.8" r="4" fill="#3465a4"><title>O'Neill, Red (Corporate?)</title></circle></a><a href="/variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/"><circle cx="626.0" cy="249.3" r="4" fill="#3465a4"><title>Young in Australia (Name)</title></circle></a><circle cx="626.0" cy="231.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dg2dp2dg24dpi1~x4~dg1806142-dpi1507327/"><circle cx="626.0" cy="228.9" r="4" fill="#3465a4"><title>Walters (Personal)</title></circle></a><a href="/variants/s3/g16dy3g2~x10/"><circle cx="626.0" cy="320.0" r="4" fill="#3465a4"><title>Hallstatt (Artefact)</title></circle></a><a href="/variants/s3/dg20o1dg4~x3/"><circle cx="626.0" cy="282.3" r="4" fill="#3465a4"><title>Castle Fraser Check</title></circle></a><a href="/variants/s5/dt32dr3dt4k2lo3~x2/"><circle cx="549.2" cy="168.7" r="4" fill="#3465a4"><title>MacLaine of Lochbuie Hunting</title></circle></a><a href="/variants/s5/dg100ly4dg2lyi3lyii6~x2~ly2503076-lyi2705081-lyii3104101/"><circle cx="626.0" cy="141.1" r="4" fill="#3465a4"><title>Lagrande</title></circle></a><a href="/variants/s5/g62r7k4r4g62~x2/"><circle cx="607.9" cy="207.1" r="4" fill="#3465a4"><title>MacNab, Ancient</title></circle></a><a href="/variants/s3/dr1g22lo1~x4/"><circle cx="626.0" cy="250.7" r="4" fill="#3465a4"><title>Kenmore Hunting</title></circle></a><a href="/variants/s3/k1g22dr1~x4/"><circle cx="626.0" cy="201.1" r="4" fill="#3465a4"><title>Kenmore Hunting (Fashion)</title></circle></a><a href="/variants/s4/g9o20g46lg5~x2/"><circle cx="536.2" cy="300.2" r="4" fill="#3465a4"><title>O'Neill, Red (Corporate?)</title></circle></a><a href="/variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/"><circle cx="626.0" cy="249.7" r="4" fill="#3465a4"><title>Young in Australia (Name)</title></circle></a><circle cx="626.0" cy="231.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/dg2dp2dg24g1~x4~dg1806142-g2408144/

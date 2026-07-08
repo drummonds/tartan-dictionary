@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lee Cox (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3/)
 (the same proportion at any scale), whose colour order is pattern [BWRBGBKBKBGBKBKGR](/stripes/bwrbgbkbkbgbkbkgr/).
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10205
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10205](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10205)
 
 ## Provenance
 
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/db12k2g2k2g2k2db13dr6k10dr6g13k2lo2k2lb2k2g12~x2/"><circle cx="59.3" cy="148.5" r="4" fill="#3465a4"><title>Cunningham Hunting</title></circle></a><a href="/variants/s14/k1y1k1g6k6db6r1db1r1db6k6g6k1t1~x4/"><circle cx="74.6" cy="160.4" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/variants/s14/k1y1k1g6k6db6r1db1r1db6k6g6k1lb1~x4/"><circle cx="71.9" cy="159.4" r="4" fill="#3465a4"><title>Malcolm #2</title></circle></a><a href="/variants/s14/db1r1db6k6g6k1y1k1lb1k1g6k6db6r1~x2/"><circle cx="71.9" cy="159.4" r="4" fill="#3465a4"><title>Malcolm (a)</title></circle></a><a href="/variants/s12/dr4db4dr2db13k6g3k6y2g4y2g14dp4~x2/"><circle cx="71.1" cy="172.0" r="4" fill="#3465a4"><title>Kinloch Anderson Hunting</title></circle></a><a href="/variants/s14/db1r1db6k6g6k1y1k1w1k1g6k6db6r1/"><circle cx="69.1" cy="158.5" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/variants/s18/dp47k6r6k6dp6k19g19k6g19y6g19k6g19k19dp6k6w6k6~x2/"><circle cx="70.9" cy="132.4" r="4" fill="#3465a4"><title>Unidentified fragment</title></circle></a><a href="/variants/s15/db2r1db6k6g6k1lb1k1y1k1g6k6db6g1db2~x4/"><circle cx="75.4" cy="161.4" r="4" fill="#3465a4"><title>Malcolm (symmetrical)</title></circle></a><a href="/variants/s14/k20g18k2y2k5w2k2g18k20dp18t4dp4t4dp18~x2/"><circle cx="97.1" cy="137.8" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><a href="/variants/s9/dg16g2dp13lb2k6ly2dg16lb2k12~x2~dg1806142-g1903114-ly3307090/"><circle cx="119.2" cy="146.8" r="4" fill="#3465a4"><title>Wilson's No.225</title></circle></a><circle cx="73.9" cy="154.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/db12k2g2k2g2k2db13dr6k10dr6g13k2lo2k2lb2k2g12~x2/"><circle cx="59.2" cy="148.8" r="4" fill="#3465a4"><title>Cunningham Hunting</title></circle></a><a href="/variants/s14/k1y1k1g6k6db6r1db1r1db6k6g6k1t1~x4/"><circle cx="74.6" cy="160.8" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/variants/s14/k1y1k1g6k6db6r1db1r1db6k6g6k1lb1~x4/"><circle cx="71.9" cy="159.7" r="4" fill="#3465a4"><title>Malcolm #2</title></circle></a><a href="/variants/s14/db1r1db6k6g6k1y1k1lb1k1g6k6db6r1~x2/"><circle cx="71.9" cy="159.7" r="4" fill="#3465a4"><title>Malcolm (a)</title></circle></a><a href="/variants/s12/dr4db4dr2db13k6g3k6y2g4y2g14dp4~x2/"><circle cx="71.1" cy="172.4" r="4" fill="#3465a4"><title>Kinloch Anderson Hunting</title></circle></a><a href="/variants/s14/db1r1db6k6g6k1y1k1w1k1g6k6db6r1/"><circle cx="69.0" cy="158.9" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/variants/s18/dp47k6r6k6dp6k19g19k6g19y6g19k6g19k19dp6k6w6k6~x2/"><circle cx="70.9" cy="132.7" r="4" fill="#3465a4"><title>Unidentified fragment</title></circle></a><a href="/variants/s15/db2r1db6k6g6k1lb1k1y1k1g6k6db6g1db2~x4/"><circle cx="75.3" cy="161.8" r="4" fill="#3465a4"><title>Malcolm (symmetrical)</title></circle></a><a href="/variants/s14/k20g18k2y2k5w2k2g18k20dp18t4dp4t4dp18~x2/"><circle cx="97.0" cy="138.1" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><a href="/variants/s9/dg16g2dp13lb2k6ly2dg16lb2k12~x2~dg1806142-g1903114-ly3307090/"><circle cx="119.2" cy="147.1" r="4" fill="#3465a4"><title>Wilson's No.225</title></circle></a><circle cx="73.9" cy="154.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/r3dg2k7t3k3t3dg14t3k3t3k3t3dg10dp6r2w2t3~x2/

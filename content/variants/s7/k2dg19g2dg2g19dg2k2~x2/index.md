@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hunting Kenmore Trade Com. Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2dg19g2dg2g19dg2k2/)
 (the same proportion at any scale), whose colour order is pattern [KGGGGGK](/stripes/kgggggk/).
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2234
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2234](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2234)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2dg19g2dg2g19dg2y2~x2/"><circle cx="354.0" cy="217.9" r="4" fill="#3465a4"><title>Hunting Kenmore</title></circle></a><a href="/variants/s6/r3dg2g32dg32g2w3~x2/"><circle cx="330.2" cy="192.3" r="4" fill="#3465a4"><title>Galloway Hunting</title></circle></a><a href="/variants/s7/g24r9g4dg19y2dg6g7~x2/"><circle cx="309.2" cy="229.9" r="4" fill="#3465a4"><title>Doyle</title></circle></a><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/"><circle cx="241.5" cy="181.1" r="4" fill="#3465a4"><title>John Telfar Dunbar Hunting</title></circle></a><a href="/variants/s6/g4k2g28k8dg21g3~x2/"><circle cx="298.7" cy="203.3" r="4" fill="#3465a4"><title>Dunbar Hunting</title></circle></a><a href="/variants/s8/dg5g32dp5k10dg8dr3dg8dp3~x2/"><circle cx="195.0" cy="172.0" r="4" fill="#3465a4"><title>Scottish Power (Corporate)</title></circle></a><a href="/variants/s8/r3g1k1g12t12k1t1k1~x4/"><circle cx="238.9" cy="170.9" r="4" fill="#3465a4"><title>Peter of Lee (Personal)</title></circle></a><a href="/variants/s8/k1t1k1t12g12k1g1ly1~x4~t2105244/"><circle cx="266.9" cy="167.1" r="4" fill="#3465a4"><title>Banff Centennial</title></circle></a><a href="/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/"><circle cx="346.2" cy="168.2" r="4" fill="#3465a4"><title>Donachie of Brockloch Ancient Hunting</title></circle></a><a href="/variants/s8/k1t1k1t7g8k1g1ly1~x4/"><circle cx="215.8" cy="189.7" r="4" fill="#3465a4"><title>Banff Centennial (Commemorative)</title></circle></a><circle cx="293.0" cy="189.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2dg19g2dg2g19dg2y2~x2/"><circle cx="354.1" cy="218.2" r="4" fill="#3465a4"><title>Hunting Kenmore</title></circle></a><a href="/variants/s6/r3dg2g32dg32g2w3~x2/"><circle cx="330.2" cy="192.6" r="4" fill="#3465a4"><title>Galloway Hunting</title></circle></a><a href="/variants/s7/g24r9g4dg19y2dg6g7~x2/"><circle cx="309.3" cy="230.3" r="4" fill="#3465a4"><title>Doyle</title></circle></a><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/"><circle cx="241.5" cy="181.5" r="4" fill="#3465a4"><title>John Telfar Dunbar Hunting</title></circle></a><a href="/variants/s6/g4k2g28k8dg21g3~x2/"><circle cx="298.8" cy="203.7" r="4" fill="#3465a4"><title>Dunbar Hunting</title></circle></a><a href="/variants/s8/dg5g32dp5k10dg8dr3dg8dp3~x2/"><circle cx="195.0" cy="172.3" r="4" fill="#3465a4"><title>Scottish Power (Corporate)</title></circle></a><a href="/variants/s8/r3g1k1g12t12k1t1k1~x4/"><circle cx="238.9" cy="171.2" r="4" fill="#3465a4"><title>Peter of Lee (Personal)</title></circle></a><a href="/variants/s8/k1t1k1t12g12k1g1ly1~x4~t2105244/"><circle cx="266.9" cy="167.4" r="4" fill="#3465a4"><title>Banff Centennial</title></circle></a><a href="/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/"><circle cx="346.2" cy="168.5" r="4" fill="#3465a4"><title>Donachie of Brockloch Ancient Hunting</title></circle></a><a href="/variants/s8/k1t1k1t7g8k1g1ly1~x4/"><circle cx="215.8" cy="190.2" r="4" fill="#3465a4"><title>Banff Centennial (Commemorative)</title></circle></a><circle cx="293.0" cy="189.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k2dg19g2dg2g19dg2k2~x2/

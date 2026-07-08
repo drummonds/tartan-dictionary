@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacLamroc"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y4k1dg16k16r1w3/)
 (the same proportion at any scale), whose colour order is pattern [GKGKRW](/stripes/gkgkrw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2593
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2593](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2593)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y2k6g33k33dp33w2~x2/"><circle cx="158.9" cy="162.9" r="4" fill="#3465a4"><title>MacNeil 8</title></circle></a><a href="/variants/s7/y2k6g33k33db33r3w2~x2/"><circle cx="133.9" cy="137.7" r="4" fill="#3465a4"><title>MacNeil - 1840 (Chief's sett)</title></circle></a><a href="/variants/s7/w5k26y2dg24db7k3r3~x2/"><circle cx="154.7" cy="139.0" r="4" fill="#3465a4"><title>Cornish Hunting District Tartan</title></circle></a><a href="/variants/s7/w5k26y2dg24ki7k3r3~x2~ki0604259/"><circle cx="150.9" cy="135.9" r="4" fill="#3465a4"><title>Cornish, hunting</title></circle></a><a href="/variants/s7/w5k26ly2g24db8k4r3~x2/"><circle cx="133.3" cy="139.6" r="4" fill="#3465a4"><title>Cornish Htg (District)</title></circle></a><a href="/variants/s6/y3k1g20k20db18lb3~x2/"><circle cx="137.3" cy="162.8" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/variants/s6/ly3k1g20k20db18lb3~x2/"><circle cx="132.4" cy="161.4" r="4" fill="#3465a4"><title>Smith, Sir William (?)</title></circle></a><a href="/variants/s6/y1k5g12k12db12w1~x4/"><circle cx="147.1" cy="187.2" r="4" fill="#3465a4"><title>MacNeil 5</title></circle></a><a href="/variants/s6/k2g12k12r1db12w2~x2/"><circle cx="121.4" cy="180.4" r="4" fill="#3465a4"><title>Russell or Mitchell or Hunter or Galbraith</title></circle></a><a href="/variants/s6/k2g12k12r1db12w2/"><circle cx="121.4" cy="180.4" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><circle cx="189.7" cy="150.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y2k6g33k33dp33w2~x2/"><circle cx="158.9" cy="163.3" r="4" fill="#3465a4"><title>MacNeil 8</title></circle></a><a href="/variants/s7/y2k6g33k33db33r3w2~x2/"><circle cx="133.9" cy="138.0" r="4" fill="#3465a4"><title>MacNeil - 1840 (Chief's sett)</title></circle></a><a href="/variants/s7/w5k26y2dg24db7k3r3~x2/"><circle cx="154.6" cy="139.3" r="4" fill="#3465a4"><title>Cornish Hunting District Tartan</title></circle></a><a href="/variants/s7/w5k26y2dg24ki7k3r3~x2~ki0604259/"><circle cx="150.8" cy="136.2" r="4" fill="#3465a4"><title>Cornish, hunting</title></circle></a><a href="/variants/s7/w5k26ly2g24db8k4r3~x2/"><circle cx="133.2" cy="139.9" r="4" fill="#3465a4"><title>Cornish Htg (District)</title></circle></a><a href="/variants/s6/y3k1g20k20db18lb3~x2/"><circle cx="137.2" cy="163.2" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/variants/s6/ly3k1g20k20db18lb3~x2/"><circle cx="132.3" cy="161.8" r="4" fill="#3465a4"><title>Smith, Sir William (?)</title></circle></a><a href="/variants/s6/y1k5g12k12db12w1~x4/"><circle cx="147.1" cy="187.6" r="4" fill="#3465a4"><title>MacNeil 5</title></circle></a><a href="/variants/s6/k2g12k12r1db12w2~x2/"><circle cx="121.4" cy="180.8" r="4" fill="#3465a4"><title>Russell or Mitchell or Hunter or Galbraith</title></circle></a><a href="/variants/s6/k2g12k12r1db12w2/"><circle cx="121.4" cy="180.8" r="4" fill="#3465a4"><title>Mitchell</title></circle></a><circle cx="189.6" cy="151.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/y4k1dg16k16r1w3~x2/

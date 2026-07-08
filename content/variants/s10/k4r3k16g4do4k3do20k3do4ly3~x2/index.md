@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McCurrach (2014)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4r3k16g4do4k3do20k3do4ly3/)
 (the same proportion at any scale), whose colour order is pattern [KRKGBKBKBY](/stripes/krkgbkbkby/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11021
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11021](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11021)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k4r3k16g4dy4k3dy20k3dy4w3~x2/"><circle cx="173.1" cy="164.5" r="4" fill="#3465a4"><title>McCurrach (2014)</title></circle></a><a href="/variants/s11/dp3k2n6k2n2k18dg13lb2dg2k6dp2~x2/"><circle cx="205.9" cy="154.7" r="4" fill="#3465a4"><title>Dama Resort</title></circle></a><a href="/variants/s11/o6k3dg3k6dr2k2dr2k6dg3o14dy2~x2/"><circle cx="141.0" cy="172.9" r="4" fill="#3465a4"><title>Fountain of the Strong</title></circle></a><a href="/variants/s12/k8dp1k1w1k2dp8k8g8k1y1k2g8~x2/"><circle cx="150.8" cy="160.2" r="4" fill="#3465a4"><title>Unidentified #32</title></circle></a><a href="/variants/s9/ni3o3k16ni2k2ni16k3ni2n2~x2~ni1700000/"><circle cx="243.8" cy="171.1" r="4" fill="#3465a4"><title>Chinzei Keiai Junior High School</title></circle></a><a href="/variants/s11/dr10k3dg2w2k22b4k22dr4dg4dr14w3~x2/"><circle cx="221.7" cy="143.3" r="4" fill="#3465a4"><title>MacDonald, Sir John A</title></circle></a><a href="/variants/s9/lb1k1dr10g10k5db5dr10k1lb1~x4/"><circle cx="180.9" cy="171.4" r="4" fill="#3465a4"><title>Graham of Montrose Red</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.8" cy="200.6" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s12/k6db4dr11k36ly5k5ly5k8dr30db10dr8db4/"><circle cx="198.5" cy="166.4" r="4" fill="#3465a4"><title>Johnnie Walker (2003) (Corporate)</title></circle></a><a href="/variants/s13/b1dy1o8k1b1k1dy8k1dy1k1dy1k8ly1~x4/"><circle cx="138.5" cy="136.1" r="4" fill="#3465a4"><title>Unidentified #63</title></circle></a><circle cx="183.1" cy="166.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k4r3k16g4dy4k3dy20k3dy4w3~x2/"><circle cx="173.0" cy="164.9" r="4" fill="#3465a4"><title>McCurrach (2014)</title></circle></a><a href="/variants/s11/dp3k2n6k2n2k18dg13lb2dg2k6dp2~x2/"><circle cx="205.9" cy="155.0" r="4" fill="#3465a4"><title>Dama Resort</title></circle></a><a href="/variants/s11/o6k3dg3k6dr2k2dr2k6dg3o14dy2~x2/"><circle cx="141.0" cy="173.4" r="4" fill="#3465a4"><title>Fountain of the Strong</title></circle></a><a href="/variants/s12/k8dp1k1w1k2dp8k8g8k1y1k2g8~x2/"><circle cx="150.8" cy="160.6" r="4" fill="#3465a4"><title>Unidentified #32</title></circle></a><a href="/variants/s9/ni3o3k16ni2k2ni16k3ni2n2~x2~ni1700000/"><circle cx="243.8" cy="171.5" r="4" fill="#3465a4"><title>Chinzei Keiai Junior High School</title></circle></a><a href="/variants/s11/dr10k3dg2w2k22b4k22dr4dg4dr14w3~x2/"><circle cx="221.7" cy="143.6" r="4" fill="#3465a4"><title>MacDonald, Sir John A</title></circle></a><a href="/variants/s9/lb1k1dr10g10k5db5dr10k1lb1~x4/"><circle cx="180.9" cy="171.8" r="4" fill="#3465a4"><title>Graham of Montrose Red</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.9" cy="201.2" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s12/k6db4dr11k36ly5k5ly5k8dr30db10dr8db4/"><circle cx="198.5" cy="166.7" r="4" fill="#3465a4"><title>Johnnie Walker (2003) (Corporate)</title></circle></a><a href="/variants/s13/b1dy1o8k1b1k1dy8k1dy1k1dy1k8ly1~x4/"><circle cx="138.5" cy="136.4" r="4" fill="#3465a4"><title>Unidentified #63</title></circle></a><circle cx="183.1" cy="167.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k4r3k16g4do4k3do20k3do4ly3~x2/

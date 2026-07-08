@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/sinclair/"
 - name: "Sinclair Dress"
   url: "/tartans/sinclair-dress/"
+- name: "Sinclair Dress (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4r2db31k10g4w21g2/)
 (the same proportion at any scale), whose colour order is pattern [BRBKGWGWGKBR](/stripes/brbkgwgwgkbr/).
@@ -16,7 +18,7 @@ Part of the [Sinclair Dress](/tartans/sinclair-dress/) tartan — the named desi
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3794
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3794](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3794)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db2r1db16k5g2w11g1~x4/"><circle cx="189.7" cy="139.0" r="4" fill="#3465a4"><title>Sinclair dress</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="137.8" cy="149.8" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/variants/s11/db23w2db3lb4db3w2db5k11dp2w23k3~x2/"><circle cx="153.1" cy="131.6" r="4" fill="#3465a4"><title>MacKellar Royal Blue Dress Tartan</title></circle></a><a href="/variants/s11/lb3k1lb1db4lb10r2k8db2lb1k1lb3~x2/"><circle cx="164.9" cy="142.4" r="4" fill="#3465a4"><title>Norwich No.020</title></circle></a><a href="/variants/s14/db14k2g3k2g3k2db12dr4db10dr3db10dr4lb28dr4~x2/"><circle cx="177.5" cy="124.0" r="4" fill="#3465a4"><title>Wcwm 1138</title></circle></a><a href="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/"><circle cx="153.7" cy="111.2" r="4" fill="#3465a4"><title>Ellis (Welsh Name)</title></circle></a><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/"><circle cx="132.2" cy="122.9" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/variants/s11/db15y30w30k20w20k15w10y4db94w4r10/"><circle cx="177.4" cy="108.9" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><a href="/variants/s13/k2db2w2db2w27db2k9db3g3db24g2db4y2~x2/"><circle cx="172.5" cy="102.8" r="4" fill="#3465a4"><title>Yarrow Turquoise Dress Tartan</title></circle></a><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/"><circle cx="135.4" cy="127.6" r="4" fill="#3465a4"><title>Sutherland, Dress</title></circle></a><circle cx="166.3" cy="126.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db2r1db16k5g2w11g1~x4/"><circle cx="189.7" cy="139.3" r="4" fill="#3465a4"><title>Sinclair dress</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="137.8" cy="150.2" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/variants/s11/db23w2db3lb4db3w2db5k11dp2w23k3~x2/"><circle cx="153.0" cy="132.0" r="4" fill="#3465a4"><title>MacKellar Royal Blue Dress Tartan</title></circle></a><a href="/variants/s11/lb3k1lb1db4lb10r2k8db2lb1k1lb3~x2/"><circle cx="164.9" cy="142.8" r="4" fill="#3465a4"><title>Norwich No.020</title></circle></a><a href="/variants/s14/db14k2g3k2g3k2db12dr4db10dr3db10dr4lb28dr4~x2/"><circle cx="177.4" cy="124.2" r="4" fill="#3465a4"><title>Wcwm 1138</title></circle></a><a href="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/"><circle cx="153.6" cy="111.5" r="4" fill="#3465a4"><title>Ellis (Welsh Name)</title></circle></a><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/"><circle cx="132.2" cy="123.3" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/variants/s11/db15y30w30k20w20k15w10y4db94w4r10/"><circle cx="177.3" cy="109.1" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><a href="/variants/s13/k2db2w2db2w27db2k9db3g3db24g2db4y2~x2/"><circle cx="172.4" cy="103.1" r="4" fill="#3465a4"><title>Yarrow Turquoise Dress Tartan</title></circle></a><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/"><circle cx="135.4" cy="128.0" r="4" fill="#3465a4"><title>Sutherland, Dress</title></circle></a><circle cx="166.3" cy="126.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db4r2db31k10g4w21g2~x2/

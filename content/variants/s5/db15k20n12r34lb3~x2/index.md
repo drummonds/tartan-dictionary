@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McCurdy-Stribbling (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db15k20n12r34lb3/)
 (the same proportion at any scale), whose colour order is pattern [BKBRW](/stripes/bkbrw/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10284
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10284](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10284)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w3db12k12r20g2~x2/"><circle cx="140.5" cy="189.0" r="4" fill="#3465a4"><title>Baillie of Polkemett</title></circle></a><a href="/variants/s5/w3t12k12r20g2~x2/"><circle cx="138.1" cy="190.9" r="4" fill="#3465a4"><title>Baillie of Polkemmet Red</title></circle></a><a href="/variants/s5/y2r15k7db8y2~x4/"><circle cx="179.8" cy="212.6" r="4" fill="#3465a4"><title>Aberdeen University</title></circle></a><a href="/variants/s5/dy4r27k12db15dy4~x2/"><circle cx="177.5" cy="220.2" r="4" fill="#3465a4"><title>Aberdeen University (1992)</title></circle></a><a href="/variants/s6/dg3b3r22k5ki22y2~x2~ki0604259/"><circle cx="153.0" cy="145.1" r="4" fill="#3465a4"><title>Clan MacLeod Society of Scotland, Centenary</title></circle></a><a href="/variants/s5/r15g3w2k10w5~x2/"><circle cx="164.0" cy="216.4" r="4" fill="#3465a4"><title>SAL Cubiska Stenen</title></circle></a><a href="/variants/s6/dr11n3dr12k11t11w1~x2/"><circle cx="190.1" cy="207.5" r="4" fill="#3465a4"><title>Dunfermline</title></circle></a><a href="/variants/s5/k4db2o13m13w2~x4/"><circle cx="164.7" cy="207.6" r="4" fill="#3465a4"><title>Think Pink (ICF)</title></circle></a><a href="/variants/s5/db13k13db13r29y4~x2/"><circle cx="171.2" cy="236.3" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/variants/s6/dg3g3r22k5db22dy2~x2~dg1806142-g2408144/"><circle cx="164.6" cy="152.1" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><circle cx="149.2" cy="199.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w3db12k12r20g2~x2/"><circle cx="140.6" cy="189.6" r="4" fill="#3465a4"><title>Baillie of Polkemett</title></circle></a><a href="/variants/s5/w3t12k12r20g2~x2/"><circle cx="138.2" cy="191.5" r="4" fill="#3465a4"><title>Baillie of Polkemmet Red</title></circle></a><a href="/variants/s5/y2r15k7db8y2~x4/"><circle cx="179.9" cy="213.2" r="4" fill="#3465a4"><title>Aberdeen University</title></circle></a><a href="/variants/s5/dy4r27k12db15dy4~x2/"><circle cx="177.6" cy="220.8" r="4" fill="#3465a4"><title>Aberdeen University (1992)</title></circle></a><a href="/variants/s6/dg3b3r22k5ki22y2~x2~ki0604259/"><circle cx="153.0" cy="145.4" r="4" fill="#3465a4"><title>Clan MacLeod Society of Scotland, Centenary</title></circle></a><a href="/variants/s5/r15g3w2k10w5~x2/"><circle cx="164.1" cy="217.1" r="4" fill="#3465a4"><title>SAL Cubiska Stenen</title></circle></a><a href="/variants/s6/dr11n3dr12k11t11w1~x2/"><circle cx="190.1" cy="208.1" r="4" fill="#3465a4"><title>Dunfermline</title></circle></a><a href="/variants/s5/k4db2o13m13w2~x4/"><circle cx="164.8" cy="208.2" r="4" fill="#3465a4"><title>Think Pink (ICF)</title></circle></a><a href="/variants/s5/db13k13db13r29y4~x2/"><circle cx="171.3" cy="237.0" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/variants/s6/dg3g3r22k5db22dy2~x2~dg1806142-g2408144/"><circle cx="164.5" cy="152.5" r="4" fill="#3465a4"><title>MacLeod Society of Scotland</title></circle></a><circle cx="149.2" cy="199.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db15k20n12r34lb3~x2/

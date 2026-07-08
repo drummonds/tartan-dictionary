@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Michigan State University"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g18w55n19g20w2g20k5/)
 (the same proportion at any scale), whose colour order is pattern [GWBGWGK](/stripes/gwbgwgk/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2476
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2476](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2476)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb5k1w30dp15w8g30w8dp2~x2/"><circle cx="218.9" cy="133.0" r="4" fill="#3465a4"><title>Shaw, Miss Rebecca (Personal)</title></circle></a><a href="/variants/s7/w5g2w34g34k2g2y4~x2/"><circle cx="269.6" cy="151.7" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance)</title></circle></a><a href="/variants/s9/w38r12w37g32k3w4k3g32r4~x2/"><circle cx="215.2" cy="173.5" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/variants/s9/w38r12w37g32k3w4k3g32r4/"><circle cx="215.2" cy="173.5" r="4" fill="#3465a4"><title>MacDiarmid, dress</title></circle></a><a href="/variants/s7/y2g1k1g20w20g1w2~x4/"><circle cx="280.7" cy="142.3" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance) Fashion Tartan</title></circle></a><a href="/variants/s8/g3dg32g36o12k2w68dg3k2~x2~g2003152-dg1806142/"><circle cx="206.0" cy="105.4" r="4" fill="#3465a4"><title>Kintail Dress</title></circle></a><a href="/variants/s11/g26r5k1r2k1r5g16r5w16g2w8~x2/"><circle cx="247.6" cy="124.9" r="4" fill="#3465a4"><title>Livingston (Personal)</title></circle></a><a href="/variants/s8/ly5k2w16k5lg29k2ly2k2~x2/"><circle cx="202.9" cy="150.0" r="4" fill="#3465a4"><title>Children's Wish Foundation of Canada</title></circle></a><a href="/variants/s7/lb37k12ly17r3ly17k1y3~x2/"><circle cx="206.8" cy="121.3" r="4" fill="#3465a4"><title>Berger-MacLaren</title></circle></a><a href="/variants/s5/db10k3lb65g56y6/"><circle cx="268.2" cy="167.3" r="4" fill="#3465a4"><title>Phoenix Police Honor Guard (Corp.)</title></circle></a><circle cx="220.9" cy="162.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb5k1w30dp15w8g30w8dp2~x2/"><circle cx="218.8" cy="133.4" r="4" fill="#3465a4"><title>Shaw, Miss Rebecca (Personal)</title></circle></a><a href="/variants/s7/w5g2w34g34k2g2y4~x2/"><circle cx="269.7" cy="152.2" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance)</title></circle></a><a href="/variants/s9/w38r12w37g32k3w4k3g32r4~x2/"><circle cx="215.3" cy="174.0" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/variants/s9/w38r12w37g32k3w4k3g32r4/"><circle cx="215.3" cy="174.0" r="4" fill="#3465a4"><title>MacDiarmid, dress</title></circle></a><a href="/variants/s7/y2g1k1g20w20g1w2~x4/"><circle cx="280.7" cy="142.7" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance) Fashion Tartan</title></circle></a><a href="/variants/s8/g3dg32g36o12k2w68dg3k2~x2~g2003152-dg1806142/"><circle cx="205.9" cy="105.6" r="4" fill="#3465a4"><title>Kintail Dress</title></circle></a><a href="/variants/s11/g26r5k1r2k1r5g16r5w16g2w8~x2/"><circle cx="247.5" cy="125.3" r="4" fill="#3465a4"><title>Livingston (Personal)</title></circle></a><a href="/variants/s8/ly5k2w16k5lg29k2ly2k2~x2/"><circle cx="202.9" cy="150.5" r="4" fill="#3465a4"><title>Children's Wish Foundation of Canada</title></circle></a><a href="/variants/s7/lb37k12ly17r3ly17k1y3~x2/"><circle cx="206.8" cy="121.6" r="4" fill="#3465a4"><title>Berger-MacLaren</title></circle></a><a href="/variants/s5/db10k3lb65g56y6/"><circle cx="268.2" cy="167.6" r="4" fill="#3465a4"><title>Phoenix Police Honor Guard (Corp.)</title></circle></a><circle cx="220.9" cy="163.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g18w55n19g20w2g20k5/

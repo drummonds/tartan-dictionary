@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ravetta, Phil (Fife)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g20dr10y2db100w1lg10/)
 (the same proportion at any scale), whose colour order is pattern [GBGBWY](/stripes/gbgbwy/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10756
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10756](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10756)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g20dr10ly2db100w1y10/"><circle cx="478.5" cy="107.7" r="4" fill="#3465a4"><title>Ravetta (Name)</title></circle></a><a href="/variants/s4/db39y8dr3w1~x4/"><circle cx="568.8" cy="174.5" r="4" fill="#3465a4"><title>Norwich University Regimental Tartan</title></circle></a><a href="/variants/s4/db39y8r3w1~x4/"><circle cx="529.5" cy="152.6" r="4" fill="#3465a4"><title>Norwich University</title></circle></a><a href="/variants/s4/db60g16w8dy3~x2/"><circle cx="431.2" cy="198.0" r="4" fill="#3465a4"><title>Hsu (Personal)</title></circle></a><a href="/variants/s4/db60g16w8y3~x2/"><circle cx="429.9" cy="197.7" r="4" fill="#3465a4"><title>MaleHsuHK (Hong Kong) (Personal)</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="366.5" cy="149.0" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.1" cy="101.4" r="4" fill="#3465a4"><title>Wilton (Name)</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.7" cy="109.5" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s7/db67w1ly6r5dg25db3k5~x2/"><circle cx="380.8" cy="79.2" r="4" fill="#3465a4"><title>Guide Dogs (Corporate)</title></circle></a><a href="/variants/s5/db62ly4dy10do3g21~x2/"><circle cx="402.6" cy="184.3" r="4" fill="#3465a4"><title>McGovern (2016)</title></circle></a><circle cx="463.9" cy="104.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g20dr10ly2db100w1y10/"><circle cx="478.4" cy="107.7" r="4" fill="#3465a4"><title>Ravetta (Name)</title></circle></a><a href="/variants/s4/db39y8dr3w1~x4/"><circle cx="568.8" cy="174.7" r="4" fill="#3465a4"><title>Norwich University Regimental Tartan</title></circle></a><a href="/variants/s4/db39y8r3w1~x4/"><circle cx="529.4" cy="152.8" r="4" fill="#3465a4"><title>Norwich University</title></circle></a><a href="/variants/s4/db60g16w8dy3~x2/"><circle cx="431.3" cy="198.5" r="4" fill="#3465a4"><title>Hsu (Personal)</title></circle></a><a href="/variants/s4/db60g16w8y3~x2/"><circle cx="430.0" cy="198.1" r="4" fill="#3465a4"><title>MaleHsuHK (Hong Kong) (Personal)</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="366.5" cy="149.3" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.0" cy="101.4" r="4" fill="#3465a4"><title>Wilton (Name)</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.6" cy="109.6" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s7/db67w1ly6r5dg25db3k5~x2/"><circle cx="380.6" cy="79.2" r="4" fill="#3465a4"><title>Guide Dogs (Corporate)</title></circle></a><a href="/variants/s5/db62ly4dy10do3g21~x2/"><circle cx="402.6" cy="184.6" r="4" fill="#3465a4"><title>McGovern (2016)</title></circle></a><circle cx="463.8" cy="104.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g20dr10y2db100w1lg10~g2208144-lg3105139/

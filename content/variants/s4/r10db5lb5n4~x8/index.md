@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Haggis Hostels"
   url: "/tartans/haggis-hostels/"
+- name: "Haggis Hostels"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r10db5lb5n4/)
 (the same proportion at any scale), whose colour order is pattern [BWBR](/stripes/bwbr/).
@@ -14,7 +16,7 @@ Part of the [Haggis Hostels](/tartans/haggis-hostels/) tartan — the named desi
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11035
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11035](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11035)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r10lb5o5n4~x8~o2500000-n1900000/"><circle cx="218.7" cy="349.8" r="4" fill="#3465a4"><title>Haggis Hostels</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="195.1" cy="277.2" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s5/r3k1g1k1lb3~x8/"><circle cx="79.0" cy="266.1" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s5/r3k1g1k1lb3~x4/"><circle cx="79.0" cy="266.1" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="236.4" cy="240.3" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2~db1404245/"><circle cx="91.0" cy="260.7" r="4" fill="#3465a4"><title>Gandy of Myrton Clan/Family Tartan</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2/"><circle cx="88.5" cy="258.6" r="4" fill="#3465a4"><title>Gandy of Myrton (Name)</title></circle></a><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><circle cx="144.9" cy="261.6" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s5/dy5n21ly11db12r5~x2/"><circle cx="147.7" cy="273.9" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s4/w9r23g23w9~x2/"><circle cx="155.5" cy="335.2" r="4" fill="#3465a4"><title>Quaboos Pipers Plaid</title></circle></a><circle cx="162.9" cy="330.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r10lb5o5n4~x8~o2500000-n1900000/"><circle cx="219.0" cy="350.6" r="4" fill="#3465a4"><title>Haggis Hostels</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="195.2" cy="278.0" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s5/r3k1g1k1lb3~x8/"><circle cx="79.1" cy="267.0" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s5/r3k1g1k1lb3~x4/"><circle cx="79.1" cy="267.0" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="236.6" cy="240.9" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2~db1404245/"><circle cx="91.1" cy="261.5" r="4" fill="#3465a4"><title>Gandy of Myrton Clan/Family Tartan</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2/"><circle cx="88.6" cy="259.4" r="4" fill="#3465a4"><title>Gandy of Myrton (Name)</title></circle></a><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><circle cx="145.1" cy="262.2" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s5/dy5n21ly11db12r5~x2/"><circle cx="147.9" cy="274.5" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s4/w9r23g23w9~x2/"><circle cx="155.9" cy="336.2" r="4" fill="#3465a4"><title>Quaboos Pipers Plaid</title></circle></a><circle cx="163.2" cy="331.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/r10db5lb5n4~x8/

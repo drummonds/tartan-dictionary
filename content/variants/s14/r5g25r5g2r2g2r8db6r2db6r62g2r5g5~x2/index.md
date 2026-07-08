@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ross #7"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5g25r5g2r2g2r8db6r2db6r62g2r5g5/)
 (the same proportion at any scale), whose colour order is pattern [GRGRBRBRGRGRGR](/stripes/grgrbrbrgrgrgr/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3558
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3558](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3558)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/"><circle cx="427.8" cy="132.8" r="4" fill="#3465a4"><title>MacGillivray #3</title></circle></a><a href="/variants/s14/r3g12r2g1r1g1r4db3r1db3r28db1r3db2~x2/"><circle cx="439.3" cy="105.6" r="4" fill="#3465a4"><title>Ross #2</title></circle></a><a href="/variants/s17/w2r32dg2r3dg2r4dg17r4dg16r4dg2r3dg2r32w1r1w2~x2/"><circle cx="433.8" cy="98.6" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/variants/s17/w8r83g7r5g7r7g28r7g28r7g7r5g7r83w4r4w8/"><circle cx="435.1" cy="116.2" r="4" fill="#3465a4"><title>Rothesay (Red)</title></circle></a><a href="/variants/s13/r6db2r2g24r2g2r2db8r34db2r2db1r6~x2/"><circle cx="396.7" cy="109.8" r="4" fill="#3465a4"><title>Grant of Glenmoriston (Clan)</title></circle></a><a href="/variants/s14/g20r3g6r6g6r8dp2r2g20r2dp2r46dp3r8~x2/"><circle cx="397.8" cy="137.4" r="4" fill="#3465a4"><title>MacAlister of Glenbarr</title></circle></a><a href="/variants/s17/w8r83dg7r5dg7r7dg28r7dg28r7dg7r5dg7r83w4r4w8/"><circle cx="421.3" cy="108.6" r="4" fill="#3465a4"><title>Rothesay, Red (Royal)</title></circle></a><a href="/variants/s14/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2~x2/"><circle cx="459.2" cy="104.7" r="4" fill="#3465a4"><title>Ross, Old</title></circle></a><a href="/variants/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4~x2/"><circle cx="408.0" cy="86.2" r="4" fill="#3465a4"><title>Grant (Vestiarium Scoticum)</title></circle></a><a href="/variants/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4/"><circle cx="408.0" cy="86.2" r="4" fill="#3465a4"><title>Grant VS</title></circle></a><circle cx="457.0" cy="100.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/"><circle cx="427.8" cy="133.1" r="4" fill="#3465a4"><title>MacGillivray #3</title></circle></a><a href="/variants/s14/r3g12r2g1r1g1r4db3r1db3r28db1r3db2~x2/"><circle cx="439.2" cy="105.8" r="4" fill="#3465a4"><title>Ross #2</title></circle></a><a href="/variants/s17/w2r32dg2r3dg2r4dg17r4dg16r4dg2r3dg2r32w1r1w2~x2/"><circle cx="433.8" cy="98.9" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/variants/s17/w8r83g7r5g7r7g28r7g28r7g7r5g7r83w4r4w8/"><circle cx="435.1" cy="116.5" r="4" fill="#3465a4"><title>Rothesay (Red)</title></circle></a><a href="/variants/s13/r6db2r2g24r2g2r2db8r34db2r2db1r6~x2/"><circle cx="396.7" cy="110.0" r="4" fill="#3465a4"><title>Grant of Glenmoriston (Clan)</title></circle></a><a href="/variants/s14/g20r3g6r6g6r8dp2r2g20r2dp2r46dp3r8~x2/"><circle cx="397.8" cy="137.7" r="4" fill="#3465a4"><title>MacAlister of Glenbarr</title></circle></a><a href="/variants/s17/w8r83dg7r5dg7r7dg28r7dg28r7dg7r5dg7r83w4r4w8/"><circle cx="421.3" cy="108.9" r="4" fill="#3465a4"><title>Rothesay, Red (Royal)</title></circle></a><a href="/variants/s14/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2~x2/"><circle cx="459.2" cy="104.9" r="4" fill="#3465a4"><title>Ross, Old</title></circle></a><a href="/variants/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4~x2/"><circle cx="407.9" cy="86.4" r="4" fill="#3465a4"><title>Grant (Vestiarium Scoticum)</title></circle></a><a href="/variants/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4/"><circle cx="407.9" cy="86.4" r="4" fill="#3465a4"><title>Grant VS</title></circle></a><circle cx="457.0" cy="101.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/r5g25r5g2r2g2r8db6r2db6r62g2r5g5~x2/

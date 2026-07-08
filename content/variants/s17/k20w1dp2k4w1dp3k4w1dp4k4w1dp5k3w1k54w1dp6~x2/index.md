@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Purdy Black (Illinois)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6/)
 (the same proportion at any scale), whose colour order is pattern [BWKWKBWKBWKBWKBWK](/stripes/bwkwkbwkbwkbwkbwk/).
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10587
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10587](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10587)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k61w1k1r2k1w1k16w1r4k2r6k1y4~x2/"><circle cx="502.6" cy="23.7" r="4" fill="#3465a4"><title>Coeur D'Alene Firefighters Richard Gaines Memorial</title></circle></a><a href="/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2~n1700000-o2500000/"><circle cx="509.2" cy="45.9" r="4" fill="#3465a4"><title>Grassi (2009)</title></circle></a><a href="/variants/s10/w2k2dp8k10dp8k64w2k8y1k1~x2/"><circle cx="517.5" cy="55.4" r="4" fill="#3465a4"><title>Payne of Wallins Creek (Personal)</title></circle></a><a href="/variants/s14/k91ly3k11w2r3k2r3w2k3r6k3r3ly3w3~x2/"><circle cx="479.3" cy="14.5" r="4" fill="#3465a4"><title>Firefighters</title></circle></a><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/"><circle cx="495.1" cy="57.6" r="4" fill="#3465a4"><title>Wcwm 1669-3</title></circle></a><a href="/variants/s10/k64r1k4r1k6r7w2r7k6lb2~x2/"><circle cx="494.6" cy="40.5" r="4" fill="#3465a4"><title>Noordermeer (Personal)</title></circle></a><a href="/variants/s18/k6r7w2r7k6r1k4r1k64r1k4r1k6r7w2r7k6lb2~x2/"><circle cx="417.7" cy="14.3" r="4" fill="#3465a4"><title>Noordermeer Personal Tartan</title></circle></a><a href="/variants/s9/db7k5b6k5r7k2db2k70b2/"><circle cx="480.1" cy="69.3" r="4" fill="#3465a4"><title>United States</title></circle></a><a href="/variants/s11/w5k2db14k4dr8k4db4k80dr6k4dr4/"><circle cx="431.2" cy="63.7" r="4" fill="#3465a4"><title>American Heritage</title></circle></a><a href="/variants/s9/dp3n2o2k60n2k3n12k1o3~x2~n1900000-o2500000/"><circle cx="460.7" cy="55.3" r="4" fill="#3465a4"><title>Grassi (Personal)</title></circle></a><circle cx="500.9" cy="44.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k61w1k1r2k1w1k16w1r4k2r6k1y4~x2/"><circle cx="502.4" cy="23.7" r="4" fill="#3465a4"><title>Coeur D'Alene Firefighters Richard Gaines Memorial</title></circle></a><a href="/variants/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2~n1700000-o2500000/"><circle cx="509.0" cy="45.8" r="4" fill="#3465a4"><title>Grassi (2009)</title></circle></a><a href="/variants/s10/w2k2dp8k10dp8k64w2k8y1k1~x2/"><circle cx="517.3" cy="55.4" r="4" fill="#3465a4"><title>Payne of Wallins Creek (Personal)</title></circle></a><a href="/variants/s14/k91ly3k11w2r3k2r3w2k3r6k3r3ly3w3~x2/"><circle cx="479.0" cy="14.5" r="4" fill="#3465a4"><title>Firefighters</title></circle></a><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/"><circle cx="494.9" cy="57.6" r="4" fill="#3465a4"><title>Wcwm 1669-3</title></circle></a><a href="/variants/s10/k64r1k4r1k6r7w2r7k6lb2~x2/"><circle cx="494.4" cy="40.6" r="4" fill="#3465a4"><title>Noordermeer (Personal)</title></circle></a><a href="/variants/s18/k6r7w2r7k6r1k4r1k64r1k4r1k6r7w2r7k6lb2~x2/"><circle cx="417.5" cy="14.3" r="4" fill="#3465a4"><title>Noordermeer Personal Tartan</title></circle></a><a href="/variants/s9/db7k5b6k5r7k2db2k70b2/"><circle cx="479.9" cy="69.4" r="4" fill="#3465a4"><title>United States</title></circle></a><a href="/variants/s11/w5k2db14k4dr8k4db4k80dr6k4dr4/"><circle cx="431.1" cy="63.7" r="4" fill="#3465a4"><title>American Heritage</title></circle></a><a href="/variants/s9/dp3n2o2k60n2k3n12k1o3~x2~n1900000-o2500000/"><circle cx="460.5" cy="55.3" r="4" fill="#3465a4"><title>Grassi (Personal)</title></circle></a><circle cx="500.7" cy="44.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/k20w1dp2k4w1dp3k4w1dp4k4w1dp5k3w1k54w1dp6~x2/

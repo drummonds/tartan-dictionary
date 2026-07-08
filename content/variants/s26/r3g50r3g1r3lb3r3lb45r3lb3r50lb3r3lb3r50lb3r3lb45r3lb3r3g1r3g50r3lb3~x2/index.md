@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Not Specified"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3g50r3g1r3lb3r3lb45r3lb3r50lb3r3lb3r50lb3r3lb45r3lb3r3g1r3g50r3lb3/)
 (the same proportion at any scale), whose colour order is pattern [RGRGRWRWRWRWRWRWRWRWRGRGRW](/stripes/rgrgrwrwrwrwrwrwrwrwrgrgrw/).
 
 Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4808
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4808)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s27/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18g18r2g18~x2/"><circle cx="275.8" cy="134.1" r="4" fill="#3465a4"><title>Ross #4</title></circle></a><a href="/variants/s27/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18g18r2g18/"><circle cx="275.8" cy="134.1" r="4" fill="#3465a4"><title>Ross</title></circle></a><a href="/variants/s29/r10db1r1db1r72t1r1db20r4g1r4g84r1db2r10db1r1g84r4g1r4db20r2t1r72db2r2db1r4~x2/"><circle cx="340.3" cy="37.6" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/variants/s21/g8r4g1r1g1r24db8g4r1g1r1g4r8g1r1g1r1db8g8r2g4/"><circle cx="307.4" cy="119.3" r="4" fill="#3465a4"><title>Matheson</title></circle></a><a href="/variants/s21/g8r4g1r1g1r24db8g4r1g1r1g4r8g1r1g1r1db8g8r2g4~x2/"><circle cx="307.4" cy="119.3" r="4" fill="#3465a4"><title>Matheson</title></circle></a><a href="/variants/s36/g50r16g8do8r1do1r1do1r1do1r1do1r1do1r1do1r20do40g12do24ly8r1ly1r1ly1r1ly1r1ly1r1ly1r1ly1r28ly6do4/"><circle cx="256.2" cy="41.5" r="4" fill="#3465a4"><title>Newfoundland (Commemorative)</title></circle></a><a href="/variants/s30/r2lb1db2r24g2r2db8r2g2r4g24r2lb1db2r3db2lb1r2g24r4g2r2db8r2g2r24db2lb1r2g2~x2/"><circle cx="288.5" cy="81.0" r="4" fill="#3465a4"><title>Stewart/Stuart of Appin #2</title></circle></a><a href="/variants/s21/g8r4g1r1g1r24dp8g4r1g1r1g4r8g1r1g1r1dp8g8r2g4~x2/"><circle cx="319.2" cy="120.8" r="4" fill="#3465a4"><title>Matheson Dress</title></circle></a><circle cx="307.0" cy="77.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s27/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18g18r2g18~x2/"><circle cx="275.8" cy="134.4" r="4" fill="#3465a4"><title>Ross #4</title></circle></a><a href="/variants/s27/g18r2g18r18g2r4g2r18db18r2db18r18db1r1db2r1db1r18db1r1db2r1db1r18g18r2g18/"><circle cx="275.8" cy="134.4" r="4" fill="#3465a4"><title>Ross</title></circle></a><a href="/variants/s29/r10db1r1db1r72t1r1db20r4g1r4g84r1db2r10db1r1g84r4g1r4db20r2t1r72db2r2db1r4~x2/"><circle cx="340.2" cy="37.5" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/variants/s21/g8r4g1r1g1r24db8g4r1g1r1g4r8g1r1g1r1db8g8r2g4/"><circle cx="307.4" cy="119.6" r="4" fill="#3465a4"><title>Matheson</title></circle></a><a href="/variants/s21/g8r4g1r1g1r24db8g4r1g1r1g4r8g1r1g1r1db8g8r2g4~x2/"><circle cx="307.4" cy="119.6" r="4" fill="#3465a4"><title>Matheson</title></circle></a><a href="/variants/s36/g50r16g8do8r1do1r1do1r1do1r1do1r1do1r1do1r20do40g12do24ly8r1ly1r1ly1r1ly1r1ly1r1ly1r1ly1r28ly6do4/"><circle cx="256.0" cy="41.4" r="4" fill="#3465a4"><title>Newfoundland (Commemorative)</title></circle></a><a href="/variants/s30/r2lb1db2r24g2r2db8r2g2r4g24r2lb1db2r3db2lb1r2g24r4g2r2db8r2g2r24db2lb1r2g2~x2/"><circle cx="288.4" cy="81.1" r="4" fill="#3465a4"><title>Stewart/Stuart of Appin #2</title></circle></a><a href="/variants/s21/g8r4g1r1g1r24dp8g4r1g1r1g4r8g1r1g1r1dp8g8r2g4~x2/"><circle cx="319.2" cy="121.0" r="4" fill="#3465a4"><title>Matheson Dress</title></circle></a><circle cx="306.9" cy="77.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s26/r3g50r3g1r3lb3r3lb45r3lb3r50lb3r3lb3r50lb3r3lb45r3lb3r3g1r3g50r3lb3~x2/

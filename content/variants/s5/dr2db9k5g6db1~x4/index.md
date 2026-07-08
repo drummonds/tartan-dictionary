@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Frobo Nairn"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr2db9k5g6db1/)
 (the same proportion at any scale), whose colour order is pattern [BBKGB](/stripes/bbkgb/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1283
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1283](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1283)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db3g12k13w2db13w3~x2/"><circle cx="107.1" cy="227.4" r="4" fill="#3465a4"><title>Herd/Hurd (Name)</title></circle></a><a href="/variants/s6/db31b4db5k19g20y4~x2/"><circle cx="163.5" cy="204.9" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s6/db31t4db5k19g20lo4~x2/"><circle cx="156.2" cy="203.0" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s6/db2g12k13w1db13w2~x2/"><circle cx="147.5" cy="192.1" r="4" fill="#3465a4"><title>Herd Family Tartan</title></circle></a><a href="/variants/s6/r1t7k4t1dg7t1~x4/"><circle cx="193.2" cy="223.7" r="4" fill="#3465a4"><title>Flower of Scotland Commemorative Tartan</title></circle></a><a href="/variants/s6/r1t7k4t1dg7t1~x2/"><circle cx="193.2" cy="223.7" r="4" fill="#3465a4"><title>Flower of Scotland MINI Tartan</title></circle></a><a href="/variants/s5/g7k6db7k1db2~x2/"><circle cx="175.9" cy="261.6" r="4" fill="#3465a4"><title>Campbell of Glenlyon</title></circle></a><a href="/variants/s6/db3g28db3k16db28r3/"><circle cx="197.6" cy="204.8" r="4" fill="#3465a4"><title>Flower of Scotland</title></circle></a><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="114.8" cy="230.9" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/variants/s6/r3k2g15k10db20y2~x2/"><circle cx="146.8" cy="185.9" r="4" fill="#3465a4"><title>MacLeod of Assynt</title></circle></a><circle cx="189.1" cy="233.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db3g12k13w2db13w3~x2/"><circle cx="107.2" cy="228.0" r="4" fill="#3465a4"><title>Herd/Hurd (Name)</title></circle></a><a href="/variants/s6/db31b4db5k19g20y4~x2/"><circle cx="163.5" cy="205.4" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s6/db31t4db5k19g20lo4~x2/"><circle cx="156.2" cy="203.5" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s6/db2g12k13w1db13w2~x2/"><circle cx="147.5" cy="192.6" r="4" fill="#3465a4"><title>Herd Family Tartan</title></circle></a><a href="/variants/s6/r1t7k4t1dg7t1~x4/"><circle cx="193.3" cy="224.3" r="4" fill="#3465a4"><title>Flower of Scotland Commemorative Tartan</title></circle></a><a href="/variants/s6/r1t7k4t1dg7t1~x2/"><circle cx="193.3" cy="224.3" r="4" fill="#3465a4"><title>Flower of Scotland MINI Tartan</title></circle></a><a href="/variants/s5/g7k6db7k1db2~x2/"><circle cx="176.0" cy="262.3" r="4" fill="#3465a4"><title>Campbell of Glenlyon</title></circle></a><a href="/variants/s6/db3g28db3k16db28r3/"><circle cx="197.6" cy="205.3" r="4" fill="#3465a4"><title>Flower of Scotland</title></circle></a><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="114.9" cy="231.5" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/variants/s6/r3k2g15k10db20y2~x2/"><circle cx="146.8" cy="186.3" r="4" fill="#3465a4"><title>MacLeod of Assynt</title></circle></a><circle cx="189.2" cy="234.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dr2db9k5g6db1~x4/

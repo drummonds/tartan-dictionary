@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Spirit of Alba"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb4dbi19g1db2g2db18dp24g1dbi2/)
 (the same proportion at any scale), whose colour order is pattern [BGBBGBGBWBGBGBBG](/stripes/bgbbgbgbwbgbgbbg/).
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3862
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3862)
 
 ## Provenance
 

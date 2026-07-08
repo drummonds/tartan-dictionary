@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Livingston"
   url: "/tartans/livingston/"
+- name: "Livingstone #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g12r4k1r2k1r4g16r20g2r8/)
 (the same proportion at any scale), whose colour order is pattern [GRKRKRGRGR](/stripes/grkrkrgrgr/).
@@ -14,7 +16,7 @@ Part of the [Livingston](/tartans/livingston/) tartan — the named design group
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2135
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2135](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2135)
 
 ## Provenance
 
@@ -78,8 +80,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g12r3k1r3k1r4g16r20g2r8~x2/"><circle cx="346.2" cy="157.3" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/variants/s12/dg12r4k1ly1r2k1ly1r4dg16r20dg2r8~x2/"><circle cx="314.5" cy="121.7" r="4" fill="#3465a4"><title>Livingstone Australia (NSW) (Clan)</title></circle></a><a href="/variants/s12/dg12r4k1y1r2k1y1r4dg16r20dg2r8~x2/"><circle cx="321.4" cy="123.8" r="4" fill="#3465a4"><title>Livingstone (Australia) NSW</title></circle></a><a href="/variants/s9/r40k15r6g32r6g32r40g2r20/"><circle cx="318.3" cy="176.2" r="4" fill="#3465a4"><title>Maxwell Variant</title></circle></a><a href="/variants/s9/g20k2r3k2r6g20r29g3r10~x2/"><circle cx="312.2" cy="174.8" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/"><circle cx="368.3" cy="164.9" r="4" fill="#3465a4"><title>MacPhie/Macfie</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1/"><circle cx="368.3" cy="164.9" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x2/"><circle cx="368.3" cy="164.9" r="4" fill="#3465a4"><title>MacPhee, MacFie</title></circle></a><a href="/variants/s9/r5g20r5g3r4g5r36g1w4~x2/"><circle cx="430.9" cy="136.3" r="4" fill="#3465a4"><title>Fitzgerald/Baluchistan</title></circle></a><a href="/variants/s9/r5g20r5g3r4g5r36do2w4~x2~w4000000/"><circle cx="381.1" cy="148.9" r="4" fill="#3465a4"><title>Baluch Regiment (Old Count)</title></circle></a><circle cx="346.3" cy="157.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g12r3k1r3k1r4g16r20g2r8~x2/"><circle cx="346.2" cy="157.7" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/variants/s12/dg12r4k1ly1r2k1ly1r4dg16r20dg2r8~x2/"><circle cx="314.5" cy="122.0" r="4" fill="#3465a4"><title>Livingstone Australia (NSW) (Clan)</title></circle></a><a href="/variants/s12/dg12r4k1y1r2k1y1r4dg16r20dg2r8~x2/"><circle cx="321.3" cy="124.1" r="4" fill="#3465a4"><title>Livingstone (Australia) NSW</title></circle></a><a href="/variants/s9/r40k15r6g32r6g32r40g2r20/"><circle cx="318.3" cy="176.7" r="4" fill="#3465a4"><title>Maxwell Variant</title></circle></a><a href="/variants/s9/g20k2r3k2r6g20r29g3r10~x2/"><circle cx="312.3" cy="175.3" r="4" fill="#3465a4"><title>Livingston</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x4/"><circle cx="368.3" cy="165.3" r="4" fill="#3465a4"><title>MacPhie/Macfie</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1/"><circle cx="368.3" cy="165.3" r="4" fill="#3465a4"><title>MacFie</title></circle></a><a href="/variants/s9/y1r12g2r1g16r1g2r12w1~x2/"><circle cx="368.3" cy="165.3" r="4" fill="#3465a4"><title>MacPhee, MacFie</title></circle></a><a href="/variants/s9/r5g20r5g3r4g5r36g1w4~x2/"><circle cx="430.9" cy="136.6" r="4" fill="#3465a4"><title>Fitzgerald/Baluchistan</title></circle></a><a href="/variants/s9/r5g20r5g3r4g5r36do2w4~x2~w4000000/"><circle cx="381.1" cy="149.2" r="4" fill="#3465a4"><title>Baluch Regiment (Old Count)</title></circle></a><circle cx="346.3" cy="157.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g12r4k1r2k1r4g16r20g2r8~x2/

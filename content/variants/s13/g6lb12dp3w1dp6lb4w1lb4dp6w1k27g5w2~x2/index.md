@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Willox"
   url: "/tartans/willox/"
+- name: "Willox"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6lb12dp3w1dp6lb4w1lb4dp6w1k27g5w2/)
 (the same proportion at any scale), whose colour order is pattern [GWBWBWWWBWKGW](/stripes/gwbwbwwwbwkgw/).
@@ -14,7 +16,7 @@ Part of the [Willox](/tartans/willox/) tartan — the named design grouping this
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4630
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4630](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4630)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g6lb12dp3w1dp6lb4w1lb4dp6w1k28g5w1~x2/"><circle cx="141.6" cy="83.6" r="4" fill="#3465a4"><title>Willox (Name)</title></circle></a><a href="/variants/s16/lb4r2lb3g1lb1g2lb18r1k12dg21lb1k3dg1k2dg4r2~x2/"><circle cx="140.7" cy="82.8" r="4" fill="#3465a4"><title>Munster</title></circle></a><a href="/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/"><circle cx="168.6" cy="82.4" r="4" fill="#3465a4"><title>MacDonald of Clanranald #4</title></circle></a><a href="/variants/s12/db17dr6y2dr6k2w2k2w10k1w2k1y3~x2/"><circle cx="104.1" cy="116.3" r="4" fill="#3465a4"><title>Chieftain, The</title></circle></a><a href="/variants/s12/r26k2r6k2r6k20w2db44w2k6g64k3/"><circle cx="160.5" cy="78.9" r="4" fill="#3465a4"><title>Jardine, dress</title></circle></a><a href="/variants/s12/b6k1lb20r2g3r2k15r2g3r2k6y3~x2/"><circle cx="98.0" cy="90.1" r="4" fill="#3465a4"><title>Royal Scottish Pipe Band Association</title></circle></a><a href="/variants/s17/r5k20n1k2n1k2n2k2n5o2n2o2n2o3n2o10w3~x2~n1900000-o2500000/"><circle cx="151.8" cy="83.7" r="4" fill="#3465a4"><title>Nike Golf Dark (Corporate)</title></circle></a><a href="/variants/s14/w4db20k1g2k1g2k4g1w2g1k4g16dp8g1~x2/"><circle cx="135.2" cy="98.6" r="4" fill="#3465a4"><title>St Andrew</title></circle></a><a href="/variants/s11/db8lb3db40r3k44lb3r3g40r2k4r7~x2/"><circle cx="136.4" cy="103.7" r="4" fill="#3465a4"><title>Lochaber Cameron</title></circle></a><a href="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/"><circle cx="171.5" cy="118.8" r="4" fill="#3465a4"><title>Windsor</title></circle></a><circle cx="131.2" cy="88.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g6lb12dp3w1dp6lb4w1lb4dp6w1k28g5w1~x2/"><circle cx="141.5" cy="83.8" r="4" fill="#3465a4"><title>Willox (Name)</title></circle></a><a href="/variants/s16/lb4r2lb3g1lb1g2lb18r1k12dg21lb1k3dg1k2dg4r2~x2/"><circle cx="140.6" cy="83.0" r="4" fill="#3465a4"><title>Munster</title></circle></a><a href="/variants/s14/db20r2db3r6db32r2k32w2g30r6g4r2g4w1~x2/"><circle cx="168.5" cy="82.5" r="4" fill="#3465a4"><title>MacDonald of Clanranald #4</title></circle></a><a href="/variants/s12/db17dr6y2dr6k2w2k2w10k1w2k1y3~x2/"><circle cx="104.0" cy="116.6" r="4" fill="#3465a4"><title>Chieftain, The</title></circle></a><a href="/variants/s12/r26k2r6k2r6k20w2db44w2k6g64k3/"><circle cx="160.3" cy="79.1" r="4" fill="#3465a4"><title>Jardine, dress</title></circle></a><a href="/variants/s12/b6k1lb20r2g3r2k15r2g3r2k6y3~x2/"><circle cx="97.9" cy="90.3" r="4" fill="#3465a4"><title>Royal Scottish Pipe Band Association</title></circle></a><a href="/variants/s17/r5k20n1k2n1k2n2k2n5o2n2o2n2o3n2o10w3~x2~n1900000-o2500000/"><circle cx="151.7" cy="83.9" r="4" fill="#3465a4"><title>Nike Golf Dark (Corporate)</title></circle></a><a href="/variants/s14/w4db20k1g2k1g2k4g1w2g1k4g16dp8g1~x2/"><circle cx="135.1" cy="98.7" r="4" fill="#3465a4"><title>St Andrew</title></circle></a><a href="/variants/s11/db8lb3db40r3k44lb3r3g40r2k4r7~x2/"><circle cx="136.2" cy="103.8" r="4" fill="#3465a4"><title>Lochaber Cameron</title></circle></a><a href="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/"><circle cx="171.4" cy="119.0" r="4" fill="#3465a4"><title>Windsor</title></circle></a><circle cx="131.1" cy="88.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/g6lb12dp3w1dp6lb4w1lb4dp6w1k27g5w2~x2/

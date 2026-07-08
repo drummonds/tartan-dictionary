@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cameron of Locheil #3"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r24db8r23k4w4k4r10k32r8/)
 (the same proportion at any scale), whose colour order is pattern [RBRKWKRKR](/stripes/rbrkwkrkr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=499
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=499](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=499)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w2r12k3r3k16r3k3r12ly2~x2/"><circle cx="234.9" cy="164.7" r="4" fill="#3465a4"><title>MacIver (Clan)</title></circle></a><a href="/variants/s9/r12db2r4db4k15g4r4g2r12~x2/"><circle cx="217.8" cy="184.8" r="4" fill="#3465a4"><title>Alexander - 1985 (Name)</title></circle></a><a href="/variants/s7/r6w3r17k3r3k25r3~x2/"><circle cx="253.2" cy="177.6" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/variants/s8/r2k3y1k3r2db8r16k1~x4/"><circle cx="281.1" cy="130.6" r="4" fill="#3465a4"><title>Leslie Red (VS) (Clan)</title></circle></a><a href="/variants/s9/n3k14r3k14lb3r32k2r6k2~x2/"><circle cx="267.3" cy="122.7" r="4" fill="#3465a4"><title>Gallmore (Fashion)</title></circle></a><a href="/variants/s10/k9r18w2k2w4k2w2r12k9r6~x2/"><circle cx="240.9" cy="173.5" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/variants/s9/r12g2r4g4k15lb4r4lb2r12~x2/"><circle cx="212.7" cy="183.4" r="4" fill="#3465a4"><title>Alexander (Personal)</title></circle></a><a href="/variants/s9/y3r27k5r5k32r5k5r27w3~x2/"><circle cx="273.7" cy="145.3" r="4" fill="#3465a4"><title>MacIver #2</title></circle></a><a href="/variants/s9/y1r9k2r2k12r2k2r9w1~x4/"><circle cx="267.0" cy="143.5" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/"><circle cx="205.1" cy="152.8" r="4" fill="#3465a4"><title>MacKinnon Black (Personal)</title></circle></a><circle cx="235.6" cy="171.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w2r12k3r3k16r3k3r12ly2~x2/"><circle cx="235.0" cy="165.3" r="4" fill="#3465a4"><title>MacIver (Clan)</title></circle></a><a href="/variants/s9/r12db2r4db4k15g4r4g2r12~x2/"><circle cx="217.9" cy="185.4" r="4" fill="#3465a4"><title>Alexander - 1985 (Name)</title></circle></a><a href="/variants/s7/r6w3r17k3r3k25r3~x2/"><circle cx="253.3" cy="178.2" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/variants/s8/r2k3y1k3r2db8r16k1~x4/"><circle cx="281.1" cy="131.0" r="4" fill="#3465a4"><title>Leslie Red (VS) (Clan)</title></circle></a><a href="/variants/s9/n3k14r3k14lb3r32k2r6k2~x2/"><circle cx="267.3" cy="123.1" r="4" fill="#3465a4"><title>Gallmore (Fashion)</title></circle></a><a href="/variants/s10/k9r18w2k2w4k2w2r12k9r6~x2/"><circle cx="241.0" cy="174.1" r="4" fill="#3465a4"><title>Brice</title></circle></a><a href="/variants/s9/r12g2r4g4k15lb4r4lb2r12~x2/"><circle cx="212.8" cy="184.1" r="4" fill="#3465a4"><title>Alexander (Personal)</title></circle></a><a href="/variants/s9/y3r27k5r5k32r5k5r27w3~x2/"><circle cx="273.7" cy="145.8" r="4" fill="#3465a4"><title>MacIver #2</title></circle></a><a href="/variants/s9/y1r9k2r2k12r2k2r9w1~x4/"><circle cx="267.0" cy="144.0" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/"><circle cx="205.1" cy="153.3" r="4" fill="#3465a4"><title>MacKinnon Black (Personal)</title></circle></a><circle cx="235.7" cy="171.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r24db8r23k4w4k4r10k32r8/

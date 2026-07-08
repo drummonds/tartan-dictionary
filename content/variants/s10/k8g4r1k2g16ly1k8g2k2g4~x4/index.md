@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Manitoba Cue (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k8g4r1k2g16ly1k8g2k2g4/)
 (the same proportion at any scale), whose colour order is pattern [GKGKYGKRGK](/stripes/gkgkygkrgk/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10454
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10454](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10454)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/"><circle cx="263.3" cy="145.9" r="4" fill="#3465a4"><title>Manitoba Cue Sports</title></circle></a><a href="/variants/s10/r4g4k2g31k10y3g5k11g6k3~x2/"><circle cx="276.8" cy="139.2" r="4" fill="#3465a4"><title>MacArthur-Fox Green</title></circle></a><a href="/variants/s10/g5k2g30r2k10g5k2g5k10r2~x2/"><circle cx="318.9" cy="148.2" r="4" fill="#3465a4"><title>MacArthur-Fox 2000 (Personal)</title></circle></a><a href="/variants/s11/g13k2g2k11y1k2y1k11g2b1g11~x4/"><circle cx="236.0" cy="152.2" r="4" fill="#3465a4"><title>Hopetoun</title></circle></a><a href="/variants/s10/k7g6ly3k12dr19k12g62k62g12dr7/"><circle cx="233.5" cy="129.0" r="4" fill="#3465a4"><title>Danareth (Corporate)</title></circle></a><a href="/variants/s10/k7g6y3k12dr19k12g62k62g12dr7/"><circle cx="235.3" cy="129.5" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/"><circle cx="222.3" cy="157.5" r="4" fill="#3465a4"><title>Sin-Cos</title></circle></a><a href="/variants/s9/y3g27k5g5k32g5k5g27w3~x2/"><circle cx="261.1" cy="166.0" r="4" fill="#3465a4"><title>MacIver hunting</title></circle></a><a href="/variants/s8/g3k6r2k6g3k2g16k1~x4/"><circle cx="290.4" cy="166.4" r="4" fill="#3465a4"><title>Glenbarr</title></circle></a><a href="/variants/s8/k22g5k2g5k11g33k2r4~x2/"><circle cx="276.2" cy="160.1" r="4" fill="#3465a4"><title>MacArthur-Fox 1993 (Personal)</title></circle></a><circle cx="261.0" cy="145.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/"><circle cx="263.2" cy="146.3" r="4" fill="#3465a4"><title>Manitoba Cue Sports</title></circle></a><a href="/variants/s10/r4g4k2g31k10y3g5k11g6k3~x2/"><circle cx="276.7" cy="139.6" r="4" fill="#3465a4"><title>MacArthur-Fox Green</title></circle></a><a href="/variants/s10/g5k2g30r2k10g5k2g5k10r2~x2/"><circle cx="318.9" cy="148.7" r="4" fill="#3465a4"><title>MacArthur-Fox 2000 (Personal)</title></circle></a><a href="/variants/s11/g13k2g2k11y1k2y1k11g2b1g11~x4/"><circle cx="236.0" cy="152.6" r="4" fill="#3465a4"><title>Hopetoun</title></circle></a><a href="/variants/s10/k7g6ly3k12dr19k12g62k62g12dr7/"><circle cx="233.4" cy="129.3" r="4" fill="#3465a4"><title>Danareth (Corporate)</title></circle></a><a href="/variants/s10/k7g6y3k12dr19k12g62k62g12dr7/"><circle cx="235.3" cy="129.8" r="4" fill="#3465a4"><title>Danareth</title></circle></a><a href="/variants/s10/k60g64dg5g8dg5g64k60y8k8y8/"><circle cx="222.3" cy="157.9" r="4" fill="#3465a4"><title>Sin-Cos</title></circle></a><a href="/variants/s9/y3g27k5g5k32g5k5g27w3~x2/"><circle cx="261.1" cy="166.5" r="4" fill="#3465a4"><title>MacIver hunting</title></circle></a><a href="/variants/s8/g3k6r2k6g3k2g16k1~x4/"><circle cx="290.4" cy="166.9" r="4" fill="#3465a4"><title>Glenbarr</title></circle></a><a href="/variants/s8/k22g5k2g5k11g33k2r4~x2/"><circle cx="276.2" cy="160.5" r="4" fill="#3465a4"><title>MacArthur-Fox 1993 (Personal)</title></circle></a><circle cx="261.0" cy="145.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k8g4r1k2g16ly1k8g2k2g4~x4/

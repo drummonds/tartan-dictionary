@@ -10,6 +10,8 @@ crumbs:
   url: "/families/kincaid-of-kincaid/"
 - name: "Kincaid of Kincaid"
   url: "/tartans/kincaid-of-kincaid/"
+- name: "Kincaid of Kincaid (Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k11g16dr2/)
 (the same proportion at any scale), whose colour order is pattern [BGK](/stripes/bgk/).
@@ -18,7 +20,7 @@ Part of the [Kincaid of Kincaid](/tartans/kincaid-of-kincaid/) tartan — the na
 
 Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1106
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1106](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1106)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -64,8 +66,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/k4g6r1~x10/"><circle cx="240.7" cy="276.0" r="4" fill="#3465a4"><title>Kincaid, of Kincaid</title></circle></a><a href="/variants/s3/k11g17r3/"><circle cx="238.8" cy="278.7" r="4" fill="#3465a4"><title>Kincaid</title></circle></a><a href="/variants/s3/k11g17r3~x2/"><circle cx="238.8" cy="278.7" r="4" fill="#3465a4"><title>Kincaid</title></circle></a><a href="/variants/s3/k5g6lb1~x4/"><circle cx="222.3" cy="282.6" r="4" fill="#3465a4"><title>Wilson's No.050</title></circle></a><a href="/variants/s3/k6y1g6~x4/"><circle cx="200.8" cy="254.0" r="4" fill="#3465a4"><title>Wilson's No.197</title></circle></a><a href="/variants/s3/k6g5r2~x2/"><circle cx="192.4" cy="323.7" r="4" fill="#3465a4"><title>Glen Lyon #1</title></circle></a><a href="/variants/s3/g9k18r2~x4/"><circle cx="306.1" cy="242.7" r="4" fill="#3465a4"><title>Cowie, Justine (Personal)</title></circle></a><a href="/variants/s3/g5k6lb1~x4/"><circle cx="222.3" cy="280.8" r="4" fill="#3465a4"><title>Wilson's, No 50</title></circle></a><a href="/variants/s4/dr1g11k11lo1~x4/"><circle cx="230.2" cy="205.6" r="4" fill="#3465a4"><title>Brooks Brothers (Corporate)</title></circle></a><a href="/variants/s4/r1g11k11y1~x4/"><circle cx="230.3" cy="205.0" r="4" fill="#3465a4"><title>Brooks Brothers</title></circle></a><circle cx="266.4" cy="265.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/k4g6r1~x10/"><circle cx="240.9" cy="276.8" r="4" fill="#3465a4"><title>Kincaid, of Kincaid</title></circle></a><a href="/variants/s3/k11g17r3/"><circle cx="239.0" cy="279.5" r="4" fill="#3465a4"><title>Kincaid</title></circle></a><a href="/variants/s3/k11g17r3~x2/"><circle cx="239.0" cy="279.5" r="4" fill="#3465a4"><title>Kincaid</title></circle></a><a href="/variants/s3/k5g6lb1~x4/"><circle cx="222.4" cy="283.5" r="4" fill="#3465a4"><title>Wilson's No.050</title></circle></a><a href="/variants/s3/k6y1g6~x4/"><circle cx="200.9" cy="254.8" r="4" fill="#3465a4"><title>Wilson's No.197</title></circle></a><a href="/variants/s3/k6g5r2~x2/"><circle cx="192.6" cy="324.8" r="4" fill="#3465a4"><title>Glen Lyon #1</title></circle></a><a href="/variants/s3/g9k18r2~x4/"><circle cx="306.2" cy="243.4" r="4" fill="#3465a4"><title>Cowie, Justine (Personal)</title></circle></a><a href="/variants/s3/g5k6lb1~x4/"><circle cx="222.5" cy="281.6" r="4" fill="#3465a4"><title>Wilson's, No 50</title></circle></a><a href="/variants/s4/dr1g11k11lo1~x4/"><circle cx="230.2" cy="206.2" r="4" fill="#3465a4"><title>Brooks Brothers (Corporate)</title></circle></a><a href="/variants/s4/r1g11k11y1~x4/"><circle cx="230.4" cy="205.6" r="4" fill="#3465a4"><title>Brooks Brothers</title></circle></a><circle cx="266.6" cy="266.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/k11g16dr2~x4/

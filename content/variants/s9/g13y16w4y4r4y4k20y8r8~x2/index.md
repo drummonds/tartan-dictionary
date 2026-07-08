@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cawte of Middlebanknock (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g13y16w4y4r4y4k20y8r8/)
 (the same proportion at any scale), whose colour order is pattern [GGWGRGKGR](/stripes/ggwgrgkgr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=602
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=602](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=602)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r8o33y33k33r8db8y33db8r8/"><circle cx="101.1" cy="215.9" r="4" fill="#3465a4"><title>Jardine, of Castlemilk</title></circle></a><a href="/variants/s6/y3dg6k6y4r1y1~x2/"><circle cx="147.6" cy="241.1" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><a href="/variants/s9/r8dy33y33k33r8db8y33db8r8/"><circle cx="100.0" cy="216.0" r="4" fill="#3465a4"><title>Jardine of Castlemilk</title></circle></a><a href="/variants/s10/dt6ly2r6lb3k2ly6dt10r2dt3r2~x4/"><circle cx="133.4" cy="210.2" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s7/r3lb4k11r11g11do3r3~x4/"><circle cx="72.1" cy="227.5" r="4" fill="#3465a4"><title>Stewart /Stuart- Fragment Cf 1452 &amp; 1445</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="93.9" cy="222.7" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/variants/s7/o6k2dg12ly8o5k2dg3~x4/"><circle cx="135.6" cy="228.2" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/variants/s9/y8g16k6g6k6g6k16r21k5/"><circle cx="88.8" cy="230.6" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/variants/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/"><circle cx="100.5" cy="164.4" r="4" fill="#3465a4"><title>Maguire</title></circle></a><a href="/variants/s10/k5do1g3do1g3do1k5ri1r5ri1~x4~ri2109032-r1807033/"><circle cx="90.3" cy="196.7" r="4" fill="#3465a4"><title>Murdoch (Dalgliesh)</title></circle></a><circle cx="91.7" cy="207.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r8o33y33k33r8db8y33db8r8/"><circle cx="101.2" cy="216.5" r="4" fill="#3465a4"><title>Jardine, of Castlemilk</title></circle></a><a href="/variants/s6/y3dg6k6y4r1y1~x2/"><circle cx="147.7" cy="241.8" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><a href="/variants/s9/r8dy33y33k33r8db8y33db8r8/"><circle cx="100.1" cy="216.6" r="4" fill="#3465a4"><title>Jardine of Castlemilk</title></circle></a><a href="/variants/s10/dt6ly2r6lb3k2ly6dt10r2dt3r2~x4/"><circle cx="133.5" cy="210.8" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s7/r3lb4k11r11g11do3r3~x4/"><circle cx="72.2" cy="228.2" r="4" fill="#3465a4"><title>Stewart /Stuart- Fragment Cf 1452 &amp; 1445</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="94.0" cy="223.4" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/variants/s7/o6k2dg12ly8o5k2dg3~x4/"><circle cx="135.7" cy="228.9" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/variants/s9/y8g16k6g6k6g6k16r21k5/"><circle cx="88.9" cy="231.3" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/variants/s13/g18r18k3r3db3r3db4r3k9r4g18w6k3~x2/"><circle cx="100.5" cy="164.9" r="4" fill="#3465a4"><title>Maguire</title></circle></a><a href="/variants/s10/k5do1g3do1g3do1k5ri1r5ri1~x4~ri2109032-r1807033/"><circle cx="90.4" cy="197.2" r="4" fill="#3465a4"><title>Murdoch (Dalgliesh)</title></circle></a><circle cx="91.8" cy="208.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g13y16w4y4r4y4k20y8r8~x2/

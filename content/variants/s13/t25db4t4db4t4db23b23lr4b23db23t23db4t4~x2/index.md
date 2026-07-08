@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Poulter Blue Corporate Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t25db4t4db4t4db23b23lr4b23db23t23db4t4/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBBBYBBBBB](/stripes/bbbbbbbybbbbb/).
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7509
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7509](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7509)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb16db2lb2db2lb2db16dbi16ly3dbi16db16lb16db2lb2~x2~db1204274-dbi1406275/"><circle cx="218.5" cy="225.5" r="4" fill="#3465a4"><title>Adair (Name)</title></circle></a><a href="/variants/s15/ti11db2ti4db2ti4db11t11db2tii4db2t11db11ti11db2ti4~x2~ti2405244-tii2503227/"><circle cx="292.5" cy="287.6" r="4" fill="#3465a4"><title>Scottish Gas</title></circle></a><a href="/variants/s15/t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4~x2~t2405244-db1404245-dbi1406275-ti2503227/"><circle cx="318.7" cy="294.3" r="4" fill="#3465a4"><title>William Murdoch (Scottish Gas) Corporate Tartan</title></circle></a><a href="/variants/s13/dp69t14dp13t14dp13t69db72lb13db72t69dp68t14dp13~t2105244-db1003265/"><circle cx="288.5" cy="275.2" r="4" fill="#3465a4"><title>Poulter Sandwich</title></circle></a><a href="/variants/s13/dp35t7dp7t7dp7t35db36lb7db36t35dp35t7dp7/"><circle cx="256.5" cy="270.6" r="4" fill="#3465a4"><title>Poulter Sandwich</title></circle></a><circle cx="296.4" cy="274.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb16db2lb2db2lb2db16dbi16ly3dbi16db16lb16db2lb2~x2~db1204274-dbi1406275/"><circle cx="218.6" cy="226.0" r="4" fill="#3465a4"><title>Adair (Name)</title></circle></a><a href="/variants/s15/ti11db2ti4db2ti4db11t11db2tii4db2t11db11ti11db2ti4~x2~ti2405244-tii2503227/"><circle cx="292.6" cy="287.9" r="4" fill="#3465a4"><title>Scottish Gas</title></circle></a><a href="/variants/s15/t11db2t4db2t4db11dbi11db2ti4db2dbi11db11t11db2t4~x2~t2405244-db1404245-dbi1406275-ti2503227/"><circle cx="318.9" cy="294.6" r="4" fill="#3465a4"><title>William Murdoch (Scottish Gas) Corporate Tartan</title></circle></a><a href="/variants/s13/dp69t14dp13t14dp13t69db72lb13db72t69dp68t14dp13~t2105244-db1003265/"><circle cx="288.7" cy="275.6" r="4" fill="#3465a4"><title>Poulter Sandwich</title></circle></a><a href="/variants/s13/dp35t7dp7t7dp7t35db36lb7db36t35dp35t7dp7/"><circle cx="256.6" cy="271.0" r="4" fill="#3465a4"><title>Poulter Sandwich</title></circle></a><circle cx="296.6" cy="274.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/t25db4t4db4t4db23b23lr4b23db23t23db4t4~x2/

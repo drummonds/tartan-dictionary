@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ch. Supt. Everett and Mrs Julene Sum"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r9w27k7w45lb60dg4lo5/)
 (the same proportion at any scale), whose colour order is pattern [RWKWWGY](/stripes/rwkwwgy/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10850
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10850](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10850)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r9w25k7w45lb60dg4ly5/"><circle cx="220.6" cy="153.6" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Summerfield Dress</title></circle></a><a href="/variants/s5/n10w3lb3g1r1~x10/"><circle cx="297.8" cy="205.9" r="4" fill="#3465a4"><title>Bagpipe Shop (Switzerland)</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="153.8" cy="144.0" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s6/lb53k2w53k2r4lo7~x2/"><circle cx="296.9" cy="141.0" r="4" fill="#3465a4"><title>Galicia</title></circle></a><a href="/variants/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/"><circle cx="169.9" cy="109.6" r="4" fill="#3465a4"><title>Edinburgh Dress (Dance)</title></circle></a><a href="/variants/s11/w26lb9k2lb2w2lb2n11lb8y2n2r2~x2/"><circle cx="188.8" cy="129.1" r="4" fill="#3465a4"><title>Manchester Blues Dress (Comm)</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="153.9" cy="130.4" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/variants/s6/k3o24lb16w11lo1g3~x2/"><circle cx="181.7" cy="136.9" r="4" fill="#3465a4"><title>Bro-sant-Malou (Corporate)</title></circle></a><a href="/variants/s11/lb26w9k2w2lb2w2n11w8y2n2r2~x2/"><circle cx="195.1" cy="131.0" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><a href="/variants/s11/lb26w9k2w2lb2w2n11w8y2n2dr2~x2/"><circle cx="189.9" cy="129.6" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><circle cx="223.4" cy="154.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r9w25k7w45lb60dg4ly5/"><circle cx="220.7" cy="154.0" r="4" fill="#3465a4"><title>Ch. Supt. Everett and Mrs Julene Summerfield Dress</title></circle></a><a href="/variants/s5/n10w3lb3g1r1~x10/"><circle cx="297.9" cy="206.3" r="4" fill="#3465a4"><title>Bagpipe Shop (Switzerland)</title></circle></a><a href="/variants/s6/k6w49db50dp6t8y4~db1404245-t2503227/"><circle cx="153.8" cy="144.4" r="4" fill="#3465a4"><title>Pipers' Trail Dance, The</title></circle></a><a href="/variants/s6/lb53k2w53k2r4lo7~x2/"><circle cx="296.9" cy="141.3" r="4" fill="#3465a4"><title>Galicia</title></circle></a><a href="/variants/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/"><circle cx="169.9" cy="109.9" r="4" fill="#3465a4"><title>Edinburgh Dress (Dance)</title></circle></a><a href="/variants/s11/w26lb9k2lb2w2lb2n11lb8y2n2r2~x2/"><circle cx="188.8" cy="129.3" r="4" fill="#3465a4"><title>Manchester Blues Dress (Comm)</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="153.8" cy="130.8" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/variants/s6/k3o24lb16w11lo1g3~x2/"><circle cx="181.7" cy="137.2" r="4" fill="#3465a4"><title>Bro-sant-Malou (Corporate)</title></circle></a><a href="/variants/s11/lb26w9k2w2lb2w2n11w8y2n2r2~x2/"><circle cx="195.1" cy="131.3" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><a href="/variants/s11/lb26w9k2w2lb2w2n11w8y2n2dr2~x2/"><circle cx="189.9" cy="129.9" r="4" fill="#3465a4"><title>Manchester Blues Modern</title></circle></a><circle cx="223.5" cy="154.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r9w27k7w45lb60dg4lo5/

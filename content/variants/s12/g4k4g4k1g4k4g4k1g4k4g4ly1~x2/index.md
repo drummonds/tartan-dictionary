@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Norwich No.039 (Mackinlay)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4k4g4k1g4k4g4k1g4k4g4ly1/)
 (the same proportion at any scale), whose colour order is pattern [GKGKGKGKGKGY](/stripes/gkgkgkgkgkgy/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3183
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3183](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3183)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g25k4g4k4g4k26g25r9g25k26g25k2r9~x2/"><circle cx="255.4" cy="175.1" r="4" fill="#3465a4"><title>Moncrieffe (1998)</title></circle></a><a href="/variants/s13/g20k3g3k3g3k18g21r4g21k18g19k2r4~x2/"><circle cx="285.4" cy="177.9" r="4" fill="#3465a4"><title>Moncrieffe Athol</title></circle></a><a href="/variants/s14/dg13r2dg19k15dg5k15dg5k15dg5k15dg19r2dg13lb4~x2~dg1806142/"><circle cx="223.1" cy="189.1" r="4" fill="#3465a4"><title>Strath Hallidale (Sutherland)</title></circle></a><a href="/variants/s8/k19g10k6g10k12g6k4g14~x2/"><circle cx="227.7" cy="276.8" r="4" fill="#3465a4"><title>Menzies Green</title></circle></a><a href="/variants/s16/k3g10y2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/"><circle cx="203.1" cy="198.0" r="4" fill="#3465a4"><title>Stuart/Stewart Hunting #4</title></circle></a><a href="/variants/s13/o4k2g6o3g10k10g4k10g10o3g6k2w4~x2/"><circle cx="137.5" cy="216.7" r="4" fill="#3465a4"><title>Crihfield Family (Personal)</title></circle></a><circle cx="224.3" cy="261.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g25k4g4k4g4k26g25r9g25k26g25k2r9~x2/"><circle cx="255.4" cy="175.6" r="4" fill="#3465a4"><title>Moncrieffe (1998)</title></circle></a><a href="/variants/s13/g20k3g3k3g3k18g21r4g21k18g19k2r4~x2/"><circle cx="285.4" cy="178.4" r="4" fill="#3465a4"><title>Moncrieffe Athol</title></circle></a><a href="/variants/s14/dg13r2dg19k15dg5k15dg5k15dg5k15dg19r2dg13lb4~x2~dg1806142/"><circle cx="223.1" cy="189.7" r="4" fill="#3465a4"><title>Strath Hallidale (Sutherland)</title></circle></a><a href="/variants/s8/k19g10k6g10k12g6k4g14~x2/"><circle cx="227.8" cy="277.7" r="4" fill="#3465a4"><title>Menzies Green</title></circle></a><a href="/variants/s16/k3g10y2g10k9g2k9g10r2g10k3g2k5g2k5g2~x2/"><circle cx="203.1" cy="198.6" r="4" fill="#3465a4"><title>Stuart/Stewart Hunting #4</title></circle></a><a href="/variants/s13/o4k2g6o3g10k10g4k10g10o3g6k2w4~x2/"><circle cx="137.6" cy="217.4" r="4" fill="#3465a4"><title>Crihfield Family (Personal)</title></circle></a><circle cx="224.4" cy="262.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/g4k4g4k1g4k4g4k1g4k4g4ly1~x2/

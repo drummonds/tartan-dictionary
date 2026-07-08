@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sanley-Cantamessa (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k16w15k4db12k22r2k6/)
 (the same proportion at any scale), whose colour order is pattern [KRKBKWK](/stripes/krkbkwk/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10854
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10854](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10854)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2lb5k1lb1k10r1k1~x4/"><circle cx="328.6" cy="163.7" r="4" fill="#3465a4"><title>Lundy Reform</title></circle></a><a href="/variants/s7/r4k8r4k8db12k1w2~x2/"><circle cx="171.4" cy="187.2" r="4" fill="#3465a4"><title>MacKean Red</title></circle></a><a href="/variants/s7/r8k18r6k18t27k2w3~x2/"><circle cx="189.1" cy="173.9" r="4" fill="#3465a4"><title>MacKean (Personal)</title></circle></a><a href="/variants/s7/k16g15k4lb12k22w2k6~x2/"><circle cx="243.8" cy="190.5" r="4" fill="#3465a4"><title>Frame (Edinburgh) (Personal)</title></circle></a><a href="/variants/s8/k5w5k5t11k3n17k30t3~x2/"><circle cx="226.5" cy="171.2" r="4" fill="#3465a4"><title>Australian Police</title></circle></a><a href="/variants/s7/k8lb3k32t14w3k25lb3~x2/"><circle cx="359.6" cy="172.6" r="4" fill="#3465a4"><title>Cowe (Personal)</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="304.4" cy="152.6" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="252.0" cy="196.9" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/"><circle cx="207.2" cy="172.9" r="4" fill="#3465a4"><title>Guthrie</title></circle></a><a href="/variants/s7/k6y2k16lb6k3db18k2~x2/"><circle cx="219.4" cy="184.2" r="4" fill="#3465a4"><title>Carrick High School</title></circle></a><circle cx="242.3" cy="186.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2lb5k1lb1k10r1k1~x4/"><circle cx="328.6" cy="164.2" r="4" fill="#3465a4"><title>Lundy Reform</title></circle></a><a href="/variants/s7/r4k8r4k8db12k1w2~x2/"><circle cx="171.4" cy="187.8" r="4" fill="#3465a4"><title>MacKean Red</title></circle></a><a href="/variants/s7/r8k18r6k18t27k2w3~x2/"><circle cx="189.1" cy="174.4" r="4" fill="#3465a4"><title>MacKean (Personal)</title></circle></a><a href="/variants/s7/k16g15k4lb12k22w2k6~x2/"><circle cx="243.9" cy="191.1" r="4" fill="#3465a4"><title>Frame (Edinburgh) (Personal)</title></circle></a><a href="/variants/s8/k5w5k5t11k3n17k30t3~x2/"><circle cx="226.5" cy="171.7" r="4" fill="#3465a4"><title>Australian Police</title></circle></a><a href="/variants/s7/k8lb3k32t14w3k25lb3~x2/"><circle cx="359.6" cy="173.1" r="4" fill="#3465a4"><title>Cowe (Personal)</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="304.4" cy="153.0" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="252.0" cy="197.4" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/"><circle cx="207.2" cy="173.3" r="4" fill="#3465a4"><title>Guthrie</title></circle></a><a href="/variants/s7/k6y2k16lb6k3db18k2~x2/"><circle cx="219.4" cy="184.6" r="4" fill="#3465a4"><title>Carrick High School</title></circle></a><circle cx="242.3" cy="187.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k16w15k4db12k22r2k6~x2/

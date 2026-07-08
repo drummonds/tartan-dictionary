@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Hebridean Arisaid"
   url: "/tartans/hebridean-arisaid/"
+- name: "Hebridean Arisaid Blue (Dance) Fashion Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w17k2db6lb6w1db1dp10k2dp3/)
 (the same proportion at any scale), whose colour order is pattern [BKBBWWBKW](/stripes/bkbbwwbkw/).
@@ -14,7 +16,7 @@ Part of the [Hebridean Arisaid](/tartans/hebridean-arisaid/) tartan — the name
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6558
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6558](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6558)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db48r10w2r10g17k3w17k3w34~x2/"><circle cx="144.8" cy="121.6" r="4" fill="#3465a4"><title>Unidentified #43</title></circle></a><a href="/variants/s10/db8r3db34b3k9w31r5w3r3w8~x2/"><circle cx="150.8" cy="136.4" r="4" fill="#3465a4"><title>Stewart of Appin, dress</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="137.8" cy="149.8" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/variants/s10/db8r3db34lb3k9w31r5w3r3w8/"><circle cx="156.6" cy="140.3" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin Dress</title></circle></a><a href="/variants/s10/db8r3db34lb3k9w31r5w3r3w8~x2/"><circle cx="156.6" cy="140.3" r="4" fill="#3465a4"><title>Stewart of Appin Dress Clan Tartan</title></circle></a><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/"><circle cx="132.2" cy="122.9" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/"><circle cx="157.6" cy="157.9" r="4" fill="#3465a4"><title>Arran - 1989 (Fashion)</title></circle></a><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/"><circle cx="135.4" cy="127.6" r="4" fill="#3465a4"><title>Sutherland, Dress</title></circle></a><a href="/variants/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/"><circle cx="169.9" cy="109.6" r="4" fill="#3465a4"><title>Edinburgh Dress (Dance)</title></circle></a><a href="/variants/s11/db15ly30w30k20w20k15w10ly4db94w4r10/"><circle cx="174.3" cy="108.5" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><circle cx="132.7" cy="133.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db48r10w2r10g17k3w17k3w34~x2/"><circle cx="144.8" cy="121.9" r="4" fill="#3465a4"><title>Unidentified #43</title></circle></a><a href="/variants/s10/db8r3db34b3k9w31r5w3r3w8~x2/"><circle cx="150.8" cy="136.8" r="4" fill="#3465a4"><title>Stewart of Appin, dress</title></circle></a><a href="/variants/s7/r2db14k6g1w12g1w2~x4/"><circle cx="137.8" cy="150.2" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><a href="/variants/s10/db8r3db34lb3k9w31r5w3r3w8/"><circle cx="156.6" cy="140.7" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin Dress</title></circle></a><a href="/variants/s10/db8r3db34lb3k9w31r5w3r3w8~x2/"><circle cx="156.6" cy="140.7" r="4" fill="#3465a4"><title>Stewart of Appin Dress Clan Tartan</title></circle></a><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/"><circle cx="132.2" cy="123.3" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/variants/s8/lb12k1lb1k1lb1db8w9n2~x4/"><circle cx="157.6" cy="158.4" r="4" fill="#3465a4"><title>Arran - 1989 (Fashion)</title></circle></a><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/"><circle cx="135.4" cy="128.0" r="4" fill="#3465a4"><title>Sutherland, Dress</title></circle></a><a href="/variants/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/"><circle cx="169.9" cy="109.9" r="4" fill="#3465a4"><title>Edinburgh Dress (Dance)</title></circle></a><a href="/variants/s11/db15ly30w30k20w20k15w10ly4db94w4r10/"><circle cx="174.2" cy="108.7" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><circle cx="132.6" cy="133.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/w17k2db6lb6w1db1dp10k2dp3~x4/

@@ -10,6 +10,8 @@ crumbs:
   url: "/families/stewart-of-galloway/"
 - name: "Stewart of Galloway"
   url: "/tartans/stewart-of-galloway/"
+- name: "Stewart of Galloway - 1842 (Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3r24k4ly1k2w1db4dg6r3k1r2w1/)
 (the same proportion at any scale), whose colour order is pattern [KRKYKWBGRKRW](/stripes/krkykwbgrkrw/).
@@ -18,7 +20,7 @@ Part of the [Stewart of Galloway](/tartans/stewart-of-galloway/) tartan — the 
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1201
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1201](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1201)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -64,8 +66,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k3r24k4y1k2w1db4g6r3k1r2w1~x2/"><circle cx="248.7" cy="52.7" r="4" fill="#3465a4"><title>Stewart of Galloway</title></circle></a><a href="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/"><circle cx="216.1" cy="69.5" r="4" fill="#3465a4"><title>Strathclyde Fire Services (Corporate</title></circle></a><a href="/variants/s15/r3g1r2g1r18k4y1k2w1db4g6r3k1r2w1~x2/"><circle cx="233.2" cy="66.1" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #4</title></circle></a><a href="/variants/s12/r36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="331.8" cy="24.5" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/variants/s12/r36db4k6y1k1w1k1g8r4k1r2w1/"><circle cx="331.8" cy="24.5" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/variants/s11/r48lb8k10y2k3w2g25r10k3r3w2~x2/"><circle cx="232.8" cy="68.4" r="4" fill="#3465a4"><title>Followers' Plaid</title></circle></a><a href="/variants/s11/r64lb12k16y2k4w3dg32r8k4r3w2~x2/"><circle cx="227.6" cy="53.6" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/variants/s14/g2r30db4r4k6y1k1w1k1g10r4k1r1w1~x2/"><circle cx="281.1" cy="35.0" r="4" fill="#3465a4"><title>Stuart/Stewart</title></circle></a><a href="/variants/s14/k56r90db4w4k13y3k3w3k3g18r14k3r7w3/"><circle cx="232.3" cy="32.0" r="4" fill="#3465a4"><title>Stewart - (Galloway ?)</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x4/"><circle cx="261.1" cy="57.2" r="4" fill="#3465a4"><title>Royal Stewart Royal Family Tartan</title></circle></a><circle cx="250.4" cy="52.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k3r24k4y1k2w1db4g6r3k1r2w1~x2/"><circle cx="248.6" cy="52.8" r="4" fill="#3465a4"><title>Stewart of Galloway</title></circle></a><a href="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/"><circle cx="216.0" cy="69.7" r="4" fill="#3465a4"><title>Strathclyde Fire Services (Corporate</title></circle></a><a href="/variants/s15/r3g1r2g1r18k4y1k2w1db4g6r3k1r2w1~x2/"><circle cx="233.1" cy="66.3" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #4</title></circle></a><a href="/variants/s12/r36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="331.6" cy="24.6" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/variants/s12/r36db4k6y1k1w1k1g8r4k1r2w1/"><circle cx="331.6" cy="24.6" r="4" fill="#3465a4"><title>Stewart Royal</title></circle></a><a href="/variants/s11/r48lb8k10y2k3w2g25r10k3r3w2~x2/"><circle cx="232.7" cy="68.6" r="4" fill="#3465a4"><title>Followers' Plaid</title></circle></a><a href="/variants/s11/r64lb12k16y2k4w3dg32r8k4r3w2~x2/"><circle cx="227.4" cy="53.8" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/variants/s14/g2r30db4r4k6y1k1w1k1g10r4k1r1w1~x2/"><circle cx="281.0" cy="35.1" r="4" fill="#3465a4"><title>Stuart/Stewart</title></circle></a><a href="/variants/s14/k56r90db4w4k13y3k3w3k3g18r14k3r7w3/"><circle cx="232.1" cy="32.0" r="4" fill="#3465a4"><title>Stewart - (Galloway ?)</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x4/"><circle cx="261.0" cy="57.4" r="4" fill="#3465a4"><title>Royal Stewart Royal Family Tartan</title></circle></a><circle cx="250.2" cy="52.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k3r24k4ly1k2w1db4dg6r3k1r2w1~x4/

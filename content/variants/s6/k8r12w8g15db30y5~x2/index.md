@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Reekie (Edmonton)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k8r12w8g15db30y5/)
 (the same proportion at any scale), whose colour order is pattern [GBGWRK](/stripes/gbgwrk/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10279
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10279](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10279)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><circle cx="57.8" cy="179.4" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/variants/s6/r10k18lb10db18g40y5/"><circle cx="90.4" cy="190.7" r="4" fill="#3465a4"><title>Gallowater</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><circle cx="66.0" cy="174.8" r="4" fill="#3465a4"><title>Kentucky State American District Tartan</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="57.7" cy="174.1" r="4" fill="#3465a4"><title>Kentucky, State of (District)</title></circle></a><a href="/variants/s6/db15r6g8k2w2k2~x6/"><circle cx="145.0" cy="192.0" r="4" fill="#3465a4"><title>Stovell (2015)</title></circle></a><a href="/variants/s6/r10k17lb10dp17g40y10~x2/"><circle cx="61.3" cy="222.5" r="4" fill="#3465a4"><title>Gallowater, Original</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="75.0" cy="192.6" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><a href="/variants/s7/k10r3y4db12g4r4w2~x4/"><circle cx="39.6" cy="194.3" r="4" fill="#3465a4"><title>Eichelberger Family, Jörg (Personal)</title></circle></a><a href="/variants/s6/r2k1db6k2g6b2~x4/"><circle cx="85.6" cy="223.0" r="4" fill="#3465a4"><title>MacCaughan, or MacEachain</title></circle></a><a href="/variants/s6/r2k1db6k2g6o2~x4/"><circle cx="85.1" cy="221.4" r="4" fill="#3465a4"><title>MacCaughan or MacEachain Clan Tartan</title></circle></a><circle cx="72.9" cy="202.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><circle cx="57.8" cy="179.9" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/variants/s6/r10k18lb10db18g40y5/"><circle cx="90.4" cy="191.2" r="4" fill="#3465a4"><title>Gallowater</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><circle cx="66.1" cy="175.3" r="4" fill="#3465a4"><title>Kentucky State American District Tartan</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="57.7" cy="174.6" r="4" fill="#3465a4"><title>Kentucky, State of (District)</title></circle></a><a href="/variants/s6/db15r6g8k2w2k2~x6/"><circle cx="145.0" cy="192.5" r="4" fill="#3465a4"><title>Stovell (2015)</title></circle></a><a href="/variants/s6/r10k17lb10dp17g40y10~x2/"><circle cx="61.4" cy="223.1" r="4" fill="#3465a4"><title>Gallowater, Original</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="75.1" cy="193.1" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><a href="/variants/s7/k10r3y4db12g4r4w2~x4/"><circle cx="39.6" cy="194.8" r="4" fill="#3465a4"><title>Eichelberger Family, Jörg (Personal)</title></circle></a><a href="/variants/s6/r2k1db6k2g6b2~x4/"><circle cx="85.7" cy="223.6" r="4" fill="#3465a4"><title>MacCaughan, or MacEachain</title></circle></a><a href="/variants/s6/r2k1db6k2g6o2~x4/"><circle cx="85.2" cy="221.9" r="4" fill="#3465a4"><title>MacCaughan or MacEachain Clan Tartan</title></circle></a><circle cx="73.0" cy="203.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k8r12w8g15db30y5~x2/

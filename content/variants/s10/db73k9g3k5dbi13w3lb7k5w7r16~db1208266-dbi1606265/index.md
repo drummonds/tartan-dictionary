@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ambulance Victoria"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db73k9g3k5dbi13w3lb7k5w7r16/)
 (the same proportion at any scale), whose colour order is pattern [BKGKBWWKWR](/stripes/bkgkbwwkwr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10153
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10153](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10153)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n73k9ly3k5n13w3lb7k5w7r16~n2303265/"><circle cx="222.0" cy="64.5" r="4" fill="#3465a4"><title>Ambulance Victoria (Corporate)</title></circle></a><a href="/variants/s8/r2lb5k4y1k4db16k3g2~x4/"><circle cx="160.1" cy="124.5" r="4" fill="#3465a4"><title>Arundel County (Dalgleish)</title></circle></a><a href="/variants/s10/k1dr4k1w3k1g7k2db16r2ly1~x2/"><circle cx="128.0" cy="90.8" r="4" fill="#3465a4"><title>Twempy</title></circle></a><a href="/variants/s7/dr4lb16k3db44dr1w3y2~x2/"><circle cx="318.9" cy="69.4" r="4" fill="#3465a4"><title>Dress Blue</title></circle></a><a href="/variants/s7/r4lb16k3db44r1w3ly2~x2/"><circle cx="313.6" cy="66.6" r="4" fill="#3465a4"><title>Dress Blue (Fashion)</title></circle></a><a href="/variants/s6/lb23w3k10r2db45y1~x2/"><circle cx="259.5" cy="83.2" r="4" fill="#3465a4"><title>Kirkcaldy</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="260.5" cy="78.4" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan</title></circle></a><a href="/variants/s8/db39dy3k14dy3lb14y4w2do2~x2/"><circle cx="180.3" cy="91.5" r="4" fill="#3465a4"><title>Unidentified Lady's kilt</title></circle></a><a href="/variants/s8/db39o3k14o3lb14y4w2do2~x2/"><circle cx="174.5" cy="88.1" r="4" fill="#3465a4"><title>Unidentified, Lady's kilt</title></circle></a><a href="/variants/s12/db40y4k3w2k3w2k3g10r6k2r4w2~x2/"><circle cx="200.3" cy="65.9" r="4" fill="#3465a4"><title>MacBeth #2</title></circle></a><circle cx="205.9" cy="57.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n73k9ly3k5n13w3lb7k5w7r16~n2303265/"><circle cx="221.9" cy="64.5" r="4" fill="#3465a4"><title>Ambulance Victoria (Corporate)</title></circle></a><a href="/variants/s8/r2lb5k4y1k4db16k3g2~x4/"><circle cx="160.0" cy="124.7" r="4" fill="#3465a4"><title>Arundel County (Dalgleish)</title></circle></a><a href="/variants/s10/k1dr4k1w3k1g7k2db16r2ly1~x2/"><circle cx="127.8" cy="90.9" r="4" fill="#3465a4"><title>Twempy</title></circle></a><a href="/variants/s7/dr4lb16k3db44dr1w3y2~x2/"><circle cx="318.8" cy="69.5" r="4" fill="#3465a4"><title>Dress Blue</title></circle></a><a href="/variants/s7/r4lb16k3db44r1w3ly2~x2/"><circle cx="313.5" cy="66.7" r="4" fill="#3465a4"><title>Dress Blue (Fashion)</title></circle></a><a href="/variants/s6/lb23w3k10r2db45y1~x2/"><circle cx="259.4" cy="83.4" r="4" fill="#3465a4"><title>Kirkcaldy</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="260.4" cy="78.5" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan</title></circle></a><a href="/variants/s8/db39dy3k14dy3lb14y4w2do2~x2/"><circle cx="180.1" cy="91.6" r="4" fill="#3465a4"><title>Unidentified Lady's kilt</title></circle></a><a href="/variants/s8/db39o3k14o3lb14y4w2do2~x2/"><circle cx="174.4" cy="88.2" r="4" fill="#3465a4"><title>Unidentified, Lady's kilt</title></circle></a><a href="/variants/s12/db40y4k3w2k3w2k3g10r6k2r4w2~x2/"><circle cx="200.1" cy="66.0" r="4" fill="#3465a4"><title>MacBeth #2</title></circle></a><circle cx="205.7" cy="57.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db73k9g3k5dbi13w3lb7k5w7r16~db1208266-dbi1606265/

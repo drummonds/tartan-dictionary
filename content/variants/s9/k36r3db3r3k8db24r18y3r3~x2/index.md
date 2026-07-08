@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Girl Guiding Scotland (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k36r3db3r3k8db24r18y3r3/)
 (the same proportion at any scale), whose colour order is pattern [KRBRKBRGR](/stripes/krbrkbrgr/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5822
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5822](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5822)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k36r3db3r3k8db24r18g3r3~x2/"><circle cx="202.2" cy="147.7" r="4" fill="#3465a4"><title>Grady (Personal)</title></circle></a><a href="/variants/s9/k36r3db3r3k8db23r18g3r3~x2/"><circle cx="203.6" cy="147.5" r="4" fill="#3465a4"><title>Grady, Highlands</title></circle></a><a href="/variants/s9/k36r3db3r3k8db24r18g3r3~x2~db1406275/"><circle cx="202.5" cy="147.0" r="4" fill="#3465a4"><title>Grady (Personal)</title></circle></a><a href="/variants/s9/k35r6db6r6k16db48r36k6r6/"><circle cx="171.6" cy="189.2" r="4" fill="#3465a4"><title>Rosie O'Grady (P&amp;D) (Corporate)</title></circle></a><a href="/variants/s8/r25k2n4k2r8k31db32k8/"><circle cx="185.4" cy="153.4" r="4" fill="#3465a4"><title>Black and Red</title></circle></a><a href="/variants/s8/db6r1db2r1db2k18r8g2~x4/"><circle cx="223.3" cy="132.4" r="4" fill="#3465a4"><title>Brown</title></circle></a><a href="/variants/s8/db6r1db2r1db2k18r8g2~x2/"><circle cx="223.3" cy="132.4" r="4" fill="#3465a4"><title>Brown</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x2/"><circle cx="155.5" cy="175.3" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x4/"><circle cx="155.5" cy="175.3" r="4" fill="#3465a4"><title>Gipsy (Fashion)</title></circle></a><a href="/variants/s10/r7k3r4k5r25k7y2db22k3db4~x2/"><circle cx="206.0" cy="144.2" r="4" fill="#3465a4"><title>St. George's (Edinburgh) (School)</title></circle></a><circle cx="203.2" cy="147.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k36r3db3r3k8db24r18g3r3~x2/"><circle cx="202.1" cy="148.1" r="4" fill="#3465a4"><title>Grady (Personal)</title></circle></a><a href="/variants/s9/k36r3db3r3k8db23r18g3r3~x2/"><circle cx="203.6" cy="147.9" r="4" fill="#3465a4"><title>Grady, Highlands</title></circle></a><a href="/variants/s9/k36r3db3r3k8db24r18g3r3~x2~db1406275/"><circle cx="202.4" cy="147.4" r="4" fill="#3465a4"><title>Grady (Personal)</title></circle></a><a href="/variants/s9/k35r6db6r6k16db48r36k6r6/"><circle cx="171.7" cy="189.7" r="4" fill="#3465a4"><title>Rosie O'Grady (P&amp;D) (Corporate)</title></circle></a><a href="/variants/s8/r25k2n4k2r8k31db32k8/"><circle cx="185.3" cy="153.8" r="4" fill="#3465a4"><title>Black and Red</title></circle></a><a href="/variants/s8/db6r1db2r1db2k18r8g2~x4/"><circle cx="223.3" cy="132.7" r="4" fill="#3465a4"><title>Brown</title></circle></a><a href="/variants/s8/db6r1db2r1db2k18r8g2~x2/"><circle cx="223.3" cy="132.7" r="4" fill="#3465a4"><title>Brown</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x2/"><circle cx="155.5" cy="175.8" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x4/"><circle cx="155.5" cy="175.8" r="4" fill="#3465a4"><title>Gipsy (Fashion)</title></circle></a><a href="/variants/s10/r7k3r4k5r25k7y2db22k3db4~x2/"><circle cx="206.0" cy="144.6" r="4" fill="#3465a4"><title>St. George's (Edinburgh) (School)</title></circle></a><circle cx="203.2" cy="148.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k36r3db3r3k8db24r18y3r3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lexington Fire Department"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k8db8k2db2w2k5db5r2/)
 (the same proportion at any scale), whose colour order is pattern [KBKBWKBR](/stripes/kbkbwkbr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2110
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2110](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2110)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db6k1db6k8r1g8k2/"><circle cx="148.1" cy="217.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8k2~x2/"><circle cx="148.1" cy="217.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/r7k4db28k24lb24k4db4~x2/"><circle cx="116.3" cy="201.0" r="4" fill="#3465a4"><title>MacCorquodale</title></circle></a><a href="/variants/s7/db4k2db10k10g10k2dr3~x2/"><circle cx="121.8" cy="240.3" r="4" fill="#3465a4"><title>MacKinlay (Clan)</title></circle></a><a href="/variants/s6/r8k24db10k5db10k5~x2/"><circle cx="251.1" cy="249.1" r="4" fill="#3465a4"><title>Allen, Nicholas (Personal)</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="170.3" cy="222.0" r="4" fill="#3465a4"><title>Forbes - 1947 (Lyon Court)</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1/"><circle cx="170.3" cy="222.0" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x2/"><circle cx="170.3" cy="222.0" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><a href="/variants/s6/lb5k22db4k4db26k4~x2/"><circle cx="257.9" cy="223.6" r="4" fill="#3465a4"><title>Slanj, The</title></circle></a><a href="/variants/s9/k4db1k1db1k1db4r2db4w2~x4/"><circle cx="160.1" cy="229.8" r="4" fill="#3465a4"><title>Broz Sanz Elementary (Corporate)</title></circle></a><circle cx="161.3" cy="236.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db6k1db6k8r1g8k2/"><circle cx="148.1" cy="217.7" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8k2~x2/"><circle cx="148.1" cy="217.7" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/r7k4db28k24lb24k4db4~x2/"><circle cx="116.3" cy="201.6" r="4" fill="#3465a4"><title>MacCorquodale</title></circle></a><a href="/variants/s7/db4k2db10k10g10k2dr3~x2/"><circle cx="121.9" cy="240.9" r="4" fill="#3465a4"><title>MacKinlay (Clan)</title></circle></a><a href="/variants/s6/r8k24db10k5db10k5~x2/"><circle cx="251.2" cy="249.8" r="4" fill="#3465a4"><title>Allen, Nicholas (Personal)</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="170.4" cy="222.6" r="4" fill="#3465a4"><title>Forbes - 1947 (Lyon Court)</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1/"><circle cx="170.4" cy="222.6" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x2/"><circle cx="170.4" cy="222.6" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><a href="/variants/s6/lb5k22db4k4db26k4~x2/"><circle cx="258.0" cy="224.2" r="4" fill="#3465a4"><title>Slanj, The</title></circle></a><a href="/variants/s9/k4db1k1db1k1db4r2db4w2~x4/"><circle cx="160.2" cy="230.4" r="4" fill="#3465a4"><title>Broz Sanz Elementary (Corporate)</title></circle></a><circle cx="161.4" cy="236.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k8db8k2db2w2k5db5r2~x5/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Open Championship (1998)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb2db20n2dt15dr9lb2/)
 (the same proportion at any scale), whose colour order is pattern [WBBBBW](/stripes/wbbbbw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3256
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3256](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3256)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/lr3db28dt12dr22dg1~x2/"><circle cx="364.7" cy="219.8" r="4" fill="#3465a4"><title>Diaspora (Fashion)</title></circle></a><a href="/variants/s7/dr1n5dt3db11dt3n5lo1~x8/"><circle cx="320.6" cy="259.5" r="4" fill="#3465a4"><title>Newmill</title></circle></a><a href="/variants/s6/db2b9dr1db9dg9w2~x4/"><circle cx="203.6" cy="246.0" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/"><circle cx="276.2" cy="214.8" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2/"><circle cx="291.5" cy="245.0" r="4" fill="#3465a4"><title>Belfrage (Name)</title></circle></a><a href="/variants/s6/db2t9dr1db5g5lb2~x4/"><circle cx="221.1" cy="255.0" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s8/dg5g2t2db15dr2lb2dg5dr2~x4~t2105244-db0705267/"><circle cx="229.6" cy="202.8" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2~dp0904014/"><circle cx="282.3" cy="241.7" r="4" fill="#3465a4"><title>Belfrage</title></circle></a><a href="/variants/s5/db32dy16g3lo4dg28~x2/"><circle cx="294.1" cy="262.6" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/variants/s5/g11y10dp11t33w3~x2~dp1502305-t2105244/"><circle cx="321.5" cy="256.9" r="4" fill="#3465a4"><title>Sterling, Rob (Florida) (Personal)</title></circle></a><circle cx="308.1" cy="253.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/lr3db28dt12dr22dg1~x2/"><circle cx="364.7" cy="219.9" r="4" fill="#3465a4"><title>Diaspora (Fashion)</title></circle></a><a href="/variants/s7/dr1n5dt3db11dt3n5lo1~x8/"><circle cx="320.7" cy="259.7" r="4" fill="#3465a4"><title>Newmill</title></circle></a><a href="/variants/s6/db2b9dr1db9dg9w2~x4/"><circle cx="203.7" cy="246.5" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/"><circle cx="276.2" cy="215.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2/"><circle cx="291.6" cy="245.5" r="4" fill="#3465a4"><title>Belfrage (Name)</title></circle></a><a href="/variants/s6/db2t9dr1db5g5lb2~x4/"><circle cx="221.2" cy="255.4" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s8/dg5g2t2db15dr2lb2dg5dr2~x4~t2105244-db0705267/"><circle cx="229.7" cy="203.0" r="4" fill="#3465a4"><title>Remember the Somme 1916</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2~dp0904014/"><circle cx="282.4" cy="242.2" r="4" fill="#3465a4"><title>Belfrage</title></circle></a><a href="/variants/s5/db32dy16g3lo4dg28~x2/"><circle cx="294.2" cy="262.9" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/variants/s5/g11y10dp11t33w3~x2~dp1502305-t2105244/"><circle cx="321.7" cy="257.3" r="4" fill="#3465a4"><title>Sterling, Rob (Florida) (Personal)</title></circle></a><circle cx="308.3" cy="254.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/lb2db20n2dt15dr9lb2~x2/

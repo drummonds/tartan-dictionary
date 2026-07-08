@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Blairlogie or Blair Athol"
   url: "/tartans/blairlogie-or-blair-athol/"
+- name: "Blairlogie or Blair Athol"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k28r1db8g2db4g19k2g1w2g1k1g19db4g2db8r2db3/)
 (the same proportion at any scale), whose colour order is pattern [BRBGBGKGWGKGBGBRK](/stripes/brbgbgkgwgkgbgbrk/).
@@ -14,7 +16,7 @@ Part of the [Blairlogie or Blair Athol](/tartans/blairlogie-or-blair-athol/) tar
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=293
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=293](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=293)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/k28r2db9g2db4g20k1g1w2g1k1g20db4g2db9r1db3~x2/"><circle cx="187.5" cy="75.0" r="4" fill="#3465a4"><title>Blairlogie (District)</title></circle></a><a href="/variants/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/"><circle cx="211.6" cy="84.8" r="4" fill="#3465a4"><title>Blairlogie, or Blair Athol</title></circle></a><a href="/variants/s17/k20y3db10g3db5g25k1g1w3g1k1g25db5g3db10y1db2~x4/"><circle cx="216.3" cy="88.3" r="4" fill="#3465a4"><title>Blairgowrie</title></circle></a><a href="/variants/s8/db28y1db2k26g24k1g2r3~x2/"><circle cx="180.3" cy="90.8" r="4" fill="#3465a4"><title>Ogilvie of Inverarity (V.S.)</title></circle></a><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2~w4000000-db1406275/"><circle cx="171.3" cy="77.8" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/variants/s12/db4w2db24k3db3k3db8k24g48k3g3r2~x2/"><circle cx="193.9" cy="93.6" r="4" fill="#3465a4"><title>Urquhart (White Line)</title></circle></a><a href="/variants/s12/db4w2db24k3db3k3db8k24g48k3g3r2/"><circle cx="193.9" cy="93.6" r="4" fill="#3465a4"><title>Urquhart, White Line</title></circle></a><a href="/variants/s8/db64k11r2k4r2k4g32ly4~x2/"><circle cx="185.1" cy="72.4" r="4" fill="#3465a4"><title>Sinclair-Brown (Personal)</title></circle></a><a href="/variants/s16/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1~x2/"><circle cx="164.7" cy="78.6" r="4" fill="#3465a4"><title>Rankin, John (Personal)</title></circle></a><a href="/variants/s12/db2w1db12k1db2k1db4k12g24k1g2r1~x2/"><circle cx="200.5" cy="93.1" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><circle cx="183.6" cy="75.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/k28r2db9g2db4g20k1g1w2g1k1g20db4g2db9r1db3~x2/"><circle cx="187.3" cy="75.1" r="4" fill="#3465a4"><title>Blairlogie (District)</title></circle></a><a href="/variants/s17/k20r3db10g3db5g25k1g1w3g1k1g25db5g3db10r1db2~x2/"><circle cx="211.5" cy="84.9" r="4" fill="#3465a4"><title>Blairlogie, or Blair Athol</title></circle></a><a href="/variants/s17/k20y3db10g3db5g25k1g1w3g1k1g25db5g3db10y1db2~x4/"><circle cx="216.2" cy="88.5" r="4" fill="#3465a4"><title>Blairgowrie</title></circle></a><a href="/variants/s8/db28y1db2k26g24k1g2r3~x2/"><circle cx="180.2" cy="90.9" r="4" fill="#3465a4"><title>Ogilvie of Inverarity (V.S.)</title></circle></a><a href="/variants/s12/g6w2g24k12db3k2db2k2db12r1db1r3~x2~w4000000-db1406275/"><circle cx="171.1" cy="77.9" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/variants/s12/db4w2db24k3db3k3db8k24g48k3g3r2~x2/"><circle cx="193.8" cy="93.8" r="4" fill="#3465a4"><title>Urquhart (White Line)</title></circle></a><a href="/variants/s12/db4w2db24k3db3k3db8k24g48k3g3r2/"><circle cx="193.8" cy="93.8" r="4" fill="#3465a4"><title>Urquhart, White Line</title></circle></a><a href="/variants/s8/db64k11r2k4r2k4g32ly4~x2/"><circle cx="185.0" cy="72.4" r="4" fill="#3465a4"><title>Sinclair-Brown (Personal)</title></circle></a><a href="/variants/s16/db2k1g15w2g15k1db2k1r2k20db2k2db2k2db25k1~x2/"><circle cx="164.5" cy="78.6" r="4" fill="#3465a4"><title>Rankin, John (Personal)</title></circle></a><a href="/variants/s12/db2w1db12k1db2k1db4k12g24k1g2r1~x2/"><circle cx="200.3" cy="93.2" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><circle cx="183.4" cy="75.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/k28r1db8g2db4g19k2g1w2g1k1g19db4g2db8r2db3~x4/

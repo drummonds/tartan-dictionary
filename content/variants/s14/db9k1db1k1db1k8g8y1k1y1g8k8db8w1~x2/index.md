@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Dyce"
   url: "/tartans/dyce/"
+- name: "Dyce"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db9k1db1k1db1k8g8y1k1y1g8k8db8w1/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKGGKGGKBW](/stripes/bkbkbkggkggkbw/).
@@ -14,7 +16,7 @@ Part of the [Dyce](/tartans/dyce/) tartan — the named design grouping this set
 
 Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/t9k1t1k1t1k8g8y1k1y1g8k8t8w1~x4/"><circle cx="104.7" cy="153.8" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/variants/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/"><circle cx="124.2" cy="151.8" r="4" fill="#3465a4"><title>Urquhart (Brydone)</title></circle></a><a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/"><circle cx="108.0" cy="149.0" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/"><circle cx="108.0" cy="149.0" r="4" fill="#3465a4"><title>Stephenson Hunting Tartan</title></circle></a><a href="/variants/s13/db23k2dr2k2dr2k16g17k2g17k15db17k2r2~x2/"><circle cx="127.4" cy="146.9" r="4" fill="#3465a4"><title>The Red Hackle</title></circle></a><a href="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="84.9" cy="153.7" r="4" fill="#3465a4"><title>MacRae Hunting (Wilsons)</title></circle></a><a href="/variants/s17/db6k1db1k1db1k7g6y1g1dbi1g1y1g6k7db7k1db1~x4~db0805267-dbi1604274/"><circle cx="110.1" cy="154.1" r="4" fill="#3465a4"><title>Polaris</title></circle></a><a href="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/"><circle cx="134.0" cy="126.5" r="4" fill="#3465a4"><title>Dyce #2</title></circle></a><a href="/variants/s12/dr1db6k6g1t2g9t2g1k6db6dr1db1~x8/"><circle cx="97.4" cy="170.4" r="4" fill="#3465a4"><title>MacTaggart (Johnstons)</title></circle></a><a href="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/"><circle cx="113.3" cy="157.8" r="4" fill="#3465a4"><title>MacClellan</title></circle></a><circle cx="113.4" cy="152.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/t9k1t1k1t1k8g8y1k1y1g8k8t8w1~x4/"><circle cx="104.6" cy="154.2" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/variants/s14/g1k1g8k8db8r1db8k8g1k1g1k1g3w1~x2/"><circle cx="124.1" cy="152.1" r="4" fill="#3465a4"><title>Urquhart (Brydone)</title></circle></a><a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5~x2/"><circle cx="107.9" cy="149.4" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/variants/s15/r5k3db25k25g25k3w3k6w3k3g25k25db25k3g5/"><circle cx="107.9" cy="149.4" r="4" fill="#3465a4"><title>Stephenson Hunting Tartan</title></circle></a><a href="/variants/s13/db23k2dr2k2dr2k16g17k2g17k15db17k2r2~x2/"><circle cx="127.3" cy="147.2" r="4" fill="#3465a4"><title>The Red Hackle</title></circle></a><a href="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="84.8" cy="154.1" r="4" fill="#3465a4"><title>MacRae Hunting (Wilsons)</title></circle></a><a href="/variants/s17/db6k1db1k1db1k7g6y1g1dbi1g1y1g6k7db7k1db1~x4~db0805267-dbi1604274/"><circle cx="110.0" cy="154.5" r="4" fill="#3465a4"><title>Polaris</title></circle></a><a href="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/"><circle cx="133.9" cy="126.8" r="4" fill="#3465a4"><title>Dyce #2</title></circle></a><a href="/variants/s12/dr1db6k6g1t2g9t2g1k6db6dr1db1~x8/"><circle cx="97.3" cy="170.8" r="4" fill="#3465a4"><title>MacTaggart (Johnstons)</title></circle></a><a href="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/"><circle cx="113.3" cy="158.2" r="4" fill="#3465a4"><title>MacClellan</title></circle></a><circle cx="113.4" cy="153.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/db9k1db1k1db1k8g8y1k1y1g8k8db8w1~x2/

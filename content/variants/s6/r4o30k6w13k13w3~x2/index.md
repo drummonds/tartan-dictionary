@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Thom(p)son camel"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4o30k6w13k13w3/)
 (the same proportion at any scale), whose colour order is pattern [RRKWKW](/stripes/rrkwkw/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb12lo75k22w12k22w16lb8/"><circle cx="177.7" cy="180.2" r="4" fill="#3465a4"><title>Orange Fanaticos</title></circle></a><a href="/variants/s6/r10w2k10w10o35k5~x2/"><circle cx="218.5" cy="156.0" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/variants/s5/k6w6k6o21r2~x4/"><circle cx="216.2" cy="186.8" r="4" fill="#3465a4"><title>Burberry, Check</title></circle></a><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><circle cx="178.7" cy="188.9" r="4" fill="#3465a4"><title>Strathspey, Check</title></circle></a><a href="/variants/s6/r4ly30k6w13k13w3~x2/"><circle cx="168.5" cy="193.2" r="4" fill="#3465a4"><title>Thomson, Camel (Fashion)</title></circle></a><a href="/variants/s6/r2ly20k5w10k10w2~x2/"><circle cx="156.7" cy="196.9" r="4" fill="#3465a4"><title>Thompson Camel Clan Tartan</title></circle></a><a href="/variants/s5/db6lo25dy16k2db3~x2/"><circle cx="227.6" cy="186.1" r="4" fill="#3465a4"><title>Prince of Orange #2</title></circle></a><a href="/variants/s7/r2w8k14o25w2k2w2~x2/"><circle cx="198.3" cy="151.2" r="4" fill="#3465a4"><title>Merric, Dark Camel..</title></circle></a><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><circle cx="177.1" cy="170.6" r="4" fill="#3465a4"><title>Graham Red</title></circle></a><a href="/variants/s6/k23t6k6r5w35r10~x2/"><circle cx="141.6" cy="199.0" r="4" fill="#3465a4"><title>Merrilees Dress (Dance)</title></circle></a><circle cx="166.1" cy="183.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb12lo75k22w12k22w16lb8/"><circle cx="177.8" cy="180.8" r="4" fill="#3465a4"><title>Orange Fanaticos</title></circle></a><a href="/variants/s6/r10w2k10w10o35k5~x2/"><circle cx="218.5" cy="156.5" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/variants/s5/k6w6k6o21r2~x4/"><circle cx="216.3" cy="187.4" r="4" fill="#3465a4"><title>Burberry, Check</title></circle></a><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><circle cx="178.8" cy="189.5" r="4" fill="#3465a4"><title>Strathspey, Check</title></circle></a><a href="/variants/s6/r4ly30k6w13k13w3~x2/"><circle cx="168.6" cy="193.9" r="4" fill="#3465a4"><title>Thomson, Camel (Fashion)</title></circle></a><a href="/variants/s6/r2ly20k5w10k10w2~x2/"><circle cx="156.8" cy="197.6" r="4" fill="#3465a4"><title>Thompson Camel Clan Tartan</title></circle></a><a href="/variants/s5/db6lo25dy16k2db3~x2/"><circle cx="227.6" cy="186.6" r="4" fill="#3465a4"><title>Prince of Orange #2</title></circle></a><a href="/variants/s7/r2w8k14o25w2k2w2~x2/"><circle cx="198.3" cy="151.7" r="4" fill="#3465a4"><title>Merric, Dark Camel..</title></circle></a><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><circle cx="177.2" cy="171.2" r="4" fill="#3465a4"><title>Graham Red</title></circle></a><a href="/variants/s6/k23t6k6r5w35r10~x2/"><circle cx="141.7" cy="199.7" r="4" fill="#3465a4"><title>Merrilees Dress (Dance)</title></circle></a><circle cx="166.2" cy="184.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r4o30k6w13k13w3~x2/

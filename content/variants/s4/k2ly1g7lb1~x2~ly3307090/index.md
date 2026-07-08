@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's No.140"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2ly1g7lb1/)
 (the same proportion at any scale), whose colour order is pattern [KYGW](/stripes/kygw/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4694
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4694](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4694)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="356.6" cy="169.9" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s3/g4lb1k2~x4/"><circle cx="231.2" cy="298.8" r="4" fill="#3465a4"><title>Wilson's, No 45</title></circle></a><a href="/variants/s4/g14k3dr3lr2~x2/"><circle cx="299.6" cy="221.0" r="4" fill="#3465a4"><title>Bacon, Green (Fashion)</title></circle></a><a href="/variants/s4/k7w1g7lb1~x2/"><circle cx="193.7" cy="234.9" r="4" fill="#3465a4"><title>Wilson's No.079</title></circle></a><a href="/variants/s4/r1g8dy8w1~x2/"><circle cx="271.9" cy="251.8" r="4" fill="#3465a4"><title>MacKinnon Hunting #2</title></circle></a><a href="/variants/s3/k4g6r1~x10/"><circle cx="240.7" cy="276.0" r="4" fill="#3465a4"><title>Kincaid, of Kincaid</title></circle></a><a href="/variants/s3/k11g16dr2~x4/"><circle cx="266.4" cy="265.5" r="4" fill="#3465a4"><title>Kincaid of Kincaid (Clan)</title></circle></a><a href="/variants/s4/db8g20w4r1~x5/"><circle cx="345.2" cy="204.1" r="4" fill="#3465a4"><title>Farooq (Personal)</title></circle></a><a href="/variants/s4/k5g40db20ly3~x2/"><circle cx="308.7" cy="205.7" r="4" fill="#3465a4"><title>Byers (Name)</title></circle></a><a href="/variants/s4/k5g40db20y3~x2/"><circle cx="317.0" cy="208.2" r="4" fill="#3465a4"><title>Robert Byers Family - Dooballagh, Ireland</title></circle></a><circle cx="295.3" cy="223.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="356.7" cy="170.3" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s3/g4lb1k2~x4/"><circle cx="231.4" cy="299.8" r="4" fill="#3465a4"><title>Wilson's, No 45</title></circle></a><a href="/variants/s4/g14k3dr3lr2~x2/"><circle cx="299.7" cy="221.7" r="4" fill="#3465a4"><title>Bacon, Green (Fashion)</title></circle></a><a href="/variants/s4/k7w1g7lb1~x2/"><circle cx="193.8" cy="235.6" r="4" fill="#3465a4"><title>Wilson's No.079</title></circle></a><a href="/variants/s4/r1g8dy8w1~x2/"><circle cx="272.1" cy="252.4" r="4" fill="#3465a4"><title>MacKinnon Hunting #2</title></circle></a><a href="/variants/s3/k4g6r1~x10/"><circle cx="240.9" cy="276.8" r="4" fill="#3465a4"><title>Kincaid, of Kincaid</title></circle></a><a href="/variants/s3/k11g16dr2~x4/"><circle cx="266.6" cy="266.3" r="4" fill="#3465a4"><title>Kincaid of Kincaid (Clan)</title></circle></a><a href="/variants/s4/db8g20w4r1~x5/"><circle cx="345.3" cy="204.6" r="4" fill="#3465a4"><title>Farooq (Personal)</title></circle></a><a href="/variants/s4/k5g40db20ly3~x2/"><circle cx="308.8" cy="206.2" r="4" fill="#3465a4"><title>Byers (Name)</title></circle></a><a href="/variants/s4/k5g40db20y3~x2/"><circle cx="317.0" cy="208.7" r="4" fill="#3465a4"><title>Robert Byers Family - Dooballagh, Ireland</title></circle></a><circle cx="295.4" cy="224.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/k2ly1g7lb1~x2~ly3307090/

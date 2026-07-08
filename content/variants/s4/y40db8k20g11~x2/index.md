@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brun, Pierre Emmanuel (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y40db8k20g11/)
 (the same proportion at any scale), whose colour order is pattern [GBKG](/stripes/gbkg/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11528
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11528](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11528)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/k5g4y1~x2/"><circle cx="215.1" cy="291.7" r="4" fill="#3465a4"><title>Wilson's, No 2/53 or Mull</title></circle></a><a href="/variants/s3/k15y20w3~x2/"><circle cx="242.3" cy="268.4" r="4" fill="#3465a4"><title>Silvicola (Corporate)</title></circle></a><a href="/variants/s3/k6y1g6~x4/"><circle cx="200.8" cy="254.0" r="4" fill="#3465a4"><title>Wilson's No.197</title></circle></a><a href="/variants/s4/k7y1g7lb1~x2/"><circle cx="190.3" cy="230.0" r="4" fill="#3465a4"><title>Wilson's, No 140</title></circle></a><a href="/variants/s4/r4k25y25w4~x2/"><circle cx="180.5" cy="227.5" r="4" fill="#3465a4"><title>Bonhill Primary School</title></circle></a><a href="/variants/s3/g5k6lb1~x4/"><circle cx="222.3" cy="280.8" r="4" fill="#3465a4"><title>Wilson's, No 50</title></circle></a><a href="/variants/s4/r5g7k2lb1~x4/"><circle cx="196.1" cy="241.0" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/variants/s4/n22y10w3k8~x2/"><circle cx="224.2" cy="242.2" r="4" fill="#3465a4"><title>Louisburg Canadian District Tartan</title></circle></a><a href="/variants/s3/k5g6lb1~x4/"><circle cx="222.3" cy="282.6" r="4" fill="#3465a4"><title>Wilson's No.050</title></circle></a><a href="/variants/s5/k19lb10dp19g40y10/"><circle cx="95.7" cy="251.7" r="4" fill="#3465a4"><title>Gala Water Old</title></circle></a><circle cx="197.5" cy="254.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/k5g4y1~x2/"><circle cx="215.3" cy="292.5" r="4" fill="#3465a4"><title>Wilson's, No 2/53 or Mull</title></circle></a><a href="/variants/s3/k15y20w3~x2/"><circle cx="242.5" cy="269.3" r="4" fill="#3465a4"><title>Silvicola (Corporate)</title></circle></a><a href="/variants/s3/k6y1g6~x4/"><circle cx="200.9" cy="254.8" r="4" fill="#3465a4"><title>Wilson's No.197</title></circle></a><a href="/variants/s4/k7y1g7lb1~x2/"><circle cx="190.3" cy="230.7" r="4" fill="#3465a4"><title>Wilson's, No 140</title></circle></a><a href="/variants/s4/r4k25y25w4~x2/"><circle cx="180.6" cy="228.3" r="4" fill="#3465a4"><title>Bonhill Primary School</title></circle></a><a href="/variants/s3/g5k6lb1~x4/"><circle cx="222.5" cy="281.6" r="4" fill="#3465a4"><title>Wilson's, No 50</title></circle></a><a href="/variants/s4/r5g7k2lb1~x4/"><circle cx="196.2" cy="241.8" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/variants/s4/n22y10w3k8~x2/"><circle cx="224.3" cy="242.9" r="4" fill="#3465a4"><title>Louisburg Canadian District Tartan</title></circle></a><a href="/variants/s3/k5g6lb1~x4/"><circle cx="222.4" cy="283.5" r="4" fill="#3465a4"><title>Wilson's No.050</title></circle></a><a href="/variants/s5/k19lb10dp19g40y10/"><circle cx="95.8" cy="252.5" r="4" fill="#3465a4"><title>Gala Water Old</title></circle></a><circle cx="197.6" cy="255.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/y40db8k20g11~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Forde"
   url: "/tartans/forde/"
+- name: "Forde Irish Family Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g16dy1k2r1k1r1k2dy1k1g1/)
 (the same proportion at any scale), whose colour order is pattern [GGKRKRKGKG](/stripes/ggkrkrkgkg/).
@@ -14,7 +16,7 @@ Part of the [Forde](/tartans/forde/) tartan — the named design grouping this s
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=829
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=829](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=829)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g16y1k2r1k1r1k2y1k1g1~x4/"><circle cx="327.5" cy="107.1" r="4" fill="#3465a4"><title>Forde</title></circle></a><a href="/variants/s10/g30dy2k3r2k2r2k3dy2k2g4~x2/"><circle cx="340.7" cy="112.2" r="4" fill="#3465a4"><title>Forde (Name)</title></circle></a><a href="/variants/s10/g30y2k3r2k2r2k3y2k2g4~x2/"><circle cx="341.9" cy="113.0" r="4" fill="#3465a4"><title>Forde</title></circle></a><a href="/variants/s10/k3g32k2g4y4g2y4g4k6w3~x2/"><circle cx="336.6" cy="126.4" r="4" fill="#3465a4"><title>University of Alberta (Corporate)</title></circle></a><a href="/variants/s8/g44k2g2k2g3k12db10r3~x2/"><circle cx="334.3" cy="119.3" r="4" fill="#3465a4"><title>Celtic (New) Corporate Sport Tartan</title></circle></a><a href="/variants/s8/dg48lo3k6w4dg3k15lo3dg4~x2~dg1605139/"><circle cx="337.0" cy="129.4" r="4" fill="#3465a4"><title>Birmingham Irish Pipes &amp; Drums</title></circle></a><a href="/variants/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/"><circle cx="377.1" cy="102.2" r="4" fill="#3465a4"><title>Dryfe</title></circle></a><a href="/variants/s13/g16k8g1k1lb1g1lb1lo1g1k1n1g4k1~x4/"><circle cx="281.9" cy="92.4" r="4" fill="#3465a4"><title>Savoy</title></circle></a><a href="/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/"><circle cx="335.9" cy="92.7" r="4" fill="#3465a4"><title>Laggen Dress</title></circle></a><a href="/variants/s10/db1k2db1k6db1k1g1k6g21y1~x2/"><circle cx="286.1" cy="107.1" r="4" fill="#3465a4"><title>Grand Lodge of Scotland (Corporate)</title></circle></a><circle cx="327.1" cy="106.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g16y1k2r1k1r1k2y1k1g1~x4/"><circle cx="327.5" cy="107.3" r="4" fill="#3465a4"><title>Forde</title></circle></a><a href="/variants/s10/g30dy2k3r2k2r2k3dy2k2g4~x2/"><circle cx="340.6" cy="112.5" r="4" fill="#3465a4"><title>Forde (Name)</title></circle></a><a href="/variants/s10/g30y2k3r2k2r2k3y2k2g4~x2/"><circle cx="341.9" cy="113.3" r="4" fill="#3465a4"><title>Forde</title></circle></a><a href="/variants/s10/k3g32k2g4y4g2y4g4k6w3~x2/"><circle cx="336.6" cy="126.7" r="4" fill="#3465a4"><title>University of Alberta (Corporate)</title></circle></a><a href="/variants/s8/g44k2g2k2g3k12db10r3~x2/"><circle cx="334.2" cy="119.5" r="4" fill="#3465a4"><title>Celtic (New) Corporate Sport Tartan</title></circle></a><a href="/variants/s8/dg48lo3k6w4dg3k15lo3dg4~x2~dg1605139/"><circle cx="336.9" cy="129.7" r="4" fill="#3465a4"><title>Birmingham Irish Pipes &amp; Drums</title></circle></a><a href="/variants/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/"><circle cx="377.0" cy="102.3" r="4" fill="#3465a4"><title>Dryfe</title></circle></a><a href="/variants/s13/g16k8g1k1lb1g1lb1lo1g1k1n1g4k1~x4/"><circle cx="281.8" cy="92.6" r="4" fill="#3465a4"><title>Savoy</title></circle></a><a href="/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/"><circle cx="335.8" cy="92.9" r="4" fill="#3465a4"><title>Laggen Dress</title></circle></a><a href="/variants/s10/db1k2db1k6db1k1g1k6g21y1~x2/"><circle cx="286.0" cy="107.3" r="4" fill="#3465a4"><title>Grand Lodge of Scotland (Corporate)</title></circle></a><circle cx="327.0" cy="106.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g16dy1k2r1k1r1k2dy1k1g1~x4/

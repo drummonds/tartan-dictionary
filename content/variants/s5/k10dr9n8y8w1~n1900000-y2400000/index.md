@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Pople"
   url: "/tartans/pople/"
+- name: "Pople"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k10dr9n8y8w1/)
 (the same proportion at any scale), whose colour order is pattern [KBBGW](/stripes/kbbgw/).
@@ -14,7 +16,7 @@ Part of the [Pople](/tartans/pople/) tartan — the named design grouping this s
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5159
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5159](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5159)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n6r1k6r1g6~x6/"><circle cx="104.3" cy="243.8" r="4" fill="#3465a4"><title>Timespan</title></circle></a><a href="/variants/s6/o3k17dt11o2oi20w2~x2~dt1600000-oi2500000/"><circle cx="128.7" cy="180.8" r="4" fill="#3465a4"><title>Commonwealth Games Council (Corp.)</title></circle></a><a href="/variants/s5/dp11t2k10g10y3~x2~dp1607327-t2503227/"><circle cx="76.3" cy="241.1" r="4" fill="#3465a4"><title>Nobiliary Fraternity</title></circle></a><a href="/variants/s5/dp20dt5k19g19dy2~x2/"><circle cx="118.3" cy="217.3" r="4" fill="#3465a4"><title>Martin Hunting</title></circle></a><a href="/variants/s7/db9r24g24k24db24y2db9/"><circle cx="112.0" cy="199.0" r="4" fill="#3465a4"><title>Dundas</title></circle></a><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><circle cx="105.3" cy="203.5" r="4" fill="#3465a4"><title>MacLaren #2</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2/"><circle cx="85.7" cy="235.7" r="4" fill="#3465a4"><title>Selkirk (Name)</title></circle></a><a href="/variants/s5/dp27db4k27g27lo4~x2/"><circle cx="98.6" cy="224.4" r="4" fill="#3465a4"><title>Selkirk (Personal)</title></circle></a><a href="/variants/s5/dp11lb2k10g10y2~x2/"><circle cx="84.8" cy="235.8" r="4" fill="#3465a4"><title>Wilson's, No 217</title></circle></a><a href="/variants/s6/r8dg20k20db20k3r8~x2/"><circle cx="104.6" cy="242.7" r="4" fill="#3465a4"><title>Atholl Highlanders (Military)</title></circle></a><circle cx="85.4" cy="237.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n6r1k6r1g6~x6/"><circle cx="104.4" cy="244.5" r="4" fill="#3465a4"><title>Timespan</title></circle></a><a href="/variants/s6/o3k17dt11o2oi20w2~x2~dt1600000-oi2500000/"><circle cx="128.7" cy="181.2" r="4" fill="#3465a4"><title>Commonwealth Games Council (Corp.)</title></circle></a><a href="/variants/s5/dp11t2k10g10y3~x2~dp1607327-t2503227/"><circle cx="76.4" cy="241.8" r="4" fill="#3465a4"><title>Nobiliary Fraternity</title></circle></a><a href="/variants/s5/dp20dt5k19g19dy2~x2/"><circle cx="118.4" cy="217.8" r="4" fill="#3465a4"><title>Martin Hunting</title></circle></a><a href="/variants/s7/db9r24g24k24db24y2db9/"><circle cx="112.0" cy="199.5" r="4" fill="#3465a4"><title>Dundas</title></circle></a><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><circle cx="105.3" cy="204.1" r="4" fill="#3465a4"><title>MacLaren #2</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2/"><circle cx="85.8" cy="236.4" r="4" fill="#3465a4"><title>Selkirk (Name)</title></circle></a><a href="/variants/s5/dp27db4k27g27lo4~x2/"><circle cx="98.7" cy="224.9" r="4" fill="#3465a4"><title>Selkirk (Personal)</title></circle></a><a href="/variants/s5/dp11lb2k10g10y2~x2/"><circle cx="84.9" cy="236.4" r="4" fill="#3465a4"><title>Wilson's, No 217</title></circle></a><a href="/variants/s6/r8dg20k20db20k3r8~x2/"><circle cx="104.6" cy="243.3" r="4" fill="#3465a4"><title>Atholl Highlanders (Military)</title></circle></a><circle cx="85.5" cy="237.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k10dr9n8y8w1~n1900000-y2400000/

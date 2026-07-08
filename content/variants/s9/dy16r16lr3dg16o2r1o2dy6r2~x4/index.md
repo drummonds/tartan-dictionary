@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Henry, W. A."
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy16r16lr3dg16o2r1o2dy6r2/)
 (the same proportion at any scale), whose colour order is pattern [GRYGRRRGR](/stripes/grygrrrgr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1687
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1687](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1687)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dy24r24w3g21y2r1y2dy6r2~x2/"><circle cx="228.5" cy="142.0" r="4" fill="#3465a4"><title>Henry W.A. Canadian Tartan</title></circle></a><a href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/"><circle cx="232.6" cy="167.7" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/variants/s8/dp24g2lo2g2lo5g8o20dy4~x2/"><circle cx="205.2" cy="177.3" r="4" fill="#3465a4"><title>Glen Shee</title></circle></a><a href="/variants/s11/o20dp2o2dp2o3dp8dg9g8r8dg1b2~x2~dp0904331-dg1104144/"><circle cx="199.8" cy="140.4" r="4" fill="#3465a4"><title>Isle of Skye</title></circle></a><a href="/variants/s9/ly2do1o10oi12do10ly6o10do1ly2~x4~o1305035-oi2104072/"><circle cx="211.5" cy="207.4" r="4" fill="#3465a4"><title>Highland Village</title></circle></a><a href="/variants/s11/ri3y1dp1ri20r2dp9r2g20dp1y1g3~x2~ri2108022-r1807033/"><circle cx="250.5" cy="129.6" r="4" fill="#3465a4"><title>Scotland (Personal)</title></circle></a><a href="/variants/s7/dp8r3y1r3dg14r3y1~x4/"><circle cx="285.7" cy="196.6" r="4" fill="#3465a4"><title>Logan - 1819 (with yellow)</title></circle></a><a href="/variants/s12/dr3dy16db2dy2db2dy3db6o20lr3o2lr2o3~x2/"><circle cx="235.0" cy="166.5" r="4" fill="#3465a4"><title>Callum, Brown (Fashion)</title></circle></a><a href="/variants/s8/dg30dt2n7r14n7r7w1dt14~x2/"><circle cx="260.9" cy="168.5" r="4" fill="#3465a4"><title>Harding (Name)</title></circle></a><a href="/variants/s8/lr2dr1r24dr16dt20db3dt3ly2~x2/"><circle cx="225.2" cy="138.3" r="4" fill="#3465a4"><title>Tache, Sir Etienne Paschal</title></circle></a><circle cx="226.7" cy="171.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dy24r24w3g21y2r1y2dy6r2~x2/"><circle cx="228.5" cy="142.2" r="4" fill="#3465a4"><title>Henry W.A. Canadian Tartan</title></circle></a><a href="/variants/s11/r2dg3dy18r2dy2r21g6dg2g2dg24lo2~x2~dy1502083-lo2706076/"><circle cx="232.7" cy="167.9" r="4" fill="#3465a4"><title>Methven</title></circle></a><a href="/variants/s8/dp24g2lo2g2lo5g8o20dy4~x2/"><circle cx="205.2" cy="177.6" r="4" fill="#3465a4"><title>Glen Shee</title></circle></a><a href="/variants/s11/o20dp2o2dp2o3dp8dg9g8r8dg1b2~x2~dp0904331-dg1104144/"><circle cx="199.8" cy="140.5" r="4" fill="#3465a4"><title>Isle of Skye</title></circle></a><a href="/variants/s9/ly2do1o10oi12do10ly6o10do1ly2~x4~o1305035-oi2104072/"><circle cx="211.6" cy="207.8" r="4" fill="#3465a4"><title>Highland Village</title></circle></a><a href="/variants/s11/ri3y1dp1ri20r2dp9r2g20dp1y1g3~x2~ri2108022-r1807033/"><circle cx="250.4" cy="129.8" r="4" fill="#3465a4"><title>Scotland (Personal)</title></circle></a><a href="/variants/s7/dp8r3y1r3dg14r3y1~x4/"><circle cx="285.7" cy="196.9" r="4" fill="#3465a4"><title>Logan - 1819 (with yellow)</title></circle></a><a href="/variants/s12/dr3dy16db2dy2db2dy3db6o20lr3o2lr2o3~x2/"><circle cx="235.1" cy="166.8" r="4" fill="#3465a4"><title>Callum, Brown (Fashion)</title></circle></a><a href="/variants/s8/dg30dt2n7r14n7r7w1dt14~x2/"><circle cx="260.8" cy="168.6" r="4" fill="#3465a4"><title>Harding (Name)</title></circle></a><a href="/variants/s8/lr2dr1r24dr16dt20db3dt3ly2~x2/"><circle cx="225.2" cy="138.5" r="4" fill="#3465a4"><title>Tache, Sir Etienne Paschal</title></circle></a><circle cx="226.7" cy="172.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dy16r16lr3dg16o2r1o2dy6r2~x4/

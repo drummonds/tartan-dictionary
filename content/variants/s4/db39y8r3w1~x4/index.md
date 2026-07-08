@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Norwich University"
   url: "/tartans/norwich-university/"
+- name: "Norwich University"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db39y8r3w1/)
 (the same proportion at any scale), whose colour order is pattern [BGRW](/stripes/bgrw/).
@@ -14,7 +16,7 @@ Part of the [Norwich University](/tartans/norwich-university/) tartan — the na
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10631
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10631](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10631)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db39y8dr3w1~x4/"><circle cx="568.8" cy="174.5" r="4" fill="#3465a4"><title>Norwich University Regimental Tartan</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.7" cy="109.5" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.0" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><a href="/variants/s4/db62r24y5g3~x2/"><circle cx="423.2" cy="184.4" r="4" fill="#3465a4"><title>Meaux, Luc G (Personal)</title></circle></a><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="488.5" cy="218.0" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><a href="/variants/s6/g20dr10ly2db100w1y10/"><circle cx="478.5" cy="107.7" r="4" fill="#3465a4"><title>Ravetta (Name)</title></circle></a><a href="/variants/s4/r2k6db33w2~x4/"><circle cx="458.3" cy="161.6" r="4" fill="#3465a4"><title>McCallie</title></circle></a><a href="/variants/s4/db14k3dr3w1~x2/"><circle cx="384.2" cy="192.8" r="4" fill="#3465a4"><title>Bacon, Blue</title></circle></a><a href="/variants/s6/db80r7w1r7y20db15~x2/"><circle cx="505.6" cy="126.2" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army (Corp)</title></circle></a><a href="/variants/s6/db80r8w1r8y20db15~x2/"><circle cx="494.6" cy="127.2" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army</title></circle></a><circle cx="529.5" cy="152.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db39y8dr3w1~x4/"><circle cx="568.8" cy="174.7" r="4" fill="#3465a4"><title>Norwich University Regimental Tartan</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.6" cy="109.6" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.3" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><a href="/variants/s4/db62r24y5g3~x2/"><circle cx="423.3" cy="184.8" r="4" fill="#3465a4"><title>Meaux, Luc G (Personal)</title></circle></a><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="488.6" cy="218.2" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><a href="/variants/s6/g20dr10ly2db100w1y10/"><circle cx="478.4" cy="107.7" r="4" fill="#3465a4"><title>Ravetta (Name)</title></circle></a><a href="/variants/s4/r2k6db33w2~x4/"><circle cx="458.3" cy="161.9" r="4" fill="#3465a4"><title>McCallie</title></circle></a><a href="/variants/s4/db14k3dr3w1~x2/"><circle cx="384.2" cy="193.2" r="4" fill="#3465a4"><title>Bacon, Blue</title></circle></a><a href="/variants/s6/db80r7w1r7y20db15~x2/"><circle cx="505.5" cy="126.4" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army (Corp)</title></circle></a><a href="/variants/s6/db80r8w1r8y20db15~x2/"><circle cx="494.5" cy="127.4" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army</title></circle></a><circle cx="529.4" cy="152.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/db39y8r3w1~x4/

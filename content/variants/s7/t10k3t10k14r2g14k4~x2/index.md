@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/fletcher/"
 - name: "Fletcher"
   url: "/tartans/fletcher/"
+- name: "Fletcher #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t10k3t10k14r2g14k4/)
 (the same proportion at any scale), whose colour order is pattern [BKBKRGK](/stripes/bkbkrgk/).
@@ -16,7 +18,7 @@ Part of the [Fletcher](/tartans/fletcher/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1206
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1206](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1206)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db6k1db6k8r1g8k2/"><circle cx="148.1" cy="217.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8k2~x2/"><circle cx="148.1" cy="217.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s6/t6k6t18k18g22k5~x2/"><circle cx="137.6" cy="268.6" r="4" fill="#3465a4"><title>Campbell, The 42nd</title></circle></a><a href="/variants/s7/db1k1db6k6g6k1w1~x2/"><circle cx="131.5" cy="211.6" r="4" fill="#3465a4"><title>Forbes #4</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14r5~x2/"><circle cx="100.3" cy="230.0" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2/"><circle cx="135.7" cy="215.4" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2~x2/"><circle cx="135.7" cy="215.4" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><a href="/variants/s7/db4k3db16k14g14r3g3~x2/"><circle cx="126.9" cy="227.8" r="4" fill="#3465a4"><title>Inneryne (Personal)</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="145.5" cy="229.0" r="4" fill="#3465a4"><title>Murray #3</title></circle></a><a href="/variants/s6/r4g12k12g2db12g3~x2/"><circle cx="125.7" cy="237.8" r="4" fill="#3465a4"><title>Gunn - 1810 (Clan)</title></circle></a><circle cx="120.7" cy="227.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db6k1db6k8r1g8k2/"><circle cx="148.1" cy="217.7" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8k2~x2/"><circle cx="148.1" cy="217.7" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s6/t6k6t18k18g22k5~x2/"><circle cx="137.7" cy="269.4" r="4" fill="#3465a4"><title>Campbell, The 42nd</title></circle></a><a href="/variants/s7/db1k1db6k6g6k1w1~x2/"><circle cx="131.6" cy="212.1" r="4" fill="#3465a4"><title>Forbes #4</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14r5~x2/"><circle cx="100.4" cy="230.6" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2/"><circle cx="135.7" cy="216.0" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2~x2/"><circle cx="135.7" cy="216.0" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><a href="/variants/s7/db4k3db16k14g14r3g3~x2/"><circle cx="126.9" cy="228.4" r="4" fill="#3465a4"><title>Inneryne (Personal)</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="145.6" cy="229.6" r="4" fill="#3465a4"><title>Murray #3</title></circle></a><a href="/variants/s6/r4g12k12g2db12g3~x2/"><circle cx="125.8" cy="238.5" r="4" fill="#3465a4"><title>Gunn - 1810 (Clan)</title></circle></a><circle cx="120.8" cy="227.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/t10k3t10k14r2g14k4~x2/

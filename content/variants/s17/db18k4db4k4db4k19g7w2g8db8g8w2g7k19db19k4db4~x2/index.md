@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Arbuthnott"
   url: "/tartans/arbuthnott/"
+- name: "Arbuthnott"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db18k4db4k4db4k19g7w2g8db8g8w2g7k19db19k4db4/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKGWGBGWGKBKB](/stripes/bkbkbkgwgbgwgkbkb/).
@@ -14,7 +16,7 @@ Part of the [Arbuthnott](/tartans/arbuthnott/) tartan — the named design group
 
 Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1~x2/"><circle cx="109.4" cy="200.3" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1/"><circle cx="109.4" cy="200.3" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/variants/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><circle cx="140.8" cy="169.4" r="4" fill="#3465a4"><title>Forbes #2</title></circle></a><a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x4/"><circle cx="136.1" cy="173.6" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2/"><circle cx="136.1" cy="173.6" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/"><circle cx="136.1" cy="173.6" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s9/k4g21k10r2k10db21k4db4k4~x2/"><circle cx="139.7" cy="162.5" r="4" fill="#3465a4"><title>Swallow Hotels</title></circle></a><a href="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x4/"><circle cx="136.5" cy="140.3" r="4" fill="#3465a4"><title>Baillie of Polkemmet</title></circle></a><a href="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/"><circle cx="136.5" cy="140.3" r="4" fill="#3465a4"><title>Baillie of Polkemett Family Tartan</title></circle></a><a href="/variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/"><circle cx="125.0" cy="176.3" r="4" fill="#3465a4"><title>Mulholland (Personal)</title></circle></a><circle cx="153.4" cy="168.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1~x2/"><circle cx="109.4" cy="200.8" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1/"><circle cx="109.4" cy="200.8" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/variants/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><circle cx="140.7" cy="169.7" r="4" fill="#3465a4"><title>Forbes #2</title></circle></a><a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x4/"><circle cx="136.1" cy="174.0" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2/"><circle cx="136.1" cy="174.0" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s15/db8k1db2k1db2k6g8k1w2k1g8k6db8k1db2~x2/"><circle cx="136.1" cy="174.0" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s9/k4g21k10r2k10db21k4db4k4~x2/"><circle cx="139.7" cy="162.8" r="4" fill="#3465a4"><title>Swallow Hotels</title></circle></a><a href="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x4/"><circle cx="136.4" cy="140.6" r="4" fill="#3465a4"><title>Baillie of Polkemmet</title></circle></a><a href="/variants/s17/db11k1db1k1db1k9g9w1g1w1g1w1g9k9db8k1db1~x2/"><circle cx="136.4" cy="140.6" r="4" fill="#3465a4"><title>Baillie of Polkemett Family Tartan</title></circle></a><a href="/variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/"><circle cx="125.0" cy="176.7" r="4" fill="#3465a4"><title>Mulholland (Personal)</title></circle></a><circle cx="153.4" cy="168.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/db18k4db4k4db4k19g7w2g8db8g8w2g7k19db19k4db4~x2/

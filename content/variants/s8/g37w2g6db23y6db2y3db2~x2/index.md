@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacAuliffe (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g37w2g6db23y6db2y3db2/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBGWG](/stripes/bgbgbgwg/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6577
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6577](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6577)
 
 ## Provenance
 
@@ -68,8 +70,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/"><circle cx="335.5" cy="163.9" r="4" fill="#3465a4"><title>MacAuliffe/McAucliffe</title></circle></a><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/"><circle cx="351.1" cy="196.0" r="4" fill="#3465a4"><title>Leatherneck</title></circle></a><a href="/variants/s8/db2g2ly1g30db20r2db2r2~x2/"><circle cx="360.9" cy="136.8" r="4" fill="#3465a4"><title>Gretna Green</title></circle></a><a href="/variants/s9/r6db2r1db8r3db16g28w2g4~x2/"><circle cx="288.6" cy="146.2" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s9/g28r12g4db20y2db3y2db3g7~x2/"><circle cx="277.9" cy="181.9" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/variants/s8/g99db20w8db30y8db10y8g46/"><circle cx="388.7" cy="203.8" r="4" fill="#3465a4"><title>Duke of York Hunting</title></circle></a><a href="/variants/s6/g25db10dy3db2dy2db6~x2/"><circle cx="337.3" cy="213.0" r="4" fill="#3465a4"><title>Inkster</title></circle></a><a href="/variants/s6/g49db16dy3db2dy2db6~x2/"><circle cx="463.0" cy="191.6" r="4" fill="#3465a4"><title>Royal and Ancient, The</title></circle></a><a href="/variants/s9/db5y2db17g14w1g1w1g4y2~x2/"><circle cx="307.9" cy="179.8" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/variants/s6/g4db12r3db12g32w4~x2/"><circle cx="297.7" cy="211.6" r="4" fill="#3465a4"><title>MacIntyre Hunting (VS)</title></circle></a><circle cx="358.4" cy="181.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/"><circle cx="335.5" cy="164.2" r="4" fill="#3465a4"><title>MacAuliffe/McAucliffe</title></circle></a><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/"><circle cx="351.2" cy="196.4" r="4" fill="#3465a4"><title>Leatherneck</title></circle></a><a href="/variants/s8/db2g2ly1g30db20r2db2r2~x2/"><circle cx="360.8" cy="137.0" r="4" fill="#3465a4"><title>Gretna Green</title></circle></a><a href="/variants/s9/r6db2r1db8r3db16g28w2g4~x2/"><circle cx="288.6" cy="146.4" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s9/g28r12g4db20y2db3y2db3g7~x2/"><circle cx="278.0" cy="182.3" r="4" fill="#3465a4"><title>Cork</title></circle></a><a href="/variants/s8/g99db20w8db30y8db10y8g46/"><circle cx="388.8" cy="204.2" r="4" fill="#3465a4"><title>Duke of York Hunting</title></circle></a><a href="/variants/s6/g25db10dy3db2dy2db6~x2/"><circle cx="337.3" cy="213.3" r="4" fill="#3465a4"><title>Inkster</title></circle></a><a href="/variants/s6/g49db16dy3db2dy2db6~x2/"><circle cx="463.1" cy="191.9" r="4" fill="#3465a4"><title>Royal and Ancient, The</title></circle></a><a href="/variants/s9/db5y2db17g14w1g1w1g4y2~x2/"><circle cx="308.0" cy="180.1" r="4" fill="#3465a4"><title>MacOrrell</title></circle></a><a href="/variants/s6/g4db12r3db12g32w4~x2/"><circle cx="297.8" cy="212.1" r="4" fill="#3465a4"><title>MacIntyre Hunting (VS)</title></circle></a><circle cx="358.5" cy="181.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g37w2g6db23y6db2y3db2~x2/

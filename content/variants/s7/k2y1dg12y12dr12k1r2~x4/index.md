@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "PSD: Operation Iraqi Freedom"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2y1dg12y12dr12k1r2/)
 (the same proportion at any scale), whose colour order is pattern [KGGGBKR](/stripes/kgggbkr/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3417
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3417](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3417)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2o15dy15dg15r2dg3ly2~x2~dy1603076-ly3307090/"><circle cx="176.8" cy="200.8" r="4" fill="#3465a4"><title>Crossbill</title></circle></a><a href="/variants/s7/k2dy30g4w2g14dr13y2~x2/"><circle cx="235.7" cy="153.5" r="4" fill="#3465a4"><title>Red Rum Commemorative Tartan</title></circle></a><a href="/variants/s8/o30k4o3k4o3g20dt20y4~x2/"><circle cx="188.6" cy="176.8" r="4" fill="#3465a4"><title>Sikh (Corporate)</title></circle></a><a href="/variants/s7/y9dg4y22k9y9dg36r4~x2/"><circle cx="247.8" cy="210.2" r="4" fill="#3465a4"><title>Harmer</title></circle></a><a href="/variants/s5/k1dr9n8y8w1~x2/"><circle cx="194.9" cy="232.5" r="4" fill="#3465a4"><title>Pople (Name)</title></circle></a><a href="/variants/s6/y1do10k8dr8do1ly1~x4/"><circle cx="219.2" cy="204.2" r="4" fill="#3465a4"><title>Unidentified #66</title></circle></a><a href="/variants/s9/k23y2dr3db7dr3y2dg15dr21y5~x2/"><circle cx="171.3" cy="173.0" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/"><circle cx="185.1" cy="172.7" r="4" fill="#3465a4"><title>Lochaber (Ingles Buchan)</title></circle></a><a href="/variants/s8/dg30ly3k20dr2k3b4dr24k3~x2/"><circle cx="194.0" cy="159.4" r="4" fill="#3465a4"><title>Waterford</title></circle></a><a href="/variants/s5/r1n12k7do10r1~x4/"><circle cx="194.0" cy="176.7" r="4" fill="#3465a4"><title>Andover</title></circle></a><circle cx="188.3" cy="186.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2o15dy15dg15r2dg3ly2~x2~dy1603076-ly3307090/"><circle cx="176.9" cy="201.1" r="4" fill="#3465a4"><title>Crossbill</title></circle></a><a href="/variants/s7/k2dy30g4w2g14dr13y2~x2/"><circle cx="235.7" cy="153.7" r="4" fill="#3465a4"><title>Red Rum Commemorative Tartan</title></circle></a><a href="/variants/s8/o30k4o3k4o3g20dt20y4~x2/"><circle cx="188.6" cy="177.1" r="4" fill="#3465a4"><title>Sikh (Corporate)</title></circle></a><a href="/variants/s7/y9dg4y22k9y9dg36r4~x2/"><circle cx="247.9" cy="210.6" r="4" fill="#3465a4"><title>Harmer</title></circle></a><a href="/variants/s5/k1dr9n8y8w1~x2/"><circle cx="195.0" cy="233.0" r="4" fill="#3465a4"><title>Pople (Name)</title></circle></a><a href="/variants/s6/y1do10k8dr8do1ly1~x4/"><circle cx="219.2" cy="204.5" r="4" fill="#3465a4"><title>Unidentified #66</title></circle></a><a href="/variants/s9/k23y2dr3db7dr3y2dg15dr21y5~x2/"><circle cx="171.3" cy="173.2" r="4" fill="#3465a4"><title>Land's End (Unnamed Maroon)</title></circle></a><a href="/variants/s10/do6o4n22dr4k22do22k2dr5k2do6~x2~o2500000-n1900000/"><circle cx="185.0" cy="173.0" r="4" fill="#3465a4"><title>Lochaber (Ingles Buchan)</title></circle></a><a href="/variants/s8/dg30ly3k20dr2k3b4dr24k3~x2/"><circle cx="194.0" cy="159.6" r="4" fill="#3465a4"><title>Waterford</title></circle></a><a href="/variants/s5/r1n12k7do10r1~x4/"><circle cx="194.0" cy="177.1" r="4" fill="#3465a4"><title>Andover</title></circle></a><circle cx="188.4" cy="186.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k2y1dg12y12dr12k1r2~x4/

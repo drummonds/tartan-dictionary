@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lord Laird"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4w26k10lo8k3lo8k10r26w4/)
 (the same proportion at any scale), whose colour order is pattern [KWKYKYKRW](/stripes/kwkykykrw/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2216
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2216](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2216)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w2k2r14g15k8w7r14k2w2/"><circle cx="136.3" cy="185.2" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s10/w16k16ri40w3r6w3r40k16w16g4~ri2406019-r2109032/"><circle cx="87.3" cy="140.3" r="4" fill="#3465a4"><title>Nisbett Rose Dress Family Tartan</title></circle></a><a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2~x2/"><circle cx="145.2" cy="187.7" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2/"><circle cx="145.2" cy="187.7" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s7/k11dr11w11dr11r30k3w3~x2/"><circle cx="138.0" cy="182.7" r="4" fill="#3465a4"><title>Swallow (Personal)</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="105.6" cy="195.8" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2/"><circle cx="105.1" cy="196.3" r="4" fill="#3465a4"><title>Aberlour (Corporate)</title></circle></a><a href="/variants/s11/r16k6r14g22k16db16w10r6w45k4r4/"><circle cx="79.4" cy="148.0" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/variants/s12/r3lb19k4r3k3r7k3r5k3r5k2w2~x2/"><circle cx="148.1" cy="147.6" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><a href="/variants/s8/k4o8m30k8o6k8o12w3~x2/"><circle cx="165.1" cy="170.9" r="4" fill="#3465a4"><title>Believe - Corinna</title></circle></a><circle cx="89.4" cy="178.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w2k2r14g15k8w7r14k2w2/"><circle cx="136.4" cy="185.9" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s10/w16k16ri40w3r6w3r40k16w16g4~ri2406019-r2109032/"><circle cx="87.3" cy="140.7" r="4" fill="#3465a4"><title>Nisbett Rose Dress Family Tartan</title></circle></a><a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2~x2/"><circle cx="145.2" cy="188.3" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2/"><circle cx="145.2" cy="188.3" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s7/k11dr11w11dr11r30k3w3~x2/"><circle cx="138.0" cy="183.3" r="4" fill="#3465a4"><title>Swallow (Personal)</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="105.6" cy="196.5" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2/"><circle cx="105.1" cy="197.0" r="4" fill="#3465a4"><title>Aberlour (Corporate)</title></circle></a><a href="/variants/s11/r16k6r14g22k16db16w10r6w45k4r4/"><circle cx="79.4" cy="148.4" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/variants/s12/r3lb19k4r3k3r7k3r5k3r5k2w2~x2/"><circle cx="148.1" cy="148.1" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><a href="/variants/s8/k4o8m30k8o6k8o12w3~x2/"><circle cx="165.2" cy="171.4" r="4" fill="#3465a4"><title>Believe - Corinna</title></circle></a><circle cx="89.4" cy="178.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k4w26k10lo8k3lo8k10r26w4~x2/

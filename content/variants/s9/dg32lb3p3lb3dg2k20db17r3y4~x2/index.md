@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Colorado"
   url: "/tartans/colorado/"
+- name: "Colorado American District Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg32lb3p3lb3dg2k20db17r3y4/)
 (the same proportion at any scale), whose colour order is pattern [GRBKGWBWG](/stripes/grbkgwbwg/).
@@ -14,7 +16,7 @@ Part of the [Colorado](/tartans/colorado/) tartan — the named design grouping 
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4554
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4554](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4554)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg32lb3lp3lb3dg2k20db17r3y4~x2/"><circle cx="136.0" cy="110.7" r="4" fill="#3465a4"><title>Colorado (District)</title></circle></a><a href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/"><circle cx="91.5" cy="119.8" r="4" fill="#3465a4"><title>Aurora House Check</title></circle></a><a href="/variants/s11/dp27y2dp2k12g6o2g12k12db12r2db2~x2/"><circle cx="94.3" cy="119.5" r="4" fill="#3465a4"><title>Boxell, Baron (Personal)</title></circle></a><a href="/variants/s11/dp27y2dp2k12g6o2g12k12db12r2db2~x2~dp1105325/"><circle cx="94.5" cy="119.4" r="4" fill="#3465a4"><title>Boxell of West Niddry, Baron (Personal)</title></circle></a><a href="/variants/s8/k3dbi3g15db15dp5r3y2dp1~x2~dbi1604274-db0805267-dp1607335-r2807041/"><circle cx="102.5" cy="131.3" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/variants/s7/r3g2db27k19g27dp2y3~x2/"><circle cx="134.7" cy="148.9" r="4" fill="#3465a4"><title>Christian Hunting (Personal)</title></circle></a><a href="/variants/s9/dr3ti16k12g2k2dg32t2dg2lr3~x2~ti2503227-t2405244/"><circle cx="178.2" cy="101.8" r="4" fill="#3465a4"><title>Scottish Ambulance Service (Corporat</title></circle></a><a href="/variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/"><circle cx="159.3" cy="125.0" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/variants/s12/b2db18y4k5y1k1w1k2g8k1r3w1~x4/"><circle cx="114.3" cy="79.4" r="4" fill="#3465a4"><title>Bethune</title></circle></a><a href="/variants/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/"><circle cx="167.5" cy="115.7" r="4" fill="#3465a4"><title>Wcwm 1290</title></circle></a><circle cx="141.6" cy="112.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg32lb3lp3lb3dg2k20db17r3y4~x2/"><circle cx="135.9" cy="110.8" r="4" fill="#3465a4"><title>Colorado (District)</title></circle></a><a href="/variants/s11/db40lb3db11k7g22k7db3w3n10k32y13~x2/"><circle cx="91.4" cy="120.0" r="4" fill="#3465a4"><title>Aurora House Check</title></circle></a><a href="/variants/s11/dp27y2dp2k12g6o2g12k12db12r2db2~x2/"><circle cx="94.2" cy="119.7" r="4" fill="#3465a4"><title>Boxell, Baron (Personal)</title></circle></a><a href="/variants/s11/dp27y2dp2k12g6o2g12k12db12r2db2~x2~dp1105325/"><circle cx="94.4" cy="119.5" r="4" fill="#3465a4"><title>Boxell of West Niddry, Baron (Personal)</title></circle></a><a href="/variants/s8/k3dbi3g15db15dp5r3y2dp1~x2~dbi1604274-db0805267-dp1607335-r2807041/"><circle cx="102.4" cy="131.5" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/variants/s7/r3g2db27k19g27dp2y3~x2/"><circle cx="134.7" cy="149.2" r="4" fill="#3465a4"><title>Christian Hunting (Personal)</title></circle></a><a href="/variants/s9/dr3ti16k12g2k2dg32t2dg2lr3~x2~ti2503227-t2405244/"><circle cx="178.1" cy="101.9" r="4" fill="#3465a4"><title>Scottish Ambulance Service (Corporat</title></circle></a><a href="/variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/"><circle cx="159.2" cy="125.2" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/variants/s12/b2db18y4k5y1k1w1k2g8k1r3w1~x4/"><circle cx="114.2" cy="79.5" r="4" fill="#3465a4"><title>Bethune</title></circle></a><a href="/variants/s11/dg28lb2dg3lo4dg3lb2dg3k14lg2db28lb3~x2/"><circle cx="167.4" cy="115.8" r="4" fill="#3465a4"><title>Wcwm 1290</title></circle></a><circle cx="141.5" cy="112.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dg32lb3p3lb3dg2k20db17r3y4~x2/

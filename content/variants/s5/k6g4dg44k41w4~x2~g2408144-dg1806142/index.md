@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Raeside"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k6g4dg44k41w4/)
 (the same proportion at any scale), whose colour order is pattern [KGGKW](/stripes/kggkw/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3437
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3437](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3437)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k6db4g44k41w4~x2/"><circle cx="233.3" cy="187.4" r="4" fill="#3465a4"><title>Douglas (alternative threadcount)</title></circle></a><a href="/variants/s5/k6db4dg44k41w4~x2/"><circle cx="272.7" cy="195.3" r="4" fill="#3465a4"><title>Douglas (Clan)</title></circle></a><a href="/variants/s5/k8t5g44k40r6/"><circle cx="211.0" cy="199.6" r="4" fill="#3465a4"><title>Douglas, Black</title></circle></a><a href="/variants/s4/k4g33k33y4~x2/"><circle cx="256.2" cy="232.6" r="4" fill="#3465a4"><title>Wallace, hunting</title></circle></a><a href="/variants/s4/k1g8k8y1/"><circle cx="254.5" cy="234.3" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><a href="/variants/s4/k1g8k8ly1~x4/"><circle cx="250.0" cy="233.2" r="4" fill="#3465a4"><title>Wallace Htg (Clan)</title></circle></a><a href="/variants/s5/k3w3k3dg10r1~x6/"><circle cx="204.8" cy="197.9" r="4" fill="#3465a4"><title>Burberry Hunting</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="227.8" cy="199.3" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/variants/s5/k12db3g23k23r3~x2/"><circle cx="232.2" cy="215.8" r="4" fill="#3465a4"><title>Douglas, (Black)</title></circle></a><a href="/variants/s4/k6lb1g7k1~x2/"><circle cx="223.4" cy="239.2" r="4" fill="#3465a4"><title>Innes (Miniature)</title></circle></a><circle cx="241.8" cy="188.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k6db4g44k41w4~x2/"><circle cx="233.3" cy="187.9" r="4" fill="#3465a4"><title>Douglas (alternative threadcount)</title></circle></a><a href="/variants/s5/k6db4dg44k41w4~x2/"><circle cx="272.7" cy="195.8" r="4" fill="#3465a4"><title>Douglas (Clan)</title></circle></a><a href="/variants/s5/k8t5g44k40r6/"><circle cx="211.1" cy="200.2" r="4" fill="#3465a4"><title>Douglas, Black</title></circle></a><a href="/variants/s4/k4g33k33y4~x2/"><circle cx="256.3" cy="233.3" r="4" fill="#3465a4"><title>Wallace, hunting</title></circle></a><a href="/variants/s4/k1g8k8y1/"><circle cx="254.5" cy="235.0" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><a href="/variants/s4/k1g8k8ly1~x4/"><circle cx="250.1" cy="233.9" r="4" fill="#3465a4"><title>Wallace Htg (Clan)</title></circle></a><a href="/variants/s5/k3w3k3dg10r1~x6/"><circle cx="204.9" cy="198.5" r="4" fill="#3465a4"><title>Burberry Hunting</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="227.8" cy="199.8" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/variants/s5/k12db3g23k23r3~x2/"><circle cx="232.3" cy="216.4" r="4" fill="#3465a4"><title>Douglas, (Black)</title></circle></a><a href="/variants/s4/k6lb1g7k1~x2/"><circle cx="223.5" cy="239.9" r="4" fill="#3465a4"><title>Innes (Miniature)</title></circle></a><circle cx="241.8" cy="189.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k6g4dg44k41w4~x2~g2408144-dg1806142/

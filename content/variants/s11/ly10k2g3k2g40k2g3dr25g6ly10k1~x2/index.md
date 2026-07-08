@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacMillan Anc (Clans Originaux)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly10k2g3k2g40k2g3dr25g6ly10k1/)
 (the same proportion at any scale), whose colour order is pattern [KYGBGKGKGKY](/stripes/kygbgkgkgky/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2656
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2656](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2656)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/"><circle cx="252.3" cy="135.2" r="4" fill="#3465a4"><title>MacMillan Ancient</title></circle></a><a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1/"><circle cx="252.3" cy="135.2" r="4" fill="#3465a4"><title>MacMillan Ancient</title></circle></a><a href="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/"><circle cx="235.7" cy="130.2" r="4" fill="#3465a4"><title>MacMillan - 1847 (Clan)</title></circle></a><a href="/variants/s11/k3w1g29n8r2n2r2n2r8g7k2~x2/"><circle cx="290.0" cy="94.8" r="4" fill="#3465a4"><title>Gray, hunting</title></circle></a><a href="/variants/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/"><circle cx="229.1" cy="71.3" r="4" fill="#3465a4"><title>Lomond (1983)</title></circle></a><a href="/variants/s11/k3w1g29n8m2n2m2n2m8g7k2~x2/"><circle cx="284.9" cy="92.7" r="4" fill="#3465a4"><title>Gray Htg (Name)</title></circle></a><a href="/variants/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/"><circle cx="242.3" cy="107.6" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #2</title></circle></a><a href="/variants/s7/g3r16w4k6g28r1g3~x2/"><circle cx="296.2" cy="133.6" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/variants/s7/g3lo16w4k6g28lo1g3~x4/"><circle cx="293.9" cy="138.4" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/"><circle cx="253.7" cy="114.9" r="4" fill="#3465a4"><title>Kiernan</title></circle></a><circle cx="277.3" cy="97.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1~x2/"><circle cx="252.3" cy="135.5" r="4" fill="#3465a4"><title>MacMillan Ancient</title></circle></a><a href="/variants/s12/g2k1g18k1g2k1r12g4y6k1y6k1/"><circle cx="252.3" cy="135.5" r="4" fill="#3465a4"><title>MacMillan Ancient</title></circle></a><a href="/variants/s12/g7k3g53k3g8k3dr24g8ly18k3ly18k3~x2/"><circle cx="235.7" cy="130.5" r="4" fill="#3465a4"><title>MacMillan - 1847 (Clan)</title></circle></a><a href="/variants/s11/k3w1g29n8r2n2r2n2r8g7k2~x2/"><circle cx="289.9" cy="94.9" r="4" fill="#3465a4"><title>Gray, hunting</title></circle></a><a href="/variants/s13/y30k2g2k2g2lb3k1lb2k1lb1g12lo2k6~x4/"><circle cx="229.0" cy="71.4" r="4" fill="#3465a4"><title>Lomond (1983)</title></circle></a><a href="/variants/s11/k3w1g29n8m2n2m2n2m8g7k2~x2/"><circle cx="284.8" cy="92.8" r="4" fill="#3465a4"><title>Gray Htg (Name)</title></circle></a><a href="/variants/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/"><circle cx="242.2" cy="107.9" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #2</title></circle></a><a href="/variants/s7/g3r16w4k6g28r1g3~x2/"><circle cx="296.2" cy="134.0" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/variants/s7/g3lo16w4k6g28lo1g3~x4/"><circle cx="293.9" cy="138.8" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/"><circle cx="253.6" cy="115.3" r="4" fill="#3465a4"><title>Kiernan</title></circle></a><circle cx="277.2" cy="97.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/ly10k2g3k2g40k2g3dr25g6ly10k1~x2/

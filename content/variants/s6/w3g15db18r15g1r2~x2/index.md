@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Nibley"
   url: "/tartans/nibley/"
+- name: "Nibley"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3g15db18r15g1r2/)
 (the same proportion at any scale), whose colour order is pattern [RGRBGW](/stripes/rgrbgw/).
@@ -14,7 +16,7 @@ Part of the [Nibley](/tartans/nibley/) tartan — the named design grouping this
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w3dg18db22r19dg1r2~x2/"><circle cx="224.3" cy="183.7" r="4" fill="#3465a4"><title>Nibley (Personal)</title></circle></a><a href="/variants/s6/w3g15db18r30g1r2~x2/"><circle cx="284.1" cy="158.6" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/variants/s6/w6g15db18r30g2r4~x2/"><circle cx="238.1" cy="194.5" r="4" fill="#3465a4"><title>Ruthven (V.S.)</title></circle></a><a href="/variants/s7/ri4db36r35g2r2g8w4~x2~ri2607041-r2109032/"><circle cx="242.3" cy="145.5" r="4" fill="#3465a4"><title>Cherry, John S. (Personal)</title></circle></a><a href="/variants/s7/lo1db14r28g14r1g14lo1~x2/"><circle cx="268.6" cy="165.5" r="4" fill="#3465a4"><title>Abernethy (Colerain USA) (Personal)</title></circle></a><a href="/variants/s6/w3g15db18r30db1r2~x2/"><circle cx="287.6" cy="160.5" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/variants/s6/r10dbi6g24db24r6y3~dbi1406275-db1004274/"><circle cx="163.1" cy="226.3" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><a href="/variants/s7/r12t18k1r4k1g6k2~x2/"><circle cx="224.0" cy="159.8" r="4" fill="#3465a4"><title>Confederate</title></circle></a><a href="/variants/s6/r12dbi3g5db16y2g2~x2~dbi1604274-db0805267/"><circle cx="180.8" cy="205.7" r="4" fill="#3465a4"><title>Dunbog, Primary School</title></circle></a><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/"><circle cx="236.3" cy="196.4" r="4" fill="#3465a4"><title>Canine All Dogs</title></circle></a><circle cx="200.1" cy="193.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w3dg18db22r19dg1r2~x2/"><circle cx="224.3" cy="184.1" r="4" fill="#3465a4"><title>Nibley (Personal)</title></circle></a><a href="/variants/s6/w3g15db18r30g1r2~x2/"><circle cx="284.2" cy="159.0" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/variants/s6/w6g15db18r30g2r4~x2/"><circle cx="238.2" cy="195.1" r="4" fill="#3465a4"><title>Ruthven (V.S.)</title></circle></a><a href="/variants/s7/ri4db36r35g2r2g8w4~x2~ri2607041-r2109032/"><circle cx="242.3" cy="145.8" r="4" fill="#3465a4"><title>Cherry, John S. (Personal)</title></circle></a><a href="/variants/s7/lo1db14r28g14r1g14lo1~x2/"><circle cx="268.6" cy="165.9" r="4" fill="#3465a4"><title>Abernethy (Colerain USA) (Personal)</title></circle></a><a href="/variants/s6/w3g15db18r30db1r2~x2/"><circle cx="287.6" cy="160.8" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/variants/s6/r10dbi6g24db24r6y3~dbi1406275-db1004274/"><circle cx="163.2" cy="226.8" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><a href="/variants/s7/r12t18k1r4k1g6k2~x2/"><circle cx="224.0" cy="160.2" r="4" fill="#3465a4"><title>Confederate</title></circle></a><a href="/variants/s6/r12dbi3g5db16y2g2~x2~dbi1604274-db0805267/"><circle cx="180.8" cy="206.2" r="4" fill="#3465a4"><title>Dunbog, Primary School</title></circle></a><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/"><circle cx="236.4" cy="196.8" r="4" fill="#3465a4"><title>Canine All Dogs</title></circle></a><circle cx="200.1" cy="194.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w3g15db18r15g1r2~x2/

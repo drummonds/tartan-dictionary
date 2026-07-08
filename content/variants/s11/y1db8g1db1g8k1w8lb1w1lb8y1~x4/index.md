@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Robinson, Barbara Ann (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y1db8g1db1g8k1w8lb1w1lb8y1/)
 (the same proportion at any scale), whose colour order is pattern [GBGBGKWWWWG](/stripes/gbgbgkwwwwg/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3539
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3539](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3539)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y4db22g3k3g3k3g12w22k2r3~x2/"><circle cx="59.1" cy="129.9" r="4" fill="#3465a4"><title>Californian MacLeod</title></circle></a><a href="/variants/s10/y4t25g3k3g3k3g13w24k2r3~x2/"><circle cx="83.1" cy="128.3" r="4" fill="#3465a4"><title>MacLeod Special Dress (Dance)</title></circle></a><a href="/variants/s10/y4db25g3k3g3k3g13w24k2r3~x2/"><circle cx="72.8" cy="121.5" r="4" fill="#3465a4"><title>MacLeod, Californian</title></circle></a><a href="/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/"><circle cx="47.3" cy="153.4" r="4" fill="#3465a4"><title>Kagame (Personal)</title></circle></a><a href="/variants/s13/w4dy4k3dy9g13k3w3k3w3k9y4lb20w3~x2/"><circle cx="14.0" cy="154.2" r="4" fill="#3465a4"><title>Clodagh/Cork</title></circle></a><a href="/variants/s15/w6g6w6g12lb8g14ly24k4lb4k4dp44w12g20k4lb5/"><circle cx="55.0" cy="125.1" r="4" fill="#3465a4"><title>Wexford County Crest (Fashion)</title></circle></a><a href="/variants/s10/r3k1lb10k1g2k1db8g12k1y3~x2/"><circle cx="89.2" cy="135.5" r="4" fill="#3465a4"><title>Sullivan (Estimated threadcount)</title></circle></a><a href="/variants/s9/g5db22g6k10w24y2db2w2r2~x2/"><circle cx="93.1" cy="130.0" r="4" fill="#3465a4"><title>Haymarket, dress Blue</title></circle></a><a href="/variants/s11/lb4r4lb12w12k4g4db8r1w1db1y1~x2/"><circle cx="44.4" cy="123.2" r="4" fill="#3465a4"><title>Arisaig NS Canada</title></circle></a><a href="/variants/s12/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2~x2~lyi3202083-ly2804101/"><circle cx="27.1" cy="166.1" r="4" fill="#3465a4"><title>Merise and Lars (Personal)</title></circle></a><circle cx="39.5" cy="151.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y4db22g3k3g3k3g12w22k2r3~x2/"><circle cx="59.1" cy="130.2" r="4" fill="#3465a4"><title>Californian MacLeod</title></circle></a><a href="/variants/s10/y4t25g3k3g3k3g13w24k2r3~x2/"><circle cx="83.0" cy="128.7" r="4" fill="#3465a4"><title>MacLeod Special Dress (Dance)</title></circle></a><a href="/variants/s10/y4db25g3k3g3k3g13w24k2r3~x2/"><circle cx="72.7" cy="121.8" r="4" fill="#3465a4"><title>MacLeod, Californian</title></circle></a><a href="/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/"><circle cx="47.3" cy="153.8" r="4" fill="#3465a4"><title>Kagame (Personal)</title></circle></a><a href="/variants/s13/w4dy4k3dy9g13k3w3k3w3k9y4lb20w3~x2/"><circle cx="14.0" cy="154.7" r="4" fill="#3465a4"><title>Clodagh/Cork</title></circle></a><a href="/variants/s15/w6g6w6g12lb8g14ly24k4lb4k4dp44w12g20k4lb5/"><circle cx="55.0" cy="125.4" r="4" fill="#3465a4"><title>Wexford County Crest (Fashion)</title></circle></a><a href="/variants/s10/r3k1lb10k1g2k1db8g12k1y3~x2/"><circle cx="89.2" cy="135.8" r="4" fill="#3465a4"><title>Sullivan (Estimated threadcount)</title></circle></a><a href="/variants/s9/g5db22g6k10w24y2db2w2r2~x2/"><circle cx="93.1" cy="130.3" r="4" fill="#3465a4"><title>Haymarket, dress Blue</title></circle></a><a href="/variants/s11/lb4r4lb12w12k4g4db8r1w1db1y1~x2/"><circle cx="44.4" cy="123.5" r="4" fill="#3465a4"><title>Arisaig NS Canada</title></circle></a><a href="/variants/s12/lyi3ly3lyi12k2ly2lo2ly8k2db12dp8k2dp2~x2~lyi3202083-ly2804101/"><circle cx="27.1" cy="166.5" r="4" fill="#3465a4"><title>Merise and Lars (Personal)</title></circle></a><circle cx="39.5" cy="151.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/y1db8g1db1g8k1w8lb1w1lb8y1~x4/

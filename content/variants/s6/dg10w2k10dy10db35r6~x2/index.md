@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Hatfield & Mize"
   url: "/tartans/hatfield-mize/"
+- name: "Hatfield & Mize (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg10w2k10dy10db35r6/)
 (the same proportion at any scale), whose colour order is pattern [GWKGBR](/stripes/gwkgbr/).
@@ -14,7 +16,7 @@ Part of the [Hatfield & Mize](/tartans/hatfield-mize/) tartan — the named desi
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10956
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10956](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10956)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="230.0" cy="140.1" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/k33y4w3db33r2g2~x2/"><circle cx="209.7" cy="127.3" r="4" fill="#3465a4"><title>Atlantic Police Academy (Corporate)</title></circle></a><a href="/variants/s6/r2db38k20w1dg20r2/"><circle cx="281.0" cy="135.6" r="4" fill="#3465a4"><title>Waterfront</title></circle></a><a href="/variants/s5/db19k8lb1g10o3~x2/"><circle cx="211.9" cy="176.5" r="4" fill="#3465a4"><title>Unidentified #50</title></circle></a><a href="/variants/s6/dr3db38k13w3n20dy2~x2/"><circle cx="233.5" cy="142.1" r="4" fill="#3465a4"><title>LLoyd of Astargus Canadian Family Tartan</title></circle></a><a href="/variants/s5/k7lb3dy30db30w3~x2/"><circle cx="227.5" cy="202.6" r="4" fill="#3465a4"><title>Douglas, (Brown)</title></circle></a><a href="/variants/s6/k26n10dt19dr6dy2db9~x2~dt1502222-db1704245/"><circle cx="150.9" cy="189.9" r="4" fill="#3465a4"><title>Meeson Hunting</title></circle></a><a href="/variants/s5/r3db22k11dg32ly3~x2/"><circle cx="229.2" cy="205.0" r="4" fill="#3465a4"><title>Cultoquhey Hotel Corporate Tartan</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="232.5" cy="155.2" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s7/y4g22r3k17r3db37w3~x2/"><circle cx="143.5" cy="142.6" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><circle cx="220.8" cy="154.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="229.9" cy="140.3" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s6/k33y4w3db33r2g2~x2/"><circle cx="209.6" cy="127.5" r="4" fill="#3465a4"><title>Atlantic Police Academy (Corporate)</title></circle></a><a href="/variants/s6/r2db38k20w1dg20r2/"><circle cx="280.9" cy="135.7" r="4" fill="#3465a4"><title>Waterfront</title></circle></a><a href="/variants/s5/db19k8lb1g10o3~x2/"><circle cx="211.9" cy="176.9" r="4" fill="#3465a4"><title>Unidentified #50</title></circle></a><a href="/variants/s6/dr3db38k13w3n20dy2~x2/"><circle cx="233.5" cy="142.2" r="4" fill="#3465a4"><title>LLoyd of Astargus Canadian Family Tartan</title></circle></a><a href="/variants/s5/k7lb3dy30db30w3~x2/"><circle cx="227.5" cy="203.0" r="4" fill="#3465a4"><title>Douglas, (Brown)</title></circle></a><a href="/variants/s6/k26n10dt19dr6dy2db9~x2~dt1502222-db1704245/"><circle cx="150.9" cy="190.2" r="4" fill="#3465a4"><title>Meeson Hunting</title></circle></a><a href="/variants/s5/r3db22k11dg32ly3~x2/"><circle cx="229.2" cy="205.3" r="4" fill="#3465a4"><title>Cultoquhey Hotel Corporate Tartan</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="232.5" cy="155.5" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s7/y4g22r3k17r3db37w3~x2/"><circle cx="143.4" cy="142.9" r="4" fill="#3465a4"><title>Souza Nery</title></circle></a><circle cx="220.7" cy="154.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dg10w2k10dy10db35r6~x2/

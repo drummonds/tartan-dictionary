@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Spirit (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp15dt5dp15dt21w2/)
 (the same proportion at any scale), whose colour order is pattern [BBBBW](/stripes/bbbbw/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5739
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5739](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5739)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dp23dg8dp23dg35w5~x2/"><circle cx="350.3" cy="298.6" r="4" fill="#3465a4"><title>Baru</title></circle></a><a href="/variants/s4/dg4dp4dg1dp1~x4/"><circle cx="499.2" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.211</title></circle></a><a href="/variants/s4/dg4dp4dg1dp1~x4~dp1105325/"><circle cx="496.9" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.116</title></circle></a><a href="/variants/s5/db23dp2g11dp24lb3~x2/"><circle cx="301.0" cy="251.6" r="4" fill="#3465a4"><title>Scottish Open Squash (Corporate)</title></circle></a><a href="/variants/s5/g5dp2db5dp10dy2~x2/"><circle cx="307.5" cy="299.2" r="4" fill="#3465a4"><title>Bryson (2000)</title></circle></a><a href="/variants/s6/dp6y1dp20db6g19dp2~x4/"><circle cx="358.2" cy="208.8" r="4" fill="#3465a4"><title>Discover Islay (District)</title></circle></a><a href="/variants/s5/db13n6dr51db51n5~x2/"><circle cx="481.3" cy="298.4" r="4" fill="#3465a4"><title>Hillsdale (Corporate?)</title></circle></a><a href="/variants/s8/dt21dp15dt5dp15dt5dp15dt21w2~x2~dp1607327/"><circle cx="422.2" cy="288.1" r="4" fill="#3465a4"><title>Highland Spirit</title></circle></a><a href="/variants/s5/dp9db6w1dg4dp2~x4/"><circle cx="346.4" cy="277.5" r="4" fill="#3465a4"><title>Cathro</title></circle></a><a href="/variants/s3/dr10db10lo1~x4/"><circle cx="493.3" cy="327.9" r="4" fill="#3465a4"><title>Mother's Pride</title></circle></a><circle cx="452.0" cy="312.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dp23dg8dp23dg35w5~x2/"><circle cx="350.5" cy="299.2" r="4" fill="#3465a4"><title>Baru</title></circle></a><a href="/variants/s4/dg4dp4dg1dp1~x4/"><circle cx="499.5" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.211</title></circle></a><a href="/variants/s4/dg4dp4dg1dp1~x4~dp1105325/"><circle cx="497.2" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.116</title></circle></a><a href="/variants/s5/db23dp2g11dp24lb3~x2/"><circle cx="301.1" cy="252.0" r="4" fill="#3465a4"><title>Scottish Open Squash (Corporate)</title></circle></a><a href="/variants/s5/g5dp2db5dp10dy2~x2/"><circle cx="307.7" cy="299.7" r="4" fill="#3465a4"><title>Bryson (2000)</title></circle></a><a href="/variants/s6/dp6y1dp20db6g19dp2~x4/"><circle cx="358.3" cy="209.2" r="4" fill="#3465a4"><title>Discover Islay (District)</title></circle></a><a href="/variants/s5/db13n6dr51db51n5~x2/"><circle cx="481.5" cy="298.8" r="4" fill="#3465a4"><title>Hillsdale (Corporate?)</title></circle></a><a href="/variants/s8/dt21dp15dt5dp15dt5dp15dt21w2~x2~dp1607327/"><circle cx="422.4" cy="288.6" r="4" fill="#3465a4"><title>Highland Spirit</title></circle></a><a href="/variants/s5/dp9db6w1dg4dp2~x4/"><circle cx="346.5" cy="277.9" r="4" fill="#3465a4"><title>Cathro</title></circle></a><a href="/variants/s3/dr10db10lo1~x4/"><circle cx="493.5" cy="328.5" r="4" fill="#3465a4"><title>Mother's Pride</title></circle></a><circle cx="452.2" cy="312.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dp15dt5dp15dt21w2~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Elgin"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do4o1do5w4k1w1lr1/)
 (the same proportion at any scale), whose colour order is pattern [BRBWKWY](/stripes/brbwkwy/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1096
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1096](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1096)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x4~wi3600000-w3502055/"><circle cx="101.3" cy="215.8" r="4" fill="#3465a4"><title>Desang (Corporate)</title></circle></a><a href="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x2~wi3600000-w3502055/"><circle cx="101.3" cy="215.8" r="4" fill="#3465a4"><title>Desang</title></circle></a><a href="/variants/s6/r4o30k6w13k13w3~x2/"><circle cx="166.1" cy="183.7" r="4" fill="#3465a4"><title>Thom(p)son camel</title></circle></a><a href="/variants/s5/n11k4dr4lo4n11~x4/"><circle cx="143.8" cy="261.5" r="4" fill="#3465a4"><title>Ikelman #3 (Personal)</title></circle></a><a href="/variants/s10/dt6ly2r6lb3k2ly6dt10r2dt3r2~x4/"><circle cx="133.4" cy="210.2" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s7/lb12lo75k22w12k22w16lb8/"><circle cx="177.7" cy="180.2" r="4" fill="#3465a4"><title>Orange Fanaticos</title></circle></a><a href="/variants/s8/dg14r5dg14w5k2r5k2w9~x4/"><circle cx="166.7" cy="203.6" r="4" fill="#3465a4"><title>Unnamed (Hip Flask)</title></circle></a><a href="/variants/s8/lb12k3w3k3lb13t6k17r3~x2~lb3200000-t2503227/"><circle cx="113.7" cy="192.7" r="4" fill="#3465a4"><title>Mitsukoshi (Corporate)</title></circle></a><a href="/variants/s9/db18n5db18ly14k3w3k3ly14n3~x2/"><circle cx="141.8" cy="196.5" r="4" fill="#3465a4"><title>Strakan</title></circle></a><a href="/variants/s12/dr9w4dr6b4ly2k2w2dr5b3ly2k2w2~x2/"><circle cx="109.2" cy="203.5" r="4" fill="#3465a4"><title>Westgaard Captain (Personal)</title></circle></a><circle cx="181.2" cy="210.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x4~wi3600000-w3502055/"><circle cx="101.4" cy="216.5" r="4" fill="#3465a4"><title>Desang (Corporate)</title></circle></a><a href="/variants/s8/dr4wi2w8dg2w8k3wi2db4~x2~wi3600000-w3502055/"><circle cx="101.4" cy="216.5" r="4" fill="#3465a4"><title>Desang</title></circle></a><a href="/variants/s6/r4o30k6w13k13w3~x2/"><circle cx="166.2" cy="184.3" r="4" fill="#3465a4"><title>Thom(p)son camel</title></circle></a><a href="/variants/s5/n11k4dr4lo4n11~x4/"><circle cx="143.9" cy="262.3" r="4" fill="#3465a4"><title>Ikelman #3 (Personal)</title></circle></a><a href="/variants/s10/dt6ly2r6lb3k2ly6dt10r2dt3r2~x4/"><circle cx="133.5" cy="210.8" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s7/lb12lo75k22w12k22w16lb8/"><circle cx="177.8" cy="180.8" r="4" fill="#3465a4"><title>Orange Fanaticos</title></circle></a><a href="/variants/s8/dg14r5dg14w5k2r5k2w9~x4/"><circle cx="166.8" cy="204.2" r="4" fill="#3465a4"><title>Unnamed (Hip Flask)</title></circle></a><a href="/variants/s8/lb12k3w3k3lb13t6k17r3~x2~lb3200000-t2503227/"><circle cx="113.8" cy="193.3" r="4" fill="#3465a4"><title>Mitsukoshi (Corporate)</title></circle></a><a href="/variants/s9/db18n5db18ly14k3w3k3ly14n3~x2/"><circle cx="141.9" cy="197.1" r="4" fill="#3465a4"><title>Strakan</title></circle></a><a href="/variants/s12/dr9w4dr6b4ly2k2w2dr5b3ly2k2w2~x2/"><circle cx="109.3" cy="204.1" r="4" fill="#3465a4"><title>Westgaard Captain (Personal)</title></circle></a><circle cx="181.3" cy="211.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/do4o1do5w4k1w1lr1~x4/

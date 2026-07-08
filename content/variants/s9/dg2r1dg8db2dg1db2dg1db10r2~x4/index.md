@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Barnaby Brown Pibroch"
   url: "/tartans/barnaby-brown-pibroch/"
+- name: "Barnaby Brown Pibroch"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2r1dg8db2dg1db2dg1db10r2/)
 (the same proportion at any scale), whose colour order is pattern [GRGBGBGBR](/stripes/grgbgbgbr/).
@@ -14,7 +16,7 @@ Part of the [Barnaby Brown Pibroch](/tartans/barnaby-brown-pibroch/) tartan — 
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r2db10g1db2g1db2g8r1g2~x4/"><circle cx="300.2" cy="205.4" r="4" fill="#3465a4"><title>Brown, Barnaby (Personal)</title></circle></a><a href="/variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/"><circle cx="399.6" cy="177.2" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><a href="/variants/s9/dg24b3dg3b3dg3b9r24dg3r4~x2~dg1304144-r1506009/"><circle cx="323.1" cy="225.6" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s10/dg7r4dg14db10dg5db10w2db10dg5db5~x2/"><circle cx="284.4" cy="264.3" r="4" fill="#3465a4"><title>Edmonstone of Duntreath</title></circle></a><a href="/variants/s7/db51dg5r15dg37db17r6dg5~x2/"><circle cx="346.8" cy="235.5" r="4" fill="#3465a4"><title>Cadence</title></circle></a><a href="/variants/s6/db37r10dg22db11dg3r3~x2/"><circle cx="381.6" cy="234.6" r="4" fill="#3465a4"><title>Perthshire, New /Tourist Board</title></circle></a><a href="/variants/s9/db22g3db3g3db3g9n28g3n6~x2/"><circle cx="347.8" cy="244.8" r="4" fill="#3465a4"><title>Manx Centenary</title></circle></a><a href="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/"><circle cx="345.7" cy="248.2" r="4" fill="#3465a4"><title>Cameron of Locheil Htg (1952) (Clan)</title></circle></a><a href="/variants/s6/db18y2dy6y2dy19r3~x2/"><circle cx="361.4" cy="237.4" r="4" fill="#3465a4"><title>Balfour #2</title></circle></a><a href="/variants/s6/db18y2dy6y2dy19r3~x4/"><circle cx="361.4" cy="237.4" r="4" fill="#3465a4"><title>Balfour (Clan)</title></circle></a><circle cx="370.7" cy="225.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r2db10g1db2g1db2g8r1g2~x4/"><circle cx="300.2" cy="205.9" r="4" fill="#3465a4"><title>Brown, Barnaby (Personal)</title></circle></a><a href="/variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/"><circle cx="399.6" cy="177.4" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><a href="/variants/s9/dg24b3dg3b3dg3b9r24dg3r4~x2~dg1304144-r1506009/"><circle cx="323.2" cy="225.9" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s10/dg7r4dg14db10dg5db10w2db10dg5db5~x2/"><circle cx="284.5" cy="264.8" r="4" fill="#3465a4"><title>Edmonstone of Duntreath</title></circle></a><a href="/variants/s7/db51dg5r15dg37db17r6dg5~x2/"><circle cx="346.9" cy="235.9" r="4" fill="#3465a4"><title>Cadence</title></circle></a><a href="/variants/s6/db37r10dg22db11dg3r3~x2/"><circle cx="381.7" cy="235.0" r="4" fill="#3465a4"><title>Perthshire, New /Tourist Board</title></circle></a><a href="/variants/s9/db22g3db3g3db3g9n28g3n6~x2/"><circle cx="347.9" cy="245.1" r="4" fill="#3465a4"><title>Manx Centenary</title></circle></a><a href="/variants/s7/r3dg10r3dg14db16dg3dy2~x2/"><circle cx="345.8" cy="248.5" r="4" fill="#3465a4"><title>Cameron of Locheil Htg (1952) (Clan)</title></circle></a><a href="/variants/s6/db18y2dy6y2dy19r3~x2/"><circle cx="361.5" cy="237.7" r="4" fill="#3465a4"><title>Balfour #2</title></circle></a><a href="/variants/s6/db18y2dy6y2dy19r3~x4/"><circle cx="361.5" cy="237.7" r="4" fill="#3465a4"><title>Balfour (Clan)</title></circle></a><circle cx="370.8" cy="225.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dg2r1dg8db2dg1db2dg1db10r2~x4/

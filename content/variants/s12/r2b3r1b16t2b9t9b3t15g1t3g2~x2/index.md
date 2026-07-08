@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clydebank (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2b3r1b16t2b9t9b3t15g1t3g2/)
 (the same proportion at any scale), whose colour order is pattern [GBGBBBBBBRBR](/stripes/gbgbbbbbbrbr/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8137
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8137](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8137)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

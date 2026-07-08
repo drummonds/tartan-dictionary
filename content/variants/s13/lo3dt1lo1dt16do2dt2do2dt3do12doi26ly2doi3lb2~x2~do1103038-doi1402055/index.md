@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Buglass"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lo3dt1lo1dt16do2dt2do2dt3do12doi26ly2doi3lb2/)
 (the same proportion at any scale), whose colour order is pattern [WBYBBBBBBBYBY](/stripes/wbybbbbbbbyby/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=435
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=435](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=435)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>

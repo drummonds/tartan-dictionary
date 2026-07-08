@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kerr of Ardgowan Clergy (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly2db1dpi42lb2dpi6db1lo1db1dp4b4g1dpi1/)
 (the same proportion at any scale), whose colour order is pattern [BGBBBYBBWBBY](/stripes/bgbbbybbwbby/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7320
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7320](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7320)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

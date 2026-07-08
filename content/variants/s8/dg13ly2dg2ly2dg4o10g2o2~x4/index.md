@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Oakwood"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg13ly2dg2ly2dg4o10g2o2/)
 (the same proportion at any scale), whose colour order is pattern [GYGYGRGR](/stripes/gygygrgr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3210
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3210](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3210)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r5dt12g3db4g20dt3g3r5~x4/"><circle cx="247.5" cy="227.7" r="4" fill="#3465a4"><title>Daks (0600150)</title></circle></a><a href="/variants/s8/db3o7g2r2g14o2g2db3~x2/"><circle cx="297.4" cy="227.4" r="4" fill="#3465a4"><title>Daks, Tartan-Loden</title></circle></a><a href="/variants/s7/r6g4do14w4do7g30lo4~x2/"><circle cx="238.5" cy="204.9" r="4" fill="#3465a4"><title>Newfoundland (District)</title></circle></a><a href="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/"><circle cx="323.6" cy="219.7" r="4" fill="#3465a4"><title>Burnett of Powis (Personal)</title></circle></a><a href="/variants/s7/r6g4dy14w4dy7g30y4~x2/"><circle cx="249.4" cy="209.7" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2/"><circle cx="274.2" cy="216.6" r="4" fill="#3465a4"><title>Crantock Trade Tartan</title></circle></a><a href="/variants/s12/r3g8r2g18dr5g3do3g3do16g3do3g3~x2/"><circle cx="318.1" cy="202.2" r="4" fill="#3465a4"><title>Dublin</title></circle></a><a href="/variants/s7/r4g3dy8w3dy4g18y3~x2/"><circle cx="228.5" cy="222.3" r="4" fill="#3465a4"><title>Newfoundland District Tartan</title></circle></a><a href="/variants/s7/db6r3g2r3g12r3g2~x2/"><circle cx="279.1" cy="250.1" r="4" fill="#3465a4"><title>Skene Clan Tartan</title></circle></a><a href="/variants/s7/dg4o2dg13w2o13dg2o4~x2/"><circle cx="312.9" cy="245.1" r="4" fill="#3465a4"><title>Crossnor School</title></circle></a><circle cx="285.3" cy="222.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r5dt12g3db4g20dt3g3r5~x4/"><circle cx="247.6" cy="228.2" r="4" fill="#3465a4"><title>Daks (0600150)</title></circle></a><a href="/variants/s8/db3o7g2r2g14o2g2db3~x2/"><circle cx="297.5" cy="227.9" r="4" fill="#3465a4"><title>Daks, Tartan-Loden</title></circle></a><a href="/variants/s7/r6g4do14w4do7g30lo4~x2/"><circle cx="238.6" cy="205.3" r="4" fill="#3465a4"><title>Newfoundland (District)</title></circle></a><a href="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/"><circle cx="323.7" cy="220.2" r="4" fill="#3465a4"><title>Burnett of Powis (Personal)</title></circle></a><a href="/variants/s7/r6g4dy14w4dy7g30y4~x2/"><circle cx="249.5" cy="210.1" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2/"><circle cx="274.2" cy="217.0" r="4" fill="#3465a4"><title>Crantock Trade Tartan</title></circle></a><a href="/variants/s12/r3g8r2g18dr5g3do3g3do16g3do3g3~x2/"><circle cx="318.2" cy="202.5" r="4" fill="#3465a4"><title>Dublin</title></circle></a><a href="/variants/s7/r4g3dy8w3dy4g18y3~x2/"><circle cx="228.6" cy="222.8" r="4" fill="#3465a4"><title>Newfoundland District Tartan</title></circle></a><a href="/variants/s7/db6r3g2r3g12r3g2~x2/"><circle cx="279.3" cy="250.8" r="4" fill="#3465a4"><title>Skene Clan Tartan</title></circle></a><a href="/variants/s7/dg4o2dg13w2o13dg2o4~x2/"><circle cx="313.1" cy="245.7" r="4" fill="#3465a4"><title>Crossnor School</title></circle></a><circle cx="285.4" cy="223.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg13ly2dg2ly2dg4o10g2o2~x4/

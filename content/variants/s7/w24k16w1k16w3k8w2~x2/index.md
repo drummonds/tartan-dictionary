@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Saks Fifth Avenue (Corp)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w24k16w1k16w3k8w2/)
 (the same proportion at any scale), whose colour order is pattern [WKWKWKW](/stripes/wkwkwkw/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8525
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8525](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8525)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w2k1w6k6w2k1w1~x2/"><circle cx="288.2" cy="232.7" r="4" fill="#3465a4"><title>Scott (Abbreviated)</title></circle></a><a href="/variants/s8/k1w8k8w1k8w4k4w1~x2/"><circle cx="296.9" cy="223.1" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="333.8" cy="106.6" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s8/k16w1k1w1k8w16k1w2~x2/"><circle cx="329.7" cy="165.9" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s8/k16n1k1n1k8n16k1n2~x2/"><circle cx="357.7" cy="169.4" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s8/k9n1k2n1k4n9k1n2~x4/"><circle cx="322.8" cy="205.8" r="4" fill="#3465a4"><title>Douglas, Grey Clan/Family Tartan</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10k1n2~x4/"><circle cx="327.9" cy="198.1" r="4" fill="#3465a4"><title>Douglas, Grey (Vestiarium Scoticum)</title></circle></a><a href="/variants/s7/n34k7n12k40n3k4lb3~x2/"><circle cx="293.9" cy="176.4" r="4" fill="#3465a4"><title>TACC</title></circle></a><a href="/variants/s6/k24n11k5n5k1n2~x4/"><circle cx="398.0" cy="173.0" r="4" fill="#3465a4"><title>Black Isle Corporate Tartan</title></circle></a><a href="/variants/s7/n34k7n12k39n3k4lg3~x2/"><circle cx="290.3" cy="178.2" r="4" fill="#3465a4"><title>Tartan Army Children's Charity (Corp</title></circle></a><circle cx="330.7" cy="177.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w2k1w6k6w2k1w1~x2/"><circle cx="288.4" cy="233.5" r="4" fill="#3465a4"><title>Scott (Abbreviated)</title></circle></a><a href="/variants/s8/k1w8k8w1k8w4k4w1~x2/"><circle cx="297.0" cy="223.9" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="333.7" cy="106.9" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s8/k16w1k1w1k8w16k1w2~x2/"><circle cx="329.7" cy="166.4" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s8/k16n1k1n1k8n16k1n2~x2/"><circle cx="357.7" cy="169.9" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s8/k9n1k2n1k4n9k1n2~x4/"><circle cx="322.8" cy="206.4" r="4" fill="#3465a4"><title>Douglas, Grey Clan/Family Tartan</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10k1n2~x4/"><circle cx="327.9" cy="198.7" r="4" fill="#3465a4"><title>Douglas, Grey (Vestiarium Scoticum)</title></circle></a><a href="/variants/s7/n34k7n12k40n3k4lb3~x2/"><circle cx="293.9" cy="176.9" r="4" fill="#3465a4"><title>TACC</title></circle></a><a href="/variants/s6/k24n11k5n5k1n2~x4/"><circle cx="398.0" cy="173.4" r="4" fill="#3465a4"><title>Black Isle Corporate Tartan</title></circle></a><a href="/variants/s7/n34k7n12k39n3k4lg3~x2/"><circle cx="290.3" cy="178.7" r="4" fill="#3465a4"><title>Tartan Army Children's Charity (Corp</title></circle></a><circle cx="330.8" cy="178.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w24k16w1k16w3k8w2~x2/

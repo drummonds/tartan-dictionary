@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Warwick (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k13n8k15dp2k8/)
 (the same proportion at any scale), whose colour order is pattern [KBKBK](/stripes/kbkbk/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4337
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4337](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4337)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k15dy2k10db18w3~x2/"><circle cx="240.2" cy="217.6" r="4" fill="#3465a4"><title>College of Radiographers Corporate Tartan</title></circle></a><a href="/variants/s5/k4dg3dp18k18w2~x2/"><circle cx="256.0" cy="204.2" r="4" fill="#3465a4"><title>Wcwm 1106-2</title></circle></a><a href="/variants/s6/k3dp9k11lb2g9k3~x2/"><circle cx="151.2" cy="232.9" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/variants/s6/k2g8db2k9dp7k2~x2/"><circle cx="144.6" cy="241.0" r="4" fill="#3465a4"><title>Campbell, Sir Walter Scott</title></circle></a><a href="/variants/s3/k11db2r1~x8/"><circle cx="238.2" cy="281.8" r="4" fill="#3465a4"><title>Arrol (Corporate)</title></circle></a><a href="/variants/s6/g3k15dr8g2n8k2~x4/"><circle cx="183.6" cy="213.8" r="4" fill="#3465a4"><title>Lindsay Htg (Clan?)</title></circle></a><a href="/variants/s6/dp8k11dg9k11dp8lb2~x2/"><circle cx="177.9" cy="275.1" r="4" fill="#3465a4"><title>Wilson's No.228 #2</title></circle></a><a href="/variants/s9/k15n2k5n5k18y5k5y2k15~x2/"><circle cx="270.9" cy="198.3" r="4" fill="#3465a4"><title>Laois Irish County Tartan</title></circle></a><a href="/variants/s6/dg7db1dg1k4dp4k1~x4/"><circle cx="262.6" cy="241.8" r="4" fill="#3465a4"><title>MacArthur of Milton Hunting</title></circle></a><a href="/variants/s5/k42w5dg16k10db21~x2/"><circle cx="246.4" cy="221.5" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><circle cx="232.9" cy="263.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k15dy2k10db18w3~x2/"><circle cx="240.2" cy="218.2" r="4" fill="#3465a4"><title>College of Radiographers Corporate Tartan</title></circle></a><a href="/variants/s5/k4dg3dp18k18w2~x2/"><circle cx="256.1" cy="204.7" r="4" fill="#3465a4"><title>Wcwm 1106-2</title></circle></a><a href="/variants/s6/k3dp9k11lb2g9k3~x2/"><circle cx="151.3" cy="233.6" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/variants/s6/k2g8db2k9dp7k2~x2/"><circle cx="144.7" cy="241.7" r="4" fill="#3465a4"><title>Campbell, Sir Walter Scott</title></circle></a><a href="/variants/s3/k11db2r1~x8/"><circle cx="238.4" cy="282.3" r="4" fill="#3465a4"><title>Arrol (Corporate)</title></circle></a><a href="/variants/s6/g3k15dr8g2n8k2~x4/"><circle cx="183.6" cy="214.3" r="4" fill="#3465a4"><title>Lindsay Htg (Clan?)</title></circle></a><a href="/variants/s6/dp8k11dg9k11dp8lb2~x2/"><circle cx="178.0" cy="275.8" r="4" fill="#3465a4"><title>Wilson's No.228 #2</title></circle></a><a href="/variants/s9/k15n2k5n5k18y5k5y2k15~x2/"><circle cx="270.9" cy="198.6" r="4" fill="#3465a4"><title>Laois Irish County Tartan</title></circle></a><a href="/variants/s6/dg7db1dg1k4dp4k1~x4/"><circle cx="262.7" cy="242.1" r="4" fill="#3465a4"><title>MacArthur of Milton Hunting</title></circle></a><a href="/variants/s5/k42w5dg16k10db21~x2/"><circle cx="246.4" cy="222.0" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><circle cx="233.0" cy="263.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k13n8k15dp2k8~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Seaford House"
   url: "/tartans/seaford-house/"
+- name: "Seaford House"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b3db3b12db26g26r3g26db28w3/)
 (the same proportion at any scale), whose colour order is pattern [BBBBGRGBW](/stripes/bbbbgrgbw/).
@@ -14,7 +16,7 @@ Part of the [Seaford House](/tartans/seaford-house/) tartan — the named design
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11045
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11045](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11045)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/"><circle cx="207.2" cy="197.5" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s9/db1dy4g8y1g8db12w1db2r1~x4/"><circle cx="215.1" cy="169.5" r="4" fill="#3465a4"><title>Connor (Personal)</title></circle></a><a href="/variants/s7/g1b8g8r1g8b8w1~x4/"><circle cx="316.9" cy="253.7" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s7/g1b8g8r1g8b8w1~x2/"><circle cx="316.9" cy="253.7" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s11/r3dg28g19dg3db19dg3db19dg3g19dg28w3~x2/"><circle cx="230.8" cy="206.1" r="4" fill="#3465a4"><title>Boys Brigade</title></circle></a><a href="/variants/s10/t29db8g21r3g8t11w3db3w3g8~x2/"><circle cx="240.0" cy="205.9" r="4" fill="#3465a4"><title>Morneau, Richard (Personal)</title></circle></a><a href="/variants/s8/dg23db11t22r2t22db11dg23r2~x2~db1406275/"><circle cx="265.9" cy="249.2" r="4" fill="#3465a4"><title>Skibo</title></circle></a><a href="/variants/s7/g10db42r5dg42g42y5g10/"><circle cx="218.9" cy="227.3" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/"><circle cx="240.5" cy="226.1" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s9/r2db12dg2g11dg4db5g2dg24w2~x2/"><circle cx="264.9" cy="182.9" r="4" fill="#3465a4"><title>Fraser Gathering, Green (1997)</title></circle></a><circle cx="250.0" cy="213.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w3db28g26r3g26db26lb12db3lb3/"><circle cx="207.2" cy="197.9" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s9/db1dy4g8y1g8db12w1db2r1~x4/"><circle cx="215.1" cy="169.8" r="4" fill="#3465a4"><title>Connor (Personal)</title></circle></a><a href="/variants/s7/g1b8g8r1g8b8w1~x4/"><circle cx="317.0" cy="254.2" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s7/g1b8g8r1g8b8w1~x2/"><circle cx="317.0" cy="254.2" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s11/r3dg28g19dg3db19dg3db19dg3g19dg28w3~x2/"><circle cx="230.8" cy="206.5" r="4" fill="#3465a4"><title>Boys Brigade</title></circle></a><a href="/variants/s10/t29db8g21r3g8t11w3db3w3g8~x2/"><circle cx="240.0" cy="206.3" r="4" fill="#3465a4"><title>Morneau, Richard (Personal)</title></circle></a><a href="/variants/s8/dg23db11t22r2t22db11dg23r2~x2~db1406275/"><circle cx="266.1" cy="249.6" r="4" fill="#3465a4"><title>Skibo</title></circle></a><a href="/variants/s7/g10db42r5dg42g42y5g10/"><circle cx="219.0" cy="227.7" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/"><circle cx="240.6" cy="226.5" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s9/r2db12dg2g11dg4db5g2dg24w2~x2/"><circle cx="264.9" cy="183.1" r="4" fill="#3465a4"><title>Fraser Gathering, Green (1997)</title></circle></a><circle cx="250.1" cy="213.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/

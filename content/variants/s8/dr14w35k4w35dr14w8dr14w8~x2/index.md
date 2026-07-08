@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clayton Dress (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr14w35k4w35dr14w8dr14w8/)
 (the same proportion at any scale), whose colour order is pattern [BWKWBWBW](/stripes/bwkwbwbw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=670
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=670](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=670)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w13r3w2k5w2r3w13db8~x2/"><circle cx="239.0" cy="204.9" r="4" fill="#3465a4"><title>Boswell Dress Personal Tartan</title></circle></a><a href="/variants/s6/w8dr14w8dr14w35k4~x2/"><circle cx="299.6" cy="217.3" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><a href="/variants/s6/w2r4w2r4w9k1~x2/"><circle cx="305.2" cy="218.3" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><a href="/variants/s6/k2w28r13w2r13w2~x2/"><circle cx="318.3" cy="183.2" r="4" fill="#3465a4"><title>Buchanan #5</title></circle></a><a href="/variants/s8/w20k2w20lo5k3w3lo4k2/"><circle cx="376.2" cy="179.4" r="4" fill="#3465a4"><title>Guzzo Dress (Personal)</title></circle></a><a href="/variants/s4/k7w6k1w6~x4/"><circle cx="319.5" cy="255.7" r="4" fill="#3465a4"><title>Wallace Dress</title></circle></a><a href="/variants/s6/r8w3r28w32k3w4~x2/"><circle cx="296.0" cy="193.3" r="4" fill="#3465a4"><title>Ailsa, Pink (Dance)</title></circle></a><a href="/variants/s8/w20k2w20y5k3w3y4k2/"><circle cx="365.6" cy="174.8" r="4" fill="#3465a4"><title>Guzzo Dress (Montreal, Canada) (Personal)</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="246.0" cy="168.5" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><a href="/variants/s7/w5k2w30r24w3r8db3~x2/"><circle cx="281.7" cy="158.0" r="4" fill="#3465a4"><title>Arduaine, Red (Dance)</title></circle></a><circle cx="312.9" cy="211.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w13r3w2k5w2r3w13db8~x2/"><circle cx="239.1" cy="205.6" r="4" fill="#3465a4"><title>Boswell Dress Personal Tartan</title></circle></a><a href="/variants/s6/w8dr14w8dr14w35k4~x2/"><circle cx="299.7" cy="218.1" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><a href="/variants/s6/w2r4w2r4w9k1~x2/"><circle cx="305.4" cy="219.1" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><a href="/variants/s6/k2w28r13w2r13w2~x2/"><circle cx="318.4" cy="183.8" r="4" fill="#3465a4"><title>Buchanan #5</title></circle></a><a href="/variants/s8/w20k2w20lo5k3w3lo4k2/"><circle cx="376.3" cy="180.1" r="4" fill="#3465a4"><title>Guzzo Dress (Personal)</title></circle></a><a href="/variants/s4/k7w6k1w6~x4/"><circle cx="319.7" cy="256.6" r="4" fill="#3465a4"><title>Wallace Dress</title></circle></a><a href="/variants/s6/r8w3r28w32k3w4~x2/"><circle cx="296.2" cy="194.0" r="4" fill="#3465a4"><title>Ailsa, Pink (Dance)</title></circle></a><a href="/variants/s8/w20k2w20y5k3w3y4k2/"><circle cx="365.7" cy="175.5" r="4" fill="#3465a4"><title>Guzzo Dress (Montreal, Canada) (Personal)</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="246.1" cy="169.0" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><a href="/variants/s7/w5k2w30r24w3r8db3~x2/"><circle cx="281.8" cy="158.6" r="4" fill="#3465a4"><title>Arduaine, Red (Dance)</title></circle></a><circle cx="313.0" cy="212.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dr14w35k4w35dr14w8dr14w8~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Romsdal"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g40k10r7k10r7/)
 (the same proportion at any scale), whose colour order is pattern [GKRKR](/stripes/gkrkr/).
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k8g3k4g20dr4~x2/"><circle cx="278.7" cy="230.7" r="4" fill="#3465a4"><title>MacArthur-Fox (Personal)</title></circle></a><a href="/variants/s4/g6k2dr3k1~x4/"><circle cx="222.4" cy="264.2" r="4" fill="#3465a4"><title>Red Watch (Fashion) #1</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4/"><circle cx="209.5" cy="227.5" r="4" fill="#3465a4"><title>Wilson's, No 193</title></circle></a><a href="/variants/s5/k3w3k3dg10r1~x6/"><circle cx="204.8" cy="197.9" r="4" fill="#3465a4"><title>Burberry Hunting</title></circle></a><a href="/variants/s5/k19g8k10g31r3/"><circle cx="268.4" cy="222.3" r="4" fill="#3465a4"><title>MacArthur-Fox</title></circle></a><a href="/variants/s4/g38r24k9r9~x2/"><circle cx="221.8" cy="275.2" r="4" fill="#3465a4"><title>Royal Guard of Oman 4th Band Squadron</title></circle></a><a href="/variants/s5/k8t5g44k40r6/"><circle cx="211.0" cy="199.6" r="4" fill="#3465a4"><title>Douglas, Black</title></circle></a><a href="/variants/s5/k12db3g23k23r3~x2/"><circle cx="232.2" cy="215.8" r="4" fill="#3465a4"><title>Douglas, (Black)</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="227.8" cy="199.3" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/variants/s6/r3g30k12g6k16y2~x2/"><circle cx="253.9" cy="177.0" r="4" fill="#3465a4"><title>MacArthur (Variant)</title></circle></a><circle cx="239.6" cy="227.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k8g3k4g20dr4~x2/"><circle cx="278.8" cy="231.4" r="4" fill="#3465a4"><title>MacArthur-Fox (Personal)</title></circle></a><a href="/variants/s4/g6k2dr3k1~x4/"><circle cx="222.5" cy="264.9" r="4" fill="#3465a4"><title>Red Watch (Fashion) #1</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4/"><circle cx="209.6" cy="228.2" r="4" fill="#3465a4"><title>Wilson's, No 193</title></circle></a><a href="/variants/s5/k3w3k3dg10r1~x6/"><circle cx="204.9" cy="198.5" r="4" fill="#3465a4"><title>Burberry Hunting</title></circle></a><a href="/variants/s5/k19g8k10g31r3/"><circle cx="268.5" cy="223.0" r="4" fill="#3465a4"><title>MacArthur-Fox</title></circle></a><a href="/variants/s4/g38r24k9r9~x2/"><circle cx="222.0" cy="276.1" r="4" fill="#3465a4"><title>Royal Guard of Oman 4th Band Squadron</title></circle></a><a href="/variants/s5/k8t5g44k40r6/"><circle cx="211.1" cy="200.2" r="4" fill="#3465a4"><title>Douglas, Black</title></circle></a><a href="/variants/s5/k12db3g23k23r3~x2/"><circle cx="232.3" cy="216.4" r="4" fill="#3465a4"><title>Douglas, (Black)</title></circle></a><a href="/variants/s5/k8y1k8g13r2~x4/"><circle cx="227.8" cy="199.8" r="4" fill="#3465a4"><title>Tolmie</title></circle></a><a href="/variants/s6/r3g30k12g6k16y2~x2/"><circle cx="253.9" cy="177.5" r="4" fill="#3465a4"><title>MacArthur (Variant)</title></circle></a><circle cx="239.7" cy="227.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/g40k10r7k10r7/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Platt"
   url: "/tartans/platt/"
+- name: "Platt"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g16db6y2g12r2g14db14y1db12r2g6db24g6y2r2/)
 (the same proportion at any scale), whose colour order is pattern [GBGGRGBGBRGBGGR](/stripes/gbggrgbgbrgbggr/).
@@ -14,7 +16,7 @@ Part of the [Platt](/tartans/platt/) tartan — the named design grouping this s
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3346
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3346](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3346)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g8db3y1g6r1g7db7y1db6r1g3db12g3y1r1~x2/"><circle cx="264.6" cy="184.1" r="4" fill="#3465a4"><title>Platt</title></circle></a><a href="/variants/s14/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1~x4~g2408144/"><circle cx="239.9" cy="177.7" r="4" fill="#3465a4"><title>New Mexico District Tartan</title></circle></a><a href="/variants/s16/g2db1lb6db10g4db1g1r1g1db1g18r1g4db6lb6db1~x4/"><circle cx="259.6" cy="139.1" r="4" fill="#3465a4"><title>Tiger</title></circle></a><a href="/variants/s16/g2db1lb6db6g4r1g18db1g1r1g1db1g4db10lb6db1~x4/"><circle cx="259.6" cy="139.1" r="4" fill="#3465a4"><title>Pina (Corporate)</title></circle></a><a href="/variants/s9/r6db2r1db16r3db16g28w2g4~x2/"><circle cx="281.8" cy="151.0" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s8/r1g16db2g10db22y4r2y1~x2/"><circle cx="300.2" cy="169.8" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/variants/s22/r3db20r3g12r8lb1db12r3g22r3db3g33r3db12lb1r8g12r3db20r3db3lb1~x2/"><circle cx="252.9" cy="112.4" r="4" fill="#3465a4"><title>Cumming and Glenorchy</title></circle></a><a href="/variants/s22/g34r3db12lb1r8g12r3db20r3db3lb1r3db20r3g12r8lb1db12r3g22r3db3~x2/"><circle cx="255.7" cy="110.5" r="4" fill="#3465a4"><title>Cumming of Glenorchy</title></circle></a><a href="/variants/s9/r6db2r1db8r3db16g28w2g4~x2/"><circle cx="288.6" cy="146.2" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s13/g27r2g3r3db3ly2db14r2db3ly3db3r2db14~x2/"><circle cx="258.2" cy="150.9" r="4" fill="#3465a4"><title>Crowne Plaza (Corporate)</title></circle></a><circle cx="289.7" cy="157.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g8db3y1g6r1g7db7y1db6r1g3db12g3y1r1~x2/"><circle cx="264.6" cy="184.5" r="4" fill="#3465a4"><title>Platt</title></circle></a><a href="/variants/s14/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1~x4~g2408144/"><circle cx="240.0" cy="178.1" r="4" fill="#3465a4"><title>New Mexico District Tartan</title></circle></a><a href="/variants/s16/g2db1lb6db10g4db1g1r1g1db1g18r1g4db6lb6db1~x4/"><circle cx="259.5" cy="139.3" r="4" fill="#3465a4"><title>Tiger</title></circle></a><a href="/variants/s16/g2db1lb6db6g4r1g18db1g1r1g1db1g4db10lb6db1~x4/"><circle cx="259.5" cy="139.3" r="4" fill="#3465a4"><title>Pina (Corporate)</title></circle></a><a href="/variants/s9/r6db2r1db16r3db16g28w2g4~x2/"><circle cx="281.8" cy="151.3" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s8/r1g16db2g10db22y4r2y1~x2/"><circle cx="300.2" cy="170.0" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/variants/s22/r3db20r3g12r8lb1db12r3g22r3db3g33r3db12lb1r8g12r3db20r3db3lb1~x2/"><circle cx="252.9" cy="112.5" r="4" fill="#3465a4"><title>Cumming and Glenorchy</title></circle></a><a href="/variants/s22/g34r3db12lb1r8g12r3db20r3db3lb1r3db20r3g12r8lb1db12r3g22r3db3~x2/"><circle cx="255.6" cy="110.7" r="4" fill="#3465a4"><title>Cumming of Glenorchy</title></circle></a><a href="/variants/s9/r6db2r1db8r3db16g28w2g4~x2/"><circle cx="288.6" cy="146.4" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s13/g27r2g3r3db3ly2db14r2db3ly3db3r2db14~x2/"><circle cx="258.2" cy="151.2" r="4" fill="#3465a4"><title>Crowne Plaza (Corporate)</title></circle></a><circle cx="289.6" cy="157.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/g16db6y2g12r2g14db14y1db12r2g6db24g6y2r2~x2/

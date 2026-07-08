@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/ferguson/"
 - name: "Ferguson"
   url: "/tartans/ferguson/"
+- name: "Ferguson - 1930 (Old)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g17r2db15/)
 (the same proportion at any scale), whose colour order is pattern [BRG](/stripes/brg/).
@@ -16,7 +18,7 @@ Part of the [Ferguson](/tartans/ferguson/) tartan — the named design grouping 
 
 Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=503
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=503](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=503)
 
 ## Provenance
 
@@ -93,8 +95,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/db13r2g13~x2/"><circle cx="266.1" cy="273.7" r="4" fill="#3465a4"><title>Wilson's No.062</title></circle></a><a href="/variants/s3/db5g6r1~x4/"><circle cx="289.6" cy="310.7" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><a href="/variants/s3/g13r2lb13~x2/"><circle cx="287.9" cy="282.2" r="4" fill="#3465a4"><title>Wilson's No.161</title></circle></a><a href="/variants/s3/db6g5r1~x4/"><circle cx="290.1" cy="309.5" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="257.3" cy="258.6" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s4/g15r3db11w2/"><circle cx="245.4" cy="254.9" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="221.3" cy="261.7" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s3/db53g42r14~x2/"><circle cx="250.5" cy="335.8" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/variants/s3/db53g42r14/"><circle cx="250.5" cy="335.8" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/variants/s4/db10g10r5w1~x2/"><circle cx="204.3" cy="256.7" r="4" fill="#3465a4"><title>Thorntons Law (Corporate)</title></circle></a><circle cx="312.2" cy="293.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/db13r2g13~x2/"><circle cx="266.3" cy="274.4" r="4" fill="#3465a4"><title>Wilson's No.062</title></circle></a><a href="/variants/s3/db5g6r1~x4/"><circle cx="289.8" cy="311.5" r="4" fill="#3465a4"><title>Wilson's No 84, Ferguson</title></circle></a><a href="/variants/s3/g13r2lb13~x2/"><circle cx="288.1" cy="282.9" r="4" fill="#3465a4"><title>Wilson's No.161</title></circle></a><a href="/variants/s3/db6g5r1~x4/"><circle cx="290.3" cy="310.3" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="257.4" cy="259.2" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s4/g15r3db11w2/"><circle cx="245.5" cy="255.5" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="221.5" cy="262.4" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s3/db53g42r14~x2/"><circle cx="250.8" cy="336.7" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/variants/s3/db53g42r14/"><circle cx="250.8" cy="336.7" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/variants/s4/db10g10r5w1~x2/"><circle cx="204.5" cy="257.4" r="4" fill="#3465a4"><title>Thorntons Law (Corporate)</title></circle></a><circle cx="312.4" cy="294.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/g17r2db15~x2/

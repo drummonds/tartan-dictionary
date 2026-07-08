@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Federal Memorial Dress"
   url: "/tartans/federal-memorial-dress/"
+- name: "Federal Memorial Dress (Military)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b3y1lb1w15lb1r4lb1w1lb15r1lb1r1lb3/)
 (the same proportion at any scale), whose colour order is pattern [BGWWWRWWWRWRW](/stripes/bgwwwrwwwrwrw/).
@@ -14,7 +16,7 @@ Part of the [Federal Memorial Dress](/tartans/federal-memorial-dress/) tartan �
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7793
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7793](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7793)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db3y1lb1w15lb1r4lb1w1lb15r1lb1r1lb3~x4/"><circle cx="277.1" cy="134.5" r="4" fill="#3465a4"><title>Federal Memorial Dress</title></circle></a><a href="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/"><circle cx="272.6" cy="116.9" r="4" fill="#3465a4"><title>Ben Vorlich (Fashion)</title></circle></a><a href="/variants/s17/r5w20lb1w2lb1w2lb2w2lb5o2lb2o2lb2o3lb2o10w3~x2/"><circle cx="277.0" cy="136.7" r="4" fill="#3465a4"><title>Nike Golf Light</title></circle></a><a href="/variants/s11/w26lb9k2lb2w2lb2lr11lb8ly2lr2dr2~x2/"><circle cx="220.9" cy="139.8" r="4" fill="#3465a4"><title>Manchester Blues Dress</title></circle></a><a href="/variants/s9/lb14db1n3g1n3db1n4w24r1~x4/"><circle cx="269.7" cy="120.2" r="4" fill="#3465a4"><title>Musselburgh Dress (Dance)</title></circle></a><a href="/variants/s11/n2y2n1y2n1lb15n4r1y2b7y1~x4~n1700000-lb3200000/"><circle cx="247.0" cy="156.0" r="4" fill="#3465a4"><title>Hutt Tartan</title></circle></a><a href="/variants/s11/w21n4r1lb1w1n1lb4y3n1y1w1~x4/"><circle cx="349.9" cy="110.4" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 1)</title></circle></a><a href="/variants/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/"><circle cx="279.4" cy="153.5" r="4" fill="#3465a4"><title>Princess Marina #2</title></circle></a><circle cx="304.7" cy="144.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db3y1lb1w15lb1r4lb1w1lb15r1lb1r1lb3~x4/"><circle cx="277.2" cy="134.8" r="4" fill="#3465a4"><title>Federal Memorial Dress</title></circle></a><a href="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/"><circle cx="272.6" cy="117.1" r="4" fill="#3465a4"><title>Ben Vorlich (Fashion)</title></circle></a><a href="/variants/s17/r5w20lb1w2lb1w2lb2w2lb5o2lb2o2lb2o3lb2o10w3~x2/"><circle cx="277.0" cy="136.9" r="4" fill="#3465a4"><title>Nike Golf Light</title></circle></a><a href="/variants/s11/w26lb9k2lb2w2lb2lr11lb8ly2lr2dr2~x2/"><circle cx="220.9" cy="140.0" r="4" fill="#3465a4"><title>Manchester Blues Dress</title></circle></a><a href="/variants/s9/lb14db1n3g1n3db1n4w24r1~x4/"><circle cx="269.7" cy="120.4" r="4" fill="#3465a4"><title>Musselburgh Dress (Dance)</title></circle></a><a href="/variants/s11/n2y2n1y2n1lb15n4r1y2b7y1~x4~n1700000-lb3200000/"><circle cx="247.0" cy="156.2" r="4" fill="#3465a4"><title>Hutt Tartan</title></circle></a><a href="/variants/s11/w21n4r1lb1w1n1lb4y3n1y1w1~x4/"><circle cx="349.8" cy="110.6" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 1)</title></circle></a><a href="/variants/s12/r2lb22g3r2g2r3g2r3g2r3g2w2~x4/"><circle cx="279.5" cy="153.8" r="4" fill="#3465a4"><title>Princess Marina #2</title></circle></a><circle cx="304.7" cy="144.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/b3y1lb1w15lb1r4lb1w1lb15r1lb1r1lb3~x4/

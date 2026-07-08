@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nooten-Boom (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k10y2k10w2k2y13w3/)
 (the same proportion at any scale), whose colour order is pattern [KGKWKGW](/stripes/kgkwkgw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3145
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3145](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3145)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4ly32k16r3k16ly4~x2/"><circle cx="240.3" cy="192.4" r="4" fill="#3465a4"><title>Unnamed C21st - Fashion</title></circle></a><a href="/variants/s6/k2y6k2y11k9r1~x2/"><circle cx="280.3" cy="202.2" r="4" fill="#3465a4"><title>Porter Drinkers', The</title></circle></a><a href="/variants/s6/k2ly6k2ly11k9r1~x2/"><circle cx="259.9" cy="198.4" r="4" fill="#3465a4"><title>Porter Drinkers (Commemorative)</title></circle></a><a href="/variants/s6/k5ly5w1ly5k5r1~x10~ly2503076/"><circle cx="159.8" cy="240.8" r="4" fill="#3465a4"><title>Canyon County Idaho Sheriff</title></circle></a><a href="/variants/s6/k3n31k3n3k27y3~x2/"><circle cx="287.5" cy="186.0" r="4" fill="#3465a4"><title>Scottish National Party (Corporate)</title></circle></a><a href="/variants/s5/k4y1k4y6r1~x4/"><circle cx="230.2" cy="245.5" r="4" fill="#3465a4"><title>MacLeod Dress Clan Tartan</title></circle></a><a href="/variants/s5/k8y1k8y12r1~x4/"><circle cx="280.7" cy="207.6" r="4" fill="#3465a4"><title>MacLeod of Lewis (Vestiarium Scoticum)</title></circle></a><a href="/variants/s5/k8y1k8y12r1~x2/"><circle cx="280.7" cy="207.6" r="4" fill="#3465a4"><title>MacLeod of Lewis</title></circle></a><a href="/variants/s5/k8ly1k8ly12r1~x4/"><circle cx="262.2" cy="204.3" r="4" fill="#3465a4"><title>MacLeod of Lewis (Clan)</title></circle></a><a href="/variants/s6/k6y1k6y9r1y2~x2/"><circle cx="250.6" cy="213.9" r="4" fill="#3465a4"><title>MacLeod #3</title></circle></a><circle cx="220.2" cy="214.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4ly32k16r3k16ly4~x2/"><circle cx="240.3" cy="193.0" r="4" fill="#3465a4"><title>Unnamed C21st - Fashion</title></circle></a><a href="/variants/s6/k2y6k2y11k9r1~x2/"><circle cx="280.3" cy="202.9" r="4" fill="#3465a4"><title>Porter Drinkers', The</title></circle></a><a href="/variants/s6/k2ly6k2ly11k9r1~x2/"><circle cx="260.0" cy="199.1" r="4" fill="#3465a4"><title>Porter Drinkers (Commemorative)</title></circle></a><a href="/variants/s6/k5ly5w1ly5k5r1~x10~ly2503076/"><circle cx="159.9" cy="241.5" r="4" fill="#3465a4"><title>Canyon County Idaho Sheriff</title></circle></a><a href="/variants/s6/k3n31k3n3k27y3~x2/"><circle cx="287.5" cy="186.5" r="4" fill="#3465a4"><title>Scottish National Party (Corporate)</title></circle></a><a href="/variants/s5/k4y1k4y6r1~x4/"><circle cx="230.3" cy="246.3" r="4" fill="#3465a4"><title>MacLeod Dress Clan Tartan</title></circle></a><a href="/variants/s5/k8y1k8y12r1~x4/"><circle cx="280.7" cy="208.3" r="4" fill="#3465a4"><title>MacLeod of Lewis (Vestiarium Scoticum)</title></circle></a><a href="/variants/s5/k8y1k8y12r1~x2/"><circle cx="280.7" cy="208.3" r="4" fill="#3465a4"><title>MacLeod of Lewis</title></circle></a><a href="/variants/s5/k8ly1k8ly12r1~x4/"><circle cx="262.3" cy="205.0" r="4" fill="#3465a4"><title>MacLeod of Lewis (Clan)</title></circle></a><a href="/variants/s6/k6y1k6y9r1y2~x2/"><circle cx="250.7" cy="214.6" r="4" fill="#3465a4"><title>MacLeod #3</title></circle></a><circle cx="220.3" cy="214.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k10y2k10w2k2y13w3~x2/

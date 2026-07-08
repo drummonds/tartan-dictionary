@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Vosko"
   url: "/tartans/vosko/"
+- name: "Vosko"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db25k12y4k9r6k9y4k12g25/)
 (the same proportion at any scale), whose colour order is pattern [BKGKRKGKG](/stripes/bkgkrkgkg/).
@@ -14,7 +16,7 @@ Part of the [Vosko](/tartans/vosko/) tartan — the named design grouping this s
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><circle cx="105.7" cy="193.7" r="4" fill="#3465a4"><title>Scottish Tartan Society</title></circle></a><a href="/variants/s8/db10n3db10r3k21g20k15r3~x2/"><circle cx="126.1" cy="197.2" r="4" fill="#3465a4"><title>Williamson/Smart</title></circle></a><a href="/variants/s9/db8k4lo2k3dr2k3lo2k4g8~x4/"><circle cx="71.3" cy="223.6" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/"><circle cx="119.8" cy="200.8" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/variants/s10/k8r1db8w1db8r1k8g8k1g8~x2/"><circle cx="93.4" cy="187.4" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/variants/s10/k19g3db19lo5db19g3k19g19r7g19~x2/"><circle cx="73.6" cy="209.9" r="4" fill="#3465a4"><title>Casely Family Tartan</title></circle></a><a href="/variants/s8/r2k8y1k8g8db8k2w2~x2/"><circle cx="115.5" cy="176.2" r="4" fill="#3465a4"><title>Hislop hunting</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="108.7" cy="195.2" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/variants/s8/g11lb3g5r3g5k22db22k5~x2/"><circle cx="114.1" cy="185.6" r="4" fill="#3465a4"><title>Wood (Personal)</title></circle></a><a href="/variants/s9/r1k2dg4k1dg1k2db3k1w1~x6/"><circle cx="84.9" cy="223.7" r="4" fill="#3465a4"><title>MacKean dress</title></circle></a><circle cx="101.4" cy="197.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><circle cx="105.7" cy="194.2" r="4" fill="#3465a4"><title>Scottish Tartan Society</title></circle></a><a href="/variants/s8/db10n3db10r3k21g20k15r3~x2/"><circle cx="126.1" cy="197.7" r="4" fill="#3465a4"><title>Williamson/Smart</title></circle></a><a href="/variants/s9/db8k4lo2k3dr2k3lo2k4g8~x4/"><circle cx="71.4" cy="224.2" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/"><circle cx="119.8" cy="201.3" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/variants/s10/k8r1db8w1db8r1k8g8k1g8~x2/"><circle cx="93.4" cy="187.9" r="4" fill="#3465a4"><title>Hunter</title></circle></a><a href="/variants/s10/k19g3db19lo5db19g3k19g19r7g19~x2/"><circle cx="73.6" cy="210.5" r="4" fill="#3465a4"><title>Casely Family Tartan</title></circle></a><a href="/variants/s8/r2k8y1k8g8db8k2w2~x2/"><circle cx="115.5" cy="176.6" r="4" fill="#3465a4"><title>Hislop hunting</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="108.7" cy="195.7" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/variants/s8/g11lb3g5r3g5k22db22k5~x2/"><circle cx="114.1" cy="186.0" r="4" fill="#3465a4"><title>Wood (Personal)</title></circle></a><a href="/variants/s9/r1k2dg4k1dg1k2db3k1w1~x6/"><circle cx="84.9" cy="224.3" r="4" fill="#3465a4"><title>MacKean dress</title></circle></a><circle cx="101.4" cy="198.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db25k12y4k9r6k9y4k12g25~x2/

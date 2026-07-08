@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pride of the Highlands (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db7w2db28k7db3ly2db2g2db13r2/)
 (the same proportion at any scale), whose colour order is pattern [BWBKBYBGBR](/stripes/bwbkbybgbr/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7558
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7558](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7558)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db3w2db2w3db6y2db26y2db6r2~x2/"><circle cx="470.8" cy="143.6" r="4" fill="#3465a4"><title>Dundee Football Club</title></circle></a><a href="/variants/s10/db6w4db3w6db8y3db52y3db8r4/"><circle cx="481.1" cy="123.7" r="4" fill="#3465a4"><title>Dundee F.C.</title></circle></a><a href="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/"><circle cx="454.6" cy="105.4" r="4" fill="#3465a4"><title>Ottawa Fire Service (Corporate)</title></circle></a><a href="/variants/s10/db6w4db3w6db8lo3db52lo3db8r4/"><circle cx="475.0" cy="121.8" r="4" fill="#3465a4"><title>Dundee F.C. Corporate Tartan</title></circle></a><a href="/variants/s10/db51t4db7o2db2g2db2dg10db13w2~x2/"><circle cx="534.0" cy="108.0" r="4" fill="#3465a4"><title>Visit Scotland Corporate)</title></circle></a><a href="/variants/s10/dt30t5dt5o5dt10w4r4dt10g5dt10~x2~dt1102249-t2503227/"><circle cx="366.6" cy="175.1" r="4" fill="#3465a4"><title>Bukowski-Jackson (Personal)</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2~x2/"><circle cx="481.2" cy="97.2" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Centre</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2/"><circle cx="481.2" cy="97.2" r="4" fill="#3465a4"><title>Scotch Whisky, Heritage</title></circle></a><a href="/variants/s10/y1db2w1db15k4y1db1y1db5w1~x4/"><circle cx="391.8" cy="124.8" r="4" fill="#3465a4"><title>SPA Association (Corporate)</title></circle></a><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="431.7" cy="139.3" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><circle cx="410.3" cy="113.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db3w2db2w3db6y2db26y2db6r2~x2/"><circle cx="470.8" cy="143.9" r="4" fill="#3465a4"><title>Dundee Football Club</title></circle></a><a href="/variants/s10/db6w4db3w6db8y3db52y3db8r4/"><circle cx="481.1" cy="123.9" r="4" fill="#3465a4"><title>Dundee F.C.</title></circle></a><a href="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/"><circle cx="454.6" cy="105.6" r="4" fill="#3465a4"><title>Ottawa Fire Service (Corporate)</title></circle></a><a href="/variants/s10/db6w4db3w6db8lo3db52lo3db8r4/"><circle cx="475.0" cy="122.1" r="4" fill="#3465a4"><title>Dundee F.C. Corporate Tartan</title></circle></a><a href="/variants/s10/db51t4db7o2db2g2db2dg10db13w2~x2/"><circle cx="533.9" cy="107.9" r="4" fill="#3465a4"><title>Visit Scotland Corporate)</title></circle></a><a href="/variants/s10/dt30t5dt5o5dt10w4r4dt10g5dt10~x2~dt1102249-t2503227/"><circle cx="366.7" cy="175.5" r="4" fill="#3465a4"><title>Bukowski-Jackson (Personal)</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2~x2/"><circle cx="481.1" cy="97.3" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Centre</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2/"><circle cx="481.1" cy="97.3" r="4" fill="#3465a4"><title>Scotch Whisky, Heritage</title></circle></a><a href="/variants/s10/y1db2w1db15k4y1db1y1db5w1~x4/"><circle cx="391.8" cy="125.0" r="4" fill="#3465a4"><title>SPA Association (Corporate)</title></circle></a><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="431.6" cy="139.6" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><circle cx="410.2" cy="113.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db7w2db28k7db3ly2db2g2db13r2~x2/

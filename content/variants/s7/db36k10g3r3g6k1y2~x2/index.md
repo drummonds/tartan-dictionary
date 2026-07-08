@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacLaurin of Brioch"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db36k10g3r3g6k1y2/)
 (the same proportion at any scale), whose colour order is pattern [BKGRGKG](/stripes/bkgrgkg/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2600
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2600](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2600)
 
 ## Provenance
 
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db36k8g3dr3g6k1lo2~x2/"><circle cx="349.6" cy="97.4" r="4" fill="#3465a4"><title>MacLaurin of Broich (Clan)</title></circle></a><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/"><circle cx="264.5" cy="101.2" r="4" fill="#3465a4"><title>Strachan (Name)</title></circle></a><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2~db1406275/"><circle cx="268.4" cy="101.0" r="4" fill="#3465a4"><title>Strachan Family Tartan</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="299.2" cy="111.7" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/variants/s7/k4w1lb2w1k16db36lb4~x2/"><circle cx="331.0" cy="107.9" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/variants/s7/k8ly2dp6ly2k36db84w7/"><circle cx="337.3" cy="88.3" r="4" fill="#3465a4"><title>Grahame Laurie Band (Corporate)</title></circle></a><a href="/variants/s7/db6dp3db56k24g6r6g6/"><circle cx="306.7" cy="131.5" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><a href="/variants/s11/db50k14g3dr2g3dr2g3dr2g3k2lo2~x2/"><circle cx="327.2" cy="76.6" r="4" fill="#3465a4"><title>Minnock (Name)</title></circle></a><a href="/variants/s6/db48w2k20g22r3g4~x2/"><circle cx="237.5" cy="139.1" r="4" fill="#3465a4"><title>MacFadzean</title></circle></a><a href="/variants/s6/db48k32r1k8r3w3~x2/"><circle cx="327.4" cy="112.4" r="4" fill="#3465a4"><title>Koot Wedding (Personal)</title></circle></a><circle cx="333.2" cy="98.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db36k8g3dr3g6k1lo2~x2/"><circle cx="349.5" cy="97.5" r="4" fill="#3465a4"><title>MacLaurin of Broich (Clan)</title></circle></a><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2/"><circle cx="264.4" cy="101.3" r="4" fill="#3465a4"><title>Strachan (Name)</title></circle></a><a href="/variants/s9/r2k3db42k3y2k3g22k3r2~x2~db1406275/"><circle cx="268.3" cy="101.1" r="4" fill="#3465a4"><title>Strachan Family Tartan</title></circle></a><a href="/variants/s8/db42k6lo2k3lo2g10dr7k2~x2/"><circle cx="299.1" cy="111.8" r="4" fill="#3465a4"><title>MacBeth (Fashion)</title></circle></a><a href="/variants/s7/k4w1lb2w1k16db36lb4~x2/"><circle cx="330.9" cy="108.1" r="4" fill="#3465a4"><title>NHS Grampian</title></circle></a><a href="/variants/s7/k8ly2dp6ly2k36db84w7/"><circle cx="337.2" cy="88.4" r="4" fill="#3465a4"><title>Grahame Laurie Band (Corporate)</title></circle></a><a href="/variants/s7/db6dp3db56k24g6r6g6/"><circle cx="306.6" cy="131.7" r="4" fill="#3465a4"><title>Wcwm 9275-1395</title></circle></a><a href="/variants/s11/db50k14g3dr2g3dr2g3dr2g3k2lo2~x2/"><circle cx="327.0" cy="76.6" r="4" fill="#3465a4"><title>Minnock (Name)</title></circle></a><a href="/variants/s6/db48w2k20g22r3g4~x2/"><circle cx="237.4" cy="139.4" r="4" fill="#3465a4"><title>MacFadzean</title></circle></a><a href="/variants/s6/db48k32r1k8r3w3~x2/"><circle cx="327.3" cy="112.6" r="4" fill="#3465a4"><title>Koot Wedding (Personal)</title></circle></a><circle cx="333.1" cy="98.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db36k10g3r3g6k1y2~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Schneidersohne Centenary (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3db5r5k3db5k3r5k3g20k3db10k3r5w3/)
 (the same proportion at any scale), whose colour order is pattern [KBRKBKRKGKBKRW](/stripes/kbrkbkrkgkbkrw/).
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4533
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4533](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4533)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db3r1db1r2db6r1k6g6r2g1r1g2y1~x6/"><circle cx="70.9" cy="174.8" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/variants/s13/db3r1db1r2db6r1k6g6r2g1r1g2y1~x2/"><circle cx="70.9" cy="174.8" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/"><circle cx="68.3" cy="175.1" r="4" fill="#3465a4"><title>MacDonald of Clanranald #3</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6/"><circle cx="68.3" cy="175.1" r="4" fill="#3465a4"><title>MacDonald of Clanranald D</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k10w2g12r3g2r2g6/"><circle cx="70.9" cy="175.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald D</title></circle></a><a href="/variants/s9/k20w3lb20k3r3dg20r10w3k20~x2/"><circle cx="33.9" cy="156.0" r="4" fill="#3465a4"><title>Soutar/Souter</title></circle></a><a href="/variants/s13/db17r3db4r5db20r3k20g20r5g4r3k3y11~x2/"><circle cx="85.9" cy="170.2" r="4" fill="#3465a4"><title>MacSporran</title></circle></a><a href="/variants/s13/db12r2db4r5db16r2k16dy2g16r5g4r2g12~x2/"><circle cx="93.2" cy="169.3" r="4" fill="#3465a4"><title>Macallan</title></circle></a><a href="/variants/s13/db2dr2db12k5dg12dr2dg2dr2dg12k5w14dr2w2~x2/"><circle cx="74.5" cy="163.2" r="4" fill="#3465a4"><title>Blair Dress</title></circle></a><a href="/variants/s10/r3g18r4db3r4k13r3db18g2y3~x2/"><circle cx="92.2" cy="162.8" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn (District)</title></circle></a><circle cx="47.1" cy="161.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db3r1db1r2db6r1k6g6r2g1r1g2y1~x6/"><circle cx="70.9" cy="175.2" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/variants/s13/db3r1db1r2db6r1k6g6r2g1r1g2y1~x2/"><circle cx="70.9" cy="175.2" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/"><circle cx="68.3" cy="175.6" r="4" fill="#3465a4"><title>MacDonald of Clanranald #3</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6/"><circle cx="68.3" cy="175.6" r="4" fill="#3465a4"><title>MacDonald of Clanranald D</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k10w2g12r3g2r2g6/"><circle cx="70.9" cy="175.8" r="4" fill="#3465a4"><title>MacDonald of Clanranald D</title></circle></a><a href="/variants/s9/k20w3lb20k3r3dg20r10w3k20~x2/"><circle cx="33.9" cy="156.5" r="4" fill="#3465a4"><title>Soutar/Souter</title></circle></a><a href="/variants/s13/db17r3db4r5db20r3k20g20r5g4r3k3y11~x2/"><circle cx="85.9" cy="170.6" r="4" fill="#3465a4"><title>MacSporran</title></circle></a><a href="/variants/s13/db12r2db4r5db16r2k16dy2g16r5g4r2g12~x2/"><circle cx="93.2" cy="169.7" r="4" fill="#3465a4"><title>Macallan</title></circle></a><a href="/variants/s13/db2dr2db12k5dg12dr2dg2dr2dg12k5w14dr2w2~x2/"><circle cx="74.5" cy="163.7" r="4" fill="#3465a4"><title>Blair Dress</title></circle></a><a href="/variants/s10/r3g18r4db3r4k13r3db18g2y3~x2/"><circle cx="92.2" cy="163.2" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn (District)</title></circle></a><circle cx="47.1" cy="161.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/k3db5r5k3db5k3r5k3g20k3db10k3r5w3~x2/

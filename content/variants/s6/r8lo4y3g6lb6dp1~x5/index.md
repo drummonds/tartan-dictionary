@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pride, The Tartan of"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r8lo4y3g6lb6dp1/)
 (the same proportion at any scale), whose colour order is pattern [BWGGYR](/stripes/bwggyr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5684
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5684](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5684)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="107.4" cy="274.3" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/variants/s5/r13lo13g13db22w4~x2/"><circle cx="98.9" cy="272.0" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/variants/s7/g21lb21ly3r21n3dp5n3~x2/"><circle cx="125.4" cy="209.4" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/variants/s7/g21db21y3r21n3dp5n3~x2/"><circle cx="122.3" cy="206.5" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="96.4" cy="230.7" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s6/dy19g23ly3db15r11w5~x2/"><circle cx="91.7" cy="229.6" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s5/r39lb22k11ly22g5~x2/"><circle cx="131.9" cy="220.5" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s6/g1r9lo9y9g6w1~x4/"><circle cx="176.0" cy="248.7" r="4" fill="#3465a4"><title>Max Reger, The</title></circle></a><a href="/variants/s7/r24w3y4dg18dp18dy3lb4~x2~dg1104144-dy1703114/"><circle cx="124.0" cy="182.8" r="4" fill="#3465a4"><title>Walter</title></circle></a><a href="/variants/s5/y28r11g11db11w2~x2/"><circle cx="243.0" cy="221.9" r="4" fill="#3465a4"><title>Samye #2</title></circle></a><circle cx="116.7" cy="246.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="107.6" cy="275.0" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/variants/s5/r13lo13g13db22w4~x2/"><circle cx="99.1" cy="272.8" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/variants/s7/g21lb21ly3r21n3dp5n3~x2/"><circle cx="125.5" cy="209.8" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/variants/s7/g21db21y3r21n3dp5n3~x2/"><circle cx="122.4" cy="206.9" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="96.5" cy="231.3" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s6/dy19g23ly3db15r11w5~x2/"><circle cx="91.8" cy="230.2" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s5/r39lb22k11ly22g5~x2/"><circle cx="132.0" cy="221.2" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s6/g1r9lo9y9g6w1~x4/"><circle cx="176.2" cy="249.2" r="4" fill="#3465a4"><title>Max Reger, The</title></circle></a><a href="/variants/s7/r24w3y4dg18dp18dy3lb4~x2~dg1104144-dy1703114/"><circle cx="124.0" cy="183.2" r="4" fill="#3465a4"><title>Walter</title></circle></a><a href="/variants/s5/y28r11g11db11w2~x2/"><circle cx="243.1" cy="222.4" r="4" fill="#3465a4"><title>Samye #2</title></circle></a><circle cx="116.9" cy="246.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r8lo4y3g6lb6dp1~x5/

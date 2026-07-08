@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Haut"
   url: "/tartans/haut/"
+- name: "Haut (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp46b15k12o8g8dp8/)
 (the same proportion at any scale), whose colour order is pattern [BBKRGB](/stripes/bbkrgb/).
@@ -14,7 +16,7 @@ Part of the [Haut](/tartans/haut/) tartan — the named design grouping this set
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10389
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10389](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10389)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp46dpi15k12o8g8dp8~x2~dp1105325-dpi1707311/"><circle cx="263.7" cy="204.5" r="4" fill="#3465a4"><title>Haut Name Tartan</title></circle></a><a href="/variants/s5/k3r11db26dy11lo3~x2/"><circle cx="212.5" cy="199.2" r="4" fill="#3465a4"><title>Novotel, The</title></circle></a><a href="/variants/s7/dp18g24k3db6dp2db5dp18~x2/"><circle cx="266.7" cy="199.4" r="4" fill="#3465a4"><title>Saorsa</title></circle></a><a href="/variants/s7/dp22ly10dp6lb18dp50db71k6/"><circle cx="230.2" cy="176.2" r="4" fill="#3465a4"><title>Charleston Police Department</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4~db1406275-dy1603076/"><circle cx="282.7" cy="220.6" r="4" fill="#3465a4"><title>Ancient Atlantic</title></circle></a><a href="/variants/s5/k16w3lr4dp35b12~x2~lr3100000-dp1502305/"><circle cx="188.9" cy="148.0" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/variants/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="291.9" cy="215.2" r="4" fill="#3465a4"><title>Woodcock (2014)</title></circle></a><a href="/variants/s5/k1r2lb1db5ly1~x16/"><circle cx="169.0" cy="210.5" r="4" fill="#3465a4"><title>University of Trinity College</title></circle></a><a href="/variants/s6/n46dp15k12ni8g8b8~x2~dp1403303-ni2104317/"><circle cx="204.7" cy="209.5" r="4" fill="#3465a4"><title>Haut Family (by Dundee)</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4/"><circle cx="279.4" cy="221.6" r="4" fill="#3465a4"><title>Atlantic, Ancient (Fashion)</title></circle></a><circle cx="245.5" cy="201.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp46dpi15k12o8g8dp8~x2~dp1105325-dpi1707311/"><circle cx="263.8" cy="204.9" r="4" fill="#3465a4"><title>Haut Name Tartan</title></circle></a><a href="/variants/s5/k3r11db26dy11lo3~x2/"><circle cx="212.5" cy="199.7" r="4" fill="#3465a4"><title>Novotel, The</title></circle></a><a href="/variants/s7/dp18g24k3db6dp2db5dp18~x2/"><circle cx="266.7" cy="199.8" r="4" fill="#3465a4"><title>Saorsa</title></circle></a><a href="/variants/s7/dp22ly10dp6lb18dp50db71k6/"><circle cx="230.2" cy="176.5" r="4" fill="#3465a4"><title>Charleston Police Department</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4~db1406275-dy1603076/"><circle cx="282.8" cy="221.1" r="4" fill="#3465a4"><title>Ancient Atlantic</title></circle></a><a href="/variants/s5/k16w3lr4dp35b12~x2~lr3100000-dp1502305/"><circle cx="188.8" cy="148.3" r="4" fill="#3465a4"><title>Ferster, James Carney</title></circle></a><a href="/variants/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="292.0" cy="215.6" r="4" fill="#3465a4"><title>Woodcock (2014)</title></circle></a><a href="/variants/s5/k1r2lb1db5ly1~x16/"><circle cx="169.1" cy="211.1" r="4" fill="#3465a4"><title>University of Trinity College</title></circle></a><a href="/variants/s6/n46dp15k12ni8g8b8~x2~dp1403303-ni2104317/"><circle cx="204.8" cy="209.8" r="4" fill="#3465a4"><title>Haut Family (by Dundee)</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4/"><circle cx="279.5" cy="222.1" r="4" fill="#3465a4"><title>Atlantic, Ancient (Fashion)</title></circle></a><circle cx="245.5" cy="201.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dp46b15k12o8g8dp8~x2/

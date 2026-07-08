@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Smeaton 1985 (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k6r4lb3r44k32r3k3lo3k2r3/)
 (the same proportion at any scale), whose colour order is pattern [KRWRKRKYKR](/stripes/krwrkrkykr/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3213
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3213](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3213)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/"><circle cx="293.6" cy="136.5" r="4" fill="#3465a4"><title>Hanna of Falkirk (Clan?)</title></circle></a><a href="/variants/s9/n3k14r3k14lb3r32k2r6k2~x2/"><circle cx="267.3" cy="122.7" r="4" fill="#3465a4"><title>Gallmore (Fashion)</title></circle></a><a href="/variants/s8/r50y8k2w2k2y8k22r3~x2/"><circle cx="297.1" cy="99.5" r="4" fill="#3465a4"><title>FIRES Center of Excelence</title></circle></a><a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x4/"><circle cx="295.3" cy="114.5" r="4" fill="#3465a4"><title>Wemyss</title></circle></a><a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/"><circle cx="295.3" cy="114.5" r="4" fill="#3465a4"><title>Wemyss</title></circle></a><a href="/variants/s7/k3r1k30r28db1r1w3~x2/"><circle cx="292.7" cy="96.3" r="4" fill="#3465a4"><title>Cunningham #3</title></circle></a><a href="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/"><circle cx="295.2" cy="97.3" r="4" fill="#3465a4"><title>Maciver of Strathendry Castle Dress (Personal)</title></circle></a><a href="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/"><circle cx="317.2" cy="87.0" r="4" fill="#3465a4"><title>University of Georgia (Corporate)</title></circle></a><a href="/variants/s9/y1r12k2r2k16r2k2r12w1/"><circle cx="289.5" cy="124.8" r="4" fill="#3465a4"><title>MacIvor</title></circle></a><a href="/variants/s9/y1r12k2r2k16r2k2r12w1~x2/"><circle cx="289.5" cy="124.8" r="4" fill="#3465a4"><title>MacIver</title></circle></a><circle cx="294.1" cy="88.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/"><circle cx="293.6" cy="136.9" r="4" fill="#3465a4"><title>Hanna of Falkirk (Clan?)</title></circle></a><a href="/variants/s9/n3k14r3k14lb3r32k2r6k2~x2/"><circle cx="267.3" cy="123.1" r="4" fill="#3465a4"><title>Gallmore (Fashion)</title></circle></a><a href="/variants/s8/r50y8k2w2k2y8k22r3~x2/"><circle cx="297.1" cy="99.8" r="4" fill="#3465a4"><title>FIRES Center of Excelence</title></circle></a><a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x4/"><circle cx="295.3" cy="114.8" r="4" fill="#3465a4"><title>Wemyss</title></circle></a><a href="/variants/s9/r4k12w1k12r4k4r24g1r4~x2/"><circle cx="295.3" cy="114.8" r="4" fill="#3465a4"><title>Wemyss</title></circle></a><a href="/variants/s7/k3r1k30r28db1r1w3~x2/"><circle cx="292.6" cy="96.6" r="4" fill="#3465a4"><title>Cunningham #3</title></circle></a><a href="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/"><circle cx="295.1" cy="97.6" r="4" fill="#3465a4"><title>Maciver of Strathendry Castle Dress (Personal)</title></circle></a><a href="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/"><circle cx="317.1" cy="87.3" r="4" fill="#3465a4"><title>University of Georgia (Corporate)</title></circle></a><a href="/variants/s9/y1r12k2r2k16r2k2r12w1/"><circle cx="289.5" cy="125.2" r="4" fill="#3465a4"><title>MacIvor</title></circle></a><a href="/variants/s9/y1r12k2r2k16r2k2r12w1~x2/"><circle cx="289.5" cy="125.2" r="4" fill="#3465a4"><title>MacIver</title></circle></a><circle cx="294.0" cy="88.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/

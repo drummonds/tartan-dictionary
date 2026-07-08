@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Spring Morning (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g1y9g9lo1/)
 (the same proportion at any scale), whose colour order is pattern [GGGY](/stripes/gggy/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5311
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5311](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5311)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g9o20g46lg5~x2/"><circle cx="536.0" cy="299.8" r="4" fill="#3465a4"><title>O'Neill, Red (Corporate?)</title></circle></a><a href="/variants/s4/g56dy13y13n5~x2/"><circle cx="504.7" cy="280.5" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/variants/s4/yi9g52dy15y4~x2~yi2202111-dy1502083/"><circle cx="557.7" cy="288.4" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife) (Personal)</title></circle></a><a href="/variants/s6/y9g9lo1g9y9g1~x4/"><circle cx="545.4" cy="356.4" r="4" fill="#3465a4"><title>Spring Morning</title></circle></a><a href="/variants/s3/dg6db2dg1~x8/"><circle cx="584.3" cy="363.9" r="4" fill="#3465a4"><title>Montgomery - 1842 (VS</title></circle></a><a href="/variants/s6/y7dg7db2dg7y7w1~x2~dg1806142-db1406275-w4000000/"><circle cx="349.9" cy="316.7" r="4" fill="#3465a4"><title>Norwich No.078</title></circle></a><a href="/variants/s5/o62n17ly12y8dg8~x2/"><circle cx="411.6" cy="245.1" r="4" fill="#3465a4"><title>Dundhuin Dress (Personal)</title></circle></a><a href="/variants/s4/y22dp1g22r4~x4/"><circle cx="450.6" cy="263.9" r="4" fill="#3465a4"><title>McWilliams (2014)</title></circle></a><a href="/variants/s4/g53r13db2y22~x2/"><circle cx="455.3" cy="231.9" r="4" fill="#3465a4"><title>Englehart</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.5" cy="296.3" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><circle cx="538.1" cy="341.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g9o20g46lg5~x2/"><circle cx="536.2" cy="300.2" r="4" fill="#3465a4"><title>O'Neill, Red (Corporate?)</title></circle></a><a href="/variants/s4/g56dy13y13n5~x2/"><circle cx="504.9" cy="280.8" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/variants/s4/yi9g52dy15y4~x2~yi2202111-dy1502083/"><circle cx="557.9" cy="288.6" r="4" fill="#3465a4"><title>McGuigan, Julia (St Monans, Fife) (Personal)</title></circle></a><a href="/variants/s6/y9g9lo1g9y9g1~x4/"><circle cx="545.7" cy="356.7" r="4" fill="#3465a4"><title>Spring Morning</title></circle></a><a href="/variants/s3/dg6db2dg1~x8/"><circle cx="584.5" cy="364.3" r="4" fill="#3465a4"><title>Montgomery - 1842 (VS</title></circle></a><a href="/variants/s6/y7dg7db2dg7y7w1~x2~dg1806142-db1406275-w4000000/"><circle cx="350.2" cy="317.2" r="4" fill="#3465a4"><title>Norwich No.078</title></circle></a><a href="/variants/s5/o62n17ly12y8dg8~x2/"><circle cx="411.7" cy="245.4" r="4" fill="#3465a4"><title>Dundhuin Dress (Personal)</title></circle></a><a href="/variants/s4/y22dp1g22r4~x4/"><circle cx="450.8" cy="264.1" r="4" fill="#3465a4"><title>McWilliams (2014)</title></circle></a><a href="/variants/s4/g53r13db2y22~x2/"><circle cx="455.4" cy="232.1" r="4" fill="#3465a4"><title>Englehart</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.7" cy="296.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><circle cx="538.4" cy="342.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/g1y9g9lo1~x4/

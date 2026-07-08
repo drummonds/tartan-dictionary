@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Caribou"
   url: "/tartans/caribou/"
+- name: "Caribou"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w1b4k1lt3k1n4db1n4k1lt3k1g4lt1g4k1lt3k1b4w1/)
 (the same proportion at any scale), whose colour order is pattern [WBKWKBBBKWKGWGKWKBW](/stripes/wbkwkbbbkwkgwgkwkbw/).
@@ -14,7 +16,7 @@ Part of the [Caribou](/tartans/caribou/) tartan — the named design grouping th
 
 Sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/w1dr4k1lb3k1n4db1n4k1lb3k1g4lb1g4k1lb3k1dr4w1~x4/"><circle cx="14.0" cy="170.7" r="4" fill="#3465a4"><title>Caribou (District)</title></circle></a><a href="/variants/s13/w2k1dg4g4dg4k1dg1k1db4lb5db4k1w1~x4/"><circle cx="14.0" cy="188.2" r="4" fill="#3465a4"><title>Dyer</title></circle></a><a href="/variants/s12/w3dr3k3dr10t7db8g4db3g3db3g13lo3~x2/"><circle cx="24.6" cy="190.4" r="4" fill="#3465a4"><title>Chattahoochee River</title></circle></a><a href="/variants/s24/k7g9k2ly2k2y2k2g9k7db7r2db3r2db7k7w2k2w11k2w3k2w11k2w2~x4/"><circle cx="14.0" cy="127.8" r="4" fill="#3465a4"><title>Malcolm Dress</title></circle></a><a href="/variants/s11/t6k4t10w2db10g4db6g9r2g4dy2~x4/"><circle cx="31.7" cy="203.4" r="4" fill="#3465a4"><title>O'Sullivan (Name)</title></circle></a><a href="/variants/s12/k5g15dy8g15k5r4db8lb5w3lb5db8r4~x2/"><circle cx="14.0" cy="183.4" r="4" fill="#3465a4"><title>Anderson (Blackwood) (Personal)</title></circle></a><a href="/variants/s24/k2y2k2g9k7w2k3w12k2w4k2w12k3w2k7db7r2db3r2db7k7g9k2lb2~x2/"><circle cx="14.0" cy="125.2" r="4" fill="#3465a4"><title>Malcolm, dress</title></circle></a><a href="/variants/s17/k8w9y6w10dp5g6dp5w36db8k8db8k8db8k8db8g38r8/"><circle cx="14.0" cy="116.5" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/variants/s12/k3lb13m11t3k10w2k10t3g6m3lg13t3~x2~g2007139-lg2909145/"><circle cx="14.0" cy="162.1" r="4" fill="#3465a4"><title>Cascade Summers</title></circle></a><a href="/variants/s12/dy2lb10k2w2k2dy2k2db3g3k2g2w2~x4/"><circle cx="14.0" cy="168.7" r="4" fill="#3465a4"><title>MacSheehy</title></circle></a><circle cx="14.0" cy="175.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/w1dr4k1lb3k1n4db1n4k1lb3k1g4lb1g4k1lb3k1dr4w1~x4/"><circle cx="14.0" cy="171.2" r="4" fill="#3465a4"><title>Caribou (District)</title></circle></a><a href="/variants/s13/w2k1dg4g4dg4k1dg1k1db4lb5db4k1w1~x4/"><circle cx="14.0" cy="188.7" r="4" fill="#3465a4"><title>Dyer</title></circle></a><a href="/variants/s12/w3dr3k3dr10t7db8g4db3g3db3g13lo3~x2/"><circle cx="24.6" cy="190.8" r="4" fill="#3465a4"><title>Chattahoochee River</title></circle></a><a href="/variants/s24/k7g9k2ly2k2y2k2g9k7db7r2db3r2db7k7w2k2w11k2w3k2w11k2w2~x4/"><circle cx="14.0" cy="128.1" r="4" fill="#3465a4"><title>Malcolm Dress</title></circle></a><a href="/variants/s11/t6k4t10w2db10g4db6g9r2g4dy2~x4/"><circle cx="31.7" cy="203.8" r="4" fill="#3465a4"><title>O'Sullivan (Name)</title></circle></a><a href="/variants/s12/k5g15dy8g15k5r4db8lb5w3lb5db8r4~x2/"><circle cx="14.0" cy="183.9" r="4" fill="#3465a4"><title>Anderson (Blackwood) (Personal)</title></circle></a><a href="/variants/s24/k2y2k2g9k7w2k3w12k2w4k2w12k3w2k7db7r2db3r2db7k7g9k2lb2~x2/"><circle cx="14.0" cy="125.5" r="4" fill="#3465a4"><title>Malcolm, dress</title></circle></a><a href="/variants/s17/k8w9y6w10dp5g6dp5w36db8k8db8k8db8k8db8g38r8/"><circle cx="14.0" cy="116.8" r="4" fill="#3465a4"><title>Kennedy</title></circle></a><a href="/variants/s12/k3lb13m11t3k10w2k10t3g6m3lg13t3~x2~g2007139-lg2909145/"><circle cx="14.0" cy="162.5" r="4" fill="#3465a4"><title>Cascade Summers</title></circle></a><a href="/variants/s12/dy2lb10k2w2k2dy2k2db3g3k2g2w2~x4/"><circle cx="14.0" cy="169.2" r="4" fill="#3465a4"><title>MacSheehy</title></circle></a><circle cx="14.0" cy="175.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s19/w1b4k1lt3k1n4db1n4k1lt3k1g4lt1g4k1lt3k1b4w1~x4~lt3303227-g2508144/

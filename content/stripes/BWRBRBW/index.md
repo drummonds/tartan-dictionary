@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/db7w1r7db4r2db4w2~x2/">Coronation</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/db7w1r7db4r2db4w2~x2/"><img src="/variants/s7/db7w1r7db4r2db4w2~x2/sett.png" alt="Coronation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/db11w1r12db6r1db6w1/">Coronation</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/db11w1r12db6r1db6w1/"><img src="/variants/s7/db11w1r12db6r1db6w1~x2/sett.png" alt="Coronation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/db7w1r7db4r2db4w2~x2/">Coronation</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/db7w1r7db4r2db4w2~x2/"><img src="/variants/s7/db7w1r7db4r2db4w2~x2/sett.png" alt="Coronation sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Louisville Fire & Rescue P&D"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w1db8r3db2r1db2r3db8ly1/)
 (the same proportion at any scale), whose colour order is pattern [WBRBRBRBY](/stripes/wbrbrbrby/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8965
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8965](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8965)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db27r5db27r3db3r30db23~x2/"><circle cx="428.4" cy="243.0" r="4" fill="#3465a4"><title>Unidentified Plaid #10</title></circle></a><a href="/variants/s9/db26r3db3w2db3r3db6r6y2~x4/"><circle cx="414.9" cy="152.6" r="4" fill="#3465a4"><title>Newton Primary School, Dunblane</title></circle></a><a href="/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/"><circle cx="417.7" cy="153.5" r="4" fill="#3465a4"><title>Newton Primary School</title></circle></a><a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/"><circle cx="411.7" cy="181.8" r="4" fill="#3465a4"><title>Orlando Fire Department (Corporate)</title></circle></a><a href="/variants/s9/db3r13db13r9db5w2dp9db21ly2~x2/"><circle cx="268.2" cy="190.1" r="4" fill="#3465a4"><title>Telfer, Brian William (Personal)</title></circle></a><a href="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/"><circle cx="274.8" cy="192.2" r="4" fill="#3465a4"><title>Telfer, Brian William (Personal)</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="417.0" cy="153.2" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/variants/s8/db33w7db5r2db5w2r13db3~x2/"><circle cx="384.0" cy="163.8" r="4" fill="#3465a4"><title>Americana - 1978 (Fashion)</title></circle></a><a href="/variants/s7/db8r2db18r1db2w10db4~x2/"><circle cx="402.1" cy="181.5" r="4" fill="#3465a4"><title>Nike ACG Lunarstorm (Fashion)</title></circle></a><a href="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/"><circle cx="292.8" cy="234.9" r="4" fill="#3465a4"><title>Millar (Kirkcaldy) (Personal)</title></circle></a><circle cx="365.7" cy="197.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db27r5db27r3db3r30db23~x2/"><circle cx="428.5" cy="243.6" r="4" fill="#3465a4"><title>Unidentified Plaid #10</title></circle></a><a href="/variants/s9/db26r3db3w2db3r3db6r6y2~x4/"><circle cx="414.9" cy="153.0" r="4" fill="#3465a4"><title>Newton Primary School, Dunblane</title></circle></a><a href="/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/"><circle cx="417.7" cy="153.8" r="4" fill="#3465a4"><title>Newton Primary School</title></circle></a><a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/"><circle cx="411.7" cy="182.2" r="4" fill="#3465a4"><title>Orlando Fire Department (Corporate)</title></circle></a><a href="/variants/s9/db3r13db13r9db5w2dp9db21ly2~x2/"><circle cx="268.3" cy="190.5" r="4" fill="#3465a4"><title>Telfer, Brian William (Personal)</title></circle></a><a href="/variants/s9/db3r13db13r9db5w2dp9db21y2~x2/"><circle cx="274.9" cy="192.6" r="4" fill="#3465a4"><title>Telfer, Brian William (Personal)</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="417.0" cy="153.6" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/variants/s8/db33w7db5r2db5w2r13db3~x2/"><circle cx="384.0" cy="164.3" r="4" fill="#3465a4"><title>Americana - 1978 (Fashion)</title></circle></a><a href="/variants/s7/db8r2db18r1db2w10db4~x2/"><circle cx="402.1" cy="182.0" r="4" fill="#3465a4"><title>Nike ACG Lunarstorm (Fashion)</title></circle></a><a href="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/"><circle cx="292.9" cy="235.5" r="4" fill="#3465a4"><title>Millar (Kirkcaldy) (Personal)</title></circle></a><circle cx="365.8" cy="197.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/w1db8r3db2r1db2r3db8ly1~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hirstwood (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly28dr24dg55dp19/)
 (the same proportion at any scale), whose colour order is pattern [BGBY](/stripes/bgby/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8099
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8099](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8099)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/dp2g4y1~x4/"><circle cx="344.0" cy="346.4" r="4" fill="#3465a4"><title>Wilson's No.201</title></circle></a><a href="/variants/s4/r1g3dp3w1~x4/"><circle cx="139.6" cy="304.3" r="4" fill="#3465a4"><title>Wilson's, No 113</title></circle></a><a href="/variants/s3/dp5g6y1~x4/"><circle cx="322.6" cy="324.6" r="4" fill="#3465a4"><title>Wilson's, No 81</title></circle></a><a href="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/"><circle cx="254.3" cy="257.3" r="4" fill="#3465a4"><title>Phinn (Personal)</title></circle></a><a href="/variants/s4/g15r3dp11lb2~x2/"><circle cx="261.8" cy="255.0" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/variants/s3/g7lb2r4~x2~r2109032/"><circle cx="257.5" cy="327.2" r="4" fill="#3465a4"><title>Wilson's No.208</title></circle></a><a href="/variants/s4/r2db2g3y2~x5/"><circle cx="91.1" cy="366.0" r="4" fill="#3465a4"><title>Sturch (Corporate)</title></circle></a><a href="/variants/s3/db53g42r14~x2/"><circle cx="250.5" cy="335.8" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/variants/s3/db53g42r14/"><circle cx="250.5" cy="335.8" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/variants/s3/g7lb2r4~x2/"><circle cx="289.3" cy="340.2" r="4" fill="#3465a4"><title>Wilson's, No 208</title></circle></a><circle cx="188.4" cy="334.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/dp2g4y1~x4/"><circle cx="344.3" cy="347.2" r="4" fill="#3465a4"><title>Wilson's No.201</title></circle></a><a href="/variants/s4/r1g3dp3w1~x4/"><circle cx="139.9" cy="305.2" r="4" fill="#3465a4"><title>Wilson's, No 113</title></circle></a><a href="/variants/s3/dp5g6y1~x4/"><circle cx="322.9" cy="325.4" r="4" fill="#3465a4"><title>Wilson's, No 81</title></circle></a><a href="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/"><circle cx="254.5" cy="257.8" r="4" fill="#3465a4"><title>Phinn (Personal)</title></circle></a><a href="/variants/s4/g15r3dp11lb2~x2/"><circle cx="261.9" cy="255.6" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/variants/s3/g7lb2r4~x2~r2109032/"><circle cx="257.8" cy="328.1" r="4" fill="#3465a4"><title>Wilson's No.208</title></circle></a><a href="/variants/s4/r2db2g3y2~x5/"><circle cx="91.5" cy="366.0" r="4" fill="#3465a4"><title>Sturch (Corporate)</title></circle></a><a href="/variants/s3/db53g42r14~x2/"><circle cx="250.8" cy="336.7" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/variants/s3/db53g42r14/"><circle cx="250.8" cy="336.7" r="4" fill="#3465a4"><title>Agnew</title></circle></a><a href="/variants/s3/g7lb2r4~x2/"><circle cx="289.6" cy="341.2" r="4" fill="#3465a4"><title>Wilson's, No 208</title></circle></a><circle cx="188.7" cy="335.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/ly28dr24dg55dp19~x2/

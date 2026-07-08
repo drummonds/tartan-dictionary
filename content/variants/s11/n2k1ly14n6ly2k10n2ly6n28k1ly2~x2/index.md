@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Rhode Island (Fash.)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n2k1ly14n6ly2k10n2ly6n28k1ly2/)
 (the same proportion at any scale), whose colour order is pattern [BKYBYKBYBKY](/stripes/bkybykbybky/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8653
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8653](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8653)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/"><circle cx="255.8" cy="133.1" r="4" fill="#3465a4"><title>Stewart of Atholl (Clan)</title></circle></a><a href="/variants/s10/t4k12db3t4db3k3ly36db3t2ly3~x2/"><circle cx="249.9" cy="113.2" r="4" fill="#3465a4"><title>Hughes (USA) (Name)</title></circle></a><a href="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/"><circle cx="248.6" cy="137.6" r="4" fill="#3465a4"><title>Stewart of Atholl</title></circle></a><a href="/variants/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/"><circle cx="242.3" cy="107.6" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #2</title></circle></a><a href="/variants/s10/k3y3lr3y3k12y24k1y3k3w3~x2/"><circle cx="289.5" cy="108.7" r="4" fill="#3465a4"><title>Bruichladdich (Corporate)</title></circle></a><a href="/variants/s10/k3r1k1w20k10r2k2w2k2r2~x4/"><circle cx="254.8" cy="116.4" r="4" fill="#3465a4"><title>Buckleigh Dress (Fashion)</title></circle></a><a href="/variants/s7/g3r16w4k6g28r1g3~x2/"><circle cx="296.2" cy="133.6" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/"><circle cx="288.9" cy="151.7" r="4" fill="#3465a4"><title>Bannockbane Grey #3</title></circle></a><a href="/variants/s9/r4ly24k13ly2k4ly3k1ly3lb2~x2/"><circle cx="287.6" cy="115.4" r="4" fill="#3465a4"><title>Cardiff City Football Club (Corp)</title></circle></a><a href="/variants/s8/g36k2g2k2g3k12lb10r20~x2/"><circle cx="216.5" cy="143.3" r="4" fill="#3465a4"><title>Georgia, State of</title></circle></a><circle cx="292.7" cy="122.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g22k1g2k1g3k8r20k1r3~x4/"><circle cx="255.7" cy="133.5" r="4" fill="#3465a4"><title>Stewart of Atholl (Clan)</title></circle></a><a href="/variants/s10/t4k12db3t4db3k3ly36db3t2ly3~x2/"><circle cx="249.9" cy="113.6" r="4" fill="#3465a4"><title>Hughes (USA) (Name)</title></circle></a><a href="/variants/s9/g22k1g2k1g3k8r20k1r6~x2/"><circle cx="248.6" cy="138.0" r="4" fill="#3465a4"><title>Stewart of Atholl</title></circle></a><a href="/variants/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/"><circle cx="242.2" cy="107.9" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #2</title></circle></a><a href="/variants/s10/k3y3lr3y3k12y24k1y3k3w3~x2/"><circle cx="289.4" cy="109.0" r="4" fill="#3465a4"><title>Bruichladdich (Corporate)</title></circle></a><a href="/variants/s10/k3r1k1w20k10r2k2w2k2r2~x4/"><circle cx="254.8" cy="116.9" r="4" fill="#3465a4"><title>Buckleigh Dress (Fashion)</title></circle></a><a href="/variants/s7/g3r16w4k6g28r1g3~x2/"><circle cx="296.2" cy="134.0" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/"><circle cx="288.9" cy="152.1" r="4" fill="#3465a4"><title>Bannockbane Grey #3</title></circle></a><a href="/variants/s9/r4ly24k13ly2k4ly3k1ly3lb2~x2/"><circle cx="287.6" cy="115.8" r="4" fill="#3465a4"><title>Cardiff City Football Club (Corp)</title></circle></a><a href="/variants/s8/g36k2g2k2g3k12lb10r20~x2/"><circle cx="216.5" cy="143.7" r="4" fill="#3465a4"><title>Georgia, State of</title></circle></a><circle cx="292.7" cy="123.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/n2k1ly14n6ly2k10n2ly6n28k1ly2~x2/

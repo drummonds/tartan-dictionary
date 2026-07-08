@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Police College Tulliallan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2k4kii36g1ki34db4w2/)
 (the same proportion at any scale), whose colour order is pattern [BKKGKBW](/stripes/bkkgkbw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3351
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3351](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3351)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k6dbi3dg28w1db28dbi2w3~x2~dbi1406275-db1204274/"><circle cx="305.8" cy="132.4" r="4" fill="#3465a4"><title>Weisfeld</title></circle></a><a href="/variants/s7/k6dbi3dg28w1db28dbi2w3~x2~dbi1604274-db0805267/"><circle cx="248.7" cy="133.8" r="4" fill="#3465a4"><title>Weisfeld</title></circle></a><a href="/variants/s6/k10lo4dg34db34k1y3~x2/"><circle cx="265.2" cy="143.4" r="4" fill="#3465a4"><title>Singh, Gopal (Personal)</title></circle></a><a href="/variants/s5/k37dg37n8ki3dp5~x2~k0504259-ki0700000/"><circle cx="314.6" cy="221.7" r="4" fill="#3465a4"><title>Dallard (Personal)</title></circle></a><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/"><circle cx="311.1" cy="96.3" r="4" fill="#3465a4"><title>Henschke, Felix (Personal)</title></circle></a><a href="/variants/s6/db1lb2k50dg50dy2r1~x2/"><circle cx="335.7" cy="92.0" r="4" fill="#3465a4"><title>Josse (Bro Sant Malo), Gilbert (Personal)</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r2~x2/"><circle cx="404.4" cy="126.8" r="4" fill="#3465a4"><title>MacWilliam Htg</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r1~x2/"><circle cx="419.3" cy="128.1" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/"><circle cx="237.3" cy="150.2" r="4" fill="#3465a4"><title>Nova Scotia Int. Tattoo (Corporate)</title></circle></a><a href="/variants/s6/dg42dy2dgi16db7k16r5~x2~dg1202166-dgi1804158/"><circle cx="252.2" cy="154.8" r="4" fill="#3465a4"><title>Waterford Irish County Tartan</title></circle></a><circle cx="321.7" cy="117.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k6dbi3dg28w1db28dbi2w3~x2~dbi1406275-db1204274/"><circle cx="305.7" cy="132.3" r="4" fill="#3465a4"><title>Weisfeld</title></circle></a><a href="/variants/s7/k6dbi3dg28w1db28dbi2w3~x2~dbi1604274-db0805267/"><circle cx="248.6" cy="133.9" r="4" fill="#3465a4"><title>Weisfeld</title></circle></a><a href="/variants/s6/k10lo4dg34db34k1y3~x2/"><circle cx="265.1" cy="143.5" r="4" fill="#3465a4"><title>Singh, Gopal (Personal)</title></circle></a><a href="/variants/s5/k37dg37n8ki3dp5~x2~k0504259-ki0700000/"><circle cx="314.6" cy="221.9" r="4" fill="#3465a4"><title>Dallard (Personal)</title></circle></a><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/"><circle cx="311.0" cy="96.3" r="4" fill="#3465a4"><title>Henschke, Felix (Personal)</title></circle></a><a href="/variants/s6/db1lb2k50dg50dy2r1~x2/"><circle cx="335.6" cy="92.0" r="4" fill="#3465a4"><title>Josse (Bro Sant Malo), Gilbert (Personal)</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r2~x2/"><circle cx="404.3" cy="126.8" r="4" fill="#3465a4"><title>MacWilliam Htg</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r1~x2/"><circle cx="419.2" cy="128.0" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/"><circle cx="237.2" cy="150.3" r="4" fill="#3465a4"><title>Nova Scotia Int. Tattoo (Corporate)</title></circle></a><a href="/variants/s6/dg42dy2dgi16db7k16r5~x2~dg1202166-dgi1804158/"><circle cx="252.2" cy="154.9" r="4" fill="#3465a4"><title>Waterford Irish County Tartan</title></circle></a><circle cx="321.5" cy="117.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db2k4kii36g1ki34db4w2~x2~kii0803152-ki0604259/

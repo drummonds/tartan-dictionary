@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unnamed Brown (Teddy Bear)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1dy7ly25dy7r1/)
 (the same proportion at any scale), whose colour order is pattern [RGYGR](/stripes/rgygr/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4411
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4411](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4411)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/ly100dy26g3r2~x2~r2109032/"><circle cx="513.9" cy="137.4" r="4" fill="#3465a4"><title>Canadian Irish Regiment</title></circle></a><a href="/variants/s4/ly100dy26g3r2~x2/"><circle cx="514.0" cy="137.4" r="4" fill="#3465a4"><title>Canadian Irish Regiment (Military)</title></circle></a><a href="/variants/s5/ly12w1k2ly1r1~x8/"><circle cx="419.9" cy="159.5" r="4" fill="#3465a4"><title>Lochcarron Camel</title></circle></a><a href="/variants/s5/ly12w1k2ly1k1~x8/"><circle cx="408.6" cy="157.0" r="4" fill="#3465a4"><title>Lochcarron, Camel (Fashion)</title></circle></a><a href="/variants/s4/ly75k29ly4y6~x2~ly3307090-k0700000/"><circle cx="397.0" cy="183.3" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/variants/s6/dg68r24dg8ly18dg3ly18~x2/"><circle cx="340.3" cy="184.1" r="4" fill="#3465a4"><title>MacMillan/Isetan (Corporate)</title></circle></a><a href="/variants/s5/o38w9o3do9w3~x2/"><circle cx="413.0" cy="204.0" r="4" fill="#3465a4"><title>Loch Tummel</title></circle></a><a href="/variants/s7/g3r16g4k6g28r1g3~x2/"><circle cx="369.0" cy="149.9" r="4" fill="#3465a4"><title>Maxwell, hunting</title></circle></a><circle cx="386.8" cy="171.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/ly100dy26g3r2~x2~r2109032/"><circle cx="514.0" cy="137.8" r="4" fill="#3465a4"><title>Canadian Irish Regiment</title></circle></a><a href="/variants/s4/ly100dy26g3r2~x2/"><circle cx="514.0" cy="137.8" r="4" fill="#3465a4"><title>Canadian Irish Regiment (Military)</title></circle></a><a href="/variants/s5/ly12w1k2ly1r1~x8/"><circle cx="420.0" cy="160.1" r="4" fill="#3465a4"><title>Lochcarron Camel</title></circle></a><a href="/variants/s5/ly12w1k2ly1k1~x8/"><circle cx="408.7" cy="157.6" r="4" fill="#3465a4"><title>Lochcarron, Camel (Fashion)</title></circle></a><a href="/variants/s4/ly75k29ly4y6~x2~ly3307090-k0700000/"><circle cx="397.1" cy="184.0" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/variants/s6/dg68r24dg8ly18dg3ly18~x2/"><circle cx="340.4" cy="184.6" r="4" fill="#3465a4"><title>MacMillan/Isetan (Corporate)</title></circle></a><a href="/variants/s5/o38w9o3do9w3~x2/"><circle cx="413.1" cy="204.6" r="4" fill="#3465a4"><title>Loch Tummel</title></circle></a><a href="/variants/s7/g3r16g4k6g28r1g3~x2/"><circle cx="369.0" cy="150.3" r="4" fill="#3465a4"><title>Maxwell, hunting</title></circle></a><circle cx="386.9" cy="171.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r1dy7ly25dy7r1~x2/

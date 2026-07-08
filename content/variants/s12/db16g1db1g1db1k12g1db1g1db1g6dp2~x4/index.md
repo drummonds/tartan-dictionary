@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Stephen-Mathieson"
   url: "/tartans/stephen-mathieson/"
+- name: "Stephen-Mathieson"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db16g1db1g1db1k12g1db1g1db1g6dp2/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBGKBGBGB](/stripes/bgbgbgkbgbgb/).
@@ -14,7 +16,7 @@ Part of the [Stephen-Mathieson](/tartans/stephen-mathieson/) tartan — the name
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10108
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10108](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10108)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/g18k1db3k1g3k8db18k1y1k5y1k1db18k8g2k1db2~x2/"><circle cx="220.5" cy="113.7" r="4" fill="#3465a4"><title>Hope-Vere/Weir</title></circle></a><a href="/variants/s14/db3g1k1db2n16db2k4g1k1db16n2db2k1g3~x2/"><circle cx="265.6" cy="128.7" r="4" fill="#3465a4"><title>Tiger of Sweden</title></circle></a><a href="/variants/s13/y7k1db22k2db1k2db4k2db1k2db4k18w5~x2~k0503265-db1605267/"><circle cx="252.4" cy="115.2" r="4" fill="#3465a4"><title>Swedish</title></circle></a><a href="/variants/s9/k2db3g16b1k13b1db18k2db2~x2/"><circle cx="207.5" cy="149.1" r="4" fill="#3465a4"><title>Hebridean Old</title></circle></a><a href="/variants/s11/r3db16k12t34k12db2k2db2k2db7r3~x2/"><circle cx="182.8" cy="137.7" r="4" fill="#3465a4"><title>Rangers 1989 (Sports)</title></circle></a><a href="/variants/s9/k2db3g16lb1k13lb1db18k2db2~x2/"><circle cx="202.1" cy="147.3" r="4" fill="#3465a4"><title>Hebridean Old.. District Tartan</title></circle></a><a href="/variants/s14/g19k1g4k1g3k10db20y1k7y1db20k10y3g1~x2/"><circle cx="192.0" cy="128.3" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/variants/s9/g20k2g2k2g2k8db24dp3db3~x2/"><circle cx="208.8" cy="159.3" r="4" fill="#3465a4"><title>MacHarg, Iain</title></circle></a><a href="/variants/s10/db32g2db2g14k2g14k2g2k15r2~x2/"><circle cx="201.5" cy="142.4" r="4" fill="#3465a4"><title>Dunedin Chapter</title></circle></a><a href="/variants/s12/db30o3db4k2db2w2db2k14o8db2o6w2~x2/"><circle cx="249.8" cy="118.9" r="4" fill="#3465a4"><title>Unidentified #48</title></circle></a><circle cx="241.9" cy="123.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/g18k1db3k1g3k8db18k1y1k5y1k1db18k8g2k1db2~x2/"><circle cx="220.4" cy="113.8" r="4" fill="#3465a4"><title>Hope-Vere/Weir</title></circle></a><a href="/variants/s14/db3g1k1db2n16db2k4g1k1db16n2db2k1g3~x2/"><circle cx="265.5" cy="128.9" r="4" fill="#3465a4"><title>Tiger of Sweden</title></circle></a><a href="/variants/s13/y7k1db22k2db1k2db4k2db1k2db4k18w5~x2~k0503265-db1605267/"><circle cx="252.3" cy="115.4" r="4" fill="#3465a4"><title>Swedish</title></circle></a><a href="/variants/s9/k2db3g16b1k13b1db18k2db2~x2/"><circle cx="207.5" cy="149.3" r="4" fill="#3465a4"><title>Hebridean Old</title></circle></a><a href="/variants/s11/r3db16k12t34k12db2k2db2k2db7r3~x2/"><circle cx="182.7" cy="138.0" r="4" fill="#3465a4"><title>Rangers 1989 (Sports)</title></circle></a><a href="/variants/s9/k2db3g16lb1k13lb1db18k2db2~x2/"><circle cx="202.1" cy="147.6" r="4" fill="#3465a4"><title>Hebridean Old.. District Tartan</title></circle></a><a href="/variants/s14/g19k1g4k1g3k10db20y1k7y1db20k10y3g1~x2/"><circle cx="191.9" cy="128.6" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/variants/s9/g20k2g2k2g2k8db24dp3db3~x2/"><circle cx="208.7" cy="159.6" r="4" fill="#3465a4"><title>MacHarg, Iain</title></circle></a><a href="/variants/s10/db32g2db2g14k2g14k2g2k15r2~x2/"><circle cx="201.4" cy="142.6" r="4" fill="#3465a4"><title>Dunedin Chapter</title></circle></a><a href="/variants/s12/db30o3db4k2db2w2db2k14o8db2o6w2~x2/"><circle cx="249.8" cy="119.1" r="4" fill="#3465a4"><title>Unidentified #48</title></circle></a><circle cx="241.8" cy="123.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db16g1db1g1db1k12g1db1g1db1g6dp2~x4/

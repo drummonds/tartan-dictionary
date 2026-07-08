@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Amazing Union"
   url: "/tartans/amazing-union/"
+- name: "Amazing Union (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2do15dg12do2dt12do2dg12do15ly2/)
 (the same proportion at any scale), whose colour order is pattern [RBGBBBGBY](/stripes/rbgbbbgby/).
@@ -14,7 +16,7 @@ Part of the [Amazing Union](/tartans/amazing-union/) tartan — the named design
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=64
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=64](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=64)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r2do15dg12do2db12do2dg12do15ly2~x4/"><circle cx="341.2" cy="259.8" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><a href="/variants/s8/do9dy9n9r1db1dy9db1r1~x4/"><circle cx="380.3" cy="258.5" r="4" fill="#3465a4"><title>Jardine of Castlemilk Family Tartan</title></circle></a><a href="/variants/s18/dy27dt3dy8dt4dy8dt3dy14dg8lb5dy5dg14dt12lb6dt12dy15dg9r4dg9~x2/"><circle cx="314.6" cy="235.4" r="4" fill="#3465a4"><title>Turcan Connell</title></circle></a><a href="/variants/s12/dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dgi1605139-db1204274-dbi1404245/"><circle cx="368.3" cy="249.8" r="4" fill="#3465a4"><title>Protheroe (Welsh Name)</title></circle></a><a href="/variants/s8/y5dg14dy4db4dy27dg3dy4y5/"><circle cx="465.1" cy="270.2" r="4" fill="#3465a4"><title>Invertere Corporate Tartan</title></circle></a><circle cx="358.9" cy="266.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r2do15dg12do2db12do2dg12do15ly2~x4/"><circle cx="341.3" cy="260.0" r="4" fill="#3465a4"><title>Amazing Union (Personal)</title></circle></a><a href="/variants/s8/do9dy9n9r1db1dy9db1r1~x4/"><circle cx="380.4" cy="258.5" r="4" fill="#3465a4"><title>Jardine of Castlemilk Family Tartan</title></circle></a><a href="/variants/s18/dy27dt3dy8dt4dy8dt3dy14dg8lb5dy5dg14dt12lb6dt12dy15dg9r4dg9~x2/"><circle cx="314.7" cy="235.4" r="4" fill="#3465a4"><title>Turcan Connell</title></circle></a><a href="/variants/s12/dgi5dg2db2dg2db2dbi5dg2dbi1ly1dbi1dg10db3~x4~dgi1605139-db1204274-dbi1404245/"><circle cx="368.4" cy="249.8" r="4" fill="#3465a4"><title>Protheroe (Welsh Name)</title></circle></a><a href="/variants/s8/y5dg14dy4db4dy27dg3dy4y5/"><circle cx="465.2" cy="270.3" r="4" fill="#3465a4"><title>Invertere Corporate Tartan</title></circle></a><circle cx="359.0" cy="266.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r2do15dg12do2dt12do2dg12do15ly2~x4~dt0803284/

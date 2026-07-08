@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McCanna NW Htg (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1dy4dg1k1dg1k1dy1/)
 (the same proportion at any scale), whose colour order is pattern [GKGKGGK](/stripes/gkgkggk/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10274
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10274](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10274)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy7k2dy12k10dg12k3~x2/"><circle cx="277.9" cy="295.6" r="4" fill="#3465a4"><title>Brown Watch (single) (Fashion)</title></circle></a><a href="/variants/s7/k1do4dg1k1dg1k1do1~x14/"><circle cx="317.1" cy="276.8" r="4" fill="#3465a4"><title>McCanna NW (Olympia, USA) Hunting (Personal)</title></circle></a><a href="/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/"><circle cx="344.5" cy="224.3" r="4" fill="#3465a4"><title>Laois, County</title></circle></a><a href="/variants/s6/k2dg10y2k9dp8dg2~x2/"><circle cx="185.9" cy="255.6" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><circle cx="421.0" cy="242.5" r="4" fill="#3465a4"><title>Taiheiyo Club, Inc.</title></circle></a><circle cx="321.2" cy="279.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy7k2dy12k10dg12k3~x2/"><circle cx="278.1" cy="296.1" r="4" fill="#3465a4"><title>Brown Watch (single) (Fashion)</title></circle></a><a href="/variants/s7/k1do4dg1k1dg1k1do1~x14/"><circle cx="317.2" cy="277.2" r="4" fill="#3465a4"><title>McCanna NW (Olympia, USA) Hunting (Personal)</title></circle></a><a href="/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/"><circle cx="344.6" cy="224.6" r="4" fill="#3465a4"><title>Laois, County</title></circle></a><a href="/variants/s6/k2dg10y2k9dp8dg2~x2/"><circle cx="186.0" cy="256.1" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><circle cx="421.1" cy="243.0" r="4" fill="#3465a4"><title>Taiheiyo Club, Inc.</title></circle></a><circle cx="321.3" cy="280.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k1dy4dg1k1dg1k1dy1~x10/

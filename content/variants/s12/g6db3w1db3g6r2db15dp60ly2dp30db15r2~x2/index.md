@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Roslin Roseline Da Vinci"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6db3w1db3g6r2db15dp60ly2dp30db15r2/)
 (the same proportion at any scale), whose colour order is pattern [GBWBGRBBYBBR](/stripes/gbwbgrbbybbr/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5349
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5349](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5349)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp38k4dp2o6db11o3db2g2dp11k1w2~x2/"><circle cx="373.8" cy="69.2" r="4" fill="#3465a4"><title>Highland Thistle</title></circle></a><a href="/variants/s11/db50dp3k3db11dp8db2r6db2dbi8db2w4~x2~db1204274-dbi1406275/"><circle cx="414.4" cy="88.7" r="4" fill="#3465a4"><title>Scottish American</title></circle></a><a href="/variants/s16/n28r1n4dp12n2db4y2db4n2dp12n4r1n48r3w3db3~x2/"><circle cx="466.1" cy="73.9" r="4" fill="#3465a4"><title>Wallenberg, Nicolas Dress (Personal)</title></circle></a><a href="/variants/s12/db5g9r3db18dr80y3dr40db18r3g9db5w2~x2/"><circle cx="409.5" cy="85.1" r="4" fill="#3465a4"><title>Roseline</title></circle></a><a href="/variants/s12/n60g2db4r1db4g2n3w1dp20w1n5db2~x2/"><circle cx="480.3" cy="69.9" r="4" fill="#3465a4"><title>Scottish Parliament Official (Corp)</title></circle></a><circle cx="439.8" cy="81.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp38k4dp2o6db11o3db2g2dp11k1w2~x2/"><circle cx="373.6" cy="69.1" r="4" fill="#3465a4"><title>Highland Thistle</title></circle></a><a href="/variants/s11/db50dp3k3db11dp8db2r6db2dbi8db2w4~x2~db1204274-dbi1406275/"><circle cx="414.3" cy="88.6" r="4" fill="#3465a4"><title>Scottish American</title></circle></a><a href="/variants/s16/n28r1n4dp12n2db4y2db4n2dp12n4r1n48r3w3db3~x2/"><circle cx="466.0" cy="73.6" r="4" fill="#3465a4"><title>Wallenberg, Nicolas Dress (Personal)</title></circle></a><a href="/variants/s12/db5g9r3db18dr80y3dr40db18r3g9db5w2~x2/"><circle cx="409.3" cy="85.0" r="4" fill="#3465a4"><title>Roseline</title></circle></a><a href="/variants/s12/n60g2db4r1db4g2n3w1dp20w1n5db2~x2/"><circle cx="480.2" cy="69.6" r="4" fill="#3465a4"><title>Scottish Parliament Official (Corp)</title></circle></a><circle cx="439.7" cy="81.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/g6db3w1db3g6r2db15dp60ly2dp30db15r2~x2/

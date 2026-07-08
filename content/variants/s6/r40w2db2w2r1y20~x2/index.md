@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "National Defense"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r40w2db2w2r1y20/)
 (the same proportion at any scale), whose colour order is pattern [GRWBWR](/stripes/grwbwr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10097
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10097](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10097)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r29dg2r2dg2r6ly21~x4/"><circle cx="406.6" cy="192.0" r="4" fill="#3465a4"><title>Maguire, Black (Name)</title></circle></a><a href="/variants/s6/r29g2r2g2r6dy21~x4/"><circle cx="419.1" cy="163.8" r="4" fill="#3465a4"><title>Maguire Clan Family Tartan</title></circle></a><a href="/variants/s6/r52y2db16y2db3w5~x2/"><circle cx="422.1" cy="128.2" r="4" fill="#3465a4"><title>Brock University Alumni Association</title></circle></a><a href="/variants/s7/r40db8lo8r4lo1r4lr8~x4/"><circle cx="461.5" cy="127.9" r="4" fill="#3465a4"><title>Wcwm 4907-1</title></circle></a><a href="/variants/s5/r37dy9r3g9dy3~x2/"><circle cx="447.0" cy="208.0" r="4" fill="#3465a4"><title>Glenshee #2</title></circle></a><a href="/variants/s7/r6w3n6o10r38w2n4~n1900000-o2500000/"><circle cx="439.6" cy="160.4" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s7/r6w3n6lb10r38w2n4/"><circle cx="424.2" cy="157.4" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s5/r35w3r8y2g11~x2/"><circle cx="485.7" cy="179.8" r="4" fill="#3465a4"><title>Highlands at Wyomissing, The</title></circle></a><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><circle cx="441.9" cy="161.6" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/variants/s4/r32g8lb4y1~x2/"><circle cx="511.8" cy="167.1" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><circle cx="474.1" cy="136.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r29dg2r2dg2r6ly21~x4/"><circle cx="406.8" cy="192.6" r="4" fill="#3465a4"><title>Maguire, Black (Name)</title></circle></a><a href="/variants/s6/r29g2r2g2r6dy21~x4/"><circle cx="419.1" cy="164.2" r="4" fill="#3465a4"><title>Maguire Clan Family Tartan</title></circle></a><a href="/variants/s6/r52y2db16y2db3w5~x2/"><circle cx="422.1" cy="128.6" r="4" fill="#3465a4"><title>Brock University Alumni Association</title></circle></a><a href="/variants/s7/r40db8lo8r4lo1r4lr8~x4/"><circle cx="461.5" cy="128.1" r="4" fill="#3465a4"><title>Wcwm 4907-1</title></circle></a><a href="/variants/s5/r37dy9r3g9dy3~x2/"><circle cx="447.1" cy="208.5" r="4" fill="#3465a4"><title>Glenshee #2</title></circle></a><a href="/variants/s7/r6w3n6o10r38w2n4~n1900000-o2500000/"><circle cx="439.7" cy="160.7" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s7/r6w3n6lb10r38w2n4/"><circle cx="424.3" cy="157.8" r="4" fill="#3465a4"><title>Washington State University Cougar</title></circle></a><a href="/variants/s5/r35w3r8y2g11~x2/"><circle cx="485.8" cy="180.2" r="4" fill="#3465a4"><title>Highlands at Wyomissing, The</title></circle></a><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><circle cx="441.9" cy="162.0" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/variants/s4/r32g8lb4y1~x2/"><circle cx="511.9" cy="167.5" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><circle cx="474.1" cy="136.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r40w2db2w2r1y20~x2/

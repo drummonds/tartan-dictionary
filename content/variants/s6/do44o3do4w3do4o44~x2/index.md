@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wcwm 1166-2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do44o3do4w3do4o44/)
 (the same proportion at any scale), whose colour order is pattern [BRBWBR](/stripes/brbwbr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4514
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4514](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4514)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1g6r1g6r15y1~x2/"><circle cx="412.5" cy="204.6" r="4" fill="#3465a4"><title>Cameron Clan D</title></circle></a><a href="/variants/s7/g5y5g5y35dr44r3dr3~x2~g2408144/"><circle cx="360.9" cy="191.1" r="4" fill="#3465a4"><title>Fernandes Family Tartan</title></circle></a><a href="/variants/s7/g5y5g5y35dr44r3dr3~x2/"><circle cx="370.0" cy="194.1" r="4" fill="#3465a4"><title>Fernandes (Personal)</title></circle></a><a href="/variants/s6/r1g10r1db4r18g1~x4/"><circle cx="385.0" cy="182.5" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><a href="/variants/s6/db2o28g13o2db13o2~x4/"><circle cx="358.9" cy="216.6" r="4" fill="#3465a4"><title>Edinchat</title></circle></a><a href="/variants/s7/r1g14r1g1r14g1w1~x2/"><circle cx="370.1" cy="183.8" r="4" fill="#3465a4"><title>MacKintosh Fragment</title></circle></a><a href="/variants/s8/db4y1r12y2r2y12r1y4~x4/"><circle cx="384.4" cy="219.7" r="4" fill="#3465a4"><title>Glassary #3</title></circle></a><a href="/variants/s5/r44db2g26r3db2/"><circle cx="367.5" cy="170.2" r="4" fill="#3465a4"><title>Unidentified Cant #09</title></circle></a><a href="/variants/s6/r2g6r2g6r16y1~x2/"><circle cx="430.9" cy="206.1" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s4/dr5o35dr46ly5~x2/"><circle cx="410.4" cy="261.6" r="4" fill="#3465a4"><title>Bryce</title></circle></a><circle cx="413.7" cy="205.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1g6r1g6r15y1~x2/"><circle cx="412.7" cy="205.1" r="4" fill="#3465a4"><title>Cameron Clan D</title></circle></a><a href="/variants/s7/g5y5g5y35dr44r3dr3~x2~g2408144/"><circle cx="360.9" cy="191.4" r="4" fill="#3465a4"><title>Fernandes Family Tartan</title></circle></a><a href="/variants/s7/g5y5g5y35dr44r3dr3~x2/"><circle cx="370.1" cy="194.4" r="4" fill="#3465a4"><title>Fernandes (Personal)</title></circle></a><a href="/variants/s6/r1g10r1db4r18g1~x4/"><circle cx="385.0" cy="183.0" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><a href="/variants/s6/db2o28g13o2db13o2~x4/"><circle cx="359.0" cy="217.1" r="4" fill="#3465a4"><title>Edinchat</title></circle></a><a href="/variants/s7/r1g14r1g1r14g1w1~x2/"><circle cx="370.2" cy="184.3" r="4" fill="#3465a4"><title>MacKintosh Fragment</title></circle></a><a href="/variants/s8/db4y1r12y2r2y12r1y4~x4/"><circle cx="384.5" cy="220.1" r="4" fill="#3465a4"><title>Glassary #3</title></circle></a><a href="/variants/s5/r44db2g26r3db2/"><circle cx="367.5" cy="170.6" r="4" fill="#3465a4"><title>Unidentified Cant #09</title></circle></a><a href="/variants/s6/r2g6r2g6r16y1~x2/"><circle cx="431.0" cy="206.6" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s4/dr5o35dr46ly5~x2/"><circle cx="410.6" cy="262.2" r="4" fill="#3465a4"><title>Bryce</title></circle></a><circle cx="413.8" cy="206.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/do44o3do4w3do4o44~x2/

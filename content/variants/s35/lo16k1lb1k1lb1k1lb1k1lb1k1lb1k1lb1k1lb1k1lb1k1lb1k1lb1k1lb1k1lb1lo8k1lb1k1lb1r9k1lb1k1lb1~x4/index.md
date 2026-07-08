@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Coulin"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lo16k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1lo8k1lb1k1lb1r9k1lb1k1lb1/)
 (the same proportion at any scale), whose colour order is pattern [WKWKRWKWKYWKWKWKWKWKWKWKWKWKWKWKWKY](/stripes/wkwkrwkwkywkwkwkwkwkwkwkwkwkwkwkwky/).
 
 Sourced from register-of-tartans.  It is a [35 stripe tartan](/stripes/stripes35/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=775
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=775](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=775)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s52/r12w1k2lb1k1lb1k1lb1k1lb1k1lb2k3lb3r3lb12w1k1w2lb7k1w1k1w1k1w1k1w1k1w7k3w16k3w7r5w1r1w2r24k3r3w3r2lb1r1lb1r1lb1r1lb1r1k4~x2/"><circle cx="133.3" cy="30.1" r="4" fill="#3465a4"><title>Mystery Tartan</title></circle></a><a href="/variants/s12/do22w2k3w1k1w1k1w7o5k1o2w1~x4/"><circle cx="140.3" cy="70.2" r="4" fill="#3465a4"><title>Waverley Check</title></circle></a><a href="/variants/s26/wi38db6wi5k6wi3k2wi3k2w24r24k2r8wi2r8k2r24w24k2wi3k2wi3k6wi5db6wi38r4~wi3600000-w3502055/"><circle cx="143.9" cy="71.4" r="4" fill="#3465a4"><title>Unidentified Cant #08</title></circle></a><a href="/variants/s16/r15k5w2n7k4w8k2r26k5n2w2k7w2r5w2g2~x2/"><circle cx="136.5" cy="74.4" r="4" fill="#3465a4"><title>Sabrettes</title></circle></a><circle cx="149.1" cy="50.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s52/r12w1k2lb1k1lb1k1lb1k1lb1k1lb2k3lb3r3lb12w1k1w2lb7k1w1k1w1k1w1k1w1k1w7k3w16k3w7r5w1r1w2r24k3r3w3r2lb1r1lb1r1lb1r1lb1r1k4~x2/"><circle cx="133.2" cy="30.2" r="4" fill="#3465a4"><title>Mystery Tartan</title></circle></a><a href="/variants/s12/do22w2k3w1k1w1k1w7o5k1o2w1~x4/"><circle cx="140.1" cy="70.4" r="4" fill="#3465a4"><title>Waverley Check</title></circle></a><a href="/variants/s26/wi38db6wi5k6wi3k2wi3k2w24r24k2r8wi2r8k2r24w24k2wi3k2wi3k6wi5db6wi38r4~wi3600000-w3502055/"><circle cx="143.8" cy="71.6" r="4" fill="#3465a4"><title>Unidentified Cant #08</title></circle></a><a href="/variants/s16/r15k5w2n7k4w8k2r26k5n2w2k7w2r5w2g2~x2/"><circle cx="136.3" cy="74.7" r="4" fill="#3465a4"><title>Sabrettes</title></circle></a><circle cx="149.0" cy="51.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s35/lo16k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1k1lb1lo8k1lb1k1lb1r9k1lb1k1lb1~x4/

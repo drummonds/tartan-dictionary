@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Isle of Raasay"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg60ly16dp8db2dy3/)
 (the same proportion at any scale), whose colour order is pattern [GBBYG](/stripes/gbbyg/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11594
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11594](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11594)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy8g50db4lb2w5y2~x2/"><circle cx="443.5" cy="138.2" r="4" fill="#3465a4"><title>Greenup (2015)</title></circle></a><a href="/variants/s4/g50dy25ly2dp6~x2/"><circle cx="433.9" cy="221.3" r="4" fill="#3465a4"><title>Highland Greenford (Personal)</title></circle></a><a href="/variants/s4/lb9g52dy15ly4~x2/"><circle cx="424.4" cy="241.2" r="4" fill="#3465a4"><title>McGuigan, Julia (Personal)</title></circle></a><a href="/variants/s5/db62ly4dy10do3g21~x2/"><circle cx="402.6" cy="184.3" r="4" fill="#3465a4"><title>McGovern (2016)</title></circle></a><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.7" cy="192.1" r="4" fill="#3465a4"><title>Clare, Richard (Personal)</title></circle></a><a href="/variants/s4/w1g10dp4lt1~x2/"><circle cx="371.1" cy="241.4" r="4" fill="#3465a4"><title>Wilson's No.205</title></circle></a><a href="/variants/s5/dr8g19dg42ly3r1~x2/"><circle cx="403.6" cy="162.6" r="4" fill="#3465a4"><title>Nolan (Personal)</title></circle></a><a href="/variants/s6/g55y4db15w3dr3w5~x2/"><circle cx="390.5" cy="164.4" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="379.9" cy="156.8" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s5/lo2db4g60dp30w1~x2/"><circle cx="431.7" cy="144.1" r="4" fill="#3465a4"><title>McGuinness, Tam (Personal)</title></circle></a><circle cx="450.7" cy="161.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy8g50db4lb2w5y2~x2/"><circle cx="443.5" cy="138.4" r="4" fill="#3465a4"><title>Greenup (2015)</title></circle></a><a href="/variants/s4/g50dy25ly2dp6~x2/"><circle cx="434.0" cy="221.7" r="4" fill="#3465a4"><title>Highland Greenford (Personal)</title></circle></a><a href="/variants/s4/lb9g52dy15ly4~x2/"><circle cx="424.6" cy="241.7" r="4" fill="#3465a4"><title>McGuigan, Julia (Personal)</title></circle></a><a href="/variants/s5/db62ly4dy10do3g21~x2/"><circle cx="402.6" cy="184.6" r="4" fill="#3465a4"><title>McGovern (2016)</title></circle></a><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.7" cy="192.4" r="4" fill="#3465a4"><title>Clare, Richard (Personal)</title></circle></a><a href="/variants/s4/w1g10dp4lt1~x2/"><circle cx="371.3" cy="242.0" r="4" fill="#3465a4"><title>Wilson's No.205</title></circle></a><a href="/variants/s5/dr8g19dg42ly3r1~x2/"><circle cx="403.6" cy="162.7" r="4" fill="#3465a4"><title>Nolan (Personal)</title></circle></a><a href="/variants/s6/g55y4db15w3dr3w5~x2/"><circle cx="390.6" cy="164.7" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="379.9" cy="157.1" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s5/lo2db4g60dp30w1~x2/"><circle cx="431.6" cy="144.3" r="4" fill="#3465a4"><title>McGuinness, Tam (Personal)</title></circle></a><circle cx="450.7" cy="162.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dg60ly16dp8db2dy3~x2~dg1504144-ly3104101/

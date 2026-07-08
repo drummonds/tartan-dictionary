@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacRobart"
   url: "/tartans/macrobart/"
+- name: "MacRobart"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db72k21g16lb3g17lb3/)
 (the same proportion at any scale), whose colour order is pattern [BKGWGW](/stripes/bkgwgw/).
@@ -14,7 +16,7 @@ Part of the [MacRobart](/tartans/macrobart/) tartan — the named design groupin
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db30k10g10lb2g15lb2~x2/"><circle cx="215.4" cy="187.8" r="4" fill="#3465a4"><title>MacRobart (Personal)</title></circle></a><a href="/variants/s6/db48w2k20g22r3g4~x2/"><circle cx="237.5" cy="139.1" r="4" fill="#3465a4"><title>MacFadzean</title></circle></a><a href="/variants/s5/db19k8lb1g10o3~x2/"><circle cx="211.9" cy="176.5" r="4" fill="#3465a4"><title>Unidentified #50</title></circle></a><a href="/variants/s7/db24k8g8dp2g8k1w2~x2/"><circle cx="215.6" cy="136.3" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1y2/"><circle cx="222.8" cy="137.7" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1y2~x2/"><circle cx="222.8" cy="137.7" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1w2/"><circle cx="211.5" cy="134.2" r="4" fill="#3465a4"><title>Fergusson</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1w2~x2/"><circle cx="211.5" cy="134.2" r="4" fill="#3465a4"><title>Ferguson of Athol</title></circle></a><a href="/variants/s4/db16k6g8y1~x2/"><circle cx="261.0" cy="211.6" r="4" fill="#3465a4"><title>Sinclair, Sir John</title></circle></a><a href="/variants/s7/db50g26k9g4lb2dr2g10~x2/"><circle cx="272.1" cy="130.9" r="4" fill="#3465a4"><title>Java Saint Andrew Society Hunting</title></circle></a><circle cx="299.2" cy="149.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db30k10g10lb2g15lb2~x2/"><circle cx="215.4" cy="188.3" r="4" fill="#3465a4"><title>MacRobart (Personal)</title></circle></a><a href="/variants/s6/db48w2k20g22r3g4~x2/"><circle cx="237.4" cy="139.4" r="4" fill="#3465a4"><title>MacFadzean</title></circle></a><a href="/variants/s5/db19k8lb1g10o3~x2/"><circle cx="211.9" cy="176.9" r="4" fill="#3465a4"><title>Unidentified #50</title></circle></a><a href="/variants/s7/db24k8g8dp2g8k1w2~x2/"><circle cx="215.5" cy="136.6" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1y2/"><circle cx="222.8" cy="137.9" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1y2~x2/"><circle cx="222.8" cy="137.9" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1w2/"><circle cx="211.4" cy="134.4" r="4" fill="#3465a4"><title>Fergusson</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1w2~x2/"><circle cx="211.4" cy="134.4" r="4" fill="#3465a4"><title>Ferguson of Athol</title></circle></a><a href="/variants/s4/db16k6g8y1~x2/"><circle cx="261.1" cy="212.1" r="4" fill="#3465a4"><title>Sinclair, Sir John</title></circle></a><a href="/variants/s7/db50g26k9g4lb2dr2g10~x2/"><circle cx="272.1" cy="131.1" r="4" fill="#3465a4"><title>Java Saint Andrew Society Hunting</title></circle></a><circle cx="299.2" cy="150.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db72k21g16lb3g17lb3~x2/

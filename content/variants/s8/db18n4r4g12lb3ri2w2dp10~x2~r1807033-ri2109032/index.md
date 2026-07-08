@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Serco Caledonian Sleeper"
   url: "/tartans/serco-caledonian-sleeper/"
+- name: "Serco Caledonian Sleeper"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db18n4r4g12lb3ri2w2dp10/)
 (the same proportion at any scale), whose colour order is pattern [BBRGWRWB](/stripes/bbrgwrwb/).
@@ -14,7 +16,7 @@ Part of the [Serco Caledonian Sleeper](/tartans/serco-caledonian-sleeper/) tarta
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11233
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11233](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11233)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db18n4dr4g12lb3r2w2dp10~x2/"><circle cx="98.2" cy="168.9" r="4" fill="#3465a4"><title>Serco Caledonian Sleeper</title></circle></a><a href="/variants/s6/r3y2g12dp12db14w3~x2/"><circle cx="105.5" cy="219.7" r="4" fill="#3465a4"><title>Jamestown Parish Church (Corporate)</title></circle></a><a href="/variants/s8/t32g5lb8db4dp5w5k5ly8~x2~t2205244-db1208266/"><circle cx="106.6" cy="135.9" r="4" fill="#3465a4"><title>Fremsaeter, Jenny (Personal)</title></circle></a><a href="/variants/s8/k3dbi3g15db15dp5r3y2dp1~x2~dbi1604274-db0805267-dp1607335-r2807041/"><circle cx="102.5" cy="131.3" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/"><circle cx="101.0" cy="176.0" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/variants/s8/db60lb5w4o12g42dp12lb5dp12/"><circle cx="188.3" cy="152.0" r="4" fill="#3465a4"><title>St Columba</title></circle></a><a href="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/"><circle cx="121.8" cy="135.5" r="4" fill="#3465a4"><title>Man, Isle of</title></circle></a><a href="/variants/s9/db20y1w1ly3g4dg10n4y1dp4~x2~g1903114-dg1806142/"><circle cx="205.6" cy="125.7" r="4" fill="#3465a4"><title>St. Columba (two greens) (Corporate)</title></circle></a><a href="/variants/s9/k9ly6db9n2o3n2dg17db17lb5~x2~ly2806085-o2404072/"><circle cx="90.4" cy="168.3" r="4" fill="#3465a4"><title>Coats (New Zealand)</title></circle></a><a href="/variants/s7/dp2g6r1y1db3b10w1~x2/"><circle cx="180.6" cy="172.7" r="4" fill="#3465a4"><title>Manx National</title></circle></a><circle cx="89.0" cy="162.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db18n4dr4g12lb3r2w2dp10~x2/"><circle cx="98.2" cy="169.2" r="4" fill="#3465a4"><title>Serco Caledonian Sleeper</title></circle></a><a href="/variants/s6/r3y2g12dp12db14w3~x2/"><circle cx="105.6" cy="220.1" r="4" fill="#3465a4"><title>Jamestown Parish Church (Corporate)</title></circle></a><a href="/variants/s8/t32g5lb8db4dp5w5k5ly8~x2~t2205244-db1208266/"><circle cx="106.6" cy="136.2" r="4" fill="#3465a4"><title>Fremsaeter, Jenny (Personal)</title></circle></a><a href="/variants/s8/k3dbi3g15db15dp5r3y2dp1~x2~dbi1604274-db0805267-dp1607335-r2807041/"><circle cx="102.4" cy="131.5" r="4" fill="#3465a4"><title>Young</title></circle></a><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/"><circle cx="101.0" cy="176.3" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/variants/s8/db60lb5w4o12g42dp12lb5dp12/"><circle cx="188.2" cy="152.3" r="4" fill="#3465a4"><title>St Columba</title></circle></a><a href="/variants/s13/r2b22dy4lr3dg7ly2dg4lr2dg9dp6ly2dp4lr2~x2/"><circle cx="121.8" cy="135.7" r="4" fill="#3465a4"><title>Man, Isle of</title></circle></a><a href="/variants/s9/db20y1w1ly3g4dg10n4y1dp4~x2~g1903114-dg1806142/"><circle cx="205.5" cy="125.7" r="4" fill="#3465a4"><title>St. Columba (two greens) (Corporate)</title></circle></a><a href="/variants/s9/k9ly6db9n2o3n2dg17db17lb5~x2~ly2806085-o2404072/"><circle cx="90.4" cy="168.6" r="4" fill="#3465a4"><title>Coats (New Zealand)</title></circle></a><a href="/variants/s7/dp2g6r1y1db3b10w1~x2/"><circle cx="180.6" cy="172.9" r="4" fill="#3465a4"><title>Manx National</title></circle></a><circle cx="89.0" cy="162.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db18n4r4g12lb3ri2w2dp10~x2~r1807033-ri2109032/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tartan Army Children's Charity (Corp"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n34k7n12k39n3k4lg3/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKY](/stripes/bkbkbky/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8271
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8271](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8271)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n34k7n12k40n3k4lb3~x2/"><circle cx="293.9" cy="176.4" r="4" fill="#3465a4"><title>TACC</title></circle></a><a href="/variants/s6/k3n25k3n3k21n3~x2/"><circle cx="326.2" cy="213.6" r="4" fill="#3465a4"><title>Slanj, Grey (Corporate)</title></circle></a><a href="/variants/s6/n6k17n6k17n45k4~x2/"><circle cx="356.5" cy="209.1" r="4" fill="#3465a4"><title>Grey Spirit (Fashion)</title></circle></a><a href="/variants/s7/k39n3k3n3k14n28r3~x2/"><circle cx="335.7" cy="168.3" r="4" fill="#3465a4"><title>Moffat (1984)</title></circle></a><a href="/variants/s6/n6k16n6k16n45k4~x2/"><circle cx="363.8" cy="207.6" r="4" fill="#3465a4"><title>Grey Spirit Fashion Tartan</title></circle></a><a href="/variants/s8/r1k1n1k15n15k1n1r1~x4/"><circle cx="294.5" cy="140.5" r="4" fill="#3465a4"><title>Bundy, Dress Black Personal)</title></circle></a><a href="/variants/s7/n13k3n3k3n3k35r3~x2/"><circle cx="365.8" cy="157.2" r="4" fill="#3465a4"><title>Holden Black (Corporate)</title></circle></a><a href="/variants/s6/k3n23k3n3k20lg3~x2/"><circle cx="260.1" cy="204.8" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/variants/s7/k17n4k13n4k3n45k3~x2/"><circle cx="363.8" cy="170.6" r="4" fill="#3465a4"><title>Black Spirit Fashion Tartan</title></circle></a><a href="/variants/s6/n58k22n8k17r5k14~x2/"><circle cx="291.9" cy="193.2" r="4" fill="#3465a4"><title>Flynn</title></circle></a><circle cx="290.3" cy="178.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n34k7n12k40n3k4lb3~x2/"><circle cx="293.9" cy="176.9" r="4" fill="#3465a4"><title>TACC</title></circle></a><a href="/variants/s6/k3n25k3n3k21n3~x2/"><circle cx="326.3" cy="214.2" r="4" fill="#3465a4"><title>Slanj, Grey (Corporate)</title></circle></a><a href="/variants/s6/n6k17n6k17n45k4~x2/"><circle cx="356.6" cy="209.7" r="4" fill="#3465a4"><title>Grey Spirit (Fashion)</title></circle></a><a href="/variants/s7/k39n3k3n3k14n28r3~x2/"><circle cx="335.7" cy="168.7" r="4" fill="#3465a4"><title>Moffat (1984)</title></circle></a><a href="/variants/s6/n6k16n6k16n45k4~x2/"><circle cx="363.9" cy="208.2" r="4" fill="#3465a4"><title>Grey Spirit Fashion Tartan</title></circle></a><a href="/variants/s8/r1k1n1k15n15k1n1r1~x4/"><circle cx="294.5" cy="140.9" r="4" fill="#3465a4"><title>Bundy, Dress Black Personal)</title></circle></a><a href="/variants/s7/n13k3n3k3n3k35r3~x2/"><circle cx="365.8" cy="157.6" r="4" fill="#3465a4"><title>Holden Black (Corporate)</title></circle></a><a href="/variants/s6/k3n23k3n3k20lg3~x2/"><circle cx="260.1" cy="205.4" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/variants/s7/k17n4k13n4k3n45k3~x2/"><circle cx="363.8" cy="171.1" r="4" fill="#3465a4"><title>Black Spirit Fashion Tartan</title></circle></a><a href="/variants/s6/n58k22n8k17r5k14~x2/"><circle cx="292.0" cy="193.7" r="4" fill="#3465a4"><title>Flynn</title></circle></a><circle cx="290.3" cy="178.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/n34k7n12k39n3k4lg3~x2/

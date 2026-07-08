@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Kirkcaldy"
   url: "/tartans/kirkcaldy/"
+- name: "Kirkcaldy"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb23w3k10r2db45y1/)
 (the same proportion at any scale), whose colour order is pattern [GBRKWW](/stripes/gbrkww/).
@@ -14,7 +16,7 @@ Part of the [Kirkcaldy](/tartans/kirkcaldy/) tartan — the named design groupin
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10072
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10072](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10072)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/t23w3k10r2db45dy1~x2/"><circle cx="286.1" cy="94.3" r="4" fill="#3465a4"><title>Kirkcaldy Name Tartan</title></circle></a><a href="/variants/s7/r4lb16k3db44r1w3ly2~x2/"><circle cx="313.6" cy="66.6" r="4" fill="#3465a4"><title>Dress Blue (Fashion)</title></circle></a><a href="/variants/s7/dr4lb16k3db44dr1w3y2~x2/"><circle cx="318.9" cy="69.4" r="4" fill="#3465a4"><title>Dress Blue</title></circle></a><a href="/variants/s6/ly4t8dp4k53db54w2/"><circle cx="237.9" cy="115.3" r="4" fill="#3465a4"><title>Pipers' Trail (Corporate)</title></circle></a><a href="/variants/s8/db39o3k14o3lb14y4w2do2~x2/"><circle cx="174.5" cy="88.1" r="4" fill="#3465a4"><title>Unidentified, Lady's kilt</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.1" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="230.0" cy="140.1" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s7/r8y2b7y2db24k2g1~x2/"><circle cx="266.4" cy="112.2" r="4" fill="#3465a4"><title>(4) Traill</title></circle></a><a href="/variants/s8/db45w2lb23db10g2r1dr5wi1~x2~w3904115-wi4000000/"><circle cx="331.6" cy="66.3" r="4" fill="#3465a4"><title>Hier Family, Kilcreggan (Personal)</title></circle></a><a href="/variants/s7/db50g25ly3lb8r1w1r1~x2/"><circle cx="333.8" cy="88.9" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><circle cx="259.5" cy="83.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/t23w3k10r2db45dy1~x2/"><circle cx="286.0" cy="94.4" r="4" fill="#3465a4"><title>Kirkcaldy Name Tartan</title></circle></a><a href="/variants/s7/r4lb16k3db44r1w3ly2~x2/"><circle cx="313.5" cy="66.7" r="4" fill="#3465a4"><title>Dress Blue (Fashion)</title></circle></a><a href="/variants/s7/dr4lb16k3db44dr1w3y2~x2/"><circle cx="318.8" cy="69.5" r="4" fill="#3465a4"><title>Dress Blue</title></circle></a><a href="/variants/s6/ly4t8dp4k53db54w2/"><circle cx="237.7" cy="115.4" r="4" fill="#3465a4"><title>Pipers' Trail (Corporate)</title></circle></a><a href="/variants/s8/db39o3k14o3lb14y4w2do2~x2/"><circle cx="174.4" cy="88.2" r="4" fill="#3465a4"><title>Unidentified, Lady's kilt</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.4" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="229.9" cy="140.3" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s7/r8y2b7y2db24k2g1~x2/"><circle cx="266.3" cy="112.3" r="4" fill="#3465a4"><title>(4) Traill</title></circle></a><a href="/variants/s8/db45w2lb23db10g2r1dr5wi1~x2~w3904115-wi4000000/"><circle cx="331.4" cy="66.3" r="4" fill="#3465a4"><title>Hier Family, Kilcreggan (Personal)</title></circle></a><a href="/variants/s7/db50g25ly3lb8r1w1r1~x2/"><circle cx="333.6" cy="89.0" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><circle cx="259.4" cy="83.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/lb23w3k10r2db45y1~x2/

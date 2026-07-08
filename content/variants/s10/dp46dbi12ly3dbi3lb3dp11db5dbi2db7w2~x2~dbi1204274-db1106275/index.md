@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Diamond Jubilee (Lochcarron) (Comm.)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp46dbi12ly3dbi3lb3dp11db5dbi2db7w2/)
 (the same proportion at any scale), whose colour order is pattern [BBYBWBBBBW](/stripes/bbybwbbbbw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10551
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10551](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10551)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

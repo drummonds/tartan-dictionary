@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Postcode Lottery"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g3r1g12w4lb15ly1lb3/)
 (the same proportion at any scale), whose colour order is pattern [GRGWWYW](/stripes/grgwwyw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5988
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5988](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5988)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1g9lb9k1lb1w1~x6/"><circle cx="234.5" cy="187.8" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><circle cx="250.0" cy="213.3" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s8/lb2dr2lb30g20lb3g7k2y1~x2/"><circle cx="315.9" cy="118.3" r="4" fill="#3465a4"><title>L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy</title></circle></a><a href="/variants/s7/g10r3g30n10w2db15r4~x2/"><circle cx="289.7" cy="189.2" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s7/lb8w16g18r2y4r1lb4~x2/"><circle cx="187.9" cy="184.3" r="4" fill="#3465a4"><title>Lake Ainslie Heritage</title></circle></a><a href="/variants/s6/ly30g3t2lb2t30lo4~x2~t2405244-lb3203246/"><circle cx="340.5" cy="204.8" r="4" fill="#3465a4"><title>South Aiken Presby Church (Corporate</title></circle></a><a href="/variants/s7/r2lb1r1lb11g16dg1w1~x2/"><circle cx="309.9" cy="169.2" r="4" fill="#3465a4"><title>Gift of Life Michigan</title></circle></a><a href="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/"><circle cx="296.3" cy="199.3" r="4" fill="#3465a4"><title>Gammell (Personal)</title></circle></a><a href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/"><circle cx="229.3" cy="137.0" r="4" fill="#3465a4"><title>Michigan, State of</title></circle></a><a href="/variants/s8/lg8do2lg13r4lg12t22lg5lo3~x2~lg3302138/"><circle cx="320.7" cy="218.8" r="4" fill="#3465a4"><title>Kildare Irish County Tartan</title></circle></a><circle cx="286.7" cy="190.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1g9lb9k1lb1w1~x6/"><circle cx="234.6" cy="188.3" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s9/b3db3b12db26g26r3g26db28w3~b2603265-db1404245/"><circle cx="250.1" cy="213.7" r="4" fill="#3465a4"><title>Seaford House</title></circle></a><a href="/variants/s8/lb2dr2lb30g20lb3g7k2y1~x2/"><circle cx="315.9" cy="118.6" r="4" fill="#3465a4"><title>L'Abeille du Cercle de Fermières Sainte-Geneviève-de-Sainte-Foy</title></circle></a><a href="/variants/s7/g10r3g30n10w2db15r4~x2/"><circle cx="289.7" cy="189.6" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s7/lb8w16g18r2y4r1lb4~x2/"><circle cx="188.0" cy="184.7" r="4" fill="#3465a4"><title>Lake Ainslie Heritage</title></circle></a><a href="/variants/s6/ly30g3t2lb2t30lo4~x2~t2405244-lb3203246/"><circle cx="340.6" cy="205.1" r="4" fill="#3465a4"><title>South Aiken Presby Church (Corporate</title></circle></a><a href="/variants/s7/r2lb1r1lb11g16dg1w1~x2/"><circle cx="310.0" cy="169.6" r="4" fill="#3465a4"><title>Gift of Life Michigan</title></circle></a><a href="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/"><circle cx="296.4" cy="199.7" r="4" fill="#3465a4"><title>Gammell (Personal)</title></circle></a><a href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/"><circle cx="229.3" cy="137.3" r="4" fill="#3465a4"><title>Michigan, State of</title></circle></a><a href="/variants/s8/lg8do2lg13r4lg12t22lg5lo3~x2~lg3302138/"><circle cx="320.8" cy="219.2" r="4" fill="#3465a4"><title>Kildare Irish County Tartan</title></circle></a><circle cx="286.8" cy="190.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g3r1g12w4lb15ly1lb3~x4/

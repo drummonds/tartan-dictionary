@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacLaggan"
   url: "/tartans/maclaggan/"
+- name: "MacLaggan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k13g12lb2g12k13dp12k2/)
 (the same proportion at any scale), whose colour order is pattern [KBKGWGK](/stripes/kbkgwgk/).
@@ -14,7 +16,7 @@ Part of the [MacLaggan](/tartans/maclaggan/) tartan — the named design groupin
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2589
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2589](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2589)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k6g6w1g6k6dp6k1~x4/"><circle cx="122.8" cy="237.0" r="4" fill="#3465a4"><title>Wilson's, No 64 or Abercrombie</title></circle></a><a href="/variants/s7/k6g6y1g6k6dp6k1~x4/"><circle cx="129.2" cy="238.7" r="4" fill="#3465a4"><title>Abercrombie (Wilsons No 2/64)</title></circle></a><a href="/variants/s7/k7g6w1g6k7db7k1~x4/"><circle cx="135.6" cy="230.2" r="4" fill="#3465a4"><title>MacLaggan</title></circle></a><a href="/variants/s7/k6g6r1g6k6db6k1~x2/"><circle cx="126.5" cy="239.8" r="4" fill="#3465a4"><title>MacCallum #2</title></circle></a><a href="/variants/s7/k12g12w2g12k12dp12r3~x2/"><circle cx="85.1" cy="230.0" r="4" fill="#3465a4"><title>Wilson's, No 120</title></circle></a><a href="/variants/s7/k6g6w1g6k6dp6b1~x4/"><circle cx="97.4" cy="230.0" r="4" fill="#3465a4"><title>Wilson's, No 233</title></circle></a><a href="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/"><circle cx="145.0" cy="212.2" r="4" fill="#3465a4"><title>Wilson's No 108</title></circle></a><a href="/variants/s7/k11g12w2g12k12dp12r3~x2/"><circle cx="86.1" cy="230.1" r="4" fill="#3465a4"><title>Cunningham / Wilson's No 120</title></circle></a><a href="/variants/s6/g18lb2g4k14dp12k3~x2/"><circle cx="167.2" cy="212.3" r="4" fill="#3465a4"><title>Coburg</title></circle></a><a href="/variants/s6/k2g8db2k9dp7k2~x2/"><circle cx="144.6" cy="241.0" r="4" fill="#3465a4"><title>Campbell, Sir Walter Scott</title></circle></a><circle cx="135.8" cy="233.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k6g6w1g6k6dp6k1~x4/"><circle cx="122.9" cy="237.7" r="4" fill="#3465a4"><title>Wilson's, No 64 or Abercrombie</title></circle></a><a href="/variants/s7/k6g6y1g6k6dp6k1~x4/"><circle cx="129.2" cy="239.4" r="4" fill="#3465a4"><title>Abercrombie (Wilsons No 2/64)</title></circle></a><a href="/variants/s7/k7g6w1g6k7db7k1~x4/"><circle cx="135.7" cy="230.9" r="4" fill="#3465a4"><title>MacLaggan</title></circle></a><a href="/variants/s7/k6g6r1g6k6db6k1~x2/"><circle cx="126.6" cy="240.4" r="4" fill="#3465a4"><title>MacCallum #2</title></circle></a><a href="/variants/s7/k12g12w2g12k12dp12r3~x2/"><circle cx="85.1" cy="230.7" r="4" fill="#3465a4"><title>Wilson's, No 120</title></circle></a><a href="/variants/s7/k6g6w1g6k6dp6b1~x4/"><circle cx="97.5" cy="230.7" r="4" fill="#3465a4"><title>Wilson's, No 233</title></circle></a><a href="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/"><circle cx="145.1" cy="212.8" r="4" fill="#3465a4"><title>Wilson's No 108</title></circle></a><a href="/variants/s7/k11g12w2g12k12dp12r3~x2/"><circle cx="86.2" cy="230.8" r="4" fill="#3465a4"><title>Cunningham / Wilson's No 120</title></circle></a><a href="/variants/s6/g18lb2g4k14dp12k3~x2/"><circle cx="167.3" cy="212.9" r="4" fill="#3465a4"><title>Coburg</title></circle></a><a href="/variants/s6/k2g8db2k9dp7k2~x2/"><circle cx="144.7" cy="241.7" r="4" fill="#3465a4"><title>Campbell, Sir Walter Scott</title></circle></a><circle cx="135.9" cy="234.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k13g12lb2g12k13dp12k2~x2/

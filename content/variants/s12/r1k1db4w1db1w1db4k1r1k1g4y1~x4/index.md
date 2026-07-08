@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dunedin"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1k1db4w1db1w1db4k1r1k1g4y1/)
 (the same proportion at any scale), whose colour order is pattern [GGKRKBWBWBKR](/stripes/ggkrkbwbwbkr/).
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dg4w3b3w3dg12k6b4k3b4k3b12dr3~x2/"><circle cx="76.1" cy="206.4" r="4" fill="#3465a4"><title>Scotch House (Dalgliesh)</title></circle></a><a href="/variants/s10/n12k3w3k3w3k3n13t6db17dr3~x2~t1904230-db1003265/"><circle cx="95.8" cy="181.4" r="4" fill="#3465a4"><title>Mitsukoshi</title></circle></a><a href="/variants/s13/db13w3db13k3db3k8db3k15y3r3g3w3r3~x2/"><circle cx="96.6" cy="163.0" r="4" fill="#3465a4"><title>Salich-Plaja of St. Genis (Personal)</title></circle></a><a href="/variants/s10/db24r6w6r6w6r6db25k12t36y6/"><circle cx="84.4" cy="174.3" r="4" fill="#3465a4"><title>Lopatinsky (Personal)</title></circle></a><a href="/variants/s9/w3db3r2db14k3g12k14db16y2~x2/"><circle cx="146.4" cy="166.3" r="4" fill="#3465a4"><title>Royal Navy Submarine Service</title></circle></a><a href="/variants/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1g7w1y2~x2/"><circle cx="103.0" cy="156.3" r="4" fill="#3465a4"><title>MacLellan, Blue McLellan</title></circle></a><a href="/variants/s14/r1db6g1k1g1k1g6k1lb1k1db3k3g3w1~x8/"><circle cx="76.2" cy="156.0" r="4" fill="#3465a4"><title>Elgin-Landshut</title></circle></a><a href="/variants/s10/db2lo1db6dr1db2dr2k2g6lb1g2~x4/"><circle cx="112.3" cy="185.6" r="4" fill="#3465a4"><title>Nance (1998)</title></circle></a><a href="/variants/s11/w7k11lb3db9g19y3k22db9lb3k3db6~x2/"><circle cx="68.5" cy="162.6" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/variants/s11/dp3db13n2db4w2db8k13g10k2g8dp3~x2/"><circle cx="81.2" cy="179.2" r="4" fill="#3465a4"><title>Smithers</title></circle></a><circle cx="70.4" cy="177.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dg4w3b3w3dg12k6b4k3b4k3b12dr3~x2/"><circle cx="76.2" cy="207.0" r="4" fill="#3465a4"><title>Scotch House (Dalgliesh)</title></circle></a><a href="/variants/s10/n12k3w3k3w3k3n13t6db17dr3~x2~t1904230-db1003265/"><circle cx="95.8" cy="181.9" r="4" fill="#3465a4"><title>Mitsukoshi</title></circle></a><a href="/variants/s13/db13w3db13k3db3k8db3k15y3r3g3w3r3~x2/"><circle cx="96.6" cy="163.5" r="4" fill="#3465a4"><title>Salich-Plaja of St. Genis (Personal)</title></circle></a><a href="/variants/s10/db24r6w6r6w6r6db25k12t36y6/"><circle cx="84.4" cy="174.7" r="4" fill="#3465a4"><title>Lopatinsky (Personal)</title></circle></a><a href="/variants/s9/w3db3r2db14k3g12k14db16y2~x2/"><circle cx="146.4" cy="166.7" r="4" fill="#3465a4"><title>Royal Navy Submarine Service</title></circle></a><a href="/variants/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1g7w1y2~x2/"><circle cx="103.0" cy="156.7" r="4" fill="#3465a4"><title>MacLellan, Blue McLellan</title></circle></a><a href="/variants/s14/r1db6g1k1g1k1g6k1lb1k1db3k3g3w1~x8/"><circle cx="76.1" cy="156.3" r="4" fill="#3465a4"><title>Elgin-Landshut</title></circle></a><a href="/variants/s10/db2lo1db6dr1db2dr2k2g6lb1g2~x4/"><circle cx="112.3" cy="186.0" r="4" fill="#3465a4"><title>Nance (1998)</title></circle></a><a href="/variants/s11/w7k11lb3db9g19y3k22db9lb3k3db6~x2/"><circle cx="68.5" cy="163.0" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/variants/s11/dp3db13n2db4w2db8k13g10k2g8dp3~x2/"><circle cx="81.2" cy="179.6" r="4" fill="#3465a4"><title>Smithers</title></circle></a><circle cx="70.4" cy="177.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r1k1db4w1db1w1db4k1r1k1g4y1~x4/

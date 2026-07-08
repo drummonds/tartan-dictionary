@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ramsay (Orange)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4lo9k13g6lo3g9w4/)
 (the same proportion at any scale), whose colour order is pattern [KYKGYGW](/stripes/kykgygw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3452
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3452](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3452)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.8" cy="232.2" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s7/k4dy9k13g6dy3g9w4~x2/"><circle cx="81.7" cy="254.5" r="4" fill="#3465a4"><title>Ramsay Hunting Family Tartan</title></circle></a><a href="/variants/s7/k4b9k13g6b3g9w4~x2/"><circle cx="77.8" cy="255.3" r="4" fill="#3465a4"><title>Ramsay, Red</title></circle></a><a href="/variants/s7/o6k2dg12ly8o5k2dg3~x4/"><circle cx="135.6" cy="228.2" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/variants/s9/y8g16k6g6k6g6k16r21k5/"><circle cx="88.8" cy="230.6" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/variants/s10/g12k14lb11r3lb3r3lb11k14g12lb3~x2/"><circle cx="69.5" cy="230.8" r="4" fill="#3465a4"><title>Wellington (Wilson) #2</title></circle></a><a href="/variants/s6/lb3g12k14lb11r3lb3~x2/"><circle cx="104.3" cy="240.9" r="4" fill="#3465a4"><title>Wellington or Waterloo</title></circle></a><a href="/variants/s10/w8k4w8k2w3k8dg8r2dg8k4~x2/"><circle cx="60.7" cy="240.7" r="4" fill="#3465a4"><title>Ferguson Dress variation</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="139.9" cy="223.9" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s6/lb3g6k6lb4r1lb1~x2/"><circle cx="116.0" cy="235.9" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><circle cx="74.0" cy="251.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.9" cy="232.9" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s7/k4dy9k13g6dy3g9w4~x2/"><circle cx="81.8" cy="255.3" r="4" fill="#3465a4"><title>Ramsay Hunting Family Tartan</title></circle></a><a href="/variants/s7/k4b9k13g6b3g9w4~x2/"><circle cx="77.9" cy="256.1" r="4" fill="#3465a4"><title>Ramsay, Red</title></circle></a><a href="/variants/s7/o6k2dg12ly8o5k2dg3~x4/"><circle cx="135.7" cy="228.9" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/variants/s9/y8g16k6g6k6g6k16r21k5/"><circle cx="88.9" cy="231.3" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/variants/s10/g12k14lb11r3lb3r3lb11k14g12lb3~x2/"><circle cx="69.6" cy="231.5" r="4" fill="#3465a4"><title>Wellington (Wilson) #2</title></circle></a><a href="/variants/s6/lb3g12k14lb11r3lb3~x2/"><circle cx="104.4" cy="241.6" r="4" fill="#3465a4"><title>Wellington or Waterloo</title></circle></a><a href="/variants/s10/w8k4w8k2w3k8dg8r2dg8k4~x2/"><circle cx="60.8" cy="241.5" r="4" fill="#3465a4"><title>Ferguson Dress variation</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="140.0" cy="224.6" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s6/lb3g6k6lb4r1lb1~x2/"><circle cx="116.1" cy="236.7" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><circle cx="74.1" cy="252.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k4lo9k13g6lo3g9w4~x2/

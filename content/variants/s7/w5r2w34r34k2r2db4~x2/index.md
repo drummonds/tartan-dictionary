@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cunningham Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w5r2w34r34k2r2db4/)
 (the same proportion at any scale), whose colour order is pattern [BRKRWRW](/stripes/brkrwrw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=846
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=846](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=846)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5r2w34r34k2r2y4~x2/"><circle cx="276.0" cy="133.7" r="4" fill="#3465a4"><title>Cunningham Dress Burgundy (Dance)</title></circle></a><a href="/variants/s7/w30k1r7dg7r8w1r2~x4/"><circle cx="297.5" cy="111.7" r="4" fill="#3465a4"><title>MMK 1777</title></circle></a><a href="/variants/s8/k1r1w1r15w15r1w1k1~x4/"><circle cx="286.5" cy="131.6" r="4" fill="#3465a4"><title>Bundy, Dress Red (Personal Dance)</title></circle></a><a href="/variants/s6/r8w3r28w32k3w4~x2/"><circle cx="296.0" cy="193.3" r="4" fill="#3465a4"><title>Ailsa, Pink (Dance)</title></circle></a><a href="/variants/s7/w4k2w25r21w3r8y3~x2/"><circle cx="267.2" cy="169.9" r="4" fill="#3465a4"><title>MacPherson, Burgundy dress</title></circle></a><a href="/variants/s7/w5k2w30r24w3r8db3~x2/"><circle cx="281.7" cy="158.0" r="4" fill="#3465a4"><title>Arduaine, Red (Dance)</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="246.0" cy="168.5" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><a href="/variants/s6/k2w28r13w2r13w2~x2/"><circle cx="318.3" cy="183.2" r="4" fill="#3465a4"><title>Buchanan #5</title></circle></a><a href="/variants/s7/k1r8g1r1w8r1k1~x6/"><circle cx="212.1" cy="161.7" r="4" fill="#3465a4"><title>Cameron Hose</title></circle></a><a href="/variants/s8/r3k2r23b3r3w23r3b3~x2/"><circle cx="256.8" cy="144.9" r="4" fill="#3465a4"><title>Cameron, Hose for E</title></circle></a><circle cx="271.0" cy="132.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5r2w34r34k2r2y4~x2/"><circle cx="276.1" cy="134.2" r="4" fill="#3465a4"><title>Cunningham Dress Burgundy (Dance)</title></circle></a><a href="/variants/s7/w30k1r7dg7r8w1r2~x4/"><circle cx="297.5" cy="112.1" r="4" fill="#3465a4"><title>MMK 1777</title></circle></a><a href="/variants/s8/k1r1w1r15w15r1w1k1~x4/"><circle cx="286.5" cy="132.1" r="4" fill="#3465a4"><title>Bundy, Dress Red (Personal Dance)</title></circle></a><a href="/variants/s6/r8w3r28w32k3w4~x2/"><circle cx="296.2" cy="194.0" r="4" fill="#3465a4"><title>Ailsa, Pink (Dance)</title></circle></a><a href="/variants/s7/w4k2w25r21w3r8y3~x2/"><circle cx="267.3" cy="170.5" r="4" fill="#3465a4"><title>MacPherson, Burgundy dress</title></circle></a><a href="/variants/s7/w5k2w30r24w3r8db3~x2/"><circle cx="281.8" cy="158.6" r="4" fill="#3465a4"><title>Arduaine, Red (Dance)</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="246.1" cy="169.0" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><a href="/variants/s6/k2w28r13w2r13w2~x2/"><circle cx="318.4" cy="183.8" r="4" fill="#3465a4"><title>Buchanan #5</title></circle></a><a href="/variants/s7/k1r8g1r1w8r1k1~x6/"><circle cx="212.2" cy="162.3" r="4" fill="#3465a4"><title>Cameron Hose</title></circle></a><a href="/variants/s8/r3k2r23b3r3w23r3b3~x2/"><circle cx="256.8" cy="145.5" r="4" fill="#3465a4"><title>Cameron, Hose for E</title></circle></a><circle cx="271.0" cy="132.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w5r2w34r34k2r2db4~x2/

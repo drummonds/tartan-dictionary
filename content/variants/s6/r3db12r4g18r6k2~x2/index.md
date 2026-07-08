@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Eyre (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3db12r4g18r6k2/)
 (the same proportion at any scale), whose colour order is pattern [KRGRBR](/stripes/krgrbr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1143
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1143](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1143)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2y1db8r1g7y1r2~x6/"><circle cx="200.2" cy="214.4" r="4" fill="#3465a4"><title>Cercle de Fermières de Saint-Élie d'Orford</title></circle></a><a href="/variants/s6/db18r3k9r3g23y3~x2/"><circle cx="138.2" cy="196.1" r="4" fill="#3465a4"><title>Royal College of Physicians (Corp)</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4~r2109032/"><circle cx="129.8" cy="205.8" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4/"><circle cx="209.5" cy="227.5" r="4" fill="#3465a4"><title>Wilson's, No 193</title></circle></a><a href="/variants/s7/k2r12db6r3g12r4db1~x2/"><circle cx="224.9" cy="186.9" r="4" fill="#3465a4"><title>MacBean/MacElvain</title></circle></a><a href="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/"><circle cx="227.3" cy="176.3" r="4" fill="#3465a4"><title>McInery (Personal)</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x4/"><circle cx="131.9" cy="240.6" r="4" fill="#3465a4"><title>Stewart (Artefact)</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x2/"><circle cx="131.9" cy="240.6" r="4" fill="#3465a4"><title>Stewart, Plaid</title></circle></a><a href="/variants/s7/y5k5g17k6n24k6y3~x2/"><circle cx="150.3" cy="209.7" r="4" fill="#3465a4"><title>Cape Breton</title></circle></a><a href="/variants/s6/r3n27k6lo13k14r3~x2/"><circle cx="158.3" cy="194.8" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special grey</title></circle></a><circle cx="182.4" cy="207.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2y1db8r1g7y1r2~x6/"><circle cx="200.2" cy="214.9" r="4" fill="#3465a4"><title>Cercle de Fermières de Saint-Élie d'Orford</title></circle></a><a href="/variants/s6/db18r3k9r3g23y3~x2/"><circle cx="138.3" cy="196.6" r="4" fill="#3465a4"><title>Royal College of Physicians (Corp)</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4~r2109032/"><circle cx="129.9" cy="206.4" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4/"><circle cx="209.6" cy="228.2" r="4" fill="#3465a4"><title>Wilson's, No 193</title></circle></a><a href="/variants/s7/k2r12db6r3g12r4db1~x2/"><circle cx="224.9" cy="187.4" r="4" fill="#3465a4"><title>MacBean/MacElvain</title></circle></a><a href="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/"><circle cx="227.3" cy="176.7" r="4" fill="#3465a4"><title>McInery (Personal)</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x4/"><circle cx="132.0" cy="241.3" r="4" fill="#3465a4"><title>Stewart (Artefact)</title></circle></a><a href="/variants/s7/r2g4db8r9g9k2r2~x2/"><circle cx="132.0" cy="241.3" r="4" fill="#3465a4"><title>Stewart, Plaid</title></circle></a><a href="/variants/s7/y5k5g17k6n24k6y3~x2/"><circle cx="150.4" cy="210.2" r="4" fill="#3465a4"><title>Cape Breton</title></circle></a><a href="/variants/s6/r3n27k6lo13k14r3~x2/"><circle cx="158.4" cy="195.4" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special grey</title></circle></a><circle cx="182.5" cy="208.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r3db12r4g18r6k2~x2/

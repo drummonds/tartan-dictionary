@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bro-Roazhon"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k28y1w2y1k3w17k5w3db2w10g2/)
 (the same proportion at any scale), whose colour order is pattern [GWBWKWKGWGK](/stripes/gwbwkwkgwgk/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=385
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=385](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=385)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/"><circle cx="226.6" cy="87.1" r="4" fill="#3465a4"><title>Liddell (New York) (Name)</title></circle></a><a href="/variants/s9/lb60k6lb8k2lb8w2dr12k49ly4/"><circle cx="250.4" cy="89.9" r="4" fill="#3465a4"><title>Motherwell Football Club. Modern</title></circle></a><a href="/variants/s10/k8dr3lb4dg4lb48k48dg4k4dy3lb8~dg1804158/"><circle cx="209.7" cy="102.4" r="4" fill="#3465a4"><title>Kingsbarns Golf Links</title></circle></a><a href="/variants/s9/y4k4g12k37w4k4w16k2w4~x2/"><circle cx="239.0" cy="124.1" r="4" fill="#3465a4"><title>Gordon Dress (MacGregor-Hastie)</title></circle></a><a href="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/"><circle cx="285.6" cy="90.9" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/variants/s11/lo1n8lb2k15lb20dr1lb1dr1lb8n3lb1~x2/"><circle cx="235.4" cy="108.9" r="4" fill="#3465a4"><title>Harris (Personal)</title></circle></a><a href="/variants/s10/k3w9k2dr8db1g3db1dr25w5db3~x2/"><circle cx="252.1" cy="95.3" r="4" fill="#3465a4"><title>Bro-Zol</title></circle></a><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><circle cx="281.5" cy="87.7" r="4" fill="#3465a4"><title>Bell Family Tartan</title></circle></a><a href="/variants/s13/lb4t1w1t1k29lb3y1k4lb20k2db1k3lb3~x2/"><circle cx="248.3" cy="47.1" r="4" fill="#3465a4"><title>Silverton (Name)</title></circle></a><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="325.3" cy="79.2" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><circle cx="235.7" cy="83.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/y2k3y2k22lb8r1lb3r1lb22k1w2~x2/"><circle cx="226.5" cy="87.4" r="4" fill="#3465a4"><title>Liddell (New York) (Name)</title></circle></a><a href="/variants/s9/lb60k6lb8k2lb8w2dr12k49ly4/"><circle cx="250.3" cy="90.2" r="4" fill="#3465a4"><title>Motherwell Football Club. Modern</title></circle></a><a href="/variants/s10/k8dr3lb4dg4lb48k48dg4k4dy3lb8~dg1804158/"><circle cx="209.6" cy="102.7" r="4" fill="#3465a4"><title>Kingsbarns Golf Links</title></circle></a><a href="/variants/s9/y4k4g12k37w4k4w16k2w4~x2/"><circle cx="238.9" cy="124.5" r="4" fill="#3465a4"><title>Gordon Dress (MacGregor-Hastie)</title></circle></a><a href="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/"><circle cx="285.5" cy="91.2" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/variants/s11/lo1n8lb2k15lb20dr1lb1dr1lb8n3lb1~x2/"><circle cx="235.3" cy="109.2" r="4" fill="#3465a4"><title>Harris (Personal)</title></circle></a><a href="/variants/s10/k3w9k2dr8db1g3db1dr25w5db3~x2/"><circle cx="252.0" cy="95.5" r="4" fill="#3465a4"><title>Bro-Zol</title></circle></a><a href="/variants/s9/r3dg2k9lb2k2lb24y2lb2y1~x2/"><circle cx="281.4" cy="88.0" r="4" fill="#3465a4"><title>Bell Family Tartan</title></circle></a><a href="/variants/s13/lb4t1w1t1k29lb3y1k4lb20k2db1k3lb3~x2/"><circle cx="248.1" cy="47.2" r="4" fill="#3465a4"><title>Silverton (Name)</title></circle></a><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="325.2" cy="79.4" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><circle cx="235.6" cy="83.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k28y1w2y1k3w17k5w3db2w10g2~x2/

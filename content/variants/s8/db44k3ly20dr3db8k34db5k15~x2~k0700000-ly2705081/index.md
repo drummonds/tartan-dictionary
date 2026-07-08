@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "U.S. Air Force Reserve P. B. (Corpor"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db44k3ly20dr3db8k34db5k15/)
 (the same proportion at any scale), whose colour order is pattern [BKYBBKBK](/stripes/bkybbkbk/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2437
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2437](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2437)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg5lp3dg32k16db32r3db5~x2/"><circle cx="219.7" cy="188.6" r="4" fill="#3465a4"><title>MacThomas (Clan)</title></circle></a><a href="/variants/s9/k4db4k2db4k2db22dy27y2r3~x2/"><circle cx="279.1" cy="153.1" r="4" fill="#3465a4"><title>Falkirk (District)</title></circle></a><a href="/variants/s8/db15dp3db30k22dg18dp3dg3w3~x2/"><circle cx="218.4" cy="185.1" r="4" fill="#3465a4"><title>Moray (Corporate)</title></circle></a><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="203.3" cy="183.2" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><a href="/variants/s9/dp4db40k15dg10dp2dg10dp2dg10w4~x2/"><circle cx="228.5" cy="140.9" r="4" fill="#3465a4"><title>Ebdon-Muir (Personal)</title></circle></a><a href="/variants/s9/db16k3db40k22lb3k25g3k6dt10~db1404245-dt1102249/"><circle cx="233.7" cy="164.1" r="4" fill="#3465a4"><title>Comme Ça Il Conte</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dg18o4~x2/"><circle cx="171.7" cy="172.3" r="4" fill="#3465a4"><title>Scotch House 2000, original</title></circle></a><a href="/variants/s9/dg28k2db3k11db3k2db17b4lb2~x2~db1108266-b1511266/"><circle cx="219.3" cy="155.1" r="4" fill="#3465a4"><title>West of Wells</title></circle></a><a href="/variants/s9/dg28k2db3k11db3k2db17dbi4lb2~x2~db1004274-dbi1406275/"><circle cx="251.2" cy="165.1" r="4" fill="#3465a4"><title>West of Wells (Personal)</title></circle></a><a href="/variants/s6/db20k4g5dp14w1db2~x2/"><circle cx="277.0" cy="165.9" r="4" fill="#3465a4"><title>Riley's Theme</title></circle></a><circle cx="240.8" cy="169.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg5lp3dg32k16db32r3db5~x2/"><circle cx="219.7" cy="188.9" r="4" fill="#3465a4"><title>MacThomas (Clan)</title></circle></a><a href="/variants/s9/k4db4k2db4k2db22dy27y2r3~x2/"><circle cx="279.1" cy="153.2" r="4" fill="#3465a4"><title>Falkirk (District)</title></circle></a><a href="/variants/s8/db15dp3db30k22dg18dp3dg3w3~x2/"><circle cx="218.4" cy="185.4" r="4" fill="#3465a4"><title>Moray (Corporate)</title></circle></a><a href="/variants/s7/dg3db12lb1k12dg13r2dg2~x2/"><circle cx="203.3" cy="183.5" r="4" fill="#3465a4"><title>MacPhedran/MacFadzean</title></circle></a><a href="/variants/s9/dp4db40k15dg10dp2dg10dp2dg10w4~x2/"><circle cx="228.4" cy="141.0" r="4" fill="#3465a4"><title>Ebdon-Muir (Personal)</title></circle></a><a href="/variants/s9/db16k3db40k22lb3k25g3k6dt10~db1404245-dt1102249/"><circle cx="233.6" cy="164.3" r="4" fill="#3465a4"><title>Comme Ça Il Conte</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17dg18o4~x2/"><circle cx="171.6" cy="172.6" r="4" fill="#3465a4"><title>Scotch House 2000, original</title></circle></a><a href="/variants/s9/dg28k2db3k11db3k2db17b4lb2~x2~db1108266-b1511266/"><circle cx="219.2" cy="155.3" r="4" fill="#3465a4"><title>West of Wells</title></circle></a><a href="/variants/s9/dg28k2db3k11db3k2db17dbi4lb2~x2~db1004274-dbi1406275/"><circle cx="251.1" cy="165.2" r="4" fill="#3465a4"><title>West of Wells (Personal)</title></circle></a><a href="/variants/s6/db20k4g5dp14w1db2~x2/"><circle cx="277.0" cy="166.1" r="4" fill="#3465a4"><title>Riley's Theme</title></circle></a><circle cx="240.8" cy="169.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db44k3ly20dr3db8k34db5k15~x2~k0700000-ly2705081/

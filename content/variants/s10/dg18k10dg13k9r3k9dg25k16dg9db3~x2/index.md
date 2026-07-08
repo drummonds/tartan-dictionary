@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Holman"
   url: "/tartans/holman/"
+- name: "Holman"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg18k10dg13k9r3k9dg25k16dg9db3/)
 (the same proportion at any scale), whose colour order is pattern [BGKGKRKGKG](/stripes/bgkgkrkgkg/).
@@ -14,7 +16,7 @@ Part of the [Holman](/tartans/holman/) tartan — the named design grouping this
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g7k12g12k9dr3k9g20k16g7t3~x2/"><circle cx="177.7" cy="221.1" r="4" fill="#3465a4"><title>Holman (Personal)</title></circle></a><a href="/variants/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2~dg1806142-g2408144/"><circle cx="283.4" cy="185.4" r="4" fill="#3465a4"><title>Guildry of Stirling</title></circle></a><a href="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/"><circle cx="290.2" cy="199.3" r="4" fill="#3465a4"><title>MacLean of Duart Hunting</title></circle></a><a href="/variants/s8/dg5k15dg5k15dg19r2dg10b4~x2/"><circle cx="271.9" cy="216.1" r="4" fill="#3465a4"><title>Strath Halladale (Sutherland)</title></circle></a><a href="/variants/s9/w2dg12k3dg3k16dg3k3dg12ly2~x2/"><circle cx="254.6" cy="188.3" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><circle cx="421.0" cy="242.5" r="4" fill="#3465a4"><title>Taiheiyo Club, Inc.</title></circle></a><a href="/variants/s9/do20db2do5db5k18g5do5g2do15~x2/"><circle cx="314.0" cy="197.2" r="4" fill="#3465a4"><title>Laois</title></circle></a><a href="/variants/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/"><circle cx="339.5" cy="208.5" r="4" fill="#3465a4"><title>MacLoughlin of Ardmarnoch (Personal)</title></circle></a><a href="/variants/s11/dg10k3dg3k20dp3k5g3k20dg3k3dg10~x2~dg1806142-g2408144/"><circle cx="278.7" cy="182.1" r="4" fill="#3465a4"><title>Pike (Personal)</title></circle></a><a href="/variants/s7/k25dy5k5dg25k25db3k10~x2/"><circle cx="381.7" cy="223.3" r="4" fill="#3465a4"><title>London Community Gospel Choir, The</title></circle></a><circle cx="296.7" cy="223.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g7k12g12k9dr3k9g20k16g7t3~x2/"><circle cx="177.7" cy="221.7" r="4" fill="#3465a4"><title>Holman (Personal)</title></circle></a><a href="/variants/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2~dg1806142-g2408144/"><circle cx="283.4" cy="185.9" r="4" fill="#3465a4"><title>Guildry of Stirling</title></circle></a><a href="/variants/s8/dg3k6w2k6dg2k2dg16k2~x2/"><circle cx="290.2" cy="199.8" r="4" fill="#3465a4"><title>MacLean of Duart Hunting</title></circle></a><a href="/variants/s8/dg5k15dg5k15dg19r2dg10b4~x2/"><circle cx="271.9" cy="216.6" r="4" fill="#3465a4"><title>Strath Halladale (Sutherland)</title></circle></a><a href="/variants/s9/w2dg12k3dg3k16dg3k3dg12ly2~x2/"><circle cx="254.6" cy="188.8" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><circle cx="421.1" cy="243.0" r="4" fill="#3465a4"><title>Taiheiyo Club, Inc.</title></circle></a><a href="/variants/s9/do20db2do5db5k18g5do5g2do15~x2/"><circle cx="314.0" cy="197.6" r="4" fill="#3465a4"><title>Laois</title></circle></a><a href="/variants/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/"><circle cx="339.5" cy="208.9" r="4" fill="#3465a4"><title>MacLoughlin of Ardmarnoch (Personal)</title></circle></a><a href="/variants/s11/dg10k3dg3k20dp3k5g3k20dg3k3dg10~x2~dg1806142-g2408144/"><circle cx="278.7" cy="182.5" r="4" fill="#3465a4"><title>Pike (Personal)</title></circle></a><a href="/variants/s7/k25dy5k5dg25k25db3k10~x2/"><circle cx="381.7" cy="223.6" r="4" fill="#3465a4"><title>London Community Gospel Choir, The</title></circle></a><circle cx="296.8" cy="223.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dg18k10dg13k9r3k9dg25k16dg9db3~x2/

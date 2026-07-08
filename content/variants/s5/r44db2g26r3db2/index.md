@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Unidentified Cant"
   url: "/tartans/unidentified-cant/"
+- name: "Unidentified Cant #09"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r44db2g26r3db2/)
 (the same proportion at any scale), whose colour order is pattern [BGRBRGBR](/stripes/bgrbrgbr/).
@@ -14,7 +16,7 @@ Part of the [Unidentified Cant](/tartans/unidentified-cant/) tartan — the name
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4909
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4909](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4909)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r60db2g24r8db2lb3db2/"><circle cx="369.5" cy="107.1" r="4" fill="#3465a4"><title>Unidentified Cant #12</title></circle></a><a href="/variants/s8/r56w2db6w2g32r11db6w5/"><circle cx="348.5" cy="130.6" r="4" fill="#3465a4"><title>Spens</title></circle></a><a href="/variants/s6/r70db20r10g40r10db3/"><circle cx="385.5" cy="183.5" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s5/r24t3w1g9r12~x8/"><circle cx="375.4" cy="163.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s6/r60db20r8g45r8db2~x2/"><circle cx="360.8" cy="177.5" r="4" fill="#3465a4"><title>Caledonian</title></circle></a><a href="/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/"><circle cx="352.6" cy="148.2" r="4" fill="#3465a4"><title>MacDonell of Glengarry #4</title></circle></a><a href="/variants/s6/r32lb5g17r4g5w2~x2/"><circle cx="355.5" cy="184.5" r="4" fill="#3465a4"><title>Wilson's, No 5</title></circle></a><a href="/variants/s7/r1g14r1g1r14g1w1~x2/"><circle cx="370.1" cy="183.8" r="4" fill="#3465a4"><title>MacKintosh Fragment</title></circle></a><a href="/variants/s5/g8r2g9r16w1~x2/"><circle cx="360.1" cy="227.8" r="4" fill="#3465a4"><title>MacGregor of Balquhidder</title></circle></a><a href="/variants/s8/r2db1g2db1g19db2r27g2~x2/"><circle cx="390.7" cy="145.6" r="4" fill="#3465a4"><title>Thomas of Wales</title></circle></a><circle cx="367.5" cy="170.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r60db2g24r8db2lb3db2/"><circle cx="369.5" cy="107.3" r="4" fill="#3465a4"><title>Unidentified Cant #12</title></circle></a><a href="/variants/s8/r56w2db6w2g32r11db6w5/"><circle cx="348.5" cy="130.9" r="4" fill="#3465a4"><title>Spens</title></circle></a><a href="/variants/s6/r70db20r10g40r10db3/"><circle cx="385.6" cy="184.0" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s5/r24t3w1g9r12~x8/"><circle cx="375.4" cy="163.8" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s6/r60db20r8g45r8db2~x2/"><circle cx="360.9" cy="177.9" r="4" fill="#3465a4"><title>Caledonian</title></circle></a><a href="/variants/s11/g18r3g2r2db6r2g2r24g1r2g6~x2/"><circle cx="352.6" cy="148.6" r="4" fill="#3465a4"><title>MacDonell of Glengarry #4</title></circle></a><a href="/variants/s6/r32lb5g17r4g5w2~x2/"><circle cx="355.6" cy="184.9" r="4" fill="#3465a4"><title>Wilson's, No 5</title></circle></a><a href="/variants/s7/r1g14r1g1r14g1w1~x2/"><circle cx="370.2" cy="184.3" r="4" fill="#3465a4"><title>MacKintosh Fragment</title></circle></a><a href="/variants/s5/g8r2g9r16w1~x2/"><circle cx="360.3" cy="228.4" r="4" fill="#3465a4"><title>MacGregor of Balquhidder</title></circle></a><a href="/variants/s8/r2db1g2db1g19db2r27g2~x2/"><circle cx="390.7" cy="145.9" r="4" fill="#3465a4"><title>Thomas of Wales</title></circle></a><circle cx="367.5" cy="170.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r44db2g26r3db2/

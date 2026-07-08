@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Pengelly, The Cornish"
   url: "/tartans/pengelly-the-cornish/"
+- name: "Pengelly, The Cornish (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb5k26y4lb24dp8k3r4/)
 (the same proportion at any scale), whose colour order is pattern [RKBWGKW](/stripes/rkbwgkw/).
@@ -14,7 +16,7 @@ Part of the [Pengelly, The Cornish](/tartans/pengelly-the-cornish/) tartan — t
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7388
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7388](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7388)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5k26ly4lb24dp8k3r4~x2/"><circle cx="100.7" cy="151.8" r="4" fill="#3465a4"><title>Pengelly, The Cornish</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="108.7" cy="195.2" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/"><circle cx="158.5" cy="154.5" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/"><circle cx="119.2" cy="149.5" r="4" fill="#3465a4"><title>de Franck, Matt (Personal)</title></circle></a><a href="/variants/s8/r5w2db20y2k16w18k2w5~x2/"><circle cx="105.6" cy="162.2" r="4" fill="#3465a4"><title>Ailsa, Craig</title></circle></a><a href="/variants/s9/lr18k3lr4lb3lr4k19n20k2r4~x2~lr2800000-n1700000/"><circle cx="113.3" cy="157.8" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.3" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s7/y3db22k3db3k11r20y3~x2/"><circle cx="162.8" cy="191.8" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.2" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/variants/s6/w5k26dy26lb7k3r3~x2/"><circle cx="154.3" cy="173.9" r="4" fill="#3465a4"><title>Cornish National District Tartan</title></circle></a><circle cx="135.4" cy="165.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5k26ly4lb24dp8k3r4~x2/"><circle cx="100.7" cy="152.3" r="4" fill="#3465a4"><title>Pengelly, The Cornish</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="108.7" cy="195.7" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/variants/s7/y4k4lb5t24y2k24w4~x2/"><circle cx="158.5" cy="154.9" r="4" fill="#3465a4"><title>Mina Perhonen</title></circle></a><a href="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/"><circle cx="119.1" cy="149.9" r="4" fill="#3465a4"><title>de Franck, Matt (Personal)</title></circle></a><a href="/variants/s8/r5w2db20y2k16w18k2w5~x2/"><circle cx="105.6" cy="162.6" r="4" fill="#3465a4"><title>Ailsa, Craig</title></circle></a><a href="/variants/s9/lr18k3lr4lb3lr4k19n20k2r4~x2~lr2800000-n1700000/"><circle cx="113.3" cy="158.2" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.9" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s7/y3db22k3db3k11r20y3~x2/"><circle cx="162.9" cy="192.3" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.8" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/variants/s6/w5k26dy26lb7k3r3~x2/"><circle cx="154.3" cy="174.4" r="4" fill="#3465a4"><title>Cornish National District Tartan</title></circle></a><circle cx="135.4" cy="166.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lb5k26y4lb24dp8k3r4~x2/

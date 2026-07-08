@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rose of Kilravock (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2r35db6r5db2r2db2r14w2/)
 (the same proportion at any scale), whose colour order is pattern [KRBRBRBRW](/stripes/krbrbrbrw/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4875
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4875](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4875)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g2r28db6r5db2r2db2r11w2/"><circle cx="487.3" cy="143.8" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s9/g2r28db6r5db2r2db2r11w2~x2/"><circle cx="487.3" cy="143.8" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/"><circle cx="447.3" cy="144.7" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s8/r68db26r5y3r5g3r13n3~x2/"><circle cx="471.9" cy="114.2" r="4" fill="#3465a4"><title>De Nardi (Personal)</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="537.9" cy="60.6" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/"><circle cx="616.2" cy="88.7" r="4" fill="#3465a4"><title>Burnett of Leys</title></circle></a><a href="/variants/s8/r68db27r5y3r5g3r13lb3~x2/"><circle cx="460.6" cy="112.5" r="4" fill="#3465a4"><title>De Nardi #2 (Personal)</title></circle></a><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="535.2" cy="64.7" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken #2</title></circle></a><a href="/variants/s7/r75g12r3k2r2k2r36~x2/"><circle cx="626.0" cy="111.8" r="4" fill="#3465a4"><title>MacKintosh #5</title></circle></a><a href="/variants/s9/r40k3r2db12r2g2r2g2y3~x2/"><circle cx="390.7" cy="83.3" r="4" fill="#3465a4"><title>Oliver, dress</title></circle></a><circle cx="496.0" cy="109.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g2r28db6r5db2r2db2r11w2/"><circle cx="487.3" cy="144.2" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s9/g2r28db6r5db2r2db2r11w2~x2/"><circle cx="487.3" cy="144.2" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/"><circle cx="447.4" cy="145.1" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s8/r68db26r5y3r5g3r13n3~x2/"><circle cx="471.9" cy="114.5" r="4" fill="#3465a4"><title>De Nardi (Personal)</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="537.8" cy="60.8" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/"><circle cx="616.1" cy="88.9" r="4" fill="#3465a4"><title>Burnett of Leys</title></circle></a><a href="/variants/s8/r68db27r5y3r5g3r13lb3~x2/"><circle cx="460.6" cy="112.7" r="4" fill="#3465a4"><title>De Nardi #2 (Personal)</title></circle></a><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="535.1" cy="64.9" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken #2</title></circle></a><a href="/variants/s7/r75g12r3k2r2k2r36~x2/"><circle cx="626.0" cy="112.1" r="4" fill="#3465a4"><title>MacKintosh #5</title></circle></a><a href="/variants/s9/r40k3r2db12r2g2r2g2y3~x2/"><circle cx="390.6" cy="83.5" r="4" fill="#3465a4"><title>Oliver, dress</title></circle></a><circle cx="496.0" cy="109.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k2r35db6r5db2r2db2r14w2~x2/

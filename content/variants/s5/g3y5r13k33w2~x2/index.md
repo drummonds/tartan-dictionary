@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Papua New Guinea Pipes and Drums"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g3y5r13k33w2/)
 (the same proportion at any scale), whose colour order is pattern [GGRKW](/stripes/ggrkw/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5871
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5871](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5871)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="257.3" cy="147.8" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s5/db4y4r33k30w2~x2/"><circle cx="218.6" cy="142.9" r="4" fill="#3465a4"><title>Wormeck (2013) Germany</title></circle></a><a href="/variants/s4/g1r8k13ly1~x6/"><circle cx="280.9" cy="177.6" r="4" fill="#3465a4"><title>Billy Apple</title></circle></a><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><circle cx="305.9" cy="89.1" r="4" fill="#3465a4"><title>Tainsh (2016)</title></circle></a><a href="/variants/s5/dg37k22w4r15y3~x2/"><circle cx="188.1" cy="181.8" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s5/k31r12y2n5k2~x4/"><circle cx="323.2" cy="149.3" r="4" fill="#3465a4"><title>Perry (2014)</title></circle></a><a href="/variants/s5/r50k25dg10n5ly2~x2/"><circle cx="272.2" cy="127.7" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s5/r50k25g10n5y2~x2/"><circle cx="269.0" cy="127.4" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s4/db3k32r27w2~x2/"><circle cx="264.8" cy="173.6" r="4" fill="#3465a4"><title>Templar Grand Priory USA</title></circle></a><a href="/variants/s4/db1r16k16y1~x4/"><circle cx="266.8" cy="171.4" r="4" fill="#3465a4"><title>Skinner</title></circle></a><circle cx="268.8" cy="136.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="257.2" cy="148.2" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s5/db4y4r33k30w2~x2/"><circle cx="218.5" cy="143.4" r="4" fill="#3465a4"><title>Wormeck (2013) Germany</title></circle></a><a href="/variants/s4/g1r8k13ly1~x6/"><circle cx="280.9" cy="178.1" r="4" fill="#3465a4"><title>Billy Apple</title></circle></a><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><circle cx="305.8" cy="89.3" r="4" fill="#3465a4"><title>Tainsh (2016)</title></circle></a><a href="/variants/s5/dg37k22w4r15y3~x2/"><circle cx="188.1" cy="182.3" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s5/k31r12y2n5k2~x4/"><circle cx="323.1" cy="149.8" r="4" fill="#3465a4"><title>Perry (2014)</title></circle></a><a href="/variants/s5/r50k25dg10n5ly2~x2/"><circle cx="272.2" cy="128.1" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s5/r50k25g10n5y2~x2/"><circle cx="269.0" cy="127.8" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s4/db3k32r27w2~x2/"><circle cx="264.8" cy="174.1" r="4" fill="#3465a4"><title>Templar Grand Priory USA</title></circle></a><a href="/variants/s4/db1r16k16y1~x4/"><circle cx="266.9" cy="171.9" r="4" fill="#3465a4"><title>Skinner</title></circle></a><circle cx="268.7" cy="136.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/g3y5r13k33w2~x2/

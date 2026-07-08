@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Wells"
   url: "/tartans/wells/"
+- name: "Wells (2014)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db50g25y3n8r1w1r1/)
 (the same proportion at any scale), whose colour order is pattern [BGGBRWR](/stripes/bggbrwr/).
@@ -14,7 +16,7 @@ Part of the [Wells](/tartans/wells/) tartan — the named design grouping this s
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11106
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11106](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11106)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db50g25ly3lb8r1w1r1~x2/"><circle cx="333.8" cy="88.9" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.1" cy="101.4" r="4" fill="#3465a4"><title>Wilton (Name)</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="366.5" cy="149.0" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s6/g20dr10ly2db100w1y10/"><circle cx="478.5" cy="107.7" r="4" fill="#3465a4"><title>Ravetta (Name)</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="342.4" cy="140.7" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><a href="/variants/s8/r2w1r5g5lo1g10db40y2~x2/"><circle cx="360.8" cy="82.3" r="4" fill="#3465a4"><title>St. Andrew Quebec City (Corporate)</title></circle></a><a href="/variants/s8/db46ly1y3dg13ly1dr7g3ly1~x2/"><circle cx="436.4" cy="106.4" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Association (Australia)</title></circle></a><a href="/variants/s6/db47g14do5o2r3g7~x2/"><circle cx="375.1" cy="147.6" r="4" fill="#3465a4"><title>Round Table of Britain and Ireland, RtbI.</title></circle></a><a href="/variants/s8/db46ly1dy3dg13ly1dr7g3ly1~x2/"><circle cx="449.6" cy="111.1" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Assoc</title></circle></a><a href="/variants/s6/w1db15r1n10g2lp1~x4/"><circle cx="292.8" cy="162.8" r="4" fill="#3465a4"><title>Peterson, Oren (Name)</title></circle></a><circle cx="363.0" cy="98.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db50g25ly3lb8r1w1r1~x2/"><circle cx="333.6" cy="89.0" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.0" cy="101.4" r="4" fill="#3465a4"><title>Wilton (Name)</title></circle></a><a href="/variants/s5/db25r1g1n9w4~x2/"><circle cx="366.5" cy="149.3" r="4" fill="#3465a4"><title>Tailor Ishida, Kobe</title></circle></a><a href="/variants/s6/g20dr10ly2db100w1y10/"><circle cx="478.4" cy="107.7" r="4" fill="#3465a4"><title>Ravetta (Name)</title></circle></a><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="342.4" cy="140.7" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><a href="/variants/s8/r2w1r5g5lo1g10db40y2~x2/"><circle cx="360.6" cy="82.3" r="4" fill="#3465a4"><title>St. Andrew Quebec City (Corporate)</title></circle></a><a href="/variants/s8/db46ly1y3dg13ly1dr7g3ly1~x2/"><circle cx="436.3" cy="106.3" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Association (Australia)</title></circle></a><a href="/variants/s6/db47g14do5o2r3g7~x2/"><circle cx="375.1" cy="147.8" r="4" fill="#3465a4"><title>Round Table of Britain and Ireland, RtbI.</title></circle></a><a href="/variants/s8/db46ly1dy3dg13ly1dr7g3ly1~x2/"><circle cx="449.5" cy="111.0" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Assoc</title></circle></a><a href="/variants/s6/w1db15r1n10g2lp1~x4/"><circle cx="292.8" cy="163.0" r="4" fill="#3465a4"><title>Peterson, Oren (Name)</title></circle></a><circle cx="362.8" cy="98.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db50g25y3n8r1w1r1~x2/

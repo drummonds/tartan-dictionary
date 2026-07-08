@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacAart"
   url: "/tartans/macaart/"
+- name: "MacAart (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy9k2dy2dr2g6k1lo1k1g6dr3/)
 (the same proportion at any scale), whose colour order is pattern [BGKYKGBGKG](/stripes/bgkykgbgkg/).
@@ -14,7 +16,7 @@ Part of the [MacAart](/tartans/macaart/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2262
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2262](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2262)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy9k2dy2r2g6k1y1k1g6r3~x2/"><circle cx="141.6" cy="177.6" r="4" fill="#3465a4"><title>MacAart Family Tartan</title></circle></a><a href="/variants/s11/dr3g6k1lo1k1g6dr2dy2k2dy9k2~x4/"><circle cx="129.3" cy="176.3" r="4" fill="#3465a4"><title>MacAart (Personal)</title></circle></a><a href="/variants/s12/dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10~x2/"><circle cx="117.1" cy="201.4" r="4" fill="#3465a4"><title>MacDonald of Denovan Htg (Clan)</title></circle></a><a href="/variants/s8/db4dr11db1g8dr2g4k1lo2~x4/"><circle cx="183.4" cy="178.8" r="4" fill="#3465a4"><title>Craik of Assington (Personal)</title></circle></a><a href="/variants/s8/o30k4o3k4o3g20dt20y4~x2/"><circle cx="188.6" cy="176.8" r="4" fill="#3465a4"><title>Sikh (Corporate)</title></circle></a><a href="/variants/s10/k3r9k4dy9y3dy9k4g26k2y3~x2/"><circle cx="137.8" cy="146.6" r="4" fill="#3465a4"><title>Cavan, County</title></circle></a><a href="/variants/s13/dg6dgi3dg22k2dg4k14dgi5k3lyi5k3dgi20k4ly4~x2~dgi1605139-lyi3104101-ly2705081/"><circle cx="142.2" cy="156.2" r="4" fill="#3465a4"><title>Celtic Football Club (2005)</title></circle></a><a href="/variants/s14/dt20g20o3k4o3k4o30k4o3k4o3g20dt20y4~x2/"><circle cx="124.5" cy="156.9" r="4" fill="#3465a4"><title>Sikh Clan/Family Tartan</title></circle></a><a href="/variants/s10/k3r9k5do9o3do9k5g24k2o3~x2/"><circle cx="115.8" cy="154.3" r="4" fill="#3465a4"><title>Cavan</title></circle></a><a href="/variants/s11/do10dr4do4dr4do20k20dr3g20dr4g4ly4~x2~do1402055-g2203152/"><circle cx="132.4" cy="188.5" r="4" fill="#3465a4"><title>Cameron of Erracht (WCWM)</title></circle></a><circle cx="152.4" cy="183.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy9k2dy2r2g6k1y1k1g6r3~x2/"><circle cx="141.6" cy="178.1" r="4" fill="#3465a4"><title>MacAart Family Tartan</title></circle></a><a href="/variants/s11/dr3g6k1lo1k1g6dr2dy2k2dy9k2~x4/"><circle cx="129.3" cy="176.7" r="4" fill="#3465a4"><title>MacAart (Personal)</title></circle></a><a href="/variants/s12/dg10dp2dg3dr4dg13k13dr2g13dr4g3dr2g10~x2/"><circle cx="117.1" cy="201.8" r="4" fill="#3465a4"><title>MacDonald of Denovan Htg (Clan)</title></circle></a><a href="/variants/s8/db4dr11db1g8dr2g4k1lo2~x4/"><circle cx="183.4" cy="179.2" r="4" fill="#3465a4"><title>Craik of Assington (Personal)</title></circle></a><a href="/variants/s8/o30k4o3k4o3g20dt20y4~x2/"><circle cx="188.6" cy="177.1" r="4" fill="#3465a4"><title>Sikh (Corporate)</title></circle></a><a href="/variants/s10/k3r9k4dy9y3dy9k4g26k2y3~x2/"><circle cx="137.8" cy="146.9" r="4" fill="#3465a4"><title>Cavan, County</title></circle></a><a href="/variants/s13/dg6dgi3dg22k2dg4k14dgi5k3lyi5k3dgi20k4ly4~x2~dgi1605139-lyi3104101-ly2705081/"><circle cx="142.1" cy="156.5" r="4" fill="#3465a4"><title>Celtic Football Club (2005)</title></circle></a><a href="/variants/s14/dt20g20o3k4o3k4o30k4o3k4o3g20dt20y4~x2/"><circle cx="124.4" cy="157.2" r="4" fill="#3465a4"><title>Sikh Clan/Family Tartan</title></circle></a><a href="/variants/s10/k3r9k5do9o3do9k5g24k2o3~x2/"><circle cx="115.7" cy="154.6" r="4" fill="#3465a4"><title>Cavan</title></circle></a><a href="/variants/s11/do10dr4do4dr4do20k20dr3g20dr4g4ly4~x2~do1402055-g2203152/"><circle cx="132.4" cy="188.9" r="4" fill="#3465a4"><title>Cameron of Erracht (WCWM)</title></circle></a><circle cx="152.4" cy="184.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dy9k2dy2dr2g6k1lo1k1g6dr3~x4/

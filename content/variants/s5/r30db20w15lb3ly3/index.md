@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Siddle, New (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r30db20w15lb3ly3/)
 (the same proportion at any scale), whose colour order is pattern [RBWWY](/stripes/rbwwy/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10604
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10604](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10604)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r39lb22k11ly22g5~x2/"><circle cx="131.9" cy="220.5" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="183.4" cy="220.6" r="4" fill="#3465a4"><title>Unidentified (Sock Tie)</title></circle></a><a href="/variants/s7/db36ly5dr12r9dp5w12ly7~x2/"><circle cx="132.7" cy="186.1" r="4" fill="#3465a4"><title>Galvez-Brown (Personal)</title></circle></a><a href="/variants/s5/w3r24db12dg8ly3~x2/"><circle cx="220.8" cy="210.6" r="4" fill="#3465a4"><title>McGill University (Corporate)</title></circle></a><a href="/variants/s5/dy3dg8db12r24w3~x2/"><circle cx="227.7" cy="212.4" r="4" fill="#3465a4"><title>McGill University</title></circle></a><a href="/variants/s5/y15r9lb30w3db4~x2/"><circle cx="260.4" cy="214.6" r="4" fill="#3465a4"><title>S.I.D.E. (Corporate)</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="236.4" cy="240.3" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s6/db1n8w1db4r8w1~x6/"><circle cx="208.8" cy="226.6" r="4" fill="#3465a4"><title>Little's (Corporate)</title></circle></a><a href="/variants/s7/r19lb5t2w12t2y4g8~x2~g2203152/"><circle cx="147.4" cy="188.8" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><a href="/variants/s7/r19lb5t2w12t2y4g8~x2/"><circle cx="141.1" cy="187.7" r="4" fill="#3465a4"><title>Northern Ontario (District)</title></circle></a><circle cx="188.0" cy="205.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r39lb22k11ly22g5~x2/"><circle cx="132.0" cy="221.2" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="183.5" cy="221.1" r="4" fill="#3465a4"><title>Unidentified (Sock Tie)</title></circle></a><a href="/variants/s7/db36ly5dr12r9dp5w12ly7~x2/"><circle cx="132.8" cy="186.6" r="4" fill="#3465a4"><title>Galvez-Brown (Personal)</title></circle></a><a href="/variants/s5/w3r24db12dg8ly3~x2/"><circle cx="220.9" cy="211.1" r="4" fill="#3465a4"><title>McGill University (Corporate)</title></circle></a><a href="/variants/s5/dy3dg8db12r24w3~x2/"><circle cx="227.8" cy="213.0" r="4" fill="#3465a4"><title>McGill University</title></circle></a><a href="/variants/s5/y15r9lb30w3db4~x2/"><circle cx="260.5" cy="215.1" r="4" fill="#3465a4"><title>S.I.D.E. (Corporate)</title></circle></a><a href="/variants/s5/r8b1g4b1db4~x2/"><circle cx="236.6" cy="240.9" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s6/db1n8w1db4r8w1~x6/"><circle cx="208.9" cy="227.1" r="4" fill="#3465a4"><title>Little's (Corporate)</title></circle></a><a href="/variants/s7/r19lb5t2w12t2y4g8~x2~g2203152/"><circle cx="147.5" cy="189.3" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><a href="/variants/s7/r19lb5t2w12t2y4g8~x2/"><circle cx="141.2" cy="188.2" r="4" fill="#3465a4"><title>Northern Ontario (District)</title></circle></a><circle cx="188.1" cy="206.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r30db20w15lb3ly3/

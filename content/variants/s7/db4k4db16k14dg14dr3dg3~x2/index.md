@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Inneryne"
   url: "/tartans/inneryne/"
+- name: "Inneryne (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4k4db16k14dg14dr3dg3/)
 (the same proportion at any scale), whose colour order is pattern [BKBKGBG](/stripes/bkbkgbg/).
@@ -14,7 +16,7 @@ Part of the [Inneryne](/tartans/inneryne/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5987
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5987](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5987)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr3g1dr1g8k8db8k2db3~x2/"><circle cx="129.7" cy="211.4" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s8/db3k2db8k8g8dp1g1dp3~x4/"><circle cx="130.3" cy="211.5" r="4" fill="#3465a4"><title>Baird (Modern)</title></circle></a><a href="/variants/s8/db3k2db8k8g8dp1g1dp3~x2/"><circle cx="130.3" cy="211.5" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s7/r5db8k5db24k24dg24y5~x2/"><circle cx="130.1" cy="231.4" r="4" fill="#3465a4"><title>Heritage (Corporate)</title></circle></a><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/"><circle cx="123.7" cy="258.5" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><a href="/variants/s7/db4k2db10k10g10k2dr3~x2/"><circle cx="121.8" cy="240.3" r="4" fill="#3465a4"><title>MacKinlay (Clan)</title></circle></a><a href="/variants/s8/dg18db2dg5r2dg5k21ki20k5~x2~db1605267-ki0503265/"><circle cx="214.7" cy="195.3" r="4" fill="#3465a4"><title>MacRae, Special Hunting</title></circle></a><a href="/variants/s8/db28dg2r5dg2r5k21dg23k2~x2~db1003265/"><circle cx="201.3" cy="178.6" r="4" fill="#3465a4"><title>Bentley</title></circle></a><a href="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/"><circle cx="218.2" cy="252.9" r="4" fill="#3465a4"><title>Black Watch (smallest sett)</title></circle></a><a href="/variants/s7/dg5lp3dg32k16db32r3db5~x2/"><circle cx="219.7" cy="188.6" r="4" fill="#3465a4"><title>MacThomas (Clan)</title></circle></a><circle cx="199.5" cy="254.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr3g1dr1g8k8db8k2db3~x2/"><circle cx="129.7" cy="211.9" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s8/db3k2db8k8g8dp1g1dp3~x4/"><circle cx="130.3" cy="212.0" r="4" fill="#3465a4"><title>Baird (Modern)</title></circle></a><a href="/variants/s8/db3k2db8k8g8dp1g1dp3~x2/"><circle cx="130.3" cy="212.0" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s7/r5db8k5db24k24dg24y5~x2/"><circle cx="130.2" cy="231.9" r="4" fill="#3465a4"><title>Heritage (Corporate)</title></circle></a><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/"><circle cx="123.8" cy="259.1" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><a href="/variants/s7/db4k2db10k10g10k2dr3~x2/"><circle cx="121.9" cy="240.9" r="4" fill="#3465a4"><title>MacKinlay (Clan)</title></circle></a><a href="/variants/s8/dg18db2dg5r2dg5k21ki20k5~x2~db1605267-ki0503265/"><circle cx="214.7" cy="195.5" r="4" fill="#3465a4"><title>MacRae, Special Hunting</title></circle></a><a href="/variants/s8/db28dg2r5dg2r5k21dg23k2~x2~db1003265/"><circle cx="201.3" cy="178.8" r="4" fill="#3465a4"><title>Bentley</title></circle></a><a href="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/"><circle cx="218.2" cy="253.4" r="4" fill="#3465a4"><title>Black Watch (smallest sett)</title></circle></a><a href="/variants/s7/dg5lp3dg32k16db32r3db5~x2/"><circle cx="219.7" cy="188.9" r="4" fill="#3465a4"><title>MacThomas (Clan)</title></circle></a><circle cx="199.5" cy="254.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db4k4db16k14dg14dr3dg3~x2/

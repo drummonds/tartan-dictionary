@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Timmins"
   url: "/tartans/timmins/"
+- name: "Timmins (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr4db2dp14db12y1dbi32db12dbi14db2g4/)
 (the same proportion at any scale), whose colour order is pattern [BBBBGBBBBG](/stripes/bbbbgbbbbg/).
@@ -14,7 +16,7 @@ Part of the [Timmins](/tartans/timmins/) tartan — the named design grouping th
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8447
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8447](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8447)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

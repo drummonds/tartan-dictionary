@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wcwm 1684-2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/p48k10dy12k2p3k2dy12k10p2o3/)
 (the same proportion at any scale), whose colour order is pattern [BKGKBKGKBR](/stripes/bkgkbkgkbr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4540
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4540)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dp36o8dp2o8dp1k2dp4k2dp4k18w2k1w4~x2/"><circle cx="284.2" cy="76.0" r="4" fill="#3465a4"><title>Diamond Jubilee</title></circle></a><a href="/variants/s7/db50r26k9r4w2lo2r10~x2/"><circle cx="266.2" cy="111.9" r="4" fill="#3465a4"><title>Java Saint Andrew Society Dress</title></circle></a><a href="/variants/s12/w24db50k2db8k4db2k4db8k2r40w5db10/"><circle cx="234.0" cy="98.4" r="4" fill="#3465a4"><title>Norwegian Centennial</title></circle></a><a href="/variants/s8/db1r2w1db30r30k1r2w1~x2/"><circle cx="337.3" cy="94.6" r="4" fill="#3465a4"><title>Knights Templar - Grand Priory (Corp</title></circle></a><a href="/variants/s9/db5w4r1db26r26w1r8w5k1~x2/"><circle cx="265.2" cy="116.1" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><a href="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/"><circle cx="261.6" cy="116.9" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><a href="/variants/s14/r16k2y4k2r15k2db74k2r15k2y4k2r16db10~x2~db1406275/"><circle cx="326.5" cy="66.0" r="4" fill="#3465a4"><title>Salvation Army Dress</title></circle></a><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/"><circle cx="260.8" cy="100.2" r="4" fill="#3465a4"><title>Richardson</title></circle></a><a href="/variants/s11/db49k2g2k2g2k10r38db5r4k4n10~x2~db1406275-g2304202/"><circle cx="230.6" cy="88.4" r="4" fill="#3465a4"><title>Porsche Bank Austria</title></circle></a><a href="/variants/s8/r16db2n6r3k4lb2db40lb6~x2/"><circle cx="268.8" cy="112.2" r="4" fill="#3465a4"><title>St. Leonards (Corporate)</title></circle></a><circle cx="279.3" cy="101.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dp36o8dp2o8dp1k2dp4k2dp4k18w2k1w4~x2/"><circle cx="284.0" cy="76.2" r="4" fill="#3465a4"><title>Diamond Jubilee</title></circle></a><a href="/variants/s7/db50r26k9r4w2lo2r10~x2/"><circle cx="266.1" cy="112.1" r="4" fill="#3465a4"><title>Java Saint Andrew Society Dress</title></circle></a><a href="/variants/s12/w24db50k2db8k4db2k4db8k2r40w5db10/"><circle cx="233.9" cy="98.6" r="4" fill="#3465a4"><title>Norwegian Centennial</title></circle></a><a href="/variants/s8/db1r2w1db30r30k1r2w1~x2/"><circle cx="337.2" cy="94.9" r="4" fill="#3465a4"><title>Knights Templar - Grand Priory (Corp</title></circle></a><a href="/variants/s9/db5w4r1db26r26w1r8w5k1~x2/"><circle cx="265.2" cy="116.4" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><a href="/variants/s9/db5w4r1db26r25w1r8w5k1~x2/"><circle cx="261.6" cy="117.2" r="4" fill="#3465a4"><title>Boring and Dull</title></circle></a><a href="/variants/s14/r16k2y4k2r15k2db74k2r15k2y4k2r16db10~x2~db1406275/"><circle cx="326.4" cy="66.1" r="4" fill="#3465a4"><title>Salvation Army Dress</title></circle></a><a href="/variants/s10/r25k1y2k1y2k1r10db18w2db12~x2/"><circle cx="260.7" cy="100.4" r="4" fill="#3465a4"><title>Richardson</title></circle></a><a href="/variants/s11/db49k2g2k2g2k10r38db5r4k4n10~x2~db1406275-g2304202/"><circle cx="230.5" cy="88.5" r="4" fill="#3465a4"><title>Porsche Bank Austria</title></circle></a><a href="/variants/s8/r16db2n6r3k4lb2db40lb6~x2/"><circle cx="268.7" cy="112.4" r="4" fill="#3465a4"><title>St. Leonards (Corporate)</title></circle></a><circle cx="279.2" cy="101.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/p48k10dy12k2p3k2dy12k10p2o3~x2/

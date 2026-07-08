@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cates Armigers (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg20r8dg20y8g20k5/)
 (the same proportion at any scale), whose colour order is pattern [GRGGGK](/stripes/grgggk/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=595
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=595](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=595)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg4g18dg3k17dg18b4~x2/"><circle cx="157.2" cy="241.1" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/variants/s6/g2lo1g5k4do5dr1~x4/"><circle cx="111.6" cy="237.9" r="4" fill="#3465a4"><title>Forres</title></circle></a><a href="/variants/s8/g9lb2g9k2dy14ly4lb2r2~x4~dy1603076-ly3307090/"><circle cx="149.3" cy="190.7" r="4" fill="#3465a4"><title>McShane (Personal)</title></circle></a><a href="/variants/s6/g11w1g11k9dg6dp3~x4/"><circle cx="196.5" cy="209.0" r="4" fill="#3465a4"><title>Hibernian Football Club (Corporate)</title></circle></a><a href="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/"><circle cx="113.4" cy="189.7" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/"><circle cx="113.9" cy="187.9" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/variants/s4/dp6g15dg15k2~x2/"><circle cx="217.2" cy="268.1" r="4" fill="#3465a4"><title>Thistle and Kudzu Scottish Socie Corporate Tartan</title></circle></a><a href="/variants/s6/r4k15lb4dt15dg24y4~x2/"><circle cx="111.9" cy="210.2" r="4" fill="#3465a4"><title>Haughfoot (Commemorative)</title></circle></a><a href="/variants/s8/g14dt11y3k5y3dt11g14ly2~x2/"><circle cx="181.4" cy="225.0" r="4" fill="#3465a4"><title>Wilson's No.122</title></circle></a><a href="/variants/s5/lg11db19dt38dr7k7~x2/"><circle cx="185.0" cy="236.3" r="4" fill="#3465a4"><title>Rose, Danny and Hanna (Personal)</title></circle></a><circle cx="182.4" cy="269.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg4g18dg3k17dg18b4~x2/"><circle cx="157.2" cy="241.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/variants/s6/g2lo1g5k4do5dr1~x4/"><circle cx="111.7" cy="238.6" r="4" fill="#3465a4"><title>Forres</title></circle></a><a href="/variants/s8/g9lb2g9k2dy14ly4lb2r2~x4~dy1603076-ly3307090/"><circle cx="149.4" cy="191.2" r="4" fill="#3465a4"><title>McShane (Personal)</title></circle></a><a href="/variants/s6/g11w1g11k9dg6dp3~x4/"><circle cx="196.5" cy="209.5" r="4" fill="#3465a4"><title>Hibernian Football Club (Corporate)</title></circle></a><a href="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/"><circle cx="113.5" cy="190.2" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/"><circle cx="113.9" cy="188.4" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/variants/s4/dp6g15dg15k2~x2/"><circle cx="217.4" cy="268.7" r="4" fill="#3465a4"><title>Thistle and Kudzu Scottish Socie Corporate Tartan</title></circle></a><a href="/variants/s6/r4k15lb4dt15dg24y4~x2/"><circle cx="111.9" cy="210.6" r="4" fill="#3465a4"><title>Haughfoot (Commemorative)</title></circle></a><a href="/variants/s8/g14dt11y3k5y3dt11g14ly2~x2/"><circle cx="181.5" cy="225.5" r="4" fill="#3465a4"><title>Wilson's No.122</title></circle></a><a href="/variants/s5/lg11db19dt38dr7k7~x2/"><circle cx="185.1" cy="236.8" r="4" fill="#3465a4"><title>Rose, Danny and Hanna (Personal)</title></circle></a><circle cx="182.6" cy="269.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dg20r8dg20y8g20k5~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Stott"
   url: "/tartans/stott/"
+- name: "Stott Personal Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2k25dt2dg6dy2r6dt2k25w2/)
 (the same proportion at any scale), whose colour order is pattern [WKBGGRBKW](/stripes/wkbggrbkw/).
@@ -14,7 +16,7 @@ Part of the [Stott](/tartans/stott/) tartan — the named design grouping this s
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7112
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7112](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7112)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w2k25b2dg6dy2r6b2k25w2~x2/"><circle cx="309.2" cy="108.4" r="4" fill="#3465a4"><title>Stott (Personal)</title></circle></a><a href="/variants/s9/w2k25b2dg6dy2r6b2k25w2~x2~dg1704144/"><circle cx="307.2" cy="107.9" r="4" fill="#3465a4"><title>Stott (Personal)</title></circle></a><a href="/variants/s8/k1w1y2g1k10db1r2w1~x10/"><circle cx="214.6" cy="114.3" r="4" fill="#3465a4"><title>Kaptain Family (Personal)</title></circle></a><a href="/variants/s11/k16n4lb3k2db1w1r1k2lb3n4k12~x4/"><circle cx="266.9" cy="92.3" r="4" fill="#3465a4"><title>Iron Horse</title></circle></a><a href="/variants/s10/y2k2db3w2dy3g4k50g5dy3w2~x2/"><circle cx="344.2" cy="46.9" r="4" fill="#3465a4"><title>Hawes (2014)</title></circle></a><a href="/variants/s10/w2dr3g5k50g4dr3w2lb3k2ly2~x2/"><circle cx="337.0" cy="44.3" r="4" fill="#3465a4"><title>Hawes (Personal)</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="305.7" cy="80.4" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s6/k50g6db6r6n6w3~x2/"><circle cx="298.6" cy="105.3" r="4" fill="#3465a4"><title>Friends of Nordegg</title></circle></a><a href="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/"><circle cx="305.4" cy="137.1" r="4" fill="#3465a4"><title>Muylle, Jelle (Personal)</title></circle></a><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="332.0" cy="95.4" r="4" fill="#3465a4"><title>Avalon</title></circle></a><circle cx="311.4" cy="109.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w2k25b2dg6dy2r6b2k25w2~x2/"><circle cx="309.1" cy="108.6" r="4" fill="#3465a4"><title>Stott (Personal)</title></circle></a><a href="/variants/s9/w2k25b2dg6dy2r6b2k25w2~x2~dg1704144/"><circle cx="307.1" cy="108.2" r="4" fill="#3465a4"><title>Stott (Personal)</title></circle></a><a href="/variants/s8/k1w1y2g1k10db1r2w1~x10/"><circle cx="214.5" cy="114.6" r="4" fill="#3465a4"><title>Kaptain Family (Personal)</title></circle></a><a href="/variants/s11/k16n4lb3k2db1w1r1k2lb3n4k12~x4/"><circle cx="266.8" cy="92.5" r="4" fill="#3465a4"><title>Iron Horse</title></circle></a><a href="/variants/s10/y2k2db3w2dy3g4k50g5dy3w2~x2/"><circle cx="344.0" cy="46.9" r="4" fill="#3465a4"><title>Hawes (2014)</title></circle></a><a href="/variants/s10/w2dr3g5k50g4dr3w2lb3k2ly2~x2/"><circle cx="336.8" cy="44.4" r="4" fill="#3465a4"><title>Hawes (Personal)</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="305.6" cy="80.6" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s6/k50g6db6r6n6w3~x2/"><circle cx="298.5" cy="105.5" r="4" fill="#3465a4"><title>Friends of Nordegg</title></circle></a><a href="/variants/s9/k5r1y1k1y1r1k8db1w1~x6/"><circle cx="305.4" cy="137.5" r="4" fill="#3465a4"><title>Muylle, Jelle (Personal)</title></circle></a><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="331.9" cy="95.7" r="4" fill="#3465a4"><title>Avalon</title></circle></a><circle cx="311.3" cy="109.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/w2k25dt2dg6dy2r6dt2k25w2~x2~dg1704144/

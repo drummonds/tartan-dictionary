@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nisbet"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r10g24k10r28lb3r6/)
 (the same proportion at any scale), whose colour order is pattern [RGKRWR](/stripes/rgkrwr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3140
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3140](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3140)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r6g21k8r28k2r4~x2/"><circle cx="290.6" cy="183.6" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/variants/s6/r5w2r28k12g16r3~x2/"><circle cx="257.2" cy="169.1" r="4" fill="#3465a4"><title>MacKintosh #4</title></circle></a><a href="/variants/s7/r4k2r24k6db6g16r3~x2/"><circle cx="233.0" cy="168.0" r="4" fill="#3465a4"><title>MacDuff #4</title></circle></a><a href="/variants/s6/r52k32g22r16y3r16/"><circle cx="281.3" cy="173.3" r="4" fill="#3465a4"><title>Sturrock</title></circle></a><a href="/variants/s6/r3db15r3g8r20k2~x2/"><circle cx="248.2" cy="190.5" r="4" fill="#3465a4"><title>Finnigan (Estimated threadcount)</title></circle></a><a href="/variants/s6/r100k15g48db5r7db16~x2/"><circle cx="305.3" cy="143.3" r="4" fill="#3465a4"><title>Plummer (Personal)</title></circle></a><a href="/variants/s6/r40lb11w2k12g36r32~x2/"><circle cx="247.9" cy="166.0" r="4" fill="#3465a4"><title>Caithness (1848) (District?)</title></circle></a><a href="/variants/s7/r22lb8k9g14r10lb2r10~x2/"><circle cx="232.9" cy="205.5" r="4" fill="#3465a4"><title>MacDuff #2</title></circle></a><a href="/variants/s5/g7r3g1r9k1~x2/"><circle cx="328.9" cy="221.7" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s5/g16r5g2r18k2/"><circle cx="315.8" cy="220.4" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><circle cx="246.7" cy="201.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r6g21k8r28k2r4~x2/"><circle cx="290.6" cy="184.2" r="4" fill="#3465a4"><title>Dunbar</title></circle></a><a href="/variants/s6/r5w2r28k12g16r3~x2/"><circle cx="257.2" cy="169.6" r="4" fill="#3465a4"><title>MacKintosh #4</title></circle></a><a href="/variants/s7/r4k2r24k6db6g16r3~x2/"><circle cx="233.0" cy="168.6" r="4" fill="#3465a4"><title>MacDuff #4</title></circle></a><a href="/variants/s6/r52k32g22r16y3r16/"><circle cx="281.3" cy="173.8" r="4" fill="#3465a4"><title>Sturrock</title></circle></a><a href="/variants/s6/r3db15r3g8r20k2~x2/"><circle cx="248.3" cy="191.1" r="4" fill="#3465a4"><title>Finnigan (Estimated threadcount)</title></circle></a><a href="/variants/s6/r100k15g48db5r7db16~x2/"><circle cx="305.3" cy="143.7" r="4" fill="#3465a4"><title>Plummer (Personal)</title></circle></a><a href="/variants/s6/r40lb11w2k12g36r32~x2/"><circle cx="248.0" cy="166.6" r="4" fill="#3465a4"><title>Caithness (1848) (District?)</title></circle></a><a href="/variants/s7/r22lb8k9g14r10lb2r10~x2/"><circle cx="233.0" cy="206.2" r="4" fill="#3465a4"><title>MacDuff #2</title></circle></a><a href="/variants/s5/g7r3g1r9k1~x2/"><circle cx="329.0" cy="222.4" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s5/g16r5g2r18k2/"><circle cx="315.9" cy="221.1" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><circle cx="246.7" cy="202.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r10g24k10r28lb3r6~x2/

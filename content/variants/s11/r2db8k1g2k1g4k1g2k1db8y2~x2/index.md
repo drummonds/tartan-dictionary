@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacCainsh"
   url: "/tartans/maccainsh/"
+- name: "MacCainsh"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2db8k1g2k1g4k1g2k1db8y2/)
 (the same proportion at any scale), whose colour order is pattern [GBKGKGKGKBR](/stripes/gbkgkgkgkbr/).
@@ -14,7 +16,7 @@ Part of the [MacCainsh](/tartans/maccainsh/) tartan — the named design groupin
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr2db8k1g2k1g4k1g2k1db8lo2~x2/"><circle cx="189.0" cy="165.5" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/variants/s7/db36r4db6g18db15k18w4~x2/"><circle cx="166.1" cy="177.0" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/"><circle cx="244.0" cy="146.2" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/"><circle cx="173.3" cy="153.0" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra, The</title></circle></a><a href="/variants/s10/db8k1db8k2g6r1g6k2db8w1~x2/"><circle cx="220.2" cy="185.4" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s12/y2db17k4w2k2y2k2db4g6k2g2w2~x2/"><circle cx="147.9" cy="141.0" r="4" fill="#3465a4"><title>O'Sheehan</title></circle></a><a href="/variants/s14/db2dg6dp1dg1dp1dg1db2k2db1k2db9g1db2g1~x4~dg1806142-g2506142/"><circle cx="228.6" cy="156.4" r="4" fill="#3465a4"><title>Lochcarron of Scotland</title></circle></a><a href="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/"><circle cx="257.0" cy="152.5" r="4" fill="#3465a4"><title>Montreat</title></circle></a><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="239.4" cy="145.3" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="114.9" cy="177.9" r="4" fill="#3465a4"><title>Robertson Hunting #2</title></circle></a><circle cx="194.4" cy="167.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr2db8k1g2k1g4k1g2k1db8lo2~x2/"><circle cx="189.0" cy="165.9" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/variants/s7/db36r4db6g18db15k18w4~x2/"><circle cx="166.1" cy="177.4" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/"><circle cx="244.0" cy="146.5" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s9/lb3db20k3db2k5db2k3g15r2~x2/"><circle cx="173.2" cy="153.3" r="4" fill="#3465a4"><title>Scottish Chamber Orchestra, The</title></circle></a><a href="/variants/s10/db8k1db8k2g6r1g6k2db8w1~x2/"><circle cx="220.2" cy="185.8" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s12/y2db17k4w2k2y2k2db4g6k2g2w2~x2/"><circle cx="147.8" cy="141.3" r="4" fill="#3465a4"><title>O'Sheehan</title></circle></a><a href="/variants/s14/db2dg6dp1dg1dp1dg1db2k2db1k2db9g1db2g1~x4~dg1806142-g2506142/"><circle cx="228.6" cy="156.6" r="4" fill="#3465a4"><title>Lochcarron of Scotland</title></circle></a><a href="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/"><circle cx="256.9" cy="152.8" r="4" fill="#3465a4"><title>Montreat</title></circle></a><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="239.4" cy="145.6" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="114.9" cy="178.4" r="4" fill="#3465a4"><title>Robertson Hunting #2</title></circle></a><circle cx="194.4" cy="167.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r2db8k1g2k1g4k1g2k1db8y2~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Blackdown Hills"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4dt4dy1dt4dr4db4lr1/)
 (the same proportion at any scale), whose colour order is pattern [KBGBBBY](/stripes/kbgbbby/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5299
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5299](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5299)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3db12k12dg12t2dg12w3~x2/"><circle cx="115.9" cy="211.2" r="4" fill="#3465a4"><title>Game Fair</title></circle></a><a href="/variants/s5/dr4db14k15dg14y4~x2/"><circle cx="107.1" cy="280.0" r="4" fill="#3465a4"><title>Scots Heritage</title></circle></a><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/"><circle cx="123.7" cy="258.5" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><a href="/variants/s7/dbi8g11k3g11dr12db10y2~x2~dbi1406275-db1404245/"><circle cx="114.3" cy="242.0" r="4" fill="#3465a4"><title>Parliament Trade Tartan</title></circle></a><a href="/variants/s7/db8g11k3g11dr12ki10y2~x2~ki0604259/"><circle cx="89.3" cy="232.6" r="4" fill="#3465a4"><title>Scottish Parliament</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="76.2" cy="210.9" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s6/dr7db20dr4k18g20dp5~x2~db1406275-k0700000/"><circle cx="110.8" cy="256.7" r="4" fill="#3465a4"><title>Williamson (Personal)</title></circle></a><a href="/variants/s5/dr3k1g1k1db3~x16/"><circle cx="135.0" cy="288.2" r="4" fill="#3465a4"><title>Clark Clerk(e)</title></circle></a><a href="/variants/s5/r4dg15k15db15lb4~x2/"><circle cx="65.9" cy="264.6" r="4" fill="#3465a4"><title>Dalmeny #1</title></circle></a><a href="/variants/s7/n2r9db8dr4db8g2y2~x8/"><circle cx="180.8" cy="238.6" r="4" fill="#3465a4"><title>Feis An Eilein</title></circle></a><circle cx="112.5" cy="265.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3db12k12dg12t2dg12w3~x2/"><circle cx="116.0" cy="211.7" r="4" fill="#3465a4"><title>Game Fair</title></circle></a><a href="/variants/s5/dr4db14k15dg14y4~x2/"><circle cx="107.2" cy="280.6" r="4" fill="#3465a4"><title>Scots Heritage</title></circle></a><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/"><circle cx="123.8" cy="259.1" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><a href="/variants/s7/dbi8g11k3g11dr12db10y2~x2~dbi1406275-db1404245/"><circle cx="114.4" cy="242.5" r="4" fill="#3465a4"><title>Parliament Trade Tartan</title></circle></a><a href="/variants/s7/db8g11k3g11dr12ki10y2~x2~ki0604259/"><circle cx="89.4" cy="233.1" r="4" fill="#3465a4"><title>Scottish Parliament</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="76.3" cy="211.4" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><a href="/variants/s6/dr7db20dr4k18g20dp5~x2~db1406275-k0700000/"><circle cx="110.9" cy="257.2" r="4" fill="#3465a4"><title>Williamson (Personal)</title></circle></a><a href="/variants/s5/dr3k1g1k1db3~x16/"><circle cx="135.2" cy="288.9" r="4" fill="#3465a4"><title>Clark Clerk(e)</title></circle></a><a href="/variants/s5/r4dg15k15db15lb4~x2/"><circle cx="66.0" cy="265.3" r="4" fill="#3465a4"><title>Dalmeny #1</title></circle></a><a href="/variants/s7/n2r9db8dr4db8g2y2~x8/"><circle cx="181.0" cy="239.1" r="4" fill="#3465a4"><title>Feis An Eilein</title></circle></a><circle cx="112.7" cy="266.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k4dt4dy1dt4dr4db4lr1~x8/

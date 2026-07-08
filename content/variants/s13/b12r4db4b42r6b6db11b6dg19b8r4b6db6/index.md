@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Bermuda"
   url: "/tartans/bermuda/"
+- name: "Bermuda, Blue"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b12r4db4b42r6b6db11b6dg19b8r4b6db6/)
 (the same proportion at any scale), whose colour order is pattern [BBRBGBBBRBBRB](/stripes/bbrbgbbbrbbrb/).
@@ -14,7 +16,7 @@ Part of the [Bermuda](/tartans/bermuda/) tartan — the named design grouping th
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/t12r4db4t42r6t6db11t6g19t8r4t6db6/"><circle cx="361.9" cy="195.4" r="4" fill="#3465a4"><title>Bermuda Blue</title></circle></a><a href="/variants/s10/db15g7y3g7db40g7y3g7db15r5~x2~db1406275/"><circle cx="394.6" cy="184.2" r="4" fill="#3465a4"><title>Wheadon</title></circle></a><a href="/variants/s9/o1lb6db4lb1db16n1db4n6lb1~x4~o2500000-n1900000/"><circle cx="356.3" cy="173.8" r="4" fill="#3465a4"><title>Fujisankei Serene (Corporate)</title></circle></a><a href="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/"><circle cx="391.0" cy="176.5" r="4" fill="#3465a4"><title>Eidart</title></circle></a><a href="/variants/s8/db1r1db10t1db1t5db1w1~x6~db1404245/"><circle cx="392.1" cy="193.7" r="4" fill="#3465a4"><title>A2 (Personal)</title></circle></a><a href="/variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/"><circle cx="399.6" cy="177.2" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><a href="/variants/s10/b9r2b2db12b2r2b12w1b15y2~x4/"><circle cx="421.4" cy="180.5" r="4" fill="#3465a4"><title>Boswell (Name)</title></circle></a><a href="/variants/s8/db1r1db10t1db1t5db1w1~x6/"><circle cx="368.6" cy="183.7" r="4" fill="#3465a4"><title>A2 (Personal)</title></circle></a><a href="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/"><circle cx="317.3" cy="213.9" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><a href="/variants/s8/db9t2db2y1t7db2r1t4~x4/"><circle cx="318.5" cy="232.7" r="4" fill="#3465a4"><title>Mercer, Charles</title></circle></a><circle cx="358.1" cy="187.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/t12r4db4t42r6t6db11t6g19t8r4t6db6/"><circle cx="362.0" cy="195.7" r="4" fill="#3465a4"><title>Bermuda Blue</title></circle></a><a href="/variants/s10/db15g7y3g7db40g7y3g7db15r5~x2~db1406275/"><circle cx="394.6" cy="184.5" r="4" fill="#3465a4"><title>Wheadon</title></circle></a><a href="/variants/s9/o1lb6db4lb1db16n1db4n6lb1~x4~o2500000-n1900000/"><circle cx="356.3" cy="174.1" r="4" fill="#3465a4"><title>Fujisankei Serene (Corporate)</title></circle></a><a href="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/"><circle cx="391.0" cy="176.8" r="4" fill="#3465a4"><title>Eidart</title></circle></a><a href="/variants/s8/db1r1db10t1db1t5db1w1~x6~db1404245/"><circle cx="392.2" cy="194.0" r="4" fill="#3465a4"><title>A2 (Personal)</title></circle></a><a href="/variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/"><circle cx="399.6" cy="177.4" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><a href="/variants/s10/b9r2b2db12b2r2b12w1b15y2~x4/"><circle cx="421.5" cy="180.8" r="4" fill="#3465a4"><title>Boswell (Name)</title></circle></a><a href="/variants/s8/db1r1db10t1db1t5db1w1~x6/"><circle cx="368.7" cy="184.0" r="4" fill="#3465a4"><title>A2 (Personal)</title></circle></a><a href="/variants/s9/db10o3t4o3db7t3g7db17dy2~x2/"><circle cx="317.4" cy="214.3" r="4" fill="#3465a4"><title>Ayrshire Tourist Board</title></circle></a><a href="/variants/s8/db9t2db2y1t7db2r1t4~x4/"><circle cx="318.6" cy="233.1" r="4" fill="#3465a4"><title>Mercer, Charles</title></circle></a><circle cx="358.1" cy="187.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/b12r4db4b42r6b6db11b6dg19b8r4b6db6/

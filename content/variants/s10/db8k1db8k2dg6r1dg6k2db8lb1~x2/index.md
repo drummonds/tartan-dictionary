@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Dalmeny"
   url: "/tartans/dalmeny-2/"
+- name: "Dalmeny - 1965 (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8k1db8k2dg6r1dg6k2db8lb1/)
 (the same proportion at any scale), whose colour order is pattern [BKBKGRGKBW](/stripes/bkbkgrgkbw/).
@@ -14,7 +16,7 @@ Part of the [Dalmeny](/tartans/dalmeny-2/) tartan — the named design grouping 
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=289
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=289](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=289)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db8k1db8k2g6r1g6k2db8w1~x2/"><circle cx="220.2" cy="185.4" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2r4~x2/"><circle cx="305.0" cy="139.0" r="4" fill="#3465a4"><title>Stewmann (Personal)</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2o4~x2/"><circle cx="310.8" cy="141.8" r="4" fill="#3465a4"><title>Stewmann (2009) (Personal)</title></circle></a><a href="/variants/s10/lb6db10dp4db12dg19dp4dg8k20db50lb4/"><circle cx="258.1" cy="155.0" r="4" fill="#3465a4"><title>Spirit of Alva</title></circle></a><a href="/variants/s9/db16k11db24g10y3g17db15k5r6~x2/"><circle cx="179.6" cy="206.8" r="4" fill="#3465a4"><title>Glackin-McColgan (Personal)</title></circle></a><a href="/variants/s11/r2db8k1g2k1g4k1g2k1db8y2~x2/"><circle cx="194.4" cy="167.0" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/variants/s9/db16k2db2k2db2k6dg13ly2dg3~x2/"><circle cx="228.5" cy="195.5" r="4" fill="#3465a4"><title>Christian Dewar (Personal)</title></circle></a><a href="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/"><circle cx="267.1" cy="155.8" r="4" fill="#3465a4"><title>Lochranza</title></circle></a><a href="/variants/s10/db1k1db8k2ly1dg12ly1db8k1db1~x4/"><circle cx="293.2" cy="168.6" r="4" fill="#3465a4"><title>Rowan (Name)</title></circle></a><a href="/variants/s9/dg15db20k2r4k2db20dg15k2dy2~x2/"><circle cx="297.0" cy="194.7" r="4" fill="#3465a4"><title>Manroth (Personal)</title></circle></a><circle cx="284.0" cy="204.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db8k1db8k2g6r1g6k2db8w1~x2/"><circle cx="220.2" cy="185.8" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2r4~x2/"><circle cx="304.9" cy="139.1" r="4" fill="#3465a4"><title>Stewmann (Personal)</title></circle></a><a href="/variants/s9/dg24lb4dg3db11dp8db37k3db2o4~x2/"><circle cx="310.8" cy="141.8" r="4" fill="#3465a4"><title>Stewmann (2009) (Personal)</title></circle></a><a href="/variants/s10/lb6db10dp4db12dg19dp4dg8k20db50lb4/"><circle cx="258.1" cy="155.2" r="4" fill="#3465a4"><title>Spirit of Alva</title></circle></a><a href="/variants/s9/db16k11db24g10y3g17db15k5r6~x2/"><circle cx="179.7" cy="207.3" r="4" fill="#3465a4"><title>Glackin-McColgan (Personal)</title></circle></a><a href="/variants/s11/r2db8k1g2k1g4k1g2k1db8y2~x2/"><circle cx="194.4" cy="167.3" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/variants/s9/db16k2db2k2db2k6dg13ly2dg3~x2/"><circle cx="228.6" cy="195.8" r="4" fill="#3465a4"><title>Christian Dewar (Personal)</title></circle></a><a href="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/"><circle cx="267.1" cy="156.1" r="4" fill="#3465a4"><title>Lochranza</title></circle></a><a href="/variants/s10/db1k1db8k2ly1dg12ly1db8k1db1~x4/"><circle cx="293.2" cy="168.9" r="4" fill="#3465a4"><title>Rowan (Name)</title></circle></a><a href="/variants/s9/dg15db20k2r4k2db20dg15k2dy2~x2/"><circle cx="297.0" cy="194.9" r="4" fill="#3465a4"><title>Manroth (Personal)</title></circle></a><circle cx="284.0" cy="204.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db8k1db8k2dg6r1dg6k2db8lb1~x2/

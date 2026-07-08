@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Robertson Hunting #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db18k10g9k2r2k2g9k10db9w2/)
 (the same proportion at any scale), whose colour order is pattern [BKGKRKGKBW](/stripes/bkgkrkgkbw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3533
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3533](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3533)
 
 ## Provenance
 
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/"><circle cx="137.2" cy="181.6" r="4" fill="#3465a4"><title>Dove (Personal)</title></circle></a><a href="/variants/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/"><circle cx="115.0" cy="167.6" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/"><circle cx="121.2" cy="172.6" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s12/db20k2db4k2db20k17g18dr2g4lb2g18k18~x2/"><circle cx="124.3" cy="167.3" r="4" fill="#3465a4"><title>Spar (UK) Ltd Corporate Tartan</title></circle></a><a href="/variants/s13/db9k1db1k1db1k7g8y2g8k7db8k1r2~x2/"><circle cx="107.5" cy="163.5" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><a href="/variants/s14/db10k2db2k2db2k8g8k1w2k1g8k8db9r2~x2/"><circle cx="109.3" cy="158.6" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/variants/s13/y1k1g7k8db7k1db2k1db7k8g7k1w1~x4/"><circle cx="122.4" cy="165.5" r="4" fill="#3465a4"><title>Campbell of Loudoun (Clan)</title></circle></a><a href="/variants/s8/k4db8k4db8r2g10k1w2~x2/"><circle cx="128.0" cy="187.9" r="4" fill="#3465a4"><title>MacKean Green (Personal)</title></circle></a><a href="/variants/s8/g11lb3g5r3g5k22db22k5~x2/"><circle cx="114.1" cy="185.6" r="4" fill="#3465a4"><title>Wood (Personal)</title></circle></a><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/"><circle cx="113.3" cy="173.9" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><circle cx="114.9" cy="177.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/"><circle cx="137.2" cy="182.0" r="4" fill="#3465a4"><title>Dove (Personal)</title></circle></a><a href="/variants/s12/k2db10k9g9w1g2r1g9k9db10k1db2~x4/"><circle cx="114.9" cy="168.0" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/variants/s11/w2db12k12g12k5ly1k5g12k12db12w1~x4/"><circle cx="121.2" cy="173.0" r="4" fill="#3465a4"><title>MacNeil</title></circle></a><a href="/variants/s12/db20k2db4k2db20k17g18dr2g4lb2g18k18~x2/"><circle cx="124.3" cy="167.7" r="4" fill="#3465a4"><title>Spar (UK) Ltd Corporate Tartan</title></circle></a><a href="/variants/s13/db9k1db1k1db1k7g8y2g8k7db8k1r2~x2/"><circle cx="107.5" cy="163.9" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><a href="/variants/s14/db10k2db2k2db2k8g8k1w2k1g8k8db9r2~x2/"><circle cx="109.3" cy="159.0" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/variants/s13/y1k1g7k8db7k1db2k1db7k8g7k1w1~x4/"><circle cx="122.4" cy="165.9" r="4" fill="#3465a4"><title>Campbell of Loudoun (Clan)</title></circle></a><a href="/variants/s8/k4db8k4db8r2g10k1w2~x2/"><circle cx="128.1" cy="188.4" r="4" fill="#3465a4"><title>MacKean Green (Personal)</title></circle></a><a href="/variants/s8/g11lb3g5r3g5k22db22k5~x2/"><circle cx="114.1" cy="186.0" r="4" fill="#3465a4"><title>Wood (Personal)</title></circle></a><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/"><circle cx="113.3" cy="174.3" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><circle cx="114.9" cy="178.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/

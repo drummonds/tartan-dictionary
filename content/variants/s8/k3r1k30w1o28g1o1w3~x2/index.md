@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dunlop"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3r1k30w1o28g1o1w3/)
 (the same proportion at any scale), whose colour order is pattern [KRKWRGRW](/stripes/krkwrgrw/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k60w2r10dg6w4r15y10~x2/"><circle cx="272.9" cy="91.6" r="4" fill="#3465a4"><title>Iberia Dress, Black (Fashion)</title></circle></a><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/"><circle cx="290.7" cy="77.3" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/variants/s6/y6k5r4k48o36w6/"><circle cx="214.4" cy="145.2" r="4" fill="#3465a4"><title>Drambuie dress</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="255.7" cy="102.4" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><a href="/variants/s9/n29k23lo1g9lo2r4k14w2k4~x2/"><circle cx="193.7" cy="93.5" r="4" fill="#3465a4"><title>Letter Dress (2014)</title></circle></a><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/"><circle cx="253.7" cy="89.3" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/variants/s10/k44w3lo16w2lo2w2lo2y10k3y8~x2/"><circle cx="239.1" cy="96.8" r="4" fill="#3465a4"><title>Wcwm 1399</title></circle></a><a href="/variants/s8/k3r1k18w1ly18g1ly1w2~x4/"><circle cx="214.8" cy="104.5" r="4" fill="#3465a4"><title>Dunlop Hunting</title></circle></a><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/"><circle cx="315.1" cy="104.7" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><a href="/variants/s8/db1r1y1k15y15r1db1y1~x4/"><circle cx="257.9" cy="127.2" r="4" fill="#3465a4"><title>Pittsburgh St Andrew's Society</title></circle></a><circle cx="262.6" cy="78.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k60w2r10dg6w4r15y10~x2/"><circle cx="272.7" cy="91.8" r="4" fill="#3465a4"><title>Iberia Dress, Black (Fashion)</title></circle></a><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/"><circle cx="290.6" cy="77.4" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/variants/s6/y6k5r4k48o36w6/"><circle cx="214.4" cy="145.6" r="4" fill="#3465a4"><title>Drambuie dress</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="255.6" cy="102.6" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><a href="/variants/s9/n29k23lo1g9lo2r4k14w2k4~x2/"><circle cx="193.6" cy="93.7" r="4" fill="#3465a4"><title>Letter Dress (2014)</title></circle></a><a href="/variants/s8/dr4g4k1w2k1g18k32r4~x2/"><circle cx="253.6" cy="89.5" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/variants/s10/k44w3lo16w2lo2w2lo2y10k3y8~x2/"><circle cx="239.0" cy="97.1" r="4" fill="#3465a4"><title>Wcwm 1399</title></circle></a><a href="/variants/s8/k3r1k18w1ly18g1ly1w2~x4/"><circle cx="214.8" cy="104.9" r="4" fill="#3465a4"><title>Dunlop Hunting</title></circle></a><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/"><circle cx="315.0" cy="104.9" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><a href="/variants/s8/db1r1y1k15y15r1db1y1~x4/"><circle cx="257.9" cy="127.6" r="4" fill="#3465a4"><title>Pittsburgh St Andrew's Society</title></circle></a><circle cx="262.5" cy="78.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k3r1k30w1o28g1o1w3~x2/

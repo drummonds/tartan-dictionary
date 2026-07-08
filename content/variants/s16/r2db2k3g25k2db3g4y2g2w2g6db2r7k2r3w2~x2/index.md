@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Hueg Scottish Thistle"
   url: "/tartans/hueg-scottish-thistle/"
+- name: "Hueg (Bavaria) Scottish Thistle (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2db2k3g25k2db3g4y2g2w2g6db2r7k2r3w2/)
 (the same proportion at any scale), whose colour order is pattern [RBKGKBGGGWGBRKRW](/stripes/rbkgkbgggwgbrkrw/).
@@ -14,7 +16,7 @@ Part of the [Hueg Scottish Thistle](/tartans/hueg-scottish-thistle/) tartan — 
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10736
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10736](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10736)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r2db2k3dg25k2db3dg4dy2dg2w2dg6db2r7k2r3w2~x2/"><circle cx="214.4" cy="88.8" r="4" fill="#3465a4"><title>Hueg Scottish Thistle (Personal)</title></circle></a><a href="/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="184.8" cy="105.0" r="4" fill="#3465a4"><title>Stewart (King George VI)</title></circle></a><a href="/variants/s17/r3g24db4k3db3k3db3k3db4g12o2g2o2g3lo2g2k2~x2/"><circle cx="211.0" cy="97.4" r="4" fill="#3465a4"><title>Kennedy (Clan)</title></circle></a><a href="/variants/s17/r2k6g2k2g14k1y2k1t5r1t5k1w2k1g14k1t2~x2/"><circle cx="165.3" cy="96.9" r="4" fill="#3465a4"><title>Duncan of Sketraw</title></circle></a><a href="/variants/s12/g30ly4k6lo2k2g4k2db5y4k2y3g2~x2/"><circle cx="220.8" cy="94.1" r="4" fill="#3465a4"><title>Bottle Green (Fashion)</title></circle></a><a href="/variants/s11/db6g48k4y4k4w4g20r10k4r6w5/"><circle cx="234.8" cy="109.5" r="4" fill="#3465a4"><title>Steel (Personal)</title></circle></a><a href="/variants/s16/g10k1g1k1g1k1db4k1w1k1db1y1k1g4k1r1~x4/"><circle cx="173.5" cy="102.8" r="4" fill="#3465a4"><title>Cockburn - 1830 (Clan)</title></circle></a><a href="/variants/s17/k3g3dr2g3y2g2y2g11db3k3db3k3db3k3db3g20r3~x2/"><circle cx="188.4" cy="113.9" r="4" fill="#3465a4"><title>Myron</title></circle></a><a href="/variants/s11/db3k1g13y1r1w1r6g3r1g3w1~x2/"><circle cx="242.0" cy="118.7" r="4" fill="#3465a4"><title>Canadian Caledonian, hunting</title></circle></a><a href="/variants/s18/lb36g12lb4g72k4g13k36r4k4y4k36g13k4g72lb4g12lb36w4/"><circle cx="186.6" cy="82.5" r="4" fill="#3465a4"><title>Rooney (Personal)</title></circle></a><circle cx="199.4" cy="89.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r2db2k3dg25k2db3dg4dy2dg2w2dg6db2r7k2r3w2~x2/"><circle cx="214.3" cy="88.9" r="4" fill="#3465a4"><title>Hueg Scottish Thistle (Personal)</title></circle></a><a href="/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="184.7" cy="105.2" r="4" fill="#3465a4"><title>Stewart (King George VI)</title></circle></a><a href="/variants/s17/r3g24db4k3db3k3db3k3db4g12o2g2o2g3lo2g2k2~x2/"><circle cx="210.9" cy="97.6" r="4" fill="#3465a4"><title>Kennedy (Clan)</title></circle></a><a href="/variants/s17/r2k6g2k2g14k1y2k1t5r1t5k1w2k1g14k1t2~x2/"><circle cx="165.2" cy="97.1" r="4" fill="#3465a4"><title>Duncan of Sketraw</title></circle></a><a href="/variants/s12/g30ly4k6lo2k2g4k2db5y4k2y3g2~x2/"><circle cx="220.7" cy="94.3" r="4" fill="#3465a4"><title>Bottle Green (Fashion)</title></circle></a><a href="/variants/s11/db6g48k4y4k4w4g20r10k4r6w5/"><circle cx="234.7" cy="109.8" r="4" fill="#3465a4"><title>Steel (Personal)</title></circle></a><a href="/variants/s16/g10k1g1k1g1k1db4k1w1k1db1y1k1g4k1r1~x4/"><circle cx="173.4" cy="103.0" r="4" fill="#3465a4"><title>Cockburn - 1830 (Clan)</title></circle></a><a href="/variants/s17/k3g3dr2g3y2g2y2g11db3k3db3k3db3k3db3g20r3~x2/"><circle cx="188.3" cy="114.1" r="4" fill="#3465a4"><title>Myron</title></circle></a><a href="/variants/s11/db3k1g13y1r1w1r6g3r1g3w1~x2/"><circle cx="242.0" cy="118.9" r="4" fill="#3465a4"><title>Canadian Caledonian, hunting</title></circle></a><a href="/variants/s18/lb36g12lb4g72k4g13k36r4k4y4k36g13k4g72lb4g12lb36w4/"><circle cx="186.5" cy="82.7" r="4" fill="#3465a4"><title>Rooney (Personal)</title></circle></a><circle cx="199.3" cy="90.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/r2db2k3g25k2db3g4y2g2w2g6db2r7k2r3w2~x2/

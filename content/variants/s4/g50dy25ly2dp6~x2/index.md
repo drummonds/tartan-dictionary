@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Greenford (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g50dy25ly2dp6/)
 (the same proportion at any scale), whose colour order is pattern [BYGG](/stripes/bygg/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10498
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10498](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10498)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g53r13db2y22~x2/"><circle cx="455.3" cy="231.9" r="4" fill="#3465a4"><title>Englehart</title></circle></a><a href="/variants/s4/lb9g52dy15ly4~x2/"><circle cx="424.4" cy="241.2" r="4" fill="#3465a4"><title>McGuigan, Julia (Personal)</title></circle></a><a href="/variants/s4/dy22dp1g22r4~x4/"><circle cx="340.9" cy="222.1" r="4" fill="#3465a4"><title>McWilliams Hunting (2014)</title></circle></a><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.7" cy="192.1" r="4" fill="#3465a4"><title>Clare, Richard (Personal)</title></circle></a><a href="/variants/s4/dp4g10r1y1~x2/"><circle cx="377.3" cy="232.5" r="4" fill="#3465a4"><title>Wilson's, No 192</title></circle></a><a href="/variants/s4/dp4g10r1y1~x2~dp1105325-r2109032/"><circle cx="371.5" cy="230.5" r="4" fill="#3465a4"><title>Wilson's No.192</title></circle></a><a href="/variants/s5/db5lo5dy13y41r3~x2~lo3006076-y2505139/"><circle cx="359.1" cy="189.2" r="4" fill="#3465a4"><title>Clare (Prince George) (Personal)</title></circle></a><a href="/variants/s5/dg60ly16dp8db2dy3~x2~dg1504144-ly3104101/"><circle cx="450.7" cy="161.8" r="4" fill="#3465a4"><title>Isle of Raasay</title></circle></a><a href="/variants/s4/g9dy20g40w5~x2/"><circle cx="415.3" cy="284.6" r="4" fill="#3465a4"><title>O'Neill Irish Family Tartan</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="450.9" cy="285.4" r="4" fill="#3465a4"><title>Special Saffron Tartan</title></circle></a><circle cx="433.9" cy="221.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g53r13db2y22~x2/"><circle cx="455.4" cy="232.1" r="4" fill="#3465a4"><title>Englehart</title></circle></a><a href="/variants/s4/lb9g52dy15ly4~x2/"><circle cx="424.6" cy="241.7" r="4" fill="#3465a4"><title>McGuigan, Julia (Personal)</title></circle></a><a href="/variants/s4/dy22dp1g22r4~x4/"><circle cx="341.0" cy="222.5" r="4" fill="#3465a4"><title>McWilliams Hunting (2014)</title></circle></a><a href="/variants/s5/db5ly5dy13g41r3~x2/"><circle cx="356.7" cy="192.4" r="4" fill="#3465a4"><title>Clare, Richard (Personal)</title></circle></a><a href="/variants/s4/dp4g10r1y1~x2/"><circle cx="377.4" cy="233.0" r="4" fill="#3465a4"><title>Wilson's, No 192</title></circle></a><a href="/variants/s4/dp4g10r1y1~x2~dp1105325-r2109032/"><circle cx="371.6" cy="231.0" r="4" fill="#3465a4"><title>Wilson's No.192</title></circle></a><a href="/variants/s5/db5lo5dy13y41r3~x2~lo3006076-y2505139/"><circle cx="359.1" cy="189.6" r="4" fill="#3465a4"><title>Clare (Prince George) (Personal)</title></circle></a><a href="/variants/s5/dg60ly16dp8db2dy3~x2~dg1504144-ly3104101/"><circle cx="450.7" cy="162.0" r="4" fill="#3465a4"><title>Isle of Raasay</title></circle></a><a href="/variants/s4/g9dy20g40w5~x2/"><circle cx="415.5" cy="285.3" r="4" fill="#3465a4"><title>O'Neill Irish Family Tartan</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="451.1" cy="286.0" r="4" fill="#3465a4"><title>Special Saffron Tartan</title></circle></a><circle cx="434.0" cy="221.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/g50dy25ly2dp6~x2/

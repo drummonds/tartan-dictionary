@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified No 28"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r6g5k5lb1/)
 (the same proportion at any scale), whose colour order is pattern [RGKW](/stripes/rgkw/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4319
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4319](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4319)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r9g9k10lb2~x2~r2109032/"><circle cx="92.8" cy="275.5" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/variants/s4/r5g7k2lb1~x4/"><circle cx="196.1" cy="241.0" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/variants/s4/dg7dr7w7r1~x6/"><circle cx="126.5" cy="272.6" r="4" fill="#3465a4"><title>MacKinnon Dress Hunting (Fashion)</title></circle></a><a href="/variants/s5/k6db3dg20r20y3~x2/"><circle cx="168.8" cy="210.5" r="4" fill="#3465a4"><title>Douglas of Roxburgh</title></circle></a><a href="/variants/s4/r3g1k3w1~x20/"><circle cx="97.4" cy="276.4" r="4" fill="#3465a4"><title>SAL Glindrande Stiernan</title></circle></a><a href="/variants/s5/k1db8r6g8k1~x4/"><circle cx="138.2" cy="225.8" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo 50th Military Tartan</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2~dp1607327/"><circle cx="116.0" cy="270.0" r="4" fill="#3465a4"><title>Norwich Collection No. 60</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2/"><circle cx="119.9" cy="272.8" r="4" fill="#3465a4"><title>Wilson's, No 159</title></circle></a><a href="/variants/s5/dp11t2k10g10y3~x2~dp1607327-t2503227/"><circle cx="76.3" cy="241.1" r="4" fill="#3465a4"><title>Nobiliary Fraternity</title></circle></a><a href="/variants/s5/dp11lb2k10g10y2~x2/"><circle cx="84.8" cy="235.8" r="4" fill="#3465a4"><title>Wilson's, No 217</title></circle></a><circle cx="110.5" cy="263.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r9g9k10lb2~x2~r2109032/"><circle cx="93.0" cy="276.4" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/variants/s4/r5g7k2lb1~x4/"><circle cx="196.2" cy="241.8" r="4" fill="#3465a4"><title>Wilson's No.195</title></circle></a><a href="/variants/s4/dg7dr7w7r1~x6/"><circle cx="126.7" cy="273.4" r="4" fill="#3465a4"><title>MacKinnon Dress Hunting (Fashion)</title></circle></a><a href="/variants/s5/k6db3dg20r20y3~x2/"><circle cx="168.9" cy="211.1" r="4" fill="#3465a4"><title>Douglas of Roxburgh</title></circle></a><a href="/variants/s4/r3g1k3w1~x20/"><circle cx="97.6" cy="277.4" r="4" fill="#3465a4"><title>SAL Glindrande Stiernan</title></circle></a><a href="/variants/s5/k1db8r6g8k1~x4/"><circle cx="138.3" cy="226.5" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo 50th Military Tartan</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2~dp1607327/"><circle cx="116.1" cy="270.8" r="4" fill="#3465a4"><title>Norwich Collection No. 60</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2/"><circle cx="120.1" cy="273.5" r="4" fill="#3465a4"><title>Wilson's, No 159</title></circle></a><a href="/variants/s5/dp11t2k10g10y3~x2~dp1607327-t2503227/"><circle cx="76.4" cy="241.8" r="4" fill="#3465a4"><title>Nobiliary Fraternity</title></circle></a><a href="/variants/s5/dp11lb2k10g10y2~x2/"><circle cx="84.9" cy="236.4" r="4" fill="#3465a4"><title>Wilson's, No 217</title></circle></a><circle cx="110.7" cy="264.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/r6g5k5lb1~x2/

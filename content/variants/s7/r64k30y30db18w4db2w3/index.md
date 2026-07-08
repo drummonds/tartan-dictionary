@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Clyde"
   url: "/tartans/clyde/"
+- name: "Clyde Family (Hurleford) (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r64k30y30db18w4db2w3/)
 (the same proportion at any scale), whose colour order is pattern [RKGBWBW](/stripes/rkgbwbw/).
@@ -14,7 +16,7 @@ Part of the [Clyde](/tartans/clyde/) tartan — the named design grouping this s
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10532
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10532](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10532)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r64k30g30t18w4t2w3/"><circle cx="190.6" cy="113.7" r="4" fill="#3465a4"><title>Clyde (Personal)</title></circle></a><a href="/variants/s6/r60k40y3o5lp3dg12~x2/"><circle cx="220.0" cy="107.9" r="4" fill="#3465a4"><title>Rei Okamoto (Personal)</title></circle></a><a href="/variants/s6/r60k40y3o5p3dg12~x2/"><circle cx="221.8" cy="108.1" r="4" fill="#3465a4"><title>Rei Okamoto (Personal)</title></circle></a><a href="/variants/s9/k2y1k2y8r29n9db24w2db2~x2/"><circle cx="187.6" cy="91.8" r="4" fill="#3465a4"><title>Lermontov</title></circle></a><a href="/variants/s9/k2dy1k2dy8r29n9db24w2db2~x2~db1204274/"><circle cx="195.9" cy="93.2" r="4" fill="#3465a4"><title>Lermontov Family Tartan</title></circle></a><a href="/variants/s7/dr38k12ri15r4ri15k2w4~x2~ri2806019-r2108022/"><circle cx="189.5" cy="134.0" r="4" fill="#3465a4"><title>Ferguson's Promise (Commemorative)</title></circle></a><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/"><circle cx="164.2" cy="135.5" r="4" fill="#3465a4"><title>McGurk (Personal)</title></circle></a><a href="/variants/s8/db4w8db8w10k16g4r38lo1/"><circle cx="170.6" cy="81.0" r="4" fill="#3465a4"><title>Edinburgh Napier University</title></circle></a><a href="/variants/s8/y3g9db9k1y2k15r37g2~x2/"><circle cx="234.0" cy="86.4" r="4" fill="#3465a4"><title>Mensah</title></circle></a><a href="/variants/s5/r50k25g10n5y2~x2/"><circle cx="269.0" cy="127.4" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><circle cx="197.4" cy="111.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r64k30g30t18w4t2w3/"><circle cx="190.5" cy="114.0" r="4" fill="#3465a4"><title>Clyde (Personal)</title></circle></a><a href="/variants/s6/r60k40y3o5lp3dg12~x2/"><circle cx="219.9" cy="108.2" r="4" fill="#3465a4"><title>Rei Okamoto (Personal)</title></circle></a><a href="/variants/s6/r60k40y3o5p3dg12~x2/"><circle cx="221.8" cy="108.4" r="4" fill="#3465a4"><title>Rei Okamoto (Personal)</title></circle></a><a href="/variants/s9/k2y1k2y8r29n9db24w2db2~x2/"><circle cx="187.5" cy="91.9" r="4" fill="#3465a4"><title>Lermontov</title></circle></a><a href="/variants/s9/k2dy1k2dy8r29n9db24w2db2~x2~db1204274/"><circle cx="195.8" cy="93.3" r="4" fill="#3465a4"><title>Lermontov Family Tartan</title></circle></a><a href="/variants/s7/dr38k12ri15r4ri15k2w4~x2~ri2806019-r2108022/"><circle cx="189.4" cy="134.4" r="4" fill="#3465a4"><title>Ferguson's Promise (Commemorative)</title></circle></a><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/"><circle cx="164.2" cy="135.8" r="4" fill="#3465a4"><title>McGurk (Personal)</title></circle></a><a href="/variants/s8/db4w8db8w10k16g4r38lo1/"><circle cx="170.5" cy="81.3" r="4" fill="#3465a4"><title>Edinburgh Napier University</title></circle></a><a href="/variants/s8/y3g9db9k1y2k15r37g2~x2/"><circle cx="233.9" cy="86.6" r="4" fill="#3465a4"><title>Mensah</title></circle></a><a href="/variants/s5/r50k25g10n5y2~x2/"><circle cx="269.0" cy="127.8" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><circle cx="197.3" cy="111.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r64k30y30db18w4db2w3/

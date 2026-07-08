@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "McMeeken"
   url: "/tartans/mcmeeken/"
+- name: "McMeeken"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r7g20y2g4k5db4k2db20k3w1/)
 (the same proportion at any scale), whose colour order is pattern [RGGGKBKBKW](/stripes/rgggkbkbkw/).
@@ -14,7 +16,7 @@ Part of the [McMeeken](/tartans/mcmeeken/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10089
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10089](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10089)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r7g20ly2g4k5db4k2db20k3w1~x2/"><circle cx="139.1" cy="114.2" r="4" fill="#3465a4"><title>McMeeken (Name)</title></circle></a><a href="/variants/s9/db4k2db16k12w1g13r2g2y4~x2/"><circle cx="125.0" cy="136.6" r="4" fill="#3465a4"><title>Cusack</title></circle></a><a href="/variants/s10/g4lb3g18k14y2k2dp18ly1dp2ly3~x2~y2203076-ly2705081/"><circle cx="117.5" cy="114.6" r="4" fill="#3465a4"><title>Caisteal Leòdhais</title></circle></a><a href="/variants/s8/k2w2k8y8db24g13k3dr1~x2/"><circle cx="154.5" cy="118.2" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/variants/s8/k2w2k8ly8db24g13k3dr1~x2/"><circle cx="141.0" cy="114.3" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16db28k1b4~x2/"><circle cx="148.7" cy="96.9" r="4" fill="#3465a4"><title>California</title></circle></a><a href="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/"><circle cx="121.3" cy="122.7" r="4" fill="#3465a4"><title>Glasgow, City of Culture</title></circle></a><a href="/variants/s11/dg50db12n7db12dr10w7k2w7k2w7dr10~x2/"><circle cx="161.6" cy="98.8" r="4" fill="#3465a4"><title>Norham and Ladykirk</title></circle></a><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/"><circle cx="184.6" cy="115.2" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/variants/s9/w4k1g19y1k19db13r2db4r2~x2/"><circle cx="103.4" cy="116.0" r="4" fill="#3465a4"><title>Whitson</title></circle></a><circle cx="141.7" cy="114.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r7g20ly2g4k5db4k2db20k3w1~x2/"><circle cx="139.0" cy="114.4" r="4" fill="#3465a4"><title>McMeeken (Name)</title></circle></a><a href="/variants/s9/db4k2db16k12w1g13r2g2y4~x2/"><circle cx="124.9" cy="136.9" r="4" fill="#3465a4"><title>Cusack</title></circle></a><a href="/variants/s10/g4lb3g18k14y2k2dp18ly1dp2ly3~x2~y2203076-ly2705081/"><circle cx="117.4" cy="114.8" r="4" fill="#3465a4"><title>Caisteal Leòdhais</title></circle></a><a href="/variants/s8/k2w2k8y8db24g13k3dr1~x2/"><circle cx="154.4" cy="118.4" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/variants/s8/k2w2k8ly8db24g13k3dr1~x2/"><circle cx="140.9" cy="114.5" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16db28k1b4~x2/"><circle cx="148.5" cy="97.1" r="4" fill="#3465a4"><title>California</title></circle></a><a href="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/"><circle cx="121.2" cy="122.9" r="4" fill="#3465a4"><title>Glasgow, City of Culture</title></circle></a><a href="/variants/s11/dg50db12n7db12dr10w7k2w7k2w7dr10~x2/"><circle cx="161.5" cy="99.0" r="4" fill="#3465a4"><title>Norham and Ladykirk</title></circle></a><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/"><circle cx="184.5" cy="115.3" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/variants/s9/w4k1g19y1k19db13r2db4r2~x2/"><circle cx="103.3" cy="116.2" r="4" fill="#3465a4"><title>Whitson</title></circle></a><circle cx="141.6" cy="114.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r7g20y2g4k5db4k2db20k3w1~x2/

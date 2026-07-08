@@ -10,6 +10,8 @@ crumbs:
   url: "/families/newlands-of-lauriston/"
 - name: "Newlands of Lauriston"
   url: "/tartans/newlands-of-lauriston/"
+- name: "Newlands of Lauriston (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t9k9t9dr2k20g13dr2g4dr2g4/)
 (the same proportion at any scale), whose colour order is pattern [BKBBKGBGBG](/stripes/bkbbkgbgbg/).
@@ -18,7 +20,7 @@ Part of the [Newlands of Lauriston](/tartans/newlands-of-lauriston/) tartan — 
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2175
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2175](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2175)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -79,8 +81,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/"><circle cx="136.5" cy="180.2" r="4" fill="#3465a4"><title>Newlands of Lauriston</title></circle></a><a href="/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="133.5" cy="188.7" r="4" fill="#3465a4"><title>Newlands</title></circle></a><a href="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/"><circle cx="105.9" cy="173.0" r="4" fill="#3465a4"><title>Biskup (Personal)</title></circle></a><a href="/variants/s8/dr3g1dr1g8k8db8k2db3~x2/"><circle cx="129.7" cy="211.4" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s10/k4g2db10y1db2g13k11g13db13y2~x2/"><circle cx="170.9" cy="184.5" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><a href="/variants/s8/k4g24db6dp3k6dp12g3dp4~x2/"><circle cx="189.0" cy="194.1" r="4" fill="#3465a4"><title>Gary/Garry (Name)</title></circle></a><a href="/variants/s12/db8r1db2r3db12r1k12g12r3g2r1g8/"><circle cx="135.7" cy="164.2" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s12/db8r1db2r3db12r1k12g12r3g2r1g8~x2/"><circle cx="135.7" cy="164.2" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s8/db4k3db12k11dg13g1dg1g3~x2~dg1806142-g2408144/"><circle cx="161.3" cy="187.7" r="4" fill="#3465a4"><title>Bedford High School</title></circle></a><a href="/variants/s8/db3k2db8k8g8dp1g1dp3~x4/"><circle cx="130.3" cy="211.5" r="4" fill="#3465a4"><title>Baird (Modern)</title></circle></a><circle cx="182.4" cy="197.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/t9k9t9r2k20g13r2g4r2g4~x2/"><circle cx="136.5" cy="180.7" r="4" fill="#3465a4"><title>Newlands of Lauriston</title></circle></a><a href="/variants/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="133.5" cy="189.2" r="4" fill="#3465a4"><title>Newlands</title></circle></a><a href="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/"><circle cx="105.9" cy="173.4" r="4" fill="#3465a4"><title>Biskup (Personal)</title></circle></a><a href="/variants/s8/dr3g1dr1g8k8db8k2db3~x2/"><circle cx="129.7" cy="211.9" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s10/k4g2db10y1db2g13k11g13db13y2~x2/"><circle cx="170.9" cy="184.9" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><a href="/variants/s8/k4g24db6dp3k6dp12g3dp4~x2/"><circle cx="189.1" cy="194.6" r="4" fill="#3465a4"><title>Gary/Garry (Name)</title></circle></a><a href="/variants/s12/db8r1db2r3db12r1k12g12r3g2r1g8/"><circle cx="135.7" cy="164.6" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s12/db8r1db2r3db12r1k12g12r3g2r1g8~x2/"><circle cx="135.7" cy="164.6" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s8/db4k3db12k11dg13g1dg1g3~x2~dg1806142-g2408144/"><circle cx="161.3" cy="188.1" r="4" fill="#3465a4"><title>Bedford High School</title></circle></a><a href="/variants/s8/db3k2db8k8g8dp1g1dp3~x4/"><circle cx="130.3" cy="212.0" r="4" fill="#3465a4"><title>Baird (Modern)</title></circle></a><circle cx="182.5" cy="197.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/t9k9t9dr2k20g13dr2g4dr2g4~x2~t2205244-k0700000/

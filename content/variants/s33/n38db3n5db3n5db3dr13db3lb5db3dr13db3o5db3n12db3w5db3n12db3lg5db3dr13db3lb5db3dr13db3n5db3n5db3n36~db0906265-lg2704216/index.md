@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kumikyoku - Wind of Thistle"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n38db3n5db3n5db3dr13db3lb5db3dr13db3o5db3n12db3w5db3n12db3lg5db3dr13db3lb5db3dr13db3n5db3n5db3n36/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBBBBWBBBRBBBWBBBYBBBWBBBBBBBB](/stripes/bbbbbbbbwbbbrbbbwbbbybbbwbbbbbbbb/).
 
 Sourced from register-of-tartans.  It is a [33 stripe tartan](/stripes/stripes33/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11284
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11284](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11284)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s29/n38db3n5db3n5db3r13db3lb5db3r13db3lp5db3n12db3w5db3n12db3lb5db3r13db3n5db3n5db3n36/"><circle cx="278.9" cy="104.8" r="4" fill="#3465a4"><title>Kumikyoku - Wind of Thistle</title></circle></a><a href="/variants/s28/db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11dy1~x8/"><circle cx="269.0" cy="106.1" r="4" fill="#3465a4"><title>Wisconsin in Scotland</title></circle></a><a href="/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2~db1406275-r2109032/"><circle cx="227.2" cy="124.5" r="4" fill="#3465a4"><title>Hart of Scotland</title></circle></a><a href="/variants/s29/y1db22y2dr4n2dr4r4w2r4dr4n2dr4y2db22w2db22y2dr4n2dr4r4w2r4dr4n2dr4y2db22y1/"><circle cx="282.2" cy="74.2" r="4" fill="#3465a4"><title>Wisconsin in Scotland</title></circle></a><a href="/variants/s11/dg4r1dg1y1db6y1dbi9y1dbi9w1lb3~x4~db1204274-dbi1406275/"><circle cx="242.7" cy="133.5" r="4" fill="#3465a4"><title>Knox #2</title></circle></a><circle cx="222.5" cy="89.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s29/n38db3n5db3n5db3r13db3lb5db3r13db3lp5db3n12db3w5db3n12db3lb5db3r13db3n5db3n5db3n36/"><circle cx="278.8" cy="104.8" r="4" fill="#3465a4"><title>Kumikyoku - Wind of Thistle</title></circle></a><a href="/variants/s28/db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11w1db11dy1dr2n1dr2r2w1r2dr2n1dr2dy1db11dy1~x8/"><circle cx="269.0" cy="106.1" r="4" fill="#3465a4"><title>Wisconsin in Scotland</title></circle></a><a href="/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2~db1406275-r2109032/"><circle cx="227.2" cy="124.6" r="4" fill="#3465a4"><title>Hart of Scotland</title></circle></a><a href="/variants/s29/y1db22y2dr4n2dr4r4w2r4dr4n2dr4y2db22w2db22y2dr4n2dr4r4w2r4dr4n2dr4y2db22y1/"><circle cx="282.1" cy="74.2" r="4" fill="#3465a4"><title>Wisconsin in Scotland</title></circle></a><a href="/variants/s11/dg4r1dg1y1db6y1dbi9y1dbi9w1lb3~x4~db1204274-dbi1406275/"><circle cx="242.6" cy="133.6" r="4" fill="#3465a4"><title>Knox #2</title></circle></a><circle cx="222.4" cy="89.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s33/n38db3n5db3n5db3dr13db3lb5db3dr13db3o5db3n12db3w5db3n12db3lg5db3dr13db3lb5db3dr13db3n5db3n5db3n36~db0906265-lg2704216/

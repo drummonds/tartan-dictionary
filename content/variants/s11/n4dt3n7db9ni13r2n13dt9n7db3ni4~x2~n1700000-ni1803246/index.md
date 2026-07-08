@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Paul Henry (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n4dt3n7db9ni13r2n13dt9n7db3ni4/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBRBBBBB](/stripes/bbbbbrbbbbb/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10452
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10452](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10452)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

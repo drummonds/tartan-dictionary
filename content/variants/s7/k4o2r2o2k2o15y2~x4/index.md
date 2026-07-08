@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Welsh, National"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4o2r2o2k2o15y2/)
 (the same proportion at any scale), whose colour order is pattern [GRKRRRK](/stripes/grkrrrk/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g3lo3k10lo26k3lo3~x2/"><circle cx="341.9" cy="183.3" r="4" fill="#3465a4"><title>Volkswagen Orange Trim</title></circle></a><a href="/variants/s6/lo26k10lo3g3lo3k3~x6/"><circle cx="341.9" cy="183.3" r="4" fill="#3465a4"><title>Volkswagen Orange Trim (Fashion)</title></circle></a><a href="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/"><circle cx="284.1" cy="130.5" r="4" fill="#3465a4"><title>Wilbers #2 (Personal)</title></circle></a><a href="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/"><circle cx="304.2" cy="155.1" r="4" fill="#3465a4"><title>Dobrain (Personal)</title></circle></a><a href="/variants/s7/r3g16r4k6r28g2lo3~x2/"><circle cx="295.7" cy="152.9" r="4" fill="#3465a4"><title>McInally (Name)</title></circle></a><a href="/variants/s7/r4g14r5k6r24g2r4~x2/"><circle cx="340.6" cy="181.1" r="4" fill="#3465a4"><title>Auld Lang Syne (red) Tartan</title></circle></a><a href="/variants/s5/r10g3k1g3t1~x16/"><circle cx="305.2" cy="193.7" r="4" fill="#3465a4"><title>Espy (Fashion?)</title></circle></a><a href="/variants/s9/g9w4g15r17k5r7k5r32g5/"><circle cx="250.3" cy="179.4" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/variants/s9/g9w4g15r17k5r7k5r32g5~x2/"><circle cx="250.3" cy="179.4" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4/"><circle cx="341.5" cy="178.4" r="4" fill="#3465a4"><title>Welsh National (Fashion)</title></circle></a><circle cx="330.0" cy="170.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g3lo3k10lo26k3lo3~x2/"><circle cx="342.0" cy="184.0" r="4" fill="#3465a4"><title>Volkswagen Orange Trim</title></circle></a><a href="/variants/s6/lo26k10lo3g3lo3k3~x6/"><circle cx="342.0" cy="184.0" r="4" fill="#3465a4"><title>Volkswagen Orange Trim (Fashion)</title></circle></a><a href="/variants/s8/ly5k9ly2k7o10r4o35k4~x2~ly3607098-o2505058/"><circle cx="284.1" cy="131.0" r="4" fill="#3465a4"><title>Wilbers #2 (Personal)</title></circle></a><a href="/variants/s10/o24lb2o4n2k6lb2o14k3lb4n8~x2/"><circle cx="304.2" cy="155.5" r="4" fill="#3465a4"><title>Dobrain (Personal)</title></circle></a><a href="/variants/s7/r3g16r4k6r28g2lo3~x2/"><circle cx="295.7" cy="153.4" r="4" fill="#3465a4"><title>McInally (Name)</title></circle></a><a href="/variants/s7/r4g14r5k6r24g2r4~x2/"><circle cx="340.7" cy="181.7" r="4" fill="#3465a4"><title>Auld Lang Syne (red) Tartan</title></circle></a><a href="/variants/s5/r10g3k1g3t1~x16/"><circle cx="305.3" cy="194.2" r="4" fill="#3465a4"><title>Espy (Fashion?)</title></circle></a><a href="/variants/s9/g9w4g15r17k5r7k5r32g5/"><circle cx="250.4" cy="180.0" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/variants/s9/g9w4g15r17k5r7k5r32g5~x2/"><circle cx="250.4" cy="180.0" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4/"><circle cx="341.6" cy="178.9" r="4" fill="#3465a4"><title>Welsh National (Fashion)</title></circle></a><circle cx="330.0" cy="171.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k4o2r2o2k2o15y2~x4/

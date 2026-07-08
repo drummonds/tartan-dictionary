@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Daks, Tartan-Loden"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3o7g2r2g14o2g2db3/)
 (the same proportion at any scale), whose colour order is pattern [BGRGRGRB](/stripes/bgrgrgrb/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r5dt12g3db4g20dt3g3r5~x4/"><circle cx="247.5" cy="227.7" r="4" fill="#3465a4"><title>Daks (0600150)</title></circle></a><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2/"><circle cx="274.2" cy="216.6" r="4" fill="#3465a4"><title>Crantock Trade Tartan</title></circle></a><a href="/variants/s8/dg13ly2dg2ly2dg4o10g2o2~x4/"><circle cx="285.3" cy="222.9" r="4" fill="#3465a4"><title>Oakwood</title></circle></a><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2~g2205128-dg1303152/"><circle cx="298.8" cy="221.5" r="4" fill="#3465a4"><title>Crantock</title></circle></a><a href="/variants/s8/dg14lb2dg2lb2dg3lb6g12r2~x2~dg1806142-g2408144/"><circle cx="259.5" cy="238.9" r="4" fill="#3465a4"><title>Cranston</title></circle></a><a href="/variants/s12/r3g8r2g18dr5g3do3g3do16g3do3g3~x2/"><circle cx="318.1" cy="202.2" r="4" fill="#3465a4"><title>Dublin</title></circle></a><a href="/variants/s9/g4y2g17dg2r4dg2g3dg11g2~x2/"><circle cx="347.2" cy="219.9" r="4" fill="#3465a4"><title>Armagh</title></circle></a><a href="/variants/s7/g24r9g4dg19y2dg6g7~x2/"><circle cx="309.2" cy="229.9" r="4" fill="#3465a4"><title>Doyle</title></circle></a><a href="/variants/s7/r6g4dy14w4dy7g30y4~x2/"><circle cx="249.4" cy="209.7" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/variants/s8/g14r2g2r3g7db12g2dr2~x2~r1606028-dr1004029/"><circle cx="301.9" cy="224.2" r="4" fill="#3465a4"><title>Glen Nevis #3</title></circle></a><circle cx="297.4" cy="227.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r5dt12g3db4g20dt3g3r5~x4/"><circle cx="247.6" cy="228.2" r="4" fill="#3465a4"><title>Daks (0600150)</title></circle></a><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2/"><circle cx="274.2" cy="217.0" r="4" fill="#3465a4"><title>Crantock Trade Tartan</title></circle></a><a href="/variants/s8/dg13ly2dg2ly2dg4o10g2o2~x4/"><circle cx="285.4" cy="223.4" r="4" fill="#3465a4"><title>Oakwood</title></circle></a><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2~g2205128-dg1303152/"><circle cx="298.9" cy="221.9" r="4" fill="#3465a4"><title>Crantock</title></circle></a><a href="/variants/s8/dg14lb2dg2lb2dg3lb6g12r2~x2~dg1806142-g2408144/"><circle cx="259.6" cy="239.3" r="4" fill="#3465a4"><title>Cranston</title></circle></a><a href="/variants/s12/r3g8r2g18dr5g3do3g3do16g3do3g3~x2/"><circle cx="318.2" cy="202.5" r="4" fill="#3465a4"><title>Dublin</title></circle></a><a href="/variants/s9/g4y2g17dg2r4dg2g3dg11g2~x2/"><circle cx="347.3" cy="220.2" r="4" fill="#3465a4"><title>Armagh</title></circle></a><a href="/variants/s7/g24r9g4dg19y2dg6g7~x2/"><circle cx="309.3" cy="230.3" r="4" fill="#3465a4"><title>Doyle</title></circle></a><a href="/variants/s7/r6g4dy14w4dy7g30y4~x2/"><circle cx="249.5" cy="210.1" r="4" fill="#3465a4"><title>Newfoundland</title></circle></a><a href="/variants/s8/g14r2g2r3g7db12g2dr2~x2~r1606028-dr1004029/"><circle cx="302.0" cy="224.7" r="4" fill="#3465a4"><title>Glen Nevis #3</title></circle></a><circle cx="297.5" cy="227.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db3o7g2r2g14o2g2db3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Murray-Hetherington (Personal) Name Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g1k1g14k2r3db3k6w1k1w1k1w1/)
 (the same proportion at any scale), whose colour order is pattern [GKGKRBKWKWKW](/stripes/gkgkrbkwkwkw/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10700
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10700](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10700)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g1k1g14k2r3db3k6w1k1w1~x4/"><circle cx="175.5" cy="119.6" r="4" fill="#3465a4"><title>Murray-Hetherington (Personal)</title></circle></a><a href="/variants/s11/g6k2g24k10db2o2db2o2db10k2lb3~x2/"><circle cx="178.9" cy="133.9" r="4" fill="#3465a4"><title>Scottish Rugby Union (City of Nagasaki)</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20ly2g3r2~x2/"><circle cx="153.0" cy="143.1" r="4" fill="#3465a4"><title>Connolly Hunting (Name)</title></circle></a><a href="/variants/s14/g6r4g4r3g4y2db14k4g4k28g18k2g3k2~x2/"><circle cx="155.4" cy="118.6" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><a href="/variants/s9/r4db11k3db3k3db4k15g36w3~x2/"><circle cx="174.7" cy="138.0" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><circle cx="156.6" cy="144.1" r="4" fill="#3465a4"><title>Connolly Hunting</title></circle></a><a href="/variants/s9/r4t11k3t3k3t4k15g36w3~x2/"><circle cx="174.9" cy="140.7" r="4" fill="#3465a4"><title>Semple (Name)</title></circle></a><a href="/variants/s11/dy4k2lo3k2dy7k9g20k2lb3k2g4~x2/"><circle cx="142.6" cy="146.8" r="4" fill="#3465a4"><title>Choinka Family (Personal)</title></circle></a><a href="/variants/s14/k15w1k1w1k1w1k1g15r1g15y2r5y2w3~x2/"><circle cx="177.2" cy="102.8" r="4" fill="#3465a4"><title>Courtet-Meyer (Personal)</title></circle></a><a href="/variants/s12/k8r2k3y2k2w3k2dy10g26r2g3k2~x2/"><circle cx="148.8" cy="97.9" r="4" fill="#3465a4"><title>Tara Murphy Irish Family Tartan</title></circle></a><circle cx="159.6" cy="107.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g1k1g14k2r3db3k6w1k1w1~x4/"><circle cx="175.4" cy="119.9" r="4" fill="#3465a4"><title>Murray-Hetherington (Personal)</title></circle></a><a href="/variants/s11/g6k2g24k10db2o2db2o2db10k2lb3~x2/"><circle cx="178.8" cy="134.2" r="4" fill="#3465a4"><title>Scottish Rugby Union (City of Nagasaki)</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20ly2g3r2~x2/"><circle cx="152.9" cy="143.4" r="4" fill="#3465a4"><title>Connolly Hunting (Name)</title></circle></a><a href="/variants/s14/g6r4g4r3g4y2db14k4g4k28g18k2g3k2~x2/"><circle cx="155.3" cy="118.8" r="4" fill="#3465a4"><title>Cypress Presbyterian Church</title></circle></a><a href="/variants/s9/r4db11k3db3k3db4k15g36w3~x2/"><circle cx="174.6" cy="138.4" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><circle cx="156.6" cy="144.5" r="4" fill="#3465a4"><title>Connolly Hunting</title></circle></a><a href="/variants/s9/r4t11k3t3k3t4k15g36w3~x2/"><circle cx="174.8" cy="141.0" r="4" fill="#3465a4"><title>Semple (Name)</title></circle></a><a href="/variants/s11/dy4k2lo3k2dy7k9g20k2lb3k2g4~x2/"><circle cx="142.6" cy="147.2" r="4" fill="#3465a4"><title>Choinka Family (Personal)</title></circle></a><a href="/variants/s14/k15w1k1w1k1w1k1g15r1g15y2r5y2w3~x2/"><circle cx="177.1" cy="103.1" r="4" fill="#3465a4"><title>Courtet-Meyer (Personal)</title></circle></a><a href="/variants/s12/k8r2k3y2k2w3k2dy10g26r2g3k2~x2/"><circle cx="148.7" cy="98.2" r="4" fill="#3465a4"><title>Tara Murphy Irish Family Tartan</title></circle></a><circle cx="159.5" cy="108.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/g1k1g14k2r3db3k6w1k1w1k1w1~x4/

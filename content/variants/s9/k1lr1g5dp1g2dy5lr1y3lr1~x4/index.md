@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Corcoran of Sherbrooke (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1lr1g5dp1g2dy5lr1y3lr1/)
 (the same proportion at any scale), whose colour order is pattern [KYGBGGYGY](/stripes/kygbggygy/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=759
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=759](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=759)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g9lb2g9k2dy14ly4lb2r2~x4~dy1603076-ly3307090/"><circle cx="149.3" cy="190.7" r="4" fill="#3465a4"><title>McShane (Personal)</title></circle></a><a href="/variants/s8/o21lyi4dy5lyi4o5k21dg21ly5~x2~lyi2803114-dg1806142/"><circle cx="52.2" cy="191.1" r="4" fill="#3465a4"><title>Labrador Club of Scotland (Corporate</title></circle></a><a href="/variants/s7/dy5ly20r3dg13dy13db3b3~x2/"><circle cx="110.5" cy="205.0" r="4" fill="#3465a4"><title>Christmas Hill Game Farm (Corporate)</title></circle></a><a href="/variants/s8/dg9w2dg9k2ly14lyi4w2r2~x4~ly2503076-lyi2705081/"><circle cx="127.5" cy="179.8" r="4" fill="#3465a4"><title>MacShane (Clan)</title></circle></a><a href="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/"><circle cx="111.9" cy="204.8" r="4" fill="#3465a4"><title>Christmas Hill Game Farm</title></circle></a><a href="/variants/s12/y3g15r2db8lb2r8g8r2dg15r2dg2lb2~x2/"><circle cx="125.5" cy="180.1" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s10/n4k1w1k1w1k1n4db2g6r1~x6/"><circle cx="82.9" cy="178.5" r="4" fill="#3465a4"><title>Mitsukoshi Sendai</title></circle></a><a href="/variants/s8/o21db4dr5db4o5k21g21ly5~x2/"><circle cx="47.8" cy="189.2" r="4" fill="#3465a4"><title>Caledonian Labrador Retrievers</title></circle></a><a href="/variants/s8/dr9g3t19k3g19dr13k3ly3~x2/"><circle cx="112.4" cy="209.5" r="4" fill="#3465a4"><title>Orkney (District?)</title></circle></a><a href="/variants/s8/o3g1lb6k1g6o4k1lo1~x4/"><circle cx="97.7" cy="207.5" r="4" fill="#3465a4"><title>Orkney District Tartan</title></circle></a><circle cx="95.9" cy="204.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g9lb2g9k2dy14ly4lb2r2~x4~dy1603076-ly3307090/"><circle cx="149.4" cy="191.2" r="4" fill="#3465a4"><title>McShane (Personal)</title></circle></a><a href="/variants/s8/o21lyi4dy5lyi4o5k21dg21ly5~x2~lyi2803114-dg1806142/"><circle cx="52.2" cy="191.6" r="4" fill="#3465a4"><title>Labrador Club of Scotland (Corporate</title></circle></a><a href="/variants/s7/dy5ly20r3dg13dy13db3b3~x2/"><circle cx="110.6" cy="205.5" r="4" fill="#3465a4"><title>Christmas Hill Game Farm (Corporate)</title></circle></a><a href="/variants/s8/dg9w2dg9k2ly14lyi4w2r2~x4~ly2503076-lyi2705081/"><circle cx="127.6" cy="180.3" r="4" fill="#3465a4"><title>MacShane (Clan)</title></circle></a><a href="/variants/s7/dy5ly20r3dg13dy13dp3b3~x2/"><circle cx="112.0" cy="205.3" r="4" fill="#3465a4"><title>Christmas Hill Game Farm</title></circle></a><a href="/variants/s12/y3g15r2db8lb2r8g8r2dg15r2dg2lb2~x2/"><circle cx="125.5" cy="180.4" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s10/n4k1w1k1w1k1n4db2g6r1~x6/"><circle cx="82.9" cy="178.9" r="4" fill="#3465a4"><title>Mitsukoshi Sendai</title></circle></a><a href="/variants/s8/o21db4dr5db4o5k21g21ly5~x2/"><circle cx="47.8" cy="189.7" r="4" fill="#3465a4"><title>Caledonian Labrador Retrievers</title></circle></a><a href="/variants/s8/dr9g3t19k3g19dr13k3ly3~x2/"><circle cx="112.4" cy="210.0" r="4" fill="#3465a4"><title>Orkney (District?)</title></circle></a><a href="/variants/s8/o3g1lb6k1g6o4k1lo1~x4/"><circle cx="97.8" cy="208.1" r="4" fill="#3465a4"><title>Orkney District Tartan</title></circle></a><circle cx="96.0" cy="205.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/

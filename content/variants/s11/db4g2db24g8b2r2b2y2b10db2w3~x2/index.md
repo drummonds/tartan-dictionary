@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "McCartney"
   url: "/tartans/mccartney/"
+- name: "McCartney (Night)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4g2db24g8b2r2b2y2b10db2w3/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBRBGBBW](/stripes/bgbgbrbgbbw/).
@@ -14,7 +16,7 @@ Part of the [McCartney](/tartans/mccartney/) tartan — the named design groupin
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db4g2db24g8lb2r2lb2y2lb10db2w3~x2/"><circle cx="218.5" cy="135.9" r="4" fill="#3465a4"><title>McCartney (Evening/Night)</title></circle></a><a href="/variants/s10/dbi30w2r3w2db14lr3g14dbi18r2dbi3~x2~dbi1605267-db0906265/"><circle cx="280.8" cy="145.3" r="4" fill="#3465a4"><title>Kansai St Andrews Society</title></circle></a><a href="/variants/s11/g4r1db8w1r1w1b8w1b8w1y1~x4/"><circle cx="184.3" cy="164.6" r="4" fill="#3465a4"><title>Texas, Bluebonnet</title></circle></a><a href="/variants/s9/w2db20dg2b2dg2b4dg8y2r1~x2/"><circle cx="264.7" cy="130.4" r="4" fill="#3465a4"><title>Nova Scotia</title></circle></a><a href="/variants/s7/db30t10lb10db5r3y3g3~x2/"><circle cx="253.7" cy="170.1" r="4" fill="#3465a4"><title>Wrigglesworth (Name)</title></circle></a><a href="/variants/s8/dg10w2dt3g2o14db26dg2db6~x2/"><circle cx="248.5" cy="135.3" r="4" fill="#3465a4"><title>Spirit of Fife</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x4/"><circle cx="215.3" cy="150.0" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/"><circle cx="215.3" cy="150.0" r="4" fill="#3465a4"><title>Yorkshire, C.C.C.</title></circle></a><a href="/variants/s11/db2n18db2n2db20r3db18g2db2g18w2/"><circle cx="265.5" cy="179.1" r="4" fill="#3465a4"><title>American Society of Travel Agents, The</title></circle></a><a href="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/"><circle cx="256.9" cy="119.8" r="4" fill="#3465a4"><title>Yukon (asymmetric)</title></circle></a><circle cx="239.3" cy="140.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db4g2db24g8lb2r2lb2y2lb10db2w3~x2/"><circle cx="218.5" cy="136.1" r="4" fill="#3465a4"><title>McCartney (Evening/Night)</title></circle></a><a href="/variants/s10/dbi30w2r3w2db14lr3g14dbi18r2dbi3~x2~dbi1605267-db0906265/"><circle cx="280.8" cy="145.5" r="4" fill="#3465a4"><title>Kansai St Andrews Society</title></circle></a><a href="/variants/s11/g4r1db8w1r1w1b8w1b8w1y1~x4/"><circle cx="184.3" cy="164.9" r="4" fill="#3465a4"><title>Texas, Bluebonnet</title></circle></a><a href="/variants/s9/w2db20dg2b2dg2b4dg8y2r1~x2/"><circle cx="264.6" cy="130.5" r="4" fill="#3465a4"><title>Nova Scotia</title></circle></a><a href="/variants/s7/db30t10lb10db5r3y3g3~x2/"><circle cx="253.7" cy="170.4" r="4" fill="#3465a4"><title>Wrigglesworth (Name)</title></circle></a><a href="/variants/s8/dg10w2dt3g2o14db26dg2db6~x2/"><circle cx="248.5" cy="135.5" r="4" fill="#3465a4"><title>Spirit of Fife</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x4/"><circle cx="215.3" cy="150.4" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/"><circle cx="215.3" cy="150.4" r="4" fill="#3465a4"><title>Yorkshire, C.C.C.</title></circle></a><a href="/variants/s11/db2n18db2n2db20r3db18g2db2g18w2/"><circle cx="265.5" cy="179.4" r="4" fill="#3465a4"><title>American Society of Travel Agents, The</title></circle></a><a href="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/"><circle cx="256.8" cy="119.9" r="4" fill="#3465a4"><title>Yukon (asymmetric)</title></circle></a><circle cx="239.3" cy="141.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db4g2db24g8b2r2b2y2b10db2w3~x2/

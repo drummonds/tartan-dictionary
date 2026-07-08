@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clarks No. 1 (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db5lb2db11g2db2g6r17ly9db1r1/)
 (the same proportion at any scale), whose colour order is pattern [BWBGBGRYBR](/stripes/bwbgbgrybr/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10678
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10678](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10678)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db5lb2db11g2db2g6r17y9db1r1~x2/"><circle cx="188.7" cy="158.1" r="4" fill="#3465a4"><title>Clarks No.1</title></circle></a><a href="/variants/s9/y4g6y1g15r23db15w1db6w4~x2/"><circle cx="167.5" cy="151.6" r="4" fill="#3465a4"><title>Forrester / Foster</title></circle></a><a href="/variants/s9/y3dg4y1dg15r24db15w1db4w3~x4/"><circle cx="198.6" cy="137.0" r="4" fill="#3465a4"><title>Forrester (Clan)</title></circle></a><a href="/variants/s8/r4w2r1w18dp18o18g3o4~x2/"><circle cx="156.0" cy="153.6" r="4" fill="#3465a4"><title>Gigha Lilac</title></circle></a><a href="/variants/s11/w1db4dy8r4w1r4w1r4g16db2w1~x2/"><circle cx="167.7" cy="145.6" r="4" fill="#3465a4"><title>Stuart/Stewart Riding Cloak</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.6" cy="176.4" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/dp24g2o2g2o5g8lr20dy4~x2~o2605035-lr2903322/"><circle cx="194.1" cy="173.8" r="4" fill="#3465a4"><title>Glen Shee #2 (Fashion)</title></circle></a><a href="/variants/s8/ly3dy12do14r4do1lb26do2dy1~x2/"><circle cx="227.5" cy="135.1" r="4" fill="#3465a4"><title>Turnberry</title></circle></a><a href="/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/"><circle cx="133.5" cy="140.4" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/variants/s12/db16r1db1r1g12r16w2r16g12db12r1db1~x2/"><circle cx="218.0" cy="163.5" r="4" fill="#3465a4"><title>Fraser of Lovat</title></circle></a><circle cx="167.2" cy="151.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db5lb2db11g2db2g6r17y9db1r1~x2/"><circle cx="188.7" cy="158.4" r="4" fill="#3465a4"><title>Clarks No.1</title></circle></a><a href="/variants/s9/y4g6y1g15r23db15w1db6w4~x2/"><circle cx="167.5" cy="152.0" r="4" fill="#3465a4"><title>Forrester / Foster</title></circle></a><a href="/variants/s9/y3dg4y1dg15r24db15w1db4w3~x4/"><circle cx="198.5" cy="137.3" r="4" fill="#3465a4"><title>Forrester (Clan)</title></circle></a><a href="/variants/s8/r4w2r1w18dp18o18g3o4~x2/"><circle cx="156.1" cy="154.1" r="4" fill="#3465a4"><title>Gigha Lilac</title></circle></a><a href="/variants/s11/w1db4dy8r4w1r4w1r4g16db2w1~x2/"><circle cx="167.7" cy="145.9" r="4" fill="#3465a4"><title>Stuart/Stewart Riding Cloak</title></circle></a><a href="/variants/s8/do2b2do15b1w10o15b2o2~x2/"><circle cx="199.6" cy="176.9" r="4" fill="#3465a4"><title>Bannockbane</title></circle></a><a href="/variants/s8/dp24g2o2g2o5g8lr20dy4~x2~o2605035-lr2903322/"><circle cx="194.2" cy="174.2" r="4" fill="#3465a4"><title>Glen Shee #2 (Fashion)</title></circle></a><a href="/variants/s8/ly3dy12do14r4do1lb26do2dy1~x2/"><circle cx="227.5" cy="135.4" r="4" fill="#3465a4"><title>Turnberry</title></circle></a><a href="/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/"><circle cx="133.5" cy="140.8" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/variants/s12/db16r1db1r1g12r16w2r16g12db12r1db1~x2/"><circle cx="218.1" cy="163.9" r="4" fill="#3465a4"><title>Fraser of Lovat</title></circle></a><circle cx="167.2" cy="151.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db5lb2db11g2db2g6r17ly9db1r1~x2/

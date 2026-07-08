@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harris, Royal Blue (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3db2k4db2w2db26r4w30r2w3/)
 (the same proportion at any scale), whose colour order is pattern [WBKBWBRWRW](/stripes/wbkbwbrwrw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7592
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7592](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7592)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k9w4k2w4k2w30k9w4b14lo2~x2/"><circle cx="230.1" cy="139.7" r="4" fill="#3465a4"><title>Hannay (Clan)</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/"><circle cx="222.2" cy="134.6" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/"><circle cx="217.0" cy="137.4" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s12/lb5k1w1k1lb5k7b10k1lb15b3k1w2~x4/"><circle cx="203.1" cy="137.4" r="4" fill="#3465a4"><title>Faulds</title></circle></a><a href="/variants/s7/t3db2k2db28w30db2w3~x2/"><circle cx="253.0" cy="144.9" r="4" fill="#3465a4"><title>Cunningham, Dress Blue (Dance)</title></circle></a><a href="/variants/s7/w5dp2w34dp34k2dp2lb4~x2/"><circle cx="261.7" cy="137.0" r="4" fill="#3465a4"><title>Cunningham Dress Purple (Dance)</title></circle></a><a href="/variants/s12/lb98n12k16w5k5w5k5n28lb16k5lb16w6/"><circle cx="302.5" cy="103.9" r="4" fill="#3465a4"><title>Glen Moy Tartan</title></circle></a><a href="/variants/s7/w2db1w20db20k1db1lb2~x4/"><circle cx="267.0" cy="132.1" r="4" fill="#3465a4"><title>Cunningham, Dress Blue (Dance) Fashion Tartan</title></circle></a><a href="/variants/s7/w2dp1w20dp20k1dp1lb2~x4/"><circle cx="272.0" cy="126.9" r="4" fill="#3465a4"><title>Cunningham Dress Purple (Dance) Fashion Tartan</title></circle></a><a href="/variants/s13/k8w13db2w1db2w1db2w1db2w1db2w1db2~x2/"><circle cx="220.9" cy="138.8" r="4" fill="#3465a4"><title>Hanna Personal Tartan</title></circle></a><circle cx="240.7" cy="123.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k9w4k2w4k2w30k9w4b14lo2~x2/"><circle cx="230.1" cy="140.2" r="4" fill="#3465a4"><title>Hannay (Clan)</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/"><circle cx="222.2" cy="135.1" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/"><circle cx="217.0" cy="137.9" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s12/lb5k1w1k1lb5k7b10k1lb15b3k1w2~x4/"><circle cx="203.1" cy="137.8" r="4" fill="#3465a4"><title>Faulds</title></circle></a><a href="/variants/s7/t3db2k2db28w30db2w3~x2/"><circle cx="253.0" cy="145.3" r="4" fill="#3465a4"><title>Cunningham, Dress Blue (Dance)</title></circle></a><a href="/variants/s7/w5dp2w34dp34k2dp2lb4~x2/"><circle cx="261.7" cy="137.4" r="4" fill="#3465a4"><title>Cunningham Dress Purple (Dance)</title></circle></a><a href="/variants/s12/lb98n12k16w5k5w5k5n28lb16k5lb16w6/"><circle cx="302.4" cy="104.2" r="4" fill="#3465a4"><title>Glen Moy Tartan</title></circle></a><a href="/variants/s7/w2db1w20db20k1db1lb2~x4/"><circle cx="266.9" cy="132.5" r="4" fill="#3465a4"><title>Cunningham, Dress Blue (Dance) Fashion Tartan</title></circle></a><a href="/variants/s7/w2dp1w20dp20k1dp1lb2~x4/"><circle cx="272.0" cy="127.4" r="4" fill="#3465a4"><title>Cunningham Dress Purple (Dance) Fashion Tartan</title></circle></a><a href="/variants/s13/k8w13db2w1db2w1db2w1db2w1db2w1db2~x2/"><circle cx="220.9" cy="139.3" r="4" fill="#3465a4"><title>Hanna Personal Tartan</title></circle></a><circle cx="240.6" cy="123.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w3db2k4db2w2db26r4w30r2w3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cetoloni"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2b22dg11y2dg11db2/)
 (the same proportion at any scale), whose colour order is pattern [BBGGGB](/stripes/bbgggb/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/"><circle cx="276.2" cy="214.8" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="261.6" cy="241.8" r="4" fill="#3465a4"><title>Skibo (Corporate)</title></circle></a><a href="/variants/s7/db6t47db22g47dp4g4n4~db1003265-t2105244/"><circle cx="283.8" cy="222.1" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/variants/s7/db6t47db22g47dp4g4n4/"><circle cx="290.2" cy="226.4" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/variants/s6/db5w3db36g38y5g5~x2/"><circle cx="315.9" cy="214.0" r="4" fill="#3465a4"><title>St. Andrew Society, Sao Paulo (Corp)</title></circle></a><a href="/variants/s6/db3g11lb2db11b6g3~x2/"><circle cx="226.1" cy="285.9" r="4" fill="#3465a4"><title>Unnamed, No 29</title></circle></a><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="332.0" cy="207.3" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/variants/s6/db2t9dr1db5g5lb2~x4/"><circle cx="221.1" cy="255.0" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/"><circle cx="289.9" cy="208.0" r="4" fill="#3465a4"><title>Georgian Bay, Waters of</title></circle></a><a href="/variants/s8/db32do3db3do3db3do10g24dr3~x2/"><circle cx="323.2" cy="215.4" r="4" fill="#3465a4"><title>Gammell</title></circle></a><circle cx="337.8" cy="242.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/"><circle cx="276.2" cy="215.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="261.7" cy="242.2" r="4" fill="#3465a4"><title>Skibo (Corporate)</title></circle></a><a href="/variants/s7/db6t47db22g47dp4g4n4~db1003265-t2105244/"><circle cx="283.9" cy="222.3" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/variants/s7/db6t47db22g47dp4g4n4/"><circle cx="290.3" cy="226.6" r="4" fill="#3465a4"><title>Boroughmuir</title></circle></a><a href="/variants/s6/db5w3db36g38y5g5~x2/"><circle cx="316.0" cy="214.4" r="4" fill="#3465a4"><title>St. Andrew Society, Sao Paulo (Corp)</title></circle></a><a href="/variants/s6/db3g11lb2db11b6g3~x2/"><circle cx="226.3" cy="286.5" r="4" fill="#3465a4"><title>Unnamed, No 29</title></circle></a><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="332.0" cy="207.7" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/variants/s6/db2t9dr1db5g5lb2~x4/"><circle cx="221.2" cy="255.4" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s6/db35w3db8t36dg9o3~x2~db1605267-t2605232/"><circle cx="290.0" cy="208.3" r="4" fill="#3465a4"><title>Georgian Bay, Waters of</title></circle></a><a href="/variants/s8/db32do3db3do3db3do10g24dr3~x2/"><circle cx="323.3" cy="215.7" r="4" fill="#3465a4"><title>Gammell</title></circle></a><circle cx="337.9" cy="242.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db2b22dg11y2dg11db2~x2/

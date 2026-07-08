@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Nowell/Noel"
   url: "/tartans/nowell-noel/"
+- name: "Nowell/Noel"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8g2db10g12k1lr1r1/)
 (the same proportion at any scale), whose colour order is pattern [BGBGKYR](/stripes/bgbgkyr/).
@@ -14,7 +16,7 @@ Part of the [Nowell/Noel](/tartans/nowell-noel/) tartan — the named design gro
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3206
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3206](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3206)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3g4db20g24k2lr3r1~x2/"><circle cx="275.1" cy="134.4" r="4" fill="#3465a4"><title>Nowell/Noel (Name)</title></circle></a><a href="/variants/s6/k3g22db3g3db19r3~x2/"><circle cx="240.6" cy="205.9" r="4" fill="#3465a4"><title>Davidson, Half</title></circle></a><a href="/variants/s6/g3db1g8db7k3dy1~x2/"><circle cx="214.7" cy="223.1" r="4" fill="#3465a4"><title>Trafalgar (Fashion)</title></circle></a><a href="/variants/s6/g3db1g8db7k3y1~x2/"><circle cx="213.3" cy="222.8" r="4" fill="#3465a4"><title>Trafalger</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="231.5" cy="174.7" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s8/k3r1y1db11g13db5r1y1~x2/"><circle cx="209.4" cy="153.3" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s5/r2g5db27g11o2~x2/"><circle cx="352.2" cy="200.6" r="4" fill="#3465a4"><title>Hector James</title></circle></a><a href="/variants/s5/k3db3g23db21w2~x2~db1406275/"><circle cx="226.9" cy="190.2" r="4" fill="#3465a4"><title>Douglas Clan Tartan</title></circle></a><a href="/variants/s6/o4g9w2g24db37r3~x2/"><circle cx="278.7" cy="169.6" r="4" fill="#3465a4"><title>Hardie Clan Tartan</title></circle></a><a href="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/"><circle cx="173.7" cy="154.2" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><circle cx="261.6" cy="173.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3g4db20g24k2lr3r1~x2/"><circle cx="275.1" cy="134.6" r="4" fill="#3465a4"><title>Nowell/Noel (Name)</title></circle></a><a href="/variants/s6/k3g22db3g3db19r3~x2/"><circle cx="240.7" cy="206.4" r="4" fill="#3465a4"><title>Davidson, Half</title></circle></a><a href="/variants/s6/g3db1g8db7k3dy1~x2/"><circle cx="214.8" cy="223.7" r="4" fill="#3465a4"><title>Trafalgar (Fashion)</title></circle></a><a href="/variants/s6/g3db1g8db7k3y1~x2/"><circle cx="213.4" cy="223.4" r="4" fill="#3465a4"><title>Trafalger</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="231.5" cy="175.0" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s8/k3r1y1db11g13db5r1y1~x2/"><circle cx="209.4" cy="153.6" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s5/r2g5db27g11o2~x2/"><circle cx="352.2" cy="201.0" r="4" fill="#3465a4"><title>Hector James</title></circle></a><a href="/variants/s5/k3db3g23db21w2~x2~db1406275/"><circle cx="227.0" cy="190.7" r="4" fill="#3465a4"><title>Douglas Clan Tartan</title></circle></a><a href="/variants/s6/o4g9w2g24db37r3~x2/"><circle cx="278.7" cy="169.9" r="4" fill="#3465a4"><title>Hardie Clan Tartan</title></circle></a><a href="/variants/s8/db44ly3k20dr3db8lg34db5lg15~x2/"><circle cx="173.7" cy="154.6" r="4" fill="#3465a4"><title>US Air Force Reserve Pipe Band</title></circle></a><circle cx="261.6" cy="174.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db8g2db10g12k1lr1r1~x4/

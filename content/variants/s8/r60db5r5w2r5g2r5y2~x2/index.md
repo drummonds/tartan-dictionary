@@ -10,6 +10,8 @@ crumbs:
   url: "/families/burnett-of-leys/"
 - name: "Burnett of Leys"
   url: "/tartans/burnett-of-leys/"
+- name: "Burnett, of Leys"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r60db5r5w2r5g2r5y2/)
 (the same proportion at any scale), whose colour order is pattern [GRGRWRBR](/stripes/grgrwrbr/).
@@ -18,7 +20,7 @@ Part of the [Burnett of Leys](/tartans/burnett-of-leys/) tartan — the named de
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -85,8 +87,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/"><circle cx="616.2" cy="88.7" r="4" fill="#3465a4"><title>Burnett of Leys</title></circle></a><a href="/variants/s8/r92db10r8w3r8g4r8ri4~x2~r1506019-ri2109032/"><circle cx="626.0" cy="100.2" r="4" fill="#3465a4"><title>Burnett of Leys Hunting</title></circle></a><a href="/variants/s8/r75db6r6w2r6g2r6ri2~x2~r1506019-ri2109032/"><circle cx="626.0" cy="90.5" r="4" fill="#3465a4"><title>Burnett of Leys Htg (Clan)</title></circle></a><a href="/variants/s8/dr75db6dr6w2dr6g2dr6lo2~x2/"><circle cx="626.0" cy="104.7" r="4" fill="#3465a4"><title>Burnett of Leys (Clan)</title></circle></a><a href="/variants/s8/r68db26r5y3r5g3r13n3~x2/"><circle cx="471.9" cy="114.2" r="4" fill="#3465a4"><title>De Nardi (Personal)</title></circle></a><a href="/variants/s8/r68db27r5y3r5g3r13lb3~x2/"><circle cx="460.6" cy="112.5" r="4" fill="#3465a4"><title>De Nardi #2 (Personal)</title></circle></a><a href="/variants/s7/r75g12r3k2r2k2r36~x2/"><circle cx="626.0" cy="111.8" r="4" fill="#3465a4"><title>MacKintosh #5</title></circle></a><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="535.2" cy="64.7" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken #2</title></circle></a><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/"><circle cx="496.0" cy="109.1" r="4" fill="#3465a4"><title>Rose of Kilravock (Personal)</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="537.9" cy="60.6" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><circle cx="626.0" cy="90.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/"><circle cx="616.1" cy="88.9" r="4" fill="#3465a4"><title>Burnett of Leys</title></circle></a><a href="/variants/s8/r92db10r8w3r8g4r8ri4~x2~r1506019-ri2109032/"><circle cx="626.0" cy="100.2" r="4" fill="#3465a4"><title>Burnett of Leys Hunting</title></circle></a><a href="/variants/s8/r75db6r6w2r6g2r6ri2~x2~r1506019-ri2109032/"><circle cx="626.0" cy="90.5" r="4" fill="#3465a4"><title>Burnett of Leys Htg (Clan)</title></circle></a><a href="/variants/s8/dr75db6dr6w2dr6g2dr6lo2~x2/"><circle cx="626.0" cy="104.7" r="4" fill="#3465a4"><title>Burnett of Leys (Clan)</title></circle></a><a href="/variants/s8/r68db26r5y3r5g3r13n3~x2/"><circle cx="471.9" cy="114.5" r="4" fill="#3465a4"><title>De Nardi (Personal)</title></circle></a><a href="/variants/s8/r68db27r5y3r5g3r13lb3~x2/"><circle cx="460.6" cy="112.7" r="4" fill="#3465a4"><title>De Nardi #2 (Personal)</title></circle></a><a href="/variants/s7/r75g12r3k2r2k2r36~x2/"><circle cx="626.0" cy="112.1" r="4" fill="#3465a4"><title>MacKintosh #5</title></circle></a><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="535.1" cy="64.9" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken #2</title></circle></a><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/"><circle cx="496.0" cy="109.4" r="4" fill="#3465a4"><title>Rose of Kilravock (Personal)</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="537.8" cy="60.8" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><circle cx="626.0" cy="90.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r60db5r5w2r5g2r5y2~x2/

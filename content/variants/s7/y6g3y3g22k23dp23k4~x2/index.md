@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gordon of Esslemont"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y6g3y3g22k23dp23k4/)
 (the same proportion at any scale), whose colour order is pattern [GGGGKBK](/stripes/ggggkbk/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1464
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1464](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1464)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g21y2g4k16dp14k3~x2/"><circle cx="178.9" cy="202.9" r="4" fill="#3465a4"><title>Wilson's, No 160</title></circle></a><a href="/variants/s6/g19y2g4k13dp12k3~x2~dp1607327/"><circle cx="130.5" cy="189.3" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/variants/s6/g21w2g4k17dp14k3~x2/"><circle cx="171.2" cy="201.7" r="4" fill="#3465a4"><title>Wilson's No 158</title></circle></a><a href="/variants/s6/g18lb2g4k14dp12k3~x2/"><circle cx="167.2" cy="212.3" r="4" fill="#3465a4"><title>Coburg</title></circle></a><a href="/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/"><circle cx="127.9" cy="189.2" r="4" fill="#3465a4"><title>Wilson's No.150</title></circle></a><a href="/variants/s6/g19w2g4k13dp12k3~x2~w3600000-dp1607327/"><circle cx="125.5" cy="188.5" r="4" fill="#3465a4"><title>Wilson's No.158</title></circle></a><a href="/variants/s6/g14db2g2k8dp9k2~x2/"><circle cx="172.6" cy="218.4" r="4" fill="#3465a4"><title>MacArthur of Milton, hunting</title></circle></a><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><circle cx="105.3" cy="203.5" r="4" fill="#3465a4"><title>MacLaren #2</title></circle></a><a href="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/"><circle cx="127.3" cy="182.1" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s7/g8lb1g1k6dp6k1dp3~x4/"><circle cx="144.9" cy="208.6" r="4" fill="#3465a4"><title>Unnamed 19th Century Plaid</title></circle></a><circle cx="128.3" cy="206.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g21y2g4k16dp14k3~x2/"><circle cx="178.9" cy="203.5" r="4" fill="#3465a4"><title>Wilson's, No 160</title></circle></a><a href="/variants/s6/g19y2g4k13dp12k3~x2~dp1607327/"><circle cx="130.5" cy="189.8" r="4" fill="#3465a4"><title>Wilson's No.160</title></circle></a><a href="/variants/s6/g21w2g4k17dp14k3~x2/"><circle cx="171.3" cy="202.2" r="4" fill="#3465a4"><title>Wilson's No 158</title></circle></a><a href="/variants/s6/g18lb2g4k14dp12k3~x2/"><circle cx="167.3" cy="212.9" r="4" fill="#3465a4"><title>Coburg</title></circle></a><a href="/variants/s6/g19lb2g4k13dp12k3~x2~dp1607327/"><circle cx="127.9" cy="189.7" r="4" fill="#3465a4"><title>Wilson's No.150</title></circle></a><a href="/variants/s6/g19w2g4k13dp12k3~x2~w3600000-dp1607327/"><circle cx="125.5" cy="189.0" r="4" fill="#3465a4"><title>Wilson's No.158</title></circle></a><a href="/variants/s6/g14db2g2k8dp9k2~x2/"><circle cx="172.6" cy="218.9" r="4" fill="#3465a4"><title>MacArthur of Milton, hunting</title></circle></a><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><circle cx="105.3" cy="204.1" r="4" fill="#3465a4"><title>MacLaren #2</title></circle></a><a href="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/"><circle cx="127.3" cy="182.5" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s7/g8lb1g1k6dp6k1dp3~x4/"><circle cx="145.0" cy="209.1" r="4" fill="#3465a4"><title>Unnamed 19th Century Plaid</title></circle></a><circle cx="128.3" cy="206.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/y6g3y3g22k23dp23k4~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lewis, Red (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4w35r31w4/)
 (the same proportion at any scale), whose colour order is pattern [RWRW](/stripes/rwrw/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7570
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7570](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7570)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w45dr2g9w2dr30~x2/"><circle cx="340.7" cy="196.2" r="4" fill="#3465a4"><title>Malaysian Unknown (Artefact)</title></circle></a><a href="/variants/s5/r38w9r3do9w3~x2/"><circle cx="411.1" cy="192.4" r="4" fill="#3465a4"><title>Loch Morar</title></circle></a><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="350.2" cy="252.3" r="4" fill="#3465a4"><title>MacKinnon #6</title></circle></a><a href="/variants/s4/lb15w2r20w3~x4/"><circle cx="340.2" cy="253.4" r="4" fill="#3465a4"><title>Masai Shuka 24 (Artefact)</title></circle></a><a href="/variants/s7/w5dp3w26r20w3r8y3~x2/"><circle cx="273.2" cy="196.1" r="4" fill="#3465a4"><title>MacPherson Dress Red (Dance)</title></circle></a><a href="/variants/s6/r2w1r9w9r1w2~x6/"><circle cx="351.2" cy="233.9" r="4" fill="#3465a4"><title>Erskine Red &amp; White (Dance)</title></circle></a><a href="/variants/s6/r6w2r29w29r2w6~x2/"><circle cx="370.4" cy="210.6" r="4" fill="#3465a4"><title>Erskine, Burgundy (Dance)</title></circle></a><a href="/variants/s5/db8r2db8r15w2~x4/"><circle cx="292.6" cy="247.4" r="4" fill="#3465a4"><title>Hamilton (Clan)</title></circle></a><a href="/variants/s6/r8dr3r28w32dr3w4~x2/"><circle cx="293.5" cy="204.2" r="4" fill="#3465a4"><title>Ailsa, Red V2 (Dance)</title></circle></a><a href="/variants/s6/r8dr3r28w32dr3w4~x2~r2108022/"><circle cx="291.3" cy="203.8" r="4" fill="#3465a4"><title>Ailsa Red</title></circle></a><circle cx="361.0" cy="259.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w45dr2g9w2dr30~x2/"><circle cx="340.8" cy="196.8" r="4" fill="#3465a4"><title>Malaysian Unknown (Artefact)</title></circle></a><a href="/variants/s5/r38w9r3do9w3~x2/"><circle cx="411.2" cy="193.1" r="4" fill="#3465a4"><title>Loch Morar</title></circle></a><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="350.4" cy="253.0" r="4" fill="#3465a4"><title>MacKinnon #6</title></circle></a><a href="/variants/s4/lb15w2r20w3~x4/"><circle cx="340.4" cy="254.1" r="4" fill="#3465a4"><title>Masai Shuka 24 (Artefact)</title></circle></a><a href="/variants/s7/w5dp3w26r20w3r8y3~x2/"><circle cx="273.3" cy="196.8" r="4" fill="#3465a4"><title>MacPherson Dress Red (Dance)</title></circle></a><a href="/variants/s6/r2w1r9w9r1w2~x6/"><circle cx="351.4" cy="234.7" r="4" fill="#3465a4"><title>Erskine Red &amp; White (Dance)</title></circle></a><a href="/variants/s6/r6w2r29w29r2w6~x2/"><circle cx="370.6" cy="211.3" r="4" fill="#3465a4"><title>Erskine, Burgundy (Dance)</title></circle></a><a href="/variants/s5/db8r2db8r15w2~x4/"><circle cx="292.8" cy="248.1" r="4" fill="#3465a4"><title>Hamilton (Clan)</title></circle></a><a href="/variants/s6/r8dr3r28w32dr3w4~x2/"><circle cx="293.7" cy="204.9" r="4" fill="#3465a4"><title>Ailsa, Red V2 (Dance)</title></circle></a><a href="/variants/s6/r8dr3r28w32dr3w4~x2~r2108022/"><circle cx="291.4" cy="204.5" r="4" fill="#3465a4"><title>Ailsa Red</title></circle></a><circle cx="361.2" cy="260.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/r4w35r31w4~x2/

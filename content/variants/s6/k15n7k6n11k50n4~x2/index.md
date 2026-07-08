@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Freedom of Scotland"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k15n7k6n11k50n4/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBK](/stripes/bkbkbk/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1278
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1278](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1278)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n1k21n5k3n5k9r1~x4/"><circle cx="432.8" cy="151.3" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><a href="/variants/s6/k53n22k10n10k2n4~x2/"><circle cx="414.1" cy="165.2" r="4" fill="#3465a4"><title>Black Isle</title></circle></a><a href="/variants/s6/k24n11k5n5k1n2~x4/"><circle cx="398.0" cy="173.0" r="4" fill="#3465a4"><title>Black Isle Corporate Tartan</title></circle></a><a href="/variants/s6/n6k16n6k16n45k4~x2/"><circle cx="363.8" cy="207.6" r="4" fill="#3465a4"><title>Grey Spirit Fashion Tartan</title></circle></a><a href="/variants/s6/n6k17n6k17n45k4~x2/"><circle cx="356.5" cy="209.1" r="4" fill="#3465a4"><title>Grey Spirit (Fashion)</title></circle></a><a href="/variants/s7/n13k3n3k3n3k35r3~x2/"><circle cx="365.8" cy="157.2" r="4" fill="#3465a4"><title>Holden Black (Corporate)</title></circle></a><a href="/variants/s7/k39n3k3n3k14n28r3~x2/"><circle cx="335.7" cy="168.3" r="4" fill="#3465a4"><title>Moffat (1984)</title></circle></a><a href="/variants/s6/k21w2k5w9k13g2~x4/"><circle cx="371.3" cy="192.7" r="4" fill="#3465a4"><title>New Zealand District Tartan</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="368.0" cy="144.0" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s8/k1g1k8n1k1n2k1n1~x8~n1900000/"><circle cx="371.9" cy="175.3" r="4" fill="#3465a4"><title>Nightstalker</title></circle></a><circle cx="472.0" cy="193.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n1k21n5k3n5k9r1~x4/"><circle cx="432.7" cy="151.7" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><a href="/variants/s6/k53n22k10n10k2n4~x2/"><circle cx="414.1" cy="165.6" r="4" fill="#3465a4"><title>Black Isle</title></circle></a><a href="/variants/s6/k24n11k5n5k1n2~x4/"><circle cx="398.0" cy="173.4" r="4" fill="#3465a4"><title>Black Isle Corporate Tartan</title></circle></a><a href="/variants/s6/n6k16n6k16n45k4~x2/"><circle cx="363.9" cy="208.2" r="4" fill="#3465a4"><title>Grey Spirit Fashion Tartan</title></circle></a><a href="/variants/s6/n6k17n6k17n45k4~x2/"><circle cx="356.6" cy="209.7" r="4" fill="#3465a4"><title>Grey Spirit (Fashion)</title></circle></a><a href="/variants/s7/n13k3n3k3n3k35r3~x2/"><circle cx="365.8" cy="157.6" r="4" fill="#3465a4"><title>Holden Black (Corporate)</title></circle></a><a href="/variants/s7/k39n3k3n3k14n28r3~x2/"><circle cx="335.7" cy="168.7" r="4" fill="#3465a4"><title>Moffat (1984)</title></circle></a><a href="/variants/s6/k21w2k5w9k13g2~x4/"><circle cx="371.3" cy="193.3" r="4" fill="#3465a4"><title>New Zealand District Tartan</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="368.0" cy="144.4" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s8/k1g1k8n1k1n2k1n1~x8~n1900000/"><circle cx="371.9" cy="175.8" r="4" fill="#3465a4"><title>Nightstalker</title></circle></a><circle cx="472.0" cy="194.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k15n7k6n11k50n4~x2/

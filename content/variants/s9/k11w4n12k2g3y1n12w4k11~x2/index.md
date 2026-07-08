@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hancock Personal Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k11w4n12k2g3y1n12w4k11/)
 (the same proportion at any scale), whose colour order is pattern [KWBKGGBWKWBGGKBW](/stripes/kwbkggbwkwbggkbw/).
 
 Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6469
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6469](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6469)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/w5n3w3n20k15n10g2n2g3n2g3n6lp3n4lp5~x2/"><circle cx="200.4" cy="139.3" r="4" fill="#3465a4"><title>Thistle Dubh</title></circle></a><a href="/variants/s15/n32k4n5k4n32k2w2lo12k16w8k4r5k4w8k16~x2/"><circle cx="158.4" cy="109.1" r="4" fill="#3465a4"><title>Unidentified Fashion</title></circle></a><a href="/variants/s14/w3k1n15k6n5k3n8k2n5y3w2y4k1w3~x2/"><circle cx="223.1" cy="145.1" r="4" fill="#3465a4"><title>Avalon - Washington House</title></circle></a><a href="/variants/s12/dr4k2g13ly3k22dr2k2w13k7dr3k7w4~x2/"><circle cx="151.2" cy="137.8" r="4" fill="#3465a4"><title>Tyrone County Crest (Fashion)</title></circle></a><a href="/variants/s7/w6dp4w32k32w5k12y4~x2/"><circle cx="192.8" cy="164.8" r="4" fill="#3465a4"><title>MacPherson Dress Clan Tartan</title></circle></a><a href="/variants/s13/db4k6db10k20g4y3g4k20w4db4w20db2w3/"><circle cx="126.3" cy="140.2" r="4" fill="#3465a4"><title>Gordon Dress MINI design Tartan</title></circle></a><a href="/variants/s16/k17t2k17w12g2w12g2w12k17r2k17w12t2w12t2w12~x2/"><circle cx="145.0" cy="154.5" r="4" fill="#3465a4"><title>Kinnison (Clan?)</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/"><circle cx="169.2" cy="149.3" r="4" fill="#3465a4"><title>Reid, Green</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/"><circle cx="169.2" cy="149.3" r="4" fill="#3465a4"><title>Reid Family Tartan</title></circle></a><a href="/variants/s12/dr4k2g13dy3k22dr2k2w13k7dr3k7w4~x2/"><circle cx="151.2" cy="137.2" r="4" fill="#3465a4"><title>Tyrone County, Crest Range</title></circle></a><circle cx="155.2" cy="140.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/w5n3w3n20k15n10g2n2g3n2g3n6lp3n4lp5~x2/"><circle cx="200.3" cy="139.6" r="4" fill="#3465a4"><title>Thistle Dubh</title></circle></a><a href="/variants/s15/n32k4n5k4n32k2w2lo12k16w8k4r5k4w8k16~x2/"><circle cx="158.4" cy="109.4" r="4" fill="#3465a4"><title>Unidentified Fashion</title></circle></a><a href="/variants/s14/w3k1n15k6n5k3n8k2n5y3w2y4k1w3~x2/"><circle cx="223.1" cy="145.5" r="4" fill="#3465a4"><title>Avalon - Washington House</title></circle></a><a href="/variants/s12/dr4k2g13ly3k22dr2k2w13k7dr3k7w4~x2/"><circle cx="151.1" cy="138.2" r="4" fill="#3465a4"><title>Tyrone County Crest (Fashion)</title></circle></a><a href="/variants/s7/w6dp4w32k32w5k12y4~x2/"><circle cx="192.8" cy="165.3" r="4" fill="#3465a4"><title>MacPherson Dress Clan Tartan</title></circle></a><a href="/variants/s13/db4k6db10k20g4y3g4k20w4db4w20db2w3/"><circle cx="126.3" cy="140.6" r="4" fill="#3465a4"><title>Gordon Dress MINI design Tartan</title></circle></a><a href="/variants/s16/k17t2k17w12g2w12g2w12k17r2k17w12t2w12t2w12~x2/"><circle cx="145.0" cy="155.0" r="4" fill="#3465a4"><title>Kinnison (Clan?)</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/"><circle cx="169.1" cy="149.7" r="4" fill="#3465a4"><title>Reid, Green</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/"><circle cx="169.1" cy="149.7" r="4" fill="#3465a4"><title>Reid Family Tartan</title></circle></a><a href="/variants/s12/dr4k2g13dy3k22dr2k2w13k7dr3k7w4~x2/"><circle cx="151.1" cy="137.6" r="4" fill="#3465a4"><title>Tyrone County, Crest Range</title></circle></a><circle cx="155.2" cy="141.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k11w4n12k2g3y1n12w4k11~x2/

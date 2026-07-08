@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Galloway Hunting"
   url: "/tartans/galloway-hunting/"
+- name: "Galloway Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3dg2g32dg32g2w3/)
 (the same proportion at any scale), whose colour order is pattern [RGGGGW](/stripes/rggggw/).
@@ -14,7 +16,7 @@ Part of the [Galloway Hunting](/tartans/galloway-hunting/) tartan — the named 
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1305
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1305](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1305)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r3dg1g32dg32g1w3~x2/"><circle cx="352.2" cy="163.4" r="4" fill="#3465a4"><title>Galloway, hunting</title></circle></a><a href="/variants/s6/r3dg1g32dg32g1y3~x2/"><circle cx="391.7" cy="176.5" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s6/dy4r2dg40g39dg3r4~x2/"><circle cx="363.5" cy="194.0" r="4" fill="#3465a4"><title>McGeorge (Personal)</title></circle></a><a href="/variants/s7/r2dg19g2dg2g19dg2y2~x2/"><circle cx="354.0" cy="217.9" r="4" fill="#3465a4"><title>Hunting Kenmore</title></circle></a><a href="/variants/s7/k2dg19g2dg2g19dg2k2~x2/"><circle cx="293.0" cy="189.1" r="4" fill="#3465a4"><title>Hunting Kenmore Trade Com. Tartan</title></circle></a><a href="/variants/s6/r6dt4w2g27dt37y2~x2/"><circle cx="326.8" cy="172.9" r="4" fill="#3465a4"><title>Highlands of Durham (Corporate)</title></circle></a><a href="/variants/s7/dt16g4dt3g3lo2g24dr2~x2/"><circle cx="400.6" cy="221.8" r="4" fill="#3465a4"><title>St. Andrews Links (Corporate)</title></circle></a><a href="/variants/s5/g22dt5r4dt5r3~x2/"><circle cx="350.1" cy="252.6" r="4" fill="#3465a4"><title>Romsdal</title></circle></a><a href="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/"><circle cx="287.3" cy="202.2" r="4" fill="#3465a4"><title>Cranstoun Clan Tartan</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24y3r2~x2/"><circle cx="324.9" cy="176.4" r="4" fill="#3465a4"><title>Leatherneck, U.S.Marine Corps</title></circle></a><circle cx="330.2" cy="192.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r3dg1g32dg32g1w3~x2/"><circle cx="352.2" cy="163.6" r="4" fill="#3465a4"><title>Galloway, hunting</title></circle></a><a href="/variants/s6/r3dg1g32dg32g1y3~x2/"><circle cx="391.7" cy="176.7" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s6/dy4r2dg40g39dg3r4~x2/"><circle cx="363.5" cy="194.3" r="4" fill="#3465a4"><title>McGeorge (Personal)</title></circle></a><a href="/variants/s7/r2dg19g2dg2g19dg2y2~x2/"><circle cx="354.1" cy="218.2" r="4" fill="#3465a4"><title>Hunting Kenmore</title></circle></a><a href="/variants/s7/k2dg19g2dg2g19dg2k2~x2/"><circle cx="293.0" cy="189.5" r="4" fill="#3465a4"><title>Hunting Kenmore Trade Com. Tartan</title></circle></a><a href="/variants/s6/r6dt4w2g27dt37y2~x2/"><circle cx="326.8" cy="173.1" r="4" fill="#3465a4"><title>Highlands of Durham (Corporate)</title></circle></a><a href="/variants/s7/dt16g4dt3g3lo2g24dr2~x2/"><circle cx="400.7" cy="222.2" r="4" fill="#3465a4"><title>St. Andrews Links (Corporate)</title></circle></a><a href="/variants/s5/g22dt5r4dt5r3~x2/"><circle cx="350.2" cy="253.2" r="4" fill="#3465a4"><title>Romsdal</title></circle></a><a href="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/"><circle cx="287.4" cy="202.5" r="4" fill="#3465a4"><title>Cranstoun Clan Tartan</title></circle></a><a href="/variants/s8/g28r2g2r2g8db24y3r2~x2/"><circle cx="324.9" cy="176.7" r="4" fill="#3465a4"><title>Leatherneck, U.S.Marine Corps</title></circle></a><circle cx="330.2" cy="192.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r3dg2g32dg32g2w3~x2/

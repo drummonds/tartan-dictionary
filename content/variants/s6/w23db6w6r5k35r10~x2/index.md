@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Meg, Merrilees"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w23db6w6r5k35r10/)
 (the same proportion at any scale), whose colour order is pattern [RKRWBW](/stripes/rkrwbw/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><circle cx="142.3" cy="198.0" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><a href="/variants/s6/k23t6k6r5w35r10~x2/"><circle cx="141.6" cy="199.0" r="4" fill="#3465a4"><title>Merrilees Dress (Dance)</title></circle></a><a href="/variants/s6/r2n20k5w10k10r2~x2/"><circle cx="150.0" cy="189.7" r="4" fill="#3465a4"><title>Thom(p)son, Grey</title></circle></a><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="132.0" cy="218.9" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><circle cx="107.5" cy="196.1" r="4" fill="#3465a4"><title>Holden Brown (Corporate)</title></circle></a><a href="/variants/s6/lb1dr6db1lb3k3lb1~x8/"><circle cx="156.5" cy="223.0" r="4" fill="#3465a4"><title>MacTavish #2</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="175.6" cy="204.8" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="105.6" cy="195.8" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s6/r4n41k5w14k18r4~x2/"><circle cx="194.7" cy="175.5" r="4" fill="#3465a4"><title>Downside (Corporate)</title></circle></a><a href="/variants/s6/w5dr34k22dr4lb24dr4~x2/"><circle cx="181.3" cy="199.8" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><circle cx="142.4" cy="197.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><circle cx="142.4" cy="198.7" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><a href="/variants/s6/k23t6k6r5w35r10~x2/"><circle cx="141.7" cy="199.7" r="4" fill="#3465a4"><title>Merrilees Dress (Dance)</title></circle></a><a href="/variants/s6/r2n20k5w10k10r2~x2/"><circle cx="150.0" cy="190.3" r="4" fill="#3465a4"><title>Thom(p)son, Grey</title></circle></a><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="132.1" cy="219.6" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><circle cx="107.5" cy="196.7" r="4" fill="#3465a4"><title>Holden Brown (Corporate)</title></circle></a><a href="/variants/s6/lb1dr6db1lb3k3lb1~x8/"><circle cx="156.6" cy="223.7" r="4" fill="#3465a4"><title>MacTavish #2</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="175.6" cy="205.4" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="105.6" cy="196.5" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s6/r4n41k5w14k18r4~x2/"><circle cx="194.7" cy="176.0" r="4" fill="#3465a4"><title>Downside (Corporate)</title></circle></a><a href="/variants/s6/w5dr34k22dr4lb24dr4~x2/"><circle cx="181.4" cy="200.4" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><circle cx="142.5" cy="198.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w23db6w6r5k35r10~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Baird"
   url: "/tartans/baird/"
+- name: "Baird"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr3g1dr1g8k8db8k2db3/)
 (the same proportion at any scale), whose colour order is pattern [BGBGKBKB](/stripes/bgbgkbkb/).
@@ -14,7 +16,7 @@ Part of the [Baird](/tartans/baird/) tartan — the named design grouping this s
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -77,8 +79,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db3k2db8k8g8dp1g1dp3~x4/"><circle cx="130.3" cy="211.5" r="4" fill="#3465a4"><title>Baird (Modern)</title></circle></a><a href="/variants/s8/db3k2db8k8g8dp1g1dp3~x2/"><circle cx="130.3" cy="211.5" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s7/db4k3db16k14g14r3g3~x2/"><circle cx="126.9" cy="227.8" r="4" fill="#3465a4"><title>Inneryne (Personal)</title></circle></a><a href="/variants/s8/db4k3db12k11dg13g1dg1g3~x2~dg1806142-g2408144/"><circle cx="161.3" cy="187.7" r="4" fill="#3465a4"><title>Bedford High School</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2/"><circle cx="135.7" cy="215.4" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2~x2/"><circle cx="135.7" cy="215.4" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><a href="/variants/s7/db6k2db18k18g18k3r2~x2/"><circle cx="155.4" cy="200.1" r="4" fill="#3465a4"><title>Renfrew</title></circle></a><a href="/variants/s7/g24db6lb3k6db12k15g4~x2/"><circle cx="150.2" cy="212.3" r="4" fill="#3465a4"><title>Blaylock Annandale</title></circle></a><a href="/variants/s7/db3r1db10k8g10r1g3~x4/"><circle cx="155.9" cy="203.1" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8k2/"><circle cx="148.1" cy="217.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><circle cx="129.7" cy="211.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db3k2db8k8g8dp1g1dp3~x4/"><circle cx="130.3" cy="212.0" r="4" fill="#3465a4"><title>Baird (Modern)</title></circle></a><a href="/variants/s8/db3k2db8k8g8dp1g1dp3~x2/"><circle cx="130.3" cy="212.0" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s7/db4k3db16k14g14r3g3~x2/"><circle cx="126.9" cy="228.4" r="4" fill="#3465a4"><title>Inneryne (Personal)</title></circle></a><a href="/variants/s8/db4k3db12k11dg13g1dg1g3~x2~dg1806142-g2408144/"><circle cx="161.3" cy="188.1" r="4" fill="#3465a4"><title>Bedford High School</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2/"><circle cx="135.7" cy="216.0" r="4" fill="#3465a4"><title>Fletcher C</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8r2~x2/"><circle cx="135.7" cy="216.0" r="4" fill="#3465a4"><title>Fletcher of Dunans</title></circle></a><a href="/variants/s7/db6k2db18k18g18k3r2~x2/"><circle cx="155.4" cy="200.5" r="4" fill="#3465a4"><title>Renfrew</title></circle></a><a href="/variants/s7/g24db6lb3k6db12k15g4~x2/"><circle cx="150.3" cy="212.9" r="4" fill="#3465a4"><title>Blaylock Annandale</title></circle></a><a href="/variants/s7/db3r1db10k8g10r1g3~x4/"><circle cx="155.9" cy="203.6" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8k2/"><circle cx="148.1" cy="217.7" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><circle cx="129.7" cy="211.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dr3g1dr1g8k8db8k2db3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacKay (Bonner)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y1g6k5g1db5g1/)
 (the same proportion at any scale), whose colour order is pattern [GBGKGG](/stripes/gbgkgg/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2499
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2499](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2499)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r4g12k12g2db12g3~x2/"><circle cx="125.7" cy="237.8" r="4" fill="#3465a4"><title>Gunn - 1810 (Clan)</title></circle></a><a href="/variants/s6/r2g12k12g1db12g2/"><circle cx="161.9" cy="198.1" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s6/r2g12k12g1db12g2~x2/"><circle cx="161.9" cy="198.1" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s6/k3g14k14g2db14g3/"><circle cx="169.7" cy="239.0" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/variants/s6/k3g14k14g2db14g3~x2/"><circle cx="169.7" cy="239.0" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/variants/s6/dg4g18dg3k17dg18b4~x2/"><circle cx="157.2" cy="241.1" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/variants/s6/k2g9lb1k6b4g2~x2/"><circle cx="179.1" cy="212.5" r="4" fill="#3465a4"><title>Unnamed 3</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14k4~x2/"><circle cx="120.7" cy="227.2" r="4" fill="#3465a4"><title>Fletcher #2</title></circle></a><a href="/variants/s7/g24db6lb3k6db12k15g4~x2/"><circle cx="150.2" cy="212.3" r="4" fill="#3465a4"><title>Blaylock Annandale</title></circle></a><a href="/variants/s7/g21k6lb3g11k17db17k3~x2/"><circle cx="142.6" cy="224.9" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><circle cx="157.0" cy="231.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r4g12k12g2db12g3~x2/"><circle cx="125.8" cy="238.5" r="4" fill="#3465a4"><title>Gunn - 1810 (Clan)</title></circle></a><a href="/variants/s6/r2g12k12g1db12g2/"><circle cx="162.0" cy="198.5" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s6/r2g12k12g1db12g2~x2/"><circle cx="162.0" cy="198.5" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s6/k3g14k14g2db14g3/"><circle cx="169.8" cy="239.7" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/variants/s6/k3g14k14g2db14g3~x2/"><circle cx="169.8" cy="239.7" r="4" fill="#3465a4"><title>MacKay</title></circle></a><a href="/variants/s6/dg4g18dg3k17dg18b4~x2/"><circle cx="157.2" cy="241.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/variants/s6/k2g9lb1k6b4g2~x2/"><circle cx="179.2" cy="213.1" r="4" fill="#3465a4"><title>Unnamed 3</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14k4~x2/"><circle cx="120.8" cy="227.8" r="4" fill="#3465a4"><title>Fletcher #2</title></circle></a><a href="/variants/s7/g24db6lb3k6db12k15g4~x2/"><circle cx="150.3" cy="212.9" r="4" fill="#3465a4"><title>Blaylock Annandale</title></circle></a><a href="/variants/s7/g21k6lb3g11k17db17k3~x2/"><circle cx="142.6" cy="225.5" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><circle cx="157.1" cy="231.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/y1g6k5g1db5g1~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bean Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db6r15g41r15db20g41lb6/)
 (the same proportion at any scale), whose colour order is pattern [BRGRBGW](/stripes/brgrbgw/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y2g12db6r3g12r4db1~x2/"><circle cx="331.8" cy="218.6" r="4" fill="#3465a4"><title>MacKintosh Hunting</title></circle></a><a href="/variants/s7/y2g12db6r3g12r4db1/"><circle cx="331.8" cy="218.6" r="4" fill="#3465a4"><title>MacKintosh Hunting</title></circle></a><a href="/variants/s7/db1r3g11r2db5g11y1~x2/"><circle cx="367.4" cy="212.9" r="4" fill="#3465a4"><title>MacKintosh, hunting</title></circle></a><a href="/variants/s7/db2g4y1db1r2g4r2~x12/"><circle cx="218.8" cy="282.2" r="4" fill="#3465a4"><title>Creek Indian Nation (District)</title></circle></a><a href="/variants/s7/g25r4db24r21g25r3db4~x2/"><circle cx="255.9" cy="246.9" r="4" fill="#3465a4"><title>Glasgow #2</title></circle></a><a href="/variants/s6/g6b1g7w1b7r1~x4~w4000000-r2109032/"><circle cx="332.2" cy="254.6" r="4" fill="#3465a4"><title>Norris (1957)</title></circle></a><a href="/variants/s6/g6b1g7w1b7r1~x4/"><circle cx="333.2" cy="254.8" r="4" fill="#3465a4"><title>Norris (1957) (Name)</title></circle></a><a href="/variants/s7/r5g20r5g20db24g6y4/"><circle cx="273.7" cy="248.9" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan</title></circle></a><a href="/variants/s8/g14r2g2r3g7db12g2dr2~x2~r1606028-dr1004029/"><circle cx="301.9" cy="224.2" r="4" fill="#3465a4"><title>Glen Nevis #3</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="279.0" cy="230.7" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><circle cx="280.0" cy="241.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y2g12db6r3g12r4db1~x2/"><circle cx="331.9" cy="219.1" r="4" fill="#3465a4"><title>MacKintosh Hunting</title></circle></a><a href="/variants/s7/y2g12db6r3g12r4db1/"><circle cx="331.9" cy="219.1" r="4" fill="#3465a4"><title>MacKintosh Hunting</title></circle></a><a href="/variants/s7/db1r3g11r2db5g11y1~x2/"><circle cx="367.5" cy="213.4" r="4" fill="#3465a4"><title>MacKintosh, hunting</title></circle></a><a href="/variants/s7/db2g4y1db1r2g4r2~x12/"><circle cx="219.0" cy="282.9" r="4" fill="#3465a4"><title>Creek Indian Nation (District)</title></circle></a><a href="/variants/s7/g25r4db24r21g25r3db4~x2/"><circle cx="256.1" cy="247.5" r="4" fill="#3465a4"><title>Glasgow #2</title></circle></a><a href="/variants/s6/g6b1g7w1b7r1~x4~w4000000-r2109032/"><circle cx="332.4" cy="255.1" r="4" fill="#3465a4"><title>Norris (1957)</title></circle></a><a href="/variants/s6/g6b1g7w1b7r1~x4/"><circle cx="333.4" cy="255.4" r="4" fill="#3465a4"><title>Norris (1957) (Name)</title></circle></a><a href="/variants/s7/r5g20r5g20db24g6y4/"><circle cx="273.8" cy="249.5" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan</title></circle></a><a href="/variants/s8/g14r2g2r3g7db12g2dr2~x2~r1606028-dr1004029/"><circle cx="302.0" cy="224.7" r="4" fill="#3465a4"><title>Glen Nevis #3</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><circle cx="280.1" cy="242.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db6r15g41r15db20g41lb6/

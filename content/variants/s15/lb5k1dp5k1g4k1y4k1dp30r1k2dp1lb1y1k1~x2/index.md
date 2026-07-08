@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "House of Holland"
   url: "/tartans/house-of-holland/"
+- name: "House of Holland (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb5k1dp5k1g4k1y4k1dp30r1k2dp1lb1y1k1/)
 (the same proportion at any scale), whose colour order is pattern [KGWBKRBKGKGKBKW](/stripes/kgwbkrbkgkgkbkw/).
@@ -14,7 +16,7 @@ Part of the [House of Holland](/tartans/house-of-holland/) tartan — the named 
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7540
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7540)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/lb5k1dp5k1g4k1y4k1dp30lbi1k2dp1lb1y1k1~x2~lb3203246-lbi3402028/"><circle cx="310.2" cy="29.2" r="4" fill="#3465a4"><title>House of Holland</title></circle></a><a href="/variants/s11/lb32db12k2y2k2db2lb8dr63k2r2dr9~x2/"><circle cx="288.0" cy="24.4" r="4" fill="#3465a4"><title>Kirk in the Hills Corporate Tartan</title></circle></a><a href="/variants/s14/dp60g4dp4g4dp4k14r2k5r3k3r4k2r5w3~x2/"><circle cx="318.3" cy="45.0" r="4" fill="#3465a4"><title>Arran (Strathmore)</title></circle></a><a href="/variants/s10/dp60lo2dp10k9lb2k2t2k2y28lo3~x2/"><circle cx="319.6" cy="64.8" r="4" fill="#3465a4"><title>Wcwm 9275-1510-5</title></circle></a><a href="/variants/s20/dp25lb1w1k1y1dp3w1y5dp4k1lb2dp2w1lb1w1dp2lb2dp2k2w5~x2/"><circle cx="289.7" cy="40.0" r="4" fill="#3465a4"><title>Lions</title></circle></a><a href="/variants/s12/dp27y2k3ly2k2w2k2n6dp3k2dp2w2~x2/"><circle cx="259.5" cy="79.0" r="4" fill="#3465a4"><title>Stevens #4</title></circle></a><a href="/variants/s11/db74r6k12y3k3w3r16db8k3r4w3~x2/"><circle cx="319.6" cy="68.5" r="4" fill="#3465a4"><title>Suffolk County Police (Corporate)</title></circle></a><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2~k0504259/"><circle cx="278.6" cy="48.9" r="4" fill="#3465a4"><title>Hudson's Bay Company</title></circle></a><a href="/variants/s14/db72r11k12y2r2w3r2k2r10g18r10k3r3w2~x2/"><circle cx="226.3" cy="34.0" r="4" fill="#3465a4"><title>Unidentified Specimen</title></circle></a><a href="/variants/s11/db20y1o1db3k1n2k1r10k1n2r4~x2/"><circle cx="250.2" cy="82.3" r="4" fill="#3465a4"><title>Blais</title></circle></a><circle cx="313.7" cy="28.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/lb5k1dp5k1g4k1y4k1dp30lbi1k2dp1lb1y1k1~x2~lb3203246-lbi3402028/"><circle cx="310.0" cy="29.1" r="4" fill="#3465a4"><title>House of Holland</title></circle></a><a href="/variants/s11/lb32db12k2y2k2db2lb8dr63k2r2dr9~x2/"><circle cx="287.8" cy="24.4" r="4" fill="#3465a4"><title>Kirk in the Hills Corporate Tartan</title></circle></a><a href="/variants/s14/dp60g4dp4g4dp4k14r2k5r3k3r4k2r5w3~x2/"><circle cx="318.1" cy="45.0" r="4" fill="#3465a4"><title>Arran (Strathmore)</title></circle></a><a href="/variants/s10/dp60lo2dp10k9lb2k2t2k2y28lo3~x2/"><circle cx="319.4" cy="64.8" r="4" fill="#3465a4"><title>Wcwm 9275-1510-5</title></circle></a><a href="/variants/s20/dp25lb1w1k1y1dp3w1y5dp4k1lb2dp2w1lb1w1dp2lb2dp2k2w5~x2/"><circle cx="289.5" cy="40.0" r="4" fill="#3465a4"><title>Lions</title></circle></a><a href="/variants/s12/dp27y2k3ly2k2w2k2n6dp3k2dp2w2~x2/"><circle cx="259.4" cy="79.2" r="4" fill="#3465a4"><title>Stevens #4</title></circle></a><a href="/variants/s11/db74r6k12y3k3w3r16db8k3r4w3~x2/"><circle cx="319.5" cy="68.6" r="4" fill="#3465a4"><title>Suffolk County Police (Corporate)</title></circle></a><a href="/variants/s12/r2k34w2k2n27g1n2k3n2y1n2r2~x2~k0504259/"><circle cx="278.4" cy="48.9" r="4" fill="#3465a4"><title>Hudson's Bay Company</title></circle></a><a href="/variants/s14/db72r11k12y2r2w3r2k2r10g18r10k3r3w2~x2/"><circle cx="226.1" cy="33.9" r="4" fill="#3465a4"><title>Unidentified Specimen</title></circle></a><a href="/variants/s11/db20y1o1db3k1n2k1r10k1n2r4~x2/"><circle cx="250.1" cy="82.3" r="4" fill="#3465a4"><title>Blais</title></circle></a><circle cx="313.5" cy="28.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/lb5k1dp5k1g4k1y4k1dp30r1k2dp1lb1y1k1~x2/

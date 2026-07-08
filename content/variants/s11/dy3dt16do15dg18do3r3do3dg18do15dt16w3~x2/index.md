@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Carinthian National"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy3dt16do15dg18do3r3do3dg18do15dt16w3/)
 (the same proportion at any scale), whose colour order is pattern [GBBGBRBGBBW](/stripes/gbbgbrbgbbw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5042
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5042](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5042)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>

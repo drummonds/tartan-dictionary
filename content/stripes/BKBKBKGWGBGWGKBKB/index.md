@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1/">Arbuthnott</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1/"><img src="/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1/sett.png" alt="Arbuthnott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s17/db18k4db4k4db4k19g7w2g8db8g8w2g7k19db19k4db4~x2/">Arbuthnott</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s17/db18k4db4k4db4k19g7w2g8db8g8w2g7k19db19k4db4~x2/"><img src="/variants/s17/db18k4db4k4db4k19g7w2g8db8g8w2g7k19db19k4db4~x2/sett.png" alt="Arbuthnott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1/">Arbuthnott</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1/"><img src="/variants/s17/db4k1db1k1db1k4g2w1g2db2g2w1g2k4db5k1db1/sett.png" alt="Arbuthnott sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

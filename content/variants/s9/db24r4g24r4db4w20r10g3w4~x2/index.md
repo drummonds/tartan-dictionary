@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/robertson/"
 - name: "Robertson Dress"
   url: "/tartans/robertson-dress/"
+- name: "Robertson, dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db24r4g24r4db4w20r10g3w4/)
 (the same proportion at any scale), whose colour order is pattern [BRGRBWRGW](/stripes/brgrbwrgw/).
@@ -16,7 +18,7 @@ Part of the [Robertson Dress](/tartans/robertson-dress/) tartan — the named de
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -83,8 +85,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db24r4g24r4w20r10g3w4~x2/"><circle cx="117.4" cy="213.0" r="4" fill="#3465a4"><title>Robertson Dress (Dalgleish) #2</title></circle></a><a href="/variants/s8/dg2do8dg8o3do1w12dg2do1~x2/"><circle cx="153.6" cy="189.7" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/variants/s8/o20db2o2db2ly3db12w18db3~x2/"><circle cx="178.0" cy="189.0" r="4" fill="#3465a4"><title>Heriot (Fashion)</title></circle></a><a href="/variants/s7/r4db18r4g19w25r10w4~x2/"><circle cx="125.1" cy="234.8" r="4" fill="#3465a4"><title>Fraser Red Dress Clan Tartan</title></circle></a><a href="/variants/s10/w8g14r6g24db30y10w40y10db7y4/"><circle cx="105.3" cy="187.9" r="4" fill="#3465a4"><title>John, Hamilton Gray</title></circle></a><a href="/variants/s8/db12r2db2r2db2g10w12o3~x2/"><circle cx="115.8" cy="207.7" r="4" fill="#3465a4"><title>Idaho, Centennial</title></circle></a><a href="/variants/s7/db6w10g10r2dy3r1db3~x2/"><circle cx="96.5" cy="204.5" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/variants/s15/w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4~x2/"><circle cx="123.2" cy="173.8" r="4" fill="#3465a4"><title>Robertson, dress hunting</title></circle></a><a href="/variants/s7/db6w10g10r2y3r1db3~x2/"><circle cx="99.8" cy="205.9" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/variants/s9/w4dbi8w1db1g6db3r6db1w4~x2~dbi1605267-db0804274/"><circle cx="68.5" cy="209.3" r="4" fill="#3465a4"><title>Wombles #2</title></circle></a><circle cx="117.4" cy="204.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db24r4g24r4w20r10g3w4~x2/"><circle cx="117.5" cy="213.6" r="4" fill="#3465a4"><title>Robertson Dress (Dalgleish) #2</title></circle></a><a href="/variants/s8/dg2do8dg8o3do1w12dg2do1~x2/"><circle cx="153.7" cy="190.3" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/variants/s8/o20db2o2db2ly3db12w18db3~x2/"><circle cx="178.1" cy="189.6" r="4" fill="#3465a4"><title>Heriot (Fashion)</title></circle></a><a href="/variants/s7/r4db18r4g19w25r10w4~x2/"><circle cx="125.2" cy="235.5" r="4" fill="#3465a4"><title>Fraser Red Dress Clan Tartan</title></circle></a><a href="/variants/s10/w8g14r6g24db30y10w40y10db7y4/"><circle cx="105.3" cy="188.4" r="4" fill="#3465a4"><title>John, Hamilton Gray</title></circle></a><a href="/variants/s8/db12r2db2r2db2g10w12o3~x2/"><circle cx="115.9" cy="208.3" r="4" fill="#3465a4"><title>Idaho, Centennial</title></circle></a><a href="/variants/s7/db6w10g10r2dy3r1db3~x2/"><circle cx="96.6" cy="205.1" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/variants/s15/w4g3r10w20db4r4db26r4g26r4db4w20r10g3w4~x2/"><circle cx="123.2" cy="174.3" r="4" fill="#3465a4"><title>Robertson, dress hunting</title></circle></a><a href="/variants/s7/db6w10g10r2y3r1db3~x2/"><circle cx="99.9" cy="206.5" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/variants/s9/w4dbi8w1db1g6db3r6db1w4~x2~dbi1605267-db0804274/"><circle cx="68.5" cy="209.8" r="4" fill="#3465a4"><title>Wombles #2</title></circle></a><circle cx="117.4" cy="204.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db24r4g24r4db4w20r10g3w4~x2/

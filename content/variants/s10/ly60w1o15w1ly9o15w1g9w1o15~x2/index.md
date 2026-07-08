@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Smith Hunting (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly60w1o15w1ly9o15w1g9w1o15/)
 (the same proportion at any scale), whose colour order is pattern [RWGWRYWRWY](/stripes/rwgwrywrwy/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8590
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8590](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8590)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

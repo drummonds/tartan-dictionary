@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rabbie's Dram (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly60do3ly4r3/)
 (the same proportion at any scale), whose colour order is pattern [RYBY](/stripes/ryby/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7530
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7530)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/ly12w1k2ly1r1~x8/"><circle cx="419.9" cy="159.5" r="4" fill="#3465a4"><title>Lochcarron Camel</title></circle></a><a href="/variants/s5/dr1ly9db2ly9db1~x4/"><circle cx="529.1" cy="256.8" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Camel (Fashio</title></circle></a><a href="/variants/s4/dy10w1dy30y3~x4/"><circle cx="626.0" cy="212.2" r="4" fill="#3465a4"><title>Pasteur</title></circle></a><a href="/variants/s5/ly12w1k2ly1k1~x8/"><circle cx="408.6" cy="157.0" r="4" fill="#3465a4"><title>Lochcarron, Camel (Fashion)</title></circle></a><a href="/variants/s4/ly100dy26dg3dr2~x2~dy1603076/"><circle cx="552.9" cy="156.6" r="4" fill="#3465a4"><title>Canadian Irish Regiment Regimental Tartan</title></circle></a><a href="/variants/s5/r2k3g45k3y2/"><circle cx="513.0" cy="134.7" r="4" fill="#3465a4"><title>Mar Tribe</title></circle></a><a href="/variants/s5/r2k4g45k3y2/"><circle cx="494.1" cy="134.4" r="4" fill="#3465a4"><title>Mar, (Tribe of..)</title></circle></a><a href="/variants/s5/dr2k4g45k3y2~x2/"><circle cx="498.0" cy="136.9" r="4" fill="#3465a4"><title>Mar, Tribe of (Clan)</title></circle></a><a href="/variants/s4/ly24r1w1db1~x11/"><circle cx="626.0" cy="172.4" r="4" fill="#3465a4"><title>Dutch Football (Corporate)</title></circle></a><a href="/variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/"><circle cx="626.0" cy="249.3" r="4" fill="#3465a4"><title>Young in Australia (Name)</title></circle></a><circle cx="626.0" cy="197.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/ly12w1k2ly1r1~x8/"><circle cx="420.0" cy="160.1" r="4" fill="#3465a4"><title>Lochcarron Camel</title></circle></a><a href="/variants/s5/dr1ly9db2ly9db1~x4/"><circle cx="529.3" cy="257.6" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Camel (Fashio</title></circle></a><a href="/variants/s4/dy10w1dy30y3~x4/"><circle cx="626.0" cy="212.5" r="4" fill="#3465a4"><title>Pasteur</title></circle></a><a href="/variants/s5/ly12w1k2ly1k1~x8/"><circle cx="408.7" cy="157.6" r="4" fill="#3465a4"><title>Lochcarron, Camel (Fashion)</title></circle></a><a href="/variants/s4/ly100dy26dg3dr2~x2~dy1603076/"><circle cx="553.0" cy="157.0" r="4" fill="#3465a4"><title>Canadian Irish Regiment Regimental Tartan</title></circle></a><a href="/variants/s5/r2k3g45k3y2/"><circle cx="512.9" cy="135.0" r="4" fill="#3465a4"><title>Mar Tribe</title></circle></a><a href="/variants/s5/r2k4g45k3y2/"><circle cx="494.1" cy="134.8" r="4" fill="#3465a4"><title>Mar, (Tribe of..)</title></circle></a><a href="/variants/s5/dr2k4g45k3y2~x2/"><circle cx="498.0" cy="137.3" r="4" fill="#3465a4"><title>Mar, Tribe of (Clan)</title></circle></a><a href="/variants/s4/ly24r1w1db1~x11/"><circle cx="626.0" cy="172.8" r="4" fill="#3465a4"><title>Dutch Football (Corporate)</title></circle></a><a href="/variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/"><circle cx="626.0" cy="249.7" r="4" fill="#3465a4"><title>Young in Australia (Name)</title></circle></a><circle cx="626.0" cy="198.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/ly60do3ly4r3~x2/

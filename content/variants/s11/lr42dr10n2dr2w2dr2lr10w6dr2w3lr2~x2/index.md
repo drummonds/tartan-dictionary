@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nevis Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lr42dr10n2dr2w2dr2lr10w6dr2w3lr2/)
 (the same proportion at any scale), whose colour order is pattern [YBBBWBYWBWY](/stripes/ybbbwbywbwy/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3109
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3109](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3109)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>

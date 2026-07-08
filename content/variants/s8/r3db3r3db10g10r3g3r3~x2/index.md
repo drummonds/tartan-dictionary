@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Flora MacDonald"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3db3r3db10g10r3g3r3/)
 (the same proportion at any scale), whose colour order is pattern [RBRBGRGR](/stripes/rbrbgrgr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1208
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1208](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1208)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x20/"><circle cx="268.3" cy="244.0" r="4" fill="#3465a4"><title>Lumsden 1797</title></circle></a><a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x14/"><circle cx="268.3" cy="244.0" r="4" fill="#3465a4"><title>Lumsden Boghead</title></circle></a><a href="/variants/s8/r10g14r3db14r10g14r3db4~x2/"><circle cx="192.3" cy="278.1" r="4" fill="#3465a4"><title>Glasgow District Tartan</title></circle></a><a href="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/"><circle cx="86.2" cy="225.9" r="4" fill="#3465a4"><title>Cameron (altered by weaver)</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="228.3" cy="231.4" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s8/r3g6db2dbi2db11g9db2r3~x2~db1204274-dbi1406275/"><circle cx="199.9" cy="242.3" r="4" fill="#3465a4"><title>Daks (Navy)</title></circle></a><a href="/variants/s8/db7r3g7r1g7r3db7lb1~x2/"><circle cx="186.9" cy="244.9" r="4" fill="#3465a4"><title>Hebrides #8</title></circle></a><a href="/variants/s7/db3r25db17r5g22r9db3~x2/"><circle cx="260.2" cy="234.4" r="4" fill="#3465a4"><title>MacFadyan (MacGregor Hastie)</title></circle></a><a href="/variants/s11/g16r12db16r6db4r6db7r20db8g8db12~x2/"><circle cx="191.8" cy="266.1" r="4" fill="#3465a4"><title>Fiddes #2</title></circle></a><a href="/variants/s11/db18g5db6r25db6r5db5r6db18r12g16~x2/"><circle cx="219.7" cy="247.4" r="4" fill="#3465a4"><title>Fiddes (Artefact)</title></circle></a><circle cx="169.8" cy="275.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x20/"><circle cx="268.5" cy="244.7" r="4" fill="#3465a4"><title>Lumsden 1797</title></circle></a><a href="/variants/s9/db1r5db4r1g1r1g4r5g1~x14/"><circle cx="268.5" cy="244.7" r="4" fill="#3465a4"><title>Lumsden Boghead</title></circle></a><a href="/variants/s8/r10g14r3db14r10g14r3db4~x2/"><circle cx="192.5" cy="278.9" r="4" fill="#3465a4"><title>Glasgow District Tartan</title></circle></a><a href="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/"><circle cx="86.2" cy="226.5" r="4" fill="#3465a4"><title>Cameron (altered by weaver)</title></circle></a><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="228.4" cy="231.9" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s8/r3g6db2dbi2db11g9db2r3~x2~db1204274-dbi1406275/"><circle cx="200.0" cy="242.9" r="4" fill="#3465a4"><title>Daks (Navy)</title></circle></a><a href="/variants/s8/db7r3g7r1g7r3db7lb1~x2/"><circle cx="187.1" cy="245.5" r="4" fill="#3465a4"><title>Hebrides #8</title></circle></a><a href="/variants/s7/db3r25db17r5g22r9db3~x2/"><circle cx="260.4" cy="235.0" r="4" fill="#3465a4"><title>MacFadyan (MacGregor Hastie)</title></circle></a><a href="/variants/s11/g16r12db16r6db4r6db7r20db8g8db12~x2/"><circle cx="192.0" cy="266.9" r="4" fill="#3465a4"><title>Fiddes #2</title></circle></a><a href="/variants/s11/db18g5db6r25db6r5db5r6db18r12g16~x2/"><circle cx="219.9" cy="248.1" r="4" fill="#3465a4"><title>Fiddes (Artefact)</title></circle></a><circle cx="170.0" cy="275.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r3db3r3db10g10r3g3r3~x2/

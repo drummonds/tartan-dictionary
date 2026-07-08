@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Vinther, Niels Christian (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n3r14w1k2g2k16db20n1/)
 (the same proportion at any scale), whose colour order is pattern [BBKGKWRB](/stripes/bbkgkwrb/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11539
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11539](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11539)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w2db27k1g3k1n10k1r24w2~x2/"><circle cx="187.9" cy="84.9" r="4" fill="#3465a4"><title>Scotland's Charity Air Ambulance</title></circle></a><a href="/variants/s8/n6k2n23k23w2dp24db3r6~x2/"><circle cx="126.4" cy="150.7" r="4" fill="#3465a4"><title>Culloden Grey</title></circle></a><a href="/variants/s7/dbi4y1r28db25k10dbi5k3~x2~dbi1605267-db1003265/"><circle cx="202.1" cy="128.0" r="4" fill="#3465a4"><title>McKnight (Personal)</title></circle></a><a href="/variants/s11/lb6do1lb2do2lb1do4dp14k4db1k3ly1~x4/"><circle cx="122.0" cy="114.0" r="4" fill="#3465a4"><title>Wcwm 1873-4</title></circle></a><a href="/variants/s8/y3db3k2db18k26r21g2lb3~x2/"><circle cx="125.8" cy="127.1" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/variants/s6/g3k24y1r18db18w1~x2/"><circle cx="155.9" cy="125.4" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/variants/s6/g3k24ly1r18db18w1~x2/"><circle cx="156.4" cy="126.4" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/variants/s8/k6r4k19g4db25r5g3y2~x2/"><circle cx="155.4" cy="149.8" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s8/k6r4k19dg4db25r5dg3y2~x2/"><circle cx="170.2" cy="153.6" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s8/ly3db3k2db18k26r21g2lb3~x2/"><circle cx="121.9" cy="126.0" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><circle cx="139.1" cy="113.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w2db27k1g3k1n10k1r24w2~x2/"><circle cx="187.8" cy="85.0" r="4" fill="#3465a4"><title>Scotland's Charity Air Ambulance</title></circle></a><a href="/variants/s8/n6k2n23k23w2dp24db3r6~x2/"><circle cx="126.3" cy="151.0" r="4" fill="#3465a4"><title>Culloden Grey</title></circle></a><a href="/variants/s7/dbi4y1r28db25k10dbi5k3~x2~dbi1605267-db1003265/"><circle cx="202.1" cy="128.2" r="4" fill="#3465a4"><title>McKnight (Personal)</title></circle></a><a href="/variants/s11/lb6do1lb2do2lb1do4dp14k4db1k3ly1~x4/"><circle cx="121.9" cy="114.2" r="4" fill="#3465a4"><title>Wcwm 1873-4</title></circle></a><a href="/variants/s8/y3db3k2db18k26r21g2lb3~x2/"><circle cx="125.7" cy="127.4" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><a href="/variants/s6/g3k24y1r18db18w1~x2/"><circle cx="155.8" cy="125.7" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/variants/s6/g3k24ly1r18db18w1~x2/"><circle cx="156.3" cy="126.6" r="4" fill="#3465a4"><title>Hegarty, Philip David (Personal)</title></circle></a><a href="/variants/s8/k6r4k19g4db25r5g3y2~x2/"><circle cx="155.4" cy="150.1" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s8/k6r4k19dg4db25r5dg3y2~x2/"><circle cx="170.1" cy="153.9" r="4" fill="#3465a4"><title>Bootneck 350</title></circle></a><a href="/variants/s8/ly3db3k2db18k26r21g2lb3~x2/"><circle cx="121.8" cy="126.3" r="4" fill="#3465a4"><title>Loch Etive</title></circle></a><circle cx="139.0" cy="113.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/n3r14w1k2g2k16db20n1~x2/

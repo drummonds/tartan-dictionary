@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ochterlonie"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b30w7b18w11b6y3/)
 (the same proportion at any scale), whose colour order is pattern [BWBWBG](/stripes/bwbwbg/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db40w8db25w14db8y4~x2/"><circle cx="421.7" cy="235.9" r="4" fill="#3465a4"><title>Auchterlonie (Personal)</title></circle></a><a href="/variants/s6/y1b15w5b1w5b1~x4/"><circle cx="408.8" cy="210.3" r="4" fill="#3465a4"><title>Whitley (Personal)</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.0" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="439.8" cy="223.1" r="4" fill="#3465a4"><title>Ikelman #1 (Personal)</title></circle></a><a href="/variants/s6/lb10n1lb1n10lb18n5~x2/"><circle cx="535.5" cy="275.0" r="4" fill="#3465a4"><title>Harmony 13</title></circle></a><a href="/variants/s5/db37w9db3r9w3~x2/"><circle cx="372.6" cy="197.6" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s6/lb48n28w4n28lb48y3~x2/"><circle cx="434.7" cy="249.0" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress</title></circle></a><a href="/variants/s6/b21y38b20y2b64w6/"><circle cx="535.9" cy="220.2" r="4" fill="#3465a4"><title>European Union</title></circle></a><a href="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/"><circle cx="320.8" cy="180.5" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/"><circle cx="326.6" cy="183.0" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><circle cx="448.5" cy="252.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db40w8db25w14db8y4~x2/"><circle cx="421.8" cy="236.5" r="4" fill="#3465a4"><title>Auchterlonie (Personal)</title></circle></a><a href="/variants/s6/y1b15w5b1w5b1~x4/"><circle cx="408.9" cy="210.8" r="4" fill="#3465a4"><title>Whitley (Personal)</title></circle></a><a href="/variants/s5/db67w10y14db10w2/"><circle cx="504.8" cy="173.3" r="4" fill="#3465a4"><title>St. John (Corporate?)</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="439.9" cy="223.6" r="4" fill="#3465a4"><title>Ikelman #1 (Personal)</title></circle></a><a href="/variants/s6/lb10n1lb1n10lb18n5~x2/"><circle cx="535.7" cy="275.6" r="4" fill="#3465a4"><title>Harmony 13</title></circle></a><a href="/variants/s5/db37w9db3r9w3~x2/"><circle cx="372.6" cy="198.1" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s6/lb48n28w4n28lb48y3~x2/"><circle cx="434.9" cy="249.5" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress</title></circle></a><a href="/variants/s6/b21y38b20y2b64w6/"><circle cx="536.1" cy="220.5" r="4" fill="#3465a4"><title>European Union</title></circle></a><a href="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/"><circle cx="320.8" cy="181.0" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/"><circle cx="326.7" cy="183.5" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><circle cx="448.7" cy="253.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/b30w7b18w11b6y3~x2/

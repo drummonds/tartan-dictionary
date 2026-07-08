@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fujisankei Serene (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o1lb6db4lb1db16n1db4n6lb1/)
 (the same proportion at any scale), whose colour order is pattern [RWBWBBBBW](/stripes/rwbwbbbbw/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5796
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5796](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5796)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r4t12db36w4db4t16w3db6t3~x2/"><circle cx="301.3" cy="180.1" r="4" fill="#3465a4"><title>Callaway (Name)</title></circle></a><a href="/variants/s8/db1r1db10t1db1t5db1w1~x6/"><circle cx="368.6" cy="183.7" r="4" fill="#3465a4"><title>A2 (Personal)</title></circle></a><a href="/variants/s6/db3lb14db3n16db34r3~x2/"><circle cx="311.0" cy="205.7" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="339.8" cy="183.7" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><circle cx="358.9" cy="179.1" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><a href="/variants/s8/db42r2lb2r2db5b12lb32db4~x2/"><circle cx="305.2" cy="151.1" r="4" fill="#3465a4"><title>Longniddry Lavender (Dance)</title></circle></a><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/"><circle cx="326.6" cy="183.0" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s8/db22y2db1y2db10r2g11r6~x2/"><circle cx="346.9" cy="164.1" r="4" fill="#3465a4"><title>Katsushika Scottish Country Dancers</title></circle></a><a href="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/"><circle cx="320.8" cy="180.5" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s7/db120g9r7y12g33y33db26/"><circle cx="373.5" cy="176.9" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><circle cx="356.3" cy="173.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r4t12db36w4db4t16w3db6t3~x2/"><circle cx="301.3" cy="180.5" r="4" fill="#3465a4"><title>Callaway (Name)</title></circle></a><a href="/variants/s8/db1r1db10t1db1t5db1w1~x6/"><circle cx="368.7" cy="184.0" r="4" fill="#3465a4"><title>A2 (Personal)</title></circle></a><a href="/variants/s6/db3lb14db3n16db34r3~x2/"><circle cx="311.1" cy="206.1" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="339.8" cy="184.1" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><circle cx="358.9" cy="179.4" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><a href="/variants/s8/db42r2lb2r2db5b12lb32db4~x2/"><circle cx="305.2" cy="151.4" r="4" fill="#3465a4"><title>Longniddry Lavender (Dance)</title></circle></a><a href="/variants/s10/db20t2w5r2db10t5db20t2w5r5~x2/"><circle cx="326.7" cy="183.5" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s8/db22y2db1y2db10r2g11r6~x2/"><circle cx="346.9" cy="164.4" r="4" fill="#3465a4"><title>Katsushika Scottish Country Dancers</title></circle></a><a href="/variants/s10/db20lb2w5r2db10lb5db20lb2w5r5~x2/"><circle cx="320.8" cy="181.0" r="4" fill="#3465a4"><title>Mortell (Personal)</title></circle></a><a href="/variants/s7/db120g9r7y12g33y33db26/"><circle cx="373.5" cy="177.2" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><circle cx="356.3" cy="174.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/o1lb6db4lb1db16n1db4n6lb1~x4~o2500000-n1900000/

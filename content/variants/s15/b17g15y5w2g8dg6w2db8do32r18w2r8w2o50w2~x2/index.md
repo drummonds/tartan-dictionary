@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Culloden, Worn by Pr Charles"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2/)
 (the same proportion at any scale), whose colour order is pattern [BGGWGGWBBRWRWRW](/stripes/bggwggwbbrwrwrw/).
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r16w4o100w4db34g30y10w3g16b12w4db16do64r26w4/"><circle cx="131.1" cy="69.0" r="4" fill="#3465a4"><title>Stuart / Stewart, Plaid</title></circle></a><a href="/variants/s15/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2~x2/"><circle cx="82.6" cy="63.6" r="4" fill="#3465a4"><title>Culloden Worn by Pr Charles</title></circle></a><a href="/variants/s13/lb17r2w2db9ly2g16w1r6w1dg5ly1y8ly2~x2~ly3307090-g1903114-dg1806142-y2203076/"><circle cx="73.9" cy="115.5" r="4" fill="#3465a4"><title>Okanagan(District)</title></circle></a><a href="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/"><circle cx="124.1" cy="49.0" r="4" fill="#3465a4"><title>Unnamed C18th - Prince Charles Edward</title></circle></a><circle cx="104.6" cy="70.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r16w4o100w4db34g30y10w3g16b12w4db16do64r26w4/"><circle cx="130.9" cy="68.9" r="4" fill="#3465a4"><title>Stuart / Stewart, Plaid</title></circle></a><a href="/variants/s15/lb17g15y5w2g8dp6w2db8do32r18w2r8w2dy50w2~x2/"><circle cx="82.4" cy="63.6" r="4" fill="#3465a4"><title>Culloden Worn by Pr Charles</title></circle></a><a href="/variants/s13/lb17r2w2db9ly2g16w1r6w1dg5ly1y8ly2~x2~ly3307090-g1903114-dg1806142-y2203076/"><circle cx="73.9" cy="115.6" r="4" fill="#3465a4"><title>Okanagan(District)</title></circle></a><a href="/variants/s15/r16w4dy100w4db34g30y10w3g16dp12w4db16do64r26w4~dp1607327/"><circle cx="123.9" cy="48.8" r="4" fill="#3465a4"><title>Unnamed C18th - Prince Charles Edward</title></circle></a><circle cx="104.5" cy="70.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/b17g15y5w2g8dg6w2db8do32r18w2r8w2o50w2~x2/

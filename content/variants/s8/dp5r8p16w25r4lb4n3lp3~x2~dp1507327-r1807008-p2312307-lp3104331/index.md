@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Thompson, Megan Kate (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp5r8p16w25r4lb4n3lp3/)
 (the same proportion at any scale), whose colour order is pattern [BRBWRWBW](/stripes/brbwrwbw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11522
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11522](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11522)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

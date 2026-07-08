@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Skibo"
   url: "/tartans/skibo/"
+- name: "Skibo"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2g23db11dbi22r2/)
 (the same proportion at any scale), whose colour order is pattern [RBBGR](/stripes/rbbgr/).
@@ -14,7 +16,7 @@ Part of the [Skibo](/tartans/skibo/) tartan — the named design grouping this s
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="261.6" cy="241.8" r="4" fill="#3465a4"><title>Skibo (Corporate)</title></circle></a><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="198.7" cy="197.7" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="257.3" cy="258.6" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="258.0" cy="261.8" r="4" fill="#3465a4"><title>Unidentified #4</title></circle></a><a href="/variants/s5/dg35g25r15t2db21~x2/"><circle cx="197.0" cy="229.3" r="4" fill="#3465a4"><title>Dunanas Rising (Corporate)</title></circle></a><a href="/variants/s5/dy16r8t57db56lb8/"><circle cx="224.8" cy="240.3" r="4" fill="#3465a4"><title>Bryson (1988)</title></circle></a><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="186.4" cy="197.0" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s5/r2y1g10db10w1~x6/"><circle cx="225.6" cy="207.7" r="4" fill="#3465a4"><title>Turnbull Hunting (Name)</title></circle></a><a href="/variants/s3/db13r2g13~x2/"><circle cx="266.1" cy="273.7" r="4" fill="#3465a4"><title>Wilson's No.062</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.0" cy="213.1" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><circle cx="237.0" cy="233.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="261.7" cy="242.2" r="4" fill="#3465a4"><title>Skibo (Corporate)</title></circle></a><a href="/variants/s5/k7dr3g30db28lb3~x2/"><circle cx="198.7" cy="198.1" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="257.4" cy="259.2" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="258.1" cy="262.5" r="4" fill="#3465a4"><title>Unidentified #4</title></circle></a><a href="/variants/s5/dg35g25r15t2db21~x2/"><circle cx="197.1" cy="229.7" r="4" fill="#3465a4"><title>Dunanas Rising (Corporate)</title></circle></a><a href="/variants/s5/dy16r8t57db56lb8/"><circle cx="224.9" cy="240.8" r="4" fill="#3465a4"><title>Bryson (1988)</title></circle></a><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="186.4" cy="197.5" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s5/r2y1g10db10w1~x6/"><circle cx="225.7" cy="208.2" r="4" fill="#3465a4"><title>Turnbull Hunting (Name)</title></circle></a><a href="/variants/s3/db13r2g13~x2/"><circle cx="266.3" cy="274.4" r="4" fill="#3465a4"><title>Wilson's No.062</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.0" cy="213.6" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><circle cx="237.1" cy="233.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r2g23db11dbi22r2~x2~db0805267-dbi1604274/

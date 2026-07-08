@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dalziel Rugby Club (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db56k4w1db6k20w2k20/)
 (the same proportion at any scale), whose colour order is pattern [BKWBKWK](/stripes/bkwbkwk/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8472
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8472](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8472)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4w2k28db30k1db3~x2/"><circle cx="350.8" cy="152.9" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s6/k4lb2k28t30k1t3~x2/"><circle cx="311.9" cy="145.5" r="4" fill="#3465a4"><title>Ramsay Blue Hunting</title></circle></a><a href="/variants/s6/k4y1k20t20k1t4~x4/"><circle cx="299.7" cy="165.4" r="4" fill="#3465a4"><title>Oakleigh (Corporate)</title></circle></a><a href="/variants/s6/k7r2k33db33k2db7~x2/"><circle cx="349.4" cy="186.5" r="4" fill="#3465a4"><title>Casterton (Corporate)</title></circle></a><a href="/variants/s6/db52k28w5k3w2k10/"><circle cx="323.6" cy="152.3" r="4" fill="#3465a4"><title>St Andrews, Earl of</title></circle></a><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><circle cx="360.0" cy="132.3" r="4" fill="#3465a4"><title>Pride of Nova Scotia (Corporate)</title></circle></a><a href="/variants/s6/k14db14k14db40k3db2~x2/"><circle cx="453.8" cy="209.2" r="4" fill="#3465a4"><title>Atlin (Fashion)</title></circle></a><a href="/variants/s7/db62k22w3k2w2k3r1~x2/"><circle cx="411.9" cy="81.1" r="4" fill="#3465a4"><title>Tyneside Blue, North Tyneside Pipe Band</title></circle></a><a href="/variants/s7/k2db9k2db9k13w1k2~x4/"><circle cx="303.4" cy="194.1" r="4" fill="#3465a4"><title>Swan 2015, Brian E (Personal)</title></circle></a><a href="/variants/s8/k4w1dp5w1k20db37w4db4~x2/"><circle cx="314.8" cy="106.3" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><circle cx="399.6" cy="124.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4w2k28db30k1db3~x2/"><circle cx="350.8" cy="153.2" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s6/k4lb2k28t30k1t3~x2/"><circle cx="311.9" cy="145.9" r="4" fill="#3465a4"><title>Ramsay Blue Hunting</title></circle></a><a href="/variants/s6/k4y1k20t20k1t4~x4/"><circle cx="299.7" cy="165.8" r="4" fill="#3465a4"><title>Oakleigh (Corporate)</title></circle></a><a href="/variants/s6/k7r2k33db33k2db7~x2/"><circle cx="349.4" cy="186.8" r="4" fill="#3465a4"><title>Casterton (Corporate)</title></circle></a><a href="/variants/s6/db52k28w5k3w2k10/"><circle cx="323.6" cy="152.6" r="4" fill="#3465a4"><title>St Andrews, Earl of</title></circle></a><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><circle cx="360.0" cy="132.6" r="4" fill="#3465a4"><title>Pride of Nova Scotia (Corporate)</title></circle></a><a href="/variants/s6/k14db14k14db40k3db2~x2/"><circle cx="453.8" cy="209.5" r="4" fill="#3465a4"><title>Atlin (Fashion)</title></circle></a><a href="/variants/s7/db62k22w3k2w2k3r1~x2/"><circle cx="411.8" cy="81.1" r="4" fill="#3465a4"><title>Tyneside Blue, North Tyneside Pipe Band</title></circle></a><a href="/variants/s7/k2db9k2db9k13w1k2~x4/"><circle cx="303.4" cy="194.5" r="4" fill="#3465a4"><title>Swan 2015, Brian E (Personal)</title></circle></a><a href="/variants/s8/k4w1dp5w1k20db37w4db4~x2/"><circle cx="314.7" cy="106.5" r="4" fill="#3465a4"><title>Finnie (Personal)</title></circle></a><circle cx="399.5" cy="124.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db56k4w1db6k20w2k20~x2/

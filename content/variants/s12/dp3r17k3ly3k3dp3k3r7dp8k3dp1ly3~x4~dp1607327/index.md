@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bates-Dayton"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp3r17k3ly3k3dp3k3r7dp8k3dp1ly3/)
 (the same proportion at any scale), whose colour order is pattern [BRKYKBKRBKBY](/stripes/brkykbkrbkby/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5260
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5260](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5260)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w8k9y9r21y6k6w4k6y6r49k22w4/"><circle cx="191.3" cy="129.0" r="4" fill="#3465a4"><title>Normandy (Fashion)</title></circle></a><a href="/variants/s8/k4o8m30k8o6k8o12w3~x2/"><circle cx="165.1" cy="170.9" r="4" fill="#3465a4"><title>Believe - Corinna</title></circle></a><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="190.4" cy="142.5" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/variants/s11/w2k35db30k3r30k2r4k2r30k3w2/"><circle cx="213.0" cy="116.0" r="4" fill="#3465a4"><title>Gwyn Welsh Name Tartan</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2~r2609032/"><circle cx="193.0" cy="153.6" r="4" fill="#3465a4"><title>MacNaughton (Logan) #2</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2/"><circle cx="208.5" cy="158.0" r="4" fill="#3465a4"><title>MacNaughton (Clan)</title></circle></a><a href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.9" cy="122.2" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><a href="/variants/s11/db6k3r2k3r31k6dy2k6dy13k2dy2~x2/"><circle cx="216.2" cy="117.3" r="4" fill="#3465a4"><title>Rourke-Frew (Ontario)</title></circle></a><a href="/variants/s13/k2r13k8n2r1k1r21n1r1k2db8k13db2~x2/"><circle cx="237.6" cy="102.3" r="4" fill="#3465a4"><title>Alyssa's Theme</title></circle></a><a href="/variants/s10/r7k3r4k5r25k7y2db22k3db4~x2/"><circle cx="206.0" cy="144.2" r="4" fill="#3465a4"><title>St. George's (Edinburgh) (School)</title></circle></a><circle cx="188.1" cy="130.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w8k9y9r21y6k6w4k6y6r49k22w4/"><circle cx="191.3" cy="129.4" r="4" fill="#3465a4"><title>Normandy (Fashion)</title></circle></a><a href="/variants/s8/k4o8m30k8o6k8o12w3~x2/"><circle cx="165.2" cy="171.4" r="4" fill="#3465a4"><title>Believe - Corinna</title></circle></a><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="190.4" cy="142.9" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/variants/s11/w2k35db30k3r30k2r4k2r30k3w2/"><circle cx="212.9" cy="116.3" r="4" fill="#3465a4"><title>Gwyn Welsh Name Tartan</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2~r2609032/"><circle cx="193.0" cy="154.1" r="4" fill="#3465a4"><title>MacNaughton (Logan) #2</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2/"><circle cx="208.5" cy="158.4" r="4" fill="#3465a4"><title>MacNaughton (Clan)</title></circle></a><a href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.8" cy="122.6" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><a href="/variants/s11/db6k3r2k3r31k6dy2k6dy13k2dy2~x2/"><circle cx="216.1" cy="117.6" r="4" fill="#3465a4"><title>Rourke-Frew (Ontario)</title></circle></a><a href="/variants/s13/k2r13k8n2r1k1r21n1r1k2db8k13db2~x2/"><circle cx="237.5" cy="102.6" r="4" fill="#3465a4"><title>Alyssa's Theme</title></circle></a><a href="/variants/s10/r7k3r4k5r25k7y2db22k3db4~x2/"><circle cx="206.0" cy="144.6" r="4" fill="#3465a4"><title>St. George's (Edinburgh) (School)</title></circle></a><circle cx="188.0" cy="130.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dp3r17k3ly3k3dp3k3r7dp8k3dp1ly3~x4~dp1607327/

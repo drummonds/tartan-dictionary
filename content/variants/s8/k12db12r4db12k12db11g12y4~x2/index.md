@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Montrose of Alabama"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k12db12r4db12k12db11g12y4/)
 (the same proportion at any scale), whose colour order is pattern [GGBKBRBK](/stripes/ggbkbrbk/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3000
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3000](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3000)
 
 ## Provenance
 
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k3db3r1db3k3g3y1~x8/"><circle cx="59.3" cy="275.0" r="4" fill="#3465a4"><title>Melrose of Alabama</title></circle></a><a href="/variants/s9/db16k11db24g10y3g17db15k5r6~x2/"><circle cx="179.6" cy="206.8" r="4" fill="#3465a4"><title>Glackin-McColgan (Personal)</title></circle></a><a href="/variants/s7/k3ki3r1ki3k3b3y1~x8~ki0604259/"><circle cx="61.9" cy="270.4" r="4" fill="#3465a4"><title>Montrose of Alabama</title></circle></a><a href="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/"><circle cx="119.8" cy="200.8" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/variants/s8/g8k7db12r2db12k7g8lb2~x4~db1406275/"><circle cx="116.2" cy="228.4" r="4" fill="#3465a4"><title>Forbo Nairn Corporate Tartan</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3/"><circle cx="75.8" cy="226.9" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3~x2/"><circle cx="75.8" cy="226.9" r="4" fill="#3465a4"><title>Davidson, Double</title></circle></a><a href="/variants/s7/dg21k14dg9b21k3b12dp3~x2/"><circle cx="168.9" cy="235.3" r="4" fill="#3465a4"><title>Scotsman</title></circle></a><a href="/variants/s6/db12y8r5k6db7g5~x4/"><circle cx="82.1" cy="292.9" r="4" fill="#3465a4"><title>Mitchell, Martin (Personal)</title></circle></a><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/"><circle cx="123.7" cy="258.5" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><circle cx="96.1" cy="274.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k3db3r1db3k3g3y1~x8/"><circle cx="59.5" cy="275.7" r="4" fill="#3465a4"><title>Melrose of Alabama</title></circle></a><a href="/variants/s9/db16k11db24g10y3g17db15k5r6~x2/"><circle cx="179.7" cy="207.3" r="4" fill="#3465a4"><title>Glackin-McColgan (Personal)</title></circle></a><a href="/variants/s7/k3ki3r1ki3k3b3y1~x8~ki0604259/"><circle cx="62.0" cy="271.1" r="4" fill="#3465a4"><title>Montrose of Alabama</title></circle></a><a href="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/"><circle cx="119.8" cy="201.3" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/variants/s8/g8k7db12r2db12k7g8lb2~x4~db1406275/"><circle cx="116.3" cy="229.0" r="4" fill="#3465a4"><title>Forbo Nairn Corporate Tartan</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3/"><circle cx="75.8" cy="227.6" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3~x2/"><circle cx="75.8" cy="227.6" r="4" fill="#3465a4"><title>Davidson, Double</title></circle></a><a href="/variants/s7/dg21k14dg9b21k3b12dp3~x2/"><circle cx="168.9" cy="235.8" r="4" fill="#3465a4"><title>Scotsman</title></circle></a><a href="/variants/s6/db12y8r5k6db7g5~x4/"><circle cx="82.3" cy="293.7" r="4" fill="#3465a4"><title>Mitchell, Martin (Personal)</title></circle></a><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/"><circle cx="123.8" cy="259.1" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><circle cx="96.2" cy="274.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k12db12r4db12k12db11g12y4~x2/

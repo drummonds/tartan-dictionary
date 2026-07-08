@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Longniddry Burgundy (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr42ri2w2ri2dr5r12w32dr4/)
 (the same proportion at any scale), whose colour order is pattern [BRWRBRWB](/stripes/brwrbrwb/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2206
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2206](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2206)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r42b2w2b2r5ri12w32r4~x2~r1707016-ri2008029/"><circle cx="292.1" cy="133.0" r="4" fill="#3465a4"><title>Longniddry, dress Burgundy</title></circle></a><a href="/variants/s8/r35db2w2db2r4dr10w25r3~x2/"><circle cx="284.7" cy="139.6" r="4" fill="#3465a4"><title>Longniddry Dress, Red (Dance)</title></circle></a><a href="/variants/s8/r40w40k5w2k6w2k5w6~x2~r2109032-w3602028/"><circle cx="275.6" cy="139.1" r="4" fill="#3465a4"><title>Masai Shuka 14 (Artefact)</title></circle></a><a href="/variants/s9/db2r21db1w4db7w2db2w2r2~x2/"><circle cx="329.2" cy="138.2" r="4" fill="#3465a4"><title>31, Tartan (The.. )</title></circle></a><a href="/variants/s9/w1dr12g2dr2w16dr2g2dr12lo1~x4/"><circle cx="315.5" cy="165.8" r="4" fill="#3465a4"><title>MacFie Dress</title></circle></a><a href="/variants/s8/r56w2db6w2g32r11db6w5/"><circle cx="348.5" cy="130.6" r="4" fill="#3465a4"><title>Spens</title></circle></a><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><circle cx="291.8" cy="158.7" r="4" fill="#3465a4"><title>Harkness</title></circle></a><a href="/variants/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="303.8" cy="154.5" r="4" fill="#3465a4"><title>Jenkins (Name)</title></circle></a><a href="/variants/s7/w8dr5dp10r24w30dr2db2~x2/"><circle cx="219.7" cy="161.6" r="4" fill="#3465a4"><title>Shiel, Claret (Dance)</title></circle></a><a href="/variants/s7/dr3r2db2r30w30db2w3~x2/"><circle cx="286.8" cy="153.3" r="4" fill="#3465a4"><title>Torridon, Cherry (Dance)</title></circle></a><circle cx="283.0" cy="135.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r42b2w2b2r5ri12w32r4~x2~r1707016-ri2008029/"><circle cx="292.1" cy="133.5" r="4" fill="#3465a4"><title>Longniddry, dress Burgundy</title></circle></a><a href="/variants/s8/r35db2w2db2r4dr10w25r3~x2/"><circle cx="284.8" cy="140.1" r="4" fill="#3465a4"><title>Longniddry Dress, Red (Dance)</title></circle></a><a href="/variants/s8/r40w40k5w2k6w2k5w6~x2~r2109032-w3602028/"><circle cx="275.6" cy="139.6" r="4" fill="#3465a4"><title>Masai Shuka 14 (Artefact)</title></circle></a><a href="/variants/s9/db2r21db1w4db7w2db2w2r2~x2/"><circle cx="329.2" cy="138.6" r="4" fill="#3465a4"><title>31, Tartan (The.. )</title></circle></a><a href="/variants/s9/w1dr12g2dr2w16dr2g2dr12lo1~x4/"><circle cx="315.5" cy="166.3" r="4" fill="#3465a4"><title>MacFie Dress</title></circle></a><a href="/variants/s8/r56w2db6w2g32r11db6w5/"><circle cx="348.5" cy="130.9" r="4" fill="#3465a4"><title>Spens</title></circle></a><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><circle cx="291.8" cy="159.1" r="4" fill="#3465a4"><title>Harkness</title></circle></a><a href="/variants/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="303.8" cy="154.9" r="4" fill="#3465a4"><title>Jenkins (Name)</title></circle></a><a href="/variants/s7/w8dr5dp10r24w30dr2db2~x2/"><circle cx="219.7" cy="162.1" r="4" fill="#3465a4"><title>Shiel, Claret (Dance)</title></circle></a><a href="/variants/s7/dr3r2db2r30w30db2w3~x2/"><circle cx="286.8" cy="153.8" r="4" fill="#3465a4"><title>Torridon, Cherry (Dance)</title></circle></a><circle cx="283.0" cy="135.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/

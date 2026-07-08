@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Donachie of Brockloch Ancient Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy10g1k1g1k1g11dy18g1k1g10/)
 (the same proportion at any scale), whose colour order is pattern [GGKGKGGGKG](/stripes/ggkgkgggkg/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6004
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6004](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6004)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k13g3k4g3k3g19ly1g19k3g2ly4~x2/"><circle cx="315.8" cy="148.3" r="4" fill="#3465a4"><title>American Monahan (Personal)</title></circle></a><a href="/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/"><circle cx="336.0" cy="144.1" r="4" fill="#3465a4"><title>Historic Scotland Corporate Tartan</title></circle></a><a href="/variants/s12/y4g24k3g2k3g24y20k3y2k3y20g4/"><circle cx="301.4" cy="187.8" r="4" fill="#3465a4"><title>Meredith of Wales</title></circle></a><a href="/variants/s7/g3dr16g4k6g28dr2g3~x2/"><circle cx="349.7" cy="183.7" r="4" fill="#3465a4"><title>Maxwell Htg (Clan)</title></circle></a><a href="/variants/s7/k3g3k3g21dg21k3g1~x2/"><circle cx="287.5" cy="172.4" r="4" fill="#3465a4"><title>Granite City (Silver Granite) Fashion Tartan</title></circle></a><a href="/variants/s6/dg11y1dg1y6k1y1~x4/"><circle cx="393.8" cy="209.1" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/variants/s6/dg11y1dg1y6k1y1~x8/"><circle cx="393.8" cy="209.1" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/variants/s6/g4k2g28k8dg21g3~x2/"><circle cx="298.7" cy="203.3" r="4" fill="#3465a4"><title>Dunbar Hunting</title></circle></a><a href="/variants/s7/k2dg19g2dg2g19dg2k2~x2/"><circle cx="293.0" cy="189.1" r="4" fill="#3465a4"><title>Hunting Kenmore Trade Com. Tartan</title></circle></a><a href="/variants/s9/y24k2y3k2y3k8g24k2g5~x2/"><circle cx="239.2" cy="178.5" r="4" fill="#3465a4"><title>Jamaican National</title></circle></a><circle cx="346.2" cy="168.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k13g3k4g3k3g19ly1g19k3g2ly4~x2/"><circle cx="315.8" cy="148.7" r="4" fill="#3465a4"><title>American Monahan (Personal)</title></circle></a><a href="/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/"><circle cx="335.9" cy="144.3" r="4" fill="#3465a4"><title>Historic Scotland Corporate Tartan</title></circle></a><a href="/variants/s12/y4g24k3g2k3g24y20k3y2k3y20g4/"><circle cx="301.4" cy="188.2" r="4" fill="#3465a4"><title>Meredith of Wales</title></circle></a><a href="/variants/s7/g3dr16g4k6g28dr2g3~x2/"><circle cx="349.8" cy="184.1" r="4" fill="#3465a4"><title>Maxwell Htg (Clan)</title></circle></a><a href="/variants/s7/k3g3k3g21dg21k3g1~x2/"><circle cx="287.5" cy="172.8" r="4" fill="#3465a4"><title>Granite City (Silver Granite) Fashion Tartan</title></circle></a><a href="/variants/s6/dg11y1dg1y6k1y1~x4/"><circle cx="393.9" cy="209.5" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/variants/s6/dg11y1dg1y6k1y1~x8/"><circle cx="393.9" cy="209.5" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/variants/s6/g4k2g28k8dg21g3~x2/"><circle cx="298.8" cy="203.7" r="4" fill="#3465a4"><title>Dunbar Hunting</title></circle></a><a href="/variants/s7/k2dg19g2dg2g19dg2k2~x2/"><circle cx="293.0" cy="189.5" r="4" fill="#3465a4"><title>Hunting Kenmore Trade Com. Tartan</title></circle></a><a href="/variants/s9/y24k2y3k2y3k8g24k2g5~x2/"><circle cx="239.3" cy="178.9" r="4" fill="#3465a4"><title>Jamaican National</title></circle></a><circle cx="346.2" cy="168.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Summerwood"
   url: "/tartans/summerwood/"
+- name: "Summerwood"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db76w3r4w3g4w3dg8db20lt20db3lt8w10/)
 (the same proportion at any scale), whose colour order is pattern [BWRWGWGBWBWW](/stripes/bwrwgwgbwbww/).
@@ -14,7 +16,7 @@ Part of the [Summerwood](/tartans/summerwood/) tartan — the named design group
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5903
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5903](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5903)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db76w3r4w3g4w3dg8db19lb20db3lb8w10/"><circle cx="313.5" cy="81.5" r="4" fill="#3465a4"><title>Summerwood (School)</title></circle></a><a href="/variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/"><circle cx="339.5" cy="77.4" r="4" fill="#3465a4"><title>Lady Diana Plaid</title></circle></a><a href="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/"><circle cx="316.5" cy="87.0" r="4" fill="#3465a4"><title>Crombie, Harry (Personal)</title></circle></a><a href="/variants/s11/r3w2db2ly1db39ly1db1g2db1lyi15db1~x2~ly2705081-lyi3104101/"><circle cx="369.1" cy="52.1" r="4" fill="#3465a4"><title>Bartlett of El Paso (Name)</title></circle></a><a href="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5b3g2b3db5w4r4/"><circle cx="273.5" cy="55.6" r="4" fill="#3465a4"><title>Cavalry, 7th..</title></circle></a><a href="/variants/s11/y2db26lb3db3r1db3lb7db6lb15w1lb2~x2/"><circle cx="317.9" cy="113.5" r="4" fill="#3465a4"><title>Vilaro-Thomas (Personal)</title></circle></a><a href="/variants/s10/db37dr4w9db2w2ly9db4w2db2dy2~x2/"><circle cx="335.2" cy="123.0" r="4" fill="#3465a4"><title>Stuart/Stewart navy</title></circle></a><a href="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5lp3g2lp3db5w4r4/"><circle cx="270.5" cy="54.0" r="4" fill="#3465a4"><title>Cavalry 7th.. Regimental Tartan</title></circle></a><a href="/variants/s9/y4db8r3db14w18o4g28db58w4/"><circle cx="261.2" cy="121.2" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/variants/s12/w4db8w4lb8w2lb2w4db42r1y2r1db2~x2/"><circle cx="366.2" cy="59.2" r="4" fill="#3465a4"><title>StammBar</title></circle></a><circle cx="312.6" cy="83.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db76w3r4w3g4w3dg8db19lb20db3lb8w10/"><circle cx="313.4" cy="81.6" r="4" fill="#3465a4"><title>Summerwood (School)</title></circle></a><a href="/variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/"><circle cx="339.4" cy="77.4" r="4" fill="#3465a4"><title>Lady Diana Plaid</title></circle></a><a href="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/"><circle cx="316.4" cy="87.1" r="4" fill="#3465a4"><title>Crombie, Harry (Personal)</title></circle></a><a href="/variants/s11/r3w2db2ly1db39ly1db1g2db1lyi15db1~x2~ly2705081-lyi3104101/"><circle cx="368.9" cy="52.1" r="4" fill="#3465a4"><title>Bartlett of El Paso (Name)</title></circle></a><a href="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5b3g2b3db5w4r4/"><circle cx="273.3" cy="55.6" r="4" fill="#3465a4"><title>Cavalry, 7th..</title></circle></a><a href="/variants/s11/y2db26lb3db3r1db3lb7db6lb15w1lb2~x2/"><circle cx="317.9" cy="113.7" r="4" fill="#3465a4"><title>Vilaro-Thomas (Personal)</title></circle></a><a href="/variants/s10/db37dr4w9db2w2ly9db4w2db2dy2~x2/"><circle cx="335.2" cy="123.3" r="4" fill="#3465a4"><title>Stuart/Stewart navy</title></circle></a><a href="/variants/s17/db48w4g3y2w2y2g3w2r8w4db5lp3g2lp3db5w4r4/"><circle cx="270.3" cy="54.0" r="4" fill="#3465a4"><title>Cavalry 7th.. Regimental Tartan</title></circle></a><a href="/variants/s9/y4db8r3db14w18o4g28db58w4/"><circle cx="261.2" cy="121.4" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/variants/s12/w4db8w4lb8w2lb2w4db42r1y2r1db2~x2/"><circle cx="366.1" cy="59.2" r="4" fill="#3465a4"><title>StammBar</title></circle></a><circle cx="312.4" cy="83.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db76w3r4w3g4w3dg8db20lt20db3lt8w10/

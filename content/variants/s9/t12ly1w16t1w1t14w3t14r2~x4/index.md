@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Orlando Dress, City of (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t12ly1w16t1w1t14w3t14r2/)
 (the same proportion at any scale), whose colour order is pattern [BYWBWBWBR](/stripes/bywbwbwbr/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6053
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6053](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6053)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/t4w30r4t3r1t1r1t22w2~x2/"><circle cx="343.4" cy="142.3" r="4" fill="#3465a4"><title>Canna, Saphire (Dance)</title></circle></a><a href="/variants/s8/db16w1db1w1db8g16r1db2~x2/"><circle cx="347.6" cy="167.0" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/variants/s8/w3lb3k3lb21g49lb21k3lb3~x2~g2203152/"><circle cx="298.1" cy="161.3" r="4" fill="#3465a4"><title>Irvine of Drum</title></circle></a><a href="/variants/s8/db23w1db1w1db8g22r1db3~x4/"><circle cx="368.9" cy="149.5" r="4" fill="#3465a4"><title>Roxburgh, Green (District)</title></circle></a><a href="/variants/s11/t6k1ly6k1t28w1k2w1t16w1r5~x2/"><circle cx="415.2" cy="95.4" r="4" fill="#3465a4"><title>Caledonian Railway (Commemorative)</title></circle></a><a href="/variants/s7/lb33r8db12g12lb8db2lb8~x2/"><circle cx="316.7" cy="195.0" r="4" fill="#3465a4"><title>Bermuda Plaid (1947) (District)</title></circle></a><a href="/variants/s6/r3t2w35t35r2g3~x2/"><circle cx="300.9" cy="162.6" r="4" fill="#3465a4"><title>Galloway (Dance)</title></circle></a><a href="/variants/s10/lb18ly9lb18lr2lb2lr2lb18k9lb18lr2/"><circle cx="378.6" cy="192.7" r="4" fill="#3465a4"><title>London Fog Blue 2 (Fashion)</title></circle></a><a href="/variants/s8/db30r3db3y3db3g30db36w5~x2/"><circle cx="340.5" cy="171.6" r="4" fill="#3465a4"><title>De Nardi Hunting (Personal)</title></circle></a><a href="/variants/s13/lb12r4db4lb42r6lb6db11lb6g19lb8r4lb6db6/"><circle cx="307.8" cy="172.2" r="4" fill="#3465a4"><title>Bermuda Blue (1962) (District)</title></circle></a><circle cx="375.4" cy="184.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/t4w30r4t3r1t1r1t22w2~x2/"><circle cx="343.5" cy="142.6" r="4" fill="#3465a4"><title>Canna, Saphire (Dance)</title></circle></a><a href="/variants/s8/db16w1db1w1db8g16r1db2~x2/"><circle cx="347.6" cy="167.3" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/variants/s8/w3lb3k3lb21g49lb21k3lb3~x2~g2203152/"><circle cx="298.1" cy="161.7" r="4" fill="#3465a4"><title>Irvine of Drum</title></circle></a><a href="/variants/s8/db23w1db1w1db8g22r1db3~x4/"><circle cx="368.9" cy="149.8" r="4" fill="#3465a4"><title>Roxburgh, Green (District)</title></circle></a><a href="/variants/s11/t6k1ly6k1t28w1k2w1t16w1r5~x2/"><circle cx="415.1" cy="95.6" r="4" fill="#3465a4"><title>Caledonian Railway (Commemorative)</title></circle></a><a href="/variants/s7/lb33r8db12g12lb8db2lb8~x2/"><circle cx="316.8" cy="195.5" r="4" fill="#3465a4"><title>Bermuda Plaid (1947) (District)</title></circle></a><a href="/variants/s6/r3t2w35t35r2g3~x2/"><circle cx="301.0" cy="163.0" r="4" fill="#3465a4"><title>Galloway (Dance)</title></circle></a><a href="/variants/s10/lb18ly9lb18lr2lb2lr2lb18k9lb18lr2/"><circle cx="378.7" cy="193.3" r="4" fill="#3465a4"><title>London Fog Blue 2 (Fashion)</title></circle></a><a href="/variants/s8/db30r3db3y3db3g30db36w5~x2/"><circle cx="340.5" cy="171.9" r="4" fill="#3465a4"><title>De Nardi Hunting (Personal)</title></circle></a><a href="/variants/s13/lb12r4db4lb42r6lb6db11lb6g19lb8r4lb6db6/"><circle cx="307.8" cy="172.7" r="4" fill="#3465a4"><title>Bermuda Blue (1962) (District)</title></circle></a><circle cx="375.5" cy="185.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/t12ly1w16t1w1t14w3t14r2~x4/

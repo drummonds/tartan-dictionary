@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Spens/Spence"
   url: "/tartans/spens-spence/"
+- name: "Spens/Spence (Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr26w1db10w1dg32dr11db8lb3w1/)
 (the same proportion at any scale), whose colour order is pattern [BWBWGBBWW](/stripes/bwbwgbbww/).
@@ -14,7 +16,7 @@ Part of the [Spens/Spence](/tartans/spens-spence/) tartan — the named design g
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1671
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1671](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1671)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg6r2db1r3db16n20w2~x2/"><circle cx="263.4" cy="170.2" r="4" fill="#3465a4"><title>MacCord (Personal)</title></circle></a><a href="/variants/s9/dg18g2db5dr45lb3db18lb3dr8lbi2~x2~dg1806142-g2408144-lb3103284-lbi3200000/"><circle cx="322.5" cy="140.8" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/variants/s11/g9db2dp2g2dp18g2db2g1db19dr33g2~x2/"><circle cx="328.3" cy="158.1" r="4" fill="#3465a4"><title>Pride of Scotland Autumn</title></circle></a><a href="/variants/s10/w1dg1dr1dg14dr1db6dr11dg1dr1lb1~x4/"><circle cx="331.1" cy="180.9" r="4" fill="#3465a4"><title>Glen Tilt #1 (District)</title></circle></a><a href="/variants/s8/dpi13dg16g4dp1g4dp34y1dp1~x2~dpi1607327-dp1105325/"><circle cx="383.3" cy="153.8" r="4" fill="#3465a4"><title>Heather Mead (Personal)</title></circle></a><a href="/variants/s8/lb4db38g6dr2g6dr36lo2dr3~x2/"><circle cx="310.0" cy="164.1" r="4" fill="#3465a4"><title>Scotland 2000 (Commemorative)</title></circle></a><a href="/variants/s8/dr5y2dr35g6dr2g6db38w4~x2/"><circle cx="301.9" cy="163.9" r="4" fill="#3465a4"><title>Scotland 2000</title></circle></a><a href="/variants/s8/w4db38g6dr2g6dr36y2dr3~x2/"><circle cx="301.0" cy="161.5" r="4" fill="#3465a4"><title>Scotland 2000</title></circle></a><a href="/variants/s7/dr1dg4g1dg3dr4db15w1~x4/"><circle cx="353.6" cy="190.8" r="4" fill="#3465a4"><title>Bressuire</title></circle></a><a href="/variants/s6/dr2dg14lb3dr13ly1dr2~x4/"><circle cx="364.7" cy="222.3" r="4" fill="#3465a4"><title>Swedish Para Whisky Club (Corporate</title></circle></a><circle cx="320.5" cy="161.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg6r2db1r3db16n20w2~x2/"><circle cx="263.4" cy="170.4" r="4" fill="#3465a4"><title>MacCord (Personal)</title></circle></a><a href="/variants/s9/dg18g2db5dr45lb3db18lb3dr8lbi2~x2~dg1806142-g2408144-lb3103284-lbi3200000/"><circle cx="322.4" cy="140.9" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/variants/s11/g9db2dp2g2dp18g2db2g1db19dr33g2~x2/"><circle cx="328.2" cy="158.1" r="4" fill="#3465a4"><title>Pride of Scotland Autumn</title></circle></a><a href="/variants/s10/w1dg1dr1dg14dr1db6dr11dg1dr1lb1~x4/"><circle cx="331.1" cy="181.0" r="4" fill="#3465a4"><title>Glen Tilt #1 (District)</title></circle></a><a href="/variants/s8/dpi13dg16g4dp1g4dp34y1dp1~x2~dpi1607327-dp1105325/"><circle cx="383.3" cy="153.8" r="4" fill="#3465a4"><title>Heather Mead (Personal)</title></circle></a><a href="/variants/s8/lb4db38g6dr2g6dr36lo2dr3~x2/"><circle cx="310.0" cy="164.3" r="4" fill="#3465a4"><title>Scotland 2000 (Commemorative)</title></circle></a><a href="/variants/s8/dr5y2dr35g6dr2g6db38w4~x2/"><circle cx="301.9" cy="164.1" r="4" fill="#3465a4"><title>Scotland 2000</title></circle></a><a href="/variants/s8/w4db38g6dr2g6dr36y2dr3~x2/"><circle cx="301.0" cy="161.7" r="4" fill="#3465a4"><title>Scotland 2000</title></circle></a><a href="/variants/s7/dr1dg4g1dg3dr4db15w1~x4/"><circle cx="353.6" cy="191.0" r="4" fill="#3465a4"><title>Bressuire</title></circle></a><a href="/variants/s6/dr2dg14lb3dr13ly1dr2~x4/"><circle cx="364.8" cy="222.6" r="4" fill="#3465a4"><title>Swedish Para Whisky Club (Corporate</title></circle></a><circle cx="320.5" cy="161.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dr26w1db10w1dg32dr11db8lb3w1~x2/

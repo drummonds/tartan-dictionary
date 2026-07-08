@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Colorado"
   url: "/tartans/colorado/"
+- name: "Colorado"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g32lb3dp3lb3g2k20b17dr3lo4/)
 (the same proportion at any scale), whose colour order is pattern [GWBWGKBBY](/stripes/gwbwgkbby/).
@@ -14,7 +16,7 @@ Part of the [Colorado](/tartans/colorado/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=713
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=713](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=713)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg32lb3lp3lb3dg2k20db17r3y4~x2/"><circle cx="136.0" cy="110.7" r="4" fill="#3465a4"><title>Colorado (District)</title></circle></a><a href="/variants/s11/w3db5lt2db9dp10k2dp5k5dg9g31w2~x2/"><circle cx="104.9" cy="105.0" r="4" fill="#3465a4"><title>Carnegie of Skibo Corporate Tartan</title></circle></a><a href="/variants/s11/w3db5lb2db9dp10k2dp5k2dg8g29w2~x2/"><circle cx="110.8" cy="106.7" r="4" fill="#3465a4"><title>Carnegie of Skibo (Corporate)</title></circle></a><a href="/variants/s10/g9w9k2w2k2y2dg28g2db12g4~x2/"><circle cx="125.8" cy="121.7" r="4" fill="#3465a4"><title>Order of Saint Lazarus</title></circle></a><a href="/variants/s10/g2ly1g13y2g1k12db10r1db1w2~x2/"><circle cx="94.0" cy="109.4" r="4" fill="#3465a4"><title>Bullman (Name)</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~lr2800000-lb3203246/"><circle cx="112.1" cy="153.6" r="4" fill="#3465a4"><title>Alexander of Menstry Htg (Personal)</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~g2203152-lr2800000-lb3203246/"><circle cx="119.8" cy="153.5" r="4" fill="#3465a4"><title>Alexander of Menstry Hunting</title></circle></a><a href="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/"><circle cx="91.9" cy="128.0" r="4" fill="#3465a4"><title>Down County Crest (Fashion)</title></circle></a><a href="/variants/s10/lb9db3g11k7dg3k3dg32r3w3r7~x2~g2408144-dg1806142/"><circle cx="116.4" cy="119.5" r="4" fill="#3465a4"><title>Lyons</title></circle></a><a href="/variants/s12/dy8k3dr6k2g20db4g2db4g5lb4db3w3~x2/"><circle cx="101.5" cy="130.3" r="4" fill="#3465a4"><title>Down County, Crest Range</title></circle></a><circle cx="113.1" cy="107.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg32lb3lp3lb3dg2k20db17r3y4~x2/"><circle cx="135.9" cy="110.8" r="4" fill="#3465a4"><title>Colorado (District)</title></circle></a><a href="/variants/s11/w3db5lt2db9dp10k2dp5k5dg9g31w2~x2/"><circle cx="104.7" cy="105.2" r="4" fill="#3465a4"><title>Carnegie of Skibo Corporate Tartan</title></circle></a><a href="/variants/s11/w3db5lb2db9dp10k2dp5k2dg8g29w2~x2/"><circle cx="110.7" cy="106.8" r="4" fill="#3465a4"><title>Carnegie of Skibo (Corporate)</title></circle></a><a href="/variants/s10/g9w9k2w2k2y2dg28g2db12g4~x2/"><circle cx="125.7" cy="121.9" r="4" fill="#3465a4"><title>Order of Saint Lazarus</title></circle></a><a href="/variants/s10/g2ly1g13y2g1k12db10r1db1w2~x2/"><circle cx="93.9" cy="109.6" r="4" fill="#3465a4"><title>Bullman (Name)</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~lr2800000-lb3203246/"><circle cx="112.1" cy="154.0" r="4" fill="#3465a4"><title>Alexander of Menstry Htg (Personal)</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~g2203152-lr2800000-lb3203246/"><circle cx="119.8" cy="153.9" r="4" fill="#3465a4"><title>Alexander of Menstry Hunting</title></circle></a><a href="/variants/s12/ly8k3dr6k2g20db4g2db4g5lb4db3w3~x2/"><circle cx="91.9" cy="128.2" r="4" fill="#3465a4"><title>Down County Crest (Fashion)</title></circle></a><a href="/variants/s10/lb9db3g11k7dg3k3dg32r3w3r7~x2~g2408144-dg1806142/"><circle cx="116.3" cy="119.8" r="4" fill="#3465a4"><title>Lyons</title></circle></a><a href="/variants/s12/dy8k3dr6k2g20db4g2db4g5lb4db3w3~x2/"><circle cx="101.4" cy="130.6" r="4" fill="#3465a4"><title>Down County, Crest Range</title></circle></a><circle cx="113.0" cy="108.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g32lb3dp3lb3g2k20b17dr3lo4~x2~lb3300000-b2603265/

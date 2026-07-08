@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Ulster"
   url: "/tartans/ulster/"
+- name: "Ulster"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g13k1g13r1g1k1g1k1r13k1y1k1/)
 (the same proportion at any scale), whose colour order is pattern [GKGRGKGKRKGK](/stripes/gkgrgkgkrkgk/).
@@ -14,7 +16,7 @@ Part of the [Ulster](/tartans/ulster/) tartan — the named design grouping this
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g10k1g10dr1g1k1g1k1dr10k1lo1k1~x4/"><circle cx="275.5" cy="145.7" r="4" fill="#3465a4"><title>Ulster Red (District)</title></circle></a><a href="/variants/s10/g2k1g14r2g2k10g2r4k1w2~x4/"><circle cx="214.8" cy="139.6" r="4" fill="#3465a4"><title>MacCarthy (Fashion?)</title></circle></a><a href="/variants/s15/g3k1g1r12g1r1g1k4g1lb2g15k1g1k1g3~x4/"><circle cx="261.8" cy="110.1" r="4" fill="#3465a4"><title>Hickey (Name)</title></circle></a><a href="/variants/s7/g3dr16g4k6g28dr2g3~x2/"><circle cx="349.7" cy="183.7" r="4" fill="#3465a4"><title>Maxwell Htg (Clan)</title></circle></a><a href="/variants/s10/y28k2y28k2y2k2ly29k2r2k2~x2/"><circle cx="311.4" cy="133.1" r="4" fill="#3465a4"><title>Ulster Irish District Tartan</title></circle></a><a href="/variants/s9/db5r19k2g8r3g18k2g9k2~x2/"><circle cx="233.5" cy="180.0" r="4" fill="#3465a4"><title>Hubbard (2016)</title></circle></a><a href="/variants/s11/k3g3y2g30k2g3r12g6lp6k3g3~x2/"><circle cx="287.9" cy="118.8" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/variants/s10/y28k2y28k2y2k2dy29k2r2k2~x2/"><circle cx="340.6" cy="140.5" r="4" fill="#3465a4"><title>Ulster (Peat) (District</title></circle></a><a href="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="266.8" cy="135.5" r="4" fill="#3465a4"><title>Ronald, Clan (Clan)</title></circle></a><a href="/variants/s11/y30r2y2k5y3dy2y3dy22y3k2y3~x2/"><circle cx="345.0" cy="134.9" r="4" fill="#3465a4"><title>Dunbarton Trade Tartan</title></circle></a><circle cx="299.7" cy="125.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g10k1g10dr1g1k1g1k1dr10k1lo1k1~x4/"><circle cx="275.5" cy="146.0" r="4" fill="#3465a4"><title>Ulster Red (District)</title></circle></a><a href="/variants/s10/g2k1g14r2g2k10g2r4k1w2~x4/"><circle cx="214.7" cy="140.0" r="4" fill="#3465a4"><title>MacCarthy (Fashion?)</title></circle></a><a href="/variants/s15/g3k1g1r12g1r1g1k4g1lb2g15k1g1k1g3~x4/"><circle cx="261.8" cy="110.4" r="4" fill="#3465a4"><title>Hickey (Name)</title></circle></a><a href="/variants/s7/g3dr16g4k6g28dr2g3~x2/"><circle cx="349.8" cy="184.1" r="4" fill="#3465a4"><title>Maxwell Htg (Clan)</title></circle></a><a href="/variants/s10/y28k2y28k2y2k2ly29k2r2k2~x2/"><circle cx="311.4" cy="133.5" r="4" fill="#3465a4"><title>Ulster Irish District Tartan</title></circle></a><a href="/variants/s9/db5r19k2g8r3g18k2g9k2~x2/"><circle cx="233.5" cy="180.5" r="4" fill="#3465a4"><title>Hubbard (2016)</title></circle></a><a href="/variants/s11/k3g3y2g30k2g3r12g6lp6k3g3~x2/"><circle cx="287.8" cy="119.1" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/variants/s10/y28k2y28k2y2k2dy29k2r2k2~x2/"><circle cx="340.6" cy="140.8" r="4" fill="#3465a4"><title>Ulster (Peat) (District</title></circle></a><a href="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="266.8" cy="135.8" r="4" fill="#3465a4"><title>Ronald, Clan (Clan)</title></circle></a><a href="/variants/s11/y30r2y2k5y3dy2y3dy22y3k2y3~x2/"><circle cx="345.0" cy="135.1" r="4" fill="#3465a4"><title>Dunbarton Trade Tartan</title></circle></a><circle cx="299.6" cy="125.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/g13k1g13r1g1k1g1k1r13k1y1k1~x3/

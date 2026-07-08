@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Leach, Leech, Leitch, hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b32w1k3w1g14b7k3dr3w1/)
 (the same proportion at any scale), whose colour order is pattern [BWKWGBKBW](/stripes/bwkwgbkbw/).
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="330.4" cy="124.1" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="301.1" cy="94.4" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><a href="/variants/s11/db48dp2db5dp2db7g2w3g5k4w1g26~x2/"><circle cx="335.7" cy="68.0" r="4" fill="#3465a4"><title>Spirit of West Lothian</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.9" cy="117.7" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><a href="/variants/s7/db4r2db39k11g2w16r2~x2~r2109032/"><circle cx="256.2" cy="118.7" r="4" fill="#3465a4"><title>Sinclair Dress Personal Tartan</title></circle></a><a href="/variants/s7/db4r2db39k11g2w16r2~x2/"><circle cx="256.1" cy="118.6" r="4" fill="#3465a4"><title>Sinclair, The Jack</title></circle></a><a href="/variants/s10/t106r3t4r6t8k28g8w4g12k8/"><circle cx="340.9" cy="70.9" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/variants/s10/o4b2k4b40k3b3k4b3g13b4~x2/"><circle cx="363.1" cy="117.8" r="4" fill="#3465a4"><title>Galway</title></circle></a><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/"><circle cx="353.3" cy="93.9" r="4" fill="#3465a4"><title>European Union (Fashion)</title></circle></a><a href="/variants/s10/db46w1k3lb4k3t3k2t11k1lb2~x2~db1404245-t2308259/"><circle cx="359.9" cy="61.1" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><circle cx="327.5" cy="96.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="330.3" cy="124.3" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/variants/s9/r3g2k9b2k2b24y2b2y1~x2/"><circle cx="301.0" cy="94.6" r="4" fill="#3465a4"><title>Bell of the Borders.</title></circle></a><a href="/variants/s11/db48dp2db5dp2db7g2w3g5k4w1g26~x2/"><circle cx="335.5" cy="68.0" r="4" fill="#3465a4"><title>Spirit of West Lothian</title></circle></a><a href="/variants/s7/db4dr2db40k11g2w16dr2~x2/"><circle cx="261.8" cy="118.0" r="4" fill="#3465a4"><title>Jack Sinclair (Personal)</title></circle></a><a href="/variants/s7/db4r2db39k11g2w16r2~x2~r2109032/"><circle cx="256.1" cy="119.0" r="4" fill="#3465a4"><title>Sinclair Dress Personal Tartan</title></circle></a><a href="/variants/s7/db4r2db39k11g2w16r2~x2/"><circle cx="256.0" cy="118.9" r="4" fill="#3465a4"><title>Sinclair, The Jack</title></circle></a><a href="/variants/s10/t106r3t4r6t8k28g8w4g12k8/"><circle cx="340.7" cy="71.0" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/variants/s10/o4b2k4b40k3b3k4b3g13b4~x2/"><circle cx="363.0" cy="118.0" r="4" fill="#3465a4"><title>Galway</title></circle></a><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/"><circle cx="353.2" cy="94.0" r="4" fill="#3465a4"><title>European Union (Fashion)</title></circle></a><a href="/variants/s10/db46w1k3lb4k3t3k2t11k1lb2~x2~db1404245-t2308259/"><circle cx="359.7" cy="61.1" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><circle cx="327.4" cy="96.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/b32w1k3w1g14b7k3dr3w1~x2/

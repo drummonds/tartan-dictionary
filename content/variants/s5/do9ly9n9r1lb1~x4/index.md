@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Jardine #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do9ly9n9r1lb1/)
 (the same proportion at any scale), whose colour order is pattern [BYBRW](/stripes/bybrw/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1882
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1882](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1882)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db30r3w10g14r3o30~x2/"><circle cx="147.5" cy="205.0" r="4" fill="#3465a4"><title>Cercle de Fermières Varennes</title></circle></a><a href="/variants/s6/dy19g23ly3db15r11w5~x2/"><circle cx="91.7" cy="229.6" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="96.4" cy="230.7" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.2" cy="189.5" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/variants/s7/db24r27g20y6g20r2lb3~x2/"><circle cx="195.7" cy="203.5" r="4" fill="#3465a4"><title>Buchanhaven Heritage</title></circle></a><a href="/variants/s6/r10dbi6g24db24r6y3~dbi1406275-db1004274/"><circle cx="163.1" cy="226.3" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><a href="/variants/s4/g9o7w7r1~x4/"><circle cx="189.0" cy="275.1" r="4" fill="#3465a4"><title>MacKinnon, dress</title></circle></a><a href="/variants/s5/k1dr9n8y8w1~x2/"><circle cx="194.9" cy="232.5" r="4" fill="#3465a4"><title>Pople (Name)</title></circle></a><a href="/variants/s7/dg8b6dg48w31o42g6o8/"><circle cx="158.6" cy="201.9" r="4" fill="#3465a4"><title>Bannockbane, Green</title></circle></a><a href="/variants/s5/y25r10g10db11w2~x2/"><circle cx="226.2" cy="228.0" r="4" fill="#3465a4"><title>Samye</title></circle></a><circle cx="169.4" cy="234.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db30r3w10g14r3o30~x2/"><circle cx="147.6" cy="205.5" r="4" fill="#3465a4"><title>Cercle de Fermières Varennes</title></circle></a><a href="/variants/s6/dy19g23ly3db15r11w5~x2/"><circle cx="91.8" cy="230.2" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="96.5" cy="231.3" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.3" cy="190.0" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/variants/s7/db24r27g20y6g20r2lb3~x2/"><circle cx="195.7" cy="203.9" r="4" fill="#3465a4"><title>Buchanhaven Heritage</title></circle></a><a href="/variants/s6/r10dbi6g24db24r6y3~dbi1406275-db1004274/"><circle cx="163.2" cy="226.8" r="4" fill="#3465a4"><title>Canine All Dogs (Fashion)</title></circle></a><a href="/variants/s4/g9o7w7r1~x4/"><circle cx="189.2" cy="275.8" r="4" fill="#3465a4"><title>MacKinnon, dress</title></circle></a><a href="/variants/s5/k1dr9n8y8w1~x2/"><circle cx="195.0" cy="233.0" r="4" fill="#3465a4"><title>Pople (Name)</title></circle></a><a href="/variants/s7/dg8b6dg48w31o42g6o8/"><circle cx="158.7" cy="202.4" r="4" fill="#3465a4"><title>Bannockbane, Green</title></circle></a><a href="/variants/s5/y25r10g10db11w2~x2/"><circle cx="226.4" cy="228.5" r="4" fill="#3465a4"><title>Samye</title></circle></a><circle cx="169.5" cy="235.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/do9ly9n9r1lb1~x4/

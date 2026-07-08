@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hueg (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r10k10r4g2r2k2r4g12db12g3db4/)
 (the same proportion at any scale), whose colour order is pattern [BGBGRKRGRKR](/stripes/bgbgrkrgrkr/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10523
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10523](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10523)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db8r2db2r4db10r2k11g10r4g2r2g8~x2/"><circle cx="83.9" cy="207.8" r="4" fill="#3465a4"><title>MacDonald #6</title></circle></a><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><circle cx="108.9" cy="183.8" r="4" fill="#3465a4"><title>Unidentified Sample #2</title></circle></a><a href="/variants/s13/k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1~x4/"><circle cx="85.0" cy="199.9" r="4" fill="#3465a4"><title>Franklin (District)</title></circle></a><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4/"><circle cx="99.1" cy="179.4" r="4" fill="#3465a4"><title>Bonnar (Name)</title></circle></a><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="93.0" cy="210.2" r="4" fill="#3465a4"><title>Borthwick Hunting</title></circle></a><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4~db1406275/"><circle cx="100.5" cy="179.2" r="4" fill="#3465a4"><title>Bonner or Bonnar</title></circle></a><a href="/variants/s12/db8r2db2r3db12r2k12g12r3g2r2g8/"><circle cx="100.8" cy="195.9" r="4" fill="#3465a4"><title>MacDonald MINI Design Tartan</title></circle></a><a href="/variants/s9/k4r14t2dg16r3k3r3t12dg4~x2/"><circle cx="138.7" cy="194.4" r="4" fill="#3465a4"><title>Crook</title></circle></a><a href="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/"><circle cx="86.2" cy="225.9" r="4" fill="#3465a4"><title>Cameron (altered by weaver)</title></circle></a><a href="/variants/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/"><circle cx="55.2" cy="178.8" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><circle cx="86.6" cy="202.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db8r2db2r4db10r2k11g10r4g2r2g8~x2/"><circle cx="83.9" cy="208.3" r="4" fill="#3465a4"><title>MacDonald #6</title></circle></a><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><circle cx="108.9" cy="184.3" r="4" fill="#3465a4"><title>Unidentified Sample #2</title></circle></a><a href="/variants/s13/k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1~x4/"><circle cx="85.1" cy="200.5" r="4" fill="#3465a4"><title>Franklin (District)</title></circle></a><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4/"><circle cx="99.1" cy="179.9" r="4" fill="#3465a4"><title>Bonnar (Name)</title></circle></a><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="93.1" cy="210.8" r="4" fill="#3465a4"><title>Borthwick Hunting</title></circle></a><a href="/variants/s13/r13k2r3g10r5k3r3k12db2k3db2k3db12~x4~db1406275/"><circle cx="100.5" cy="179.7" r="4" fill="#3465a4"><title>Bonner or Bonnar</title></circle></a><a href="/variants/s12/db8r2db2r3db12r2k12g12r3g2r2g8/"><circle cx="100.8" cy="196.4" r="4" fill="#3465a4"><title>MacDonald MINI Design Tartan</title></circle></a><a href="/variants/s9/k4r14t2dg16r3k3r3t12dg4~x2/"><circle cx="138.7" cy="194.9" r="4" fill="#3465a4"><title>Crook</title></circle></a><a href="/variants/s10/db7r3db9r2k10g9r3g2r2g7~x2/"><circle cx="86.2" cy="226.5" r="4" fill="#3465a4"><title>Cameron (altered by weaver)</title></circle></a><a href="/variants/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/"><circle cx="55.2" cy="179.3" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><circle cx="86.7" cy="202.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r10k10r4g2r2k2r4g12db12g3db4~x2/

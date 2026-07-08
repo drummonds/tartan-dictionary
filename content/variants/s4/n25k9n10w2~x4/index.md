@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Graham Grey - 1820 (Fashion?)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n25k9n10w2/)
 (the same proportion at any scale), whose colour order is pattern [BKBW](/stripes/bkbw/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8858
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8858](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8858)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/n10k2db2dp1~x5/"><circle cx="387.8" cy="210.6" r="4" fill="#3465a4"><title>Lord Willy's (Corporate)</title></circle></a><a href="/variants/s4/n25k5db5dp3~x2/"><circle cx="375.8" cy="219.5" r="4" fill="#3465a4"><title>Lord Willy's (New York)</title></circle></a><a href="/variants/s5/k27w29k5w14r2~x2/"><circle cx="275.9" cy="198.6" r="4" fill="#3465a4"><title>McPartlin (Personal)</title></circle></a><a href="/variants/s3/dr8w1k1~x20/"><circle cx="472.2" cy="218.9" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/variants/s4/k62n24ly5w8~x2/"><circle cx="303.5" cy="185.1" r="4" fill="#3465a4"><title>Perry, Alex (Personal)</title></circle></a><a href="/variants/s5/k5w25r6k45w4~x2/"><circle cx="288.1" cy="184.8" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/variants/s4/k62n24y5w3~x2/"><circle cx="362.6" cy="161.6" r="4" fill="#3465a4"><title>Perry (Calgary), Alex (Personal)</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="304.2" cy="151.4" r="4" fill="#3465a4"><title>St. Piran Cornish Flag</title></circle></a><a href="/variants/s5/k37w9k3dg9w3~x2/"><circle cx="331.4" cy="177.3" r="4" fill="#3465a4"><title>Glen Coe Trade Tartan</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="395.2" cy="189.6" r="4" fill="#3465a4"><title>Bacon, Red (Fashion)</title></circle></a><circle cx="431.7" cy="222.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/n10k2db2dp1~x5/"><circle cx="387.9" cy="211.1" r="4" fill="#3465a4"><title>Lord Willy's (Corporate)</title></circle></a><a href="/variants/s4/n25k5db5dp3~x2/"><circle cx="375.9" cy="220.0" r="4" fill="#3465a4"><title>Lord Willy's (New York)</title></circle></a><a href="/variants/s5/k27w29k5w14r2~x2/"><circle cx="276.0" cy="199.3" r="4" fill="#3465a4"><title>McPartlin (Personal)</title></circle></a><a href="/variants/s3/dr8w1k1~x20/"><circle cx="472.4" cy="219.6" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/variants/s4/k62n24ly5w8~x2/"><circle cx="303.5" cy="185.6" r="4" fill="#3465a4"><title>Perry, Alex (Personal)</title></circle></a><a href="/variants/s5/k5w25r6k45w4~x2/"><circle cx="288.1" cy="185.5" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/variants/s4/k62n24y5w3~x2/"><circle cx="362.6" cy="162.1" r="4" fill="#3465a4"><title>Perry (Calgary), Alex (Personal)</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="304.1" cy="151.9" r="4" fill="#3465a4"><title>St. Piran Cornish Flag</title></circle></a><a href="/variants/s5/k37w9k3dg9w3~x2/"><circle cx="331.4" cy="177.9" r="4" fill="#3465a4"><title>Glen Coe Trade Tartan</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="395.3" cy="190.1" r="4" fill="#3465a4"><title>Bacon, Red (Fashion)</title></circle></a><circle cx="431.8" cy="223.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/n25k9n10w2~x4/

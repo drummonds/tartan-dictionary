@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Inverness Cathedral (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r72db6y1db12k4w1n4w1k5/)
 (the same proportion at any scale), whose colour order is pattern [KWBWKBGBR](/stripes/kwbwkbgbr/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7642
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7642](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7642)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r87db8k11y2k3w2k3g13r11k2r5w3/"><circle cx="379.1" cy="14.0" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal</title></circle></a><a href="/variants/s12/r134lb10k14y2k3w3k3dg21r11k3r4w2/"><circle cx="411.8" cy="14.0" r="4" fill="#3465a4"><title>Royal Stewart - 1819</title></circle></a><a href="/variants/s12/r70w2r1w4r1k2db9k1y2r1g9w3~x2/"><circle cx="411.2" cy="14.0" r="4" fill="#3465a4"><title>Brittish Lions Corporate Tartan</title></circle></a><a href="/variants/s13/r60k1r2y1g6db6r2o3r2db6g6y1k5~x2/"><circle cx="381.5" cy="14.0" r="4" fill="#3465a4"><title>Day (2016)</title></circle></a><a href="/variants/s8/r70k2y1dg18r10k4lb4w1~x2/"><circle cx="443.5" cy="37.3" r="4" fill="#3465a4"><title>MacIngust</title></circle></a><a href="/variants/s8/ri64k10y4r5w2k2db3y4~x2~ri2109032-r1807008/"><circle cx="390.4" cy="49.2" r="4" fill="#3465a4"><title>Conroy Family Tartan</title></circle></a><a href="/variants/s12/r66db2k11y4k2w4k11g2r8k2r8w2/"><circle cx="352.6" cy="23.3" r="4" fill="#3465a4"><title>TIlted Kilt</title></circle></a><a href="/variants/s8/ri64k10y4r5w2k2db3y4~x2~ri2008029-r1707016/"><circle cx="393.1" cy="50.5" r="4" fill="#3465a4"><title>Conroy</title></circle></a><a href="/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/"><circle cx="350.4" cy="22.7" r="4" fill="#3465a4"><title>Tilted Kilt (Corporate)</title></circle></a><a href="/variants/s6/db12k1r70k1g12k1~x2/"><circle cx="480.1" cy="80.9" r="4" fill="#3465a4"><title>Lawers Estate</title></circle></a><circle cx="400.2" cy="21.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r87db8k11y2k3w2k3g13r11k2r5w3/"><circle cx="378.9" cy="14.0" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal</title></circle></a><a href="/variants/s12/r134lb10k14y2k3w3k3dg21r11k3r4w2/"><circle cx="411.6" cy="14.0" r="4" fill="#3465a4"><title>Royal Stewart - 1819</title></circle></a><a href="/variants/s12/r70w2r1w4r1k2db9k1y2r1g9w3~x2/"><circle cx="411.0" cy="14.0" r="4" fill="#3465a4"><title>Brittish Lions Corporate Tartan</title></circle></a><a href="/variants/s13/r60k1r2y1g6db6r2o3r2db6g6y1k5~x2/"><circle cx="381.3" cy="14.0" r="4" fill="#3465a4"><title>Day (2016)</title></circle></a><a href="/variants/s8/r70k2y1dg18r10k4lb4w1~x2/"><circle cx="443.4" cy="37.4" r="4" fill="#3465a4"><title>MacIngust</title></circle></a><a href="/variants/s8/ri64k10y4r5w2k2db3y4~x2~ri2109032-r1807008/"><circle cx="390.2" cy="49.3" r="4" fill="#3465a4"><title>Conroy Family Tartan</title></circle></a><a href="/variants/s12/r66db2k11y4k2w4k11g2r8k2r8w2/"><circle cx="352.4" cy="23.3" r="4" fill="#3465a4"><title>TIlted Kilt</title></circle></a><a href="/variants/s8/ri64k10y4r5w2k2db3y4~x2~ri2008029-r1707016/"><circle cx="392.9" cy="50.6" r="4" fill="#3465a4"><title>Conroy</title></circle></a><a href="/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/"><circle cx="350.3" cy="22.8" r="4" fill="#3465a4"><title>Tilted Kilt (Corporate)</title></circle></a><a href="/variants/s6/db12k1r70k1g12k1~x2/"><circle cx="480.0" cy="81.1" r="4" fill="#3465a4"><title>Lawers Estate</title></circle></a><circle cx="400.0" cy="21.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r72db6y1db12k4w1n4w1k5~x2/

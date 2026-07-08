@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/douglas/"
 - name: "Douglas"
   url: "/tartans/douglas-3/"
+- name: "Douglas, Grey (Vestiarium Scoticum)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k10n1k2n1k4n10k1n2/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKBK](/stripes/bkbkbkbk/).
@@ -16,7 +18,7 @@ Part of the [Douglas](/tartans/douglas-3/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=957
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=957](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=957)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k9n1k2n1k4n9k1n2~x4/"><circle cx="322.8" cy="205.8" r="4" fill="#3465a4"><title>Douglas, Grey Clan/Family Tartan</title></circle></a><a href="/variants/s8/k16n1k1n1k8n16k1n2~x2/"><circle cx="357.7" cy="169.4" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s8/k16w1k1w1k8w16k1w2~x2/"><circle cx="329.7" cy="165.9" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s8/k1w8k8w1k8w4k4w1~x2/"><circle cx="296.9" cy="223.1" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s8/k24n18k11n4k11n18k53n4/"><circle cx="402.7" cy="195.1" r="4" fill="#3465a4"><title>Spirit of Glyndwr Grey (Fashion)</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="289.5" cy="185.4" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/variants/s8/k13n1k1n1k4n10y1n1~x6/"><circle cx="325.7" cy="161.8" r="4" fill="#3465a4"><title>West Point</title></circle></a><a href="/variants/s9/n14k19n14k6n14k6n14k47n6/"><circle cx="309.2" cy="217.1" r="4" fill="#3465a4"><title>Grey Breton</title></circle></a><a href="/variants/s7/k17n4k13n4k3n45k3~x2/"><circle cx="363.8" cy="170.6" r="4" fill="#3465a4"><title>Black Spirit Fashion Tartan</title></circle></a><a href="/variants/s8/k24n18k11n4k11n18k53ly4/"><circle cx="373.1" cy="179.5" r="4" fill="#3465a4"><title>Spirit of Glyndwr Gold (Fashion)</title></circle></a><circle cx="327.9" cy="198.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k9n1k2n1k4n9k1n2~x4/"><circle cx="322.8" cy="206.4" r="4" fill="#3465a4"><title>Douglas, Grey Clan/Family Tartan</title></circle></a><a href="/variants/s8/k16n1k1n1k8n16k1n2~x2/"><circle cx="357.7" cy="169.9" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s8/k16w1k1w1k8w16k1w2~x2/"><circle cx="329.7" cy="166.4" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s8/k1w8k8w1k8w4k4w1~x2/"><circle cx="297.0" cy="223.9" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s8/k24n18k11n4k11n18k53n4/"><circle cx="402.8" cy="195.6" r="4" fill="#3465a4"><title>Spirit of Glyndwr Grey (Fashion)</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="289.5" cy="185.9" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/variants/s8/k13n1k1n1k4n10y1n1~x6/"><circle cx="325.7" cy="162.2" r="4" fill="#3465a4"><title>West Point</title></circle></a><a href="/variants/s9/n14k19n14k6n14k6n14k47n6/"><circle cx="309.3" cy="217.7" r="4" fill="#3465a4"><title>Grey Breton</title></circle></a><a href="/variants/s7/k17n4k13n4k3n45k3~x2/"><circle cx="363.8" cy="171.1" r="4" fill="#3465a4"><title>Black Spirit Fashion Tartan</title></circle></a><a href="/variants/s8/k24n18k11n4k11n18k53ly4/"><circle cx="373.1" cy="179.9" r="4" fill="#3465a4"><title>Spirit of Glyndwr Gold (Fashion)</title></circle></a><circle cx="327.9" cy="198.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k10n1k2n1k4n10k1n2~x4/

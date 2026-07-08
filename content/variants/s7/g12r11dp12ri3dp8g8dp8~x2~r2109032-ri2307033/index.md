@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fiddes (Corrected)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g12r11dp12ri3dp8g8dp8/)
 (the same proportion at any scale), whose colour order is pattern [BGBRBRG](/stripes/bgbrbrg/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1178
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1178](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1178)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r4dg4r1db4r4~x12~dg1605139/"><circle cx="186.8" cy="301.0" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/variants/s6/g3dp3w1dp3g3r1~x4/"><circle cx="165.6" cy="304.2" r="4" fill="#3465a4"><title>Wilson's No.113</title></circle></a><a href="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/"><circle cx="198.5" cy="270.3" r="4" fill="#3465a4"><title>Torana</title></circle></a><a href="/variants/s5/r4db4r1g4r4~x6/"><circle cx="241.6" cy="315.2" r="4" fill="#3465a4"><title>MacGowan</title></circle></a><a href="/variants/s5/r4db4r1g4r4~x2/"><circle cx="241.6" cy="315.2" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/variants/s5/r4db4r1g4r4/"><circle cx="241.6" cy="315.2" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/variants/s5/r5dp5r1g5r5~x8~dp1607327/"><circle cx="205.7" cy="288.8" r="4" fill="#3465a4"><title>Gow (Portrait)</title></circle></a><a href="/variants/s6/dg14db8dg14r14k3r14~x2/"><circle cx="168.4" cy="275.6" r="4" fill="#3465a4"><title>Tulsa, City of</title></circle></a><a href="/variants/s5/r4dg4r1db4r4~x4/"><circle cx="250.1" cy="315.4" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/variants/s5/dp3k3dp3g6r2~x2/"><circle cx="96.3" cy="298.0" r="4" fill="#3465a4"><title>Austin (Wilson's No 137)</title></circle></a><circle cx="187.8" cy="302.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r4dg4r1db4r4~x12~dg1605139/"><circle cx="187.0" cy="301.8" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/variants/s6/g3dp3w1dp3g3r1~x4/"><circle cx="165.8" cy="305.1" r="4" fill="#3465a4"><title>Wilson's No.113</title></circle></a><a href="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/"><circle cx="198.7" cy="271.0" r="4" fill="#3465a4"><title>Torana</title></circle></a><a href="/variants/s5/r4db4r1g4r4~x6/"><circle cx="241.9" cy="316.1" r="4" fill="#3465a4"><title>MacGowan</title></circle></a><a href="/variants/s5/r4db4r1g4r4~x2/"><circle cx="241.9" cy="316.1" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/variants/s5/r4db4r1g4r4/"><circle cx="241.9" cy="316.1" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/variants/s5/r5dp5r1g5r5~x8~dp1607327/"><circle cx="205.9" cy="289.6" r="4" fill="#3465a4"><title>Gow (Portrait)</title></circle></a><a href="/variants/s6/dg14db8dg14r14k3r14~x2/"><circle cx="168.6" cy="276.4" r="4" fill="#3465a4"><title>Tulsa, City of</title></circle></a><a href="/variants/s5/r4dg4r1db4r4~x4/"><circle cx="250.4" cy="316.3" r="4" fill="#3465a4"><title>Gow</title></circle></a><a href="/variants/s5/dp3k3dp3g6r2~x2/"><circle cx="96.5" cy="298.9" r="4" fill="#3465a4"><title>Austin (Wilson's No 137)</title></circle></a><circle cx="188.1" cy="303.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g12r11dp12ri3dp8g8dp8~x2~r2109032-ri2307033/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Elgin District Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do5lo4do26ly26do4ly3w5/)
 (the same proportion at any scale), whose colour order is pattern [BYBYBYW](/stripes/bybybyw/).
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2196
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2196](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2196)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/do2lo2do15lo1w10ly15lo2ly2~x2/"><circle cx="232.9" cy="205.6" r="4" fill="#3465a4"><title>Bannockbane Orange Stripes</title></circle></a><a href="/variants/s8/ly22do2ly2do2ly2do15w17do3~x2/"><circle cx="270.1" cy="226.9" r="4" fill="#3465a4"><title>Turnberry Manx Snaefell Family Tartan</title></circle></a><a href="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/"><circle cx="238.2" cy="236.6" r="4" fill="#3465a4"><title>Baillie Dress</title></circle></a><a href="/variants/s5/do2n10ly15do10n2~x4/"><circle cx="268.0" cy="294.6" r="4" fill="#3465a4"><title>Harmony 8</title></circle></a><a href="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/"><circle cx="291.9" cy="248.9" r="4" fill="#3465a4"><title>Heil, Rudiger (Personal)</title></circle></a><a href="/variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/"><circle cx="272.5" cy="215.9" r="4" fill="#3465a4"><title>Snaefell (District)</title></circle></a><a href="/variants/s4/lb6do28lo20lb3~x2/"><circle cx="323.3" cy="278.6" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/variants/s10/dr5w2g3w2dr10g10dr2w1dr2dg1~x4/"><circle cx="272.5" cy="202.3" r="4" fill="#3465a4"><title>Glenfinnan (Fashion)</title></circle></a><circle cx="294.9" cy="226.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/do2lo2do15lo1w10ly15lo2ly2~x2/"><circle cx="233.0" cy="206.1" r="4" fill="#3465a4"><title>Bannockbane Orange Stripes</title></circle></a><a href="/variants/s8/ly22do2ly2do2ly2do15w17do3~x2/"><circle cx="270.3" cy="227.6" r="4" fill="#3465a4"><title>Turnberry Manx Snaefell Family Tartan</title></circle></a><a href="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/"><circle cx="238.4" cy="237.3" r="4" fill="#3465a4"><title>Baillie Dress</title></circle></a><a href="/variants/s5/do2n10ly15do10n2~x4/"><circle cx="268.3" cy="295.3" r="4" fill="#3465a4"><title>Harmony 8</title></circle></a><a href="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/"><circle cx="292.0" cy="249.5" r="4" fill="#3465a4"><title>Heil, Rudiger (Personal)</title></circle></a><a href="/variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/"><circle cx="272.6" cy="216.5" r="4" fill="#3465a4"><title>Snaefell (District)</title></circle></a><a href="/variants/s4/lb6do28lo20lb3~x2/"><circle cx="323.5" cy="279.4" r="4" fill="#3465a4"><title>Prince of Orange</title></circle></a><a href="/variants/s10/dr5w2g3w2dr10g10dr2w1dr2dg1~x4/"><circle cx="272.6" cy="202.8" r="4" fill="#3465a4"><title>Glenfinnan (Fashion)</title></circle></a><circle cx="295.0" cy="227.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/do5lo4do26ly26do4ly3w5~x2/

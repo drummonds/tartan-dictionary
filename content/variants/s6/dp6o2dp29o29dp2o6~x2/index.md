@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harmony, 11"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp6o2dp29o29dp2o6/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBR](/stripes/brbrbr/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db3o3db24o30db3o2~x2/"><circle cx="415.4" cy="212.3" r="4" fill="#3465a4"><title>Auburn University (Alabama)</title></circle></a><a href="/variants/s6/do44o3do4w3do4o44~x2/"><circle cx="413.7" cy="205.7" r="4" fill="#3465a4"><title>Wcwm 1166-2</title></circle></a><a href="/variants/s6/r16dg1r1dg1r4dg12~x2/"><circle cx="439.8" cy="202.1" r="4" fill="#3465a4"><title>MacQuarrie 7</title></circle></a><a href="/variants/s6/dr32r3dr3r2dr3r23~x2/"><circle cx="494.5" cy="215.1" r="4" fill="#3465a4"><title>Samye Sangha #2</title></circle></a><a href="/variants/s8/y6p2y24p6y2p21y2p6~x2/"><circle cx="442.6" cy="238.4" r="4" fill="#3465a4"><title>MacLachlan (Chief's Dress) Blue</title></circle></a><a href="/variants/s6/dg6r1dg24r28dg1r4~x2/"><circle cx="421.5" cy="184.3" r="4" fill="#3465a4"><title>Erskine (Vestiarium Scoticum)</title></circle></a><a href="/variants/s6/r16db6r2dg6r2db1~x2/"><circle cx="386.7" cy="192.7" r="4" fill="#3465a4"><title>MacKintosh Plaid</title></circle></a><circle cx="432.7" cy="227.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db3o3db24o30db3o2~x2/"><circle cx="415.5" cy="212.8" r="4" fill="#3465a4"><title>Auburn University (Alabama)</title></circle></a><a href="/variants/s6/do44o3do4w3do4o44~x2/"><circle cx="413.8" cy="206.1" r="4" fill="#3465a4"><title>Wcwm 1166-2</title></circle></a><a href="/variants/s6/r16dg1r1dg1r4dg12~x2/"><circle cx="439.9" cy="202.6" r="4" fill="#3465a4"><title>MacQuarrie 7</title></circle></a><a href="/variants/s6/dr32r3dr3r2dr3r23~x2/"><circle cx="494.6" cy="215.5" r="4" fill="#3465a4"><title>Samye Sangha #2</title></circle></a><a href="/variants/s8/y6p2y24p6y2p21y2p6~x2/"><circle cx="442.8" cy="238.9" r="4" fill="#3465a4"><title>MacLachlan (Chief's Dress) Blue</title></circle></a><a href="/variants/s6/dg6r1dg24r28dg1r4~x2/"><circle cx="421.6" cy="184.8" r="4" fill="#3465a4"><title>Erskine (Vestiarium Scoticum)</title></circle></a><a href="/variants/s6/r16db6r2dg6r2db1~x2/"><circle cx="386.7" cy="193.2" r="4" fill="#3465a4"><title>MacKintosh Plaid</title></circle></a><circle cx="432.9" cy="227.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dp6o2dp29o29dp2o6~x2/

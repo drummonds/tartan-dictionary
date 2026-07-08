@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fraser"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2/)
 (the same proportion at any scale), whose colour order is pattern [WGWGWRWGWGWRWRW](/stripes/wgwgwrwgwgwrwrw/).
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/"><circle cx="293.4" cy="198.5" r="4" fill="#3465a4"><title>Major, Frazer</title></circle></a><a href="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/"><circle cx="319.1" cy="204.2" r="4" fill="#3465a4"><title>Fraser of Castle Leathers, Major James</title></circle></a><a href="/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/"><circle cx="384.8" cy="192.5" r="4" fill="#3465a4"><title>Princess Marina</title></circle></a><a href="/variants/s12/g21r3g21db5g3r30g3db5g21r3g21db2~x2/"><circle cx="396.8" cy="191.3" r="4" fill="#3465a4"><title>Scottish Piping Society of London</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x4~db1204274/"><circle cx="320.0" cy="194.6" r="4" fill="#3465a4"><title>Skene #2</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/"><circle cx="414.6" cy="160.9" r="4" fill="#3465a4"><title>Rothesay Hunting Family Tartan</title></circle></a><a href="/variants/s12/dr3lg8dr2lg18dp5lg3o3lg3o16lg3o3lg3~x2/"><circle cx="286.5" cy="193.8" r="4" fill="#3465a4"><title>Dublin Irish County Tartan</title></circle></a><a href="/variants/s17/w8g83r7g5r7g7r28g7r28g7r7g5r7g83w4g4w8/"><circle cx="424.4" cy="128.6" r="4" fill="#3465a4"><title>Rothesay Hunting (District)</title></circle></a><a href="/variants/s8/g34r4g4r4g4r12g20w5~x2/"><circle cx="395.8" cy="200.3" r="4" fill="#3465a4"><title>Leeds, University of (Dance) #1</title></circle></a><a href="/variants/s11/g22r4g22r22g2r3g2r3g2r3y2~x2/"><circle cx="393.3" cy="190.6" r="4" fill="#3465a4"><title>MacRea / MacRae</title></circle></a><circle cx="357.9" cy="173.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/"><circle cx="293.5" cy="199.0" r="4" fill="#3465a4"><title>Major, Frazer</title></circle></a><a href="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/"><circle cx="319.2" cy="204.7" r="4" fill="#3465a4"><title>Fraser of Castle Leathers, Major James</title></circle></a><a href="/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/"><circle cx="384.9" cy="193.0" r="4" fill="#3465a4"><title>Princess Marina</title></circle></a><a href="/variants/s12/g21r3g21db5g3r30g3db5g21r3g21db2~x2/"><circle cx="396.9" cy="191.8" r="4" fill="#3465a4"><title>Scottish Piping Society of London</title></circle></a><a href="/variants/s7/db6r3g1r3g12r3g1~x4~db1204274/"><circle cx="320.1" cy="195.0" r="4" fill="#3465a4"><title>Skene #2</title></circle></a><a href="/variants/s10/g4r16g4r2g3r2g32w2g2w3~x2/"><circle cx="414.6" cy="161.3" r="4" fill="#3465a4"><title>Rothesay Hunting Family Tartan</title></circle></a><a href="/variants/s12/dr3lg8dr2lg18dp5lg3o3lg3o16lg3o3lg3~x2/"><circle cx="286.6" cy="194.3" r="4" fill="#3465a4"><title>Dublin Irish County Tartan</title></circle></a><a href="/variants/s17/w8g83r7g5r7g7r28g7r28g7r7g5r7g83w4g4w8/"><circle cx="424.4" cy="128.9" r="4" fill="#3465a4"><title>Rothesay Hunting (District)</title></circle></a><a href="/variants/s8/g34r4g4r4g4r12g20w5~x2/"><circle cx="395.9" cy="200.8" r="4" fill="#3465a4"><title>Leeds, University of (Dance) #1</title></circle></a><a href="/variants/s11/g22r4g22r22g2r3g2r3g2r3y2~x2/"><circle cx="393.4" cy="191.0" r="4" fill="#3465a4"><title>MacRea / MacRae</title></circle></a><circle cx="357.9" cy="173.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/

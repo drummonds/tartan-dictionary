@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glasgow, City of District Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg28r4k25r22dg27r4k2/)
 (the same proportion at any scale), whose colour order is pattern [GRKRGRK](/stripes/grkrgrk/).
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=515
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=515](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=515)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/"><circle cx="227.3" cy="176.3" r="4" fill="#3465a4"><title>McInery (Personal)</title></circle></a><a href="/variants/s7/k14r6k2r6dg25r6k2~x2/"><circle cx="218.1" cy="183.4" r="4" fill="#3465a4"><title>Logan - 1810 (Cockburn Collection)</title></circle></a><a href="/variants/s7/k15r4k1r4dg15r4k1~x4/"><circle cx="214.5" cy="173.9" r="4" fill="#3465a4"><title>Logan (Dark)</title></circle></a><a href="/variants/s9/dr4k12w1dg6dr3k1dr3w1dr3~x4/"><circle cx="196.5" cy="172.9" r="4" fill="#3465a4"><title>Unidentified #58</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.8" cy="200.6" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2~n1900000/"><circle cx="196.4" cy="173.0" r="4" fill="#3465a4"><title>Ardmore</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2/"><circle cx="195.3" cy="172.7" r="4" fill="#3465a4"><title>Ardmore (Fashion)</title></circle></a><a href="/variants/s6/k3g13k10dr13k2dr3~x2/"><circle cx="172.7" cy="243.4" r="4" fill="#3465a4"><title>MacCormick (Dress)</title></circle></a><a href="/variants/s6/k6y1k6y9r1y2~x2/"><circle cx="250.6" cy="213.9" r="4" fill="#3465a4"><title>MacLeod #3</title></circle></a><a href="/variants/s9/k1db1dg16r16k12db8dg16db1k1~x2/"><circle cx="213.5" cy="161.7" r="4" fill="#3465a4"><title>MacNett</title></circle></a><circle cx="252.4" cy="199.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/"><circle cx="227.3" cy="176.7" r="4" fill="#3465a4"><title>McInery (Personal)</title></circle></a><a href="/variants/s7/k14r6k2r6dg25r6k2~x2/"><circle cx="218.1" cy="183.9" r="4" fill="#3465a4"><title>Logan - 1810 (Cockburn Collection)</title></circle></a><a href="/variants/s7/k15r4k1r4dg15r4k1~x4/"><circle cx="214.5" cy="174.4" r="4" fill="#3465a4"><title>Logan (Dark)</title></circle></a><a href="/variants/s9/dr4k12w1dg6dr3k1dr3w1dr3~x4/"><circle cx="196.5" cy="173.2" r="4" fill="#3465a4"><title>Unidentified #58</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.9" cy="201.2" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2~n1900000/"><circle cx="196.4" cy="173.5" r="4" fill="#3465a4"><title>Ardmore</title></circle></a><a href="/variants/s8/k21o2k8w2o16n6k2n8~x2/"><circle cx="195.3" cy="173.2" r="4" fill="#3465a4"><title>Ardmore (Fashion)</title></circle></a><a href="/variants/s6/k3g13k10dr13k2dr3~x2/"><circle cx="172.8" cy="244.1" r="4" fill="#3465a4"><title>MacCormick (Dress)</title></circle></a><a href="/variants/s6/k6y1k6y9r1y2~x2/"><circle cx="250.7" cy="214.6" r="4" fill="#3465a4"><title>MacLeod #3</title></circle></a><a href="/variants/s9/k1db1dg16r16k12db8dg16db1k1~x2/"><circle cx="213.4" cy="162.0" r="4" fill="#3465a4"><title>MacNett</title></circle></a><circle cx="252.5" cy="200.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dg28r4k25r22dg27r4k2~x2/

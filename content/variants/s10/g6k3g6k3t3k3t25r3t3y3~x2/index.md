@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Borders Health Board (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6k3g6k3t3k3t25r3t3y3/)
 (the same proportion at any scale), whose colour order is pattern [GBRBKBKGKG](/stripes/gbrbkbkgkg/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3954
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3954](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3954)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r2db8k1g2k1g4k1g2k1db8y2~x2/"><circle cx="194.4" cy="167.0" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/variants/s11/dr2db8k1g2k1g4k1g2k1db8lo2~x2/"><circle cx="189.0" cy="165.5" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/variants/s12/g10k1g10db1g1k1g1k1db10k1lo1dr1~x4/"><circle cx="253.9" cy="134.6" r="4" fill="#3465a4"><title>Old Dobbs County (District)</title></circle></a><a href="/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/"><circle cx="174.4" cy="164.7" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/variants/s9/g5db24g7k10g24y2db2y2r2~x2/"><circle cx="204.5" cy="154.5" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s11/y3g3r2g16k2db24k2g16r2g3lb3~x2/"><circle cx="210.5" cy="128.3" r="4" fill="#3465a4"><title>Loch Tay</title></circle></a><a href="/variants/s11/ly3g3dr2g16k2db24k2g16dr2g3lb3~x2/"><circle cx="207.7" cy="128.5" r="4" fill="#3465a4"><title>Loch Tay (District)</title></circle></a><a href="/variants/s9/g5db24g7k10g24dy2db2dy2r2~x2/"><circle cx="205.9" cy="154.8" r="4" fill="#3465a4"><title>Maitland Chief</title></circle></a><a href="/variants/s12/db8g8k1r1ly1db2g2k1r1ly1db8g8~x4/"><circle cx="182.6" cy="164.1" r="4" fill="#3465a4"><title>Chieftain's (Corporate)</title></circle></a><a href="/variants/s10/b12w2b7g15k2g4k2g15b2k7~x2/"><circle cx="197.7" cy="198.0" r="4" fill="#3465a4"><title>Smeaton</title></circle></a><circle cx="229.0" cy="155.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r2db8k1g2k1g4k1g2k1db8y2~x2/"><circle cx="194.4" cy="167.3" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/variants/s11/dr2db8k1g2k1g4k1g2k1db8lo2~x2/"><circle cx="189.0" cy="165.9" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/variants/s12/g10k1g10db1g1k1g1k1db10k1lo1dr1~x4/"><circle cx="253.9" cy="134.9" r="4" fill="#3465a4"><title>Old Dobbs County (District)</title></circle></a><a href="/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/"><circle cx="174.4" cy="165.2" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/variants/s9/g5db24g7k10g24y2db2y2r2~x2/"><circle cx="204.5" cy="154.8" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s11/y3g3r2g16k2db24k2g16r2g3lb3~x2/"><circle cx="210.5" cy="128.5" r="4" fill="#3465a4"><title>Loch Tay</title></circle></a><a href="/variants/s11/ly3g3dr2g16k2db24k2g16dr2g3lb3~x2/"><circle cx="207.6" cy="128.8" r="4" fill="#3465a4"><title>Loch Tay (District)</title></circle></a><a href="/variants/s9/g5db24g7k10g24dy2db2dy2r2~x2/"><circle cx="205.9" cy="155.1" r="4" fill="#3465a4"><title>Maitland Chief</title></circle></a><a href="/variants/s12/db8g8k1r1ly1db2g2k1r1ly1db8g8~x4/"><circle cx="182.6" cy="164.5" r="4" fill="#3465a4"><title>Chieftain's (Corporate)</title></circle></a><a href="/variants/s10/b12w2b7g15k2g4k2g15b2k7~x2/"><circle cx="197.8" cy="198.6" r="4" fill="#3465a4"><title>Smeaton</title></circle></a><circle cx="229.0" cy="155.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g6k3g6k3t3k3t25r3t3y3~x2/

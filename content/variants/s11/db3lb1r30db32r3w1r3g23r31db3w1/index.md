@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacDonald of Glenaladale"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3lb1r30db32r3w1r3g23r31db3w1/)
 (the same proportion at any scale), whose colour order is pattern [BWRBRWRGRBW](/stripes/bwrbrwrgrbw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2358
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2358](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2358)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db2r49db51r9w2r9g51r49db2~x2/"><circle cx="310.1" cy="150.2" r="4" fill="#3465a4"><title>Unidentified #20</title></circle></a><a href="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/"><circle cx="255.2" cy="167.4" r="4" fill="#3465a4"><title>Glenaladale</title></circle></a><a href="/variants/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="303.8" cy="154.5" r="4" fill="#3465a4"><title>Jenkins (Name)</title></circle></a><a href="/variants/s8/lo5db1r2db4r36db22w4y2~x2/"><circle cx="313.8" cy="101.4" r="4" fill="#3465a4"><title>Aberdeen F.C. Corporate Tartan</title></circle></a><a href="/variants/s11/r3db1r1g21r3db18r35db1y1r4g1/"><circle cx="340.9" cy="104.1" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s14/r4lb2r50db26r10g44b4r10b4g44r51db2r4lb2~x2/"><circle cx="298.2" cy="115.9" r="4" fill="#3465a4"><title>MacQuarrie 1</title></circle></a><a href="/variants/s18/db16r1db2r3db1r9db1r3db2r1db6g3lb3g5r28w3r3w3~x2/"><circle cx="284.0" cy="77.5" r="4" fill="#3465a4"><title>Bahrain, Royal</title></circle></a><a href="/variants/s9/g18b2db5r45dbi3db18dbi3r5w2~db0805267-dbi1604274/"><circle cx="257.9" cy="107.2" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/variants/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="319.4" cy="136.2" r="4" fill="#3465a4"><title>Carrick (Clan)</title></circle></a><a href="/variants/s15/r12dp2r4dp4r39lb2r4dp11r6g4r6g45r4dp4db10/"><circle cx="282.1" cy="105.4" r="4" fill="#3465a4"><title>Grant or New Bruce</title></circle></a><circle cx="300.6" cy="105.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db2r49db51r9w2r9g51r49db2~x2/"><circle cx="310.1" cy="150.6" r="4" fill="#3465a4"><title>Unidentified #20</title></circle></a><a href="/variants/s10/db28r26w2db5w2r26g28r5w2r5~x2/"><circle cx="255.2" cy="167.9" r="4" fill="#3465a4"><title>Glenaladale</title></circle></a><a href="/variants/s10/db2r30g8r3g8r6db4r3db12w2~x2/"><circle cx="303.8" cy="154.9" r="4" fill="#3465a4"><title>Jenkins (Name)</title></circle></a><a href="/variants/s8/lo5db1r2db4r36db22w4y2~x2/"><circle cx="313.7" cy="101.6" r="4" fill="#3465a4"><title>Aberdeen F.C. Corporate Tartan</title></circle></a><a href="/variants/s11/r3db1r1g21r3db18r35db1y1r4g1/"><circle cx="340.9" cy="104.3" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s14/r4lb2r50db26r10g44b4r10b4g44r51db2r4lb2~x2/"><circle cx="298.2" cy="116.1" r="4" fill="#3465a4"><title>MacQuarrie 1</title></circle></a><a href="/variants/s18/db16r1db2r3db1r9db1r3db2r1db6g3lb3g5r28w3r3w3~x2/"><circle cx="283.9" cy="77.6" r="4" fill="#3465a4"><title>Bahrain, Royal</title></circle></a><a href="/variants/s9/g18b2db5r45dbi3db18dbi3r5w2~db0805267-dbi1604274/"><circle cx="257.8" cy="107.4" r="4" fill="#3465a4"><title>MacNiven</title></circle></a><a href="/variants/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="319.4" cy="136.4" r="4" fill="#3465a4"><title>Carrick (Clan)</title></circle></a><a href="/variants/s15/r12dp2r4dp4r39lb2r4dp11r6g4r6g45r4dp4db10/"><circle cx="282.1" cy="105.6" r="4" fill="#3465a4"><title>Grant or New Bruce</title></circle></a><circle cx="300.6" cy="105.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db3lb1r30db32r3w1r3g23r31db3w1/

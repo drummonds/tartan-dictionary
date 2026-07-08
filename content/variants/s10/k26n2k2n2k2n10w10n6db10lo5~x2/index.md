@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Collister (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k26n2k2n2k2n10w10n6db10lo5/)
 (the same proportion at any scale), whose colour order is pattern [KBKBKBWBBY](/stripes/kbkbkbwbby/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=712
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=712](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=712)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k4b1k12w1b4w1dg4w1dr4dg12k1w2~x2/"><circle cx="125.6" cy="134.3" r="4" fill="#3465a4"><title>Glenfalloch</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="132.3" cy="149.7" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/variants/s9/lr18k3lr4lb3lr4k19n20k2r4~x2~lr2800000-n1700000/"><circle cx="113.3" cy="157.8" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s13/db4k6db10k20g4y3g4k20w4db4w20db2w3/"><circle cx="126.3" cy="140.2" r="4" fill="#3465a4"><title>Gordon Dress MINI design Tartan</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17g18ly4~x2/"><circle cx="131.9" cy="162.9" r="4" fill="#3465a4"><title>Scotch House 2000 Original</title></circle></a><a href="/variants/s12/w4k2t9k3dp3k3dp3k23g10k2dp6w2~x2/"><circle cx="155.4" cy="128.2" r="4" fill="#3465a4"><title>Auld Lang Syne, Blue (Fashion)</title></circle></a><a href="/variants/s8/db15k2w2k2w2k16n22y2~x4/"><circle cx="143.4" cy="155.9" r="4" fill="#3465a4"><title>Sneddon, Jonathan Taylor (Personal)</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/"><circle cx="120.7" cy="137.7" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1/"><circle cx="120.7" cy="137.7" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1g1y2~x2/"><circle cx="132.6" cy="129.6" r="4" fill="#3465a4"><title>Logan and MacLennan</title></circle></a><circle cx="131.1" cy="137.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k4b1k12w1b4w1dg4w1dr4dg12k1w2~x2/"><circle cx="125.5" cy="134.6" r="4" fill="#3465a4"><title>Glenfalloch</title></circle></a><a href="/variants/s9/r7db2g5k24db2g10db28g10w3~x2/"><circle cx="132.3" cy="150.1" r="4" fill="#3465a4"><title>Colgan (Personal)</title></circle></a><a href="/variants/s9/lr18k3lr4lb3lr4k19n20k2r4~x2~lr2800000-n1700000/"><circle cx="113.3" cy="158.2" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s13/db4k6db10k20g4y3g4k20w4db4w20db2w3/"><circle cx="126.3" cy="140.6" r="4" fill="#3465a4"><title>Gordon Dress MINI design Tartan</title></circle></a><a href="/variants/s8/db22r3db2r3db2k17g18ly4~x2/"><circle cx="131.9" cy="163.3" r="4" fill="#3465a4"><title>Scotch House 2000 Original</title></circle></a><a href="/variants/s12/w4k2t9k3dp3k3dp3k23g10k2dp6w2~x2/"><circle cx="155.3" cy="128.5" r="4" fill="#3465a4"><title>Auld Lang Syne, Blue (Fashion)</title></circle></a><a href="/variants/s8/db15k2w2k2w2k16n22y2~x4/"><circle cx="143.4" cy="156.2" r="4" fill="#3465a4"><title>Sneddon, Jonathan Taylor (Personal)</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/"><circle cx="120.6" cy="138.0" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1/"><circle cx="120.6" cy="138.0" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1g1y2~x2/"><circle cx="132.5" cy="129.8" r="4" fill="#3465a4"><title>Logan and MacLennan</title></circle></a><circle cx="131.1" cy="137.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k26n2k2n2k2n10w10n6db10lo5~x2/

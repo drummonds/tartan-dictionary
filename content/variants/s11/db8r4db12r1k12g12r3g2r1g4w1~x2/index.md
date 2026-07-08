@@ -10,6 +10,8 @@ crumbs:
   url: "/families/macdonell-of-glengarry/"
 - name: "MacDonell of Glengarry"
   url: "/tartans/macdonell-of-glengarry/"
+- name: "MacDonell of Glengarry #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8r4db12r1k12g12r3g2r1g4w1/)
 (the same proportion at any scale), whose colour order is pattern [BRBRKGRGRGW](/stripes/brbrkgrgrgw/).
@@ -18,7 +20,7 @@ Part of the [MacDonell of Glengarry](/tartans/macdonell-of-glengarry/) tartan �
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2381
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2381](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2381)
 
 <details class="attestations">
 <summary>5 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -91,8 +93,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="136.2" cy="126.4" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="127.8" cy="127.6" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2~x2/"><circle cx="128.7" cy="137.7" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2/"><circle cx="128.7" cy="137.7" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/variants/s10/r7db2g5db18g10db2k24db2g10y3~x2/"><circle cx="112.2" cy="158.7" r="4" fill="#3465a4"><title>Offally</title></circle></a><a href="/variants/s10/db3y1db12k4y2k4g8r2g8r1~x2/"><circle cx="128.1" cy="166.0" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/variants/s13/ly4k1db12k12g12k1r4k1g12k12db12k1ly2~x4/"><circle cx="91.6" cy="148.6" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s13/db4k1db2k1db6o2k4o2k8lb2g12o2g4~x2/"><circle cx="91.5" cy="148.6" r="4" fill="#3465a4"><title>MacKusick (Piper) #1 (Personal)</title></circle></a><a href="/variants/s11/db22k4db4k4db4k22g22r6g6k2y3~x2/"><circle cx="117.8" cy="152.4" r="4" fill="#3465a4"><title>MacLaren (labelled)</title></circle></a><a href="/variants/s11/db11k2db2k2db2k11g11r2g3k1y3~x2/"><circle cx="114.7" cy="154.5" r="4" fill="#3465a4"><title>Grant, hunting</title></circle></a><circle cx="108.9" cy="152.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="136.2" cy="126.7" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/variants/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="127.7" cy="127.8" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2~x2/"><circle cx="128.7" cy="138.0" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/variants/s11/g8r1g1r3g16k16r1db16r3db8y2/"><circle cx="128.7" cy="138.0" r="4" fill="#3465a4"><title>Cameron of Erracht</title></circle></a><a href="/variants/s10/r7db2g5db18g10db2k24db2g10y3~x2/"><circle cx="112.2" cy="159.1" r="4" fill="#3465a4"><title>Offally</title></circle></a><a href="/variants/s10/db3y1db12k4y2k4g8r2g8r1~x2/"><circle cx="128.0" cy="166.4" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/variants/s13/ly4k1db12k12g12k1r4k1g12k12db12k1ly2~x4/"><circle cx="91.6" cy="149.0" r="4" fill="#3465a4"><title>MacLeod</title></circle></a><a href="/variants/s13/db4k1db2k1db6o2k4o2k8lb2g12o2g4~x2/"><circle cx="91.4" cy="148.9" r="4" fill="#3465a4"><title>MacKusick (Piper) #1 (Personal)</title></circle></a><a href="/variants/s11/db22k4db4k4db4k22g22r6g6k2y3~x2/"><circle cx="117.7" cy="152.7" r="4" fill="#3465a4"><title>MacLaren (labelled)</title></circle></a><a href="/variants/s11/db11k2db2k2db2k11g11r2g3k1y3~x2/"><circle cx="114.7" cy="154.8" r="4" fill="#3465a4"><title>Grant, hunting</title></circle></a><circle cx="108.9" cy="153.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db8r4db12r1k12g12r3g2r1g4w1~x2/

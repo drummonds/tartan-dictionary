@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Antrim, County"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg5dt2dg18ly2dt5ly2o5dt17dg2ly4/)
 (the same proportion at any scale), whose colour order is pattern [GBGYBYRBGY](/stripes/gbgybyrbgy/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=98
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=98](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=98)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2~g2205128-dg1303152/"><circle cx="298.8" cy="221.5" r="4" fill="#3465a4"><title>Crantock</title></circle></a><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2/"><circle cx="274.2" cy="216.6" r="4" fill="#3465a4"><title>Crantock Trade Tartan</title></circle></a><a href="/variants/s7/dy5r3dy31dg20dy3g22r5~x2/"><circle cx="301.2" cy="235.8" r="4" fill="#3465a4"><title>Ballantrae (Dalgety)</title></circle></a><a href="/variants/s7/g24r9g4dg19y2dg6g7~x2/"><circle cx="309.2" cy="229.9" r="4" fill="#3465a4"><title>Doyle</title></circle></a><a href="/variants/s7/dy10r5dy62dg40dy5g44r10/"><circle cx="309.5" cy="228.1" r="4" fill="#3465a4"><title>Ballintrae Trade Tartan</title></circle></a><a href="/variants/s8/o28g2o4db18g23db2g3oi4~x2~o2102055-oi2104058/"><circle cx="286.7" cy="207.3" r="4" fill="#3465a4"><title>Dalbraith-Eastern Western Motor Group</title></circle></a><a href="/variants/s11/do6y4do3db2do5db2do3db2g15r3db2~x2/"><circle cx="193.4" cy="204.3" r="4" fill="#3465a4"><title>Limerick</title></circle></a><a href="/variants/s8/dp1g1dp1g7n7dp1n1r1~x6/"><circle cx="307.9" cy="235.1" r="4" fill="#3465a4"><title>Beck-McSorley</title></circle></a><a href="/variants/s10/db4o7y3o12g15o5db20o5g4o2~x2/"><circle cx="235.9" cy="216.7" r="4" fill="#3465a4"><title>Tupper., Sir Charles..</title></circle></a><a href="/variants/s8/g24r2g3db14dt24r2dt3db3~x2/"><circle cx="277.4" cy="182.2" r="4" fill="#3465a4"><title>Grampian</title></circle></a><circle cx="268.3" cy="215.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2~g2205128-dg1303152/"><circle cx="298.9" cy="221.9" r="4" fill="#3465a4"><title>Crantock</title></circle></a><a href="/variants/s8/g24dp3g3dp3g3dp7dg20r3~x2/"><circle cx="274.2" cy="217.0" r="4" fill="#3465a4"><title>Crantock Trade Tartan</title></circle></a><a href="/variants/s7/dy5r3dy31dg20dy3g22r5~x2/"><circle cx="301.3" cy="236.1" r="4" fill="#3465a4"><title>Ballantrae (Dalgety)</title></circle></a><a href="/variants/s7/g24r9g4dg19y2dg6g7~x2/"><circle cx="309.3" cy="230.3" r="4" fill="#3465a4"><title>Doyle</title></circle></a><a href="/variants/s7/dy10r5dy62dg40dy5g44r10/"><circle cx="309.6" cy="228.4" r="4" fill="#3465a4"><title>Ballintrae Trade Tartan</title></circle></a><a href="/variants/s8/o28g2o4db18g23db2g3oi4~x2~o2102055-oi2104058/"><circle cx="286.7" cy="207.5" r="4" fill="#3465a4"><title>Dalbraith-Eastern Western Motor Group</title></circle></a><a href="/variants/s11/do6y4do3db2do5db2do3db2g15r3db2~x2/"><circle cx="193.4" cy="204.6" r="4" fill="#3465a4"><title>Limerick</title></circle></a><a href="/variants/s8/dp1g1dp1g7n7dp1n1r1~x6/"><circle cx="308.0" cy="235.4" r="4" fill="#3465a4"><title>Beck-McSorley</title></circle></a><a href="/variants/s10/db4o7y3o12g15o5db20o5g4o2~x2/"><circle cx="236.0" cy="217.2" r="4" fill="#3465a4"><title>Tupper., Sir Charles..</title></circle></a><a href="/variants/s8/g24r2g3db14dt24r2dt3db3~x2/"><circle cx="277.4" cy="182.4" r="4" fill="#3465a4"><title>Grampian</title></circle></a><circle cx="268.4" cy="215.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dg5dt2dg18ly2dt5ly2o5dt17dg2ly4~x2/

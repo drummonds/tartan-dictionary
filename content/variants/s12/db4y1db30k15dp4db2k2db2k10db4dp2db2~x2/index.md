@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Scotland's Own"
   url: "/tartans/scotland-s-own/"
+- name: "Scotland's Own"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4y1db30k15dp4db2k2db2k10db4dp2db2/)
 (the same proportion at any scale), whose colour order is pattern [BBBKBKBBKBGBGBKBBKBKBB](/stripes/bbbkbkbbkbgbgbkbbkbkbb/).
@@ -14,7 +16,7 @@ Part of the [Scotland's Own](/tartans/scotland-s-own/) tartan — the named desi
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3684
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3684](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3684)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db4w1db30k15dp4db2k2db2k10db4dp2db2~x2/"><circle cx="366.1" cy="111.1" r="4" fill="#3465a4"><title>Scotland's Own</title></circle></a><a href="/variants/s26/db24k2db24k1lb1k13dr2k2dr2k13lb1k1db24dr2lb2g2db24k1lb1k13dr2k2dr2k13lb1k1~x2/"><circle cx="296.1" cy="71.5" r="4" fill="#3465a4"><title>Italian (Fashion)</title></circle></a><a href="/variants/s18/db28dy3db28k2db2k2db3k34dy2k3r3k3dy2k34db3k2db2k2~x2/"><circle cx="325.6" cy="105.7" r="4" fill="#3465a4"><title>Cleikum</title></circle></a><a href="/variants/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/"><circle cx="337.3" cy="92.5" r="4" fill="#3465a4"><title>Bristow Helicopters</title></circle></a><a href="/variants/s20/db14r3db14k12dbi40k12db2k2db2k2db7r3db7k2db2k2db2k12dbi40k12~x2~db1106275-dbi1406275/"><circle cx="270.5" cy="120.0" r="4" fill="#3465a4"><title>Rangers F. C. Corporate Tartan</title></circle></a><a href="/variants/s20/k3db30k2db4k2db30k36dr30k2lb2k2dr30k36db30k2db4k2db30k3r2/"><circle cx="247.4" cy="110.7" r="4" fill="#3465a4"><title>Evans of Wales</title></circle></a><circle cx="356.3" cy="93.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db4w1db30k15dp4db2k2db2k10db4dp2db2~x2/"><circle cx="366.0" cy="111.1" r="4" fill="#3465a4"><title>Scotland's Own</title></circle></a><a href="/variants/s26/db24k2db24k1lb1k13dr2k2dr2k13lb1k1db24dr2lb2g2db24k1lb1k13dr2k2dr2k13lb1k1~x2/"><circle cx="295.9" cy="71.4" r="4" fill="#3465a4"><title>Italian (Fashion)</title></circle></a><a href="/variants/s18/db28dy3db28k2db2k2db3k34dy2k3r3k3dy2k34db3k2db2k2~x2/"><circle cx="325.4" cy="105.7" r="4" fill="#3465a4"><title>Cleikum</title></circle></a><a href="/variants/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/"><circle cx="337.1" cy="92.6" r="4" fill="#3465a4"><title>Bristow Helicopters</title></circle></a><a href="/variants/s20/db14r3db14k12dbi40k12db2k2db2k2db7r3db7k2db2k2db2k12dbi40k12~x2~db1106275-dbi1406275/"><circle cx="270.4" cy="120.0" r="4" fill="#3465a4"><title>Rangers F. C. Corporate Tartan</title></circle></a><a href="/variants/s20/k3db30k2db4k2db30k36dr30k2lb2k2dr30k36db30k2db4k2db30k3r2/"><circle cx="247.3" cy="110.7" r="4" fill="#3465a4"><title>Evans of Wales</title></circle></a><circle cx="356.1" cy="93.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db4y1db30k15dp4db2k2db2k10db4dp2db2~x2/

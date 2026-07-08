@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hamworthy Association"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k41lg16dg14w2/)
 (the same proportion at any scale), whose colour order is pattern [KYGW](/stripes/kygw/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11365
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11365](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11365)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db19k8lb1g10o3~x2/"><circle cx="211.9" cy="176.5" r="4" fill="#3465a4"><title>Unidentified #50</title></circle></a><a href="/variants/s4/db16k6g8y1~x2/"><circle cx="261.0" cy="211.6" r="4" fill="#3465a4"><title>Sinclair, Sir John</title></circle></a><a href="/variants/s5/k42w5dg16k10db21~x2/"><circle cx="246.4" cy="221.5" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s4/dg43k14b14r2~x2/"><circle cx="337.6" cy="191.6" r="4" fill="#3465a4"><title>St. Andrews International Golf Club</title></circle></a><a href="/variants/s5/r1k8g2db4r1~x8/"><circle cx="212.8" cy="203.0" r="4" fill="#3465a4"><title>Nairn (Name)</title></circle></a><a href="/variants/s5/r1k8g2db4r1~x4/"><circle cx="212.8" cy="203.0" r="4" fill="#3465a4"><title>Nairn</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="294.1" cy="198.2" r="4" fill="#3465a4"><title>Mirror (Corporate)</title></circle></a><a href="/variants/s4/r4db32k15w2~x2/"><circle cx="330.3" cy="186.3" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><a href="/variants/s5/k6db4dg44k41w4~x2/"><circle cx="272.7" cy="195.3" r="4" fill="#3465a4"><title>Douglas (Clan)</title></circle></a><a href="/variants/s5/k6db4g44k41w4~x2/"><circle cx="233.3" cy="187.4" r="4" fill="#3465a4"><title>Douglas (alternative threadcount)</title></circle></a><circle cx="278.1" cy="186.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db19k8lb1g10o3~x2/"><circle cx="211.9" cy="176.9" r="4" fill="#3465a4"><title>Unidentified #50</title></circle></a><a href="/variants/s4/db16k6g8y1~x2/"><circle cx="261.1" cy="212.1" r="4" fill="#3465a4"><title>Sinclair, Sir John</title></circle></a><a href="/variants/s5/k42w5dg16k10db21~x2/"><circle cx="246.4" cy="222.0" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s4/dg43k14b14r2~x2/"><circle cx="337.7" cy="192.0" r="4" fill="#3465a4"><title>St. Andrews International Golf Club</title></circle></a><a href="/variants/s5/r1k8g2db4r1~x8/"><circle cx="212.8" cy="203.5" r="4" fill="#3465a4"><title>Nairn (Name)</title></circle></a><a href="/variants/s5/r1k8g2db4r1~x4/"><circle cx="212.8" cy="203.5" r="4" fill="#3465a4"><title>Nairn</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="294.1" cy="198.7" r="4" fill="#3465a4"><title>Mirror (Corporate)</title></circle></a><a href="/variants/s4/r4db32k15w2~x2/"><circle cx="330.3" cy="186.7" r="4" fill="#3465a4"><title>Scottish Nuclear</title></circle></a><a href="/variants/s5/k6db4dg44k41w4~x2/"><circle cx="272.7" cy="195.8" r="4" fill="#3465a4"><title>Douglas (Clan)</title></circle></a><a href="/variants/s5/k6db4g44k41w4~x2/"><circle cx="233.3" cy="187.9" r="4" fill="#3465a4"><title>Douglas (alternative threadcount)</title></circle></a><circle cx="278.1" cy="187.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/k41lg16dg14w2~x2~lg2704216-w3600000/

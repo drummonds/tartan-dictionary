@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Vermont (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4dg1g14dy8dg4ly3dg4dy8dg65dy5dg3t12dg1ly3/)
 (the same proportion at any scale), whose colour order is pattern [BGGGGYGGGGGBGY](/stripes/bggggygggggbgy/).
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8659
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8659](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8659)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

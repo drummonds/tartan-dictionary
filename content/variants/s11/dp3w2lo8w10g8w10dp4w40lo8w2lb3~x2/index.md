@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Scarlett #4"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp3w2lo8w10g8w10dp4w40lo8w2lb3/)
 (the same proportion at any scale), whose colour order is pattern [BWYWGWBWYWWWYWBWGWYW](/stripes/bwywgwbwywwwywbwgwyw/).
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4377
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4377](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4377)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dryfe"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg42k10lr2k2r2k2dg10r6k2r3dg2/)
 (the same proportion at any scale), whose colour order is pattern [GKYKRKGRKRG](/stripes/gkykrkgrkrg/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=996
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=996](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=996)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/"><circle cx="335.9" cy="92.7" r="4" fill="#3465a4"><title>Laggen Dress</title></circle></a><a href="/variants/s7/dg42k10y2k6dg10k11dg2~x2/"><circle cx="422.0" cy="119.4" r="4" fill="#3465a4"><title>Laggen Dress (Fashion)</title></circle></a><a href="/variants/s8/dg24o2dg3k6o1ly2o1k4~x4/"><circle cx="369.8" cy="121.7" r="4" fill="#3465a4"><title>Green Ridge</title></circle></a><a href="/variants/s10/g16dy1k2r1k1r1k2dy1k1g1~x4/"><circle cx="327.1" cy="106.6" r="4" fill="#3465a4"><title>Forde Irish Family Tartan</title></circle></a><a href="/variants/s10/dg40dr5k2w2k2y3k2dg10dr3k3~x2/"><circle cx="421.2" cy="106.4" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><a href="/variants/s8/dg48lo3k6w4dg3k15lo3dg4~x2/"><circle cx="344.1" cy="129.6" r="4" fill="#3465a4"><title>Birmingham Irish (Pipe Band)</title></circle></a><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/"><circle cx="383.0" cy="93.3" r="4" fill="#3465a4"><title>Arnold Palmer Corporate Tartan</title></circle></a><a href="/variants/s10/dg67k2dg2k2dg2y8r8k8y2lb7~x2/"><circle cx="381.1" cy="66.9" r="4" fill="#3465a4"><title>Moran (French) (Name)</title></circle></a><a href="/variants/s8/k3dr48g6dr6g12y3g2k3~x2/"><circle cx="407.9" cy="116.2" r="4" fill="#3465a4"><title>Oakhall (Corporate)</title></circle></a><a href="/variants/s9/dr12g6k1g2k1g1k6dr24w2~x2/"><circle cx="370.1" cy="116.8" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute Hunting</title></circle></a><circle cx="377.1" cy="102.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg42k10r2k2w2k2dg10w6k2w3dg2~x2/"><circle cx="335.8" cy="92.9" r="4" fill="#3465a4"><title>Laggen Dress</title></circle></a><a href="/variants/s7/dg42k10y2k6dg10k11dg2~x2/"><circle cx="421.9" cy="119.4" r="4" fill="#3465a4"><title>Laggen Dress (Fashion)</title></circle></a><a href="/variants/s8/dg24o2dg3k6o1ly2o1k4~x4/"><circle cx="369.8" cy="121.9" r="4" fill="#3465a4"><title>Green Ridge</title></circle></a><a href="/variants/s10/g16dy1k2r1k1r1k2dy1k1g1~x4/"><circle cx="327.0" cy="106.9" r="4" fill="#3465a4"><title>Forde Irish Family Tartan</title></circle></a><a href="/variants/s10/dg40dr5k2w2k2y3k2dg10dr3k3~x2/"><circle cx="421.1" cy="106.4" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><a href="/variants/s8/dg48lo3k6w4dg3k15lo3dg4~x2/"><circle cx="344.1" cy="129.9" r="4" fill="#3465a4"><title>Birmingham Irish (Pipe Band)</title></circle></a><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/"><circle cx="382.9" cy="93.4" r="4" fill="#3465a4"><title>Arnold Palmer Corporate Tartan</title></circle></a><a href="/variants/s10/dg67k2dg2k2dg2y8r8k8y2lb7~x2/"><circle cx="381.0" cy="66.9" r="4" fill="#3465a4"><title>Moran (French) (Name)</title></circle></a><a href="/variants/s8/k3dr48g6dr6g12y3g2k3~x2/"><circle cx="407.8" cy="116.4" r="4" fill="#3465a4"><title>Oakhall (Corporate)</title></circle></a><a href="/variants/s9/dr12g6k1g2k1g1k6dr24w2~x2/"><circle cx="370.1" cy="117.1" r="4" fill="#3465a4"><title>Stuart/Stewart of Bute Hunting</title></circle></a><circle cx="377.0" cy="102.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dg42k10lr2k2r2k2dg10r6k2r3dg2~x2/

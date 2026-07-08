@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacDonagh"
   url: "/tartans/macdonagh/"
+- name: "MacDonagh (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r20dg29db10dg16r6dg10k19/)
 (the same proportion at any scale), whose colour order is pattern [KGRGBGR](/stripes/kgrgbgr/).
@@ -14,7 +16,7 @@ Part of the [MacDonagh](/tartans/macdonagh/) tartan — the named design groupin
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1104
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1104](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1104)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r20g29db10g16r6g10k19~x2/"><circle cx="154.4" cy="252.6" r="4" fill="#3465a4"><title>MacDonagh</title></circle></a><a href="/variants/s7/r35g52db18g17r12g17k18/"><circle cx="176.6" cy="247.6" r="4" fill="#3465a4"><title>MacDona</title></circle></a><a href="/variants/s6/dg14db8dg14r14k3r14~x2/"><circle cx="168.4" cy="275.6" r="4" fill="#3465a4"><title>Tulsa, City of</title></circle></a><a href="/variants/s6/r14k3r14g13db8g13~x2/"><circle cx="157.0" cy="275.9" r="4" fill="#3465a4"><title>Tulsa</title></circle></a><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><circle cx="111.4" cy="281.1" r="4" fill="#3465a4"><title>MacDuff #3</title></circle></a><a href="/variants/s8/dg6dp3k3dp3k3dp3dg6k2~x2~dg1605139-dp1607327/"><circle cx="122.4" cy="282.6" r="4" fill="#3465a4"><title>Wilson's No.173</title></circle></a><a href="/variants/s5/db2k2db2o5dy1~x12/"><circle cx="170.7" cy="258.7" r="4" fill="#3465a4"><title>Chivas Regal (Corporate)</title></circle></a><a href="/variants/s5/db6k6db6o14dy3~x2/"><circle cx="158.3" cy="266.5" r="4" fill="#3465a4"><title>Chivas Regal</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="139.9" cy="223.9" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s12/dp12k12dg12k2dg12k11dg12k2dg12k12dp12y3~x2~dp1607327-dg1605139/"><circle cx="142.1" cy="232.6" r="4" fill="#3465a4"><title>Wilson's No.157 #2</title></circle></a><circle cx="184.5" cy="256.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r20g29db10g16r6g10k19~x2/"><circle cx="154.6" cy="253.4" r="4" fill="#3465a4"><title>MacDonagh</title></circle></a><a href="/variants/s7/r35g52db18g17r12g17k18/"><circle cx="176.7" cy="248.3" r="4" fill="#3465a4"><title>MacDona</title></circle></a><a href="/variants/s6/dg14db8dg14r14k3r14~x2/"><circle cx="168.6" cy="276.4" r="4" fill="#3465a4"><title>Tulsa, City of</title></circle></a><a href="/variants/s6/r14k3r14g13db8g13~x2/"><circle cx="157.2" cy="276.7" r="4" fill="#3465a4"><title>Tulsa</title></circle></a><a href="/variants/s7/r10db6k8g10r6g3r6~x2/"><circle cx="111.6" cy="282.0" r="4" fill="#3465a4"><title>MacDuff #3</title></circle></a><a href="/variants/s8/dg6dp3k3dp3k3dp3dg6k2~x2~dg1605139-dp1607327/"><circle cx="122.6" cy="283.3" r="4" fill="#3465a4"><title>Wilson's No.173</title></circle></a><a href="/variants/s5/db2k2db2o5dy1~x12/"><circle cx="170.8" cy="259.4" r="4" fill="#3465a4"><title>Chivas Regal (Corporate)</title></circle></a><a href="/variants/s5/db6k6db6o14dy3~x2/"><circle cx="158.5" cy="267.2" r="4" fill="#3465a4"><title>Chivas Regal</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="140.0" cy="224.6" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s12/dp12k12dg12k2dg12k11dg12k2dg12k12dp12y3~x2~dp1607327-dg1605139/"><circle cx="142.2" cy="233.3" r="4" fill="#3465a4"><title>Wilson's No.157 #2</title></circle></a><circle cx="184.6" cy="257.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r20dg29db10dg16r6dg10k19~x2/

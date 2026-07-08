@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Trotter (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db23k2db2k2db2k28dr2k4t2/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKBKB](/stripes/bkbkbkbkb/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7758
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7758)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k3lb1k32db6k4db16k3r2~x2/"><circle cx="391.0" cy="114.7" r="4" fill="#3465a4"><title>Little of Morton Rigg Red (Personal)</title></circle></a><a href="/variants/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="276.1" cy="152.6" r="4" fill="#3465a4"><title>Slanj Dress (Corporate)</title></circle></a><a href="/variants/s11/r2k3db30k2db4k2db30k36dr30k2lb2/"><circle cx="255.0" cy="128.3" r="4" fill="#3465a4"><title>Evans (Welsh Name)</title></circle></a><a href="/variants/s8/db12k1db1k1db1k3g6k1~x2/"><circle cx="296.2" cy="172.1" r="4" fill="#3465a4"><title>Black Watch (Miniature) Regimental Tartan</title></circle></a><a href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="306.5" cy="160.8" r="4" fill="#3465a4"><title>Auckland (Fashion)</title></circle></a><a href="/variants/s7/db5k2db14k14db2k2r2~x2/"><circle cx="304.4" cy="215.2" r="4" fill="#3465a4"><title>Royal Scotsman Train</title></circle></a><a href="/variants/s8/k21db3k12dr2db12k2db12w2~x2/"><circle cx="281.9" cy="188.1" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle F.C Corporate Weavers Tartan</title></circle></a><a href="/variants/s8/k21db3k12r2db12k2db12w2~x2/"><circle cx="269.4" cy="181.8" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle Football Club</title></circle></a><a href="/variants/s7/k2db9k2db9k13w1k2~x4/"><circle cx="303.4" cy="194.1" r="4" fill="#3465a4"><title>Swan 2015, Brian E (Personal)</title></circle></a><a href="/variants/s10/r4db4k2db31k10y3db5k11db6k3~x2/"><circle cx="326.1" cy="145.5" r="4" fill="#3465a4"><title>MacArthur Fox Green (Personal)</title></circle></a><circle cx="345.0" cy="145.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k3lb1k32db6k4db16k3r2~x2/"><circle cx="390.9" cy="114.9" r="4" fill="#3465a4"><title>Little of Morton Rigg Red (Personal)</title></circle></a><a href="/variants/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="276.1" cy="152.9" r="4" fill="#3465a4"><title>Slanj Dress (Corporate)</title></circle></a><a href="/variants/s11/r2k3db30k2db4k2db30k36dr30k2lb2/"><circle cx="254.9" cy="128.3" r="4" fill="#3465a4"><title>Evans (Welsh Name)</title></circle></a><a href="/variants/s8/db12k1db1k1db1k3g6k1~x2/"><circle cx="296.2" cy="172.5" r="4" fill="#3465a4"><title>Black Watch (Miniature) Regimental Tartan</title></circle></a><a href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="306.5" cy="161.0" r="4" fill="#3465a4"><title>Auckland (Fashion)</title></circle></a><a href="/variants/s7/db5k2db14k14db2k2r2~x2/"><circle cx="304.4" cy="215.7" r="4" fill="#3465a4"><title>Royal Scotsman Train</title></circle></a><a href="/variants/s8/k21db3k12dr2db12k2db12w2~x2/"><circle cx="281.9" cy="188.5" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle F.C Corporate Weavers Tartan</title></circle></a><a href="/variants/s8/k21db3k12r2db12k2db12w2~x2/"><circle cx="269.4" cy="182.2" r="4" fill="#3465a4"><title>Inverness Caledonian Thistle Football Club</title></circle></a><a href="/variants/s7/k2db9k2db9k13w1k2~x4/"><circle cx="303.4" cy="194.5" r="4" fill="#3465a4"><title>Swan 2015, Brian E (Personal)</title></circle></a><a href="/variants/s10/r4db4k2db31k10y3db5k11db6k3~x2/"><circle cx="326.1" cy="145.7" r="4" fill="#3465a4"><title>MacArthur Fox Green (Personal)</title></circle></a><circle cx="344.9" cy="146.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db23k2db2k2db2k28dr2k4t2~x2/

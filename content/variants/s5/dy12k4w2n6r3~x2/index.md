@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Strathblane (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy12k4w2n6r3/)
 (the same proportion at any scale), whose colour order is pattern [GKWBR](/stripes/gkwbr/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1633
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1633](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1633)
 
 ## Provenance
 
@@ -68,8 +70,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/o12k4w2n6r3~x2/"><circle cx="154.5" cy="220.2" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.2" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/variants/s4/n22y10w3k8~x2/"><circle cx="224.2" cy="242.2" r="4" fill="#3465a4"><title>Louisburg Canadian District Tartan</title></circle></a><a href="/variants/s5/dp8y6k2n1w1~x8/"><circle cx="192.2" cy="198.6" r="4" fill="#3465a4"><title>Ballater Victoria Week</title></circle></a><a href="/variants/s4/dr3n16k16lb3~x4/"><circle cx="183.9" cy="246.3" r="4" fill="#3465a4"><title>Thompson, Dress (Clan)</title></circle></a><a href="/variants/s5/k6db3dg20r20y3~x2/"><circle cx="168.8" cy="210.5" r="4" fill="#3465a4"><title>Douglas of Roxburgh</title></circle></a><a href="/variants/s5/dg37k22w4r15y3~x2/"><circle cx="188.1" cy="181.8" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s5/k7db3g28r28y3~x2/"><circle cx="190.7" cy="190.9" r="4" fill="#3465a4"><title>Turnbull, dress</title></circle></a><a href="/variants/s6/k2lb1dp6g6r1g1~x4/"><circle cx="152.3" cy="204.4" r="4" fill="#3465a4"><title>Wilson's, No 183</title></circle></a><a href="/variants/s5/y32k21r16lr6dt4~x2~r1706028/"><circle cx="139.2" cy="209.3" r="4" fill="#3465a4"><title>Scottish American Athletic Assoc</title></circle></a><circle cx="153.2" cy="222.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/o12k4w2n6r3~x2/"><circle cx="154.6" cy="220.9" r="4" fill="#3465a4"><title>Strathblane</title></circle></a><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.8" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/variants/s4/n22y10w3k8~x2/"><circle cx="224.3" cy="242.9" r="4" fill="#3465a4"><title>Louisburg Canadian District Tartan</title></circle></a><a href="/variants/s5/dp8y6k2n1w1~x8/"><circle cx="192.2" cy="199.1" r="4" fill="#3465a4"><title>Ballater Victoria Week</title></circle></a><a href="/variants/s4/dr3n16k16lb3~x4/"><circle cx="184.0" cy="247.0" r="4" fill="#3465a4"><title>Thompson, Dress (Clan)</title></circle></a><a href="/variants/s5/k6db3dg20r20y3~x2/"><circle cx="168.9" cy="211.1" r="4" fill="#3465a4"><title>Douglas of Roxburgh</title></circle></a><a href="/variants/s5/dg37k22w4r15y3~x2/"><circle cx="188.1" cy="182.3" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s5/k7db3g28r28y3~x2/"><circle cx="190.8" cy="191.4" r="4" fill="#3465a4"><title>Turnbull, dress</title></circle></a><a href="/variants/s6/k2lb1dp6g6r1g1~x4/"><circle cx="152.4" cy="205.0" r="4" fill="#3465a4"><title>Wilson's, No 183</title></circle></a><a href="/variants/s5/y32k21r16lr6dt4~x2~r1706028/"><circle cx="139.3" cy="209.9" r="4" fill="#3465a4"><title>Scottish American Athletic Assoc</title></circle></a><circle cx="153.3" cy="223.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dy12k4w2n6r3~x2/

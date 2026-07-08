@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Leinster Ancestry"
   url: "/tartans/leinster-ancestry/"
+- name: "Leinster Ancestry"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4dg33k18dy10g19dy3dg15k1y3/)
 (the same proportion at any scale), whose colour order is pattern [GKGGGGKGK](/stripes/gkggggkgk/).
@@ -14,7 +16,7 @@ Part of the [Leinster Ancestry](/tartans/leinster-ancestry/) tartan — the name
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10798
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10798](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10798)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4dg33k18dy10g19dy3dg15k1ly3~x2/"><circle cx="234.3" cy="136.2" r="4" fill="#3465a4"><title>Leinster Ancestry (Fashion)</title></circle></a><a href="/variants/s8/dg14k1dg2k1dg2k10g14r2/"><circle cx="198.8" cy="170.4" r="4" fill="#3465a4"><title>Manor (Corporate)</title></circle></a><a href="/variants/s9/dg23r7g25y5dg17k5y1w1r1~x2/"><circle cx="234.0" cy="124.8" r="4" fill="#3465a4"><title>Cates Hunting</title></circle></a><a href="/variants/s5/g22dy40n8k9o1~x2~n1900000-o2500000/"><circle cx="298.3" cy="150.3" r="4" fill="#3465a4"><title>Holehouse, Dag (Personal)</title></circle></a><a href="/variants/s6/do19lo3w1k18dg30r2~x2/"><circle cx="223.7" cy="136.4" r="4" fill="#3465a4"><title>Cornish Countryside</title></circle></a><a href="/variants/s6/dy83k35w3g35k3y10/"><circle cx="258.1" cy="136.9" r="4" fill="#3465a4"><title>Brandon Manitoba Trade Tartan</title></circle></a><a href="/variants/s8/dg28r3k28db8lb1dg8r2k3~x2/"><circle cx="261.0" cy="124.2" r="4" fill="#3465a4"><title>Stansbury</title></circle></a><a href="/variants/s6/k5dg25k10g15y1g5~x2/"><circle cx="229.9" cy="177.6" r="4" fill="#3465a4"><title>Delaware Fine Spirits Guild (Corp)</title></circle></a><a href="/variants/s12/k10dr26k2dr4k2dr26k3dg36k3g30k3n2/"><circle cx="204.6" cy="134.7" r="4" fill="#3465a4"><title>Pope of Wales</title></circle></a><a href="/variants/s10/dg9k2dg2g13k2g2dy1dg13k26dy2~x2/"><circle cx="238.2" cy="130.8" r="4" fill="#3465a4"><title>Pride of Ireland Fashion Tartan</title></circle></a><circle cx="246.8" cy="140.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4dg33k18dy10g19dy3dg15k1ly3~x2/"><circle cx="234.2" cy="136.3" r="4" fill="#3465a4"><title>Leinster Ancestry (Fashion)</title></circle></a><a href="/variants/s8/dg14k1dg2k1dg2k10g14r2/"><circle cx="198.8" cy="170.8" r="4" fill="#3465a4"><title>Manor (Corporate)</title></circle></a><a href="/variants/s9/dg23r7g25y5dg17k5y1w1r1~x2/"><circle cx="234.0" cy="124.9" r="4" fill="#3465a4"><title>Cates Hunting</title></circle></a><a href="/variants/s5/g22dy40n8k9o1~x2~n1900000-o2500000/"><circle cx="298.3" cy="150.5" r="4" fill="#3465a4"><title>Holehouse, Dag (Personal)</title></circle></a><a href="/variants/s6/do19lo3w1k18dg30r2~x2/"><circle cx="223.6" cy="136.6" r="4" fill="#3465a4"><title>Cornish Countryside</title></circle></a><a href="/variants/s6/dy83k35w3g35k3y10/"><circle cx="258.0" cy="137.2" r="4" fill="#3465a4"><title>Brandon Manitoba Trade Tartan</title></circle></a><a href="/variants/s8/dg28r3k28db8lb1dg8r2k3~x2/"><circle cx="260.8" cy="124.4" r="4" fill="#3465a4"><title>Stansbury</title></circle></a><a href="/variants/s6/k5dg25k10g15y1g5~x2/"><circle cx="229.8" cy="178.0" r="4" fill="#3465a4"><title>Delaware Fine Spirits Guild (Corp)</title></circle></a><a href="/variants/s12/k10dr26k2dr4k2dr26k3dg36k3g30k3n2/"><circle cx="204.6" cy="134.8" r="4" fill="#3465a4"><title>Pope of Wales</title></circle></a><a href="/variants/s10/dg9k2dg2g13k2g2dy1dg13k26dy2~x2/"><circle cx="238.1" cy="131.0" r="4" fill="#3465a4"><title>Pride of Ireland Fashion Tartan</title></circle></a><circle cx="246.8" cy="140.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k4dg33k18dy10g19dy3dg15k1y3~x2/

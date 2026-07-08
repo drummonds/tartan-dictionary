@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Herbage of Laggan (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g68k22n28dr3n12/)
 (the same proportion at any scale), whose colour order is pattern [BBBKG](/stripes/bbbkg/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1690
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1690](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1690)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g25k8n10r1n3~x4/"><circle cx="296.7" cy="173.6" r="4" fill="#3465a4"><title>Herbage</title></circle></a><a href="/variants/s6/w12k3g50w3k13dy6~x2/"><circle cx="271.6" cy="153.5" r="4" fill="#3465a4"><title>Limerick County, Crest Range</title></circle></a><a href="/variants/s6/w12k3g50w3k13ly6~x2/"><circle cx="270.7" cy="153.8" r="4" fill="#3465a4"><title>Limerick County Crest (Fashion)</title></circle></a><a href="/variants/s5/g22dy40n8k9o1~x2~n1900000-o2500000/"><circle cx="298.3" cy="150.3" r="4" fill="#3465a4"><title>Holehouse, Dag (Personal)</title></circle></a><a href="/variants/s6/g15y2k30g32r3w2~x2/"><circle cx="255.4" cy="154.6" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/variants/s4/dg43k14b14r2~x2/"><circle cx="337.6" cy="191.6" r="4" fill="#3465a4"><title>St. Andrews International Golf Club</title></circle></a><a href="/variants/s5/g62k40y3k3w3~x2/"><circle cx="299.5" cy="152.1" r="4" fill="#3465a4"><title>O'Donoghue</title></circle></a><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/"><circle cx="241.5" cy="181.1" r="4" fill="#3465a4"><title>John Telfar Dunbar Hunting</title></circle></a><a href="/variants/s7/n2k20r2g3r4g35r1~x2/"><circle cx="308.4" cy="108.7" r="4" fill="#3465a4"><title>Williams, Jodi (Personal)</title></circle></a><a href="/variants/s5/t32k10g15k2y4~x2/"><circle cx="251.8" cy="192.0" r="4" fill="#3465a4"><title>Rothesay &amp; Caithness Fencibles (Mil)</title></circle></a><circle cx="284.5" cy="183.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g25k8n10r1n3~x4/"><circle cx="296.7" cy="174.0" r="4" fill="#3465a4"><title>Herbage</title></circle></a><a href="/variants/s6/w12k3g50w3k13dy6~x2/"><circle cx="271.6" cy="154.0" r="4" fill="#3465a4"><title>Limerick County, Crest Range</title></circle></a><a href="/variants/s6/w12k3g50w3k13ly6~x2/"><circle cx="270.7" cy="154.3" r="4" fill="#3465a4"><title>Limerick County Crest (Fashion)</title></circle></a><a href="/variants/s5/g22dy40n8k9o1~x2~n1900000-o2500000/"><circle cx="298.3" cy="150.5" r="4" fill="#3465a4"><title>Holehouse, Dag (Personal)</title></circle></a><a href="/variants/s6/g15y2k30g32r3w2~x2/"><circle cx="255.4" cy="155.0" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/variants/s4/dg43k14b14r2~x2/"><circle cx="337.7" cy="192.0" r="4" fill="#3465a4"><title>St. Andrews International Golf Club</title></circle></a><a href="/variants/s5/g62k40y3k3w3~x2/"><circle cx="299.5" cy="152.5" r="4" fill="#3465a4"><title>O'Donoghue</title></circle></a><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/"><circle cx="241.5" cy="181.5" r="4" fill="#3465a4"><title>John Telfar Dunbar Hunting</title></circle></a><a href="/variants/s7/n2k20r2g3r4g35r1~x2/"><circle cx="308.3" cy="109.0" r="4" fill="#3465a4"><title>Williams, Jodi (Personal)</title></circle></a><a href="/variants/s5/t32k10g15k2y4~x2/"><circle cx="251.8" cy="192.5" r="4" fill="#3465a4"><title>Rothesay &amp; Caithness Fencibles (Mil)</title></circle></a><circle cx="284.5" cy="184.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/g68k22n28dr3n12~x2/

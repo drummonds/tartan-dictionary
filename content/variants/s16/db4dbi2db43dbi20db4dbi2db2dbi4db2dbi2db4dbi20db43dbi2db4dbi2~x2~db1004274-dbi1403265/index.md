@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dark Island Navy Fashion Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4dbi2db43dbi20db4dbi2db2dbi4db2dbi2db4dbi20db43dbi2db4dbi2/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbbbbb/).
 
 Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5833
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5833](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5833)
 
 ## Provenance
 

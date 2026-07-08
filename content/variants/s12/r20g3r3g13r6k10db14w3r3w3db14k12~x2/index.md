@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Glengarry Highland Games"
   url: "/tartans/glengarry-highland-games/"
+- name: "Glengarry Highland Games"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r20g3r3g13r6k10db14w3r3w3db14k12/)
 (the same proportion at any scale), whose colour order is pattern [KBWRWBKRGRGR](/stripes/kbwrwbkrgrgr/).
@@ -14,7 +16,7 @@ Part of the [Glengarry Highland Games](/tartans/glengarry-highland-games/) tarta
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1419
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1419](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1419)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/"><circle cx="78.8" cy="180.2" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/variants/s12/db2r4k7r8g10k4y2k8db4r4db14r2~x2/"><circle cx="60.1" cy="184.1" r="4" fill="#3465a4"><title>Unidentified pattern</title></circle></a><a href="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/"><circle cx="87.4" cy="172.0" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior Corporate Tartan</title></circle></a><a href="/variants/s9/k20w3lb20k3r3dg20r10w3k20~x2/"><circle cx="33.9" cy="156.0" r="4" fill="#3465a4"><title>Soutar/Souter</title></circle></a><a href="/variants/s12/r4o14dg2o4dg2k6o3k6ki14r2ki4r4~x2~ki0604259/"><circle cx="84.0" cy="168.8" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/variants/s13/db3r1db1r2db6r1k6g6r2g1r1g2y1~x2/"><circle cx="70.9" cy="174.8" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/variants/s13/db3r1db1r2db6r1k6g6r2g1r1g2y1~x6/"><circle cx="70.9" cy="174.8" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/"><circle cx="88.6" cy="181.5" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/variants/s11/r10k10r4g2r2k2r4g12db12g3db4~x2/"><circle cx="86.6" cy="202.0" r="4" fill="#3465a4"><title>Hueg (Personal)</title></circle></a><a href="/variants/s10/r4do6o3do10k14t6r18t6k4t2~x2/"><circle cx="90.2" cy="180.2" r="4" fill="#3465a4"><title>Cartier, Sir George Etienne</title></circle></a><circle cx="55.2" cy="178.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/"><circle cx="78.8" cy="180.7" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/variants/s12/db2r4k7r8g10k4y2k8db4r4db14r2~x2/"><circle cx="60.1" cy="184.6" r="4" fill="#3465a4"><title>Unidentified pattern</title></circle></a><a href="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/"><circle cx="87.4" cy="172.5" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior Corporate Tartan</title></circle></a><a href="/variants/s9/k20w3lb20k3r3dg20r10w3k20~x2/"><circle cx="33.9" cy="156.5" r="4" fill="#3465a4"><title>Soutar/Souter</title></circle></a><a href="/variants/s12/r4o14dg2o4dg2k6o3k6ki14r2ki4r4~x2~ki0604259/"><circle cx="84.0" cy="169.2" r="4" fill="#3465a4"><title>Kinloch Anderson Limited</title></circle></a><a href="/variants/s13/db3r1db1r2db6r1k6g6r2g1r1g2y1~x2/"><circle cx="70.9" cy="175.2" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/variants/s13/db3r1db1r2db6r1k6g6r2g1r1g2y1~x6/"><circle cx="70.9" cy="175.2" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/variants/s9/db20b3db4r3db3k10g21k4r20~x2/"><circle cx="88.6" cy="182.0" r="4" fill="#3465a4"><title>Holland &amp; Sherry (Corporate)</title></circle></a><a href="/variants/s11/r10k10r4g2r2k2r4g12db12g3db4~x2/"><circle cx="86.7" cy="202.5" r="4" fill="#3465a4"><title>Hueg (Personal)</title></circle></a><a href="/variants/s10/r4do6o3do10k14t6r18t6k4t2~x2/"><circle cx="90.2" cy="180.7" r="4" fill="#3465a4"><title>Cartier, Sir George Etienne</title></circle></a><circle cx="55.2" cy="179.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/

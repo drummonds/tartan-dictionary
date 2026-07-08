@@ -13,8 +13,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s13/w2db10dg3db2dg3k18dg10ly1dg3ly2dg2k2ly2~x2/"><img src="/variants/s13/w2db10dg3db2dg3k18dg10ly1dg3ly2dg2k2ly2~x2/sett.png" alt="O'Doherty (Name)" width="140"><br>O'Doherty (Name)</a></li>
 <li><a class="tartan" href="/variants/s13/w2ly14y3k6w2k2w2k2g8ly6k2ly3w1~x2/"><img src="/variants/s13/w2ly14y3k6w2k2w2k2g8ly6k2ly3w1~x2/sett.png" alt="O'Farrell (Name)" width="140"><br>O'Farrell (Name)</a></li>
 <li><a class="tartan" href="/variants/s13/dg24g2dg4g16dg1k2dg1g16dg3y1dg12n2dg5~x2/"><img src="/variants/s13/dg24g2dg4g16dg1k2dg1g16dg3y1dg12n2dg5~x2/sett.png" alt="O'Neill, Martin" width="140"><br>O'Neill, Martin</a></li>
-<li><a class="tartan" href="/variants/s5/g37k22w4r15y3~x2/"><img src="/variants/s5/g37k22w4r15y3~x2/sett.png" alt="Oakley (2015)" width="140"><br>Oakley (2015)</a></li>
 <li><a class="tartan" href="/variants/s5/dg37k22w4r15y3~x2/"><img src="/variants/s5/dg37k22w4r15y3~x2/sett.png" alt="Oakley (2015)" width="140"><br>Oakley (2015)</a></li>
+<li><a class="tartan" href="/variants/s5/g37k22w4r15y3~x2/"><img src="/variants/s5/g37k22w4r15y3~x2/sett.png" alt="Oakley (2015)" width="140"><br>Oakley (2015)</a></li>
 <li><a class="tartan" href="/variants/s19/db12k1g2k1g2k1db12dr2k12ly1k12dr2g12k1db2k1db2k1g12~x4/"><img src="/variants/s19/db12k1g2k1g2k1db12dr2k12ly1k12dr2g12k1db2k1db2k1g12~x4/sett.png" alt="Ochiltree (Name)" width="140"><br>Ochiltree (Name)</a></li>
 <li><a class="tartan" href="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/"><img src="/variants/s12/k2lb6w1r14k1r14w1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/sett.png" alt="Ogg of Tarragann" width="140"><br>Ogg of Tarragann</a></li>
 <li><a class="tartan" href="/variants/s12/r2lb6r1dy14r1dy14r1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/"><img src="/variants/s12/r2lb6r1dy14r1dy14r1k6dg10ly1dg2ly2~x2~dg1403152-ly2705081/sett.png" alt="Ogg of Tarragann Hunting" width="140"><br>Ogg of Tarragann Hunting</a></li>

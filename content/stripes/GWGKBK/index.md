@@ -38,10 +38,10 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s6/g8lb1g1k6db6k1~x4/"><img src="/variants/s6/g8lb1g1k6db6k1~x4/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/g8w2g1k12db12k1~x2/">Graham of Menteith</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/g8w2g1k12db12k1~x2/"><img src="/variants/s6/g8w2g1k12db12k1~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/variants/s6/g18lb2g4k14db12k3~x2/">Graham of Menteith</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s6/g18lb2g4k14db12k3~x2/"><img src="/variants/s6/g18lb2g4k14db12k3~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/g16lb2g1k12db12k1~x2/">Graham of Menteith</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/g16lb2g1k12db12k1~x2/"><img src="/variants/s6/g16lb2g1k12db12k1~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s6/g18lb2g4k14db12k3~x2/">Graham of Menteith</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s6/g18lb2g4k14db12k3~x2/"><img src="/variants/s6/g18lb2g4k14db12k3~x2/sett.png" alt="Graham of Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/g9lb1g6k7db7k1~x4/">Menteith</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s6/g9lb1g6k7db7k1~x4/"><img src="/variants/s6/g9lb1g6k7db7k1~x4/sett.png" alt="Menteith sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s6/g9w1g6k7db7k1~x2/">Menteith</a></td></tr>

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Bowie"
   url: "/tartans/bowie/"
+- name: "Bowie"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db9r3db3r5db16r2k17g16r5g3y1g9/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBRKGRGGG](/stripes/brbrbrkgrggg/).
@@ -14,7 +16,7 @@ Part of the [Bowie](/tartans/bowie/) tartan — the named design grouping this s
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/"><circle cx="152.6" cy="138.5" r="4" fill="#3465a4"><title>MacDonald #4</title></circle></a><a href="/variants/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/"><circle cx="151.6" cy="143.2" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/"><circle cx="150.7" cy="142.5" r="4" fill="#3465a4"><title>MacDonald #3</title></circle></a><a href="/variants/s12/db8r1db2r3db12r1k12g12r3g2r1g8~x2/"><circle cx="135.7" cy="164.2" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s12/db8r1db2r3db12r1k12g12r3g2r1g8/"><circle cx="135.7" cy="164.2" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s12/db12r2db2r5db26r2k29g27r5g2r2g12~x2/"><circle cx="143.4" cy="143.5" r="4" fill="#3465a4"><title>MacDonald #5</title></circle></a><a href="/variants/s13/db16r2db2r7db31r2k32w3g31r7g2r2g16~x2/"><circle cx="120.8" cy="121.7" r="4" fill="#3465a4"><title>Clanranald, MacDonald of</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8~x2/"><circle cx="113.3" cy="142.4" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8/"><circle cx="113.3" cy="142.4" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/variants/s13/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8~x4/"><circle cx="110.8" cy="132.9" r="4" fill="#3465a4"><title>Boston Pipe Band, Greater</title></circle></a><circle cx="111.7" cy="142.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/"><circle cx="152.5" cy="138.8" r="4" fill="#3465a4"><title>MacDonald #4</title></circle></a><a href="/variants/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/"><circle cx="151.5" cy="143.5" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/"><circle cx="150.6" cy="142.8" r="4" fill="#3465a4"><title>MacDonald #3</title></circle></a><a href="/variants/s12/db8r1db2r3db12r1k12g12r3g2r1g8~x2/"><circle cx="135.7" cy="164.6" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s12/db8r1db2r3db12r1k12g12r3g2r1g8/"><circle cx="135.7" cy="164.6" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s12/db12r2db2r5db26r2k29g27r5g2r2g12~x2/"><circle cx="143.3" cy="143.8" r="4" fill="#3465a4"><title>MacDonald #5</title></circle></a><a href="/variants/s13/db16r2db2r7db31r2k32w3g31r7g2r2g16~x2/"><circle cx="120.7" cy="121.9" r="4" fill="#3465a4"><title>Clanranald, MacDonald of</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8~x2/"><circle cx="113.2" cy="142.8" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8/"><circle cx="113.2" cy="142.8" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/variants/s13/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8~x4/"><circle cx="110.7" cy="133.3" r="4" fill="#3465a4"><title>Boston Pipe Band, Greater</title></circle></a><circle cx="111.6" cy="142.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db9r3db3r5db16r2k17g16r5g3y1g9~x2/

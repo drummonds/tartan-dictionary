@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "White Stripes Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2k1r2k14w1k1w1/)
 (the same proportion at any scale), whose colour order is pattern [RKRKWKW](/stripes/rkrkwkw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4614
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4614](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4614)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"><circle cx="465.9" cy="114.1" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/variants/s8/k44r2w10r3k6r1w2k18~x2/"><circle cx="462.9" cy="87.9" r="4" fill="#3465a4"><title>Mull Rugby Club</title></circle></a><a href="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="392.5" cy="113.5" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="450.6" cy="111.7" r="4" fill="#3465a4"><title>Laird Abdullah (Personal)</title></circle></a><a href="/variants/s6/k80r6g3r12k2w2~x2/"><circle cx="480.6" cy="78.1" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/variants/s8/w3dr3k4w2dr18k1dr2k2~x4/"><circle cx="362.7" cy="135.4" r="4" fill="#3465a4"><title>Lougheed</title></circle></a><a href="/variants/s7/n1k21n5k3n5k9r1~x4/"><circle cx="432.8" cy="151.3" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><a href="/variants/s7/n13k3n3k3n3k35r3~x2/"><circle cx="365.8" cy="157.2" r="4" fill="#3465a4"><title>Holden Black (Corporate)</title></circle></a><a href="/variants/s7/k39n3k3n3k14n28r3~x2/"><circle cx="335.7" cy="168.3" r="4" fill="#3465a4"><title>Moffat (1984)</title></circle></a><a href="/variants/s6/k1r4k1r4k13r1~x4/"><circle cx="367.9" cy="173.3" r="4" fill="#3465a4"><title>Cameron, Black &amp; Red (dress)</title></circle></a><circle cx="397.5" cy="128.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"><circle cx="465.8" cy="114.4" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/variants/s8/k44r2w10r3k6r1w2k18~x2/"><circle cx="462.8" cy="88.2" r="4" fill="#3465a4"><title>Mull Rugby Club</title></circle></a><a href="/variants/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="392.4" cy="113.9" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="450.5" cy="111.9" r="4" fill="#3465a4"><title>Laird Abdullah (Personal)</title></circle></a><a href="/variants/s6/k80r6g3r12k2w2~x2/"><circle cx="480.5" cy="78.3" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/variants/s8/w3dr3k4w2dr18k1dr2k2~x4/"><circle cx="362.7" cy="135.8" r="4" fill="#3465a4"><title>Lougheed</title></circle></a><a href="/variants/s7/n1k21n5k3n5k9r1~x4/"><circle cx="432.7" cy="151.7" r="4" fill="#3465a4"><title>Sunderland of Scotland (Fashion)</title></circle></a><a href="/variants/s7/n13k3n3k3n3k35r3~x2/"><circle cx="365.8" cy="157.6" r="4" fill="#3465a4"><title>Holden Black (Corporate)</title></circle></a><a href="/variants/s7/k39n3k3n3k14n28r3~x2/"><circle cx="335.7" cy="168.7" r="4" fill="#3465a4"><title>Moffat (1984)</title></circle></a><a href="/variants/s6/k1r4k1r4k13r1~x4/"><circle cx="368.0" cy="173.8" r="4" fill="#3465a4"><title>Cameron, Black &amp; Red (dress)</title></circle></a><circle cx="397.4" cy="129.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r2k1r2k14w1k1w1~x8/

@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/mackay/"
 - name: "MacKay"
   url: "/tartans/mackay/"
+- name: "MacKay - 1800 (Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4dg23k23dg2db23dg4/)
 (the same proportion at any scale), whose colour order is pattern [GBGKGK](/stripes/gbgkgk/).
@@ -16,7 +18,7 @@ Part of the [MacKay](/tartans/mackay/) tartan — the named design grouping this
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=703
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=703](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=703)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -77,8 +79,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg2db12dg1k12dg12r2~x2/"><circle cx="220.0" cy="213.7" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s6/dg7db1dg1k4dp4k1~x4/"><circle cx="262.6" cy="241.8" r="4" fill="#3465a4"><title>MacArthur of Milton Hunting</title></circle></a><a href="/variants/s8/dr3dg2dr6dg20k15dg3db18w2~x2/"><circle cx="175.5" cy="188.2" r="4" fill="#3465a4"><title>Curry (Irish) (Name)</title></circle></a><a href="/variants/s7/k1db12k12g1k12db12g1~x4/"><circle cx="311.3" cy="213.1" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/variants/s5/k20db50dg50r3k3~x2/"><circle cx="284.1" cy="206.9" r="4" fill="#3465a4"><title>Louisville Spaulding (Personal)</title></circle></a><a href="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/"><circle cx="218.2" cy="252.9" r="4" fill="#3465a4"><title>Black Watch (smallest sett)</title></circle></a><a href="/variants/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/"><circle cx="293.2" cy="191.4" r="4" fill="#3465a4"><title>Herron from Ulster (Personal)</title></circle></a><a href="/variants/s6/k2dg10y2k9dp8dg2~x2/"><circle cx="185.9" cy="255.6" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/variants/s6/k2dg7db2dg7db16r1~x6~k0700000-dg1504158-db0805267/"><circle cx="364.9" cy="204.5" r="4" fill="#3465a4"><title>Hutton</title></circle></a><a href="/variants/s8/db28dg2r5dg2r5k21dg23k2~x2~db1003265/"><circle cx="201.3" cy="178.6" r="4" fill="#3465a4"><title>Bentley</title></circle></a><circle cx="262.7" cy="236.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg2db12dg1k12dg12r2~x2/"><circle cx="220.0" cy="214.1" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s6/dg7db1dg1k4dp4k1~x4/"><circle cx="262.7" cy="242.1" r="4" fill="#3465a4"><title>MacArthur of Milton Hunting</title></circle></a><a href="/variants/s8/dr3dg2dr6dg20k15dg3db18w2~x2/"><circle cx="175.5" cy="188.5" r="4" fill="#3465a4"><title>Curry (Irish) (Name)</title></circle></a><a href="/variants/s7/k1db12k12g1k12db12g1~x4/"><circle cx="311.3" cy="213.5" r="4" fill="#3465a4"><title>Marchmont (Personal)</title></circle></a><a href="/variants/s5/k20db50dg50r3k3~x2/"><circle cx="284.1" cy="207.2" r="4" fill="#3465a4"><title>Louisville Spaulding (Personal)</title></circle></a><a href="/variants/s6/k1dg6k6db6k1db1~x4~dg1605139-db1004274/"><circle cx="218.2" cy="253.4" r="4" fill="#3465a4"><title>Black Watch (smallest sett)</title></circle></a><a href="/variants/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/"><circle cx="293.1" cy="191.6" r="4" fill="#3465a4"><title>Herron from Ulster (Personal)</title></circle></a><a href="/variants/s6/k2dg10y2k9dp8dg2~x2/"><circle cx="186.0" cy="256.1" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/variants/s6/k2dg7db2dg7db16r1~x6~k0700000-dg1504158-db0805267/"><circle cx="364.9" cy="204.8" r="4" fill="#3465a4"><title>Hutton</title></circle></a><a href="/variants/s8/db28dg2r5dg2r5k21dg23k2~x2~db1003265/"><circle cx="201.3" cy="178.8" r="4" fill="#3465a4"><title>Bentley</title></circle></a><circle cx="262.8" cy="236.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k4dg23k23dg2db23dg4~x2/

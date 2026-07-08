@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mingulay (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db45n5o1dt1lb1dt1lb5o3dt1o2lb1/)
 (the same proportion at any scale), whose colour order is pattern [BBRBWBWRBRW](/stripes/bbrbwbwrbrw/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3475
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3475](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3475)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db54lb3k5lb1k2lb1k2g8dr8lb2~x2/"><circle cx="375.4" cy="52.5" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/"><circle cx="513.7" cy="47.1" r="4" fill="#3465a4"><title>G8 Summit</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="437.8" cy="85.7" r="4" fill="#3465a4"><title>Michael (John) (Personal)</title></circle></a><a href="/variants/s8/dbi2w2dbi43t5db4k8db2w2~x2~dbi1404245-db1204274/"><circle cx="380.0" cy="107.4" r="4" fill="#3465a4"><title>Fife Flyers</title></circle></a><a href="/variants/s7/db60w1y4k4w1lp8w2~x2/"><circle cx="456.9" cy="59.5" r="4" fill="#3465a4"><title>Nunavut Territory (District)</title></circle></a><a href="/variants/s10/db108w6k10w3k3w3k3g12r12w4/"><circle cx="360.9" cy="50.3" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s9/db70w6db21g10t27g4t4g1r4~x2/"><circle cx="388.7" cy="100.1" r="4" fill="#3465a4"><title>State Seal of Tennessee (Fashion)</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.1" cy="101.4" r="4" fill="#3465a4"><title>Wilton (Name)</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.3" cy="63.7" r="4" fill="#3465a4"><title>Stratford (Ontario), City of</title></circle></a><a href="/variants/s10/db57y2db10dg4db4dg9r12db4r4lr2~x2/"><circle cx="452.2" cy="106.4" r="4" fill="#3465a4"><title>Unidentified #64</title></circle></a><circle cx="462.0" cy="65.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db54lb3k5lb1k2lb1k2g8dr8lb2~x2/"><circle cx="375.2" cy="52.4" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s13/dp4g9db2r2db50lr1db1lr1db1lr1db1lr1db1~x2/"><circle cx="513.6" cy="46.9" r="4" fill="#3465a4"><title>G8 Summit</title></circle></a><a href="/variants/s6/g5w1r5k5db43r1~x2/"><circle cx="437.7" cy="85.8" r="4" fill="#3465a4"><title>Michael (John) (Personal)</title></circle></a><a href="/variants/s8/dbi2w2dbi43t5db4k8db2w2~x2~dbi1404245-db1204274/"><circle cx="379.9" cy="107.5" r="4" fill="#3465a4"><title>Fife Flyers</title></circle></a><a href="/variants/s7/db60w1y4k4w1lp8w2~x2/"><circle cx="456.8" cy="59.5" r="4" fill="#3465a4"><title>Nunavut Territory (District)</title></circle></a><a href="/variants/s10/db108w6k10w3k3w3k3g12r12w4/"><circle cx="360.7" cy="50.4" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s9/db70w6db21g10t27g4t4g1r4~x2/"><circle cx="388.6" cy="100.2" r="4" fill="#3465a4"><title>State Seal of Tennessee (Fashion)</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.0" cy="101.4" r="4" fill="#3465a4"><title>Wilton (Name)</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.1" cy="63.7" r="4" fill="#3465a4"><title>Stratford (Ontario), City of</title></circle></a><a href="/variants/s10/db57y2db10dg4db4dg9r12db4r4lr2~x2/"><circle cx="452.1" cy="106.4" r="4" fill="#3465a4"><title>Unidentified #64</title></circle></a><circle cx="461.9" cy="64.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db45n5o1dt1lb1dt1lb5o3dt1o2lb1~x4~n1900000-o2500000/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Cant #06"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr16lb3dr16k3dg32dr16k3dr16dg32k3dr18db3dr3lb3dr3db3dr18k34dr3db34dr16k3/)
 (the same proportion at any scale), whose colour order is pattern [BWBKGBKBGKBBBWBBBKBBBKBBBKBBBWBBBKGBKBGKBW](/stripes/bwbkgbkbgkbbbwbbbkbbbkbbbkbbbwbbbkgbkbgkbw/).
 
 Sourced from register-of-tartans.  It is a [42 stripe tartan](/stripes/stripes42/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4284
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4284](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4284)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s28/dr12dg12lb2dg12dr12dg2dr2dg2dr2dg6lo2dr1lo2dg6dr2dg2dr2dg2dr12db8dg8k2dr4k2dr4k2dg8db8~x2/"><circle cx="232.7" cy="141.8" r="4" fill="#3465a4"><title>MacMaster (Name 2001)</title></circle></a><a href="/variants/s27/db15k1db1k1db1k7dr8k1y3k1dr8k7db8k5db8k7dr8k1y3k1dr8k7db1k1db1k1db9~x4~db1406275/"><circle cx="163.0" cy="108.7" r="4" fill="#3465a4"><title>Dryer</title></circle></a><circle cx="208.7" cy="121.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s28/dr12dg12lb2dg12dr12dg2dr2dg2dr2dg6lo2dr1lo2dg6dr2dg2dr2dg2dr12db8dg8k2dr4k2dr4k2dg8db8~x2/"><circle cx="232.6" cy="141.8" r="4" fill="#3465a4"><title>MacMaster (Name 2001)</title></circle></a><a href="/variants/s27/db15k1db1k1db1k7dr8k1y3k1dr8k7db8k5db8k7dr8k1y3k1dr8k7db1k1db1k1db9~x4~db1406275/"><circle cx="162.8" cy="108.8" r="4" fill="#3465a4"><title>Dryer</title></circle></a><circle cx="208.6" cy="121.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s22/dr16lb3dr16k3dg32dr16k3dr16dg32k3dr18db3dr3lb3dr3db3dr18k34dr3db34dr16k3/

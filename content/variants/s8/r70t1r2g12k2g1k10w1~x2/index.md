@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Zamzam (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r70t1r2g12k2g1k10w1/)
 (the same proportion at any scale), whose colour order is pattern [RBRGKGKW](/stripes/rbrgkgkw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7788
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7788](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7788)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="491.6" cy="90.8" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><a href="/variants/s6/g4r16k5r50g4w1~x4/"><circle cx="558.0" cy="90.1" r="4" fill="#3465a4"><title>Chalet</title></circle></a><a href="/variants/s8/r70k2y1dg18r10k4lb4w1~x2/"><circle cx="443.5" cy="37.3" r="4" fill="#3465a4"><title>MacIngust</title></circle></a><a href="/variants/s8/r42k4w1k6y1db1y1r12~x2/"><circle cx="490.9" cy="49.7" r="4" fill="#3465a4"><title>Princess Elizabeth</title></circle></a><a href="/variants/s8/r114db10w3db16y3k3y3r28~x2/"><circle cx="521.7" cy="65.7" r="4" fill="#3465a4"><title>Inverness #2</title></circle></a><a href="/variants/s8/y8k2r23k1r17k1g4w3~x2/"><circle cx="371.4" cy="111.1" r="4" fill="#3465a4"><title>Hoa Sen</title></circle></a><a href="/variants/s6/r70k1db12k1g12k1~x2/"><circle cx="480.1" cy="80.9" r="4" fill="#3465a4"><title>Lawers Estate (Corporate)</title></circle></a><a href="/variants/s9/r33w1k3w1g13r7k3dp3w1~x2/"><circle cx="334.2" cy="72.4" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, dress</title></circle></a><a href="/variants/s6/r57dg21r8dg8k1w3~x2/"><circle cx="440.7" cy="103.1" r="4" fill="#3465a4"><title>MacGregor - 1800 (Clan)</title></circle></a><a href="/variants/s9/r12g6k1g2k1g1k6r24w2~x4/"><circle cx="355.6" cy="104.4" r="4" fill="#3465a4"><title>Stuart of Bute, The Htg (Clan)</title></circle></a><circle cx="452.0" cy="40.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="491.6" cy="91.0" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><a href="/variants/s6/g4r16k5r50g4w1~x4/"><circle cx="557.9" cy="90.3" r="4" fill="#3465a4"><title>Chalet</title></circle></a><a href="/variants/s8/r70k2y1dg18r10k4lb4w1~x2/"><circle cx="443.4" cy="37.4" r="4" fill="#3465a4"><title>MacIngust</title></circle></a><a href="/variants/s8/r42k4w1k6y1db1y1r12~x2/"><circle cx="490.8" cy="49.9" r="4" fill="#3465a4"><title>Princess Elizabeth</title></circle></a><a href="/variants/s8/r114db10w3db16y3k3y3r28~x2/"><circle cx="521.6" cy="65.9" r="4" fill="#3465a4"><title>Inverness #2</title></circle></a><a href="/variants/s8/y8k2r23k1r17k1g4w3~x2/"><circle cx="371.3" cy="111.4" r="4" fill="#3465a4"><title>Hoa Sen</title></circle></a><a href="/variants/s6/r70k1db12k1g12k1~x2/"><circle cx="480.0" cy="81.1" r="4" fill="#3465a4"><title>Lawers Estate (Corporate)</title></circle></a><a href="/variants/s9/r33w1k3w1g13r7k3dp3w1~x2/"><circle cx="334.1" cy="72.6" r="4" fill="#3465a4"><title>Leach, Leech, Leitch, dress</title></circle></a><a href="/variants/s6/r57dg21r8dg8k1w3~x2/"><circle cx="440.7" cy="103.3" r="4" fill="#3465a4"><title>MacGregor - 1800 (Clan)</title></circle></a><a href="/variants/s9/r12g6k1g2k1g1k6r24w2~x4/"><circle cx="355.6" cy="104.7" r="4" fill="#3465a4"><title>Stuart of Bute, The Htg (Clan)</title></circle></a><circle cx="451.8" cy="40.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r70t1r2g12k2g1k10w1~x2/

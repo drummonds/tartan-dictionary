@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Tern House"
   url: "/tartans/tern-house/"
+- name: "Tern House"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g23db3k8db4g4db56ly8/)
 (the same proportion at any scale), whose colour order is pattern [GBKBGBY](/stripes/gbkbgby/).
@@ -14,7 +16,7 @@ Part of the [Tern House](/tartans/tern-house/) tartan — the named design group
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11247
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11247](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11247)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g23db3k8db4g4db56dy8/"><circle cx="352.2" cy="154.9" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="339.8" cy="183.7" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s7/k10db30g3db3g3db3r6~x2/"><circle cx="320.1" cy="167.3" r="4" fill="#3465a4"><title>Kinding</title></circle></a><a href="/variants/s7/db2y1db18g7r7db1g1~x2/"><circle cx="339.5" cy="166.3" r="4" fill="#3465a4"><title>Unnamed C20th - USA</title></circle></a><a href="/variants/s6/g26db10k3db2dy2db10~x4/"><circle cx="282.2" cy="191.1" r="4" fill="#3465a4"><title>St. Andrews Old Course Hotel (Corp)</title></circle></a><a href="/variants/s6/db72k21g16lb3g17lb3~x2/"><circle cx="299.2" cy="149.8" r="4" fill="#3465a4"><title>MacRobart</title></circle></a><a href="/variants/s6/db4k4db24g32w1g2~x4/"><circle cx="320.2" cy="145.6" r="4" fill="#3465a4"><title>Oliphant (Clan)</title></circle></a><a href="/variants/s6/db4k4db24g32w1g2~x2/"><circle cx="320.2" cy="145.6" r="4" fill="#3465a4"><title>Oliphant</title></circle></a><a href="/variants/s8/db16w1db1w1db8g16r1db2~x2/"><circle cx="347.6" cy="167.0" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/variants/s9/db1k1db8y1g12y1db8k1db1~x2/"><circle cx="290.0" cy="167.2" r="4" fill="#3465a4"><title>Rowan</title></circle></a><circle cx="324.8" cy="146.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g23db3k8db4g4db56dy8/"><circle cx="352.2" cy="155.1" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="339.8" cy="184.1" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s7/k10db30g3db3g3db3r6~x2/"><circle cx="320.1" cy="167.7" r="4" fill="#3465a4"><title>Kinding</title></circle></a><a href="/variants/s7/db2y1db18g7r7db1g1~x2/"><circle cx="339.5" cy="166.6" r="4" fill="#3465a4"><title>Unnamed C20th - USA</title></circle></a><a href="/variants/s6/g26db10k3db2dy2db10~x4/"><circle cx="282.2" cy="191.5" r="4" fill="#3465a4"><title>St. Andrews Old Course Hotel (Corp)</title></circle></a><a href="/variants/s6/db72k21g16lb3g17lb3~x2/"><circle cx="299.2" cy="150.1" r="4" fill="#3465a4"><title>MacRobart</title></circle></a><a href="/variants/s6/db4k4db24g32w1g2~x4/"><circle cx="320.2" cy="145.9" r="4" fill="#3465a4"><title>Oliphant (Clan)</title></circle></a><a href="/variants/s6/db4k4db24g32w1g2~x2/"><circle cx="320.2" cy="145.9" r="4" fill="#3465a4"><title>Oliphant</title></circle></a><a href="/variants/s8/db16w1db1w1db8g16r1db2~x2/"><circle cx="347.6" cy="167.3" r="4" fill="#3465a4"><title>Roxburgh</title></circle></a><a href="/variants/s9/db1k1db8y1g12y1db8k1db1~x2/"><circle cx="290.0" cy="167.5" r="4" fill="#3465a4"><title>Rowan</title></circle></a><circle cx="324.7" cy="146.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g23db3k8db4g4db56ly8/

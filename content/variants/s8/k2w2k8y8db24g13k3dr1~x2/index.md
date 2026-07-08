@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Froben, Christian"
   url: "/tartans/froben-christian/"
+- name: "Froben, Christian (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2w2k8y8db24g13k3dr1/)
 (the same proportion at any scale), whose colour order is pattern [BKGBGKWK](/stripes/bkgbgkwk/).
@@ -14,7 +16,7 @@ Part of the [Froben, Christian](/tartans/froben-christian/) tartan — the named
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11053
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11053](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11053)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k2w2k8ly8db24g13k3dr1~x2/"><circle cx="141.0" cy="114.3" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/variants/s8/r9db8r8g52w2k32db44t4/"><circle cx="138.1" cy="120.3" r="4" fill="#3465a4"><title>Highland Wedding (Fashion)</title></circle></a><a href="/variants/s9/g22y2g4dp3g4k20db20k1w3~x2/"><circle cx="142.3" cy="115.6" r="4" fill="#3465a4"><title>National Wedding</title></circle></a><a href="/variants/s7/r4lr1g6gi25k8db15lr2~x2~gi2004173/"><circle cx="176.7" cy="131.8" r="4" fill="#3465a4"><title>Jones Personal Tartan</title></circle></a><a href="/variants/s9/db4k2db16k12w1g13r2g2y4~x2/"><circle cx="125.0" cy="136.6" r="4" fill="#3465a4"><title>Cusack</title></circle></a><a href="/variants/s8/dp3n3dp3n27w1t15k22r3~x2/"><circle cx="168.8" cy="107.8" r="4" fill="#3465a4"><title>Beauly Firth and Glens</title></circle></a><a href="/variants/s10/r7g20y2g4k5db4k2db20k3w1~x2/"><circle cx="141.7" cy="114.6" r="4" fill="#3465a4"><title>McMeeken</title></circle></a><a href="/variants/s10/r7g20ly2g4k5db4k2db20k3w1~x2/"><circle cx="139.1" cy="114.2" r="4" fill="#3465a4"><title>McMeeken (Name)</title></circle></a><a href="/variants/s7/dp4g23k22p3db22dp1w2~x2/"><circle cx="118.9" cy="130.4" r="4" fill="#3465a4"><title>Fettes College</title></circle></a><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/"><circle cx="184.6" cy="115.2" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><circle cx="154.5" cy="118.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k2w2k8ly8db24g13k3dr1~x2/"><circle cx="140.9" cy="114.5" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/variants/s8/r9db8r8g52w2k32db44t4/"><circle cx="138.0" cy="120.5" r="4" fill="#3465a4"><title>Highland Wedding (Fashion)</title></circle></a><a href="/variants/s9/g22y2g4dp3g4k20db20k1w3~x2/"><circle cx="142.2" cy="115.9" r="4" fill="#3465a4"><title>National Wedding</title></circle></a><a href="/variants/s7/r4lr1g6gi25k8db15lr2~x2~gi2004173/"><circle cx="176.7" cy="132.0" r="4" fill="#3465a4"><title>Jones Personal Tartan</title></circle></a><a href="/variants/s9/db4k2db16k12w1g13r2g2y4~x2/"><circle cx="124.9" cy="136.9" r="4" fill="#3465a4"><title>Cusack</title></circle></a><a href="/variants/s8/dp3n3dp3n27w1t15k22r3~x2/"><circle cx="168.7" cy="108.0" r="4" fill="#3465a4"><title>Beauly Firth and Glens</title></circle></a><a href="/variants/s10/r7g20y2g4k5db4k2db20k3w1~x2/"><circle cx="141.6" cy="114.8" r="4" fill="#3465a4"><title>McMeeken</title></circle></a><a href="/variants/s10/r7g20ly2g4k5db4k2db20k3w1~x2/"><circle cx="139.0" cy="114.4" r="4" fill="#3465a4"><title>McMeeken (Name)</title></circle></a><a href="/variants/s7/dp4g23k22p3db22dp1w2~x2/"><circle cx="118.8" cy="130.6" r="4" fill="#3465a4"><title>Fettes College</title></circle></a><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/"><circle cx="184.5" cy="115.3" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><circle cx="154.4" cy="118.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k2w2k8y8db24g13k3dr1~x2/

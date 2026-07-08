@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Givens"
   url: "/tartans/givens/"
+- name: "Givens (Arizona)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k42w5dg16k10db21/)
 (the same proportion at any scale), whose colour order is pattern [BKGWK](/stripes/bkgwk/).
@@ -14,7 +16,7 @@ Part of the [Givens](/tartans/givens/) tartan — the named design grouping this
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10918
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10918](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10918)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="252.0" cy="196.9" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s5/k10g4k1lb2r1~x10/"><circle cx="274.2" cy="180.5" r="4" fill="#3465a4"><title>Brotherhood of the Kilt</title></circle></a><a href="/variants/s4/k41lg16dg14w2~x2~lg2704216-w3600000/"><circle cx="278.1" cy="186.7" r="4" fill="#3465a4"><title>Hamworthy Association</title></circle></a><a href="/variants/s5/k2db11k26g11k2~x2/"><circle cx="294.3" cy="197.8" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/variants/s5/k2g11k26t11k2~x2/"><circle cx="277.7" cy="194.8" r="4" fill="#3465a4"><title>Campbell of Loch Awe (Clan)</title></circle></a><a href="/variants/s6/lb3k16g16k16db3lb3~x2/"><circle cx="208.2" cy="223.5" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="190.0" cy="222.0" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s6/db40k4db12k21g27w4~x2/"><circle cx="206.8" cy="207.8" r="4" fill="#3465a4"><title>Granger (Personal)</title></circle></a><a href="/variants/s5/k5db1k5db7w2~x2/"><circle cx="224.0" cy="252.0" r="4" fill="#3465a4"><title>Grampian, T.V.</title></circle></a><a href="/variants/s6/k5w2g18k17db16k3/"><circle cx="153.0" cy="208.5" r="4" fill="#3465a4"><title>Melville</title></circle></a><circle cx="246.4" cy="221.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="252.0" cy="197.4" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s5/k10g4k1lb2r1~x10/"><circle cx="274.2" cy="181.1" r="4" fill="#3465a4"><title>Brotherhood of the Kilt</title></circle></a><a href="/variants/s4/k41lg16dg14w2~x2~lg2704216-w3600000/"><circle cx="278.1" cy="187.2" r="4" fill="#3465a4"><title>Hamworthy Association</title></circle></a><a href="/variants/s5/k2db11k26g11k2~x2/"><circle cx="294.3" cy="198.3" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/variants/s5/k2g11k26t11k2~x2/"><circle cx="277.7" cy="195.3" r="4" fill="#3465a4"><title>Campbell of Loch Awe (Clan)</title></circle></a><a href="/variants/s6/lb3k16g16k16db3lb3~x2/"><circle cx="208.2" cy="224.2" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="190.1" cy="222.6" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s6/db40k4db12k21g27w4~x2/"><circle cx="206.8" cy="208.4" r="4" fill="#3465a4"><title>Granger (Personal)</title></circle></a><a href="/variants/s5/k5db1k5db7w2~x2/"><circle cx="224.1" cy="252.7" r="4" fill="#3465a4"><title>Grampian, T.V.</title></circle></a><a href="/variants/s6/k5w2g18k17db16k3/"><circle cx="153.0" cy="209.0" r="4" fill="#3465a4"><title>Melville</title></circle></a><circle cx="246.4" cy="222.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k42w5dg16k10db21~x2/

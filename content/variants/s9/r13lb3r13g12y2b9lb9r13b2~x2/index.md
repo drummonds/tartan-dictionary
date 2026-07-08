@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Caledonia No 3"
   url: "/tartans/caledonia-no-3/"
+- name: "Caledonia No 3"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r13lb3r13g12y2b9lb9r13b2/)
 (the same proportion at any scale), whose colour order is pattern [BRWBGGRWR](/stripes/brwbggrwr/).
@@ -14,7 +16,7 @@ Part of the [Caledonia No 3](/tartans/caledonia-no-3/) tartan — the named desi
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r13lb3r13g12y2dp9lb9r13dp2~x2/"><circle cx="220.9" cy="225.6" r="4" fill="#3465a4"><title>Caledonia No 3</title></circle></a><a href="/variants/s8/b2r11lb9b11y2g13r21w2~x2/"><circle cx="203.8" cy="188.0" r="4" fill="#3465a4"><title>Wilson's, No 2</title></circle></a><a href="/variants/s11/n4dp3n13dg8r12g4r12n4r5w4r4~x2~n2203265-dp1502305/"><circle cx="166.6" cy="223.5" r="4" fill="#3465a4"><title>Hueg (Munich) Formal (Personal)</title></circle></a><a href="/variants/s8/r29t12lg15r8lg15t12r29w4~x2/"><circle cx="262.7" cy="243.6" r="4" fill="#3465a4"><title>Snowbird</title></circle></a><a href="/variants/s11/r4w4r5t4r12dg4r12g8t13db3t4~x2/"><circle cx="152.6" cy="222.1" r="4" fill="#3465a4"><title>Hueg (Formal) (Personal)</title></circle></a><a href="/variants/s8/db8y1g12r10ly2r6ly2r4~x4/"><circle cx="209.6" cy="194.7" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/variants/s10/r6w1r6db2r6g12y1db8lb4r4~x2/"><circle cx="173.5" cy="172.8" r="4" fill="#3465a4"><title>Unidentified No 57</title></circle></a><a href="/variants/s8/r1do1r9g6lb2t3r2ly1~x4/"><circle cx="234.5" cy="181.8" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/variants/s13/y18r18dg30r12db55r42dg6r18dg6r42g44r12dg12/"><circle cx="196.5" cy="189.9" r="4" fill="#3465a4"><title>Unidentified Plaid #4</title></circle></a><a href="/variants/s8/r1dy1r9g6lg2t3r2y1~x4~lg2803208-t2203208/"><circle cx="247.1" cy="186.0" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><circle cx="232.4" cy="232.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r13lb3r13g12y2dp9lb9r13dp2~x2/"><circle cx="221.0" cy="226.2" r="4" fill="#3465a4"><title>Caledonia No 3</title></circle></a><a href="/variants/s8/b2r11lb9b11y2g13r21w2~x2/"><circle cx="203.9" cy="188.4" r="4" fill="#3465a4"><title>Wilson's, No 2</title></circle></a><a href="/variants/s11/n4dp3n13dg8r12g4r12n4r5w4r4~x2~n2203265-dp1502305/"><circle cx="166.7" cy="224.1" r="4" fill="#3465a4"><title>Hueg (Munich) Formal (Personal)</title></circle></a><a href="/variants/s8/r29t12lg15r8lg15t12r29w4~x2/"><circle cx="262.9" cy="244.3" r="4" fill="#3465a4"><title>Snowbird</title></circle></a><a href="/variants/s11/r4w4r5t4r12dg4r12g8t13db3t4~x2/"><circle cx="152.8" cy="222.7" r="4" fill="#3465a4"><title>Hueg (Formal) (Personal)</title></circle></a><a href="/variants/s8/db8y1g12r10ly2r6ly2r4~x4/"><circle cx="209.6" cy="195.2" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/variants/s10/r6w1r6db2r6g12y1db8lb4r4~x2/"><circle cx="173.6" cy="173.2" r="4" fill="#3465a4"><title>Unidentified No 57</title></circle></a><a href="/variants/s8/r1do1r9g6lb2t3r2ly1~x4/"><circle cx="234.6" cy="182.2" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/variants/s13/y18r18dg30r12db55r42dg6r18dg6r42g44r12dg12/"><circle cx="196.6" cy="190.3" r="4" fill="#3465a4"><title>Unidentified Plaid #4</title></circle></a><a href="/variants/s8/r1dy1r9g6lg2t3r2y1~x4~lg2803208-t2203208/"><circle cx="247.2" cy="186.3" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><circle cx="232.5" cy="232.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r13lb3r13g12y2b9lb9r13b2~x2/

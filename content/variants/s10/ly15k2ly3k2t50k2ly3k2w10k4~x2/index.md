@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "D.E.B.S. (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly15k2ly3k2t50k2ly3k2w10k4/)
 (the same proportion at any scale), whose colour order is pattern [KWKYKBKYKY](/stripes/kwkykbkyky/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6620
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6620](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6620)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb26k7g1k1lb1k1g5dp3k1dp2lb1~x4/"><circle cx="288.4" cy="80.9" r="4" fill="#3465a4"><title>Grotto Dove</title></circle></a><a href="/variants/s12/lb16g1lb1g1lb1k12g1lb1g1lb1g6dp2~x4/"><circle cx="205.4" cy="112.8" r="4" fill="#3465a4"><title>Stephen-Mathieson (Name)</title></circle></a><a href="/variants/s9/k4y1g2y1g32lb1g3lb32db3~x2/"><circle cx="281.4" cy="97.0" r="4" fill="#3465a4"><title>McClurg, William Thomas (Personal)</title></circle></a><a href="/variants/s10/t4k12db3t4db3k3ly36db3t2ly3~x2/"><circle cx="249.9" cy="113.2" r="4" fill="#3465a4"><title>Hughes (USA) (Name)</title></circle></a><a href="/variants/s9/w5db3w25k2w2k16g8k1w4/"><circle cx="248.8" cy="119.5" r="4" fill="#3465a4"><title>Unidentified (shirt fabric)</title></circle></a><a href="/variants/s9/lb62g5lb3g22k3g3y3g3k6~x2~g2203152/"><circle cx="273.9" cy="95.8" r="4" fill="#3465a4"><title>Oliver Hunting</title></circle></a><a href="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/"><circle cx="285.6" cy="90.9" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/variants/s11/w38k10do2k3w2k3g8o3k2o3w2~x2/"><circle cx="234.5" cy="81.3" r="4" fill="#3465a4"><title>Glenmore Green</title></circle></a><a href="/variants/s12/lb98n12k16w5k5w5k5n28lb16k5lb16w6/"><circle cx="302.5" cy="103.9" r="4" fill="#3465a4"><title>Glen Moy Tartan</title></circle></a><a href="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/"><circle cx="214.2" cy="97.6" r="4" fill="#3465a4"><title>Glenmore Pink</title></circle></a><circle cx="279.9" cy="100.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb26k7g1k1lb1k1g5dp3k1dp2lb1~x4/"><circle cx="288.3" cy="81.2" r="4" fill="#3465a4"><title>Grotto Dove</title></circle></a><a href="/variants/s12/lb16g1lb1g1lb1k12g1lb1g1lb1g6dp2~x4/"><circle cx="205.3" cy="113.1" r="4" fill="#3465a4"><title>Stephen-Mathieson (Name)</title></circle></a><a href="/variants/s9/k4y1g2y1g32lb1g3lb32db3~x2/"><circle cx="281.3" cy="97.2" r="4" fill="#3465a4"><title>McClurg, William Thomas (Personal)</title></circle></a><a href="/variants/s10/t4k12db3t4db3k3ly36db3t2ly3~x2/"><circle cx="249.9" cy="113.6" r="4" fill="#3465a4"><title>Hughes (USA) (Name)</title></circle></a><a href="/variants/s9/w5db3w25k2w2k16g8k1w4/"><circle cx="248.7" cy="120.0" r="4" fill="#3465a4"><title>Unidentified (shirt fabric)</title></circle></a><a href="/variants/s9/lb62g5lb3g22k3g3y3g3k6~x2~g2203152/"><circle cx="273.8" cy="96.0" r="4" fill="#3465a4"><title>Oliver Hunting</title></circle></a><a href="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/"><circle cx="285.5" cy="91.2" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/variants/s11/w38k10do2k3w2k3g8o3k2o3w2~x2/"><circle cx="234.4" cy="81.6" r="4" fill="#3465a4"><title>Glenmore Green</title></circle></a><a href="/variants/s12/lb98n12k16w5k5w5k5n28lb16k5lb16w6/"><circle cx="302.4" cy="104.2" r="4" fill="#3465a4"><title>Glen Moy Tartan</title></circle></a><a href="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/"><circle cx="214.1" cy="97.9" r="4" fill="#3465a4"><title>Glenmore Pink</title></circle></a><circle cx="279.8" cy="100.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/ly15k2ly3k2t50k2ly3k2w10k4~x2/

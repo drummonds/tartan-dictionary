@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Studio Wolf Polysun"
   url: "/tartans/studio-wolf-polysun/"
+- name: "Studio Wolf Polysun"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lo18r3w3r3lo2r1w1g1lo2y1r1k1/)
 (the same proportion at any scale), whose colour order is pattern [KRGYGWRYRWRY](/stripes/krgygwryrwry/).
@@ -14,7 +16,7 @@ Part of the [Studio Wolf Polysun](/tartans/studio-wolf-polysun/) tartan — the 
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10944
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10944](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10944)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lr18r3w3r3lr2r1w1g1lr2y1r1k1~x4/"><circle cx="319.8" cy="78.4" r="4" fill="#3465a4"><title>Studio Wolf Polysun</title></circle></a><a href="/variants/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2~lb3203246/"><circle cx="386.8" cy="84.2" r="4" fill="#3465a4"><title>Australia, The</title></circle></a><a href="/variants/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2/"><circle cx="387.6" cy="84.4" r="4" fill="#3465a4"><title>Australia - 1984 (District)</title></circle></a><a href="/variants/s9/r19y1k2lb1g7r2k1lb1w1~x4/"><circle cx="296.5" cy="77.1" r="4" fill="#3465a4"><title>Drummond Ancient</title></circle></a><circle cx="316.2" cy="79.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lr18r3w3r3lr2r1w1g1lr2y1r1k1~x4/"><circle cx="319.7" cy="78.6" r="4" fill="#3465a4"><title>Studio Wolf Polysun</title></circle></a><a href="/variants/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2~lb3203246/"><circle cx="386.7" cy="84.3" r="4" fill="#3465a4"><title>Australia, The</title></circle></a><a href="/variants/s17/w2o15lo10o4lo2k2lo2o4lo50o4lo2k2lo2o4lo10o15lb2~x2/"><circle cx="387.6" cy="84.5" r="4" fill="#3465a4"><title>Australia - 1984 (District)</title></circle></a><a href="/variants/s9/r19y1k2lb1g7r2k1lb1w1~x4/"><circle cx="296.5" cy="77.3" r="4" fill="#3465a4"><title>Drummond Ancient</title></circle></a><circle cx="316.2" cy="79.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/lo18r3w3r3lo2r1w1g1lo2y1r1k1~x4/

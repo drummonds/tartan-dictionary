@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hebridean 3"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g10r25lb2db25r2g2r25g2r2db25r4/)
 (the same proportion at any scale), whose colour order is pattern [GRWBRGRGRBR](/stripes/grwbrgrgrbr/).
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db25dbi2r25g10r4db25r2g2r25g2r2~x2~db1204274-dbi1406275/"><circle cx="287.5" cy="142.8" r="4" fill="#3465a4"><title>Hebrides #2</title></circle></a><a href="/variants/s11/db25dbi2r25g10r4db25r2g2r25g2r2~x2~db0805267-dbi1604274/"><circle cx="259.6" cy="160.8" r="4" fill="#3465a4"><title>Hebridean 5</title></circle></a><a href="/variants/s12/r2ri2r14db2r2db5r2db2r2db12r1y1~x4~r2109032-ri2307033/"><circle cx="319.2" cy="149.6" r="4" fill="#3465a4"><title>Cutter (Name)</title></circle></a><a href="/variants/s12/o2p2o1p14dg2p10dg10p2dg14g1dg2g2~x4/"><circle cx="289.3" cy="164.3" r="4" fill="#3465a4"><title>Pacific</title></circle></a><a href="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/"><circle cx="299.2" cy="145.5" r="4" fill="#3465a4"><title>Mercer Personal Tartan</title></circle></a><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><circle cx="298.1" cy="145.3" r="4" fill="#3465a4"><title>Mercer, James (Personal)</title></circle></a><a href="/variants/s9/r2db12r2g11r4db5g2r24w2~x2/"><circle cx="273.5" cy="170.2" r="4" fill="#3465a4"><title>Fraser Gathering, Red (1997)</title></circle></a><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><circle cx="291.8" cy="158.7" r="4" fill="#3465a4"><title>Harkness</title></circle></a><a href="/variants/s12/dy4db2r7db15r4db3r4db7r28dg7r6dg2/"><circle cx="319.4" cy="156.9" r="4" fill="#3465a4"><title>Walker Family Tartan</title></circle></a><a href="/variants/s9/t27db8t14db8t14db26r84db6r12/"><circle cx="316.3" cy="183.0" r="4" fill="#3465a4"><title>POF (Fashion)</title></circle></a><circle cx="273.6" cy="165.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db25dbi2r25g10r4db25r2g2r25g2r2~x2~db1204274-dbi1406275/"><circle cx="287.5" cy="143.1" r="4" fill="#3465a4"><title>Hebrides #2</title></circle></a><a href="/variants/s11/db25dbi2r25g10r4db25r2g2r25g2r2~x2~db0805267-dbi1604274/"><circle cx="259.6" cy="161.2" r="4" fill="#3465a4"><title>Hebridean 5</title></circle></a><a href="/variants/s12/r2ri2r14db2r2db5r2db2r2db12r1y1~x4~r2109032-ri2307033/"><circle cx="319.2" cy="149.9" r="4" fill="#3465a4"><title>Cutter (Name)</title></circle></a><a href="/variants/s12/o2p2o1p14dg2p10dg10p2dg14g1dg2g2~x4/"><circle cx="289.3" cy="164.6" r="4" fill="#3465a4"><title>Pacific</title></circle></a><a href="/variants/s9/db16w2db3y4db3w2db10r35db4~x2/"><circle cx="299.2" cy="145.8" r="4" fill="#3465a4"><title>Mercer Personal Tartan</title></circle></a><a href="/variants/s9/db24w3db4y6db4w3db15r52db6/"><circle cx="298.1" cy="145.7" r="4" fill="#3465a4"><title>Mercer, James (Personal)</title></circle></a><a href="/variants/s9/r2db12r2g11r4db5g2r24w2~x2/"><circle cx="273.6" cy="170.6" r="4" fill="#3465a4"><title>Fraser Gathering, Red (1997)</title></circle></a><a href="/variants/s10/db10r2w2r16g6r1g2r1g3r6~x2/"><circle cx="291.8" cy="159.1" r="4" fill="#3465a4"><title>Harkness</title></circle></a><a href="/variants/s12/dy4db2r7db15r4db3r4db7r28dg7r6dg2/"><circle cx="319.4" cy="157.3" r="4" fill="#3465a4"><title>Walker Family Tartan</title></circle></a><a href="/variants/s9/t27db8t14db8t14db26r84db6r12/"><circle cx="316.4" cy="183.4" r="4" fill="#3465a4"><title>POF (Fashion)</title></circle></a><circle cx="273.6" cy="166.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/g10r25lb2db25r2g2r25g2r2db25r4~x2/

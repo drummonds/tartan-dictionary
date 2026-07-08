@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Spirit of Hoxa"
   url: "/tartans/spirit-of-hoxa/"
+- name: "Spirit of Hoxa"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2dpi19dg2dp46lb2dpi10dg3o2r2/)
 (the same proportion at any scale), whose colour order is pattern [GBGBWBGRR](/stripes/gbgbwbgrr/).
@@ -14,7 +16,7 @@ Part of the [Spirit of Hoxa](/tartans/spirit-of-hoxa/) tartan — the named desi
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10705
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10705](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10705)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

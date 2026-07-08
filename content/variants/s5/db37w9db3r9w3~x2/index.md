@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/glen/"
 - name: "Glen Moy"
   url: "/tartans/glen-moy-2/"
+- name: "Glen Moy"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db37w9db3r9w3/)
 (the same proportion at any scale), whose colour order is pattern [BWBRW](/stripes/bwbrw/).
@@ -16,7 +18,7 @@ Part of the [Glen Moy](/tartans/glen-moy-2/) tartan — the named design groupin
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -83,8 +85,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w4k26lb26k2lb5w2~x2/"><circle cx="255.1" cy="181.6" r="4" fill="#3465a4"><title>Indian Pipe Band (Corporate)</title></circle></a><a href="/variants/s8/db30lb2k9w3db6w4k3lb6~x2/"><circle cx="273.8" cy="148.0" r="4" fill="#3465a4"><title>Detroit Lions</title></circle></a><a href="/variants/s6/db40w8db25w14db8y4~x2/"><circle cx="421.7" cy="235.9" r="4" fill="#3465a4"><title>Auchterlonie (Personal)</title></circle></a><a href="/variants/s6/db35w4db10dr3r3dr3~x4/"><circle cx="475.8" cy="177.7" r="4" fill="#3465a4"><title>Steffen, Markus (Personal)</title></circle></a><a href="/variants/s6/w5db16w5db16w33r3~x2/"><circle cx="306.6" cy="221.0" r="4" fill="#3465a4"><title>Buchanan Dress, Blue (Dance)</title></circle></a><a href="/variants/s6/b40k4b12k21b17w4~x2/"><circle cx="361.9" cy="209.3" r="4" fill="#3465a4"><title>Granger</title></circle></a><a href="/variants/s4/w11db20y3db8~x2/"><circle cx="353.9" cy="284.3" r="4" fill="#3465a4"><title>Lucard, Stéphane (Personal)</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="374.4" cy="143.2" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><circle cx="331.0" cy="194.3" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/variants/s6/db25r8db3r4k1w3~x2/"><circle cx="359.9" cy="129.9" r="4" fill="#3465a4"><title>Clan Gregor Tartan</title></circle></a><circle cx="372.6" cy="197.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w4k26lb26k2lb5w2~x2/"><circle cx="255.2" cy="182.2" r="4" fill="#3465a4"><title>Indian Pipe Band (Corporate)</title></circle></a><a href="/variants/s8/db30lb2k9w3db6w4k3lb6~x2/"><circle cx="273.8" cy="148.3" r="4" fill="#3465a4"><title>Detroit Lions</title></circle></a><a href="/variants/s6/db40w8db25w14db8y4~x2/"><circle cx="421.8" cy="236.5" r="4" fill="#3465a4"><title>Auchterlonie (Personal)</title></circle></a><a href="/variants/s6/db35w4db10dr3r3dr3~x4/"><circle cx="475.9" cy="178.0" r="4" fill="#3465a4"><title>Steffen, Markus (Personal)</title></circle></a><a href="/variants/s6/w5db16w5db16w33r3~x2/"><circle cx="306.8" cy="221.7" r="4" fill="#3465a4"><title>Buchanan Dress, Blue (Dance)</title></circle></a><a href="/variants/s6/b40k4b12k21b17w4~x2/"><circle cx="362.0" cy="209.9" r="4" fill="#3465a4"><title>Granger</title></circle></a><a href="/variants/s4/w11db20y3db8~x2/"><circle cx="354.1" cy="285.1" r="4" fill="#3465a4"><title>Lucard, Stéphane (Personal)</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="374.4" cy="143.6" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/variants/s6/lb12y2lb1k5lb4k2~x4/"><circle cx="331.1" cy="194.9" r="4" fill="#3465a4"><title>Rea</title></circle></a><a href="/variants/s6/db25r8db3r4k1w3~x2/"><circle cx="359.8" cy="130.2" r="4" fill="#3465a4"><title>Clan Gregor Tartan</title></circle></a><circle cx="372.6" cy="198.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db37w9db3r9w3~x2/

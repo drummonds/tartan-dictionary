@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Highlands Country Club"
   url: "/tartans/highlands-country-club/"
+- name: "Highlands Country Club"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g5db15lb11w2lb1w1dg4/)
 (the same proportion at any scale), whose colour order is pattern [GBWWWWG](/stripes/gbwwwwg/).
@@ -14,7 +16,7 @@ Part of the [Highlands Country Club](/tartans/highlands-country-club/) tartan �
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/t30db15w4dg12w9t8w3~x2/"><circle cx="243.5" cy="239.3" r="4" fill="#3465a4"><title>Newall (Personal)</title></circle></a><a href="/variants/s5/g2w29lb12db29lb2~x2/"><circle cx="237.3" cy="222.2" r="4" fill="#3465a4"><title>Wallace Blue Dress (Dance)</title></circle></a><a href="/variants/s8/db26w2db3dbi15lb26dbi2lb3y4~x2~db0805267-dbi1604274/"><circle cx="199.5" cy="179.9" r="4" fill="#3465a4"><title>Banff, and Buchan</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="260.6" cy="217.0" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s8/w9db3y3db24dbi24y2dbi2y2~x2~db1106275-dbi1404245/"><circle cx="249.1" cy="195.0" r="4" fill="#3465a4"><title>Halesowen #2</title></circle></a><a href="/variants/s8/w9t3y3t24db24y2db2y2~x2/"><circle cx="248.9" cy="199.1" r="4" fill="#3465a4"><title>Halesowen (District)</title></circle></a><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/"><circle cx="182.9" cy="209.2" r="4" fill="#3465a4"><title>F.I.A.T.A. Congress of 1990</title></circle></a><a href="/variants/s9/w3db19w1lb17y11g10w1db3w1~x2/"><circle cx="176.5" cy="170.2" r="4" fill="#3465a4"><title>Bird Family (Australia) (Personal)</title></circle></a><a href="/variants/s8/b4y2b16db15g16w3g3w4~x2/"><circle cx="163.2" cy="228.5" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/variants/s8/db26w2db3dbi15lb26dbi2lb3y4~x2~db1204274-dbi1406275/"><circle cx="214.4" cy="183.7" r="4" fill="#3465a4"><title>Banff and Buchan District Tartan</title></circle></a><circle cx="195.4" cy="186.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/t30db15w4dg12w9t8w3~x2/"><circle cx="243.6" cy="239.8" r="4" fill="#3465a4"><title>Newall (Personal)</title></circle></a><a href="/variants/s5/g2w29lb12db29lb2~x2/"><circle cx="237.5" cy="222.8" r="4" fill="#3465a4"><title>Wallace Blue Dress (Dance)</title></circle></a><a href="/variants/s8/db26w2db3dbi15lb26dbi2lb3y4~x2~db0805267-dbi1604274/"><circle cx="199.5" cy="180.2" r="4" fill="#3465a4"><title>Banff, and Buchan</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="260.7" cy="217.3" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s8/w9db3y3db24dbi24y2dbi2y2~x2~db1106275-dbi1404245/"><circle cx="249.1" cy="195.3" r="4" fill="#3465a4"><title>Halesowen #2</title></circle></a><a href="/variants/s8/w9t3y3t24db24y2db2y2~x2/"><circle cx="248.9" cy="199.5" r="4" fill="#3465a4"><title>Halesowen (District)</title></circle></a><a href="/variants/s7/dg12lb8db4ly2dr1ly1db6~x4/"><circle cx="182.9" cy="209.7" r="4" fill="#3465a4"><title>F.I.A.T.A. Congress of 1990</title></circle></a><a href="/variants/s9/w3db19w1lb17y11g10w1db3w1~x2/"><circle cx="176.5" cy="170.5" r="4" fill="#3465a4"><title>Bird Family (Australia) (Personal)</title></circle></a><a href="/variants/s8/b4y2b16db15g16w3g3w4~x2/"><circle cx="163.3" cy="229.0" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/variants/s8/db26w2db3dbi15lb26dbi2lb3y4~x2~db1204274-dbi1406275/"><circle cx="214.4" cy="184.0" r="4" fill="#3465a4"><title>Banff and Buchan District Tartan</title></circle></a><circle cx="195.4" cy="186.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g5db15lb11w2lb1w1dg4~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lake Ainslie Heritage"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb8w16g18r2y4r1lb4/)
 (the same proportion at any scale), whose colour order is pattern [WRGRGWW](/stripes/wrgrgww/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2030
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2030](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2030)
 
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -67,8 +69,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db6w10g10r2y3r1db3~x2/"><circle cx="99.8" cy="205.9" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/variants/s7/db6w10g10r2dy3r1db3~x2/"><circle cx="96.5" cy="204.5" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/variants/s7/ly8r3t2db1w6g12db2~x2/"><circle cx="134.9" cy="189.2" r="4" fill="#3465a4"><title>Carmen Lau (Hong Kong) (Personal)</title></circle></a><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><circle cx="169.8" cy="184.4" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s7/g3r1g12w4lb15ly1lb3~x4/"><circle cx="286.7" cy="190.5" r="4" fill="#3465a4"><title>Postcode Lottery</title></circle></a><a href="/variants/s8/g2o10g11y4o1w18g2o1~x2/"><circle cx="219.3" cy="178.5" r="4" fill="#3465a4"><title>Aviemore, Check</title></circle></a><a href="/variants/s6/w36lb12w1r12g16y2~x2/"><circle cx="262.0" cy="151.9" r="4" fill="#3465a4"><title>MacNappy</title></circle></a><a href="/variants/s6/r1w12g6r8lb3y1~x4/"><circle cx="183.5" cy="198.5" r="4" fill="#3465a4"><title>MacLean, dress</title></circle></a><a href="/variants/s6/r1g9lb9k1lb1w1~x6/"><circle cx="234.5" cy="187.8" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s7/r2lb1r1lb11g16dg1w1~x2/"><circle cx="309.9" cy="169.2" r="4" fill="#3465a4"><title>Gift of Life Michigan</title></circle></a><circle cx="187.9" cy="184.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db6w10g10r2y3r1db3~x2/"><circle cx="99.9" cy="206.5" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/variants/s7/db6w10g10r2dy3r1db3~x2/"><circle cx="96.6" cy="205.1" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/variants/s7/ly8r3t2db1w6g12db2~x2/"><circle cx="135.0" cy="189.7" r="4" fill="#3465a4"><title>Carmen Lau (Hong Kong) (Personal)</title></circle></a><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><circle cx="169.8" cy="184.8" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s7/g3r1g12w4lb15ly1lb3~x4/"><circle cx="286.8" cy="190.9" r="4" fill="#3465a4"><title>Postcode Lottery</title></circle></a><a href="/variants/s8/g2o10g11y4o1w18g2o1~x2/"><circle cx="219.4" cy="179.0" r="4" fill="#3465a4"><title>Aviemore, Check</title></circle></a><a href="/variants/s6/w36lb12w1r12g16y2~x2/"><circle cx="262.1" cy="152.3" r="4" fill="#3465a4"><title>MacNappy</title></circle></a><a href="/variants/s6/r1w12g6r8lb3y1~x4/"><circle cx="183.6" cy="199.0" r="4" fill="#3465a4"><title>MacLean, dress</title></circle></a><a href="/variants/s6/r1g9lb9k1lb1w1~x6/"><circle cx="234.6" cy="188.3" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s7/r2lb1r1lb11g16dg1w1~x2/"><circle cx="310.0" cy="169.6" r="4" fill="#3465a4"><title>Gift of Life Michigan</title></circle></a><circle cx="188.0" cy="184.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lb8w16g18r2y4r1lb4~x2/

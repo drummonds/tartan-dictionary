@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kyle Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o19k2w4k2n5k2n5/)
 (the same proportion at any scale), whose colour order is pattern [BKBKWKR](/stripes/bkbkwkr/).
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1288
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1288](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1288)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y19k2w2k2n5k2n5~x4~y2400000-n1700000/"><circle cx="253.1" cy="173.6" r="4" fill="#3465a4"><title>Kyle</title></circle></a><a href="/variants/s8/n32k3n3k3t5k8o21k4~x2~n1900000-o2500000/"><circle cx="215.5" cy="169.4" r="4" fill="#3465a4"><title>Speyside Blue (Fashion)</title></circle></a><a href="/variants/s8/n32k3n3k3o5k8oi21k4~x2~n1900000-oi2500000/"><circle cx="216.1" cy="168.3" r="4" fill="#3465a4"><title>Speyside Grey (Fashion)</title></circle></a><a href="/variants/s5/t8r1k1r1k1~x8/"><circle cx="244.2" cy="155.8" r="4" fill="#3465a4"><title>Laing of Archiestown Clan/Family Tartan</title></circle></a><a href="/variants/s8/k1t1k1t7y7k1y1lb1~x6~t2503227-lb3203246/"><circle cx="200.9" cy="189.5" r="4" fill="#3465a4"><title>Auld Lang Syne (Philip King Tailoring)</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2n23w2~x2/"><circle cx="193.8" cy="149.6" r="4" fill="#3465a4"><title>Virtuoso (Corporate)</title></circle></a><a href="/variants/s7/n19k2w2k2b5k2b5~x4/"><circle cx="257.9" cy="176.3" r="4" fill="#3465a4"><title>Kyle</title></circle></a><a href="/variants/s10/n30k5n19k5n2lb20y2lb20k5y4~x2/"><circle cx="216.4" cy="160.4" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/variants/s6/lb3k3lb3k3n15dr1~x4/"><circle cx="267.3" cy="165.0" r="4" fill="#3465a4"><title>Tiree Grey</title></circle></a><a href="/variants/s6/r4n41k5w14k18r4~x2/"><circle cx="194.7" cy="175.5" r="4" fill="#3465a4"><title>Downside (Corporate)</title></circle></a><circle cx="218.7" cy="174.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y19k2w2k2n5k2n5~x4~y2400000-n1700000/"><circle cx="253.1" cy="174.0" r="4" fill="#3465a4"><title>Kyle</title></circle></a><a href="/variants/s8/n32k3n3k3t5k8o21k4~x2~n1900000-o2500000/"><circle cx="215.5" cy="169.8" r="4" fill="#3465a4"><title>Speyside Blue (Fashion)</title></circle></a><a href="/variants/s8/n32k3n3k3o5k8oi21k4~x2~n1900000-oi2500000/"><circle cx="216.1" cy="168.7" r="4" fill="#3465a4"><title>Speyside Grey (Fashion)</title></circle></a><a href="/variants/s5/t8r1k1r1k1~x8/"><circle cx="244.2" cy="156.2" r="4" fill="#3465a4"><title>Laing of Archiestown Clan/Family Tartan</title></circle></a><a href="/variants/s8/k1t1k1t7y7k1y1lb1~x6~t2503227-lb3203246/"><circle cx="200.9" cy="190.0" r="4" fill="#3465a4"><title>Auld Lang Syne (Philip King Tailoring)</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2n23w2~x2/"><circle cx="193.8" cy="150.0" r="4" fill="#3465a4"><title>Virtuoso (Corporate)</title></circle></a><a href="/variants/s7/n19k2w2k2b5k2b5~x4/"><circle cx="258.0" cy="176.7" r="4" fill="#3465a4"><title>Kyle</title></circle></a><a href="/variants/s10/n30k5n19k5n2lb20y2lb20k5y4~x2/"><circle cx="216.4" cy="160.8" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/variants/s6/lb3k3lb3k3n15dr1~x4/"><circle cx="267.3" cy="165.4" r="4" fill="#3465a4"><title>Tiree Grey</title></circle></a><a href="/variants/s6/r4n41k5w14k18r4~x2/"><circle cx="194.7" cy="176.0" r="4" fill="#3465a4"><title>Downside (Corporate)</title></circle></a><circle cx="218.7" cy="175.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/o19k2w4k2n5k2n5~x2~o2500000-n1900000/

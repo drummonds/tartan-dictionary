@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Nova Scotia"
   url: "/tartans/nova-scotia/"
+- name: "Nova Scotia #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db50dg4g6dy28g1dy1g1dy1g1dy1g1dy1g1dy1g1dy1g8dg24db12dg4dy20dg1dy1dg1dy1dg1dy1dg1dy1dg1dy1dg1dy1dg8db8dy16/)
 (the same proportion at any scale), whose colour order is pattern [BGGGGGGGGGGGGGGGGGBGGGGGGGGGGGGGGGBG](/stripes/bgggggggggggggggggbgggggggggggggggbg/).
@@ -14,7 +16,7 @@ Part of the [Nova Scotia](/tartans/nova-scotia/) tartan — the named design gro
 
 Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3201
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3201](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3201)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

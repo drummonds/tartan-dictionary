@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hebridean Celebration"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1g6k6g1dp2dy2db6w1/)
 (the same proportion at any scale), whose colour order is pattern [KGKGBGBW](/stripes/kgkgbgbw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11620
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11620](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11620)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k6b2db12g8r5k2g3~x4/"><circle cx="76.0" cy="216.1" r="4" fill="#3465a4"><title>Cooke</title></circle></a><a href="/variants/s7/k6lb2db12g8r5k2g3~x4/"><circle cx="70.8" cy="214.3" r="4" fill="#3465a4"><title>Cooke (Personal)</title></circle></a><a href="/variants/s8/dp21lg4dy5lg4dp5k21dg21y5~x2~lg3105139-dg1804158/"><circle cx="65.9" cy="194.5" r="4" fill="#3465a4"><title>Caledonian Labrador Retrievers</title></circle></a><a href="/variants/s7/o3dp8g20k20db17k3lb3~x2/"><circle cx="66.5" cy="191.6" r="4" fill="#3465a4"><title>Gracey (2013)</title></circle></a><a href="/variants/s7/r3dp8g20k20db17k3lg3~x2/"><circle cx="64.7" cy="190.9" r="4" fill="#3465a4"><title>Gracey (2013)</title></circle></a><a href="/variants/s6/k4g16k14y3db16r4~x2/"><circle cx="78.8" cy="226.5" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/variants/s6/k4dg16k14ly3t16r4~x2/"><circle cx="77.4" cy="226.2" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/variants/s9/r3db16o2db2o12k8g12k12w3~x2/"><circle cx="38.9" cy="175.3" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><a href="/variants/s11/dr2k1g7k6db7t2db7k6g7k1lo2~x4/"><circle cx="45.7" cy="186.3" r="4" fill="#3465a4"><title>Smith (Clan)</title></circle></a><a href="/variants/s6/y3k2g12k12db14w3~x2/"><circle cx="76.9" cy="211.9" r="4" fill="#3465a4"><title>MacNeil 6</title></circle></a><circle cx="45.6" cy="189.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k6b2db12g8r5k2g3~x4/"><circle cx="76.0" cy="216.6" r="4" fill="#3465a4"><title>Cooke</title></circle></a><a href="/variants/s7/k6lb2db12g8r5k2g3~x4/"><circle cx="70.8" cy="214.9" r="4" fill="#3465a4"><title>Cooke (Personal)</title></circle></a><a href="/variants/s8/dp21lg4dy5lg4dp5k21dg21y5~x2~lg3105139-dg1804158/"><circle cx="65.9" cy="194.9" r="4" fill="#3465a4"><title>Caledonian Labrador Retrievers</title></circle></a><a href="/variants/s7/o3dp8g20k20db17k3lb3~x2/"><circle cx="66.5" cy="192.0" r="4" fill="#3465a4"><title>Gracey (2013)</title></circle></a><a href="/variants/s7/r3dp8g20k20db17k3lg3~x2/"><circle cx="64.7" cy="191.3" r="4" fill="#3465a4"><title>Gracey (2013)</title></circle></a><a href="/variants/s6/k4g16k14y3db16r4~x2/"><circle cx="78.8" cy="227.0" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/variants/s6/k4dg16k14ly3t16r4~x2/"><circle cx="77.5" cy="226.8" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/variants/s9/r3db16o2db2o12k8g12k12w3~x2/"><circle cx="38.9" cy="175.7" r="4" fill="#3465a4"><title>Celtic Women International</title></circle></a><a href="/variants/s11/dr2k1g7k6db7t2db7k6g7k1lo2~x4/"><circle cx="45.7" cy="186.8" r="4" fill="#3465a4"><title>Smith (Clan)</title></circle></a><a href="/variants/s6/y3k2g12k12db14w3~x2/"><circle cx="77.0" cy="212.4" r="4" fill="#3465a4"><title>MacNeil 6</title></circle></a><circle cx="45.6" cy="189.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k1g6k6g1dp2dy2db6w1~x4/

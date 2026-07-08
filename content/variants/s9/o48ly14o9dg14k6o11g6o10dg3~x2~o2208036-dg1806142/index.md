@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Justerini & Brooks"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o48ly14o9dg14k6o11g6o10dg3/)
 (the same proportion at any scale), whose colour order is pattern [GRGRKGRYR](/stripes/grgrkgryr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1915
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1915](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1915)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r6g14r6db11r31lb2r4y3~x2/"><circle cx="344.4" cy="158.6" r="4" fill="#3465a4"><title>Loch Lochy</title></circle></a><a href="/variants/s9/k2r1g8r3g3r14y1r1w2~x2/"><circle cx="265.9" cy="129.4" r="4" fill="#3465a4"><title>Melieres, Michel (Personal)</title></circle></a><a href="/variants/s7/r4g21r4k7r34lo3r4~x2/"><circle cx="280.0" cy="144.4" r="4" fill="#3465a4"><title>Kirk</title></circle></a><a href="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/"><circle cx="319.0" cy="105.6" r="4" fill="#3465a4"><title>Hoben (Personal)</title></circle></a><a href="/variants/s7/r52db16k16g22r16y3r16/"><circle cx="271.5" cy="156.3" r="4" fill="#3465a4"><title>Sturrock</title></circle></a><a href="/variants/s8/r6g14r6db12r31lb2r4ly3~x2/"><circle cx="330.3" cy="157.0" r="4" fill="#3465a4"><title>Loch Lochy (District)</title></circle></a><a href="/variants/s8/r2g6y1g6r3g2r16db1~x4/"><circle cx="379.7" cy="173.9" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s8/r2g6y1g6r3g2r16lb1~x4/"><circle cx="383.3" cy="175.2" r="4" fill="#3465a4"><title>Burnett of Leys Family Tartan</title></circle></a><a href="/variants/s7/r107k9r5dp41r5g51r14/"><circle cx="325.0" cy="138.6" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/variants/s7/r107k9r5db41r5g51r14/"><circle cx="312.3" cy="136.9" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><circle cx="335.3" cy="135.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r6g14r6db11r31lb2r4y3~x2/"><circle cx="344.4" cy="159.0" r="4" fill="#3465a4"><title>Loch Lochy</title></circle></a><a href="/variants/s9/k2r1g8r3g3r14y1r1w2~x2/"><circle cx="265.8" cy="129.7" r="4" fill="#3465a4"><title>Melieres, Michel (Personal)</title></circle></a><a href="/variants/s7/r4g21r4k7r34lo3r4~x2/"><circle cx="280.0" cy="144.9" r="4" fill="#3465a4"><title>Kirk</title></circle></a><a href="/variants/s11/k3w1r20db4r4g10r4db4r20k1w3~x2/"><circle cx="318.9" cy="105.9" r="4" fill="#3465a4"><title>Hoben (Personal)</title></circle></a><a href="/variants/s7/r52db16k16g22r16y3r16/"><circle cx="271.5" cy="156.7" r="4" fill="#3465a4"><title>Sturrock</title></circle></a><a href="/variants/s8/r6g14r6db12r31lb2r4ly3~x2/"><circle cx="330.3" cy="157.3" r="4" fill="#3465a4"><title>Loch Lochy (District)</title></circle></a><a href="/variants/s8/r2g6y1g6r3g2r16db1~x4/"><circle cx="379.8" cy="174.3" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s8/r2g6y1g6r3g2r16lb1~x4/"><circle cx="383.4" cy="175.5" r="4" fill="#3465a4"><title>Burnett of Leys Family Tartan</title></circle></a><a href="/variants/s7/r107k9r5dp41r5g51r14/"><circle cx="325.0" cy="138.9" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/variants/s7/r107k9r5db41r5g51r14/"><circle cx="312.3" cy="137.2" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><circle cx="335.4" cy="136.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/

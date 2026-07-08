@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tartan Tangerine"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1w1dp4w1r4k1w1/)
 (the same proportion at any scale), whose colour order is pattern [RWBWRKW](/stripes/rwbwrkw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4075
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4075](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4075)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k6r33k18w20db6~x2/"><circle cx="120.2" cy="227.8" r="4" fill="#3465a4"><title>Brodie Dress</title></circle></a><a href="/variants/s8/n16k4w2k4n6r11n2r16~x2/"><circle cx="217.1" cy="200.6" r="4" fill="#3465a4"><title>Sidney (Nova Scotia) Canadian Tartan</title></circle></a><a href="/variants/s8/n6k2w1k2n3r6n1r6~x4/"><circle cx="157.2" cy="189.9" r="4" fill="#3465a4"><title>Sydney (Nova Scotia)</title></circle></a><a href="/variants/s7/k2lb10r5w2db2w2r2~x6/"><circle cx="116.5" cy="197.7" r="4" fill="#3465a4"><title>U.S. Postal Service (Corporate)</title></circle></a><a href="/variants/s5/k4db2o13m13w2~x4/"><circle cx="164.7" cy="207.6" r="4" fill="#3465a4"><title>Think Pink (ICF)</title></circle></a><a href="/variants/s12/r15w7r10ki7w3k3w3r10ki5w3k3w3~x2~ki0604259/"><circle cx="145.7" cy="195.3" r="4" fill="#3465a4"><title>Westgaard of Kileughtero</title></circle></a><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><circle cx="142.3" cy="198.0" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><a href="/variants/s12/r15w7r10db7w3k3w3r8db5w3k3w3~x2/"><circle cx="152.9" cy="205.8" r="4" fill="#3465a4"><title>Westgaard of Kileughterco (Personal)</title></circle></a><a href="/variants/s6/r6k9r12w2k2w4~x2/"><circle cx="209.0" cy="225.5" r="4" fill="#3465a4"><title>Brice (Artefact)</title></circle></a><a href="/variants/s7/k11dr11w11dr11r30k3w3~x2/"><circle cx="138.0" cy="182.7" r="4" fill="#3465a4"><title>Swallow (Personal)</title></circle></a><circle cx="125.2" cy="217.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k6r33k18w20db6~x2/"><circle cx="120.3" cy="228.5" r="4" fill="#3465a4"><title>Brodie Dress</title></circle></a><a href="/variants/s8/n16k4w2k4n6r11n2r16~x2/"><circle cx="217.2" cy="201.1" r="4" fill="#3465a4"><title>Sidney (Nova Scotia) Canadian Tartan</title></circle></a><a href="/variants/s8/n6k2w1k2n3r6n1r6~x4/"><circle cx="157.3" cy="190.5" r="4" fill="#3465a4"><title>Sydney (Nova Scotia)</title></circle></a><a href="/variants/s7/k2lb10r5w2db2w2r2~x6/"><circle cx="116.6" cy="198.3" r="4" fill="#3465a4"><title>U.S. Postal Service (Corporate)</title></circle></a><a href="/variants/s5/k4db2o13m13w2~x4/"><circle cx="164.8" cy="208.2" r="4" fill="#3465a4"><title>Think Pink (ICF)</title></circle></a><a href="/variants/s12/r15w7r10ki7w3k3w3r10ki5w3k3w3~x2~ki0604259/"><circle cx="145.8" cy="196.0" r="4" fill="#3465a4"><title>Westgaard of Kileughtero</title></circle></a><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><circle cx="142.4" cy="198.7" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><a href="/variants/s12/r15w7r10db7w3k3w3r8db5w3k3w3~x2/"><circle cx="153.0" cy="206.5" r="4" fill="#3465a4"><title>Westgaard of Kileughterco (Personal)</title></circle></a><a href="/variants/s6/r6k9r12w2k2w4~x2/"><circle cx="209.2" cy="226.4" r="4" fill="#3465a4"><title>Brice (Artefact)</title></circle></a><a href="/variants/s7/k11dr11w11dr11r30k3w3~x2/"><circle cx="138.0" cy="183.3" r="4" fill="#3465a4"><title>Swallow (Personal)</title></circle></a><circle cx="125.3" cy="218.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r1w1dp4w1r4k1w1~x8/

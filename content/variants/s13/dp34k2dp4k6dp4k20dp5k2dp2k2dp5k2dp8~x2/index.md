@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Birrell (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp34k2dp4k6dp4k20dp5k2dp2k2dp5k2dp8/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKBKKKBKKKBKB](/stripes/bkbkbkbkkkbkkkbkb/).
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3692
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3692](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3692)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

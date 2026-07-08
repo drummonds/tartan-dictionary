@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brittany National (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6db11lr8k4lr8k4lr8k27lr4/)
 (the same proportion at any scale), whose colour order is pattern [GBYKYKYKY](/stripes/gbykykyky/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3902
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3902](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3902)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/"><circle cx="167.1" cy="173.7" r="4" fill="#3465a4"><title>Cavan County Crest (Fashion)</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.8" cy="200.6" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/"><circle cx="149.9" cy="196.4" r="4" fill="#3465a4"><title>Breton District Tartan</title></circle></a><a href="/variants/s6/w5dr34k22dr4lb24dr4~x2/"><circle cx="181.3" cy="199.8" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><a href="/variants/s11/r3k15r2k2r6n16k3n2k3n9w2~x2/"><circle cx="172.7" cy="165.0" r="4" fill="#3465a4"><title>Lunch with an Old Bag (Fundraising Committee)</title></circle></a><a href="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/"><circle cx="110.6" cy="200.5" r="4" fill="#3465a4"><title>Edinburgh, City of</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><circle cx="107.5" cy="196.1" r="4" fill="#3465a4"><title>Holden Brown (Corporate)</title></circle></a><a href="/variants/s6/lb1dr6db1lb3k3lb1~x8/"><circle cx="156.5" cy="223.0" r="4" fill="#3465a4"><title>MacTavish #2</title></circle></a><a href="/variants/s11/g10k10lb4k2dy2k2lb3k12lb12k2lb3~x2/"><circle cx="144.7" cy="190.6" r="4" fill="#3465a4"><title>Dalgliesh Dress</title></circle></a><a href="/variants/s7/dp3k1dp8k6g8k1w2~x2/"><circle cx="137.3" cy="204.9" r="4" fill="#3465a4"><title>Baillie (Highland Society)</title></circle></a><circle cx="156.1" cy="191.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lo32db10k52db10w5k24db16w10k11lo15/"><circle cx="167.1" cy="174.2" r="4" fill="#3465a4"><title>Cavan County Crest (Fashion)</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.9" cy="201.2" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s9/g6db11w8k4w8k4w8k27w4~x2/"><circle cx="149.9" cy="197.0" r="4" fill="#3465a4"><title>Breton District Tartan</title></circle></a><a href="/variants/s6/w5dr34k22dr4lb24dr4~x2/"><circle cx="181.4" cy="200.4" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><a href="/variants/s11/r3k15r2k2r6n16k3n2k3n9w2~x2/"><circle cx="172.7" cy="165.5" r="4" fill="#3465a4"><title>Lunch with an Old Bag (Fundraising Committee)</title></circle></a><a href="/variants/s10/lb10k3w3k3w3k3lb10r6k15r3~x2/"><circle cx="110.7" cy="201.1" r="4" fill="#3465a4"><title>Edinburgh, City of</title></circle></a><a href="/variants/s8/w13k3w3k3w3k15dy18r3~x2/"><circle cx="107.5" cy="196.7" r="4" fill="#3465a4"><title>Holden Brown (Corporate)</title></circle></a><a href="/variants/s6/lb1dr6db1lb3k3lb1~x8/"><circle cx="156.6" cy="223.7" r="4" fill="#3465a4"><title>MacTavish #2</title></circle></a><a href="/variants/s11/g10k10lb4k2dy2k2lb3k12lb12k2lb3~x2/"><circle cx="144.8" cy="191.2" r="4" fill="#3465a4"><title>Dalgliesh Dress</title></circle></a><a href="/variants/s7/dp3k1dp8k6g8k1w2~x2/"><circle cx="137.4" cy="205.5" r="4" fill="#3465a4"><title>Baillie (Highland Society)</title></circle></a><circle cx="156.1" cy="192.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/

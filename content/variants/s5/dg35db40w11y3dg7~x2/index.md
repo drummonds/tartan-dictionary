@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fife Ethylene Plant"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg35db40w11y3dg7/)
 (the same proportion at any scale), whose colour order is pattern [GBWGG](/stripes/gbwgg/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11402
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11402](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11402)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g47dr3g6db35lo3~x2/"><circle cx="346.8" cy="197.6" r="4" fill="#3465a4"><title>Gracie</title></circle></a><a href="/variants/s5/r2y1g10db10w1~x6/"><circle cx="225.6" cy="207.7" r="4" fill="#3465a4"><title>Turnbull Hunting (Name)</title></circle></a><a href="/variants/s4/db10g10r5w1~x2/"><circle cx="204.3" cy="256.7" r="4" fill="#3465a4"><title>Thorntons Law (Corporate)</title></circle></a><a href="/variants/s5/dr7y3g28db28w3~x2/"><circle cx="238.2" cy="230.0" r="4" fill="#3465a4"><title>Turnbull Hunting</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.0" cy="213.1" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="221.3" cy="261.7" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s6/g11dy4w1db10dr1db2~x4/"><circle cx="246.9" cy="218.3" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s6/db5w3db36g38y5g5~x2/"><circle cx="315.9" cy="214.0" r="4" fill="#3465a4"><title>St. Andrew Society, Sao Paulo (Corp)</title></circle></a><a href="/variants/s5/db5g2db5g8w1~x8/"><circle cx="303.2" cy="288.2" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/variants/s6/dg5t2dg9db19r9ly2~x2/"><circle cx="219.4" cy="216.9" r="4" fill="#3465a4"><title>Lyle and Scott</title></circle></a><circle cx="277.5" cy="229.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g47dr3g6db35lo3~x2/"><circle cx="346.9" cy="197.9" r="4" fill="#3465a4"><title>Gracie</title></circle></a><a href="/variants/s5/r2y1g10db10w1~x6/"><circle cx="225.7" cy="208.2" r="4" fill="#3465a4"><title>Turnbull Hunting (Name)</title></circle></a><a href="/variants/s4/db10g10r5w1~x2/"><circle cx="204.5" cy="257.4" r="4" fill="#3465a4"><title>Thorntons Law (Corporate)</title></circle></a><a href="/variants/s5/dr7y3g28db28w3~x2/"><circle cx="238.3" cy="230.5" r="4" fill="#3465a4"><title>Turnbull Hunting</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.0" cy="213.6" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="221.5" cy="262.4" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s6/g11dy4w1db10dr1db2~x4/"><circle cx="247.0" cy="218.7" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s6/db5w3db36g38y5g5~x2/"><circle cx="316.0" cy="214.4" r="4" fill="#3465a4"><title>St. Andrew Society, Sao Paulo (Corp)</title></circle></a><a href="/variants/s5/db5g2db5g8w1~x8/"><circle cx="303.4" cy="288.9" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/variants/s6/dg5t2dg9db19r9ly2~x2/"><circle cx="219.5" cy="217.3" r="4" fill="#3465a4"><title>Lyle and Scott</title></circle></a><circle cx="277.6" cy="230.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dg35db40w11y3dg7~x2/

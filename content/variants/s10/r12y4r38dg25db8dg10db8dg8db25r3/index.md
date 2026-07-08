@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacEdward"
   url: "/tartans/macedward-2/"
+- name: "MacEdward (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r12y4r38dg25db8dg10db8dg8db25r3/)
 (the same proportion at any scale), whose colour order is pattern [RBGBGBGRGR](/stripes/rbgbgbgrgr/).
@@ -14,7 +16,7 @@ Part of the [MacEdward](/tartans/macedward-2/) tartan — the named design group
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2425
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2425](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2425)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r12y4r38g25db8g10db8g8db25r3/"><circle cx="208.5" cy="189.8" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/variants/s11/db10r2db10r10dg2r2dg2r2dg10r1w2~x4/"><circle cx="202.7" cy="189.7" r="4" fill="#3465a4"><title>North Berwick (Dance)</title></circle></a><a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/"><circle cx="291.2" cy="184.0" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3/"><circle cx="291.2" cy="184.0" r="4" fill="#3465a4"><title>Lindsay MINI Design Tartan</title></circle></a><a href="/variants/s9/dg24db3dg3db3dg3db9r24dg3r4~x2/"><circle cx="281.7" cy="208.2" r="4" fill="#3465a4"><title>Lindsay (Chisholm Red)</title></circle></a><a href="/variants/s8/dg28r4dp25w5r22dg27r4dp2~x2/"><circle cx="263.1" cy="196.1" r="4" fill="#3465a4"><title>New Glasgow (Canada)</title></circle></a><a href="/variants/s12/db20r2db2r2dg19r18dg2r18dg19db19r2db2~x2/"><circle cx="232.3" cy="207.4" r="4" fill="#3465a4"><title>Fraser - 1800</title></circle></a><a href="/variants/s12/db16r1db1r1g12r16w2r16g12db12r1db1~x2/"><circle cx="218.0" cy="163.5" r="4" fill="#3465a4"><title>Fraser of Lovat</title></circle></a><a href="/variants/s11/r2dp3dg2r15dp3g19dp20r15dp3dg2r2~x2/"><circle cx="234.6" cy="180.0" r="4" fill="#3465a4"><title>Drumlithie, Rock and Wheel</title></circle></a><a href="/variants/s8/db8r8dg17w3r35db10dg15w3~x2/"><circle cx="230.2" cy="194.2" r="4" fill="#3465a4"><title>James of Glencarr (Personal)</title></circle></a><circle cx="224.1" cy="191.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r12y4r38g25db8g10db8g8db25r3/"><circle cx="208.6" cy="190.3" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/variants/s11/db10r2db10r10dg2r2dg2r2dg10r1w2~x4/"><circle cx="202.8" cy="190.1" r="4" fill="#3465a4"><title>North Berwick (Dance)</title></circle></a><a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/"><circle cx="291.2" cy="184.3" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3/"><circle cx="291.2" cy="184.3" r="4" fill="#3465a4"><title>Lindsay MINI Design Tartan</title></circle></a><a href="/variants/s9/dg24db3dg3db3dg3db9r24dg3r4~x2/"><circle cx="281.8" cy="208.6" r="4" fill="#3465a4"><title>Lindsay (Chisholm Red)</title></circle></a><a href="/variants/s8/dg28r4dp25w5r22dg27r4dp2~x2/"><circle cx="263.1" cy="196.5" r="4" fill="#3465a4"><title>New Glasgow (Canada)</title></circle></a><a href="/variants/s12/db20r2db2r2dg19r18dg2r18dg19db19r2db2~x2/"><circle cx="232.4" cy="207.8" r="4" fill="#3465a4"><title>Fraser - 1800</title></circle></a><a href="/variants/s12/db16r1db1r1g12r16w2r16g12db12r1db1~x2/"><circle cx="218.1" cy="163.9" r="4" fill="#3465a4"><title>Fraser of Lovat</title></circle></a><a href="/variants/s11/r2dp3dg2r15dp3g19dp20r15dp3dg2r2~x2/"><circle cx="234.6" cy="180.4" r="4" fill="#3465a4"><title>Drumlithie, Rock and Wheel</title></circle></a><a href="/variants/s8/db8r8dg17w3r35db10dg15w3~x2/"><circle cx="230.3" cy="194.7" r="4" fill="#3465a4"><title>James of Glencarr (Personal)</title></circle></a><circle cx="224.1" cy="192.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r12y4r38dg25db8dg10db8dg8db25r3/

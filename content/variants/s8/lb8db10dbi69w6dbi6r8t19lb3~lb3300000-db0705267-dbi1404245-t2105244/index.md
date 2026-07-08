@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Virginia International Tattoo Hixon"
   url: "/tartans/virginia-international-tattoo-hixon/"
+- name: "Virginia International Tattoo Hixon"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb8db10dbi69w6dbi6r8t19lb3/)
 (the same proportion at any scale), whose colour order is pattern [WBBWBRBW](/stripes/wbbwbrbw/).
@@ -14,7 +16,7 @@ Part of the [Virginia International Tattoo Hixon](/tartans/virginia-internationa
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10987
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10987](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10987)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dbi30w2r3w2db14lr3g14dbi18r2dbi3~x2~dbi1605267-db0906265/"><circle cx="280.8" cy="145.3" r="4" fill="#3465a4"><title>Kansai St Andrews Society</title></circle></a><a href="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/"><circle cx="256.9" cy="119.8" r="4" fill="#3465a4"><title>Yukon (asymmetric)</title></circle></a><a href="/variants/s7/y3db38g7dp4lb5r5w3~x2/"><circle cx="276.7" cy="129.8" r="4" fill="#3465a4"><title>Blairgowrie Golf Club, The</title></circle></a><a href="/variants/s8/r2w1r5g5lo1g10db40y2~x2/"><circle cx="360.8" cy="82.3" r="4" fill="#3465a4"><title>St. Andrew Quebec City (Corporate)</title></circle></a><a href="/variants/s9/y4db8r3db14w18o4g28db58w4/"><circle cx="261.2" cy="121.2" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="294.1" cy="142.4" r="4" fill="#3465a4"><title>Kruenaegel-Schropp Name Tartan</title></circle></a><a href="/variants/s6/w1db15r1n10g2lp1~x4/"><circle cx="292.8" cy="162.8" r="4" fill="#3465a4"><title>Peterson, Oren (Name)</title></circle></a><a href="/variants/s8/db26r2t16db23t16r2w2y1~x2~db1003265-t2304245/"><circle cx="341.9" cy="156.0" r="4" fill="#3465a4"><title>Boxing Scotland</title></circle></a><a href="/variants/s7/db50g25ly3lb8r1w1r1~x2/"><circle cx="333.8" cy="88.9" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/"><circle cx="387.0" cy="117.4" r="4" fill="#3465a4"><title>Kuehle (Personal)</title></circle></a><circle cx="319.6" cy="120.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dbi30w2r3w2db14lr3g14dbi18r2dbi3~x2~dbi1605267-db0906265/"><circle cx="280.8" cy="145.5" r="4" fill="#3465a4"><title>Kansai St Andrews Society</title></circle></a><a href="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/"><circle cx="256.8" cy="119.9" r="4" fill="#3465a4"><title>Yukon (asymmetric)</title></circle></a><a href="/variants/s7/y3db38g7dp4lb5r5w3~x2/"><circle cx="276.6" cy="130.0" r="4" fill="#3465a4"><title>Blairgowrie Golf Club, The</title></circle></a><a href="/variants/s8/r2w1r5g5lo1g10db40y2~x2/"><circle cx="360.6" cy="82.3" r="4" fill="#3465a4"><title>St. Andrew Quebec City (Corporate)</title></circle></a><a href="/variants/s9/y4db8r3db14w18o4g28db58w4/"><circle cx="261.2" cy="121.4" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="294.1" cy="142.6" r="4" fill="#3465a4"><title>Kruenaegel-Schropp Name Tartan</title></circle></a><a href="/variants/s6/w1db15r1n10g2lp1~x4/"><circle cx="292.8" cy="163.0" r="4" fill="#3465a4"><title>Peterson, Oren (Name)</title></circle></a><a href="/variants/s8/db26r2t16db23t16r2w2y1~x2~db1003265-t2304245/"><circle cx="341.9" cy="156.3" r="4" fill="#3465a4"><title>Boxing Scotland</title></circle></a><a href="/variants/s7/db50g25ly3lb8r1w1r1~x2/"><circle cx="333.6" cy="89.0" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/variants/s7/lp6w2lp1db6n30lb1r3~x2/"><circle cx="387.0" cy="117.4" r="4" fill="#3465a4"><title>Kuehle (Personal)</title></circle></a><circle cx="319.6" cy="120.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/lb8db10dbi69w6dbi6r8t19lb3~lb3300000-db0705267-dbi1404245-t2105244/

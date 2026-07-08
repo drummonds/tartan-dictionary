@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "United States Trade sett Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dbi7db5lr6db5r7db2dbi2db70lr2/)
 (the same proportion at any scale), whose colour order is pattern [BBYBRBBBY](/stripes/bbybrbbby/).
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2126
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2126](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2126)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/t7db5lr6db5r7db2t2db70lr2/"><circle cx="547.6" cy="79.0" r="4" fill="#3465a4"><title>United States (Personal)</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2~x2/"><circle cx="481.2" cy="97.2" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Centre</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2/"><circle cx="481.2" cy="97.2" r="4" fill="#3465a4"><title>Scotch Whisky, Heritage</title></circle></a><a href="/variants/s8/t70y4t3y4t7k2t2r7~x2/"><circle cx="620.0" cy="117.5" r="4" fill="#3465a4"><title>European</title></circle></a><a href="/variants/s9/db66w2db10w2db10w2db12r3lb24~x2/"><circle cx="466.7" cy="113.1" r="4" fill="#3465a4"><title>RAAF</title></circle></a><a href="/variants/s10/db57y2db10dg4db4dg9r12db4r4lr2~x2/"><circle cx="452.2" cy="106.4" r="4" fill="#3465a4"><title>Unidentified #64</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.3" cy="63.7" r="4" fill="#3465a4"><title>Stratford (Ontario), City of</title></circle></a><a href="/variants/s10/db35y1db3y1db3y1db20r6w1r5~x2/"><circle cx="549.8" cy="110.4" r="4" fill="#3465a4"><title>Alpha Chi Sigma Fraternity</title></circle></a><a href="/variants/s8/db32w1db1y2db1r1db4dg16~x4/"><circle cx="488.2" cy="133.2" r="4" fill="#3465a4"><title>Royal Agricultural Winter Fair</title></circle></a><a href="/variants/s9/db52lo2db2r2db12r6db2r3db2~x2/"><circle cx="611.0" cy="127.3" r="4" fill="#3465a4"><title>Loch Monar (Fashion)</title></circle></a><circle cx="567.3" cy="113.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/t7db5lr6db5r7db2t2db70lr2/"><circle cx="547.5" cy="79.0" r="4" fill="#3465a4"><title>United States (Personal)</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2~x2/"><circle cx="481.1" cy="97.3" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Centre</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2/"><circle cx="481.1" cy="97.3" r="4" fill="#3465a4"><title>Scotch Whisky, Heritage</title></circle></a><a href="/variants/s8/t70y4t3y4t7k2t2r7~x2/"><circle cx="620.0" cy="117.6" r="4" fill="#3465a4"><title>European</title></circle></a><a href="/variants/s9/db66w2db10w2db10w2db12r3lb24~x2/"><circle cx="466.6" cy="113.3" r="4" fill="#3465a4"><title>RAAF</title></circle></a><a href="/variants/s10/db57y2db10dg4db4dg9r12db4r4lr2~x2/"><circle cx="452.1" cy="106.4" r="4" fill="#3465a4"><title>Unidentified #64</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.1" cy="63.7" r="4" fill="#3465a4"><title>Stratford (Ontario), City of</title></circle></a><a href="/variants/s10/db35y1db3y1db3y1db20r6w1r5~x2/"><circle cx="549.8" cy="110.5" r="4" fill="#3465a4"><title>Alpha Chi Sigma Fraternity</title></circle></a><a href="/variants/s8/db32w1db1y2db1r1db4dg16~x4/"><circle cx="488.1" cy="133.2" r="4" fill="#3465a4"><title>Royal Agricultural Winter Fair</title></circle></a><a href="/variants/s9/db52lo2db2r2db12r6db2r3db2~x2/"><circle cx="611.0" cy="127.4" r="4" fill="#3465a4"><title>Loch Monar (Fashion)</title></circle></a><circle cx="567.2" cy="113.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/

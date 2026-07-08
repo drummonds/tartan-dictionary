@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Aubigny"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly20k2ly3k2ly4k9r18k2r5/)
 (the same proportion at any scale), whose colour order is pattern [RKRKYKYKY](/stripes/rkrkykyky/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=127
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=127](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=127)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/"><circle cx="205.4" cy="156.8" r="4" fill="#3465a4"><title>Campbell 'Camel'</title></circle></a><a href="/variants/s11/db6k3r2k3r31k6ly2k6ly13k2ly2~x2/"><circle cx="194.0" cy="111.7" r="4" fill="#3465a4"><title>Rourke-Frew (Name)</title></circle></a><a href="/variants/s11/y20k2y3k2y4k9r18k2r5k2r9~x2/"><circle cx="213.2" cy="168.9" r="4" fill="#3465a4"><title>Aubigny, Auld Alliance</title></circle></a><a href="/variants/s13/ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2/"><circle cx="143.5" cy="173.2" r="4" fill="#3465a4"><title>Unidentified (NZ)</title></circle></a><a href="/variants/s9/r12w2ly3w2r3k5r2ly18w2~x2/"><circle cx="185.0" cy="161.9" r="4" fill="#3465a4"><title>Ballater Trade or 'Fancy' Tartan</title></circle></a><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><circle cx="177.1" cy="170.6" r="4" fill="#3465a4"><title>Graham Red</title></circle></a><a href="/variants/s9/lb2k2r27g27k12lb12r27k2lb2~x2/"><circle cx="206.9" cy="154.2" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2~g2408144/"><circle cx="230.7" cy="154.0" r="4" fill="#3465a4"><title>MacNeish</title></circle></a><a href="/variants/s9/k1w1r16g16k12w8r16w1k1~x2/"><circle cx="176.4" cy="146.3" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s9/g24k3g2k3g4k4r20k3r6~x2/"><circle cx="224.9" cy="164.8" r="4" fill="#3465a4"><title>Alma College (Corporate)</title></circle></a><circle cx="191.0" cy="170.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/"><circle cx="205.4" cy="157.3" r="4" fill="#3465a4"><title>Campbell 'Camel'</title></circle></a><a href="/variants/s11/db6k3r2k3r31k6ly2k6ly13k2ly2~x2/"><circle cx="194.0" cy="112.1" r="4" fill="#3465a4"><title>Rourke-Frew (Name)</title></circle></a><a href="/variants/s11/y20k2y3k2y4k9r18k2r5k2r9~x2/"><circle cx="213.3" cy="169.5" r="4" fill="#3465a4"><title>Aubigny, Auld Alliance</title></circle></a><a href="/variants/s13/ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2/"><circle cx="143.5" cy="173.8" r="4" fill="#3465a4"><title>Unidentified (NZ)</title></circle></a><a href="/variants/s9/r12w2ly3w2r3k5r2ly18w2~x2/"><circle cx="185.0" cy="162.5" r="4" fill="#3465a4"><title>Ballater Trade or 'Fancy' Tartan</title></circle></a><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><circle cx="177.2" cy="171.2" r="4" fill="#3465a4"><title>Graham Red</title></circle></a><a href="/variants/s9/lb2k2r27g27k12lb12r27k2lb2~x2/"><circle cx="206.9" cy="154.7" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2~g2408144/"><circle cx="230.7" cy="154.5" r="4" fill="#3465a4"><title>MacNeish</title></circle></a><a href="/variants/s9/k1w1r16g16k12w8r16w1k1~x2/"><circle cx="176.4" cy="146.8" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s9/g24k3g2k3g4k4r20k3r6~x2/"><circle cx="224.9" cy="165.3" r="4" fill="#3465a4"><title>Alma College (Corporate)</title></circle></a><circle cx="191.1" cy="170.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/ly20k2ly3k2ly4k9r18k2r5~x2/

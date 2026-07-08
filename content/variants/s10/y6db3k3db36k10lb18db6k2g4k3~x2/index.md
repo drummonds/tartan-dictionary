@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Dinwiddie Hunting"
   url: "/tartans/dinwiddie-hunting/"
+- name: "Dinwiddie Hunting (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y6db3k3db36k10lb18db6k2g4k3/)
 (the same proportion at any scale), whose colour order is pattern [GBKBKWBKGK](/stripes/gbkbkwbkgk/).
@@ -14,7 +16,7 @@ Part of the [Dinwiddie Hunting](/tartans/dinwiddie-hunting/) tartan — the name
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7361
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7361](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7361)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y6db3k3db36k10n18db6k2g4k3~x2/"><circle cx="250.8" cy="128.5" r="4" fill="#3465a4"><title>Dinwiddie Hunting</title></circle></a><a href="/variants/s8/k17lb2k3db16t28db2t3lo2~x2~lb3300000-t2204245/"><circle cx="192.9" cy="147.8" r="4" fill="#3465a4"><title>Banff and Buchan</title></circle></a><a href="/variants/s12/y3w12k3w3k3w3k7db48k7db3g14w3~x2/"><circle cx="187.1" cy="98.3" r="4" fill="#3465a4"><title>MacDowall</title></circle></a><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="239.4" cy="145.3" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/"><circle cx="226.4" cy="127.5" r="4" fill="#3465a4"><title>Scottish Knights Templar Int. (Corp)</title></circle></a><a href="/variants/s14/db14k2g3k2g3k2db12dr4db10dr3db10dr4lb28dr4~x2/"><circle cx="177.5" cy="124.0" r="4" fill="#3465a4"><title>Wcwm 1138</title></circle></a><a href="/variants/s11/k3b6k4dr6b18db53b18k8b6k3lo2~x2~b2603265/"><circle cx="229.3" cy="100.0" r="4" fill="#3465a4"><title>Australia 2000</title></circle></a><a href="/variants/s9/r3db20k6w5k4w3k2r1db2~x2/"><circle cx="213.8" cy="124.0" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. International</title></circle></a><a href="/variants/s11/db3k2db22k9g2lp2g2lp2g8k2w3~x2/"><circle cx="163.8" cy="131.7" r="4" fill="#3465a4"><title>Scottish Rugby Union Corporate Tartan</title></circle></a><a href="/variants/s12/k5db26k2db4k2db26k3lr36k3dbi30k3t2~db0806265-lr2800000-dbi1404245-t2503227/"><circle cx="178.3" cy="120.9" r="4" fill="#3465a4"><title>Daniel Welsh Name Tartan</title></circle></a><circle cx="210.6" cy="115.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y6db3k3db36k10n18db6k2g4k3~x2/"><circle cx="250.7" cy="128.6" r="4" fill="#3465a4"><title>Dinwiddie Hunting</title></circle></a><a href="/variants/s8/k17lb2k3db16t28db2t3lo2~x2~lb3300000-t2204245/"><circle cx="192.8" cy="148.0" r="4" fill="#3465a4"><title>Banff and Buchan</title></circle></a><a href="/variants/s12/y3w12k3w3k3w3k7db48k7db3g14w3~x2/"><circle cx="187.0" cy="98.5" r="4" fill="#3465a4"><title>MacDowall</title></circle></a><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="239.4" cy="145.6" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/variants/s9/r3db20k6lb5k4lb3k2r1db2~x2/"><circle cx="226.3" cy="127.8" r="4" fill="#3465a4"><title>Scottish Knights Templar Int. (Corp)</title></circle></a><a href="/variants/s14/db14k2g3k2g3k2db12dr4db10dr3db10dr4lb28dr4~x2/"><circle cx="177.4" cy="124.2" r="4" fill="#3465a4"><title>Wcwm 1138</title></circle></a><a href="/variants/s11/k3b6k4dr6b18db53b18k8b6k3lo2~x2~b2603265/"><circle cx="229.2" cy="100.2" r="4" fill="#3465a4"><title>Australia 2000</title></circle></a><a href="/variants/s9/r3db20k6w5k4w3k2r1db2~x2/"><circle cx="213.8" cy="124.3" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S. International</title></circle></a><a href="/variants/s11/db3k2db22k9g2lp2g2lp2g8k2w3~x2/"><circle cx="163.7" cy="132.0" r="4" fill="#3465a4"><title>Scottish Rugby Union Corporate Tartan</title></circle></a><a href="/variants/s12/k5db26k2db4k2db26k3lr36k3dbi30k3t2~db0806265-lr2800000-dbi1404245-t2503227/"><circle cx="178.2" cy="121.1" r="4" fill="#3465a4"><title>Daniel Welsh Name Tartan</title></circle></a><circle cx="210.5" cy="115.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/y6db3k3db36k10lb18db6k2g4k3~x2/

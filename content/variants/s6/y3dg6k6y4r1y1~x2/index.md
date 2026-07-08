@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Waterloo"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y3dg6k6y4r1y1/)
 (the same proportion at any scale), whose colour order is pattern [GGKGRG](/stripes/ggkgrg/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4499
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4499](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4499)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr10k1dr3g7k7g5lo3~x4/"><circle cx="136.3" cy="218.4" r="4" fill="#3465a4"><title>Wcwm 1651</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="139.9" cy="223.9" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s6/k3g13k10dr13k2dr3~x2/"><circle cx="172.7" cy="243.4" r="4" fill="#3465a4"><title>MacCormick (Dress)</title></circle></a><a href="/variants/s7/o6k2dg12ly8o5k2dg3~x4/"><circle cx="135.6" cy="228.2" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/variants/s5/n6r1k6r1g6~x6/"><circle cx="104.3" cy="243.8" r="4" fill="#3465a4"><title>Timespan</title></circle></a><a href="/variants/s9/y8g16k6g6k6g6k16dr21k5/"><circle cx="103.3" cy="239.2" r="4" fill="#3465a4"><title>Martin Family Tartan</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3~x2/"><circle cx="157.0" cy="206.4" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3/"><circle cx="157.0" cy="206.4" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k2g10lb2k9dp8g2~x2/"><circle cx="120.5" cy="238.0" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/variants/s6/g2lo1g5k4do5dr1~x4/"><circle cx="111.6" cy="237.9" r="4" fill="#3465a4"><title>Forres</title></circle></a><circle cx="147.6" cy="241.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr10k1dr3g7k7g5lo3~x4/"><circle cx="136.3" cy="219.0" r="4" fill="#3465a4"><title>Wcwm 1651</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="140.0" cy="224.6" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s6/k3g13k10dr13k2dr3~x2/"><circle cx="172.8" cy="244.1" r="4" fill="#3465a4"><title>MacCormick (Dress)</title></circle></a><a href="/variants/s7/o6k2dg12ly8o5k2dg3~x4/"><circle cx="135.7" cy="228.9" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/variants/s5/n6r1k6r1g6~x6/"><circle cx="104.4" cy="244.5" r="4" fill="#3465a4"><title>Timespan</title></circle></a><a href="/variants/s9/y8g16k6g6k6g6k16dr21k5/"><circle cx="103.4" cy="239.9" r="4" fill="#3465a4"><title>Martin Family Tartan</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3~x2/"><circle cx="157.0" cy="206.9" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3/"><circle cx="157.0" cy="206.9" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k2g10lb2k9dp8g2~x2/"><circle cx="120.6" cy="238.6" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/variants/s6/g2lo1g5k4do5dr1~x4/"><circle cx="111.7" cy="238.6" r="4" fill="#3465a4"><title>Forres</title></circle></a><circle cx="147.7" cy="241.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/y3dg6k6y4r1y1~x2/

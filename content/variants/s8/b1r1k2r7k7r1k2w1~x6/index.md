@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Nakayama"
   url: "/tartans/nakayama/"
+- name: "Nakayama (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b1r1k2r7k7r1k2w1/)
 (the same proportion at any scale), whose colour order is pattern [BRKRKRKW](/stripes/brkrkrkw/).
@@ -14,7 +16,7 @@ Part of the [Nakayama](/tartans/nakayama/) tartan — the named design grouping 
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7742
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7742](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7742)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db1r1k2r7k7r1k2w1~x6/"><circle cx="218.1" cy="170.4" r="4" fill="#3465a4"><title>Nakayama (Personal)</title></circle></a><a href="/variants/s7/k3r2k30r28k2r2w3~x2/"><circle cx="291.7" cy="139.5" r="4" fill="#3465a4"><title>Cunningham #2</title></circle></a><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="190.4" cy="142.5" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y1~x2/"><circle cx="274.5" cy="187.1" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y2~x4/"><circle cx="259.0" cy="192.6" r="4" fill="#3465a4"><title>MacDonald of Ardnamurchan (Clan?)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y2~x2/"><circle cx="259.0" cy="192.6" r="4" fill="#3465a4"><title>MacIain</title></circle></a><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/"><circle cx="280.4" cy="110.8" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s8/k25r25k10lb3k10r25k25r3~x2/"><circle cx="260.6" cy="204.8" r="4" fill="#3465a4"><title>bodog.com Corporate Tartan</title></circle></a><a href="/variants/s7/r6w3r17k3r3k25r3~x2/"><circle cx="253.2" cy="177.6" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/variants/s7/r6k3r29k23w4k7y3~x2/"><circle cx="220.9" cy="162.2" r="4" fill="#3465a4"><title>MacPherson Red Cluny</title></circle></a><circle cx="217.2" cy="170.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db1r1k2r7k7r1k2w1~x6/"><circle cx="218.1" cy="170.9" r="4" fill="#3465a4"><title>Nakayama (Personal)</title></circle></a><a href="/variants/s7/k3r2k30r28k2r2w3~x2/"><circle cx="291.7" cy="140.0" r="4" fill="#3465a4"><title>Cunningham #2</title></circle></a><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="190.4" cy="142.9" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y1~x2/"><circle cx="274.5" cy="187.8" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y2~x4/"><circle cx="259.1" cy="193.2" r="4" fill="#3465a4"><title>MacDonald of Ardnamurchan (Clan?)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y2~x2/"><circle cx="259.1" cy="193.2" r="4" fill="#3465a4"><title>MacIain</title></circle></a><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/"><circle cx="280.3" cy="111.1" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s8/k25r25k10lb3k10r25k25r3~x2/"><circle cx="260.7" cy="205.5" r="4" fill="#3465a4"><title>bodog.com Corporate Tartan</title></circle></a><a href="/variants/s7/r6w3r17k3r3k25r3~x2/"><circle cx="253.3" cy="178.2" r="4" fill="#3465a4"><title>Bon Accord</title></circle></a><a href="/variants/s7/r6k3r29k23w4k7y3~x2/"><circle cx="220.9" cy="162.7" r="4" fill="#3465a4"><title>MacPherson Red Cluny</title></circle></a><circle cx="217.2" cy="170.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/b1r1k2r7k7r1k2w1~x6/

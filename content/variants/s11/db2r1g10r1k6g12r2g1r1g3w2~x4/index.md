@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ronald, Clan (Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2r1g10r1k6g12r2g1r1g3w2/)
 (the same proportion at any scale), whose colour order is pattern [BRGRKGRGRGW](/stripes/brgrkgrgrgw/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7939
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7939](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7939)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y1g1r1g6k6g6w1g1~x4/"><circle cx="230.5" cy="186.1" r="4" fill="#3465a4"><title>Vermont</title></circle></a><a href="/variants/s11/g9lo1g2r3g28k16lb1g8lb1db8r1~x2/"><circle cx="268.0" cy="84.7" r="4" fill="#3465a4"><title>New York Caledonian Club Day</title></circle></a><a href="/variants/s7/g3w1g12r6g3k3g2~x4/"><circle cx="324.9" cy="185.8" r="4" fill="#3465a4"><title>Arkansas (Fashion)</title></circle></a><a href="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/"><circle cx="334.3" cy="186.1" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="244.9" cy="185.5" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s14/g4lb6g3lb2g3lb2g3k5g3k5g20r3g4r3~x2/"><circle cx="255.2" cy="154.3" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x2/"><circle cx="268.4" cy="135.9" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x4/"><circle cx="268.4" cy="135.9" r="4" fill="#3465a4"><title>MacKendrick (Clan)</title></circle></a><a href="/variants/s11/g28dr2g28dr7lb2dr7lb2dr7k5dp4lb2~x2/"><circle cx="295.3" cy="137.5" r="4" fill="#3465a4"><title>Hynde (Sir John)</title></circle></a><a href="/variants/s11/k3g3y2g30k2g3r12g6lp6k3g3~x2/"><circle cx="287.9" cy="118.8" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><circle cx="266.8" cy="135.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y1g1r1g6k6g6w1g1~x4/"><circle cx="230.6" cy="186.7" r="4" fill="#3465a4"><title>Vermont</title></circle></a><a href="/variants/s11/g9lo1g2r3g28k16lb1g8lb1db8r1~x2/"><circle cx="267.9" cy="84.8" r="4" fill="#3465a4"><title>New York Caledonian Club Day</title></circle></a><a href="/variants/s7/g3w1g12r6g3k3g2~x4/"><circle cx="325.0" cy="186.3" r="4" fill="#3465a4"><title>Arkansas (Fashion)</title></circle></a><a href="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/"><circle cx="334.3" cy="186.6" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="244.9" cy="186.0" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s14/g4lb6g3lb2g3lb2g3k5g3k5g20r3g4r3~x2/"><circle cx="255.2" cy="154.8" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x2/"><circle cx="268.3" cy="136.2" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x4/"><circle cx="268.3" cy="136.2" r="4" fill="#3465a4"><title>MacKendrick (Clan)</title></circle></a><a href="/variants/s11/g28dr2g28dr7lb2dr7lb2dr7k5dp4lb2~x2/"><circle cx="295.3" cy="137.8" r="4" fill="#3465a4"><title>Hynde (Sir John)</title></circle></a><a href="/variants/s11/k3g3y2g30k2g3r12g6lp6k3g3~x2/"><circle cx="287.8" cy="119.1" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><circle cx="266.8" cy="135.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/

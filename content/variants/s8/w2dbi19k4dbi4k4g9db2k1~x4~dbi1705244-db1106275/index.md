@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Dollar Academy"
   url: "/tartans/dollar-academy/"
+- name: "Dollar Academy (1999) (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2dbi19k4dbi4k4g9db2k1/)
 (the same proportion at any scale), whose colour order is pattern [KBGKBKBW](/stripes/kbgkbkbw/).
@@ -14,7 +16,7 @@ Part of the [Dollar Academy](/tartans/dollar-academy/) tartan — the named desi
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2668
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2668](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2668)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb2dbi19k4dbi4k4g9db2k1~x4~dbi1404245-db1106275/"><circle cx="246.1" cy="142.3" r="4" fill="#3465a4"><title>Dollar Academy (1999)</title></circle></a><a href="/variants/s7/db24k8g8dp2g8k1w2~x2/"><circle cx="215.6" cy="136.3" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1w2/"><circle cx="211.5" cy="134.2" r="4" fill="#3465a4"><title>Fergusson</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1w2~x2/"><circle cx="211.5" cy="134.2" r="4" fill="#3465a4"><title>Ferguson of Athol</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1y2/"><circle cx="222.8" cy="137.7" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1y2~x2/"><circle cx="222.8" cy="137.7" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s8/db32k12db12g6r6g18k2y3~x2/"><circle cx="210.2" cy="158.5" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s6/db48w2k20g22r3g4~x2/"><circle cx="237.5" cy="139.1" r="4" fill="#3465a4"><title>MacFadzean</title></circle></a><a href="/variants/s7/k7db4g31db3y2db27lb4~x2/"><circle cx="222.6" cy="155.6" r="4" fill="#3465a4"><title>Wishart Htg (Clan)</title></circle></a><a href="/variants/s7/db50g26k9g4lb2dr2g10~x2/"><circle cx="272.1" cy="130.9" r="4" fill="#3465a4"><title>Java Saint Andrew Society Hunting</title></circle></a><circle cx="232.2" cy="138.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb2dbi19k4dbi4k4g9db2k1~x4~dbi1404245-db1106275/"><circle cx="246.1" cy="142.6" r="4" fill="#3465a4"><title>Dollar Academy (1999)</title></circle></a><a href="/variants/s7/db24k8g8dp2g8k1w2~x2/"><circle cx="215.5" cy="136.6" r="4" fill="#3465a4"><title>Alexander</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1w2/"><circle cx="211.4" cy="134.4" r="4" fill="#3465a4"><title>Fergusson</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1w2~x2/"><circle cx="211.4" cy="134.4" r="4" fill="#3465a4"><title>Ferguson of Athol</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1y2/"><circle cx="222.8" cy="137.9" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1y2~x2/"><circle cx="222.8" cy="137.9" r="4" fill="#3465a4"><title>MacLaren</title></circle></a><a href="/variants/s8/db32k12db12g6r6g18k2y3~x2/"><circle cx="210.1" cy="158.9" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s6/db48w2k20g22r3g4~x2/"><circle cx="237.4" cy="139.4" r="4" fill="#3465a4"><title>MacFadzean</title></circle></a><a href="/variants/s7/k7db4g31db3y2db27lb4~x2/"><circle cx="222.6" cy="155.9" r="4" fill="#3465a4"><title>Wishart Htg (Clan)</title></circle></a><a href="/variants/s7/db50g26k9g4lb2dr2g10~x2/"><circle cx="272.1" cy="131.1" r="4" fill="#3465a4"><title>Java Saint Andrew Society Hunting</title></circle></a><circle cx="232.2" cy="139.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/w2dbi19k4dbi4k4g9db2k1~x4~dbi1705244-db1106275/

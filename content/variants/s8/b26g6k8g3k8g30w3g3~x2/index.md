@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Riley (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b26g6k8g3k8g30w3g3/)
 (the same proportion at any scale), whose colour order is pattern [BGKGKGWG](/stripes/bgkgkgwg/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8439
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8439](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8439)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/"><circle cx="204.9" cy="166.6" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><a href="/variants/s7/k5g2k5g2db8g25w4~x2/"><circle cx="252.9" cy="164.7" r="4" fill="#3465a4"><title>Keppoch</title></circle></a><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="244.9" cy="185.5" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s10/db19g7db7lb2g20k9g6k4g10w3~x2/"><circle cx="173.7" cy="179.4" r="4" fill="#3465a4"><title>O'Connell, William (Name)</title></circle></a><a href="/variants/s9/t12lo1t2lo1t3k5g10lo1g2~x4/"><circle cx="222.7" cy="176.9" r="4" fill="#3465a4"><title>Marie Curie Fields Of Hope</title></circle></a><a href="/variants/s9/db21g5k5g15w3g5w3g5k3~x2/"><circle cx="173.7" cy="195.4" r="4" fill="#3465a4"><title>Tweedside, hunting</title></circle></a><a href="/variants/s10/b12w2b7g15k2g4k2g15b2k7~x2/"><circle cx="197.7" cy="198.0" r="4" fill="#3465a4"><title>Smeaton</title></circle></a><a href="/variants/s9/db18g2k2g5w2g2w2g2k2~x4/"><circle cx="214.5" cy="155.9" r="4" fill="#3465a4"><title>Tweedside Hunting</title></circle></a><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="205.3" cy="188.5" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><a href="/variants/s9/b22g4k4g14lb3g4lb3g4k3~x2/"><circle cx="189.6" cy="193.6" r="4" fill="#3465a4"><title>Graden (Personal)</title></circle></a><circle cx="209.6" cy="179.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/"><circle cx="204.9" cy="167.0" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><a href="/variants/s7/k5g2k5g2db8g25w4~x2/"><circle cx="252.9" cy="165.2" r="4" fill="#3465a4"><title>Keppoch</title></circle></a><a href="/variants/s8/g8k2g13r4g12db22g5ly3~x2/"><circle cx="244.9" cy="186.0" r="4" fill="#3465a4"><title>Taylor</title></circle></a><a href="/variants/s10/db19g7db7lb2g20k9g6k4g10w3~x2/"><circle cx="173.7" cy="179.9" r="4" fill="#3465a4"><title>O'Connell, William (Name)</title></circle></a><a href="/variants/s9/t12lo1t2lo1t3k5g10lo1g2~x4/"><circle cx="222.7" cy="177.3" r="4" fill="#3465a4"><title>Marie Curie Fields Of Hope</title></circle></a><a href="/variants/s9/db21g5k5g15w3g5w3g5k3~x2/"><circle cx="173.7" cy="195.9" r="4" fill="#3465a4"><title>Tweedside, hunting</title></circle></a><a href="/variants/s10/b12w2b7g15k2g4k2g15b2k7~x2/"><circle cx="197.8" cy="198.6" r="4" fill="#3465a4"><title>Smeaton</title></circle></a><a href="/variants/s9/db18g2k2g5w2g2w2g2k2~x4/"><circle cx="214.5" cy="156.2" r="4" fill="#3465a4"><title>Tweedside Hunting</title></circle></a><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="205.4" cy="189.0" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><a href="/variants/s9/b22g4k4g14lb3g4lb3g4k3~x2/"><circle cx="189.7" cy="194.1" r="4" fill="#3465a4"><title>Graden (Personal)</title></circle></a><circle cx="209.7" cy="179.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/b26g6k8g3k8g30w3g3~x2/

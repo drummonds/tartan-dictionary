@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Orion Nebula"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp49g3r5db15y4/)
 (the same proportion at any scale), whose colour order is pattern [BGRBG](/stripes/bgrbg/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10632
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10632](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10632)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dp20db25w3k2~x2/"><circle cx="327.0" cy="222.8" r="4" fill="#3465a4"><title>Murdoch, Ellis (Personal)</title></circle></a><a href="/variants/s5/r2dp20db9dp20g2~x2/"><circle cx="572.3" cy="260.4" r="4" fill="#3465a4"><title>Scottish Netball (1987) (Corporate)</title></circle></a><a href="/variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/"><circle cx="505.4" cy="132.6" r="4" fill="#3465a4"><title>Michie Dress, Andrew</title></circle></a><a href="/variants/s4/db8dr1k1n1~x10/"><circle cx="486.1" cy="226.5" r="4" fill="#3465a4"><title>Kucher, Gregory</title></circle></a><a href="/variants/s6/w2dr45y3dg8db8w2~x2/"><circle cx="445.4" cy="150.8" r="4" fill="#3465a4"><title>Glencross (Moniaive) (Personal)</title></circle></a><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="488.5" cy="218.0" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><a href="/variants/s4/db62r24y5g3~x2/"><circle cx="423.2" cy="184.4" r="4" fill="#3465a4"><title>Meaux, Luc G (Personal)</title></circle></a><a href="/variants/s6/dp10y3dp8db42g5n5~x2/"><circle cx="438.3" cy="214.0" r="4" fill="#3465a4"><title>Cheadle (Personal)</title></circle></a><a href="/variants/s6/dr28r1db18y2g6db18~x2/"><circle cx="364.4" cy="186.8" r="4" fill="#3465a4"><title>British Judo Association</title></circle></a><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/"><circle cx="356.7" cy="153.8" r="4" fill="#3465a4"><title>European Judo Union</title></circle></a><circle cx="461.9" cy="185.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dp20db25w3k2~x2/"><circle cx="327.1" cy="223.2" r="4" fill="#3465a4"><title>Murdoch, Ellis (Personal)</title></circle></a><a href="/variants/s5/r2dp20db9dp20g2~x2/"><circle cx="572.4" cy="260.7" r="4" fill="#3465a4"><title>Scottish Netball (1987) (Corporate)</title></circle></a><a href="/variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/"><circle cx="505.4" cy="132.5" r="4" fill="#3465a4"><title>Michie Dress, Andrew</title></circle></a><a href="/variants/s4/db8dr1k1n1~x10/"><circle cx="486.1" cy="226.8" r="4" fill="#3465a4"><title>Kucher, Gregory</title></circle></a><a href="/variants/s6/w2dr45y3dg8db8w2~x2/"><circle cx="445.4" cy="151.0" r="4" fill="#3465a4"><title>Glencross (Moniaive) (Personal)</title></circle></a><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="488.6" cy="218.2" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><a href="/variants/s4/db62r24y5g3~x2/"><circle cx="423.3" cy="184.8" r="4" fill="#3465a4"><title>Meaux, Luc G (Personal)</title></circle></a><a href="/variants/s6/dp10y3dp8db42g5n5~x2/"><circle cx="438.4" cy="214.1" r="4" fill="#3465a4"><title>Cheadle (Personal)</title></circle></a><a href="/variants/s6/dr28r1db18y2g6db18~x2/"><circle cx="364.4" cy="187.0" r="4" fill="#3465a4"><title>British Judo Association</title></circle></a><a href="/variants/s6/r28ri1db18ly2g1db18~x2~r1807033-ri2109032/"><circle cx="356.7" cy="154.1" r="4" fill="#3465a4"><title>European Judo Union</title></circle></a><circle cx="462.0" cy="185.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dp49g3r5db15y4~x2/

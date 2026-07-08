@@ -16,7 +16,7 @@ Part of the [O'Brien](/tartans/o-brien/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4818
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4818](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4818)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -64,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lo13g6y2g3y2g6lb3g2lb3g12r3g6~x2/"><circle cx="293.6" cy="222.5" r="4" fill="#3465a4"><title>O'Brien (Name)</title></circle></a><a href="/variants/s12/lo12g6y2g3y2g6lb3g2lb3g12r3g6~x2/"><circle cx="295.0" cy="228.0" r="4" fill="#3465a4"><title>O'Brien Irish Family Tartan</title></circle></a><a href="/variants/s12/b13g6y2g3y2g6lb3g2lb3g12r3g6~x2/"><circle cx="299.5" cy="226.5" r="4" fill="#3465a4"><title>O'Brien</title></circle></a><a href="/variants/s11/g7n3r3lb3r3n3g12y4g4y4lb3~x2/"><circle cx="233.0" cy="268.6" r="4" fill="#3465a4"><title>Ralston (USA)</title></circle></a><circle cx="352.2" cy="239.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lo13g6y2g3y2g6lb3g2lb3g12r3g6~x2/"><circle cx="293.7" cy="223.0" r="4" fill="#3465a4"><title>O'Brien (Name)</title></circle></a><a href="/variants/s12/lo12g6y2g3y2g6lb3g2lb3g12r3g6~x2/"><circle cx="295.2" cy="228.4" r="4" fill="#3465a4"><title>O'Brien Irish Family Tartan</title></circle></a><a href="/variants/s12/b13g6y2g3y2g6lb3g2lb3g12r3g6~x2/"><circle cx="299.6" cy="226.9" r="4" fill="#3465a4"><title>O'Brien</title></circle></a><a href="/variants/s11/g7n3r3lb3r3n3g12y4g4y4lb3~x2/"><circle cx="233.1" cy="269.1" r="4" fill="#3465a4"><title>Ralston (USA)</title></circle></a><circle cx="352.4" cy="239.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/lo13g6y2g3y2g6lb3g2lb3g12r3g6~x2~lo2706066-g2203152/

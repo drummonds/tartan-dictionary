@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Malcolm"
   url: "/tartans/malcolm/"
+- name: "Malcolm (1840)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k21dg21k6lb4k6y4k6dg21k21db25lr4db6r4db21/)
 (the same proportion at any scale), whose colour order is pattern [BRBYBKGKGKWKGK](/stripes/brbybkgkgkwkgk/).
@@ -14,7 +16,7 @@ Part of the [Malcolm](/tartans/malcolm/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2793
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2793](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2793)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -84,8 +86,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/k1y1k1g6k6db6r1db1r1db6k6g6k1lb1~x4/"><circle cx="71.9" cy="159.4" r="4" fill="#3465a4"><title>Malcolm #2</title></circle></a><a href="/variants/s14/db1r1db6k6g6k1y1k1lb1k1g6k6db6r1~x2/"><circle cx="71.9" cy="159.4" r="4" fill="#3465a4"><title>Malcolm (a)</title></circle></a><a href="/variants/s14/k1y1k1g6k6db6r1db1r1db6k6g6k1t1~x4/"><circle cx="74.6" cy="160.4" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/variants/s14/db1r1db6k6g6k1y1k1w1k1g6k6db6r1/"><circle cx="69.1" cy="158.5" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/variants/s14/k20dg18k2w2k5y2k2dg18k20db18t4db4t4db18~x2~db1406275-t2205244/"><circle cx="128.6" cy="148.8" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><a href="/variants/s14/db3k3db15k15y3dg15k3dg15w3k15dbi4r6k3y2~x2~db1204274-dbi1406275/"><circle cx="81.0" cy="142.6" r="4" fill="#3465a4"><title>Allison Family Tartan</title></circle></a><a href="/variants/s15/db2r1db6k6g6k1lb1k1y1k1g6k6db6g1db2~x4/"><circle cx="75.4" cy="161.4" r="4" fill="#3465a4"><title>Malcolm (symmetrical)</title></circle></a><a href="/variants/s10/db11r3db2n3k12dg20y2k12db11ly3~x2~ly2705081/"><circle cx="92.0" cy="155.7" r="4" fill="#3465a4"><title>Wisconsin State American District Tartan</title></circle></a><a href="/variants/s10/db11r3db2n3k12dg20y2k12db11ly3~x2/"><circle cx="84.5" cy="153.4" r="4" fill="#3465a4"><title>Wisconsin (US State)</title></circle></a><a href="/variants/s8/r4y3g12k16dy5db20k4w2~x2/"><circle cx="56.2" cy="136.4" r="4" fill="#3465a4"><title>Iowa</title></circle></a><circle cx="84.7" cy="161.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/k1y1k1g6k6db6r1db1r1db6k6g6k1lb1~x4/"><circle cx="71.9" cy="159.7" r="4" fill="#3465a4"><title>Malcolm #2</title></circle></a><a href="/variants/s14/db1r1db6k6g6k1y1k1lb1k1g6k6db6r1~x2/"><circle cx="71.9" cy="159.7" r="4" fill="#3465a4"><title>Malcolm (a)</title></circle></a><a href="/variants/s14/k1y1k1g6k6db6r1db1r1db6k6g6k1t1~x4/"><circle cx="74.6" cy="160.8" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/variants/s14/db1r1db6k6g6k1y1k1w1k1g6k6db6r1/"><circle cx="69.0" cy="158.9" r="4" fill="#3465a4"><title>Malcolm</title></circle></a><a href="/variants/s14/k20dg18k2w2k5y2k2dg18k20db18t4db4t4db18~x2~db1406275-t2205244/"><circle cx="128.5" cy="149.0" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><a href="/variants/s14/db3k3db15k15y3dg15k3dg15w3k15dbi4r6k3y2~x2~db1204274-dbi1406275/"><circle cx="80.9" cy="142.8" r="4" fill="#3465a4"><title>Allison Family Tartan</title></circle></a><a href="/variants/s15/db2r1db6k6g6k1lb1k1y1k1g6k6db6g1db2~x4/"><circle cx="75.3" cy="161.8" r="4" fill="#3465a4"><title>Malcolm (symmetrical)</title></circle></a><a href="/variants/s10/db11r3db2n3k12dg20y2k12db11ly3~x2~ly2705081/"><circle cx="91.9" cy="155.9" r="4" fill="#3465a4"><title>Wisconsin State American District Tartan</title></circle></a><a href="/variants/s10/db11r3db2n3k12dg20y2k12db11ly3~x2/"><circle cx="84.5" cy="153.6" r="4" fill="#3465a4"><title>Wisconsin (US State)</title></circle></a><a href="/variants/s8/r4y3g12k16dy5db20k4w2~x2/"><circle cx="56.1" cy="136.7" r="4" fill="#3465a4"><title>Iowa</title></circle></a><circle cx="84.7" cy="162.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/k21dg21k6lb4k6y4k6dg21k21db25lr4db6r4db21~lr2805035-r2109032/

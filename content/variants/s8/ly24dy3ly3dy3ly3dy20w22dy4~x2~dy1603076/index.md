@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Baillie Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly24dy3ly3dy3ly3dy20w22dy4/)
 (the same proportion at any scale), whose colour order is pattern [GWGYGYGY](/stripes/gwgygygy/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=164
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=164](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=164)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/ly22do2ly2do2ly2do15w17do3~x2/"><circle cx="270.1" cy="226.9" r="4" fill="#3465a4"><title>Turnberry Manx Snaefell Family Tartan</title></circle></a><a href="/variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/"><circle cx="272.5" cy="215.9" r="4" fill="#3465a4"><title>Snaefell (District)</title></circle></a><a href="/variants/s8/n2dy2n15dy2w10ly15dy2ly2~x2/"><circle cx="198.2" cy="225.9" r="4" fill="#3465a4"><title>Bannockbane Grey #2</title></circle></a><a href="/variants/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/"><circle cx="268.2" cy="212.5" r="4" fill="#3465a4"><title>Kildonan Brown (Fashion)</title></circle></a><a href="/variants/s7/do5lo4do26ly26do4ly3w5~x2/"><circle cx="294.9" cy="226.4" r="4" fill="#3465a4"><title>Elgin District Tartan</title></circle></a><a href="/variants/s8/g4dy3g21dy2w14ly22dy3ly4~x2/"><circle cx="213.9" cy="218.6" r="4" fill="#3465a4"><title>Bannock Bane M.406</title></circle></a><a href="/variants/s8/g2do8g8ly3do1w12g2do1~x2/"><circle cx="180.9" cy="210.9" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/variants/s9/y6w1y5w12y1db1lb1db1lb4~x4/"><circle cx="253.3" cy="197.7" r="4" fill="#3465a4"><title>MacGrath (Personal)</title></circle></a><a href="/variants/s14/lr16dy14ly2dy2ly2dy2ly22dy2ly2dy2ly2dy14lr16dy3~x2~dy1603076/"><circle cx="275.8" cy="201.4" r="4" fill="#3465a4"><title>Snaefell</title></circle></a><a href="/variants/s11/g6w4g3w4g2w7g2w2g5r15w2~x2/"><circle cx="192.0" cy="219.0" r="4" fill="#3465a4"><title>Prince George (Royal)</title></circle></a><circle cx="238.2" cy="236.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/ly22do2ly2do2ly2do15w17do3~x2/"><circle cx="270.3" cy="227.6" r="4" fill="#3465a4"><title>Turnberry Manx Snaefell Family Tartan</title></circle></a><a href="/variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/"><circle cx="272.6" cy="216.5" r="4" fill="#3465a4"><title>Snaefell (District)</title></circle></a><a href="/variants/s8/n2dy2n15dy2w10ly15dy2ly2~x2/"><circle cx="198.4" cy="226.5" r="4" fill="#3465a4"><title>Bannockbane Grey #2</title></circle></a><a href="/variants/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/"><circle cx="268.3" cy="213.0" r="4" fill="#3465a4"><title>Kildonan Brown (Fashion)</title></circle></a><a href="/variants/s7/do5lo4do26ly26do4ly3w5~x2/"><circle cx="295.0" cy="227.1" r="4" fill="#3465a4"><title>Elgin District Tartan</title></circle></a><a href="/variants/s8/g4dy3g21dy2w14ly22dy3ly4~x2/"><circle cx="214.1" cy="219.2" r="4" fill="#3465a4"><title>Bannock Bane M.406</title></circle></a><a href="/variants/s8/g2do8g8ly3do1w12g2do1~x2/"><circle cx="181.0" cy="211.4" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/variants/s9/y6w1y5w12y1db1lb1db1lb4~x4/"><circle cx="253.5" cy="198.2" r="4" fill="#3465a4"><title>MacGrath (Personal)</title></circle></a><a href="/variants/s14/lr16dy14ly2dy2ly2dy2ly22dy2ly2dy2ly2dy14lr16dy3~x2~dy1603076/"><circle cx="275.9" cy="201.8" r="4" fill="#3465a4"><title>Snaefell</title></circle></a><a href="/variants/s11/g6w4g3w4g2w7g2w2g5r15w2~x2/"><circle cx="192.2" cy="219.7" r="4" fill="#3465a4"><title>Prince George (Royal)</title></circle></a><circle cx="238.4" cy="237.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/

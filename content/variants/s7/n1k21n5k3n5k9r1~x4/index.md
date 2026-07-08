@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sunderland of Scotland (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n1k21n5k3n5k9r1/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKR](/stripes/bkbkbkr/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7511
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7511](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7511)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n13k3n3k3n3k35r3~x2/"><circle cx="365.8" cy="157.2" r="4" fill="#3465a4"><title>Holden Black (Corporate)</title></circle></a><a href="/variants/s7/k39n3k3n3k14n28r3~x2/"><circle cx="335.7" cy="168.3" r="4" fill="#3465a4"><title>Moffat (1984)</title></circle></a><a href="/variants/s6/k15n7k6n11k50n4~x2/"><circle cx="472.0" cy="193.6" r="4" fill="#3465a4"><title>Freedom of Scotland</title></circle></a><a href="/variants/s6/k53n22k10n10k2n4~x2/"><circle cx="414.1" cy="165.2" r="4" fill="#3465a4"><title>Black Isle</title></circle></a><a href="/variants/s6/k24n11k5n5k1n2~x4/"><circle cx="398.0" cy="173.0" r="4" fill="#3465a4"><title>Black Isle Corporate Tartan</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="426.0" cy="81.8" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s9/k21dp2n1k1n1dp2k6db2n1~x4/"><circle cx="485.4" cy="115.6" r="4" fill="#3465a4"><title>Clan Inebriated</title></circle></a><a href="/variants/s8/k24n18k11n4k11n18k53r4/"><circle cx="372.4" cy="176.1" r="4" fill="#3465a4"><title>Spirit of Glyndwr Red (Fashion)</title></circle></a><a href="/variants/s6/k21w2k5w9k13g2~x4/"><circle cx="371.3" cy="192.7" r="4" fill="#3465a4"><title>New Zealand District Tartan</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="425.2" cy="154.4" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><circle cx="432.8" cy="151.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n13k3n3k3n3k35r3~x2/"><circle cx="365.8" cy="157.6" r="4" fill="#3465a4"><title>Holden Black (Corporate)</title></circle></a><a href="/variants/s7/k39n3k3n3k14n28r3~x2/"><circle cx="335.7" cy="168.7" r="4" fill="#3465a4"><title>Moffat (1984)</title></circle></a><a href="/variants/s6/k15n7k6n11k50n4~x2/"><circle cx="472.0" cy="194.1" r="4" fill="#3465a4"><title>Freedom of Scotland</title></circle></a><a href="/variants/s6/k53n22k10n10k2n4~x2/"><circle cx="414.1" cy="165.6" r="4" fill="#3465a4"><title>Black Isle</title></circle></a><a href="/variants/s6/k24n11k5n5k1n2~x4/"><circle cx="398.0" cy="173.4" r="4" fill="#3465a4"><title>Black Isle Corporate Tartan</title></circle></a><a href="/variants/s8/k31w1k2w2dt3k2n4w2~x4~dt1102249-n2203265/"><circle cx="425.8" cy="82.0" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/variants/s9/k21dp2n1k1n1dp2k6db2n1~x4/"><circle cx="485.3" cy="115.7" r="4" fill="#3465a4"><title>Clan Inebriated</title></circle></a><a href="/variants/s8/k24n18k11n4k11n18k53r4/"><circle cx="372.4" cy="176.5" r="4" fill="#3465a4"><title>Spirit of Glyndwr Red (Fashion)</title></circle></a><a href="/variants/s6/k21w2k5w9k13g2~x4/"><circle cx="371.3" cy="193.3" r="4" fill="#3465a4"><title>New Zealand District Tartan</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="425.2" cy="154.9" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><circle cx="432.7" cy="151.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/n1k21n5k3n5k9r1~x4/

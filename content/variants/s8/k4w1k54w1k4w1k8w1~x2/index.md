@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "YMCA Corporate Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4w1k54w1k4w1k8w1/)
 (the same proportion at any scale), whose colour order is pattern [KWKKKKWKWKW](/stripes/kwkkkkwkwkw/).
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10999
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10999](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10999)
 
 ## Provenance
 

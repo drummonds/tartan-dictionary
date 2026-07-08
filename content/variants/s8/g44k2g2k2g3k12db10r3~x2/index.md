@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Celtic (New) Corporate Sport Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g44k2g2k2g3k12db10r3/)
 (the same proportion at any scale), whose colour order is pattern [GKGKGKBR](/stripes/gkgkgkbr/).
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2232
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2232](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2232)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/"><circle cx="243.6" cy="108.4" r="4" fill="#3465a4"><title>Sarafilovic (Corporate)</title></circle></a><a href="/variants/s9/w4g30k1g1k1g3k12db10r3~x2/"><circle cx="240.4" cy="95.7" r="4" fill="#3465a4"><title>MacDonald of The Isles</title></circle></a><a href="/variants/s9/w4g30k1g1k1g3k12db10r3/"><circle cx="240.4" cy="95.7" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/variants/s8/k19r1g3k7g2k2g20w2~x2/"><circle cx="259.4" cy="134.7" r="4" fill="#3465a4"><title>Scottish Chieftain</title></circle></a><a href="/variants/s6/k3lb1g21k2dr3lb2~x2/"><circle cx="356.5" cy="137.8" r="4" fill="#3465a4"><title>Leach Hunting</title></circle></a><a href="/variants/s6/g32k6g4k8r1k2~x4/"><circle cx="399.2" cy="135.0" r="4" fill="#3465a4"><title>Fife, Duke Of</title></circle></a><a href="/variants/s6/g32k6g4k8r1k2~x2/"><circle cx="399.2" cy="135.0" r="4" fill="#3465a4"><title>Fife, Duke of..</title></circle></a><a href="/variants/s7/k5g2k5g2db8g25w4~x2/"><circle cx="252.9" cy="164.7" r="4" fill="#3465a4"><title>Keppoch</title></circle></a><a href="/variants/s8/g60w3k12n5g9n6k4w10/"><circle cx="325.8" cy="130.0" r="4" fill="#3465a4"><title>New York Jets</title></circle></a><a href="/variants/s10/g16dy1k2r1k1r1k2dy1k1g1~x4/"><circle cx="327.1" cy="106.6" r="4" fill="#3465a4"><title>Forde Irish Family Tartan</title></circle></a><circle cx="334.3" cy="119.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r4db15k18g3k2g2k2g44y4~x2/"><circle cx="243.5" cy="108.6" r="4" fill="#3465a4"><title>Sarafilovic (Corporate)</title></circle></a><a href="/variants/s9/w4g30k1g1k1g3k12db10r3~x2/"><circle cx="240.2" cy="95.9" r="4" fill="#3465a4"><title>MacDonald of The Isles</title></circle></a><a href="/variants/s9/w4g30k1g1k1g3k12db10r3/"><circle cx="240.2" cy="95.9" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/variants/s8/k19r1g3k7g2k2g20w2~x2/"><circle cx="259.3" cy="135.0" r="4" fill="#3465a4"><title>Scottish Chieftain</title></circle></a><a href="/variants/s6/k3lb1g21k2dr3lb2~x2/"><circle cx="356.5" cy="138.2" r="4" fill="#3465a4"><title>Leach Hunting</title></circle></a><a href="/variants/s6/g32k6g4k8r1k2~x4/"><circle cx="399.2" cy="135.3" r="4" fill="#3465a4"><title>Fife, Duke Of</title></circle></a><a href="/variants/s6/g32k6g4k8r1k2~x2/"><circle cx="399.2" cy="135.3" r="4" fill="#3465a4"><title>Fife, Duke of..</title></circle></a><a href="/variants/s7/k5g2k5g2db8g25w4~x2/"><circle cx="252.9" cy="165.2" r="4" fill="#3465a4"><title>Keppoch</title></circle></a><a href="/variants/s8/g60w3k12n5g9n6k4w10/"><circle cx="325.7" cy="130.4" r="4" fill="#3465a4"><title>New York Jets</title></circle></a><a href="/variants/s10/g16dy1k2r1k1r1k2dy1k1g1~x4/"><circle cx="327.0" cy="106.9" r="4" fill="#3465a4"><title>Forde Irish Family Tartan</title></circle></a><circle cx="334.2" cy="119.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g44k2g2k2g3k12db10r3~x2/

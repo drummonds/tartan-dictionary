@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacHardy"
   url: "/tartans/machardy/"
+- name: "MacHardy (Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt6r3dg26dt26w2dt27r5dg5/)
 (the same proportion at any scale), whose colour order is pattern [BRGBWBRG](/stripes/brgbwbrg/).
@@ -14,7 +16,7 @@ Part of the [MacHardy](/tartans/machardy/) tartan — the named design grouping 
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=514
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=514](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=514)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -85,8 +87,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg2g2dgi7dg10dgi1g1~x4~g2408144-dgi1806142/"><circle cx="460.9" cy="290.4" r="4" fill="#3465a4"><title>Emerald, The</title></circle></a><a href="/variants/s9/dr3dg24k4dg10g3dg10dr5dy3n3~x2/"><circle cx="423.6" cy="202.6" r="4" fill="#3465a4"><title>Battle of the Somme Centenary</title></circle></a><a href="/variants/s6/g4dg18dgi6dg6dgi24k3~x2~dgi1605139/"><circle cx="394.8" cy="274.1" r="4" fill="#3465a4"><title>Park Estate</title></circle></a><a href="/variants/s6/g4dg18dgi6dg6dgi24ly3~x2~dgi1605139/"><circle cx="418.1" cy="295.3" r="4" fill="#3465a4"><title>Park (Estate Check)</title></circle></a><a href="/variants/s9/dgi4ly2dgi17dg2dr4dg2dgi3dg11dgi2~x2~dgi1603171/"><circle cx="472.5" cy="269.6" r="4" fill="#3465a4"><title>Armagh, County</title></circle></a><circle cx="456.5" cy="237.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg2g2dgi7dg10dgi1g1~x4~g2408144-dgi1806142/"><circle cx="461.1" cy="290.7" r="4" fill="#3465a4"><title>Emerald, The</title></circle></a><a href="/variants/s9/dr3dg24k4dg10g3dg10dr5dy3n3~x2/"><circle cx="423.7" cy="202.7" r="4" fill="#3465a4"><title>Battle of the Somme Centenary</title></circle></a><a href="/variants/s6/g4dg18dgi6dg6dgi24k3~x2~dgi1605139/"><circle cx="394.9" cy="274.3" r="4" fill="#3465a4"><title>Park Estate</title></circle></a><a href="/variants/s6/g4dg18dgi6dg6dgi24ly3~x2~dgi1605139/"><circle cx="418.3" cy="295.6" r="4" fill="#3465a4"><title>Park (Estate Check)</title></circle></a><a href="/variants/s9/dgi4ly2dgi17dg2dr4dg2dgi3dg11dgi2~x2~dgi1603171/"><circle cx="472.6" cy="269.7" r="4" fill="#3465a4"><title>Armagh, County</title></circle></a><circle cx="456.6" cy="238.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dt6r3dg26dt26w2dt27r5dg5~x2/

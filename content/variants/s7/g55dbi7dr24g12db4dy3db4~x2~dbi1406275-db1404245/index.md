@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Crieff & Strathearn #1"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g55dbi7dr24g12db4dy3db4/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBBG](/stripes/bgbgbbg/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=804
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=804](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=804)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g55dp7r24g12db4y3db4~x2/"><circle cx="364.6" cy="159.1" r="4" fill="#3465a4"><title>Crieff, and Strathearn</title></circle></a><a href="/variants/s7/g10r3g30n10w2db15r4~x2/"><circle cx="289.7" cy="189.2" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s9/dg20dr1ly1dr1w1dg1dr1w1b5~x4/"><circle cx="412.5" cy="126.4" r="4" fill="#3465a4"><title>Scotts Valley</title></circle></a><a href="/variants/s6/g55y4db15w3dr3w5~x2/"><circle cx="390.5" cy="164.4" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s8/y5g3y3g53dr7db5dr13w4~x2/"><circle cx="379.0" cy="157.1" r="4" fill="#3465a4"><title>Hall (P.I.E.) (Personal)</title></circle></a><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="379.9" cy="156.8" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s7/dt16g4dt3g3lo2g24dr2~x2/"><circle cx="400.6" cy="221.8" r="4" fill="#3465a4"><title>St. Andrews Links (Corporate)</title></circle></a><a href="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/"><circle cx="374.0" cy="128.3" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/variants/s7/db1r3g11r2db5g11y1~x2/"><circle cx="367.4" cy="212.9" r="4" fill="#3465a4"><title>MacKintosh, hunting</title></circle></a><a href="/variants/s8/r5w4dbi6db2g43db2dbi4r3~x2~dbi1406275-db1204274/"><circle cx="360.6" cy="121.2" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><circle cx="404.4" cy="183.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g55dp7r24g12db4y3db4~x2/"><circle cx="364.6" cy="159.3" r="4" fill="#3465a4"><title>Crieff, and Strathearn</title></circle></a><a href="/variants/s7/g10r3g30n10w2db15r4~x2/"><circle cx="289.7" cy="189.6" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s9/dg20dr1ly1dr1w1dg1dr1w1b5~x4/"><circle cx="412.5" cy="126.5" r="4" fill="#3465a4"><title>Scotts Valley</title></circle></a><a href="/variants/s6/g55y4db15w3dr3w5~x2/"><circle cx="390.6" cy="164.7" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s8/y5g3y3g53dr7db5dr13w4~x2/"><circle cx="379.0" cy="157.3" r="4" fill="#3465a4"><title>Hall (P.I.E.) (Personal)</title></circle></a><a href="/variants/s6/g55y4db15w3r3w5~x2/"><circle cx="379.9" cy="157.1" r="4" fill="#3465a4"><title>Spencer (2013)</title></circle></a><a href="/variants/s7/dt16g4dt3g3lo2g24dr2~x2/"><circle cx="400.7" cy="222.2" r="4" fill="#3465a4"><title>St. Andrews Links (Corporate)</title></circle></a><a href="/variants/s8/r5w4lg6db2g43db2lg4r3~x2~lg2704216-db1108266/"><circle cx="374.0" cy="128.5" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><a href="/variants/s7/db1r3g11r2db5g11y1~x2/"><circle cx="367.5" cy="213.4" r="4" fill="#3465a4"><title>MacKintosh, hunting</title></circle></a><a href="/variants/s8/r5w4dbi6db2g43db2dbi4r3~x2~dbi1406275-db1204274/"><circle cx="360.5" cy="121.4" r="4" fill="#3465a4"><title>Mullikin (2013)</title></circle></a><circle cx="404.5" cy="183.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g55dbi7dr24g12db4dy3db4~x2~dbi1406275-db1404245/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sidney (Nova Scotia) Canadian Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n16k4w2k4n6r11n2r16/)
 (the same proportion at any scale), whose colour order is pattern [BKWKBRBR](/stripes/bkwkbrbr/).
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1291
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1291](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1291)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n6k2w1k2n3r6n1r6~x4/"><circle cx="157.2" cy="189.9" r="4" fill="#3465a4"><title>Sydney (Nova Scotia)</title></circle></a><a href="/variants/s10/n28k3r22k8w3k8r22k3n28k3~x2/"><circle cx="195.1" cy="172.2" r="4" fill="#3465a4"><title>Henkel</title></circle></a><a href="/variants/s6/r3db15r3g8r20k2~x2/"><circle cx="248.2" cy="190.5" r="4" fill="#3465a4"><title>Finnigan (Estimated threadcount)</title></circle></a><a href="/variants/s7/k2r12db6r3g12r4db1~x2/"><circle cx="224.9" cy="186.9" r="4" fill="#3465a4"><title>MacBean/MacElvain</title></circle></a><a href="/variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/"><circle cx="258.0" cy="209.1" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><a href="/variants/s9/db24r3db4r6g8r3g8r30k3~x2/"><circle cx="230.7" cy="164.1" r="4" fill="#3465a4"><title>Gates</title></circle></a><a href="/variants/s9/r12g2r4g4k15lb4r4lb2r12~x2/"><circle cx="212.7" cy="183.4" r="4" fill="#3465a4"><title>Alexander (Personal)</title></circle></a><a href="/variants/s7/g6r2dp2g4dp2r12k1~x2/"><circle cx="257.3" cy="179.2" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><circle cx="177.1" cy="170.6" r="4" fill="#3465a4"><title>Graham Red</title></circle></a><a href="/variants/s9/r12db2r4db4k15g4r4g2r12~x2/"><circle cx="217.8" cy="184.8" r="4" fill="#3465a4"><title>Alexander - 1985 (Name)</title></circle></a><circle cx="217.1" cy="200.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n6k2w1k2n3r6n1r6~x4/"><circle cx="157.3" cy="190.5" r="4" fill="#3465a4"><title>Sydney (Nova Scotia)</title></circle></a><a href="/variants/s10/n28k3r22k8w3k8r22k3n28k3~x2/"><circle cx="195.1" cy="172.6" r="4" fill="#3465a4"><title>Henkel</title></circle></a><a href="/variants/s6/r3db15r3g8r20k2~x2/"><circle cx="248.3" cy="191.1" r="4" fill="#3465a4"><title>Finnigan (Estimated threadcount)</title></circle></a><a href="/variants/s7/k2r12db6r3g12r4db1~x2/"><circle cx="224.9" cy="187.4" r="4" fill="#3465a4"><title>MacBean/MacElvain</title></circle></a><a href="/variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/"><circle cx="258.1" cy="209.7" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><a href="/variants/s9/db24r3db4r6g8r3g8r30k3~x2/"><circle cx="230.7" cy="164.5" r="4" fill="#3465a4"><title>Gates</title></circle></a><a href="/variants/s9/r12g2r4g4k15lb4r4lb2r12~x2/"><circle cx="212.8" cy="184.1" r="4" fill="#3465a4"><title>Alexander (Personal)</title></circle></a><a href="/variants/s7/g6r2dp2g4dp2r12k1~x2/"><circle cx="257.3" cy="179.7" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><circle cx="177.2" cy="171.2" r="4" fill="#3465a4"><title>Graham Red</title></circle></a><a href="/variants/s9/r12db2r4db4k15g4r4g2r12~x2/"><circle cx="217.9" cy="185.4" r="4" fill="#3465a4"><title>Alexander - 1985 (Name)</title></circle></a><circle cx="217.2" cy="201.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/n16k4w2k4n6r11n2r16~x2/

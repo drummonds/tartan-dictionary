@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McEwan '1856', The"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2dy3db16k18g18k2r2/)
 (the same proportion at any scale), whose colour order is pattern [BGBKGKR](/stripes/bgbkgkr/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2880
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2880](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2880)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db6k2db18k18g18k3r2~x2/"><circle cx="155.4" cy="200.1" r="4" fill="#3465a4"><title>Renfrew</title></circle></a><a href="/variants/s8/g11lb3g5r3g5k22db22k5~x2/"><circle cx="114.1" cy="185.6" r="4" fill="#3465a4"><title>Wood (Personal)</title></circle></a><a href="/variants/s6/r3k2g15k10db20y2~x2/"><circle cx="146.8" cy="185.9" r="4" fill="#3465a4"><title>MacLeod of Assynt</title></circle></a><a href="/variants/s7/db27g5y8k20y3g15r3~x2/"><circle cx="111.1" cy="192.1" r="4" fill="#3465a4"><title>Nelson Mandela (Personal)</title></circle></a><a href="/variants/s7/y2db17r2k16g17k2g2~x2/"><circle cx="121.8" cy="180.3" r="4" fill="#3465a4"><title>Greenock</title></circle></a><a href="/variants/s6/dr1k1g6k6db6lr1~x4/"><circle cx="99.9" cy="212.9" r="4" fill="#3465a4"><title>Gaines Center for the Humanities</title></circle></a><a href="/variants/s8/r3db20g3k20db3g20w3g3~x2/"><circle cx="111.0" cy="183.6" r="4" fill="#3465a4"><title>MacFrog (Personal)</title></circle></a><a href="/variants/s6/r2db8k8w1g8k1/"><circle cx="95.6" cy="198.7" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/variants/s6/r2db8k8w1g8k1~x2/"><circle cx="95.6" cy="198.7" r="4" fill="#3465a4"><title>Leslie, hunting</title></circle></a><a href="/variants/s9/db11k1db1k1db1k7dg8dr1lg6~x4/"><circle cx="124.0" cy="160.8" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><circle cx="124.1" cy="180.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db6k2db18k18g18k3r2~x2/"><circle cx="155.4" cy="200.5" r="4" fill="#3465a4"><title>Renfrew</title></circle></a><a href="/variants/s8/g11lb3g5r3g5k22db22k5~x2/"><circle cx="114.1" cy="186.0" r="4" fill="#3465a4"><title>Wood (Personal)</title></circle></a><a href="/variants/s6/r3k2g15k10db20y2~x2/"><circle cx="146.8" cy="186.3" r="4" fill="#3465a4"><title>MacLeod of Assynt</title></circle></a><a href="/variants/s7/db27g5y8k20y3g15r3~x2/"><circle cx="111.1" cy="192.6" r="4" fill="#3465a4"><title>Nelson Mandela (Personal)</title></circle></a><a href="/variants/s7/y2db17r2k16g17k2g2~x2/"><circle cx="121.8" cy="180.7" r="4" fill="#3465a4"><title>Greenock</title></circle></a><a href="/variants/s6/dr1k1g6k6db6lr1~x4/"><circle cx="100.0" cy="213.4" r="4" fill="#3465a4"><title>Gaines Center for the Humanities</title></circle></a><a href="/variants/s8/r3db20g3k20db3g20w3g3~x2/"><circle cx="111.0" cy="184.1" r="4" fill="#3465a4"><title>MacFrog (Personal)</title></circle></a><a href="/variants/s6/r2db8k8w1g8k1/"><circle cx="95.7" cy="199.2" r="4" fill="#3465a4"><title>Leslie Hunting</title></circle></a><a href="/variants/s6/r2db8k8w1g8k1~x2/"><circle cx="95.7" cy="199.2" r="4" fill="#3465a4"><title>Leslie, hunting</title></circle></a><a href="/variants/s9/db11k1db1k1db1k7dg8dr1lg6~x4/"><circle cx="124.0" cy="161.1" r="4" fill="#3465a4"><title>Damm, Alexander (Personal)</title></circle></a><circle cx="124.1" cy="180.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db2dy3db16k18g18k2r2~x2/

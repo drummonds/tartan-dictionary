@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Pennsylvania (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly4k1g28k6dy18w4t41k1w3/)
 (the same proportion at any scale), whose colour order is pattern [WKBWGKGKY](/stripes/wkbwgkgky/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8652
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8652](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8652)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k1g30dy2y4dy2w12r2t6k1~x2~g2203152/"><circle cx="218.0" cy="70.0" r="4" fill="#3465a4"><title>Nor'Westers</title></circle></a><a href="/variants/s9/k1g30dy2y4dy2w12r2t6k1~x2/"><circle cx="208.1" cy="70.1" r="4" fill="#3465a4"><title>Nor'Westers (District)</title></circle></a><a href="/variants/s10/dr4w6k10db5k3y16k3g33k1w4~x2/"><circle cx="141.1" cy="86.7" r="4" fill="#3465a4"><title>Fermanagh County, Crest Range</title></circle></a><a href="/variants/s12/w4k1r2k1g9k2t24k2r6k2g12y2~x2/"><circle cx="145.1" cy="92.3" r="4" fill="#3465a4"><title>Tait #2</title></circle></a><a href="/variants/s10/dr4w6k10db5k3ly16k3g33k1w4~x2/"><circle cx="133.4" cy="84.9" r="4" fill="#3465a4"><title>Fermanagh County Crest (Fashion)</title></circle></a><a href="/variants/s11/w4k1db16k1g32dr6k6lo6g4lo2g1~x2/"><circle cx="194.0" cy="76.4" r="4" fill="#3465a4"><title>Zambia</title></circle></a><a href="/variants/s10/w3t38lb2k4dp4k4g30y1g1y2~x2/"><circle cx="223.3" cy="66.1" r="4" fill="#3465a4"><title>Pinewoods Jubilee</title></circle></a><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/"><circle cx="149.6" cy="99.2" r="4" fill="#3465a4"><title>California State</title></circle></a><a href="/variants/s8/y1k6g32k12r12b9k6w1~x2/"><circle cx="159.3" cy="101.7" r="4" fill="#3465a4"><title>McGeachie (Personal)</title></circle></a><a href="/variants/s8/y1k6g32k12dr12dp9db6w1~x2/"><circle cx="148.0" cy="94.8" r="4" fill="#3465a4"><title>Fujitsu</title></circle></a><circle cx="186.3" cy="91.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k1g30dy2y4dy2w12r2t6k1~x2~g2203152/"><circle cx="217.8" cy="70.1" r="4" fill="#3465a4"><title>Nor'Westers</title></circle></a><a href="/variants/s9/k1g30dy2y4dy2w12r2t6k1~x2/"><circle cx="208.0" cy="70.1" r="4" fill="#3465a4"><title>Nor'Westers (District)</title></circle></a><a href="/variants/s10/dr4w6k10db5k3y16k3g33k1w4~x2/"><circle cx="141.0" cy="86.9" r="4" fill="#3465a4"><title>Fermanagh County, Crest Range</title></circle></a><a href="/variants/s12/w4k1r2k1g9k2t24k2r6k2g12y2~x2/"><circle cx="145.0" cy="92.5" r="4" fill="#3465a4"><title>Tait #2</title></circle></a><a href="/variants/s10/dr4w6k10db5k3ly16k3g33k1w4~x2/"><circle cx="133.3" cy="85.1" r="4" fill="#3465a4"><title>Fermanagh County Crest (Fashion)</title></circle></a><a href="/variants/s11/w4k1db16k1g32dr6k6lo6g4lo2g1~x2/"><circle cx="193.8" cy="76.5" r="4" fill="#3465a4"><title>Zambia</title></circle></a><a href="/variants/s10/w3t38lb2k4dp4k4g30y1g1y2~x2/"><circle cx="223.1" cy="66.0" r="4" fill="#3465a4"><title>Pinewoods Jubilee</title></circle></a><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/"><circle cx="149.5" cy="99.4" r="4" fill="#3465a4"><title>California State</title></circle></a><a href="/variants/s8/y1k6g32k12r12b9k6w1~x2/"><circle cx="159.2" cy="101.9" r="4" fill="#3465a4"><title>McGeachie (Personal)</title></circle></a><a href="/variants/s8/y1k6g32k12dr12dp9db6w1~x2/"><circle cx="147.8" cy="94.9" r="4" fill="#3465a4"><title>Fujitsu</title></circle></a><circle cx="186.2" cy="91.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/ly4k1g28k6dy18w4t41k1w3~x2/

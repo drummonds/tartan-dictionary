@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal Delight"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr3dp2db18dpi3dp2dpi3db18dp3dpi12dp12dpi3/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBBBBBBB](/stripes/bbbbbbbbbbb/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3600
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3600](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3600)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>

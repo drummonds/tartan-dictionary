@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified (Kallmeyer 'B')"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t48g2t7k24g26t4/)
 (the same proportion at any scale), whose colour order is pattern [BGBKGB](/stripes/bgbkgb/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8941
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8941](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8941)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g23db3k8db4g4db56ly8/"><circle cx="324.8" cy="146.4" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s6/g26db10k3db2dy2db10~x4/"><circle cx="282.2" cy="191.1" r="4" fill="#3465a4"><title>St. Andrews Old Course Hotel (Corp)</title></circle></a><a href="/variants/s6/g50db20k3db2o2db5~x2/"><circle cx="379.3" cy="145.8" r="4" fill="#3465a4"><title>St Andrews Hotel, Golf Resort, and SPA</title></circle></a><a href="/variants/s6/g50db20k3db2dy2db5~x2/"><circle cx="380.3" cy="146.4" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel Corporate Tartan</title></circle></a><a href="/variants/s6/g3db1g8db7k3y1~x2/"><circle cx="213.3" cy="222.8" r="4" fill="#3465a4"><title>Trafalger</title></circle></a><a href="/variants/s6/g3db1g8db7k3dy1~x2/"><circle cx="214.7" cy="223.1" r="4" fill="#3465a4"><title>Trafalgar (Fashion)</title></circle></a><a href="/variants/s5/t32k10g15k2y4~x2/"><circle cx="251.8" cy="192.0" r="4" fill="#3465a4"><title>Rothesay &amp; Caithness Fencibles (Mil)</title></circle></a><a href="/variants/s7/db3g4db20g24k2lr3r1~x2/"><circle cx="275.1" cy="134.4" r="4" fill="#3465a4"><title>Nowell/Noel (Name)</title></circle></a><a href="/variants/s8/k3db3k3db22g26k2db1y3~x2/"><circle cx="252.5" cy="133.3" r="4" fill="#3465a4"><title>Johnstone/Johnston</title></circle></a><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="205.3" cy="188.5" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><circle cx="292.9" cy="180.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g23db3k8db4g4db56ly8/"><circle cx="324.7" cy="146.7" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s6/g26db10k3db2dy2db10~x4/"><circle cx="282.2" cy="191.5" r="4" fill="#3465a4"><title>St. Andrews Old Course Hotel (Corp)</title></circle></a><a href="/variants/s6/g50db20k3db2o2db5~x2/"><circle cx="379.3" cy="146.1" r="4" fill="#3465a4"><title>St Andrews Hotel, Golf Resort, and SPA</title></circle></a><a href="/variants/s6/g50db20k3db2dy2db5~x2/"><circle cx="380.2" cy="146.7" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel Corporate Tartan</title></circle></a><a href="/variants/s6/g3db1g8db7k3y1~x2/"><circle cx="213.4" cy="223.4" r="4" fill="#3465a4"><title>Trafalger</title></circle></a><a href="/variants/s6/g3db1g8db7k3dy1~x2/"><circle cx="214.8" cy="223.7" r="4" fill="#3465a4"><title>Trafalgar (Fashion)</title></circle></a><a href="/variants/s5/t32k10g15k2y4~x2/"><circle cx="251.8" cy="192.5" r="4" fill="#3465a4"><title>Rothesay &amp; Caithness Fencibles (Mil)</title></circle></a><a href="/variants/s7/db3g4db20g24k2lr3r1~x2/"><circle cx="275.1" cy="134.6" r="4" fill="#3465a4"><title>Nowell/Noel (Name)</title></circle></a><a href="/variants/s8/k3db3k3db22g26k2db1y3~x2/"><circle cx="252.4" cy="133.6" r="4" fill="#3465a4"><title>Johnstone/Johnston</title></circle></a><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="205.4" cy="189.0" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><circle cx="293.0" cy="180.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/t48g2t7k24g26t4~x2/

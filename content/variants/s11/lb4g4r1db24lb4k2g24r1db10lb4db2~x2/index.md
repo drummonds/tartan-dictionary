@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Coopers & Lybrand"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb4g4r1db24lb4k2g24r1db10lb4db2/)
 (the same proportion at any scale), whose colour order is pattern [BWBRGKWBRGW](/stripes/bwbrgkwbrgw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=756
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=756](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=756)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb4g4r1db18lb4k2g16r1db6lb4k2~x2/"><circle cx="164.8" cy="129.5" r="4" fill="#3465a4"><title>Coopers &amp; Lybrand</title></circle></a><a href="/variants/s9/g40k8g4k8g4dr14b64lb9b3/"><circle cx="215.3" cy="122.9" r="4" fill="#3465a4"><title>West Lothian/Linlithgowshire</title></circle></a><a href="/variants/s9/g40k8g4k8g4dr14db64lb9db3/"><circle cx="213.0" cy="120.8" r="4" fill="#3465a4"><title>West Lothian</title></circle></a><a href="/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/"><circle cx="230.1" cy="103.5" r="4" fill="#3465a4"><title>Spirit of Morningside (Fashion)</title></circle></a><a href="/variants/s9/db24k8g8r2g4k1w2k1g4~x2/"><circle cx="209.9" cy="112.3" r="4" fill="#3465a4"><title>Ferguson (Tarlogie)</title></circle></a><a href="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/"><circle cx="217.7" cy="100.5" r="4" fill="#3465a4"><title>King (Personal)</title></circle></a><a href="/variants/s11/db66k2db10k15g15r4g15r4g30y2w4/"><circle cx="221.4" cy="80.5" r="4" fill="#3465a4"><title>Mulcahy</title></circle></a><a href="/variants/s14/t18db2k2db2k1t2k8g1ly1g6k8t14k2g2~x2/"><circle cx="206.7" cy="112.6" r="4" fill="#3465a4"><title>Angove, the Black Swan (Name)</title></circle></a><a href="/variants/s8/w2dbi19k4dbi4k4g9db2k1~x4~dbi1705244-db1106275/"><circle cx="232.2" cy="138.7" r="4" fill="#3465a4"><title>Dollar Academy (1999) (Corporate)</title></circle></a><a href="/variants/s9/db24y2k8g16k1g3k1g3r4~x2/"><circle cx="193.0" cy="119.6" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><circle cx="226.9" cy="111.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb4g4r1db18lb4k2g16r1db6lb4k2~x2/"><circle cx="164.8" cy="129.7" r="4" fill="#3465a4"><title>Coopers &amp; Lybrand</title></circle></a><a href="/variants/s9/g40k8g4k8g4dr14b64lb9b3/"><circle cx="215.3" cy="123.1" r="4" fill="#3465a4"><title>West Lothian/Linlithgowshire</title></circle></a><a href="/variants/s9/g40k8g4k8g4dr14db64lb9db3/"><circle cx="212.9" cy="121.0" r="4" fill="#3465a4"><title>West Lothian</title></circle></a><a href="/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/"><circle cx="230.0" cy="103.6" r="4" fill="#3465a4"><title>Spirit of Morningside (Fashion)</title></circle></a><a href="/variants/s9/db24k8g8r2g4k1w2k1g4~x2/"><circle cx="209.8" cy="112.5" r="4" fill="#3465a4"><title>Ferguson (Tarlogie)</title></circle></a><a href="/variants/s11/r3g2k1g2db26k12db4g15k1db1y3~x2/"><circle cx="217.6" cy="100.7" r="4" fill="#3465a4"><title>King (Personal)</title></circle></a><a href="/variants/s11/db66k2db10k15g15r4g15r4g30y2w4/"><circle cx="221.3" cy="80.6" r="4" fill="#3465a4"><title>Mulcahy</title></circle></a><a href="/variants/s14/t18db2k2db2k1t2k8g1ly1g6k8t14k2g2~x2/"><circle cx="206.6" cy="112.9" r="4" fill="#3465a4"><title>Angove, the Black Swan (Name)</title></circle></a><a href="/variants/s8/w2dbi19k4dbi4k4g9db2k1~x4~dbi1705244-db1106275/"><circle cx="232.2" cy="139.0" r="4" fill="#3465a4"><title>Dollar Academy (1999) (Corporate)</title></circle></a><a href="/variants/s9/db24y2k8g16k1g3k1g3r4~x2/"><circle cx="192.9" cy="119.8" r="4" fill="#3465a4"><title>Ogilvy Hunting</title></circle></a><circle cx="226.8" cy="111.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/lb4g4r1db24lb4k2g24r1db10lb4db2~x2/

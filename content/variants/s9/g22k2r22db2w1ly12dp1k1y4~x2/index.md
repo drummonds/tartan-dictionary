@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Schreier. Christopher (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g22k2r22db2w1ly12dp1k1y4/)
 (the same proportion at any scale), whose colour order is pattern [GKBYWBRKG](/stripes/gkbywbrkg/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8479
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8479](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8479)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lyi2k1r30db8g24ly5g5dp11k1lyi2~x2~lyi3104101-ly2503076/"><circle cx="150.2" cy="81.0" r="4" fill="#3465a4"><title>Guardian of Scotland, Wthd (Fashion)</title></circle></a><a href="/variants/s9/k4n13m3lr7w3ly25r2ly3o4~x2/"><circle cx="126.0" cy="106.4" r="4" fill="#3465a4"><title>Australian Donkey</title></circle></a><a href="/variants/s8/k3r18w2g21b2dp7lb5w2~x2/"><circle cx="97.1" cy="132.1" r="4" fill="#3465a4"><title>Wilson's, No 132</title></circle></a><a href="/variants/s13/k2r16w1db2w1y3w2y3w1db2w1g16lb2~x2/"><circle cx="100.2" cy="79.2" r="4" fill="#3465a4"><title>Gibbs, Gibson</title></circle></a><a href="/variants/s9/k4n13ri3lb7w3ly25r2ly3dy4~x2~ri2806019-r2109032/"><circle cx="120.9" cy="108.0" r="4" fill="#3465a4"><title>Australian Donkey (Corporate)</title></circle></a><a href="/variants/s9/k2w1g25dy11r12w1y12k1w2~x2/"><circle cx="169.7" cy="115.1" r="4" fill="#3465a4"><title>Leaf Peeper</title></circle></a><a href="/variants/s14/ri42r2k15r2g22y4w2dp2w2y4lb7w2dp6w6~x2~ri2209032-r2208029/"><circle cx="82.9" cy="41.0" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s11/dy3dp5g2dp2g2w1g4ly12dr2lb2k2~x4/"><circle cx="41.8" cy="110.3" r="4" fill="#3465a4"><title>Oregon, State of</title></circle></a><a href="/variants/s13/y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2/"><circle cx="108.3" cy="83.0" r="4" fill="#3465a4"><title>Cree</title></circle></a><a href="/variants/s14/r42ri2k15ri2g22dy4w2dp2w2dy4lb7w2dp6w6~x2~r2109032-ri2406019/"><circle cx="82.1" cy="41.0" r="4" fill="#3465a4"><title>Dundee (1819) (District)</title></circle></a><circle cx="121.2" cy="79.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lyi2k1r30db8g24ly5g5dp11k1lyi2~x2~lyi3104101-ly2503076/"><circle cx="150.1" cy="81.1" r="4" fill="#3465a4"><title>Guardian of Scotland, Wthd (Fashion)</title></circle></a><a href="/variants/s9/k4n13m3lr7w3ly25r2ly3o4~x2/"><circle cx="125.9" cy="106.6" r="4" fill="#3465a4"><title>Australian Donkey</title></circle></a><a href="/variants/s8/k3r18w2g21b2dp7lb5w2~x2/"><circle cx="97.0" cy="132.4" r="4" fill="#3465a4"><title>Wilson's, No 132</title></circle></a><a href="/variants/s13/k2r16w1db2w1y3w2y3w1db2w1g16lb2~x2/"><circle cx="100.1" cy="79.3" r="4" fill="#3465a4"><title>Gibbs, Gibson</title></circle></a><a href="/variants/s9/k4n13ri3lb7w3ly25r2ly3dy4~x2~ri2806019-r2109032/"><circle cx="120.8" cy="108.2" r="4" fill="#3465a4"><title>Australian Donkey (Corporate)</title></circle></a><a href="/variants/s9/k2w1g25dy11r12w1y12k1w2~x2/"><circle cx="169.6" cy="115.3" r="4" fill="#3465a4"><title>Leaf Peeper</title></circle></a><a href="/variants/s14/ri42r2k15r2g22y4w2dp2w2y4lb7w2dp6w6~x2~ri2209032-r2208029/"><circle cx="82.7" cy="41.0" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s11/dy3dp5g2dp2g2w1g4ly12dr2lb2k2~x4/"><circle cx="41.7" cy="110.5" r="4" fill="#3465a4"><title>Oregon, State of</title></circle></a><a href="/variants/s13/y30dy20db2k6y3k2w3k2g6r6k3r3w3~x2/"><circle cx="108.2" cy="83.2" r="4" fill="#3465a4"><title>Cree</title></circle></a><a href="/variants/s14/r42ri2k15ri2g22dy4w2dp2w2dy4lb7w2dp6w6~x2~r2109032-ri2406019/"><circle cx="81.9" cy="41.1" r="4" fill="#3465a4"><title>Dundee (1819) (District)</title></circle></a><circle cx="121.1" cy="80.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g22k2r22db2w1ly12dp1k1y4~x2/

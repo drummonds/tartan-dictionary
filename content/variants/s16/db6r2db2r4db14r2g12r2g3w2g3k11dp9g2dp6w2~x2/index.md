@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Haughey"
   url: "/tartans/haughey/"
+- name: "Haughey (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db6r2db2r4db14r2g12r2g3w2g3k11dp9g2dp6w2/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBRGRGWGKBGBW](/stripes/brbrbrgrgwgkbgbw/).
@@ -14,7 +16,7 @@ Part of the [Haughey](/tartans/haughey/) tartan — the named design grouping th
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7139
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7139](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7139)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k2w1dp7k1g6k1db7lb1k1~x4~db1406275/"><circle cx="53.9" cy="146.5" r="4" fill="#3465a4"><title>South Lanarkshire</title></circle></a><a href="/variants/s13/lb3db20ly5k8lb3k3lb3k3g14do8k3do4lb3~x2/"><circle cx="16.3" cy="156.3" r="4" fill="#3465a4"><title>Dowling</title></circle></a><a href="/variants/s12/dr4y14lb2do4lb2k6y3k6db13dr2db4dr4~x2/"><circle cx="49.3" cy="169.4" r="4" fill="#3465a4"><title>Kinloch Anderson Old Dress</title></circle></a><a href="/variants/s13/w2db14lo3k6g2k2w2k2g8dy6k2dy3w2~x4/"><circle cx="16.1" cy="151.4" r="4" fill="#3465a4"><title>Bowling (Clan)</title></circle></a><a href="/variants/s13/r6db9k2db2k2db9k10y4n17r5k2r5w4~x2/"><circle cx="34.7" cy="152.7" r="4" fill="#3465a4"><title>Alberta Caledonia (Corporate)</title></circle></a><a href="/variants/s13/w3db20y4k9w3k3w3k3g14dy9k3dy4w3~x2/"><circle cx="14.0" cy="153.7" r="4" fill="#3465a4"><title>Clodagh Cork Irish District Tartan</title></circle></a><a href="/variants/s14/r13w2r13k3dr13g21db3k18db9k2db2k2db15w2~x2/"><circle cx="35.8" cy="135.3" r="4" fill="#3465a4"><title>Taiwan Scottish</title></circle></a><a href="/variants/s13/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2~x2/"><circle cx="33.8" cy="162.3" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><a href="/variants/s12/r4oi14w2o4w2k6oi3k6db14r2db4r4~x2~oi2104058-o2102055/"><circle cx="38.4" cy="157.7" r="4" fill="#3465a4"><title>Kinloch Anderson, dress</title></circle></a><a href="/variants/s13/w3db20y4k9w3k3w3k3g14o9k3o4w3~x2/"><circle cx="14.0" cy="150.3" r="4" fill="#3465a4"><title>Clodagh, Cork</title></circle></a><circle cx="33.3" cy="151.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k2w1dp7k1g6k1db7lb1k1~x4~db1406275/"><circle cx="53.9" cy="146.7" r="4" fill="#3465a4"><title>South Lanarkshire</title></circle></a><a href="/variants/s13/lb3db20ly5k8lb3k3lb3k3g14do8k3do4lb3~x2/"><circle cx="16.2" cy="156.7" r="4" fill="#3465a4"><title>Dowling</title></circle></a><a href="/variants/s12/dr4y14lb2do4lb2k6y3k6db13dr2db4dr4~x2/"><circle cx="49.3" cy="169.7" r="4" fill="#3465a4"><title>Kinloch Anderson Old Dress</title></circle></a><a href="/variants/s13/w2db14lo3k6g2k2w2k2g8dy6k2dy3w2~x4/"><circle cx="16.1" cy="151.8" r="4" fill="#3465a4"><title>Bowling (Clan)</title></circle></a><a href="/variants/s13/r6db9k2db2k2db9k10y4n17r5k2r5w4~x2/"><circle cx="34.6" cy="153.1" r="4" fill="#3465a4"><title>Alberta Caledonia (Corporate)</title></circle></a><a href="/variants/s13/w3db20y4k9w3k3w3k3g14dy9k3dy4w3~x2/"><circle cx="14.0" cy="154.0" r="4" fill="#3465a4"><title>Clodagh Cork Irish District Tartan</title></circle></a><a href="/variants/s14/r13w2r13k3dr13g21db3k18db9k2db2k2db15w2~x2/"><circle cx="35.7" cy="135.6" r="4" fill="#3465a4"><title>Taiwan Scottish</title></circle></a><a href="/variants/s13/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2~x2/"><circle cx="33.8" cy="162.7" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><a href="/variants/s12/r4oi14w2o4w2k6oi3k6db14r2db4r4~x2~oi2104058-o2102055/"><circle cx="38.3" cy="158.1" r="4" fill="#3465a4"><title>Kinloch Anderson, dress</title></circle></a><a href="/variants/s13/w3db20y4k9w3k3w3k3g14o9k3o4w3~x2/"><circle cx="14.0" cy="150.7" r="4" fill="#3465a4"><title>Clodagh, Cork</title></circle></a><circle cx="33.2" cy="152.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/db6r2db2r4db14r2g12r2g3w2g3k11dp9g2dp6w2~x2/

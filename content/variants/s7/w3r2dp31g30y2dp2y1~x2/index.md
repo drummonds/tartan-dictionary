@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Caig (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3r2dp31g30y2dp2y1/)
 (the same proportion at any scale), whose colour order is pattern [GBGGBRW](/stripes/gbggbrw/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7352
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7352](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7352)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="342.4" cy="140.7" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><a href="/variants/s9/g3r12g15r2w1db30w1g2r2~x2/"><circle cx="279.7" cy="127.4" r="4" fill="#3465a4"><title>Christmas Morning</title></circle></a><a href="/variants/s9/r6db2r1db8r3db16g28w2g4~x2/"><circle cx="288.6" cy="146.2" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s6/lp4dy2dp4dy35t27r3~x2/"><circle cx="319.7" cy="174.7" r="4" fill="#3465a4"><title>Deeside, Royal</title></circle></a><a href="/variants/s8/g24dr2w2dr2dt8o1dr24g4~x2/"><circle cx="286.8" cy="150.0" r="4" fill="#3465a4"><title>Wellmont Golf Tournament</title></circle></a><a href="/variants/s9/r6db2r1db16r3db16g28w2g4~x2/"><circle cx="281.8" cy="151.0" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s8/db3r3db36g17y2g21w2r3~x2/"><circle cx="275.2" cy="156.8" r="4" fill="#3465a4"><title>Singh</title></circle></a><a href="/variants/s8/db30r2db4w1o11g4y2g22~x2/"><circle cx="261.2" cy="126.0" r="4" fill="#3465a4"><title>Yorkland</title></circle></a><a href="/variants/s10/w5n38o3db11o1db11o3n4w5lr1~x2~n1900000-o2500000/"><circle cx="316.7" cy="105.8" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><a href="/variants/s8/dr3lb2g18lo2g18dp34dr3dp3~x2/"><circle cx="302.0" cy="172.0" r="4" fill="#3465a4"><title>Singh</title></circle></a><circle cx="309.7" cy="124.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w3r2db31dg30y2dg2y1~x2/"><circle cx="342.4" cy="140.7" r="4" fill="#3465a4"><title>Caig (Personal)</title></circle></a><a href="/variants/s9/g3r12g15r2w1db30w1g2r2~x2/"><circle cx="279.6" cy="127.6" r="4" fill="#3465a4"><title>Christmas Morning</title></circle></a><a href="/variants/s9/r6db2r1db8r3db16g28w2g4~x2/"><circle cx="288.6" cy="146.4" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s6/lp4dy2dp4dy35t27r3~x2/"><circle cx="319.7" cy="175.0" r="4" fill="#3465a4"><title>Deeside, Royal</title></circle></a><a href="/variants/s8/g24dr2w2dr2dt8o1dr24g4~x2/"><circle cx="286.8" cy="150.2" r="4" fill="#3465a4"><title>Wellmont Golf Tournament</title></circle></a><a href="/variants/s9/r6db2r1db16r3db16g28w2g4~x2/"><circle cx="281.8" cy="151.3" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s8/db3r3db36g17y2g21w2r3~x2/"><circle cx="275.2" cy="157.0" r="4" fill="#3465a4"><title>Singh</title></circle></a><a href="/variants/s8/db30r2db4w1o11g4y2g22~x2/"><circle cx="261.1" cy="126.1" r="4" fill="#3465a4"><title>Yorkland</title></circle></a><a href="/variants/s10/w5n38o3db11o1db11o3n4w5lr1~x2~n1900000-o2500000/"><circle cx="316.6" cy="105.9" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><a href="/variants/s8/dr3lb2g18lo2g18dp34dr3dp3~x2/"><circle cx="302.0" cy="172.3" r="4" fill="#3465a4"><title>Singh</title></circle></a><circle cx="309.7" cy="124.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w3r2dp31g30y2dp2y1~x2/

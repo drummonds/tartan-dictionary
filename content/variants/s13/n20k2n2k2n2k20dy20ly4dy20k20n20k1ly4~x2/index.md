@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacIsaac (Name?)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n20k2n2k2n2k20dy20ly4dy20k20n20k1ly4/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKGYGKBKY](/stripes/bkbkbkgygkbky/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7514
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7514](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7514)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1y2dp1~x2/"><circle cx="165.2" cy="129.9" r="4" fill="#3465a4"><title>Kettles, Ryan &amp; Alan (Personal)</title></circle></a><a href="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/"><circle cx="161.8" cy="128.9" r="4" fill="#3465a4"><title>Kettles, Ryan &amp; Alan (Personal)</title></circle></a><a href="/variants/s9/g17k1dr16k2n14k19n14k2dr6~x2/"><circle cx="149.0" cy="178.4" r="4" fill="#3465a4"><title>Borthwick (Clan)</title></circle></a><a href="/variants/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/"><circle cx="152.6" cy="138.5" r="4" fill="#3465a4"><title>MacDonald #4</title></circle></a><a href="/variants/s13/dr22lb1dr2lb1dr3k16g16y1g16k16dr16lb1dr2~x2/"><circle cx="181.7" cy="118.0" r="4" fill="#3465a4"><title>Beartrap (Military)</title></circle></a><a href="/variants/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2~o2404072-ly3207098/"><circle cx="155.7" cy="125.9" r="4" fill="#3465a4"><title>Eildon (1996)</title></circle></a><a href="/variants/s12/db12r2db2r5db26r2k29g27r5g2r2g12~x2/"><circle cx="143.4" cy="143.5" r="4" fill="#3465a4"><title>MacDonald #5</title></circle></a><a href="/variants/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/"><circle cx="150.7" cy="142.5" r="4" fill="#3465a4"><title>MacDonald #3</title></circle></a><a href="/variants/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/"><circle cx="151.6" cy="143.2" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s10/y3k1g22k20dp20g2dp2g2dp2g3~x4/"><circle cx="200.6" cy="126.9" r="4" fill="#3465a4"><title>Urbino (Fashion)</title></circle></a><circle cx="169.7" cy="144.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1y2dp1~x2/"><circle cx="165.1" cy="130.2" r="4" fill="#3465a4"><title>Kettles, Ryan &amp; Alan (Personal)</title></circle></a><a href="/variants/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/"><circle cx="161.8" cy="129.2" r="4" fill="#3465a4"><title>Kettles, Ryan &amp; Alan (Personal)</title></circle></a><a href="/variants/s9/g17k1dr16k2n14k19n14k2dr6~x2/"><circle cx="149.0" cy="178.7" r="4" fill="#3465a4"><title>Borthwick (Clan)</title></circle></a><a href="/variants/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/"><circle cx="152.5" cy="138.8" r="4" fill="#3465a4"><title>MacDonald #4</title></circle></a><a href="/variants/s13/dr22lb1dr2lb1dr3k16g16y1g16k16dr16lb1dr2~x2/"><circle cx="181.6" cy="118.3" r="4" fill="#3465a4"><title>Beartrap (Military)</title></circle></a><a href="/variants/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2~o2404072-ly3207098/"><circle cx="155.6" cy="126.1" r="4" fill="#3465a4"><title>Eildon (1996)</title></circle></a><a href="/variants/s12/db12r2db2r5db26r2k29g27r5g2r2g12~x2/"><circle cx="143.3" cy="143.8" r="4" fill="#3465a4"><title>MacDonald #5</title></circle></a><a href="/variants/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/"><circle cx="150.6" cy="142.8" r="4" fill="#3465a4"><title>MacDonald #3</title></circle></a><a href="/variants/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/"><circle cx="151.5" cy="143.5" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/variants/s10/y3k1g22k20dp20g2dp2g2dp2g3~x4/"><circle cx="200.5" cy="127.2" r="4" fill="#3465a4"><title>Urbino (Fashion)</title></circle></a><circle cx="169.6" cy="144.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/n20k2n2k2n2k20dy20ly4dy20k20n20k1ly4~x2/

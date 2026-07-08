@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Irving of Bonshaw Tower (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr2g3db2g14db14lr2/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBY](/stripes/bgbgby/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1860
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1860](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1860)
 
 ## Provenance
 
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db8g2db8g15lb2~x4/"><circle cx="319.9" cy="283.2" r="4" fill="#3465a4"><title>Hamilton Green Hunting</title></circle></a><a href="/variants/s5/db5g2db5g8w1~x8/"><circle cx="303.2" cy="288.2" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="332.4" cy="200.6" r="4" fill="#3465a4"><title>Connacht Irish District Tartan</title></circle></a><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="332.0" cy="207.3" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/variants/s5/db11g2db15g18w2~x2/"><circle cx="341.1" cy="271.6" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/variants/s8/r2g12db2g8db18w3r2w2~x2/"><circle cx="210.7" cy="199.7" r="4" fill="#3465a4"><title>Albuquerque, City of</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/"><circle cx="264.1" cy="198.9" r="4" fill="#3465a4"><title>New Mexico, State of (Fashion)</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/"><circle cx="246.7" cy="193.7" r="4" fill="#3465a4"><title>New Mexico, State of</title></circle></a><a href="/variants/s6/db26dr6g16db8g3dr2~x2/"><circle cx="378.9" cy="244.0" r="4" fill="#3465a4"><title>Perthshire (New) District Tartan</title></circle></a><a href="/variants/s6/db4w1db12g12db1g4~x2/"><circle cx="348.5" cy="244.7" r="4" fill="#3465a4"><title>Unidentified Tweed</title></circle></a><circle cx="288.8" cy="244.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db8g2db8g15lb2~x4/"><circle cx="320.1" cy="283.8" r="4" fill="#3465a4"><title>Hamilton Green Hunting</title></circle></a><a href="/variants/s5/db5g2db5g8w1~x8/"><circle cx="303.4" cy="288.9" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="332.5" cy="201.0" r="4" fill="#3465a4"><title>Connacht Irish District Tartan</title></circle></a><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="332.0" cy="207.7" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/variants/s5/db11g2db15g18w2~x2/"><circle cx="341.2" cy="272.2" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/variants/s8/r2g12db2g8db18w3r2w2~x2/"><circle cx="210.8" cy="200.2" r="4" fill="#3465a4"><title>Albuquerque, City of</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4/"><circle cx="264.1" cy="199.3" r="4" fill="#3465a4"><title>New Mexico, State of (Fashion)</title></circle></a><a href="/variants/s8/dy1r1dy2db11g5db1g8r1~x4~g2408144/"><circle cx="246.7" cy="194.2" r="4" fill="#3465a4"><title>New Mexico, State of</title></circle></a><a href="/variants/s6/db26dr6g16db8g3dr2~x2/"><circle cx="379.0" cy="244.5" r="4" fill="#3465a4"><title>Perthshire (New) District Tartan</title></circle></a><a href="/variants/s6/db4w1db12g12db1g4~x2/"><circle cx="348.6" cy="245.2" r="4" fill="#3465a4"><title>Unidentified Tweed</title></circle></a><circle cx="288.9" cy="245.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dr2g3db2g14db14lr2~x2/

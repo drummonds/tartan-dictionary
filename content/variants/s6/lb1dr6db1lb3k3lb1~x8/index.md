@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/mactavish/"
 - name: "MacTavish"
   url: "/tartans/mactavish/"
+- name: "MacTavish #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb1dr6db1lb3k3lb1/)
 (the same proportion at any scale), whose colour order is pattern [WBBWKW](/stripes/wbbwkw/).
@@ -16,7 +18,7 @@ Part of the [MacTavish](/tartans/mactavish/) tartan — the named design groupin
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4840
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4840](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4840)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -86,8 +88,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="132.0" cy="218.9" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s6/w5dr34k22dr4lb24dr4~x2/"><circle cx="181.3" cy="199.8" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="175.6" cy="204.8" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s6/w23db6w6r5k35r10~x2/"><circle cx="142.4" cy="197.8" r="4" fill="#3465a4"><title>Meg, Merrilees</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="193.7" cy="241.9" r="4" fill="#3465a4"><title>Edinburgh Bus Company (Corporate)</title></circle></a><a href="/variants/s8/g6db11lb8k4lb8k27lb4r4~x2/"><circle cx="131.6" cy="185.0" r="4" fill="#3465a4"><title>Kervegant, Suzanne (Personal)</title></circle></a><a href="/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/"><circle cx="156.1" cy="191.7" r="4" fill="#3465a4"><title>Brittany National (District)</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.3" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s6/r10dy60db13w24db24dy8/"><circle cx="221.8" cy="221.5" r="4" fill="#3465a4"><title>Bronte House Check</title></circle></a><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><circle cx="142.3" cy="198.0" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><circle cx="156.5" cy="223.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr1n6k1w3k3dr1~x8/"><circle cx="132.1" cy="219.6" r="4" fill="#3465a4"><title>Thompson Grey Dress</title></circle></a><a href="/variants/s6/w5dr34k22dr4lb24dr4~x2/"><circle cx="181.4" cy="200.4" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="175.6" cy="205.4" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><a href="/variants/s6/w23db6w6r5k35r10~x2/"><circle cx="142.5" cy="198.5" r="4" fill="#3465a4"><title>Meg, Merrilees</title></circle></a><a href="/variants/s6/db3r2g5r8db12w3~x2/"><circle cx="193.8" cy="242.6" r="4" fill="#3465a4"><title>Edinburgh Bus Company (Corporate)</title></circle></a><a href="/variants/s8/g6db11lb8k4lb8k27lb4r4~x2/"><circle cx="131.6" cy="185.6" r="4" fill="#3465a4"><title>Kervegant, Suzanne (Personal)</title></circle></a><a href="/variants/s9/g6db11lr8k4lr8k4lr8k27lr4~x2/"><circle cx="156.1" cy="192.3" r="4" fill="#3465a4"><title>Brittany National (District)</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.9" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s6/r10dy60db13w24db24dy8/"><circle cx="221.9" cy="222.1" r="4" fill="#3465a4"><title>Bronte House Check</title></circle></a><a href="/variants/s6/w23lb6w6r5k35r10~x2/"><circle cx="142.4" cy="198.7" r="4" fill="#3465a4"><title>Merrilees</title></circle></a><circle cx="156.6" cy="223.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/lb1dr6db1lb3k3lb1~x8/

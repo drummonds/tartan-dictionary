@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Puffin"
   url: "/tartans/puffin/"
+- name: "Puffin (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4w1k1w9g1w1g1w1dy4/)
 (the same proportion at any scale), whose colour order is pattern [GWGWGWKWK](/stripes/gwgwgwkwk/).
@@ -14,7 +16,7 @@ Part of the [Puffin](/tartans/puffin/) tartan — the named design grouping this
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3419
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3419](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3419)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k3w1k1w6g1w1g1w1o3~x4/"><circle cx="160.9" cy="189.2" r="4" fill="#3465a4"><title>Puffin</title></circle></a><a href="/variants/s8/w2g4k7w2k1w11db2w2~x4/"><circle cx="214.7" cy="172.3" r="4" fill="#3465a4"><title>Forbes - 1880 (Clans Originaux)</title></circle></a><a href="/variants/s8/w26k8w3k5db3r5n3k4~x2/"><circle cx="185.5" cy="150.0" r="4" fill="#3465a4"><title>Lootens Jensen (Personal)</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2n23w2~x2/"><circle cx="193.8" cy="149.6" r="4" fill="#3465a4"><title>Virtuoso (Corporate)</title></circle></a><a href="/variants/s7/y3k9w3k20w30dp3w3~x2/"><circle cx="226.6" cy="166.3" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><circle cx="256.0" cy="140.8" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/"><circle cx="217.0" cy="137.4" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4b14lo2~x2/"><circle cx="230.1" cy="139.7" r="4" fill="#3465a4"><title>Hannay (Clan)</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/"><circle cx="222.2" cy="134.6" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s7/k3r3k3w16k3g3k3/"><circle cx="162.0" cy="187.5" r="4" fill="#3465a4"><title>Eglinton</title></circle></a><circle cx="199.6" cy="160.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k3w1k1w6g1w1g1w1o3~x4/"><circle cx="161.0" cy="189.9" r="4" fill="#3465a4"><title>Puffin</title></circle></a><a href="/variants/s8/w2g4k7w2k1w11db2w2~x4/"><circle cx="214.7" cy="172.9" r="4" fill="#3465a4"><title>Forbes - 1880 (Clans Originaux)</title></circle></a><a href="/variants/s8/w26k8w3k5db3r5n3k4~x2/"><circle cx="185.5" cy="150.5" r="4" fill="#3465a4"><title>Lootens Jensen (Personal)</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2n23w2~x2/"><circle cx="193.8" cy="150.0" r="4" fill="#3465a4"><title>Virtuoso (Corporate)</title></circle></a><a href="/variants/s7/y3k9w3k20w30dp3w3~x2/"><circle cx="226.6" cy="166.9" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/variants/s7/dy1k4w2k11w17r2w1~x4/"><circle cx="256.0" cy="141.3" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/"><circle cx="217.0" cy="137.9" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4b14lo2~x2/"><circle cx="230.1" cy="140.2" r="4" fill="#3465a4"><title>Hannay (Clan)</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/"><circle cx="222.2" cy="135.1" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s7/k3r3k3w16k3g3k3/"><circle cx="162.0" cy="188.2" r="4" fill="#3465a4"><title>Eglinton</title></circle></a><circle cx="199.6" cy="161.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k4w1k1w9g1w1g1w1dy4~x4/

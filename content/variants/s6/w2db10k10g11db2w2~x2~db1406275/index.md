@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Norwich No.026"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2db10k10g11db2w2/)
 (the same proportion at any scale), whose colour order is pattern [BGKBWBKGBW](/stripes/bgkbwbkgbw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3176
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3176](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3176)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w4db4g22k20db20w3/"><circle cx="110.7" cy="219.7" r="4" fill="#3465a4"><title>Unidentified No 26</title></circle></a><a href="/variants/s6/db3g12k13w2db13w3~x2~db1406275/"><circle cx="108.4" cy="226.8" r="4" fill="#3465a4"><title>Herd/Hurd</title></circle></a><a href="/variants/s6/db3g12k13w2db13w3~x2/"><circle cx="107.1" cy="227.4" r="4" fill="#3465a4"><title>Herd/Hurd (Name)</title></circle></a><a href="/variants/s11/db8k2db12k13g13w2k4w2g13k13db4~x2/"><circle cx="112.7" cy="209.6" r="4" fill="#3465a4"><title>Melville Family Tartan</title></circle></a><a href="/variants/s9/db7k2db2k2db2k7g7w1g7~x4/"><circle cx="130.7" cy="215.7" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/variants/s12/db12k2db2k2db2k12g12r3g12k12db12r3~x2/"><circle cx="104.0" cy="204.3" r="4" fill="#3465a4"><title>Glenalmond College</title></circle></a><a href="/variants/s10/db18k17db3g18db4g18db3k17db18b4~x2/"><circle cx="134.1" cy="227.2" r="4" fill="#3465a4"><title>Scottish Airports Corporate Tartan</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1g2~x4/"><circle cx="105.1" cy="201.4" r="4" fill="#3465a4"><title>Cheape of Torosay #2 (Personal)</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="124.0" cy="228.1" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="145.5" cy="229.0" r="4" fill="#3465a4"><title>Murray #3</title></circle></a><circle cx="96.7" cy="223.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w4db4g22k20db20w3/"><circle cx="110.7" cy="220.3" r="4" fill="#3465a4"><title>Unidentified No 26</title></circle></a><a href="/variants/s6/db3g12k13w2db13w3~x2~db1406275/"><circle cx="108.5" cy="227.4" r="4" fill="#3465a4"><title>Herd/Hurd</title></circle></a><a href="/variants/s6/db3g12k13w2db13w3~x2/"><circle cx="107.2" cy="228.0" r="4" fill="#3465a4"><title>Herd/Hurd (Name)</title></circle></a><a href="/variants/s11/db8k2db12k13g13w2k4w2g13k13db4~x2/"><circle cx="112.8" cy="210.2" r="4" fill="#3465a4"><title>Melville Family Tartan</title></circle></a><a href="/variants/s9/db7k2db2k2db2k7g7w1g7~x4/"><circle cx="130.8" cy="216.3" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/variants/s12/db12k2db2k2db2k12g12r3g12k12db12r3~x2/"><circle cx="104.0" cy="204.8" r="4" fill="#3465a4"><title>Glenalmond College</title></circle></a><a href="/variants/s10/db18k17db3g18db4g18db3k17db18b4~x2/"><circle cx="134.2" cy="227.7" r="4" fill="#3465a4"><title>Scottish Airports Corporate Tartan</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6lb2g6k6db6k1g2~x4/"><circle cx="105.1" cy="201.9" r="4" fill="#3465a4"><title>Cheape of Torosay #2 (Personal)</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="124.1" cy="228.7" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/variants/s6/db2k2db12k8g11r2~x2/"><circle cx="145.6" cy="229.6" r="4" fill="#3465a4"><title>Murray #3</title></circle></a><circle cx="96.7" cy="224.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w2db10k10g11db2w2~x2~db1406275/

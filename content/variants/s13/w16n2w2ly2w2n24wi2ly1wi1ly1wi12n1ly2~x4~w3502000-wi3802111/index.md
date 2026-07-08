@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fiona"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w16n2w2ly2w2n24wi2ly1wi1ly1wi12n1ly2/)
 (the same proportion at any scale), whose colour order is pattern [WBWYWBWYWYWBY](/stripes/wbwywbwywywby/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1187
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1187](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1187)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>

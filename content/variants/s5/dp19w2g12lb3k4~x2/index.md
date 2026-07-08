@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's No.111"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp19w2g12lb3k4/)
 (the same proportion at any scale), whose colour order is pattern [BWGWKWGW](/stripes/bwgwkwgw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4677
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4677](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4677)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="134.3" cy="224.1" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/variants/s5/k8lb3g13dp12y2~x2/"><circle cx="130.3" cy="223.9" r="4" fill="#3465a4"><title>Wilson's No.176</title></circle></a><a href="/variants/s5/k4lb3dp11g14w2~x2/"><circle cx="146.8" cy="220.1" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/variants/s5/k4lb3dp11g14y2~x2/"><circle cx="148.4" cy="217.0" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/"><circle cx="148.0" cy="167.0" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><a href="/variants/s7/t5dy28w5k20ly5t47ly4~x2/"><circle cx="185.4" cy="166.9" r="4" fill="#3465a4"><title>State Seal of Washington (Fashion)</title></circle></a><a href="/variants/s8/db15w2g2ly15r3db21r3g15~x2/"><circle cx="195.6" cy="189.8" r="4" fill="#3465a4"><title>Loyalhanna</title></circle></a><a href="/variants/s6/db20k6ly4db3g20w2~x2/"><circle cx="171.5" cy="187.9" r="4" fill="#3465a4"><title>DeLoughery (Personal)</title></circle></a><a href="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/"><circle cx="150.9" cy="163.8" r="4" fill="#3465a4"><title>Ritchie, Stephen James (Personal)</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.0" cy="213.1" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><circle cx="164.0" cy="179.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="134.4" cy="224.7" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/variants/s5/k8lb3g13dp12y2~x2/"><circle cx="130.4" cy="224.5" r="4" fill="#3465a4"><title>Wilson's No.176</title></circle></a><a href="/variants/s5/k4lb3dp11g14w2~x2/"><circle cx="146.9" cy="220.7" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/variants/s5/k4lb3dp11g14y2~x2/"><circle cx="148.5" cy="217.5" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/"><circle cx="148.0" cy="167.5" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><a href="/variants/s7/t5dy28w5k20ly5t47ly4~x2/"><circle cx="185.4" cy="167.3" r="4" fill="#3465a4"><title>State Seal of Washington (Fashion)</title></circle></a><a href="/variants/s8/db15w2g2ly15r3db21r3g15~x2/"><circle cx="195.7" cy="190.3" r="4" fill="#3465a4"><title>Loyalhanna</title></circle></a><a href="/variants/s6/db20k6ly4db3g20w2~x2/"><circle cx="171.5" cy="188.3" r="4" fill="#3465a4"><title>DeLoughery (Personal)</title></circle></a><a href="/variants/s7/db4n19lr2k19n2lr25lb2~x2~lr2800000-lb3300000/"><circle cx="150.9" cy="164.2" r="4" fill="#3465a4"><title>Ritchie, Stephen James (Personal)</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.0" cy="213.6" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><circle cx="164.0" cy="180.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dp19w2g12lb3k4~x2/

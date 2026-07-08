@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lauder (Family)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g3db8g3k4g15r2/)
 (the same proportion at any scale), whose colour order is pattern [GBGKGR](/stripes/gbgkgr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2057
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2057](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2057)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr2dg12k3dg2t8dg2~x2/"><circle cx="285.9" cy="236.0" r="4" fill="#3465a4"><title>Wcwm 1045</title></circle></a><a href="/variants/s7/g2k1g12dr4g3db9lb2~x4/"><circle cx="232.3" cy="181.8" r="4" fill="#3465a4"><title>Lee (Personal)</title></circle></a><a href="/variants/s7/r5g20r5g20db24g6y4/"><circle cx="273.7" cy="248.9" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/"><circle cx="277.4" cy="230.0" r="4" fill="#3465a4"><title>Cameron Hunting Clan Tartan</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="279.0" cy="230.7" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2/"><circle cx="279.0" cy="230.7" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s6/k2g9lb1k6b4g2~x2/"><circle cx="179.1" cy="212.5" r="4" fill="#3465a4"><title>Unnamed 3</title></circle></a><a href="/variants/s6/k4g21w3g21db21r4~x2/"><circle cx="226.8" cy="210.9" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/variants/s6/k4g21w3g21db21r4/"><circle cx="226.8" cy="210.9" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/variants/s8/g13dp1g1dp1g3db5k4y2~x2/"><circle cx="253.1" cy="154.3" r="4" fill="#3465a4"><title>Carrick, hunting</title></circle></a><circle cx="269.3" cy="215.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr2dg12k3dg2t8dg2~x2/"><circle cx="286.0" cy="236.5" r="4" fill="#3465a4"><title>Wcwm 1045</title></circle></a><a href="/variants/s7/g2k1g12dr4g3db9lb2~x4/"><circle cx="232.3" cy="182.2" r="4" fill="#3465a4"><title>Lee (Personal)</title></circle></a><a href="/variants/s7/r5g20r5g20db24g6y4/"><circle cx="273.8" cy="249.5" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3dy2~x2/"><circle cx="277.5" cy="230.5" r="4" fill="#3465a4"><title>Cameron Hunting Clan Tartan</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2~x2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting)</title></circle></a><a href="/variants/s7/r3g10r3g14db16g3y2/"><circle cx="279.2" cy="231.2" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s6/k2g9lb1k6b4g2~x2/"><circle cx="179.2" cy="213.1" r="4" fill="#3465a4"><title>Unnamed 3</title></circle></a><a href="/variants/s6/k4g21w3g21db21r4~x2/"><circle cx="226.9" cy="211.4" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/variants/s6/k4g21w3g21db21r4/"><circle cx="226.9" cy="211.4" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/variants/s8/g13dp1g1dp1g3db5k4y2~x2/"><circle cx="253.0" cy="154.7" r="4" fill="#3465a4"><title>Carrick, hunting</title></circle></a><circle cx="269.4" cy="216.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g3db8g3k4g15r2~x2/

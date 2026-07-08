@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Tennessee (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db70w6db21g10t27g4t4g1r4/)
 (the same proportion at any scale), whose colour order is pattern [BWBGBGBGR](/stripes/bwbgbgbgr/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8656
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8656](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8656)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dbi2w2dbi43t5db4k8db2w2~x2~dbi1404245-db1204274/"><circle cx="380.0" cy="107.4" r="4" fill="#3465a4"><title>Fife Flyers</title></circle></a><a href="/variants/s6/db128r8lb41n4lb4n4/"><circle cx="437.9" cy="127.6" r="4" fill="#3465a4"><title>French Freemasons' Pride (Fashion)</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="423.8" cy="107.0" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s8/t16r4t4dy2db56r18lb1db7~x2~t2405244-lb3200000/"><circle cx="383.2" cy="102.8" r="4" fill="#3465a4"><title>Union Memorial Tartan</title></circle></a><a href="/variants/s11/db45n5o1dt1lb1dt1lb5o3dt1o2lb1~x4~n1900000-o2500000/"><circle cx="462.0" cy="65.0" r="4" fill="#3465a4"><title>Mingulay (Fashion)</title></circle></a><a href="/variants/s8/db35g10lb10k10db23ly1db3r2~x2/"><circle cx="321.8" cy="104.6" r="4" fill="#3465a4"><title>Lapsley, The Tom (Personal)</title></circle></a><a href="/variants/s8/db35g10lb10k10db23y1db3r2~x2/"><circle cx="322.8" cy="104.5" r="4" fill="#3465a4"><title>Lapsley, The Tom</title></circle></a><a href="/variants/s8/r2w1r5g5lo1g10db40y2~x2/"><circle cx="360.8" cy="82.3" r="4" fill="#3465a4"><title>St. Andrew Quebec City (Corporate)</title></circle></a><a href="/variants/s10/db46w1k3lb4k3t3k2t11k1lb2~x2~db1404245-t2308259/"><circle cx="359.9" cy="61.1" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.1" cy="101.4" r="4" fill="#3465a4"><title>Wilton (Name)</title></circle></a><circle cx="388.7" cy="100.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dbi2w2dbi43t5db4k8db2w2~x2~dbi1404245-db1204274/"><circle cx="379.9" cy="107.5" r="4" fill="#3465a4"><title>Fife Flyers</title></circle></a><a href="/variants/s6/db128r8lb41n4lb4n4/"><circle cx="437.9" cy="127.8" r="4" fill="#3465a4"><title>French Freemasons' Pride (Fashion)</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="423.8" cy="107.1" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s8/t16r4t4dy2db56r18lb1db7~x2~t2405244-lb3200000/"><circle cx="383.1" cy="102.8" r="4" fill="#3465a4"><title>Union Memorial Tartan</title></circle></a><a href="/variants/s11/db45n5o1dt1lb1dt1lb5o3dt1o2lb1~x4~n1900000-o2500000/"><circle cx="461.9" cy="64.9" r="4" fill="#3465a4"><title>Mingulay (Fashion)</title></circle></a><a href="/variants/s8/db35g10lb10k10db23ly1db3r2~x2/"><circle cx="321.7" cy="104.8" r="4" fill="#3465a4"><title>Lapsley, The Tom (Personal)</title></circle></a><a href="/variants/s8/db35g10lb10k10db23y1db3r2~x2/"><circle cx="322.7" cy="104.7" r="4" fill="#3465a4"><title>Lapsley, The Tom</title></circle></a><a href="/variants/s8/r2w1r5g5lo1g10db40y2~x2/"><circle cx="360.6" cy="82.3" r="4" fill="#3465a4"><title>St. Andrew Quebec City (Corporate)</title></circle></a><a href="/variants/s10/db46w1k3lb4k3t3k2t11k1lb2~x2~db1404245-t2308259/"><circle cx="359.7" cy="61.1" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><a href="/variants/s6/w2db45g9r1n9dr1~x2/"><circle cx="430.0" cy="101.4" r="4" fill="#3465a4"><title>Wilton (Name)</title></circle></a><circle cx="388.6" cy="100.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db70w6db21g10t27g4t4g1r4~x2/

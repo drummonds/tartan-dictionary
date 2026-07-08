@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's, No 33"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4g17lb3r3lb3k19y2g17r4/)
 (the same proportion at any scale), whose colour order is pattern [BGWRWKGGR](/stripes/bgwrwkggr/).
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db4g17lb3r3lb3k19w2g17r4~x2/"><circle cx="149.4" cy="155.9" r="4" fill="#3465a4"><title>Wilson's, No 2/33</title></circle></a><a href="/variants/s12/k2g5w1k4y1db4g4k1r6k1g9db2~x4/"><circle cx="110.8" cy="152.2" r="4" fill="#3465a4"><title>Moskova</title></circle></a><a href="/variants/s7/k4g16db11r16g25y2lb3~x2/"><circle cx="209.3" cy="170.7" r="4" fill="#3465a4"><title>Mayo</title></circle></a><a href="/variants/s9/b3k2r2k12g10y1k1g2lb2~x4/"><circle cx="138.6" cy="126.2" r="4" fill="#3465a4"><title>Roderick Dhu</title></circle></a><a href="/variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/"><circle cx="158.4" cy="171.4" r="4" fill="#3465a4"><title>Royal College of Physicians Corporate Tartan</title></circle></a><a href="/variants/s9/g16b2dp13lb2k6y2g16lb2k12~x2/"><circle cx="127.1" cy="168.2" r="4" fill="#3465a4"><title>Wilson's, No 225</title></circle></a><a href="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/"><circle cx="125.9" cy="134.8" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><a href="/variants/s12/g30w3g4ly5g4w3g6k14lb3k14db18w4~x2/"><circle cx="100.0" cy="136.2" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/variants/s12/g30w3g4y5g4w3g6k14lb3k14db18w4~x2/"><circle cx="102.2" cy="136.7" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/"><circle cx="120.9" cy="136.9" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><circle cx="143.1" cy="150.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db4g17lb3r3lb3k19w2g17r4~x2/"><circle cx="149.4" cy="156.3" r="4" fill="#3465a4"><title>Wilson's, No 2/33</title></circle></a><a href="/variants/s12/k2g5w1k4y1db4g4k1r6k1g9db2~x4/"><circle cx="110.8" cy="152.6" r="4" fill="#3465a4"><title>Moskova</title></circle></a><a href="/variants/s7/k4g16db11r16g25y2lb3~x2/"><circle cx="209.3" cy="171.1" r="4" fill="#3465a4"><title>Mayo</title></circle></a><a href="/variants/s9/b3k2r2k12g10y1k1g2lb2~x4/"><circle cx="138.5" cy="126.5" r="4" fill="#3465a4"><title>Roderick Dhu</title></circle></a><a href="/variants/s10/g23r3k9r3db18r3k9r3g23y3~x2~db1406275/"><circle cx="158.4" cy="171.8" r="4" fill="#3465a4"><title>Royal College of Physicians Corporate Tartan</title></circle></a><a href="/variants/s9/g16b2dp13lb2k6y2g16lb2k12~x2/"><circle cx="127.1" cy="168.6" r="4" fill="#3465a4"><title>Wilson's, No 225</title></circle></a><a href="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/"><circle cx="125.8" cy="135.0" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><a href="/variants/s12/g30w3g4ly5g4w3g6k14lb3k14db18w4~x2/"><circle cx="99.9" cy="136.5" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/variants/s12/g30w3g4y5g4w3g6k14lb3k14db18w4~x2/"><circle cx="102.2" cy="137.0" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/"><circle cx="120.9" cy="137.2" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><circle cx="143.1" cy="150.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db4g17lb3r3lb3k19y2g17r4~x2/

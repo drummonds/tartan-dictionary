@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Turnberry Scotland"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n14db3n2lbi8n5lbi2k2n25lb2/)
 (the same proportion at any scale), whose colour order is pattern [BBBWBWKBW](/stripes/bbbwbwkbw/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11112
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11112](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11112)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n14lg3n2o8n5o2k2n25lb2~x2~n1900000-o2500000/"><circle cx="459.3" cy="167.2" r="4" fill="#3465a4"><title>Turnberry</title></circle></a><a href="/variants/s8/t130k9t21ly8t21w8t35r70/"><circle cx="385.1" cy="145.7" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/variants/s11/db5ly1n19k6n4k4n12w1n12k2db2~x2/"><circle cx="352.6" cy="130.8" r="4" fill="#3465a4"><title>Apollo 12 (Commemorative)</title></circle></a><a href="/variants/s9/g3n5k4n33g12k4w2n18ly3~x2/"><circle cx="358.4" cy="141.1" r="4" fill="#3465a4"><title>Smoke Showing (UFES)</title></circle></a><a href="/variants/s9/n16w1n1k1n8ly4r2w2r2~x4/"><circle cx="369.3" cy="132.7" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><a href="/variants/s9/db3n44k9n10k9n10k9n44r3~x2/"><circle cx="435.0" cy="153.1" r="4" fill="#3465a4"><title>VersaCold/Atlas (Corporate)</title></circle></a><a href="/variants/s12/o14dp1o19w1o18k3o1dt7dp2dt1o1n4~x2~o2500000-n1700000/"><circle cx="399.6" cy="104.9" r="4" fill="#3465a4"><title>Orkney Magnus</title></circle></a><a href="/variants/s12/r1n20r1n3w1k1w1k4n3k1n2y1~x2/"><circle cx="395.6" cy="80.6" r="4" fill="#3465a4"><title>Stuart/Stewart Authentic Grey</title></circle></a><a href="/variants/s9/dr1n6k1n1k2n1k1n6dy1~x8/"><circle cx="357.7" cy="193.4" r="4" fill="#3465a4"><title>Modowny</title></circle></a><a href="/variants/s8/k2w2db8k4dg33r2dg16w2~x2/"><circle cx="384.2" cy="130.7" r="4" fill="#3465a4"><title>Sarros, Terrence (USA) (Personal)</title></circle></a><circle cx="402.8" cy="148.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n14lg3n2o8n5o2k2n25lb2~x2~n1900000-o2500000/"><circle cx="459.3" cy="167.4" r="4" fill="#3465a4"><title>Turnberry</title></circle></a><a href="/variants/s8/t130k9t21ly8t21w8t35r70/"><circle cx="385.1" cy="146.1" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/variants/s11/db5ly1n19k6n4k4n12w1n12k2db2~x2/"><circle cx="352.5" cy="131.1" r="4" fill="#3465a4"><title>Apollo 12 (Commemorative)</title></circle></a><a href="/variants/s9/g3n5k4n33g12k4w2n18ly3~x2/"><circle cx="358.4" cy="141.3" r="4" fill="#3465a4"><title>Smoke Showing (UFES)</title></circle></a><a href="/variants/s9/n16w1n1k1n8ly4r2w2r2~x4/"><circle cx="369.3" cy="133.0" r="4" fill="#3465a4"><title>Middleton, City of</title></circle></a><a href="/variants/s9/db3n44k9n10k9n10k9n44r3~x2/"><circle cx="435.0" cy="153.5" r="4" fill="#3465a4"><title>VersaCold/Atlas (Corporate)</title></circle></a><a href="/variants/s12/o14dp1o19w1o18k3o1dt7dp2dt1o1n4~x2~o2500000-n1700000/"><circle cx="399.6" cy="105.0" r="4" fill="#3465a4"><title>Orkney Magnus</title></circle></a><a href="/variants/s12/r1n20r1n3w1k1w1k4n3k1n2y1~x2/"><circle cx="395.5" cy="80.8" r="4" fill="#3465a4"><title>Stuart/Stewart Authentic Grey</title></circle></a><a href="/variants/s9/dr1n6k1n1k2n1k1n6dy1~x8/"><circle cx="357.8" cy="193.9" r="4" fill="#3465a4"><title>Modowny</title></circle></a><a href="/variants/s8/k2w2db8k4dg33r2dg16w2~x2/"><circle cx="384.2" cy="130.9" r="4" fill="#3465a4"><title>Sarros, Terrence (USA) (Personal)</title></circle></a><circle cx="402.8" cy="149.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/n14db3n2lbi8n5lbi2k2n25lb2~x2~n1700000-lbi3300000/

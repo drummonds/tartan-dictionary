@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Johnston, Diana Dress"
   url: "/tartans/johnston-diana-dress/"
+- name: "Johnston, Diana Dress (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r10db4r3db6w3db4w3db40g73k4db2y6/)
 (the same proportion at any scale), whose colour order is pattern [GBKGBWBWBRBR](/stripes/gbkgbwbwbrbr/).
@@ -14,7 +16,7 @@ Part of the [Johnston, Diana Dress](/tartans/johnston-diana-dress/) tartan — t
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11203
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11203](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11203)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r10db4r3db6w3db4w3db40dg73k4db2ly6/"><circle cx="266.0" cy="59.4" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/variants/s11/r4g64y4g4k6db4y4db56w4db4w1/"><circle cx="258.4" cy="52.0" r="4" fill="#3465a4"><title>Pringle</title></circle></a><a href="/variants/s13/k2r3y1k2y1db16y1g32y1k2y1r1k1~x2/"><circle cx="243.2" cy="44.7" r="4" fill="#3465a4"><title>Neumann - GPS German Pipe Smokers</title></circle></a><a href="/variants/s13/k2r3y1dy2y1db16y1g32y1k2y1r1k1~x2/"><circle cx="250.4" cy="47.2" r="4" fill="#3465a4"><title>Neumann - German Pipe Smokers (Corp)</title></circle></a><a href="/variants/s9/g90r1k10w6k4g6r10db62y8/"><circle cx="253.5" cy="62.9" r="4" fill="#3465a4"><title>Stirling, University of</title></circle></a><a href="/variants/s11/db10g6dp4dr2dp4k10db6k4db28g55w4/"><circle cx="216.8" cy="86.0" r="4" fill="#3465a4"><title>1314 (Corporate)</title></circle></a><a href="/variants/s15/r3w3k3w3r3db8k1y2k1db8k2g30k1g10k2~x2~r1506019/"><circle cx="205.7" cy="59.3" r="4" fill="#3465a4"><title>Coigach (District)</title></circle></a><a href="/variants/s15/r3w3k3w3r3db8k1y2k1db8k2g30k1g10k2~x2/"><circle cx="204.2" cy="58.4" r="4" fill="#3465a4"><title>Coigach</title></circle></a><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/"><circle cx="215.7" cy="82.4" r="4" fill="#3465a4"><title>Lusk (Personal)</title></circle></a><a href="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/"><circle cx="215.9" cy="58.5" r="4" fill="#3465a4"><title>Knox (Personal)</title></circle></a><circle cx="247.6" cy="57.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r10db4r3db6w3db4w3db40dg73k4db2ly6/"><circle cx="265.8" cy="59.3" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/variants/s11/r4g64y4g4k6db4y4db56w4db4w1/"><circle cx="258.2" cy="51.9" r="4" fill="#3465a4"><title>Pringle</title></circle></a><a href="/variants/s13/k2r3y1k2y1db16y1g32y1k2y1r1k1~x2/"><circle cx="243.0" cy="44.7" r="4" fill="#3465a4"><title>Neumann - GPS German Pipe Smokers</title></circle></a><a href="/variants/s13/k2r3y1dy2y1db16y1g32y1k2y1r1k1~x2/"><circle cx="250.2" cy="47.1" r="4" fill="#3465a4"><title>Neumann - German Pipe Smokers (Corp)</title></circle></a><a href="/variants/s9/g90r1k10w6k4g6r10db62y8/"><circle cx="253.3" cy="62.9" r="4" fill="#3465a4"><title>Stirling, University of</title></circle></a><a href="/variants/s11/db10g6dp4dr2dp4k10db6k4db28g55w4/"><circle cx="216.7" cy="86.1" r="4" fill="#3465a4"><title>1314 (Corporate)</title></circle></a><a href="/variants/s15/r3w3k3w3r3db8k1y2k1db8k2g30k1g10k2~x2~r1506019/"><circle cx="205.5" cy="59.3" r="4" fill="#3465a4"><title>Coigach (District)</title></circle></a><a href="/variants/s15/r3w3k3w3r3db8k1y2k1db8k2g30k1g10k2~x2/"><circle cx="204.0" cy="58.5" r="4" fill="#3465a4"><title>Coigach</title></circle></a><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/"><circle cx="215.6" cy="82.4" r="4" fill="#3465a4"><title>Lusk (Personal)</title></circle></a><a href="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/"><circle cx="215.7" cy="58.6" r="4" fill="#3465a4"><title>Knox (Personal)</title></circle></a><circle cx="247.5" cy="57.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r10db4r3db6w3db4w3db40g73k4db2y6/

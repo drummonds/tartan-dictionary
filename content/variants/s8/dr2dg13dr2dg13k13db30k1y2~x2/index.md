@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Chan (Name?)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr2dg13dr2dg13k13db30k1y2/)
 (the same proportion at any scale), whose colour order is pattern [BGBGKBKG](/stripes/bgbgkbkg/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6423
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6423](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6423)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dy3k3dy3k18db28w1dg22k2dy2~x2/"><circle cx="230.9" cy="132.0" r="4" fill="#3465a4"><title>Black Gold (Corporate)</title></circle></a><a href="/variants/s7/dg30db4dg2k20db18r1db4~x2/"><circle cx="300.1" cy="168.0" r="4" fill="#3465a4"><title>MacTaggart</title></circle></a><a href="/variants/s7/dp6ly2dp1dg25db16k2db4~x2/"><circle cx="326.9" cy="162.6" r="4" fill="#3465a4"><title>Lowry</title></circle></a><a href="/variants/s7/dy2k27g9k2db29k1g2~x2~k0503265-db1003265/"><circle cx="326.6" cy="158.0" r="4" fill="#3465a4"><title>Caledonian Canals (Corporate)</title></circle></a><a href="/variants/s8/r4dg3k2dg38db30k3db3k3~x2/"><circle cx="351.4" cy="159.2" r="4" fill="#3465a4"><title>Peter of Lee</title></circle></a><a href="/variants/s8/y2k4y1dg16k14db23k4r1~x2/"><circle cx="216.6" cy="144.3" r="4" fill="#3465a4"><title>Thomas of Craigie (Personal)</title></circle></a><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/"><circle cx="213.6" cy="167.1" r="4" fill="#3465a4"><title>MacCaskill (Personal)</title></circle></a><a href="/variants/s7/k6dbi3dg28w1db28dbi2w3~x2~dbi1406275-db1204274/"><circle cx="305.8" cy="132.4" r="4" fill="#3465a4"><title>Weisfeld</title></circle></a><a href="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/"><circle cx="237.3" cy="150.2" r="4" fill="#3465a4"><title>Nova Scotia Int. Tattoo (Corporate)</title></circle></a><a href="/variants/s9/dg28k2db3k11db3k2db17dbi4lb2~x2~db1004274-dbi1406275/"><circle cx="251.2" cy="165.1" r="4" fill="#3465a4"><title>West of Wells (Personal)</title></circle></a><circle cx="280.4" cy="148.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dy3k3dy3k18db28w1dg22k2dy2~x2/"><circle cx="230.8" cy="132.0" r="4" fill="#3465a4"><title>Black Gold (Corporate)</title></circle></a><a href="/variants/s7/dg30db4dg2k20db18r1db4~x2/"><circle cx="300.1" cy="168.1" r="4" fill="#3465a4"><title>MacTaggart</title></circle></a><a href="/variants/s7/dp6ly2dp1dg25db16k2db4~x2/"><circle cx="326.9" cy="162.6" r="4" fill="#3465a4"><title>Lowry</title></circle></a><a href="/variants/s7/dy2k27g9k2db29k1g2~x2~k0503265-db1003265/"><circle cx="326.6" cy="158.1" r="4" fill="#3465a4"><title>Caledonian Canals (Corporate)</title></circle></a><a href="/variants/s8/r4dg3k2dg38db30k3db3k3~x2/"><circle cx="351.3" cy="159.3" r="4" fill="#3465a4"><title>Peter of Lee</title></circle></a><a href="/variants/s8/y2k4y1dg16k14db23k4r1~x2/"><circle cx="216.5" cy="144.4" r="4" fill="#3465a4"><title>Thomas of Craigie (Personal)</title></circle></a><a href="/variants/s7/k2r1dg15k15db15y1k2~x2/"><circle cx="213.5" cy="167.3" r="4" fill="#3465a4"><title>MacCaskill (Personal)</title></circle></a><a href="/variants/s7/k6dbi3dg28w1db28dbi2w3~x2~dbi1406275-db1204274/"><circle cx="305.7" cy="132.3" r="4" fill="#3465a4"><title>Weisfeld</title></circle></a><a href="/variants/s7/db3b2db21k12dg24r1ly3~x2~db0806265-k0700000/"><circle cx="237.2" cy="150.3" r="4" fill="#3465a4"><title>Nova Scotia Int. Tattoo (Corporate)</title></circle></a><a href="/variants/s9/dg28k2db3k11db3k2db17dbi4lb2~x2~db1004274-dbi1406275/"><circle cx="251.1" cy="165.2" r="4" fill="#3465a4"><title>West of Wells (Personal)</title></circle></a><circle cx="280.3" cy="148.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dr2dg13dr2dg13k13db30k1y2~x2/

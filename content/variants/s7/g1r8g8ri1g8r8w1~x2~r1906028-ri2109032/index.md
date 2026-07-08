@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/mackinnon/"
 - name: "MacKinnon, hunting"
   url: "/tartans/mackinnon-hunting/"
+- name: "MacKinnon Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g1r8g8ri1g8r8w1/)
 (the same proportion at any scale), whose colour order is pattern [GRGRGRW](/stripes/grgrgrw/).
@@ -16,7 +18,7 @@ Part of the [MacKinnon, hunting](/tartans/mackinnon-hunting/) tartan — the nam
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r30g3db5g21r3g21db2~x2/"><circle cx="349.6" cy="207.4" r="4" fill="#3465a4"><title>Scottish Piping Soc. of London (Corp</title></circle></a><a href="/variants/s9/r3g3lo2r18w2g21lo2g2lo3~x2/"><circle cx="293.4" cy="179.6" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/variants/s5/g8r2g9r16w1~x2/"><circle cx="360.1" cy="227.8" r="4" fill="#3465a4"><title>MacGregor of Balquhidder</title></circle></a><a href="/variants/s6/g5w2r27g27r5w2~x2/"><circle cx="338.3" cy="206.3" r="4" fill="#3465a4"><title>MacDonald of Glenaladale (symmetrical)</title></circle></a><a href="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/"><circle cx="323.6" cy="219.7" r="4" fill="#3465a4"><title>Burnett of Powis (Personal)</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="324.7" cy="205.6" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s7/y1r3g7r3g7r3y1~x4/"><circle cx="352.6" cy="267.3" r="4" fill="#3465a4"><title>Unidentified #42</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2/"><circle cx="263.8" cy="237.3" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2~x2/"><circle cx="263.8" cy="237.3" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s7/g1dy8g8r1g8dy8w1~x2/"><circle cx="296.7" cy="243.9" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><circle cx="315.1" cy="243.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r30g3db5g21r3g21db2~x2/"><circle cx="349.7" cy="207.9" r="4" fill="#3465a4"><title>Scottish Piping Soc. of London (Corp</title></circle></a><a href="/variants/s9/r3g3lo2r18w2g21lo2g2lo3~x2/"><circle cx="293.5" cy="180.0" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/variants/s5/g8r2g9r16w1~x2/"><circle cx="360.3" cy="228.4" r="4" fill="#3465a4"><title>MacGregor of Balquhidder</title></circle></a><a href="/variants/s6/g5w2r27g27r5w2~x2/"><circle cx="338.4" cy="206.8" r="4" fill="#3465a4"><title>MacDonald of Glenaladale (symmetrical)</title></circle></a><a href="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/"><circle cx="323.7" cy="220.2" r="4" fill="#3465a4"><title>Burnett of Powis (Personal)</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="324.8" cy="206.0" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s7/y1r3g7r3g7r3y1~x4/"><circle cx="352.8" cy="267.9" r="4" fill="#3465a4"><title>Unidentified #42</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2/"><circle cx="263.9" cy="237.9" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s7/db9r6g2r6g18r6g2~x2/"><circle cx="263.9" cy="237.9" r="4" fill="#3465a4"><title>Skene D</title></circle></a><a href="/variants/s7/g1dy8g8r1g8dy8w1~x2/"><circle cx="296.8" cy="244.4" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><circle cx="315.3" cy="243.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g1r8g8ri1g8r8w1~x2~r1906028-ri2109032/

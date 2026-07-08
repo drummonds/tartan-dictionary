@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wicklow, County"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n1do1n12lb1do3n1g6n2do1n2g6n1do3lb1n12do1n1g1/)
 (the same proportion at any scale), whose colour order is pattern [BBBWBBGBBBGBBWBBBG](/stripes/bbbwbbgbbbgbbwbbbg/).
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4621
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4621](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4621)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/"><circle cx="438.7" cy="218.4" r="4" fill="#3465a4"><title>Wicklow, County (District)</title></circle></a><a href="/variants/s10/dr3n30g8dr2g2dr2g2dr8n7dr2~x2/"><circle cx="476.3" cy="215.7" r="4" fill="#3465a4"><title>Gray Family Tartan</title></circle></a><a href="/variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/"><circle cx="485.2" cy="233.2" r="4" fill="#3465a4"><title>Wicklow Irish County Tartan</title></circle></a><a href="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2~dg1806142-g1903114/"><circle cx="402.6" cy="175.5" r="4" fill="#3465a4"><title>Prince David</title></circle></a><circle cx="436.3" cy="198.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/"><circle cx="438.8" cy="218.6" r="4" fill="#3465a4"><title>Wicklow, County (District)</title></circle></a><a href="/variants/s10/dr3n30g8dr2g2dr2g2dr8n7dr2~x2/"><circle cx="476.4" cy="215.9" r="4" fill="#3465a4"><title>Gray Family Tartan</title></circle></a><a href="/variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/"><circle cx="485.3" cy="233.3" r="4" fill="#3465a4"><title>Wicklow Irish County Tartan</title></circle></a><a href="/variants/s15/dg3g1lo2dg3g1lo2dy21dg18dy2dg3dy2dg18dy21g1lo2~x2~dg1806142-g1903114/"><circle cx="402.6" cy="175.5" r="4" fill="#3465a4"><title>Prince David</title></circle></a><circle cx="436.4" cy="198.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s18/n1do1n12lb1do3n1g6n2do1n2g6n1do3lb1n12do1n1g1~x4/

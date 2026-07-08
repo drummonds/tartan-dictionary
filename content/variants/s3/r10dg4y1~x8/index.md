@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Lugo"
   url: "/tartans/lugo/"
+- name: "Lugo (2013)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r10dg4y1/)
 (the same proportion at any scale), whose colour order is pattern [GGGR](/stripes/gggr/).
@@ -14,7 +16,7 @@ Part of the [Lugo](/tartans/lugo/) tartan — the named design grouping this set
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10946
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10946](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10946)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/r10dg4dy1~x8/"><circle cx="354.5" cy="255.1" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s3/r4g2lb1~x4/"><circle cx="324.7" cy="318.7" r="4" fill="#3465a4"><title>Wilson's, No 188</title></circle></a><a href="/variants/s4/g30y3db8r25~x2/"><circle cx="272.9" cy="249.2" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/variants/s4/g30ly3db8r25~x2/"><circle cx="265.7" cy="247.2" r="4" fill="#3465a4"><title>Dohmen (Personal)</title></circle></a><a href="/variants/s4/db4r50g25w2~x2/"><circle cx="415.0" cy="182.0" r="4" fill="#3465a4"><title>Unidentified Locket</title></circle></a><a href="/variants/s3/r17g9r2~x2/"><circle cx="371.4" cy="294.6" r="4" fill="#3465a4"><title>MacGregor of Glenstrae #2</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="386.9" cy="257.4" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s5/r10g3k1g3t1~x16/"><circle cx="305.2" cy="193.7" r="4" fill="#3465a4"><title>Espy (Fashion?)</title></circle></a><a href="/variants/s4/dg1dr10r10dg1~x6/"><circle cx="375.1" cy="254.2" r="4" fill="#3465a4"><title>Stirling of Keir (Clan)</title></circle></a><a href="/variants/s5/r22g17w2lg6r19~x2/"><circle cx="347.3" cy="235.1" r="4" fill="#3465a4"><title>Menzies #2</title></circle></a><circle cx="354.2" cy="255.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/r10dg4dy1~x8/"><circle cx="354.7" cy="255.7" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s3/r4g2lb1~x4/"><circle cx="325.0" cy="319.6" r="4" fill="#3465a4"><title>Wilson's, No 188</title></circle></a><a href="/variants/s4/g30y3db8r25~x2/"><circle cx="273.1" cy="249.8" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/variants/s4/g30ly3db8r25~x2/"><circle cx="265.9" cy="247.9" r="4" fill="#3465a4"><title>Dohmen (Personal)</title></circle></a><a href="/variants/s4/db4r50g25w2~x2/"><circle cx="415.1" cy="182.5" r="4" fill="#3465a4"><title>Unidentified Locket</title></circle></a><a href="/variants/s3/r17g9r2~x2/"><circle cx="371.6" cy="295.4" r="4" fill="#3465a4"><title>MacGregor of Glenstrae #2</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="387.1" cy="258.0" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s5/r10g3k1g3t1~x16/"><circle cx="305.3" cy="194.2" r="4" fill="#3465a4"><title>Espy (Fashion?)</title></circle></a><a href="/variants/s4/dg1dr10r10dg1~x6/"><circle cx="375.3" cy="254.7" r="4" fill="#3465a4"><title>Stirling of Keir (Clan)</title></circle></a><a href="/variants/s5/r22g17w2lg6r19~x2/"><circle cx="347.4" cy="235.8" r="4" fill="#3465a4"><title>Menzies #2</title></circle></a><circle cx="354.4" cy="255.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/r10dg4y1~x8/

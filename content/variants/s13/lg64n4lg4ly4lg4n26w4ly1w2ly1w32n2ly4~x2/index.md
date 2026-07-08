@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Morag"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lg64n4lg4ly4lg4n26w4ly1w2ly1w32n2ly4/)
 (the same proportion at any scale), whose colour order is pattern [YBWYWYWBYYYBY](/stripes/ybwywywbyyyby/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4883
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4883](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4883)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

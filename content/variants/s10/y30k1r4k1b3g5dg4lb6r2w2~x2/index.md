@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Essex, County Ontario"
   url: "/tartans/essex-county-ontario/"
+- name: "Essex, County Ontario"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y30k1r4k1b3g5dg4lb6r2w2/)
 (the same proportion at any scale), whose colour order is pattern [GKRKBGGWRW](/stripes/gkrkbggwrw/).
@@ -14,7 +16,7 @@ Part of the [Essex, County Ontario](/tartans/essex-county-ontario/) tartan — t
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y30k1r4k1g3dgi5dg4lb6r2w2~x2~g2408144-dgi1806142/"><circle cx="238.3" cy="53.8" r="4" fill="#3465a4"><title>Essex County Ontario District Tartan</title></circle></a><a href="/variants/s10/ly30k1dr4k1g3dgi5dg4b6dr2w2~x2~dgi1605139-dg1104144/"><circle cx="194.3" cy="43.0" r="4" fill="#3465a4"><title>Essex County (Ontario)</title></circle></a><a href="/variants/s7/w3r4db13g37lb3k3y2~x2/"><circle cx="248.4" cy="103.2" r="4" fill="#3465a4"><title>Washington District Tartan</title></circle></a><a href="/variants/s7/w3r4db13g37b3k3y2~x2/"><circle cx="252.1" cy="104.4" r="4" fill="#3465a4"><title>Washington</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/"><circle cx="301.9" cy="60.6" r="4" fill="#3465a4"><title>Baxter Clan Tartan</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="227.1" cy="116.6" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s9/k1g30dy2y4dy2w12r2t6k1~x2~g2203152/"><circle cx="218.0" cy="70.0" r="4" fill="#3465a4"><title>Nor'Westers</title></circle></a><a href="/variants/s18/dy24k1lr2k1dy24o2dy2o12k4lr4w4wi4y4lo4dy4o12dy2o2~x2~dy1503076-lr3000000-wi3701120/"><circle cx="199.1" cy="49.6" r="4" fill="#3465a4"><title>Bear</title></circle></a><a href="/variants/s12/dy63k4lb9y2db4y2db4dy11r8lb2r4w5~x2/"><circle cx="214.4" cy="14.0" r="4" fill="#3465a4"><title>Sellers/Sillars</title></circle></a><a href="/variants/s11/db8lb1k6y1k2w2k2g12o28w1o4~x2/"><circle cx="191.4" cy="61.6" r="4" fill="#3465a4"><title>MacLean of Kingairloch</title></circle></a><circle cx="236.1" cy="52.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y30k1r4k1g3dgi5dg4lb6r2w2~x2~g2408144-dgi1806142/"><circle cx="238.1" cy="53.7" r="4" fill="#3465a4"><title>Essex County Ontario District Tartan</title></circle></a><a href="/variants/s10/ly30k1dr4k1g3dgi5dg4b6dr2w2~x2~dgi1605139-dg1104144/"><circle cx="194.1" cy="43.1" r="4" fill="#3465a4"><title>Essex County (Ontario)</title></circle></a><a href="/variants/s7/w3r4db13g37lb3k3y2~x2/"><circle cx="248.3" cy="103.3" r="4" fill="#3465a4"><title>Washington District Tartan</title></circle></a><a href="/variants/s7/w3r4db13g37b3k3y2~x2/"><circle cx="252.0" cy="104.6" r="4" fill="#3465a4"><title>Washington</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/"><circle cx="301.8" cy="60.6" r="4" fill="#3465a4"><title>Baxter Clan Tartan</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="227.1" cy="116.9" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s9/k1g30dy2y4dy2w12r2t6k1~x2~g2203152/"><circle cx="217.8" cy="70.1" r="4" fill="#3465a4"><title>Nor'Westers</title></circle></a><a href="/variants/s18/dy24k1lr2k1dy24o2dy2o12k4lr4w4wi4y4lo4dy4o12dy2o2~x2~dy1503076-lr3000000-wi3701120/"><circle cx="198.9" cy="49.6" r="4" fill="#3465a4"><title>Bear</title></circle></a><a href="/variants/s12/dy63k4lb9y2db4y2db4dy11r8lb2r4w5~x2/"><circle cx="214.2" cy="14.0" r="4" fill="#3465a4"><title>Sellers/Sillars</title></circle></a><a href="/variants/s11/db8lb1k6y1k2w2k2g12o28w1o4~x2/"><circle cx="191.3" cy="61.6" r="4" fill="#3465a4"><title>MacLean of Kingairloch</title></circle></a><circle cx="235.9" cy="52.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/y30k1r4k1b3g5dg4lb6r2w2~x2/

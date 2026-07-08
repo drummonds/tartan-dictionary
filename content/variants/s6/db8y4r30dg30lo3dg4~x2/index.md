@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hutcheson (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8y4r30dg30lo3dg4/)
 (the same proportion at any scale), whose colour order is pattern [BGRGYG](/stripes/bgrgyg/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
 
 ## Provenance
 
@@ -68,8 +70,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db1r12g6y1g6db1~x4/"><circle cx="300.0" cy="208.2" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s5/y2dg17g4r15dg1~x2/"><circle cx="309.0" cy="202.4" r="4" fill="#3465a4"><title>Christmas</title></circle></a><a href="/variants/s5/ly2dg17g4r15dg1~x2/"><circle cx="295.2" cy="198.0" r="4" fill="#3465a4"><title>Christmas (Fashion)</title></circle></a><a href="/variants/s7/dt12w2dt13dg3g2r24g3~x2/"><circle cx="242.8" cy="179.2" r="4" fill="#3465a4"><title>Wellmont Foundation (Corporate)</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="206.8" cy="187.1" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s7/r1g4w1g4y1dr8lb1~x6/"><circle cx="188.3" cy="191.1" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/variants/s6/r8b1g4b1g1lb2~x2/"><circle cx="276.8" cy="222.2" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s5/k7db3g28r28y3~x2/"><circle cx="190.7" cy="190.9" r="4" fill="#3465a4"><title>Turnbull, dress</title></circle></a><a href="/variants/s5/k6db3dg20r20y3~x2/"><circle cx="168.8" cy="210.5" r="4" fill="#3465a4"><title>Douglas of Roxburgh</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.2" cy="189.5" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><circle cx="247.8" cy="194.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db1r12g6y1g6db1~x4/"><circle cx="300.1" cy="208.7" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s5/y2dg17g4r15dg1~x2/"><circle cx="309.0" cy="202.8" r="4" fill="#3465a4"><title>Christmas</title></circle></a><a href="/variants/s5/ly2dg17g4r15dg1~x2/"><circle cx="295.3" cy="198.4" r="4" fill="#3465a4"><title>Christmas (Fashion)</title></circle></a><a href="/variants/s7/dt12w2dt13dg3g2r24g3~x2/"><circle cx="242.8" cy="179.6" r="4" fill="#3465a4"><title>Wellmont Foundation (Corporate)</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="206.8" cy="187.6" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s7/r1g4w1g4y1dr8lb1~x6/"><circle cx="188.4" cy="191.5" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/variants/s6/r8b1g4b1g1lb2~x2/"><circle cx="277.0" cy="222.8" r="4" fill="#3465a4"><title>Moray of Abercairney</title></circle></a><a href="/variants/s5/k7db3g28r28y3~x2/"><circle cx="190.8" cy="191.4" r="4" fill="#3465a4"><title>Turnbull, dress</title></circle></a><a href="/variants/s5/k6db3dg20r20y3~x2/"><circle cx="168.9" cy="211.1" r="4" fill="#3465a4"><title>Douglas of Roxburgh</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.3" cy="190.0" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><circle cx="247.9" cy="195.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db8y4r30dg30lo3dg4~x2/

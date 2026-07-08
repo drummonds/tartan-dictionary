@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glen Shee #3 (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o4k29dr30db29o4/)
 (the same proportion at any scale), whose colour order is pattern [RBBKR](/stripes/rbbkr/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5046
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5046](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5046)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r1k8dg2db4r1~x8/"><circle cx="232.7" cy="208.2" r="4" fill="#3465a4"><title>Nairn</title></circle></a><a href="/variants/s5/dr3k1g1k1db3~x16/"><circle cx="135.0" cy="288.2" r="4" fill="#3465a4"><title>Clark Clerk(e)</title></circle></a><a href="/variants/s5/k1dg8r6db8k1~x4/"><circle cx="166.0" cy="231.6" r="4" fill="#3465a4"><title>Edinburgh Tattoo 50th (Commemorative</title></circle></a><a href="/variants/s5/k1db8r6g8k1~x4/"><circle cx="138.2" cy="225.8" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo 50th Military Tartan</title></circle></a><a href="/variants/s6/y1do10k8dr8do1ly1~x4/"><circle cx="219.2" cy="204.2" r="4" fill="#3465a4"><title>Unidentified #66</title></circle></a><a href="/variants/s4/db1n6k6r1~x10/"><circle cx="196.7" cy="235.7" r="4" fill="#3465a4"><title>Mayer, Chris (Personal)</title></circle></a><a href="/variants/s6/r8dg20k20db20k3r8~x2/"><circle cx="104.6" cy="242.7" r="4" fill="#3465a4"><title>Atholl Highlanders (Military)</title></circle></a><a href="/variants/s6/k2dg10y2k9dp8dg2~x2/"><circle cx="185.9" cy="255.6" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><circle cx="183.3" cy="203.4" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/"><circle cx="176.9" cy="203.9" r="4" fill="#3465a4"><title>Teylu Coleman (Cornwall)</title></circle></a><circle cx="170.0" cy="240.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r1k8dg2db4r1~x8/"><circle cx="232.8" cy="208.7" r="4" fill="#3465a4"><title>Nairn</title></circle></a><a href="/variants/s5/dr3k1g1k1db3~x16/"><circle cx="135.2" cy="288.9" r="4" fill="#3465a4"><title>Clark Clerk(e)</title></circle></a><a href="/variants/s5/k1dg8r6db8k1~x4/"><circle cx="166.0" cy="232.2" r="4" fill="#3465a4"><title>Edinburgh Tattoo 50th (Commemorative</title></circle></a><a href="/variants/s5/k1db8r6g8k1~x4/"><circle cx="138.3" cy="226.5" r="4" fill="#3465a4"><title>Edinburgh Military Tattoo 50th Military Tartan</title></circle></a><a href="/variants/s6/y1do10k8dr8do1ly1~x4/"><circle cx="219.2" cy="204.5" r="4" fill="#3465a4"><title>Unidentified #66</title></circle></a><a href="/variants/s4/db1n6k6r1~x10/"><circle cx="196.8" cy="236.3" r="4" fill="#3465a4"><title>Mayer, Chris (Personal)</title></circle></a><a href="/variants/s6/r8dg20k20db20k3r8~x2/"><circle cx="104.6" cy="243.3" r="4" fill="#3465a4"><title>Atholl Highlanders (Military)</title></circle></a><a href="/variants/s6/k2dg10y2k9dp8dg2~x2/"><circle cx="186.0" cy="256.1" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><circle cx="183.4" cy="203.8" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/"><circle cx="177.0" cy="204.4" r="4" fill="#3465a4"><title>Teylu Coleman (Cornwall)</title></circle></a><circle cx="170.1" cy="241.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/o4k29dr30db29o4~x2/

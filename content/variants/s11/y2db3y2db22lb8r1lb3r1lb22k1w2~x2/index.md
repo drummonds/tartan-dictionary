@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Liddell (Newfane, New York)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y2db3y2db22lb8r1lb3r1lb22k1w2/)
 (the same proportion at any scale), whose colour order is pattern [GBGBWRWRWKW](/stripes/gbgbwrwrwkw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10056
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10056](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10056)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y4db24lb5g2db3k5lb33r2~x2/"><circle cx="213.3" cy="115.5" r="4" fill="#3465a4"><title>Los Angeles</title></circle></a><a href="/variants/s10/lb16db6k1y1k1db1lb4dy4k1r1~x4/"><circle cx="225.2" cy="94.9" r="4" fill="#3465a4"><title>Kirk in the Hills</title></circle></a><a href="/variants/s13/lo2w3k1b9k1bi6g1bi3g1bi19k2w7lo1~x2~b1511266-bi2501240/"><circle cx="196.1" cy="93.2" r="4" fill="#3465a4"><title>Cahaba Memorial</title></circle></a><a href="/variants/s11/lb50db14g2db2lb2db2n10t6k2t3lb2~x2/"><circle cx="290.4" cy="73.1" r="4" fill="#3465a4"><title>Blue Dunnett (Fashion)</title></circle></a><a href="/variants/s11/y4db7y4db26g3k1g3w9r2w4r2~x2/"><circle cx="204.4" cy="82.9" r="4" fill="#3465a4"><title>Baudoux et amis picards</title></circle></a><a href="/variants/s9/y3db24r3db8k1lb16k1db3w3~x2/"><circle cx="254.9" cy="98.1" r="4" fill="#3465a4"><title>MacCormick Festive</title></circle></a><a href="/variants/s11/y4lb1y2lb20y2r8y2lb20db16k1w4~x2/"><circle cx="218.1" cy="109.6" r="4" fill="#3465a4"><title>Congo, The Democratic Republic of the</title></circle></a><a href="/variants/s9/dp1g1db2y1db16lb16db1w2r1~x4/"><circle cx="223.3" cy="102.3" r="4" fill="#3465a4"><title>Eastern States Exposition-West Springfield</title></circle></a><a href="/variants/s9/lb14w1lb3y2lb3w1lb4db24r3~x2/"><circle cx="262.8" cy="124.2" r="4" fill="#3465a4"><title>Musselburgh</title></circle></a><a href="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/"><circle cx="210.0" cy="82.5" r="4" fill="#3465a4"><title>Wiegratz Alba (Personal)</title></circle></a><circle cx="242.1" cy="90.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y4db24lb5g2db3k5lb33r2~x2/"><circle cx="213.2" cy="115.7" r="4" fill="#3465a4"><title>Los Angeles</title></circle></a><a href="/variants/s10/lb16db6k1y1k1db1lb4dy4k1r1~x4/"><circle cx="225.1" cy="95.1" r="4" fill="#3465a4"><title>Kirk in the Hills</title></circle></a><a href="/variants/s13/lo2w3k1b9k1bi6g1bi3g1bi19k2w7lo1~x2~b1511266-bi2501240/"><circle cx="196.0" cy="93.4" r="4" fill="#3465a4"><title>Cahaba Memorial</title></circle></a><a href="/variants/s11/lb50db14g2db2lb2db2n10t6k2t3lb2~x2/"><circle cx="290.3" cy="73.2" r="4" fill="#3465a4"><title>Blue Dunnett (Fashion)</title></circle></a><a href="/variants/s11/y4db7y4db26g3k1g3w9r2w4r2~x2/"><circle cx="204.3" cy="83.1" r="4" fill="#3465a4"><title>Baudoux et amis picards</title></circle></a><a href="/variants/s9/y3db24r3db8k1lb16k1db3w3~x2/"><circle cx="254.8" cy="98.2" r="4" fill="#3465a4"><title>MacCormick Festive</title></circle></a><a href="/variants/s11/y4lb1y2lb20y2r8y2lb20db16k1w4~x2/"><circle cx="218.0" cy="109.8" r="4" fill="#3465a4"><title>Congo, The Democratic Republic of the</title></circle></a><a href="/variants/s9/dp1g1db2y1db16lb16db1w2r1~x4/"><circle cx="223.2" cy="102.5" r="4" fill="#3465a4"><title>Eastern States Exposition-West Springfield</title></circle></a><a href="/variants/s9/lb14w1lb3y2lb3w1lb4db24r3~x2/"><circle cx="262.7" cy="124.4" r="4" fill="#3465a4"><title>Musselburgh</title></circle></a><a href="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/"><circle cx="209.9" cy="82.7" r="4" fill="#3465a4"><title>Wiegratz Alba (Personal)</title></circle></a><circle cx="242.0" cy="90.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/y2db3y2db22lb8r1lb3r1lb22k1w2~x2/

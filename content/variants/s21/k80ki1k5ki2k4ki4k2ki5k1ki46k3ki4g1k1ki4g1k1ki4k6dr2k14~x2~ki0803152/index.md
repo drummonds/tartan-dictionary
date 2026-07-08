@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified (Jones #1)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k80ki1k5ki2k4ki4k2ki5k1ki46k3ki4g1k1ki4g1k1ki4k6dr2k14/)
 (the same proportion at any scale), whose colour order is pattern [KBKKKGKKGKKKKKKKKKKKK](/stripes/kbkkkgkkgkkkkkkkkkkkk/).
 
 Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4266
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4266](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4266)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

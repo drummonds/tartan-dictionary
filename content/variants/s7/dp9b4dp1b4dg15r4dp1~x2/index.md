@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Logan, Light"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp9b4dp1b4dg15r4dp1/)
 (the same proportion at any scale), whose colour order is pattern [BBBBGRB](/stripes/bbbbgrb/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp18g24k3db6dp2db5dp18~x2/"><circle cx="266.7" cy="199.4" r="4" fill="#3465a4"><title>Saorsa</title></circle></a><a href="/variants/s7/b32do6o5do6dg19o3dg5~x2/"><circle cx="283.3" cy="220.2" r="4" fill="#3465a4"><title>Roscommon</title></circle></a><a href="/variants/s7/db4dg2r17dr9dg10db30n2~x2/"><circle cx="272.8" cy="184.4" r="4" fill="#3465a4"><title>Dempster, Ross (Personal)</title></circle></a><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/"><circle cx="261.3" cy="204.8" r="4" fill="#3465a4"><title>Ballantyne (Personal) STWR</title></circle></a><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/"><circle cx="243.3" cy="196.2" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><a href="/variants/s8/b24dp3b3dp3b3dp7dg20r3~x2/"><circle cx="288.9" cy="215.2" r="4" fill="#3465a4"><title>Crantock</title></circle></a><a href="/variants/s7/dg6r2db1r3db16n20w2~x2/"><circle cx="263.4" cy="170.2" r="4" fill="#3465a4"><title>MacCord (Personal)</title></circle></a><a href="/variants/s8/g3r12dg12g5r2db30g2r2~x2/"><circle cx="263.1" cy="173.7" r="4" fill="#3465a4"><title>Rannoch Moor (Fashion)</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.3" cy="219.4" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s5/r1dy8r2db8lb1~x2/"><circle cx="263.0" cy="239.4" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><circle cx="272.9" cy="207.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp18g24k3db6dp2db5dp18~x2/"><circle cx="266.7" cy="199.8" r="4" fill="#3465a4"><title>Saorsa</title></circle></a><a href="/variants/s7/b32do6o5do6dg19o3dg5~x2/"><circle cx="283.3" cy="220.5" r="4" fill="#3465a4"><title>Roscommon</title></circle></a><a href="/variants/s7/db4dg2r17dr9dg10db30n2~x2/"><circle cx="272.8" cy="184.7" r="4" fill="#3465a4"><title>Dempster, Ross (Personal)</title></circle></a><a href="/variants/s8/db34dy9ly3dy9n30r3n11r5/"><circle cx="261.4" cy="205.0" r="4" fill="#3465a4"><title>Ballantyne (Personal) STWR</title></circle></a><a href="/variants/s7/dp9r4dp1r4g15ri4dp1~x2~r2208029-ri2209032/"><circle cx="243.4" cy="196.6" r="4" fill="#3465a4"><title>Logan Light</title></circle></a><a href="/variants/s8/b24dp3b3dp3b3dp7dg20r3~x2/"><circle cx="289.0" cy="215.5" r="4" fill="#3465a4"><title>Crantock</title></circle></a><a href="/variants/s7/dg6r2db1r3db16n20w2~x2/"><circle cx="263.4" cy="170.4" r="4" fill="#3465a4"><title>MacCord (Personal)</title></circle></a><a href="/variants/s8/g3r12dg12g5r2db30g2r2~x2/"><circle cx="263.1" cy="174.0" r="4" fill="#3465a4"><title>Rannoch Moor (Fashion)</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.4" cy="219.7" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s5/r1dy8r2db8lb1~x2/"><circle cx="263.1" cy="239.8" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><circle cx="273.0" cy="207.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dp9b4dp1b4dg15r4dp1~x2/

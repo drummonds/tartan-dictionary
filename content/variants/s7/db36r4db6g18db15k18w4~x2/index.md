@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Grainger"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db36r4db6g18db15k18w4/)
 (the same proportion at any scale), whose colour order is pattern [BRBGBKWKBGBR](/stripes/brbgbkwkbgbr/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1488
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1488](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1488)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/"><circle cx="127.0" cy="181.0" r="4" fill="#3465a4"><title>Encyclopaedia Britannica</title></circle></a><a href="/variants/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/"><circle cx="117.1" cy="184.6" r="4" fill="#3465a4"><title>Encyclopaedia Britannica (Corporate)</title></circle></a><a href="/variants/s11/dr2db8k1g2k1g4k1g2k1db8lo2~x2/"><circle cx="189.0" cy="165.5" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/variants/s11/r2db8k1g2k1g4k1g2k1db8y2~x2/"><circle cx="194.4" cy="167.0" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/"><circle cx="137.2" cy="181.6" r="4" fill="#3465a4"><title>Dove (Personal)</title></circle></a><a href="/variants/s9/db16k3db16k26dp4k26n20w3n8/"><circle cx="166.5" cy="189.6" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s6/db11w2db11k4g8r1~x2/"><circle cx="191.7" cy="178.6" r="4" fill="#3465a4"><title>Dalmeny - 2002 (Fashion)</title></circle></a><a href="/variants/s9/w3db3r2db14k3g12k14db16y2~x2/"><circle cx="146.4" cy="166.3" r="4" fill="#3465a4"><title>Royal Navy Submarine Service</title></circle></a><a href="/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="114.9" cy="177.9" r="4" fill="#3465a4"><title>Robertson Hunting #2</title></circle></a><a href="/variants/s9/db16k11db24g10y3g17db15k5r6~x2/"><circle cx="179.6" cy="206.8" r="4" fill="#3465a4"><title>Glackin-McColgan (Personal)</title></circle></a><circle cx="166.1" cy="177.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/"><circle cx="127.0" cy="181.5" r="4" fill="#3465a4"><title>Encyclopaedia Britannica</title></circle></a><a href="/variants/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/"><circle cx="117.1" cy="185.1" r="4" fill="#3465a4"><title>Encyclopaedia Britannica (Corporate)</title></circle></a><a href="/variants/s11/dr2db8k1g2k1g4k1g2k1db8lo2~x2/"><circle cx="189.0" cy="165.9" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/variants/s11/r2db8k1g2k1g4k1g2k1db8y2~x2/"><circle cx="194.4" cy="167.3" r="4" fill="#3465a4"><title>MacCainsh</title></circle></a><a href="/variants/s9/db33k16g17n3g17k16db15k3w3~x2/"><circle cx="137.2" cy="182.0" r="4" fill="#3465a4"><title>Dove (Personal)</title></circle></a><a href="/variants/s9/db16k3db16k26dp4k26n20w3n8/"><circle cx="166.5" cy="190.0" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s6/db11w2db11k4g8r1~x2/"><circle cx="191.7" cy="179.0" r="4" fill="#3465a4"><title>Dalmeny - 2002 (Fashion)</title></circle></a><a href="/variants/s9/w3db3r2db14k3g12k14db16y2~x2/"><circle cx="146.4" cy="166.7" r="4" fill="#3465a4"><title>Royal Navy Submarine Service</title></circle></a><a href="/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="114.9" cy="178.4" r="4" fill="#3465a4"><title>Robertson Hunting #2</title></circle></a><a href="/variants/s9/db16k11db24g10y3g17db15k5r6~x2/"><circle cx="179.7" cy="207.3" r="4" fill="#3465a4"><title>Glackin-McColgan (Personal)</title></circle></a><circle cx="166.1" cy="177.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db36r4db6g18db15k18w4~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glengaela (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp3g3db3dg2lb8r8db4dg3r3k3r15k2/)
 (the same proportion at any scale), whose colour order is pattern [BGBGWRBGRKRK](/stripes/bgbgwrbgrkrk/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8573
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8573](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8573)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r8db2k1db3k4y1k1w1k1g8r6w1r6~x4/"><circle cx="129.0" cy="137.4" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/variants/s14/r21db9k2db2k2db9k18y3g21r13k3r13w2r13~x2/"><circle cx="129.7" cy="129.0" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/variants/s15/r14g3r14g13y2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="97.0" cy="136.6" r="4" fill="#3465a4"><title>MacPherson #8</title></circle></a><a href="/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/"><circle cx="91.3" cy="138.4" r="4" fill="#3465a4"><title>Kidd</title></circle></a><a href="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/"><circle cx="124.7" cy="127.8" r="4" fill="#3465a4"><title>Caledonia No 155</title></circle></a><a href="/variants/s13/y1k1r8db1r1dg8r1db8r1dg1r8k1w1~x6/"><circle cx="170.2" cy="125.1" r="4" fill="#3465a4"><title>Robieson</title></circle></a><a href="/variants/s15/r18lb5r18g24y3k19lb10k3lb3k3lb10r18w4k5r5~x2/"><circle cx="79.9" cy="138.3" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><a href="/variants/s13/y1k1r8db1r1g8r1db8r1g1r8k1w1~x6/"><circle cx="163.4" cy="125.2" r="4" fill="#3465a4"><title>Robieson (Name)</title></circle></a><a href="/variants/s16/lb3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2~x2/"><circle cx="46.4" cy="122.1" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/variants/s16/lb3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2/"><circle cx="46.4" cy="122.1" r="4" fill="#3465a4"><title>Innes D</title></circle></a><circle cx="104.8" cy="132.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r8db2k1db3k4y1k1w1k1g8r6w1r6~x4/"><circle cx="129.0" cy="137.8" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/variants/s14/r21db9k2db2k2db9k18y3g21r13k3r13w2r13~x2/"><circle cx="129.7" cy="129.4" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/variants/s15/r14g3r14g13y2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="96.9" cy="137.0" r="4" fill="#3465a4"><title>MacPherson #8</title></circle></a><a href="/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/"><circle cx="91.2" cy="138.8" r="4" fill="#3465a4"><title>Kidd</title></circle></a><a href="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/"><circle cx="124.7" cy="128.2" r="4" fill="#3465a4"><title>Caledonia No 155</title></circle></a><a href="/variants/s13/y1k1r8db1r1dg8r1db8r1dg1r8k1w1~x6/"><circle cx="170.2" cy="125.4" r="4" fill="#3465a4"><title>Robieson</title></circle></a><a href="/variants/s15/r18lb5r18g24y3k19lb10k3lb3k3lb10r18w4k5r5~x2/"><circle cx="79.8" cy="138.7" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><a href="/variants/s13/y1k1r8db1r1g8r1db8r1g1r8k1w1~x6/"><circle cx="163.4" cy="125.6" r="4" fill="#3465a4"><title>Robieson (Name)</title></circle></a><a href="/variants/s16/lb3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2~x2/"><circle cx="46.3" cy="122.5" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/variants/s16/lb3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2/"><circle cx="46.3" cy="122.5" r="4" fill="#3465a4"><title>Innes D</title></circle></a><circle cx="104.7" cy="133.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dp3g3db3dg2lb8r8db4dg3r3k3r15k2~x2/

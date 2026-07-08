@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Masai Shuka 29 (Artefact)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5db20r3db20w6db3lb2db1/)
 (the same proportion at any scale), whose colour order is pattern [BWBWBRBR](/stripes/bwbwbrbr/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7289
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7289](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7289)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="431.7" cy="139.3" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/variants/s7/db8r2db18r1db2w10db4~x2/"><circle cx="402.1" cy="181.5" r="4" fill="#3465a4"><title>Nike ACG Lunarstorm (Fashion)</title></circle></a><a href="/variants/s8/db33w7db5r2db5w2r13db3~x2/"><circle cx="384.0" cy="163.8" r="4" fill="#3465a4"><title>Americana - 1978 (Fashion)</title></circle></a><a href="/variants/s9/db48w2db7w2db7w2db20lb11r2~x2/"><circle cx="505.7" cy="128.8" r="4" fill="#3465a4"><title>RAAF #4</title></circle></a><a href="/variants/s9/db66w2db10w2db10w2db12r3lb24~x2/"><circle cx="466.7" cy="113.1" r="4" fill="#3465a4"><title>RAAF</title></circle></a><a href="/variants/s8/db1r1db10t1db1t5db1w1~x6/"><circle cx="368.6" cy="183.7" r="4" fill="#3465a4"><title>A2 (Personal)</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="423.8" cy="107.0" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s9/db26r3db3w2db3r3db6r6y2~x4/"><circle cx="414.9" cy="152.6" r="4" fill="#3465a4"><title>Newton Primary School, Dunblane</title></circle></a><a href="/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/"><circle cx="417.7" cy="153.5" r="4" fill="#3465a4"><title>Newton Primary School</title></circle></a><a href="/variants/s9/w1db8r3db2r1db2r3db8ly1~x4/"><circle cx="365.7" cy="197.0" r="4" fill="#3465a4"><title>Louisville Fire &amp; Rescue P&amp;D</title></circle></a><circle cx="417.0" cy="153.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="431.6" cy="139.6" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/variants/s7/db8r2db18r1db2w10db4~x2/"><circle cx="402.1" cy="182.0" r="4" fill="#3465a4"><title>Nike ACG Lunarstorm (Fashion)</title></circle></a><a href="/variants/s8/db33w7db5r2db5w2r13db3~x2/"><circle cx="384.0" cy="164.3" r="4" fill="#3465a4"><title>Americana - 1978 (Fashion)</title></circle></a><a href="/variants/s9/db48w2db7w2db7w2db20lb11r2~x2/"><circle cx="505.7" cy="129.0" r="4" fill="#3465a4"><title>RAAF #4</title></circle></a><a href="/variants/s9/db66w2db10w2db10w2db12r3lb24~x2/"><circle cx="466.6" cy="113.3" r="4" fill="#3465a4"><title>RAAF</title></circle></a><a href="/variants/s8/db1r1db10t1db1t5db1w1~x6/"><circle cx="368.7" cy="184.0" r="4" fill="#3465a4"><title>A2 (Personal)</title></circle></a><a href="/variants/s7/db64r8db1w8db4b15w4~x2/"><circle cx="423.8" cy="107.1" r="4" fill="#3465a4"><title>North Carolina</title></circle></a><a href="/variants/s9/db26r3db3w2db3r3db6r6y2~x4/"><circle cx="414.9" cy="153.0" r="4" fill="#3465a4"><title>Newton Primary School, Dunblane</title></circle></a><a href="/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/"><circle cx="417.7" cy="153.8" r="4" fill="#3465a4"><title>Newton Primary School</title></circle></a><a href="/variants/s9/w1db8r3db2r1db2r3db8ly1~x4/"><circle cx="365.8" cy="197.5" r="4" fill="#3465a4"><title>Louisville Fire &amp; Rescue P&amp;D</title></circle></a><circle cx="417.0" cy="153.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r5db20r3db20w6db3lb2db1~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hogg Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb34r3lb8db4lb8k24g34k2w6/)
 (the same proportion at any scale), whose colour order is pattern [WKGKWBWRW](/stripes/wkgkwbwrw/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10079
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10079](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10079)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="144.4" cy="125.0" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s9/g3dp4g23k10r2k10lb18k1w3~x2/"><circle cx="108.1" cy="112.1" r="4" fill="#3465a4"><title>Birch</title></circle></a><a href="/variants/s9/g3dp2g25k6r2k6lb20k1w2~x2/"><circle cx="160.3" cy="94.8" r="4" fill="#3465a4"><title>Birch (Name)</title></circle></a><a href="/variants/s11/lb12r2lb3r4lb15k24g18y1k3g3w3~x2/"><circle cx="109.7" cy="99.8" r="4" fill="#3465a4"><title>Groen (Personal)</title></circle></a><a href="/variants/s9/g5db22g6k10w24y2db2w2r2~x2/"><circle cx="93.1" cy="130.0" r="4" fill="#3465a4"><title>Haymarket, dress Blue</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~g2203152-lr2800000-lb3203246/"><circle cx="119.8" cy="153.5" r="4" fill="#3465a4"><title>Alexander of Menstry Hunting</title></circle></a><a href="/variants/s10/y6k2g12r4g8k10w24t2w3t2~x2/"><circle cx="87.4" cy="134.4" r="4" fill="#3465a4"><title>Gillies Dress, Green (Dance)</title></circle></a><a href="/variants/s8/o2lb14k1g11k2lr2b2k1~x4~o1604043-lr3103019/"><circle cx="148.3" cy="128.5" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s9/w3ly2g8ly2k3ly2db15k1ly2~x4/"><circle cx="143.2" cy="139.1" r="4" fill="#3465a4"><title>MacManus</title></circle></a><a href="/variants/s9/db4k1g18do2g11do11lb18k1r4~x2/"><circle cx="155.8" cy="137.5" r="4" fill="#3465a4"><title>Morgan in Maryland (USA)</title></circle></a><circle cx="129.4" cy="123.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="144.4" cy="125.3" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s9/g3dp4g23k10r2k10lb18k1w3~x2/"><circle cx="108.0" cy="112.4" r="4" fill="#3465a4"><title>Birch</title></circle></a><a href="/variants/s9/g3dp2g25k6r2k6lb20k1w2~x2/"><circle cx="160.2" cy="95.0" r="4" fill="#3465a4"><title>Birch (Name)</title></circle></a><a href="/variants/s11/lb12r2lb3r4lb15k24g18y1k3g3w3~x2/"><circle cx="109.6" cy="100.1" r="4" fill="#3465a4"><title>Groen (Personal)</title></circle></a><a href="/variants/s9/g5db22g6k10w24y2db2w2r2~x2/"><circle cx="93.1" cy="130.3" r="4" fill="#3465a4"><title>Haymarket, dress Blue</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~g2203152-lr2800000-lb3203246/"><circle cx="119.8" cy="153.9" r="4" fill="#3465a4"><title>Alexander of Menstry Hunting</title></circle></a><a href="/variants/s10/y6k2g12r4g8k10w24t2w3t2~x2/"><circle cx="87.4" cy="134.8" r="4" fill="#3465a4"><title>Gillies Dress, Green (Dance)</title></circle></a><a href="/variants/s8/o2lb14k1g11k2lr2b2k1~x4~o1604043-lr3103019/"><circle cx="148.2" cy="128.8" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s9/w3ly2g8ly2k3ly2db15k1ly2~x4/"><circle cx="143.2" cy="139.4" r="4" fill="#3465a4"><title>MacManus</title></circle></a><a href="/variants/s9/db4k1g18do2g11do11lb18k1r4~x2/"><circle cx="155.8" cy="137.8" r="4" fill="#3465a4"><title>Morgan in Maryland (USA)</title></circle></a><circle cx="129.3" cy="123.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/lb34r3lb8db4lb8k24g34k2w6/

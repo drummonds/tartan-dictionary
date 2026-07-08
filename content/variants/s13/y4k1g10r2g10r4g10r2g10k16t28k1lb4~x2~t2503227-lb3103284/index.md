@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "California State"
   url: "/tartans/california-state/"
+- name: "California State"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y4k1g10r2g10r4g10r2g10k16t28k1lb4/)
 (the same proportion at any scale), whose colour order is pattern [GKGRGRGRGKBKW](/stripes/gkgrgrgrgkbkw/).
@@ -14,7 +16,7 @@ Part of the [California State](/tartans/california-state/) tartan — the named 
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=482
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=482](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=482)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16db28k1b4~x2/"><circle cx="148.7" cy="96.9" r="4" fill="#3465a4"><title>California</title></circle></a><a href="/variants/s13/lo4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/"><circle cx="145.9" cy="97.6" r="4" fill="#3465a4"><title>California State American District Tartan</title></circle></a><a href="/variants/s12/w4k1r2k1g9k2t24k2r6k2g12y2~x2/"><circle cx="145.1" cy="92.3" r="4" fill="#3465a4"><title>Tait #2</title></circle></a><a href="/variants/s10/dr4w6k10db5k3y16k3g33k1w4~x2/"><circle cx="141.1" cy="86.7" r="4" fill="#3465a4"><title>Fermanagh County, Crest Range</title></circle></a><a href="/variants/s11/g30dp4r6w6db6dp3k14w14db50g50w2/"><circle cx="170.6" cy="100.8" r="4" fill="#3465a4"><title>Brehat (Personal)</title></circle></a><a href="/variants/s13/y9k1o31g30db36g3db3g3db36g30o31k1w9~x2/"><circle cx="160.5" cy="103.2" r="4" fill="#3465a4"><title>Campbell, Brown (Personal)</title></circle></a><a href="/variants/s11/w4k1db16k1g32dr6k6lo6g4lo2g1~x2/"><circle cx="194.0" cy="76.4" r="4" fill="#3465a4"><title>Zambia</title></circle></a><a href="/variants/s13/g18dr1g2dr2g16dr1k16n1k2dr2b20dr1w2~x4/"><circle cx="164.1" cy="94.4" r="4" fill="#3465a4"><title>Canadian Estate</title></circle></a><a href="/variants/s12/k14r2k2r2k2g18r2g18w1db12lb1r8~x2/"><circle cx="145.5" cy="105.3" r="4" fill="#3465a4"><title>Princess Diana</title></circle></a><a href="/variants/s9/db4k1g18dy2g11dy11lb18k1r4~x2/"><circle cx="155.9" cy="138.0" r="4" fill="#3465a4"><title>Morgan in Maryland (USA) (Name)</title></circle></a><circle cx="149.6" cy="99.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y4k1g10r2g10r4g10r2g10k16db28k1b4~x2/"><circle cx="148.5" cy="97.1" r="4" fill="#3465a4"><title>California</title></circle></a><a href="/variants/s13/lo4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/"><circle cx="145.8" cy="97.8" r="4" fill="#3465a4"><title>California State American District Tartan</title></circle></a><a href="/variants/s12/w4k1r2k1g9k2t24k2r6k2g12y2~x2/"><circle cx="145.0" cy="92.5" r="4" fill="#3465a4"><title>Tait #2</title></circle></a><a href="/variants/s10/dr4w6k10db5k3y16k3g33k1w4~x2/"><circle cx="141.0" cy="86.9" r="4" fill="#3465a4"><title>Fermanagh County, Crest Range</title></circle></a><a href="/variants/s11/g30dp4r6w6db6dp3k14w14db50g50w2/"><circle cx="170.5" cy="101.0" r="4" fill="#3465a4"><title>Brehat (Personal)</title></circle></a><a href="/variants/s13/y9k1o31g30db36g3db3g3db36g30o31k1w9~x2/"><circle cx="160.4" cy="103.3" r="4" fill="#3465a4"><title>Campbell, Brown (Personal)</title></circle></a><a href="/variants/s11/w4k1db16k1g32dr6k6lo6g4lo2g1~x2/"><circle cx="193.8" cy="76.5" r="4" fill="#3465a4"><title>Zambia</title></circle></a><a href="/variants/s13/g18dr1g2dr2g16dr1k16n1k2dr2b20dr1w2~x4/"><circle cx="164.0" cy="94.6" r="4" fill="#3465a4"><title>Canadian Estate</title></circle></a><a href="/variants/s12/k14r2k2r2k2g18r2g18w1db12lb1r8~x2/"><circle cx="145.5" cy="105.5" r="4" fill="#3465a4"><title>Princess Diana</title></circle></a><a href="/variants/s9/db4k1g18dy2g11dy11lb18k1r4~x2/"><circle cx="155.9" cy="138.3" r="4" fill="#3465a4"><title>Morgan in Maryland (USA) (Name)</title></circle></a><circle cx="149.5" cy="99.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/y4k1g10r2g10r4g10r2g10k16t28k1lb4~x2~t2503227-lb3103284/

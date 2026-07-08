@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacKusick"
   url: "/tartans/mackusick/"
+- name: "MacKusick (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8k2db3k12dp3lb1dp3k16g3lb2dr1lb2g8/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBWBKGWBWG](/stripes/bkbkbwbkgwbwg/).
@@ -14,7 +16,7 @@ Part of the [MacKusick](/tartans/mackusick/) tartan — the named design groupin
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2143
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2143](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2143)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db8k2db3k12dp3w1dp3k16g3w2dr1w2g8~x2~w4000000/"><circle cx="147.1" cy="108.6" r="4" fill="#3465a4"><title>MacKusick</title></circle></a><a href="/variants/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/"><circle cx="147.1" cy="108.4" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><a href="/variants/s11/k7db20lb2r6lb2k20y3g20db27r3db6~x2/"><circle cx="156.9" cy="133.7" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/variants/s12/db33r8k12dy2k4w4k4g12db8k4db4w2~x2/"><circle cx="163.2" cy="103.1" r="4" fill="#3465a4"><title>MacLulich</title></circle></a><a href="/variants/s12/db33r8k12y2k4w4k4g12db8k4db4w2~x2/"><circle cx="162.2" cy="102.8" r="4" fill="#3465a4"><title>MacBeth/Stewart Brydone 1862</title></circle></a><a href="/variants/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/"><circle cx="140.7" cy="128.3" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/variants/s11/dy9k8dy30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/"><circle cx="170.0" cy="124.3" r="4" fill="#3465a4"><title>Dublin County, Crest Range</title></circle></a><a href="/variants/s13/k2dr1db9dr2k7db2dr6g6dr2k12lb1n1k1~x4/"><circle cx="143.0" cy="127.0" r="4" fill="#3465a4"><title>Oban (District?)</title></circle></a><a href="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/"><circle cx="172.7" cy="117.9" r="4" fill="#3465a4"><title>Kerby, from the Tennessee Cumberland Basin</title></circle></a><a href="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="157.6" cy="123.0" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><circle cx="156.2" cy="111.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db8k2db3k12dp3w1dp3k16g3w2dr1w2g8~x2~w4000000/"><circle cx="147.0" cy="108.8" r="4" fill="#3465a4"><title>MacKusick</title></circle></a><a href="/variants/s13/db8k2db3k12dp3w1dp3k16g3w2r1w2g8~x2/"><circle cx="147.0" cy="108.6" r="4" fill="#3465a4"><title>MacKusick Family Tartan of North America</title></circle></a><a href="/variants/s11/k7db20lb2r6lb2k20y3g20db27r3db6~x2/"><circle cx="156.8" cy="134.0" r="4" fill="#3465a4"><title>Stinson, Ancient</title></circle></a><a href="/variants/s12/db33r8k12dy2k4w4k4g12db8k4db4w2~x2/"><circle cx="163.1" cy="103.3" r="4" fill="#3465a4"><title>MacLulich</title></circle></a><a href="/variants/s12/db33r8k12y2k4w4k4g12db8k4db4w2~x2/"><circle cx="162.1" cy="103.0" r="4" fill="#3465a4"><title>MacBeth/Stewart Brydone 1862</title></circle></a><a href="/variants/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/"><circle cx="140.6" cy="128.5" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/variants/s11/dy9k8dy30k4lb8k4db24k54dr14k4lr8~lb3103284-lr2800000/"><circle cx="169.9" cy="124.5" r="4" fill="#3465a4"><title>Dublin County, Crest Range</title></circle></a><a href="/variants/s13/k2dr1db9dr2k7db2dr6g6dr2k12lb1n1k1~x4/"><circle cx="142.9" cy="127.2" r="4" fill="#3465a4"><title>Oban (District?)</title></circle></a><a href="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/"><circle cx="172.7" cy="118.1" r="4" fill="#3465a4"><title>Kerby, from the Tennessee Cumberland Basin</title></circle></a><a href="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="157.5" cy="123.2" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><circle cx="156.1" cy="111.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/db8k2db3k12dp3lb1dp3k16g3lb2dr1lb2g8~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "de Meuron (Family)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g9dgi13dg26dy6dp5dy40dp5dy6dg26dgi13g9dg3/)
 (the same proportion at any scale), whose colour order is pattern [GGGGBGBGGGGG](/stripes/ggggbgbggggg/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10576
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10576](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10576)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr12dy1dg12dy12y2dy12dg12dy1dr12lb2~x2/"><circle cx="387.6" cy="282.2" r="4" fill="#3465a4"><title>United Distillers Corporate Tartan</title></circle></a><circle cx="385.4" cy="259.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr12dy1dg12dy12y2dy12dg12dy1dr12lb2~x2/"><circle cx="387.7" cy="282.1" r="4" fill="#3465a4"><title>United Distillers Corporate Tartan</title></circle></a><circle cx="385.5" cy="259.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/g9dgi13dg26dy6dp5dy40dp5dy6dg26dgi13g9dg3~x2~g1903114-dgi1806142/

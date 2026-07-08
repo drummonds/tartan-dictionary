@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Crawford"
   url: "/tartans/crawford/"
+- name: "Crawford"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r6lb2r30g12r3g12r3/)
 (the same proportion at any scale), whose colour order is pattern [RGRGRWR](/stripes/rgrgrwr/).
@@ -14,7 +16,7 @@ Part of the [Crawford](/tartans/crawford/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=799
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=799](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=799)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r6w2r30g12r3g12r3~x2/"><circle cx="412.7" cy="193.2" r="4" fill="#3465a4"><title>Crawford (Clan)</title></circle></a><a href="/variants/s7/r6w2r30g12r3g12r3/"><circle cx="412.7" cy="193.2" r="4" fill="#3465a4"><title>Crawford</title></circle></a><a href="/variants/s7/r8y2r15g10r4g10r4~x2/"><circle cx="361.0" cy="263.1" r="4" fill="#3465a4"><title>Caspari (Corporate)</title></circle></a><a href="/variants/s7/r58y3r6g16r12g16r6/"><circle cx="500.4" cy="179.9" r="4" fill="#3465a4"><title>Cameron Ancient</title></circle></a><a href="/variants/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="399.0" cy="148.5" r="4" fill="#3465a4"><title>MacDonald #7</title></circle></a><a href="/variants/s7/r2db1r16db4r1g10r1~x4/"><circle cx="368.8" cy="177.8" r="4" fill="#3465a4"><title>Robertson - 1988 (Corporate)</title></circle></a><a href="/variants/s6/r24g5r3g9r3db1~x4/"><circle cx="477.5" cy="177.3" r="4" fill="#3465a4"><title>MacKintosh, Red</title></circle></a><a href="/variants/s6/r1g10r1db4r18g1~x4/"><circle cx="385.0" cy="182.5" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><a href="/variants/s6/r2g20r2db8r36g1~x2/"><circle cx="411.8" cy="154.9" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s8/r2g6y1g6r3g2r16lb1~x4/"><circle cx="383.3" cy="175.2" r="4" fill="#3465a4"><title>Burnett of Leys Family Tartan</title></circle></a><circle cx="421.4" cy="196.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r6w2r30g12r3g12r3~x2/"><circle cx="412.8" cy="193.7" r="4" fill="#3465a4"><title>Crawford (Clan)</title></circle></a><a href="/variants/s7/r6w2r30g12r3g12r3/"><circle cx="412.8" cy="193.7" r="4" fill="#3465a4"><title>Crawford</title></circle></a><a href="/variants/s7/r8y2r15g10r4g10r4~x2/"><circle cx="361.2" cy="263.8" r="4" fill="#3465a4"><title>Caspari (Corporate)</title></circle></a><a href="/variants/s7/r58y3r6g16r12g16r6/"><circle cx="500.5" cy="180.3" r="4" fill="#3465a4"><title>Cameron Ancient</title></circle></a><a href="/variants/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="399.0" cy="148.9" r="4" fill="#3465a4"><title>MacDonald #7</title></circle></a><a href="/variants/s7/r2db1r16db4r1g10r1~x4/"><circle cx="368.8" cy="178.2" r="4" fill="#3465a4"><title>Robertson - 1988 (Corporate)</title></circle></a><a href="/variants/s6/r24g5r3g9r3db1~x4/"><circle cx="477.6" cy="177.7" r="4" fill="#3465a4"><title>MacKintosh, Red</title></circle></a><a href="/variants/s6/r1g10r1db4r18g1~x4/"><circle cx="385.0" cy="183.0" r="4" fill="#3465a4"><title>Robertson 6</title></circle></a><a href="/variants/s6/r2g20r2db8r36g1~x2/"><circle cx="411.9" cy="155.3" r="4" fill="#3465a4"><title>Robertson</title></circle></a><a href="/variants/s8/r2g6y1g6r3g2r16lb1~x4/"><circle cx="383.4" cy="175.5" r="4" fill="#3465a4"><title>Burnett of Leys Family Tartan</title></circle></a><circle cx="421.5" cy="196.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r6lb2r30g12r3g12r3~x2/

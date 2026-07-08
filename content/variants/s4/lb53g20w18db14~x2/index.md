@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Leutz (Name?)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb53g20w18db14/)
 (the same proportion at any scale), whose colour order is pattern [BWGW](/stripes/bwgw/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6977
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6977](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6977)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db9w4g36lb36r4/"><circle cx="222.3" cy="223.3" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><circle cx="198.7" cy="203.6" r="4" fill="#3465a4"><title>Allanton Dress (Fashion)</title></circle></a><a href="/variants/s4/g15r3db11w2/"><circle cx="245.4" cy="254.9" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s4/dg4lb10db10lb1~x4/"><circle cx="275.5" cy="280.4" r="4" fill="#3465a4"><title>Baker City (District)</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="257.3" cy="258.6" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="258.0" cy="261.8" r="4" fill="#3465a4"><title>Unidentified #4</title></circle></a><a href="/variants/s5/g2w29lb12db29lb2~x2/"><circle cx="237.3" cy="222.2" r="4" fill="#3465a4"><title>Wallace Blue Dress (Dance)</title></circle></a><a href="/variants/s4/db18t18ly28n13~x2/"><circle cx="144.3" cy="366.0" r="4" fill="#3465a4"><title>Gold Country (District)</title></circle></a><a href="/variants/s4/db13r5g5w3~x8/"><circle cx="201.9" cy="276.5" r="4" fill="#3465a4"><title>International Highland Games Fed.</title></circle></a><a href="/variants/s5/g11ly10db11t33w3~x2/"><circle cx="272.4" cy="244.6" r="4" fill="#3465a4"><title>Sterling (Name)</title></circle></a><circle cx="247.1" cy="312.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db9w4g36lb36r4/"><circle cx="222.4" cy="223.8" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><circle cx="198.8" cy="204.1" r="4" fill="#3465a4"><title>Allanton Dress (Fashion)</title></circle></a><a href="/variants/s4/g15r3db11w2/"><circle cx="245.5" cy="255.5" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s4/dg4lb10db10lb1~x4/"><circle cx="275.7" cy="281.2" r="4" fill="#3465a4"><title>Baker City (District)</title></circle></a><a href="/variants/s4/g15r3db11lb2~x2/"><circle cx="257.4" cy="259.2" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s4/g14r3db9lb2~x2/"><circle cx="258.1" cy="262.5" r="4" fill="#3465a4"><title>Unidentified #4</title></circle></a><a href="/variants/s5/g2w29lb12db29lb2~x2/"><circle cx="237.5" cy="222.8" r="4" fill="#3465a4"><title>Wallace Blue Dress (Dance)</title></circle></a><a href="/variants/s4/db18t18ly28n13~x2/"><circle cx="144.7" cy="366.0" r="4" fill="#3465a4"><title>Gold Country (District)</title></circle></a><a href="/variants/s4/db13r5g5w3~x8/"><circle cx="202.1" cy="277.3" r="4" fill="#3465a4"><title>International Highland Games Fed.</title></circle></a><a href="/variants/s5/g11ly10db11t33w3~x2/"><circle cx="272.5" cy="245.1" r="4" fill="#3465a4"><title>Sterling (Name)</title></circle></a><circle cx="247.4" cy="313.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/lb53g20w18db14~x2/

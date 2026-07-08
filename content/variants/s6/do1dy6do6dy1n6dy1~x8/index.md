@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brown Heather (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do1dy6do6dy1n6dy1/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBG](/stripes/bgbgbg/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3737
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3737](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3737)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>

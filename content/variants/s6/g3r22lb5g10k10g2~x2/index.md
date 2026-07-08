@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Strathspey, Check"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g3r22lb5g10k10g2/)
 (the same proportion at any scale), whose colour order is pattern [GKGWRG](/stripes/gkgwrg/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g3dr22lb5g10k10g2~x2/"><circle cx="185.1" cy="195.9" r="4" fill="#3465a4"><title>Strathspey (Fashion)</title></circle></a><a href="/variants/s6/r4o30k6w13k13w3~x2/"><circle cx="166.1" cy="183.7" r="4" fill="#3465a4"><title>Thom(p)son camel</title></circle></a><a href="/variants/s6/r3n27k6lo13k14r3~x2/"><circle cx="158.3" cy="194.8" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special grey</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.0" cy="183.1" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s5/db6lo25dy16k2db3~x2/"><circle cx="227.6" cy="186.1" r="4" fill="#3465a4"><title>Prince of Orange #2</title></circle></a><a href="/variants/s7/y2g7k6r12k1r1y2~x4/"><circle cx="179.4" cy="170.1" r="4" fill="#3465a4"><title>Blackstock, dress</title></circle></a><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><circle cx="177.1" cy="170.6" r="4" fill="#3465a4"><title>Graham Red</title></circle></a><a href="/variants/s6/k3n28k3r22k8w3~x2/"><circle cx="193.8" cy="182.1" r="4" fill="#3465a4"><title>Henkel (Corporate)</title></circle></a><a href="/variants/s7/g3r20g16k22lo6k3g2~x2/"><circle cx="136.4" cy="182.3" r="4" fill="#3465a4"><title>Wcwm 1062</title></circle></a><a href="/variants/s6/r10w2k10w10o35k5~x2/"><circle cx="218.5" cy="156.0" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><circle cx="178.7" cy="188.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g3dr22lb5g10k10g2~x2/"><circle cx="185.1" cy="196.5" r="4" fill="#3465a4"><title>Strathspey (Fashion)</title></circle></a><a href="/variants/s6/r4o30k6w13k13w3~x2/"><circle cx="166.2" cy="184.3" r="4" fill="#3465a4"><title>Thom(p)son camel</title></circle></a><a href="/variants/s6/r3n27k6lo13k14r3~x2/"><circle cx="158.4" cy="195.4" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special grey</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.1" cy="183.7" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s5/db6lo25dy16k2db3~x2/"><circle cx="227.6" cy="186.6" r="4" fill="#3465a4"><title>Prince of Orange #2</title></circle></a><a href="/variants/s7/y2g7k6r12k1r1y2~x4/"><circle cx="179.5" cy="170.6" r="4" fill="#3465a4"><title>Blackstock, dress</title></circle></a><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><circle cx="177.2" cy="171.2" r="4" fill="#3465a4"><title>Graham Red</title></circle></a><a href="/variants/s6/k3n28k3r22k8w3~x2/"><circle cx="193.9" cy="182.6" r="4" fill="#3465a4"><title>Henkel (Corporate)</title></circle></a><a href="/variants/s7/g3r20g16k22lo6k3g2~x2/"><circle cx="136.5" cy="182.8" r="4" fill="#3465a4"><title>Wcwm 1062</title></circle></a><a href="/variants/s6/r10w2k10w10o35k5~x2/"><circle cx="218.5" cy="156.5" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><circle cx="178.8" cy="189.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g3r22lb5g10k10g2~x2/

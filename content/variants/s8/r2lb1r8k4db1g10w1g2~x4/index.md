@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Sawyer"
   url: "/tartans/sawyer/"
+- name: "Sawyer"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2lb1r8k4db1g10w1g2/)
 (the same proportion at any scale), whose colour order is pattern [GWGBKRWR](/stripes/gwgbkrwr/).
@@ -14,7 +16,7 @@ Part of the [Sawyer](/tartans/sawyer/) tartan — the named design grouping this
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r2lb1r8k4db1g10lr1g2~x4/"><circle cx="146.7" cy="147.9" r="4" fill="#3465a4"><title>Sawyer</title></circle></a><a href="/variants/s7/ly4y2ly21do11w2k20r3~x2/"><circle cx="112.5" cy="146.8" r="4" fill="#3465a4"><title>Barbour Corporate Tartan</title></circle></a><a href="/variants/s8/g5lg5y26k4y6r5k15w4~x2/"><circle cx="121.9" cy="164.1" r="4" fill="#3465a4"><title>Cornish Christophers (Personal)</title></circle></a><a href="/variants/s7/lg2r20g2dt15k2lg19lb2~x2/"><circle cx="121.2" cy="159.4" r="4" fill="#3465a4"><title>Wallace Memorial Centenary</title></circle></a><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><circle cx="99.8" cy="160.7" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/variants/s12/o4k12b2k2b2k2b2ly16dr3ly2lr2ly4~x2/"><circle cx="103.3" cy="126.1" r="4" fill="#3465a4"><title>Cailean #2 (Fashion)</title></circle></a><a href="/variants/s12/db4w1k3y1g1w1k1g8r12w1r2k1~x2/"><circle cx="120.6" cy="105.2" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s8/k20ly4r4ly20g20w5g2dg2~x2~g1903114-dg1806142/"><circle cx="72.7" cy="152.9" r="4" fill="#3465a4"><title>Hackett Hunting (Personal)</title></circle></a><a href="/variants/s8/dg9w2dg9k2ly14lyi4w2r2~x4~ly2503076-lyi2705081/"><circle cx="127.5" cy="179.8" r="4" fill="#3465a4"><title>MacShane (Clan)</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="147.0" cy="148.2" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><circle cx="142.8" cy="147.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r2lb1r8k4db1g10lr1g2~x4/"><circle cx="146.6" cy="148.3" r="4" fill="#3465a4"><title>Sawyer</title></circle></a><a href="/variants/s7/ly4y2ly21do11w2k20r3~x2/"><circle cx="112.5" cy="147.2" r="4" fill="#3465a4"><title>Barbour Corporate Tartan</title></circle></a><a href="/variants/s8/g5lg5y26k4y6r5k15w4~x2/"><circle cx="122.0" cy="164.6" r="4" fill="#3465a4"><title>Cornish Christophers (Personal)</title></circle></a><a href="/variants/s7/lg2r20g2dt15k2lg19lb2~x2/"><circle cx="121.2" cy="159.8" r="4" fill="#3465a4"><title>Wallace Memorial Centenary</title></circle></a><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><circle cx="99.8" cy="161.2" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/variants/s12/o4k12b2k2b2k2b2ly16dr3ly2lr2ly4~x2/"><circle cx="103.3" cy="126.5" r="4" fill="#3465a4"><title>Cailean #2 (Fashion)</title></circle></a><a href="/variants/s12/db4w1k3y1g1w1k1g8r12w1r2k1~x2/"><circle cx="120.5" cy="105.5" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s8/k20ly4r4ly20g20w5g2dg2~x2~g1903114-dg1806142/"><circle cx="72.7" cy="153.4" r="4" fill="#3465a4"><title>Hackett Hunting (Personal)</title></circle></a><a href="/variants/s8/dg9w2dg9k2ly14lyi4w2r2~x4~ly2503076-lyi2705081/"><circle cx="127.6" cy="180.3" r="4" fill="#3465a4"><title>MacShane (Clan)</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="147.0" cy="148.6" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><circle cx="142.8" cy="147.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r2lb1r8k4db1g10w1g2~x4/

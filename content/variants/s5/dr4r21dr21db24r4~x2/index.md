@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ferguson Britt Red (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr4r21dr21db24r4/)
 (the same proportion at any scale), whose colour order is pattern [BRBBR](/stripes/brbbr/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8122
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8122](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8122)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr6ly3dr20r20dr3r3lb6~x2/"><circle cx="277.8" cy="218.4" r="4" fill="#3465a4"><title>Banff</title></circle></a><a href="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/"><circle cx="236.6" cy="235.9" r="4" fill="#3465a4"><title>Moray of Abercairney #2</title></circle></a><a href="/variants/s6/ri2db13r3db3r16lb2~x4~ri2008029-r1506028/"><circle cx="324.9" cy="225.2" r="4" fill="#3465a4"><title>MacArthur-Fox, dress</title></circle></a><a href="/variants/s6/r2db13dr3db3dr16lb2~x4/"><circle cx="335.0" cy="231.8" r="4" fill="#3465a4"><title>MacArthur-Fox Dress Personal Tartan</title></circle></a><a href="/variants/s5/r5dg3r18db18dg3~x4/"><circle cx="292.5" cy="253.9" r="4" fill="#3465a4"><title>Wotherspoon</title></circle></a><a href="/variants/s5/dt7r1n6r8lb1~x8/"><circle cx="249.5" cy="257.3" r="4" fill="#3465a4"><title>Callum (Buchan)</title></circle></a><a href="/variants/s5/n7r1dt6r8lb1~x8/"><circle cx="255.5" cy="259.2" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><a href="/variants/s5/r1o8r2db8lb1~x2/"><circle cx="244.0" cy="229.6" r="4" fill="#3465a4"><title>Unamed, Riding cloak 1745</title></circle></a><a href="/variants/s5/r12g8r54db45g6/"><circle cx="321.2" cy="230.6" r="4" fill="#3465a4"><title>Wotherspoon</title></circle></a><a href="/variants/s5/r1dy8r2db8lb1~x2/"><circle cx="263.0" cy="239.4" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><circle cx="241.1" cy="283.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr6ly3dr20r20dr3r3lb6~x2/"><circle cx="277.9" cy="219.0" r="4" fill="#3465a4"><title>Banff</title></circle></a><a href="/variants/s5/ri8r1g4r1db4~x2~ri2209032-r2208029/"><circle cx="236.7" cy="236.5" r="4" fill="#3465a4"><title>Moray of Abercairney #2</title></circle></a><a href="/variants/s6/ri2db13r3db3r16lb2~x4~ri2008029-r1506028/"><circle cx="325.0" cy="225.7" r="4" fill="#3465a4"><title>MacArthur-Fox, dress</title></circle></a><a href="/variants/s6/r2db13dr3db3dr16lb2~x4/"><circle cx="335.1" cy="232.2" r="4" fill="#3465a4"><title>MacArthur-Fox Dress Personal Tartan</title></circle></a><a href="/variants/s5/r5dg3r18db18dg3~x4/"><circle cx="292.7" cy="254.6" r="4" fill="#3465a4"><title>Wotherspoon</title></circle></a><a href="/variants/s5/dt7r1n6r8lb1~x8/"><circle cx="249.6" cy="257.8" r="4" fill="#3465a4"><title>Callum (Buchan)</title></circle></a><a href="/variants/s5/n7r1dt6r8lb1~x8/"><circle cx="255.6" cy="259.8" r="4" fill="#3465a4"><title>Callum (Buchan) (Name)</title></circle></a><a href="/variants/s5/r1o8r2db8lb1~x2/"><circle cx="244.1" cy="230.2" r="4" fill="#3465a4"><title>Unamed, Riding cloak 1745</title></circle></a><a href="/variants/s5/r12g8r54db45g6/"><circle cx="321.3" cy="231.3" r="4" fill="#3465a4"><title>Wotherspoon</title></circle></a><a href="/variants/s5/r1dy8r2db8lb1~x2/"><circle cx="263.1" cy="239.8" r="4" fill="#3465a4"><title>Unamed Riding cloak 1745</title></circle></a><circle cx="241.3" cy="284.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dr4r21dr21db24r4~x2/

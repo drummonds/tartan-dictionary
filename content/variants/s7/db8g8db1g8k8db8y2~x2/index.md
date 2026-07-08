@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacKay"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8g8db1g8k8db8y2/)
 (the same proportion at any scale), whose colour order is pattern [BGBGKBG](/stripes/bgbgkbg/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2496
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2496](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2496)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3r1db10k8g10r1g3~x4/"><circle cx="155.9" cy="203.1" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/variants/s6/r1t7k4t1dg7t1~x4/"><circle cx="193.2" cy="223.7" r="4" fill="#3465a4"><title>Flower of Scotland Commemorative Tartan</title></circle></a><a href="/variants/s6/r1t7k4t1dg7t1~x2/"><circle cx="193.2" cy="223.7" r="4" fill="#3465a4"><title>Flower of Scotland MINI Tartan</title></circle></a><a href="/variants/s6/db4g18db3k17db18o4~x2/"><circle cx="151.2" cy="237.1" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/variants/s6/db4g18db3k17db18dp4~x2/"><circle cx="157.1" cy="238.9" r="4" fill="#3465a4"><title>Scottish Airports (Corporate)</title></circle></a><a href="/variants/s8/db12k4g12ly1g12k4db8r3~x2/"><circle cx="162.6" cy="192.1" r="4" fill="#3465a4"><title>Art Pewter Silver</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14k4~x2/"><circle cx="120.7" cy="227.2" r="4" fill="#3465a4"><title>Fletcher #2</title></circle></a><a href="/variants/s7/db16g14w2g14k13db12k4~x2/"><circle cx="131.9" cy="242.2" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Clan)</title></circle></a><a href="/variants/s6/g3db1g8db7k3dy1~x2/"><circle cx="214.7" cy="223.1" r="4" fill="#3465a4"><title>Trafalgar (Fashion)</title></circle></a><a href="/variants/s6/g3db1g8db7k3y1~x2/"><circle cx="213.3" cy="222.8" r="4" fill="#3465a4"><title>Trafalger</title></circle></a><circle cx="149.5" cy="243.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3r1db10k8g10r1g3~x4/"><circle cx="155.9" cy="203.6" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/variants/s6/r1t7k4t1dg7t1~x4/"><circle cx="193.3" cy="224.3" r="4" fill="#3465a4"><title>Flower of Scotland Commemorative Tartan</title></circle></a><a href="/variants/s6/r1t7k4t1dg7t1~x2/"><circle cx="193.3" cy="224.3" r="4" fill="#3465a4"><title>Flower of Scotland MINI Tartan</title></circle></a><a href="/variants/s6/db4g18db3k17db18o4~x2/"><circle cx="151.3" cy="237.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><a href="/variants/s6/db4g18db3k17db18dp4~x2/"><circle cx="157.2" cy="239.5" r="4" fill="#3465a4"><title>Scottish Airports (Corporate)</title></circle></a><a href="/variants/s8/db12k4g12ly1g12k4db8r3~x2/"><circle cx="162.6" cy="192.5" r="4" fill="#3465a4"><title>Art Pewter Silver</title></circle></a><a href="/variants/s7/t10k3t10k14r2g14k4~x2/"><circle cx="120.8" cy="227.8" r="4" fill="#3465a4"><title>Fletcher #2</title></circle></a><a href="/variants/s7/db16g14w2g14k13db12k4~x2/"><circle cx="132.0" cy="242.8" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Clan)</title></circle></a><a href="/variants/s6/g3db1g8db7k3dy1~x2/"><circle cx="214.8" cy="223.7" r="4" fill="#3465a4"><title>Trafalgar (Fashion)</title></circle></a><a href="/variants/s6/g3db1g8db7k3y1~x2/"><circle cx="213.4" cy="223.4" r="4" fill="#3465a4"><title>Trafalger</title></circle></a><circle cx="149.6" cy="243.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db8g8db1g8k8db8y2~x2/

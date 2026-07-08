@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "John Telfar Dunbar Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g5k2g28k10dy26db4g4/)
 (the same proportion at any scale), whose colour order is pattern [GBGKGKG](/stripes/gbgkgkg/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1893
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1893](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1893)
 
 ## Provenance
 
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g5k2g28k10o26db4g4~x2/"><circle cx="234.8" cy="176.9" r="4" fill="#3465a4"><title>John Telfar, Dunbar hunting</title></circle></a><a href="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/"><circle cx="227.3" cy="176.3" r="4" fill="#3465a4"><title>McInery (Personal)</title></circle></a><a href="/variants/s6/r3g30k12g6k16y2~x2/"><circle cx="253.9" cy="177.0" r="4" fill="#3465a4"><title>MacArthur (Variant)</title></circle></a><a href="/variants/s8/b26g6k8g3k8g30w3g3~x2/"><circle cx="209.6" cy="179.4" r="4" fill="#3465a4"><title>Riley (Personal)</title></circle></a><a href="/variants/s8/dg14k1dg2k1dg2k10g14r2/"><circle cx="198.8" cy="170.4" r="4" fill="#3465a4"><title>Manor (Corporate)</title></circle></a><a href="/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/"><circle cx="267.2" cy="167.6" r="4" fill="#3465a4"><title>MacCall/McCall</title></circle></a><a href="/variants/s7/y3k22g4dg18g31r3g3/"><circle cx="182.0" cy="175.2" r="4" fill="#3465a4"><title>MacSween Hunting (Lochs, Isle of Lewis) (Personal)</title></circle></a><a href="/variants/s8/dg5g32dp5k10dg8dr3dg8dp3~x2/"><circle cx="195.0" cy="172.0" r="4" fill="#3465a4"><title>Scottish Power (Corporate)</title></circle></a><a href="/variants/s9/g13k3g34k6db16r2db16k3g13~x2/"><circle cx="276.9" cy="168.3" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><a href="/variants/s5/g68k22n28dr3n12~x2/"><circle cx="284.5" cy="183.8" r="4" fill="#3465a4"><title>Herbage of Laggan (Personal)</title></circle></a><circle cx="241.5" cy="181.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g5k2g28k10o26db4g4~x2/"><circle cx="234.8" cy="177.4" r="4" fill="#3465a4"><title>John Telfar, Dunbar hunting</title></circle></a><a href="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/"><circle cx="227.3" cy="176.7" r="4" fill="#3465a4"><title>McInery (Personal)</title></circle></a><a href="/variants/s6/r3g30k12g6k16y2~x2/"><circle cx="253.9" cy="177.5" r="4" fill="#3465a4"><title>MacArthur (Variant)</title></circle></a><a href="/variants/s8/b26g6k8g3k8g30w3g3~x2/"><circle cx="209.7" cy="179.9" r="4" fill="#3465a4"><title>Riley (Personal)</title></circle></a><a href="/variants/s8/dg14k1dg2k1dg2k10g14r2/"><circle cx="198.8" cy="170.8" r="4" fill="#3465a4"><title>Manor (Corporate)</title></circle></a><a href="/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/"><circle cx="267.2" cy="168.1" r="4" fill="#3465a4"><title>MacCall/McCall</title></circle></a><a href="/variants/s7/y3k22g4dg18g31r3g3/"><circle cx="182.0" cy="175.6" r="4" fill="#3465a4"><title>MacSween Hunting (Lochs, Isle of Lewis) (Personal)</title></circle></a><a href="/variants/s8/dg5g32dp5k10dg8dr3dg8dp3~x2/"><circle cx="195.0" cy="172.3" r="4" fill="#3465a4"><title>Scottish Power (Corporate)</title></circle></a><a href="/variants/s9/g13k3g34k6db16r2db16k3g13~x2/"><circle cx="276.9" cy="168.7" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><a href="/variants/s5/g68k22n28dr3n12~x2/"><circle cx="284.5" cy="184.2" r="4" fill="#3465a4"><title>Herbage of Laggan (Personal)</title></circle></a><circle cx="241.5" cy="181.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g5k2g28k10dy26db4g4~x2/

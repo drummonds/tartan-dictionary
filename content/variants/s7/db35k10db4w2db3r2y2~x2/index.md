@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Laidlaw's Highland Drovers"
   url: "/tartans/laidlaw-s-highland-drovers/"
+- name: "Laidlaw's Highland Drovers (Corp)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db35k10db4w2db3r2y2/)
 (the same proportion at any scale), whose colour order is pattern [BKBWBRG](/stripes/bkbwbrg/).
@@ -14,7 +16,7 @@ Part of the [Laidlaw's Highland Drovers](/tartans/laidlaw-s-highland-drovers/) t
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2127
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2127](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2127)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db35k10db4w2db3r2~x2/"><circle cx="452.5" cy="145.5" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers</title></circle></a><a href="/variants/s7/db3g6db2y3db42k6w3~x2/"><circle cx="409.9" cy="110.7" r="4" fill="#3465a4"><title>Bro-sant-Brieg</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2r8y3w4~x2/"><circle cx="468.2" cy="92.7" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s8/db60g10db3lb6y2db9r2w2~x2/"><circle cx="470.2" cy="89.2" r="4" fill="#3465a4"><title>St. Petersburg City (District)</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="337.4" cy="120.0" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/variants/s7/k10db30g3db3g3db3r6~x2/"><circle cx="320.1" cy="167.3" r="4" fill="#3465a4"><title>Kinding</title></circle></a><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="431.7" cy="139.3" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/variants/s8/db50y4db3y4db8k2dbi12w5~x2~db1003265-dbi1605267/"><circle cx="409.9" cy="108.7" r="4" fill="#3465a4"><title>Indiana #2</title></circle></a><a href="/variants/s6/r1db12k5o3db5w1~x4/"><circle cx="292.5" cy="170.3" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="417.0" cy="153.2" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><circle cx="412.0" cy="121.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db35k10db4w2db3r2~x2/"><circle cx="452.4" cy="145.7" r="4" fill="#3465a4"><title>Laidlaw's Highland Drovers</title></circle></a><a href="/variants/s7/db3g6db2y3db42k6w3~x2/"><circle cx="409.9" cy="110.9" r="4" fill="#3465a4"><title>Bro-sant-Brieg</title></circle></a><a href="/variants/s9/db62w2db4w5db6y2r8y3w4~x2/"><circle cx="468.1" cy="92.9" r="4" fill="#3465a4"><title>George, Stuart (Personal)</title></circle></a><a href="/variants/s8/db60g10db3lb6y2db9r2w2~x2/"><circle cx="470.1" cy="89.2" r="4" fill="#3465a4"><title>St. Petersburg City (District)</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="337.4" cy="120.1" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/variants/s7/k10db30g3db3g3db3r6~x2/"><circle cx="320.1" cy="167.7" r="4" fill="#3465a4"><title>Kinding</title></circle></a><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="431.6" cy="139.6" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/variants/s8/db50y4db3y4db8k2dbi12w5~x2~db1003265-dbi1605267/"><circle cx="409.8" cy="108.8" r="4" fill="#3465a4"><title>Indiana #2</title></circle></a><a href="/variants/s6/r1db12k5o3db5w1~x4/"><circle cx="292.5" cy="170.6" r="4" fill="#3465a4"><title>Massachusetts</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="417.0" cy="153.6" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><circle cx="411.9" cy="121.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db35k10db4w2db3r2y2~x2/

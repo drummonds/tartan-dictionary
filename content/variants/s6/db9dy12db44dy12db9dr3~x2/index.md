@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Elliot"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db9dy12db44dy12db9dr3/)
 (the same proportion at any scale), whose colour order is pattern [BBGBGB](/stripes/bbgbgb/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1102
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1102](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1102)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db5dy1dg7dr1db45dr5dy3db4dy3~x2/"><circle cx="626.0" cy="166.2" r="4" fill="#3465a4"><title>Brooks Brothers Signature</title></circle></a><a href="/variants/s5/dy1db9dy2db9r1~x4/"><circle cx="620.6" cy="268.2" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Blue</title></circle></a><a href="/variants/s5/db1dy9db2dy9r1~x4/"><circle cx="626.0" cy="273.6" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Camel</title></circle></a><a href="/variants/s5/db16dy2db16dy19r4~x3/"><circle cx="419.1" cy="287.7" r="4" fill="#3465a4"><title>Unidentified #24</title></circle></a><a href="/variants/s6/db6dr39db10dr10db21y5~x2/"><circle cx="451.7" cy="286.6" r="4" fill="#3465a4"><title>Rajput</title></circle></a><a href="/variants/s4/db44dy12db9dr3~x2/"><circle cx="626.0" cy="292.9" r="4" fill="#3465a4"><title>Elliot (Clan)</title></circle></a><a href="/variants/s6/dy11db1dy3dbi1db9r1~x4~db1204274-dbi1406275/"><circle cx="490.1" cy="257.6" r="4" fill="#3465a4"><title>Dege of Saville Row</title></circle></a><a href="/variants/s7/n4db1dr15db42dr6db4dy1~x2/"><circle cx="582.9" cy="177.6" r="4" fill="#3465a4"><title>Lion Brand Sportswear</title></circle></a><a href="/variants/s6/lo3dy33db24dy2db2dy2~x2~db1406275/"><circle cx="488.8" cy="228.2" r="4" fill="#3465a4"><title>Keepers of the Quaich</title></circle></a><a href="/variants/s6/do14db14do14db40do3db2~x2/"><circle cx="626.0" cy="298.1" r="4" fill="#3465a4"><title>Atlin</title></circle></a><circle cx="626.0" cy="277.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db5dy1dg7dr1db45dr5dy3db4dy3~x2/"><circle cx="626.0" cy="165.9" r="4" fill="#3465a4"><title>Brooks Brothers Signature</title></circle></a><a href="/variants/s5/dy1db9dy2db9r1~x4/"><circle cx="620.8" cy="268.5" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Blue</title></circle></a><a href="/variants/s5/db1dy9db2dy9r1~x4/"><circle cx="626.0" cy="273.9" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Camel</title></circle></a><a href="/variants/s5/db16dy2db16dy19r4~x3/"><circle cx="419.3" cy="288.1" r="4" fill="#3465a4"><title>Unidentified #24</title></circle></a><a href="/variants/s6/db6dr39db10dr10db21y5~x2/"><circle cx="451.9" cy="286.9" r="4" fill="#3465a4"><title>Rajput</title></circle></a><a href="/variants/s4/db44dy12db9dr3~x2/"><circle cx="626.0" cy="293.0" r="4" fill="#3465a4"><title>Elliot (Clan)</title></circle></a><a href="/variants/s6/dy11db1dy3dbi1db9r1~x4~db1204274-dbi1406275/"><circle cx="490.2" cy="257.7" r="4" fill="#3465a4"><title>Dege of Saville Row</title></circle></a><a href="/variants/s7/n4db1dr15db42dr6db4dy1~x2/"><circle cx="582.9" cy="177.5" r="4" fill="#3465a4"><title>Lion Brand Sportswear</title></circle></a><a href="/variants/s6/lo3dy33db24dy2db2dy2~x2~db1406275/"><circle cx="488.9" cy="228.4" r="4" fill="#3465a4"><title>Keepers of the Quaich</title></circle></a><a href="/variants/s6/do14db14do14db40do3db2~x2/"><circle cx="626.0" cy="298.2" r="4" fill="#3465a4"><title>Atlin</title></circle></a><circle cx="626.0" cy="277.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db9dy12db44dy12db9dr3~x2/

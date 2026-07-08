@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Loch Lomond Millenium Comemmorative Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3gi2k12db4g19dr3g19db4k12gi2dy3/)
 (the same proportion at any scale), whose colour order is pattern [GGKBGBGBKGK](/stripes/ggkbgbgbkgk/).
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2520
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2520](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2520)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/"><circle cx="172.7" cy="117.9" r="4" fill="#3465a4"><title>Kerby, from the Tennessee Cumberland Basin</title></circle></a><a href="/variants/s9/dr1t8k4g1dg4g1k4t8y1~x6/"><circle cx="161.6" cy="170.7" r="4" fill="#3465a4"><title>Quinn (Personal)</title></circle></a><a href="/variants/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/"><circle cx="140.7" cy="128.3" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/variants/s13/r2g6db12k3lb3k3g16k2g2k2g2k12y2~x2/"><circle cx="102.1" cy="140.2" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/variants/s13/r2g6db12k3lb3k3g16k2g2k2g2k12y2/"><circle cx="102.1" cy="140.2" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/variants/s11/k6g20lb2dr5lb2k20lo3db20g26dr3db5~x2/"><circle cx="127.8" cy="136.4" r="4" fill="#3465a4"><title>Stephenson (Name)</title></circle></a><a href="/variants/s12/k26ly2g24db8k4r3k4db8g24ly2k26w5~x2/"><circle cx="135.7" cy="122.2" r="4" fill="#3465a4"><title>Cornish Hunting</title></circle></a><a href="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/"><circle cx="125.9" cy="134.8" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><a href="/variants/s11/k3dg2k12db4t19dr3t19db4k12dg2lo3~x2/"><circle cx="145.5" cy="144.1" r="4" fill="#3465a4"><title>Loch Lomond Millenium</title></circle></a><a href="/variants/s10/t13k14g6k14t14w1r1ly1g1t3~x2/"><circle cx="161.8" cy="131.2" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><circle cx="152.5" cy="146.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r4dg2y2dg24k2dg3k3dg3k10b10w2b4~x2/"><circle cx="172.7" cy="118.1" r="4" fill="#3465a4"><title>Kerby, from the Tennessee Cumberland Basin</title></circle></a><a href="/variants/s9/dr1t8k4g1dg4g1k4t8y1~x6/"><circle cx="161.6" cy="171.1" r="4" fill="#3465a4"><title>Quinn (Personal)</title></circle></a><a href="/variants/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/"><circle cx="140.6" cy="128.5" r="4" fill="#3465a4"><title>Souza Nery (Personal)</title></circle></a><a href="/variants/s13/r2g6db12k3lb3k3g16k2g2k2g2k12y2~x2/"><circle cx="102.0" cy="140.5" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/variants/s13/r2g6db12k3lb3k3g16k2g2k2g2k12y2/"><circle cx="102.0" cy="140.5" r="4" fill="#3465a4"><title>MacInnes</title></circle></a><a href="/variants/s11/k6g20lb2dr5lb2k20lo3db20g26dr3db5~x2/"><circle cx="127.7" cy="136.7" r="4" fill="#3465a4"><title>Stephenson (Name)</title></circle></a><a href="/variants/s12/k26ly2g24db8k4r3k4db8g24ly2k26w5~x2/"><circle cx="135.6" cy="122.5" r="4" fill="#3465a4"><title>Cornish Hunting</title></circle></a><a href="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/"><circle cx="125.8" cy="135.0" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><a href="/variants/s11/k3dg2k12db4t19dr3t19db4k12dg2lo3~x2/"><circle cx="145.4" cy="144.5" r="4" fill="#3465a4"><title>Loch Lomond Millenium</title></circle></a><a href="/variants/s10/t13k14g6k14t14w1r1ly1g1t3~x2/"><circle cx="161.7" cy="131.5" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><circle cx="152.4" cy="146.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k3gi2k12db4g19dr3g19db4k12gi2dy3~x2~gi2504202-g2203152/

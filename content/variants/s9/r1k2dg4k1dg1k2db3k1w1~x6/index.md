@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacKean Dress"
   url: "/tartans/mackean-dress/"
+- name: "MacKean dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1k2dg4k1dg1k2db3k1w1/)
 (the same proportion at any scale), whose colour order is pattern [RKGKGKBKW](/stripes/rkgkgkbkw/).
@@ -14,7 +16,7 @@ Part of the [MacKean Dress](/tartans/mackean-dress/) tartan — the named design
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r1k2g4k1g1k2db3k1w1~x6/"><circle cx="65.5" cy="220.7" r="4" fill="#3465a4"><title>MacKean Dress (Personal)</title></circle></a><a href="/variants/s9/db8k4lo2k3dr2k3lo2k4g8~x4/"><circle cx="71.3" cy="223.6" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s10/dg12k14db11r3db3r3db11k14dg12y3~x2~dg1605139/"><circle cx="85.9" cy="226.8" r="4" fill="#3465a4"><title>Wilson's No.112 (Blue)</title></circle></a><a href="/variants/s9/db25k12y4k9r6k9y4k12g25~x2/"><circle cx="101.4" cy="197.7" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s12/k14g14k8y4k4g14k14db14dp5db4dp5db14~x2/"><circle cx="59.4" cy="234.0" r="4" fill="#3465a4"><title>Price-Powell (Personal)</title></circle></a><a href="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/"><circle cx="119.8" cy="200.8" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3/"><circle cx="75.8" cy="226.9" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3~x2/"><circle cx="75.8" cy="226.9" r="4" fill="#3465a4"><title>Davidson, Double</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7r8ly5~x2/"><circle cx="121.9" cy="201.6" r="4" fill="#3465a4"><title>MacAllum of Berwick (Clan?)</title></circle></a><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><circle cx="105.7" cy="193.7" r="4" fill="#3465a4"><title>Scottish Tartan Society</title></circle></a><circle cx="84.9" cy="223.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r1k2g4k1g1k2db3k1w1~x6/"><circle cx="65.6" cy="221.3" r="4" fill="#3465a4"><title>MacKean Dress (Personal)</title></circle></a><a href="/variants/s9/db8k4lo2k3dr2k3lo2k4g8~x4/"><circle cx="71.4" cy="224.2" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s10/dg12k14db11r3db3r3db11k14dg12y3~x2~dg1605139/"><circle cx="86.0" cy="227.4" r="4" fill="#3465a4"><title>Wilson's No.112 (Blue)</title></circle></a><a href="/variants/s9/db25k12y4k9r6k9y4k12g25~x2/"><circle cx="101.4" cy="198.2" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s12/k14g14k8y4k4g14k14db14dp5db4dp5db14~x2/"><circle cx="59.4" cy="234.6" r="4" fill="#3465a4"><title>Price-Powell (Personal)</title></circle></a><a href="/variants/s9/db10r7db31k25g23k8db7k8y5~x2/"><circle cx="119.8" cy="201.3" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3/"><circle cx="75.8" cy="227.6" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3~x2/"><circle cx="75.8" cy="227.6" r="4" fill="#3465a4"><title>Davidson, Double</title></circle></a><a href="/variants/s9/db10r7db31k25dg23k8db7r8ly5~x2/"><circle cx="122.0" cy="202.1" r="4" fill="#3465a4"><title>MacAllum of Berwick (Clan?)</title></circle></a><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><circle cx="105.7" cy="194.2" r="4" fill="#3465a4"><title>Scottish Tartan Society</title></circle></a><circle cx="84.9" cy="224.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r1k2dg4k1dg1k2db3k1w1~x6/

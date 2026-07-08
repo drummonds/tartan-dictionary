@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k14lb2db6g7r2k14db6lb2db2lb4/)
 (the same proportion at any scale), whose colour order is pattern [KWBGRKBWBW](/stripes/kwbgrkbwbw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4203
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4203](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4203)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w7k11lb3db9g19y3k22db9lb3k3db6~x2/"><circle cx="68.5" cy="162.6" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/variants/s14/db29k15g5r5g8k4y4k4g8r5g5k15db7k15~x2/"><circle cx="119.5" cy="167.1" r="4" fill="#3465a4"><title>MacLellan Clan Tartan</title></circle></a><a href="/variants/s9/db16k3db16k26dp4k26n20w3n8/"><circle cx="166.5" cy="189.6" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><circle cx="105.7" cy="193.7" r="4" fill="#3465a4"><title>Scottish Tartan Society</title></circle></a><a href="/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="114.9" cy="177.9" r="4" fill="#3465a4"><title>Robertson Hunting #2</title></circle></a><a href="/variants/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/"><circle cx="127.0" cy="181.0" r="4" fill="#3465a4"><title>Encyclopaedia Britannica</title></circle></a><a href="/variants/s11/k16db2lb2db4g16r2k15db6lb2k3lb4~x2/"><circle cx="145.2" cy="154.9" r="4" fill="#3465a4"><title>Wilson's No.060</title></circle></a><a href="/variants/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/"><circle cx="117.1" cy="184.6" r="4" fill="#3465a4"><title>Encyclopaedia Britannica (Corporate)</title></circle></a><a href="/variants/s11/k1lb1db6k6lp1k6lb1db2lb1db3lb1~x2/"><circle cx="175.7" cy="189.6" r="4" fill="#3465a4"><title>Clergy &quot;Two Spirit&quot; (Personal)</title></circle></a><a href="/variants/s9/db25k12y4k9r6k9y4k12g25~x2/"><circle cx="101.4" cy="197.7" r="4" fill="#3465a4"><title>Vosko</title></circle></a><circle cx="138.7" cy="173.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w7k11lb3db9g19y3k22db9lb3k3db6~x2/"><circle cx="68.5" cy="163.0" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/variants/s14/db29k15g5r5g8k4y4k4g8r5g5k15db7k15~x2/"><circle cx="119.4" cy="167.5" r="4" fill="#3465a4"><title>MacLellan Clan Tartan</title></circle></a><a href="/variants/s9/db16k3db16k26dp4k26n20w3n8/"><circle cx="166.5" cy="190.0" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><circle cx="105.7" cy="194.2" r="4" fill="#3465a4"><title>Scottish Tartan Society</title></circle></a><a href="/variants/s10/db18k10g9k2r2k2g9k10db9w2~x2/"><circle cx="114.9" cy="178.4" r="4" fill="#3465a4"><title>Robertson Hunting #2</title></circle></a><a href="/variants/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/"><circle cx="127.0" cy="181.5" r="4" fill="#3465a4"><title>Encyclopaedia Britannica</title></circle></a><a href="/variants/s11/k16db2lb2db4g16r2k15db6lb2k3lb4~x2/"><circle cx="145.2" cy="155.3" r="4" fill="#3465a4"><title>Wilson's No.060</title></circle></a><a href="/variants/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/"><circle cx="117.1" cy="185.1" r="4" fill="#3465a4"><title>Encyclopaedia Britannica (Corporate)</title></circle></a><a href="/variants/s11/k1lb1db6k6lp1k6lb1db2lb1db3lb1~x2/"><circle cx="175.7" cy="190.0" r="4" fill="#3465a4"><title>Clergy &quot;Two Spirit&quot; (Personal)</title></circle></a><a href="/variants/s9/db25k12y4k9r6k9y4k12g25~x2/"><circle cx="101.4" cy="198.2" r="4" fill="#3465a4"><title>Vosko</title></circle></a><circle cx="138.7" cy="173.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k14lb2db6g7r2k14db6lb2db2lb4~x2/

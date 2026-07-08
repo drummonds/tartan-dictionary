@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacGuire"
   url: "/tartans/macguire/"
+- name: "MacGuire (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2/)
 (the same proportion at any scale), whose colour order is pattern [KGRBRGRGRBRGKW](/stripes/kgrbrgrgrbrgkw/).
@@ -14,7 +16,7 @@ Part of the [MacGuire](/tartans/macguire/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2464
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2464](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2464)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/"><circle cx="193.9" cy="136.6" r="4" fill="#3465a4"><title>MacGuire (Name)</title></circle></a><a href="/variants/s14/k2g2r3dp18r2g6r4y2dp6r3g18r3k2g2~x2/"><circle cx="160.9" cy="139.5" r="4" fill="#3465a4"><title>MacIntyre and Glenorchy</title></circle></a><a href="/variants/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/"><circle cx="201.4" cy="126.6" r="4" fill="#3465a4"><title>Cameron of Locheil (Bonner collection)</title></circle></a><a href="/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/"><circle cx="180.6" cy="149.2" r="4" fill="#3465a4"><title>Connolly Dress</title></circle></a><a href="/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/"><circle cx="194.9" cy="134.2" r="4" fill="#3465a4"><title>Glen Nevis</title></circle></a><a href="/variants/s13/db2r11g2r11g21r2k9lb2db11r11g2r11db2~x2/"><circle cx="174.2" cy="147.9" r="4" fill="#3465a4"><title>Nicolson/MacNicol</title></circle></a><a href="/variants/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/"><circle cx="157.1" cy="151.7" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/variants/s12/y4lr2y2lr3y20k6do4k2do2k2do16r3~x2/"><circle cx="173.1" cy="141.8" r="4" fill="#3465a4"><title>Scotch House 'Dorcas' (Fashion)</title></circle></a><a href="/variants/s15/ri7b5r5ri31k9r4b3ri5b3r4g30ri4b3r5ri5~x2~ri2008029-r1506028/"><circle cx="184.2" cy="127.8" r="4" fill="#3465a4"><title>MacDougall 3</title></circle></a><a href="/variants/s13/y1k1r8db1r1g8r1db8r1g1r8k1w1~x6/"><circle cx="163.4" cy="125.2" r="4" fill="#3465a4"><title>Robieson (Name)</title></circle></a><circle cx="193.0" cy="138.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/"><circle cx="193.9" cy="137.0" r="4" fill="#3465a4"><title>MacGuire (Name)</title></circle></a><a href="/variants/s14/k2g2r3dp18r2g6r4y2dp6r3g18r3k2g2~x2/"><circle cx="160.9" cy="139.8" r="4" fill="#3465a4"><title>MacIntyre and Glenorchy</title></circle></a><a href="/variants/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/"><circle cx="201.4" cy="126.9" r="4" fill="#3465a4"><title>Cameron of Locheil (Bonner collection)</title></circle></a><a href="/variants/s10/g6k2g3k2g6db8r20y2r3g2~x2/"><circle cx="180.6" cy="149.6" r="4" fill="#3465a4"><title>Connolly Dress</title></circle></a><a href="/variants/s12/o22w2o2w2o4k5o5k5n5dr2n13w2~x2/"><circle cx="194.9" cy="134.5" r="4" fill="#3465a4"><title>Glen Nevis</title></circle></a><a href="/variants/s13/db2r11g2r11g21r2k9lb2db11r11g2r11db2~x2/"><circle cx="174.2" cy="148.3" r="4" fill="#3465a4"><title>Nicolson/MacNicol</title></circle></a><a href="/variants/s14/k4r3g2db2r6g15r2db4g2r15g7k2r4w2~x2/"><circle cx="157.2" cy="152.1" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/variants/s12/y4lr2y2lr3y20k6do4k2do2k2do16r3~x2/"><circle cx="173.1" cy="142.1" r="4" fill="#3465a4"><title>Scotch House 'Dorcas' (Fashion)</title></circle></a><a href="/variants/s15/ri7b5r5ri31k9r4b3ri5b3r4g30ri4b3r5ri5~x2~ri2008029-r1506028/"><circle cx="184.2" cy="128.1" r="4" fill="#3465a4"><title>MacDougall 3</title></circle></a><a href="/variants/s13/y1k1r8db1r1g8r1db8r1g1r8k1w1~x6/"><circle cx="163.4" cy="125.6" r="4" fill="#3465a4"><title>Robieson (Name)</title></circle></a><circle cx="193.0" cy="138.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/

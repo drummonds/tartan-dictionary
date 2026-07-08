@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's No.173"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg6dp3k3dp3k3dp3dg6k2/)
 (the same proportion at any scale), whose colour order is pattern [GBKBKBGK](/stripes/gbkbkbgk/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4712
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4712](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4712)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g6dp3k3dp3k3dp3g6r2~x2~dp1607327-r2109032/"><circle cx="101.9" cy="278.4" r="4" fill="#3465a4"><title>Wilson's No.137</title></circle></a><a href="/variants/s7/r20dg29db10dg16r6dg10k19~x2/"><circle cx="184.5" cy="256.9" r="4" fill="#3465a4"><title>MacDonagh (Name)</title></circle></a><a href="/variants/s5/dp3k3dp3g6r2~x2/"><circle cx="96.3" cy="298.0" r="4" fill="#3465a4"><title>Austin (Wilson's No 137)</title></circle></a><a href="/variants/s7/db5r17dg16k10db10r17db5~x2/"><circle cx="127.6" cy="268.9" r="4" fill="#3465a4"><title>MacNaughton (Logan)</title></circle></a><a href="/variants/s10/dr5db1dr3db1dr5db4g3k3g3lo2~x4/"><circle cx="118.3" cy="234.0" r="4" fill="#3465a4"><title>MacGaugh (Name)</title></circle></a><a href="/variants/s7/k13dy28y13dy28k18w18k13~x2/"><circle cx="71.7" cy="292.9" r="4" fill="#3465a4"><title>Boxer Beauty</title></circle></a><a href="/variants/s7/k3db3r1db3k3g3y1~x8/"><circle cx="59.3" cy="275.0" r="4" fill="#3465a4"><title>Melrose of Alabama</title></circle></a><a href="/variants/s5/dp3k3dp3g6y2~x2/"><circle cx="100.3" cy="302.5" r="4" fill="#3465a4"><title>Austin (Wilson's No 173)</title></circle></a><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/"><circle cx="123.7" cy="258.5" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><a href="/variants/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2~dp1607327/"><circle cx="138.0" cy="235.4" r="4" fill="#3465a4"><title>Wilson's No.231</title></circle></a><circle cx="122.4" cy="282.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g6dp3k3dp3k3dp3g6r2~x2~dp1607327-r2109032/"><circle cx="102.1" cy="279.3" r="4" fill="#3465a4"><title>Wilson's No.137</title></circle></a><a href="/variants/s7/r20dg29db10dg16r6dg10k19~x2/"><circle cx="184.6" cy="257.6" r="4" fill="#3465a4"><title>MacDonagh (Name)</title></circle></a><a href="/variants/s5/dp3k3dp3g6r2~x2/"><circle cx="96.5" cy="298.9" r="4" fill="#3465a4"><title>Austin (Wilson's No 137)</title></circle></a><a href="/variants/s7/db5r17dg16k10db10r17db5~x2/"><circle cx="127.8" cy="269.7" r="4" fill="#3465a4"><title>MacNaughton (Logan)</title></circle></a><a href="/variants/s10/dr5db1dr3db1dr5db4g3k3g3lo2~x4/"><circle cx="118.4" cy="234.6" r="4" fill="#3465a4"><title>MacGaugh (Name)</title></circle></a><a href="/variants/s7/k13dy28y13dy28k18w18k13~x2/"><circle cx="71.9" cy="293.8" r="4" fill="#3465a4"><title>Boxer Beauty</title></circle></a><a href="/variants/s7/k3db3r1db3k3g3y1~x8/"><circle cx="59.5" cy="275.7" r="4" fill="#3465a4"><title>Melrose of Alabama</title></circle></a><a href="/variants/s5/dp3k3dp3g6y2~x2/"><circle cx="100.5" cy="303.4" r="4" fill="#3465a4"><title>Austin (Wilson's No 173)</title></circle></a><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/"><circle cx="123.8" cy="259.1" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><a href="/variants/s10/dp8k9y2dg10k2dg10y2k9dp8dg2~x2~dp1607327/"><circle cx="138.0" cy="236.0" r="4" fill="#3465a4"><title>Wilson's No.231</title></circle></a><circle cx="122.6" cy="283.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg6dp3k3dp3k3dp3dg6k2~x2~dg1605139-dp1607327/

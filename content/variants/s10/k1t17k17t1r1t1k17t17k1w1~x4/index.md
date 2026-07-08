@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sorbie"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1t17k17t1r1t1k17t17k1w1/)
 (the same proportion at any scale), whose colour order is pattern [KBKBRBKBKW](/stripes/kbkbrbkbkw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3838
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3838](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3838)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb3k24lb6k8w4k8lb35k2~x2/"><circle cx="274.0" cy="160.0" r="4" fill="#3465a4"><title>Nowell/Noel 1951 (Name)</title></circle></a><a href="/variants/s10/k28t3k3t25k3t25k3t3k28o4~x2/"><circle cx="259.2" cy="176.4" r="4" fill="#3465a4"><title>Slanj</title></circle></a><a href="/variants/s8/k36r3k3r3k9t36g3t2~x2/"><circle cx="259.9" cy="127.9" r="4" fill="#3465a4"><title>Home (Clan)</title></circle></a><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/"><circle cx="266.0" cy="120.4" r="4" fill="#3465a4"><title>Ewbank</title></circle></a><a href="/variants/s8/k10lb1k2lb1k4lb10g1lb2~x4/"><circle cx="267.4" cy="183.0" r="4" fill="#3465a4"><title>Martin's Own</title></circle></a><a href="/variants/s6/r1t1k17t17k1w1~x4/"><circle cx="269.6" cy="146.6" r="4" fill="#3465a4"><title>Sorbie (Name)</title></circle></a><a href="/variants/s14/g3t36k9r3k3r3k36r3k3r3k9t36g3t2~x2~g2408144/"><circle cx="236.0" cy="105.7" r="4" fill="#3465a4"><title>Home (Clans Originaux)</title></circle></a><a href="/variants/s12/k17n2k3g2k3g2k24t8g4t4g3t8~x2/"><circle cx="259.9" cy="141.6" r="4" fill="#3465a4"><title>Kells Irish Pubs (Corporate)</title></circle></a><a href="/variants/s6/k4y1k20t20k1t4~x4/"><circle cx="299.7" cy="165.4" r="4" fill="#3465a4"><title>Oakleigh (Corporate)</title></circle></a><a href="/variants/s13/t24k2t2k2t2k10g5dp3g5k10t11k2t4~x2/"><circle cx="229.1" cy="148.7" r="4" fill="#3465a4"><title>Blanton</title></circle></a><circle cx="264.3" cy="135.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb3k24lb6k8w4k8lb35k2~x2/"><circle cx="274.0" cy="160.5" r="4" fill="#3465a4"><title>Nowell/Noel 1951 (Name)</title></circle></a><a href="/variants/s10/k28t3k3t25k3t25k3t3k28o4~x2/"><circle cx="259.2" cy="176.9" r="4" fill="#3465a4"><title>Slanj</title></circle></a><a href="/variants/s8/k36r3k3r3k9t36g3t2~x2/"><circle cx="259.8" cy="128.2" r="4" fill="#3465a4"><title>Home (Clan)</title></circle></a><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/"><circle cx="265.9" cy="120.7" r="4" fill="#3465a4"><title>Ewbank</title></circle></a><a href="/variants/s8/k10lb1k2lb1k4lb10g1lb2~x4/"><circle cx="267.5" cy="183.6" r="4" fill="#3465a4"><title>Martin's Own</title></circle></a><a href="/variants/s6/r1t1k17t17k1w1~x4/"><circle cx="269.6" cy="147.0" r="4" fill="#3465a4"><title>Sorbie (Name)</title></circle></a><a href="/variants/s14/g3t36k9r3k3r3k36r3k3r3k9t36g3t2~x2~g2408144/"><circle cx="235.9" cy="105.9" r="4" fill="#3465a4"><title>Home (Clans Originaux)</title></circle></a><a href="/variants/s12/k17n2k3g2k3g2k24t8g4t4g3t8~x2/"><circle cx="259.8" cy="141.9" r="4" fill="#3465a4"><title>Kells Irish Pubs (Corporate)</title></circle></a><a href="/variants/s6/k4y1k20t20k1t4~x4/"><circle cx="299.7" cy="165.8" r="4" fill="#3465a4"><title>Oakleigh (Corporate)</title></circle></a><a href="/variants/s13/t24k2t2k2t2k10g5dp3g5k10t11k2t4~x2/"><circle cx="229.0" cy="149.1" r="4" fill="#3465a4"><title>Blanton</title></circle></a><circle cx="264.3" cy="136.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k1t17k17t1r1t1k17t17k1w1~x4/

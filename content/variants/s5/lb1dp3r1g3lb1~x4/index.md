@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's No.95"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb1dp3r1g3lb1/)
 (the same proportion at any scale), whose colour order is pattern [WBRGW](/stripes/wbrgw/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4762
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4762](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4762)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g3db3dp4w1~x4/"><circle cx="158.4" cy="328.8" r="4" fill="#3465a4"><title>Pride of the Glen</title></circle></a><a href="/variants/s5/g27dp20r9db16b20~x2~db1003265-b2008266/"><circle cx="82.4" cy="326.5" r="4" fill="#3465a4"><title>Currens (2016)</title></circle></a><a href="/variants/s5/g4r3lb1k1lb3~x4/"><circle cx="104.5" cy="249.7" r="4" fill="#3465a4"><title>Wilson's No.214</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="133.3" cy="262.1" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="134.3" cy="224.1" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/variants/s5/k8lb3g13dp12y2~x2/"><circle cx="130.3" cy="223.9" r="4" fill="#3465a4"><title>Wilson's No.176</title></circle></a><a href="/variants/s5/db9r12dg9db5w2~x4/"><circle cx="169.8" cy="274.7" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Herit</title></circle></a><a href="/variants/s5/db9dr12g9db5w2~x4/"><circle cx="197.4" cy="298.3" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Heritage Trust, The</title></circle></a><a href="/variants/s4/r1g3dp3w1~x4/"><circle cx="139.6" cy="304.3" r="4" fill="#3465a4"><title>Wilson's, No 113</title></circle></a><a href="/variants/s5/k4lb3dp11g14w2~x2/"><circle cx="146.8" cy="220.1" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><circle cx="130.1" cy="296.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g3db3dp4w1~x4/"><circle cx="158.7" cy="329.7" r="4" fill="#3465a4"><title>Pride of the Glen</title></circle></a><a href="/variants/s5/g27dp20r9db16b20~x2~db1003265-b2008266/"><circle cx="82.6" cy="327.3" r="4" fill="#3465a4"><title>Currens (2016)</title></circle></a><a href="/variants/s5/g4r3lb1k1lb3~x4/"><circle cx="104.6" cy="250.5" r="4" fill="#3465a4"><title>Wilson's No.214</title></circle></a><a href="/variants/s5/n25g25k6dp10r6~x2~n2203265-dp1502305/"><circle cx="133.4" cy="262.7" r="4" fill="#3465a4"><title>Breon (Jersey Shore, Pennsylvania) (Personal)</title></circle></a><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="134.4" cy="224.7" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/variants/s5/k8lb3g13dp12y2~x2/"><circle cx="130.4" cy="224.5" r="4" fill="#3465a4"><title>Wilson's No.176</title></circle></a><a href="/variants/s5/db9r12dg9db5w2~x4/"><circle cx="170.0" cy="275.5" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Herit</title></circle></a><a href="/variants/s5/db9dr12g9db5w2~x4/"><circle cx="197.6" cy="299.0" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Heritage Trust, The</title></circle></a><a href="/variants/s4/r1g3dp3w1~x4/"><circle cx="139.9" cy="305.2" r="4" fill="#3465a4"><title>Wilson's, No 113</title></circle></a><a href="/variants/s5/k4lb3dp11g14w2~x2/"><circle cx="146.9" cy="220.7" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><circle cx="130.3" cy="297.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/lb1dp3r1g3lb1~x4/

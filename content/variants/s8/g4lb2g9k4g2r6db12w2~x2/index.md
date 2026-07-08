@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cherokee"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4lb2g9k4g2r6db12w2/)
 (the same proportion at any scale), whose colour order is pattern [GWGKGRBW](/stripes/gwgkgrbw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=627
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=627](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=627)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n4k1w1k1w1k1n4db2g6r1~x6/"><circle cx="82.9" cy="178.5" r="4" fill="#3465a4"><title>Mitsukoshi Sendai</title></circle></a><a href="/variants/s9/dr2lb1g7r1k7g1db7r1g2~x8~dr1004029-r1606028/"><circle cx="81.9" cy="166.9" r="4" fill="#3465a4"><title>MacCraig</title></circle></a><a href="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/"><circle cx="113.4" cy="189.7" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/"><circle cx="113.9" cy="187.9" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/variants/s6/r10k18lb10db18g40y5/"><circle cx="90.4" cy="190.7" r="4" fill="#3465a4"><title>Gallowater</title></circle></a><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="53.8" cy="165.9" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s9/y3lp9k3lp4k9g15k9db11w2~x4/"><circle cx="33.5" cy="184.2" r="4" fill="#3465a4"><title>Hoban (Name)</title></circle></a><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><circle cx="57.8" cy="179.4" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/variants/s7/g16lb3g3k10db12dr2k3~x2/"><circle cx="100.7" cy="182.9" r="4" fill="#3465a4"><title>MacLean, Donald Personal Tartan</title></circle></a><a href="/variants/s6/k8r12w8g15db30y5~x2/"><circle cx="72.9" cy="202.6" r="4" fill="#3465a4"><title>Reekie (Edmonton)</title></circle></a><circle cx="75.0" cy="192.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/n4k1w1k1w1k1n4db2g6r1~x6/"><circle cx="82.9" cy="178.9" r="4" fill="#3465a4"><title>Mitsukoshi Sendai</title></circle></a><a href="/variants/s9/dr2lb1g7r1k7g1db7r1g2~x8~dr1004029-r1606028/"><circle cx="81.8" cy="167.3" r="4" fill="#3465a4"><title>MacCraig</title></circle></a><a href="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/"><circle cx="113.5" cy="190.2" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/"><circle cx="113.9" cy="188.4" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/variants/s6/r10k18lb10db18g40y5/"><circle cx="90.4" cy="191.2" r="4" fill="#3465a4"><title>Gallowater</title></circle></a><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="53.8" cy="166.4" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s9/y3lp9k3lp4k9g15k9db11w2~x4/"><circle cx="33.5" cy="184.7" r="4" fill="#3465a4"><title>Hoban (Name)</title></circle></a><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><circle cx="57.8" cy="179.9" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/variants/s7/g16lb3g3k10db12dr2k3~x2/"><circle cx="100.7" cy="183.3" r="4" fill="#3465a4"><title>MacLean, Donald Personal Tartan</title></circle></a><a href="/variants/s6/k8r12w8g15db30y5~x2/"><circle cx="73.0" cy="203.1" r="4" fill="#3465a4"><title>Reekie (Edmonton)</title></circle></a><circle cx="75.1" cy="193.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g4lb2g9k4g2r6db12w2~x2/

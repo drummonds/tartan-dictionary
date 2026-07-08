@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Valdres, Kvam and Vang"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4w1r4k2g2r3k22r2k2r2/)
 (the same proportion at any scale), whose colour order is pattern [KWRKGRKRKR](/stripes/kwrkgrkrkr/).
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k4w1r4k2g2r3g2k20r2k2~x2/"><circle cx="337.9" cy="97.9" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #3</title></circle></a><a href="/variants/s10/r8k79n4k4lb4k6n22k6r16k6/"><circle cx="341.3" cy="95.3" r="4" fill="#3465a4"><title>King Robert the Bruce Memorial, The</title></circle></a><a href="/variants/s9/ly8k7r3k7r3k38w2k3ly6~x2/"><circle cx="361.2" cy="105.6" r="4" fill="#3465a4"><title>Bunnahabhain</title></circle></a><a href="/variants/s8/k42lb2r3k5r16k8y2k3~x2/"><circle cx="391.0" cy="104.3" r="4" fill="#3465a4"><title>Highland Brewing Company (USA)</title></circle></a><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/"><circle cx="280.4" cy="110.8" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s9/w2k3r10k5r3k5r15k35w1~x2/"><circle cx="353.1" cy="100.7" r="4" fill="#3465a4"><title>Bertea, A H (Personal)</title></circle></a><a href="/variants/s10/y6k2y2r10k4r4k4r2k35y2~x2/"><circle cx="343.3" cy="114.7" r="4" fill="#3465a4"><title>Einigkeit</title></circle></a><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/"><circle cx="469.0" cy="99.2" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/variants/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="419.3" cy="83.1" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><a href="/variants/s8/k70lo5k3n4dp4n4k3lo12/"><circle cx="408.7" cy="89.9" r="4" fill="#3465a4"><title>State University of New York College at Buffalo</title></circle></a><circle cx="364.2" cy="90.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k4w1r4k2g2r3g2k20r2k2~x2/"><circle cx="337.7" cy="98.2" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #3</title></circle></a><a href="/variants/s10/r8k79n4k4lb4k6n22k6r16k6/"><circle cx="341.2" cy="95.5" r="4" fill="#3465a4"><title>King Robert the Bruce Memorial, The</title></circle></a><a href="/variants/s9/ly8k7r3k7r3k38w2k3ly6~x2/"><circle cx="361.1" cy="105.9" r="4" fill="#3465a4"><title>Bunnahabhain</title></circle></a><a href="/variants/s8/k42lb2r3k5r16k8y2k3~x2/"><circle cx="390.9" cy="104.5" r="4" fill="#3465a4"><title>Highland Brewing Company (USA)</title></circle></a><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/"><circle cx="280.3" cy="111.1" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s9/w2k3r10k5r3k5r15k35w1~x2/"><circle cx="353.0" cy="101.0" r="4" fill="#3465a4"><title>Bertea, A H (Personal)</title></circle></a><a href="/variants/s10/y6k2y2r10k4r4k4r2k35y2~x2/"><circle cx="343.3" cy="115.0" r="4" fill="#3465a4"><title>Einigkeit</title></circle></a><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/"><circle cx="468.9" cy="99.4" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/variants/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="419.2" cy="83.4" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><a href="/variants/s8/k70lo5k3n4dp4n4k3lo12/"><circle cx="408.5" cy="90.1" r="4" fill="#3465a4"><title>State University of New York College at Buffalo</title></circle></a><circle cx="364.1" cy="91.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k4w1r4k2g2r3k22r2k2r2/

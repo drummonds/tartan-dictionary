@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Burberry"
   url: "/tartans/burberry-2/"
+- name: "Burberry Black"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lr3k3lr3k10r1/)
 (the same proportion at any scale), whose colour order is pattern [RKYKY](/stripes/rkyky/).
@@ -14,7 +16,7 @@ Part of the [Burberry](/tartans/burberry-2/) tartan — the named design groupin
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5039
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5039](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5039)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -84,8 +86,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/lr3k3lr3k10dr1~x6/"><circle cx="323.8" cy="204.7" r="4" fill="#3465a4"><title>Burberry Blue</title></circle></a><a href="/variants/s5/k2r4k7ri1k1~x2~r1506028-ri2008029/"><circle cx="355.8" cy="223.3" r="4" fill="#3465a4"><title>Romsdal, Tresfjord</title></circle></a><a href="/variants/s7/k16t2k8r3lr3r3k8~x2/"><circle cx="342.9" cy="181.8" r="4" fill="#3465a4"><title>Benson (New England)</title></circle></a><a href="/variants/s4/k46o7k8w20~x2/"><circle cx="303.8" cy="224.2" r="4" fill="#3465a4"><title>Lords, of Skye</title></circle></a><a href="/variants/s5/r3k25r25k10lb3~x2/"><circle cx="266.8" cy="208.1" r="4" fill="#3465a4"><title>Bodog.com</title></circle></a><a href="/variants/s7/k14r2k4lb3k12r8k1~x2/"><circle cx="353.7" cy="173.7" r="4" fill="#3465a4"><title>Punky Princess (Fashion)</title></circle></a><a href="/variants/s5/k5w25r6k45w4~x2/"><circle cx="288.1" cy="184.8" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/variants/s4/k46dy7k8w20~x2/"><circle cx="307.5" cy="226.9" r="4" fill="#3465a4"><title>Lords of Skye (Fashion?)</title></circle></a><a href="/variants/s5/k10g4k1lb2r1~x10/"><circle cx="274.2" cy="180.5" r="4" fill="#3465a4"><title>Brotherhood of the Kilt</title></circle></a><a href="/variants/s5/dr20k3dr4w2k7~x2/"><circle cx="381.5" cy="201.2" r="4" fill="#3465a4"><title>Loevenstein Castle</title></circle></a><circle cx="316.7" cy="199.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/lr3k3lr3k10dr1~x6/"><circle cx="323.9" cy="205.4" r="4" fill="#3465a4"><title>Burberry Blue</title></circle></a><a href="/variants/s5/k2r4k7ri1k1~x2~r1506028-ri2008029/"><circle cx="355.9" cy="223.9" r="4" fill="#3465a4"><title>Romsdal, Tresfjord</title></circle></a><a href="/variants/s7/k16t2k8r3lr3r3k8~x2/"><circle cx="342.9" cy="182.3" r="4" fill="#3465a4"><title>Benson (New England)</title></circle></a><a href="/variants/s4/k46o7k8w20~x2/"><circle cx="303.9" cy="224.9" r="4" fill="#3465a4"><title>Lords, of Skye</title></circle></a><a href="/variants/s5/r3k25r25k10lb3~x2/"><circle cx="266.9" cy="208.8" r="4" fill="#3465a4"><title>Bodog.com</title></circle></a><a href="/variants/s7/k14r2k4lb3k12r8k1~x2/"><circle cx="353.7" cy="174.3" r="4" fill="#3465a4"><title>Punky Princess (Fashion)</title></circle></a><a href="/variants/s5/k5w25r6k45w4~x2/"><circle cx="288.1" cy="185.5" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><a href="/variants/s4/k46dy7k8w20~x2/"><circle cx="307.6" cy="227.6" r="4" fill="#3465a4"><title>Lords of Skye (Fashion?)</title></circle></a><a href="/variants/s5/k10g4k1lb2r1~x10/"><circle cx="274.2" cy="181.1" r="4" fill="#3465a4"><title>Brotherhood of the Kilt</title></circle></a><a href="/variants/s5/dr20k3dr4w2k7~x2/"><circle cx="381.6" cy="201.8" r="4" fill="#3465a4"><title>Loevenstein Castle</title></circle></a><circle cx="316.7" cy="200.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/lr3k3lr3k10r1~x6/

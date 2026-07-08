@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Ulster"
   url: "/tartans/ulster/"
+- name: "Ulster Red (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g10k1g10dr1g1k1g1k1dr10k1lo1k1/)
 (the same proportion at any scale), whose colour order is pattern [GKGBGKGKBKYK](/stripes/gkgbgkgkbkyk/).
@@ -14,7 +16,7 @@ Part of the [Ulster](/tartans/ulster/) tartan — the named design grouping this
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=792
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=792](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=792)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g13k1g13r1g1k1g1k1r13k1y1k1~x3/"><circle cx="299.7" cy="125.4" r="4" fill="#3465a4"><title>Ulster</title></circle></a><a href="/variants/s10/g2k1g14r2g2k10g2r4k1w2~x4/"><circle cx="214.8" cy="139.6" r="4" fill="#3465a4"><title>MacCarthy (Fashion?)</title></circle></a><a href="/variants/s7/g3dr16g4k6g28dr2g3~x2/"><circle cx="349.7" cy="183.7" r="4" fill="#3465a4"><title>Maxwell Htg (Clan)</title></circle></a><a href="/variants/s9/db5r19k2g8r3g18k2g9k2~x2/"><circle cx="233.5" cy="180.0" r="4" fill="#3465a4"><title>Hubbard (2016)</title></circle></a><a href="/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/"><circle cx="267.2" cy="167.6" r="4" fill="#3465a4"><title>MacCall/McCall</title></circle></a><a href="/variants/s14/g4lb6g3lb2g3lb2g3k5g3k5g20r3g4r3~x2/"><circle cx="255.2" cy="154.3" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/variants/s15/g3k1g1r12g1r1g1k4g1lb2g15k1g1k1g3~x4/"><circle cx="261.8" cy="110.1" r="4" fill="#3465a4"><title>Hickey (Name)</title></circle></a><a href="/variants/s11/g28dr2g28dr7lb2dr7lb2dr7k5dp4lb2~x2/"><circle cx="295.3" cy="137.5" r="4" fill="#3465a4"><title>Hynde (Sir John)</title></circle></a><a href="/variants/s11/dg17lb2g2lb2k21lb2k3dg30k2lb2k4~x2~dg1806142-g1903114/"><circle cx="266.6" cy="129.4" r="4" fill="#3465a4"><title>Fort William (District?)</title></circle></a><a href="/variants/s11/dg17lb2g2lb2k21lb2k3dg30k2lb2k4~x2~dg1806142-g2408144/"><circle cx="265.3" cy="129.3" r="4" fill="#3465a4"><title>Fort William District Tartan</title></circle></a><circle cx="275.5" cy="145.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g13k1g13r1g1k1g1k1r13k1y1k1~x3/"><circle cx="299.6" cy="125.7" r="4" fill="#3465a4"><title>Ulster</title></circle></a><a href="/variants/s10/g2k1g14r2g2k10g2r4k1w2~x4/"><circle cx="214.7" cy="140.0" r="4" fill="#3465a4"><title>MacCarthy (Fashion?)</title></circle></a><a href="/variants/s7/g3dr16g4k6g28dr2g3~x2/"><circle cx="349.8" cy="184.1" r="4" fill="#3465a4"><title>Maxwell Htg (Clan)</title></circle></a><a href="/variants/s9/db5r19k2g8r3g18k2g9k2~x2/"><circle cx="233.5" cy="180.5" r="4" fill="#3465a4"><title>Hubbard (2016)</title></circle></a><a href="/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/"><circle cx="267.2" cy="168.1" r="4" fill="#3465a4"><title>MacCall/McCall</title></circle></a><a href="/variants/s14/g4lb6g3lb2g3lb2g3k5g3k5g20r3g4r3~x2/"><circle cx="255.2" cy="154.8" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/variants/s15/g3k1g1r12g1r1g1k4g1lb2g15k1g1k1g3~x4/"><circle cx="261.8" cy="110.4" r="4" fill="#3465a4"><title>Hickey (Name)</title></circle></a><a href="/variants/s11/g28dr2g28dr7lb2dr7lb2dr7k5dp4lb2~x2/"><circle cx="295.3" cy="137.8" r="4" fill="#3465a4"><title>Hynde (Sir John)</title></circle></a><a href="/variants/s11/dg17lb2g2lb2k21lb2k3dg30k2lb2k4~x2~dg1806142-g1903114/"><circle cx="266.5" cy="129.7" r="4" fill="#3465a4"><title>Fort William (District?)</title></circle></a><a href="/variants/s11/dg17lb2g2lb2k21lb2k3dg30k2lb2k4~x2~dg1806142-g2408144/"><circle cx="265.2" cy="129.6" r="4" fill="#3465a4"><title>Fort William District Tartan</title></circle></a><circle cx="275.5" cy="146.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/g10k1g10dr1g1k1g1k1dr10k1lo1k1~x4/

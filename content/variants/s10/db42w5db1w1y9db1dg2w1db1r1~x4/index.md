@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Stratford , City of"
   url: "/tartans/stratford-city-of/"
+- name: "Stratford (Ontario), City of"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db42w5db1w1y9db1dg2w1db1r1/)
 (the same proportion at any scale), whose colour order is pattern [BWBWGBGWBR](/stripes/bwbwgbgwbr/).
@@ -14,7 +16,7 @@ Part of the [Stratford , City of](/tartans/stratford-city-of/) tartan — the na
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10363
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10363](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10363)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w6db32n3db3n1db3n2dbi4db1y2~x2~db1204274-dbi1406275/"><circle cx="437.4" cy="103.7" r="4" fill="#3465a4"><title>X Marks the Scot</title></circle></a><a href="/variants/s8/b72w12b2ly2b2r12b1w9~x2/"><circle cx="468.5" cy="97.8" r="4" fill="#3465a4"><title>Tennessee Pioneer Blanket</title></circle></a><a href="/variants/s10/r2db8dy1db16w1g12db27w1db1w1~x2/"><circle cx="447.5" cy="117.4" r="4" fill="#3465a4"><title>World Youth Congress (Corporate)</title></circle></a><a href="/variants/s10/db57y2db10dg4db4dg9r12db4r4lr2~x2/"><circle cx="452.2" cy="106.4" r="4" fill="#3465a4"><title>Unidentified #64</title></circle></a><a href="/variants/s12/y4db55n4k4db2y2db2w5db3r2n2k2~x2/"><circle cx="397.0" cy="42.6" r="4" fill="#3465a4"><title>London '88</title></circle></a><a href="/variants/s10/db6w4db3w6db8y3db52y3db8r4/"><circle cx="481.1" cy="123.7" r="4" fill="#3465a4"><title>Dundee F.C.</title></circle></a><a href="/variants/s9/db66w2db10w2db10w2db12r3lb24~x2/"><circle cx="466.7" cy="113.1" r="4" fill="#3465a4"><title>RAAF</title></circle></a><a href="/variants/s10/db62r1db2r1db4k14g4w2g6k4~x2/"><circle cx="417.1" cy="52.2" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="374.4" cy="143.2" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/variants/s10/db62r1db2r1db4k14g4k2g6k4~x2/"><circle cx="429.3" cy="54.9" r="4" fill="#3465a4"><title>Park</title></circle></a><circle cx="436.3" cy="63.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w6db32n3db3n1db3n2dbi4db1y2~x2~db1204274-dbi1406275/"><circle cx="437.3" cy="103.8" r="4" fill="#3465a4"><title>X Marks the Scot</title></circle></a><a href="/variants/s8/b72w12b2ly2b2r12b1w9~x2/"><circle cx="468.4" cy="97.9" r="4" fill="#3465a4"><title>Tennessee Pioneer Blanket</title></circle></a><a href="/variants/s10/r2db8dy1db16w1g12db27w1db1w1~x2/"><circle cx="447.5" cy="117.5" r="4" fill="#3465a4"><title>World Youth Congress (Corporate)</title></circle></a><a href="/variants/s10/db57y2db10dg4db4dg9r12db4r4lr2~x2/"><circle cx="452.1" cy="106.4" r="4" fill="#3465a4"><title>Unidentified #64</title></circle></a><a href="/variants/s12/y4db55n4k4db2y2db2w5db3r2n2k2~x2/"><circle cx="396.8" cy="42.5" r="4" fill="#3465a4"><title>London '88</title></circle></a><a href="/variants/s10/db6w4db3w6db8y3db52y3db8r4/"><circle cx="481.1" cy="123.9" r="4" fill="#3465a4"><title>Dundee F.C.</title></circle></a><a href="/variants/s9/db66w2db10w2db10w2db12r3lb24~x2/"><circle cx="466.6" cy="113.3" r="4" fill="#3465a4"><title>RAAF</title></circle></a><a href="/variants/s10/db62r1db2r1db4k14g4w2g6k4~x2/"><circle cx="417.0" cy="52.1" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/variants/s7/w6db2w3db2g2db20r1~x2/"><circle cx="374.4" cy="143.6" r="4" fill="#3465a4"><title>Gonzaga University’s True Blue and White</title></circle></a><a href="/variants/s10/db62r1db2r1db4k14g4k2g6k4~x2/"><circle cx="429.1" cy="54.8" r="4" fill="#3465a4"><title>Park</title></circle></a><circle cx="436.1" cy="63.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/

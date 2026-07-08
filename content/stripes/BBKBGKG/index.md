@@ -28,10 +28,10 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/variants/s7/dg21k14dg9b21k3b12dp3~x2/">Scotsman</a></td></tr>
-<tr><td class="sett-swatch"><a href="/variants/s7/dg21k14dg9b21k3b12dp3~x2/"><img src="/variants/s7/dg21k14dg9b21k3b12dp3~x2/sett.png" alt="Scotsman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s7/g21k14g9db21k3db12dp3~x2/">Scotsman</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s7/g21k14g9db21k3db12dp3~x2/"><img src="/variants/s7/g21k14g9db21k3db12dp3~x2/sett.png" alt="Scotsman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/variants/s7/dg21k14dg9b21k3b12dp3~x2/">Scotsman</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s7/dg21k14dg9b21k3b12dp3~x2/"><img src="/variants/s7/dg21k14dg9b21k3b12dp3~x2/sett.png" alt="Scotsman sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

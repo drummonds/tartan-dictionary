@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McIntosh, Georgina (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b9lb1g2lb1db4r1/)
 (the same proportion at any scale), whose colour order is pattern [BWGWBR](/stripes/bwgwbr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2889
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2889](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2889)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y2b9r2db6y1r1~x4~b1911266-db1108266/"><circle cx="239.6" cy="221.4" r="4" fill="#3465a4"><title>Lauder Primary School</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="305.2" cy="251.0" r="4" fill="#3465a4"><title>Fong (Personal)</title></circle></a><a href="/variants/s5/dy16r8t57db56lb8/"><circle cx="224.8" cy="240.3" r="4" fill="#3465a4"><title>Bryson (1988)</title></circle></a><a href="/variants/s5/lb8r3dbi29db29lb4~x2~dbi1605267-db1003265/"><circle cx="260.9" cy="236.3" r="4" fill="#3465a4"><title>Bryson</title></circle></a><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.3" cy="147.4" r="4" fill="#3465a4"><title>Shearer (2016)</title></circle></a><a href="/variants/s6/dp4k3b18r3db34w3~x2/"><circle cx="256.0" cy="155.4" r="4" fill="#3465a4"><title>Margach, William (Dumbarton)</title></circle></a><a href="/variants/s5/w3db2dbi15lb15r2~x4~db1404245-dbi1406275/"><circle cx="208.6" cy="221.3" r="4" fill="#3465a4"><title>SABA</title></circle></a><a href="/variants/s6/k3wi6t20dt2b19w3~x2~wi3600000-t2607245-dt1001120-b2409265/"><circle cx="169.5" cy="189.4" r="4" fill="#3465a4"><title>Tartan Explorer, The</title></circle></a><a href="/variants/s6/db40t16k5b16w2dp6~x2/"><circle cx="241.9" cy="157.6" r="4" fill="#3465a4"><title>MacFarland-Collins (Name)</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="241.6" cy="212.4" r="4" fill="#3465a4"><title>Jamieson, Robert (Personal)</title></circle></a><circle cx="281.3" cy="210.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y2b9r2db6y1r1~x4~b1911266-db1108266/"><circle cx="239.7" cy="221.9" r="4" fill="#3465a4"><title>Lauder Primary School</title></circle></a><a href="/variants/s4/r21db43dbi86w10~db1106275-dbi1404245/"><circle cx="305.3" cy="251.5" r="4" fill="#3465a4"><title>Fong (Personal)</title></circle></a><a href="/variants/s5/dy16r8t57db56lb8/"><circle cx="224.9" cy="240.8" r="4" fill="#3465a4"><title>Bryson (1988)</title></circle></a><a href="/variants/s5/lb8r3dbi29db29lb4~x2~dbi1605267-db1003265/"><circle cx="261.0" cy="236.7" r="4" fill="#3465a4"><title>Bryson</title></circle></a><a href="/variants/s6/k4n4db32r4b17w2~x2~db1404245-b2603265/"><circle cx="251.2" cy="147.6" r="4" fill="#3465a4"><title>Shearer (2016)</title></circle></a><a href="/variants/s6/dp4k3b18r3db34w3~x2/"><circle cx="256.0" cy="155.6" r="4" fill="#3465a4"><title>Margach, William (Dumbarton)</title></circle></a><a href="/variants/s5/w3db2dbi15lb15r2~x4~db1404245-dbi1406275/"><circle cx="208.8" cy="221.9" r="4" fill="#3465a4"><title>SABA</title></circle></a><a href="/variants/s6/k3wi6t20dt2b19w3~x2~wi3600000-t2607245-dt1001120-b2409265/"><circle cx="169.5" cy="189.8" r="4" fill="#3465a4"><title>Tartan Explorer, The</title></circle></a><a href="/variants/s6/db40t16k5b16w2dp6~x2/"><circle cx="241.9" cy="157.7" r="4" fill="#3465a4"><title>MacFarland-Collins (Name)</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="241.7" cy="212.9" r="4" fill="#3465a4"><title>Jamieson, Robert (Personal)</title></circle></a><circle cx="281.3" cy="210.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/b9lb1g2lb1db4r1~x12/

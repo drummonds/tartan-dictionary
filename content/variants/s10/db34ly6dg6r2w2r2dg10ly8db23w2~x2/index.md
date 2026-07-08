@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "International Pairs (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db34ly6dg6r2w2r2dg10ly8db23w2/)
 (the same proportion at any scale), whose colour order is pattern [BYGRWRGYBW](/stripes/bygrwrgybw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7648
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7648](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7648)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r2ly13db8ly3db33g3db8g13o2~x2/"><circle cx="281.6" cy="147.1" r="4" fill="#3465a4"><title>Burt #1 (Name)</title></circle></a><a href="/variants/s7/db120g9r7y12g33y33db26/"><circle cx="373.5" cy="176.9" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><a href="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/"><circle cx="256.9" cy="119.8" r="4" fill="#3465a4"><title>Yukon (asymmetric)</title></circle></a><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="339.8" cy="183.7" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s8/db30r3db3y3db3g30db36w5~x2/"><circle cx="340.5" cy="171.6" r="4" fill="#3465a4"><title>De Nardi Hunting (Personal)</title></circle></a><a href="/variants/s9/y4db8r3db14w18o4g28db58w4/"><circle cx="261.2" cy="121.2" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/variants/s10/dp4db16y1db1y1db5y4g4w4r4~x2/"><circle cx="215.1" cy="138.8" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/variants/s8/w10db2w1db35dg10dy3dg10r4~x2/"><circle cx="269.2" cy="118.0" r="4" fill="#3465a4"><title>Sandelin #2 (Personal)</title></circle></a><a href="/variants/s8/db22y2db1y2db10r2g11r6~x2/"><circle cx="346.9" cy="164.1" r="4" fill="#3465a4"><title>Katsushika Scottish Country Dancers</title></circle></a><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="294.8" cy="208.1" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><circle cx="301.2" cy="136.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r2ly13db8ly3db33g3db8g13o2~x2/"><circle cx="281.6" cy="147.4" r="4" fill="#3465a4"><title>Burt #1 (Name)</title></circle></a><a href="/variants/s7/db120g9r7y12g33y33db26/"><circle cx="373.5" cy="177.2" r="4" fill="#3465a4"><title>Supporter.com</title></circle></a><a href="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/"><circle cx="256.8" cy="119.9" r="4" fill="#3465a4"><title>Yukon (asymmetric)</title></circle></a><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="339.8" cy="184.1" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s8/db30r3db3y3db3g30db36w5~x2/"><circle cx="340.5" cy="171.9" r="4" fill="#3465a4"><title>De Nardi Hunting (Personal)</title></circle></a><a href="/variants/s9/y4db8r3db14w18o4g28db58w4/"><circle cx="261.2" cy="121.4" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/variants/s10/dp4db16y1db1y1db5y4g4w4r4~x2/"><circle cx="215.1" cy="139.0" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/variants/s8/w10db2w1db35dg10dy3dg10r4~x2/"><circle cx="269.1" cy="118.1" r="4" fill="#3465a4"><title>Sandelin #2 (Personal)</title></circle></a><a href="/variants/s8/db22y2db1y2db10r2g11r6~x2/"><circle cx="346.9" cy="164.4" r="4" fill="#3465a4"><title>Katsushika Scottish Country Dancers</title></circle></a><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="294.9" cy="208.5" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><circle cx="301.1" cy="136.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db34ly6dg6r2w2r2dg10ly8db23w2~x2/

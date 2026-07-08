@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hibernian F. C. (2004) (C orporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g21w2g21k17dg12dp6k2w1/)
 (the same proportion at any scale), whose colour order is pattern [GWGKGBKW](/stripes/gwgkgbkw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6894
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6894](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6894)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g22w2g22k18dg12dp6k2w1~x2/"><circle cx="216.0" cy="146.9" r="4" fill="#3465a4"><title>Hibernian Football Club</title></circle></a><a href="/variants/s6/k5dg25k10g15y1g5~x2/"><circle cx="229.9" cy="177.6" r="4" fill="#3465a4"><title>Delaware Fine Spirits Guild (Corp)</title></circle></a><a href="/variants/s6/g11w1g11k9dg6dp3~x4/"><circle cx="196.5" cy="209.0" r="4" fill="#3465a4"><title>Hibernian Football Club (Corporate)</title></circle></a><a href="/variants/s7/g30dp5db32k32g36lg2y5~g2208144-lg3105139/"><circle cx="168.1" cy="157.6" r="4" fill="#3465a4"><title>Camelot (Corporate)</title></circle></a><a href="/variants/s7/ly3g24dt11g3k10g3w2~x2/"><circle cx="219.4" cy="165.8" r="4" fill="#3465a4"><title>Cornish Brewery, Green</title></circle></a><a href="/variants/s6/g26db3g12k10dp15w2~x2/"><circle cx="230.6" cy="185.0" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><a href="/variants/s11/lb13t2dg38k13dg8k8dg17k2dg17k4w11~dg1806142-w3600000/"><circle cx="248.2" cy="136.0" r="4" fill="#3465a4"><title>Bute Heather, Glencallum (Fashion)</title></circle></a><a href="/variants/s7/r3k11dg29k28g19ly2db1~x2~dg1806142-g2408144/"><circle cx="167.9" cy="121.3" r="4" fill="#3465a4"><title>PMMC</title></circle></a><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="233.1" cy="166.9" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/variants/s8/g28k4g5b4g5k19db19y2~x2/"><circle cx="175.5" cy="160.5" r="4" fill="#3465a4"><title>City of Guelph</title></circle></a><circle cx="210.4" cy="150.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g22w2g22k18dg12dp6k2w1~x2/"><circle cx="215.9" cy="147.2" r="4" fill="#3465a4"><title>Hibernian Football Club</title></circle></a><a href="/variants/s6/k5dg25k10g15y1g5~x2/"><circle cx="229.8" cy="178.0" r="4" fill="#3465a4"><title>Delaware Fine Spirits Guild (Corp)</title></circle></a><a href="/variants/s6/g11w1g11k9dg6dp3~x4/"><circle cx="196.5" cy="209.5" r="4" fill="#3465a4"><title>Hibernian Football Club (Corporate)</title></circle></a><a href="/variants/s7/g30dp5db32k32g36lg2y5~g2208144-lg3105139/"><circle cx="168.0" cy="158.0" r="4" fill="#3465a4"><title>Camelot (Corporate)</title></circle></a><a href="/variants/s7/ly3g24dt11g3k10g3w2~x2/"><circle cx="219.4" cy="166.3" r="4" fill="#3465a4"><title>Cornish Brewery, Green</title></circle></a><a href="/variants/s6/g26db3g12k10dp15w2~x2/"><circle cx="230.6" cy="185.5" r="4" fill="#3465a4"><title>Lossiemouth/Hersbruck</title></circle></a><a href="/variants/s11/lb13t2dg38k13dg8k8dg17k2dg17k4w11~dg1806142-w3600000/"><circle cx="248.2" cy="136.3" r="4" fill="#3465a4"><title>Bute Heather, Glencallum (Fashion)</title></circle></a><a href="/variants/s7/r3k11dg29k28g19ly2db1~x2~dg1806142-g2408144/"><circle cx="167.8" cy="121.5" r="4" fill="#3465a4"><title>PMMC</title></circle></a><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="233.1" cy="167.4" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/variants/s8/g28k4g5b4g5k19db19y2~x2/"><circle cx="175.5" cy="160.9" r="4" fill="#3465a4"><title>City of Guelph</title></circle></a><circle cx="210.3" cy="150.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g21w2g21k17dg12dp6k2w1~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "German Heritage"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly4k2dr8k4dr4k63r5dr64k4dr3k4dr8k2ly4/)
 (the same proportion at any scale), whose colour order is pattern [YKBKBKBRKBKBKY](/stripes/ykbkbkbrkbkbky/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1335
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1335](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1335)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/"><circle cx="317.2" cy="87.0" r="4" fill="#3465a4"><title>University of Georgia (Corporate)</title></circle></a><a href="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/"><circle cx="365.6" cy="96.8" r="4" fill="#3465a4"><title>Old Aberdeen Diamond Jubilee</title></circle></a><a href="/variants/s13/dr4k4dr65k8dr6k35ly2k2g7k35r3k2r4/"><circle cx="300.2" cy="71.3" r="4" fill="#3465a4"><title>Firefighters' Memorial</title></circle></a><a href="/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/"><circle cx="310.4" cy="102.2" r="4" fill="#3465a4"><title>MacAlister of Skye (Clan?)</title></circle></a><a href="/variants/s10/db4dy30k2dy2k14ly2k2ly1k6ly3~x2/"><circle cx="287.4" cy="102.3" r="4" fill="#3465a4"><title>Hickory</title></circle></a><a href="/variants/s9/dr12g6k6g2k1g1k6dr24w2~x2/"><circle cx="300.6" cy="103.0" r="4" fill="#3465a4"><title>Hunter of Bute (Personal)</title></circle></a><a href="/variants/s17/k6o1n19k2do1dy1do4k28n2k4n2k1o2k1n2k1o2~x2~o2500000-n1900000/"><circle cx="283.7" cy="53.0" r="4" fill="#3465a4"><title>North Sea Oil (Fashion)</title></circle></a><a href="/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/"><circle cx="270.7" cy="61.5" r="4" fill="#3465a4"><title>YMCA</title></circle></a><a href="/variants/s13/r21k3y1k5db1k3db8k29y4k2y1k7y3~x2/"><circle cx="241.2" cy="62.6" r="4" fill="#3465a4"><title>(5) Ruxton</title></circle></a><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/"><circle cx="315.1" cy="104.7" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><circle cx="325.7" cy="68.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/"><circle cx="317.1" cy="87.3" r="4" fill="#3465a4"><title>University of Georgia (Corporate)</title></circle></a><a href="/variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/"><circle cx="365.5" cy="96.9" r="4" fill="#3465a4"><title>Old Aberdeen Diamond Jubilee</title></circle></a><a href="/variants/s13/dr4k4dr65k8dr6k35ly2k2g7k35r3k2r4/"><circle cx="300.0" cy="71.3" r="4" fill="#3465a4"><title>Firefighters' Memorial</title></circle></a><a href="/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/"><circle cx="310.3" cy="102.3" r="4" fill="#3465a4"><title>MacAlister of Skye (Clan?)</title></circle></a><a href="/variants/s10/db4dy30k2dy2k14ly2k2ly1k6ly3~x2/"><circle cx="287.3" cy="102.5" r="4" fill="#3465a4"><title>Hickory</title></circle></a><a href="/variants/s9/dr12g6k6g2k1g1k6dr24w2~x2/"><circle cx="300.5" cy="103.2" r="4" fill="#3465a4"><title>Hunter of Bute (Personal)</title></circle></a><a href="/variants/s17/k6o1n19k2do1dy1do4k28n2k4n2k1o2k1n2k1o2~x2~o2500000-n1900000/"><circle cx="283.5" cy="53.0" r="4" fill="#3465a4"><title>North Sea Oil (Fashion)</title></circle></a><a href="/variants/s12/r4w1dr36db4k1db3k10w1db4w1k8w1~x2/"><circle cx="270.6" cy="61.5" r="4" fill="#3465a4"><title>YMCA</title></circle></a><a href="/variants/s13/r21k3y1k5db1k3db8k29y4k2y1k7y3~x2/"><circle cx="241.0" cy="62.6" r="4" fill="#3465a4"><title>(5) Ruxton</title></circle></a><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/"><circle cx="315.0" cy="104.9" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><circle cx="325.6" cy="68.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/ly4k2dr8k4dr4k63r5dr64k4dr3k4dr8k2ly4/

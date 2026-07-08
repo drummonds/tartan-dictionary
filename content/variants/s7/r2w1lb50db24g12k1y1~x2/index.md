@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pincock (Plockton), Dougie"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2w1lb50db24g12k1y1/)
 (the same proportion at any scale), whose colour order is pattern [GKGBWWR](/stripes/gkgbwwr/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10323
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10323](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10323)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2w1lb50t24g12k1ly1~x2~lb3203246-t2405244/"><circle cx="346.0" cy="88.0" r="4" fill="#3465a4"><title>Pincock (Name)</title></circle></a><a href="/variants/s6/k2g12t24lb50w1r2~x2~t2405244-lb3203246/"><circle cx="322.2" cy="77.3" r="4" fill="#3465a4"><title>Pincock Name Tartan</title></circle></a><a href="/variants/s7/lb58ly2db24g2r1dr5w1~x2/"><circle cx="352.1" cy="60.2" r="4" fill="#3465a4"><title>Hier (Personal)</title></circle></a><a href="/variants/s5/lb72r16k5y2db16~x2/"><circle cx="354.6" cy="111.5" r="4" fill="#3465a4"><title>Thomas, Jean Marc (Personal)</title></circle></a><a href="/variants/s5/lb25db11r5w1k1~x4/"><circle cx="309.9" cy="140.7" r="4" fill="#3465a4"><title>Mount Vernon Primary School</title></circle></a><a href="/variants/s8/db4lb50g4dp4w2y2k3w2~x2/"><circle cx="362.4" cy="56.5" r="4" fill="#3465a4"><title>Glasgow Islay, The</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="227.1" cy="116.6" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s6/lb23w3k10r2db45y1~x2/"><circle cx="259.5" cy="83.2" r="4" fill="#3465a4"><title>Kirkcaldy</title></circle></a><a href="/variants/s7/r4lb16k3db44r1w3ly2~x2/"><circle cx="313.6" cy="66.6" r="4" fill="#3465a4"><title>Dress Blue (Fashion)</title></circle></a><a href="/variants/s7/dr4lb16k3db44dr1w3y2~x2/"><circle cx="318.9" cy="69.4" r="4" fill="#3465a4"><title>Dress Blue</title></circle></a><circle cx="276.3" cy="58.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2w1lb50t24g12k1ly1~x2~lb3203246-t2405244/"><circle cx="345.9" cy="87.9" r="4" fill="#3465a4"><title>Pincock (Name)</title></circle></a><a href="/variants/s6/k2g12t24lb50w1r2~x2~t2405244-lb3203246/"><circle cx="322.0" cy="77.3" r="4" fill="#3465a4"><title>Pincock Name Tartan</title></circle></a><a href="/variants/s7/lb58ly2db24g2r1dr5w1~x2/"><circle cx="352.0" cy="60.2" r="4" fill="#3465a4"><title>Hier (Personal)</title></circle></a><a href="/variants/s5/lb72r16k5y2db16~x2/"><circle cx="354.5" cy="111.8" r="4" fill="#3465a4"><title>Thomas, Jean Marc (Personal)</title></circle></a><a href="/variants/s5/lb25db11r5w1k1~x4/"><circle cx="309.9" cy="141.0" r="4" fill="#3465a4"><title>Mount Vernon Primary School</title></circle></a><a href="/variants/s8/db4lb50g4dp4w2y2k3w2~x2/"><circle cx="362.3" cy="56.6" r="4" fill="#3465a4"><title>Glasgow Islay, The</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="227.1" cy="116.9" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s6/lb23w3k10r2db45y1~x2/"><circle cx="259.4" cy="83.4" r="4" fill="#3465a4"><title>Kirkcaldy</title></circle></a><a href="/variants/s7/r4lb16k3db44r1w3ly2~x2/"><circle cx="313.5" cy="66.7" r="4" fill="#3465a4"><title>Dress Blue (Fashion)</title></circle></a><a href="/variants/s7/dr4lb16k3db44dr1w3y2~x2/"><circle cx="318.8" cy="69.5" r="4" fill="#3465a4"><title>Dress Blue</title></circle></a><circle cx="276.2" cy="58.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r2w1lb50db24g12k1y1~x2/

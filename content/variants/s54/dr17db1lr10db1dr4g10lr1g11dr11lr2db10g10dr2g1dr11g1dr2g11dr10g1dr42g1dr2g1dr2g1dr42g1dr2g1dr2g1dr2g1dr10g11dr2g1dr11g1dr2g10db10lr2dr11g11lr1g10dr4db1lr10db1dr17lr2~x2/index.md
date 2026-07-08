@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacDonald of Staffa #6"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr17db1lr10db1dr4g10lr1g11dr11lr2db10g10dr2g1dr11g1dr2g11dr10g1dr42g1dr2g1dr2g1dr42g1dr2g1dr2g1dr2g1dr10g11dr2g1dr11g1dr2g10db10lr2dr11g11lr1g10dr4db1lr10db1dr17lr2/)
 (the same proportion at any scale), whose colour order is pattern [BBYBBGYGBYBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBYBGYGBBYBBY](/stripes/bbybbgygbybgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbybgygbbybby/).
 
 Sourced from register-of-tartans.  It is a [54 stripe tartan](/stripes/stripes54/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5020
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5020](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5020)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

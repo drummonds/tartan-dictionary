@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Dyce"
   url: "/tartans/dyce/"
+- name: "Dyce"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t9k1t1k1t1k8g8y1k1y1g8k8t8w1/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKGGKGGKBW](/stripes/bkbkbkggkggkbw/).
@@ -14,7 +16,7 @@ Part of the [Dyce](/tartans/dyce/) tartan — the named design grouping this set
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1057
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1057](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1057)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db9k1db1k1db1k8g8y1k1y1g8k8db8w1~x2/"><circle cx="113.4" cy="152.9" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/"><circle cx="117.5" cy="139.5" r="4" fill="#3465a4"><title>Ogilvie of Inverarity (Wilson) / Ochterlonie</title></circle></a><a href="/variants/s13/ly3k1g10k7db10g2db2g2db10k7g10k1lg3~x2/"><circle cx="100.4" cy="167.4" r="4" fill="#3465a4"><title>Doon Valley Crafters (Corporate)</title></circle></a><a href="/variants/s14/t9k1t1k1t1k7g8k1y2k1g8k7t8r2~x4/"><circle cx="99.6" cy="158.8" r="4" fill="#3465a4"><title>MacLeod of Skye (Johnston)</title></circle></a><a href="/variants/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="89.8" cy="170.4" r="4" fill="#3465a4"><title>Gemmell Clan Tartan</title></circle></a><a href="/variants/s15/n2t14k3t3k3t3k15t4r2g2r2g11r2g2r2~x2/"><circle cx="100.1" cy="150.8" r="4" fill="#3465a4"><title>Homecoming (Fashion)</title></circle></a><a href="/variants/s11/t22k4t4k4t4k22g22r5g6k2y3~x2/"><circle cx="113.0" cy="152.3" r="4" fill="#3465a4"><title>Grant (Wilson's 1819 Key Pattern Book)</title></circle></a><a href="/variants/s12/g9k9t10k1t2k2t10k9g9w1g2r1~x4/"><circle cx="106.6" cy="168.8" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="84.9" cy="153.7" r="4" fill="#3465a4"><title>MacRae Hunting (Wilsons)</title></circle></a><a href="/variants/s17/t6k1t1k1t1k7g6ly1k1db1k1ly1g6k7t7k1t1~x4~t2205244-db1106275/"><circle cx="109.2" cy="150.2" r="4" fill="#3465a4"><title>Polaris Military</title></circle></a><circle cx="104.7" cy="153.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db9k1db1k1db1k8g8y1k1y1g8k8db8w1~x2/"><circle cx="113.4" cy="153.2" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/"><circle cx="117.5" cy="139.8" r="4" fill="#3465a4"><title>Ogilvie of Inverarity (Wilson) / Ochterlonie</title></circle></a><a href="/variants/s13/ly3k1g10k7db10g2db2g2db10k7g10k1lg3~x2/"><circle cx="100.4" cy="167.8" r="4" fill="#3465a4"><title>Doon Valley Crafters (Corporate)</title></circle></a><a href="/variants/s14/t9k1t1k1t1k7g8k1y2k1g8k7t8r2~x4/"><circle cx="99.5" cy="159.1" r="4" fill="#3465a4"><title>MacLeod of Skye (Johnston)</title></circle></a><a href="/variants/s14/db4k1db1k1db1k5g6k1g6k6db3w1r1w1~x4/"><circle cx="89.8" cy="170.8" r="4" fill="#3465a4"><title>Gemmell Clan Tartan</title></circle></a><a href="/variants/s15/n2t14k3t3k3t3k15t4r2g2r2g11r2g2r2~x2/"><circle cx="100.1" cy="151.1" r="4" fill="#3465a4"><title>Homecoming (Fashion)</title></circle></a><a href="/variants/s11/t22k4t4k4t4k22g22r5g6k2y3~x2/"><circle cx="113.0" cy="152.7" r="4" fill="#3465a4"><title>Grant (Wilson's 1819 Key Pattern Book)</title></circle></a><a href="/variants/s12/g9k9t10k1t2k2t10k9g9w1g2r1~x4/"><circle cx="106.6" cy="169.2" r="4" fill="#3465a4"><title>Spar (UK) Ltd</title></circle></a><a href="/variants/s15/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7~x2/"><circle cx="84.8" cy="154.1" r="4" fill="#3465a4"><title>MacRae Hunting (Wilsons)</title></circle></a><a href="/variants/s17/t6k1t1k1t1k7g6ly1k1db1k1ly1g6k7t7k1t1~x4~t2205244-db1106275/"><circle cx="109.1" cy="150.6" r="4" fill="#3465a4"><title>Polaris Military</title></circle></a><circle cx="104.6" cy="154.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/t9k1t1k1t1k8g8y1k1y1g8k8t8w1~x4/

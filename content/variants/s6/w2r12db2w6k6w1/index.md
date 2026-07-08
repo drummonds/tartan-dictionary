@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/mactavish/"
 - name: "MacTavish"
   url: "/tartans/mactavish/"
+- name: "MacTavish"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2r12db2w6k6w1/)
 (the same proportion at any scale), whose colour order is pattern [WKWBRW](/stripes/wkwbrw/).
@@ -16,7 +18,7 @@ Part of the [MacTavish](/tartans/mactavish/) tartan — the named design groupin
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb2r12db2lb6k6lb1~x4/"><circle cx="188.0" cy="187.5" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish</title></circle></a><a href="/variants/s6/lb2r12db2lb6k6lb1~x2/"><circle cx="188.0" cy="187.5" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s6/lb2r12db2lb6k6lb1/"><circle cx="188.0" cy="187.5" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s5/r15g3w2k10w5~x2/"><circle cx="164.0" cy="216.4" r="4" fill="#3465a4"><title>SAL Cubiska Stenen</title></circle></a><a href="/variants/s6/r6w3r37k16w16g4~x2/"><circle cx="228.7" cy="165.8" r="4" fill="#3465a4"><title>Nesbit, Rose</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="246.0" cy="168.5" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><a href="/variants/s6/r3w1r20k8w8g2~x4/"><circle cx="261.3" cy="142.4" r="4" fill="#3465a4"><title>Nisbet Dress Rose (Dance)</title></circle></a><a href="/variants/s6/k6r20w2dr9w3lb2~x2/"><circle cx="186.9" cy="158.9" r="4" fill="#3465a4"><title>Thermos Un-named (aretefact)</title></circle></a><a href="/variants/s8/n16k4w2k4n6r11n2r16~x2/"><circle cx="217.1" cy="200.6" r="4" fill="#3465a4"><title>Sidney (Nova Scotia) Canadian Tartan</title></circle></a><a href="/variants/s5/k3r28k10w28lb3~x2/"><circle cx="161.2" cy="192.4" r="4" fill="#3465a4"><title>Wallace Dress, Red (Dance)</title></circle></a><circle cx="178.0" cy="185.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb2r12db2lb6k6lb1~x4/"><circle cx="188.0" cy="188.1" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish</title></circle></a><a href="/variants/s6/lb2r12db2lb6k6lb1~x2/"><circle cx="188.0" cy="188.1" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s6/lb2r12db2lb6k6lb1/"><circle cx="188.0" cy="188.1" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s5/r15g3w2k10w5~x2/"><circle cx="164.1" cy="217.1" r="4" fill="#3465a4"><title>SAL Cubiska Stenen</title></circle></a><a href="/variants/s6/r6w3r37k16w16g4~x2/"><circle cx="228.8" cy="166.4" r="4" fill="#3465a4"><title>Nesbit, Rose</title></circle></a><a href="/variants/s7/w4k2w25dr21w3dr8y3~x2/"><circle cx="246.1" cy="169.0" r="4" fill="#3465a4"><title>MacPherson Dress Burgundy (Dance)</title></circle></a><a href="/variants/s6/r3w1r20k8w8g2~x4/"><circle cx="261.3" cy="142.9" r="4" fill="#3465a4"><title>Nisbet Dress Rose (Dance)</title></circle></a><a href="/variants/s6/k6r20w2dr9w3lb2~x2/"><circle cx="187.0" cy="159.5" r="4" fill="#3465a4"><title>Thermos Un-named (aretefact)</title></circle></a><a href="/variants/s8/n16k4w2k4n6r11n2r16~x2/"><circle cx="217.2" cy="201.1" r="4" fill="#3465a4"><title>Sidney (Nova Scotia) Canadian Tartan</title></circle></a><a href="/variants/s5/k3r28k10w28lb3~x2/"><circle cx="161.3" cy="193.1" r="4" fill="#3465a4"><title>Wallace Dress, Red (Dance)</title></circle></a><circle cx="178.1" cy="185.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w2r12db2w6k6w1/

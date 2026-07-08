@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacFarlane Dress"
   url: "/tartans/macfarlane-dress/"
+- name: "MacFarlane Dress Clan Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4/)
 (the same proportion at any scale), whose colour order is pattern [BWRKBGWRBRWGRWR](/stripes/bwrkbgwrbrwgrwr/).
@@ -14,7 +16,7 @@ Part of the [MacFarlane Dress](/tartans/macfarlane-dress/) tartan — the named 
 
 Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=659
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=659](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=659)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db4w2r6k1db12dg4db2r6db1r6w2dg8r2w16r4~x2/"><circle cx="97.4" cy="123.7" r="4" fill="#3465a4"><title>MacFarlane Dress</title></circle></a><a href="/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/"><circle cx="133.5" cy="140.4" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/variants/s14/db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2/"><circle cx="61.2" cy="121.8" r="4" fill="#3465a4"><title>MacFarlane, dress</title></circle></a><a href="/variants/s11/r16k6r14g22k16db16w10r6w45k4r4/"><circle cx="79.4" cy="148.0" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/"><circle cx="95.9" cy="139.4" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/variants/s18/w28r5lb3r5k21r5lb28w3y5w3lb28r5k21r5lb3r5w28r5~x2~lb3203246/"><circle cx="63.9" cy="129.6" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress</title></circle></a><a href="/variants/s16/lb30k2r18k3w24lb12k3lb24k2g26lb12g12r12w12r12w2/"><circle cx="117.5" cy="141.8" r="4" fill="#3465a4"><title>Red Hackle Pipe Band (Corporate)</title></circle></a><a href="/variants/s15/db2k1db6k1r5y3r5k2w3k2w9k1w2k1y2~x2/"><circle cx="48.4" cy="147.2" r="4" fill="#3465a4"><title>Unidentified 32</title></circle></a><a href="/variants/s16/r3lb7k1r2k1lb12k4w3k2r1k1r1db3r2db4r2~x2/"><circle cx="107.1" cy="118.7" r="4" fill="#3465a4"><title>Royal Canadian Air Force #2</title></circle></a><a href="/variants/s18/r4lb5r2lb7r10k4lo2k2lo2k4w4k4lb18r1k2r1lb4r3~x2~r2109032/"><circle cx="147.8" cy="100.3" r="4" fill="#3465a4"><title>Anderson Red (Westwood) (Estimated threadcount)</title></circle></a><circle cx="99.1" cy="125.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db4w2r6k1db12dg4db2r6db1r6w2dg8r2w16r4~x2/"><circle cx="97.4" cy="124.0" r="4" fill="#3465a4"><title>MacFarlane Dress</title></circle></a><a href="/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/"><circle cx="133.5" cy="140.8" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/variants/s14/db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2/"><circle cx="61.2" cy="122.2" r="4" fill="#3465a4"><title>MacFarlane, dress</title></circle></a><a href="/variants/s11/r16k6r14g22k16db16w10r6w45k4r4/"><circle cx="79.4" cy="148.4" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/"><circle cx="95.8" cy="139.8" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/variants/s18/w28r5lb3r5k21r5lb28w3y5w3lb28r5k21r5lb3r5w28r5~x2~lb3203246/"><circle cx="63.9" cy="130.1" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress</title></circle></a><a href="/variants/s16/lb30k2r18k3w24lb12k3lb24k2g26lb12g12r12w12r12w2/"><circle cx="117.5" cy="142.2" r="4" fill="#3465a4"><title>Red Hackle Pipe Band (Corporate)</title></circle></a><a href="/variants/s15/db2k1db6k1r5y3r5k2w3k2w9k1w2k1y2~x2/"><circle cx="48.4" cy="147.7" r="4" fill="#3465a4"><title>Unidentified 32</title></circle></a><a href="/variants/s16/r3lb7k1r2k1lb12k4w3k2r1k1r1db3r2db4r2~x2/"><circle cx="107.1" cy="119.0" r="4" fill="#3465a4"><title>Royal Canadian Air Force #2</title></circle></a><a href="/variants/s18/r4lb5r2lb7r10k4lo2k2lo2k4w4k4lb18r1k2r1lb4r3~x2~r2109032/"><circle cx="147.7" cy="100.6" r="4" fill="#3465a4"><title>Anderson Red (Westwood) (Estimated threadcount)</title></circle></a><circle cx="99.1" cy="126.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4~x2/

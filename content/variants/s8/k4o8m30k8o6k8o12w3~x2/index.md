@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Believe - Corinna"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4o8m30k8o6k8o12w3/)
 (the same proportion at any scale), whose colour order is pattern [KRRKRKRW](/stripes/krrkrkrw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11005
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11005](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11005)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k11dr11w11dr11r30k3w3~x2/"><circle cx="138.0" cy="182.7" r="4" fill="#3465a4"><title>Swallow (Personal)</title></circle></a><a href="/variants/s8/y5db2k2db12k16r20k2r4~x2/"><circle cx="160.9" cy="170.2" r="4" fill="#3465a4"><title>Aitken</title></circle></a><a href="/variants/s6/r36lb3r5k21db24k3~x2~db1406275/"><circle cx="207.3" cy="176.2" r="4" fill="#3465a4"><title>Graham of Menteith (Red)</title></circle></a><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="190.4" cy="142.5" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/variants/s10/n28k3r22k8w3k8r22k3n28k3~x2/"><circle cx="195.1" cy="172.2" r="4" fill="#3465a4"><title>Henkel</title></circle></a><a href="/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/"><circle cx="192.8" cy="179.3" r="4" fill="#3465a4"><title>Believe - Corinna</title></circle></a><a href="/variants/s6/k3n28k3r22k8w3~x2/"><circle cx="193.8" cy="182.1" r="4" fill="#3465a4"><title>Henkel (Corporate)</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2~r2609032/"><circle cx="193.0" cy="153.6" r="4" fill="#3465a4"><title>MacNaughton (Logan) #2</title></circle></a><a href="/variants/s7/lo2dg7k6r11k1r1lo2~x4/"><circle cx="162.4" cy="172.6" r="4" fill="#3465a4"><title>Blackstock, Red Dress (Clan)</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2/"><circle cx="208.5" cy="158.0" r="4" fill="#3465a4"><title>MacNaughton (Clan)</title></circle></a><circle cx="165.1" cy="170.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k11dr11w11dr11r30k3w3~x2/"><circle cx="138.0" cy="183.3" r="4" fill="#3465a4"><title>Swallow (Personal)</title></circle></a><a href="/variants/s8/y5db2k2db12k16r20k2r4~x2/"><circle cx="160.9" cy="170.6" r="4" fill="#3465a4"><title>Aitken</title></circle></a><a href="/variants/s6/r36lb3r5k21db24k3~x2~db1406275/"><circle cx="207.3" cy="176.7" r="4" fill="#3465a4"><title>Graham of Menteith (Red)</title></circle></a><a href="/variants/s9/w4k6r3k15r3k6r27db9w2~x2/"><circle cx="190.4" cy="142.9" r="4" fill="#3465a4"><title>Memery (Reston, USA)</title></circle></a><a href="/variants/s10/n28k3r22k8w3k8r22k3n28k3~x2/"><circle cx="195.1" cy="172.6" r="4" fill="#3465a4"><title>Henkel</title></circle></a><a href="/variants/s8/k4dr8r30k8dr6k8dr12w3~x2~dr1305012-r1807008/"><circle cx="192.9" cy="179.7" r="4" fill="#3465a4"><title>Believe - Corinna</title></circle></a><a href="/variants/s6/k3n28k3r22k8w3~x2/"><circle cx="193.9" cy="182.6" r="4" fill="#3465a4"><title>Henkel (Corporate)</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2~r2609032/"><circle cx="193.0" cy="154.1" r="4" fill="#3465a4"><title>MacNaughton (Logan) #2</title></circle></a><a href="/variants/s7/lo2dg7k6r11k1r1lo2~x4/"><circle cx="162.4" cy="173.1" r="4" fill="#3465a4"><title>Blackstock, Red Dress (Clan)</title></circle></a><a href="/variants/s9/k2db2r26dg25k13db13r26db2k2~x2/"><circle cx="208.5" cy="158.4" r="4" fill="#3465a4"><title>MacNaughton (Clan)</title></circle></a><circle cx="165.2" cy="171.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k4o8m30k8o6k8o12w3~x2/

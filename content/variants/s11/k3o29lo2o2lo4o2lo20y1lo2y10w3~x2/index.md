@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Shenzhen (Sports)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3o29lo2o2lo4o2lo20y1lo2y10w3/)
 (the same proportion at any scale), whose colour order is pattern [KRYRYRYGYGW](/stripes/kryryrygygw/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6250
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6250](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6250)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/y4g3r2g12y2g3y2g12r24k1r2w1r2g4~x2/"><circle cx="285.8" cy="105.5" r="4" fill="#3465a4"><title>Leask</title></circle></a><a href="/variants/s14/y2g3r2g12y2g3y2g12r24k1r2w1r2g2~x2/"><circle cx="289.8" cy="98.4" r="4" fill="#3465a4"><title>Leask</title></circle></a><a href="/variants/s9/y9k1lb4k1r30k1n4g9y3~x2/"><circle cx="265.4" cy="87.3" r="4" fill="#3465a4"><title>Kings Mountain 1780</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/"><circle cx="301.9" cy="60.6" r="4" fill="#3465a4"><title>Baxter Clan Tartan</title></circle></a><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/"><circle cx="305.7" cy="101.7" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><circle cx="282.0" cy="107.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/y4g3r2g12y2g3y2g12r24k1r2w1r2g4~x2/"><circle cx="285.7" cy="105.6" r="4" fill="#3465a4"><title>Leask</title></circle></a><a href="/variants/s14/y2g3r2g12y2g3y2g12r24k1r2w1r2g2~x2/"><circle cx="289.8" cy="98.6" r="4" fill="#3465a4"><title>Leask</title></circle></a><a href="/variants/s9/y9k1lb4k1r30k1n4g9y3~x2/"><circle cx="265.3" cy="87.4" r="4" fill="#3465a4"><title>Kings Mountain 1780</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/"><circle cx="301.8" cy="60.6" r="4" fill="#3465a4"><title>Baxter Clan Tartan</title></circle></a><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/"><circle cx="305.7" cy="101.9" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><circle cx="281.9" cy="108.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k3o29lo2o2lo4o2lo20y1lo2y10w3~x2/

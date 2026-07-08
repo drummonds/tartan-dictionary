@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ascension Island Heritage Trust"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r8lb45w1n4k11g6r4/)
 (the same proportion at any scale), whose colour order is pattern [RGKBWWR](/stripes/rgkbwwr/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11137
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11137](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11137)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w45r9k2w8k2y1k10db8dp12w2~x2/"><circle cx="238.2" cy="50.5" r="4" fill="#3465a4"><title>Bruce of Kinnaird Dress (Dance)</title></circle></a><a href="/variants/s7/w60r1db10r22db3ri3g1~x2~r1807008-ri2109032/"><circle cx="349.7" cy="84.1" r="4" fill="#3465a4"><title>Aviemore Dress Tartan</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="227.1" cy="116.6" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/"><circle cx="210.0" cy="82.5" r="4" fill="#3465a4"><title>Wiegratz Alba (Personal)</title></circle></a><a href="/variants/s9/lb50r3lb4r4lb7k14dg31ly2w2~x2/"><circle cx="224.8" cy="86.4" r="4" fill="#3465a4"><title>Highland Glen (Corporate)</title></circle></a><a href="/variants/s6/b53w27r5k19y1g11~x2/"><circle cx="192.5" cy="98.4" r="4" fill="#3465a4"><title>Crookstoun, James (West Lothian) (Personal)</title></circle></a><a href="/variants/s6/t53w27r5k19ly1g11~x2/"><circle cx="191.0" cy="101.7" r="4" fill="#3465a4"><title>Crookstoun (Personal)</title></circle></a><a href="/variants/s5/lb72r16k5y2db16~x2/"><circle cx="354.6" cy="111.5" r="4" fill="#3465a4"><title>Thomas, Jean Marc (Personal)</title></circle></a><a href="/variants/s11/k10db13k3lb7k1ly20lyi3lb13r5ly47k3~x2~ly2503076-lyi2705081/"><circle cx="242.2" cy="60.5" r="4" fill="#3465a4"><title>State Seal of Georgia (Fashion)</title></circle></a><a href="/variants/s6/k2w1g5dr1lb18r2~x2/"><circle cx="294.0" cy="114.9" r="4" fill="#3465a4"><title>Norris (1998)</title></circle></a><circle cx="274.4" cy="69.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w45r9k2w8k2y1k10db8dp12w2~x2/"><circle cx="238.1" cy="50.7" r="4" fill="#3465a4"><title>Bruce of Kinnaird Dress (Dance)</title></circle></a><a href="/variants/s7/w60r1db10r22db3ri3g1~x2~r1807008-ri2109032/"><circle cx="349.7" cy="84.3" r="4" fill="#3465a4"><title>Aviemore Dress Tartan</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="227.1" cy="116.9" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/"><circle cx="209.9" cy="82.7" r="4" fill="#3465a4"><title>Wiegratz Alba (Personal)</title></circle></a><a href="/variants/s9/lb50r3lb4r4lb7k14dg31ly2w2~x2/"><circle cx="224.7" cy="86.7" r="4" fill="#3465a4"><title>Highland Glen (Corporate)</title></circle></a><a href="/variants/s6/b53w27r5k19y1g11~x2/"><circle cx="192.4" cy="98.6" r="4" fill="#3465a4"><title>Crookstoun, James (West Lothian) (Personal)</title></circle></a><a href="/variants/s6/t53w27r5k19ly1g11~x2/"><circle cx="190.9" cy="101.9" r="4" fill="#3465a4"><title>Crookstoun (Personal)</title></circle></a><a href="/variants/s5/lb72r16k5y2db16~x2/"><circle cx="354.5" cy="111.8" r="4" fill="#3465a4"><title>Thomas, Jean Marc (Personal)</title></circle></a><a href="/variants/s11/k10db13k3lb7k1ly20lyi3lb13r5ly47k3~x2~ly2503076-lyi2705081/"><circle cx="242.1" cy="60.6" r="4" fill="#3465a4"><title>State Seal of Georgia (Fashion)</title></circle></a><a href="/variants/s6/k2w1g5dr1lb18r2~x2/"><circle cx="294.0" cy="115.2" r="4" fill="#3465a4"><title>Norris (1998)</title></circle></a><circle cx="274.3" cy="69.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r8lb45w1n4k11g6r4~x2/

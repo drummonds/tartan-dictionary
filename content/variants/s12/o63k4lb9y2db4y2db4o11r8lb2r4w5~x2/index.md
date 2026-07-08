@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Seller, Sillar"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o63k4lb9y2db4y2db4o11r8lb2r4w5/)
 (the same proportion at any scale), whose colour order is pattern [RKWGBGBRRWRW](/stripes/rkwgbgbrrwrw/).
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3~x2/"><circle cx="317.7" cy="26.5" r="4" fill="#3465a4"><title>Ellis Island (District)</title></circle></a><a href="/variants/s9/o44y2k4dp2o15r6k3lb3y2~x2/"><circle cx="425.1" cy="85.6" r="4" fill="#3465a4"><title>Inches, of Perth</title></circle></a><a href="/variants/s13/r68k1g6db4g1db12w1g6y1g24y1g2y3~x2/"><circle cx="314.5" cy="25.3" r="4" fill="#3465a4"><title>Ellis Island</title></circle></a><a href="/variants/s9/y9k1lb4k1r40k1n4g9y1~x2/"><circle cx="338.8" cy="60.4" r="4" fill="#3465a4"><title>Kings Mountain 1780 (Commemorative)</title></circle></a><a href="/variants/s13/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3~x2~g2203152/"><circle cx="336.7" cy="30.9" r="4" fill="#3465a4"><title>Ellis Island American District Tartan</title></circle></a><a href="/variants/s12/o30y1k2g10k1r3k1r3k1r3k1w1~x2/"><circle cx="285.0" cy="53.4" r="4" fill="#3465a4"><title>Tweedmouth Middle School</title></circle></a><a href="/variants/s13/g7r122db17r12k12y3k4w3g48r16k4r6w5/"><circle cx="318.5" cy="28.5" r="4" fill="#3465a4"><title>Stuart/Stewart of Rothesay</title></circle></a><a href="/variants/s15/r160k2w1g36y9r4k1r4y9lb36k9r9y9r4lb3~x2/"><circle cx="361.8" cy="14.0" r="4" fill="#3465a4"><title>MacPherson, The Crubin Plaid</title></circle></a><a href="/variants/s16/r94k3w2g21w3y3r5k2r5y3w3n21k7r7y8w4~x2/"><circle cx="319.3" cy="14.0" r="4" fill="#3465a4"><title>MacKintosh 8</title></circle></a><a href="/variants/s15/r320k4w2g72ly18r8k2r8ly18lb72k18r3ly18r8lb14/"><circle cx="339.5" cy="14.0" r="4" fill="#3465a4"><title>Crubin Plaid (MacPherson)</title></circle></a><circle cx="340.2" cy="40.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3~x2/"><circle cx="317.5" cy="26.5" r="4" fill="#3465a4"><title>Ellis Island (District)</title></circle></a><a href="/variants/s9/o44y2k4dp2o15r6k3lb3y2~x2/"><circle cx="425.1" cy="85.7" r="4" fill="#3465a4"><title>Inches, of Perth</title></circle></a><a href="/variants/s13/r68k1g6db4g1db12w1g6y1g24y1g2y3~x2/"><circle cx="314.4" cy="25.3" r="4" fill="#3465a4"><title>Ellis Island</title></circle></a><a href="/variants/s9/y9k1lb4k1r40k1n4g9y1~x2/"><circle cx="338.7" cy="60.4" r="4" fill="#3465a4"><title>Kings Mountain 1780 (Commemorative)</title></circle></a><a href="/variants/s13/r68k1g6lb4g1lb12w1g6dy1g24dy1g2dy3~x2~g2203152/"><circle cx="336.6" cy="30.8" r="4" fill="#3465a4"><title>Ellis Island American District Tartan</title></circle></a><a href="/variants/s12/o30y1k2g10k1r3k1r3k1r3k1w1~x2/"><circle cx="284.9" cy="53.4" r="4" fill="#3465a4"><title>Tweedmouth Middle School</title></circle></a><a href="/variants/s13/g7r122db17r12k12y3k4w3g48r16k4r6w5/"><circle cx="318.3" cy="28.6" r="4" fill="#3465a4"><title>Stuart/Stewart of Rothesay</title></circle></a><a href="/variants/s15/r160k2w1g36y9r4k1r4y9lb36k9r9y9r4lb3~x2/"><circle cx="361.6" cy="14.0" r="4" fill="#3465a4"><title>MacPherson, The Crubin Plaid</title></circle></a><a href="/variants/s16/r94k3w2g21w3y3r5k2r5y3w3n21k7r7y8w4~x2/"><circle cx="319.1" cy="14.0" r="4" fill="#3465a4"><title>MacKintosh 8</title></circle></a><a href="/variants/s15/r320k4w2g72ly18r8k2r8ly18lb72k18r3ly18r8lb14/"><circle cx="339.4" cy="14.0" r="4" fill="#3465a4"><title>Crubin Plaid (MacPherson)</title></circle></a><circle cx="340.0" cy="40.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/o63k4lb9y2db4y2db4o11r8lb2r4w5~x2/

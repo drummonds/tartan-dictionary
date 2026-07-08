@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/macarthur/"
 - name: "MacArthur"
   url: "/tartans/macarthur-2/"
+- name: "MacArthur (Variant)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3g30k12g6k16y2/)
 (the same proportion at any scale), whose colour order is pattern [GKGKGR](/stripes/gkgkgr/).
@@ -16,7 +18,7 @@ Part of the [MacArthur](/tartans/macarthur-2/) tartan — the named design group
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2279
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2279](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2279)
 
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -88,8 +90,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1g16k8g3k4y1/"><circle cx="289.1" cy="165.4" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1~x2/"><circle cx="289.1" cy="165.4" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r1g16k8g4k4y1~x2/"><circle cx="293.0" cy="168.6" r="4" fill="#3465a4"><title>Forbes #6</title></circle></a><a href="/variants/s5/k19g8k10g31r3/"><circle cx="268.4" cy="222.3" r="4" fill="#3465a4"><title>MacArthur-Fox</title></circle></a><a href="/variants/s6/dr3g30k12g1k16lo2~x2/"><circle cx="268.0" cy="141.8" r="4" fill="#3465a4"><title>MacArthur-Fox Htg (Personal)</title></circle></a><a href="/variants/s5/k32g6k12g30y3/"><circle cx="270.4" cy="218.6" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/variants/s5/k32g6k12g30y3~x2/"><circle cx="270.4" cy="218.6" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/variants/s5/k8g3k4g20dr4~x2/"><circle cx="278.7" cy="230.7" r="4" fill="#3465a4"><title>MacArthur-Fox (Personal)</title></circle></a><a href="/variants/s7/r3g14k2b2g14k36y3~x2/"><circle cx="243.8" cy="129.7" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s7/dy3k36g14b2k2g14r3~x2/"><circle cx="245.4" cy="130.0" r="4" fill="#3465a4"><title>Vipont (Yellow line)</title></circle></a><circle cx="253.9" cy="177.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1g16k8g3k4y1/"><circle cx="289.1" cy="165.9" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r1g16k8g3k4y1~x2/"><circle cx="289.1" cy="165.9" r="4" fill="#3465a4"><title>Forbes VS</title></circle></a><a href="/variants/s6/r1g16k8g4k4y1~x2/"><circle cx="293.0" cy="169.1" r="4" fill="#3465a4"><title>Forbes #6</title></circle></a><a href="/variants/s5/k19g8k10g31r3/"><circle cx="268.5" cy="223.0" r="4" fill="#3465a4"><title>MacArthur-Fox</title></circle></a><a href="/variants/s6/dr3g30k12g1k16lo2~x2/"><circle cx="268.0" cy="142.2" r="4" fill="#3465a4"><title>MacArthur-Fox Htg (Personal)</title></circle></a><a href="/variants/s5/k32g6k12g30y3/"><circle cx="270.5" cy="219.2" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/variants/s5/k32g6k12g30y3~x2/"><circle cx="270.5" cy="219.2" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/variants/s5/k8g3k4g20dr4~x2/"><circle cx="278.8" cy="231.4" r="4" fill="#3465a4"><title>MacArthur-Fox (Personal)</title></circle></a><a href="/variants/s7/r3g14k2b2g14k36y3~x2/"><circle cx="243.7" cy="130.0" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s7/dy3k36g14b2k2g14r3~x2/"><circle cx="245.3" cy="130.3" r="4" fill="#3465a4"><title>Vipont (Yellow line)</title></circle></a><circle cx="253.9" cy="177.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r3g30k12g6k16y2~x2/

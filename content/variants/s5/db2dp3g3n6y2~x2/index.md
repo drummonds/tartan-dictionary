@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dunoon Burgh Hall Trust"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2dp3g3n6y2/)
 (the same proportion at any scale), whose colour order is pattern [BBGBG](/stripes/bbgbg/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11629
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11629](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11629)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/dp3n1g2~x10/"><circle cx="274.9" cy="359.6" r="4" fill="#3465a4"><title>Coleman, Sarah-Louise (Personal)</title></circle></a><a href="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/"><circle cx="333.3" cy="258.5" r="4" fill="#3465a4"><title>Sterling, Rob (Florida) (Persona Name Tartan</title></circle></a><a href="/variants/s5/g11y10dp11t33w3~x2~dp1502305-t2105244/"><circle cx="321.5" cy="256.9" r="4" fill="#3465a4"><title>Sterling, Rob (Florida) (Personal)</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="201.7" cy="295.9" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s4/ly28dr24dg55dp19~x2/"><circle cx="188.4" cy="334.5" r="4" fill="#3465a4"><title>Hirstwood (Name)</title></circle></a><a href="/variants/s5/g27dp20r9db16b20~x2~db1003265-b2008266/"><circle cx="82.4" cy="326.5" r="4" fill="#3465a4"><title>Currens (2016)</title></circle></a><a href="/variants/s6/dg2y1b1r1dp1db1~x36/"><circle cx="53.5" cy="325.1" r="4" fill="#3465a4"><title>Rainbow</title></circle></a><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><circle cx="250.9" cy="305.1" r="4" fill="#3465a4"><title>Heriot Bay (District)</title></circle></a><a href="/variants/s6/r4t19g10n10dy15y2~x2/"><circle cx="187.4" cy="249.1" r="4" fill="#3465a4"><title>Isle of Rona (District)</title></circle></a><a href="/variants/s5/g15dg18dp23w4r8~x2/"><circle cx="125.3" cy="264.9" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><circle cx="208.1" cy="338.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/dp3n1g2~x10/"><circle cx="275.3" cy="360.4" r="4" fill="#3465a4"><title>Coleman, Sarah-Louise (Personal)</title></circle></a><a href="/variants/s5/g11y10dp11n33w3~x2~dp1502305-n2203265/"><circle cx="333.5" cy="258.8" r="4" fill="#3465a4"><title>Sterling, Rob (Florida) (Persona Name Tartan</title></circle></a><a href="/variants/s5/g11y10dp11t33w3~x2~dp1502305-t2105244/"><circle cx="321.7" cy="257.3" r="4" fill="#3465a4"><title>Sterling, Rob (Florida) (Personal)</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="201.9" cy="296.5" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s4/ly28dr24dg55dp19~x2/"><circle cx="188.7" cy="335.4" r="4" fill="#3465a4"><title>Hirstwood (Name)</title></circle></a><a href="/variants/s5/g27dp20r9db16b20~x2~db1003265-b2008266/"><circle cx="82.6" cy="327.3" r="4" fill="#3465a4"><title>Currens (2016)</title></circle></a><a href="/variants/s6/dg2y1b1r1dp1db1~x36/"><circle cx="53.7" cy="325.8" r="4" fill="#3465a4"><title>Rainbow</title></circle></a><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><circle cx="251.1" cy="305.7" r="4" fill="#3465a4"><title>Heriot Bay (District)</title></circle></a><a href="/variants/s6/r4t19g10n10dy15y2~x2/"><circle cx="187.5" cy="249.4" r="4" fill="#3465a4"><title>Isle of Rona (District)</title></circle></a><a href="/variants/s5/g15dg18dp23w4r8~x2/"><circle cx="125.4" cy="265.6" r="4" fill="#3465a4"><title>Friebe (2014)</title></circle></a><circle cx="208.4" cy="339.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db2dp3g3n6y2~x2/

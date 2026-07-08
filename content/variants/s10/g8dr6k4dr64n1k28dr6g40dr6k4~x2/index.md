@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Laporte"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g8dr6k4dr64n1k28dr6g40dr6k4/)
 (the same proportion at any scale), whose colour order is pattern [GBKBBKBGBK](/stripes/gbkbbkbgbk/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2050
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2050](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2050)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n52k10do16n1w2~x2/"><circle cx="328.1" cy="110.0" r="4" fill="#3465a4"><title>Wcwm 1163</title></circle></a><a href="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/"><circle cx="280.0" cy="74.7" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s10/db4dy30k2dy2k14ly2k2ly1k6ly3~x2/"><circle cx="287.4" cy="102.3" r="4" fill="#3465a4"><title>Hickory</title></circle></a><a href="/variants/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/"><circle cx="242.3" cy="107.6" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #2</title></circle></a><a href="/variants/s13/dt8k3y1k1y39k3r3y2dt11k8y2k3w2~x2/"><circle cx="269.6" cy="57.1" r="4" fill="#3465a4"><title>Afghanistan Memorial</title></circle></a><a href="/variants/s9/r1k1n30k6n1k6dy8k1r1~x2/"><circle cx="333.6" cy="97.9" r="4" fill="#3465a4"><title>Klappert Original (Odsherred, Denmark) (Personal)</title></circle></a><a href="/variants/s10/g20k1g2k1g3k14dr28k1dr2k4~x2/"><circle cx="252.7" cy="126.5" r="4" fill="#3465a4"><title>Kerr (Clan)</title></circle></a><a href="/variants/s11/k9o2k2n2o18n2k2r1k20n33r2~x2~o2500000-n1900000/"><circle cx="225.5" cy="97.4" r="4" fill="#3465a4"><title>Pride of Scotland Silver</title></circle></a><a href="/variants/s9/dr24lb1k3lb1g14dr8k3dp3lb2~x4/"><circle cx="284.8" cy="115.8" r="4" fill="#3465a4"><title>Leach (1995)</title></circle></a><a href="/variants/s11/dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1~x2~dgi1806142-g2408144/"><circle cx="291.5" cy="66.8" r="4" fill="#3465a4"><title>Undiscovered Scotland (Corporate)</title></circle></a><circle cx="304.0" cy="93.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n52k10do16n1w2~x2/"><circle cx="328.0" cy="110.1" r="4" fill="#3465a4"><title>Wcwm 1163</title></circle></a><a href="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/"><circle cx="279.9" cy="74.9" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s10/db4dy30k2dy2k14ly2k2ly1k6ly3~x2/"><circle cx="287.3" cy="102.5" r="4" fill="#3465a4"><title>Hickory</title></circle></a><a href="/variants/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/"><circle cx="242.2" cy="107.9" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #2</title></circle></a><a href="/variants/s13/dt8k3y1k1y39k3r3y2dt11k8y2k3w2~x2/"><circle cx="269.4" cy="57.2" r="4" fill="#3465a4"><title>Afghanistan Memorial</title></circle></a><a href="/variants/s9/r1k1n30k6n1k6dy8k1r1~x2/"><circle cx="333.5" cy="98.1" r="4" fill="#3465a4"><title>Klappert Original (Odsherred, Denmark) (Personal)</title></circle></a><a href="/variants/s10/g20k1g2k1g3k14dr28k1dr2k4~x2/"><circle cx="252.6" cy="126.8" r="4" fill="#3465a4"><title>Kerr (Clan)</title></circle></a><a href="/variants/s11/k9o2k2n2o18n2k2r1k20n33r2~x2~o2500000-n1900000/"><circle cx="225.4" cy="97.6" r="4" fill="#3465a4"><title>Pride of Scotland Silver</title></circle></a><a href="/variants/s9/dr24lb1k3lb1g14dr8k3dp3lb2~x4/"><circle cx="284.7" cy="116.0" r="4" fill="#3465a4"><title>Leach (1995)</title></circle></a><a href="/variants/s11/dg50dgi6dg3k6g1dgi6k5lb5k18lb3g1~x2~dgi1806142-g2408144/"><circle cx="291.3" cy="66.8" r="4" fill="#3465a4"><title>Undiscovered Scotland (Corporate)</title></circle></a><circle cx="303.9" cy="93.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g8dr6k4dr64n1k28dr6g40dr6k4~x2/

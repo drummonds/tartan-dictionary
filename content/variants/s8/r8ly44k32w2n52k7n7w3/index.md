@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Golden Wedding (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r8ly44k32w2n52k7n7w3/)
 (the same proportion at any scale), whose colour order is pattern [RYKWBKBW](/stripes/rykwbkbw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8955
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8955](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8955)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k3w1r16k1g21t9k6w1~x4/"><circle cx="152.6" cy="130.6" r="4" fill="#3465a4"><title>Ford &amp; Etal</title></circle></a><a href="/variants/s7/r64k30g30t18w4t2w3/"><circle cx="190.6" cy="113.7" r="4" fill="#3465a4"><title>Clyde (Personal)</title></circle></a><a href="/variants/s11/k9n2ly2k2w18ly2k2w1k19ly33dr2~x2/"><circle cx="185.2" cy="82.3" r="4" fill="#3465a4"><title>Pride of Scotland Gold</title></circle></a><a href="/variants/s7/lb31k18dg13r3dg13k1y3~x2/"><circle cx="164.0" cy="128.8" r="4" fill="#3465a4"><title>Big Sur MacLaren (Personal)</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="147.0" cy="148.2" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><a href="/variants/s8/k54lb6k6lb6n20lo40k6y3/"><circle cx="186.7" cy="121.0" r="4" fill="#3465a4"><title>Clyde Valley HOG</title></circle></a><a href="/variants/s9/k2w1dg25dy11r12w1ly12k1w2~x2~dy1503076-ly3307090/"><circle cx="152.8" cy="107.3" r="4" fill="#3465a4"><title>Leaf Peeper</title></circle></a><a href="/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/"><circle cx="176.5" cy="109.8" r="4" fill="#3465a4"><title>Varenne</title></circle></a><a href="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/"><circle cx="171.5" cy="118.8" r="4" fill="#3465a4"><title>Windsor</title></circle></a><a href="/variants/s7/w2k1g16k12r12k1w2~x2/"><circle cx="147.4" cy="156.2" r="4" fill="#3465a4"><title>Prince Edward Island #2</title></circle></a><circle cx="169.9" cy="122.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k3w1r16k1g21t9k6w1~x4/"><circle cx="152.6" cy="131.0" r="4" fill="#3465a4"><title>Ford &amp; Etal</title></circle></a><a href="/variants/s7/r64k30g30t18w4t2w3/"><circle cx="190.5" cy="114.0" r="4" fill="#3465a4"><title>Clyde (Personal)</title></circle></a><a href="/variants/s11/k9n2ly2k2w18ly2k2w1k19ly33dr2~x2/"><circle cx="185.1" cy="82.6" r="4" fill="#3465a4"><title>Pride of Scotland Gold</title></circle></a><a href="/variants/s7/lb31k18dg13r3dg13k1y3~x2/"><circle cx="164.0" cy="129.1" r="4" fill="#3465a4"><title>Big Sur MacLaren (Personal)</title></circle></a><a href="/variants/s8/g28db3g3k10r2k10r20y4~x2/"><circle cx="147.0" cy="148.6" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><a href="/variants/s8/k54lb6k6lb6n20lo40k6y3/"><circle cx="186.7" cy="121.3" r="4" fill="#3465a4"><title>Clyde Valley HOG</title></circle></a><a href="/variants/s9/k2w1dg25dy11r12w1ly12k1w2~x2~dy1503076-ly3307090/"><circle cx="152.7" cy="107.6" r="4" fill="#3465a4"><title>Leaf Peeper</title></circle></a><a href="/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/"><circle cx="176.4" cy="110.1" r="4" fill="#3465a4"><title>Varenne</title></circle></a><a href="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/"><circle cx="171.4" cy="119.0" r="4" fill="#3465a4"><title>Windsor</title></circle></a><a href="/variants/s7/w2k1g16k12r12k1w2~x2/"><circle cx="147.4" cy="156.6" r="4" fill="#3465a4"><title>Prince Edward Island #2</title></circle></a><circle cx="169.8" cy="122.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r8ly44k32w2n52k7n7w3/

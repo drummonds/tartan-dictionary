@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacLintock"
   url: "/tartans/maclintock/"
+- name: "MacLintock - 1880 (Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g36r3g3r3db9r3lb2r40db3r3db2r6/)
 (the same proportion at any scale), whose colour order is pattern [GRGRBRWRBRBR](/stripes/grgrbrwrbrbr/).
@@ -14,7 +16,7 @@ Part of the [MacLintock](/tartans/maclintock/) tartan — the named design group
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=881
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=881](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=881)
 
 ## Provenance
 
@@ -88,8 +90,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g38r3g3r3db9r3lb2r40db3r3db2r6~x2/"><circle cx="329.5" cy="122.9" r="4" fill="#3465a4"><title>MacLintock</title></circle></a><a href="/variants/s10/r6w1r24db6g2db1g2db1g12r1~x2/"><circle cx="346.5" cy="124.2" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/variants/s10/r6w1r24db6g2db1g2db1g12r1/"><circle cx="346.5" cy="124.2" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/variants/s7/r60db2g24r8db2lb3db2/"><circle cx="369.5" cy="107.1" r="4" fill="#3465a4"><title>Unidentified Cant #12</title></circle></a><a href="/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/"><circle cx="325.5" cy="146.9" r="4" fill="#3465a4"><title>Cruikshank (Name)</title></circle></a><a href="/variants/s10/r7w2r32db7g3db2g3db2g16r3~x2/"><circle cx="322.8" cy="142.9" r="4" fill="#3465a4"><title>Chisholm Hunting</title></circle></a><a href="/variants/s16/r3db2lb1r2g24r4g2r2db8r2g2r24db2lb1r2g2~x2/"><circle cx="306.6" cy="104.9" r="4" fill="#3465a4"><title>Stewart of Appin - 1906</title></circle></a><a href="/variants/s16/r3db2w1r2g24r4g2r2db8r2g2r24db2w1r2g2~x2/"><circle cx="301.7" cy="103.3" r="4" fill="#3465a4"><title>Stewart of Appin</title></circle></a><a href="/variants/s14/r4lb2r50db26r10g44b4r10b4g44r51db2r4lb2~x2/"><circle cx="298.2" cy="115.9" r="4" fill="#3465a4"><title>MacQuarrie 1</title></circle></a><a href="/variants/s16/r6db1r2db2r28lb2r2db9r2g2r2g24r3db2r6db2~x2/"><circle cx="336.3" cy="98.8" r="4" fill="#3465a4"><title>Drummond</title></circle></a><circle cx="332.4" cy="123.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g38r3g3r3db9r3lb2r40db3r3db2r6~x2/"><circle cx="329.4" cy="123.1" r="4" fill="#3465a4"><title>MacLintock</title></circle></a><a href="/variants/s10/r6w1r24db6g2db1g2db1g12r1~x2/"><circle cx="346.5" cy="124.5" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/variants/s10/r6w1r24db6g2db1g2db1g12r1/"><circle cx="346.5" cy="124.5" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/variants/s7/r60db2g24r8db2lb3db2/"><circle cx="369.5" cy="107.3" r="4" fill="#3465a4"><title>Unidentified Cant #12</title></circle></a><a href="/variants/s9/r4g15db8g4r48g4db8g4ly3~x2/"><circle cx="325.5" cy="147.2" r="4" fill="#3465a4"><title>Cruikshank (Name)</title></circle></a><a href="/variants/s10/r7w2r32db7g3db2g3db2g16r3~x2/"><circle cx="322.9" cy="143.3" r="4" fill="#3465a4"><title>Chisholm Hunting</title></circle></a><a href="/variants/s16/r3db2lb1r2g24r4g2r2db8r2g2r24db2lb1r2g2~x2/"><circle cx="306.6" cy="105.0" r="4" fill="#3465a4"><title>Stewart of Appin - 1906</title></circle></a><a href="/variants/s16/r3db2w1r2g24r4g2r2db8r2g2r24db2w1r2g2~x2/"><circle cx="301.6" cy="103.5" r="4" fill="#3465a4"><title>Stewart of Appin</title></circle></a><a href="/variants/s14/r4lb2r50db26r10g44b4r10b4g44r51db2r4lb2~x2/"><circle cx="298.2" cy="116.1" r="4" fill="#3465a4"><title>MacQuarrie 1</title></circle></a><a href="/variants/s16/r6db1r2db2r28lb2r2db9r2g2r2g24r3db2r6db2~x2/"><circle cx="336.3" cy="99.0" r="4" fill="#3465a4"><title>Drummond</title></circle></a><circle cx="332.3" cy="123.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/g36r3g3r3db9r3lb2r40db3r3db2r6~x2/

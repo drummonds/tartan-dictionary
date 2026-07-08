@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wolfe (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg4r4dg13r13dg4r36lo4/)
 (the same proportion at any scale), whose colour order is pattern [GRGRGRY](/stripes/grgrgry/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4096
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4096](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4096)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r16dg1r1dg1r4dg12~x2/"><circle cx="439.8" cy="202.1" r="4" fill="#3465a4"><title>MacQuarrie 7</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12~x4/"><circle cx="451.2" cy="210.5" r="4" fill="#3465a4"><title>MacQuarrie #5</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12/"><circle cx="451.2" cy="210.5" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12~x2/"><circle cx="451.2" cy="210.5" r="4" fill="#3465a4"><title>MacQuarie</title></circle></a><a href="/variants/s6/w11r40g13r5g12r5~x2/"><circle cx="334.7" cy="226.6" r="4" fill="#3465a4"><title>Makhtoum</title></circle></a><a href="/variants/s7/r58y3r6g16r12g16r6/"><circle cx="500.4" cy="179.9" r="4" fill="#3465a4"><title>Cameron Ancient</title></circle></a><a href="/variants/s6/r24g5r3g9r3db1~x4/"><circle cx="477.5" cy="177.3" r="4" fill="#3465a4"><title>MacKintosh, Red</title></circle></a><a href="/variants/s7/r6w2r30g12r3g12r3~x2/"><circle cx="412.7" cy="193.2" r="4" fill="#3465a4"><title>Crawford (Clan)</title></circle></a><a href="/variants/s7/r6w2r30g12r3g12r3/"><circle cx="412.7" cy="193.2" r="4" fill="#3465a4"><title>Crawford</title></circle></a><a href="/variants/s7/r6lb2r30g12r3g12r3~x2/"><circle cx="421.4" cy="196.0" r="4" fill="#3465a4"><title>Crawford</title></circle></a><circle cx="435.5" cy="204.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r16dg1r1dg1r4dg12~x2/"><circle cx="439.9" cy="202.6" r="4" fill="#3465a4"><title>MacQuarrie 7</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12~x4/"><circle cx="451.4" cy="211.0" r="4" fill="#3465a4"><title>MacQuarrie #5</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12/"><circle cx="451.4" cy="211.0" r="4" fill="#3465a4"><title>MacQuarrie</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12~x2/"><circle cx="451.4" cy="211.0" r="4" fill="#3465a4"><title>MacQuarie</title></circle></a><a href="/variants/s6/w11r40g13r5g12r5~x2/"><circle cx="334.9" cy="227.3" r="4" fill="#3465a4"><title>Makhtoum</title></circle></a><a href="/variants/s7/r58y3r6g16r12g16r6/"><circle cx="500.5" cy="180.3" r="4" fill="#3465a4"><title>Cameron Ancient</title></circle></a><a href="/variants/s6/r24g5r3g9r3db1~x4/"><circle cx="477.6" cy="177.7" r="4" fill="#3465a4"><title>MacKintosh, Red</title></circle></a><a href="/variants/s7/r6w2r30g12r3g12r3~x2/"><circle cx="412.8" cy="193.7" r="4" fill="#3465a4"><title>Crawford (Clan)</title></circle></a><a href="/variants/s7/r6w2r30g12r3g12r3/"><circle cx="412.8" cy="193.7" r="4" fill="#3465a4"><title>Crawford</title></circle></a><a href="/variants/s7/r6lb2r30g12r3g12r3~x2/"><circle cx="421.5" cy="196.5" r="4" fill="#3465a4"><title>Crawford</title></circle></a><circle cx="435.6" cy="205.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dg4r4dg13r13dg4r36lo4~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacByrd"
   url: "/tartans/macbyrd/"
+- name: "MacByrd (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y50k1dr12lb1g12dr14lb1dr2/)
 (the same proportion at any scale), whose colour order is pattern [BWBGWBKG](/stripes/bwbgwbkg/).
@@ -14,7 +16,7 @@ Part of the [MacByrd](/tartans/macbyrd/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5224
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5224](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5224)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/ly57k1r12w1g12r14w1r2~x2/"><circle cx="366.2" cy="81.6" r="4" fill="#3465a4"><title>MacBrair Hunting</title></circle></a><a href="/variants/s8/o50k1dr14lb1dg14dr14lb1dr2~x4/"><circle cx="376.6" cy="100.5" r="4" fill="#3465a4"><title>McBrayer Htg (Personal)</title></circle></a><a href="/variants/s8/g18lb3y1r2y1r3y1r10~x4/"><circle cx="327.9" cy="168.8" r="4" fill="#3465a4"><title>Brisbane (Artefact)</title></circle></a><a href="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/"><circle cx="384.7" cy="151.0" r="4" fill="#3465a4"><title>Abadia Da Cova (Corporate)</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/"><circle cx="301.9" cy="60.6" r="4" fill="#3465a4"><title>Baxter Clan Tartan</title></circle></a><a href="/variants/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="352.9" cy="132.5" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><a href="/variants/s9/g15y3g27r2g2r33t2w1t4~x2/"><circle cx="348.0" cy="128.6" r="4" fill="#3465a4"><title>Longmore (Name)</title></circle></a><a href="/variants/s8/y4r4k2r10g30y2g3r2~x2/"><circle cx="346.4" cy="152.3" r="4" fill="#3465a4"><title>Beard</title></circle></a><a href="/variants/s9/g8dg1g1dg42w2o40g2dg2o3~x2/"><circle cx="371.9" cy="124.3" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh -1746 (Clan)</title></circle></a><circle cx="388.9" cy="103.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/ly57k1r12w1g12r14w1r2~x2/"><circle cx="366.1" cy="81.7" r="4" fill="#3465a4"><title>MacBrair Hunting</title></circle></a><a href="/variants/s8/o50k1dr14lb1dg14dr14lb1dr2~x4/"><circle cx="376.5" cy="100.5" r="4" fill="#3465a4"><title>McBrayer Htg (Personal)</title></circle></a><a href="/variants/s8/g18lb3y1r2y1r3y1r10~x4/"><circle cx="327.9" cy="169.1" r="4" fill="#3465a4"><title>Brisbane (Artefact)</title></circle></a><a href="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/"><circle cx="384.6" cy="151.1" r="4" fill="#3465a4"><title>Abadia Da Cova (Corporate)</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y43k1lb2k1g16lb1~x2/"><circle cx="301.8" cy="60.6" r="4" fill="#3465a4"><title>Baxter Clan Tartan</title></circle></a><a href="/variants/s10/o6w1o24db6g2db1g2db1g12r1~x2/"><circle cx="352.9" cy="132.6" r="4" fill="#3465a4"><title>Chisholm hunting</title></circle></a><a href="/variants/s9/g15y3g27r2g2r33t2w1t4~x2/"><circle cx="348.0" cy="128.7" r="4" fill="#3465a4"><title>Longmore (Name)</title></circle></a><a href="/variants/s8/y4r4k2r10g30y2g3r2~x2/"><circle cx="346.4" cy="152.7" r="4" fill="#3465a4"><title>Beard</title></circle></a><a href="/variants/s9/g8dg1g1dg42w2o40g2dg2o3~x2/"><circle cx="371.9" cy="124.4" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh -1746 (Clan)</title></circle></a><circle cx="388.9" cy="103.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/y50k1dr12lb1g12dr14lb1dr2~x4/

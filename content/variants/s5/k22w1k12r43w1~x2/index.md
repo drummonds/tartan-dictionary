@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Knights Templar Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k22w1k12r43w1/)
 (the same proportion at any scale), whose colour order is pattern [KWKRWRKW](/stripes/kwkrwrkw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2010
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2010](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2010)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r28k4w2k13~x2/"><circle cx="287.4" cy="155.6" r="4" fill="#3465a4"><title>Dunbar Ancient</title></circle></a><a href="/variants/s5/r48k12n7k5w3~x2/"><circle cx="343.9" cy="142.1" r="4" fill="#3465a4"><title>Turner (Personal)</title></circle></a><a href="/variants/s5/r20k2r2k15w1~x2/"><circle cx="324.5" cy="154.3" r="4" fill="#3465a4"><title>Masai Shuka 15 (Artefact)</title></circle></a><a href="/variants/s5/r36k18r4k7w2~x2/"><circle cx="338.0" cy="160.6" r="4" fill="#3465a4"><title>Hopkins (Name)</title></circle></a><a href="/variants/s6/r42k2w2k18w2k5~x2/"><circle cx="343.8" cy="127.9" r="4" fill="#3465a4"><title>Forget Family (Red)</title></circle></a><a href="/variants/s5/r41k19r7k9w3~x2/"><circle cx="327.7" cy="176.2" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/variants/s5/k16r2k2r12w1~x2/"><circle cx="307.8" cy="168.0" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s6/k4w1k28r30dp1r3~x2/"><circle cx="304.7" cy="112.7" r="4" fill="#3465a4"><title>Ramsay (Red)</title></circle></a><a href="/variants/s6/k4w2k28r30b1r3~x2/"><circle cx="293.9" cy="114.4" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s6/k4w2k28r30db1r3~x2/"><circle cx="294.2" cy="114.4" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><circle cx="382.6" cy="108.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r28k4w2k13~x2/"><circle cx="287.4" cy="156.1" r="4" fill="#3465a4"><title>Dunbar Ancient</title></circle></a><a href="/variants/s5/r48k12n7k5w3~x2/"><circle cx="343.9" cy="142.6" r="4" fill="#3465a4"><title>Turner (Personal)</title></circle></a><a href="/variants/s5/r20k2r2k15w1~x2/"><circle cx="324.5" cy="154.9" r="4" fill="#3465a4"><title>Masai Shuka 15 (Artefact)</title></circle></a><a href="/variants/s5/r36k18r4k7w2~x2/"><circle cx="338.0" cy="161.1" r="4" fill="#3465a4"><title>Hopkins (Name)</title></circle></a><a href="/variants/s6/r42k2w2k18w2k5~x2/"><circle cx="343.7" cy="128.4" r="4" fill="#3465a4"><title>Forget Family (Red)</title></circle></a><a href="/variants/s5/r41k19r7k9w3~x2/"><circle cx="327.7" cy="176.8" r="4" fill="#3465a4"><title>MacGregor, Black (Personal)</title></circle></a><a href="/variants/s5/k16r2k2r12w1~x2/"><circle cx="307.8" cy="168.6" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s6/k4w1k28r30dp1r3~x2/"><circle cx="304.6" cy="113.0" r="4" fill="#3465a4"><title>Ramsay (Red)</title></circle></a><a href="/variants/s6/k4w2k28r30b1r3~x2/"><circle cx="293.8" cy="114.8" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s6/k4w2k28r30db1r3~x2/"><circle cx="294.1" cy="114.8" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><circle cx="382.6" cy="108.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k22w1k12r43w1~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Binder Wedding (Personal) Name Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1db5w2k30db30k1db1k1/)
 (the same proportion at any scale), whose colour order is pattern [KBKBKWBK](/stripes/kbkbkwbk/).
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10728
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10728](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10728)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k8y1k1db28k12g2k1lb2~x2/"><circle cx="301.4" cy="103.9" r="4" fill="#3465a4"><title>Hope-Weir/Weir</title></circle></a><a href="/variants/s8/y1db1k1db30k30w2db5ly1~x2~y2505139-ly3708101/"><circle cx="310.9" cy="95.3" r="4" fill="#3465a4"><title>Binder Wedding (Personal)</title></circle></a><a href="/variants/s9/w3db2y1db2y1db31k28r2k2~x2/"><circle cx="281.9" cy="80.5" r="4" fill="#3465a4"><title>Hill (Name)</title></circle></a><a href="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/"><circle cx="276.5" cy="83.4" r="4" fill="#3465a4"><title>Hill</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><circle cx="266.3" cy="114.7" r="4" fill="#3465a4"><title>Fuller of Hopewell (Personal)</title></circle></a><a href="/variants/s8/k28r1k2r1k8db24g2db3~x2/"><circle cx="349.5" cy="122.1" r="4" fill="#3465a4"><title>Home or Hume (Vestiarium Scoticum)</title></circle></a><a href="/variants/s8/k3r1k30w1db28r1db1w3~x2/"><circle cx="294.5" cy="99.5" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/"><circle cx="270.0" cy="86.5" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/variants/s9/db18w2db2r3db21k28dy1k1g2~x2/"><circle cx="275.0" cy="91.1" r="4" fill="#3465a4"><title>St Andrew's College</title></circle></a><a href="/variants/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="250.5" cy="118.4" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><circle cx="316.8" cy="94.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k8y1k1db28k12g2k1lb2~x2/"><circle cx="301.2" cy="103.9" r="4" fill="#3465a4"><title>Hope-Weir/Weir</title></circle></a><a href="/variants/s8/y1db1k1db30k30w2db5ly1~x2~y2505139-ly3708101/"><circle cx="310.8" cy="95.4" r="4" fill="#3465a4"><title>Binder Wedding (Personal)</title></circle></a><a href="/variants/s9/w3db2y1db2y1db31k28r2k2~x2/"><circle cx="281.7" cy="80.5" r="4" fill="#3465a4"><title>Hill (Name)</title></circle></a><a href="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/"><circle cx="276.4" cy="83.5" r="4" fill="#3465a4"><title>Hill</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><circle cx="266.2" cy="114.9" r="4" fill="#3465a4"><title>Fuller of Hopewell (Personal)</title></circle></a><a href="/variants/s8/k28r1k2r1k8db24g2db3~x2/"><circle cx="349.4" cy="122.3" r="4" fill="#3465a4"><title>Home or Hume (Vestiarium Scoticum)</title></circle></a><a href="/variants/s8/k3r1k30w1db28r1db1w3~x2/"><circle cx="294.4" cy="99.7" r="4" fill="#3465a4"><title>Dunlop</title></circle></a><a href="/variants/s9/w3db1k14db2k1g6k1db30ly3~x2/"><circle cx="269.8" cy="86.6" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/variants/s9/db18w2db2r3db21k28dy1k1g2~x2/"><circle cx="274.8" cy="91.2" r="4" fill="#3465a4"><title>St Andrew's College</title></circle></a><a href="/variants/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="250.4" cy="118.5" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><circle cx="316.6" cy="94.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k1db5w2k30db30k1db1k1~x2/

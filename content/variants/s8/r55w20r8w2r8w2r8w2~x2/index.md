@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Masai Shuka 08 (Artefact)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r55w20r8w2r8w2r8w2/)
 (the same proportion at any scale), whose colour order is pattern [RWRWRWRW](/stripes/rwrwrwrw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7199
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7199](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7199)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r36w4r3w4r6w2r1w12~x4/"><circle cx="490.9" cy="139.3" r="4" fill="#3465a4"><title>Menzies (1815)</title></circle></a><a href="/variants/s8/r36w4r3w4r6w2r1w12/"><circle cx="490.9" cy="139.3" r="4" fill="#3465a4"><title>Menzies Dress</title></circle></a><a href="/variants/s8/r36w4r3w4r6w2r1w12~x2/"><circle cx="490.9" cy="139.3" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/w60r15w3r3w3r3w5r15~x2/"><circle cx="462.4" cy="163.8" r="4" fill="#3465a4"><title>Walk the Walk (Corporate)</title></circle></a><a href="/variants/s8/y4k1r30k15r24k2r4k1~x4/"><circle cx="426.6" cy="114.9" r="4" fill="#3465a4"><title>Oilmens (Corporate)</title></circle></a><a href="/variants/s8/r20k1ly3k1r60k30r48k4~x2/"><circle cx="479.8" cy="96.0" r="4" fill="#3465a4"><title>Barkwell (Personal)</title></circle></a><a href="/variants/s12/r40k1r3k1w3k4w3k1r3k1r40k4~x2/"><circle cx="539.8" cy="57.6" r="4" fill="#3465a4"><title>Salt Lake County</title></circle></a><a href="/variants/s10/r4w8r3w2r3w2r21g2r2g4~x2/"><circle cx="377.9" cy="169.7" r="4" fill="#3465a4"><title>Queen Alexandra</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2~r2310029/"><circle cx="448.2" cy="92.5" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2/"><circle cx="453.5" cy="94.6" r="4" fill="#3465a4"><title>Virgin (Corporate)</title></circle></a><circle cx="537.7" cy="148.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r36w4r3w4r6w2r1w12~x4/"><circle cx="491.0" cy="139.7" r="4" fill="#3465a4"><title>Menzies (1815)</title></circle></a><a href="/variants/s8/r36w4r3w4r6w2r1w12/"><circle cx="491.0" cy="139.7" r="4" fill="#3465a4"><title>Menzies Dress</title></circle></a><a href="/variants/s8/r36w4r3w4r6w2r1w12~x2/"><circle cx="491.0" cy="139.7" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/w60r15w3r3w3r3w5r15~x2/"><circle cx="462.5" cy="164.4" r="4" fill="#3465a4"><title>Walk the Walk (Corporate)</title></circle></a><a href="/variants/s8/y4k1r30k15r24k2r4k1~x4/"><circle cx="426.5" cy="115.3" r="4" fill="#3465a4"><title>Oilmens (Corporate)</title></circle></a><a href="/variants/s8/r20k1ly3k1r60k30r48k4~x2/"><circle cx="479.7" cy="96.3" r="4" fill="#3465a4"><title>Barkwell (Personal)</title></circle></a><a href="/variants/s12/r40k1r3k1w3k4w3k1r3k1r40k4~x2/"><circle cx="539.7" cy="57.9" r="4" fill="#3465a4"><title>Salt Lake County</title></circle></a><a href="/variants/s10/r4w8r3w2r3w2r21g2r2g4~x2/"><circle cx="378.0" cy="170.3" r="4" fill="#3465a4"><title>Queen Alexandra</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2~r2310029/"><circle cx="448.1" cy="92.9" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/variants/s8/r51n2r6k10r2k4n3k3~x2/"><circle cx="453.5" cy="95.0" r="4" fill="#3465a4"><title>Virgin (Corporate)</title></circle></a><circle cx="537.8" cy="148.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r55w20r8w2r8w2r8w2~x2/

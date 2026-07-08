@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Long Way Down, The (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o55g6yi3lb3yi3lb3yi10y5yi5lr2yi3/)
 (the same proportion at any scale), whose colour order is pattern [GYGGGWGWGGR](/stripes/gygggwgwggr/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7481
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7481](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7481)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>

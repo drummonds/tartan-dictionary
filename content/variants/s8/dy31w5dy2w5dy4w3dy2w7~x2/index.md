@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Menzies Brown & White"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy31w5dy2w5dy4w3dy2w7/)
 (the same proportion at any scale), whose colour order is pattern [GWGWGWGW](/stripes/gwgwgwgw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2926
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2926](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2926)
 
 ## Provenance
 
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w16dy2w2dy2w2dy32g3dy32w16dy2w2~x2/"><circle cx="375.0" cy="161.2" r="4" fill="#3465a4"><title>MacLachlan, Brown Dress (Fashion)</title></circle></a><a href="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/"><circle cx="404.1" cy="145.8" r="4" fill="#3465a4"><title>St. Patrick (Fashion)</title></circle></a><a href="/variants/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/"><circle cx="451.5" cy="186.9" r="4" fill="#3465a4"><title>Yellow Pencil (Corporate)</title></circle></a><a href="/variants/s7/dg10ly1dg1ly1lr2dg1ly1~x4/"><circle cx="437.2" cy="200.1" r="4" fill="#3465a4"><title>Green Watch</title></circle></a><circle cx="433.9" cy="188.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w16dy2w2dy2w2dy32g3dy32w16dy2w2~x2/"><circle cx="375.0" cy="161.6" r="4" fill="#3465a4"><title>MacLachlan, Brown Dress (Fashion)</title></circle></a><a href="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/"><circle cx="404.1" cy="146.2" r="4" fill="#3465a4"><title>St. Patrick (Fashion)</title></circle></a><a href="/variants/s8/dy48lo9dy6lo9dy12lo4dy2lo16~x2/"><circle cx="451.6" cy="187.4" r="4" fill="#3465a4"><title>Yellow Pencil (Corporate)</title></circle></a><a href="/variants/s7/dg10ly1dg1ly1lr2dg1ly1~x4/"><circle cx="437.3" cy="200.6" r="4" fill="#3465a4"><title>Green Watch</title></circle></a><circle cx="434.0" cy="189.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dy31w5dy2w5dy4w3dy2w7~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Portosalvo"
   url: "/tartans/portosalvo/"
+- name: "Portosalvo"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g5w1g32db1g8db9g2w2r3db3w1/)
 (the same proportion at any scale), whose colour order is pattern [GWGBGBGWRBW](/stripes/gwgbgbgwrbw/).
@@ -14,7 +16,7 @@ Part of the [Portosalvo](/tartans/portosalvo/) tartan — the named design group
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10328
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10328](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10328)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g5w1g32b1g8b9g2w2r3b3w1~x2/"><circle cx="476.5" cy="130.2" r="4" fill="#3465a4"><title>Portosalvo (Corporate)</title></circle></a><a href="/variants/s8/g78db13ly6r3ly5g6db9ly6~x2/"><circle cx="436.8" cy="140.4" r="4" fill="#3465a4"><title>Walterstrm (2014))</title></circle></a><a href="/variants/s9/r4g3dp3g44dp16g10w2g2dp2~x2/"><circle cx="432.5" cy="138.9" r="4" fill="#3465a4"><title>Glenfeshie (Personal)</title></circle></a><a href="/variants/s9/db17r3g55db3g4db3g4y3w5~x2/"><circle cx="381.0" cy="127.3" r="4" fill="#3465a4"><title>Bundanoon</title></circle></a><a href="/variants/s9/db17r3g55db3g4db3g4dy3w5~x2/"><circle cx="378.4" cy="126.3" r="4" fill="#3465a4"><title>Bundanoon</title></circle></a><a href="/variants/s8/g44db11g5t3g4db8g4w1~x2~db0705267-t2405244/"><circle cx="483.7" cy="135.6" r="4" fill="#3465a4"><title>Hastings-Stephenson (Personal)</title></circle></a><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="407.6" cy="162.0" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><a href="/variants/s10/g3dbi1g2r1g3db3g2db2g18dbi2~x2~dbi1404245-db1003246/"><circle cx="499.2" cy="159.8" r="4" fill="#3465a4"><title>Owen Welsh Name Tartan</title></circle></a><a href="/variants/s8/g40db2w2db2y2db23g32r2~x2/"><circle cx="412.3" cy="151.8" r="4" fill="#3465a4"><title>Marshall, Fields</title></circle></a><a href="/variants/s6/r4dp12g2dp2g46w1~x2/"><circle cx="495.9" cy="127.7" r="4" fill="#3465a4"><title>Kinfauns Castle (Corporate)</title></circle></a><circle cx="443.4" cy="118.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g5w1g32b1g8b9g2w2r3b3w1~x2/"><circle cx="476.4" cy="130.3" r="4" fill="#3465a4"><title>Portosalvo (Corporate)</title></circle></a><a href="/variants/s8/g78db13ly6r3ly5g6db9ly6~x2/"><circle cx="436.8" cy="140.6" r="4" fill="#3465a4"><title>Walterstrm (2014))</title></circle></a><a href="/variants/s9/r4g3dp3g44dp16g10w2g2dp2~x2/"><circle cx="432.5" cy="139.1" r="4" fill="#3465a4"><title>Glenfeshie (Personal)</title></circle></a><a href="/variants/s9/db17r3g55db3g4db3g4y3w5~x2/"><circle cx="381.0" cy="127.5" r="4" fill="#3465a4"><title>Bundanoon</title></circle></a><a href="/variants/s9/db17r3g55db3g4db3g4dy3w5~x2/"><circle cx="378.4" cy="126.5" r="4" fill="#3465a4"><title>Bundanoon</title></circle></a><a href="/variants/s8/g44db11g5t3g4db8g4w1~x2~db0705267-t2405244/"><circle cx="483.7" cy="135.8" r="4" fill="#3465a4"><title>Hastings-Stephenson (Personal)</title></circle></a><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="407.6" cy="162.4" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><a href="/variants/s10/g3dbi1g2r1g3db3g2db2g18dbi2~x2~dbi1404245-db1003246/"><circle cx="499.2" cy="160.0" r="4" fill="#3465a4"><title>Owen Welsh Name Tartan</title></circle></a><a href="/variants/s8/g40db2w2db2y2db23g32r2~x2/"><circle cx="412.3" cy="152.0" r="4" fill="#3465a4"><title>Marshall, Fields</title></circle></a><a href="/variants/s6/r4dp12g2dp2g46w1~x2/"><circle cx="495.9" cy="127.9" r="4" fill="#3465a4"><title>Kinfauns Castle (Corporate)</title></circle></a><circle cx="443.4" cy="118.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/g5w1g32db1g8db9g2w2r3db3w1~x2/

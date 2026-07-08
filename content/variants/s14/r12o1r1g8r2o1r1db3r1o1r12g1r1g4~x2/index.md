@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacColl"
   url: "/tartans/maccoll/"
+- name: "MacColl"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r12o1r1g8r2o1r1db3r1o1r12g1r1g4/)
 (the same proportion at any scale), whose colour order is pattern [GRGRRRBRRRGRRR](/stripes/grgrrrbrrrgrrr/).
@@ -14,7 +16,7 @@ Part of the [MacColl](/tartans/maccoll/) tartan — the named design grouping th
 
 Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r12dy1r1g8r2dy1r1db3r1dy1r12g1r1g4~x2/"><circle cx="365.9" cy="148.7" r="4" fill="#3465a4"><title>MacColl #3</title></circle></a><a href="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/"><circle cx="376.8" cy="159.6" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/"><circle cx="376.8" cy="159.6" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/"><circle cx="341.3" cy="164.0" r="4" fill="#3465a4"><title>London Caledonian Games Association</title></circle></a><a href="/variants/s14/r12g1r1dy8r2dy1r1db3r1dy1r12g1r1g4~x2/"><circle cx="366.3" cy="148.0" r="4" fill="#3465a4"><title>MacColl #2</title></circle></a><a href="/variants/s14/r12g1r1o8r2o1r1db3r1o1r12g1r1g4~x2/"><circle cx="413.6" cy="163.2" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/variants/s14/r45dp4r4g48r4dp4r4dp15r4dp4r40g4r4g30/"><circle cx="321.2" cy="168.5" r="4" fill="#3465a4"><title>Bruce Old Clan Tartan</title></circle></a><a href="/variants/s17/r13w1lb2r2g14r2w1lb2r2db4r2lb2w1r16g1r2g3~x2/"><circle cx="298.6" cy="111.7" r="4" fill="#3465a4"><title>MacDonald of Lochmaddy</title></circle></a><a href="/variants/s17/r13w1lt2r2g14r2w1lt2r2db4r2lt2w1r16g1r2g3~x2/"><circle cx="294.8" cy="111.4" r="4" fill="#3465a4"><title>MacDonald of Lochmaddy</title></circle></a><a href="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/"><circle cx="427.8" cy="132.8" r="4" fill="#3465a4"><title>MacGillivray #3</title></circle></a><circle cx="375.0" cy="150.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r12dy1r1g8r2dy1r1db3r1dy1r12g1r1g4~x2/"><circle cx="365.9" cy="149.0" r="4" fill="#3465a4"><title>MacColl #3</title></circle></a><a href="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/"><circle cx="376.9" cy="160.0" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/"><circle cx="376.9" cy="160.0" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/variants/s13/r9dp2r21y2r2dp8r2g2r2g17r2dp2r8~x2/"><circle cx="341.4" cy="164.4" r="4" fill="#3465a4"><title>London Caledonian Games Association</title></circle></a><a href="/variants/s14/r12g1r1dy8r2dy1r1db3r1dy1r12g1r1g4~x2/"><circle cx="366.4" cy="148.3" r="4" fill="#3465a4"><title>MacColl #2</title></circle></a><a href="/variants/s14/r12g1r1o8r2o1r1db3r1o1r12g1r1g4~x2/"><circle cx="413.7" cy="163.5" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/variants/s14/r45dp4r4g48r4dp4r4dp15r4dp4r40g4r4g30/"><circle cx="321.2" cy="168.9" r="4" fill="#3465a4"><title>Bruce Old Clan Tartan</title></circle></a><a href="/variants/s17/r13w1lb2r2g14r2w1lb2r2db4r2lb2w1r16g1r2g3~x2/"><circle cx="298.6" cy="111.9" r="4" fill="#3465a4"><title>MacDonald of Lochmaddy</title></circle></a><a href="/variants/s17/r13w1lt2r2g14r2w1lt2r2db4r2lt2w1r16g1r2g3~x2/"><circle cx="294.8" cy="111.7" r="4" fill="#3465a4"><title>MacDonald of Lochmaddy</title></circle></a><a href="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/"><circle cx="427.8" cy="133.1" r="4" fill="#3465a4"><title>MacGillivray #3</title></circle></a><circle cx="375.1" cy="150.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/r12o1r1g8r2o1r1db3r1o1r12g1r1g4~x2/

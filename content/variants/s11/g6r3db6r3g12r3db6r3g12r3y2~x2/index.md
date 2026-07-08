@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Hall"
   url: "/tartans/hall/"
+- name: "Hall (1994)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6r3db6r3g12r3db6r3g12r3y2/)
 (the same proportion at any scale), whose colour order is pattern [GRBRGRBRGRG](/stripes/grbrgrbrgrg/).
@@ -14,7 +16,7 @@ Part of the [Hall](/tartans/hall/) tartan — the named design grouping this set
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1572
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1572](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1572)
 
 ## Provenance
 
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g4r2db4r2g8r2db4r2g8r2y1~x3/"><circle cx="248.1" cy="220.4" r="4" fill="#3465a4"><title>Hall</title></circle></a><a href="/variants/s11/db1r2g12r10db12r2g12r10g12r2db1~x4/"><circle cx="269.9" cy="210.6" r="4" fill="#3465a4"><title>Glasgow (Error)</title></circle></a><a href="/variants/s7/db6r15g41r15db20g41lb6/"><circle cx="280.0" cy="241.8" r="4" fill="#3465a4"><title>Bean Hunting</title></circle></a><a href="/variants/s8/r5dt12g3db4g20dt3g3r5~x4/"><circle cx="247.5" cy="227.7" r="4" fill="#3465a4"><title>Daks (0600150)</title></circle></a><a href="/variants/s7/db2g4y1db1r2g4r2~x12/"><circle cx="218.8" cy="282.2" r="4" fill="#3465a4"><title>Creek Indian Nation (District)</title></circle></a><a href="/variants/s7/r5g20r5g20db24g6y4/"><circle cx="273.7" cy="248.9" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan</title></circle></a><a href="/variants/s11/r3o18g10o2db10o2db10o2g10o18w3~x2/"><circle cx="227.2" cy="195.3" r="4" fill="#3465a4"><title>Fraser hunting</title></circle></a><a href="/variants/s7/db6r3g2r3g12r3g2~x2/"><circle cx="279.1" cy="250.1" r="4" fill="#3465a4"><title>Skene Clan Tartan</title></circle></a><a href="/variants/s8/dg13ly2dg2ly2dg4o10g2o2~x4/"><circle cx="285.3" cy="222.9" r="4" fill="#3465a4"><title>Oakwood</title></circle></a><a href="/variants/s11/r4do15g11do3lb11do3lb11do3g11do15t4~x2/"><circle cx="153.4" cy="234.1" r="4" fill="#3465a4"><title>Fraser Hunting Dress</title></circle></a><circle cx="235.7" cy="232.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g4r2db4r2g8r2db4r2g8r2y1~x3/"><circle cx="248.2" cy="221.0" r="4" fill="#3465a4"><title>Hall</title></circle></a><a href="/variants/s11/db1r2g12r10db12r2g12r10g12r2db1~x4/"><circle cx="270.0" cy="211.2" r="4" fill="#3465a4"><title>Glasgow (Error)</title></circle></a><a href="/variants/s7/db6r15g41r15db20g41lb6/"><circle cx="280.1" cy="242.4" r="4" fill="#3465a4"><title>Bean Hunting</title></circle></a><a href="/variants/s8/r5dt12g3db4g20dt3g3r5~x4/"><circle cx="247.6" cy="228.2" r="4" fill="#3465a4"><title>Daks (0600150)</title></circle></a><a href="/variants/s7/db2g4y1db1r2g4r2~x12/"><circle cx="219.0" cy="282.9" r="4" fill="#3465a4"><title>Creek Indian Nation (District)</title></circle></a><a href="/variants/s7/r5g20r5g20db24g6y4/"><circle cx="273.8" cy="249.5" r="4" fill="#3465a4"><title>Cameron of Lochiel (Hunting) Clan/Family Tartan</title></circle></a><a href="/variants/s11/r3o18g10o2db10o2db10o2g10o18w3~x2/"><circle cx="227.2" cy="195.7" r="4" fill="#3465a4"><title>Fraser hunting</title></circle></a><a href="/variants/s7/db6r3g2r3g12r3g2~x2/"><circle cx="279.3" cy="250.8" r="4" fill="#3465a4"><title>Skene Clan Tartan</title></circle></a><a href="/variants/s8/dg13ly2dg2ly2dg4o10g2o2~x4/"><circle cx="285.4" cy="223.4" r="4" fill="#3465a4"><title>Oakwood</title></circle></a><a href="/variants/s11/r4do15g11do3lb11do3lb11do3g11do15t4~x2/"><circle cx="153.5" cy="234.7" r="4" fill="#3465a4"><title>Fraser Hunting Dress</title></circle></a><circle cx="235.8" cy="233.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/g6r3db6r3g12r3db6r3g12r3y2~x2/

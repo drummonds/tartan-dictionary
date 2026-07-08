@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Burrell (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr29n1dr2n1dr60ly2dr2db10dg2g1dg2db10dr2ly2/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBYBBGGGBBY](/stripes/bbbbbybbgggbby/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=452
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=452](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=452)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>

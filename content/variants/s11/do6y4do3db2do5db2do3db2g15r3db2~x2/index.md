@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Limerick"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do6y4do3db2do5db2do3db2g15r3db2/)
 (the same proportion at any scale), whose colour order is pattern [BGBBBBBBGRB](/stripes/bgbbbbbbgrb/).
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/do6ly4do3db2do5db2do3db2g14dr3db2~x2/"><circle cx="193.4" cy="220.2" r="4" fill="#3465a4"><title>Limerick, County</title></circle></a><a href="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/"><circle cx="196.4" cy="231.2" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/variants/s13/db12dy2y2dy2db2dy10g12dy3g12dy10db11r2y2~x2/"><circle cx="170.9" cy="220.3" r="4" fill="#3465a4"><title>MacVicar, McVicar, McVicker</title></circle></a><a href="/variants/s13/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2~x2/"><circle cx="174.2" cy="221.1" r="4" fill="#3465a4"><title>MacVicker (Name)</title></circle></a><a href="/variants/s9/g4r1db2r1g10dy5r3dy10y1~x4/"><circle cx="235.2" cy="200.2" r="4" fill="#3465a4"><title>Moncton, City of</title></circle></a><a href="/variants/s11/dr6db3o3dr24db20g24o3g3o3g3o6/"><circle cx="193.0" cy="203.0" r="4" fill="#3465a4"><title>Bonnie Brae School</title></circle></a><a href="/variants/s8/dr21r3dr3r3dr3db19g22b3~x2/"><circle cx="189.7" cy="207.6" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/variants/s12/lo5t2o14do9dg8t3o3t3o3t3dg19lr3~x2/"><circle cx="167.8" cy="179.7" r="4" fill="#3465a4"><title>Meath Irish County Tartan</title></circle></a><a href="/variants/s11/r6db3y3o32db24g32y3g3y3g3y6/"><circle cx="205.1" cy="177.7" r="4" fill="#3465a4"><title>Bonnie Brae Corporate Tartan</title></circle></a><a href="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/"><circle cx="146.6" cy="231.6" r="4" fill="#3465a4"><title>Roscommon, County</title></circle></a><circle cx="193.4" cy="204.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/do6ly4do3db2do5db2do3db2g14dr3db2~x2/"><circle cx="193.4" cy="220.6" r="4" fill="#3465a4"><title>Limerick, County</title></circle></a><a href="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/"><circle cx="196.5" cy="231.6" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/variants/s13/db12dy2y2dy2db2dy10g12dy3g12dy10db11r2y2~x2/"><circle cx="171.0" cy="220.6" r="4" fill="#3465a4"><title>MacVicar, McVicar, McVicker</title></circle></a><a href="/variants/s13/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2~x2/"><circle cx="174.3" cy="221.4" r="4" fill="#3465a4"><title>MacVicker (Name)</title></circle></a><a href="/variants/s9/g4r1db2r1g10dy5r3dy10y1~x4/"><circle cx="235.2" cy="200.6" r="4" fill="#3465a4"><title>Moncton, City of</title></circle></a><a href="/variants/s11/dr6db3o3dr24db20g24o3g3o3g3o6/"><circle cx="193.1" cy="203.3" r="4" fill="#3465a4"><title>Bonnie Brae School</title></circle></a><a href="/variants/s8/dr21r3dr3r3dr3db19g22b3~x2/"><circle cx="189.7" cy="208.0" r="4" fill="#3465a4"><title>Akins</title></circle></a><a href="/variants/s12/lo5t2o14do9dg8t3o3t3o3t3dg19lr3~x2/"><circle cx="167.8" cy="180.0" r="4" fill="#3465a4"><title>Meath Irish County Tartan</title></circle></a><a href="/variants/s11/r6db3y3o32db24g32y3g3y3g3y6/"><circle cx="205.1" cy="178.0" r="4" fill="#3465a4"><title>Bonnie Brae Corporate Tartan</title></circle></a><a href="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/"><circle cx="146.7" cy="232.1" r="4" fill="#3465a4"><title>Roscommon, County</title></circle></a><circle cx="193.4" cy="204.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/do6y4do3db2do5db2do3db2g15r3db2~x2/

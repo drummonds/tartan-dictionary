@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "GOLF (Wonderland Publications) Corporate Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k10dp3k6g1k6g1k6g2k6/)
 (the same proportion at any scale), whose colour order is pattern [KBKGKGKGK](/stripes/kbkgkgkgk/).
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10698
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10698](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10698)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/"><circle cx="456.0" cy="160.6" r="4" fill="#3465a4"><title>Renwick</title></circle></a><a href="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/"><circle cx="472.0" cy="104.9" r="4" fill="#3465a4"><title>St. Mirren Football Club</title></circle></a><a href="/variants/s10/k18lb9k18lr2k2lr2k18ly9k18lr2/"><circle cx="343.0" cy="174.0" r="4" fill="#3465a4"><title>London Fog Black 2 (fashion)</title></circle></a><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><circle cx="421.0" cy="242.5" r="4" fill="#3465a4"><title>Taiheiyo Club, Inc.</title></circle></a><a href="/variants/s7/k40dg15k10o2k10lo2k10~x2/"><circle cx="474.1" cy="152.5" r="4" fill="#3465a4"><title>Langhein, Alex (Personal)</title></circle></a><a href="/variants/s7/k40dg15k10r2k10y2k10~x2/"><circle cx="489.5" cy="157.2" r="4" fill="#3465a4"><title>Langhein Family Tartan</title></circle></a><a href="/variants/s8/k40dg15k10o2k10lo2k10lo2~x2/"><circle cx="444.0" cy="136.3" r="4" fill="#3465a4"><title>Langhein, Alex (Personal)</title></circle></a><a href="/variants/s7/k14dp2k4lb3k12dp8k1~x2/"><circle cx="379.7" cy="184.6" r="4" fill="#3465a4"><title>Punky Princess</title></circle></a><a href="/variants/s9/g12k8n6k22n3k8n3k40g6/"><circle cx="384.1" cy="165.0" r="4" fill="#3465a4"><title>Jensen, Sven (Personal)</title></circle></a><a href="/variants/s8/k45dy4k4dy9k4dy4k45r4~x2/"><circle cx="543.9" cy="173.7" r="4" fill="#3465a4"><title>Gwynn</title></circle></a><circle cx="459.2" cy="205.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3g2k20r2k12g2k4g2k6g2~x2/"><circle cx="456.0" cy="161.0" r="4" fill="#3465a4"><title>Renwick</title></circle></a><a href="/variants/s9/k7w2k21r2k34w5k3w2k7~x2/"><circle cx="471.9" cy="105.2" r="4" fill="#3465a4"><title>St. Mirren Football Club</title></circle></a><a href="/variants/s10/k18lb9k18lr2k2lr2k18ly9k18lr2/"><circle cx="343.0" cy="174.5" r="4" fill="#3465a4"><title>London Fog Black 2 (fashion)</title></circle></a><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><circle cx="421.1" cy="243.0" r="4" fill="#3465a4"><title>Taiheiyo Club, Inc.</title></circle></a><a href="/variants/s7/k40dg15k10o2k10lo2k10~x2/"><circle cx="474.0" cy="152.8" r="4" fill="#3465a4"><title>Langhein, Alex (Personal)</title></circle></a><a href="/variants/s7/k40dg15k10r2k10y2k10~x2/"><circle cx="489.4" cy="157.4" r="4" fill="#3465a4"><title>Langhein Family Tartan</title></circle></a><a href="/variants/s8/k40dg15k10o2k10lo2k10lo2~x2/"><circle cx="443.9" cy="136.6" r="4" fill="#3465a4"><title>Langhein, Alex (Personal)</title></circle></a><a href="/variants/s7/k14dp2k4lb3k12dp8k1~x2/"><circle cx="379.7" cy="185.1" r="4" fill="#3465a4"><title>Punky Princess</title></circle></a><a href="/variants/s9/g12k8n6k22n3k8n3k40g6/"><circle cx="384.1" cy="165.5" r="4" fill="#3465a4"><title>Jensen, Sven (Personal)</title></circle></a><a href="/variants/s8/k45dy4k4dy9k4dy4k45r4~x2/"><circle cx="543.8" cy="174.0" r="4" fill="#3465a4"><title>Gwynn</title></circle></a><circle cx="459.3" cy="206.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k10dp3k6g1k6g1k6g2k6~x2/

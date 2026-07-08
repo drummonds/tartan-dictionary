@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Moir (Loch Insh) (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r31g3r2g2r3g2r2g3r15k15g2k15g3k3w2/)
 (the same proportion at any scale), whose colour order is pattern [RGRGRGRGRKGKGKW](/stripes/rgrgrgrgrkgkgkw/).
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10326
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10326](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10326)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2y1~x2/"><circle cx="228.9" cy="70.8" r="4" fill="#3465a4"><title>Unidentified Scarlett #8</title></circle></a><a href="/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/"><circle cx="198.0" cy="74.0" r="4" fill="#3465a4"><title>Cornish Brewery, Red</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><circle cx="224.4" cy="119.0" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/"><circle cx="224.4" cy="119.0" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s11/k5lb2r50k50r5w2r5g42r50k5w2/"><circle cx="232.1" cy="89.1" r="4" fill="#3465a4"><title>MacDonald of Glenaladale - 1772 (Cla</title></circle></a><a href="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/"><circle cx="253.1" cy="99.9" r="4" fill="#3465a4"><title>Motherwell F.C. Fir Park Dress (Spor</title></circle></a><a href="/variants/s15/r6k2r2k4r2k2r6g18r2y1r2k1r10w1r2~x4/"><circle cx="237.2" cy="93.0" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s11/o40k10n2k2lr2k3dr8o6k2o8lr2~x2/"><circle cx="241.3" cy="66.9" r="4" fill="#3465a4"><title>Islay</title></circle></a><a href="/variants/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/"><circle cx="198.2" cy="98.5" r="4" fill="#3465a4"><title>Orr, Gerald William (Personal)</title></circle></a><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="239.1" cy="112.8" r="4" fill="#3465a4"><title>Unidentified No 3 #2</title></circle></a><circle cx="208.1" cy="86.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2y1~x2/"><circle cx="228.8" cy="71.1" r="4" fill="#3465a4"><title>Unidentified Scarlett #8</title></circle></a><a href="/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/"><circle cx="197.9" cy="74.2" r="4" fill="#3465a4"><title>Cornish Brewery, Red</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><circle cx="224.4" cy="119.3" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/"><circle cx="224.4" cy="119.3" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s11/k5lb2r50k50r5w2r5g42r50k5w2/"><circle cx="232.0" cy="89.4" r="4" fill="#3465a4"><title>MacDonald of Glenaladale - 1772 (Cla</title></circle></a><a href="/variants/s10/dr3lr1dr20k3lo2k2lo2k2lo6r3~x4/"><circle cx="253.0" cy="100.2" r="4" fill="#3465a4"><title>Motherwell F.C. Fir Park Dress (Spor</title></circle></a><a href="/variants/s15/r6k2r2k4r2k2r6g18r2y1r2k1r10w1r2~x4/"><circle cx="237.2" cy="93.3" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s11/o40k10n2k2lr2k3dr8o6k2o8lr2~x2/"><circle cx="241.2" cy="67.0" r="4" fill="#3465a4"><title>Islay</title></circle></a><a href="/variants/s12/n4ly2n2k5n4k4n8k6n2r32n2w4~x2/"><circle cx="198.1" cy="98.8" r="4" fill="#3465a4"><title>Orr, Gerald William (Personal)</title></circle></a><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="239.0" cy="113.2" r="4" fill="#3465a4"><title>Unidentified No 3 #2</title></circle></a><circle cx="208.0" cy="86.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/r31g3r2g2r3g2r2g3r15k15g2k15g3k3w2~x2/

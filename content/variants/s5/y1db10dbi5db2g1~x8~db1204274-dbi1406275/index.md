@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Open Championship"
   url: "/tartans/open-championship/"
+- name: "Open Championship (2000)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y1db10dbi5db2g1/)
 (the same proportion at any scale), whose colour order is pattern [GBBBG](/stripes/gbbbg/).
@@ -14,7 +16,7 @@ Part of the [Open Championship](/tartans/open-championship/) tartan — the name
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3257
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3257](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3257)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dg1db2dbi5db10y1~x8~db1204274-dbi1406275/"><circle cx="617.7" cy="312.4" r="4" fill="#3465a4"><title>Open Championship (2000) (Corporate)</title></circle></a><a href="/variants/s5/y1db11dbi5db2g1~x4~db1003265-dbi1605267/"><circle cx="516.3" cy="260.8" r="4" fill="#3465a4"><title>Open Championship, The</title></circle></a><a href="/variants/s5/db7dr26db7dg24y2~x2/"><circle cx="402.7" cy="285.7" r="4" fill="#3465a4"><title>McCarthy, Old</title></circle></a><a href="/variants/s6/db38w3db8dbi36dg9r3~x2~db1106275-dbi1406275/"><circle cx="359.2" cy="219.4" r="4" fill="#3465a4"><title>Waters of Georgian Bay (District)</title></circle></a><a href="/variants/s6/dp3dt15db15r2db15y3~x2/"><circle cx="397.0" cy="268.1" r="4" fill="#3465a4"><title>H.M.S. DUNCAN</title></circle></a><a href="/variants/s5/b9t6w1g4b2~x8/"><circle cx="380.8" cy="302.9" r="4" fill="#3465a4"><title>Cathro (Name)</title></circle></a><a href="/variants/s5/db16dy2db16dy19r4~x3/"><circle cx="419.1" cy="287.7" r="4" fill="#3465a4"><title>Unidentified #24</title></circle></a><a href="/variants/s6/dbi28db49y3db49dbi28w4~x2~dbi1406275-db1204274/"><circle cx="565.8" cy="293.3" r="4" fill="#3465a4"><title>MacKerrell of Hillhouse Htg Family Tartan</title></circle></a><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/"><circle cx="476.7" cy="265.9" r="4" fill="#3465a4"><title>Wcwm 1255-1</title></circle></a><a href="/variants/s6/dy11db1dy3dbi1db9r1~x4~db1204274-dbi1406275/"><circle cx="490.1" cy="257.6" r="4" fill="#3465a4"><title>Dege of Saville Row</title></circle></a><circle cx="547.3" cy="286.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dg1db2dbi5db10y1~x8~db1204274-dbi1406275/"><circle cx="617.8" cy="312.4" r="4" fill="#3465a4"><title>Open Championship (2000) (Corporate)</title></circle></a><a href="/variants/s5/y1db11dbi5db2g1~x4~db1003265-dbi1605267/"><circle cx="516.4" cy="261.0" r="4" fill="#3465a4"><title>Open Championship, The</title></circle></a><a href="/variants/s5/db7dr26db7dg24y2~x2/"><circle cx="402.9" cy="285.9" r="4" fill="#3465a4"><title>McCarthy, Old</title></circle></a><a href="/variants/s6/db38w3db8dbi36dg9r3~x2~db1106275-dbi1406275/"><circle cx="359.2" cy="219.5" r="4" fill="#3465a4"><title>Waters of Georgian Bay (District)</title></circle></a><a href="/variants/s6/dp3dt15db15r2db15y3~x2/"><circle cx="397.1" cy="268.4" r="4" fill="#3465a4"><title>H.M.S. DUNCAN</title></circle></a><a href="/variants/s5/b9t6w1g4b2~x8/"><circle cx="381.1" cy="303.3" r="4" fill="#3465a4"><title>Cathro (Name)</title></circle></a><a href="/variants/s5/db16dy2db16dy19r4~x3/"><circle cx="419.3" cy="288.1" r="4" fill="#3465a4"><title>Unidentified #24</title></circle></a><a href="/variants/s6/dbi28db49y3db49dbi28w4~x2~dbi1406275-db1204274/"><circle cx="566.0" cy="293.3" r="4" fill="#3465a4"><title>MacKerrell of Hillhouse Htg Family Tartan</title></circle></a><a href="/variants/s5/db4b1dg14db14dr1~x4~db0906265-b1611266/"><circle cx="476.8" cy="266.0" r="4" fill="#3465a4"><title>Wcwm 1255-1</title></circle></a><a href="/variants/s6/dy11db1dy3dbi1db9r1~x4~db1204274-dbi1406275/"><circle cx="490.2" cy="257.7" r="4" fill="#3465a4"><title>Dege of Saville Row</title></circle></a><circle cx="547.4" cy="287.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/y1db10dbi5db2g1~x8~db1204274-dbi1406275/

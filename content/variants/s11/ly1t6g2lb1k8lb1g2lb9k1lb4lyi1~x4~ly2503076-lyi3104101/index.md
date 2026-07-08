@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tiree"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly1t6g2lb1k8lb1g2lb9k1lb4lyi1/)
 (the same proportion at any scale), whose colour order is pattern [YBGWKWGWKWY](/stripes/ybgwkwgwkwy/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4129
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4129](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4129)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/"><circle cx="106.1" cy="142.7" r="4" fill="#3465a4"><title>Kintyre (Fashion)</title></circle></a><a href="/variants/s8/db48ly25dy15dr7w5db7k10w10~x2/"><circle cx="121.5" cy="155.0" r="4" fill="#3465a4"><title>State Seal of Utah (Fashion)</title></circle></a><a href="/variants/s9/g5db22g6k10w24y2db2w2r2~x2/"><circle cx="93.1" cy="130.0" r="4" fill="#3465a4"><title>Haymarket, dress Blue</title></circle></a><a href="/variants/s12/k2w1db7k4r1w8r2w8k1g7w1y2~x2/"><circle cx="70.4" cy="147.3" r="4" fill="#3465a4"><title>MacLellan, dress McLellan</title></circle></a><a href="/variants/s11/dr1o6ly2w1k8w1ly2w9k1w4dy1~x4~o2500000/"><circle cx="106.4" cy="143.0" r="4" fill="#3465a4"><title>Kintyre</title></circle></a><a href="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/"><circle cx="95.1" cy="132.8" r="4" fill="#3465a4"><title>Moran (Virgin Islands) (Personal)</title></circle></a><a href="/variants/s11/db4t13r2db2k2db2w5db2ly2db2t2~x2/"><circle cx="110.4" cy="158.5" r="4" fill="#3465a4"><title>Manchester City Football Club &quot;Blue</title></circle></a><a href="/variants/s9/dg20g6w15db5w2db15n4db10r2~x2~dg1806142-g2504202/"><circle cx="116.5" cy="181.7" r="4" fill="#3465a4"><title>Copar a'Beannichte Dress (Personal)</title></circle></a><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><circle cx="51.9" cy="156.1" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/variants/s9/g2db8g2k5w12lo1db1w1dr1~x4/"><circle cx="104.5" cy="105.9" r="4" fill="#3465a4"><title>Haymarket Dress (Dance)</title></circle></a><circle cx="114.7" cy="148.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dr1n6ly2w1k8w1ly2w9k1w4dy1~x4/"><circle cx="106.1" cy="143.1" r="4" fill="#3465a4"><title>Kintyre (Fashion)</title></circle></a><a href="/variants/s8/db48ly25dy15dr7w5db7k10w10~x2/"><circle cx="121.5" cy="155.4" r="4" fill="#3465a4"><title>State Seal of Utah (Fashion)</title></circle></a><a href="/variants/s9/g5db22g6k10w24y2db2w2r2~x2/"><circle cx="93.1" cy="130.3" r="4" fill="#3465a4"><title>Haymarket, dress Blue</title></circle></a><a href="/variants/s12/k2w1db7k4r1w8r2w8k1g7w1y2~x2/"><circle cx="70.4" cy="147.8" r="4" fill="#3465a4"><title>MacLellan, dress McLellan</title></circle></a><a href="/variants/s11/dr1o6ly2w1k8w1ly2w9k1w4dy1~x4~o2500000/"><circle cx="106.4" cy="143.4" r="4" fill="#3465a4"><title>Kintyre</title></circle></a><a href="/variants/s9/w3lb26db13k13w2g8k5r3lb3~x2/"><circle cx="95.1" cy="133.2" r="4" fill="#3465a4"><title>Moran (Virgin Islands) (Personal)</title></circle></a><a href="/variants/s11/db4t13r2db2k2db2w5db2ly2db2t2~x2/"><circle cx="110.4" cy="158.9" r="4" fill="#3465a4"><title>Manchester City Football Club &quot;Blue</title></circle></a><a href="/variants/s9/dg20g6w15db5w2db15n4db10r2~x2~dg1806142-g2504202/"><circle cx="116.5" cy="182.1" r="4" fill="#3465a4"><title>Copar a'Beannichte Dress (Personal)</title></circle></a><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><circle cx="51.9" cy="156.6" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/variants/s9/g2db8g2k5w12lo1db1w1dr1~x4/"><circle cx="104.5" cy="106.2" r="4" fill="#3465a4"><title>Haymarket Dress (Dance)</title></circle></a><circle cx="114.7" cy="148.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/ly1t6g2lb1k8lb1g2lb9k1lb4lyi1~x4~ly2503076-lyi3104101/

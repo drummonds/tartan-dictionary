@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Snodgrass"
   url: "/tartans/snodgrass/"
+- name: "Snodgrass"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3r1ly1lb11g13lb5r1ly1/)
 (the same proportion at any scale), whose colour order is pattern [KRYWGWRYRWGWYR](/stripes/krywgwryrwgwyr/).
@@ -14,7 +16,7 @@ Part of the [Snodgrass](/tartans/snodgrass/) tartan — the named design groupin
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3827
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3827](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3827)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k3r1y1lb11g13lb5r1y1~x4/"><circle cx="198.5" cy="151.2" r="4" fill="#3465a4"><title>Snodgrass (Clan)</title></circle></a><a href="/variants/s9/lb16k1r7k1r7k1lb7g24ly4~x2/"><circle cx="177.5" cy="129.0" r="4" fill="#3465a4"><title>Knockando Woolmill (Corporate)</title></circle></a><a href="/variants/s13/g11lr2g12k3lb15dr3lb15g19lr2lb3k2lb3ly3~x2/"><circle cx="171.5" cy="151.6" r="4" fill="#3465a4"><title>Greylock (Corporate)</title></circle></a><a href="/variants/s6/r1g9lb9k1lb1w1~x6/"><circle cx="234.5" cy="187.8" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s13/g11lr2g12k3lb15dr3lb15g19lr2lb3k2lb3dy3~x2/"><circle cx="168.8" cy="150.4" r="4" fill="#3465a4"><title>Greylock</title></circle></a><a href="/variants/s10/g9lb9k1lb1w1lb1k1lb9g9r1~x6~w3600000/"><circle cx="237.6" cy="176.2" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s10/lb24k2r2lb2db12g28r4g5lb3g3~x2/"><circle cx="194.8" cy="139.0" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><circle cx="145.5" cy="127.9" r="4" fill="#3465a4"><title>Mission (District)</title></circle></a><a href="/variants/s14/r6g4y4g25r4g6r4g6w34g4w4k4r4w6/"><circle cx="145.6" cy="137.6" r="4" fill="#3465a4"><title>Hay, White Dress</title></circle></a><a href="/variants/s7/t33lo6dr3lo6k3lo15t32~x4/"><circle cx="264.5" cy="165.4" r="4" fill="#3465a4"><title>Carlisle (Family)</title></circle></a><circle cx="219.6" cy="138.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k3r1y1lb11g13lb5r1y1~x4/"><circle cx="198.5" cy="151.6" r="4" fill="#3465a4"><title>Snodgrass (Clan)</title></circle></a><a href="/variants/s9/lb16k1r7k1r7k1lb7g24ly4~x2/"><circle cx="177.4" cy="129.3" r="4" fill="#3465a4"><title>Knockando Woolmill (Corporate)</title></circle></a><a href="/variants/s13/g11lr2g12k3lb15dr3lb15g19lr2lb3k2lb3ly3~x2/"><circle cx="171.5" cy="152.0" r="4" fill="#3465a4"><title>Greylock (Corporate)</title></circle></a><a href="/variants/s6/r1g9lb9k1lb1w1~x6/"><circle cx="234.6" cy="188.3" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s13/g11lr2g12k3lb15dr3lb15g19lr2lb3k2lb3dy3~x2/"><circle cx="168.8" cy="150.8" r="4" fill="#3465a4"><title>Greylock</title></circle></a><a href="/variants/s10/g9lb9k1lb1w1lb1k1lb9g9r1~x6~w3600000/"><circle cx="237.7" cy="176.7" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s10/lb24k2r2lb2db12g28r4g5lb3g3~x2/"><circle cx="194.8" cy="139.3" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><a href="/variants/s8/lo2lb14k1g11k2r2gi2k1~x4~g2508144-gi2604158/"><circle cx="145.5" cy="128.3" r="4" fill="#3465a4"><title>Mission (District)</title></circle></a><a href="/variants/s14/r6g4y4g25r4g6r4g6w34g4w4k4r4w6/"><circle cx="145.6" cy="138.0" r="4" fill="#3465a4"><title>Hay, White Dress</title></circle></a><a href="/variants/s7/t33lo6dr3lo6k3lo15t32~x4/"><circle cx="264.5" cy="165.9" r="4" fill="#3465a4"><title>Carlisle (Family)</title></circle></a><circle cx="219.6" cy="139.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k3r1ly1lb11g13lb5r1ly1~x4~r2109032-ly3307090-g2408144/

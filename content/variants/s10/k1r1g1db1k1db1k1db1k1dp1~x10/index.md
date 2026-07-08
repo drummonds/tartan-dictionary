@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bell, Siobhan (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1r1g1db1k1db1k1db1k1dp1/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKBGRK](/stripes/bkbkbkbgrk/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11351
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11351](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11351)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

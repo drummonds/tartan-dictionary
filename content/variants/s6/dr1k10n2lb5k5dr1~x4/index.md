@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Callaway (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr1k10n2lb5k5dr1/)
 (the same proportion at any scale), whose colour order is pattern [BKBWKB](/stripes/bkbwkb/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=484
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=484](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=484)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k14r4k25db30w4~x2/"><circle cx="226.6" cy="217.5" r="4" fill="#3465a4"><title>Britannia</title></circle></a><a href="/variants/s5/k15y2k10db18w3~x2/"><circle cx="235.5" cy="216.2" r="4" fill="#3465a4"><title>College of Radiographers</title></circle></a><a href="/variants/s5/k15dy2k10db18w3~x2/"><circle cx="240.2" cy="217.6" r="4" fill="#3465a4"><title>College of Radiographers Corporate Tartan</title></circle></a><a href="/variants/s5/k7r3k24b28y3~x2/"><circle cx="225.6" cy="195.0" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s5/k15lo2k10db18lr3~x2/"><circle cx="244.7" cy="219.6" r="4" fill="#3465a4"><title>College of Radiographers</title></circle></a><a href="/variants/s5/r1k8g2db4r1~x8/"><circle cx="212.8" cy="203.0" r="4" fill="#3465a4"><title>Nairn (Name)</title></circle></a><a href="/variants/s5/r1k8g2db4r1~x4/"><circle cx="212.8" cy="203.0" r="4" fill="#3465a4"><title>Nairn</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="283.7" cy="148.2" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/variants/s5/k12db3g23k23r3~x2/"><circle cx="232.2" cy="215.8" r="4" fill="#3465a4"><title>Douglas, (Black)</title></circle></a><a href="/variants/s5/k4lb4k4n15dr2~x4/"><circle cx="227.6" cy="212.5" r="4" fill="#3465a4"><title>Oban Grey (Fashion)</title></circle></a><circle cx="275.5" cy="186.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k14r4k25db30w4~x2/"><circle cx="226.6" cy="218.1" r="4" fill="#3465a4"><title>Britannia</title></circle></a><a href="/variants/s5/k15y2k10db18w3~x2/"><circle cx="235.5" cy="216.7" r="4" fill="#3465a4"><title>College of Radiographers</title></circle></a><a href="/variants/s5/k15dy2k10db18w3~x2/"><circle cx="240.2" cy="218.2" r="4" fill="#3465a4"><title>College of Radiographers Corporate Tartan</title></circle></a><a href="/variants/s5/k7r3k24b28y3~x2/"><circle cx="225.6" cy="195.5" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s5/k15lo2k10db18lr3~x2/"><circle cx="244.8" cy="220.2" r="4" fill="#3465a4"><title>College of Radiographers</title></circle></a><a href="/variants/s5/r1k8g2db4r1~x8/"><circle cx="212.8" cy="203.5" r="4" fill="#3465a4"><title>Nairn (Name)</title></circle></a><a href="/variants/s5/r1k8g2db4r1~x4/"><circle cx="212.8" cy="203.5" r="4" fill="#3465a4"><title>Nairn</title></circle></a><a href="/variants/s6/k43dr10w3k3w15db3~x2/"><circle cx="283.7" cy="148.7" r="4" fill="#3465a4"><title>Bro-Wened</title></circle></a><a href="/variants/s5/k12db3g23k23r3~x2/"><circle cx="232.3" cy="216.4" r="4" fill="#3465a4"><title>Douglas, (Black)</title></circle></a><a href="/variants/s5/k4lb4k4n15dr2~x4/"><circle cx="227.7" cy="213.1" r="4" fill="#3465a4"><title>Oban Grey (Fashion)</title></circle></a><circle cx="275.6" cy="187.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dr1k10n2lb5k5dr1~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Shenzhen"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o29lo2o2lo4o2lo20y1lo2y10w3y10lo2y1lo20o2lo4o2lo2o29k3/)
 (the same proportion at any scale), whose colour order is pattern [KRYRYRYGYGWGYGYRYRYR](/stripes/kryryrygygwgygyryryr/).
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3780
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3780](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3780)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

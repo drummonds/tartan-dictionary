@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Bedford Academy"
   url: "/tartans/bedford-academy/"
+- name: "Bedford Academy"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n8y4n35db2lt8db2n4db21n4/)
 (the same proportion at any scale), whose colour order is pattern [BBBBWBBGB](/stripes/bbbbwbbgb/).
@@ -14,7 +16,7 @@ Part of the [Bedford Academy](/tartans/bedford-academy/) tartan — the named de
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10226
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10226](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10226)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n8y4n35db2lb8db2n4db21n4~x2/"><circle cx="420.3" cy="194.3" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/variants/s8/db42dr2y16dr2db6dr2y8lo3~x2/"><circle cx="410.1" cy="164.7" r="4" fill="#3465a4"><title>Prince George's Police Pipe Band</title></circle></a><a href="/variants/s9/db19w1db6w1db2w2y2w1y18~x4/"><circle cx="355.2" cy="173.7" r="4" fill="#3465a4"><title>Highland Park High School (Texas)</title></circle></a><a href="/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/"><circle cx="360.2" cy="191.3" r="4" fill="#3465a4"><title>Wicklow</title></circle></a><a href="/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/"><circle cx="432.2" cy="196.5" r="4" fill="#3465a4"><title>Connecticut State Police PB (Cor.)</title></circle></a><a href="/variants/s8/y12dbi2y2dbi30db3dbi2db13w4~x2~dbi1604274-db0805267/"><circle cx="320.9" cy="189.3" r="4" fill="#3465a4"><title>Highlands School, (North Carolina)</title></circle></a><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><circle cx="358.9" cy="179.1" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><a href="/variants/s8/dg2db26g2db2g9dr2g9db2~x2/"><circle cx="378.5" cy="195.8" r="4" fill="#3465a4"><title>Land's End Blue</title></circle></a><a href="/variants/s10/db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/"><circle cx="328.4" cy="180.7" r="4" fill="#3465a4"><title>Jones (Welsh Name)</title></circle></a><a href="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/"><circle cx="454.1" cy="141.9" r="4" fill="#3465a4"><title>Dauphinee, Andrew Hunter (Personal)</title></circle></a><circle cx="399.0" cy="187.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n8y4n35db2lb8db2n4db21n4~x2/"><circle cx="420.4" cy="194.5" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/variants/s8/db42dr2y16dr2db6dr2y8lo3~x2/"><circle cx="410.1" cy="164.9" r="4" fill="#3465a4"><title>Prince George's Police Pipe Band</title></circle></a><a href="/variants/s9/db19w1db6w1db2w2y2w1y18~x4/"><circle cx="355.2" cy="174.1" r="4" fill="#3465a4"><title>Highland Park High School (Texas)</title></circle></a><a href="/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/"><circle cx="360.3" cy="191.5" r="4" fill="#3465a4"><title>Wicklow</title></circle></a><a href="/variants/s6/n42db2n2db17lo8y4~x2~db1208266-lo2706076/"><circle cx="432.3" cy="196.8" r="4" fill="#3465a4"><title>Connecticut State Police PB (Cor.)</title></circle></a><a href="/variants/s8/y12dbi2y2dbi30db3dbi2db13w4~x2~dbi1604274-db0805267/"><circle cx="320.9" cy="189.6" r="4" fill="#3465a4"><title>Highlands School, (North Carolina)</title></circle></a><a href="/variants/s8/db22ly2db1ly2db10y2g11y6~x2~ly3307090-y2400000/"><circle cx="358.9" cy="179.4" r="4" fill="#3465a4"><title>Katsushika (Corporate)</title></circle></a><a href="/variants/s8/dg2db26g2db2g9dr2g9db2~x2/"><circle cx="378.5" cy="196.1" r="4" fill="#3465a4"><title>Land's End Blue</title></circle></a><a href="/variants/s10/db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/"><circle cx="328.4" cy="180.9" r="4" fill="#3465a4"><title>Jones (Welsh Name)</title></circle></a><a href="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/"><circle cx="454.0" cy="141.9" r="4" fill="#3465a4"><title>Dauphinee, Andrew Hunter (Personal)</title></circle></a><circle cx="399.1" cy="187.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/n8y4n35db2lt8db2n4db21n4~x2~db1108266-lt3103227/

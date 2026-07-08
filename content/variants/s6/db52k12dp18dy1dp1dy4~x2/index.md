@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "British Energy"
   url: "/tartans/british-energy/"
+- name: "British Energy"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db52k12dp18dy1dp1dy4/)
 (the same proportion at any scale), whose colour order is pattern [BKBGBG](/stripes/bkbgbg/).
@@ -14,7 +16,7 @@ Part of the [British Energy](/tartans/british-energy/) tartan — the named desi
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=362
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=362](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=362)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db64r3k3r3dp61dg5dp6~x2/"><circle cx="434.7" cy="169.9" r="4" fill="#3465a4"><title>Rutherford, John (Personal)</title></circle></a><a href="/variants/s6/dt15db55w1dp5r2y1~x2/"><circle cx="560.6" cy="128.2" r="4" fill="#3465a4"><title>Venters (Edinburgh)</title></circle></a><a href="/variants/s6/k1y3db3do28db36y1~x2/"><circle cx="467.7" cy="165.2" r="4" fill="#3465a4"><title>Potts (Personal)</title></circle></a><a href="/variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/"><circle cx="505.4" cy="132.6" r="4" fill="#3465a4"><title>Michie Dress, Andrew</title></circle></a><a href="/variants/s5/dp49g3r5db15y4~x2/"><circle cx="461.9" cy="185.6" r="4" fill="#3465a4"><title>Orion Nebula</title></circle></a><a href="/variants/s5/n4db43k20n7o2~x2~n1900000-db0906265-k0700000-o2500000/"><circle cx="415.9" cy="196.8" r="4" fill="#3465a4"><title>Deighan (Burham Kent) (Name)</title></circle></a><a href="/variants/s8/k4r1dbi3db28dbi36k3r2n1~x2~dbi1406275-db1004274/"><circle cx="420.0" cy="133.6" r="4" fill="#3465a4"><title>ODL (Corporate)</title></circle></a><a href="/variants/s7/dp6ly2dp1dg25db16k2db4~x2/"><circle cx="326.9" cy="162.6" r="4" fill="#3465a4"><title>Lowry</title></circle></a><a href="/variants/s7/dp6dy2dp1dg25db16k2db4~x2/"><circle cx="393.1" cy="185.5" r="4" fill="#3465a4"><title>Lawrie</title></circle></a><circle cx="477.3" cy="148.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db64r3k3r3dp61dg5dp6~x2/"><circle cx="434.6" cy="169.7" r="4" fill="#3465a4"><title>Rutherford, John (Personal)</title></circle></a><a href="/variants/s6/dt15db55w1dp5r2y1~x2/"><circle cx="560.5" cy="128.0" r="4" fill="#3465a4"><title>Venters (Edinburgh)</title></circle></a><a href="/variants/s6/k1y3db3do28db36y1~x2/"><circle cx="467.6" cy="165.1" r="4" fill="#3465a4"><title>Potts (Personal)</title></circle></a><a href="/variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/"><circle cx="505.4" cy="132.5" r="4" fill="#3465a4"><title>Michie Dress, Andrew</title></circle></a><a href="/variants/s5/dp49g3r5db15y4~x2/"><circle cx="462.0" cy="185.7" r="4" fill="#3465a4"><title>Orion Nebula</title></circle></a><a href="/variants/s5/n4db43k20n7o2~x2~n1900000-db0906265-k0700000-o2500000/"><circle cx="415.9" cy="196.9" r="4" fill="#3465a4"><title>Deighan (Burham Kent) (Name)</title></circle></a><a href="/variants/s8/k4r1dbi3db28dbi36k3r2n1~x2~dbi1406275-db1004274/"><circle cx="419.9" cy="133.4" r="4" fill="#3465a4"><title>ODL (Corporate)</title></circle></a><a href="/variants/s7/dp6ly2dp1dg25db16k2db4~x2/"><circle cx="326.9" cy="162.6" r="4" fill="#3465a4"><title>Lowry</title></circle></a><a href="/variants/s7/dp6dy2dp1dg25db16k2db4~x2/"><circle cx="393.1" cy="185.4" r="4" fill="#3465a4"><title>Lawrie</title></circle></a><circle cx="477.3" cy="148.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db52k12dp18dy1dp1dy4~x2/

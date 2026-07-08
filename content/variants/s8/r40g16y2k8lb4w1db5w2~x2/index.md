@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ancient Caledonian Society"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r40g16y2k8lb4w1db5w2/)
 (the same proportion at any scale), whose colour order is pattern [RGGKWWBW](/stripes/rggkwwbw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=476
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=476](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=476)
 
 ## Provenance
 
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r40g16ly2k8y4w1db5w2~x2~ly3307090-y2602166/"><circle cx="235.8" cy="55.3" r="4" fill="#3465a4"><title>Caledonian Soc., Ancient (Artefact)</title></circle></a><a href="/variants/s8/db4w8db8w10k16g4r38lo1/"><circle cx="170.6" cy="81.0" r="4" fill="#3465a4"><title>Edinburgh Napier University</title></circle></a><a href="/variants/s9/y9k1lb4k1r40k1n4g9y1~x2/"><circle cx="338.8" cy="60.4" r="4" fill="#3465a4"><title>Kings Mountain 1780 (Commemorative)</title></circle></a><a href="/variants/s9/w2r2db14g16y2k2g2r35g1~x2/"><circle cx="253.6" cy="72.7" r="4" fill="#3465a4"><title>King (Austria) (Personal)</title></circle></a><a href="/variants/s13/r48g16k8w3y3r2o3w3db8k1r4y4w3~x2/"><circle cx="229.0" cy="14.7" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/variants/s6/r48db16y5g17w8k3~x2/"><circle cx="205.7" cy="134.2" r="4" fill="#3465a4"><title>Scottish American Society of Michigan (Official)</title></circle></a><a href="/variants/s11/r8db1r31dg2k8ly1k2w1db10k6w2~x2~k0700000/"><circle cx="245.8" cy="48.3" r="4" fill="#3465a4"><title>Field Marshall Montgomery PB (Corp)</title></circle></a><a href="/variants/s11/r64lb12k16y2k4w3dg32r8k4r3w2~x2/"><circle cx="227.6" cy="53.6" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/"><circle cx="298.5" cy="123.1" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><a href="/variants/s9/r51y2k4w2g21r10k4lb4w2~x2/"><circle cx="310.1" cy="70.0" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><circle cx="233.4" cy="53.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r40g16ly2k8y4w1db5w2~x2~ly3307090-y2602166/"><circle cx="235.6" cy="55.4" r="4" fill="#3465a4"><title>Caledonian Soc., Ancient (Artefact)</title></circle></a><a href="/variants/s8/db4w8db8w10k16g4r38lo1/"><circle cx="170.5" cy="81.3" r="4" fill="#3465a4"><title>Edinburgh Napier University</title></circle></a><a href="/variants/s9/y9k1lb4k1r40k1n4g9y1~x2/"><circle cx="338.7" cy="60.4" r="4" fill="#3465a4"><title>Kings Mountain 1780 (Commemorative)</title></circle></a><a href="/variants/s9/w2r2db14g16y2k2g2r35g1~x2/"><circle cx="253.5" cy="72.8" r="4" fill="#3465a4"><title>King (Austria) (Personal)</title></circle></a><a href="/variants/s13/r48g16k8w3y3r2o3w3db8k1r4y4w3~x2/"><circle cx="228.8" cy="14.7" r="4" fill="#3465a4"><title>MacGill</title></circle></a><a href="/variants/s6/r48db16y5g17w8k3~x2/"><circle cx="205.7" cy="134.5" r="4" fill="#3465a4"><title>Scottish American Society of Michigan (Official)</title></circle></a><a href="/variants/s11/r8db1r31dg2k8ly1k2w1db10k6w2~x2~k0700000/"><circle cx="245.6" cy="48.4" r="4" fill="#3465a4"><title>Field Marshall Montgomery PB (Corp)</title></circle></a><a href="/variants/s11/r64lb12k16y2k4w3dg32r8k4r3w2~x2/"><circle cx="227.4" cy="53.8" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/"><circle cx="298.5" cy="123.4" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><a href="/variants/s9/r51y2k4w2g21r10k4lb4w2~x2/"><circle cx="310.1" cy="70.2" r="4" fill="#3465a4"><title>Drummond of Perth</title></circle></a><circle cx="233.3" cy="53.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r40g16y2k8lb4w1db5w2~x2/

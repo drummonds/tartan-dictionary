@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unnamed"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr18ly2b6ly2b4ly2b12ly3dr4g2/)
 (the same proportion at any scale), whose colour order is pattern [BYBYBYBYBG](/stripes/bybybybybg/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8588
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8588](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8588)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/"><circle cx="268.2" cy="212.5" r="4" fill="#3465a4"><title>Kildonan Brown (Fashion)</title></circle></a><a href="/variants/s7/dr2lb1db8lb8y8lb1y1~x2/"><circle cx="205.7" cy="236.5" r="4" fill="#3465a4"><title>Over Mountain</title></circle></a><a href="/variants/s10/db28dr26w2db5w2dr26g28dr5w2dr5~x2/"><circle cx="293.2" cy="194.5" r="4" fill="#3465a4"><title>Glenfinnan (Clan?)</title></circle></a><a href="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9do2~x4/"><circle cx="283.9" cy="213.1" r="4" fill="#3465a4"><title>Redwood Dress (Fashion)</title></circle></a><a href="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9dy2~x4/"><circle cx="280.4" cy="211.2" r="4" fill="#3465a4"><title>Redwood Dress</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~dp1607327-db0805267-dbi1307262/"><circle cx="225.5" cy="200.7" r="4" fill="#3465a4"><title>Glasgow Cathedral Corporate Tartan</title></circle></a><a href="/variants/s10/lb4dp2lb6dp2lb10dp30g10dp2g9dp2~x2/"><circle cx="310.9" cy="185.2" r="4" fill="#3465a4"><title>Lang</title></circle></a><a href="/variants/s7/g4y7lo9y9db20w2db2~x2/"><circle cx="204.7" cy="213.1" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/variants/s11/dr3db14g14db2dr14db2dr14db2g14db2lo3~x2/"><circle cx="223.9" cy="235.4" r="4" fill="#3465a4"><title>Clare Irish County Tartan</title></circle></a><a href="/variants/s10/db1g4db1r1db1y1db5r6db1y1~x2/"><circle cx="207.4" cy="212.9" r="4" fill="#3465a4"><title>Unidentified Specimen #3</title></circle></a><circle cx="249.1" cy="206.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dy22do3dy3do3dy3do9lb28do3lb6~x2/"><circle cx="268.3" cy="213.0" r="4" fill="#3465a4"><title>Kildonan Brown (Fashion)</title></circle></a><a href="/variants/s7/dr2lb1db8lb8y8lb1y1~x2/"><circle cx="205.9" cy="237.1" r="4" fill="#3465a4"><title>Over Mountain</title></circle></a><a href="/variants/s10/db28dr26w2db5w2dr26g28dr5w2dr5~x2/"><circle cx="293.3" cy="194.9" r="4" fill="#3465a4"><title>Glenfinnan (Clan?)</title></circle></a><a href="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9do2~x4/"><circle cx="284.0" cy="213.5" r="4" fill="#3465a4"><title>Redwood Dress (Fashion)</title></circle></a><a href="/variants/s9/dg3dr1lb5dr1dg2dr1dg1dr9dy2~x4/"><circle cx="280.5" cy="211.6" r="4" fill="#3465a4"><title>Redwood Dress</title></circle></a><a href="/variants/s10/g18dp3db10dbi2db10dp20g20dp3y2db2~x2~dp1607327-db0805267-dbi1307262/"><circle cx="225.5" cy="201.1" r="4" fill="#3465a4"><title>Glasgow Cathedral Corporate Tartan</title></circle></a><a href="/variants/s10/lb4dp2lb6dp2lb10dp30g10dp2g9dp2~x2/"><circle cx="311.0" cy="185.7" r="4" fill="#3465a4"><title>Lang</title></circle></a><a href="/variants/s7/g4y7lo9y9db20w2db2~x2/"><circle cx="204.8" cy="213.5" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/variants/s11/dr3db14g14db2dr14db2dr14db2g14db2lo3~x2/"><circle cx="224.1" cy="235.9" r="4" fill="#3465a4"><title>Clare Irish County Tartan</title></circle></a><a href="/variants/s10/db1g4db1r1db1y1db5r6db1y1~x2/"><circle cx="207.4" cy="213.3" r="4" fill="#3465a4"><title>Unidentified Specimen #3</title></circle></a><circle cx="249.2" cy="207.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dr18ly2b6ly2b4ly2b12ly3dr4g2~x2/

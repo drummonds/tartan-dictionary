@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hanna of Falkirk (Clan?)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k9r4k2r4k2r30k9r4k14lo2/)
 (the same proportion at any scale), whose colour order is pattern [KRKRKRKRKY](/stripes/krkrkrkrky/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5148
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5148](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5148)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k8r1k1r1k1r10k10r1k1~x4/"><circle cx="309.7" cy="143.4" r="4" fill="#3465a4"><title>Murray of Ochtertyre</title></circle></a><a href="/variants/s11/r2k20r5k4dg4k4r5k2r14k2y2~x2/"><circle cx="231.2" cy="143.7" r="4" fill="#3465a4"><title>Canterbury (Fashion)</title></circle></a><a href="/variants/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/"><circle cx="294.1" cy="88.1" r="4" fill="#3465a4"><title>Smeaton 1985 (Name)</title></circle></a><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/"><circle cx="232.5" cy="128.0" r="4" fill="#3465a4"><title>Hannay Dress (Dance)</title></circle></a><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2k2r2k13r2k2r4~x2/"><circle cx="284.4" cy="120.0" r="4" fill="#3465a4"><title>Walkers Shortbread (Corporate)</title></circle></a><a href="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/"><circle cx="286.1" cy="103.5" r="4" fill="#3465a4"><title>Hebrides #12</title></circle></a><a href="/variants/s9/k4r4k19r9k9r19k2r2w2~x2/"><circle cx="253.2" cy="173.0" r="4" fill="#3465a4"><title>Pink MacLeod (Personal)</title></circle></a><a href="/variants/s9/k4m4k19m9k9m19k2m2w3~x2/"><circle cx="245.1" cy="174.5" r="4" fill="#3465a4"><title>McLeod-Bain (Personal)</title></circle></a><a href="/variants/s8/k12r3k2r16k8r12k2r3~x2/"><circle cx="308.7" cy="206.2" r="4" fill="#3465a4"><title>MacLeod #2</title></circle></a><a href="/variants/s7/k3r2k30r28k2r2w3~x2/"><circle cx="291.7" cy="139.5" r="4" fill="#3465a4"><title>Cunningham #2</title></circle></a><circle cx="293.6" cy="136.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k8r1k1r1k1r10k10r1k1~x4/"><circle cx="309.7" cy="143.8" r="4" fill="#3465a4"><title>Murray of Ochtertyre</title></circle></a><a href="/variants/s11/r2k20r5k4dg4k4r5k2r14k2y2~x2/"><circle cx="231.2" cy="144.2" r="4" fill="#3465a4"><title>Canterbury (Fashion)</title></circle></a><a href="/variants/s10/k6r4lb3r44k32r3k3lo3k2r3~x2/"><circle cx="294.0" cy="88.4" r="4" fill="#3465a4"><title>Smeaton 1985 (Name)</title></circle></a><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/"><circle cx="232.4" cy="128.4" r="4" fill="#3465a4"><title>Hannay Dress (Dance)</title></circle></a><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2k2r2k13r2k2r4~x2/"><circle cx="284.4" cy="120.4" r="4" fill="#3465a4"><title>Walkers Shortbread (Corporate)</title></circle></a><a href="/variants/s11/k2r2k12r2k2r18k2r2k12r2w1~x2/"><circle cx="286.0" cy="103.8" r="4" fill="#3465a4"><title>Hebrides #12</title></circle></a><a href="/variants/s9/k4r4k19r9k9r19k2r2w2~x2/"><circle cx="253.3" cy="173.6" r="4" fill="#3465a4"><title>Pink MacLeod (Personal)</title></circle></a><a href="/variants/s9/k4m4k19m9k9m19k2m2w3~x2/"><circle cx="245.2" cy="175.1" r="4" fill="#3465a4"><title>McLeod-Bain (Personal)</title></circle></a><a href="/variants/s8/k12r3k2r16k8r12k2r3~x2/"><circle cx="308.7" cy="207.0" r="4" fill="#3465a4"><title>MacLeod #2</title></circle></a><a href="/variants/s7/k3r2k30r28k2r2w3~x2/"><circle cx="291.7" cy="140.0" r="4" fill="#3465a4"><title>Cunningham #2</title></circle></a><circle cx="293.6" cy="136.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/

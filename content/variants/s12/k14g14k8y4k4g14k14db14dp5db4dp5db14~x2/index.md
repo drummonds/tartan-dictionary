@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Price-Powell (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k14g14k8y4k4g14k14db14dp5db4dp5db14/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBKGKGKGK](/stripes/bbbbbkgkgkgk/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10295
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10295](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10295)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r1k2dg4k1dg1k2db3k1w1~x6/"><circle cx="84.9" cy="223.7" r="4" fill="#3465a4"><title>MacKean dress</title></circle></a><a href="/variants/s15/g6k3g7r3g6k13db13k3db13k13g3w3g6k3r4~x2/"><circle cx="58.1" cy="194.7" r="4" fill="#3465a4"><title>MacRae #2</title></circle></a><a href="/variants/s9/db8k4lo2k3dr2k3lo2k4g8~x4/"><circle cx="71.3" cy="223.6" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s14/db4y14k14g4db16g4y8g4db16g4k14y14db4t3~x2/"><circle cx="71.3" cy="201.6" r="4" fill="#3465a4"><title>Hinnigan (Personal)</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3/"><circle cx="75.8" cy="226.9" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3~x2/"><circle cx="75.8" cy="226.9" r="4" fill="#3465a4"><title>Davidson, Double</title></circle></a><a href="/variants/s10/dg12k14db11r3db3r3db11k14dg12y3~x2~dg1605139/"><circle cx="85.9" cy="226.8" r="4" fill="#3465a4"><title>Wilson's No.112 (Blue)</title></circle></a><a href="/variants/s10/dg8k9db7r2db2r2db7k9dg8t3~x2~t2503227/"><circle cx="88.3" cy="237.0" r="4" fill="#3465a4"><title>Wellington (Wilson)</title></circle></a><a href="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/"><circle cx="85.8" cy="215.0" r="4" fill="#3465a4"><title>Lloyd of Dolobran Family Tartan</title></circle></a><a href="/variants/s16/k2g4k1g1k2db3k1w1k1db3k2g1k1g4k2r1~x6/"><circle cx="69.9" cy="200.2" r="4" fill="#3465a4"><title>MacKean dress Family/Clan Tartan</title></circle></a><circle cx="59.4" cy="234.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r1k2dg4k1dg1k2db3k1w1~x6/"><circle cx="84.9" cy="224.3" r="4" fill="#3465a4"><title>MacKean dress</title></circle></a><a href="/variants/s15/g6k3g7r3g6k13db13k3db13k13g3w3g6k3r4~x2/"><circle cx="58.1" cy="195.2" r="4" fill="#3465a4"><title>MacRae #2</title></circle></a><a href="/variants/s9/db8k4lo2k3dr2k3lo2k4g8~x4/"><circle cx="71.4" cy="224.2" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s14/db4y14k14g4db16g4y8g4db16g4k14y14db4t3~x2/"><circle cx="71.4" cy="202.1" r="4" fill="#3465a4"><title>Hinnigan (Personal)</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3/"><circle cx="75.8" cy="227.6" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/variants/s8/k3w2k3g8k8db8r2db3~x2/"><circle cx="75.8" cy="227.6" r="4" fill="#3465a4"><title>Davidson, Double</title></circle></a><a href="/variants/s10/dg12k14db11r3db3r3db11k14dg12y3~x2~dg1605139/"><circle cx="86.0" cy="227.4" r="4" fill="#3465a4"><title>Wilson's No.112 (Blue)</title></circle></a><a href="/variants/s10/dg8k9db7r2db2r2db7k9dg8t3~x2~t2503227/"><circle cx="88.4" cy="237.5" r="4" fill="#3465a4"><title>Wellington (Wilson)</title></circle></a><a href="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/"><circle cx="85.9" cy="215.6" r="4" fill="#3465a4"><title>Lloyd of Dolobran Family Tartan</title></circle></a><a href="/variants/s16/k2g4k1g1k2db3k1w1k1db3k2g1k1g4k2r1~x6/"><circle cx="70.0" cy="200.8" r="4" fill="#3465a4"><title>MacKean dress Family/Clan Tartan</title></circle></a><circle cx="59.4" cy="234.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k14g14k8y4k4g14k14db14dp5db4dp5db14~x2/

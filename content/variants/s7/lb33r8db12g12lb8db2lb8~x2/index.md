@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bermuda Plaid (1947) (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb33r8db12g12lb8db2lb8/)
 (the same proportion at any scale), whose colour order is pattern [WBWGBRW](/stripes/wbwgbrw/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=696
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=696](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=696)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/"><circle cx="427.4" cy="192.5" r="4" fill="#3465a4"><title>Dominion (Fashion)</title></circle></a><a href="/variants/s7/db14r6db52lb4db4lb51y8/"><circle cx="288.4" cy="179.7" r="4" fill="#3465a4"><title>International Police Association (IPA 2010)</title></circle></a><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/"><circle cx="287.4" cy="179.5" r="4" fill="#3465a4"><title>Int. Police Association (Official)</title></circle></a><a href="/variants/s6/y5db15lb5db5lb40y3~x2/"><circle cx="388.5" cy="207.3" r="4" fill="#3465a4"><title>Legary</title></circle></a><a href="/variants/s8/lb8ly2lb22dg6r2w10dg12lb3~x2/"><circle cx="225.6" cy="188.2" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/variants/s8/lb30r3lb3r3lb12dt30n3dt5~x2/"><circle cx="284.9" cy="190.2" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><a href="/variants/s8/db28w36lb28w36lb85r3lb3r3/"><circle cx="327.9" cy="165.0" r="4" fill="#3465a4"><title>Malmo Skyblue (District)</title></circle></a><a href="/variants/s13/lb12r4db4lb42r6lb6db11lb6g19lb8r4lb6db6/"><circle cx="307.8" cy="172.2" r="4" fill="#3465a4"><title>Bermuda Blue (1962) (District)</title></circle></a><a href="/variants/s7/r2db36lb36w3lb36db36y2~x2/"><circle cx="265.6" cy="173.3" r="4" fill="#3465a4"><title>MacKerrell</title></circle></a><a href="/variants/s8/db28w36lb28w36lb85r3lb3r3~db1404245/"><circle cx="338.9" cy="169.1" r="4" fill="#3465a4"><title>Malmo Skyblue</title></circle></a><circle cx="316.7" cy="195.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/"><circle cx="427.5" cy="193.1" r="4" fill="#3465a4"><title>Dominion (Fashion)</title></circle></a><a href="/variants/s7/db14r6db52lb4db4lb51y8/"><circle cx="288.5" cy="180.2" r="4" fill="#3465a4"><title>International Police Association (IPA 2010)</title></circle></a><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/"><circle cx="287.5" cy="180.0" r="4" fill="#3465a4"><title>Int. Police Association (Official)</title></circle></a><a href="/variants/s6/y5db15lb5db5lb40y3~x2/"><circle cx="388.6" cy="207.9" r="4" fill="#3465a4"><title>Legary</title></circle></a><a href="/variants/s8/lb8ly2lb22dg6r2w10dg12lb3~x2/"><circle cx="225.6" cy="188.7" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/variants/s8/lb30r3lb3r3lb12dt30n3dt5~x2/"><circle cx="285.0" cy="190.7" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><a href="/variants/s8/db28w36lb28w36lb85r3lb3r3/"><circle cx="327.9" cy="165.4" r="4" fill="#3465a4"><title>Malmo Skyblue (District)</title></circle></a><a href="/variants/s13/lb12r4db4lb42r6lb6db11lb6g19lb8r4lb6db6/"><circle cx="307.8" cy="172.7" r="4" fill="#3465a4"><title>Bermuda Blue (1962) (District)</title></circle></a><a href="/variants/s7/r2db36lb36w3lb36db36y2~x2/"><circle cx="265.6" cy="173.7" r="4" fill="#3465a4"><title>MacKerrell</title></circle></a><a href="/variants/s8/db28w36lb28w36lb85r3lb3r3~db1404245/"><circle cx="338.9" cy="169.4" r="4" fill="#3465a4"><title>Malmo Skyblue</title></circle></a><circle cx="316.8" cy="195.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lb33r8db12g12lb8db2lb8~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Lindsay"
   url: "/tartans/lindsay-2/"
+- name: "Lindsay (Chisholm Red)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg24db3dg3db3dg3db9r24dg3r4/)
 (the same proportion at any scale), whose colour order is pattern [GBGBGBRGR](/stripes/gbgbgbrgr/).
@@ -14,7 +16,7 @@ Part of the [Lindsay](/tartans/lindsay-2/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2118
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2118](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2118)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg24b3dg3b3dg3b9r24dg3r4~x2~dg1304144-r1506009/"><circle cx="323.1" cy="225.6" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/"><circle cx="291.2" cy="184.0" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3/"><circle cx="291.2" cy="184.0" r="4" fill="#3465a4"><title>Lindsay MINI Design Tartan</title></circle></a><a href="/variants/s9/g20db2g2db2g2db8r24db2r3/"><circle cx="277.4" cy="183.4" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s9/g20db2g2db2g2db8r24db2r3~x2/"><circle cx="277.4" cy="183.4" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s10/r12y4r38dg25db8dg10db8dg8db25r3/"><circle cx="224.1" cy="191.8" r="4" fill="#3465a4"><title>MacEdward (Personal)</title></circle></a><a href="/variants/s10/r12y4r38g25db8g10db8g8db25r3/"><circle cx="208.5" cy="189.8" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/variants/s8/r17db2r2db13r2db2g17db2~x2/"><circle cx="236.4" cy="214.9" r="4" fill="#3465a4"><title>Red Remony</title></circle></a><a href="/variants/s10/g18db3g3db3g2db8r23db2r4g2~x2/"><circle cx="259.6" cy="186.3" r="4" fill="#3465a4"><title>McGlynn</title></circle></a><a href="/variants/s10/db3r23db3r26db3r3db25r3g24r3~x2/"><circle cx="285.5" cy="199.5" r="4" fill="#3465a4"><title>Unidentified Early 18th Centuary</title></circle></a><circle cx="281.7" cy="208.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg24b3dg3b3dg3b9r24dg3r4~x2~dg1304144-r1506009/"><circle cx="323.2" cy="225.9" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3~x2/"><circle cx="291.2" cy="184.3" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s9/dg20db2dg2db2dg2db8r24db2r3/"><circle cx="291.2" cy="184.3" r="4" fill="#3465a4"><title>Lindsay MINI Design Tartan</title></circle></a><a href="/variants/s9/g20db2g2db2g2db8r24db2r3/"><circle cx="277.4" cy="183.8" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s9/g20db2g2db2g2db8r24db2r3~x2/"><circle cx="277.4" cy="183.8" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/variants/s10/r12y4r38dg25db8dg10db8dg8db25r3/"><circle cx="224.1" cy="192.2" r="4" fill="#3465a4"><title>MacEdward (Personal)</title></circle></a><a href="/variants/s10/r12y4r38g25db8g10db8g8db25r3/"><circle cx="208.6" cy="190.3" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/variants/s8/r17db2r2db13r2db2g17db2~x2/"><circle cx="236.5" cy="215.4" r="4" fill="#3465a4"><title>Red Remony</title></circle></a><a href="/variants/s10/g18db3g3db3g2db8r23db2r4g2~x2/"><circle cx="259.7" cy="186.8" r="4" fill="#3465a4"><title>McGlynn</title></circle></a><a href="/variants/s10/db3r23db3r26db3r3db25r3g24r3~x2/"><circle cx="285.6" cy="200.0" r="4" fill="#3465a4"><title>Unidentified Early 18th Centuary</title></circle></a><circle cx="281.8" cy="208.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dg24db3dg3db3dg3db9r24dg3r4~x2/

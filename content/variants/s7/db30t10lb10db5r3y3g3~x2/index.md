@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wrigglesworth (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db30t10lb10db5r3y3g3/)
 (the same proportion at any scale), whose colour order is pattern [BBWBRGG](/stripes/bbwbrgg/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10374
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10374](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10374)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db30b10n10db5r3y3g3~x2/"><circle cx="310.2" cy="187.9" r="4" fill="#3465a4"><title>Wrigglesworth Family Canada (Personal)</title></circle></a><a href="/variants/s10/dbi30w2r3w2db14lr3g14dbi18r2dbi3~x2~dbi1605267-db0906265/"><circle cx="280.8" cy="145.3" r="4" fill="#3465a4"><title>Kansai St Andrews Society</title></circle></a><a href="/variants/s6/w1db15r1n10g2lp1~x4/"><circle cx="292.8" cy="162.8" r="4" fill="#3465a4"><title>Peterson, Oren (Name)</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x4/"><circle cx="215.3" cy="150.0" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/"><circle cx="215.3" cy="150.0" r="4" fill="#3465a4"><title>Yorkshire, C.C.C.</title></circle></a><a href="/variants/s11/db4g2db24g8b2r2b2y2b10db2w3~x2/"><circle cx="239.3" cy="140.8" r="4" fill="#3465a4"><title>McCartney (Night)</title></circle></a><a href="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-lb3103284/"><circle cx="300.3" cy="167.5" r="4" fill="#3465a4"><title>Blue Ridge Highlands Heritage (Dist)</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="241.6" cy="212.4" r="4" fill="#3465a4"><title>Jamieson, Robert (Personal)</title></circle></a><a href="/variants/s9/db32r4db4dy4db9n9db4n16w7~x2/"><circle cx="275.5" cy="192.8" r="4" fill="#3465a4"><title>Nevada State American District Tartan</title></circle></a><a href="/variants/s6/m1g2n10r1db15w1~x4/"><circle cx="296.8" cy="162.5" r="4" fill="#3465a4"><title>Oren Peterson</title></circle></a><circle cx="253.7" cy="170.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db30b10n10db5r3y3g3~x2/"><circle cx="310.2" cy="188.1" r="4" fill="#3465a4"><title>Wrigglesworth Family Canada (Personal)</title></circle></a><a href="/variants/s10/dbi30w2r3w2db14lr3g14dbi18r2dbi3~x2~dbi1605267-db0906265/"><circle cx="280.8" cy="145.5" r="4" fill="#3465a4"><title>Kansai St Andrews Society</title></circle></a><a href="/variants/s6/w1db15r1n10g2lp1~x4/"><circle cx="292.8" cy="163.0" r="4" fill="#3465a4"><title>Peterson, Oren (Name)</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x4/"><circle cx="215.3" cy="150.4" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/"><circle cx="215.3" cy="150.4" r="4" fill="#3465a4"><title>Yorkshire, C.C.C.</title></circle></a><a href="/variants/s11/db4g2db24g8b2r2b2y2b10db2w3~x2/"><circle cx="239.3" cy="141.0" r="4" fill="#3465a4"><title>McCartney (Night)</title></circle></a><a href="/variants/s8/t27db9lb3dg6db33lb3dr3y2~x2~t2503227-lb3103284/"><circle cx="300.3" cy="167.7" r="4" fill="#3465a4"><title>Blue Ridge Highlands Heritage (Dist)</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="241.7" cy="212.9" r="4" fill="#3465a4"><title>Jamieson, Robert (Personal)</title></circle></a><a href="/variants/s9/db32r4db4dy4db9n9db4n16w7~x2/"><circle cx="275.6" cy="193.2" r="4" fill="#3465a4"><title>Nevada State American District Tartan</title></circle></a><a href="/variants/s6/m1g2n10r1db15w1~x4/"><circle cx="296.8" cy="162.7" r="4" fill="#3465a4"><title>Oren Peterson</title></circle></a><circle cx="253.7" cy="170.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db30t10lb10db5r3y3g3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Barbecue Plaid (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y2k2r2w8k14r1k1r1k1r1/)
 (the same proportion at any scale), whose colour order is pattern [GKRWKRKRKR](/stripes/gkrwkrkrkr/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1607
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1607](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1607)
 
 ## Provenance
 
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb5r5k58r5lb5r5w25r5lb4/"><circle cx="214.3" cy="115.8" r="4" fill="#3465a4"><title>Meg Merrilees, New (1831)</title></circle></a><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="257.2" cy="132.8" r="4" fill="#3465a4"><title>Cunard o' the Clyde</title></circle></a><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/"><circle cx="280.4" cy="110.8" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s10/k44w3lo16w2lo2w2lo2y10k3y8~x2/"><circle cx="239.1" cy="96.8" r="4" fill="#3465a4"><title>Wcwm 1399</title></circle></a><a href="/variants/s7/w3r10k38n11r6k2w3~x2/"><circle cx="259.0" cy="125.7" r="4" fill="#3465a4"><title>Phantom (Corporate)</title></circle></a><a href="/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/"><circle cx="262.9" cy="92.1" r="4" fill="#3465a4"><title>Good Conduct (USA)</title></circle></a><a href="/variants/s8/r12k2w8k4n16r2k31n2/"><circle cx="203.5" cy="140.4" r="4" fill="#3465a4"><title>Distripress Annual Congress 2012</title></circle></a><a href="/variants/s9/k38lb2o24w2k16o6lb2k3lb5~x2/"><circle cx="284.9" cy="120.3" r="4" fill="#3465a4"><title>Universal Scientific Indust (Corp.)</title></circle></a><a href="/variants/s9/y4k4g12k37w4k4w16k2w4~x2/"><circle cx="239.0" cy="124.1" r="4" fill="#3465a4"><title>Gordon Dress (MacGregor-Hastie)</title></circle></a><a href="/variants/s10/k6lb2n2lb3n2lb2n30k20w6k4~x2/"><circle cx="205.0" cy="124.4" r="4" fill="#3465a4"><title>Nunavut (District)</title></circle></a><circle cx="236.0" cy="114.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb5r5k58r5lb5r5w25r5lb4/"><circle cx="214.2" cy="116.2" r="4" fill="#3465a4"><title>Meg Merrilees, New (1831)</title></circle></a><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="257.2" cy="133.2" r="4" fill="#3465a4"><title>Cunard o' the Clyde</title></circle></a><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/"><circle cx="280.3" cy="111.1" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s10/k44w3lo16w2lo2w2lo2y10k3y8~x2/"><circle cx="239.0" cy="97.1" r="4" fill="#3465a4"><title>Wcwm 1399</title></circle></a><a href="/variants/s7/w3r10k38n11r6k2w3~x2/"><circle cx="259.0" cy="126.1" r="4" fill="#3465a4"><title>Phantom (Corporate)</title></circle></a><a href="/variants/s10/db5r12k38r4w2r2w2r2w2r4~x2/"><circle cx="262.8" cy="92.3" r="4" fill="#3465a4"><title>Good Conduct (USA)</title></circle></a><a href="/variants/s8/r12k2w8k4n16r2k31n2/"><circle cx="203.5" cy="140.8" r="4" fill="#3465a4"><title>Distripress Annual Congress 2012</title></circle></a><a href="/variants/s9/k38lb2o24w2k16o6lb2k3lb5~x2/"><circle cx="284.8" cy="120.6" r="4" fill="#3465a4"><title>Universal Scientific Indust (Corp.)</title></circle></a><a href="/variants/s9/y4k4g12k37w4k4w16k2w4~x2/"><circle cx="238.9" cy="124.5" r="4" fill="#3465a4"><title>Gordon Dress (MacGregor-Hastie)</title></circle></a><a href="/variants/s10/k6lb2n2lb3n2lb2n30k20w6k4~x2/"><circle cx="205.0" cy="124.8" r="4" fill="#3465a4"><title>Nunavut (District)</title></circle></a><circle cx="235.9" cy="114.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/y2k2r2w8k14r1k1r1k1r1~x2/

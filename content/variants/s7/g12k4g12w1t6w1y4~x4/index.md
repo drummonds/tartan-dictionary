@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pinder, Nigel (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g12k4g12w1t6w1y4/)
 (the same proportion at any scale), whose colour order is pattern [GKGWBWG](/stripes/gkgwbwg/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8510
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8510](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8510)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="233.1" cy="166.9" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/variants/s7/g10r3g30n10w2db15r4~x2/"><circle cx="289.7" cy="189.2" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="312.6" cy="129.0" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s6/k4g21w3g21db21r4~x2/"><circle cx="226.8" cy="210.9" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/variants/s6/k4g21w3g21db21r4/"><circle cx="226.8" cy="210.9" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/variants/s6/g20k2g20dp25w2lb3~x2/"><circle cx="268.0" cy="180.2" r="4" fill="#3465a4"><title>Lawrence of Broughty Ferry</title></circle></a><a href="/variants/s7/g12k1r1k1t2k1ly4~x8~r2806019-ly3106095/"><circle cx="241.0" cy="146.9" r="4" fill="#3465a4"><title>Alberta (District)</title></circle></a><a href="/variants/s7/g12k1r1k1lb2k1y4~x2/"><circle cx="248.7" cy="147.8" r="4" fill="#3465a4"><title>Alberta District Tartan</title></circle></a><a href="/variants/s7/g13k1r1k1t2k1ly4~x8/"><circle cx="256.3" cy="140.1" r="4" fill="#3465a4"><title>Alberta (Province)</title></circle></a><a href="/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/"><circle cx="174.4" cy="164.7" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><circle cx="270.4" cy="191.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="233.1" cy="167.4" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/variants/s7/g10r3g30n10w2db15r4~x2/"><circle cx="289.7" cy="189.6" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="312.5" cy="129.3" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s6/k4g21w3g21db21r4~x2/"><circle cx="226.9" cy="211.4" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/variants/s6/k4g21w3g21db21r4/"><circle cx="226.9" cy="211.4" r="4" fill="#3465a4"><title>Duncan</title></circle></a><a href="/variants/s6/g20k2g20dp25w2lb3~x2/"><circle cx="268.0" cy="180.7" r="4" fill="#3465a4"><title>Lawrence of Broughty Ferry</title></circle></a><a href="/variants/s7/g12k1r1k1t2k1ly4~x8~r2806019-ly3106095/"><circle cx="241.0" cy="147.3" r="4" fill="#3465a4"><title>Alberta (District)</title></circle></a><a href="/variants/s7/g12k1r1k1lb2k1y4~x2/"><circle cx="248.7" cy="148.2" r="4" fill="#3465a4"><title>Alberta District Tartan</title></circle></a><a href="/variants/s7/g13k1r1k1t2k1ly4~x8/"><circle cx="256.2" cy="140.4" r="4" fill="#3465a4"><title>Alberta (Province)</title></circle></a><a href="/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/"><circle cx="174.4" cy="165.2" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><circle cx="270.5" cy="191.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g12k4g12w1t6w1y4~x4/

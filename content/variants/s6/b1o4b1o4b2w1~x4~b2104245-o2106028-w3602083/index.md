@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tarim"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b1o4b1o4b2w1/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBW](/stripes/brbrbw/).
 
 Sourced from research.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.penn.museum/sites/expedition/ancient-mummies-of-the-tarim-basin/
+Original link [https://www.penn.museum/sites/expedition/ancient-mummies-of-the-tarim-basin/](https://www.penn.museum/sites/expedition/ancient-mummies-of-the-tarim-basin/)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -43,8 +45,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db1r3db1r3db6g1~x4/"><circle cx="311.1" cy="250.9" r="4" fill="#3465a4"><title>Robbins</title></circle></a><a href="/variants/s6/t6r6w1r6t6y1~x8~r2607041/"><circle cx="295.3" cy="280.9" r="4" fill="#3465a4"><title>Unidentified Lindley</title></circle></a><a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/"><circle cx="344.6" cy="230.2" r="4" fill="#3465a4"><title>British European</title></circle></a><a href="/variants/s6/r12db2r12db17w2r2~x4/"><circle cx="326.8" cy="222.0" r="4" fill="#3465a4"><title>British European (Corporate)</title></circle></a><a href="/variants/s6/r34w4db7y10db7r18~x2/"><circle cx="362.2" cy="212.4" r="4" fill="#3465a4"><title>Ploysongsang, Edward Thiravej (Personal)</title></circle></a><a href="/variants/s6/r34w4lb7ly10lb7r18~x2/"><circle cx="377.8" cy="218.9" r="4" fill="#3465a4"><title>Ploysongsang, Edward Thiravej (Pers</title></circle></a><a href="/variants/s6/r2t13dr3t3dr16lb2~x4/"><circle cx="304.1" cy="225.2" r="4" fill="#3465a4"><title>MacArthur-Fox Blue (Personal)</title></circle></a><a href="/variants/s6/ri2db13r3db3r16lb2~x4~ri2008029-r1506028/"><circle cx="324.9" cy="225.2" r="4" fill="#3465a4"><title>MacArthur-Fox, dress</title></circle></a><a href="/variants/s5/y6r1y4r4db2~x5/"><circle cx="374.5" cy="301.7" r="4" fill="#3465a4"><title>Sands-Pingot Family, Alabama (Personal)</title></circle></a><a href="/variants/s6/y42b15r28y12b6r20/"><circle cx="333.8" cy="291.6" r="4" fill="#3465a4"><title>Kozlosky, Kilt</title></circle></a><circle cx="386.0" cy="295.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db1r3db1r3db6g1~x4/"><circle cx="311.2" cy="251.6" r="4" fill="#3465a4"><title>Robbins</title></circle></a><a href="/variants/s6/t6r6w1r6t6y1~x8~r2607041/"><circle cx="295.5" cy="281.5" r="4" fill="#3465a4"><title>Unidentified Lindley</title></circle></a><a href="/variants/s6/r12db2r12db17w2r2~x2~r1807033/"><circle cx="344.8" cy="230.8" r="4" fill="#3465a4"><title>British European</title></circle></a><a href="/variants/s6/r12db2r12db17w2r2~x4/"><circle cx="327.0" cy="222.6" r="4" fill="#3465a4"><title>British European (Corporate)</title></circle></a><a href="/variants/s6/r34w4db7y10db7r18~x2/"><circle cx="362.3" cy="213.0" r="4" fill="#3465a4"><title>Ploysongsang, Edward Thiravej (Personal)</title></circle></a><a href="/variants/s6/r34w4lb7ly10lb7r18~x2/"><circle cx="378.0" cy="219.5" r="4" fill="#3465a4"><title>Ploysongsang, Edward Thiravej (Pers</title></circle></a><a href="/variants/s6/r2t13dr3t3dr16lb2~x4/"><circle cx="304.2" cy="225.7" r="4" fill="#3465a4"><title>MacArthur-Fox Blue (Personal)</title></circle></a><a href="/variants/s6/ri2db13r3db3r16lb2~x4~ri2008029-r1506028/"><circle cx="325.0" cy="225.7" r="4" fill="#3465a4"><title>MacArthur-Fox, dress</title></circle></a><a href="/variants/s5/y6r1y4r4db2~x5/"><circle cx="374.7" cy="302.4" r="4" fill="#3465a4"><title>Sands-Pingot Family, Alabama (Personal)</title></circle></a><a href="/variants/s6/y42b15r28y12b6r20/"><circle cx="334.1" cy="292.2" r="4" fill="#3465a4"><title>Kozlosky, Kilt</title></circle></a><circle cx="386.3" cy="295.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/

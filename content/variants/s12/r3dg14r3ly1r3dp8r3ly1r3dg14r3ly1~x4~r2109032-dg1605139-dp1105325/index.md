@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's No.213"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3dg14r3ly1r3dp8r3ly1r3dg14r3ly1/)
 (the same proportion at any scale), whose colour order is pattern [RGRYRBRYRGRY](/stripes/rgryrbryrgry/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4744
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4744](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4744)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/o10lb2g3lb2do24lb4do4o34do2lb3do2~x2/"><circle cx="342.6" cy="153.7" r="4" fill="#3465a4"><title>Fort William (Fashion)</title></circle></a><a href="/variants/s10/g3r2db2r14t1db4r2g12r2db2~x8/"><circle cx="271.0" cy="167.8" r="4" fill="#3465a4"><title>MacKillop (Clan)</title></circle></a><a href="/variants/s14/r2ri4g2db2ri6g14ri2db2g2ri12g7r2ri5w1~x2~r1506028-ri2008029/"><circle cx="261.2" cy="155.8" r="4" fill="#3465a4"><title>MacDonald of Staffa 4</title></circle></a><a href="/variants/s12/r3g3r3g14r3g3r3db5r18y2r8y2~x2/"><circle cx="325.7" cy="186.5" r="4" fill="#3465a4"><title>Burns</title></circle></a><a href="/variants/s12/r6g28r6dp2r6dp19r6dp2r6g28r6dp2~x2~dp1607327/"><circle cx="302.6" cy="182.8" r="4" fill="#3465a4"><title>Wilson's No.119</title></circle></a><a href="/variants/s10/t10r2w2r16g6r1g2r1g3r6~x4/"><circle cx="318.6" cy="170.0" r="4" fill="#3465a4"><title>Harkness Dress (Name)</title></circle></a><a href="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/"><circle cx="253.2" cy="153.4" r="4" fill="#3465a4"><title>MacDonald of Staffa #5</title></circle></a><a href="/variants/s12/r2g2r2g8r2g2r2db2r11y1r4y1~x4/"><circle cx="353.8" cy="178.3" r="4" fill="#3465a4"><title>Burns 1930</title></circle></a><a href="/variants/s9/y20db27r6db15y8db11y78dbi10r12~db1204274-dbi1406275/"><circle cx="357.7" cy="183.3" r="4" fill="#3465a4"><title>Braken Tartan</title></circle></a><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/"><circle cx="344.6" cy="134.1" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><circle cx="300.3" cy="172.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/o10lb2g3lb2do24lb4do4o34do2lb3do2~x2/"><circle cx="342.6" cy="153.9" r="4" fill="#3465a4"><title>Fort William (Fashion)</title></circle></a><a href="/variants/s10/g3r2db2r14t1db4r2g12r2db2~x8/"><circle cx="271.0" cy="168.2" r="4" fill="#3465a4"><title>MacKillop (Clan)</title></circle></a><a href="/variants/s14/r2ri4g2db2ri6g14ri2db2g2ri12g7r2ri5w1~x2~r1506028-ri2008029/"><circle cx="261.2" cy="156.1" r="4" fill="#3465a4"><title>MacDonald of Staffa 4</title></circle></a><a href="/variants/s12/r3g3r3g14r3g3r3db5r18y2r8y2~x2/"><circle cx="325.8" cy="186.9" r="4" fill="#3465a4"><title>Burns</title></circle></a><a href="/variants/s12/r6g28r6dp2r6dp19r6dp2r6g28r6dp2~x2~dp1607327/"><circle cx="302.7" cy="183.2" r="4" fill="#3465a4"><title>Wilson's No.119</title></circle></a><a href="/variants/s10/t10r2w2r16g6r1g2r1g3r6~x4/"><circle cx="318.6" cy="170.4" r="4" fill="#3465a4"><title>Harkness Dress (Name)</title></circle></a><a href="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/"><circle cx="253.2" cy="153.7" r="4" fill="#3465a4"><title>MacDonald of Staffa #5</title></circle></a><a href="/variants/s12/r2g2r2g8r2g2r2db2r11y1r4y1~x4/"><circle cx="353.8" cy="178.7" r="4" fill="#3465a4"><title>Burns 1930</title></circle></a><a href="/variants/s9/y20db27r6db15y8db11y78dbi10r12~db1204274-dbi1406275/"><circle cx="357.8" cy="183.6" r="4" fill="#3465a4"><title>Braken Tartan</title></circle></a><a href="/variants/s12/r7ri2db2r2g32r6db12r41g2r5ri2g5~x2~r1707016-ri2208029/"><circle cx="344.5" cy="134.3" r="4" fill="#3465a4"><title>MacDougall #5</title></circle></a><circle cx="300.3" cy="172.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r3dg14r3ly1r3dp8r3ly1r3dg14r3ly1~x4~r2109032-dg1605139-dp1105325/

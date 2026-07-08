@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/glen/"
 - name: "Glen Innes"
   url: "/tartans/glen-innes/"
+- name: "Glen Innes (Australia)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t142db12b24w7b5w5b5r10/)
 (the same proportion at any scale), whose colour order is pattern [BBBWBWBR](/stripes/bbbwbwbr/).
@@ -16,7 +18,7 @@ Part of the [Glen Innes](/tartans/glen-innes/) tartan — the named design group
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6011
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6011](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6011)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb66w2lb10w2lb10w2lb12r3db24~x2/"><circle cx="481.5" cy="119.3" r="4" fill="#3465a4"><title>RAAF #5</title></circle></a><a href="/variants/s6/db51t8w4t30r1t9~x2/"><circle cx="387.5" cy="154.8" r="4" fill="#3465a4"><title>Navy-Radar</title></circle></a><a href="/variants/s7/t62db22w3db2w2db3r1~x2/"><circle cx="474.8" cy="119.4" r="4" fill="#3465a4"><title>North Tyneside (Corporate)</title></circle></a><a href="/variants/s8/lb8db10dbi69w6dbi6r8t19lb3~lb3300000-db0705267-dbi1404245-t2105244/"><circle cx="319.6" cy="120.8" r="4" fill="#3465a4"><title>Virginia International Tattoo Hixon</title></circle></a><a href="/variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/"><circle cx="431.8" cy="77.2" r="4" fill="#3465a4"><title>Royal College of Midwives</title></circle></a><a href="/variants/s8/lb8db10t69w6t6r8lbi19lb3~lb3200000-t2503227-lbi3203246/"><circle cx="363.7" cy="137.9" r="4" fill="#3465a4"><title>Virginia International Tattoo Hixon</title></circle></a><a href="/variants/s6/t136db45w7db4r4db16/"><circle cx="462.3" cy="151.9" r="4" fill="#3465a4"><title>S.C.O.T.S</title></circle></a><a href="/variants/s7/t62db22w3db2w2db3r1~x2~db1204274-w3600000/"><circle cx="481.0" cy="120.4" r="4" fill="#3465a4"><title>North Tyneside Pipe Band</title></circle></a><a href="/variants/s6/db128r8lb41n4lb4n4/"><circle cx="437.9" cy="127.6" r="4" fill="#3465a4"><title>French Freemasons' Pride (Fashion)</title></circle></a><a href="/variants/s10/db46w1k3lb4k3t3k2t11k1lb2~x2~db1404245-t2308259/"><circle cx="359.9" cy="61.1" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><circle cx="435.3" cy="112.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb66w2lb10w2lb10w2lb12r3db24~x2/"><circle cx="481.5" cy="119.5" r="4" fill="#3465a4"><title>RAAF #5</title></circle></a><a href="/variants/s6/db51t8w4t30r1t9~x2/"><circle cx="387.5" cy="154.9" r="4" fill="#3465a4"><title>Navy-Radar</title></circle></a><a href="/variants/s7/t62db22w3db2w2db3r1~x2/"><circle cx="474.7" cy="119.5" r="4" fill="#3465a4"><title>North Tyneside (Corporate)</title></circle></a><a href="/variants/s8/lb8db10dbi69w6dbi6r8t19lb3~lb3300000-db0705267-dbi1404245-t2105244/"><circle cx="319.6" cy="120.9" r="4" fill="#3465a4"><title>Virginia International Tattoo Hixon</title></circle></a><a href="/variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/"><circle cx="431.8" cy="77.3" r="4" fill="#3465a4"><title>Royal College of Midwives</title></circle></a><a href="/variants/s8/lb8db10t69w6t6r8lbi19lb3~lb3200000-t2503227-lbi3203246/"><circle cx="363.7" cy="138.0" r="4" fill="#3465a4"><title>Virginia International Tattoo Hixon</title></circle></a><a href="/variants/s6/t136db45w7db4r4db16/"><circle cx="462.2" cy="152.1" r="4" fill="#3465a4"><title>S.C.O.T.S</title></circle></a><a href="/variants/s7/t62db22w3db2w2db3r1~x2~db1204274-w3600000/"><circle cx="481.0" cy="120.4" r="4" fill="#3465a4"><title>North Tyneside Pipe Band</title></circle></a><a href="/variants/s6/db128r8lb41n4lb4n4/"><circle cx="437.9" cy="127.8" r="4" fill="#3465a4"><title>French Freemasons' Pride (Fashion)</title></circle></a><a href="/variants/s10/db46w1k3lb4k3t3k2t11k1lb2~x2~db1404245-t2308259/"><circle cx="359.7" cy="61.1" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><circle cx="435.2" cy="112.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/t142db12b24w7b5w5b5r10~t2605232-db1108266-b1511266/

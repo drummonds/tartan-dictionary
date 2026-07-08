@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kinloch Anderson, dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4oi14w2o4w2k6oi3k6db14r2db4r4/)
 (the same proportion at any scale), whose colour order is pattern [RBRBKRKWRWRR](/stripes/rbrbkrkwrwrr/).
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r6db9k2db2k2db9k10y4n17r5k2r5w4~x2/"><circle cx="34.7" cy="152.7" r="4" fill="#3465a4"><title>Alberta Caledonia (Corporate)</title></circle></a><a href="/variants/s14/r13w2r13k3dr13g21db3k18db9k2db2k2db15w2~x2/"><circle cx="35.8" cy="135.3" r="4" fill="#3465a4"><title>Taiwan Scottish</title></circle></a><a href="/variants/s15/r6db2r6g10y1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="58.0" cy="135.0" r="4" fill="#3465a4"><title>MacPherson #7</title></circle></a><a href="/variants/s13/w3r6k3r8dg20w3k4y3r12k12lb21k3lb3~x2/"><circle cx="20.5" cy="144.9" r="4" fill="#3465a4"><title>Dykes, of Perthshire</title></circle></a><a href="/variants/s13/db23r6db6k10y3k2w2k2g11r12k2r10w2~x2/"><circle cx="78.7" cy="124.9" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x2/"><circle cx="14.0" cy="175.9" r="4" fill="#3465a4"><title>Prince Albert #2</title></circle></a><a href="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x4/"><circle cx="14.0" cy="175.9" r="4" fill="#3465a4"><title>Prince Albert #3</title></circle></a><a href="/variants/s16/db3g1k3db3k3g1db3g1r6w1r6db4y5db1y5g1~x4/"><circle cx="36.8" cy="172.0" r="4" fill="#3465a4"><title>Buchanan Incorrect</title></circle></a><a href="/variants/s11/dp6k3n19k6n4k3o12lb4o12w2dp5~x2~n1900000-o2500000/"><circle cx="84.8" cy="161.1" r="4" fill="#3465a4"><title>Scotland Forever Antique (Fashion)</title></circle></a><a href="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="73.8" cy="139.5" r="4" fill="#3465a4"><title>MacPherson #6</title></circle></a><circle cx="38.4" cy="157.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r6db9k2db2k2db9k10y4n17r5k2r5w4~x2/"><circle cx="34.6" cy="153.1" r="4" fill="#3465a4"><title>Alberta Caledonia (Corporate)</title></circle></a><a href="/variants/s14/r13w2r13k3dr13g21db3k18db9k2db2k2db15w2~x2/"><circle cx="35.7" cy="135.6" r="4" fill="#3465a4"><title>Taiwan Scottish</title></circle></a><a href="/variants/s15/r6db2r6g10y1k10db6k1db2k1db6r6w2k2r2~x2/"><circle cx="58.0" cy="135.4" r="4" fill="#3465a4"><title>MacPherson #7</title></circle></a><a href="/variants/s13/w3r6k3r8dg20w3k4y3r12k12lb21k3lb3~x2/"><circle cx="20.5" cy="145.3" r="4" fill="#3465a4"><title>Dykes, of Perthshire</title></circle></a><a href="/variants/s13/db23r6db6k10y3k2w2k2g11r12k2r10w2~x2/"><circle cx="78.7" cy="125.2" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x2/"><circle cx="14.0" cy="176.4" r="4" fill="#3465a4"><title>Prince Albert #2</title></circle></a><a href="/variants/s13/r3db9r2k7y2k2w2k2g6r5k2r2w2~x4/"><circle cx="14.0" cy="176.4" r="4" fill="#3465a4"><title>Prince Albert #3</title></circle></a><a href="/variants/s16/db3g1k3db3k3g1db3g1r6w1r6db4y5db1y5g1~x4/"><circle cx="36.8" cy="172.4" r="4" fill="#3465a4"><title>Buchanan Incorrect</title></circle></a><a href="/variants/s11/dp6k3n19k6n4k3o12lb4o12w2dp5~x2~n1900000-o2500000/"><circle cx="84.8" cy="161.5" r="4" fill="#3465a4"><title>Scotland Forever Antique (Fashion)</title></circle></a><a href="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="73.8" cy="139.8" r="4" fill="#3465a4"><title>MacPherson #6</title></circle></a><circle cx="38.3" cy="158.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r4oi14w2o4w2k6oi3k6db14r2db4r4~x2~oi2104058-o2102055/

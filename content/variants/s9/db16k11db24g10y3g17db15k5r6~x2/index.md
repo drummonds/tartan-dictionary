@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glackin-McColgan (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db16k11db24g10y3g17db15k5r6/)
 (the same proportion at any scale), whose colour order is pattern [BKBGGGBKR](/stripes/bkbgggbkr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11609
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11609](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11609)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db8k1db8k2g6r1g6k2db8w1~x2/"><circle cx="220.2" cy="185.4" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s8/db32k12db12g6r6g18k2y3~x2/"><circle cx="210.2" cy="158.5" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s6/db11w2db11k4g8r1~x2/"><circle cx="191.7" cy="178.6" r="4" fill="#3465a4"><title>Dalmeny - 2002 (Fashion)</title></circle></a><a href="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/"><circle cx="208.2" cy="204.0" r="4" fill="#3465a4"><title>Notre Dame Marching Guard</title></circle></a><a href="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/"><circle cx="257.0" cy="152.5" r="4" fill="#3465a4"><title>Montreat</title></circle></a><a href="/variants/s10/db2lo1db6dr1db2dr2k2g6lb1g2~x4/"><circle cx="112.3" cy="185.6" r="4" fill="#3465a4"><title>Nance (1998)</title></circle></a><a href="/variants/s8/db16g8dbi8g8db16r3o3b3~x2~db0805267-dbi1604274/"><circle cx="176.8" cy="221.2" r="4" fill="#3465a4"><title>Glen Erin</title></circle></a><a href="/variants/s7/db16g14w2g14k13db12k4~x2/"><circle cx="131.9" cy="242.2" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Clan)</title></circle></a><a href="/variants/s7/r1b8k4g6k4b8y1~x6~g2003152/"><circle cx="177.8" cy="206.8" r="4" fill="#3465a4"><title>Quinn</title></circle></a><a href="/variants/s10/db19dg7db7lb2dg20k9dg6k4dg10w3~x2/"><circle cx="215.6" cy="188.4" r="4" fill="#3465a4"><title>O'Connell, William Benedict (Personal)</title></circle></a><circle cx="179.6" cy="206.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db8k1db8k2g6r1g6k2db8w1~x2/"><circle cx="220.2" cy="185.8" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s8/db32k12db12g6r6g18k2y3~x2/"><circle cx="210.1" cy="158.9" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/variants/s6/db11w2db11k4g8r1~x2/"><circle cx="191.7" cy="179.0" r="4" fill="#3465a4"><title>Dalmeny - 2002 (Fashion)</title></circle></a><a href="/variants/s10/g9t9k24t35dr5t35k24t9g9dr5~x2/"><circle cx="208.2" cy="204.6" r="4" fill="#3465a4"><title>Notre Dame Marching Guard</title></circle></a><a href="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/"><circle cx="256.9" cy="152.8" r="4" fill="#3465a4"><title>Montreat</title></circle></a><a href="/variants/s10/db2lo1db6dr1db2dr2k2g6lb1g2~x4/"><circle cx="112.3" cy="186.0" r="4" fill="#3465a4"><title>Nance (1998)</title></circle></a><a href="/variants/s8/db16g8dbi8g8db16r3o3b3~x2~db0805267-dbi1604274/"><circle cx="176.9" cy="221.6" r="4" fill="#3465a4"><title>Glen Erin</title></circle></a><a href="/variants/s7/db16g14w2g14k13db12k4~x2/"><circle cx="132.0" cy="242.8" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Clan)</title></circle></a><a href="/variants/s7/r1b8k4g6k4b8y1~x6~g2003152/"><circle cx="177.9" cy="207.4" r="4" fill="#3465a4"><title>Quinn</title></circle></a><a href="/variants/s10/db19dg7db7lb2dg20k9dg6k4dg10w3~x2/"><circle cx="215.6" cy="188.7" r="4" fill="#3465a4"><title>O'Connell, William Benedict (Personal)</title></circle></a><circle cx="179.7" cy="207.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db16k11db24g10y3g17db15k5r6~x2/

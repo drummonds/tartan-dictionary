@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's, No 196"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b9g9k10lb2/)
 (the same proportion at any scale), whose colour order is pattern [BGKW](/stripes/bgkw/).
 
 Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db4k5g4r1~x4/"><circle cx="108.4" cy="281.9" r="4" fill="#3465a4"><title>Unidentified pattern #3</title></circle></a><a href="/variants/s5/r4g15k15db15w4~x2/"><circle cx="37.1" cy="258.3" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s5/k4w2g8db8w1/"><circle cx="129.1" cy="237.1" r="4" fill="#3465a4"><title>Douglas Green</title></circle></a><a href="/variants/s5/k4lb2g8db8w1~x2/"><circle cx="116.7" cy="225.6" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/variants/s5/k4lb2g8db8w1/"><circle cx="116.7" cy="225.6" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/variants/s5/r1db7k7g7w1~x6/"><circle cx="91.3" cy="223.1" r="4" fill="#3465a4"><title>Davidson of Tulloch (Clan)</title></circle></a><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="114.8" cy="230.9" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/variants/s5/r1db6k3g6w1~x4/"><circle cx="106.6" cy="227.1" r="4" fill="#3465a4"><title>Davidson of Tulloch #2</title></circle></a><a href="/variants/s5/r1db6k3g6w1/"><circle cx="106.6" cy="227.1" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/r1db6k3g6w1~x2/"><circle cx="106.6" cy="227.1" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><circle cx="90.8" cy="283.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db4k5g4r1~x4/"><circle cx="108.5" cy="282.7" r="4" fill="#3465a4"><title>Unidentified pattern #3</title></circle></a><a href="/variants/s5/r4g15k15db15w4~x2/"><circle cx="37.2" cy="259.0" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s5/k4w2g8db8w1/"><circle cx="129.1" cy="237.7" r="4" fill="#3465a4"><title>Douglas Green</title></circle></a><a href="/variants/s5/k4lb2g8db8w1~x2/"><circle cx="116.8" cy="226.2" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/variants/s5/k4lb2g8db8w1/"><circle cx="116.8" cy="226.2" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/variants/s5/r1db7k7g7w1~x6/"><circle cx="91.3" cy="223.7" r="4" fill="#3465a4"><title>Davidson of Tulloch (Clan)</title></circle></a><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="114.9" cy="231.5" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/variants/s5/r1db6k3g6w1~x4/"><circle cx="106.6" cy="227.8" r="4" fill="#3465a4"><title>Davidson of Tulloch #2</title></circle></a><a href="/variants/s5/r1db6k3g6w1/"><circle cx="106.6" cy="227.8" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/variants/s5/r1db6k3g6w1~x2/"><circle cx="106.6" cy="227.8" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><circle cx="91.0" cy="283.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/b9g9k10lb2~x2/

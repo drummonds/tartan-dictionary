@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Leonard Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k10dp5k30dp5k10dp9/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBK](/stripes/bkbkbk/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2099
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2099](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2099)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k30dp5k10dp9~x4/"><circle cx="491.8" cy="280.2" r="4" fill="#3465a4"><title>Leonard Hunting (Name)</title></circle></a><a href="/variants/s8/k21dp15k5dp15k5dp15k21w2~x2~dp1205314/"><circle cx="306.7" cy="227.4" r="4" fill="#3465a4"><title>Highland Spirit Weavers Tartan</title></circle></a><a href="/variants/s5/k2dr4k7dr1k2~x2/"><circle cx="445.2" cy="266.4" r="4" fill="#3465a4"><title>Romsdal Tresfjord</title></circle></a><a href="/variants/s4/k20dp3k20dp20~x2/"><circle cx="401.0" cy="303.3" r="4" fill="#3465a4"><title>Wcwm 9275-1333-1</title></circle></a><a href="/variants/s7/k14dp2k4lb3k12dp8k1~x2/"><circle cx="379.7" cy="184.6" r="4" fill="#3465a4"><title>Punky Princess</title></circle></a><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><circle cx="421.0" cy="242.5" r="4" fill="#3465a4"><title>Taiheiyo Club, Inc.</title></circle></a><circle cx="471.5" cy="261.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k30dp5k10dp9~x4/"><circle cx="492.0" cy="280.8" r="4" fill="#3465a4"><title>Leonard Hunting (Name)</title></circle></a><a href="/variants/s8/k21dp15k5dp15k5dp15k21w2~x2~dp1205314/"><circle cx="306.8" cy="227.9" r="4" fill="#3465a4"><title>Highland Spirit Weavers Tartan</title></circle></a><a href="/variants/s5/k2dr4k7dr1k2~x2/"><circle cx="445.3" cy="267.0" r="4" fill="#3465a4"><title>Romsdal Tresfjord</title></circle></a><a href="/variants/s4/k20dp3k20dp20~x2/"><circle cx="401.2" cy="304.0" r="4" fill="#3465a4"><title>Wcwm 9275-1333-1</title></circle></a><a href="/variants/s7/k14dp2k4lb3k12dp8k1~x2/"><circle cx="379.7" cy="185.1" r="4" fill="#3465a4"><title>Punky Princess</title></circle></a><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><circle cx="421.1" cy="243.0" r="4" fill="#3465a4"><title>Taiheiyo Club, Inc.</title></circle></a><circle cx="471.6" cy="262.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k10dp5k30dp5k10dp9~x4/

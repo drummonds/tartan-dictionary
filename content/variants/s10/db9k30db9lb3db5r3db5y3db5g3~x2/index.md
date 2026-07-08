@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fed. of Circles & Solitaries (Corp.)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db9k30db9lb3db5r3db5y3db5g3/)
 (the same proportion at any scale), whose colour order is pattern [BKBWBRBGBG](/stripes/bkbwbrbgbg/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6696
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6696](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6696)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db13k14g6k14db14w1r1y1g1db3~x2/"><circle cx="189.5" cy="135.3" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><a href="/variants/s11/k3b2k12dg4db19r3db19dg4k12b2y3~x2/"><circle cx="187.8" cy="153.9" r="4" fill="#3465a4"><title>Loch Lomond Millennium</title></circle></a><a href="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/"><circle cx="201.6" cy="160.2" r="4" fill="#3465a4"><title>Lawtie (Personal)</title></circle></a><a href="/variants/s11/dr1db15k2ly1k1t1k5dr4k1dr2w1~x4/"><circle cx="200.0" cy="102.0" r="4" fill="#3465a4"><title>Glen Stewart</title></circle></a><a href="/variants/s11/db12r4db64k64g7w7lo7k64db64r4db12/"><circle cx="229.8" cy="117.0" r="4" fill="#3465a4"><title>Sandhu (Name)</title></circle></a><a href="/variants/s8/k37r4db30n7k10w5n10y7~x2~n1700000-y2400000/"><circle cx="134.2" cy="153.3" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="157.6" cy="123.0" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><a href="/variants/s6/y4lb8dp4k53db54w4/"><circle cx="199.7" cy="139.4" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><a href="/variants/s11/db5dr2db8y2dr3k9dr2db18k9dbi4w2~x2~db1406275-dbi1706275/"><circle cx="186.5" cy="155.8" r="4" fill="#3465a4"><title>Royal Gourock Yacht Club, The</title></circle></a><a href="/variants/s9/w1db12k9dg1k1dg5lb1dg3lo1~x4/"><circle cx="139.4" cy="135.5" r="4" fill="#3465a4"><title>St. Andrews Golf Club (Corporate)</title></circle></a><circle cx="187.4" cy="134.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db13k14g6k14db14w1r1y1g1db3~x2/"><circle cx="189.4" cy="135.5" r="4" fill="#3465a4"><title>Scotshill</title></circle></a><a href="/variants/s11/k3b2k12dg4db19r3db19dg4k12b2y3~x2/"><circle cx="187.7" cy="154.2" r="4" fill="#3465a4"><title>Loch Lomond Millennium</title></circle></a><a href="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/"><circle cx="201.6" cy="160.5" r="4" fill="#3465a4"><title>Lawtie (Personal)</title></circle></a><a href="/variants/s11/dr1db15k2ly1k1t1k5dr4k1dr2w1~x4/"><circle cx="199.9" cy="102.1" r="4" fill="#3465a4"><title>Glen Stewart</title></circle></a><a href="/variants/s11/db12r4db64k64g7w7lo7k64db64r4db12/"><circle cx="229.7" cy="117.2" r="4" fill="#3465a4"><title>Sandhu (Name)</title></circle></a><a href="/variants/s8/k37r4db30n7k10w5n10y7~x2~n1700000-y2400000/"><circle cx="134.2" cy="153.7" r="4" fill="#3465a4"><title>Yates</title></circle></a><a href="/variants/s11/db4y2db24k2db5r3k14g14w3r3db3~x2/"><circle cx="157.5" cy="123.2" r="4" fill="#3465a4"><title>Czech National (District)</title></circle></a><a href="/variants/s6/y4lb8dp4k53db54w4/"><circle cx="199.6" cy="139.6" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><a href="/variants/s11/db5dr2db8y2dr3k9dr2db18k9dbi4w2~x2~db1406275-dbi1706275/"><circle cx="186.5" cy="156.1" r="4" fill="#3465a4"><title>Royal Gourock Yacht Club, The</title></circle></a><a href="/variants/s9/w1db12k9dg1k1dg5lb1dg3lo1~x4/"><circle cx="139.3" cy="135.7" r="4" fill="#3465a4"><title>St. Andrews Golf Club (Corporate)</title></circle></a><circle cx="187.3" cy="135.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db9k30db9lb3db5r3db5y3db5g3~x2/

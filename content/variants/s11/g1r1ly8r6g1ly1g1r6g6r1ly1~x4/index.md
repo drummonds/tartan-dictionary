@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Strathearn (Royal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g1r1ly8r6g1ly1g1r6g6r1ly1/)
 (the same proportion at any scale), whose colour order is pattern [GRYRGYGRGRY](/stripes/gryrgygrgry/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1890
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1890](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1890)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy1r1ly7r7dy1ly1dy1r7ly7r1~x4~r2109032/"><circle cx="295.4" cy="215.3" r="4" fill="#3465a4"><title>Unidentified Lindley #5</title></circle></a><a href="/variants/s11/w2r4g8r16lb2r3g16r4lb2r4w2~x2/"><circle cx="272.8" cy="192.6" r="4" fill="#3465a4"><title>MacKinnon #10</title></circle></a><a href="/variants/s9/r3g3lo2r18w2g21lo2g2lo3~x2/"><circle cx="293.4" cy="179.6" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/variants/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2~g2408144/"><circle cx="315.2" cy="170.7" r="4" fill="#3465a4"><title>Antigua &amp; Barbuda</title></circle></a><a href="/variants/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2/"><circle cx="314.0" cy="169.9" r="4" fill="#3465a4"><title>Antigua &amp; Barbuda (District)</title></circle></a><a href="/variants/s6/r4ly1r3g1ly8g2~x4/"><circle cx="306.1" cy="249.5" r="4" fill="#3465a4"><title>Buchele Check (Fashion?)</title></circle></a><a href="/variants/s10/r8g2r2g6r1g6r2g2r8y1/"><circle cx="355.8" cy="232.3" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6do8r1do8r6g7r1g1/"><circle cx="234.1" cy="215.9" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="324.7" cy="205.6" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s12/lo28r3lo3db5lo3g3r3g12r3g3lo6db3~x2~lo2706066-r2109032/"><circle cx="314.3" cy="176.3" r="4" fill="#3465a4"><title>Bird of Paradise</title></circle></a><circle cx="267.0" cy="212.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy1r1ly7r7dy1ly1dy1r7ly7r1~x4~r2109032/"><circle cx="295.6" cy="215.9" r="4" fill="#3465a4"><title>Unidentified Lindley #5</title></circle></a><a href="/variants/s11/w2r4g8r16lb2r3g16r4lb2r4w2~x2/"><circle cx="272.9" cy="193.1" r="4" fill="#3465a4"><title>MacKinnon #10</title></circle></a><a href="/variants/s9/r3g3lo2r18w2g21lo2g2lo3~x2/"><circle cx="293.5" cy="180.0" r="4" fill="#3465a4"><title>MacDonald of Kingsburgh</title></circle></a><a href="/variants/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2~g2408144/"><circle cx="315.3" cy="171.0" r="4" fill="#3465a4"><title>Antigua &amp; Barbuda</title></circle></a><a href="/variants/s14/r30g3lo3g3lo3g3lo3g3lo3g3lo3g3lo10r5~x2/"><circle cx="314.1" cy="170.3" r="4" fill="#3465a4"><title>Antigua &amp; Barbuda (District)</title></circle></a><a href="/variants/s6/r4ly1r3g1ly8g2~x4/"><circle cx="306.3" cy="250.2" r="4" fill="#3465a4"><title>Buchele Check (Fashion?)</title></circle></a><a href="/variants/s10/r8g2r2g6r1g6r2g2r8y1/"><circle cx="356.0" cy="232.9" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6do8r1do8r6g7r1g1/"><circle cx="234.2" cy="216.3" r="4" fill="#3465a4"><title>MacNab</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="324.8" cy="206.0" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s12/lo28r3lo3db5lo3g3r3g12r3g3lo6db3~x2~lo2706066-r2109032/"><circle cx="314.3" cy="176.7" r="4" fill="#3465a4"><title>Bird of Paradise</title></circle></a><circle cx="267.1" cy="213.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/g1r1ly8r6g1ly1g1r6g6r1ly1~x4/

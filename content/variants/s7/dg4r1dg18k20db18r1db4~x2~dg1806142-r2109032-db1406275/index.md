@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Blair"
   url: "/tartans/blair/"
+- name: "Blair"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg4r1dg18k20db18r1db4/)
 (the same proportion at any scale), whose colour order is pattern [BRBKGRG](/stripes/brbkgrg/).
@@ -14,7 +16,7 @@ Part of the [Blair](/tartans/blair/) tartan — the named design grouping this s
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=291
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=291](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=291)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db4r1db18k20g18r1g4~x2/"><circle cx="176.7" cy="165.9" r="4" fill="#3465a4"><title>Blair (Name)</title></circle></a><a href="/variants/s7/db3r1db10k8g10r1g3~x4/"><circle cx="155.9" cy="203.1" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="187.1" cy="184.0" r="4" fill="#3465a4"><title>Gammell (1978) (Personal)</title></circle></a><a href="/variants/s7/db3r2db21k11g21r2g3~x2/"><circle cx="181.8" cy="187.0" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db21k11g21r2g3/"><circle cx="181.8" cy="187.0" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db2r2db21k11g21r2g2~x2/"><circle cx="182.4" cy="182.5" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s8/r7g3r2g33k31db31k3db3/"><circle cx="159.1" cy="157.5" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s7/g30db4g2k20db18r1db4~x2/"><circle cx="223.3" cy="146.3" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><a href="/variants/s8/db2g1db16r1k12g16r1g2~x2/"><circle cx="189.3" cy="154.9" r="4" fill="#3465a4"><title>Lochaber District</title></circle></a><a href="/variants/s8/g3r1g18k20r1db18lb1g2~x4/"><circle cx="166.3" cy="130.6" r="4" fill="#3465a4"><title>Lochaber #2</title></circle></a><circle cx="196.4" cy="170.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db4r1db18k20g18r1g4~x2/"><circle cx="176.7" cy="166.3" r="4" fill="#3465a4"><title>Blair (Name)</title></circle></a><a href="/variants/s7/db3r1db10k8g10r1g3~x4/"><circle cx="155.9" cy="203.6" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/variants/s7/db3r2db22k11g22r2g3~x2/"><circle cx="187.2" cy="184.5" r="4" fill="#3465a4"><title>Gammell (1978) (Personal)</title></circle></a><a href="/variants/s7/db3r2db21k11g21r2g3~x2/"><circle cx="181.9" cy="187.4" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db3r2db21k11g21r2g3/"><circle cx="181.9" cy="187.4" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s7/db2r2db21k11g21r2g2~x2/"><circle cx="182.4" cy="182.9" r="4" fill="#3465a4"><title>MacThomas</title></circle></a><a href="/variants/s8/r7g3r2g33k31db31k3db3/"><circle cx="159.0" cy="157.8" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s7/g30db4g2k20db18r1db4~x2/"><circle cx="223.2" cy="146.6" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><a href="/variants/s8/db2g1db16r1k12g16r1g2~x2/"><circle cx="189.3" cy="155.3" r="4" fill="#3465a4"><title>Lochaber District</title></circle></a><a href="/variants/s8/g3r1g18k20r1db18lb1g2~x4/"><circle cx="166.2" cy="130.8" r="4" fill="#3465a4"><title>Lochaber #2</title></circle></a><circle cx="196.4" cy="170.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dg4r1dg18k20db18r1db4~x2~dg1806142-r2109032-db1406275/

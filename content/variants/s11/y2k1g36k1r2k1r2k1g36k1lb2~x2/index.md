@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified #12"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y2k1g36k1r2k1r2k1g36k1lb2/)
 (the same proportion at any scale), whose colour order is pattern [GKGKRKRKGKW](/stripes/gkgkrkrkgkw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4213
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4213](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4213)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="341.4" cy="56.5" r="4" fill="#3465a4"><title>Princess Mary #2</title></circle></a><a href="/variants/s7/dr5k3dr9dg56lb4dg2w3/"><circle cx="442.9" cy="106.2" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/variants/s7/r5k3r9dg56db4dg2w3/"><circle cx="419.7" cy="93.3" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/variants/s7/r2g24k2g12y6k1r2~x2/"><circle cx="454.7" cy="153.8" r="4" fill="#3465a4"><title>Inman (2016)</title></circle></a><a href="/variants/s5/g62r7k4r4g62~x2/"><circle cx="607.8" cy="206.6" r="4" fill="#3465a4"><title>MacNab, Ancient</title></circle></a><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/"><circle cx="383.0" cy="93.3" r="4" fill="#3465a4"><title>Arnold Palmer Corporate Tartan</title></circle></a><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="358.1" cy="129.9" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/variants/s8/g83k6g3k9r2k5g2y2~x2/"><circle cx="488.0" cy="74.6" r="4" fill="#3465a4"><title>Stewart from Cairnie</title></circle></a><a href="/variants/s8/g165k12g6k18r4k10g4y4/"><circle cx="486.8" cy="74.9" r="4" fill="#3465a4"><title>Crane of Clunie</title></circle></a><a href="/variants/s8/g82k6g3k9r2k5g2dy2~x2/"><circle cx="485.3" cy="75.0" r="4" fill="#3465a4"><title>Crane of Cluny (Personal)</title></circle></a><circle cx="543.2" cy="72.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="341.2" cy="56.6" r="4" fill="#3465a4"><title>Princess Mary #2</title></circle></a><a href="/variants/s7/dr5k3dr9dg56lb4dg2w3/"><circle cx="442.8" cy="106.3" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/variants/s7/r5k3r9dg56db4dg2w3/"><circle cx="419.6" cy="93.5" r="4" fill="#3465a4"><title>MTV</title></circle></a><a href="/variants/s7/r2g24k2g12y6k1r2~x2/"><circle cx="454.7" cy="154.1" r="4" fill="#3465a4"><title>Inman (2016)</title></circle></a><a href="/variants/s5/g62r7k4r4g62~x2/"><circle cx="607.9" cy="207.1" r="4" fill="#3465a4"><title>MacNab, Ancient</title></circle></a><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/"><circle cx="382.9" cy="93.4" r="4" fill="#3465a4"><title>Arnold Palmer Corporate Tartan</title></circle></a><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="358.1" cy="130.2" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/variants/s8/g83k6g3k9r2k5g2y2~x2/"><circle cx="487.9" cy="74.8" r="4" fill="#3465a4"><title>Stewart from Cairnie</title></circle></a><a href="/variants/s8/g165k12g6k18r4k10g4y4/"><circle cx="486.7" cy="75.1" r="4" fill="#3465a4"><title>Crane of Clunie</title></circle></a><a href="/variants/s8/g82k6g3k9r2k5g2dy2~x2/"><circle cx="485.1" cy="75.2" r="4" fill="#3465a4"><title>Crane of Cluny (Personal)</title></circle></a><circle cx="543.0" cy="72.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/y2k1g36k1r2k1r2k1g36k1lb2~x2/

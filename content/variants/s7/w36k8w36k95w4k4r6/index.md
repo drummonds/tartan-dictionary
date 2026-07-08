@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gretna Football Club"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w36k8w36k95w4k4r6/)
 (the same proportion at any scale), whose colour order is pattern [KWKWKRKWKWKW](/stripes/kwkwkrkwkwkw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1538
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1538](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1538)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k66w1r8k14w14k6r11w8~x4/"><circle cx="380.6" cy="90.7" r="4" fill="#3465a4"><title>University of Cincinnati</title></circle></a><a href="/variants/s8/k66w1r8k14w14k6r11w8~x2/"><circle cx="380.6" cy="90.7" r="4" fill="#3465a4"><title>University of Cincinnati</title></circle></a><a href="/variants/s8/k62w10y10k4w18k4ly3w4/"><circle cx="302.4" cy="110.9" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/variants/s7/w24k16w1k16w3k8w2~x2/"><circle cx="330.7" cy="177.6" r="4" fill="#3465a4"><title>Saks Fifth Avenue (Corp)</title></circle></a><a href="/variants/s7/n5r3n35k28n4k11n2~x2/"><circle cx="314.2" cy="166.2" r="4" fill="#3465a4"><title>Korner-Macpherson (Personal)</title></circle></a><a href="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/"><circle cx="375.6" cy="99.5" r="4" fill="#3465a4"><title>Moonlight Glen (Fashion)</title></circle></a><a href="/variants/s6/w8k16w2db2w1k1~x4/"><circle cx="304.1" cy="163.4" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><a href="/variants/s8/k13n1k1n1k4n10y1n1~x6/"><circle cx="325.7" cy="161.8" r="4" fill="#3465a4"><title>West Point</title></circle></a><a href="/variants/s7/k17n4k13n4k3n45k3~x2/"><circle cx="363.8" cy="170.6" r="4" fill="#3465a4"><title>Black Spirit Fashion Tartan</title></circle></a><a href="/variants/s10/m2n3m1n9k4n13k33n1k4m1~x2/"><circle cx="351.6" cy="101.1" r="4" fill="#3465a4"><title>Myles, Lee</title></circle></a><circle cx="333.8" cy="106.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k66w1r8k14w14k6r11w8~x4/"><circle cx="380.5" cy="91.0" r="4" fill="#3465a4"><title>University of Cincinnati</title></circle></a><a href="/variants/s8/k66w1r8k14w14k6r11w8~x2/"><circle cx="380.5" cy="91.0" r="4" fill="#3465a4"><title>University of Cincinnati</title></circle></a><a href="/variants/s8/k62w10y10k4w18k4ly3w4/"><circle cx="302.3" cy="111.3" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/variants/s7/w24k16w1k16w3k8w2~x2/"><circle cx="330.8" cy="178.2" r="4" fill="#3465a4"><title>Saks Fifth Avenue (Corp)</title></circle></a><a href="/variants/s7/n5r3n35k28n4k11n2~x2/"><circle cx="314.2" cy="166.7" r="4" fill="#3465a4"><title>Korner-Macpherson (Personal)</title></circle></a><a href="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/"><circle cx="375.5" cy="99.8" r="4" fill="#3465a4"><title>Moonlight Glen (Fashion)</title></circle></a><a href="/variants/s6/w8k16w2db2w1k1~x4/"><circle cx="304.1" cy="163.9" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><a href="/variants/s8/k13n1k1n1k4n10y1n1~x6/"><circle cx="325.7" cy="162.2" r="4" fill="#3465a4"><title>West Point</title></circle></a><a href="/variants/s7/k17n4k13n4k3n45k3~x2/"><circle cx="363.8" cy="171.1" r="4" fill="#3465a4"><title>Black Spirit Fashion Tartan</title></circle></a><a href="/variants/s10/m2n3m1n9k4n13k33n1k4m1~x2/"><circle cx="351.5" cy="101.4" r="4" fill="#3465a4"><title>Myles, Lee</title></circle></a><circle cx="333.7" cy="106.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w36k8w36k95w4k4r6/

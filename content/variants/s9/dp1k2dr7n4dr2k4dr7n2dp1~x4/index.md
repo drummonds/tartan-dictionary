@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clanton (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp1k2dr7n4dr2k4dr7n2dp1/)
 (the same proportion at any scale), whose colour order is pattern [BBBKBBBKB](/stripes/bbbkbbbkb/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=663
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=663](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=663)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp11r3dg15r3dp11y2~x2~dp1105325-r2109032-dg1605139/"><circle cx="284.2" cy="224.0" r="4" fill="#3465a4"><title>Wilson's No.199</title></circle></a><a href="/variants/s9/do20db2do5db5k18g5do5g2do15~x2/"><circle cx="314.0" cy="197.2" r="4" fill="#3465a4"><title>Laois</title></circle></a><a href="/variants/s12/dti10k4dt16k4dt10k16dt8k24dt28dr3dti4dr3~dti1500000-dt1300000/"><circle cx="283.7" cy="203.0" r="4" fill="#3465a4"><title>St. Mirren (Corporate)</title></circle></a><a href="/variants/s7/db6dg41dbi20r15dg41r15dbi6~db1106275-dbi1204274/"><circle cx="323.8" cy="249.8" r="4" fill="#3465a4"><title>Bean Hunting Clan Tartan</title></circle></a><a href="/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/"><circle cx="344.5" cy="224.3" r="4" fill="#3465a4"><title>Laois, County</title></circle></a><a href="/variants/s8/dy6o2dy12k4dp14k1dy3ly2~x2/"><circle cx="272.0" cy="174.8" r="4" fill="#3465a4"><title>Mica, Green (Fashion)</title></circle></a><a href="/variants/s5/dr6dg13k5dr20w3~x2/"><circle cx="274.2" cy="238.4" r="4" fill="#3465a4"><title>Ryutokukan Junior High School (Corp)</title></circle></a><a href="/variants/s7/db6dg41dbi20r15dg41r15dbi6~db1106275-dbi1404245/"><circle cx="333.4" cy="254.6" r="4" fill="#3465a4"><title>Bean of Freeport (Personal)</title></circle></a><a href="/variants/s7/dg28r4dp25r22dg27r4dp2~x2/"><circle cx="326.3" cy="229.9" r="4" fill="#3465a4"><title>Glasgow, Ciity of (District)</title></circle></a><a href="/variants/s7/dr2k4dr2k4dr6k1lo1~x4/"><circle cx="273.1" cy="245.3" r="4" fill="#3465a4"><title>MacIan</title></circle></a><circle cx="282.6" cy="224.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp11r3dg15r3dp11y2~x2~dp1105325-r2109032-dg1605139/"><circle cx="284.3" cy="224.5" r="4" fill="#3465a4"><title>Wilson's No.199</title></circle></a><a href="/variants/s9/do20db2do5db5k18g5do5g2do15~x2/"><circle cx="314.0" cy="197.6" r="4" fill="#3465a4"><title>Laois</title></circle></a><a href="/variants/s12/dti10k4dt16k4dt10k16dt8k24dt28dr3dti4dr3~dti1500000-dt1300000/"><circle cx="283.7" cy="203.3" r="4" fill="#3465a4"><title>St. Mirren (Corporate)</title></circle></a><a href="/variants/s7/db6dg41dbi20r15dg41r15dbi6~db1106275-dbi1204274/"><circle cx="323.9" cy="250.3" r="4" fill="#3465a4"><title>Bean Hunting Clan Tartan</title></circle></a><a href="/variants/s9/do15dy2do5dy5k18db5do5db2do15~x2/"><circle cx="344.6" cy="224.6" r="4" fill="#3465a4"><title>Laois, County</title></circle></a><a href="/variants/s8/dy6o2dy12k4dp14k1dy3ly2~x2/"><circle cx="272.0" cy="175.1" r="4" fill="#3465a4"><title>Mica, Green (Fashion)</title></circle></a><a href="/variants/s5/dr6dg13k5dr20w3~x2/"><circle cx="274.3" cy="239.0" r="4" fill="#3465a4"><title>Ryutokukan Junior High School (Corp)</title></circle></a><a href="/variants/s7/db6dg41dbi20r15dg41r15dbi6~db1106275-dbi1404245/"><circle cx="333.6" cy="255.1" r="4" fill="#3465a4"><title>Bean of Freeport (Personal)</title></circle></a><a href="/variants/s7/dg28r4dp25r22dg27r4dp2~x2/"><circle cx="326.4" cy="230.4" r="4" fill="#3465a4"><title>Glasgow, Ciity of (District)</title></circle></a><a href="/variants/s7/dr2k4dr2k4dr6k1lo1~x4/"><circle cx="273.2" cy="245.9" r="4" fill="#3465a4"><title>MacIan</title></circle></a><circle cx="282.7" cy="225.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dp1k2dr7n4dr2k4dr7n2dp1~x4/

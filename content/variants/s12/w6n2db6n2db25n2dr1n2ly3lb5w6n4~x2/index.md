@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mead of Poetry, The"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w6n2db6n2db25n2dr1n2ly3lb5w6n4/)
 (the same proportion at any scale), whose colour order is pattern [BWWYBBBBBBBW](/stripes/bwwybbbbbbbw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10667
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10667](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10667)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb12dbi6lb50db39b12dp6b6w4~dbi1406275-db1004274/"><circle cx="245.6" cy="182.0" r="4" fill="#3465a4"><title>Pride of the Nation (Fashion)</title></circle></a><a href="/variants/s9/n5lbi3lb7n5lb27b8db43w3lb3~lbi3300000-lb3103284-b1907278-db1404245/"><circle cx="266.8" cy="172.7" r="4" fill="#3465a4"><title>Queensferry High (School)</title></circle></a><a href="/variants/s10/db48lb12ly3w3ly3dr11db5dr2ly7w2~x2/"><circle cx="234.0" cy="114.7" r="4" fill="#3465a4"><title>Holyrood Golden Jubilee II</title></circle></a><a href="/variants/s9/lb5w3lt7lb5lt27b8db43w3lt3~lb3500000-w4000000-lt3104245-b2208266-db1108266/"><circle cx="230.1" cy="163.1" r="4" fill="#3465a4"><title>Queensferry High School: Ferry Fling</title></circle></a><a href="/variants/s9/w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db1004274-dbi1406275/"><circle cx="263.2" cy="146.2" r="4" fill="#3465a4"><title>Blue Knights, The</title></circle></a><a href="/variants/s10/db8dr3db36lb3do10w34dr4w3dr3w8~x2/"><circle cx="223.6" cy="173.7" r="4" fill="#3465a4"><title>Stewart of Appin Htg Dress</title></circle></a><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/"><circle cx="258.8" cy="144.3" r="4" fill="#3465a4"><title>Tom Morris (Official)</title></circle></a><a href="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/"><circle cx="316.5" cy="87.0" r="4" fill="#3465a4"><title>Crombie, Harry (Personal)</title></circle></a><a href="/variants/s9/t4ly2t34db10lr4db4dp4db23w3~x2~t2503227-lr2800000/"><circle cx="291.2" cy="153.7" r="4" fill="#3465a4"><title>Heirloom Blue Alba</title></circle></a><circle cx="259.9" cy="124.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb12dbi6lb50db39b12dp6b6w4~dbi1406275-db1004274/"><circle cx="245.6" cy="182.3" r="4" fill="#3465a4"><title>Pride of the Nation (Fashion)</title></circle></a><a href="/variants/s9/n5lbi3lb7n5lb27b8db43w3lb3~lbi3300000-lb3103284-b1907278-db1404245/"><circle cx="266.9" cy="172.9" r="4" fill="#3465a4"><title>Queensferry High (School)</title></circle></a><a href="/variants/s10/db48lb12ly3w3ly3dr11db5dr2ly7w2~x2/"><circle cx="233.9" cy="114.9" r="4" fill="#3465a4"><title>Holyrood Golden Jubilee II</title></circle></a><a href="/variants/s9/lb5w3lt7lb5lt27b8db43w3lt3~lb3500000-w4000000-lt3104245-b2208266-db1108266/"><circle cx="230.1" cy="163.4" r="4" fill="#3465a4"><title>Queensferry High School: Ferry Fling</title></circle></a><a href="/variants/s9/w3lg15db6dbi2db1dbi2db1dbi21y2~x2~db1004274-dbi1406275/"><circle cx="263.2" cy="146.5" r="4" fill="#3465a4"><title>Blue Knights, The</title></circle></a><a href="/variants/s10/db8dr3db36lb3do10w34dr4w3dr3w8~x2/"><circle cx="223.7" cy="174.1" r="4" fill="#3465a4"><title>Stewart of Appin Htg Dress</title></circle></a><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/"><circle cx="258.8" cy="144.5" r="4" fill="#3465a4"><title>Tom Morris (Official)</title></circle></a><a href="/variants/s14/dp5g1db30lb2db4lb3db3lb4db2lb5db2t9db1w2~x2~db1003265-t2607245/"><circle cx="316.4" cy="87.1" r="4" fill="#3465a4"><title>Crombie, Harry (Personal)</title></circle></a><a href="/variants/s9/t4ly2t34db10lr4db4dp4db23w3~x2~t2503227-lr2800000/"><circle cx="291.2" cy="153.8" r="4" fill="#3465a4"><title>Heirloom Blue Alba</title></circle></a><circle cx="259.9" cy="124.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/w6n2db6n2db25n2dr1n2ly3lb5w6n4~x2/

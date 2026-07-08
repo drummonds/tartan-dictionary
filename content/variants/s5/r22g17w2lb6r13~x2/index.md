@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/menzies/"
 - name: "Menzies"
   url: "/tartans/menzies/"
+- name: "Menzies"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r22g17w2lb6r13/)
 (the same proportion at any scale), whose colour order is pattern [RGWWR](/stripes/rgwwr/).
@@ -16,7 +18,7 @@ Part of the [Menzies](/tartans/menzies/) tartan — the named design grouping th
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r5g5w1lb2r5~x2/"><circle cx="266.5" cy="277.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r22g17w2lg6r19~x2/"><circle cx="347.3" cy="235.1" r="4" fill="#3465a4"><title>Menzies #2</title></circle></a><a href="/variants/s5/r24t3w1g9r12~x8/"><circle cx="375.4" cy="163.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s4/r15g7db7r1~x4/"><circle cx="321.6" cy="235.4" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><a href="/variants/s6/r40lb11w2k12g36r32~x2/"><circle cx="247.9" cy="166.0" r="4" fill="#3465a4"><title>Caithness (1848) (District?)</title></circle></a><a href="/variants/s5/r28g16k4w7r28/"><circle cx="324.6" cy="225.0" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/variants/s5/r8lg15t12r29w4~x2/"><circle cx="281.9" cy="250.8" r="4" fill="#3465a4"><title>Snowbird (Corporate)</title></circle></a><a href="/variants/s6/r5g3lb3db5r16y3~x2/"><circle cx="299.9" cy="219.9" r="4" fill="#3465a4"><title>McCartney (2015)</title></circle></a><a href="/variants/s4/db4r50g25w2~x2/"><circle cx="415.0" cy="182.0" r="4" fill="#3465a4"><title>Unidentified Locket</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="386.9" cy="257.4" r="4" fill="#3465a4"><title>Bryce</title></circle></a><circle cx="327.5" cy="234.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r5g5w1lb2r5~x2/"><circle cx="266.7" cy="278.3" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r22g17w2lg6r19~x2/"><circle cx="347.4" cy="235.8" r="4" fill="#3465a4"><title>Menzies #2</title></circle></a><a href="/variants/s5/r24t3w1g9r12~x8/"><circle cx="375.4" cy="163.8" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s4/r15g7db7r1~x4/"><circle cx="321.7" cy="236.0" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><a href="/variants/s6/r40lb11w2k12g36r32~x2/"><circle cx="248.0" cy="166.6" r="4" fill="#3465a4"><title>Caithness (1848) (District?)</title></circle></a><a href="/variants/s5/r28g16k4w7r28/"><circle cx="324.8" cy="225.8" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/variants/s5/r8lg15t12r29w4~x2/"><circle cx="282.1" cy="251.5" r="4" fill="#3465a4"><title>Snowbird (Corporate)</title></circle></a><a href="/variants/s6/r5g3lb3db5r16y3~x2/"><circle cx="300.1" cy="220.5" r="4" fill="#3465a4"><title>McCartney (2015)</title></circle></a><a href="/variants/s4/db4r50g25w2~x2/"><circle cx="415.1" cy="182.5" r="4" fill="#3465a4"><title>Unidentified Locket</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="387.1" cy="258.0" r="4" fill="#3465a4"><title>Bryce</title></circle></a><circle cx="327.6" cy="235.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r22g17w2lb6r13~x2/

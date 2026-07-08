@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/glen/"
 - name: "Glen Tilt"
   url: "/tartans/glen-tilt/"
+- name: "Glen Tilt #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w1dr1g1dr11lb6dr1g14dr1g1w1/)
 (the same proportion at any scale), whose colour order is pattern [WBGBWBGBGW](/stripes/wbgbwbgbgw/).
@@ -16,7 +18,7 @@ Part of the [Glen Tilt](/tartans/glen-tilt/) tartan — the named design groupin
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1400
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1400](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1400)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -78,8 +80,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w1r1g1r11db6r1g14r1g1w1~x4/"><circle cx="253.1" cy="152.7" r="4" fill="#3465a4"><title>Unidentified Specimen #2</title></circle></a><a href="/variants/s10/lb1dr1g1dr11db6dr1g14dr1g1lb1~x4/"><circle cx="291.9" cy="177.9" r="4" fill="#3465a4"><title>Glen Tilt #1</title></circle></a><a href="/variants/s12/lr12g3lr3dg4lr16g3lr3g3lr3g16dg52lr4/"><circle cx="306.9" cy="159.0" r="4" fill="#3465a4"><title>Kelso (Fashion)</title></circle></a><a href="/variants/s10/r4lb3r32db30r4g32r3g32r3g3~x2/"><circle cx="252.9" cy="184.4" r="4" fill="#3465a4"><title>Unidentified Plaid #15</title></circle></a><a href="/variants/s9/g22dr2g4dr2g4dr18w24dr1lo3~x2/"><circle cx="233.5" cy="164.2" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/"><circle cx="351.1" cy="196.0" r="4" fill="#3465a4"><title>Leatherneck</title></circle></a><a href="/variants/s8/dr56w2t6w2g32dr11t6w5~x2~t2405244/"><circle cx="293.3" cy="134.8" r="4" fill="#3465a4"><title>Spens/Spence</title></circle></a><a href="/variants/s12/b3r4g3dp3r11g30r3dp7g3b2r4w2~x2/"><circle cx="263.8" cy="134.3" r="4" fill="#3465a4"><title>MacKinnon 1</title></circle></a><a href="/variants/s13/g24w1g2w2do2w1do12w1do2w2do2w1dg12~x2/"><circle cx="265.2" cy="137.9" r="4" fill="#3465a4"><title>MacDonald Hunting</title></circle></a><a href="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/"><circle cx="263.8" cy="172.5" r="4" fill="#3465a4"><title>Cape Breton University</title></circle></a><circle cx="269.4" cy="170.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w1r1g1r11db6r1g14r1g1w1~x4/"><circle cx="253.1" cy="153.1" r="4" fill="#3465a4"><title>Unidentified Specimen #2</title></circle></a><a href="/variants/s10/lb1dr1g1dr11db6dr1g14dr1g1lb1~x4/"><circle cx="292.0" cy="178.2" r="4" fill="#3465a4"><title>Glen Tilt #1</title></circle></a><a href="/variants/s12/lr12g3lr3dg4lr16g3lr3g3lr3g16dg52lr4/"><circle cx="306.9" cy="159.3" r="4" fill="#3465a4"><title>Kelso (Fashion)</title></circle></a><a href="/variants/s10/r4lb3r32db30r4g32r3g32r3g3~x2/"><circle cx="253.0" cy="184.8" r="4" fill="#3465a4"><title>Unidentified Plaid #15</title></circle></a><a href="/variants/s9/g22dr2g4dr2g4dr18w24dr1lo3~x2/"><circle cx="233.5" cy="164.6" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><a href="/variants/s8/g40dr3g4dr3g12db32lo4dr3~x2/"><circle cx="351.2" cy="196.4" r="4" fill="#3465a4"><title>Leatherneck</title></circle></a><a href="/variants/s8/dr56w2t6w2g32dr11t6w5~x2~t2405244/"><circle cx="293.3" cy="135.0" r="4" fill="#3465a4"><title>Spens/Spence</title></circle></a><a href="/variants/s12/b3r4g3dp3r11g30r3dp7g3b2r4w2~x2/"><circle cx="263.8" cy="134.5" r="4" fill="#3465a4"><title>MacKinnon 1</title></circle></a><a href="/variants/s13/g24w1g2w2do2w1do12w1do2w2do2w1dg12~x2/"><circle cx="265.2" cy="138.1" r="4" fill="#3465a4"><title>MacDonald Hunting</title></circle></a><a href="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/"><circle cx="263.8" cy="172.9" r="4" fill="#3465a4"><title>Cape Breton University</title></circle></a><circle cx="269.5" cy="171.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w1dr1g1dr11lb6dr1g14dr1g1w1~x4/

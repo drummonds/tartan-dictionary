@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Valley of the"
   url: "/tartans/valley-of-the/"
+- name: "Valley of the Green"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb4dg26g8lb8g8gi3lb2/)
 (the same proportion at any scale), whose colour order is pattern [WGGWGGW](/stripes/wggwggw/).
@@ -14,7 +16,7 @@ Part of the [Valley of the](/tartans/valley-of-the/) tartan — the named design
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4438
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4438](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4438)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb4dg26dgi8lb8dgi8g3lb2~x2~dgi1806142-g2408144/"><circle cx="272.1" cy="218.1" r="4" fill="#3465a4"><title>Valley of the Green (The ) Canadian Tartan</title></circle></a><a href="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/"><circle cx="310.2" cy="243.7" r="4" fill="#3465a4"><title>City of Vancouver (Commemorative)</title></circle></a><a href="/variants/s7/dg4t28dg11w2dg2g14y2~x2/"><circle cx="308.2" cy="212.2" r="4" fill="#3465a4"><title>Rhode Island State American District Tartan</title></circle></a><a href="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/"><circle cx="287.3" cy="202.2" r="4" fill="#3465a4"><title>Cranstoun Clan Tartan</title></circle></a><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/"><circle cx="238.8" cy="181.0" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/variants/s7/dt4t28dt11w2dt2g14y2~x2/"><circle cx="308.8" cy="212.1" r="4" fill="#3465a4"><title>Rhode Island, State of</title></circle></a><a href="/variants/s9/g20y2n5w4g2n2g2n2t6~x2~w4000000/"><circle cx="350.1" cy="212.4" r="4" fill="#3465a4"><title>Boucherville</title></circle></a><a href="/variants/s9/dg70y6n28g56n5g11n5g11lo12/"><circle cx="288.4" cy="204.8" r="4" fill="#3465a4"><title>Dalwhinnie Trade Tartan</title></circle></a><a href="/variants/s6/g20dg11n6dr2dp3n1~x2/"><circle cx="341.1" cy="214.0" r="4" fill="#3465a4"><title>Chiti, Cristiano (Personal)</title></circle></a><a href="/variants/s9/g20y2n5w4g2n2g2n2t6~x2/"><circle cx="354.7" cy="214.0" r="4" fill="#3465a4"><title>Boucherville (District)</title></circle></a><circle cx="332.1" cy="242.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb4dg26dgi8lb8dgi8g3lb2~x2~dgi1806142-g2408144/"><circle cx="272.1" cy="218.5" r="4" fill="#3465a4"><title>Valley of the Green (The ) Canadian Tartan</title></circle></a><a href="/variants/s6/dg2lo1dg12lb6g12dr1~x4~dg1806142-g2203152/"><circle cx="310.3" cy="244.0" r="4" fill="#3465a4"><title>City of Vancouver (Commemorative)</title></circle></a><a href="/variants/s7/dg4t28dg11w2dg2g14y2~x2/"><circle cx="308.3" cy="212.5" r="4" fill="#3465a4"><title>Rhode Island State American District Tartan</title></circle></a><a href="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/"><circle cx="287.4" cy="202.5" r="4" fill="#3465a4"><title>Cranstoun Clan Tartan</title></circle></a><a href="/variants/s9/dg70y6lb28g56lb5g11lb5g11r12~dg1405139-g2106142/"><circle cx="238.9" cy="181.3" r="4" fill="#3465a4"><title>Dalwhinnie</title></circle></a><a href="/variants/s7/dt4t28dt11w2dt2g14y2~x2/"><circle cx="308.8" cy="212.3" r="4" fill="#3465a4"><title>Rhode Island, State of</title></circle></a><a href="/variants/s9/g20y2n5w4g2n2g2n2t6~x2~w4000000/"><circle cx="350.1" cy="212.6" r="4" fill="#3465a4"><title>Boucherville</title></circle></a><a href="/variants/s9/dg70y6n28g56n5g11n5g11lo12/"><circle cx="288.5" cy="205.0" r="4" fill="#3465a4"><title>Dalwhinnie Trade Tartan</title></circle></a><a href="/variants/s6/g20dg11n6dr2dp3n1~x2/"><circle cx="341.2" cy="214.2" r="4" fill="#3465a4"><title>Chiti, Cristiano (Personal)</title></circle></a><a href="/variants/s9/g20y2n5w4g2n2g2n2t6~x2/"><circle cx="354.8" cy="214.2" r="4" fill="#3465a4"><title>Boucherville (District)</title></circle></a><circle cx="332.2" cy="242.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lb4dg26g8lb8g8gi3lb2~x2~dg1806142-g2203152-gi2408144/

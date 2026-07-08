@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "degli Uberti, Baron of Cartsburn"
   url: "/tartans/degli-uberti-baron-of-cartsburn/"
+- name: "degli Uberti, Baron of Cartsburn (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8r1k6r1dy8r1k45dy1/)
 (the same proportion at any scale), whose colour order is pattern [BRKRGRKG](/stripes/brkrgrkg/).
@@ -14,7 +16,7 @@ Part of the [degli Uberti, Baron of Cartsburn](/tartans/degli-uberti-baron-of-ca
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10635
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10635](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10635)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db8r1k6r1ly8r1k45ly1~x2/"><circle cx="416.3" cy="66.7" r="4" fill="#3465a4"><title>degli Uberti, Baron of Cartsburn (P)</title></circle></a><a href="/variants/s8/r1k23y3db16y3k22r1w1~x2/"><circle cx="332.2" cy="116.2" r="4" fill="#3465a4"><title>Schöbitz (2016)</title></circle></a><a href="/variants/s8/k60r3k15r3lb2r5db3r2~x2/"><circle cx="493.2" cy="79.5" r="4" fill="#3465a4"><title>Whitaker (2014)</title></circle></a><a href="/variants/s6/k80r6g3r12k2w2~x2/"><circle cx="480.6" cy="78.1" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="417.7" cy="130.3" r="4" fill="#3465a4"><title>Perry Dress (Personal)</title></circle></a><a href="/variants/s7/t1k50r1k2n4db7w1~x2/"><circle cx="480.4" cy="40.9" r="4" fill="#3465a4"><title>Colleges Scotland (Corp)</title></circle></a><a href="/variants/s9/k5ly1dg7dr1k45dr5ly3k4ly3~x2/"><circle cx="441.3" cy="69.6" r="4" fill="#3465a4"><title>Brooks Brothers Signature (Corporate</title></circle></a><a href="/variants/s6/k45db2dr2r2y1w1~x2/"><circle cx="447.3" cy="19.6" r="4" fill="#3465a4"><title>MacHattie Family Tartan</title></circle></a><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="454.7" cy="88.0" r="4" fill="#3465a4"><title>Racing Stewart (Stealth)</title></circle></a><a href="/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/"><circle cx="412.3" cy="112.4" r="4" fill="#3465a4"><title>Harley Davidson (Corporate)</title></circle></a><circle cx="479.8" cy="85.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db8r1k6r1ly8r1k45ly1~x2/"><circle cx="416.1" cy="66.8" r="4" fill="#3465a4"><title>degli Uberti, Baron of Cartsburn (P)</title></circle></a><a href="/variants/s8/r1k23y3db16y3k22r1w1~x2/"><circle cx="332.1" cy="116.4" r="4" fill="#3465a4"><title>Schöbitz (2016)</title></circle></a><a href="/variants/s8/k60r3k15r3lb2r5db3r2~x2/"><circle cx="493.0" cy="79.7" r="4" fill="#3465a4"><title>Whitaker (2014)</title></circle></a><a href="/variants/s6/k80r6g3r12k2w2~x2/"><circle cx="480.5" cy="78.3" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="417.6" cy="130.5" r="4" fill="#3465a4"><title>Perry Dress (Personal)</title></circle></a><a href="/variants/s7/t1k50r1k2n4db7w1~x2/"><circle cx="480.1" cy="40.8" r="4" fill="#3465a4"><title>Colleges Scotland (Corp)</title></circle></a><a href="/variants/s9/k5ly1dg7dr1k45dr5ly3k4ly3~x2/"><circle cx="441.1" cy="69.7" r="4" fill="#3465a4"><title>Brooks Brothers Signature (Corporate</title></circle></a><a href="/variants/s6/k45db2dr2r2y1w1~x2/"><circle cx="447.1" cy="19.5" r="4" fill="#3465a4"><title>MacHattie Family Tartan</title></circle></a><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="454.5" cy="88.1" r="4" fill="#3465a4"><title>Racing Stewart (Stealth)</title></circle></a><a href="/variants/s6/oi4n6k4o8k49oi2~oi2500000-n1900000/"><circle cx="412.2" cy="112.6" r="4" fill="#3465a4"><title>Harley Davidson (Corporate)</title></circle></a><circle cx="479.7" cy="85.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db8r1k6r1dy8r1k45dy1~x2/

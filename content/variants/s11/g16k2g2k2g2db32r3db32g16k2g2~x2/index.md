@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacLachlan, Green Dress (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g16k2g2k2g2db32r3db32g16k2g2/)
 (the same proportion at any scale), whose colour order is pattern [GKGBRBGKGKG](/stripes/gkgbrbgkgkg/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8826
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8826](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8826)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db1k1db8y1g12y1db8k1db1~x2/"><circle cx="290.0" cy="167.2" r="4" fill="#3465a4"><title>Rowan</title></circle></a><a href="/variants/s13/b4g2b25dg16k5b2dg2b2dg8b4k2b2g2~x2/"><circle cx="277.2" cy="145.6" r="4" fill="#3465a4"><title>Balmoral, Green lines</title></circle></a><a href="/variants/s13/b4lb2b25dg16k4b2dg2b2dg10b4k2b2lb2~x2/"><circle cx="273.6" cy="144.1" r="4" fill="#3465a4"><title>Balmoral - Blue Lines</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56ly8/"><circle cx="324.8" cy="146.4" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56dy8/"><circle cx="352.2" cy="154.9" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s9/db40g3db2g12k2g2y2g2k3~x2/"><circle cx="372.4" cy="117.2" r="4" fill="#3465a4"><title>Oliver, hunting</title></circle></a><a href="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/"><circle cx="278.6" cy="144.0" r="4" fill="#3465a4"><title>Balmoral, Gillies</title></circle></a><a href="/variants/s8/t36db6t5r3k2r3t5db18~x2/"><circle cx="357.4" cy="155.3" r="4" fill="#3465a4"><title>Leonard (Name)</title></circle></a><a href="/variants/s10/o4b2k4b40k3b3k4b3g13b4~x2/"><circle cx="363.1" cy="117.8" r="4" fill="#3465a4"><title>Galway</title></circle></a><a href="/variants/s9/db12k1g16db1g1db14g3db14r2~x4~db1406275/"><circle cx="349.0" cy="148.4" r="4" fill="#3465a4"><title>Orlando, City of</title></circle></a><circle cx="321.2" cy="139.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db1k1db8y1g12y1db8k1db1~x2/"><circle cx="290.0" cy="167.5" r="4" fill="#3465a4"><title>Rowan</title></circle></a><a href="/variants/s13/b4g2b25dg16k5b2dg2b2dg8b4k2b2g2~x2/"><circle cx="277.2" cy="145.9" r="4" fill="#3465a4"><title>Balmoral, Green lines</title></circle></a><a href="/variants/s13/b4lb2b25dg16k4b2dg2b2dg10b4k2b2lb2~x2/"><circle cx="273.6" cy="144.4" r="4" fill="#3465a4"><title>Balmoral - Blue Lines</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56ly8/"><circle cx="324.7" cy="146.7" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56dy8/"><circle cx="352.2" cy="155.1" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s9/db40g3db2g12k2g2y2g2k3~x2/"><circle cx="372.3" cy="117.4" r="4" fill="#3465a4"><title>Oliver, hunting</title></circle></a><a href="/variants/s13/b9r5b51dg13k13b5dg4b5dg23b11k5b5r5/"><circle cx="278.6" cy="144.3" r="4" fill="#3465a4"><title>Balmoral, Gillies</title></circle></a><a href="/variants/s8/t36db6t5r3k2r3t5db18~x2/"><circle cx="357.4" cy="155.5" r="4" fill="#3465a4"><title>Leonard (Name)</title></circle></a><a href="/variants/s10/o4b2k4b40k3b3k4b3g13b4~x2/"><circle cx="363.0" cy="118.0" r="4" fill="#3465a4"><title>Galway</title></circle></a><a href="/variants/s9/db12k1g16db1g1db14g3db14r2~x4~db1406275/"><circle cx="348.9" cy="148.7" r="4" fill="#3465a4"><title>Orlando, City of</title></circle></a><circle cx="321.1" cy="139.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/g16k2g2k2g2db32r3db32g16k2g2~x2/

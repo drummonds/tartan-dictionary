@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Old Aberdeen Diamond Jubilee"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/)
 (the same proportion at any scale), whose colour order is pattern [BRKBKBKRBKBKRB](/stripes/brkbkbkrbkbkrb/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10546
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10546](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10546)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r8k1r1k5r1k1r8k1r1k30r1y2~x2/"><circle cx="379.8" cy="74.1" r="4" fill="#3465a4"><title>Calgary, University of (Estimated Threadcount)</title></circle></a><a href="/variants/s14/ly4k2dr8k4dr4k63r5dr64k4dr3k4dr8k2ly4/"><circle cx="325.7" cy="68.9" r="4" fill="#3465a4"><title>German Heritage</title></circle></a><a href="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/"><circle cx="317.2" cy="87.0" r="4" fill="#3465a4"><title>University of Georgia (Corporate)</title></circle></a><a href="/variants/s9/dr74k4dr7k4dr9k40w2k4n2/"><circle cx="429.0" cy="97.1" r="4" fill="#3465a4"><title>Llewellen of Wales</title></circle></a><a href="/variants/s9/k3ly1k14dr14ly1dr1ly1dr1k2~x4/"><circle cx="299.5" cy="142.6" r="4" fill="#3465a4"><title>Breckon (Name)</title></circle></a><a href="/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/"><circle cx="310.4" cy="102.2" r="4" fill="#3465a4"><title>MacAlister of Skye (Clan?)</title></circle></a><circle cx="365.6" cy="96.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r8k1r1k5r1k1r8k1r1k30r1y2~x2/"><circle cx="379.7" cy="74.3" r="4" fill="#3465a4"><title>Calgary, University of (Estimated Threadcount)</title></circle></a><a href="/variants/s14/ly4k2dr8k4dr4k63r5dr64k4dr3k4dr8k2ly4/"><circle cx="325.6" cy="68.9" r="4" fill="#3465a4"><title>German Heritage</title></circle></a><a href="/variants/s12/k6r31k1r6k1w2k1r4k6r2k31r6~x2/"><circle cx="317.1" cy="87.3" r="4" fill="#3465a4"><title>University of Georgia (Corporate)</title></circle></a><a href="/variants/s9/dr74k4dr7k4dr9k40w2k4n2/"><circle cx="428.9" cy="97.2" r="4" fill="#3465a4"><title>Llewellen of Wales</title></circle></a><a href="/variants/s9/k3ly1k14dr14ly1dr1ly1dr1k2~x4/"><circle cx="299.5" cy="142.9" r="4" fill="#3465a4"><title>Breckon (Name)</title></circle></a><a href="/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/"><circle cx="310.3" cy="102.3" r="4" fill="#3465a4"><title>MacAlister of Skye (Clan?)</title></circle></a><circle cx="365.5" cy="96.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/dr3r2k7dr3k3dr52r4k52dr3k3dr3k7r2dr3/

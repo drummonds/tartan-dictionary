@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified #54"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w24dr2w3dy1ly1dy1w1dy6o6lb1o2w1/)
 (the same proportion at any scale), whose colour order is pattern [WBWGYGWGRWRW](/stripes/wbwgygwgrwrw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4255
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4255](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4255)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w46r3w7do2y2do2w2do11o6b2o3w2~x2/"><circle cx="334.3" cy="71.2" r="4" fill="#3465a4"><title>Diana, Plaid dress</title></circle></a><a href="/variants/s12/w63k4lb9y2lb4y2lb4o11r8lb2r4w5~x2/"><circle cx="300.4" cy="57.5" r="4" fill="#3465a4"><title>Seller, Sillar</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="294.1" cy="90.9" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/"><circle cx="278.1" cy="94.9" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/variants/s11/w32dr9ly1dr2w1dr2r7o4dr1o2w1~x4/"><circle cx="292.9" cy="73.3" r="4" fill="#3465a4"><title>Canna (Fashion)</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="253.0" cy="103.0" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s11/w24db2k2ly1k1w1dg6n4dg1n1w1~x4~dg1806142-n1805302/"><circle cx="265.4" cy="61.1" r="4" fill="#3465a4"><title>Pritchard</title></circle></a><a href="/variants/s11/w32ri9ly1ri2w1ri2r7o4ri1o2w1~x4~ri1606028-r1406028-o2304058/"><circle cx="294.4" cy="73.2" r="4" fill="#3465a4"><title>Canna</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2ly14r7g2r3w2~x2/"><circle cx="260.3" cy="108.3" r="4" fill="#3465a4"><title>Grant of Auchnarrow</title></circle></a><a href="/variants/s11/w38g10r2g3w2g3gi8lr3g2lr3w2~x2~g2001180-gi2104144/"><circle cx="307.2" cy="114.1" r="4" fill="#3465a4"><title>Glenmore Green Fashion Tartan</title></circle></a><circle cx="294.0" cy="74.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w46r3w7do2y2do2w2do11o6b2o3w2~x2/"><circle cx="334.3" cy="71.4" r="4" fill="#3465a4"><title>Diana, Plaid dress</title></circle></a><a href="/variants/s12/w63k4lb9y2lb4y2lb4o11r8lb2r4w5~x2/"><circle cx="300.3" cy="57.6" r="4" fill="#3465a4"><title>Seller, Sillar</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="294.1" cy="91.1" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/"><circle cx="278.0" cy="95.2" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/variants/s11/w32dr9ly1dr2w1dr2r7o4dr1o2w1~x4/"><circle cx="292.9" cy="73.5" r="4" fill="#3465a4"><title>Canna (Fashion)</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="253.0" cy="103.3" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s11/w24db2k2ly1k1w1dg6n4dg1n1w1~x4~dg1806142-n1805302/"><circle cx="265.2" cy="61.3" r="4" fill="#3465a4"><title>Pritchard</title></circle></a><a href="/variants/s11/w32ri9ly1ri2w1ri2r7o4ri1o2w1~x4~ri1606028-r1406028-o2304058/"><circle cx="294.3" cy="73.4" r="4" fill="#3465a4"><title>Canna</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2ly14r7g2r3w2~x2/"><circle cx="260.3" cy="108.6" r="4" fill="#3465a4"><title>Grant of Auchnarrow</title></circle></a><a href="/variants/s11/w38g10r2g3w2g3gi8lr3g2lr3w2~x2~g2001180-gi2104144/"><circle cx="307.2" cy="114.4" r="4" fill="#3465a4"><title>Glenmore Green Fashion Tartan</title></circle></a><circle cx="293.9" cy="74.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/w24dr2w3dy1ly1dy1w1dy6o6lb1o2w1~x4/

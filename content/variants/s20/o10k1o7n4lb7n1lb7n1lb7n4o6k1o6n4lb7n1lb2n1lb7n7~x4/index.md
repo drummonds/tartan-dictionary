@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glen Burns (WCWM - 1)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o10k1o7n4lb7n1lb7n1lb7n4o6k1o6n4lb7n1lb2n1lb7n7/)
 (the same proportion at any scale), whose colour order is pattern [BWBWBWBRKRBWBWBWBRKR](/stripes/bwbwbwbrkrbwbwbwbrkr/).
 
 Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1367
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1367](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1367)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

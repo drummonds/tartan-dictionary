@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Oakland Centre"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3r2w1k2r2/)
 (the same proportion at any scale), whose colour order is pattern [RKWRW](/stripes/rkwrw/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11587
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11587](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11587)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="190.8" cy="221.9" r="4" fill="#3465a4"><title>Braes High School Falkirk (School)</title></circle></a><a href="/variants/s5/r21k21w10k10w21~x2/"><circle cx="78.6" cy="318.9" r="4" fill="#3465a4"><title>Havel</title></circle></a><a href="/variants/s5/n11k4dr4lo4n11~x4/"><circle cx="143.8" cy="261.5" r="4" fill="#3465a4"><title>Ikelman #3 (Personal)</title></circle></a><a href="/variants/s6/r15n9w4k12r15k5~x2/"><circle cx="150.4" cy="254.4" r="4" fill="#3465a4"><title>Eastern Kentucky University</title></circle></a><a href="/variants/s5/r15g3w2k10w5~x2/"><circle cx="164.0" cy="216.4" r="4" fill="#3465a4"><title>SAL Cubiska Stenen</title></circle></a><a href="/variants/s5/r3k1g1k1w3~x4/"><circle cx="69.5" cy="263.9" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s4/r2g1w1k1~x20/"><circle cx="46.2" cy="286.6" r="4" fill="#3465a4"><title>Harazeen</title></circle></a><a href="/variants/s5/r3k10r10g10r3~x4/"><circle cx="152.5" cy="281.2" r="4" fill="#3465a4"><title>Unidentified (Gow-like)</title></circle></a><a href="/variants/s5/k3w7k4w6o3~x2~o2102055/"><circle cx="167.4" cy="311.4" r="4" fill="#3465a4"><title>Daks - House Check, C.6700.03</title></circle></a><a href="/variants/s5/k3w6k4w6ly3~x2~ly2503076/"><circle cx="156.6" cy="331.8" r="4" fill="#3465a4"><title>Daks (House Check)</title></circle></a><circle cx="109.3" cy="306.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/w5r5w5k15r2~x2/"><circle cx="190.9" cy="222.7" r="4" fill="#3465a4"><title>Braes High School Falkirk (School)</title></circle></a><a href="/variants/s5/r21k21w10k10w21~x2/"><circle cx="78.8" cy="320.1" r="4" fill="#3465a4"><title>Havel</title></circle></a><a href="/variants/s5/n11k4dr4lo4n11~x4/"><circle cx="143.9" cy="262.3" r="4" fill="#3465a4"><title>Ikelman #3 (Personal)</title></circle></a><a href="/variants/s6/r15n9w4k12r15k5~x2/"><circle cx="150.6" cy="255.2" r="4" fill="#3465a4"><title>Eastern Kentucky University</title></circle></a><a href="/variants/s5/r15g3w2k10w5~x2/"><circle cx="164.1" cy="217.1" r="4" fill="#3465a4"><title>SAL Cubiska Stenen</title></circle></a><a href="/variants/s5/r3k1g1k1w3~x4/"><circle cx="69.7" cy="264.8" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s4/r2g1w1k1~x20/"><circle cx="46.5" cy="287.6" r="4" fill="#3465a4"><title>Harazeen</title></circle></a><a href="/variants/s5/r3k10r10g10r3~x4/"><circle cx="152.7" cy="282.1" r="4" fill="#3465a4"><title>Unidentified (Gow-like)</title></circle></a><a href="/variants/s5/k3w7k4w6o3~x2~o2102055/"><circle cx="167.7" cy="312.6" r="4" fill="#3465a4"><title>Daks - House Check, C.6700.03</title></circle></a><a href="/variants/s5/k3w6k4w6ly3~x2~ly2503076/"><circle cx="156.9" cy="333.0" r="4" fill="#3465a4"><title>Daks (House Check)</title></circle></a><circle cx="109.5" cy="307.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/w3r2w1k2r2~x4/

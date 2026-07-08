@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Hebrides, Inner"
   url: "/tartans/hebrides-inner/"
+- name: "Hebrides, Inner #01"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g3dy1db2k3dy1g4dg5db8dy1k2dg3dy1dg3k2dy1db22dy1db4r4dy1r4db4dy1db22dy1k2dg3dy1dg3k2dy1r14lb6w1/)
 (the same proportion at any scale), whose colour order is pattern [GBKGGGBGKGGGKGBGBRGRBGBGKGGGKGRWWWRGKGGGKGBGBRGRBGBGKGGGKGBGGGKBGG](/stripes/gbkgggbgkgggkgbgbrgrbgbgkgggkgrwwwrgkgggkgbgbrgrbgbgkgggkgbgggkbgg/).
@@ -14,7 +16,7 @@ Part of the [Hebrides, Inner](/tartans/hebrides-inner/) tartan — the named des
 
 Sourced from register-of-tartans.  It is a [66 stripe tartan](/stripes/stripes66/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1672
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1672](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1672)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s34/g3y1db2k3y1g4dg5db8y1k2dg3y1dg3k2y1db22y1db4r4y1r4db4y1db22y1k2dg3y1dg3k2y1r14lb6w1~x2~g2408144-dg1806142/"><circle cx="131.6" cy="16.1" r="4" fill="#3465a4"><title>Hebrides Inner.. Artifact Tartan</title></circle></a><a href="/variants/s34/b3y1db2k3y1b4g5db8y1k2g3y1g3k2y1db22y1db4r4y1r4db4y1db22y1k2g3y1g3k2y1r14lb6w1~x2/"><circle cx="130.7" cy="15.5" r="4" fill="#3465a4"><title>Hebrides Inner</title></circle></a><a href="/variants/s66/dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1dg8dgi5g5w1dbi4db3w1g4w1db3dbi4w1g5dgi5dg8w1dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1r14ri6w1ri10r14w1~x2~dbi-h99281661840d39d8/"><circle cx="176.2" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Cant #03</title></circle></a><a href="/variants/s82/r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1-h93f23068dbe55adb/"><circle cx="152.8" cy="14.0" r="4" fill="#3465a4"><title>Unnamed C18th - Cf 4445</title></circle></a><a href="/variants/s42/dg12y1k2w2k2w2k2w2k2y1dg12dp1dg2dp3dg1dp4r2dp4dg1dp3dg2dp1dg12k1lb4k1lb4k1lb4k1dg12dp1dg2dp3dg1dp4y2dp4dg1dp3dg2dp1~x2/"><circle cx="128.3" cy="60.3" r="4" fill="#3465a4"><title>Lodge Dunblane Australis No.966</title></circle></a><circle cx="125.7" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s34/g3y1db2k3y1g4dg5db8y1k2dg3y1dg3k2y1db22y1db4r4y1r4db4y1db22y1k2dg3y1dg3k2y1r14lb6w1~x2~g2408144-dg1806142/"><circle cx="131.3" cy="16.0" r="4" fill="#3465a4"><title>Hebrides Inner.. Artifact Tartan</title></circle></a><a href="/variants/s34/b3y1db2k3y1b4g5db8y1k2g3y1g3k2y1db22y1db4r4y1r4db4y1db22y1k2g3y1g3k2y1r14lb6w1~x2/"><circle cx="130.4" cy="15.4" r="4" fill="#3465a4"><title>Hebrides Inner</title></circle></a><a href="/variants/s66/dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1dg8dgi5g5w1dbi4db3w1g4w1db3dbi4w1g5dgi5dg8w1dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1r14ri6w1ri10r14w1~x2~dbi-h99281661840d39d8/"><circle cx="175.9" cy="14.0" r="4" fill="#3465a4"><title>Unidentified Cant #03</title></circle></a><a href="/variants/s82/r2k2r16dp6w1dp2b2w1b2dp2w1g10lg3w1dp3b2w1r3w1b2dp4w1lg3g10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10m5w1m5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1g10lg3w1dp4b2w1r3w1b2dp3w1-h93f23068dbe55adb/"><circle cx="152.5" cy="14.0" r="4" fill="#3465a4"><title>Unnamed C18th - Cf 4445</title></circle></a><a href="/variants/s42/dg12y1k2w2k2w2k2w2k2y1dg12dp1dg2dp3dg1dp4r2dp4dg1dp3dg2dp1dg12k1lb4k1lb4k1lb4k1dg12dp1dg2dp3dg1dp4y2dp4dg1dp3dg2dp1~x2/"><circle cx="128.1" cy="60.3" r="4" fill="#3465a4"><title>Lodge Dunblane Australis No.966</title></circle></a><circle cx="125.4" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s34/g3dy1db2k3dy1g4dg5db8dy1k2dg3dy1dg3k2dy1db22dy1db4r4dy1r4db4dy1db22dy1k2dg3dy1dg3k2dy1r14lb6w1~x2~g2408144-dg1806142/

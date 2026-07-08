@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/gordon/"
 - name: "Gordon Dress"
   url: "/tartans/gordon-dress/"
+- name: "Gordon Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4k4db10k10g13y3g13k10w4db4w16db2w3/)
 (the same proportion at any scale), whose colour order is pattern [BKBKGGGKWBWBW](/stripes/bkbkgggkwbwbw/).
@@ -16,7 +18,7 @@ Part of the [Gordon Dress](/tartans/gordon-dress/) tartan — the named design g
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1454
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1454](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1454)
 
 ## Provenance
 
@@ -90,8 +92,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db4k4db10k10g12ly2g12k10w4db4w16db3w2~x2/"><circle cx="26.8" cy="180.0" r="4" fill="#3465a4"><title>Gordon Dress (1965)</title></circle></a><a href="/variants/s11/k4n10k4g8k12b4g16lb16b5lb6b2~x2/"><circle cx="39.5" cy="192.7" r="4" fill="#3465a4"><title>Manderson</title></circle></a><a href="/variants/s13/b1k1b3k3dg4k1dg4k3w1b1w6b1w1~x4/"><circle cx="46.1" cy="193.8" r="4" fill="#3465a4"><title>Black Watch Dress (Fashion)</title></circle></a><a href="/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="54.6" cy="169.0" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><a href="/variants/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2/"><circle cx="56.9" cy="170.5" r="4" fill="#3465a4"><title>Scotland's National, Dress (Fashion)</title></circle></a><a href="/variants/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2~db1004274/"><circle cx="57.6" cy="169.5" r="4" fill="#3465a4"><title>Scottish National Dress</title></circle></a><a href="/variants/s12/w5db2w17db5w5db9g12r3g12k9db11r3~x2/"><circle cx="41.9" cy="186.1" r="4" fill="#3465a4"><title>Murray, dress White</title></circle></a><a href="/variants/s14/w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="14.0" cy="158.1" r="4" fill="#3465a4"><title>MacKenzie Dress</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/"><circle cx="61.3" cy="184.8" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s13/w20k3w3k3w3k16g17y5g17k16db16k3db3~x2/"><circle cx="51.3" cy="173.8" r="4" fill="#3465a4"><title>Gordon Dress #2</title></circle></a><circle cx="28.2" cy="180.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db4k4db10k10g12ly2g12k10w4db4w16db3w2~x2/"><circle cx="26.8" cy="180.5" r="4" fill="#3465a4"><title>Gordon Dress (1965)</title></circle></a><a href="/variants/s11/k4n10k4g8k12b4g16lb16b5lb6b2~x2/"><circle cx="39.5" cy="193.2" r="4" fill="#3465a4"><title>Manderson</title></circle></a><a href="/variants/s13/b1k1b3k3dg4k1dg4k3w1b1w6b1w1~x4/"><circle cx="46.1" cy="194.4" r="4" fill="#3465a4"><title>Black Watch Dress (Fashion)</title></circle></a><a href="/variants/s14/w3k2w7k2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="54.6" cy="169.5" r="4" fill="#3465a4"><title>MacKenzie Dress - 1950 (Clan)</title></circle></a><a href="/variants/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2/"><circle cx="56.9" cy="170.9" r="4" fill="#3465a4"><title>Scotland's National, Dress (Fashion)</title></circle></a><a href="/variants/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2~db1004274/"><circle cx="57.6" cy="169.9" r="4" fill="#3465a4"><title>Scottish National Dress</title></circle></a><a href="/variants/s12/w5db2w17db5w5db9g12r3g12k9db11r3~x2/"><circle cx="42.0" cy="186.7" r="4" fill="#3465a4"><title>Murray, dress White</title></circle></a><a href="/variants/s14/w3lb2w7lb2w2k7g8k1w2k1g8k7db7r2~x2/"><circle cx="14.0" cy="158.5" r="4" fill="#3465a4"><title>MacKenzie Dress</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/"><circle cx="61.3" cy="185.3" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s13/w20k3w3k3w3k16g17y5g17k16db16k3db3~x2/"><circle cx="51.3" cy="174.3" r="4" fill="#3465a4"><title>Gordon Dress #2</title></circle></a><circle cx="28.3" cy="180.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/db4k4db10k10g13y3g13k10w4db4w16db2w3~x2/

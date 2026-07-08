@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal College of Midwives"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy5lb3k1lb6n11lb3t3lb43w3/)
 (the same proportion at any scale), whose colour order is pattern [GWKWBWBWW](/stripes/gwkwbwbww/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3596
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3596](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3596)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb70db5lb3lr5lb3w5lb3k5~x2/"><circle cx="490.7" cy="93.3" r="4" fill="#3465a4"><title>Wyckoff, Ann Grainger Phillips Commemorative Tartan</title></circle></a><a href="/variants/s9/lb66w2lb10w2lb10w2lb12r3db24~x2/"><circle cx="481.5" cy="119.3" r="4" fill="#3465a4"><title>RAAF #5</title></circle></a><a href="/variants/s8/t142db12b24w7b5w5b5r10~t2605232-db1108266-b1511266/"><circle cx="435.3" cy="112.6" r="4" fill="#3465a4"><title>Glen Innes (Australia)</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.9" cy="110.7" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/"><circle cx="441.6" cy="88.6" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall (Personal)</title></circle></a><a href="/variants/s8/db4lb50g4dp4w2y2k3w2~x2/"><circle cx="362.4" cy="56.5" r="4" fill="#3465a4"><title>Glasgow Islay, The</title></circle></a><a href="/variants/s7/y2dy4r4lb21w1lb1ri1~x4~r2109032-ri2307033/"><circle cx="368.8" cy="115.6" r="4" fill="#3465a4"><title>Edinburgh Fire (Corporate)</title></circle></a><a href="/variants/s11/lb20dp4r4w4g4y4lb4y1lb2y1lb20~x4/"><circle cx="383.6" cy="129.6" r="4" fill="#3465a4"><title>Yukon (District)</title></circle></a><a href="/variants/s11/lb20dp4r4w4g4y4lb4y1lb2y1lb20~x4~r2109032-g2408144/"><circle cx="383.5" cy="129.7" r="4" fill="#3465a4"><title>Yukon</title></circle></a><circle cx="431.8" cy="77.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb70db5lb3lr5lb3w5lb3k5~x2/"><circle cx="490.7" cy="93.5" r="4" fill="#3465a4"><title>Wyckoff, Ann Grainger Phillips Commemorative Tartan</title></circle></a><a href="/variants/s9/lb66w2lb10w2lb10w2lb12r3db24~x2/"><circle cx="481.5" cy="119.5" r="4" fill="#3465a4"><title>RAAF #5</title></circle></a><a href="/variants/s8/t142db12b24w7b5w5b5r10~t2605232-db1108266-b1511266/"><circle cx="435.2" cy="112.7" r="4" fill="#3465a4"><title>Glen Innes (Australia)</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.9" cy="110.9" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/"><circle cx="441.6" cy="88.9" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall (Personal)</title></circle></a><a href="/variants/s8/db4lb50g4dp4w2y2k3w2~x2/"><circle cx="362.3" cy="56.6" r="4" fill="#3465a4"><title>Glasgow Islay, The</title></circle></a><a href="/variants/s7/y2dy4r4lb21w1lb1ri1~x4~r2109032-ri2307033/"><circle cx="368.8" cy="115.8" r="4" fill="#3465a4"><title>Edinburgh Fire (Corporate)</title></circle></a><a href="/variants/s11/lb20dp4r4w4g4y4lb4y1lb2y1lb20~x4/"><circle cx="383.6" cy="129.8" r="4" fill="#3465a4"><title>Yukon (District)</title></circle></a><a href="/variants/s11/lb20dp4r4w4g4y4lb4y1lb2y1lb20~x4~r2109032-g2408144/"><circle cx="383.5" cy="129.9" r="4" fill="#3465a4"><title>Yukon</title></circle></a><circle cx="431.8" cy="77.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/

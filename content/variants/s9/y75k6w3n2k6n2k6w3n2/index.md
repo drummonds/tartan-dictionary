@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Norton (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y75k6w3n2k6n2k6w3n2/)
 (the same proportion at any scale), whose colour order is pattern [BWKBKBWKG](/stripes/bwkbkbwkg/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7834
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7834](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7834)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/"><circle cx="375.6" cy="99.5" r="4" fill="#3465a4"><title>Moonlight Glen (Fashion)</title></circle></a><a href="/variants/s8/dr2n2k2n28k8n9k1ly2~x2/"><circle cx="430.3" cy="114.3" r="4" fill="#3465a4"><title>Highland Autumn (Fashion)</title></circle></a><a href="/variants/s10/o58k12o4k2y2k2o10w5k2y4~x2/"><circle cx="414.3" cy="75.2" r="4" fill="#3465a4"><title>Unnamed C20th - Skirt</title></circle></a><a href="/variants/s7/k14w4k8y45w3k1y2~x2/"><circle cx="364.4" cy="103.2" r="4" fill="#3465a4"><title>Kernow Spirit (Corporate)</title></circle></a><a href="/variants/s14/y70k2lb4y2k2dg2k2dg2k14y8k2dg12k2lb3~x2/"><circle cx="365.8" cy="54.1" r="4" fill="#3465a4"><title>Wcwm 9275-1415</title></circle></a><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="325.3" cy="79.2" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><a href="/variants/s7/dg40k3w1k5r1k2ri10~x2~dg1605139-r2109032-ri2806019/"><circle cx="363.2" cy="80.2" r="4" fill="#3465a4"><title>Aviemore Highland</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="371.2" cy="104.9" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><circle cx="435.3" cy="65.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w3ly1k3w10k10w6ly4k40ly3~x2/"><circle cx="375.5" cy="99.8" r="4" fill="#3465a4"><title>Moonlight Glen (Fashion)</title></circle></a><a href="/variants/s8/dr2n2k2n28k8n9k1ly2~x2/"><circle cx="430.3" cy="114.5" r="4" fill="#3465a4"><title>Highland Autumn (Fashion)</title></circle></a><a href="/variants/s10/o58k12o4k2y2k2o10w5k2y4~x2/"><circle cx="414.2" cy="75.5" r="4" fill="#3465a4"><title>Unnamed C20th - Skirt</title></circle></a><a href="/variants/s7/k14w4k8y45w3k1y2~x2/"><circle cx="364.3" cy="103.5" r="4" fill="#3465a4"><title>Kernow Spirit (Corporate)</title></circle></a><a href="/variants/s14/y70k2lb4y2k2dg2k2dg2k14y8k2dg12k2lb3~x2/"><circle cx="365.6" cy="54.1" r="4" fill="#3465a4"><title>Wcwm 9275-1415</title></circle></a><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="325.2" cy="79.4" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><a href="/variants/s7/dg40k3w1k5r1k2ri10~x2~dg1605139-r2109032-ri2806019/"><circle cx="363.1" cy="80.4" r="4" fill="#3465a4"><title>Aviemore Highland</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="371.1" cy="105.1" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><circle cx="435.2" cy="66.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/y75k6w3n2k6n2k6w3n2/

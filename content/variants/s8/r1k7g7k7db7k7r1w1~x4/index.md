@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tennent (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1k7g7k7db7k7r1w1/)
 (the same proportion at any scale), whose colour order is pattern [RKGKBKRW](/stripes/rkgkbkrw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6741
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6741](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6741)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="252.0" cy="196.9" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="190.0" cy="222.0" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s7/k16g15k4lb12k22w2k6~x2/"><circle cx="243.8" cy="190.5" r="4" fill="#3465a4"><title>Frame (Edinburgh) (Personal)</title></circle></a><a href="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/"><circle cx="207.2" cy="172.9" r="4" fill="#3465a4"><title>Guthrie</title></circle></a><a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/"><circle cx="193.3" cy="181.1" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><a href="/variants/s6/k20lb2k6g16dp4k9~x2/"><circle cx="264.8" cy="197.2" r="4" fill="#3465a4"><title>Wilson's, No 167</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="170.3" cy="222.0" r="4" fill="#3465a4"><title>Forbes - 1947 (Lyon Court)</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1/"><circle cx="170.3" cy="222.0" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x2/"><circle cx="170.3" cy="222.0" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><a href="/variants/s6/k3db14r2k14g14k3~x2/"><circle cx="147.9" cy="218.7" r="4" fill="#3465a4"><title>Gallamore</title></circle></a><circle cx="183.7" cy="196.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="252.0" cy="197.4" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="190.1" cy="222.6" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s7/k16g15k4lb12k22w2k6~x2/"><circle cx="243.9" cy="191.1" r="4" fill="#3465a4"><title>Frame (Edinburgh) (Personal)</title></circle></a><a href="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/"><circle cx="207.2" cy="173.3" r="4" fill="#3465a4"><title>Guthrie</title></circle></a><a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/"><circle cx="193.3" cy="181.6" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><a href="/variants/s6/k20lb2k6g16dp4k9~x2/"><circle cx="264.8" cy="197.8" r="4" fill="#3465a4"><title>Wilson's, No 167</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="170.4" cy="222.6" r="4" fill="#3465a4"><title>Forbes - 1947 (Lyon Court)</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1/"><circle cx="170.4" cy="222.6" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x2/"><circle cx="170.4" cy="222.6" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><a href="/variants/s6/k3db14r2k14g14k3~x2/"><circle cx="148.0" cy="219.3" r="4" fill="#3465a4"><title>Gallamore</title></circle></a><circle cx="183.7" cy="197.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r1k7g7k7db7k7r1w1~x4/

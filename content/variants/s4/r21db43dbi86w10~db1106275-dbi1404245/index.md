@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fong (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r21db43dbi86w10/)
 (the same proportion at any scale), whose colour order is pattern [RBBW](/stripes/rbbw/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10828
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10828](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10828)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y2b9r2db6y1r1~x4~b1911266-db1108266/"><circle cx="239.6" cy="221.4" r="4" fill="#3465a4"><title>Lauder Primary School</title></circle></a><a href="/variants/s6/b9lb1g2lb1db4r1~x12/"><circle cx="281.3" cy="210.3" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="241.6" cy="212.4" r="4" fill="#3465a4"><title>Jamieson, Robert (Personal)</title></circle></a><a href="/variants/s4/r21b43dt86w10~b1511266-dt1203284/"><circle cx="291.7" cy="244.3" r="4" fill="#3465a4"><title>Fong Wedding (Personal)</title></circle></a><a href="/variants/s4/r1db9k4lb1~x4/"><circle cx="308.4" cy="210.7" r="4" fill="#3465a4"><title>Scottish Nuclear (Corporate)</title></circle></a><a href="/variants/s5/dy16r8t57db56lb8/"><circle cx="224.8" cy="240.3" r="4" fill="#3465a4"><title>Bryson (1988)</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="195.1" cy="277.2" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s6/w2dbi15n2db20r9w2~x2~dbi1604274-db0805267/"><circle cx="193.0" cy="196.7" r="4" fill="#3465a4"><title>The Open Championship</title></circle></a><a href="/variants/s4/r21db61dy8w21~x2/"><circle cx="255.6" cy="237.8" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="255.6" cy="238.0" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><circle cx="305.2" cy="251.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y2b9r2db6y1r1~x4~b1911266-db1108266/"><circle cx="239.7" cy="221.9" r="4" fill="#3465a4"><title>Lauder Primary School</title></circle></a><a href="/variants/s6/b9lb1g2lb1db4r1~x12/"><circle cx="281.3" cy="210.7" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s5/lb6ly6t21db32r3~x2/"><circle cx="241.7" cy="212.9" r="4" fill="#3465a4"><title>Jamieson, Robert (Personal)</title></circle></a><a href="/variants/s4/r21b43dt86w10~b1511266-dt1203284/"><circle cx="291.9" cy="244.9" r="4" fill="#3465a4"><title>Fong Wedding (Personal)</title></circle></a><a href="/variants/s4/r1db9k4lb1~x4/"><circle cx="308.5" cy="211.2" r="4" fill="#3465a4"><title>Scottish Nuclear (Corporate)</title></circle></a><a href="/variants/s5/dy16r8t57db56lb8/"><circle cx="224.9" cy="240.8" r="4" fill="#3465a4"><title>Bryson (1988)</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="195.2" cy="278.0" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s6/w2dbi15n2db20r9w2~x2~dbi1604274-db0805267/"><circle cx="193.0" cy="197.2" r="4" fill="#3465a4"><title>The Open Championship</title></circle></a><a href="/variants/s4/r21db61dy8w21~x2/"><circle cx="255.7" cy="238.5" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/variants/s4/r21db61y8w21~x2/"><circle cx="255.8" cy="238.7" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><circle cx="305.3" cy="251.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/r21db43dbi86w10~db1106275-dbi1404245/

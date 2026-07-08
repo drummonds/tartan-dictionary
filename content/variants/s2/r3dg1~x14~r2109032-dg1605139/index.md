@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's No.134"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3dg1/)
 (the same proportion at any scale), whose colour order is pattern [GR](/stripes/gr/).
 
 Sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4691
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4691](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4691)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s2/r3g1~x14/"><circle cx="487.7" cy="360.5" r="4" fill="#3465a4"><title>Wilson's, No 134</title></circle></a><a href="/variants/s3/r4g2lb1~x4/"><circle cx="324.7" cy="318.7" r="4" fill="#3465a4"><title>Wilson's, No 188</title></circle></a><a href="/variants/s3/r104g39y4/"><circle cx="526.0" cy="219.5" r="4" fill="#3465a4"><title>Scottish Watch</title></circle></a><a href="/variants/s3/r10dg4y1~x8/"><circle cx="354.2" cy="255.0" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s3/r10dg4dy1~x8/"><circle cx="354.5" cy="255.1" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s2/r3lb1~x14/"><circle cx="498.7" cy="363.9" r="4" fill="#3465a4"><title>Wilson's No.138</title></circle></a><a href="/variants/s2/r8k3~x2/"><circle cx="366.0" cy="326.9" r="4" fill="#3465a4"><title>Wilson's No.234</title></circle></a><a href="/variants/s3/r1g1r1~x2/"><circle cx="302.4" cy="366.0" r="4" fill="#3465a4"><title>Moncreiffe D</title></circle></a><a href="/variants/s3/r1g1r1/"><circle cx="302.4" cy="366.0" r="4" fill="#3465a4"><title>Moncreiffe D</title></circle></a><a href="/variants/s3/r17g9r2~x2/"><circle cx="371.4" cy="294.6" r="4" fill="#3465a4"><title>MacGregor of Glenstrae #2</title></circle></a><circle cx="517.5" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s2/r3g1~x14/"><circle cx="488.1" cy="361.6" r="4" fill="#3465a4"><title>Wilson's, No 134</title></circle></a><a href="/variants/s3/r4g2lb1~x4/"><circle cx="325.0" cy="319.6" r="4" fill="#3465a4"><title>Wilson's, No 188</title></circle></a><a href="/variants/s3/r104g39y4/"><circle cx="526.1" cy="220.1" r="4" fill="#3465a4"><title>Scottish Watch</title></circle></a><a href="/variants/s3/r10dg4y1~x8/"><circle cx="354.4" cy="255.7" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s3/r10dg4dy1~x8/"><circle cx="354.7" cy="255.7" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s2/r3lb1~x14/"><circle cx="499.1" cy="365.0" r="4" fill="#3465a4"><title>Wilson's No.138</title></circle></a><a href="/variants/s2/r8k3~x2/"><circle cx="366.3" cy="328.1" r="4" fill="#3465a4"><title>Wilson's No.234</title></circle></a><a href="/variants/s3/r1g1r1~x2/"><circle cx="303.0" cy="366.0" r="4" fill="#3465a4"><title>Moncreiffe D</title></circle></a><a href="/variants/s3/r1g1r1/"><circle cx="303.0" cy="366.0" r="4" fill="#3465a4"><title>Moncreiffe D</title></circle></a><a href="/variants/s3/r17g9r2~x2/"><circle cx="371.6" cy="295.4" r="4" fill="#3465a4"><title>MacGregor of Glenstrae #2</title></circle></a><circle cx="517.9" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s2/r3dg1~x14~r2109032-dg1605139/

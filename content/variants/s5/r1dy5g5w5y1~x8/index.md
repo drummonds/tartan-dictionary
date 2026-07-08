@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Eastern Townshippers (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1dy5g5w5y1/)
 (the same proportion at any scale), whose colour order is pattern [GWGGR](/stripes/gwggr/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7943
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7943](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7943)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g9dy7w7r1~x4/"><circle cx="160.4" cy="267.0" r="4" fill="#3465a4"><title>MacKinnon Dress</title></circle></a><a href="/variants/s7/ly8r3t2db1w6g12db2~x2/"><circle cx="134.9" cy="189.2" r="4" fill="#3465a4"><title>Carmen Lau (Hong Kong) (Personal)</title></circle></a><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="224.9" cy="225.0" r="4" fill="#3465a4"><title>ChuMac (Personal)</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="107.4" cy="274.3" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/variants/s4/db8g8w4r1~x5/"><circle cx="173.1" cy="266.1" r="4" fill="#3465a4"><title>Farooq in Livingston (Personal)</title></circle></a><a href="/variants/s7/dy17g5db2w12db2y4g7~x4~g2203152-db1106275/"><circle cx="145.6" cy="219.1" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="216.3" cy="282.2" r="4" fill="#3465a4"><title>Delroeux (Personal)</title></circle></a><a href="/variants/s6/dy19g23ly3db15r11w5~x2/"><circle cx="91.7" cy="229.6" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="96.4" cy="230.7" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s4/g9dr7w7r1~x4/"><circle cx="160.7" cy="264.5" r="4" fill="#3465a4"><title>MacKinnon Dress Trade Tartan</title></circle></a><circle cx="90.1" cy="258.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/g9dy7w7r1~x4/"><circle cx="160.5" cy="267.8" r="4" fill="#3465a4"><title>MacKinnon Dress</title></circle></a><a href="/variants/s7/ly8r3t2db1w6g12db2~x2/"><circle cx="135.0" cy="189.7" r="4" fill="#3465a4"><title>Carmen Lau (Hong Kong) (Personal)</title></circle></a><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="225.1" cy="225.5" r="4" fill="#3465a4"><title>ChuMac (Personal)</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="107.6" cy="275.0" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/variants/s4/db8g8w4r1~x5/"><circle cx="173.3" cy="266.9" r="4" fill="#3465a4"><title>Farooq in Livingston (Personal)</title></circle></a><a href="/variants/s7/dy17g5db2w12db2y4g7~x4~g2203152-db1106275/"><circle cx="145.7" cy="219.6" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="216.5" cy="282.9" r="4" fill="#3465a4"><title>Delroeux (Personal)</title></circle></a><a href="/variants/s6/dy19g23ly3db15r11w5~x2/"><circle cx="91.8" cy="230.2" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="96.5" cy="231.3" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s4/g9dr7w7r1~x4/"><circle cx="160.9" cy="265.3" r="4" fill="#3465a4"><title>MacKinnon Dress Trade Tartan</title></circle></a><circle cx="90.3" cy="258.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r1dy5g5w5y1~x8/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Belk Heritage Hunting (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k16ly1k4n2k4dy1dg41ly2db1dy36k1dg3k1dy3k1dg4/)
 (the same proportion at any scale), whose colour order is pattern [GKGKGKGBYGGKBKYK](/stripes/gkgkgkgbyggkbkyk/).
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8927
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8927](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8927)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/k16ly1k4w2k4dr1dg41ly2dr36k1dg3k1dr3k1dg4~x2/"><circle cx="274.0" cy="64.5" r="4" fill="#3465a4"><title>Belk Heritage (Fashion)</title></circle></a><a href="/variants/s10/k3n3k1dg26k10y1k3dp5n4ly2~x2~k0603284-n1802249/"><circle cx="290.5" cy="116.7" r="4" fill="#3465a4"><title>Rikaco Heirloom</title></circle></a><a href="/variants/s15/dg38k3dg3k3db6n1k2r2k2n1db6k3db3k3db19~x2/"><circle cx="312.5" cy="81.5" r="4" fill="#3465a4"><title>Doyel (Name)</title></circle></a><a href="/variants/s20/dg40k2dr3k2dg3k3r3k3r3k3dr5y1dr5k3dg3k2dr3k2dg3k3~x2/"><circle cx="325.9" cy="47.3" r="4" fill="#3465a4"><title>Austrian Bowhunters Hunting</title></circle></a><circle cx="294.7" cy="64.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/k16ly1k4w2k4dr1dg41ly2dr36k1dg3k1dr3k1dg4~x2/"><circle cx="273.8" cy="64.4" r="4" fill="#3465a4"><title>Belk Heritage (Fashion)</title></circle></a><a href="/variants/s10/k3n3k1dg26k10y1k3dp5n4ly2~x2~k0603284-n1802249/"><circle cx="290.4" cy="116.6" r="4" fill="#3465a4"><title>Rikaco Heirloom</title></circle></a><a href="/variants/s15/dg38k3dg3k3db6n1k2r2k2n1db6k3db3k3db19~x2/"><circle cx="312.3" cy="81.3" r="4" fill="#3465a4"><title>Doyel (Name)</title></circle></a><a href="/variants/s20/dg40k2dr3k2dg3k3r3k3r3k3dr5y1dr5k3dg3k2dr3k2dg3k3~x2/"><circle cx="325.7" cy="47.1" r="4" fill="#3465a4"><title>Austrian Bowhunters Hunting</title></circle></a><circle cx="294.5" cy="63.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/k16ly1k4n2k4dy1dg41ly2db1dy36k1dg3k1dy3k1dg4~x2/

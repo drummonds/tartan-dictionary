@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cameron of Locheil (Bonner collection)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3r4db2r20db20r2g2r6g10r6w2r3k2/)
 (the same proportion at any scale), whose colour order is pattern [KRBRBRGRGRWRK](/stripes/krbrbrgrgrwrk/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=500
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=500](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=500)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t1903246-dg1405139/"><circle cx="206.1" cy="112.2" r="4" fill="#3465a4"><title>Lochcarron Dress</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><circle cx="224.4" cy="119.0" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/"><circle cx="224.4" cy="119.0" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.9" cy="122.2" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><a href="/variants/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/"><circle cx="193.0" cy="138.1" r="4" fill="#3465a4"><title>MacGuire (Personal)</title></circle></a><a href="/variants/s13/db2r11g2r11g21r2k9lb2db11r11g2r11db2~x2/"><circle cx="174.2" cy="147.9" r="4" fill="#3465a4"><title>Nicolson/MacNicol</title></circle></a><a href="/variants/s12/r16g2r3g2r13ki12w2ki12r13k13r2y2~x2~ki0604259/"><circle cx="158.0" cy="141.2" r="4" fill="#3465a4"><title>Ikelman No. 6</title></circle></a><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="187.8" cy="122.3" r="4" fill="#3465a4"><title>Golfing Stewart (Fashion)</title></circle></a><a href="/variants/s10/b4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.2" cy="122.2" r="4" fill="#3465a4"><title>Golfers</title></circle></a><a href="/variants/s11/y4k1r12db3r3db16r3db3r12k1w4~x2/"><circle cx="220.0" cy="127.2" r="4" fill="#3465a4"><title>MacKeever</title></circle></a><circle cx="201.4" cy="126.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r3db10t3db2t2db2r3k5r2k5r22dg2r3dg2~x2~t1903246-dg1405139/"><circle cx="206.0" cy="112.5" r="4" fill="#3465a4"><title>Lochcarron Dress</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><circle cx="224.4" cy="119.3" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/"><circle cx="224.4" cy="119.3" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.8" cy="122.6" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><a href="/variants/s14/w3k2dg18r2db8r18dg2r2dg2r2db2r18dg18k2~x2/"><circle cx="193.0" cy="138.4" r="4" fill="#3465a4"><title>MacGuire (Personal)</title></circle></a><a href="/variants/s13/db2r11g2r11g21r2k9lb2db11r11g2r11db2~x2/"><circle cx="174.2" cy="148.3" r="4" fill="#3465a4"><title>Nicolson/MacNicol</title></circle></a><a href="/variants/s12/r16g2r3g2r13ki12w2ki12r13k13r2y2~x2~ki0604259/"><circle cx="158.0" cy="141.6" r="4" fill="#3465a4"><title>Ikelman No. 6</title></circle></a><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="187.7" cy="122.7" r="4" fill="#3465a4"><title>Golfing Stewart (Fashion)</title></circle></a><a href="/variants/s10/b4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.2" cy="122.5" r="4" fill="#3465a4"><title>Golfers</title></circle></a><a href="/variants/s11/y4k1r12db3r3db16r3db3r12k1w4~x2/"><circle cx="220.0" cy="127.5" r="4" fill="#3465a4"><title>MacKeever</title></circle></a><circle cx="201.4" cy="126.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Norwich No.031"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb8k8g8k1g8k8g8k1g8k8lb8w2/)
 (the same proportion at any scale), whose colour order is pattern [WKGKGKGKGKWW](/stripes/wkgkgkgkgkww/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3180
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3180](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3180)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db4k3g4k1g4k3g4k1g4k3db4k1~x2~db1406275/"><circle cx="132.4" cy="264.0" r="4" fill="#3465a4"><title>Norwich No.063</title></circle></a><a href="/variants/s13/g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/"><circle cx="118.6" cy="211.9" r="4" fill="#3465a4"><title>Lochinvar Marine Harvest</title></circle></a><a href="/variants/s12/dp12k13g12lb2g12k13g12lb2g12k13dp12k2~x2/"><circle cx="119.1" cy="224.6" r="4" fill="#3465a4"><title>Wilson's No.064 #2</title></circle></a><a href="/variants/s7/k8g8k1g8k8lb8w2~x2/"><circle cx="115.1" cy="231.1" r="4" fill="#3465a4"><title>Unidentified No 31</title></circle></a><a href="/variants/s13/o4k2g6o3g10k10g4k10g10o3g6k2w4~x2/"><circle cx="137.5" cy="216.7" r="4" fill="#3465a4"><title>Crihfield Family (Personal)</title></circle></a><a href="/variants/s9/r5db15k15g15w2g15k15g15w2~x2/"><circle cx="123.2" cy="208.8" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/variants/s12/db9k9g9w2g9k9g9w2g9k9db9k3~x2~db1406275-w4000000/"><circle cx="91.1" cy="247.8" r="4" fill="#3465a4"><title>Graham of Montrose #2</title></circle></a><a href="/variants/s13/k2t1g6t2g2k4g5ly1g5k4db4k2db2~x4/"><circle cx="109.1" cy="206.2" r="4" fill="#3465a4"><title>Gordon Dress (US Fashion)</title></circle></a><a href="/variants/s10/r4k6lb1g7k2g7lb1k6r4g2~x4/"><circle cx="119.3" cy="207.9" r="4" fill="#3465a4"><title>Walker James</title></circle></a><a href="/variants/s7/k8g8k1g8k8b8w2~x2/"><circle cx="121.1" cy="233.0" r="4" fill="#3465a4"><title>Unnamed, No 31</title></circle></a><circle cx="111.7" cy="214.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db4k3g4k1g4k3g4k1g4k3db4k1~x2~db1406275/"><circle cx="132.5" cy="264.8" r="4" fill="#3465a4"><title>Norwich No.063</title></circle></a><a href="/variants/s13/g10k2g2k2g2k7db8dp2db8k7g8k2g2~x2/"><circle cx="118.7" cy="212.4" r="4" fill="#3465a4"><title>Lochinvar Marine Harvest</title></circle></a><a href="/variants/s12/dp12k13g12lb2g12k13g12lb2g12k13dp12k2~x2/"><circle cx="119.2" cy="225.2" r="4" fill="#3465a4"><title>Wilson's No.064 #2</title></circle></a><a href="/variants/s7/k8g8k1g8k8lb8w2~x2/"><circle cx="115.2" cy="231.8" r="4" fill="#3465a4"><title>Unidentified No 31</title></circle></a><a href="/variants/s13/o4k2g6o3g10k10g4k10g10o3g6k2w4~x2/"><circle cx="137.6" cy="217.4" r="4" fill="#3465a4"><title>Crihfield Family (Personal)</title></circle></a><a href="/variants/s9/r5db15k15g15w2g15k15g15w2~x2/"><circle cx="123.2" cy="209.4" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/variants/s12/db9k9g9w2g9k9g9w2g9k9db9k3~x2~db1406275-w4000000/"><circle cx="91.2" cy="248.6" r="4" fill="#3465a4"><title>Graham of Montrose #2</title></circle></a><a href="/variants/s13/k2t1g6t2g2k4g5ly1g5k4db4k2db2~x4/"><circle cx="109.1" cy="206.8" r="4" fill="#3465a4"><title>Gordon Dress (US Fashion)</title></circle></a><a href="/variants/s10/r4k6lb1g7k2g7lb1k6r4g2~x4/"><circle cx="119.3" cy="208.5" r="4" fill="#3465a4"><title>Walker James</title></circle></a><a href="/variants/s7/k8g8k1g8k8b8w2~x2/"><circle cx="121.2" cy="233.6" r="4" fill="#3465a4"><title>Unnamed, No 31</title></circle></a><circle cx="111.7" cy="214.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/lb8k8g8k1g8k8g8k1g8k8lb8w2~x2~w4000000/

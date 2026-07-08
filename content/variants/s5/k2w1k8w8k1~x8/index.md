@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cairn (Marton Mills)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2w1k8w8k1/)
 (the same proportion at any scale), whose colour order is pattern [KWKWK](/stripes/kwkwk/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=461
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=461](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=461)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k22w3k3w11k1~x2/"><circle cx="367.9" cy="168.9" r="4" fill="#3465a4"><title>MacPhee MacFee or MacIver</title></circle></a><a href="/variants/s6/k2n6k2n6k12r1~x4/"><circle cx="296.3" cy="197.3" r="4" fill="#3465a4"><title>MacSween, Black (Personal)</title></circle></a><a href="/variants/s6/k3n23k3n3k20lg3~x2/"><circle cx="260.1" cy="204.8" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/variants/s6/k3n23k3n3k20lb3~x2/"><circle cx="261.4" cy="204.5" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/variants/s6/k3n31k3n3k27y3~x2/"><circle cx="287.5" cy="186.0" r="4" fill="#3465a4"><title>Scottish National Party (Corporate)</title></circle></a><a href="/variants/s6/n58k22n8k17r5k14~x2/"><circle cx="291.9" cy="193.2" r="4" fill="#3465a4"><title>Flynn</title></circle></a><a href="/variants/s6/k2w1k9w9k1w2~x6/"><circle cx="284.3" cy="215.6" r="4" fill="#3465a4"><title>Erskine (Black and White)</title></circle></a><a href="/variants/s6/k2w1k9w9k1w2~x3/"><circle cx="284.3" cy="215.6" r="4" fill="#3465a4"><title>Erskine BW MINI Design Tartan</title></circle></a><a href="/variants/s6/n50k4n12k23lo4k4~x2/"><circle cx="359.1" cy="180.1" r="4" fill="#3465a4"><title>Sligo Irish County Tartan</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="304.2" cy="151.4" r="4" fill="#3465a4"><title>St. Piran Cornish Flag</title></circle></a><circle cx="282.6" cy="221.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k22w3k3w11k1~x2/"><circle cx="367.9" cy="169.5" r="4" fill="#3465a4"><title>MacPhee MacFee or MacIver</title></circle></a><a href="/variants/s6/k2n6k2n6k12r1~x4/"><circle cx="296.3" cy="197.8" r="4" fill="#3465a4"><title>MacSween, Black (Personal)</title></circle></a><a href="/variants/s6/k3n23k3n3k20lg3~x2/"><circle cx="260.1" cy="205.4" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/variants/s6/k3n23k3n3k20lb3~x2/"><circle cx="261.5" cy="205.1" r="4" fill="#3465a4"><title>Pride of the Forth</title></circle></a><a href="/variants/s6/k3n31k3n3k27y3~x2/"><circle cx="287.5" cy="186.5" r="4" fill="#3465a4"><title>Scottish National Party (Corporate)</title></circle></a><a href="/variants/s6/n58k22n8k17r5k14~x2/"><circle cx="292.0" cy="193.7" r="4" fill="#3465a4"><title>Flynn</title></circle></a><a href="/variants/s6/k2w1k9w9k1w2~x6/"><circle cx="284.4" cy="216.4" r="4" fill="#3465a4"><title>Erskine (Black and White)</title></circle></a><a href="/variants/s6/k2w1k9w9k1w2~x3/"><circle cx="284.4" cy="216.4" r="4" fill="#3465a4"><title>Erskine BW MINI Design Tartan</title></circle></a><a href="/variants/s6/n50k4n12k23lo4k4~x2/"><circle cx="359.1" cy="180.6" r="4" fill="#3465a4"><title>Sligo Irish County Tartan</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="304.1" cy="151.9" r="4" fill="#3465a4"><title>St. Piran Cornish Flag</title></circle></a><circle cx="282.7" cy="222.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k2w1k8w8k1~x8/

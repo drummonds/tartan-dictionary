@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Encyclopaedia Britannica"
   url: "/tartans/encyclopaedia-britannica/"
+- name: "Encyclopaedia Britannica"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db18k3db6k3db6k5g12r4g12k5db18k4w5k4/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKGRGKBKWK](/stripes/bkbkbkgrgkbkwk/).
@@ -14,7 +16,7 @@ Part of the [Encyclopaedia Britannica](/tartans/encyclopaedia-britannica/) tarta
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1111
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1111](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1111)
 
 ## Provenance
 
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/"><circle cx="117.1" cy="184.6" r="4" fill="#3465a4"><title>Encyclopaedia Britannica (Corporate)</title></circle></a><a href="/variants/s7/db36r4db6g18db15k18w4~x2/"><circle cx="166.1" cy="177.0" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x4/"><circle cx="119.6" cy="200.6" r="4" fill="#3465a4"><title>Murray #2</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x2/"><circle cx="119.6" cy="200.6" r="4" fill="#3465a4"><title>New South Wales Scottish Rifles</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2/"><circle cx="119.6" cy="200.6" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/"><circle cx="78.7" cy="177.4" r="4" fill="#3465a4"><title>Arndt (Personal)</title></circle></a><a href="/variants/s21/g2r2g12k4db11r2db11k4db2k9db2k9db2k4db11y2db11k4g12r2g2~x2/"><circle cx="116.4" cy="165.4" r="4" fill="#3465a4"><title>Allen, Christopher Holler</title></circle></a><a href="/variants/s21/g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/"><circle cx="117.8" cy="165.8" r="4" fill="#3465a4"><title>Allen (1998)</title></circle></a><a href="/variants/s12/db5k1db1k1db1k4g5y1g5k4db6k1~x4/"><circle cx="130.9" cy="206.6" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/variants/s15/b12k2b2k2b2k10r2k10t12k3t12k10b11k2b2~x2/"><circle cx="130.5" cy="184.5" r="4" fill="#3465a4"><title>Mundigl</title></circle></a><circle cx="127.0" cy="181.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g12k5db18k5w5k5db18k3db6k3db6k5g12r5~x2/"><circle cx="117.1" cy="185.1" r="4" fill="#3465a4"><title>Encyclopaedia Britannica (Corporate)</title></circle></a><a href="/variants/s7/db36r4db6g18db15k18w4~x2/"><circle cx="166.1" cy="177.4" r="4" fill="#3465a4"><title>Grainger</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x4/"><circle cx="119.6" cy="201.1" r="4" fill="#3465a4"><title>Murray #2</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x2/"><circle cx="119.6" cy="201.1" r="4" fill="#3465a4"><title>New South Wales Scottish Rifles</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2/"><circle cx="119.6" cy="201.1" r="4" fill="#3465a4"><title>Murray</title></circle></a><a href="/variants/s14/w5k5db25k16g18k4g5k4g18k16db25r5db5w5/"><circle cx="78.7" cy="177.8" r="4" fill="#3465a4"><title>Arndt (Personal)</title></circle></a><a href="/variants/s21/g2r2g12k4db11r2db11k4db2k9db2k9db2k4db11y2db11k4g12r2g2~x2/"><circle cx="116.4" cy="165.7" r="4" fill="#3465a4"><title>Allen, Christopher Holler</title></circle></a><a href="/variants/s21/g2r2g12k4db11dy2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2~x2/"><circle cx="117.8" cy="166.2" r="4" fill="#3465a4"><title>Allen (1998)</title></circle></a><a href="/variants/s12/db5k1db1k1db1k4g5y1g5k4db6k1~x4/"><circle cx="130.9" cy="207.1" r="4" fill="#3465a4"><title>Gordon</title></circle></a><a href="/variants/s15/b12k2b2k2b2k10r2k10t12k3t12k10b11k2b2~x2/"><circle cx="130.5" cy="185.0" r="4" fill="#3465a4"><title>Mundigl</title></circle></a><circle cx="127.0" cy="181.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/db18k3db6k3db6k5g12r4g12k5db18k4w5k4~x2/

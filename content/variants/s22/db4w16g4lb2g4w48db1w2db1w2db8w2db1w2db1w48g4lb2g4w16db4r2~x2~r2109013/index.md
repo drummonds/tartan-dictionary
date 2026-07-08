@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Scarlett #5"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4w16g4lb2g4w48db1w2db1w2db8w2db1w2db1w48g4lb2g4w16db4r2/)
 (the same proportion at any scale), whose colour order is pattern [BWGWGWBWBWBWBWBWGWGWBR](/stripes/bwgwgwbwbwbwbwbwgwgwbr/).
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4378
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4378](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4378)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/dp3w14g8w10dp4w32r1w2r1w2r1w2r1w2r1w2r1w6lb3~x2/"><circle cx="437.1" cy="73.0" r="4" fill="#3465a4"><title>Shaw Dress (Personal)</title></circle></a><a href="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/"><circle cx="356.5" cy="59.3" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/"><circle cx="401.5" cy="49.8" r="4" fill="#3465a4"><title>Druid (Corporate)</title></circle></a><a href="/variants/s12/w46n9w4k8w9r4w9dy2w2dy2w2dy1~x2/"><circle cx="401.2" cy="55.2" r="4" fill="#3465a4"><title>Old England House Check</title></circle></a><circle cx="453.0" cy="39.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/dp3w14g8w10dp4w32r1w2r1w2r1w2r1w2r1w2r1w6lb3~x2/"><circle cx="437.1" cy="73.2" r="4" fill="#3465a4"><title>Shaw Dress (Personal)</title></circle></a><a href="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/"><circle cx="356.4" cy="59.4" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/"><circle cx="401.4" cy="49.9" r="4" fill="#3465a4"><title>Druid (Corporate)</title></circle></a><a href="/variants/s12/w46n9w4k8w9r4w9dy2w2dy2w2dy1~x2/"><circle cx="401.1" cy="55.4" r="4" fill="#3465a4"><title>Old England House Check</title></circle></a><circle cx="452.9" cy="39.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s22/db4w16g4lb2g4w48db1w2db1w2db8w2db1w2db1w48g4lb2g4w16db4r2~x2~r2109013/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Presley of Lonmay #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db17k2m2db17k14dy1w2dy1k4dy1w2dy1k14/)
 (the same proportion at any scale), whose colour order is pattern [BKRBKGWGKGWGK](/stripes/bkrbkgwgkgwgk/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5839
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5839](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5839)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w1db16k12lb2dp3lb2k12db2k2db2k2db7w1~x2/"><circle cx="206.9" cy="121.2" r="4" fill="#3465a4"><title>Edgar (2014)</title></circle></a><a href="/variants/s11/ri2k3db30k2db4k2db30k36r30k2lb2~ri2109032-r1706009/"><circle cx="233.3" cy="118.7" r="4" fill="#3465a4"><title>Evans Welsh Name Tartan</title></circle></a><a href="/variants/s9/k4ly2k34db10lb4db4dp4db23w3~x2/"><circle cx="196.5" cy="97.7" r="4" fill="#3465a4"><title>Heirloom Dark Alba</title></circle></a><a href="/variants/s17/db12k2db2k2db2k2db2k12lb5k1r2k1lb5k12db12k1w2~x2/"><circle cx="158.7" cy="116.9" r="4" fill="#3465a4"><title>Donside Trampoline Club</title></circle></a><a href="/variants/s11/db12r4db64k64g7w7lo7k64db64r4db12/"><circle cx="229.8" cy="117.0" r="4" fill="#3465a4"><title>Sandhu (Name)</title></circle></a><a href="/variants/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="276.1" cy="152.6" r="4" fill="#3465a4"><title>Slanj Dress (Corporate)</title></circle></a><a href="/variants/s15/db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2~x2~db1504274-dp1502305/"><circle cx="247.5" cy="112.3" r="4" fill="#3465a4"><title>Angove, the Black Swan</title></circle></a><a href="/variants/s10/k8r3b4g4b48k48g4k4y3b8/"><circle cx="222.9" cy="106.1" r="4" fill="#3465a4"><title>Kingsbarns Golf Links</title></circle></a><a href="/variants/s11/n14k2db3k1y2k1db3k14db3k1w1~x2/"><circle cx="187.9" cy="120.3" r="4" fill="#3465a4"><title>McGuffey (School)</title></circle></a><a href="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/"><circle cx="201.6" cy="160.2" r="4" fill="#3465a4"><title>Lawtie (Personal)</title></circle></a><circle cx="214.7" cy="111.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w1db16k12lb2dp3lb2k12db2k2db2k2db7w1~x2/"><circle cx="206.8" cy="121.4" r="4" fill="#3465a4"><title>Edgar (2014)</title></circle></a><a href="/variants/s11/ri2k3db30k2db4k2db30k36r30k2lb2~ri2109032-r1706009/"><circle cx="233.2" cy="118.9" r="4" fill="#3465a4"><title>Evans Welsh Name Tartan</title></circle></a><a href="/variants/s9/k4ly2k34db10lb4db4dp4db23w3~x2/"><circle cx="196.4" cy="97.8" r="4" fill="#3465a4"><title>Heirloom Dark Alba</title></circle></a><a href="/variants/s17/db12k2db2k2db2k2db2k12lb5k1r2k1lb5k12db12k1w2~x2/"><circle cx="158.6" cy="117.1" r="4" fill="#3465a4"><title>Donside Trampoline Club</title></circle></a><a href="/variants/s11/db12r4db64k64g7w7lo7k64db64r4db12/"><circle cx="229.7" cy="117.2" r="4" fill="#3465a4"><title>Sandhu (Name)</title></circle></a><a href="/variants/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="276.1" cy="152.9" r="4" fill="#3465a4"><title>Slanj Dress (Corporate)</title></circle></a><a href="/variants/s15/db18dp2k2db2dp2k1db2k8g1y1g6k8db14k2g2~x2~db1504274-dp1502305/"><circle cx="247.4" cy="112.5" r="4" fill="#3465a4"><title>Angove, the Black Swan</title></circle></a><a href="/variants/s10/k8r3b4g4b48k48g4k4y3b8/"><circle cx="222.8" cy="106.3" r="4" fill="#3465a4"><title>Kingsbarns Golf Links</title></circle></a><a href="/variants/s11/n14k2db3k1y2k1db3k14db3k1w1~x2/"><circle cx="187.8" cy="120.5" r="4" fill="#3465a4"><title>McGuffey (School)</title></circle></a><a href="/variants/s11/k20lb2k8db2k2db2k2db10dr5g5db15~x2/"><circle cx="201.6" cy="160.5" r="4" fill="#3465a4"><title>Lawtie (Personal)</title></circle></a><circle cx="214.6" cy="111.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/db17k2m2db17k14dy1w2dy1k4dy1w2dy1k14~x2/

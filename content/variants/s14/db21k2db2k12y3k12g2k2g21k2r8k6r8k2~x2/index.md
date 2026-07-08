@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Deas"
   url: "/tartans/deas/"
+- name: "Deas"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db21k2db2k12y3k12g2k2g21k2r8k6r8k2/)
 (the same proportion at any scale), whose colour order is pattern [BKBKGKGKGKRKRK](/stripes/bkbkgkgkgkrkrk/).
@@ -14,7 +16,7 @@ Part of the [Deas](/tartans/deas/) tartan — the named design grouping this set
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=903
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=903](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=903)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g21k2r8k6r8k2db21k2db2k12y3k12g2k2~x2/"><circle cx="110.3" cy="136.0" r="4" fill="#3465a4"><title>Deas</title></circle></a><a href="/variants/s13/dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4/"><circle cx="130.1" cy="145.8" r="4" fill="#3465a4"><title>Red Hackle (Military)</title></circle></a><a href="/variants/s12/k4b1k12w1b4w1dg4w1dr4dg12k1w2~x2/"><circle cx="125.6" cy="134.3" r="4" fill="#3465a4"><title>Glenfalloch</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/"><circle cx="120.7" cy="137.7" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1/"><circle cx="120.7" cy="137.7" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/"><circle cx="113.3" cy="157.8" r="4" fill="#3465a4"><title>MacClellan</title></circle></a><a href="/variants/s14/r2db4k1db1k1db1k8g8y2g8k8db8k1r2/"><circle cx="94.6" cy="159.1" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/variants/s14/r2db4k1db1k1db1k8g8y2g8k8db8k1r2~x2/"><circle cx="94.6" cy="159.1" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/variants/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2~db1406275/"><circle cx="120.3" cy="144.6" r="4" fill="#3465a4"><title>Baillie (William Wilson)</title></circle></a><a href="/variants/s13/db16r2db3r4db18r2k16dg16r4dg3r2k2ly10~x2/"><circle cx="111.5" cy="152.4" r="4" fill="#3465a4"><title>MacSporran</title></circle></a><circle cx="110.3" cy="136.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g21k2r8k6r8k2db21k2db2k12y3k12g2k2~x2/"><circle cx="110.2" cy="136.3" r="4" fill="#3465a4"><title>Deas</title></circle></a><a href="/variants/s13/dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1~x4/"><circle cx="130.0" cy="146.1" r="4" fill="#3465a4"><title>Red Hackle (Military)</title></circle></a><a href="/variants/s12/k4b1k12w1b4w1dg4w1dr4dg12k1w2~x2/"><circle cx="125.5" cy="134.6" r="4" fill="#3465a4"><title>Glenfalloch</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1~x2/"><circle cx="120.6" cy="138.0" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/variants/s13/db8r1db2r3db12r1k12g12r3g2r1g4w1/"><circle cx="120.6" cy="138.0" r="4" fill="#3465a4"><title>MacDonell of Glengarry D</title></circle></a><a href="/variants/s14/db18k5g3r3g6k2y2k2g6r3g3k10db5k10/"><circle cx="113.3" cy="158.2" r="4" fill="#3465a4"><title>MacClellan</title></circle></a><a href="/variants/s14/r2db4k1db1k1db1k8g8y2g8k8db8k1r2/"><circle cx="94.6" cy="159.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/variants/s14/r2db4k1db1k1db1k8g8y2g8k8db8k1r2~x2/"><circle cx="94.6" cy="159.5" r="4" fill="#3465a4"><title>Farquharson</title></circle></a><a href="/variants/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2~db1406275/"><circle cx="120.3" cy="144.9" r="4" fill="#3465a4"><title>Baillie (William Wilson)</title></circle></a><a href="/variants/s13/db16r2db3r4db18r2k16dg16r4dg3r2k2ly10~x2/"><circle cx="111.4" cy="152.7" r="4" fill="#3465a4"><title>MacSporran</title></circle></a><circle cx="110.2" cy="136.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/db21k2db2k12y3k12g2k2g21k2r8k6r8k2~x2/

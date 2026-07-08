@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Federated Women's Institutes of"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2k1y2g3y4g3db12k1w2/)
 (the same proportion at any scale), whose colour order is pattern [RKGGGGBKW](/stripes/rkggggbkw/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1157
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1157](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1157)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k3ri3g21r8ri3r4k3db26w3~x2~ri2008029-r1707016/"><circle cx="110.0" cy="144.4" r="4" fill="#3465a4"><title>Dunedin</title></circle></a><a href="/variants/s8/g5o2g2o9k9lr9db30w5~x2~lr2800000/"><circle cx="135.1" cy="128.9" r="4" fill="#3465a4"><title>Alexander of Menstry</title></circle></a><a href="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/"><circle cx="148.9" cy="136.1" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/variants/s11/w4db5r3db22dy4k3g17r7k2r7dy2~x2/"><circle cx="100.6" cy="133.8" r="4" fill="#3465a4"><title>Crosser Crozier Family Tartan</title></circle></a><a href="/variants/s11/w4db5r3db22y4k3g17r7k2r7y2~x2/"><circle cx="100.2" cy="134.0" r="4" fill="#3465a4"><title>Crosser, Crozier</title></circle></a><a href="/variants/s10/k3db20dbi8db4g20k2g2r2g3ly3~x2~db1204274-dbi1406275/"><circle cx="146.3" cy="144.1" r="4" fill="#3465a4"><title>Schmidt (2014)</title></circle></a><a href="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/"><circle cx="121.3" cy="122.7" r="4" fill="#3465a4"><title>Glasgow, City of Culture</title></circle></a><a href="/variants/s11/r4k2g25k2lb10k2g4k2db25k2y4~x2/"><circle cx="115.8" cy="116.2" r="4" fill="#3465a4"><title>Ayrton (amended)</title></circle></a><a href="/variants/s11/dy4k2db25k2g4k2lb10k2g25k2r4~x2/"><circle cx="116.0" cy="116.1" r="4" fill="#3465a4"><title>Ayrton (1979) (Personal)</title></circle></a><a href="/variants/s8/g5o2g2o9k9lb9db30w5~x2/"><circle cx="130.8" cy="127.5" r="4" fill="#3465a4"><title>Alexander of Menstry (Personal)</title></circle></a><circle cx="130.4" cy="137.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k3ri3g21r8ri3r4k3db26w3~x2~ri2008029-r1707016/"><circle cx="110.0" cy="144.7" r="4" fill="#3465a4"><title>Dunedin</title></circle></a><a href="/variants/s8/g5o2g2o9k9lr9db30w5~x2~lr2800000/"><circle cx="135.0" cy="129.2" r="4" fill="#3465a4"><title>Alexander of Menstry</title></circle></a><a href="/variants/s10/db6r4db24w3k6g18y4g2y2g4~x2/"><circle cx="148.9" cy="136.3" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/variants/s11/w4db5r3db22dy4k3g17r7k2r7dy2~x2/"><circle cx="100.5" cy="134.1" r="4" fill="#3465a4"><title>Crosser Crozier Family Tartan</title></circle></a><a href="/variants/s11/w4db5r3db22y4k3g17r7k2r7y2~x2/"><circle cx="100.2" cy="134.3" r="4" fill="#3465a4"><title>Crosser, Crozier</title></circle></a><a href="/variants/s10/k3db20dbi8db4g20k2g2r2g3ly3~x2~db1204274-dbi1406275/"><circle cx="146.3" cy="144.4" r="4" fill="#3465a4"><title>Schmidt (2014)</title></circle></a><a href="/variants/s11/r6g2r2g21k2w4k2db23y2db2y6~x2/"><circle cx="121.2" cy="122.9" r="4" fill="#3465a4"><title>Glasgow, City of Culture</title></circle></a><a href="/variants/s11/r4k2g25k2lb10k2g4k2db25k2y4~x2/"><circle cx="115.7" cy="116.4" r="4" fill="#3465a4"><title>Ayrton (amended)</title></circle></a><a href="/variants/s11/dy4k2db25k2g4k2lb10k2g25k2r4~x2/"><circle cx="115.9" cy="116.3" r="4" fill="#3465a4"><title>Ayrton (1979) (Personal)</title></circle></a><a href="/variants/s8/g5o2g2o9k9lb9db30w5~x2/"><circle cx="130.7" cy="127.8" r="4" fill="#3465a4"><title>Alexander of Menstry (Personal)</title></circle></a><circle cx="130.4" cy="138.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r2k1y2g3y4g3db12k1w2~x4/

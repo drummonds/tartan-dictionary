@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Elliot (Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db44dy12db9dr3/)
 (the same proportion at any scale), whose colour order is pattern [BBGB](/stripes/bbgb/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=596
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=596](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=596)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy1db9dy2db9r1~x4/"><circle cx="620.6" cy="268.2" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Blue</title></circle></a><a href="/variants/s5/dy6db28do2db28y1~x2/"><circle cx="626.0" cy="242.4" r="4" fill="#3465a4"><title>Pearson</title></circle></a><a href="/variants/s4/db16b4db3r1~x2/"><circle cx="605.8" cy="240.0" r="4" fill="#3465a4"><title>Elliott</title></circle></a><a href="/variants/s4/db3b30db40r3~x2/"><circle cx="447.3" cy="257.7" r="4" fill="#3465a4"><title>Sanix Large Muted</title></circle></a><a href="/variants/s5/db1dy9db2dy9r1~x4/"><circle cx="626.0" cy="273.6" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Camel</title></circle></a><a href="/variants/s5/db16dy2db16dy19r4~x3/"><circle cx="419.1" cy="287.7" r="4" fill="#3465a4"><title>Unidentified #24</title></circle></a><a href="/variants/s4/db16dr4db3r1~x2/"><circle cx="626.0" cy="244.6" r="4" fill="#3465a4"><title>Elliot</title></circle></a><a href="/variants/s4/db16dr4db3r1~x6/"><circle cx="626.0" cy="244.6" r="4" fill="#3465a4"><title>Elliot Clan Tartan</title></circle></a><a href="/variants/s4/b20dp3db7y1~x4/"><circle cx="506.0" cy="238.4" r="4" fill="#3465a4"><title>Peacock</title></circle></a><a href="/variants/s5/dr30db10dr3db30m3~x2/"><circle cx="447.8" cy="269.9" r="4" fill="#3465a4"><title>Feniston (Personal)</title></circle></a><circle cx="626.0" cy="292.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy1db9dy2db9r1~x4/"><circle cx="620.8" cy="268.5" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Blue</title></circle></a><a href="/variants/s5/dy6db28do2db28y1~x2/"><circle cx="626.0" cy="242.4" r="4" fill="#3465a4"><title>Pearson</title></circle></a><a href="/variants/s4/db16b4db3r1~x2/"><circle cx="605.9" cy="240.3" r="4" fill="#3465a4"><title>Elliott</title></circle></a><a href="/variants/s4/db3b30db40r3~x2/"><circle cx="447.5" cy="258.1" r="4" fill="#3465a4"><title>Sanix Large Muted</title></circle></a><a href="/variants/s5/db1dy9db2dy9r1~x4/"><circle cx="626.0" cy="273.9" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Camel</title></circle></a><a href="/variants/s5/db16dy2db16dy19r4~x3/"><circle cx="419.3" cy="288.1" r="4" fill="#3465a4"><title>Unidentified #24</title></circle></a><a href="/variants/s4/db16dr4db3r1~x2/"><circle cx="626.0" cy="244.9" r="4" fill="#3465a4"><title>Elliot</title></circle></a><a href="/variants/s4/db16dr4db3r1~x6/"><circle cx="626.0" cy="244.9" r="4" fill="#3465a4"><title>Elliot Clan Tartan</title></circle></a><a href="/variants/s4/b20dp3db7y1~x4/"><circle cx="506.1" cy="238.6" r="4" fill="#3465a4"><title>Peacock</title></circle></a><a href="/variants/s5/dr30db10dr3db30m3~x2/"><circle cx="448.0" cy="270.2" r="4" fill="#3465a4"><title>Feniston (Personal)</title></circle></a><circle cx="626.0" cy="293.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/db44dy12db9dr3~x2/

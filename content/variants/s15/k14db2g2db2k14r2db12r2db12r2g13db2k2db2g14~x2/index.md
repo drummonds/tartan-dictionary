@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lumsden Green"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14/)
 (the same proportion at any scale), whose colour order is pattern [GBKBGRBRBRKBGBK](/stripes/gbkbgrbrbrkbgbk/).
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6024
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6024](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6024)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/"><circle cx="139.2" cy="171.9" r="4" fill="#3465a4"><title>Lorne, Louise of</title></circle></a><a href="/variants/s17/db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2/"><circle cx="109.7" cy="163.5" r="4" fill="#3465a4"><title>Gordon of Esselmont (Clan)</title></circle></a><a href="/variants/s13/g8k1g1k1g1k8db8r1db8k8g8k1g1~x2/"><circle cx="135.3" cy="177.3" r="4" fill="#3465a4"><title>Urquhart L</title></circle></a><a href="/variants/s13/g8k1g1k1g1k8db8dr1db8k8g8k1g1~x2/"><circle cx="136.9" cy="178.1" r="4" fill="#3465a4"><title>Urquhart (Logan)</title></circle></a><a href="/variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/"><circle cx="125.0" cy="176.3" r="4" fill="#3465a4"><title>Mulholland (Personal)</title></circle></a><a href="/variants/s13/g4k1g1k1g1k8db8r1db8k8g8k1g1~x8/"><circle cx="147.2" cy="174.6" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s13/db23k3db3k3db3k22g22w3g22k22db18k3db3~x2/"><circle cx="135.5" cy="181.4" r="4" fill="#3465a4"><title>Lamont #3</title></circle></a><a href="/variants/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/"><circle cx="136.3" cy="180.4" r="4" fill="#3465a4"><title>Cheape of Torosay (Personal)</title></circle></a><a href="/variants/s13/db23k3db3k3db3k17g22y4g22k17db22k3db3~x2/"><circle cx="145.2" cy="183.9" r="4" fill="#3465a4"><title>Gordon (Clan)</title></circle></a><a href="/variants/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><circle cx="140.8" cy="169.4" r="4" fill="#3465a4"><title>Forbes #2</title></circle></a><circle cx="116.3" cy="172.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/"><circle cx="139.2" cy="172.3" r="4" fill="#3465a4"><title>Lorne, Louise of</title></circle></a><a href="/variants/s17/db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2/"><circle cx="109.7" cy="163.8" r="4" fill="#3465a4"><title>Gordon of Esselmont (Clan)</title></circle></a><a href="/variants/s13/g8k1g1k1g1k8db8r1db8k8g8k1g1~x2/"><circle cx="135.3" cy="177.7" r="4" fill="#3465a4"><title>Urquhart L</title></circle></a><a href="/variants/s13/g8k1g1k1g1k8db8dr1db8k8g8k1g1~x2/"><circle cx="136.9" cy="178.5" r="4" fill="#3465a4"><title>Urquhart (Logan)</title></circle></a><a href="/variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/"><circle cx="125.0" cy="176.7" r="4" fill="#3465a4"><title>Mulholland (Personal)</title></circle></a><a href="/variants/s13/g4k1g1k1g1k8db8r1db8k8g8k1g1~x8/"><circle cx="147.2" cy="175.0" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s13/db23k3db3k3db3k22g22w3g22k22db18k3db3~x2/"><circle cx="135.5" cy="181.8" r="4" fill="#3465a4"><title>Lamont #3</title></circle></a><a href="/variants/s13/db8k1db1k1db1k7g6lb1g6k7db7k1lb1~x4/"><circle cx="136.3" cy="180.8" r="4" fill="#3465a4"><title>Cheape of Torosay (Personal)</title></circle></a><a href="/variants/s13/db23k3db3k3db3k17g22y4g22k17db22k3db3~x2/"><circle cx="145.2" cy="184.3" r="4" fill="#3465a4"><title>Gordon (Clan)</title></circle></a><a href="/variants/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><circle cx="140.7" cy="169.7" r="4" fill="#3465a4"><title>Forbes #2</title></circle></a><circle cx="116.3" cy="173.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14~x2/

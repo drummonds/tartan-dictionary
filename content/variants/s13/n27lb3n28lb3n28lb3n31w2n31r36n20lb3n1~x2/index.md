@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clydesdale Bank"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n27lb3n28lb3n28lb3n31w2n31r36n20lb3n1/)
 (the same proportion at any scale), whose colour order is pattern [BWBRBWBWBWBWB](/stripes/bwbrbwbwbwbwb/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11642
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11642](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11642)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

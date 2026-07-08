@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lobban (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y5g2r2g12k9lb12r2lb2r2lb2/)
 (the same proportion at any scale), whose colour order is pattern [GGRGKWRWRW](/stripes/ggrgkwrwrw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5441
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5441](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5441)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k4g4k2g14k6w3k6n2w4n2w15r3~x2/"><circle cx="70.5" cy="164.3" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/"><circle cx="61.3" cy="185.7" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s12/k4g4k2g12k6w3k6n2w4n2w15r3~x2/"><circle cx="71.1" cy="166.7" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/"><circle cx="61.3" cy="184.8" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s13/w18dr3w3dr10w26dr3k26g28dr10g3dr3g8lo6/"><circle cx="68.4" cy="151.2" r="4" fill="#3465a4"><title>Carnegie Dress #2 (Fashion)</title></circle></a><a href="/variants/s13/w9r2w2r6w14r2k14g14r6g2r2g8y3~x2/"><circle cx="48.8" cy="169.0" r="4" fill="#3465a4"><title>Valley of the Green #2</title></circle></a><a href="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/"><circle cx="105.2" cy="148.7" r="4" fill="#3465a4"><title>Macallan Distillery</title></circle></a><a href="/variants/s13/w8r2w2r6w13r2k13g13r6g2r2g4y3~x2/"><circle cx="47.5" cy="169.8" r="4" fill="#3465a4"><title>Carnegie Dress #1 (Fashion)</title></circle></a><a href="/variants/s8/o3g1lb6k1g6o4k1lo1~x4/"><circle cx="97.7" cy="207.5" r="4" fill="#3465a4"><title>Orkney District Tartan</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10w4k2w4/"><circle cx="65.5" cy="169.8" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><circle cx="72.0" cy="181.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k4g4k2g14k6w3k6n2w4n2w15r3~x2/"><circle cx="70.5" cy="164.8" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/"><circle cx="61.3" cy="186.3" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s12/k4g4k2g12k6w3k6n2w4n2w15r3~x2/"><circle cx="71.1" cy="167.2" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/"><circle cx="61.3" cy="185.3" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s13/w18dr3w3dr10w26dr3k26g28dr10g3dr3g8lo6/"><circle cx="68.4" cy="151.7" r="4" fill="#3465a4"><title>Carnegie Dress #2 (Fashion)</title></circle></a><a href="/variants/s13/w9r2w2r6w14r2k14g14r6g2r2g8y3~x2/"><circle cx="48.8" cy="169.6" r="4" fill="#3465a4"><title>Valley of the Green #2</title></circle></a><a href="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/"><circle cx="105.1" cy="149.1" r="4" fill="#3465a4"><title>Macallan Distillery</title></circle></a><a href="/variants/s13/w8r2w2r6w13r2k13g13r6g2r2g4y3~x2/"><circle cx="47.5" cy="170.3" r="4" fill="#3465a4"><title>Carnegie Dress #1 (Fashion)</title></circle></a><a href="/variants/s8/o3g1lb6k1g6o4k1lo1~x4/"><circle cx="97.8" cy="208.1" r="4" fill="#3465a4"><title>Orkney District Tartan</title></circle></a><a href="/variants/s9/r4w1r4g10y1k10w4k2w4/"><circle cx="65.5" cy="170.4" r="4" fill="#3465a4"><title>Cumming LO</title></circle></a><circle cx="72.0" cy="182.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/

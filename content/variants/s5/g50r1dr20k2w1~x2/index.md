@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Kenspeckle"
   url: "/tartans/kenspeckle/"
+- name: "Kenspeckle (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g50r1dr20k2w1/)
 (the same proportion at any scale), whose colour order is pattern [GRBKW](/stripes/grbkw/).
@@ -14,7 +16,7 @@ Part of the [Kenspeckle](/tartans/kenspeckle/) tartan — the named design group
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6969
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6969](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6969)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dg50r1dr20k2w1~x2~dg1806142/"><circle cx="477.1" cy="124.1" r="4" fill="#3465a4"><title>Kenspeckle</title></circle></a><a href="/variants/s6/dg60w11dr5t5k1ly4~x2/"><circle cx="385.9" cy="69.9" r="4" fill="#3465a4"><title>Christie Hunting (London) (Personal)</title></circle></a><a href="/variants/s6/dt60w11r5db5k1y4~x2/"><circle cx="388.0" cy="66.7" r="4" fill="#3465a4"><title>Christie (London) Hunting</title></circle></a><a href="/variants/s6/g53w1r20k1w2r7~x2/"><circle cx="423.7" cy="110.5" r="4" fill="#3465a4"><title>Masai Shuka 10 (Artefact)</title></circle></a><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="356.6" cy="169.9" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s6/r3k4lb2g64k6y3~x2/"><circle cx="467.4" cy="94.7" r="4" fill="#3465a4"><title>Braemar Royal Highland Gathering</title></circle></a><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="371.0" cy="138.3" r="4" fill="#3465a4"><title>Tahrir (Liberation)</title></circle></a><a href="/variants/s5/dr2k4g45k3y2~x2/"><circle cx="498.0" cy="136.9" r="4" fill="#3465a4"><title>Mar, Tribe of (Clan)</title></circle></a><a href="/variants/s5/r2k4g45k3y2/"><circle cx="494.1" cy="134.4" r="4" fill="#3465a4"><title>Mar, (Tribe of..)</title></circle></a><a href="/variants/s6/db6w3r3g55k10r3~x4/"><circle cx="355.7" cy="121.5" r="4" fill="#3465a4"><title>Military Medical Memorial (USA)</title></circle></a><circle cx="435.9" cy="112.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dg50r1dr20k2w1~x2~dg1806142/"><circle cx="477.0" cy="124.2" r="4" fill="#3465a4"><title>Kenspeckle</title></circle></a><a href="/variants/s6/dg60w11dr5t5k1ly4~x2/"><circle cx="385.8" cy="70.1" r="4" fill="#3465a4"><title>Christie Hunting (London) (Personal)</title></circle></a><a href="/variants/s6/dt60w11r5db5k1y4~x2/"><circle cx="387.9" cy="66.7" r="4" fill="#3465a4"><title>Christie (London) Hunting</title></circle></a><a href="/variants/s6/g53w1r20k1w2r7~x2/"><circle cx="423.6" cy="110.7" r="4" fill="#3465a4"><title>Masai Shuka 10 (Artefact)</title></circle></a><a href="/variants/s5/w8r6y2g34db3~x2/"><circle cx="356.7" cy="170.3" r="4" fill="#3465a4"><title>Milling-Christensen</title></circle></a><a href="/variants/s6/r3k4lb2g64k6y3~x2/"><circle cx="467.3" cy="94.9" r="4" fill="#3465a4"><title>Braemar Royal Highland Gathering</title></circle></a><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="371.0" cy="138.7" r="4" fill="#3465a4"><title>Tahrir (Liberation)</title></circle></a><a href="/variants/s5/dr2k4g45k3y2~x2/"><circle cx="498.0" cy="137.3" r="4" fill="#3465a4"><title>Mar, Tribe of (Clan)</title></circle></a><a href="/variants/s5/r2k4g45k3y2/"><circle cx="494.1" cy="134.8" r="4" fill="#3465a4"><title>Mar, (Tribe of..)</title></circle></a><a href="/variants/s6/db6w3r3g55k10r3~x4/"><circle cx="355.6" cy="121.8" r="4" fill="#3465a4"><title>Military Medical Memorial (USA)</title></circle></a><circle cx="435.8" cy="112.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/g50r1dr20k2w1~x2/

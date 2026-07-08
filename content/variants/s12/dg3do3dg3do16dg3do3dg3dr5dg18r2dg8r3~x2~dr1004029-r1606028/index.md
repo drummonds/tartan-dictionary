@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dublin, County"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg3do3dg3do16dg3do3dg3dr5dg18r2dg8r3/)
 (the same proportion at any scale), whose colour order is pattern [GBGBGBGBGRGR](/stripes/gbgbgbgbgrgr/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=999
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=999](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=999)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>

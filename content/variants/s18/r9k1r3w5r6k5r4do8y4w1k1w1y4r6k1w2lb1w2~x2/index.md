@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Jacobite Old Sett"
   url: "/tartans/jacobite-old-sett/"
+- name: "Jacobite, Old sett"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r9k1r3w5r6k5r4do8y4w1k1w1y4r6k1w2lb1w2/)
 (the same proportion at any scale), whose colour order is pattern [RKRWRKRBGWKWGRKWWW](/stripes/rkrwrkrbgwkwgrkwww/).
@@ -14,7 +16,7 @@ Part of the [Jacobite Old Sett](/tartans/jacobite-old-sett/) tartan — the name
 
 Sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/r9k1r3w5r6k5r4ly8y4w1k1w1y4r6k1w2lb1w2~x2/"><circle cx="95.4" cy="128.7" r="4" fill="#3465a4"><title>Jacobite Old Sett</title></circle></a><a href="/variants/s18/dr11k4dr6w8dr16k13dr4ly12y6w2k3w2y6dr7k4w3lb3w2~x2/"><circle cx="61.2" cy="143.1" r="4" fill="#3465a4"><title>Jacobite Old Sett (Artefact)</title></circle></a><a href="/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/"><circle cx="91.3" cy="138.4" r="4" fill="#3465a4"><title>Kidd</title></circle></a><a href="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/"><circle cx="124.7" cy="127.8" r="4" fill="#3465a4"><title>Caledonia No 155</title></circle></a><a href="/variants/s15/r18lb5r18g24y3k19lb10k3lb3k3lb10r18w4k5r5~x2/"><circle cx="79.9" cy="138.3" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><a href="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/"><circle cx="120.9" cy="128.6" r="4" fill="#3465a4"><title>Caledonian Cameron Commando</title></circle></a><a href="/variants/s13/r8db2k1db3k4y1k1w1k1g8r6w1r6~x4/"><circle cx="129.0" cy="137.4" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/variants/s14/r21db9k2db2k2db9k18y3g21r13k3r13w2r13~x2/"><circle cx="129.7" cy="129.0" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/variants/s13/k2r14lb8k9y1k2w2k2g10r15k4r12w2~x2/"><circle cx="156.0" cy="111.4" r="4" fill="#3465a4"><title>Harden (Name)</title></circle></a><a href="/variants/s24/r14lb8k9y1k2w2k2g10r15k4r12w2r12k4r15g10k2w2k2y1k9lb8r14k2~x2/"><circle cx="147.1" cy="91.2" r="4" fill="#3465a4"><title>Wilson's No.001</title></circle></a><circle cx="96.2" cy="127.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/r9k1r3w5r6k5r4ly8y4w1k1w1y4r6k1w2lb1w2~x2/"><circle cx="95.4" cy="129.2" r="4" fill="#3465a4"><title>Jacobite Old Sett</title></circle></a><a href="/variants/s18/dr11k4dr6w8dr16k13dr4ly12y6w2k3w2y6dr7k4w3lb3w2~x2/"><circle cx="61.2" cy="143.6" r="4" fill="#3465a4"><title>Jacobite Old Sett (Artefact)</title></circle></a><a href="/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/"><circle cx="91.2" cy="138.8" r="4" fill="#3465a4"><title>Kidd</title></circle></a><a href="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/"><circle cx="124.7" cy="128.2" r="4" fill="#3465a4"><title>Caledonia No 155</title></circle></a><a href="/variants/s15/r18lb5r18g24y3k19lb10k3lb3k3lb10r18w4k5r5~x2/"><circle cx="79.8" cy="138.7" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><a href="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/"><circle cx="120.9" cy="129.0" r="4" fill="#3465a4"><title>Caledonian Cameron Commando</title></circle></a><a href="/variants/s13/r8db2k1db3k4y1k1w1k1g8r6w1r6~x4/"><circle cx="129.0" cy="137.8" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/variants/s14/r21db9k2db2k2db9k18y3g21r13k3r13w2r13~x2/"><circle cx="129.7" cy="129.4" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/variants/s13/k2r14lb8k9y1k2w2k2g10r15k4r12w2~x2/"><circle cx="155.9" cy="111.8" r="4" fill="#3465a4"><title>Harden (Name)</title></circle></a><a href="/variants/s24/r14lb8k9y1k2w2k2g10r15k4r12w2r12k4r15g10k2w2k2y1k9lb8r14k2~x2/"><circle cx="147.0" cy="91.5" r="4" fill="#3465a4"><title>Wilson's No.001</title></circle></a><circle cx="96.2" cy="128.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s18/r9k1r3w5r6k5r4do8y4w1k1w1y4r6k1w2lb1w2~x2/

@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/macrae/"
 - name: "MacRae Hunting"
   url: "/tartans/macrae-hunting-2/"
+- name: "MacRae Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg24k4dg6r4dg6k19dt22w5/)
 (the same proportion at any scale), whose colour order is pattern [GKGRGKBW](/stripes/gkgrgkbw/).
@@ -16,7 +18,7 @@ Part of the [MacRae Hunting](/tartans/macrae-hunting-2/) tartan — the named de
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2744
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2744](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2744)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg7dp3w1g2dg1k2dp1~x8/"><circle cx="184.5" cy="196.3" r="4" fill="#3465a4"><title>Lindley-Highfield Name Tartan</title></circle></a><a href="/variants/s9/db25k12y4k9r6k9y4k12g25~x2/"><circle cx="101.4" cy="197.7" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s8/ly4dg17k10db3k3db17dr3db3~x2/"><circle cx="151.1" cy="207.8" r="4" fill="#3465a4"><title>Royal Highland Society (Corporate)</title></circle></a><a href="/variants/s8/db10n3db10r3k21g20k15r3~x2/"><circle cx="126.1" cy="197.2" r="4" fill="#3465a4"><title>Williamson/Smart</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="151.9" cy="216.0" r="4" fill="#3465a4"><title>Lanarkshire</title></circle></a><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><circle cx="105.7" cy="193.7" r="4" fill="#3465a4"><title>Scottish Tartan Society</title></circle></a><a href="/variants/s10/k15lb4dt15dg24y4dg24dt15lb4k15r4~x2/"><circle cx="114.9" cy="200.9" r="4" fill="#3465a4"><title>Haughfoot</title></circle></a><a href="/variants/s7/r1dy7db7k7g7dy7r1~x4/"><circle cx="123.1" cy="232.7" r="4" fill="#3465a4"><title>Tennant Family Tartan</title></circle></a><a href="/variants/s7/k7db11k3db11dy11g22db3~x2~db1605267/"><circle cx="140.9" cy="224.3" r="4" fill="#3465a4"><title>Scottish Odyssey Commemorative Tartan</title></circle></a><a href="/variants/s6/r4k15lb4dt15dg24y4~x2/"><circle cx="111.9" cy="210.2" r="4" fill="#3465a4"><title>Haughfoot (Commemorative)</title></circle></a><circle cx="146.2" cy="208.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg7dp3w1g2dg1k2dp1~x8/"><circle cx="184.5" cy="196.7" r="4" fill="#3465a4"><title>Lindley-Highfield Name Tartan</title></circle></a><a href="/variants/s9/db25k12y4k9r6k9y4k12g25~x2/"><circle cx="101.4" cy="198.2" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s8/ly4dg17k10db3k3db17dr3db3~x2/"><circle cx="151.2" cy="208.2" r="4" fill="#3465a4"><title>Royal Highland Society (Corporate)</title></circle></a><a href="/variants/s8/db10n3db10r3k21g20k15r3~x2/"><circle cx="126.1" cy="197.7" r="4" fill="#3465a4"><title>Williamson/Smart</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="152.0" cy="216.5" r="4" fill="#3465a4"><title>Lanarkshire</title></circle></a><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><circle cx="105.7" cy="194.2" r="4" fill="#3465a4"><title>Scottish Tartan Society</title></circle></a><a href="/variants/s10/k15lb4dt15dg24y4dg24dt15lb4k15r4~x2/"><circle cx="114.9" cy="201.3" r="4" fill="#3465a4"><title>Haughfoot</title></circle></a><a href="/variants/s7/r1dy7db7k7g7dy7r1~x4/"><circle cx="123.1" cy="233.2" r="4" fill="#3465a4"><title>Tennant Family Tartan</title></circle></a><a href="/variants/s7/k7db11k3db11dy11g22db3~x2~db1605267/"><circle cx="141.0" cy="224.8" r="4" fill="#3465a4"><title>Scottish Odyssey Commemorative Tartan</title></circle></a><a href="/variants/s6/r4k15lb4dt15dg24y4~x2/"><circle cx="111.9" cy="210.6" r="4" fill="#3465a4"><title>Haughfoot (Commemorative)</title></circle></a><circle cx="146.3" cy="208.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg24k4dg6r4dg6k19dt22w5~x2/

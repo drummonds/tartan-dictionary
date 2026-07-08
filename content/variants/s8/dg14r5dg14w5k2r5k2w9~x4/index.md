@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unnamed (Hip Flask)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg14r5dg14w5k2r5k2w9/)
 (the same proportion at any scale), whose colour order is pattern [GRGWKRKW](/stripes/grgwkrkw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4410
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4410](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4410)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k22w16dg2w14dg2w16k22dr3~x2~dg1806142/"><circle cx="196.6" cy="187.4" r="4" fill="#3465a4"><title>Kierson</title></circle></a><a href="/variants/s7/k4w19k11dg15k3dg16y3~x2/"><circle cx="132.5" cy="219.2" r="4" fill="#3465a4"><title>Lawson, William 2002</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.8" cy="232.2" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s7/y9k32g6w20y3w9k5~x2/"><circle cx="163.3" cy="178.9" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="165.0" cy="181.0" r="4" fill="#3465a4"><title>Black &amp; White Golf (Corporate)</title></circle></a><a href="/variants/s9/k6r2k12y3k6lb16y3lb16k2~x2/"><circle cx="179.0" cy="179.5" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s7/r1g8k8r1k8lb8r1~x4/"><circle cx="148.9" cy="198.6" r="4" fill="#3465a4"><title>Triad Highland Games Proposed</title></circle></a><a href="/variants/s7/ly30w4ly20g20k20lo3k6~x2~ly2503076/"><circle cx="168.1" cy="190.2" r="4" fill="#3465a4"><title>St Andrews Bay</title></circle></a><a href="/variants/s8/dy3k7dy2w2ly12k2ly2dy3~x2/"><circle cx="138.7" cy="195.6" r="4" fill="#3465a4"><title>Daks (Brown)</title></circle></a><a href="/variants/s9/g7k1r7k1w7k10w7k2w4~x2/"><circle cx="107.1" cy="190.8" r="4" fill="#3465a4"><title>Borthwick, dress</title></circle></a><circle cx="166.7" cy="203.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k22w16dg2w14dg2w16k22dr3~x2~dg1806142/"><circle cx="196.6" cy="188.0" r="4" fill="#3465a4"><title>Kierson</title></circle></a><a href="/variants/s7/k4w19k11dg15k3dg16y3~x2/"><circle cx="132.6" cy="219.9" r="4" fill="#3465a4"><title>Lawson, William 2002</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.9" cy="232.9" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s7/y9k32g6w20y3w9k5~x2/"><circle cx="163.3" cy="179.4" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="165.1" cy="181.6" r="4" fill="#3465a4"><title>Black &amp; White Golf (Corporate)</title></circle></a><a href="/variants/s9/k6r2k12y3k6lb16y3lb16k2~x2/"><circle cx="179.0" cy="180.1" r="4" fill="#3465a4"><title>MacMillan</title></circle></a><a href="/variants/s7/r1g8k8r1k8lb8r1~x4/"><circle cx="149.0" cy="199.2" r="4" fill="#3465a4"><title>Triad Highland Games Proposed</title></circle></a><a href="/variants/s7/ly30w4ly20g20k20lo3k6~x2~ly2503076/"><circle cx="168.1" cy="190.8" r="4" fill="#3465a4"><title>St Andrews Bay</title></circle></a><a href="/variants/s8/dy3k7dy2w2ly12k2ly2dy3~x2/"><circle cx="138.8" cy="196.3" r="4" fill="#3465a4"><title>Daks (Brown)</title></circle></a><a href="/variants/s9/g7k1r7k1w7k10w7k2w4~x2/"><circle cx="107.1" cy="191.4" r="4" fill="#3465a4"><title>Borthwick, dress</title></circle></a><circle cx="166.8" cy="204.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg14r5dg14w5k2r5k2w9~x4/

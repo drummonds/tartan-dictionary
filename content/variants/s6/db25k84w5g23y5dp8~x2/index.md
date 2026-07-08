@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Woodward, R Glenn"
   url: "/tartans/woodward-r-glenn/"
+- name: "Woodward, R Glenn (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db25k84w5g23y5dp8/)
 (the same proportion at any scale), whose colour order is pattern [BGGWKB](/stripes/bggwkb/).
@@ -14,7 +16,7 @@ Part of the [Woodward, R Glenn](/tartans/woodward-r-glenn/) tartan — the named
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10877
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10877](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10877)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db25k84w5g32y5dp8~x2/"><circle cx="220.2" cy="129.8" r="4" fill="#3465a4"><title>Woodward, R Glenn</title></circle></a><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="297.2" cy="82.7" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><a href="/variants/s6/k54n11g13ly1t13w1~x2/"><circle cx="285.7" cy="80.7" r="4" fill="#3465a4"><title>Kilmaine Saints (Corporate)</title></circle></a><a href="/variants/s5/dt30lb2k6db3r3~x4~db1406275/"><circle cx="281.9" cy="130.7" r="4" fill="#3465a4"><title>Edinburgh Crystal Corporate Tartan</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="230.0" cy="140.1" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s8/k45ly10g7r3w4db13w9r6~x2/"><circle cx="143.4" cy="112.1" r="4" fill="#3465a4"><title>Legion of Frontiersmen (Corporate)</title></circle></a><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><circle cx="305.9" cy="89.1" r="4" fill="#3465a4"><title>Tainsh (2016)</title></circle></a><a href="/variants/s6/lb2g13r2k6db23w1~x4/"><circle cx="214.8" cy="123.6" r="4" fill="#3465a4"><title>Gamblin Thompson (Personal)</title></circle></a><a href="/variants/s6/db12k17y4dg51ly3g4~x2~y2203076-ly3307090/"><circle cx="285.8" cy="141.1" r="4" fill="#3465a4"><title>US Army Regimental Tartan</title></circle></a><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><circle cx="234.4" cy="124.9" r="4" fill="#3465a4"><title>Italian National</title></circle></a><circle cx="242.8" cy="124.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db25k84w5g32y5dp8~x2/"><circle cx="220.1" cy="130.0" r="4" fill="#3465a4"><title>Woodward, R Glenn</title></circle></a><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="297.1" cy="82.8" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><a href="/variants/s6/k54n11g13ly1t13w1~x2/"><circle cx="285.6" cy="80.8" r="4" fill="#3465a4"><title>Kilmaine Saints (Corporate)</title></circle></a><a href="/variants/s5/dt30lb2k6db3r3~x4~db1406275/"><circle cx="281.8" cy="130.9" r="4" fill="#3465a4"><title>Edinburgh Crystal Corporate Tartan</title></circle></a><a href="/variants/s6/dg10w2k10y5db35r6~x2/"><circle cx="229.9" cy="140.3" r="4" fill="#3465a4"><title>Hatfield &amp; Mize (Personal)</title></circle></a><a href="/variants/s8/k45ly10g7r3w4db13w9r6~x2/"><circle cx="143.3" cy="112.4" r="4" fill="#3465a4"><title>Legion of Frontiersmen (Corporate)</title></circle></a><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><circle cx="305.8" cy="89.3" r="4" fill="#3465a4"><title>Tainsh (2016)</title></circle></a><a href="/variants/s6/lb2g13r2k6db23w1~x4/"><circle cx="214.8" cy="123.8" r="4" fill="#3465a4"><title>Gamblin Thompson (Personal)</title></circle></a><a href="/variants/s6/db12k17y4dg51ly3g4~x2~y2203076-ly3307090/"><circle cx="285.8" cy="141.3" r="4" fill="#3465a4"><title>US Army Regimental Tartan</title></circle></a><a href="/variants/s6/dy3db40k35g5w2r3~x2/"><circle cx="234.3" cy="125.1" r="4" fill="#3465a4"><title>Italian National</title></circle></a><circle cx="242.7" cy="125.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db25k84w5g23y5dp8~x2/

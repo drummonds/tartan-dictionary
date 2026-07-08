@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kerry (WCWM)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lr24p3lr8p5k3r3k3lr3k3o24r4/)
 (the same proportion at any scale), whose colour order is pattern [RRKYKRKBYBY](/stripes/rrkykrkbyby/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5114
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5114](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5114)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r23w2r3b4r3w2r5k11ri2w23k3~x2~r2109032-ri2406019/"><circle cx="156.5" cy="120.6" r="4" fill="#3465a4"><title>MacKellar Dress Red Fashion Tartan</title></circle></a><a href="/variants/s9/r12w2o3w2r3k5r2o18w2~x2/"><circle cx="205.9" cy="163.5" r="4" fill="#3465a4"><title>Ballater</title></circle></a><a href="/variants/s9/db3w12k11r4w2r2w2r24ly3~x2/"><circle cx="180.9" cy="127.6" r="4" fill="#3465a4"><title>Hearts Football Club (Corporate)</title></circle></a><a href="/variants/s10/y4w2y2w8r16g3r3g8r6k2~x2/"><circle cx="163.6" cy="169.0" r="4" fill="#3465a4"><title>Melieres, Carolyn (Personal)</title></circle></a><a href="/variants/s15/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4~x2/"><circle cx="195.5" cy="139.5" r="4" fill="#3465a4"><title>Fitzgerald Red</title></circle></a><a href="/variants/s12/n12w2k4g2k3w3k3w19r30w2r4k2~x2/"><circle cx="154.5" cy="101.7" r="4" fill="#3465a4"><title>MacLean of Duart Dress #2</title></circle></a><a href="/variants/s14/lb4r1lb4y1k1r6w1r4w1r6k1y1lb4w1~x2/"><circle cx="169.6" cy="168.5" r="4" fill="#3465a4"><title>Ogilvy D</title></circle></a><a href="/variants/s9/lr11r4y2k4y2r4y12r20lb2~x2/"><circle cx="221.4" cy="164.8" r="4" fill="#3465a4"><title>Australia Dress</title></circle></a><a href="/variants/s14/w1dr1y1r8k1lb1w8lb1k8lb1w1r8lb1w1~x6/"><circle cx="91.7" cy="110.7" r="4" fill="#3465a4"><title>Praetorian</title></circle></a><a href="/variants/s14/w1dp1y1r8k1lb1w8lb1k8lb1w1r8lb1w1~x6/"><circle cx="91.7" cy="110.6" r="4" fill="#3465a4"><title>Praetorian (Fashion)</title></circle></a><circle cx="165.2" cy="141.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r23w2r3b4r3w2r5k11ri2w23k3~x2~r2109032-ri2406019/"><circle cx="156.5" cy="121.0" r="4" fill="#3465a4"><title>MacKellar Dress Red Fashion Tartan</title></circle></a><a href="/variants/s9/r12w2o3w2r3k5r2o18w2~x2/"><circle cx="205.9" cy="164.0" r="4" fill="#3465a4"><title>Ballater</title></circle></a><a href="/variants/s9/db3w12k11r4w2r2w2r24ly3~x2/"><circle cx="180.9" cy="128.1" r="4" fill="#3465a4"><title>Hearts Football Club (Corporate)</title></circle></a><a href="/variants/s10/y4w2y2w8r16g3r3g8r6k2~x2/"><circle cx="163.6" cy="169.6" r="4" fill="#3465a4"><title>Melieres, Carolyn (Personal)</title></circle></a><a href="/variants/s15/k4r4w4r28t4r4g25r4t25r4t4r28w4r4k4~x2/"><circle cx="195.5" cy="139.9" r="4" fill="#3465a4"><title>Fitzgerald Red</title></circle></a><a href="/variants/s12/n12w2k4g2k3w3k3w19r30w2r4k2~x2/"><circle cx="154.5" cy="102.0" r="4" fill="#3465a4"><title>MacLean of Duart Dress #2</title></circle></a><a href="/variants/s14/lb4r1lb4y1k1r6w1r4w1r6k1y1lb4w1~x2/"><circle cx="169.7" cy="169.1" r="4" fill="#3465a4"><title>Ogilvy D</title></circle></a><a href="/variants/s9/lr11r4y2k4y2r4y12r20lb2~x2/"><circle cx="221.4" cy="165.3" r="4" fill="#3465a4"><title>Australia Dress</title></circle></a><a href="/variants/s14/w1dr1y1r8k1lb1w8lb1k8lb1w1r8lb1w1~x6/"><circle cx="91.6" cy="111.1" r="4" fill="#3465a4"><title>Praetorian</title></circle></a><a href="/variants/s14/w1dp1y1r8k1lb1w8lb1k8lb1w1r8lb1w1~x6/"><circle cx="91.6" cy="111.0" r="4" fill="#3465a4"><title>Praetorian (Fashion)</title></circle></a><circle cx="165.2" cy="142.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/lr24p3lr8p5k3r3k3lr3k3o24r4~x2/

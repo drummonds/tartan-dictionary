@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wallace Blue (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2g29lb12db29lb2/)
 (the same proportion at any scale), whose colour order is pattern [WBWGW](/stripes/wbwgw/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=46
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=46](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=46)
 
 ## Provenance
 
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g2w29lb12db29lb2~x2/"><circle cx="237.3" cy="222.2" r="4" fill="#3465a4"><title>Wallace Blue Dress (Dance)</title></circle></a><a href="/variants/s4/dg4lb10db10lb1~x4/"><circle cx="275.5" cy="280.4" r="4" fill="#3465a4"><title>Baker City (District)</title></circle></a><a href="/variants/s5/g11ly10db11t33w3~x2/"><circle cx="272.4" cy="244.6" r="4" fill="#3465a4"><title>Sterling (Name)</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="260.6" cy="217.0" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10ly1~x2/"><circle cx="234.8" cy="183.8" r="4" fill="#3465a4"><title>Heckenberg Htg (Personal)</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><circle cx="240.3" cy="185.5" r="4" fill="#3465a4"><title>Graeme Heckenberg Hunting</title></circle></a><a href="/variants/s5/db9w4dg36lb36r4~x2/"><circle cx="196.8" cy="210.2" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><a href="/variants/s7/g5db15lb11w2lb1w1dg4~x4/"><circle cx="195.4" cy="186.3" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/variants/s7/r6db27lb2g2lb2g30w4~x2/"><circle cx="240.6" cy="164.6" r="4" fill="#3465a4"><title>MX-5 Owners' Club</title></circle></a><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/"><circle cx="229.6" cy="203.6" r="4" fill="#3465a4"><title>Highlands Country Club (Corporate)</title></circle></a><circle cx="259.9" cy="233.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g2w29lb12db29lb2~x2/"><circle cx="237.5" cy="222.8" r="4" fill="#3465a4"><title>Wallace Blue Dress (Dance)</title></circle></a><a href="/variants/s4/dg4lb10db10lb1~x4/"><circle cx="275.7" cy="281.2" r="4" fill="#3465a4"><title>Baker City (District)</title></circle></a><a href="/variants/s5/g11ly10db11t33w3~x2/"><circle cx="272.5" cy="245.1" r="4" fill="#3465a4"><title>Sterling (Name)</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="260.7" cy="217.3" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10ly1~x2/"><circle cx="234.9" cy="184.2" r="4" fill="#3465a4"><title>Heckenberg Htg (Personal)</title></circle></a><a href="/variants/s7/db3g13lb1r3lb1db10y1~x2/"><circle cx="240.3" cy="185.9" r="4" fill="#3465a4"><title>Graeme Heckenberg Hunting</title></circle></a><a href="/variants/s5/db9w4dg36lb36r4~x2/"><circle cx="196.9" cy="210.8" r="4" fill="#3465a4"><title>Alvis of Lee (Personal)</title></circle></a><a href="/variants/s7/g5db15lb11w2lb1w1dg4~x4/"><circle cx="195.4" cy="186.7" r="4" fill="#3465a4"><title>Highlands Country Club</title></circle></a><a href="/variants/s7/r6db27lb2g2lb2g30w4~x2/"><circle cx="240.7" cy="164.9" r="4" fill="#3465a4"><title>MX-5 Owners' Club</title></circle></a><a href="/variants/s7/g5db15lbi11lb2lbi1lb1g4~x4~lbi3200000-lb3103284/"><circle cx="229.7" cy="204.1" r="4" fill="#3465a4"><title>Highlands Country Club (Corporate)</title></circle></a><circle cx="260.1" cy="234.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/w2g29lb12db29lb2~x2/

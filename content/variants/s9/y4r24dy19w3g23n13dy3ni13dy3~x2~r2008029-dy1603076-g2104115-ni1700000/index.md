@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Teallach"
   url: "/tartans/teallach/"
+- name: "Teallach"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y4r24dy19w3g23n13dy3ni13dy3/)
 (the same proportion at any scale), whose colour order is pattern [GBGBGWGRG](/stripes/gbgbgwgrg/).
@@ -14,7 +16,7 @@ Part of the [Teallach](/tartans/teallach/) tartan — the named design grouping 
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

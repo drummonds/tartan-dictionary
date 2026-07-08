@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Richecourt, Baron of (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4k30r1k1r3w12y3/)
 (the same proportion at any scale), whose colour order is pattern [GWRKRKW](/stripes/gwrkrkw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3509
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3509](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3509)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/"><circle cx="288.9" cy="151.7" r="4" fill="#3465a4"><title>Bannockbane Grey #3</title></circle></a><a href="/variants/s8/ly8n5dr1n15k2ly1k36n1~x2/"><circle cx="306.0" cy="96.5" r="4" fill="#3465a4"><title>Cirse 3D</title></circle></a><a href="/variants/s6/ki37w18k37r2k2r2~x2~ki0705267-k0700000/"><circle cx="213.9" cy="129.1" r="4" fill="#3465a4"><title>Hakkarain (Personal)</title></circle></a><a href="/variants/s10/w8k1db2k4y2k2y2k24w8k2~x2/"><circle cx="290.8" cy="100.5" r="4" fill="#3465a4"><title>Newcastle</title></circle></a><a href="/variants/s8/k62w10y10k4w18k4ly3w4/"><circle cx="302.4" cy="110.9" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="274.0" cy="132.7" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/"><circle cx="286.8" cy="97.4" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><a href="/variants/s6/w8k16w2db2w1k1~x4/"><circle cx="304.1" cy="163.4" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><a href="/variants/s7/k4y4w35y1k36y4k2~x2/"><circle cx="274.9" cy="112.9" r="4" fill="#3465a4"><title>Gleneagles, Hotel</title></circle></a><a href="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/"><circle cx="332.4" cy="115.3" r="4" fill="#3465a4"><title>Entrepreneurial Spark</title></circle></a><circle cx="289.8" cy="99.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/"><circle cx="288.9" cy="152.1" r="4" fill="#3465a4"><title>Bannockbane Grey #3</title></circle></a><a href="/variants/s8/ly8n5dr1n15k2ly1k36n1~x2/"><circle cx="305.9" cy="96.7" r="4" fill="#3465a4"><title>Cirse 3D</title></circle></a><a href="/variants/s6/ki37w18k37r2k2r2~x2~ki0705267-k0700000/"><circle cx="213.9" cy="129.4" r="4" fill="#3465a4"><title>Hakkarain (Personal)</title></circle></a><a href="/variants/s10/w8k1db2k4y2k2y2k24w8k2~x2/"><circle cx="290.7" cy="100.8" r="4" fill="#3465a4"><title>Newcastle</title></circle></a><a href="/variants/s8/k62w10y10k4w18k4ly3w4/"><circle cx="302.3" cy="111.3" r="4" fill="#3465a4"><title>Colbert Check (Fashion)</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="273.9" cy="133.1" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/"><circle cx="286.7" cy="97.6" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><a href="/variants/s6/w8k16w2db2w1k1~x4/"><circle cx="304.1" cy="163.9" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><a href="/variants/s7/k4y4w35y1k36y4k2~x2/"><circle cx="274.9" cy="113.2" r="4" fill="#3465a4"><title>Gleneagles, Hotel</title></circle></a><a href="/variants/s8/k14lo3w8lo4k6w9k31g1~x2/"><circle cx="332.3" cy="115.6" r="4" fill="#3465a4"><title>Entrepreneurial Spark</title></circle></a><circle cx="289.7" cy="100.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w4k30r1k1r3w12y3~x2/

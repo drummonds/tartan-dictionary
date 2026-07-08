@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kang (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db44k3db3k3db3k14y4k3w2k2w2/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKGKWKW](/stripes/bkbkbkgkwkw/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7425
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7425](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7425)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db50k12n2k2w2k2n12db7k7w2~x2/"><circle cx="335.6" cy="106.1" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><a href="/variants/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/"><circle cx="337.3" cy="92.5" r="4" fill="#3465a4"><title>Bristow Helicopters</title></circle></a><a href="/variants/s7/k8dr26k22db110w4k5w4/"><circle cx="373.2" cy="119.1" r="4" fill="#3465a4"><title>University of Edinburgh</title></circle></a><a href="/variants/s10/r4db4k2db31k10y3db5k11db6k3~x2/"><circle cx="326.1" cy="145.5" r="4" fill="#3465a4"><title>MacArthur Fox Green (Personal)</title></circle></a><a href="/variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/"><circle cx="430.8" cy="82.4" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/variants/s13/db50r2k3y2k3r2k3y2k3r2db3r12k2~x2/"><circle cx="347.4" cy="69.0" r="4" fill="#3465a4"><title>Leslie (J Cant)</title></circle></a><a href="/variants/s9/lb3k6w2k6db2k2db32k2n1~x2/"><circle cx="341.2" cy="79.7" r="4" fill="#3465a4"><title>Nocken Blue Modern Tartan (Personal)</title></circle></a><a href="/variants/s12/db68o5k9o3k3lb3k3n20db9k3db5lb4/"><circle cx="333.4" cy="81.8" r="4" fill="#3465a4"><title>British Caledonian Airways #1</title></circle></a><a href="/variants/s11/db50k14g3dr2g3dr2g3dr2g3k2lo2~x2/"><circle cx="327.2" cy="76.6" r="4" fill="#3465a4"><title>Minnock (Name)</title></circle></a><a href="/variants/s10/db42k6db3k3db3w5db17w7dy10k3~x2/"><circle cx="327.1" cy="133.9" r="4" fill="#3465a4"><title>California Riverside, University of (Corporate)</title></circle></a><circle cx="344.2" cy="93.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db50k12n2k2w2k2n12db7k7w2~x2/"><circle cx="335.5" cy="106.2" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><a href="/variants/s14/db28k1w1db2k1r2k1db2w1k1db15k16db3k16~x2/"><circle cx="337.1" cy="92.6" r="4" fill="#3465a4"><title>Bristow Helicopters</title></circle></a><a href="/variants/s7/k8dr26k22db110w4k5w4/"><circle cx="373.1" cy="119.3" r="4" fill="#3465a4"><title>University of Edinburgh</title></circle></a><a href="/variants/s10/r4db4k2db31k10y3db5k11db6k3~x2/"><circle cx="326.1" cy="145.7" r="4" fill="#3465a4"><title>MacArthur Fox Green (Personal)</title></circle></a><a href="/variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/"><circle cx="430.7" cy="82.4" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/variants/s13/db50r2k3y2k3r2k3y2k3r2db3r12k2~x2/"><circle cx="347.2" cy="69.1" r="4" fill="#3465a4"><title>Leslie (J Cant)</title></circle></a><a href="/variants/s9/lb3k6w2k6db2k2db32k2n1~x2/"><circle cx="341.0" cy="79.8" r="4" fill="#3465a4"><title>Nocken Blue Modern Tartan (Personal)</title></circle></a><a href="/variants/s12/db68o5k9o3k3lb3k3n20db9k3db5lb4/"><circle cx="333.2" cy="81.8" r="4" fill="#3465a4"><title>British Caledonian Airways #1</title></circle></a><a href="/variants/s11/db50k14g3dr2g3dr2g3dr2g3k2lo2~x2/"><circle cx="327.0" cy="76.6" r="4" fill="#3465a4"><title>Minnock (Name)</title></circle></a><a href="/variants/s10/db42k6db3k3db3w5db17w7dy10k3~x2/"><circle cx="327.0" cy="134.2" r="4" fill="#3465a4"><title>California Riverside, University of (Corporate)</title></circle></a><circle cx="344.1" cy="93.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db44k3db3k3db3k14y4k3w2k2w2~x2/

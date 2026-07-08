@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Doune"
   url: "/tartans/doune/"
+- name: "Doune (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n10lb11k2lb3k2lb2k8n40w4/)
 (the same proportion at any scale), whose colour order is pattern [BWKWKWKBW](/stripes/bwkwkwkbw/).
@@ -14,7 +16,7 @@ Part of the [Doune](/tartans/doune/) tartan — the named design grouping this s
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4707
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4707](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4707)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dt4lb1dt1lb3dt24o9k1o9k3~x2~dt1502277-o2500000/"><circle cx="320.7" cy="133.2" r="4" fill="#3465a4"><title>Historic Scotland (pre 1998) (Corp)</title></circle></a><a href="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/"><circle cx="294.4" cy="123.1" r="4" fill="#3465a4"><title>Dunbarton Weft</title></circle></a><a href="/variants/s9/n10lb11k2lb3k2lb2k8n40k4~x2/"><circle cx="322.4" cy="121.5" r="4" fill="#3465a4"><title>Doune District Tartan</title></circle></a><a href="/variants/s11/ly16k2ly2k2ly2db32r3db32ly16k2ly2~x2/"><circle cx="291.5" cy="127.9" r="4" fill="#3465a4"><title>MacLachlan, Gold Dress (Fashion)</title></circle></a><a href="/variants/s8/lb40k3lb3k3lb3n8k24n8~x2/"><circle cx="250.6" cy="160.4" r="4" fill="#3465a4"><title>O'Sullivan-Beare (Family)</title></circle></a><a href="/variants/s8/lb3k24lb6k8w4k8lb35k2~x2/"><circle cx="274.0" cy="160.0" r="4" fill="#3465a4"><title>Nowell/Noel 1951 (Name)</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="274.9" cy="136.1" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s9/lb60k6lb8k2lb8w2dr12k49ly4/"><circle cx="250.4" cy="89.9" r="4" fill="#3465a4"><title>Motherwell Football Club. Modern</title></circle></a><a href="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/"><circle cx="285.6" cy="90.9" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/"><circle cx="275.8" cy="140.1" r="4" fill="#3465a4"><title>Moorpark Primary School (Corporate)</title></circle></a><circle cx="324.7" cy="123.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dt4lb1dt1lb3dt24o9k1o9k3~x2~dt1502277-o2500000/"><circle cx="320.7" cy="133.4" r="4" fill="#3465a4"><title>Historic Scotland (pre 1998) (Corp)</title></circle></a><a href="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/"><circle cx="294.4" cy="123.5" r="4" fill="#3465a4"><title>Dunbarton Weft</title></circle></a><a href="/variants/s9/n10lb11k2lb3k2lb2k8n40k4~x2/"><circle cx="322.3" cy="121.8" r="4" fill="#3465a4"><title>Doune District Tartan</title></circle></a><a href="/variants/s11/ly16k2ly2k2ly2db32r3db32ly16k2ly2~x2/"><circle cx="291.5" cy="128.2" r="4" fill="#3465a4"><title>MacLachlan, Gold Dress (Fashion)</title></circle></a><a href="/variants/s8/lb40k3lb3k3lb3n8k24n8~x2/"><circle cx="250.7" cy="160.9" r="4" fill="#3465a4"><title>O'Sullivan-Beare (Family)</title></circle></a><a href="/variants/s8/lb3k24lb6k8w4k8lb35k2~x2/"><circle cx="274.0" cy="160.5" r="4" fill="#3465a4"><title>Nowell/Noel 1951 (Name)</title></circle></a><a href="/variants/s8/db32k2db4k2db8ly29w2k2/"><circle cx="274.8" cy="136.5" r="4" fill="#3465a4"><title>Southern Lakes</title></circle></a><a href="/variants/s9/lb60k6lb8k2lb8w2dr12k49ly4/"><circle cx="250.3" cy="90.2" r="4" fill="#3465a4"><title>Motherwell Football Club. Modern</title></circle></a><a href="/variants/s9/r3g2k9lg2k2lg24y2lg2y1~x4~g2408144-lg2901240/"><circle cx="285.5" cy="91.2" r="4" fill="#3465a4"><title>Bell of the Borders</title></circle></a><a href="/variants/s8/db3n10db3k3w10r4n28k2~x2~db1106275-n2002249/"><circle cx="275.8" cy="140.5" r="4" fill="#3465a4"><title>Moorpark Primary School (Corporate)</title></circle></a><circle cx="324.7" cy="124.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/n10lb11k2lb3k2lb2k8n40w4~x2/

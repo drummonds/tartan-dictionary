@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Montmorency"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db21g2db3g2db2g14o15g4o15g14db14g2db3/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBGRGRGBGB](/stripes/bgbgbgrgrgbgb/).
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/"><circle cx="247.0" cy="203.7" r="4" fill="#3465a4"><title>Tyneside, Scottish</title></circle></a><a href="/variants/s13/db21g2db3g2db2g14dy15g4dy15g14db14g2db3~x2/"><circle cx="277.2" cy="232.8" r="4" fill="#3465a4"><title>Montmorency Family Tartan</title></circle></a><a href="/variants/s15/o8g20db15o6g4o8db4o6g20o8db6o4b2o4db6/"><circle cx="214.6" cy="210.1" r="4" fill="#3465a4"><title>Unidentified, Fragment</title></circle></a><a href="/variants/s10/db4o7y3o12g15o5db20o5g4o2~x2/"><circle cx="235.9" cy="216.7" r="4" fill="#3465a4"><title>Tupper., Sir Charles..</title></circle></a><a href="/variants/s15/y2db3o3db4g16db3o3db4g3db3o16db4g3db3y2~x2/"><circle cx="205.7" cy="198.1" r="4" fill="#3465a4"><title>Kerry</title></circle></a><a href="/variants/s12/db20r2db2r2g19r18g2r18g19db19r2db2~x2/"><circle cx="210.9" cy="203.5" r="4" fill="#3465a4"><title>Fraser of Stratherrick</title></circle></a><a href="/variants/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/"><circle cx="190.8" cy="230.5" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/variants/s14/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1~x4~g2408144/"><circle cx="239.9" cy="177.7" r="4" fill="#3465a4"><title>New Mexico District Tartan</title></circle></a><a href="/variants/s15/g8db3y1g6r1g7db7y1db6r1g3db12g3y1r1~x2/"><circle cx="264.6" cy="184.1" r="4" fill="#3465a4"><title>Platt</title></circle></a><a href="/variants/s16/db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1~x4/"><circle cx="214.3" cy="192.1" r="4" fill="#3465a4"><title>Crieff Hydro Hotel</title></circle></a><circle cx="241.3" cy="212.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db11o1db1o1db1o8g8o1g8o8db8o1db1~x2/"><circle cx="247.1" cy="204.1" r="4" fill="#3465a4"><title>Tyneside, Scottish</title></circle></a><a href="/variants/s13/db21g2db3g2db2g14dy15g4dy15g14db14g2db3~x2/"><circle cx="277.3" cy="233.2" r="4" fill="#3465a4"><title>Montmorency Family Tartan</title></circle></a><a href="/variants/s15/o8g20db15o6g4o8db4o6g20o8db6o4b2o4db6/"><circle cx="214.7" cy="210.4" r="4" fill="#3465a4"><title>Unidentified, Fragment</title></circle></a><a href="/variants/s10/db4o7y3o12g15o5db20o5g4o2~x2/"><circle cx="236.0" cy="217.2" r="4" fill="#3465a4"><title>Tupper., Sir Charles..</title></circle></a><a href="/variants/s15/y2db3o3db4g16db3o3db4g3db3o16db4g3db3y2~x2/"><circle cx="205.8" cy="198.4" r="4" fill="#3465a4"><title>Kerry</title></circle></a><a href="/variants/s12/db20r2db2r2g19r18g2r18g19db19r2db2~x2/"><circle cx="210.9" cy="204.0" r="4" fill="#3465a4"><title>Fraser of Stratherrick</title></circle></a><a href="/variants/s11/db3o14g14o2db14o2db14o2g14o14r3~x2/"><circle cx="190.9" cy="231.0" r="4" fill="#3465a4"><title>Buchanan, hunting</title></circle></a><a href="/variants/s14/dy1r1dy2db11g5db1g8r1g8db1g5db11dy2r1~x4~g2408144/"><circle cx="240.0" cy="178.1" r="4" fill="#3465a4"><title>New Mexico District Tartan</title></circle></a><a href="/variants/s15/g8db3y1g6r1g7db7y1db6r1g3db12g3y1r1~x2/"><circle cx="264.6" cy="184.5" r="4" fill="#3465a4"><title>Platt</title></circle></a><a href="/variants/s16/db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1~x4/"><circle cx="214.4" cy="192.6" r="4" fill="#3465a4"><title>Crieff Hydro Hotel</title></circle></a><circle cx="241.4" cy="212.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/db21g2db3g2db2g14o15g4o15g14db14g2db3~x2/

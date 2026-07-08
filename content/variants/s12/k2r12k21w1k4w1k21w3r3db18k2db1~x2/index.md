@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bishop"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2r12k21w1k4w1k21w3r3db18k2db1/)
 (the same proportion at any scale), whose colour order is pattern [BKBRWKWKWKRK](/stripes/bkbrwkwkwkrk/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=266
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=266](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=266)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w1y2k8dp6k15y1k1w1k15dp5w8y1w1~x2/"><circle cx="256.6" cy="120.4" r="4" fill="#3465a4"><title>Freger</title></circle></a><a href="/variants/s11/r9k3r9k2b4k4dp4k3dp2k32g6~x2/"><circle cx="246.1" cy="100.6" r="4" fill="#3465a4"><title>Brotherhood of Dirk, The</title></circle></a><a href="/variants/s11/r9k3r9k2t4k4dp4k3dp2k32g6~x2/"><circle cx="245.6" cy="100.9" r="4" fill="#3465a4"><title>Brotherhood of Dirk (Corporate)</title></circle></a><a href="/variants/s9/k38lb2o24w2k16o6lb2k3lb5~x2/"><circle cx="284.9" cy="120.3" r="4" fill="#3465a4"><title>Universal Scientific Indust (Corp.)</title></circle></a><a href="/variants/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/"><circle cx="275.4" cy="125.5" r="4" fill="#3465a4"><title>Drummond (Grey)</title></circle></a><a href="/variants/s10/k4db16k3db3k32ly7k3r10k2w4~x2/"><circle cx="207.3" cy="111.9" r="4" fill="#3465a4"><title>Model T Ford (Corporate)</title></circle></a><a href="/variants/s12/k5y3dg10k23r3k10r3w2r9w2k3w1~x2/"><circle cx="228.0" cy="96.4" r="4" fill="#3465a4"><title>Watson-Kirby (Personal)</title></circle></a><a href="/variants/s11/k48dp5k9g3k2g3k2g14dp7dy2dp10~x2/"><circle cx="315.7" cy="100.7" r="4" fill="#3465a4"><title>Paxton (Personal)</title></circle></a><a href="/variants/s12/y2w1r2k20r9k20y7n20k5y1k1r1~x2/"><circle cx="216.8" cy="100.6" r="4" fill="#3465a4"><title>Cates Dress</title></circle></a><a href="/variants/s7/w3dr10k38n11dr6k2w3~x2/"><circle cx="273.5" cy="135.2" r="4" fill="#3465a4"><title>Phantom</title></circle></a><circle cx="260.5" cy="107.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w1y2k8dp6k15y1k1w1k15dp5w8y1w1~x2/"><circle cx="256.5" cy="120.7" r="4" fill="#3465a4"><title>Freger</title></circle></a><a href="/variants/s11/r9k3r9k2b4k4dp4k3dp2k32g6~x2/"><circle cx="246.0" cy="100.9" r="4" fill="#3465a4"><title>Brotherhood of Dirk, The</title></circle></a><a href="/variants/s11/r9k3r9k2t4k4dp4k3dp2k32g6~x2/"><circle cx="245.5" cy="101.1" r="4" fill="#3465a4"><title>Brotherhood of Dirk (Corporate)</title></circle></a><a href="/variants/s9/k38lb2o24w2k16o6lb2k3lb5~x2/"><circle cx="284.8" cy="120.6" r="4" fill="#3465a4"><title>Universal Scientific Indust (Corp.)</title></circle></a><a href="/variants/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/"><circle cx="275.3" cy="125.8" r="4" fill="#3465a4"><title>Drummond (Grey)</title></circle></a><a href="/variants/s10/k4db16k3db3k32ly7k3r10k2w4~x2/"><circle cx="207.2" cy="112.2" r="4" fill="#3465a4"><title>Model T Ford (Corporate)</title></circle></a><a href="/variants/s12/k5y3dg10k23r3k10r3w2r9w2k3w1~x2/"><circle cx="227.9" cy="96.6" r="4" fill="#3465a4"><title>Watson-Kirby (Personal)</title></circle></a><a href="/variants/s11/k48dp5k9g3k2g3k2g14dp7dy2dp10~x2/"><circle cx="315.6" cy="100.8" r="4" fill="#3465a4"><title>Paxton (Personal)</title></circle></a><a href="/variants/s12/y2w1r2k20r9k20y7n20k5y1k1r1~x2/"><circle cx="216.7" cy="100.8" r="4" fill="#3465a4"><title>Cates Dress</title></circle></a><a href="/variants/s7/w3dr10k38n11dr6k2w3~x2/"><circle cx="273.4" cy="135.6" r="4" fill="#3465a4"><title>Phantom</title></circle></a><circle cx="260.4" cy="108.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k2r12k21w1k4w1k21w3r3db18k2db1~x2/

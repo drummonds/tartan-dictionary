@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gayre, dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb14g4k4w4g12lb4g12w4k4r6g4w4g3lb4k4/)
 (the same proportion at any scale), whose colour order is pattern [KWGWGRKWGWGWKGW](/stripes/kwgwgrkwgwgwkgw/).
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/lbi20g4k4lb4g16lbi4g16lb4k4r6g4lb4g3r6k4~x2~lbi3203246-lb3200000/"><circle cx="105.9" cy="168.0" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/variants/s15/db18g4k4w4g16db4g16w4k4r5g4w4g4r5k4~x2/"><circle cx="93.0" cy="179.9" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/variants/s15/y14g4k4w4g12y4g12w4k4r6g4w4g3y4k4~x2/"><circle cx="74.2" cy="198.0" r="4" fill="#3465a4"><title>Gayre Dress (Clan)</title></circle></a><a href="/variants/s15/lb8g2k2w2g8lb2g8w2k2dg3g2w2g1lb2k2~x2/"><circle cx="115.3" cy="164.0" r="4" fill="#3465a4"><title>Gayre Dress</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/"><circle cx="61.3" cy="185.7" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s15/r18g4k4w4g16db4g16w4k4r5g4w4g3r5k4~x2/"><circle cx="111.9" cy="165.0" r="4" fill="#3465a4"><title>Gayre Bodyguard (Clan)</title></circle></a><a href="/variants/s18/t18k13g18y4g18k13w4t4w18t4w4t4w18t4w4k13t18w4~x2/"><circle cx="14.0" cy="189.9" r="4" fill="#3465a4"><title>MacNeil Dress</title></circle></a><a href="/variants/s12/k4g4k2g12k6w3k6n2w4n2w15r3~x2/"><circle cx="71.1" cy="166.7" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/"><circle cx="61.3" cy="184.8" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s12/k4g4k2g14k6w3k6n2w4n2w15r3~x2/"><circle cx="70.5" cy="164.3" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><circle cx="64.9" cy="195.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/lbi20g4k4lb4g16lbi4g16lb4k4r6g4lb4g3r6k4~x2~lbi3203246-lb3200000/"><circle cx="105.9" cy="168.5" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/variants/s15/db18g4k4w4g16db4g16w4k4r5g4w4g4r5k4~x2/"><circle cx="93.0" cy="180.5" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/variants/s15/y14g4k4w4g12y4g12w4k4r6g4w4g3y4k4~x2/"><circle cx="74.3" cy="198.5" r="4" fill="#3465a4"><title>Gayre Dress (Clan)</title></circle></a><a href="/variants/s15/lb8g2k2w2g8lb2g8w2k2dg3g2w2g1lb2k2~x2/"><circle cx="115.4" cy="164.5" r="4" fill="#3465a4"><title>Gayre Dress</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/"><circle cx="61.3" cy="186.3" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s15/r18g4k4w4g16db4g16w4k4r5g4w4g3r5k4~x2/"><circle cx="112.0" cy="165.5" r="4" fill="#3465a4"><title>Gayre Bodyguard (Clan)</title></circle></a><a href="/variants/s18/t18k13g18y4g18k13w4t4w18t4w4t4w18t4w4k13t18w4~x2/"><circle cx="14.0" cy="190.5" r="4" fill="#3465a4"><title>MacNeil Dress</title></circle></a><a href="/variants/s12/k4g4k2g12k6w3k6n2w4n2w15r3~x2/"><circle cx="71.1" cy="167.2" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/"><circle cx="61.3" cy="185.3" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s12/k4g4k2g14k6w3k6n2w4n2w15r3~x2/"><circle cx="70.5" cy="164.8" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><circle cx="65.0" cy="196.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/lb14g4k4w4g12lb4g12w4k4r6g4w4g3lb4k4~x2/

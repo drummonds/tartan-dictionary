@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Thom, Calum (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly3dr2ly9dr1ly3dr3dp3dr10ly2dr10dp3dr3do6dr2do6dp2r2/)
 (the same proportion at any scale), whose colour order is pattern [RBBBBBBBYBBBYBYBY](/stripes/rbbbbbbbybbbybyby/).
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11336
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11336](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11336)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y18r18dg30r12db55r42dg6r18dg6r42g44r12dg12/"><circle cx="196.5" cy="189.9" r="4" fill="#3465a4"><title>Unidentified Plaid #4</title></circle></a><a href="/variants/s9/ly3do2r14ly8do14dg16r13do2ly3~x2/"><circle cx="166.9" cy="203.7" r="4" fill="#3465a4"><title>Monaghan, County</title></circle></a><a href="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/"><circle cx="211.1" cy="175.8" r="4" fill="#3465a4"><title>MacKinnon #3</title></circle></a><a href="/variants/s14/dp2r3g2db2r6g16r2db4g2r16g8dp2r4w2~x2/"><circle cx="218.6" cy="165.8" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s10/dg30lo3dg4lo3dg30r30y4db8y4r30~x2/"><circle cx="245.1" cy="178.1" r="4" fill="#3465a4"><title>Hutcheson</title></circle></a><a href="/variants/s14/dr2r3g2db2r6g16r2db4g2r16g8dr2r4w2~x2/"><circle cx="220.4" cy="166.5" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s14/dr2r3g2db2r6g16r2db4g2r16g8dr2r4w2/"><circle cx="220.4" cy="166.5" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s18/r4t4db8ly1g12r6db2r6w1r6w1r6db2r6g12ly1db8t4~x4~r2109032-t2405244-db1406275-ly3307090/"><circle cx="148.4" cy="156.5" r="4" fill="#3465a4"><title>Norwich No.057</title></circle></a><a href="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/"><circle cx="253.2" cy="153.4" r="4" fill="#3465a4"><title>MacDonald of Staffa #5</title></circle></a><a href="/variants/s14/dg2r3g2db2r6g16r2db4g2r16g8dg2r4w2/"><circle cx="218.9" cy="167.1" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><circle cx="188.6" cy="172.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y18r18dg30r12db55r42dg6r18dg6r42g44r12dg12/"><circle cx="196.6" cy="190.3" r="4" fill="#3465a4"><title>Unidentified Plaid #4</title></circle></a><a href="/variants/s9/ly3do2r14ly8do14dg16r13do2ly3~x2/"><circle cx="166.9" cy="204.2" r="4" fill="#3465a4"><title>Monaghan, County</title></circle></a><a href="/variants/s14/dp3r4g3db3r7g17r3db5g4r21g7dp3r6w3~x2/"><circle cx="211.2" cy="176.3" r="4" fill="#3465a4"><title>MacKinnon #3</title></circle></a><a href="/variants/s14/dp2r3g2db2r6g16r2db4g2r16g8dp2r4w2~x2/"><circle cx="218.6" cy="166.2" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s10/dg30lo3dg4lo3dg30r30y4db8y4r30~x2/"><circle cx="245.2" cy="178.5" r="4" fill="#3465a4"><title>Hutcheson</title></circle></a><a href="/variants/s14/dr2r3g2db2r6g16r2db4g2r16g8dr2r4w2~x2/"><circle cx="220.5" cy="166.9" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s14/dr2r3g2db2r6g16r2db4g2r16g8dr2r4w2/"><circle cx="220.5" cy="166.9" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><a href="/variants/s18/r4t4db8ly1g12r6db2r6w1r6w1r6db2r6g12ly1db8t4~x4~r2109032-t2405244-db1406275-ly3307090/"><circle cx="148.4" cy="156.8" r="4" fill="#3465a4"><title>Norwich No.057</title></circle></a><a href="/variants/s14/dr2r4g2db2r6g14r2db2g2r12g7dr2r5w1~x2/"><circle cx="253.2" cy="153.7" r="4" fill="#3465a4"><title>MacDonald of Staffa #5</title></circle></a><a href="/variants/s14/dg2r3g2db2r6g16r2db4g2r16g8dg2r4w2/"><circle cx="219.0" cy="167.5" r="4" fill="#3465a4"><title>MacKinnon</title></circle></a><circle cx="188.6" cy="172.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/ly3dr2ly9dr1ly3dr3dp3dr10ly2dr10dp3dr3do6dr2do6dp2r2~x2/

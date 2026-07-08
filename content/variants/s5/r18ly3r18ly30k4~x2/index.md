@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Shire of Hornwood"
   url: "/tartans/shire-of-hornwood/"
+- name: "Shire of Hornwood (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r18ly3r18ly30k4/)
 (the same proportion at any scale), whose colour order is pattern [KYRYR](/stripes/kyryr/).
@@ -14,7 +16,7 @@ Part of the [Shire of Hornwood](/tartans/shire-of-hornwood/) tartan — the name
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10409
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10409](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10409)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r18y3r18y30k4~x2/"><circle cx="346.1" cy="241.9" r="4" fill="#3465a4"><title>Shire of Hornwood (USA)</title></circle></a><a href="/variants/s5/ly6r1ly4r4db2~x5/"><circle cx="305.4" cy="282.0" r="4" fill="#3465a4"><title>Sands-Pingot (Name?)</title></circle></a><a href="/variants/s6/y8k3y4k2r30y6~x2/"><circle cx="369.0" cy="172.2" r="4" fill="#3465a4"><title>Masai Shuka 16 (Artefact)</title></circle></a><a href="/variants/s7/r33k8dy12g12r8dy2r8~x2/"><circle cx="298.9" cy="165.2" r="4" fill="#3465a4"><title>Tipperary, County</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="386.9" cy="257.4" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s6/r29dg2r2dg2r6ly21~x4/"><circle cx="406.6" cy="192.0" r="4" fill="#3465a4"><title>Maguire, Black (Name)</title></circle></a><a href="/variants/s5/g7r3g1r9k1~x2/"><circle cx="328.9" cy="221.7" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s6/r4ly1r3g1ly8g2~x4/"><circle cx="306.1" cy="249.5" r="4" fill="#3465a4"><title>Buchele Check (Fashion?)</title></circle></a><a href="/variants/s5/k1r5g10r5g1~x4/"><circle cx="300.7" cy="225.2" r="4" fill="#3465a4"><title>Murray, Lord George (Hose)</title></circle></a><a href="/variants/s5/g16r5g2r18k2~x2/"><circle cx="315.8" cy="220.4" r="4" fill="#3465a4"><title>MacDonald, Lord of The Isles (Artef)</title></circle></a><circle cx="285.7" cy="222.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r18y3r18y30k4~x2/"><circle cx="346.3" cy="242.5" r="4" fill="#3465a4"><title>Shire of Hornwood (USA)</title></circle></a><a href="/variants/s5/ly6r1ly4r4db2~x5/"><circle cx="305.7" cy="282.9" r="4" fill="#3465a4"><title>Sands-Pingot (Name?)</title></circle></a><a href="/variants/s6/y8k3y4k2r30y6~x2/"><circle cx="369.1" cy="172.6" r="4" fill="#3465a4"><title>Masai Shuka 16 (Artefact)</title></circle></a><a href="/variants/s7/r33k8dy12g12r8dy2r8~x2/"><circle cx="299.0" cy="165.7" r="4" fill="#3465a4"><title>Tipperary, County</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="387.1" cy="258.0" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s6/r29dg2r2dg2r6ly21~x4/"><circle cx="406.8" cy="192.6" r="4" fill="#3465a4"><title>Maguire, Black (Name)</title></circle></a><a href="/variants/s5/g7r3g1r9k1~x2/"><circle cx="329.0" cy="222.4" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s6/r4ly1r3g1ly8g2~x4/"><circle cx="306.3" cy="250.2" r="4" fill="#3465a4"><title>Buchele Check (Fashion?)</title></circle></a><a href="/variants/s5/k1r5g10r5g1~x4/"><circle cx="300.8" cy="225.8" r="4" fill="#3465a4"><title>Murray, Lord George (Hose)</title></circle></a><a href="/variants/s5/g16r5g2r18k2~x2/"><circle cx="315.9" cy="221.1" r="4" fill="#3465a4"><title>MacDonald, Lord of The Isles (Artef)</title></circle></a><circle cx="285.9" cy="223.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r18ly3r18ly30k4~x2/

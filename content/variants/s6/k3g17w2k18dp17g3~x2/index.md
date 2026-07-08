@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's, No 76"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3g17w2k18dp17g3/)
 (the same proportion at any scale), whose colour order is pattern [GBKWGK](/stripes/gbkwgk/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3g17y2k18dp17g3~x2/"><circle cx="153.3" cy="208.9" r="4" fill="#3465a4"><title>Wilson's No.100</title></circle></a><a href="/variants/s6/k2g10lb2k9dp8g2~x2/"><circle cx="120.5" cy="238.0" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/variants/s6/k14g80k80g9dp82g14/"><circle cx="181.5" cy="220.9" r="4" fill="#3465a4"><title>MacKay Plaid</title></circle></a><a href="/variants/s7/g8lb1g1k6dp6k1dp3~x4/"><circle cx="144.9" cy="208.6" r="4" fill="#3465a4"><title>Unnamed 19th Century Plaid</title></circle></a><a href="/variants/s6/k4g25k24r3db24g4~x2/"><circle cx="142.7" cy="211.9" r="4" fill="#3465a4"><title>Ferguson of Balquhidder #2</title></circle></a><a href="/variants/s6/k4g19k16w2db15g4~x2/"><circle cx="149.4" cy="212.0" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/variants/s6/k2g12k12r1db12g2~x2/"><circle cx="157.0" cy="197.2" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><a href="/variants/s7/k2g10k9db9r1k1db2~x2/"><circle cx="155.8" cy="193.1" r="4" fill="#3465a4"><title>Reid and Taylor</title></circle></a><a href="/variants/s7/db3r1db10k8g10r1g3~x4/"><circle cx="155.9" cy="203.1" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/variants/s7/r4k4db24k24g24k2r3~x2/"><circle cx="151.5" cy="179.5" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><circle cx="145.8" cy="206.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3g17y2k18dp17g3~x2/"><circle cx="153.4" cy="209.4" r="4" fill="#3465a4"><title>Wilson's No.100</title></circle></a><a href="/variants/s6/k2g10lb2k9dp8g2~x2/"><circle cx="120.6" cy="238.6" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/variants/s6/k14g80k80g9dp82g14/"><circle cx="181.6" cy="221.5" r="4" fill="#3465a4"><title>MacKay Plaid</title></circle></a><a href="/variants/s7/g8lb1g1k6dp6k1dp3~x4/"><circle cx="145.0" cy="209.1" r="4" fill="#3465a4"><title>Unnamed 19th Century Plaid</title></circle></a><a href="/variants/s6/k4g25k24r3db24g4~x2/"><circle cx="142.8" cy="212.4" r="4" fill="#3465a4"><title>Ferguson of Balquhidder #2</title></circle></a><a href="/variants/s6/k4g19k16w2db15g4~x2/"><circle cx="149.5" cy="212.5" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/variants/s6/k2g12k12r1db12g2~x2/"><circle cx="157.0" cy="197.7" r="4" fill="#3465a4"><title>Ferguson of Balquhidder</title></circle></a><a href="/variants/s7/k2g10k9db9r1k1db2~x2/"><circle cx="155.9" cy="193.6" r="4" fill="#3465a4"><title>Reid and Taylor</title></circle></a><a href="/variants/s7/db3r1db10k8g10r1g3~x4/"><circle cx="155.9" cy="203.6" r="4" fill="#3465a4"><title>Blair</title></circle></a><a href="/variants/s7/r4k4db24k24g24k2r3~x2/"><circle cx="151.5" cy="179.9" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><circle cx="145.8" cy="207.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k3g17w2k18dp17g3~x2/

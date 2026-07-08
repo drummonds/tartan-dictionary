@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cian of Ely"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb38db4y4lb19db8lr18dp8lb18y4db4ly4/)
 (the same proportion at any scale), whose colour order is pattern [WBGWBYBWGBY](/stripes/wbgwbybwgby/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=651
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=651](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=651)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/t31db4lb4t20db8y16o8t14lb4db4ly4/"><circle cx="281.9" cy="201.5" r="4" fill="#3465a4"><title>Cian Clan Irish Family Tartan</title></circle></a><a href="/variants/s8/lb12g4dp4g4lb31n3db12w4~x2/"><circle cx="283.7" cy="177.7" r="4" fill="#3465a4"><title>Yes Scotland</title></circle></a><a href="/variants/s17/y3lb20db3g3db3g3db3g3db4lb13dg2lb2dg2lb3b2lb3g3~x2/"><circle cx="250.9" cy="145.9" r="4" fill="#3465a4"><title>Fermanagh</title></circle></a><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/"><circle cx="258.8" cy="144.3" r="4" fill="#3465a4"><title>Tom Morris (Official)</title></circle></a><a href="/variants/s7/lb25r10lb25w8b6g8y5~x2/"><circle cx="268.5" cy="242.5" r="4" fill="#3465a4"><title>Barneys (Scunthorpe) (Personal)</title></circle></a><a href="/variants/s10/lb38db18lb4lyi3g10ly3g4lb3ly17r4~x2~lyi3407090-ly2503076/"><circle cx="206.2" cy="155.2" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7~o2500000-n1900000/"><circle cx="240.2" cy="131.6" r="4" fill="#3465a4"><title>Morris, Tom (Corporate)</title></circle></a><a href="/variants/s9/db3g6db2t11dr3dy4dr3t28w3~x2/"><circle cx="360.9" cy="168.2" r="4" fill="#3465a4"><title>Bains of Caithness</title></circle></a><a href="/variants/s6/w4lb28db7y2g16lb4~x2/"><circle cx="296.2" cy="202.4" r="4" fill="#3465a4"><title>Allanton (Fashion)</title></circle></a><circle cx="294.0" cy="184.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/t31db4lb4t20db8y16o8t14lb4db4ly4/"><circle cx="281.9" cy="201.7" r="4" fill="#3465a4"><title>Cian Clan Irish Family Tartan</title></circle></a><a href="/variants/s8/lb12g4dp4g4lb31n3db12w4~x2/"><circle cx="283.8" cy="178.1" r="4" fill="#3465a4"><title>Yes Scotland</title></circle></a><a href="/variants/s17/y3lb20db3g3db3g3db3g3db4lb13dg2lb2dg2lb3b2lb3g3~x2/"><circle cx="250.9" cy="146.2" r="4" fill="#3465a4"><title>Fermanagh</title></circle></a><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38y12w3n30w3n2w7/"><circle cx="258.8" cy="144.5" r="4" fill="#3465a4"><title>Tom Morris (Official)</title></circle></a><a href="/variants/s7/lb25r10lb25w8b6g8y5~x2/"><circle cx="268.7" cy="243.0" r="4" fill="#3465a4"><title>Barneys (Scunthorpe) (Personal)</title></circle></a><a href="/variants/s10/lb38db18lb4lyi3g10ly3g4lb3ly17r4~x2~lyi3407090-ly2503076/"><circle cx="206.2" cy="155.4" r="4" fill="#3465a4"><title>State Seal of Delaware (Fashion)</title></circle></a><a href="/variants/s13/lb38dp5lb6dp5lb4db20lb38o12w3n30w3n2w7~o2500000-n1900000/"><circle cx="240.2" cy="131.8" r="4" fill="#3465a4"><title>Morris, Tom (Corporate)</title></circle></a><a href="/variants/s9/db3g6db2t11dr3dy4dr3t28w3~x2/"><circle cx="360.9" cy="168.4" r="4" fill="#3465a4"><title>Bains of Caithness</title></circle></a><a href="/variants/s6/w4lb28db7y2g16lb4~x2/"><circle cx="296.3" cy="202.8" r="4" fill="#3465a4"><title>Allanton (Fashion)</title></circle></a><circle cx="294.0" cy="184.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/lb38db4y4lb19db8lr18dp8lb18y4db4ly4~x2~y2602166-lr3102083/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Corey in Balachuirn"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db32dy16g3lo4dg28/)
 (the same proportion at any scale), whose colour order is pattern [BGGYG](/stripes/bggyg/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10824
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10824](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10824)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.2" cy="254.7" r="4" fill="#3465a4"><title>Corey (Name)</title></circle></a><a href="/variants/s5/dy46dg23t23r4y4~x2/"><circle cx="314.8" cy="240.2" r="4" fill="#3465a4"><title>McMoosie Htg (Fashion)</title></circle></a><a href="/variants/s5/dp10db10g10w1dy1~x6/"><circle cx="202.6" cy="247.2" r="4" fill="#3465a4"><title>Edelstein (Personal)</title></circle></a><a href="/variants/s7/dr4dg27o2db25ly5dg3o3~x2/"><circle cx="278.4" cy="184.1" r="4" fill="#3465a4"><title>Kilkenny, County (District)</title></circle></a><a href="/variants/s6/dr2do22g22do3db12y2~x2/"><circle cx="276.6" cy="233.2" r="4" fill="#3465a4"><title>Lisbon</title></circle></a><a href="/variants/s6/w3dbi17dy16db2dg17y2~x2~dbi1406275-db1204274/"><circle cx="209.5" cy="241.4" r="4" fill="#3465a4"><title>Atlantic Ancient Trade Tartan</title></circle></a><a href="/variants/s7/dr5dg27o2b25y7dg3dr3~x2/"><circle cx="274.6" cy="192.6" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="261.6" cy="241.8" r="4" fill="#3465a4"><title>Skibo (Corporate)</title></circle></a><a href="/variants/s5/db6w1dy6do12r2~x4/"><circle cx="293.0" cy="238.4" r="4" fill="#3465a4"><title>Vass (Personal)</title></circle></a><a href="/variants/s6/r4t19g10n10dy15y2~x2/"><circle cx="187.4" cy="249.1" r="4" fill="#3465a4"><title>Isle of Rona (District)</title></circle></a><circle cx="294.1" cy="262.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.3" cy="255.1" r="4" fill="#3465a4"><title>Corey (Name)</title></circle></a><a href="/variants/s5/dy46dg23t23r4y4~x2/"><circle cx="314.9" cy="240.5" r="4" fill="#3465a4"><title>McMoosie Htg (Fashion)</title></circle></a><a href="/variants/s5/dp10db10g10w1dy1~x6/"><circle cx="202.7" cy="247.7" r="4" fill="#3465a4"><title>Edelstein (Personal)</title></circle></a><a href="/variants/s7/dr4dg27o2db25ly5dg3o3~x2/"><circle cx="278.4" cy="184.3" r="4" fill="#3465a4"><title>Kilkenny, County (District)</title></circle></a><a href="/variants/s6/dr2do22g22do3db12y2~x2/"><circle cx="276.7" cy="233.6" r="4" fill="#3465a4"><title>Lisbon</title></circle></a><a href="/variants/s6/w3dbi17dy16db2dg17y2~x2~dbi1406275-db1204274/"><circle cx="209.6" cy="241.7" r="4" fill="#3465a4"><title>Atlantic Ancient Trade Tartan</title></circle></a><a href="/variants/s7/dr5dg27o2b25y7dg3dr3~x2/"><circle cx="274.7" cy="192.8" r="4" fill="#3465a4"><title>Kilkenny</title></circle></a><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="261.7" cy="242.2" r="4" fill="#3465a4"><title>Skibo (Corporate)</title></circle></a><a href="/variants/s5/db6w1dy6do12r2~x4/"><circle cx="293.1" cy="238.7" r="4" fill="#3465a4"><title>Vass (Personal)</title></circle></a><a href="/variants/s6/r4t19g10n10dy15y2~x2/"><circle cx="187.5" cy="249.4" r="4" fill="#3465a4"><title>Isle of Rona (District)</title></circle></a><circle cx="294.2" cy="262.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db32dy16g3lo4dg28~x2/

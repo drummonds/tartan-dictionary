@@ -10,6 +10,8 @@ crumbs:
   url: "/families/burnett-of-leys/"
 - name: "Burnett of Leys Hunting"
   url: "/tartans/burnett-of-leys-hunting/"
+- name: "Burnett, of Leys hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o96db8o8w3o8g3o8r3/)
 (the same proportion at any scale), whose colour order is pattern [RBRWRGRR](/stripes/rbrwrgrr/).
@@ -18,7 +20,7 @@ Part of the [Burnett of Leys Hunting](/tartans/burnett-of-leys-hunting/) tartan 
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

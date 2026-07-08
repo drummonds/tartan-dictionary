@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Robberstad #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r60db8r4k11w2k11w2k11db1r4/)
 (the same proportion at any scale), whose colour order is pattern [RBKWKWKRBR](/stripes/rbkwkwkrbr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5887
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5887](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5887)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r60b15r4db10w2db10w2db10r4~x2/"><circle cx="371.8" cy="111.0" r="4" fill="#3465a4"><title>Robberstad</title></circle></a><a href="/variants/s10/r6y1r24g6db2k1db2k1db12r1~x2/"><circle cx="305.5" cy="95.5" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/variants/s12/k4r2k2ri2k2r36k2dp12k2ri1k3r2~x2~r2109032-ri2806019/"><circle cx="337.2" cy="55.8" r="4" fill="#3465a4"><title>Red Hatters United</title></circle></a><a href="/variants/s8/r4k6y1k6r4db16r32db1~x2/"><circle cx="320.0" cy="103.0" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/variants/s8/r4k6y1k6r4db16r32k1~x2/"><circle cx="316.5" cy="101.4" r="4" fill="#3465a4"><title>Leslie</title></circle></a><a href="/variants/s12/r47k1r6w3db2w3r6k13g2w2r2k13~x2/"><circle cx="326.7" cy="32.2" r="4" fill="#3465a4"><title>Trevison</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="317.7" cy="110.0" r="4" fill="#3465a4"><title>Ostermeier (2015)</title></circle></a><a href="/variants/s14/r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4/"><circle cx="327.1" cy="21.1" r="4" fill="#3465a4"><title>MacFarlane Red (Clan)</title></circle></a><a href="/variants/s14/r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4~db1204274/"><circle cx="328.7" cy="21.3" r="4" fill="#3465a4"><title>MacFarlane Red</title></circle></a><a href="/variants/s8/db1r2w1db30r30k1r2w1~x2/"><circle cx="337.3" cy="94.6" r="4" fill="#3465a4"><title>Knights Templar - Grand Priory (Corp</title></circle></a><circle cx="358.1" cy="57.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r60b15r4db10w2db10w2db10r4~x2/"><circle cx="371.8" cy="111.2" r="4" fill="#3465a4"><title>Robberstad</title></circle></a><a href="/variants/s10/r6y1r24g6db2k1db2k1db12r1~x2/"><circle cx="305.5" cy="95.7" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/variants/s12/k4r2k2ri2k2r36k2dp12k2ri1k3r2~x2~r2109032-ri2806019/"><circle cx="337.1" cy="55.9" r="4" fill="#3465a4"><title>Red Hatters United</title></circle></a><a href="/variants/s8/r4k6y1k6r4db16r32db1~x2/"><circle cx="319.9" cy="103.3" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/variants/s8/r4k6y1k6r4db16r32k1~x2/"><circle cx="316.4" cy="101.7" r="4" fill="#3465a4"><title>Leslie</title></circle></a><a href="/variants/s12/r47k1r6w3db2w3r6k13g2w2r2k13~x2/"><circle cx="326.5" cy="32.3" r="4" fill="#3465a4"><title>Trevison</title></circle></a><a href="/variants/s8/r11w1r32k8db6k1db16k1~x2/"><circle cx="317.6" cy="110.3" r="4" fill="#3465a4"><title>Ostermeier (2015)</title></circle></a><a href="/variants/s14/r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4/"><circle cx="326.9" cy="21.2" r="4" fill="#3465a4"><title>MacFarlane Red (Clan)</title></circle></a><a href="/variants/s14/r98k3dg21w5r5k2r5w5dg2db21k7r7w8dg4~db1204274/"><circle cx="328.6" cy="21.3" r="4" fill="#3465a4"><title>MacFarlane Red</title></circle></a><a href="/variants/s8/db1r2w1db30r30k1r2w1~x2/"><circle cx="337.2" cy="94.9" r="4" fill="#3465a4"><title>Knights Templar - Grand Priory (Corp</title></circle></a><circle cx="358.0" cy="57.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r60db8r4k11w2k11w2k11db1r4~x2~db0906265-k0503265/

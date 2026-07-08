@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Idaho, Centennial"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db12r2db2r2db2g10w12o3/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBGWR](/stripes/brbrbgwr/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/"><circle cx="148.0" cy="167.0" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><a href="/variants/s7/r4db18dr4g19w25r10w4~x2/"><circle cx="103.8" cy="222.9" r="4" fill="#3465a4"><title>Fraser Red Dress</title></circle></a><a href="/variants/s7/ri4db18r4g19w25ri10w4~x2~ri2008029-r1506028/"><circle cx="101.9" cy="221.6" r="4" fill="#3465a4"><title>Fraser, Red dress</title></circle></a><a href="/variants/s8/g1w1g6db5w6r1g1lo1~x4/"><circle cx="128.9" cy="207.2" r="4" fill="#3465a4"><title>Vermont Dress</title></circle></a><a href="/variants/s7/db6w10g10r2dy3r1db3~x2/"><circle cx="96.5" cy="204.5" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/variants/s7/db6w10g10r2y3r1db3~x2/"><circle cx="99.8" cy="205.9" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/variants/s8/db3g11w11r2g7db22y2db2~x2/"><circle cx="192.3" cy="178.3" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/variants/s9/db24r4g24r4db4w20r10g3w4~x2/"><circle cx="117.4" cy="204.3" r="4" fill="#3465a4"><title>Robertson, dress</title></circle></a><a href="/variants/s6/db13w13db4ly2g8r3~x2/"><circle cx="128.4" cy="229.4" r="4" fill="#3465a4"><title>Unidentified (Winterbottom)</title></circle></a><a href="/variants/s10/w8g14r6g24db30y10w40y10db7y4/"><circle cx="105.3" cy="187.9" r="4" fill="#3465a4"><title>John, Hamilton Gray</title></circle></a><circle cx="115.8" cy="207.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2t2r2t21lg11k17lb2~x2~t2503227-lb3203246/"><circle cx="148.0" cy="167.5" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><a href="/variants/s7/r4db18dr4g19w25r10w4~x2/"><circle cx="104.0" cy="223.6" r="4" fill="#3465a4"><title>Fraser Red Dress</title></circle></a><a href="/variants/s7/ri4db18r4g19w25ri10w4~x2~ri2008029-r1506028/"><circle cx="102.1" cy="222.3" r="4" fill="#3465a4"><title>Fraser, Red dress</title></circle></a><a href="/variants/s8/g1w1g6db5w6r1g1lo1~x4/"><circle cx="129.0" cy="207.8" r="4" fill="#3465a4"><title>Vermont Dress</title></circle></a><a href="/variants/s7/db6w10g10r2dy3r1db3~x2/"><circle cx="96.6" cy="205.1" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/variants/s7/db6w10g10r2y3r1db3~x2/"><circle cx="99.9" cy="206.5" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/variants/s8/db3g11w11r2g7db22y2db2~x2/"><circle cx="192.4" cy="178.8" r="4" fill="#3465a4"><title>Bahamas</title></circle></a><a href="/variants/s9/db24r4g24r4db4w20r10g3w4~x2/"><circle cx="117.4" cy="204.8" r="4" fill="#3465a4"><title>Robertson, dress</title></circle></a><a href="/variants/s6/db13w13db4ly2g8r3~x2/"><circle cx="128.6" cy="230.0" r="4" fill="#3465a4"><title>Unidentified (Winterbottom)</title></circle></a><a href="/variants/s10/w8g14r6g24db30y10w40y10db7y4/"><circle cx="105.3" cy="188.4" r="4" fill="#3465a4"><title>John, Hamilton Gray</title></circle></a><circle cx="115.9" cy="208.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db12r2db2r2db2g10w12o3~x2/

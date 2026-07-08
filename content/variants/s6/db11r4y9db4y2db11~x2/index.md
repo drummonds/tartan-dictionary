@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Sample"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db11r4y9db4y2db11/)
 (the same proportion at any scale), whose colour order is pattern [BGBGRB](/stripes/bgbgrb/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4363
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4363](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4363)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db3ly9db3ly9db20r3~x2/"><circle cx="289.7" cy="238.9" r="4" fill="#3465a4"><title>Latin</title></circle></a><a href="/variants/s6/r5db15g3db15y3db3~x2/"><circle cx="424.2" cy="250.6" r="4" fill="#3465a4"><title>Abertay University (Estimated threadcount)</title></circle></a><a href="/variants/s7/db1y6db8r1db8g6y1~x4/"><circle cx="293.2" cy="239.1" r="4" fill="#3465a4"><title>Hill of Banchory Primary (School)</title></circle></a><a href="/variants/s7/db1y6db8r1db8g6y1~x4~g2408144/"><circle cx="282.3" cy="235.7" r="4" fill="#3465a4"><title>Hill of Banchory Primary School</title></circle></a><a href="/variants/s6/db60y6db11r25db11y6~x2/"><circle cx="361.7" cy="198.0" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums</title></circle></a><a href="/variants/s5/db16o2db16o19r4~x3/"><circle cx="341.7" cy="257.6" r="4" fill="#3465a4"><title>Unidentified 17</title></circle></a><a href="/variants/s5/db10w3db12y14r4~x2/"><circle cx="224.9" cy="278.7" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/variants/s6/dy34db27r3db27dy34w3~x2/"><circle cx="378.0" cy="255.8" r="4" fill="#3465a4"><title>London Regiment</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4/"><circle cx="279.4" cy="221.6" r="4" fill="#3465a4"><title>Atlantic, Ancient (Fashion)</title></circle></a><a href="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/"><circle cx="292.8" cy="234.9" r="4" fill="#3465a4"><title>Millar (Kirkcaldy) (Personal)</title></circle></a><circle cx="346.5" cy="282.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db3ly9db3ly9db20r3~x2/"><circle cx="289.8" cy="239.6" r="4" fill="#3465a4"><title>Latin</title></circle></a><a href="/variants/s6/r5db15g3db15y3db3~x2/"><circle cx="424.3" cy="251.1" r="4" fill="#3465a4"><title>Abertay University (Estimated threadcount)</title></circle></a><a href="/variants/s7/db1y6db8r1db8g6y1~x4/"><circle cx="293.3" cy="239.6" r="4" fill="#3465a4"><title>Hill of Banchory Primary (School)</title></circle></a><a href="/variants/s7/db1y6db8r1db8g6y1~x4~g2408144/"><circle cx="282.4" cy="236.2" r="4" fill="#3465a4"><title>Hill of Banchory Primary School</title></circle></a><a href="/variants/s6/db60y6db11r25db11y6~x2/"><circle cx="361.8" cy="198.5" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums</title></circle></a><a href="/variants/s5/db16o2db16o19r4~x3/"><circle cx="341.9" cy="258.2" r="4" fill="#3465a4"><title>Unidentified 17</title></circle></a><a href="/variants/s5/db10w3db12y14r4~x2/"><circle cx="225.1" cy="279.5" r="4" fill="#3465a4"><title>MacLeod, of Argentina</title></circle></a><a href="/variants/s6/dy34db27r3db27dy34w3~x2/"><circle cx="378.1" cy="256.2" r="4" fill="#3465a4"><title>London Regiment</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4/"><circle cx="279.5" cy="222.1" r="4" fill="#3465a4"><title>Atlantic, Ancient (Fashion)</title></circle></a><a href="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/"><circle cx="292.9" cy="235.5" r="4" fill="#3465a4"><title>Millar (Kirkcaldy) (Personal)</title></circle></a><circle cx="346.6" cy="283.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db11r4y9db4y2db11~x2/

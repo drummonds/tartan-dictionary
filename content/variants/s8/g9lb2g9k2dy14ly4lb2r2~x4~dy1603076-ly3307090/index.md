@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McShane (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g9lb2g9k2dy14ly4lb2r2/)
 (the same proportion at any scale), whose colour order is pattern [GWGKGYWR](/stripes/gwgkgywr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2904
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2904](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2904)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2o30g4w2g14dr13y2~x2/"><circle cx="235.0" cy="149.6" r="4" fill="#3465a4"><title>Red Rum</title></circle></a><a href="/variants/s8/dg9w2dg9k2ly14lyi4w2r2~x4~ly2503076-lyi2705081/"><circle cx="127.5" cy="179.8" r="4" fill="#3465a4"><title>MacShane (Clan)</title></circle></a><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="95.9" cy="204.5" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke (Personal)</title></circle></a><a href="/variants/s9/lyi5g23t21ly30k10ly4g4ly16w3~x2~lyi2705081-ly2503076/"><circle cx="176.3" cy="187.5" r="4" fill="#3465a4"><title>State Seal of Kansas (Fashion)</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~lr2800000-lb3203246/"><circle cx="112.1" cy="153.6" r="4" fill="#3465a4"><title>Alexander of Menstry Htg (Personal)</title></circle></a><a href="/variants/s7/r1g4w1g4y1dr8lb1~x6/"><circle cx="188.3" cy="191.1" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/variants/s9/dr3o3dt16k2dt2g16dr3g2w2~x2/"><circle cx="157.6" cy="163.7" r="4" fill="#3465a4"><title>Chinzei Keiai School</title></circle></a><a href="/variants/s8/o3g1lb6k1g6o4k1lo1~x4/"><circle cx="97.7" cy="207.5" r="4" fill="#3465a4"><title>Orkney District Tartan</title></circle></a><a href="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/"><circle cx="113.4" cy="189.7" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/"><circle cx="113.9" cy="187.9" r="4" fill="#3465a4"><title>Bisset</title></circle></a><circle cx="149.3" cy="190.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2o30g4w2g14dr13y2~x2/"><circle cx="235.0" cy="149.8" r="4" fill="#3465a4"><title>Red Rum</title></circle></a><a href="/variants/s8/dg9w2dg9k2ly14lyi4w2r2~x4~ly2503076-lyi2705081/"><circle cx="127.6" cy="180.3" r="4" fill="#3465a4"><title>MacShane (Clan)</title></circle></a><a href="/variants/s9/k1lr1g5dp1g2dy5lr1y3lr1~x4/"><circle cx="96.0" cy="205.0" r="4" fill="#3465a4"><title>Corcoran of Sherbrooke (Personal)</title></circle></a><a href="/variants/s9/lyi5g23t21ly30k10ly4g4ly16w3~x2~lyi2705081-ly2503076/"><circle cx="176.4" cy="187.9" r="4" fill="#3465a4"><title>State Seal of Kansas (Fashion)</title></circle></a><a href="/variants/s8/o5g2o2g26k9lr9lb13w5~x2~lr2800000-lb3203246/"><circle cx="112.1" cy="154.0" r="4" fill="#3465a4"><title>Alexander of Menstry Htg (Personal)</title></circle></a><a href="/variants/s7/r1g4w1g4y1dr8lb1~x6/"><circle cx="188.4" cy="191.5" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/variants/s9/dr3o3dt16k2dt2g16dr3g2w2~x2/"><circle cx="157.6" cy="164.0" r="4" fill="#3465a4"><title>Chinzei Keiai School</title></circle></a><a href="/variants/s8/o3g1lb6k1g6o4k1lo1~x4/"><circle cx="97.8" cy="208.1" r="4" fill="#3465a4"><title>Orkney District Tartan</title></circle></a><a href="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/"><circle cx="113.5" cy="190.2" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/variants/s9/r9g18k6g6k3ly3g6db8w3~x2/"><circle cx="113.9" cy="188.4" r="4" fill="#3465a4"><title>Bisset</title></circle></a><circle cx="149.4" cy="191.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g9lb2g9k2dy14ly4lb2r2~x4~dy1603076-ly3307090/

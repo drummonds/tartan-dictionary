@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Centrica Energy"
   url: "/tartans/centrica-energy/"
+- name: "Centrica Energy"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w12db79lo6db53lb4db22dp10db24g8/)
 (the same proportion at any scale), whose colour order is pattern [GBBBWBYBW](/stripes/gbbbwbybw/).
@@ -14,7 +16,7 @@ Part of the [Centrica Energy](/tartans/centrica-energy/) tartan — the named de
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10196
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10196](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10196)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w12db79lo6db53lb4db22lp10db24g8/"><circle cx="475.9" cy="140.6" r="4" fill="#3465a4"><title>Centrica Energy (Corporate)</title></circle></a><a href="/variants/s10/db32lo4dbi12db2dbi4db2dbi2n16db67lo6~db0705267-dbi1404245/"><circle cx="501.3" cy="147.1" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><a href="/variants/s8/db14o3db14dy6db14w4db14y3~x2/"><circle cx="391.0" cy="244.9" r="4" fill="#3465a4"><title>Columba of Iona (School)</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="417.0" cy="153.2" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2~x2/"><circle cx="481.2" cy="97.2" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Centre</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2/"><circle cx="481.2" cy="97.2" r="4" fill="#3465a4"><title>Scotch Whisky, Heritage</title></circle></a><a href="/variants/s10/g8db13w1db40r5db40w1db13g8k4~x2/"><circle cx="487.8" cy="101.3" r="4" fill="#3465a4"><title>London Scottish Rugby Club Corporate Sport Tartan</title></circle></a><a href="/variants/s9/db48w2db7w2db7w2db20lb11r2~x2/"><circle cx="505.7" cy="128.8" r="4" fill="#3465a4"><title>RAAF #4</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.3" cy="63.7" r="4" fill="#3465a4"><title>Stratford (Ontario), City of</title></circle></a><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="431.7" cy="139.3" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><circle cx="487.1" cy="143.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w12db79lo6db53lb4db22lp10db24g8/"><circle cx="475.9" cy="140.8" r="4" fill="#3465a4"><title>Centrica Energy (Corporate)</title></circle></a><a href="/variants/s10/db32lo4dbi12db2dbi4db2dbi2n16db67lo6~db0705267-dbi1404245/"><circle cx="501.3" cy="147.2" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><a href="/variants/s8/db14o3db14dy6db14w4db14y3~x2/"><circle cx="391.2" cy="245.5" r="4" fill="#3465a4"><title>Columba of Iona (School)</title></circle></a><a href="/variants/s8/r5db20r3db20w6db3lb2db1~x2/"><circle cx="417.0" cy="153.6" r="4" fill="#3465a4"><title>Masai Shuka 29 (Artefact)</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2~x2/"><circle cx="481.1" cy="97.3" r="4" fill="#3465a4"><title>Scotch Whisky Heritage Centre</title></circle></a><a href="/variants/s8/db73g16db10r8db10k4db10w2/"><circle cx="481.1" cy="97.3" r="4" fill="#3465a4"><title>Scotch Whisky, Heritage</title></circle></a><a href="/variants/s10/g8db13w1db40r5db40w1db13g8k4~x2/"><circle cx="487.7" cy="101.4" r="4" fill="#3465a4"><title>London Scottish Rugby Club Corporate Sport Tartan</title></circle></a><a href="/variants/s9/db48w2db7w2db7w2db20lb11r2~x2/"><circle cx="505.7" cy="129.0" r="4" fill="#3465a4"><title>RAAF #4</title></circle></a><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.1" cy="63.7" r="4" fill="#3465a4"><title>Stratford (Ontario), City of</title></circle></a><a href="/variants/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="431.6" cy="139.6" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><circle cx="487.0" cy="143.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/w12db79lo6db53lb4db22dp10db24g8/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacNaughton"
   url: "/tartans/macnaughton/"
+- name: "MacNaughton"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb2k2r27g27k12lb12r27k2lb2/)
 (the same proportion at any scale), whose colour order is pattern [WKRGKWRKW](/stripes/wkrgkwrkw/).
@@ -14,7 +16,7 @@ Part of the [MacNaughton](/tartans/macnaughton/) tartan — the named design gro
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2674
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2674](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2674)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="200.0" cy="160.8" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><circle cx="177.1" cy="170.6" r="4" fill="#3465a4"><title>Graham Red</title></circle></a><a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2~x2/"><circle cx="145.2" cy="187.7" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2/"><circle cx="145.2" cy="187.7" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s9/k1lb1r16g16k12lb8r16lb1k1~x2/"><circle cx="184.2" cy="148.4" r="4" fill="#3465a4"><title>MacNaughten</title></circle></a><a href="/variants/s9/k1db1r16g16k12db8r16db1k1~x2/"><circle cx="188.5" cy="149.0" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s6/k6r2g17r16k1lb2~x2/"><circle cx="210.5" cy="163.1" r="4" fill="#3465a4"><title>Unidentified #15</title></circle></a><a href="/variants/s9/k1w1r16g16k12w8r16w1k1~x2/"><circle cx="176.4" cy="146.3" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.0" cy="183.1" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s7/k2r12db6r3g12r4db1~x2/"><circle cx="224.9" cy="186.9" r="4" fill="#3465a4"><title>MacBean/MacElvain</title></circle></a><circle cx="206.9" cy="154.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db1k1r12g12k6db5r12k1db1~x2/"><circle cx="200.1" cy="161.2" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s9/lb1k1r10g10k5lb5r10k1lb1~x4/"><circle cx="177.2" cy="171.2" r="4" fill="#3465a4"><title>Graham Red</title></circle></a><a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2~x2/"><circle cx="145.2" cy="188.3" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2/"><circle cx="145.2" cy="188.3" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s9/k1lb1r16g16k12lb8r16lb1k1~x2/"><circle cx="184.2" cy="148.9" r="4" fill="#3465a4"><title>MacNaughten</title></circle></a><a href="/variants/s9/k1db1r16g16k12db8r16db1k1~x2/"><circle cx="188.5" cy="149.5" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s6/k6r2g17r16k1lb2~x2/"><circle cx="210.5" cy="163.6" r="4" fill="#3465a4"><title>Unidentified #15</title></circle></a><a href="/variants/s9/k1w1r16g16k12w8r16w1k1~x2/"><circle cx="176.4" cy="146.8" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.1" cy="183.7" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s7/k2r12db6r3g12r4db1~x2/"><circle cx="224.9" cy="187.4" r="4" fill="#3465a4"><title>MacBean/MacElvain</title></circle></a><circle cx="206.9" cy="154.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/lb2k2r27g27k12lb12r27k2lb2~x2/

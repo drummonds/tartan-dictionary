@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/cameron/"
 - name: "Cameron Hunting"
   url: "/tartans/cameron-hunting/"
+- name: "Cameron, hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o15r5o30db32o4y3/)
 (the same proportion at any scale), whose colour order is pattern [GRBRRR](/stripes/grbrrr/).
@@ -16,7 +18,7 @@ Part of the [Cameron Hunting](/tartans/cameron-hunting/) tartan — the named de
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/do15r5do30db32do4lo3~x2/"><circle cx="388.4" cy="235.6" r="4" fill="#3465a4"><title>Cameron Hunting (Clan)</title></circle></a><a href="/variants/s6/db18y2o6y2o19r3~x2/"><circle cx="312.6" cy="216.9" r="4" fill="#3465a4"><title>Balfour blue &amp; brown</title></circle></a><a href="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/"><circle cx="318.5" cy="193.7" r="4" fill="#3465a4"><title>Dege, of Saville Row</title></circle></a><a href="/variants/s7/r10b44o5dg40o62r5o10/"><circle cx="285.4" cy="211.9" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/variants/s5/db16o2db16o19r4~x3/"><circle cx="341.7" cy="257.6" r="4" fill="#3465a4"><title>Unidentified 17</title></circle></a><a href="/variants/s6/r2t13dr3t3dr16lb2~x4/"><circle cx="304.1" cy="225.2" r="4" fill="#3465a4"><title>MacArthur-Fox Blue (Personal)</title></circle></a><a href="/variants/s6/dg7w1dg18db6r18dg2~x2/"><circle cx="316.8" cy="193.9" r="4" fill="#3465a4"><title>Finlaggan</title></circle></a><a href="/variants/s6/dy15r5dy30t32dy4lo3~x2/"><circle cx="342.8" cy="223.3" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s9/y20db27r6db15y8db11y78dbi10r12~db1204274-dbi1406275/"><circle cx="357.7" cy="183.3" r="4" fill="#3465a4"><title>Braken Tartan</title></circle></a><a href="/variants/s6/db2o28g13o2db13o2~x4/"><circle cx="358.9" cy="216.6" r="4" fill="#3465a4"><title>Edinchat</title></circle></a><circle cx="339.6" cy="214.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/do15r5do30db32do4lo3~x2/"><circle cx="388.5" cy="235.9" r="4" fill="#3465a4"><title>Cameron Hunting (Clan)</title></circle></a><a href="/variants/s6/db18y2o6y2o19r3~x2/"><circle cx="312.7" cy="217.4" r="4" fill="#3465a4"><title>Balfour blue &amp; brown</title></circle></a><a href="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/"><circle cx="318.5" cy="194.2" r="4" fill="#3465a4"><title>Dege, of Saville Row</title></circle></a><a href="/variants/s7/r10b44o5dg40o62r5o10/"><circle cx="285.5" cy="212.3" r="4" fill="#3465a4"><title>Ballintrae</title></circle></a><a href="/variants/s5/db16o2db16o19r4~x3/"><circle cx="341.9" cy="258.2" r="4" fill="#3465a4"><title>Unidentified 17</title></circle></a><a href="/variants/s6/r2t13dr3t3dr16lb2~x4/"><circle cx="304.2" cy="225.7" r="4" fill="#3465a4"><title>MacArthur-Fox Blue (Personal)</title></circle></a><a href="/variants/s6/dg7w1dg18db6r18dg2~x2/"><circle cx="316.8" cy="194.3" r="4" fill="#3465a4"><title>Finlaggan</title></circle></a><a href="/variants/s6/dy15r5dy30t32dy4lo3~x2/"><circle cx="342.9" cy="223.8" r="4" fill="#3465a4"><title>Cameron Hunting</title></circle></a><a href="/variants/s9/y20db27r6db15y8db11y78dbi10r12~db1204274-dbi1406275/"><circle cx="357.8" cy="183.6" r="4" fill="#3465a4"><title>Braken Tartan</title></circle></a><a href="/variants/s6/db2o28g13o2db13o2~x4/"><circle cx="359.0" cy="217.1" r="4" fill="#3465a4"><title>Edinchat</title></circle></a><circle cx="339.7" cy="215.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/o15r5o30db32o4y3~x2/

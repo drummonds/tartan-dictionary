@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Venters (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dbi15db55w1dp5r2ly1/)
 (the same proportion at any scale), whose colour order is pattern [BBWBRY](/stripes/bbwbry/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10349
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10349](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10349)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dt15db55w1dp5r2y1~x2/"><circle cx="560.6" cy="128.2" r="4" fill="#3465a4"><title>Venters (Edinburgh)</title></circle></a><a href="/variants/s6/db52k12dp18dy1dp1dy4~x2/"><circle cx="477.3" cy="148.8" r="4" fill="#3465a4"><title>British Energy</title></circle></a><a href="/variants/s6/dp10y3dp8db42g5n5~x2/"><circle cx="438.3" cy="214.0" r="4" fill="#3465a4"><title>Cheadle (Personal)</title></circle></a><a href="/variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/"><circle cx="505.4" cy="132.6" r="4" fill="#3465a4"><title>Michie Dress, Andrew</title></circle></a><a href="/variants/s6/t52y23g6dg5w1r1~x2~g2408144-dg1806142/"><circle cx="497.1" cy="155.6" r="4" fill="#3465a4"><title>College of New Caledonia (Corporate)</title></circle></a><a href="/variants/s4/w4n28t48y3~x2~t2503227/"><circle cx="531.4" cy="281.2" r="4" fill="#3465a4"><title>MacKerrell of Hillhouse Dress Personal Tartan</title></circle></a><a href="/variants/s6/dbi55db18w3db2r2db6~x2~dbi1406275-db1204274/"><circle cx="560.7" cy="193.4" r="4" fill="#3465a4"><title>S.C.O.T.S. U.S.A. Tartan</title></circle></a><circle cx="599.2" cy="146.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dt15db55w1dp5r2y1~x2/"><circle cx="560.5" cy="128.0" r="4" fill="#3465a4"><title>Venters (Edinburgh)</title></circle></a><a href="/variants/s6/db52k12dp18dy1dp1dy4~x2/"><circle cx="477.3" cy="148.7" r="4" fill="#3465a4"><title>British Energy</title></circle></a><a href="/variants/s6/dp10y3dp8db42g5n5~x2/"><circle cx="438.4" cy="214.1" r="4" fill="#3465a4"><title>Cheadle (Personal)</title></circle></a><a href="/variants/s5/dp62g5dg20db5k1~x2~g2407139-dg1504144/"><circle cx="505.4" cy="132.5" r="4" fill="#3465a4"><title>Michie Dress, Andrew</title></circle></a><a href="/variants/s6/t52y23g6dg5w1r1~x2~g2408144-dg1806142/"><circle cx="497.1" cy="155.4" r="4" fill="#3465a4"><title>College of New Caledonia (Corporate)</title></circle></a><a href="/variants/s4/w4n28t48y3~x2~t2503227/"><circle cx="531.6" cy="281.4" r="4" fill="#3465a4"><title>MacKerrell of Hillhouse Dress Personal Tartan</title></circle></a><a href="/variants/s6/dbi55db18w3db2r2db6~x2~dbi1406275-db1204274/"><circle cx="560.7" cy="193.3" r="4" fill="#3465a4"><title>S.C.O.T.S. U.S.A. Tartan</title></circle></a><circle cx="599.2" cy="146.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dbi15db55w1dp5r2ly1~x2~dbi1406275-db1404245/

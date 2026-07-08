@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glasgow"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g25b4db24b21g25b3db4/)
 (the same proportion at any scale), whose colour order is pattern [BBGBBBG](/stripes/bbgbbbg/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/"><circle cx="282.3" cy="203.0" r="4" fill="#3465a4"><title>Miller</title></circle></a><a href="/variants/s8/g19w1db12b2db2b2db2b16~x2/"><circle cx="284.4" cy="201.6" r="4" fill="#3465a4"><title>Unnamed, No 52</title></circle></a><a href="/variants/s6/db1g10db9t10db1t1~x4/"><circle cx="293.2" cy="272.6" r="4" fill="#3465a4"><title>Black Watch (Aljean)</title></circle></a><a href="/variants/s7/g10db2g2db6lb5db1lb2~x2/"><circle cx="261.4" cy="251.1" r="4" fill="#3465a4"><title>Unidentified No 17</title></circle></a><a href="/variants/s6/db2g6db6b5db1b2~x2/"><circle cx="272.6" cy="309.5" r="4" fill="#3465a4"><title>Unnamed, No 54</title></circle></a><a href="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/"><circle cx="293.8" cy="250.4" r="4" fill="#3465a4"><title>Norwich No.017</title></circle></a><a href="/variants/s6/db3g11lb2db11b6g3~x2/"><circle cx="226.1" cy="285.9" r="4" fill="#3465a4"><title>Unnamed, No 29</title></circle></a><a href="/variants/s5/db8g2db8g15lb2~x4/"><circle cx="319.9" cy="283.2" r="4" fill="#3465a4"><title>Hamilton Green Hunting</title></circle></a><a href="/variants/s6/db3g11t2db11ti6g3~x2~t2304245-ti2607245/"><circle cx="225.7" cy="287.2" r="4" fill="#3465a4"><title>Unidentified No 29</title></circle></a><a href="/variants/s8/db29t12g29w2g29t12db29t2~x2~t2405244/"><circle cx="264.6" cy="239.0" r="4" fill="#3465a4"><title>Wallace Blue</title></circle></a><circle cx="306.1" cy="279.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/"><circle cx="282.3" cy="203.3" r="4" fill="#3465a4"><title>Miller</title></circle></a><a href="/variants/s8/g19w1db12b2db2b2db2b16~x2/"><circle cx="284.4" cy="201.9" r="4" fill="#3465a4"><title>Unnamed, No 52</title></circle></a><a href="/variants/s6/db1g10db9t10db1t1~x4/"><circle cx="293.3" cy="273.1" r="4" fill="#3465a4"><title>Black Watch (Aljean)</title></circle></a><a href="/variants/s7/g10db2g2db6lb5db1lb2~x2/"><circle cx="261.6" cy="251.7" r="4" fill="#3465a4"><title>Unidentified No 17</title></circle></a><a href="/variants/s6/db2g6db6b5db1b2~x2/"><circle cx="272.8" cy="310.1" r="4" fill="#3465a4"><title>Unnamed, No 54</title></circle></a><a href="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/"><circle cx="293.9" cy="250.8" r="4" fill="#3465a4"><title>Norwich No.017</title></circle></a><a href="/variants/s6/db3g11lb2db11b6g3~x2/"><circle cx="226.3" cy="286.5" r="4" fill="#3465a4"><title>Unnamed, No 29</title></circle></a><a href="/variants/s5/db8g2db8g15lb2~x4/"><circle cx="320.1" cy="283.8" r="4" fill="#3465a4"><title>Hamilton Green Hunting</title></circle></a><a href="/variants/s6/db3g11t2db11ti6g3~x2~t2304245-ti2607245/"><circle cx="225.9" cy="287.9" r="4" fill="#3465a4"><title>Unidentified No 29</title></circle></a><a href="/variants/s8/db29t12g29w2g29t12db29t2~x2~t2405244/"><circle cx="264.7" cy="239.4" r="4" fill="#3465a4"><title>Wallace Blue</title></circle></a><circle cx="306.2" cy="279.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g25b4db24b21g25b3db4~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Oliver Hunting"
   url: "/tartans/oliver-hunting/"
+- name: "Oliver Hunting - 1973 (Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t62g5t3g22k3g3y3g3k6/)
 (the same proportion at any scale), whose colour order is pattern [BGBGKGGGK](/stripes/bgbgkgggk/).
@@ -14,7 +16,7 @@ Part of the [Oliver Hunting](/tartans/oliver-hunting/) tartan — the named desi
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=126
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=126](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=126)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db40g3db2g12k2g2y2g2k3~x2/"><circle cx="372.4" cy="117.2" r="4" fill="#3465a4"><title>Oliver, hunting</title></circle></a><a href="/variants/s10/r2g6dy2g3t4g14t36k2t3w2~x2/"><circle cx="361.9" cy="128.8" r="4" fill="#3465a4"><title>Sarasota - Dunfermline (Commemorat)</title></circle></a><a href="/variants/s7/db26g4db3g3y2g24r2~x2/"><circle cx="321.0" cy="189.0" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/"><circle cx="319.8" cy="180.8" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="349.9" cy="195.5" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s8/y3g2k1g30t24k2t2k2~x2/"><circle cx="350.4" cy="143.7" r="4" fill="#3465a4"><title>Johnston (Clan)</title></circle></a><a href="/variants/s8/y3g2k1g30t24k2t2k2~x2~t2105244/"><circle cx="347.0" cy="122.3" r="4" fill="#3465a4"><title>Johnston/Johnstone</title></circle></a><a href="/variants/s8/k1t1k1t12g12k1g1ly1~x4~t2105244/"><circle cx="266.9" cy="167.1" r="4" fill="#3465a4"><title>Banff Centennial</title></circle></a><a href="/variants/s8/dy4g3r2g36t30k3t3k3~x2/"><circle cx="290.5" cy="148.5" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/variants/s8/db2g2k1g30db20r2db2r2~x2/"><circle cx="336.4" cy="121.0" r="4" fill="#3465a4"><title>Gretna Green Fashion Tartan</title></circle></a><circle cx="385.0" cy="137.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db40g3db2g12k2g2y2g2k3~x2/"><circle cx="372.3" cy="117.4" r="4" fill="#3465a4"><title>Oliver, hunting</title></circle></a><a href="/variants/s10/r2g6dy2g3t4g14t36k2t3w2~x2/"><circle cx="361.9" cy="128.8" r="4" fill="#3465a4"><title>Sarasota - Dunfermline (Commemorat)</title></circle></a><a href="/variants/s7/db26g4db3g3y2g24r2~x2/"><circle cx="321.0" cy="189.4" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s9/g13k2g34k6t16r2t16k2g13~x2/"><circle cx="319.8" cy="181.2" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><a href="/variants/s7/db16g4db3g3y2g24r2~x2/"><circle cx="349.9" cy="195.9" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/variants/s8/y3g2k1g30t24k2t2k2~x2/"><circle cx="350.3" cy="143.8" r="4" fill="#3465a4"><title>Johnston (Clan)</title></circle></a><a href="/variants/s8/y3g2k1g30t24k2t2k2~x2~t2105244/"><circle cx="347.0" cy="122.4" r="4" fill="#3465a4"><title>Johnston/Johnstone</title></circle></a><a href="/variants/s8/k1t1k1t12g12k1g1ly1~x4~t2105244/"><circle cx="266.9" cy="167.4" r="4" fill="#3465a4"><title>Banff Centennial</title></circle></a><a href="/variants/s8/dy4g3r2g36t30k3t3k3~x2/"><circle cx="290.5" cy="148.7" r="4" fill="#3465a4"><title>Chartered Accountants of Scotland</title></circle></a><a href="/variants/s8/db2g2k1g30db20r2db2r2~x2/"><circle cx="336.3" cy="121.2" r="4" fill="#3465a4"><title>Gretna Green Fashion Tartan</title></circle></a><circle cx="385.0" cy="137.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/t62g5t3g22k3g3y3g3k6~x2/

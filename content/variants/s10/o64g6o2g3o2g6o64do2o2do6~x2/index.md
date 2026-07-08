@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Connacht (1993)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o64g6o2g3o2g6o64do2o2do6/)
 (the same proportion at any scale), whose colour order is pattern [BRBRGRGRGR](/stripes/brbrgrgrgr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=739
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=739](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=739)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>

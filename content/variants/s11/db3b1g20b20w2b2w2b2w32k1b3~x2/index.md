@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lorne Dress (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3b1g20b20w2b2w2b2w32k1b3/)
 (the same proportion at any scale), whose colour order is pattern [BBGBWBWBWKB](/stripes/bbgbwbwbwkb/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2219
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2219](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2219)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k2db2w2db3w38g2b12g3db4g30db2g6w2~x2/"><circle cx="184.4" cy="101.5" r="4" fill="#3465a4"><title>Crieff Turquoise (Dance)</title></circle></a><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/"><circle cx="194.9" cy="111.5" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><a href="/variants/s11/k3db1g19db19w2db2w2db2w27k1db3~x2/"><circle cx="190.9" cy="108.1" r="4" fill="#3465a4"><title>Lorne Dress (Dance) Fashion Tartan</title></circle></a><a href="/variants/s10/w4g3w19g8k1dr4k1b18k1lo2~x2/"><circle cx="135.8" cy="109.7" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><a href="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/"><circle cx="214.2" cy="97.6" r="4" fill="#3465a4"><title>Glenmore Pink</title></circle></a><a href="/variants/s12/k3w2k1w40lb17dp5y3w2dp9lb1dp2lb3~x2/"><circle cx="259.3" cy="64.6" r="4" fill="#3465a4"><title>Allandale Blue Dress Tartan</title></circle></a><a href="/variants/s10/lb49k1lbi33dg8k11g4dg19dy2lbi12lb4~x2~lb3200000-lbi3203246-dg1806142-g2408144/"><circle cx="180.4" cy="85.2" r="4" fill="#3465a4"><title>State Seal of Alaska (Fashion)</title></circle></a><a href="/variants/s10/w8g6w44db10lb6k3lb4k3lb34w4/"><circle cx="219.8" cy="135.7" r="4" fill="#3465a4"><title>Elsa Dance</title></circle></a><a href="/variants/s11/lb63dp21w16dp2w4dp4w12lo6w16dp4k21~x2/"><circle cx="162.3" cy="95.7" r="4" fill="#3465a4"><title>Xain (Personal)</title></circle></a><a href="/variants/s10/w50k1dp14g14w2dp2w2k4y2db30~x2/"><circle cx="192.3" cy="53.8" r="4" fill="#3465a4"><title>MacBeth Dress (Dance)</title></circle></a><circle cx="216.4" cy="93.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k2db2w2db3w38g2b12g3db4g30db2g6w2~x2/"><circle cx="184.3" cy="101.7" r="4" fill="#3465a4"><title>Crieff Turquoise (Dance)</title></circle></a><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/"><circle cx="194.9" cy="111.8" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><a href="/variants/s11/k3db1g19db19w2db2w2db2w27k1db3~x2/"><circle cx="190.9" cy="108.4" r="4" fill="#3465a4"><title>Lorne Dress (Dance) Fashion Tartan</title></circle></a><a href="/variants/s10/w4g3w19g8k1dr4k1b18k1lo2~x2/"><circle cx="135.7" cy="110.0" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><a href="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/"><circle cx="214.1" cy="97.9" r="4" fill="#3465a4"><title>Glenmore Pink</title></circle></a><a href="/variants/s12/k3w2k1w40lb17dp5y3w2dp9lb1dp2lb3~x2/"><circle cx="259.2" cy="64.8" r="4" fill="#3465a4"><title>Allandale Blue Dress Tartan</title></circle></a><a href="/variants/s10/lb49k1lbi33dg8k11g4dg19dy2lbi12lb4~x2~lb3200000-lbi3203246-dg1806142-g2408144/"><circle cx="180.3" cy="85.3" r="4" fill="#3465a4"><title>State Seal of Alaska (Fashion)</title></circle></a><a href="/variants/s10/w8g6w44db10lb6k3lb4k3lb34w4/"><circle cx="219.8" cy="136.0" r="4" fill="#3465a4"><title>Elsa Dance</title></circle></a><a href="/variants/s11/lb63dp21w16dp2w4dp4w12lo6w16dp4k21~x2/"><circle cx="162.2" cy="95.9" r="4" fill="#3465a4"><title>Xain (Personal)</title></circle></a><a href="/variants/s10/w50k1dp14g14w2dp2w2k4y2db30~x2/"><circle cx="192.2" cy="53.9" r="4" fill="#3465a4"><title>MacBeth Dress (Dance)</title></circle></a><circle cx="216.3" cy="93.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db3b1g20b20w2b2w2b2w32k1b3~x2/

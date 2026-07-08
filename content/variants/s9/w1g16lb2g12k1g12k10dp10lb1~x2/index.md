@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Faskin Family (Aberdeenshire)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w1g16lb2g12k1g12k10dp10lb1/)
 (the same proportion at any scale), whose colour order is pattern [WBKGKGWGW](/stripes/wbkgkgwgw/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10571
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10571](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10571)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb13t2dg38k13dg8k8dg17k2dg17k4w11~dg1806142-w3600000/"><circle cx="248.2" cy="136.0" r="4" fill="#3465a4"><title>Bute Heather, Glencallum (Fashion)</title></circle></a><a href="/variants/s7/k5g2k5g2db8g25w4~x2/"><circle cx="252.9" cy="164.7" r="4" fill="#3465a4"><title>Keppoch</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x2/"><circle cx="268.4" cy="135.9" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x4/"><circle cx="268.4" cy="135.9" r="4" fill="#3465a4"><title>MacKendrick (Clan)</title></circle></a><a href="/variants/s9/dy1k6g4k1g16db1g4db6w1~x4/"><circle cx="268.4" cy="135.8" r="4" fill="#3465a4"><title>Henderson/MacKendrick</title></circle></a><a href="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="266.8" cy="135.5" r="4" fill="#3465a4"><title>Ronald, Clan (Clan)</title></circle></a><a href="/variants/s8/g13dp1g1dp1g3db5k4y2~x2/"><circle cx="253.1" cy="154.3" r="4" fill="#3465a4"><title>Carrick, hunting</title></circle></a><a href="/variants/s8/g5k15g5k15g19r2g13lb4~x2/"><circle cx="218.3" cy="203.6" r="4" fill="#3465a4"><title>Strath Hallidale (Fashion)</title></circle></a><a href="/variants/s6/g15y2k30g32r3w2~x2/"><circle cx="255.4" cy="154.6" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/variants/s9/g13k3g34k6db16r2db16k3g13~x2/"><circle cx="276.9" cy="168.3" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><circle cx="260.1" cy="153.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb13t2dg38k13dg8k8dg17k2dg17k4w11~dg1806142-w3600000/"><circle cx="248.2" cy="136.3" r="4" fill="#3465a4"><title>Bute Heather, Glencallum (Fashion)</title></circle></a><a href="/variants/s7/k5g2k5g2db8g25w4~x2/"><circle cx="252.9" cy="165.2" r="4" fill="#3465a4"><title>Keppoch</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x2/"><circle cx="268.3" cy="136.2" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x4/"><circle cx="268.3" cy="136.2" r="4" fill="#3465a4"><title>MacKendrick (Clan)</title></circle></a><a href="/variants/s9/dy1k6g4k1g16db1g4db6w1~x4/"><circle cx="268.4" cy="136.1" r="4" fill="#3465a4"><title>Henderson/MacKendrick</title></circle></a><a href="/variants/s11/db2r1g10r1k6g12r2g1r1g3w2~x4/"><circle cx="266.8" cy="135.8" r="4" fill="#3465a4"><title>Ronald, Clan (Clan)</title></circle></a><a href="/variants/s8/g13dp1g1dp1g3db5k4y2~x2/"><circle cx="253.0" cy="154.7" r="4" fill="#3465a4"><title>Carrick, hunting</title></circle></a><a href="/variants/s8/g5k15g5k15g19r2g13lb4~x2/"><circle cx="218.3" cy="204.2" r="4" fill="#3465a4"><title>Strath Hallidale (Fashion)</title></circle></a><a href="/variants/s6/g15y2k30g32r3w2~x2/"><circle cx="255.4" cy="155.0" r="4" fill="#3465a4"><title>Merwe</title></circle></a><a href="/variants/s9/g13k3g34k6db16r2db16k3g13~x2/"><circle cx="276.9" cy="168.7" r="4" fill="#3465a4"><title>Lockhart</title></circle></a><circle cx="260.1" cy="154.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/w1g16lb2g12k1g12k10dp10lb1~x2/

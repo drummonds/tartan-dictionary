@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bush (Artefact)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb12k8lb12w1ly2w1ly8w1ly2w1ly8w1ly2w1ly8/)
 (the same proportion at any scale), whose colour order is pattern [WKWWYWYWYWYWYWY](/stripes/wkwwywywywywywy/).
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8252
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8252](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8252)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/"><circle cx="183.1" cy="171.3" r="4" fill="#3465a4"><title>Raibert, Check</title></circle></a><a href="/variants/s18/lb3w8ly2w2ly2w2ly8k2ly2k2ly2k8w2lb22w2lb2ly2lb3~x2/"><circle cx="151.7" cy="128.1" r="4" fill="#3465a4"><title>Wcwm 1586</title></circle></a><a href="/variants/s8/k4lb2w11lb5n5w2k1lb2~x2/"><circle cx="170.2" cy="169.6" r="4" fill="#3465a4"><title>Conquergood</title></circle></a><a href="/variants/s7/t33lo6dr3lo6k3lo15t32~x4/"><circle cx="264.5" cy="165.4" r="4" fill="#3465a4"><title>Carlisle (Family)</title></circle></a><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10y23w2y4~x2/"><circle cx="170.4" cy="144.3" r="4" fill="#3465a4"><title>Oliphant Dress</title></circle></a><a href="/variants/s14/r6g4y4g25r4g6r4g6w34g4w4k4r4w6/"><circle cx="145.6" cy="137.6" r="4" fill="#3465a4"><title>Hay, White Dress</title></circle></a><a href="/variants/s16/y5g16db8g4db4g4lr38g4lr38g4db4g4db8g16y5r3~x2/"><circle cx="228.3" cy="135.4" r="4" fill="#3465a4"><title>Nova Scotia Dress #2</title></circle></a><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><circle cx="236.1" cy="157.9" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/variants/s13/w25lb2w2lb2w2lb10k2lb4k2lb10g23w2g4~x2/"><circle cx="180.1" cy="152.5" r="4" fill="#3465a4"><title>Oliphant Dress (Clan)</title></circle></a><a href="/variants/s15/w3g2r8w14t3r3g20r3t20r3t3w14r8g2w3~x2/"><circle cx="144.9" cy="178.5" r="4" fill="#3465a4"><title>Robertson dress Hunting</title></circle></a><circle cx="196.8" cy="155.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/"><circle cx="183.1" cy="171.7" r="4" fill="#3465a4"><title>Raibert, Check</title></circle></a><a href="/variants/s18/lb3w8ly2w2ly2w2ly8k2ly2k2ly2k8w2lb22w2lb2ly2lb3~x2/"><circle cx="151.7" cy="128.5" r="4" fill="#3465a4"><title>Wcwm 1586</title></circle></a><a href="/variants/s8/k4lb2w11lb5n5w2k1lb2~x2/"><circle cx="170.3" cy="170.2" r="4" fill="#3465a4"><title>Conquergood</title></circle></a><a href="/variants/s7/t33lo6dr3lo6k3lo15t32~x4/"><circle cx="264.5" cy="165.9" r="4" fill="#3465a4"><title>Carlisle (Family)</title></circle></a><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10y23w2y4~x2/"><circle cx="170.4" cy="144.7" r="4" fill="#3465a4"><title>Oliphant Dress</title></circle></a><a href="/variants/s14/r6g4y4g25r4g6r4g6w34g4w4k4r4w6/"><circle cx="145.6" cy="138.0" r="4" fill="#3465a4"><title>Hay, White Dress</title></circle></a><a href="/variants/s16/y5g16db8g4db4g4lr38g4lr38g4db4g4db8g16y5r3~x2/"><circle cx="228.3" cy="135.7" r="4" fill="#3465a4"><title>Nova Scotia Dress #2</title></circle></a><a href="/variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/"><circle cx="236.1" cy="158.3" r="4" fill="#3465a4"><title>Liama, The</title></circle></a><a href="/variants/s13/w25lb2w2lb2w2lb10k2lb4k2lb10g23w2g4~x2/"><circle cx="180.1" cy="152.9" r="4" fill="#3465a4"><title>Oliphant Dress (Clan)</title></circle></a><a href="/variants/s15/w3g2r8w14t3r3g20r3t20r3t3w14r8g2w3~x2/"><circle cx="145.0" cy="179.0" r="4" fill="#3465a4"><title>Robertson dress Hunting</title></circle></a><circle cx="196.9" cy="156.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/lb12k8lb12w1ly2w1ly8w1ly2w1ly8w1ly2w1ly8/

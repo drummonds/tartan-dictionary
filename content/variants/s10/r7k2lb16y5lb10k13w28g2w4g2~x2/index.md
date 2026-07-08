@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gillies, Blue dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r7k2lb16y5lb10k13w28g2w4g2/)
 (the same proportion at any scale), whose colour order is pattern [GWGWKWGWKR](/stripes/gwgwkwgwkr/).
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r7k2lb16ly5lb10k13w28g2w4g4~x2/"><circle cx="84.1" cy="129.2" r="4" fill="#3465a4"><title>Gillies Dress, Blue #1 (Dance)</title></circle></a><a href="/variants/s10/r7k2lb16ly5lb10k13w28dg2w4dg4~x2/"><circle cx="82.8" cy="128.0" r="4" fill="#3465a4"><title>Gillies Dress Blue #1 (Dance)</title></circle></a><a href="/variants/s10/y6k2lb15r5lb9k13w25db2w3db2~x2/"><circle cx="81.5" cy="132.5" r="4" fill="#3465a4"><title>Gillies, dress Blue</title></circle></a><a href="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/"><circle cx="122.5" cy="128.0" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/variants/s9/w37k4db12g12w2lr2r23w4r6~x2~lr2805035-r1506019/"><circle cx="148.8" cy="113.4" r="4" fill="#3465a4"><title>Hebridean Arisaid, Red/White (Dance)</title></circle></a><a href="/variants/s14/r5w23db5w5k7y3k3w2k3g16r8g3r6w3~x2/"><circle cx="71.4" cy="120.8" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><a href="/variants/s13/lb2w1lb12dt6k3w1g1w1g4w2k1w1r1~x4~lb3402028-r2109032/"><circle cx="106.7" cy="111.4" r="4" fill="#3465a4"><title>Diana Pink (Commemorative)</title></circle></a><a href="/variants/s10/ly6k2r12dg4r8k10w24lb2w3lb2~x2/"><circle cx="89.7" cy="124.3" r="4" fill="#3465a4"><title>Gillies Red Dress</title></circle></a><a href="/variants/s10/w4g3w19g8k1dr4k1b18k1lo2~x2/"><circle cx="135.8" cy="109.7" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="153.9" cy="130.4" r="4" fill="#3465a4"><title>Dignan</title></circle></a><circle cx="91.7" cy="125.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r7k2lb16ly5lb10k13w28g2w4g4~x2/"><circle cx="84.1" cy="129.6" r="4" fill="#3465a4"><title>Gillies Dress, Blue #1 (Dance)</title></circle></a><a href="/variants/s10/r7k2lb16ly5lb10k13w28dg2w4dg4~x2/"><circle cx="82.8" cy="128.4" r="4" fill="#3465a4"><title>Gillies Dress Blue #1 (Dance)</title></circle></a><a href="/variants/s10/y6k2lb15r5lb9k13w25db2w3db2~x2/"><circle cx="81.5" cy="132.9" r="4" fill="#3465a4"><title>Gillies, dress Blue</title></circle></a><a href="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/"><circle cx="122.5" cy="128.4" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/variants/s9/w37k4db12g12w2lr2r23w4r6~x2~lr2805035-r1506019/"><circle cx="148.7" cy="113.8" r="4" fill="#3465a4"><title>Hebridean Arisaid, Red/White (Dance)</title></circle></a><a href="/variants/s14/r5w23db5w5k7y3k3w2k3g16r8g3r6w3~x2/"><circle cx="71.4" cy="121.2" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><a href="/variants/s13/lb2w1lb12dt6k3w1g1w1g4w2k1w1r1~x4~lb3402028-r2109032/"><circle cx="106.6" cy="111.7" r="4" fill="#3465a4"><title>Diana Pink (Commemorative)</title></circle></a><a href="/variants/s10/ly6k2r12dg4r8k10w24lb2w3lb2~x2/"><circle cx="89.7" cy="124.8" r="4" fill="#3465a4"><title>Gillies Red Dress</title></circle></a><a href="/variants/s10/w4g3w19g8k1dr4k1b18k1lo2~x2/"><circle cx="135.7" cy="110.0" r="4" fill="#3465a4"><title>Alberta Dress</title></circle></a><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="153.8" cy="130.8" r="4" fill="#3465a4"><title>Dignan</title></circle></a><circle cx="91.7" cy="125.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r7k2lb16y5lb10k13w28g2w4g2~x2/

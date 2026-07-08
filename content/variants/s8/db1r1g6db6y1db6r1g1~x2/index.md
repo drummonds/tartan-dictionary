@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacHardy"
   url: "/tartans/machardy/"
+- name: "MacHardy"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1r1g6db6y1db6r1g1/)
 (the same proportion at any scale), whose colour order is pattern [BRGBGBRG](/stripes/brgbgbrg/).
@@ -14,7 +16,7 @@ Part of the [MacHardy](/tartans/machardy/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2466
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2466](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2466)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="294.8" cy="208.1" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="339.8" cy="183.7" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s7/db13g8r5db3g2r1y1~x4/"><circle cx="273.5" cy="197.6" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><a href="/variants/s8/r5g12db4dbi4db22g18db4r5~db0805267-dbi1604274/"><circle cx="186.9" cy="232.9" r="4" fill="#3465a4"><title>Daks, Navy</title></circle></a><a href="/variants/s7/db30r5g30r22db30r5g4/"><circle cx="252.7" cy="247.3" r="4" fill="#3465a4"><title>GS Gaelic School (School)</title></circle></a><a href="/variants/s6/db3g11db3dr11db18ly3~x2/"><circle cx="267.3" cy="266.5" r="4" fill="#3465a4"><title>Harbour Town Hilton Head, The</title></circle></a><a href="/variants/s9/db2r3g11r3db2lb2db11r2g2~x2/"><circle cx="191.3" cy="218.9" r="4" fill="#3465a4"><title>Hebridean 1</title></circle></a><a href="/variants/s7/db51g5r15g37db17r6g7~x2/"><circle cx="291.8" cy="224.1" r="4" fill="#3465a4"><title>Cadence Design Systems (Corporate)</title></circle></a><a href="/variants/s6/r12db3g5db16y2g2~x2/"><circle cx="296.8" cy="204.2" r="4" fill="#3465a4"><title>Dunbog Primary School</title></circle></a><a href="/variants/s6/dr2g3db2g14db14lr2~x2/"><circle cx="288.8" cy="244.8" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower (Personal)</title></circle></a><circle cx="295.6" cy="225.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="294.9" cy="208.5" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="339.8" cy="184.1" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s7/db13g8r5db3g2r1y1~x4/"><circle cx="273.5" cy="198.0" r="4" fill="#3465a4"><title>Fibonacci7</title></circle></a><a href="/variants/s8/r5g12db4dbi4db22g18db4r5~db0805267-dbi1604274/"><circle cx="187.0" cy="233.5" r="4" fill="#3465a4"><title>Daks, Navy</title></circle></a><a href="/variants/s7/db30r5g30r22db30r5g4/"><circle cx="252.9" cy="247.9" r="4" fill="#3465a4"><title>GS Gaelic School (School)</title></circle></a><a href="/variants/s6/db3g11db3dr11db18ly3~x2/"><circle cx="267.5" cy="267.1" r="4" fill="#3465a4"><title>Harbour Town Hilton Head, The</title></circle></a><a href="/variants/s9/db2r3g11r3db2lb2db11r2g2~x2/"><circle cx="191.4" cy="219.5" r="4" fill="#3465a4"><title>Hebridean 1</title></circle></a><a href="/variants/s7/db51g5r15g37db17r6g7~x2/"><circle cx="291.9" cy="224.7" r="4" fill="#3465a4"><title>Cadence Design Systems (Corporate)</title></circle></a><a href="/variants/s6/r12db3g5db16y2g2~x2/"><circle cx="296.9" cy="204.6" r="4" fill="#3465a4"><title>Dunbog Primary School</title></circle></a><a href="/variants/s6/dr2g3db2g14db14lr2~x2/"><circle cx="288.9" cy="245.3" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower (Personal)</title></circle></a><circle cx="295.7" cy="225.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db1r1g6db6y1db6r1g1~x2/

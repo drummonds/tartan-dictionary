@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "London Fog Black (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k198lr9k17lb13lr9k4lr13k4/)
 (the same proportion at any scale), whose colour order is pattern [KYKWYKYK](/stripes/kykwykyk/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7313
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7313](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7313)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k72r3k11lb9k11r3k37/"><circle cx="562.0" cy="131.0" r="4" fill="#3465a4"><title>Chafyn House (School)</title></circle></a><a href="/variants/s8/k94r3k6r3k8r15k2y3~x2/"><circle cx="545.4" cy="70.7" r="4" fill="#3465a4"><title>Royal Army Physical Training Corps Association (Scotland)</title></circle></a><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/"><circle cx="469.0" cy="99.2" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/variants/s8/k42lb2r3k5r16k8y2k3~x2/"><circle cx="391.0" cy="104.3" r="4" fill="#3465a4"><title>Highland Brewing Company (USA)</title></circle></a><a href="/variants/s7/k4dr40k1dr3k1w3k4~x2/"><circle cx="514.2" cy="90.1" r="4" fill="#3465a4"><title>Salt Lake County</title></circle></a><a href="/variants/s8/k21r1k1y1k1r1k3w3~x6/"><circle cx="460.5" cy="87.1" r="4" fill="#3465a4"><title>Black Country (District)</title></circle></a><a href="/variants/s8/k62r3k3lo3k3r3k9n5~x2/"><circle cx="518.8" cy="91.5" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/variants/s8/k62r3k3dy3k3r3k9n5~x2/"><circle cx="540.7" cy="98.2" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"><circle cx="465.9" cy="114.1" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="450.6" cy="111.7" r="4" fill="#3465a4"><title>Laird Abdullah (Personal)</title></circle></a><circle cx="534.2" cy="59.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k72r3k11lb9k11r3k37/"><circle cx="562.0" cy="131.3" r="4" fill="#3465a4"><title>Chafyn House (School)</title></circle></a><a href="/variants/s8/k94r3k6r3k8r15k2y3~x2/"><circle cx="545.2" cy="70.8" r="4" fill="#3465a4"><title>Royal Army Physical Training Corps Association (Scotland)</title></circle></a><a href="/variants/s8/k59r3k6r3k8r15k2dy3~x2/"><circle cx="468.9" cy="99.4" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/variants/s8/k42lb2r3k5r16k8y2k3~x2/"><circle cx="390.9" cy="104.5" r="4" fill="#3465a4"><title>Highland Brewing Company (USA)</title></circle></a><a href="/variants/s7/k4dr40k1dr3k1w3k4~x2/"><circle cx="514.1" cy="90.3" r="4" fill="#3465a4"><title>Salt Lake County</title></circle></a><a href="/variants/s8/k21r1k1y1k1r1k3w3~x6/"><circle cx="460.4" cy="87.4" r="4" fill="#3465a4"><title>Black Country (District)</title></circle></a><a href="/variants/s8/k62r3k3lo3k3r3k9n5~x2/"><circle cx="518.7" cy="91.7" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/variants/s8/k62r3k3dy3k3r3k9n5~x2/"><circle cx="540.6" cy="98.3" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><a href="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"><circle cx="465.8" cy="114.4" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="450.5" cy="111.9" r="4" fill="#3465a4"><title>Laird Abdullah (Personal)</title></circle></a><circle cx="534.0" cy="59.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k198lr9k17lb13lr9k4lr13k4/

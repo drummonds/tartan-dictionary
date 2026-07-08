@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Calgary (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b2db1b4db4g4lo2g4db4lr3db3lr6db2lr2/)
 (the same proportion at any scale), whose colour order is pattern [BBBBGYGBYBYBY](/stripes/bbbbgygbybyby/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3784
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3784](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3784)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db2b1db4b4g4lo2g4b4w3b3w6b2w2~x2~db1106275-b2008266/"><circle cx="88.7" cy="251.0" r="4" fill="#3465a4"><title>Calgary (Deerskin Trading Post)</title></circle></a><a href="/variants/s8/g3dp7lb11db3dy8w2db3lb3~x2/"><circle cx="105.3" cy="233.1" r="4" fill="#3465a4"><title>Scotia Trade Tartan</title></circle></a><a href="/variants/s14/dr12db10lb3o3lb3db3lb16db3lb3o3lb3db10dr12w4~x2~o2500000/"><circle cx="109.3" cy="205.3" r="4" fill="#3465a4"><title>Greer</title></circle></a><a href="/variants/s12/db6g2dg4db12r3lr2r8lr3dg6lr3dg6lr3~x2~g2304202-dg1806142/"><circle cx="101.9" cy="220.0" r="4" fill="#3465a4"><title>Rainbow (Canada)</title></circle></a><a href="/variants/s11/dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267/"><circle cx="49.3" cy="251.1" r="4" fill="#3465a4"><title>Belwade</title></circle></a><a href="/variants/s7/lb8dbi11w3dbi11db12g10dr2~x2~dbi1404245-db1106275/"><circle cx="127.2" cy="260.3" r="4" fill="#3465a4"><title>Loch Katrine</title></circle></a><a href="/variants/s12/lb18db3lb10db3lb10db14ly2r7ly2g14ly2db14~x2/"><circle cx="150.2" cy="195.4" r="4" fill="#3465a4"><title>Ralston (UK)</title></circle></a><circle cx="106.1" cy="253.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/db2b1db4b4g4lo2g4b4w3b3w6b2w2~x2~db1106275-b2008266/"><circle cx="88.9" cy="251.7" r="4" fill="#3465a4"><title>Calgary (Deerskin Trading Post)</title></circle></a><a href="/variants/s8/g3dp7lb11db3dy8w2db3lb3~x2/"><circle cx="105.4" cy="233.7" r="4" fill="#3465a4"><title>Scotia Trade Tartan</title></circle></a><a href="/variants/s14/dr12db10lb3o3lb3db3lb16db3lb3o3lb3db10dr12w4~x2~o2500000/"><circle cx="109.4" cy="205.8" r="4" fill="#3465a4"><title>Greer</title></circle></a><a href="/variants/s12/db6g2dg4db12r3lr2r8lr3dg6lr3dg6lr3~x2~g2304202-dg1806142/"><circle cx="102.0" cy="220.5" r="4" fill="#3465a4"><title>Rainbow (Canada)</title></circle></a><a href="/variants/s11/dr4g4w1lo4dr4w1db1w1dbi4g4dbi4~x4~db1003265-dbi1605267/"><circle cx="49.4" cy="251.7" r="4" fill="#3465a4"><title>Belwade</title></circle></a><a href="/variants/s7/lb8dbi11w3dbi11db12g10dr2~x2~dbi1404245-db1106275/"><circle cx="127.3" cy="260.9" r="4" fill="#3465a4"><title>Loch Katrine</title></circle></a><a href="/variants/s12/lb18db3lb10db3lb10db14ly2r7ly2g14ly2db14~x2/"><circle cx="150.3" cy="195.8" r="4" fill="#3465a4"><title>Ralston (UK)</title></circle></a><circle cx="106.3" cy="254.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/b2db1b4db4g4lo2g4db4lr3db3lr6db2lr2~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Ben Lomond"
   url: "/tartans/ben-lomond/"
+- name: "Ben Lomond (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2lb2k2lb15g15k2g2w2/)
 (the same proportion at any scale), whose colour order is pattern [KWKWGKGW](/stripes/kwkwgkgw/).
@@ -14,7 +16,7 @@ Part of the [Ben Lomond](/tartans/ben-lomond/) tartan — the named design group
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6500
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6500](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6500)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w6g5k6g42db42k5db5k5/"><circle cx="191.4" cy="175.7" r="4" fill="#3465a4"><title>Ben Lomond Fashion Tartan</title></circle></a><a href="/variants/s8/k1t1k1t7g8k1g1ly1~x4/"><circle cx="215.8" cy="189.7" r="4" fill="#3465a4"><title>Banff Centennial (Commemorative)</title></circle></a><a href="/variants/s8/r3g1k1g12t12k1t1k1~x4/"><circle cx="238.9" cy="170.9" r="4" fill="#3465a4"><title>Peter of Lee (Personal)</title></circle></a><a href="/variants/s9/r3g2k1g20k9lb20k1lb2r3~x2/"><circle cx="174.5" cy="133.8" r="4" fill="#3465a4"><title>Ayrton</title></circle></a><a href="/variants/s6/r1g9lb9k1lb1w1~x6/"><circle cx="234.5" cy="187.8" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/"><circle cx="234.5" cy="190.9" r="4" fill="#3465a4"><title>Letham (S.Australia)</title></circle></a><a href="/variants/s6/lb7k7lb7g20lb2g2~x4/"><circle cx="243.3" cy="220.5" r="4" fill="#3465a4"><title>Falconer of Labhdal (Personal)</title></circle></a><a href="/variants/s6/k4g23k23g2w23t4~x2/"><circle cx="123.4" cy="194.0" r="4" fill="#3465a4"><title>MacKay Dress</title></circle></a><a href="/variants/s7/k5g30y3t15k15t7w3~x2/"><circle cx="135.4" cy="183.3" r="4" fill="#3465a4"><title>Dick (Personal)</title></circle></a><a href="/variants/s10/lb39g3lb3g20k3g20k3g3k20r3~x2/"><circle cx="169.4" cy="150.5" r="4" fill="#3465a4"><title>Dunedin Chapter (Corporate)</title></circle></a><circle cx="179.4" cy="180.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w6g5k6g42db42k5db5k5/"><circle cx="191.4" cy="176.1" r="4" fill="#3465a4"><title>Ben Lomond Fashion Tartan</title></circle></a><a href="/variants/s8/k1t1k1t7g8k1g1ly1~x4/"><circle cx="215.8" cy="190.2" r="4" fill="#3465a4"><title>Banff Centennial (Commemorative)</title></circle></a><a href="/variants/s8/r3g1k1g12t12k1t1k1~x4/"><circle cx="238.9" cy="171.2" r="4" fill="#3465a4"><title>Peter of Lee (Personal)</title></circle></a><a href="/variants/s9/r3g2k1g20k9lb20k1lb2r3~x2/"><circle cx="174.5" cy="134.2" r="4" fill="#3465a4"><title>Ayrton</title></circle></a><a href="/variants/s6/r1g9lb9k1lb1w1~x6/"><circle cx="234.6" cy="188.3" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/"><circle cx="234.5" cy="191.4" r="4" fill="#3465a4"><title>Letham (S.Australia)</title></circle></a><a href="/variants/s6/lb7k7lb7g20lb2g2~x4/"><circle cx="243.4" cy="221.2" r="4" fill="#3465a4"><title>Falconer of Labhdal (Personal)</title></circle></a><a href="/variants/s6/k4g23k23g2w23t4~x2/"><circle cx="123.5" cy="194.6" r="4" fill="#3465a4"><title>MacKay Dress</title></circle></a><a href="/variants/s7/k5g30y3t15k15t7w3~x2/"><circle cx="135.4" cy="183.8" r="4" fill="#3465a4"><title>Dick (Personal)</title></circle></a><a href="/variants/s10/lb39g3lb3g20k3g20k3g3k20r3~x2/"><circle cx="169.3" cy="150.9" r="4" fill="#3465a4"><title>Dunedin Chapter (Corporate)</title></circle></a><circle cx="179.4" cy="181.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k2lb2k2lb15g15k2g2w2~x4/

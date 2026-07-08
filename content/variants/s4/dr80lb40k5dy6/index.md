@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Broberg"
   url: "/tartans/broberg/"
+- name: "Broberg (Scania) (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr80lb40k5dy6/)
 (the same proportion at any scale), whose colour order is pattern [BWKG](/stripes/bwkg/).
@@ -14,7 +16,7 @@ Part of the [Broberg](/tartans/broberg/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10979
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10979](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10979)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r14lr6db38k3g2~x2/"><circle cx="313.5" cy="141.4" r="4" fill="#3465a4"><title>Doten (2013)</title></circle></a><a href="/variants/s4/db1r16k16y1~x4/"><circle cx="266.8" cy="171.4" r="4" fill="#3465a4"><title>Skinner</title></circle></a><a href="/variants/s4/db3k32r27w2~x2/"><circle cx="264.8" cy="173.6" r="4" fill="#3465a4"><title>Templar Grand Priory USA</title></circle></a><a href="/variants/s4/r1y13k8g1~x6/"><circle cx="288.3" cy="189.2" r="4" fill="#3465a4"><title>Billy Apple® Yellow</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="395.2" cy="189.6" r="4" fill="#3465a4"><title>Bacon, Red (Fashion)</title></circle></a><a href="/variants/s5/r48k12n7k5w3~x2/"><circle cx="343.9" cy="142.1" r="4" fill="#3465a4"><title>Turner (Personal)</title></circle></a><a href="/variants/s4/y1k8r13g1~x6/"><circle cx="290.1" cy="176.1" r="4" fill="#3465a4"><title>Billy Apple® Red</title></circle></a><a href="/variants/s4/n62w11k4db17~x2/"><circle cx="370.3" cy="187.7" r="4" fill="#3465a4"><title>Thunderlord (Celtic Group, USA)</title></circle></a><a href="/variants/s5/k31r12y2n5k2~x4/"><circle cx="323.2" cy="149.3" r="4" fill="#3465a4"><title>Perry (2014)</title></circle></a><a href="/variants/s4/g1r8k13ly1~x6/"><circle cx="280.9" cy="177.6" r="4" fill="#3465a4"><title>Billy Apple</title></circle></a><circle cx="334.7" cy="175.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r14lr6db38k3g2~x2/"><circle cx="313.5" cy="141.7" r="4" fill="#3465a4"><title>Doten (2013)</title></circle></a><a href="/variants/s4/db1r16k16y1~x4/"><circle cx="266.9" cy="171.9" r="4" fill="#3465a4"><title>Skinner</title></circle></a><a href="/variants/s4/db3k32r27w2~x2/"><circle cx="264.8" cy="174.1" r="4" fill="#3465a4"><title>Templar Grand Priory USA</title></circle></a><a href="/variants/s4/r1y13k8g1~x6/"><circle cx="288.4" cy="189.8" r="4" fill="#3465a4"><title>Billy Apple® Yellow</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="395.3" cy="190.1" r="4" fill="#3465a4"><title>Bacon, Red (Fashion)</title></circle></a><a href="/variants/s5/r48k12n7k5w3~x2/"><circle cx="343.9" cy="142.6" r="4" fill="#3465a4"><title>Turner (Personal)</title></circle></a><a href="/variants/s4/y1k8r13g1~x6/"><circle cx="290.1" cy="176.7" r="4" fill="#3465a4"><title>Billy Apple® Red</title></circle></a><a href="/variants/s4/n62w11k4db17~x2/"><circle cx="370.3" cy="188.2" r="4" fill="#3465a4"><title>Thunderlord (Celtic Group, USA)</title></circle></a><a href="/variants/s5/k31r12y2n5k2~x4/"><circle cx="323.1" cy="149.8" r="4" fill="#3465a4"><title>Perry (2014)</title></circle></a><a href="/variants/s4/g1r8k13ly1~x6/"><circle cx="280.9" cy="178.1" r="4" fill="#3465a4"><title>Billy Apple</title></circle></a><circle cx="334.7" cy="176.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/dr80lb40k5dy6/

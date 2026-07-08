@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacNeish Htg"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr6g3k3n24g4k10g4dr2g24dr6g2/)
 (the same proportion at any scale), whose colour order is pattern [BGKBGKGBGBG](/stripes/bgkbgkgbgbg/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3510
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3510](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3510)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/"><circle cx="227.3" cy="176.3" r="4" fill="#3465a4"><title>McInery (Personal)</title></circle></a><a href="/variants/s9/g12k1g1k1g1r5ki10k1ki2~x4~r2109032-ki0700000/"><circle cx="195.7" cy="153.0" r="4" fill="#3465a4"><title>Lindsay (Crimson version) (Clan?)</title></circle></a><a href="/variants/s8/dg14k1dg2k1dg2k10g14r2/"><circle cx="198.8" cy="170.4" r="4" fill="#3465a4"><title>Manor (Corporate)</title></circle></a><a href="/variants/s8/dg5g32dp5k10dg8dr3dg8dp3~x2/"><circle cx="195.0" cy="172.0" r="4" fill="#3465a4"><title>Scottish Power (Corporate)</title></circle></a><a href="/variants/s15/k2db2g24r2g2r12g3k12db11k3db11g2r2g24db2~x2/"><circle cx="200.8" cy="141.6" r="4" fill="#3465a4"><title>MacInroy Hunting</title></circle></a><a href="/variants/s12/k2g10n5g20n5y3n7k3n7k4n4w2~x2/"><circle cx="186.9" cy="175.1" r="4" fill="#3465a4"><title>Aceo</title></circle></a><a href="/variants/s11/g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1~x4/"><circle cx="212.3" cy="155.6" r="4" fill="#3465a4"><title>Hynde (Sir John) (Artefact)</title></circle></a><a href="/variants/s10/t9k9t9dr2k20g13dr2g4dr2g4~x2~t2205244-k0700000/"><circle cx="182.4" cy="197.5" r="4" fill="#3465a4"><title>Newlands of Lauriston (Name)</title></circle></a><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/"><circle cx="241.5" cy="181.1" r="4" fill="#3465a4"><title>John Telfar Dunbar Hunting</title></circle></a><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/"><circle cx="204.9" cy="166.6" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><circle cx="204.9" cy="166.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/"><circle cx="227.3" cy="176.7" r="4" fill="#3465a4"><title>McInery (Personal)</title></circle></a><a href="/variants/s9/g12k1g1k1g1r5ki10k1ki2~x4~r2109032-ki0700000/"><circle cx="195.7" cy="153.4" r="4" fill="#3465a4"><title>Lindsay (Crimson version) (Clan?)</title></circle></a><a href="/variants/s8/dg14k1dg2k1dg2k10g14r2/"><circle cx="198.8" cy="170.8" r="4" fill="#3465a4"><title>Manor (Corporate)</title></circle></a><a href="/variants/s8/dg5g32dp5k10dg8dr3dg8dp3~x2/"><circle cx="195.0" cy="172.3" r="4" fill="#3465a4"><title>Scottish Power (Corporate)</title></circle></a><a href="/variants/s15/k2db2g24r2g2r12g3k12db11k3db11g2r2g24db2~x2/"><circle cx="200.8" cy="142.0" r="4" fill="#3465a4"><title>MacInroy Hunting</title></circle></a><a href="/variants/s12/k2g10n5g20n5y3n7k3n7k4n4w2~x2/"><circle cx="186.9" cy="175.5" r="4" fill="#3465a4"><title>Aceo</title></circle></a><a href="/variants/s11/g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1~x4/"><circle cx="212.3" cy="155.9" r="4" fill="#3465a4"><title>Hynde (Sir John) (Artefact)</title></circle></a><a href="/variants/s10/t9k9t9dr2k20g13dr2g4dr2g4~x2~t2205244-k0700000/"><circle cx="182.5" cy="197.9" r="4" fill="#3465a4"><title>Newlands of Lauriston (Name)</title></circle></a><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/"><circle cx="241.5" cy="181.5" r="4" fill="#3465a4"><title>John Telfar Dunbar Hunting</title></circle></a><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/"><circle cx="204.9" cy="167.0" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><circle cx="204.9" cy="166.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dr6g3k3n24g4k10g4dr2g24dr6g2~x2/

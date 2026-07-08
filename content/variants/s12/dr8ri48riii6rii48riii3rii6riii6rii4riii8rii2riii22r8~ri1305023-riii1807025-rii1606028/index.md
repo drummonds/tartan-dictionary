@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ferguson Red, George (Architect)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr8ri48riii6rii48riii3rii6riii6rii4riii8rii2riii22r8/)
 (the same proportion at any scale), whose colour order is pattern [BRRRRRRRRRRR](/stripes/brrrrrrrrrrr/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10276
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10276](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10276)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

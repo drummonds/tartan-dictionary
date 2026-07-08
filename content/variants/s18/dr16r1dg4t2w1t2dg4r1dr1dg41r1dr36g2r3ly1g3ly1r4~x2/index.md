@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Belk Festive (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr16r1dg4t2w1t2dg4r1dr1dg41r1dr36g2r3ly1g3ly1r4/)
 (the same proportion at any scale), whose colour order is pattern [BRGBWBGRBGRBGRYGYR](/stripes/brgbwbgrbgrbgrygyr/).
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8928
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8928](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8928)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Strathspey (Estate Check)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do1lb1k1lb1do1lb1k1lb1db1/)
 (the same proportion at any scale), whose colour order is pattern [BWKWBWKWB](/stripes/bwkwbwkwb/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3226
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3226](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3226)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k1r1w1k1w1k1db1~x16/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Border Bell</title></circle></a><a href="/variants/s7/k1r1w1k1w1k1db1~x14/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Bell, Border (Name)</title></circle></a><a href="/variants/s7/k1r1w1k1w1k1db1~x8/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Bell, South.</title></circle></a><a href="/variants/s9/k1w1k1w1k1w1k1w1o1~x6/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Dupplin (Estate Check)</title></circle></a><a href="/variants/s9/do1w1k1w1do1w1k1w1o1~x6/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Dupplin Check</title></circle></a><a href="/variants/s5/k1w1k1w1db1~x12/"><circle cx="52.9" cy="366.0" r="4" fill="#3465a4"><title>Buccleuch, Check</title></circle></a><a href="/variants/s15/dp1w1k1w1g1w1k1w1k1w1k1w1k1w1g1~x8/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Halliday (Name)</title></circle></a><a href="/variants/s15/g1w1k1w1k1w1k1w1k1w1g1w1k1w1m1~x8~g2408144-m2110326/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Halliday</title></circle></a><a href="/variants/s11/db5w4k4w4k4w4k4w4k4w4k4~x2/"><circle cx="47.2" cy="366.0" r="4" fill="#3465a4"><title>Buccleuch Check (9 squares)</title></circle></a><a href="/variants/s15/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1~x12/"><circle cx="24.6" cy="366.0" r="4" fill="#3465a4"><title>Haig Check</title></circle></a><circle cx="14.0" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k1r1w1k1w1k1db1~x16/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Border Bell</title></circle></a><a href="/variants/s7/k1r1w1k1w1k1db1~x14/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Bell, Border (Name)</title></circle></a><a href="/variants/s7/k1r1w1k1w1k1db1~x8/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Bell, South.</title></circle></a><a href="/variants/s9/k1w1k1w1k1w1k1w1o1~x6/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Dupplin (Estate Check)</title></circle></a><a href="/variants/s9/do1w1k1w1do1w1k1w1o1~x6/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Dupplin Check</title></circle></a><a href="/variants/s5/k1w1k1w1db1~x12/"><circle cx="53.3" cy="366.0" r="4" fill="#3465a4"><title>Buccleuch, Check</title></circle></a><a href="/variants/s15/dp1w1k1w1g1w1k1w1k1w1k1w1k1w1g1~x8/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Halliday (Name)</title></circle></a><a href="/variants/s15/g1w1k1w1k1w1k1w1k1w1g1w1k1w1m1~x8~g2408144-m2110326/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Halliday</title></circle></a><a href="/variants/s11/db5w4k4w4k4w4k4w4k4w4k4~x2/"><circle cx="47.5" cy="366.0" r="4" fill="#3465a4"><title>Buccleuch Check (9 squares)</title></circle></a><a href="/variants/s15/db1w1k1w1k1w1k1w1k1w1k1w1k1w1db1~x12/"><circle cx="24.9" cy="366.0" r="4" fill="#3465a4"><title>Haig Check</title></circle></a><circle cx="14.0" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/do1lb1k1lb1do1lb1k1lb1db1~x6/

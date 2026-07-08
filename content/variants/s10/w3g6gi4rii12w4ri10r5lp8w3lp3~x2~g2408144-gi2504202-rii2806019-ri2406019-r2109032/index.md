@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ribbons of Hope"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3g6gi4rii12w4ri10r5lp8w3lp3/)
 (the same proportion at any scale), whose colour order is pattern [WGGRWRRWWW](/stripes/wggrwrrwww/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8436
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8436](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8436)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb19lo12r4ly8n4dg6g16~x2~dg1806142-g2203152/"><circle cx="98.3" cy="252.2" r="4" fill="#3465a4"><title>Aberdeenshire Home Colours</title></circle></a><circle cx="39.6" cy="236.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb19lo12r4ly8n4dg6g16~x2~dg1806142-g2203152/"><circle cx="98.5" cy="252.6" r="4" fill="#3465a4"><title>Aberdeenshire Home Colours</title></circle></a><circle cx="39.7" cy="237.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w3g6gi4rii12w4ri10r5lp8w3lp3~x2~g2408144-gi2504202-rii2806019-ri2406019-r2109032/

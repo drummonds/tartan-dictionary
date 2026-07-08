@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Galloway"
   url: "/tartans/galloway/"
+- name: "Galloway"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3dg1g32dg32g1y3/)
 (the same proportion at any scale), whose colour order is pattern [GGGGGR](/stripes/gggggr/).
@@ -14,7 +16,7 @@ Part of the [Galloway](/tartans/galloway/) tartan — the named design grouping 
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r3dg1g32dg32g1w3~x2/"><circle cx="352.2" cy="163.4" r="4" fill="#3465a4"><title>Galloway, hunting</title></circle></a><a href="/variants/s6/r3dg2g32dg32g2w3~x2/"><circle cx="330.2" cy="192.3" r="4" fill="#3465a4"><title>Galloway Hunting</title></circle></a><a href="/variants/s8/dp4g4dg2w3g27dg30y1r3~x2/"><circle cx="282.7" cy="124.5" r="4" fill="#3465a4"><title>Hannigan of Dirleton</title></circle></a><a href="/variants/s6/dy4r2dg40g39dg3r4~x2/"><circle cx="363.5" cy="194.0" r="4" fill="#3465a4"><title>McGeorge (Personal)</title></circle></a><a href="/variants/s7/r2dg19g2dg2g19dg2y2~x2/"><circle cx="354.0" cy="217.9" r="4" fill="#3465a4"><title>Hunting Kenmore</title></circle></a><a href="/variants/s6/dg30g13dg7g30dg2y4~x2/"><circle cx="423.4" cy="264.4" r="4" fill="#3465a4"><title>MacSporran Rejected design</title></circle></a><a href="/variants/s6/r6dt4w2g27dt37y2~x2/"><circle cx="326.8" cy="172.9" r="4" fill="#3465a4"><title>Highlands of Durham (Corporate)</title></circle></a><a href="/variants/s7/dt16g4dt3g3lo2g24dr2~x2/"><circle cx="400.6" cy="221.8" r="4" fill="#3465a4"><title>St. Andrews Links (Corporate)</title></circle></a><a href="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/"><circle cx="384.7" cy="151.0" r="4" fill="#3465a4"><title>Abadia Da Cova (Corporate)</title></circle></a><a href="/variants/s7/g1dr7g7n2dr1dg15lb1~x4/"><circle cx="321.0" cy="209.2" r="4" fill="#3465a4"><title>Ramsay (Green Fashion)</title></circle></a><circle cx="391.7" cy="176.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r3dg1g32dg32g1w3~x2/"><circle cx="352.2" cy="163.6" r="4" fill="#3465a4"><title>Galloway, hunting</title></circle></a><a href="/variants/s6/r3dg2g32dg32g2w3~x2/"><circle cx="330.2" cy="192.6" r="4" fill="#3465a4"><title>Galloway Hunting</title></circle></a><a href="/variants/s8/dp4g4dg2w3g27dg30y1r3~x2/"><circle cx="282.6" cy="124.6" r="4" fill="#3465a4"><title>Hannigan of Dirleton</title></circle></a><a href="/variants/s6/dy4r2dg40g39dg3r4~x2/"><circle cx="363.5" cy="194.3" r="4" fill="#3465a4"><title>McGeorge (Personal)</title></circle></a><a href="/variants/s7/r2dg19g2dg2g19dg2y2~x2/"><circle cx="354.1" cy="218.2" r="4" fill="#3465a4"><title>Hunting Kenmore</title></circle></a><a href="/variants/s6/dg30g13dg7g30dg2y4~x2/"><circle cx="423.5" cy="264.8" r="4" fill="#3465a4"><title>MacSporran Rejected design</title></circle></a><a href="/variants/s6/r6dt4w2g27dt37y2~x2/"><circle cx="326.8" cy="173.1" r="4" fill="#3465a4"><title>Highlands of Durham (Corporate)</title></circle></a><a href="/variants/s7/dt16g4dt3g3lo2g24dr2~x2/"><circle cx="400.7" cy="222.2" r="4" fill="#3465a4"><title>St. Andrews Links (Corporate)</title></circle></a><a href="/variants/s6/dg30g1dg3dr30k1y3~x2~dg1806142-g2408144/"><circle cx="384.6" cy="151.1" r="4" fill="#3465a4"><title>Abadia Da Cova (Corporate)</title></circle></a><a href="/variants/s7/g1dr7g7n2dr1dg15lb1~x4/"><circle cx="321.1" cy="209.4" r="4" fill="#3465a4"><title>Ramsay (Green Fashion)</title></circle></a><circle cx="391.7" cy="176.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r3dg1g32dg32g1y3~x2/

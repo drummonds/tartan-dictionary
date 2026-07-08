@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Edelstein (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp10db10g10w1dy1/)
 (the same proportion at any scale), whose colour order is pattern [BBGWG](/stripes/bbgwg/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1071
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1071](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1071)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dp30y7w6db30ly8~x2~y2203076-ly3307090/"><circle cx="179.5" cy="258.2" r="4" fill="#3465a4"><title>Pownall (2015)</title></circle></a><a href="/variants/s6/w15dg98db72dr25db8ly15/"><circle cx="245.8" cy="210.6" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s6/y15db8r25db72dg98w15/"><circle cx="227.6" cy="195.9" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s5/dr7y3g28db28w3~x2/"><circle cx="238.2" cy="230.0" r="4" fill="#3465a4"><title>Turnbull Hunting</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.0" cy="213.1" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.2" cy="254.7" r="4" fill="#3465a4"><title>Corey (Name)</title></circle></a><a href="/variants/s6/r3y2g12dp12db14w3~x2/"><circle cx="105.5" cy="219.7" r="4" fill="#3465a4"><title>Jamestown Parish Church (Corporate)</title></circle></a><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/"><circle cx="236.3" cy="196.4" r="4" fill="#3465a4"><title>Canine All Dogs</title></circle></a><a href="/variants/s6/db30y3dy11y3g33r6~x2/"><circle cx="216.8" cy="207.3" r="4" fill="#3465a4"><title>Balfour Hunting</title></circle></a><a href="/variants/s6/n7w1r6db10dg10w1~x4/"><circle cx="144.4" cy="229.3" r="4" fill="#3465a4"><title>McEachern, Andrew</title></circle></a><circle cx="202.6" cy="247.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dp30y7w6db30ly8~x2~y2203076-ly3307090/"><circle cx="179.6" cy="258.8" r="4" fill="#3465a4"><title>Pownall (2015)</title></circle></a><a href="/variants/s6/w15dg98db72dr25db8ly15/"><circle cx="245.9" cy="211.0" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s6/y15db8r25db72dg98w15/"><circle cx="227.6" cy="196.3" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s5/dr7y3g28db28w3~x2/"><circle cx="238.3" cy="230.5" r="4" fill="#3465a4"><title>Turnbull Hunting</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.0" cy="213.6" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/variants/s5/t32dy16g3lo4dg28~x2/"><circle cx="262.3" cy="255.1" r="4" fill="#3465a4"><title>Corey (Name)</title></circle></a><a href="/variants/s6/r3y2g12dp12db14w3~x2/"><circle cx="105.6" cy="220.1" r="4" fill="#3465a4"><title>Jamestown Parish Church (Corporate)</title></circle></a><a href="/variants/s6/r5t3g24db24r4y2~x2~t2405244-db1406275/"><circle cx="236.4" cy="196.8" r="4" fill="#3465a4"><title>Canine All Dogs</title></circle></a><a href="/variants/s6/db30y3dy11y3g33r6~x2/"><circle cx="216.9" cy="207.7" r="4" fill="#3465a4"><title>Balfour Hunting</title></circle></a><a href="/variants/s6/n7w1r6db10dg10w1~x4/"><circle cx="144.5" cy="229.8" r="4" fill="#3465a4"><title>McEachern, Andrew</title></circle></a><circle cx="202.7" cy="247.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dp10db10g10w1dy1~x6/

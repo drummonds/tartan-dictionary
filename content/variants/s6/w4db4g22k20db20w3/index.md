@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified No 26"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4db4g22k20db20w3/)
 (the same proportion at any scale), whose colour order is pattern [WBGKBW](/stripes/wbgkbw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4318
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4318](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4318)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db3g12k13w2db13w3~x2/"><circle cx="107.1" cy="227.4" r="4" fill="#3465a4"><title>Herd/Hurd (Name)</title></circle></a><a href="/variants/s6/db3g12k13w2db13w3~x2~db1406275/"><circle cx="108.4" cy="226.8" r="4" fill="#3465a4"><title>Herd/Hurd</title></circle></a><a href="/variants/s6/db1r1db6k6g6w1~x2/"><circle cx="96.7" cy="213.2" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/variants/s6/db2g12k13w1db13w2~x2/"><circle cx="147.5" cy="192.1" r="4" fill="#3465a4"><title>Herd Family Tartan</title></circle></a><a href="/variants/s6/b4g17k17db17r3db3~x2/"><circle cx="96.8" cy="222.3" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s6/w1db9k9g9k2w1~x4/"><circle cx="133.7" cy="206.0" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/variants/s5/r1db7k7g7w1~x6/"><circle cx="91.3" cy="223.1" r="4" fill="#3465a4"><title>Davidson of Tulloch (Clan)</title></circle></a><a href="/variants/s6/y3k2g12k12db14w3/"><circle cx="76.9" cy="211.9" r="4" fill="#3465a4"><title>MacNeil of Barra</title></circle></a><a href="/variants/s6/y3k2g12k12db14w3~x2/"><circle cx="76.9" cy="211.9" r="4" fill="#3465a4"><title>MacNeil 6</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="111.2" cy="194.4" r="4" fill="#3465a4"><title>MacDonald (Flora.. )</title></circle></a><circle cx="110.7" cy="219.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db3g12k13w2db13w3~x2/"><circle cx="107.2" cy="228.0" r="4" fill="#3465a4"><title>Herd/Hurd (Name)</title></circle></a><a href="/variants/s6/db3g12k13w2db13w3~x2~db1406275/"><circle cx="108.5" cy="227.4" r="4" fill="#3465a4"><title>Herd/Hurd</title></circle></a><a href="/variants/s6/db1r1db6k6g6w1~x2/"><circle cx="96.8" cy="213.8" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/variants/s6/db2g12k13w1db13w2~x2/"><circle cx="147.5" cy="192.6" r="4" fill="#3465a4"><title>Herd Family Tartan</title></circle></a><a href="/variants/s6/b4g17k17db17r3db3~x2/"><circle cx="96.9" cy="222.9" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/variants/s6/w1db9k9g9k2w1~x4/"><circle cx="133.7" cy="206.5" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/variants/s5/r1db7k7g7w1~x6/"><circle cx="91.3" cy="223.7" r="4" fill="#3465a4"><title>Davidson of Tulloch (Clan)</title></circle></a><a href="/variants/s6/y3k2g12k12db14w3/"><circle cx="77.0" cy="212.4" r="4" fill="#3465a4"><title>MacNeil of Barra</title></circle></a><a href="/variants/s6/y3k2g12k12db14w3~x2/"><circle cx="77.0" cy="212.4" r="4" fill="#3465a4"><title>MacNeil 6</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="111.3" cy="194.8" r="4" fill="#3465a4"><title>MacDonald (Flora.. )</title></circle></a><circle cx="110.7" cy="220.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w4db4g22k20db20w3/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Battle of Bannockburn, The"
   url: "/tartans/battle-of-bannockburn-the/"
+- name: "Battle of Bannockburn, The"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1do1r9g6lb2t3r2ly1/)
 (the same proportion at any scale), whose colour order is pattern [RBRGWBRY](/stripes/rbrgwbry/).
@@ -14,7 +16,7 @@ Part of the [Battle of Bannockburn, The](/tartans/battle-of-bannockburn-the/) ta
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10788
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10788](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10788)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r1dy1r9g6lg2t3r2y1~x4~lg2803208-t2203208/"><circle cx="247.1" cy="186.0" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/variants/s8/db8y1g12r10ly2r6ly2r4~x4/"><circle cx="209.6" cy="194.7" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/variants/s8/r2ri6db5lg3g13ri20do2ri2~x2~r1906038-ri2109032/"><circle cx="260.2" cy="165.4" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><a href="/variants/s7/r12w4r3ly18r3lyi4g2~x2~ly2503076-lyi3106095/"><circle cx="262.8" cy="213.4" r="4" fill="#3465a4"><title>Golden Pheasant</title></circle></a><a href="/variants/s7/y3r16n5dy22g2dy4w3~x2/"><circle cx="241.6" cy="171.2" r="4" fill="#3465a4"><title>Pubcrawlers, The</title></circle></a><a href="/variants/s8/b2r11lb9b11y2g13r21w2~x2/"><circle cx="203.8" cy="188.0" r="4" fill="#3465a4"><title>Wilson's, No 2</title></circle></a><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><circle cx="169.8" cy="184.4" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/"><circle cx="298.5" cy="123.1" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><a href="/variants/s6/r48t16ly5g17w8dy3~x2/"><circle cx="252.8" cy="160.1" r="4" fill="#3465a4"><title>Scottish American Soc. of Michigan</title></circle></a><a href="/variants/s9/r13lb3r13g12y2dp9lb9r13dp2~x2/"><circle cx="220.9" cy="225.6" r="4" fill="#3465a4"><title>Caledonia No 3</title></circle></a><circle cx="234.5" cy="181.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r1dy1r9g6lg2t3r2y1~x4~lg2803208-t2203208/"><circle cx="247.2" cy="186.3" r="4" fill="#3465a4"><title>Battle of Bannockburn, The</title></circle></a><a href="/variants/s8/db8y1g12r10ly2r6ly2r4~x4/"><circle cx="209.6" cy="195.2" r="4" fill="#3465a4"><title>Indiana &quot;Cardinal&quot;</title></circle></a><a href="/variants/s8/r2ri6db5lg3g13ri20do2ri2~x2~r1906038-ri2109032/"><circle cx="260.3" cy="165.7" r="4" fill="#3465a4"><title>Flowers of the Forest, The</title></circle></a><a href="/variants/s7/r12w4r3ly18r3lyi4g2~x2~ly2503076-lyi3106095/"><circle cx="262.9" cy="213.8" r="4" fill="#3465a4"><title>Golden Pheasant</title></circle></a><a href="/variants/s7/y3r16n5dy22g2dy4w3~x2/"><circle cx="241.7" cy="171.5" r="4" fill="#3465a4"><title>Pubcrawlers, The</title></circle></a><a href="/variants/s8/b2r11lb9b11y2g13r21w2~x2/"><circle cx="203.9" cy="188.4" r="4" fill="#3465a4"><title>Wilson's, No 2</title></circle></a><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><circle cx="169.8" cy="184.8" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s8/r22db3y1g12r6db3lb3w1~x2/"><circle cx="298.5" cy="123.4" r="4" fill="#3465a4"><title>Drummond, (Fingask)</title></circle></a><a href="/variants/s6/r48t16ly5g17w8dy3~x2/"><circle cx="252.8" cy="160.5" r="4" fill="#3465a4"><title>Scottish American Soc. of Michigan</title></circle></a><a href="/variants/s9/r13lb3r13g12y2dp9lb9r13dp2~x2/"><circle cx="221.0" cy="226.2" r="4" fill="#3465a4"><title>Caledonia No 3</title></circle></a><circle cx="234.6" cy="182.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r1do1r9g6lb2t3r2ly1~x4/

@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/ferguson/"
 - name: "Ferguson Dress"
   url: "/tartans/ferguson-dress/"
+- name: "Ferguson Dress Blue (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb35k23w18dr3w18k2w3/)
 (the same proportion at any scale), whose colour order is pattern [KWBWKWKWBWKW](/stripes/kwbwkwkwbwkw/).
@@ -16,7 +18,7 @@ Part of the [Ferguson Dress](/tartans/ferguson-dress/) tartan — the named desi
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1163
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1163](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1163)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -78,8 +80,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb17k12w9r2w9g1w2~x4/"><circle cx="147.7" cy="164.0" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><a href="/variants/s9/db48r10w2r10g17k3w17k3w34~x2/"><circle cx="144.8" cy="121.6" r="4" fill="#3465a4"><title>Unidentified #43</title></circle></a><a href="/variants/s10/n30k5n19k5n2lb20y2lb20k5y4~x2/"><circle cx="216.4" cy="160.4" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4b14lo2~x2/"><circle cx="230.1" cy="139.7" r="4" fill="#3465a4"><title>Hannay (Clan)</title></circle></a><a href="/variants/s15/w10k3w3k3w3k5w5g9k1w2k1g9k10w13r2~x2/"><circle cx="150.6" cy="153.5" r="4" fill="#3465a4"><title>MacKenzie (MacGregor-Hastie)</title></circle></a><a href="/variants/s10/w4db2w1r2w16db16r16db12k1w4~x2/"><circle cx="181.6" cy="149.1" r="4" fill="#3465a4"><title>Spirit of Russia, The</title></circle></a><a href="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="162.1" cy="135.6" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/"><circle cx="217.0" cy="137.4" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s8/k4lb2w11lb5n5w2k1lb2~x2/"><circle cx="170.2" cy="169.6" r="4" fill="#3465a4"><title>Conquergood</title></circle></a><a href="/variants/s9/r2db2w26dg25k14db13w26db2r2~x2/"><circle cx="150.7" cy="149.6" r="4" fill="#3465a4"><title>MacNaughton Dress</title></circle></a><circle cx="178.5" cy="151.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb17k12w9r2w9g1w2~x4/"><circle cx="147.8" cy="164.5" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><a href="/variants/s9/db48r10w2r10g17k3w17k3w34~x2/"><circle cx="144.8" cy="121.9" r="4" fill="#3465a4"><title>Unidentified #43</title></circle></a><a href="/variants/s10/n30k5n19k5n2lb20y2lb20k5y4~x2/"><circle cx="216.4" cy="160.8" r="4" fill="#3465a4"><title>Sonsub</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4b14lo2~x2/"><circle cx="230.1" cy="140.2" r="4" fill="#3465a4"><title>Hannay (Clan)</title></circle></a><a href="/variants/s15/w10k3w3k3w3k5w5g9k1w2k1g9k10w13r2~x2/"><circle cx="150.6" cy="154.0" r="4" fill="#3465a4"><title>MacKenzie (MacGregor-Hastie)</title></circle></a><a href="/variants/s10/w4db2w1r2w16db16r16db12k1w4~x2/"><circle cx="181.6" cy="149.5" r="4" fill="#3465a4"><title>Spirit of Russia, The</title></circle></a><a href="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="162.1" cy="136.1" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/"><circle cx="217.0" cy="137.9" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s8/k4lb2w11lb5n5w2k1lb2~x2/"><circle cx="170.3" cy="170.2" r="4" fill="#3465a4"><title>Conquergood</title></circle></a><a href="/variants/s9/r2db2w26dg25k14db13w26db2r2~x2/"><circle cx="150.7" cy="150.0" r="4" fill="#3465a4"><title>MacNaughton Dress</title></circle></a><circle cx="178.5" cy="151.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lb35k23w18dr3w18k2w3~x2/

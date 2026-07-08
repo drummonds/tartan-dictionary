@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Blanton"
   url: "/tartans/blanton/"
+- name: "Blanton"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t24k2t2k2t2k10g5dp3g5k10t11k2t4/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKGBGKBKB](/stripes/bkbkbkgbgkbkb/).
@@ -14,7 +16,7 @@ Part of the [Blanton](/tartans/blanton/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=297
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=297](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=297)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -77,8 +79,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/t4k7lyi3k3t34k17t4k5t4k7ly11t5lyi4~x2~lyi2705081-ly2503076/"><circle cx="203.7" cy="146.3" r="4" fill="#3465a4"><title>State Seal of Oregon (Fashion)</title></circle></a><a href="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/"><circle cx="223.4" cy="160.2" r="4" fill="#3465a4"><title>Marthas Vineyard (District)</title></circle></a><a href="/variants/s15/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3~x2/"><circle cx="269.1" cy="153.1" r="4" fill="#3465a4"><title>Cornwall</title></circle></a><a href="/variants/s15/t32k4t4k4t4k20g23w2t5w2g23k20t22k4t4/"><circle cx="171.5" cy="144.4" r="4" fill="#3465a4"><title>Lyon (Clan)</title></circle></a><a href="/variants/s15/r1g11k4db2k1db1k1db14k1db1k1db2k4g11w1~x4/"><circle cx="168.4" cy="114.9" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/variants/s12/r4ki2g7ki15g3ki3g3ki7g28k7g6k2~ki0604259/"><circle cx="244.5" cy="142.9" r="4" fill="#3465a4"><title>Walker, hunting</title></circle></a><a href="/variants/s14/t18db2k2db2k1t2k8g1ly1g6k8t14k2g2~x2/"><circle cx="206.7" cy="112.6" r="4" fill="#3465a4"><title>Angove, the Black Swan (Name)</title></circle></a><a href="/variants/s11/db4lb2k2db12lb4g6k6g28k2lb2g3~x2/"><circle cx="235.7" cy="139.4" r="4" fill="#3465a4"><title>Hudson Hunting (Personal)</title></circle></a><a href="/variants/s14/g3t36k9r3k3r3k36r3k3r3k9t36g3t2~x2~g2408144/"><circle cx="236.0" cy="105.7" r="4" fill="#3465a4"><title>Home (Clans Originaux)</title></circle></a><a href="/variants/s14/w3k1t15k6t5k3t8k2t5y3w2y4k1w3~x2/"><circle cx="215.0" cy="148.4" r="4" fill="#3465a4"><title>Avalon - Carroll House</title></circle></a><circle cx="229.1" cy="148.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/t4k7lyi3k3t34k17t4k5t4k7ly11t5lyi4~x2~lyi2705081-ly2503076/"><circle cx="203.6" cy="146.7" r="4" fill="#3465a4"><title>State Seal of Oregon (Fashion)</title></circle></a><a href="/variants/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/"><circle cx="223.3" cy="160.5" r="4" fill="#3465a4"><title>Marthas Vineyard (District)</title></circle></a><a href="/variants/s15/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3~x2/"><circle cx="269.1" cy="153.5" r="4" fill="#3465a4"><title>Cornwall</title></circle></a><a href="/variants/s15/t32k4t4k4t4k20g23w2t5w2g23k20t22k4t4/"><circle cx="171.5" cy="144.8" r="4" fill="#3465a4"><title>Lyon (Clan)</title></circle></a><a href="/variants/s15/r1g11k4db2k1db1k1db14k1db1k1db2k4g11w1~x4/"><circle cx="168.3" cy="115.1" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/variants/s12/r4ki2g7ki15g3ki3g3ki7g28k7g6k2~ki0604259/"><circle cx="244.5" cy="143.2" r="4" fill="#3465a4"><title>Walker, hunting</title></circle></a><a href="/variants/s14/t18db2k2db2k1t2k8g1ly1g6k8t14k2g2~x2/"><circle cx="206.6" cy="112.9" r="4" fill="#3465a4"><title>Angove, the Black Swan (Name)</title></circle></a><a href="/variants/s11/db4lb2k2db12lb4g6k6g28k2lb2g3~x2/"><circle cx="235.7" cy="139.8" r="4" fill="#3465a4"><title>Hudson Hunting (Personal)</title></circle></a><a href="/variants/s14/g3t36k9r3k3r3k36r3k3r3k9t36g3t2~x2~g2408144/"><circle cx="235.9" cy="105.9" r="4" fill="#3465a4"><title>Home (Clans Originaux)</title></circle></a><a href="/variants/s14/w3k1t15k6t5k3t8k2t5y3w2y4k1w3~x2/"><circle cx="215.0" cy="148.9" r="4" fill="#3465a4"><title>Avalon - Carroll House</title></circle></a><circle cx="229.0" cy="149.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/t24k2t2k2t2k10g5dp3g5k10t11k2t4~x2/

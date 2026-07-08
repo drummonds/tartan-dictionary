@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fallow Deer (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly3w17ly11w2ly11w2/)
 (the same proportion at any scale), whose colour order is pattern [WYWYWY](/stripes/wywywy/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4835
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4835](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4835)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy6n2dy29n29dy2n6~x2/"><circle cx="545.6" cy="283.4" r="4" fill="#3465a4"><title>Harmony 12 #2</title></circle></a><a href="/variants/s6/y8w3y28w32dp3w4~x2/"><circle cx="345.4" cy="233.9" r="4" fill="#3465a4"><title>Ailsa Yellow Fashion Tartan</title></circle></a><a href="/variants/s6/ly11r2ly11w6ly7w6~x2/"><circle cx="443.3" cy="327.9" r="4" fill="#3465a4"><title>Virgin One</title></circle></a><a href="/variants/s7/lb26w2y1w3y2w3y4~x2/"><circle cx="525.0" cy="194.3" r="4" fill="#3465a4"><title>Argentine Flag</title></circle></a><a href="/variants/s7/dy8n29dy8y3dy8n8y3~x2/"><circle cx="498.2" cy="284.9" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/variants/s4/lb4ly15lb4w2~x2/"><circle cx="571.7" cy="355.4" r="4" fill="#3465a4"><title>Takla Makan #2 (Artefact)</title></circle></a><circle cx="543.4" cy="346.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy6n2dy29n29dy2n6~x2/"><circle cx="545.8" cy="283.7" r="4" fill="#3465a4"><title>Harmony 12 #2</title></circle></a><a href="/variants/s6/y8w3y28w32dp3w4~x2/"><circle cx="345.6" cy="234.5" r="4" fill="#3465a4"><title>Ailsa Yellow Fashion Tartan</title></circle></a><a href="/variants/s6/ly11r2ly11w6ly7w6~x2/"><circle cx="443.6" cy="328.7" r="4" fill="#3465a4"><title>Virgin One</title></circle></a><a href="/variants/s7/lb26w2y1w3y2w3y4~x2/"><circle cx="525.1" cy="194.6" r="4" fill="#3465a4"><title>Argentine Flag</title></circle></a><a href="/variants/s7/dy8n29dy8y3dy8n8y3~x2/"><circle cx="498.4" cy="285.2" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/variants/s4/lb4ly15lb4w2~x2/"><circle cx="572.1" cy="355.9" r="4" fill="#3465a4"><title>Takla Makan #2 (Artefact)</title></circle></a><circle cx="543.8" cy="347.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/ly3w17ly11w2ly11w2~x4/

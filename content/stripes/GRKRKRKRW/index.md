@@ -28,12 +28,12 @@ second parent, beside its family or clan).
 
 <table class="sett-table">
 <tbody>
-<tr><td><a href="/setts/y1r12k2r2k16r2k2r12w1/">MacIver</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/y1r12k2r2k16r2k2r12w1/"><img src="/variants/s9/y1r12k2r2k16r2k2r12w1/sett.png" alt="MacIver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s9/y1r9k2r2k12r2k2r9w1~x4/">MacIver</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s9/y1r9k2r2k12r2k2r9w1~x4/"><img src="/variants/s9/y1r9k2r2k12r2k2r9w1~x4/sett.png" alt="MacIver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/">MacIver</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/"><img src="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/sett.png" alt="MacIver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/y1r12k2r2k16r2k2r12w1/">MacIver</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/y1r12k2r2k16r2k2r12w1/"><img src="/variants/s9/y1r12k2r2k16r2k2r12w1/sett.png" alt="MacIver sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s9/y3r27k5r5k32r5k5r27w3~x2/">MacIver #2</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s9/y3r27k5r5k32r5k5r27w3~x2/"><img src="/variants/s9/y3r27k5r5k32r5k5r27w3~x2/sett.png" alt="MacIver #2 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Murray of Atholl"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db18o4db3o3db3o18b18r10b18o18db18o3r10/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBRBRBRBRR](/stripes/brbrbrbrbrbrr/).
 
 Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r10do10r4dg2r2do2r4dg12db12dg3db4~x2/"><circle cx="172.8" cy="236.3" r="4" fill="#3465a4"><title>Hueg (Munich) Hunting (Personal)</title></circle></a><a href="/variants/s7/dg25db4r24db21dy25db4dg3~x2/"><circle cx="192.1" cy="229.1" r="4" fill="#3465a4"><title>Orban-Prentice (Personal)</title></circle></a><a href="/variants/s12/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13~x4/"><circle cx="182.6" cy="213.8" r="4" fill="#3465a4"><title>Maple Leaf Blue</title></circle></a><a href="/variants/s13/db18dy4db3dy3db3dy18g18r10g18dy18db18dy3r10~x2/"><circle cx="155.7" cy="237.0" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/variants/s11/dp3dt12db2dt2db11dp2db11r2db2r10w3~x2~dt1103246-db1504259/"><circle cx="210.7" cy="212.2" r="4" fill="#3465a4"><title>United Scots American</title></circle></a><a href="/variants/s7/db4lr3db4lr3o3n11o3~x2/"><circle cx="172.3" cy="278.3" r="4" fill="#3465a4"><title>Stevens #2</title></circle></a><a href="/variants/s7/r2b1db8b8o8b1o1~x2/"><circle cx="226.1" cy="231.3" r="4" fill="#3465a4"><title>Over Mountain</title></circle></a><a href="/variants/s12/db6g2dg4db12r3lr2r8lr3dg6lr3dg6lr3~x2~g2304202-dg1806142/"><circle cx="101.9" cy="220.0" r="4" fill="#3465a4"><title>Rainbow (Canada)</title></circle></a><a href="/variants/s12/db16r2db2r2g14r13w2r13g14db14r2db2~x2/"><circle cx="177.1" cy="200.9" r="4" fill="#3465a4"><title>Fraser of Lovat</title></circle></a><a href="/variants/s11/db10r2db10r10dg2r2dg2r2dg10r1w2~x4/"><circle cx="202.7" cy="189.7" r="4" fill="#3465a4"><title>North Berwick (Dance)</title></circle></a><circle cx="164.8" cy="234.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r10do10r4dg2r2do2r4dg12db12dg3db4~x2/"><circle cx="172.9" cy="236.7" r="4" fill="#3465a4"><title>Hueg (Munich) Hunting (Personal)</title></circle></a><a href="/variants/s7/dg25db4r24db21dy25db4dg3~x2/"><circle cx="192.2" cy="229.5" r="4" fill="#3465a4"><title>Orban-Prentice (Personal)</title></circle></a><a href="/variants/s12/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13~x4/"><circle cx="182.7" cy="214.2" r="4" fill="#3465a4"><title>Maple Leaf Blue</title></circle></a><a href="/variants/s13/db18dy4db3dy3db3dy18g18r10g18dy18db18dy3r10~x2/"><circle cx="155.8" cy="237.5" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/variants/s11/dp3dt12db2dt2db11dp2db11r2db2r10w3~x2~dt1103246-db1504259/"><circle cx="210.7" cy="212.5" r="4" fill="#3465a4"><title>United Scots American</title></circle></a><a href="/variants/s7/db4lr3db4lr3o3n11o3~x2/"><circle cx="172.4" cy="279.0" r="4" fill="#3465a4"><title>Stevens #2</title></circle></a><a href="/variants/s7/r2b1db8b8o8b1o1~x2/"><circle cx="226.2" cy="231.7" r="4" fill="#3465a4"><title>Over Mountain</title></circle></a><a href="/variants/s12/db6g2dg4db12r3lr2r8lr3dg6lr3dg6lr3~x2~g2304202-dg1806142/"><circle cx="102.0" cy="220.5" r="4" fill="#3465a4"><title>Rainbow (Canada)</title></circle></a><a href="/variants/s12/db16r2db2r2g14r13w2r13g14db14r2db2~x2/"><circle cx="177.2" cy="201.4" r="4" fill="#3465a4"><title>Fraser of Lovat</title></circle></a><a href="/variants/s11/db10r2db10r10dg2r2dg2r2dg10r1w2~x4/"><circle cx="202.8" cy="190.1" r="4" fill="#3465a4"><title>North Berwick (Dance)</title></circle></a><circle cx="164.9" cy="234.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/db18o4db3o3db3o18b18r10b18o18db18o3r10~x2/

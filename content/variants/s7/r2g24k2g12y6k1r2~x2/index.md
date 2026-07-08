@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Inman (2016)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2g24k2g12y6k1r2/)
 (the same proportion at any scale), whose colour order is pattern [RGKGGKR](/stripes/rgkggkr/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11586
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11586](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11586)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k3dg2k3dg18r2db2dy1~x4~dg1806142-r1606028-db1004274/"><circle cx="352.1" cy="132.9" r="4" fill="#3465a4"><title>Sevlon Bruce Personal Tartan</title></circle></a><a href="/variants/s7/k3g2k3g18r2db2ly1~x4~g2106142-r1606028-db1004274/"><circle cx="325.5" cy="125.2" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/variants/s7/k3g2k3g18dr2db2ly1~x4/"><circle cx="318.4" cy="125.4" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/"><circle cx="383.0" cy="93.3" r="4" fill="#3465a4"><title>Arnold Palmer Corporate Tartan</title></circle></a><a href="/variants/s5/g50k6b11g25ly4~x2/"><circle cx="454.4" cy="206.3" r="4" fill="#3465a4"><title>Glen of Daviot (Dalgleish)</title></circle></a><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="358.1" cy="129.9" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/variants/s8/g60w3k12n5g9n6k4w10/"><circle cx="325.8" cy="130.0" r="4" fill="#3465a4"><title>New York Jets</title></circle></a><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="371.0" cy="138.3" r="4" fill="#3465a4"><title>Tahrir (Liberation)</title></circle></a><a href="/variants/s6/g32k6g4k8r1k2~x4/"><circle cx="399.2" cy="135.0" r="4" fill="#3465a4"><title>Fife, Duke Of</title></circle></a><a href="/variants/s6/g32k6g4k8r1k2~x2/"><circle cx="399.2" cy="135.0" r="4" fill="#3465a4"><title>Fife, Duke of..</title></circle></a><circle cx="454.7" cy="153.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k3dg2k3dg18r2db2dy1~x4~dg1806142-r1606028-db1004274/"><circle cx="352.0" cy="133.1" r="4" fill="#3465a4"><title>Sevlon Bruce Personal Tartan</title></circle></a><a href="/variants/s7/k3g2k3g18r2db2ly1~x4~g2106142-r1606028-db1004274/"><circle cx="325.4" cy="125.5" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/variants/s7/k3g2k3g18dr2db2ly1~x4/"><circle cx="318.4" cy="125.7" r="4" fill="#3465a4"><title>Selvon-Bruce (Personal)</title></circle></a><a href="/variants/s10/dg40r5k2w2k2y3k2dg10r3k3~x2~dg1605139/"><circle cx="382.9" cy="93.4" r="4" fill="#3465a4"><title>Arnold Palmer Corporate Tartan</title></circle></a><a href="/variants/s5/g50k6b11g25ly4~x2/"><circle cx="454.5" cy="206.8" r="4" fill="#3465a4"><title>Glen of Daviot (Dalgleish)</title></circle></a><a href="/variants/s8/k2w2db8k4g33r2g16w2~x2/"><circle cx="358.1" cy="130.2" r="4" fill="#3465a4"><title>Sarros (Personal) XX</title></circle></a><a href="/variants/s8/g60w3k12n5g9n6k4w10/"><circle cx="325.7" cy="130.4" r="4" fill="#3465a4"><title>New York Jets</title></circle></a><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="371.0" cy="138.7" r="4" fill="#3465a4"><title>Tahrir (Liberation)</title></circle></a><a href="/variants/s6/g32k6g4k8r1k2~x4/"><circle cx="399.2" cy="135.3" r="4" fill="#3465a4"><title>Fife, Duke Of</title></circle></a><a href="/variants/s6/g32k6g4k8r1k2~x2/"><circle cx="399.2" cy="135.3" r="4" fill="#3465a4"><title>Fife, Duke of..</title></circle></a><circle cx="454.7" cy="154.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r2g24k2g12y6k1r2~x2/

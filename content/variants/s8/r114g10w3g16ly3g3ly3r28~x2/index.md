@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Duke of Sussex (Earl of Inverness)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r114g10w3g16ly3g3ly3r28/)
 (the same proportion at any scale), whose colour order is pattern [RGWGYGYR](/stripes/rgwgygyr/).
 
 Sourced from logan-1831.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link /posts/logans-scottish-gael/
+Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 
 ## Provenance
 
@@ -18,7 +20,7 @@ James Logan recorded the **Duke of Sussex (Earl of Inverness)** sett in 1831, on
 
 > 28½ red · 2½ green · ¾ white · 4 green · ¾ yellow · ¾ green · ¾ yellow · 7 red
 
-In threads (at 8 to the eighth-inch) that is `R/228 G20 W6 G32 Y6 G6 Y6 R/56`. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+Rendered at 8 threads to the eighth-inch that is `R/228 G20 W6 G32 Y6 G6 Y6 R/56` — the eighths are the captured data, and the threadcount is derived from them at that stated factor. How many threads an eighth of cloth held depends on the weave's density, so the factor is a display calibration, not Logan's count; the sett's identity lives in the proportions, which the eighths record directly. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
 
 See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table and method.
 
@@ -38,6 +40,7 @@ Later records of the **Duke of Sussex** name adjusted Logan's counts: [Duke of S
 <ol class="capture-chain">
 <li>James Logan, The Scottish Gaël (first edition) <small>1831</small> · Public domain<br><small>the printed Table of Clan Tartans, vol. II pp. 401-408, plus the Duke of Sussex plate</small></li>
 <li><a href="https://archive.org/details/scotishgalorcel02logagoog">Internet Archive scan</a><br><small>the digitised first edition the transcription was made from, cross-checked against the OCR</small></li>
+<li><a href="/posts/logans-scottish-gael/">Tartan Dictionary transcription — Logan's Scottish Gaël</a> <small>2026-06</small> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><br><small>by-eye transcription of the Table of Clan Tartans and the Duke of Sussex plate — depths in eighths of an inch, rendered at 8 threads per eighth (a display calibration anchored by the Register's Abercrombie ×8 stripe-for-stripe match); method and match report in the linked post</small></li>
 <li>this dictionary<br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
 </details>
@@ -64,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r65w2r3dr4g11r3g3r11~x2/"><circle cx="594.2" cy="108.0" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken</title></circle></a><a href="/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/"><circle cx="499.3" cy="58.2" r="4" fill="#3465a4"><title>Junor</title></circle></a><a href="/variants/s8/ri65w2ri3r4dg11ri3dg3ri11~ri2008029-r1506028/"><circle cx="607.6" cy="112.6" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="491.6" cy="90.8" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><a href="/variants/s8/r42db4y1db6g1db1g1r12~x2/"><circle cx="575.8" cy="92.5" r="4" fill="#3465a4"><title>Inverness Earl of</title></circle></a><a href="/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/"><circle cx="609.3" cy="101.2" r="4" fill="#3465a4"><title>Earl of Inverness (Artefact)</title></circle></a><a href="/variants/s5/r39g6r2g3w1~x2/"><circle cx="624.8" cy="141.7" r="4" fill="#3465a4"><title>MacGregor #2</title></circle></a><a href="/variants/s8/r70t1r2g12k2g1k10w1~x2/"><circle cx="452.0" cy="40.0" r="4" fill="#3465a4"><title>Zamzam (Personal)</title></circle></a><a href="/variants/s6/g4r16k5r50g4w1~x4/"><circle cx="558.0" cy="90.1" r="4" fill="#3465a4"><title>Chalet</title></circle></a><a href="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/"><circle cx="570.3" cy="83.7" r="4" fill="#3465a4"><title>Prince of Denmark (Corporate)</title></circle></a><circle cx="583.4" cy="102.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r65w2r3dr4g11r3g3r11~x2/"><circle cx="594.1" cy="108.2" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken</title></circle></a><a href="/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/"><circle cx="499.2" cy="58.3" r="4" fill="#3465a4"><title>Junor</title></circle></a><a href="/variants/s8/ri65w2ri3r4dg11ri3dg3ri11~ri2008029-r1506028/"><circle cx="607.6" cy="112.8" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="491.6" cy="91.0" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><a href="/variants/s8/r42db4y1db6g1db1g1r12~x2/"><circle cx="575.7" cy="92.7" r="4" fill="#3465a4"><title>Inverness Earl of</title></circle></a><a href="/variants/s8/r42dp4ly1dp6g1dp1g1r12~x2/"><circle cx="609.3" cy="101.3" r="4" fill="#3465a4"><title>Earl of Inverness (Artefact)</title></circle></a><a href="/variants/s5/r39g6r2g3w1~x2/"><circle cx="624.8" cy="142.0" r="4" fill="#3465a4"><title>MacGregor #2</title></circle></a><a href="/variants/s8/r70t1r2g12k2g1k10w1~x2/"><circle cx="451.8" cy="40.1" r="4" fill="#3465a4"><title>Zamzam (Personal)</title></circle></a><a href="/variants/s6/g4r16k5r50g4w1~x4/"><circle cx="557.9" cy="90.3" r="4" fill="#3465a4"><title>Chalet</title></circle></a><a href="/variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/"><circle cx="570.2" cy="83.9" r="4" fill="#3465a4"><title>Prince of Denmark (Corporate)</title></circle></a><circle cx="583.4" cy="102.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r114g10w3g16ly3g3ly3r28~x2/

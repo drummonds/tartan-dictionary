@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Frame"
   url: "/tartans/frame/"
+- name: "Frame"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4db14r1db1w1db1r1db14r14db1r1w1/)
 (the same proportion at any scale), whose colour order is pattern [WBRBWBRBRBRW](/stripes/wbrbwbrbrbrw/).
@@ -14,7 +16,7 @@ Part of the [Frame](/tartans/frame/) tartan — the named design grouping this s
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w4t14r1t1w1t1r1t14r14t1r1w1~x4/"><circle cx="367.0" cy="163.5" r="4" fill="#3465a4"><title>Frame (Name)</title></circle></a><a href="/variants/s12/w4t14r1t1w1t1r1t14r14t1r1w1~x4~w4000000/"><circle cx="364.6" cy="162.7" r="4" fill="#3465a4"><title>Frame</title></circle></a><a href="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/"><circle cx="332.2" cy="164.2" r="4" fill="#3465a4"><title>New Breckon (Fashion?)</title></circle></a><a href="/variants/s10/db5r2db5w7db32w7r13db3r13w2~x2/"><circle cx="281.5" cy="166.2" r="4" fill="#3465a4"><title>America (Eagle version)</title></circle></a><a href="/variants/s11/db2w2r2w2r2db2r2db12dy1db2w2~x4/"><circle cx="286.0" cy="154.3" r="4" fill="#3465a4"><title>Good Morning America (Corporate)</title></circle></a><a href="/variants/s10/db40r40db44r2db2r40db2r2db2r7~x2/"><circle cx="397.0" cy="141.6" r="4" fill="#3465a4"><title>Unnamed C18th - Prince Charles Edward #2</title></circle></a><a href="/variants/s8/db33w7db5r2db5w2r13db3~x2/"><circle cx="384.0" cy="163.8" r="4" fill="#3465a4"><title>Americana - 1978 (Fashion)</title></circle></a><a href="/variants/s8/db32r3db3r4w3r5db4r7~x2/"><circle cx="391.3" cy="175.5" r="4" fill="#3465a4"><title>Edinburgh TIC (Corporate)</title></circle></a><a href="/variants/s14/db2r9db20y4db9w4db20r9db2y1db2r20db2w1~x2/"><circle cx="311.9" cy="137.6" r="4" fill="#3465a4"><title>Unidentified (Knapp)</title></circle></a><a href="/variants/s12/db25r3db3r17w3r6w3r17db3r3db25r3~x2/"><circle cx="298.8" cy="188.0" r="4" fill="#3465a4"><title>Bon Accord Corporate Com Tartan</title></circle></a><circle cx="334.0" cy="146.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w4t14r1t1w1t1r1t14r14t1r1w1~x4/"><circle cx="367.1" cy="163.9" r="4" fill="#3465a4"><title>Frame (Name)</title></circle></a><a href="/variants/s12/w4t14r1t1w1t1r1t14r14t1r1w1~x4~w4000000/"><circle cx="364.6" cy="163.1" r="4" fill="#3465a4"><title>Frame</title></circle></a><a href="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/"><circle cx="332.2" cy="164.6" r="4" fill="#3465a4"><title>New Breckon (Fashion?)</title></circle></a><a href="/variants/s10/db5r2db5w7db32w7r13db3r13w2~x2/"><circle cx="281.6" cy="166.7" r="4" fill="#3465a4"><title>America (Eagle version)</title></circle></a><a href="/variants/s11/db2w2r2w2r2db2r2db12dy1db2w2~x4/"><circle cx="286.0" cy="154.7" r="4" fill="#3465a4"><title>Good Morning America (Corporate)</title></circle></a><a href="/variants/s10/db40r40db44r2db2r40db2r2db2r7~x2/"><circle cx="397.0" cy="142.0" r="4" fill="#3465a4"><title>Unnamed C18th - Prince Charles Edward #2</title></circle></a><a href="/variants/s8/db33w7db5r2db5w2r13db3~x2/"><circle cx="384.0" cy="164.3" r="4" fill="#3465a4"><title>Americana - 1978 (Fashion)</title></circle></a><a href="/variants/s8/db32r3db3r4w3r5db4r7~x2/"><circle cx="391.3" cy="176.0" r="4" fill="#3465a4"><title>Edinburgh TIC (Corporate)</title></circle></a><a href="/variants/s14/db2r9db20y4db9w4db20r9db2y1db2r20db2w1~x2/"><circle cx="311.9" cy="137.9" r="4" fill="#3465a4"><title>Unidentified (Knapp)</title></circle></a><a href="/variants/s12/db25r3db3r17w3r6w3r17db3r3db25r3~x2/"><circle cx="298.9" cy="188.5" r="4" fill="#3465a4"><title>Bon Accord Corporate Com Tartan</title></circle></a><circle cx="334.0" cy="147.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/w4db14r1db1w1db1r1db14r14db1r1w1~x2/

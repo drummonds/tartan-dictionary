@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "De Clercq, Christian Family (Belgium)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n3db1n1r1n1r1db10lb1n9lb35y2lb2y1n2/)
 (the same proportion at any scale), whose colour order is pattern [BBBRBRBWBWGWGB](/stripes/bbbrbrbwbwgwgb/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10741
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10741](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10741)
 
 ## Provenance
 
@@ -68,8 +70,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb3db1lb1r1lb1db10r1lb9t35ly2t2ly1lb2~x2/"><circle cx="358.3" cy="91.6" r="4" fill="#3465a4"><title>De Clercq, Christian (Belgium)</title></circle></a><a href="/variants/s10/w5n38o3db11o1db11o3n4w5lr1~x2~n1900000-o2500000/"><circle cx="316.7" cy="105.8" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><a href="/variants/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/"><circle cx="339.5" cy="106.6" r="4" fill="#3465a4"><title>Renfrew #2</title></circle></a><a href="/variants/s12/w2r5b4g8b4r5w2r5b40g8b4w2~x2/"><circle cx="366.1" cy="135.1" r="4" fill="#3465a4"><title>Yamaue (Corporate)</title></circle></a><a href="/variants/s11/w72db20y2db3w2db3n16o6db2o5w2~x2/"><circle cx="314.4" cy="72.7" r="4" fill="#3465a4"><title>Stewart dress, Blue</title></circle></a><a href="/variants/s11/lb50db14g2db2lb2db2n10t6k2t3lb2~x2/"><circle cx="290.4" cy="73.1" r="4" fill="#3465a4"><title>Blue Dunnett (Fashion)</title></circle></a><a href="/variants/s13/k1y1k1y1k1y1k1y1n46lb17n4lb16r1~x2/"><circle cx="356.2" cy="53.0" r="4" fill="#3465a4"><title>Saunders (Personal)</title></circle></a><a href="/variants/s13/t38do4r3dy6w2dy2w2dy2do12t6dy2t6w2~x2/"><circle cx="330.8" cy="117.7" r="4" fill="#3465a4"><title>Leando Dress (Personal)</title></circle></a><a href="/variants/s14/y8lb8r8db2r3db2r3db3r2db3r2db52lb2w8/"><circle cx="320.0" cy="73.8" r="4" fill="#3465a4"><title>Kiltwalk</title></circle></a><a href="/variants/s11/r2lb2r1lb24o1n3k3lb3o12lb4r1~x2~o2500000-n1900000/"><circle cx="334.3" cy="105.4" r="4" fill="#3465a4"><title>Dabney Grey (Personal)</title></circle></a><circle cx="342.0" cy="73.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/lb3db1lb1r1lb1db10r1lb9t35ly2t2ly1lb2~x2/"><circle cx="358.2" cy="91.6" r="4" fill="#3465a4"><title>De Clercq, Christian (Belgium)</title></circle></a><a href="/variants/s10/w5n38o3db11o1db11o3n4w5lr1~x2~n1900000-o2500000/"><circle cx="316.6" cy="105.9" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><a href="/variants/s11/lb50db6lo2db3lb2db3y8dy8db2dy8lb2~x2/"><circle cx="339.5" cy="106.8" r="4" fill="#3465a4"><title>Renfrew #2</title></circle></a><a href="/variants/s12/w2r5b4g8b4r5w2r5b40g8b4w2~x2/"><circle cx="366.1" cy="135.3" r="4" fill="#3465a4"><title>Yamaue (Corporate)</title></circle></a><a href="/variants/s11/w72db20y2db3w2db3n16o6db2o5w2~x2/"><circle cx="314.3" cy="72.9" r="4" fill="#3465a4"><title>Stewart dress, Blue</title></circle></a><a href="/variants/s11/lb50db14g2db2lb2db2n10t6k2t3lb2~x2/"><circle cx="290.3" cy="73.2" r="4" fill="#3465a4"><title>Blue Dunnett (Fashion)</title></circle></a><a href="/variants/s13/k1y1k1y1k1y1k1y1n46lb17n4lb16r1~x2/"><circle cx="356.0" cy="53.0" r="4" fill="#3465a4"><title>Saunders (Personal)</title></circle></a><a href="/variants/s13/t38do4r3dy6w2dy2w2dy2do12t6dy2t6w2~x2/"><circle cx="330.7" cy="117.9" r="4" fill="#3465a4"><title>Leando Dress (Personal)</title></circle></a><a href="/variants/s14/y8lb8r8db2r3db2r3db3r2db3r2db52lb2w8/"><circle cx="319.9" cy="73.9" r="4" fill="#3465a4"><title>Kiltwalk</title></circle></a><a href="/variants/s11/r2lb2r1lb24o1n3k3lb3o12lb4r1~x2~o2500000-n1900000/"><circle cx="334.3" cy="105.6" r="4" fill="#3465a4"><title>Dabney Grey (Personal)</title></circle></a><circle cx="341.9" cy="73.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/n3db1n1r1n1r1db10lb1n9lb35y2lb2y1n2~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Slanj"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k28t3k3t25k3t25k3t3k28o4/)
 (the same proportion at any scale), whose colour order is pattern [KBKBKBKBKR](/stripes/kbkbkbkbkr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3816
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3816](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3816)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k1t17k17t1r1t1k17t17k1w1~x4/"><circle cx="264.3" cy="135.9" r="4" fill="#3465a4"><title>Sorbie</title></circle></a><a href="/variants/s6/o4k28t3k3t25k3~x2/"><circle cx="267.0" cy="189.6" r="4" fill="#3465a4"><title>Slanj (Corporate)</title></circle></a><a href="/variants/s6/k3w2k18t18k2t3~x4/"><circle cx="263.0" cy="198.4" r="4" fill="#3465a4"><title>Swan (Name)</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="289.5" cy="185.4" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/variants/s9/db5k9g7k3g7k3g7k25g3~x2/"><circle cx="273.9" cy="193.2" r="4" fill="#3465a4"><title>Menez Du</title></circle></a><a href="/variants/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2~lr2800000-t2503227/"><circle cx="209.5" cy="186.3" r="4" fill="#3465a4"><title>Clergy (Corporate)</title></circle></a><a href="/variants/s11/k1w1db8k9w1k9w1db2w1k4w1~x2/"><circle cx="281.6" cy="169.2" r="4" fill="#3465a4"><title>Clergy (Mackinlay)</title></circle></a><a href="/variants/s7/n34k7n12k39n3k4lg3~x2/"><circle cx="290.3" cy="178.2" r="4" fill="#3465a4"><title>Tartan Army Children's Charity (Corp</title></circle></a><a href="/variants/s8/k10lb1k2lb1k4lb10g1lb2~x4/"><circle cx="267.4" cy="183.0" r="4" fill="#3465a4"><title>Martin's Own</title></circle></a><a href="/variants/s7/n34k7n12k40n3k4lb3~x2/"><circle cx="293.9" cy="176.4" r="4" fill="#3465a4"><title>TACC</title></circle></a><circle cx="259.2" cy="176.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k1t17k17t1r1t1k17t17k1w1~x4/"><circle cx="264.3" cy="136.2" r="4" fill="#3465a4"><title>Sorbie</title></circle></a><a href="/variants/s6/o4k28t3k3t25k3~x2/"><circle cx="267.0" cy="190.2" r="4" fill="#3465a4"><title>Slanj (Corporate)</title></circle></a><a href="/variants/s6/k3w2k18t18k2t3~x4/"><circle cx="263.0" cy="199.0" r="4" fill="#3465a4"><title>Swan (Name)</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="289.5" cy="185.9" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/variants/s9/db5k9g7k3g7k3g7k25g3~x2/"><circle cx="273.9" cy="193.7" r="4" fill="#3465a4"><title>Menez Du</title></circle></a><a href="/variants/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2~lr2800000-t2503227/"><circle cx="209.5" cy="186.8" r="4" fill="#3465a4"><title>Clergy (Corporate)</title></circle></a><a href="/variants/s11/k1w1db8k9w1k9w1db2w1k4w1~x2/"><circle cx="281.6" cy="169.7" r="4" fill="#3465a4"><title>Clergy (Mackinlay)</title></circle></a><a href="/variants/s7/n34k7n12k39n3k4lg3~x2/"><circle cx="290.3" cy="178.7" r="4" fill="#3465a4"><title>Tartan Army Children's Charity (Corp</title></circle></a><a href="/variants/s8/k10lb1k2lb1k4lb10g1lb2~x4/"><circle cx="267.5" cy="183.6" r="4" fill="#3465a4"><title>Martin's Own</title></circle></a><a href="/variants/s7/n34k7n12k40n3k4lb3~x2/"><circle cx="293.9" cy="176.9" r="4" fill="#3465a4"><title>TACC</title></circle></a><circle cx="259.2" cy="176.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k28t3k3t25k3t25k3t3k28o4~x2/

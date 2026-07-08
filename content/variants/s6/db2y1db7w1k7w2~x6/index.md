@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hawick Rugby Club"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2y1db7w1k7w2/)
 (the same proportion at any scale), whose colour order is pattern [BGBWKWKWBG](/stripes/bgbwkwkwbg/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1630
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1630](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1630)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k1lb1db6k6lp1k6lb1db2lb1db3lb1~x2/"><circle cx="175.7" cy="189.6" r="4" fill="#3465a4"><title>Clergy &quot;Two Spirit&quot; (Personal)</title></circle></a><a href="/variants/s7/k19w8k19b16y4b16w2~x2/"><circle cx="166.0" cy="213.0" r="4" fill="#3465a4"><title>St Johnstone F.C.</title></circle></a><a href="/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/"><circle cx="187.2" cy="178.0" r="4" fill="#3465a4"><title>Immanuel Presbyterian Church (Corp)</title></circle></a><a href="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x2/"><circle cx="195.2" cy="203.2" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x4/"><circle cx="195.2" cy="203.2" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/variants/s8/r3db2w2db26k22w3db3w3~x2/"><circle cx="235.0" cy="145.2" r="4" fill="#3465a4"><title>DeCloud-McMasters (Personal)</title></circle></a><a href="/variants/s11/k2lb2db10k10lb2k10lb2db3lb2db5lb2~x2/"><circle cx="176.0" cy="214.1" r="4" fill="#3465a4"><title>Clergy Blue Tartan</title></circle></a><a href="/variants/s7/t6db3t6db20k20db8w4~x2~t1904245-db1004274/"><circle cx="195.5" cy="219.7" r="4" fill="#3465a4"><title>Allianz Deutschland 2012</title></circle></a><a href="/variants/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/"><circle cx="154.4" cy="217.5" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s9/db8k2db2k2db2k8g7k1w1~x2/"><circle cx="158.2" cy="192.1" r="4" fill="#3465a4"><title>Forbes #3</title></circle></a><circle cx="178.8" cy="193.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k1lb1db6k6lp1k6lb1db2lb1db3lb1~x2/"><circle cx="175.7" cy="190.0" r="4" fill="#3465a4"><title>Clergy &quot;Two Spirit&quot; (Personal)</title></circle></a><a href="/variants/s7/k19w8k19b16y4b16w2~x2/"><circle cx="166.1" cy="213.6" r="4" fill="#3465a4"><title>St Johnstone F.C.</title></circle></a><a href="/variants/s11/k3lo2b14k14lb2k14lb2b6lb2b16lb3~x2/"><circle cx="187.2" cy="178.5" r="4" fill="#3465a4"><title>Immanuel Presbyterian Church (Corp)</title></circle></a><a href="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x2/"><circle cx="195.2" cy="203.8" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x4/"><circle cx="195.2" cy="203.8" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/variants/s8/r3db2w2db26k22w3db3w3~x2/"><circle cx="235.0" cy="145.6" r="4" fill="#3465a4"><title>DeCloud-McMasters (Personal)</title></circle></a><a href="/variants/s11/k2lb2db10k10lb2k10lb2db3lb2db5lb2~x2/"><circle cx="176.1" cy="214.7" r="4" fill="#3465a4"><title>Clergy Blue Tartan</title></circle></a><a href="/variants/s7/t6db3t6db20k20db8w4~x2~t1904245-db1004274/"><circle cx="195.5" cy="220.2" r="4" fill="#3465a4"><title>Allianz Deutschland 2012</title></circle></a><a href="/variants/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/"><circle cx="154.4" cy="218.1" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s9/db8k2db2k2db2k8g7k1w1~x2/"><circle cx="158.2" cy="192.6" r="4" fill="#3465a4"><title>Forbes #3</title></circle></a><circle cx="178.8" cy="193.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db2y1db7w1k7w2~x6/

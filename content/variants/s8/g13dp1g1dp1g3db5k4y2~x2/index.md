@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Carrick Hunting"
   url: "/tartans/carrick-hunting/"
+- name: "Carrick, hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g13dp1g1dp1g3db5k4y2/)
 (the same proportion at any scale), whose colour order is pattern [GBGBGBKG](/stripes/gbgbgbkg/).
@@ -14,7 +16,7 @@ Part of the [Carrick Hunting](/tartans/carrick-hunting/) tartan — the named de
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g13dp1g1dp1g3t5k4y2~x4/"><circle cx="262.9" cy="159.9" r="4" fill="#3465a4"><title>Carrick Hunting (Personal)</title></circle></a><a href="/variants/s7/ly3g24dt11g3k10g3w2~x2/"><circle cx="219.4" cy="165.8" r="4" fill="#3465a4"><title>Cornish Brewery, Green</title></circle></a><a href="/variants/s9/dy1k6g4k1g16db1g4db6w1~x4/"><circle cx="268.4" cy="135.8" r="4" fill="#3465a4"><title>Henderson/MacKendrick</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x2/"><circle cx="268.4" cy="135.9" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x4/"><circle cx="268.4" cy="135.9" r="4" fill="#3465a4"><title>MacKendrick (Clan)</title></circle></a><a href="/variants/s7/g2k1g12dr4g3db9lb2~x4/"><circle cx="232.3" cy="181.8" r="4" fill="#3465a4"><title>Lee (Personal)</title></circle></a><a href="/variants/s8/g2k3y1k3g2db8g16k1~x4/"><circle cx="272.4" cy="152.0" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="233.1" cy="166.9" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/variants/s7/g18k2b2k2lb3k2y6~x4/"><circle cx="213.2" cy="166.1" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/variants/s8/dy2g12k10r1t16r2t16r1~x4/"><circle cx="230.1" cy="157.6" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><circle cx="253.1" cy="154.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g13dp1g1dp1g3t5k4y2~x4/"><circle cx="262.9" cy="160.2" r="4" fill="#3465a4"><title>Carrick Hunting (Personal)</title></circle></a><a href="/variants/s7/ly3g24dt11g3k10g3w2~x2/"><circle cx="219.4" cy="166.3" r="4" fill="#3465a4"><title>Cornish Brewery, Green</title></circle></a><a href="/variants/s9/dy1k6g4k1g16db1g4db6w1~x4/"><circle cx="268.4" cy="136.1" r="4" fill="#3465a4"><title>Henderson/MacKendrick</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x2/"><circle cx="268.3" cy="136.2" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x4/"><circle cx="268.3" cy="136.2" r="4" fill="#3465a4"><title>MacKendrick (Clan)</title></circle></a><a href="/variants/s7/g2k1g12dr4g3db9lb2~x4/"><circle cx="232.3" cy="182.2" r="4" fill="#3465a4"><title>Lee (Personal)</title></circle></a><a href="/variants/s8/g2k3y1k3g2db8g16k1~x4/"><circle cx="272.4" cy="152.3" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/variants/s6/k17g48y4r10db12g4/"><circle cx="233.1" cy="167.4" r="4" fill="#3465a4"><title>Asheville Firefighters, The</title></circle></a><a href="/variants/s7/g18k2b2k2lb3k2y6~x4/"><circle cx="213.2" cy="166.5" r="4" fill="#3465a4"><title>Alberta</title></circle></a><a href="/variants/s8/dy2g12k10r1t16r2t16r1~x4/"><circle cx="230.1" cy="158.0" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><circle cx="253.0" cy="154.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g13dp1g1dp1g3db5k4y2~x2/

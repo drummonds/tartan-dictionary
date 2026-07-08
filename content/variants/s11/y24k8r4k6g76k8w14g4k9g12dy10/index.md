@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Offaly County, Crest Range"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y24k8r4k6g76k8w14g4k9g12dy10/)
 (the same proportion at any scale), whose colour order is pattern [GGKGWKGKRKG](/stripes/ggkgwkgkrkg/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5058
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5058](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5058)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/y24k8r4k6g76k8w14g4k9g12ly10/"><circle cx="203.1" cy="91.2" r="4" fill="#3465a4"><title>Offally County Crest (Fashion)</title></circle></a><a href="/variants/s12/g30ly4k6lo2k2g4k2db5y4k2y3g2~x2/"><circle cx="220.8" cy="94.1" r="4" fill="#3465a4"><title>Bottle Green (Fashion)</title></circle></a><a href="/variants/s12/k2w1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="219.5" cy="107.5" r="4" fill="#3465a4"><title>MacClure Htg (Name)</title></circle></a><a href="/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="184.8" cy="105.0" r="4" fill="#3465a4"><title>Stewart (King George VI)</title></circle></a><a href="/variants/s12/k2lr1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="223.5" cy="108.5" r="4" fill="#3465a4"><title>MacClure Hunting Clan/Family Tartan</title></circle></a><a href="/variants/s11/db6g48k4y4k4w4g20r10k4r6w5/"><circle cx="234.8" cy="109.5" r="4" fill="#3465a4"><title>Steel (Personal)</title></circle></a><a href="/variants/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="243.3" cy="62.7" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><a href="/variants/s14/g2w5dg1k7w1dg2k6dg6g9r1g30y2g3w2~x2/"><circle cx="244.9" cy="63.5" r="4" fill="#3465a4"><title>Reilly fae the Mearns</title></circle></a><a href="/variants/s8/k3g34t10g5r2k8dy2w3~x2/"><circle cx="250.3" cy="113.9" r="4" fill="#3465a4"><title>Lambert Kai (Personal)</title></circle></a><a href="/variants/s12/k8r2k3y2k2w3k2o10g26r2g3k2~x2/"><circle cx="148.3" cy="97.1" r="4" fill="#3465a4"><title>Tara, Murphy</title></circle></a><circle cx="205.6" cy="91.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/y24k8r4k6g76k8w14g4k9g12ly10/"><circle cx="203.0" cy="91.4" r="4" fill="#3465a4"><title>Offally County Crest (Fashion)</title></circle></a><a href="/variants/s12/g30ly4k6lo2k2g4k2db5y4k2y3g2~x2/"><circle cx="220.7" cy="94.3" r="4" fill="#3465a4"><title>Bottle Green (Fashion)</title></circle></a><a href="/variants/s12/k2w1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="219.4" cy="107.7" r="4" fill="#3465a4"><title>MacClure Htg (Name)</title></circle></a><a href="/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="184.7" cy="105.2" r="4" fill="#3465a4"><title>Stewart (King George VI)</title></circle></a><a href="/variants/s12/k2lr1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="223.4" cy="108.7" r="4" fill="#3465a4"><title>MacClure Hunting Clan/Family Tartan</title></circle></a><a href="/variants/s11/db6g48k4y4k4w4g20r10k4r6w5/"><circle cx="234.7" cy="109.8" r="4" fill="#3465a4"><title>Steel (Personal)</title></circle></a><a href="/variants/s14/g2w5dg1k7w1dg2k6dg6g9r1g30lo2g3w2~x2/"><circle cx="243.1" cy="62.8" r="4" fill="#3465a4"><title>Reilly fae the Mearns (Personal)</title></circle></a><a href="/variants/s14/g2w5dg1k7w1dg2k6dg6g9r1g30y2g3w2~x2/"><circle cx="244.7" cy="63.6" r="4" fill="#3465a4"><title>Reilly fae the Mearns</title></circle></a><a href="/variants/s8/k3g34t10g5r2k8dy2w3~x2/"><circle cx="250.3" cy="114.2" r="4" fill="#3465a4"><title>Lambert Kai (Personal)</title></circle></a><a href="/variants/s12/k8r2k3y2k2w3k2o10g26r2g3k2~x2/"><circle cx="148.2" cy="97.3" r="4" fill="#3465a4"><title>Tara, Murphy</title></circle></a><circle cx="205.5" cy="91.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/y24k8r4k6g76k8w14g4k9g12dy10/

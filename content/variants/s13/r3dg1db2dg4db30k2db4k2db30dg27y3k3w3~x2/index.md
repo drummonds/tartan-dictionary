@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Joss"
   url: "/tartans/joss/"
+- name: "Joss"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3dg1db2dg4db30k2db4k2db30dg27y3k3w3/)
 (the same proportion at any scale), whose colour order is pattern [GBGBKBKBGGKWKGGBKBKBGBGR](/stripes/gbgbkbkbggkwkggbkbkbgbgr/).
@@ -14,7 +16,7 @@ Part of the [Joss](/tartans/joss/) tartan — the named design grouping this set
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1908
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1908](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1908)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r3g1db2g4db30k2db4k2db30g27y3k3w3~x2/"><circle cx="289.4" cy="72.3" r="4" fill="#3465a4"><title>Joss</title></circle></a><a href="/variants/s30/db24k2db24k1lb1k1dg12dr2k2dr2dg12k1lb1k1db24dr2lb2g2db24k1lb1k1dg12dr2k2dr2dg12k1lb1k1~x2~db1406275-dg1806142-g2408144/"><circle cx="278.7" cy="53.4" r="4" fill="#3465a4"><title>Italian</title></circle></a><a href="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1003265-dbi1605267/"><circle cx="279.9" cy="125.0" r="4" fill="#3465a4"><title>MatchPoint</title></circle></a><circle cx="355.6" cy="71.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r3g1db2g4db30k2db4k2db30g27y3k3w3~x2/"><circle cx="289.3" cy="72.3" r="4" fill="#3465a4"><title>Joss</title></circle></a><a href="/variants/s30/db24k2db24k1lb1k1dg12dr2k2dr2dg12k1lb1k1db24dr2lb2g2db24k1lb1k1dg12dr2k2dr2dg12k1lb1k1~x2~db1406275-dg1806142-g2408144/"><circle cx="278.5" cy="53.2" r="4" fill="#3465a4"><title>Italian</title></circle></a><a href="/variants/s15/db6y2dbi24db4dbi8db6dbi6db8dbi3db10k14db4r3db34w4~db1003265-dbi1605267/"><circle cx="279.8" cy="125.0" r="4" fill="#3465a4"><title>MatchPoint</title></circle></a><circle cx="355.5" cy="71.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/r3dg1db2dg4db30k2db4k2db30dg27y3k3w3~x2/

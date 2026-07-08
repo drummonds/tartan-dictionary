@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Trades House"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2y2t9k10dg12k1y1k1dy1/)
 (the same proportion at any scale), whose colour order is pattern [GKGKGKBGR](/stripes/gkgkgkbgr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4144
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4144](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4144)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r3db3k2db18ly2k25g20r2g3lb3~x2/"><circle cx="106.6" cy="122.5" r="4" fill="#3465a4"><title>Loch Freuchie (District)</title></circle></a><a href="/variants/s10/r3db3k2db13y2k25g20r2g3lb3~x2/"><circle cx="115.3" cy="121.4" r="4" fill="#3465a4"><title>Loch Freuchie</title></circle></a><a href="/variants/s10/k3db10k2w1k2g10k2dg10r1dg2~x4/"><circle cx="81.7" cy="155.1" r="4" fill="#3465a4"><title>Rutledge (Name)</title></circle></a><a href="/variants/s10/k3db10k2w1k2g10k2dg10r1dg1~x4/"><circle cx="76.9" cy="152.0" r="4" fill="#3465a4"><title>Rutledge</title></circle></a><a href="/variants/s9/r3db3k2db13k27g20r2g3lb3~x2/"><circle cx="108.9" cy="117.1" r="4" fill="#3465a4"><title>Loch Freuchie District Tartan</title></circle></a><a href="/variants/s9/r1g3t1g5k1g1k9db12w1~x4~t2402222-db1004274/"><circle cx="124.6" cy="131.9" r="4" fill="#3465a4"><title>St Andrews Golf Club</title></circle></a><a href="/variants/s9/y3k2r3db20k24g20r3k2lb3~x2/"><circle cx="105.8" cy="130.0" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/variants/s9/ly3k2r3db20k24g20r3k2lb3~x2/"><circle cx="102.0" cy="128.8" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/variants/s9/y3db29k15r4g25r8k4r3w2~x2/"><circle cx="95.1" cy="128.8" r="4" fill="#3465a4"><title>George Brown</title></circle></a><a href="/variants/s10/g4lb3g18k14y2k2dp18ly1dp2ly3~x2~y2203076-ly2705081/"><circle cx="117.5" cy="114.6" r="4" fill="#3465a4"><title>Caisteal Leòdhais</title></circle></a><circle cx="111.1" cy="139.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r3db3k2db18ly2k25g20r2g3lb3~x2/"><circle cx="106.5" cy="122.8" r="4" fill="#3465a4"><title>Loch Freuchie (District)</title></circle></a><a href="/variants/s10/r3db3k2db13y2k25g20r2g3lb3~x2/"><circle cx="115.2" cy="121.6" r="4" fill="#3465a4"><title>Loch Freuchie</title></circle></a><a href="/variants/s10/k3db10k2w1k2g10k2dg10r1dg2~x4/"><circle cx="81.6" cy="155.4" r="4" fill="#3465a4"><title>Rutledge (Name)</title></circle></a><a href="/variants/s10/k3db10k2w1k2g10k2dg10r1dg1~x4/"><circle cx="76.8" cy="152.2" r="4" fill="#3465a4"><title>Rutledge</title></circle></a><a href="/variants/s9/r3db3k2db13k27g20r2g3lb3~x2/"><circle cx="108.8" cy="117.3" r="4" fill="#3465a4"><title>Loch Freuchie District Tartan</title></circle></a><a href="/variants/s9/r1g3t1g5k1g1k9db12w1~x4~t2402222-db1004274/"><circle cx="124.5" cy="132.2" r="4" fill="#3465a4"><title>St Andrews Golf Club</title></circle></a><a href="/variants/s9/y3k2r3db20k24g20r3k2lb3~x2/"><circle cx="105.7" cy="130.2" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/variants/s9/ly3k2r3db20k24g20r3k2lb3~x2/"><circle cx="101.9" cy="129.1" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/variants/s9/y3db29k15r4g25r8k4r3w2~x2/"><circle cx="95.0" cy="129.1" r="4" fill="#3465a4"><title>George Brown</title></circle></a><a href="/variants/s10/g4lb3g18k14y2k2dp18ly1dp2ly3~x2~y2203076-ly2705081/"><circle cx="117.4" cy="114.8" r="4" fill="#3465a4"><title>Caisteal Leòdhais</title></circle></a><circle cx="111.1" cy="139.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r2y2t9k10dg12k1y1k1dy1~x4/

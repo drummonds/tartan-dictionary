@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Granger Family Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k40dt4k12dt21dg17k4/)
 (the same proportion at any scale), whose colour order is pattern [KBKBGK](/stripes/kbkbgk/).
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2226
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2226](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2226)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k20lb2k6g16dp4k9~x2/"><circle cx="264.8" cy="197.2" r="4" fill="#3465a4"><title>Wilson's, No 167</title></circle></a><a href="/variants/s8/dr2k13db4k13dg6k17dg23w1~x2/"><circle cx="307.0" cy="159.4" r="4" fill="#3465a4"><title>Meiklejohn (Personal)</title></circle></a><a href="/variants/s6/k43dg8k8dt21dg10w2~x2/"><circle cx="325.0" cy="173.3" r="4" fill="#3465a4"><title>Longmuir (2014)</title></circle></a><a href="/variants/s8/dg5k15dg5k15dg19r2dg10b4~x2/"><circle cx="271.9" cy="216.1" r="4" fill="#3465a4"><title>Strath Halladale (Sutherland)</title></circle></a><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="244.7" cy="156.8" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/variants/s9/k15n2k5n5k18y5k5y2k15~x2/"><circle cx="270.9" cy="198.3" r="4" fill="#3465a4"><title>Laois Irish County Tartan</title></circle></a><a href="/variants/s5/k6db4dg44k41w4~x2/"><circle cx="272.7" cy="195.3" r="4" fill="#3465a4"><title>Douglas (Clan)</title></circle></a><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2/"><circle cx="292.8" cy="175.5" r="4" fill="#3465a4"><title>Wild Highlanders (Corporate)</title></circle></a><a href="/variants/s5/k2db11k26g11k2~x2/"><circle cx="294.3" cy="197.8" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/variants/s7/k14dg7k2g8k4y2k1~x4/"><circle cx="247.9" cy="175.3" r="4" fill="#3465a4"><title>Grass of Rasunda (2009), The</title></circle></a><circle cx="275.5" cy="211.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k20lb2k6g16dp4k9~x2/"><circle cx="264.8" cy="197.8" r="4" fill="#3465a4"><title>Wilson's, No 167</title></circle></a><a href="/variants/s8/dr2k13db4k13dg6k17dg23w1~x2/"><circle cx="307.0" cy="159.6" r="4" fill="#3465a4"><title>Meiklejohn (Personal)</title></circle></a><a href="/variants/s6/k43dg8k8dt21dg10w2~x2/"><circle cx="325.0" cy="173.5" r="4" fill="#3465a4"><title>Longmuir (2014)</title></circle></a><a href="/variants/s8/dg5k15dg5k15dg19r2dg10b4~x2/"><circle cx="271.9" cy="216.6" r="4" fill="#3465a4"><title>Strath Halladale (Sutherland)</title></circle></a><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="244.7" cy="157.2" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/variants/s9/k15n2k5n5k18y5k5y2k15~x2/"><circle cx="270.9" cy="198.6" r="4" fill="#3465a4"><title>Laois Irish County Tartan</title></circle></a><a href="/variants/s5/k6db4dg44k41w4~x2/"><circle cx="272.7" cy="195.8" r="4" fill="#3465a4"><title>Douglas (Clan)</title></circle></a><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2/"><circle cx="292.8" cy="176.0" r="4" fill="#3465a4"><title>Wild Highlanders (Corporate)</title></circle></a><a href="/variants/s5/k2db11k26g11k2~x2/"><circle cx="294.3" cy="198.3" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/variants/s7/k14dg7k2g8k4y2k1~x4/"><circle cx="247.9" cy="175.7" r="4" fill="#3465a4"><title>Grass of Rasunda (2009), The</title></circle></a><circle cx="275.5" cy="211.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k40dt4k12dt21dg17k4~x2~dg1804158/

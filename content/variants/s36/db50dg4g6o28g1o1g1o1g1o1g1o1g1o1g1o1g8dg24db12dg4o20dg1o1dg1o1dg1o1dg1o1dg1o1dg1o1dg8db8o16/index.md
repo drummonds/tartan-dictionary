@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nova, Scotia"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db50dg4g6o28g1o1g1o1g1o1g1o1g1o1g1o1g8dg24db12dg4o20dg1o1dg1o1dg1o1dg1o1dg1o1dg1o1dg8db8o16/)
 (the same proportion at any scale), whose colour order is pattern [BGGRGRGRGRGRGRGRGGBGRGRGRGRGRGRGRGBR](/stripes/bggrgrgrgrgrgrgrggbgrgrgrgrgrgrgrgbr/).
 
 Sourced from weddslist.  It is a [36 stripe tartan](/stripes/stripes36/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s36/dg50ly16dg8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40dg12dy24r8ly1r1ly1r1ly1r1ly1r1ly1r1ly1r1ly28r6dy4~ly2705081/"><circle cx="271.9" cy="50.2" r="4" fill="#3465a4"><title>Ontario Centennial</title></circle></a><a href="/variants/s36/g50r16g8do8r1do1r1do1r1do1r1do1r1do1r1do1r20do40g12do24y8r1y1r1y1r1y1r1y1r1y1r1y1r28y6do4/"><circle cx="276.7" cy="48.0" r="4" fill="#3465a4"><title>Newfoundland (CIDD 28098)</title></circle></a><a href="/variants/s25/b22r1dg4b4dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg9o24db2~x4/"><circle cx="295.8" cy="76.5" r="4" fill="#3465a4"><title>Allen hunting</title></circle></a><circle cx="284.6" cy="49.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s36/dg50ly16dg8dy8ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly1dy1ly20dy40dg12dy24r8ly1r1ly1r1ly1r1ly1r1ly1r1ly1r1ly28r6dy4~ly2705081/"><circle cx="271.7" cy="50.0" r="4" fill="#3465a4"><title>Ontario Centennial</title></circle></a><a href="/variants/s36/g50r16g8do8r1do1r1do1r1do1r1do1r1do1r1do1r20do40g12do24y8r1y1r1y1r1y1r1y1r1y1r1y1r28y6do4/"><circle cx="276.6" cy="47.8" r="4" fill="#3465a4"><title>Newfoundland (CIDD 28098)</title></circle></a><a href="/variants/s25/b22r1dg4b4dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg1b1dg9o24db2~x4/"><circle cx="295.7" cy="76.3" r="4" fill="#3465a4"><title>Allen hunting</title></circle></a><circle cx="284.4" cy="49.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s36/db50dg4g6o28g1o1g1o1g1o1g1o1g1o1g1o1g8dg24db12dg4o20dg1o1dg1o1dg1o1dg1o1dg1o1dg1o1dg8db8o16/

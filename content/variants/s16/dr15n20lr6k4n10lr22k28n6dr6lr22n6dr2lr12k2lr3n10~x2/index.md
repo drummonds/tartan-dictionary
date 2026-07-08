@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Alexander Brothers - 1993 (Corp.)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr15n20lr6k4n10lr22k28n6dr6lr22n6dr2lr12k2lr3n10/)
 (the same proportion at any scale), whose colour order is pattern [BBYKBYKBBYBBYKYB](/stripes/bbykbykbbybbykyb/).
 
 Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3050
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3050](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3050)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/r4k8r3k6r3k4r3k2r4k2w3k2lb16k1r4k1lb8r4~x2/"><circle cx="121.4" cy="123.9" r="4" fill="#3465a4"><title>Royal Canadian Air Force #3</title></circle></a><a href="/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/"><circle cx="126.5" cy="177.1" r="4" fill="#3465a4"><title>Murray of Atholl, Red Dress</title></circle></a><a href="/variants/s14/w4k1db12k1g8w2r8w2k8r16k4r8w2r1~x2/"><circle cx="132.7" cy="117.5" r="4" fill="#3465a4"><title>Kenya</title></circle></a><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><circle cx="108.9" cy="183.8" r="4" fill="#3465a4"><title>Unidentified Sample #2</title></circle></a><a href="/variants/s15/db4w2r6k1db12dg4db2r6db1r6w2dg8r2w16r4~x2/"><circle cx="97.4" cy="123.7" r="4" fill="#3465a4"><title>MacFarlane Dress</title></circle></a><a href="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><circle cx="132.5" cy="146.0" r="4" fill="#3465a4"><title>Bonner, (Bonnar)</title></circle></a><a href="/variants/s12/r3lb19k4r3k3r7k3r5k3r5k2w2~x2/"><circle cx="148.1" cy="147.6" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><a href="/variants/s12/y4k2r7k15r3k3r3k7w28r7w6r2/"><circle cx="150.6" cy="127.6" r="4" fill="#3465a4"><title>Walker, dress</title></circle></a><a href="/variants/s10/g14k5db2r21g18k4db18r9k2r12/"><circle cx="153.4" cy="187.2" r="4" fill="#3465a4"><title>Ruben Delanghe (Personal)</title></circle></a><a href="/variants/s8/dy11db1dy11w10db1r11db1r11~x2/"><circle cx="164.5" cy="175.8" r="4" fill="#3465a4"><title>St. Andrews (Queens University)</title></circle></a><circle cx="138.6" cy="149.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/r4k8r3k6r3k4r3k2r4k2w3k2lb16k1r4k1lb8r4~x2/"><circle cx="121.4" cy="124.3" r="4" fill="#3465a4"><title>Royal Canadian Air Force #3</title></circle></a><a href="/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/"><circle cx="126.5" cy="177.6" r="4" fill="#3465a4"><title>Murray of Atholl, Red Dress</title></circle></a><a href="/variants/s14/w4k1db12k1g8w2r8w2k8r16k4r8w2r1~x2/"><circle cx="132.7" cy="117.9" r="4" fill="#3465a4"><title>Kenya</title></circle></a><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><circle cx="108.9" cy="184.3" r="4" fill="#3465a4"><title>Unidentified Sample #2</title></circle></a><a href="/variants/s15/db4w2r6k1db12dg4db2r6db1r6w2dg8r2w16r4~x2/"><circle cx="97.4" cy="124.0" r="4" fill="#3465a4"><title>MacFarlane Dress</title></circle></a><a href="/variants/s13/r13k1r3g10r5k2r3k12db2k2db2k2db12~x2/"><circle cx="132.4" cy="146.4" r="4" fill="#3465a4"><title>Bonner, (Bonnar)</title></circle></a><a href="/variants/s12/r3lb19k4r3k3r7k3r5k3r5k2w2~x2/"><circle cx="148.1" cy="148.1" r="4" fill="#3465a4"><title>Duchess of Kent</title></circle></a><a href="/variants/s12/y4k2r7k15r3k3r3k7w28r7w6r2/"><circle cx="150.6" cy="128.1" r="4" fill="#3465a4"><title>Walker, dress</title></circle></a><a href="/variants/s10/g14k5db2r21g18k4db18r9k2r12/"><circle cx="153.5" cy="187.7" r="4" fill="#3465a4"><title>Ruben Delanghe (Personal)</title></circle></a><a href="/variants/s8/dy11db1dy11w10db1r11db1r11~x2/"><circle cx="164.5" cy="176.3" r="4" fill="#3465a4"><title>St. Andrews (Queens University)</title></circle></a><circle cx="138.6" cy="150.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/dr15n20lr6k4n10lr22k28n6dr6lr22n6dr2lr12k2lr3n10~x2/

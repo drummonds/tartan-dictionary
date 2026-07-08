@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Anthony Plaid Stewart"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg18k1dy3k1lr1dg1dr2k2dr2lr2/)
 (the same proportion at any scale), whose colour order is pattern [GKGKYGBKBY](/stripes/gkgkygbkby/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4989
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4989](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4989)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dy7k1dg1r1k1r7dg15k1lo1~x4/"><circle cx="246.0" cy="134.6" r="4" fill="#3465a4"><title>Cozumel</title></circle></a><a href="/variants/s9/y3g6dg32r4y2r2dp7dg2w2~x2/"><circle cx="309.9" cy="124.9" r="4" fill="#3465a4"><title>Pienaar (Personal)</title></circle></a><a href="/variants/s10/dg40dr5k2w2k2y3k2dg10dr3k3~x2/"><circle cx="421.2" cy="106.4" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><a href="/variants/s7/k3dg2k3dg18r2db2dy1~x4~dg1806142-r1606028-db1004274/"><circle cx="352.1" cy="132.9" r="4" fill="#3465a4"><title>Sevlon Bruce Personal Tartan</title></circle></a><a href="/variants/s9/dt40dg3k3dg12w3dg3w3dg3r3~x2/"><circle cx="306.7" cy="132.7" r="4" fill="#3465a4"><title>Todd</title></circle></a><a href="/variants/s8/dg28r3k28db8lb1dg8r2k3~x2/"><circle cx="261.0" cy="124.2" r="4" fill="#3465a4"><title>Stansbury</title></circle></a><a href="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/"><circle cx="300.5" cy="130.9" r="4" fill="#3465a4"><title>Kelly of Sleat Hunting (Name)</title></circle></a><a href="/variants/s12/dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2~x2/"><circle cx="341.6" cy="69.4" r="4" fill="#3465a4"><title>Carroll O'Reed</title></circle></a><a href="/variants/s9/dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144/"><circle cx="265.3" cy="109.6" r="4" fill="#3465a4"><title>Lordship of Greencastle (Personal)</title></circle></a><a href="/variants/s14/dg39k2dg2k2dg2k3dt13k2lb4k2dt13k3dg24y3~x2~dg1703152-dt1602249-lb3500000/"><circle cx="343.5" cy="114.7" r="4" fill="#3465a4"><title>Proctor Name Tartan</title></circle></a><circle cx="323.9" cy="110.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dy7k1dg1r1k1r7dg15k1lo1~x4/"><circle cx="245.9" cy="134.8" r="4" fill="#3465a4"><title>Cozumel</title></circle></a><a href="/variants/s9/y3g6dg32r4y2r2dp7dg2w2~x2/"><circle cx="309.8" cy="125.1" r="4" fill="#3465a4"><title>Pienaar (Personal)</title></circle></a><a href="/variants/s10/dg40dr5k2w2k2y3k2dg10dr3k3~x2/"><circle cx="421.1" cy="106.4" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><a href="/variants/s7/k3dg2k3dg18r2db2dy1~x4~dg1806142-r1606028-db1004274/"><circle cx="352.0" cy="133.1" r="4" fill="#3465a4"><title>Sevlon Bruce Personal Tartan</title></circle></a><a href="/variants/s9/dt40dg3k3dg12w3dg3w3dg3r3~x2/"><circle cx="306.6" cy="132.9" r="4" fill="#3465a4"><title>Todd</title></circle></a><a href="/variants/s8/dg28r3k28db8lb1dg8r2k3~x2/"><circle cx="260.8" cy="124.4" r="4" fill="#3465a4"><title>Stansbury</title></circle></a><a href="/variants/s12/dg8k8dg56n8dg8k20dg8n8dg8n16w3dr6/"><circle cx="300.4" cy="131.1" r="4" fill="#3465a4"><title>Kelly of Sleat Hunting (Name)</title></circle></a><a href="/variants/s12/dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2~x2/"><circle cx="341.4" cy="69.4" r="4" fill="#3465a4"><title>Carroll O'Reed</title></circle></a><a href="/variants/s9/dg12r2dgi12k3g2k40dg6g2r2~x2~dgi1806142-g2408144/"><circle cx="265.2" cy="109.7" r="4" fill="#3465a4"><title>Lordship of Greencastle (Personal)</title></circle></a><a href="/variants/s14/dg39k2dg2k2dg2k3dt13k2lb4k2dt13k3dg24y3~x2~dg1703152-dt1602249-lb3500000/"><circle cx="343.4" cy="114.7" r="4" fill="#3465a4"><title>Proctor Name Tartan</title></circle></a><circle cx="323.8" cy="111.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dg18k1dy3k1lr1dg1dr2k2dr2lr2~x4/

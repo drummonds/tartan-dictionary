@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Cunningham Dress"
   url: "/tartans/cunningham-dress/"
+- name: "Cunningham Dress Green (Dance) Fashion Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y2g1k1g20w20g1w2/)
 (the same proportion at any scale), whose colour order is pattern [GGKGWGW](/stripes/ggkgwgw/).
@@ -14,7 +16,7 @@ Part of the [Cunningham Dress](/tartans/cunningham-dress/) tartan — the named 
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6532
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6532](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6532)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5g2w34g34k2g2y4~x2/"><circle cx="269.6" cy="151.7" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance)</title></circle></a><a href="/variants/s7/w1lg11k6lg3w1lg1w1~x4/"><circle cx="303.7" cy="184.0" r="4" fill="#3465a4"><title>Angle, Blue (Fashion)</title></circle></a><a href="/variants/s6/w47g20w6g8k1r3~x2/"><circle cx="373.9" cy="119.1" r="4" fill="#3465a4"><title>MacGregor, Green</title></circle></a><a href="/variants/s6/w52g22w6g8k1r3~x2/"><circle cx="382.7" cy="114.8" r="4" fill="#3465a4"><title>MacGregor Dress Green (Dance)</title></circle></a><a href="/variants/s10/r6g2w21g2y2k8y2g32w1k3~x2/"><circle cx="200.3" cy="86.8" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><a href="/variants/s7/g3r2g27dg3w30dg2w3~x2/"><circle cx="278.6" cy="169.6" r="4" fill="#3465a4"><title>Uist, Green (Dance)</title></circle></a><a href="/variants/s10/g7r3k3w54g24r5g5w5g5r5~x2/"><circle cx="261.8" cy="119.6" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/variants/s8/w6g5r5g45k4ly24k4g5~x2/"><circle cx="251.1" cy="149.6" r="4" fill="#3465a4"><title>O'Neill (Name)</title></circle></a><a href="/variants/s9/w38r12w37g32k3w4k3g32r4~x2/"><circle cx="215.2" cy="173.5" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/variants/s9/w38r12w37g32k3w4k3g32r4/"><circle cx="215.2" cy="173.5" r="4" fill="#3465a4"><title>MacDiarmid, dress</title></circle></a><circle cx="280.7" cy="142.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5g2w34g34k2g2y4~x2/"><circle cx="269.7" cy="152.2" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance)</title></circle></a><a href="/variants/s7/w1lg11k6lg3w1lg1w1~x4/"><circle cx="303.7" cy="184.6" r="4" fill="#3465a4"><title>Angle, Blue (Fashion)</title></circle></a><a href="/variants/s6/w47g20w6g8k1r3~x2/"><circle cx="373.9" cy="119.5" r="4" fill="#3465a4"><title>MacGregor, Green</title></circle></a><a href="/variants/s6/w52g22w6g8k1r3~x2/"><circle cx="382.7" cy="115.1" r="4" fill="#3465a4"><title>MacGregor Dress Green (Dance)</title></circle></a><a href="/variants/s10/r6g2w21g2y2k8y2g32w1k3~x2/"><circle cx="200.2" cy="87.0" r="4" fill="#3465a4"><title>Fiander, Julian (Personal)</title></circle></a><a href="/variants/s7/g3r2g27dg3w30dg2w3~x2/"><circle cx="278.6" cy="170.1" r="4" fill="#3465a4"><title>Uist, Green (Dance)</title></circle></a><a href="/variants/s10/g7r3k3w54g24r5g5w5g5r5~x2/"><circle cx="261.8" cy="120.0" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/variants/s8/w6g5r5g45k4ly24k4g5~x2/"><circle cx="251.1" cy="150.1" r="4" fill="#3465a4"><title>O'Neill (Name)</title></circle></a><a href="/variants/s9/w38r12w37g32k3w4k3g32r4~x2/"><circle cx="215.3" cy="174.0" r="4" fill="#3465a4"><title>MacDiarmid Dress</title></circle></a><a href="/variants/s9/w38r12w37g32k3w4k3g32r4/"><circle cx="215.3" cy="174.0" r="4" fill="#3465a4"><title>MacDiarmid, dress</title></circle></a><circle cx="280.7" cy="142.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/y2g1k1g20w20g1w2~x4/

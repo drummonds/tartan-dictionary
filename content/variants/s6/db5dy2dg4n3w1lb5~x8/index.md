@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Heriot Bay Local (Quadra Island, British Columbia)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db5dy2dg4n3w1lb5/)
 (the same proportion at any scale), whose colour order is pattern [BGGBWW](/stripes/bggbww/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10431
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10431](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10431)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/"><circle cx="82.7" cy="195.4" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/"><circle cx="85.7" cy="198.3" r="4" fill="#3465a4"><title>Manx National (District)</title></circle></a><a href="/variants/s7/gi5dg5g5db5dbi5dg10w2~x8~gi2408144-g2007139-db0705267-dbi1406275/"><circle cx="126.7" cy="277.8" r="4" fill="#3465a4"><title>Pollard (2014)</title></circle></a><a href="/variants/s7/g5dg5dgi5db5dbi5dg10w2~x8~g2408144-dgi1806142-db1204274-dbi1406275/"><circle cx="142.7" cy="283.0" r="4" fill="#3465a4"><title>Pollard (2014)</title></circle></a><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/"><circle cx="101.0" cy="176.0" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/variants/s6/db2b9dr1db9dg9w2~x4/"><circle cx="203.6" cy="246.0" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s6/db2t9dr1db5g5lb2~x4/"><circle cx="221.1" cy="255.0" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><circle cx="144.9" cy="261.6" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s6/r9t6db13t21n18w4~x2/"><circle cx="174.3" cy="276.3" r="4" fill="#3465a4"><title>Fox-Eves Wedding (Personal)</title></circle></a><a href="/variants/s6/n7w1r6db10g10w1~x4/"><circle cx="135.7" cy="229.3" r="4" fill="#3465a4"><title>McEachem (Name)</title></circle></a><circle cx="60.5" cy="273.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/"><circle cx="82.7" cy="195.9" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/"><circle cx="85.7" cy="198.7" r="4" fill="#3465a4"><title>Manx National (District)</title></circle></a><a href="/variants/s7/gi5dg5g5db5dbi5dg10w2~x8~gi2408144-g2007139-db0705267-dbi1406275/"><circle cx="126.8" cy="278.3" r="4" fill="#3465a4"><title>Pollard (2014)</title></circle></a><a href="/variants/s7/g5dg5dgi5db5dbi5dg10w2~x8~g2408144-dgi1806142-db1204274-dbi1406275/"><circle cx="142.9" cy="283.6" r="4" fill="#3465a4"><title>Pollard (2014)</title></circle></a><a href="/variants/s7/r3dt20db20g2lr4lri17w3~x2~lr3001120-lri3001240/"><circle cx="101.0" cy="176.3" r="4" fill="#3465a4"><title>Silversea</title></circle></a><a href="/variants/s6/db2b9dr1db9dg9w2~x4/"><circle cx="203.7" cy="246.5" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s6/db2t9dr1db5g5lb2~x4/"><circle cx="221.2" cy="255.4" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><circle cx="145.1" cy="262.2" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s6/r9t6db13t21n18w4~x2/"><circle cx="174.5" cy="276.9" r="4" fill="#3465a4"><title>Fox-Eves Wedding (Personal)</title></circle></a><a href="/variants/s6/n7w1r6db10g10w1~x4/"><circle cx="135.8" cy="229.8" r="4" fill="#3465a4"><title>McEachem (Name)</title></circle></a><circle cx="60.6" cy="273.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db5dy2dg4n3w1lb5~x8/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Dunbartonshire"
   url: "/tartans/dunbartonshire/"
+- name: "Dunbartonshire"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g11k2g1dr4db1dr4db13lb2db1/)
 (the same proportion at any scale), whose colour order is pattern [BWBBBBGKG](/stripes/bwbbbbgkg/).
@@ -14,7 +16,7 @@ Part of the [Dunbartonshire](/tartans/dunbartonshire/) tartan — the named desi
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1013
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1013](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1013)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g11k2g1dr4db1dr4db13b2db1~x4/"><circle cx="192.6" cy="159.5" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/variants/s12/k4dbi11k1dbi2k1dbi11k2db14k2g14k1lo2~x2~dbi1605267-db1003265/"><circle cx="157.9" cy="143.7" r="4" fill="#3465a4"><title>Brown Ellis (Personal)</title></circle></a><a href="/variants/s8/k3r1y1db11g13db5r1y1~x2/"><circle cx="209.4" cy="153.3" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s9/db10y3db30y5k8g16b4g16b2~x2/"><circle cx="192.9" cy="165.5" r="4" fill="#3465a4"><title>MacMillan, hunting</title></circle></a><a href="/variants/s9/k2db2k2db17dg10k2dg2g13lo2~x2/"><circle cx="151.7" cy="174.9" r="4" fill="#3465a4"><title>Pro Simon</title></circle></a><a href="/variants/s9/dp4db40k15g10dp2g10dp2g10y4~x2~db0806265-k0700000/"><circle cx="214.6" cy="138.7" r="4" fill="#3465a4"><title>Ebdon Muir (Personal)</title></circle></a><a href="/variants/s7/g27dr2g4r15db26k2db6~x2/"><circle cx="195.4" cy="171.8" r="4" fill="#3465a4"><title>Bailies of Bennachie (Corporate)</title></circle></a><a href="/variants/s7/y6g28r4k20r3db45k5~x2/"><circle cx="170.8" cy="153.6" r="4" fill="#3465a4"><title>Nery</title></circle></a><a href="/variants/s8/db10r1db1r1db1k6y9t2~x2/"><circle cx="159.3" cy="165.4" r="4" fill="#3465a4"><title>Antique 2000</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5~x2/"><circle cx="172.4" cy="176.1" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><circle cx="180.7" cy="155.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g11k2g1dr4db1dr4db13b2db1~x4/"><circle cx="192.5" cy="159.8" r="4" fill="#3465a4"><title>Dunbartonshire</title></circle></a><a href="/variants/s12/k4dbi11k1dbi2k1dbi11k2db14k2g14k1lo2~x2~dbi1605267-db1003265/"><circle cx="157.8" cy="143.9" r="4" fill="#3465a4"><title>Brown Ellis (Personal)</title></circle></a><a href="/variants/s8/k3r1y1db11g13db5r1y1~x2/"><circle cx="209.4" cy="153.6" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s9/db10y3db30y5k8g16b4g16b2~x2/"><circle cx="192.9" cy="165.8" r="4" fill="#3465a4"><title>MacMillan, hunting</title></circle></a><a href="/variants/s9/k2db2k2db17dg10k2dg2g13lo2~x2/"><circle cx="151.7" cy="175.2" r="4" fill="#3465a4"><title>Pro Simon</title></circle></a><a href="/variants/s9/dp4db40k15g10dp2g10dp2g10y4~x2~db0806265-k0700000/"><circle cx="214.5" cy="138.9" r="4" fill="#3465a4"><title>Ebdon Muir (Personal)</title></circle></a><a href="/variants/s7/g27dr2g4r15db26k2db6~x2/"><circle cx="195.4" cy="172.2" r="4" fill="#3465a4"><title>Bailies of Bennachie (Corporate)</title></circle></a><a href="/variants/s7/y6g28r4k20r3db45k5~x2/"><circle cx="170.8" cy="154.0" r="4" fill="#3465a4"><title>Nery</title></circle></a><a href="/variants/s8/db10r1db1r1db1k6y9t2~x2/"><circle cx="159.2" cy="165.8" r="4" fill="#3465a4"><title>Antique 2000</title></circle></a><a href="/variants/s7/db5dp3db32k16g32o3g5~x2/"><circle cx="172.4" cy="176.5" r="4" fill="#3465a4"><title>MacThomas LC</title></circle></a><circle cx="180.6" cy="155.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g11k2g1dr4db1dr4db13lb2db1~x4/

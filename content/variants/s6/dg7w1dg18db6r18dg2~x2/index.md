@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Finlaggan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg7w1dg18db6r18dg2/)
 (the same proportion at any scale), whose colour order is pattern [GRBGWG](/stripes/grbgwg/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1183
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1183](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1183)
 
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -67,8 +69,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w6g15db18r30g2r4~x2/"><circle cx="238.1" cy="194.5" r="4" fill="#3465a4"><title>Ruthven (V.S.)</title></circle></a><a href="/variants/s7/r30g3db5g21r3g21db2~x2/"><circle cx="349.6" cy="207.4" r="4" fill="#3465a4"><title>Scottish Piping Soc. of London (Corp</title></circle></a><a href="/variants/s6/w3g15db18r30g1r2~x2/"><circle cx="284.1" cy="158.6" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/variants/s5/ly2dg17g4r15dg1~x2/"><circle cx="295.2" cy="198.0" r="4" fill="#3465a4"><title>Christmas (Fashion)</title></circle></a><a href="/variants/s5/y2dg17g4r15dg1~x2/"><circle cx="309.0" cy="202.4" r="4" fill="#3465a4"><title>Christmas</title></circle></a><a href="/variants/s5/dg24r3dg16r33w4/"><circle cx="316.7" cy="233.1" r="4" fill="#3465a4"><title>Unidentified Plaid #3</title></circle></a><a href="/variants/s6/db4r11g11db22y1g4~x2/"><circle cx="289.9" cy="190.0" r="4" fill="#3465a4"><title>Harvey</title></circle></a><a href="/variants/s8/dg28r4dp25w5r22dg27r4dp2~x2/"><circle cx="263.1" cy="196.1" r="4" fill="#3465a4"><title>New Glasgow (Canada)</title></circle></a><a href="/variants/s7/dt12w2dt13dg3g2r24g3~x2/"><circle cx="242.8" cy="179.2" r="4" fill="#3465a4"><title>Wellmont Foundation (Corporate)</title></circle></a><a href="/variants/s7/r8w2dr30g12dr3g12dr3~x2/"><circle cx="314.6" cy="189.9" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><circle cx="316.8" cy="193.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w6g15db18r30g2r4~x2/"><circle cx="238.2" cy="195.1" r="4" fill="#3465a4"><title>Ruthven (V.S.)</title></circle></a><a href="/variants/s7/r30g3db5g21r3g21db2~x2/"><circle cx="349.7" cy="207.9" r="4" fill="#3465a4"><title>Scottish Piping Soc. of London (Corp</title></circle></a><a href="/variants/s6/w3g15db18r30g1r2~x2/"><circle cx="284.2" cy="159.0" r="4" fill="#3465a4"><title>Ruthven</title></circle></a><a href="/variants/s5/ly2dg17g4r15dg1~x2/"><circle cx="295.3" cy="198.4" r="4" fill="#3465a4"><title>Christmas (Fashion)</title></circle></a><a href="/variants/s5/y2dg17g4r15dg1~x2/"><circle cx="309.0" cy="202.8" r="4" fill="#3465a4"><title>Christmas</title></circle></a><a href="/variants/s5/dg24r3dg16r33w4/"><circle cx="316.8" cy="233.7" r="4" fill="#3465a4"><title>Unidentified Plaid #3</title></circle></a><a href="/variants/s6/db4r11g11db22y1g4~x2/"><circle cx="289.9" cy="190.4" r="4" fill="#3465a4"><title>Harvey</title></circle></a><a href="/variants/s8/dg28r4dp25w5r22dg27r4dp2~x2/"><circle cx="263.1" cy="196.5" r="4" fill="#3465a4"><title>New Glasgow (Canada)</title></circle></a><a href="/variants/s7/dt12w2dt13dg3g2r24g3~x2/"><circle cx="242.8" cy="179.6" r="4" fill="#3465a4"><title>Wellmont Foundation (Corporate)</title></circle></a><a href="/variants/s7/r8w2dr30g12dr3g12dr3~x2/"><circle cx="314.7" cy="190.3" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><circle cx="316.8" cy="194.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dg7w1dg18db6r18dg2~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glassary #3"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4y1r12y2r2y12r1y4/)
 (the same proportion at any scale), whose colour order is pattern [BGRGRGRG](/stripes/bgrgrgrg/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1363
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1363](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1363)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db4r1y12r2y2r12y1db4~x4/"><circle cx="297.8" cy="210.6" r="4" fill="#3465a4"><title>Glassary #2</title></circle></a><a href="/variants/s10/dp3o23dp3o26dp3o3dp25o3g24o3~x2~dp1607327/"><circle cx="344.9" cy="222.6" r="4" fill="#3465a4"><title>Unidentified 18th Century</title></circle></a><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/"><circle cx="331.0" cy="217.6" r="4" fill="#3465a4"><title>Cetoloni Family Tartan</title></circle></a><a href="/variants/s6/n3dg1n10dg4r10n2~x4/"><circle cx="372.7" cy="259.3" r="4" fill="#3465a4"><title>Rob Roy (Film)</title></circle></a><a href="/variants/s9/dr3o28do5o5do33o5do5o28ly3~x2/"><circle cx="415.2" cy="207.4" r="4" fill="#3465a4"><title>MacIver of Strathendry Htg (Personal</title></circle></a><a href="/variants/s8/dr32lo4dr32o23dr4o23dr4o23~x2/"><circle cx="380.3" cy="263.5" r="4" fill="#3465a4"><title>Hamilton, Red</title></circle></a><a href="/variants/s8/r5dg12o4db4o22dg3o4r5/"><circle cx="310.5" cy="226.3" r="4" fill="#3465a4"><title>Invertere, (Daks)</title></circle></a><a href="/variants/s9/ri4r2ri1dg16r2ri11r1ri1r2~x2~ri2109032-r2109013/"><circle cx="336.5" cy="177.3" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang</title></circle></a><a href="/variants/s6/r1g3r1g3r8y1~x8/"><circle cx="396.4" cy="238.0" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s6/do44o3do4w3do4o44~x2/"><circle cx="413.7" cy="205.7" r="4" fill="#3465a4"><title>Wcwm 1166-2</title></circle></a><circle cx="384.4" cy="219.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db4r1y12r2y2r12y1db4~x4/"><circle cx="297.9" cy="211.0" r="4" fill="#3465a4"><title>Glassary #2</title></circle></a><a href="/variants/s10/dp3o23dp3o26dp3o3dp25o3g24o3~x2~dp1607327/"><circle cx="345.1" cy="223.0" r="4" fill="#3465a4"><title>Unidentified 18th Century</title></circle></a><a href="/variants/s6/db2r22dy11ly2dy11db2~x2~dy1603076-ly3307090/"><circle cx="331.1" cy="218.0" r="4" fill="#3465a4"><title>Cetoloni Family Tartan</title></circle></a><a href="/variants/s6/n3dg1n10dg4r10n2~x4/"><circle cx="372.8" cy="259.8" r="4" fill="#3465a4"><title>Rob Roy (Film)</title></circle></a><a href="/variants/s9/dr3o28do5o5do33o5do5o28ly3~x2/"><circle cx="415.3" cy="207.7" r="4" fill="#3465a4"><title>MacIver of Strathendry Htg (Personal</title></circle></a><a href="/variants/s8/dr32lo4dr32o23dr4o23dr4o23~x2/"><circle cx="380.5" cy="264.1" r="4" fill="#3465a4"><title>Hamilton, Red</title></circle></a><a href="/variants/s8/r5dg12o4db4o22dg3o4r5/"><circle cx="310.6" cy="226.8" r="4" fill="#3465a4"><title>Invertere, (Daks)</title></circle></a><a href="/variants/s9/ri4r2ri1dg16r2ri11r1ri1r2~x2~ri2109032-r2109013/"><circle cx="336.5" cy="177.6" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang</title></circle></a><a href="/variants/s6/r1g3r1g3r8y1~x8/"><circle cx="396.5" cy="238.6" r="4" fill="#3465a4"><title>Cameron</title></circle></a><a href="/variants/s6/do44o3do4w3do4o44~x2/"><circle cx="413.8" cy="206.1" r="4" fill="#3465a4"><title>Wcwm 1166-2</title></circle></a><circle cx="384.5" cy="220.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db4y1r12y2r2y12r1y4~x4/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Royal Stewart"
   url: "/tartans/royal-stewart/"
+- name: "Royal Stewart"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r64lb12k16y2k4w3dg32r8k4r3w2/)
 (the same proportion at any scale), whose colour order is pattern [RWKGKWGRKRW](/stripes/rwkgkwgrkrw/).
@@ -14,7 +16,7 @@ Part of the [Royal Stewart](/tartans/royal-stewart/) tartan — the named design
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r48lb8k10y2k3w2g25r10k3r3w2~x2/"><circle cx="232.8" cy="68.4" r="4" fill="#3465a4"><title>Followers' Plaid</title></circle></a><a href="/variants/s12/db3r2db2r35dy2db3k2db5k4g13k1w3~x2/"><circle cx="234.3" cy="45.0" r="4" fill="#3465a4"><title>Celtic Nations</title></circle></a><a href="/variants/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/"><circle cx="232.3" cy="44.6" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x4/"><circle cx="261.1" cy="57.2" r="4" fill="#3465a4"><title>Royal Stewart Royal Family Tartan</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x2/"><circle cx="261.1" cy="57.2" r="4" fill="#3465a4"><title>Royal Stewart MINI Design Tartan</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8/"><circle cx="261.1" cy="57.2" r="4" fill="#3465a4"><title>Royal Stewart (Universal)</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8~db1406275/"><circle cx="262.2" cy="57.4" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal #2</title></circle></a><a href="/variants/s12/r18b2k3y1k1w1k1g4r2k1r1w1~x4/"><circle cx="262.1" cy="57.7" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/variants/s12/r68n5k9y3k3lb3k3dg20r9k3r5lb4/"><circle cx="301.7" cy="50.1" r="4" fill="#3465a4"><title>British Caledonian Airways #4</title></circle></a><a href="/variants/s13/r41g13k8w2y2r1y2w2db6k2r3y2w5/"><circle cx="233.2" cy="30.1" r="4" fill="#3465a4"><title>MacGill</title></circle></a><circle cx="227.6" cy="53.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r48lb8k10y2k3w2g25r10k3r3w2~x2/"><circle cx="232.7" cy="68.6" r="4" fill="#3465a4"><title>Followers' Plaid</title></circle></a><a href="/variants/s12/db3r2db2r35dy2db3k2db5k4g13k1w3~x2/"><circle cx="234.1" cy="45.1" r="4" fill="#3465a4"><title>Celtic Nations</title></circle></a><a href="/variants/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/"><circle cx="232.2" cy="44.7" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x4/"><circle cx="261.0" cy="57.4" r="4" fill="#3465a4"><title>Royal Stewart Royal Family Tartan</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x2/"><circle cx="261.0" cy="57.4" r="4" fill="#3465a4"><title>Royal Stewart MINI Design Tartan</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8/"><circle cx="261.0" cy="57.4" r="4" fill="#3465a4"><title>Royal Stewart (Universal)</title></circle></a><a href="/variants/s12/r18db2k3y1k1w1k1g4r2k1r1w1~x8~db1406275/"><circle cx="262.0" cy="57.5" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal #2</title></circle></a><a href="/variants/s12/r18b2k3y1k1w1k1g4r2k1r1w1~x4/"><circle cx="261.9" cy="57.8" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/variants/s12/r68n5k9y3k3lb3k3dg20r9k3r5lb4/"><circle cx="301.5" cy="50.2" r="4" fill="#3465a4"><title>British Caledonian Airways #4</title></circle></a><a href="/variants/s13/r41g13k8w2y2r1y2w2db6k2r3y2w5/"><circle cx="233.1" cy="30.1" r="4" fill="#3465a4"><title>MacGill</title></circle></a><circle cx="227.4" cy="53.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r64lb12k16y2k4w3dg32r8k4r3w2~x2/

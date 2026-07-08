@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacLeish"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k18db12k5g4r6g12k2ly4/)
 (the same proportion at any scale), whose colour order is pattern [KBKGRGKY](/stripes/kbkgrgky/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2620
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2620](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2620)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><circle cx="105.7" cy="193.7" r="4" fill="#3465a4"><title>Scottish Tartan Society</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="108.7" cy="195.2" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/variants/s8/db10n3db10r3k21g20k15r3~x2/"><circle cx="126.1" cy="197.2" r="4" fill="#3465a4"><title>Williamson/Smart</title></circle></a><a href="/variants/s7/r4g16k16db4g3db12y2~x2/"><circle cx="105.9" cy="197.7" r="4" fill="#3465a4"><title>Junior Chamber International</title></circle></a><a href="/variants/s7/r2k8y1k8g8db8r2~x2/"><circle cx="126.5" cy="201.3" r="4" fill="#3465a4"><title>Brodie hunting</title></circle></a><a href="/variants/s7/r2k8y1k8g8db8r2~x4/"><circle cx="126.5" cy="201.3" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/variants/s6/r10dbi24r4k30g36db5~dbi1604274-db0805267/"><circle cx="100.0" cy="199.1" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s7/r2k8lo1k8g8lb8r2~x4/"><circle cx="108.7" cy="196.0" r="4" fill="#3465a4"><title>Brodie Hunting (Clan)</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="111.2" cy="194.4" r="4" fill="#3465a4"><title>MacDonald (Flora.. )</title></circle></a><a href="/variants/s9/db25k12y4k9r6k9y4k12g25~x2/"><circle cx="101.4" cy="197.7" r="4" fill="#3465a4"><title>Vosko</title></circle></a><circle cx="109.0" cy="187.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db20k10lo3k7dr4k7lo3k8g20~x2/"><circle cx="105.7" cy="194.2" r="4" fill="#3465a4"><title>Scottish Tartan Society</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="108.7" cy="195.7" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/variants/s8/db10n3db10r3k21g20k15r3~x2/"><circle cx="126.1" cy="197.7" r="4" fill="#3465a4"><title>Williamson/Smart</title></circle></a><a href="/variants/s7/r4g16k16db4g3db12y2~x2/"><circle cx="105.9" cy="198.2" r="4" fill="#3465a4"><title>Junior Chamber International</title></circle></a><a href="/variants/s7/r2k8y1k8g8db8r2~x2/"><circle cx="126.5" cy="201.8" r="4" fill="#3465a4"><title>Brodie hunting</title></circle></a><a href="/variants/s7/r2k8y1k8g8db8r2~x4/"><circle cx="126.5" cy="201.8" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/variants/s6/r10dbi24r4k30g36db5~dbi1604274-db0805267/"><circle cx="100.1" cy="199.6" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/variants/s7/r2k8lo1k8g8lb8r2~x4/"><circle cx="108.8" cy="196.6" r="4" fill="#3465a4"><title>Brodie Hunting (Clan)</title></circle></a><a href="/variants/s7/g17y2k14r2db9r2db10~x2/"><circle cx="111.3" cy="194.8" r="4" fill="#3465a4"><title>MacDonald (Flora.. )</title></circle></a><a href="/variants/s9/db25k12y4k9r6k9y4k12g25~x2/"><circle cx="101.4" cy="198.2" r="4" fill="#3465a4"><title>Vosko</title></circle></a><circle cx="109.1" cy="187.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k18db12k5g4r6g12k2ly4~x2/

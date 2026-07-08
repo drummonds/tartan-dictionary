@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Saltcoats"
   url: "/tartans/saltcoats/"
+- name: "Saltcoats (Saskatchewan) (District?)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3y3n15lb8w7db6n15lb6y3dg6r3/)
 (the same proportion at any scale), whose colour order is pattern [BGBWWBBWGGR](/stripes/bgbwwbbwggr/).
@@ -14,7 +16,7 @@ Part of the [Saltcoats](/tartans/saltcoats/) tartan — the named design groupin
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7822
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7822](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7822)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db3y3n15lb8w8db6n15lb6y3dg6r3~x2/"><circle cx="92.3" cy="202.0" r="4" fill="#3465a4"><title>Saltcoats (Saskatchewan)</title></circle></a><a href="/variants/s11/g4r1db8w1r1w1lb8w1lb8w1y1~x4/"><circle cx="168.0" cy="159.0" r="4" fill="#3465a4"><title>Texas Bluebonnet District Tartan</title></circle></a><a href="/variants/s10/g5db3lb3g5w4dy2lb1dy2db1r1~x6~g2203152/"><circle cx="78.7" cy="223.6" r="4" fill="#3465a4"><title>Northern College (Ontario)</title></circle></a><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/"><circle cx="82.7" cy="195.4" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/"><circle cx="85.7" cy="198.3" r="4" fill="#3465a4"><title>Manx National (District)</title></circle></a><a href="/variants/s13/db8r2db3r4db13w2o13w2g13r4g4y2g8~x2/"><circle cx="100.0" cy="189.2" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/variants/s9/dg2n13dg12w3lb10w3lb12g13r2~x2/"><circle cx="86.2" cy="216.9" r="4" fill="#3465a4"><title>Mounth The.. Corporate Tartan</title></circle></a><a href="/variants/s13/db8r2db3r4db13w2dr13w2g13r4g4y2g8~x2/"><circle cx="95.0" cy="186.6" r="4" fill="#3465a4"><title>Bowie (Dalgety) Family Tartan</title></circle></a><a href="/variants/s10/lr2y11r2y11k2db6lb13k2lb3ly2~x4~y2602166-ly3307090/"><circle cx="104.1" cy="160.9" r="4" fill="#3465a4"><title>RAF Leuchars</title></circle></a><a href="/variants/s10/g10db6lb6g10w8y3lb2y3db2r2/"><circle cx="90.9" cy="221.9" r="4" fill="#3465a4"><title>Northern College</title></circle></a><circle cx="98.0" cy="202.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db3y3n15lb8w8db6n15lb6y3dg6r3~x2/"><circle cx="92.3" cy="202.5" r="4" fill="#3465a4"><title>Saltcoats (Saskatchewan)</title></circle></a><a href="/variants/s11/g4r1db8w1r1w1lb8w1lb8w1y1~x4/"><circle cx="168.1" cy="159.4" r="4" fill="#3465a4"><title>Texas Bluebonnet District Tartan</title></circle></a><a href="/variants/s10/g5db3lb3g5w4dy2lb1dy2db1r1~x6~g2203152/"><circle cx="78.8" cy="224.1" r="4" fill="#3465a4"><title>Northern College (Ontario)</title></circle></a><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/"><circle cx="82.7" cy="195.9" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/"><circle cx="85.7" cy="198.7" r="4" fill="#3465a4"><title>Manx National (District)</title></circle></a><a href="/variants/s13/db8r2db3r4db13w2o13w2g13r4g4y2g8~x2/"><circle cx="100.1" cy="189.6" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/variants/s9/dg2n13dg12w3lb10w3lb12g13r2~x2/"><circle cx="86.3" cy="217.4" r="4" fill="#3465a4"><title>Mounth The.. Corporate Tartan</title></circle></a><a href="/variants/s13/db8r2db3r4db13w2dr13w2g13r4g4y2g8~x2/"><circle cx="95.0" cy="187.0" r="4" fill="#3465a4"><title>Bowie (Dalgety) Family Tartan</title></circle></a><a href="/variants/s10/lr2y11r2y11k2db6lb13k2lb3ly2~x4~y2602166-ly3307090/"><circle cx="104.1" cy="161.3" r="4" fill="#3465a4"><title>RAF Leuchars</title></circle></a><a href="/variants/s10/g10db6lb6g10w8y3lb2y3db2r2/"><circle cx="91.0" cy="222.5" r="4" fill="#3465a4"><title>Northern College</title></circle></a><circle cx="98.0" cy="202.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db3y3n15lb8w7db6n15lb6y3dg6r3~x2/

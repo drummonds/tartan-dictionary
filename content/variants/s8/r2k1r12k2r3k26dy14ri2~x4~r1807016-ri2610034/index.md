@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Booth (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2k1r12k2r3k26dy14ri2/)
 (the same proportion at any scale), whose colour order is pattern [RGKRKRKR](/stripes/rgkrkrkr/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3713
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3713](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3713)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/"><circle cx="222.9" cy="109.3" r="4" fill="#3465a4"><title>Haileybury Pipe Band (Corporate)</title></circle></a><a href="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2~g2408144/"><circle cx="222.1" cy="109.1" r="4" fill="#3465a4"><title>Haileybury Pipe Band Corporate Tartan</title></circle></a><a href="/variants/s9/dr8dg8k1dg3k1dg1k10dr20w3~x2/"><circle cx="276.9" cy="145.4" r="4" fill="#3465a4"><title>Hunter of Bute (Clan ?)</title></circle></a><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/"><circle cx="315.1" cy="104.7" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><a href="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2~r2108022/"><circle cx="224.7" cy="111.0" r="4" fill="#3465a4"><title>Pride of Wales Fashion Tartan</title></circle></a><a href="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2/"><circle cx="222.0" cy="110.0" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s9/k24db2k24db14y3r36k18y5r3~x2/"><circle cx="232.4" cy="145.8" r="4" fill="#3465a4"><title>Craigholme (Corporate)</title></circle></a><a href="/variants/s8/db6r1db2r1db2k18r8g2~x4/"><circle cx="223.3" cy="132.4" r="4" fill="#3465a4"><title>Brown</title></circle></a><a href="/variants/s8/db6r1db2r1db2k18r8g2~x2/"><circle cx="223.3" cy="132.4" r="4" fill="#3465a4"><title>Brown</title></circle></a><a href="/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/"><circle cx="310.4" cy="102.2" r="4" fill="#3465a4"><title>MacAlister of Skye (Clan?)</title></circle></a><circle cx="268.3" cy="124.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2/"><circle cx="222.8" cy="109.5" r="4" fill="#3465a4"><title>Haileybury Pipe Band (Corporate)</title></circle></a><a href="/variants/s10/y4k30dr30k2dr2y2k2dr5w5g2~x2~g2408144/"><circle cx="222.0" cy="109.3" r="4" fill="#3465a4"><title>Haileybury Pipe Band Corporate Tartan</title></circle></a><a href="/variants/s9/dr8dg8k1dg3k1dg1k10dr20w3~x2/"><circle cx="276.9" cy="145.7" r="4" fill="#3465a4"><title>Hunter of Bute (Clan ?)</title></circle></a><a href="/variants/s8/lo4k17dr1k4dr2k4dr33w3~x2/"><circle cx="315.0" cy="104.9" r="4" fill="#3465a4"><title>Mens Bigi</title></circle></a><a href="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2~r2108022/"><circle cx="224.6" cy="111.2" r="4" fill="#3465a4"><title>Pride of Wales Fashion Tartan</title></circle></a><a href="/variants/s10/dr9k2dr2r13k2r2w1dr13k26w2~x2/"><circle cx="221.9" cy="110.2" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s9/k24db2k24db14y3r36k18y5r3~x2/"><circle cx="232.4" cy="146.2" r="4" fill="#3465a4"><title>Craigholme (Corporate)</title></circle></a><a href="/variants/s8/db6r1db2r1db2k18r8g2~x4/"><circle cx="223.3" cy="132.7" r="4" fill="#3465a4"><title>Brown</title></circle></a><a href="/variants/s8/db6r1db2r1db2k18r8g2~x2/"><circle cx="223.3" cy="132.7" r="4" fill="#3465a4"><title>Brown</title></circle></a><a href="/variants/s9/dr4k5lo1dr26lb1k30lo1k1lo4~x2/"><circle cx="310.3" cy="102.3" r="4" fill="#3465a4"><title>MacAlister of Skye (Clan?)</title></circle></a><circle cx="268.3" cy="124.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r2k1r12k2r3k26dy14ri2~x4~r1807016-ri2610034/

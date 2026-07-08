@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wcwm 9275-1446"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db56dr1g4dr1g3dr1db10g1dr10db2dr3lb2/)
 (the same proportion at any scale), whose colour order is pattern [BBGBGBBGBBBW](/stripes/bbgbgbbgbbbw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4568
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4568](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4568)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/"><circle cx="569.6" cy="118.4" r="4" fill="#3465a4"><title>Deuchars IPA (Corporate)</title></circle></a><a href="/variants/s10/db66dr16w2dr1w1dr1w2dr16db66y2~x2/"><circle cx="592.8" cy="124.3" r="4" fill="#3465a4"><title>Cougan Irish Personal Tartan</title></circle></a><a href="/variants/s6/y2db66dr16w2dr1w1~x2/"><circle cx="587.3" cy="132.9" r="4" fill="#3465a4"><title>Coogan (Personal)</title></circle></a><a href="/variants/s8/n4db48n21db14dy3db6n1ly3~x2~dy1603076-ly3307090/"><circle cx="534.9" cy="154.5" r="4" fill="#3465a4"><title>Munster Ancestry (Fashion)</title></circle></a><a href="/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/"><circle cx="567.3" cy="113.6" r="4" fill="#3465a4"><title>United States Trade sett Tartan</title></circle></a><a href="/variants/s13/db5g1db3dp2g10db3g4db28dp2db2g1db4dp1~x2/"><circle cx="501.3" cy="150.4" r="4" fill="#3465a4"><title>McCarthy</title></circle></a><circle cx="568.7" cy="100.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db45t3db3t15db3t3db7w1db7dy1db1dy1~x2/"><circle cx="569.5" cy="118.3" r="4" fill="#3465a4"><title>Deuchars IPA (Corporate)</title></circle></a><a href="/variants/s10/db66dr16w2dr1w1dr1w2dr16db66y2~x2/"><circle cx="592.8" cy="124.3" r="4" fill="#3465a4"><title>Cougan Irish Personal Tartan</title></circle></a><a href="/variants/s6/y2db66dr16w2dr1w1~x2/"><circle cx="587.2" cy="132.9" r="4" fill="#3465a4"><title>Coogan (Personal)</title></circle></a><a href="/variants/s8/n4db48n21db14dy3db6n1ly3~x2~dy1603076-ly3307090/"><circle cx="534.9" cy="154.6" r="4" fill="#3465a4"><title>Munster Ancestry (Fashion)</title></circle></a><a href="/variants/s9/dbi7db5lr6db5r7db2dbi2db70lr2~dbi1406275-db1404245/"><circle cx="567.2" cy="113.6" r="4" fill="#3465a4"><title>United States Trade sett Tartan</title></circle></a><a href="/variants/s13/db5g1db3dp2g10db3g4db28dp2db2g1db4dp1~x2/"><circle cx="501.2" cy="150.5" r="4" fill="#3465a4"><title>McCarthy</title></circle></a><circle cx="568.6" cy="100.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db56dr1g4dr1g3dr1db10g1dr10db2dr3lb2~x4/

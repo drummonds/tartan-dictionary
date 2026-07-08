@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/casely/"
 - name: "Casely"
   url: "/tartans/casely/"
+- name: "Casely (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4g11k11g2db11dy3/)
 (the same proportion at any scale), whose colour order is pattern [GBGKGR](/stripes/gbgkgr/).
@@ -16,7 +18,7 @@ Part of the [Casely](/tartans/casely/) tartan — the named design grouping this
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2146
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2146](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2146)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -77,8 +79,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/"><circle cx="94.5" cy="237.7" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/variants/s6/r4g12k12g2db12g3~x2/"><circle cx="125.7" cy="237.8" r="4" fill="#3465a4"><title>Gunn - 1810 (Clan)</title></circle></a><a href="/variants/s7/r4g16k16db4g3db12y2~x2/"><circle cx="105.9" cy="197.7" r="4" fill="#3465a4"><title>Junior Chamber International</title></circle></a><a href="/variants/s7/db27g5y8k20y3g15r3~x2/"><circle cx="111.1" cy="192.1" r="4" fill="#3465a4"><title>Nelson Mandela (Personal)</title></circle></a><a href="/variants/s7/db27g5ly8k20ly3g15r3~x2/"><circle cx="102.1" cy="191.9" r="4" fill="#3465a4"><title>Nelson Mandela (Personal)</title></circle></a><a href="/variants/s6/k3g14k14g2db14r3/"><circle cx="126.5" cy="223.0" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/variants/s6/k3g14k14g2db14r3~x2/"><circle cx="126.5" cy="223.0" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/variants/s5/r4dg15k15db15lb4~x2/"><circle cx="65.9" cy="264.6" r="4" fill="#3465a4"><title>Dalmeny #1</title></circle></a><a href="/variants/s5/r4g15k15db15w4~x2/"><circle cx="37.1" cy="258.3" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="76.2" cy="210.9" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><circle cx="73.6" cy="232.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r4dg11k11dg2db11g3~x4~dg1803171-g1904130/"><circle cx="94.6" cy="238.3" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/variants/s6/r4g12k12g2db12g3~x2/"><circle cx="125.8" cy="238.5" r="4" fill="#3465a4"><title>Gunn - 1810 (Clan)</title></circle></a><a href="/variants/s7/r4g16k16db4g3db12y2~x2/"><circle cx="105.9" cy="198.2" r="4" fill="#3465a4"><title>Junior Chamber International</title></circle></a><a href="/variants/s7/db27g5y8k20y3g15r3~x2/"><circle cx="111.1" cy="192.6" r="4" fill="#3465a4"><title>Nelson Mandela (Personal)</title></circle></a><a href="/variants/s7/db27g5ly8k20ly3g15r3~x2/"><circle cx="102.1" cy="192.4" r="4" fill="#3465a4"><title>Nelson Mandela (Personal)</title></circle></a><a href="/variants/s6/k3g14k14g2db14r3/"><circle cx="126.6" cy="223.6" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/variants/s6/k3g14k14g2db14r3~x2/"><circle cx="126.6" cy="223.6" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/variants/s5/r4dg15k15db15lb4~x2/"><circle cx="66.0" cy="265.3" r="4" fill="#3465a4"><title>Dalmeny #1</title></circle></a><a href="/variants/s5/r4g15k15db15w4~x2/"><circle cx="37.2" cy="259.0" r="4" fill="#3465a4"><title>Dalmeny</title></circle></a><a href="/variants/s6/r2b3n12k11dg11y2~x2~n2003284-dg1304144/"><circle cx="76.3" cy="211.4" r="4" fill="#3465a4"><title>Huntly Gordon</title></circle></a><circle cx="73.7" cy="233.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r4g11k11g2db11dy3~x4/

@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/hanna/"
 - name: "Hanna"
   url: "/tartans/hanna/"
+- name: "Hanna Personal Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k8w13db2w1db2w1db2w1db2w1db2w1db2/)
 (the same proportion at any scale), whose colour order is pattern [BWBWBWBWBWBWK](/stripes/bwbwbwbwbwbwk/).
@@ -16,7 +18,7 @@ Part of the [Hanna](/tartans/hanna/) tartan — the named design grouping this s
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=619
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=619](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=619)
 
 ## Provenance
 
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4/"><circle cx="215.6" cy="141.9" r="4" fill="#3465a4"><title>Hanna</title></circle></a><a href="/variants/s10/k14w2k3w2b10w32b10k10w2k3~x2/"><circle cx="196.3" cy="146.0" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/variants/s11/w30n5k6n2k2w2k13n5k2n2w2~x2/"><circle cx="233.0" cy="131.9" r="4" fill="#3465a4"><title>Stewart Grey Dress Tartan</title></circle></a><a href="/variants/s12/lb5k1w1k1lb5k7b10k1lb15b3k1w2~x4/"><circle cx="203.1" cy="137.4" r="4" fill="#3465a4"><title>Faulds</title></circle></a><a href="/variants/s8/lb40k3lb3k3lb3n8k24n8~x2/"><circle cx="250.6" cy="160.4" r="4" fill="#3465a4"><title>O'Sullivan-Beare (Family)</title></circle></a><a href="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/"><circle cx="217.0" cy="137.4" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s10/w3db2k4db2w2db26r4w30r2w3~x2/"><circle cx="240.7" cy="123.0" r="4" fill="#3465a4"><title>Harris, Royal Blue (Dance)</title></circle></a><a href="/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/"><circle cx="258.1" cy="108.9" r="4" fill="#3465a4"><title>Menzies Black Dress</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/"><circle cx="222.2" cy="134.6" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s10/k9lb4k2lb4k2lb30k9lb4db14dy2~x2/"><circle cx="230.5" cy="135.8" r="4" fill="#3465a4"><title>Hannay Blue (Fashion?)</title></circle></a><circle cx="220.9" cy="138.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/k16w25db4w2db4w2db4w2db4w2db4w2db4/"><circle cx="215.5" cy="142.3" r="4" fill="#3465a4"><title>Hanna</title></circle></a><a href="/variants/s10/k14w2k3w2b10w32b10k10w2k3~x2/"><circle cx="196.2" cy="146.5" r="4" fill="#3465a4"><title>Fraser, Arisaid</title></circle></a><a href="/variants/s11/w30n5k6n2k2w2k13n5k2n2w2~x2/"><circle cx="233.0" cy="132.4" r="4" fill="#3465a4"><title>Stewart Grey Dress Tartan</title></circle></a><a href="/variants/s12/lb5k1w1k1lb5k7b10k1lb15b3k1w2~x4/"><circle cx="203.1" cy="137.8" r="4" fill="#3465a4"><title>Faulds</title></circle></a><a href="/variants/s8/lb40k3lb3k3lb3n8k24n8~x2/"><circle cx="250.7" cy="160.9" r="4" fill="#3465a4"><title>O'Sullivan-Beare (Family)</title></circle></a><a href="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/"><circle cx="217.0" cy="137.9" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s10/w3db2k4db2w2db26r4w30r2w3~x2/"><circle cx="240.6" cy="123.4" r="4" fill="#3465a4"><title>Harris, Royal Blue (Dance)</title></circle></a><a href="/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/"><circle cx="258.0" cy="109.2" r="4" fill="#3465a4"><title>Menzies Black Dress</title></circle></a><a href="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/"><circle cx="222.2" cy="135.1" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s10/k9lb4k2lb4k2lb30k9lb4db14dy2~x2/"><circle cx="230.5" cy="136.2" r="4" fill="#3465a4"><title>Hannay Blue (Fashion?)</title></circle></a><circle cx="220.9" cy="139.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/k8w13db2w1db2w1db2w1db2w1db2w1db2~x2/

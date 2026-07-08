@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Tweed"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4w1db12g12db1g4/)
 (the same proportion at any scale), whose colour order is pattern [BWBGBG](/stripes/bwbgbg/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4390
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4390](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4390)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db6g2db29g29db2g6~x2/"><circle cx="403.2" cy="244.0" r="4" fill="#3465a4"><title>Harmony 12</title></circle></a><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="294.8" cy="208.1" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="339.8" cy="183.7" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s5/db5g2db5g8w1~x8/"><circle cx="303.2" cy="288.2" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/variants/s6/r5db25w5db3g25db3~x2/"><circle cx="248.0" cy="216.7" r="4" fill="#3465a4"><title>Thayer USA (Name)</title></circle></a><a href="/variants/s6/r5t25w5t3dg25t3~x2/"><circle cx="268.7" cy="224.5" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/variants/s6/db2g15do3db7g7db2~x4/"><circle cx="384.7" cy="273.6" r="4" fill="#3465a4"><title>Green Highland, The (Fashion)</title></circle></a><a href="/variants/s5/db11g2db15g18w2~x2/"><circle cx="341.1" cy="271.6" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/variants/s6/db5w3db36g38y5g5~x2/"><circle cx="315.9" cy="214.0" r="4" fill="#3465a4"><title>St. Andrew Society, Sao Paulo (Corp)</title></circle></a><a href="/variants/s6/dr2g3db2g14db14lr2~x2/"><circle cx="288.8" cy="244.8" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower (Personal)</title></circle></a><circle cx="348.5" cy="244.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db6g2db29g29db2g6~x2/"><circle cx="403.3" cy="244.5" r="4" fill="#3465a4"><title>Harmony 12</title></circle></a><a href="/variants/s8/db6r3g26db26w4db26r5g5~x2/"><circle cx="294.9" cy="208.5" r="4" fill="#3465a4"><title>MacHardy, Blue</title></circle></a><a href="/variants/s8/db3r3g18db16w2db26r3g3~x2/"><circle cx="339.8" cy="184.1" r="4" fill="#3465a4"><title>MacHardy</title></circle></a><a href="/variants/s5/db5g2db5g8w1~x8/"><circle cx="303.4" cy="288.9" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/variants/s6/r5db25w5db3g25db3~x2/"><circle cx="248.1" cy="217.2" r="4" fill="#3465a4"><title>Thayer USA (Name)</title></circle></a><a href="/variants/s6/r5t25w5t3dg25t3~x2/"><circle cx="268.8" cy="225.0" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/variants/s6/db2g15do3db7g7db2~x4/"><circle cx="384.8" cy="274.2" r="4" fill="#3465a4"><title>Green Highland, The (Fashion)</title></circle></a><a href="/variants/s5/db11g2db15g18w2~x2/"><circle cx="341.2" cy="272.2" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/variants/s6/db5w3db36g38y5g5~x2/"><circle cx="316.0" cy="214.4" r="4" fill="#3465a4"><title>St. Andrew Society, Sao Paulo (Corp)</title></circle></a><a href="/variants/s6/dr2g3db2g14db14lr2~x2/"><circle cx="288.9" cy="245.3" r="4" fill="#3465a4"><title>Irving of Bonshaw Tower (Personal)</title></circle></a><circle cx="348.6" cy="245.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db4w1db12g12db1g4~x2/

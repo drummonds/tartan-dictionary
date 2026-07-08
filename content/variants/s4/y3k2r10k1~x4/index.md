@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Masai Shuka 26 (Artefact)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y3k2r10k1/)
 (the same proportion at any scale), whose colour order is pattern [GKRK](/stripes/gkrk/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7286
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7286](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7286)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k1r8k8y1~x6/"><circle cx="262.9" cy="217.5" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s4/k1r8k8y1~x4/"><circle cx="262.9" cy="217.5" r="4" fill="#3465a4"><title>Wallace (Clan)</title></circle></a><a href="/variants/s4/k1r8k8y1/"><circle cx="262.9" cy="217.5" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s4/k1r8k8y1~x2/"><circle cx="262.9" cy="217.5" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s3/r30k10y3~x4/"><circle cx="387.1" cy="214.9" r="4" fill="#3465a4"><title>Masai Shuka 20 (Artefact)</title></circle></a><a href="/variants/s5/r4k8r12k1y1~x2/"><circle cx="330.0" cy="186.0" r="4" fill="#3465a4"><title>MacKeane</title></circle></a><a href="/variants/s4/r28k4w2k13~x2/"><circle cx="287.4" cy="155.6" r="4" fill="#3465a4"><title>Dunbar Ancient</title></circle></a><a href="/variants/s4/y1k8r13g1~x6/"><circle cx="290.1" cy="176.1" r="4" fill="#3465a4"><title>Billy Apple® Red</title></circle></a><a href="/variants/s3/r63k16y5~x2/"><circle cx="425.3" cy="152.9" r="4" fill="#3465a4"><title>McPeek (Fictitious clan)</title></circle></a><a href="/variants/s5/r48k12n7k5w3~x2/"><circle cx="343.9" cy="142.1" r="4" fill="#3465a4"><title>Turner (Personal)</title></circle></a><circle cx="341.6" cy="202.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k1r8k8y1~x6/"><circle cx="262.9" cy="218.2" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s4/k1r8k8y1~x4/"><circle cx="262.9" cy="218.2" r="4" fill="#3465a4"><title>Wallace (Clan)</title></circle></a><a href="/variants/s4/k1r8k8y1/"><circle cx="262.9" cy="218.2" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s4/k1r8k8y1~x2/"><circle cx="262.9" cy="218.2" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/variants/s3/r30k10y3~x4/"><circle cx="387.2" cy="215.7" r="4" fill="#3465a4"><title>Masai Shuka 20 (Artefact)</title></circle></a><a href="/variants/s5/r4k8r12k1y1~x2/"><circle cx="330.1" cy="186.6" r="4" fill="#3465a4"><title>MacKeane</title></circle></a><a href="/variants/s4/r28k4w2k13~x2/"><circle cx="287.4" cy="156.1" r="4" fill="#3465a4"><title>Dunbar Ancient</title></circle></a><a href="/variants/s4/y1k8r13g1~x6/"><circle cx="290.1" cy="176.7" r="4" fill="#3465a4"><title>Billy Apple® Red</title></circle></a><a href="/variants/s3/r63k16y5~x2/"><circle cx="425.4" cy="153.5" r="4" fill="#3465a4"><title>McPeek (Fictitious clan)</title></circle></a><a href="/variants/s5/r48k12n7k5w3~x2/"><circle cx="343.9" cy="142.6" r="4" fill="#3465a4"><title>Turner (Personal)</title></circle></a><circle cx="341.7" cy="202.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/y3k2r10k1~x4/

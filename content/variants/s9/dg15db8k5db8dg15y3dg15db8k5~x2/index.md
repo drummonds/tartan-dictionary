@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dewar, Robert Alexander"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg15db8k5db8dg15y3dg15db8k5/)
 (the same proportion at any scale), whose colour order is pattern [GBKBGGGBK](/stripes/gbkbgggbk/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10006
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10006](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10006)
 
 ## Provenance
 
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg40k20db10k4db7dg13k4db4~x2/"><circle cx="336.0" cy="218.0" r="4" fill="#3465a4"><title>Letham Personal Tartan</title></circle></a><a href="/variants/s7/db5dg8k1y2k1dg8db4~x4/"><circle cx="339.3" cy="247.0" r="4" fill="#3465a4"><title>Salvation Army Htg (Corporate)</title></circle></a><a href="/variants/s11/dbi2db16dg14r3dg14k3dg14ly3dg14db16dbi2~x2~dbi1406275-db1204274/"><circle cx="297.5" cy="204.4" r="4" fill="#3465a4"><title>Pendleton Hunting</title></circle></a><a href="/variants/s11/db6ki40dg34r5dg34k6dg34y5dg34ki40db6~ki0604259/"><circle cx="314.1" cy="204.4" r="4" fill="#3465a4"><title>Pendleton dress</title></circle></a><a href="/variants/s8/db17dg5db5dg17db4dg17k6dg5~x2/"><circle cx="391.3" cy="222.4" r="4" fill="#3465a4"><title>Hueg (Bavaria) Hunting (Personal)</title></circle></a><a href="/variants/s11/db2ki16dg14r3dg14k3dg14b3dg14ki16db2~ki0604259/"><circle cx="293.4" cy="202.5" r="4" fill="#3465a4"><title>Pendleton hunting</title></circle></a><a href="/variants/s8/k10dg3k6dg20ki8dr4w4dg10~x2~k0504259-ki0700000/"><circle cx="214.5" cy="220.1" r="4" fill="#3465a4"><title>BlackRock (Symmetrical)</title></circle></a><a href="/variants/s10/db8k1db8k2dg6r1dg6k2db8lb1~x2/"><circle cx="284.0" cy="204.2" r="4" fill="#3465a4"><title>Dalmeny - 1965 (Fashion)</title></circle></a><a href="/variants/s10/dg7r4dg14db10dg5db10w2db10dg5db5~x2/"><circle cx="284.4" cy="264.3" r="4" fill="#3465a4"><title>Edmonstone of Duntreath</title></circle></a><a href="/variants/s9/dg2r1dg8db2dg1db2dg1db10r2~x4/"><circle cx="370.7" cy="225.5" r="4" fill="#3465a4"><title>Barnaby Brown Pibroch</title></circle></a><circle cx="293.2" cy="274.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dg40k20db10k4db7dg13k4db4~x2/"><circle cx="336.0" cy="218.4" r="4" fill="#3465a4"><title>Letham Personal Tartan</title></circle></a><a href="/variants/s7/db5dg8k1y2k1dg8db4~x4/"><circle cx="339.4" cy="247.3" r="4" fill="#3465a4"><title>Salvation Army Htg (Corporate)</title></circle></a><a href="/variants/s11/dbi2db16dg14r3dg14k3dg14ly3dg14db16dbi2~x2~dbi1406275-db1204274/"><circle cx="297.5" cy="204.6" r="4" fill="#3465a4"><title>Pendleton Hunting</title></circle></a><a href="/variants/s11/db6ki40dg34r5dg34k6dg34y5dg34ki40db6~ki0604259/"><circle cx="314.1" cy="204.6" r="4" fill="#3465a4"><title>Pendleton dress</title></circle></a><a href="/variants/s8/db17dg5db5dg17db4dg17k6dg5~x2/"><circle cx="391.4" cy="222.5" r="4" fill="#3465a4"><title>Hueg (Bavaria) Hunting (Personal)</title></circle></a><a href="/variants/s11/db2ki16dg14r3dg14k3dg14b3dg14ki16db2~ki0604259/"><circle cx="293.4" cy="202.7" r="4" fill="#3465a4"><title>Pendleton hunting</title></circle></a><a href="/variants/s8/k10dg3k6dg20ki8dr4w4dg10~x2~k0504259-ki0700000/"><circle cx="214.5" cy="220.5" r="4" fill="#3465a4"><title>BlackRock (Symmetrical)</title></circle></a><a href="/variants/s10/db8k1db8k2dg6r1dg6k2db8lb1~x2/"><circle cx="284.0" cy="204.5" r="4" fill="#3465a4"><title>Dalmeny - 1965 (Fashion)</title></circle></a><a href="/variants/s10/dg7r4dg14db10dg5db10w2db10dg5db5~x2/"><circle cx="284.5" cy="264.8" r="4" fill="#3465a4"><title>Edmonstone of Duntreath</title></circle></a><a href="/variants/s9/dg2r1dg8db2dg1db2dg1db10r2~x4/"><circle cx="370.8" cy="225.8" r="4" fill="#3465a4"><title>Barnaby Brown Pibroch</title></circle></a><circle cx="293.4" cy="275.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dg15db8k5db8dg15y3dg15db8k5~x2/

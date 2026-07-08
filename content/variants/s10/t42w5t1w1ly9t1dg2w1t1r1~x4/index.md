@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Stratford , City of"
   url: "/tartans/stratford-city-of/"
+- name: "Stratford, (Oregon) City of (Dist.)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t42w5t1w1ly9t1dg2w1t1r1/)
 (the same proportion at any scale), whose colour order is pattern [BWBWYBGWBR](/stripes/bwbwybgwbr/).
@@ -14,7 +16,7 @@ Part of the [Stratford , City of](/tartans/stratford-city-of/) tartan — the na
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10363
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10363](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10363)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.3" cy="63.7" r="4" fill="#3465a4"><title>Stratford (Ontario), City of</title></circle></a><a href="/variants/s8/b72w12b2ly2b2r12b1w9~x2/"><circle cx="468.5" cy="97.8" r="4" fill="#3465a4"><title>Tennessee Pioneer Blanket</title></circle></a><a href="/variants/s12/w4t8w4lg8w2lg2w4t42r1ly2r1t2~x2/"><circle cx="425.2" cy="89.1" r="4" fill="#3465a4"><title>StammBar</title></circle></a><a href="/variants/s10/t106r3t4r6t8k28g8w4g12k8/"><circle cx="340.9" cy="70.9" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/variants/s11/lb20dp4r4w4g4y4lb4y1lb2y1lb20~x4~r2109032-g2408144/"><circle cx="383.5" cy="129.7" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/variants/s11/lb20dp4r4w4g4y4lb4y1lb2y1lb20~x4/"><circle cx="383.6" cy="129.6" r="4" fill="#3465a4"><title>Yukon (District)</title></circle></a><a href="/variants/s10/n56db9w2db2r2n9lb4db2lb2y3~x2/"><circle cx="493.1" cy="97.5" r="4" fill="#3465a4"><title>Blue Toon</title></circle></a><a href="/variants/s12/lb144k9lb13lr9lb4k9lb4ly13lr9lb4lr13k4/"><circle cx="444.4" cy="65.5" r="4" fill="#3465a4"><title>London Fog Blue (Fashion)</title></circle></a><a href="/variants/s7/t62db22w3db2w2db3r1~x2~db1204274-w3600000/"><circle cx="481.0" cy="120.4" r="4" fill="#3465a4"><title>North Tyneside Pipe Band</title></circle></a><a href="/variants/s11/t27w2t15ly1t1ly1t15k2w2g16r1~x2/"><circle cx="423.8" cy="118.1" r="4" fill="#3465a4"><title>Quigley of Knockcroghery Htg (Per.)</title></circle></a><circle cx="475.2" cy="84.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db42w5db1w1y9db1dg2w1db1r1~x4/"><circle cx="436.1" cy="63.7" r="4" fill="#3465a4"><title>Stratford (Ontario), City of</title></circle></a><a href="/variants/s8/b72w12b2ly2b2r12b1w9~x2/"><circle cx="468.4" cy="97.9" r="4" fill="#3465a4"><title>Tennessee Pioneer Blanket</title></circle></a><a href="/variants/s12/w4t8w4lg8w2lg2w4t42r1ly2r1t2~x2/"><circle cx="425.1" cy="89.1" r="4" fill="#3465a4"><title>StammBar</title></circle></a><a href="/variants/s10/t106r3t4r6t8k28g8w4g12k8/"><circle cx="340.7" cy="71.0" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/variants/s11/lb20dp4r4w4g4y4lb4y1lb2y1lb20~x4~r2109032-g2408144/"><circle cx="383.5" cy="129.9" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/variants/s11/lb20dp4r4w4g4y4lb4y1lb2y1lb20~x4/"><circle cx="383.6" cy="129.8" r="4" fill="#3465a4"><title>Yukon (District)</title></circle></a><a href="/variants/s10/n56db9w2db2r2n9lb4db2lb2y3~x2/"><circle cx="493.0" cy="97.5" r="4" fill="#3465a4"><title>Blue Toon</title></circle></a><a href="/variants/s12/lb144k9lb13lr9lb4k9lb4ly13lr9lb4lr13k4/"><circle cx="444.3" cy="65.7" r="4" fill="#3465a4"><title>London Fog Blue (Fashion)</title></circle></a><a href="/variants/s7/t62db22w3db2w2db3r1~x2~db1204274-w3600000/"><circle cx="481.0" cy="120.4" r="4" fill="#3465a4"><title>North Tyneside Pipe Band</title></circle></a><a href="/variants/s11/t27w2t15ly1t1ly1t15k2w2g16r1~x2/"><circle cx="423.8" cy="118.2" r="4" fill="#3465a4"><title>Quigley of Knockcroghery Htg (Per.)</title></circle></a><circle cx="475.1" cy="84.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/t42w5t1w1ly9t1dg2w1t1r1~x4/

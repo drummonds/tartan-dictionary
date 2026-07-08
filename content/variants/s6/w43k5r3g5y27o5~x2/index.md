@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Reekie, Charlene"
   url: "/tartans/reekie-charlene/"
+- name: "Reekie, Charlene"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w43k5r3g5y27o5/)
 (the same proportion at any scale), whose colour order is pattern [RGGRKW](/stripes/rggrkw/).
@@ -14,7 +16,7 @@ Part of the [Reekie, Charlene](/tartans/reekie-charlene/) tartan — the named d
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10701
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10701](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10701)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w43k5r3g5ly27dp5~x2/"><circle cx="196.7" cy="136.8" r="4" fill="#3465a4"><title>Reekie, Charlene (Personal)</title></circle></a><a href="/variants/s6/r20w1k1b6y1g18~x2/"><circle cx="238.0" cy="137.6" r="4" fill="#3465a4"><title>Gordon of Abergeldie, (Red..)</title></circle></a><a href="/variants/s6/w18k1db4g4dp10lo2~x4/"><circle cx="167.3" cy="135.6" r="4" fill="#3465a4"><title>Edgar-Feyen</title></circle></a><a href="/variants/s5/k5w2y36lb47r3~x2/"><circle cx="291.6" cy="147.8" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="227.1" cy="116.6" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s5/o3w3k3ly10r1~x6~o2005046-w3802111/"><circle cx="186.2" cy="190.6" r="4" fill="#3465a4"><title>Burberry Counterfeit</title></circle></a><a href="/variants/s6/lo13t8r5k3w2g1~x4~r2109032/"><circle cx="134.4" cy="160.2" r="4" fill="#3465a4"><title>Ball</title></circle></a><a href="/variants/s6/lo13t8r5k3w2g1~x4/"><circle cx="134.8" cy="160.1" r="4" fill="#3465a4"><title>Ball (Name)</title></circle></a><a href="/variants/s9/k4lb4k2lb4k2lb22ly27y2r3~x2/"><circle cx="197.2" cy="129.6" r="4" fill="#3465a4"><title>Falkirk</title></circle></a><a href="/variants/s6/k3r24lb16w11y1g3~x2/"><circle cx="177.4" cy="128.6" r="4" fill="#3465a4"><title>Bro-sant-Malou</title></circle></a><circle cx="195.2" cy="135.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w43k5r3g5ly27dp5~x2/"><circle cx="196.7" cy="137.3" r="4" fill="#3465a4"><title>Reekie, Charlene (Personal)</title></circle></a><a href="/variants/s6/r20w1k1b6y1g18~x2/"><circle cx="237.9" cy="137.9" r="4" fill="#3465a4"><title>Gordon of Abergeldie, (Red..)</title></circle></a><a href="/variants/s6/w18k1db4g4dp10lo2~x4/"><circle cx="167.3" cy="136.0" r="4" fill="#3465a4"><title>Edgar-Feyen</title></circle></a><a href="/variants/s5/k5w2y36lb47r3~x2/"><circle cx="291.6" cy="148.2" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/variants/s7/y3k1g12r7lb25k1w3~x2/"><circle cx="227.1" cy="116.9" r="4" fill="#3465a4"><title>Caskie</title></circle></a><a href="/variants/s5/o3w3k3ly10r1~x6~o2005046-w3802111/"><circle cx="186.3" cy="191.3" r="4" fill="#3465a4"><title>Burberry Counterfeit</title></circle></a><a href="/variants/s6/lo13t8r5k3w2g1~x4~r2109032/"><circle cx="134.4" cy="160.7" r="4" fill="#3465a4"><title>Ball</title></circle></a><a href="/variants/s6/lo13t8r5k3w2g1~x4/"><circle cx="134.8" cy="160.6" r="4" fill="#3465a4"><title>Ball (Name)</title></circle></a><a href="/variants/s9/k4lb4k2lb4k2lb22ly27y2r3~x2/"><circle cx="197.2" cy="130.0" r="4" fill="#3465a4"><title>Falkirk</title></circle></a><a href="/variants/s6/k3r24lb16w11y1g3~x2/"><circle cx="177.4" cy="128.9" r="4" fill="#3465a4"><title>Bro-sant-Malou</title></circle></a><circle cx="195.2" cy="135.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w43k5r3g5y27o5~x2/

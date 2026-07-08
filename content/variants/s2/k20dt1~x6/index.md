@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Black Shadow (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k20dt1/)
 (the same proportion at any scale), whose colour order is pattern [BK](/stripes/bk/).
 
 Sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6680
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6680](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6680)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/dg1k20dg1~x6~dg1804158/"><circle cx="626.0" cy="202.8" r="4" fill="#3465a4"><title>Stirling of Keir</title></circle></a><a href="/variants/s2/k15lb1~x12/"><circle cx="626.0" cy="242.7" r="4" fill="#3465a4"><title>Joy's Fancy, Allen (Personal)</title></circle></a><a href="/variants/s3/r1n19w1~x2/"><circle cx="626.0" cy="223.5" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny (Clan)</title></circle></a><a href="/variants/s3/k1g22dr1~x4/"><circle cx="626.0" cy="200.6" r="4" fill="#3465a4"><title>Kenmore Hunting (Fashion)</title></circle></a><a href="/variants/s3/k27dg10r2~x4/"><circle cx="431.9" cy="230.0" r="4" fill="#3465a4"><title>The Caledonian Hotel</title></circle></a><a href="/variants/s3/db1k12db1~x10/"><circle cx="626.0" cy="242.7" r="4" fill="#3465a4"><title>Staines (2013)</title></circle></a><a href="/variants/s3/g16dy3g2~x10/"><circle cx="626.0" cy="319.4" r="4" fill="#3465a4"><title>Hallstatt (Artefact)</title></circle></a><a href="/variants/s4/k50r1db3dp1~x4/"><circle cx="626.0" cy="121.7" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/variants/s4/r2k50n2r1~x2/"><circle cx="626.0" cy="116.8" r="4" fill="#3465a4"><title>Galloway Family</title></circle></a><a href="/variants/s3/k4dt1k3~x10/"><circle cx="607.1" cy="346.2" r="4" fill="#3465a4"><title>Ben Dubh (Fashion)</title></circle></a><circle cx="626.0" cy="279.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/dg1k20dg1~x6~dg1804158/"><circle cx="626.0" cy="203.1" r="4" fill="#3465a4"><title>Stirling of Keir</title></circle></a><a href="/variants/s2/k15lb1~x12/"><circle cx="626.0" cy="243.3" r="4" fill="#3465a4"><title>Joy's Fancy, Allen (Personal)</title></circle></a><a href="/variants/s3/r1n19w1~x2/"><circle cx="626.0" cy="223.9" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny (Clan)</title></circle></a><a href="/variants/s3/k1g22dr1~x4/"><circle cx="626.0" cy="201.1" r="4" fill="#3465a4"><title>Kenmore Hunting (Fashion)</title></circle></a><a href="/variants/s3/k27dg10r2~x4/"><circle cx="431.9" cy="230.5" r="4" fill="#3465a4"><title>The Caledonian Hotel</title></circle></a><a href="/variants/s3/db1k12db1~x10/"><circle cx="626.0" cy="243.1" r="4" fill="#3465a4"><title>Staines (2013)</title></circle></a><a href="/variants/s3/g16dy3g2~x10/"><circle cx="626.0" cy="320.0" r="4" fill="#3465a4"><title>Hallstatt (Artefact)</title></circle></a><a href="/variants/s4/k50r1db3dp1~x4/"><circle cx="626.0" cy="121.7" r="4" fill="#3465a4"><title>Alich (Personal)</title></circle></a><a href="/variants/s4/r2k50n2r1~x2/"><circle cx="626.0" cy="117.0" r="4" fill="#3465a4"><title>Galloway Family</title></circle></a><a href="/variants/s3/k4dt1k3~x10/"><circle cx="607.3" cy="346.9" r="4" fill="#3465a4"><title>Ben Dubh (Fashion)</title></circle></a><circle cx="626.0" cy="279.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s2/k20dt1~x6/

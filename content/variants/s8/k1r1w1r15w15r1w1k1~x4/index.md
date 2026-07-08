@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bundy, Dress Red (Personal Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1r1w1r15w15r1w1k1/)
 (the same proportion at any scale), whose colour order is pattern [KRWRWRWK](/stripes/krwrwrwk/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8263
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8263](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8263)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w50k1r14w1dg14r14w1r2~x4~w4000000/"><circle cx="306.3" cy="83.1" r="4" fill="#3465a4"><title>Wilson's Blanket Pattern</title></circle></a><a href="/variants/s8/w80k2r19w2dg19r22w2r4~x2/"><circle cx="315.5" cy="89.7" r="4" fill="#3465a4"><title>Wilsons' Blanket Pattern (Artefact)</title></circle></a><a href="/variants/s8/w50k1r12w1g12r13w1r2~x2/"><circle cx="336.9" cy="84.7" r="4" fill="#3465a4"><title>Unidentified Blanket</title></circle></a><a href="/variants/s9/db3w12k11r4w2r2w2r24ly3~x2/"><circle cx="180.9" cy="127.6" r="4" fill="#3465a4"><title>Hearts Football Club (Corporate)</title></circle></a><a href="/variants/s6/r8w3r28w32k3w4~x2/"><circle cx="296.0" cy="193.3" r="4" fill="#3465a4"><title>Ailsa, Pink (Dance)</title></circle></a><a href="/variants/s6/k2w28r13w2r13w2~x2/"><circle cx="318.3" cy="183.2" r="4" fill="#3465a4"><title>Buchanan #5</title></circle></a><a href="/variants/s6/w2r4w2r4w9k1~x2/"><circle cx="305.2" cy="218.3" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><a href="/variants/s7/w5r2w34r34k2r2db4~x2/"><circle cx="271.0" cy="132.3" r="4" fill="#3465a4"><title>Cunningham Dress</title></circle></a><a href="/variants/s7/w5r2w34r34k2r2y4~x2/"><circle cx="276.0" cy="133.7" r="4" fill="#3465a4"><title>Cunningham Dress Burgundy (Dance)</title></circle></a><a href="/variants/s7/k2r4w1r10g12r2w2~x4/"><circle cx="238.8" cy="174.1" r="4" fill="#3465a4"><title>Starr (1978) (Name)</title></circle></a><circle cx="286.5" cy="131.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w50k1r14w1dg14r14w1r2~x4~w4000000/"><circle cx="306.3" cy="83.5" r="4" fill="#3465a4"><title>Wilson's Blanket Pattern</title></circle></a><a href="/variants/s8/w80k2r19w2dg19r22w2r4~x2/"><circle cx="315.4" cy="90.1" r="4" fill="#3465a4"><title>Wilsons' Blanket Pattern (Artefact)</title></circle></a><a href="/variants/s8/w50k1r12w1g12r13w1r2~x2/"><circle cx="336.8" cy="85.0" r="4" fill="#3465a4"><title>Unidentified Blanket</title></circle></a><a href="/variants/s9/db3w12k11r4w2r2w2r24ly3~x2/"><circle cx="180.9" cy="128.1" r="4" fill="#3465a4"><title>Hearts Football Club (Corporate)</title></circle></a><a href="/variants/s6/r8w3r28w32k3w4~x2/"><circle cx="296.2" cy="194.0" r="4" fill="#3465a4"><title>Ailsa, Pink (Dance)</title></circle></a><a href="/variants/s6/k2w28r13w2r13w2~x2/"><circle cx="318.4" cy="183.8" r="4" fill="#3465a4"><title>Buchanan #5</title></circle></a><a href="/variants/s6/w2r4w2r4w9k1~x2/"><circle cx="305.4" cy="219.1" r="4" fill="#3465a4"><title>Buchanan VS</title></circle></a><a href="/variants/s7/w5r2w34r34k2r2db4~x2/"><circle cx="271.0" cy="132.8" r="4" fill="#3465a4"><title>Cunningham Dress</title></circle></a><a href="/variants/s7/w5r2w34r34k2r2y4~x2/"><circle cx="276.1" cy="134.2" r="4" fill="#3465a4"><title>Cunningham Dress Burgundy (Dance)</title></circle></a><a href="/variants/s7/k2r4w1r10g12r2w2~x4/"><circle cx="238.9" cy="174.6" r="4" fill="#3465a4"><title>Starr (1978) (Name)</title></circle></a><circle cx="286.5" cy="132.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k1r1w1r15w15r1w1k1~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal Scotsman Train (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db5k2db14k14db2lp2/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBW](/stripes/bkbkbw/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7774
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7774](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7774)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db8k39db8k39db87r6/"><circle cx="362.8" cy="197.9" r="4" fill="#3465a4"><title>Largan (?)</title></circle></a><a href="/variants/s6/db2k6db2k6db16r1~x2/"><circle cx="393.5" cy="194.0" r="4" fill="#3465a4"><title>MacKay V</title></circle></a><a href="/variants/s6/db1k3db1k3db8r1~x8/"><circle cx="344.7" cy="220.0" r="4" fill="#3465a4"><title>MacKay -1842 (VS) (Clan)</title></circle></a><a href="/variants/s6/db1k3db1k3db8r1~x4/"><circle cx="344.7" cy="220.0" r="4" fill="#3465a4"><title>Morgan (MacKay Blue) Clan Tartan</title></circle></a><a href="/variants/s6/db9k9db9k9db42w5~x2/"><circle cx="397.7" cy="205.9" r="4" fill="#3465a4"><title>Dollar Academy (1930s) (Corporate)</title></circle></a><a href="/variants/s6/db9k9db9k9db42lb5~x2/"><circle cx="417.8" cy="212.0" r="4" fill="#3465a4"><title>Dollar Academy</title></circle></a><a href="/variants/s7/db5k2db14k14db2k2r2~x2/"><circle cx="304.4" cy="215.2" r="4" fill="#3465a4"><title>Royal Scotsman Train</title></circle></a><a href="/variants/s5/k33db8k4db35dp3~x2/"><circle cx="360.3" cy="224.2" r="4" fill="#3465a4"><title>Fenston/Morris (Personal)</title></circle></a><a href="/variants/s6/db2k11db5k1db5k1~x6/"><circle cx="377.8" cy="233.9" r="4" fill="#3465a4"><title>Gagetown (School)</title></circle></a><a href="/variants/s5/k30db6k6db41lb2~x2/"><circle cx="374.8" cy="191.6" r="4" fill="#3465a4"><title>Williams (New York) (Personal)</title></circle></a><circle cx="302.7" cy="225.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db8k39db8k39db87r6/"><circle cx="362.9" cy="198.2" r="4" fill="#3465a4"><title>Largan (?)</title></circle></a><a href="/variants/s6/db2k6db2k6db16r1~x2/"><circle cx="393.6" cy="194.3" r="4" fill="#3465a4"><title>MacKay V</title></circle></a><a href="/variants/s6/db1k3db1k3db8r1~x8/"><circle cx="344.8" cy="220.5" r="4" fill="#3465a4"><title>MacKay -1842 (VS) (Clan)</title></circle></a><a href="/variants/s6/db1k3db1k3db8r1~x4/"><circle cx="344.8" cy="220.5" r="4" fill="#3465a4"><title>Morgan (MacKay Blue) Clan Tartan</title></circle></a><a href="/variants/s6/db9k9db9k9db42w5~x2/"><circle cx="397.7" cy="206.4" r="4" fill="#3465a4"><title>Dollar Academy (1930s) (Corporate)</title></circle></a><a href="/variants/s6/db9k9db9k9db42lb5~x2/"><circle cx="417.8" cy="212.5" r="4" fill="#3465a4"><title>Dollar Academy</title></circle></a><a href="/variants/s7/db5k2db14k14db2k2r2~x2/"><circle cx="304.4" cy="215.7" r="4" fill="#3465a4"><title>Royal Scotsman Train</title></circle></a><a href="/variants/s5/k33db8k4db35dp3~x2/"><circle cx="360.4" cy="224.6" r="4" fill="#3465a4"><title>Fenston/Morris (Personal)</title></circle></a><a href="/variants/s6/db2k11db5k1db5k1~x6/"><circle cx="377.9" cy="234.3" r="4" fill="#3465a4"><title>Gagetown (School)</title></circle></a><a href="/variants/s5/k30db6k6db41lb2~x2/"><circle cx="374.8" cy="192.0" r="4" fill="#3465a4"><title>Williams (New York) (Personal)</title></circle></a><circle cx="302.7" cy="226.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db5k2db14k14db2lp2~x2/

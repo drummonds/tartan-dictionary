@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "New House Highland (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly3k1dr22k1dr1k10dg1dr1dg11k1dr4k1dg8k1dr4k1dg48k1/)
 (the same proportion at any scale), whose colour order is pattern [KGKBKGKBKGBGKBKBKY](/stripes/kgkbkgkbkgbgkbkbky/).
 
 Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8295
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8295](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8295)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/dg40k2dr3k2dg3k3r3k3r3k3dr5y1dr5k3dg3k2dr3k2dg3k3~x2/"><circle cx="325.9" cy="47.3" r="4" fill="#3465a4"><title>Austrian Bowhunters Hunting</title></circle></a><a href="/variants/s10/y36dg4k1y2k1dg4k4dg60dr4dg4~x2/"><circle cx="442.1" cy="95.3" r="4" fill="#3465a4"><title>Orvis Sports Company (Corporate)</title></circle></a><a href="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4~dg1605139-g2408144/"><circle cx="470.0" cy="114.1" r="4" fill="#3465a4"><title>Verdon</title></circle></a><a href="/variants/s10/dg68k2dg2k2dg2dy8r8k8dy2db7~x2/"><circle cx="450.4" cy="88.8" r="4" fill="#3465a4"><title>Moran Family Ubique</title></circle></a><a href="/variants/s18/dr4dg60k4dg4k1y2k1dg4y36dg4k1y2k1dg4k4dg60dr4dg4~x2/"><circle cx="500.1" cy="69.1" r="4" fill="#3465a4"><title>Orvis Sports Company</title></circle></a><circle cx="418.6" cy="71.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/dg40k2dr3k2dg3k3r3k3r3k3dr5y1dr5k3dg3k2dr3k2dg3k3~x2/"><circle cx="325.7" cy="47.1" r="4" fill="#3465a4"><title>Austrian Bowhunters Hunting</title></circle></a><a href="/variants/s10/y36dg4k1y2k1dg4k4dg60dr4dg4~x2/"><circle cx="442.0" cy="95.2" r="4" fill="#3465a4"><title>Orvis Sports Company (Corporate)</title></circle></a><a href="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4~dg1605139-g2408144/"><circle cx="469.9" cy="114.0" r="4" fill="#3465a4"><title>Verdon</title></circle></a><a href="/variants/s10/dg68k2dg2k2dg2dy8r8k8dy2db7~x2/"><circle cx="450.3" cy="88.7" r="4" fill="#3465a4"><title>Moran Family Ubique</title></circle></a><a href="/variants/s18/dr4dg60k4dg4k1y2k1dg4y36dg4k1y2k1dg4k4dg60dr4dg4~x2/"><circle cx="500.0" cy="69.0" r="4" fill="#3465a4"><title>Orvis Sports Company</title></circle></a><circle cx="418.4" cy="71.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s18/ly3k1dr22k1dr1k10dg1dr1dg11k1dr4k1dg8k1dr4k1dg48k1~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Zambia"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4k1db16k1g32dr6k6lo6g4lo2g1/)
 (the same proportion at any scale), whose colour order is pattern [GYGYKBGKBKW](/stripes/gygykbgkbkw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5951
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5951](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5951)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r3w3k3w3r3db8k1y2k1db8k2g30k1g10k2~x2/"><circle cx="204.2" cy="58.4" r="4" fill="#3465a4"><title>Coigach</title></circle></a><a href="/variants/s15/r3w3k3w3r3db8k1y2k1db8k2g30k1g10k2~x2~r1506019/"><circle cx="205.7" cy="59.3" r="4" fill="#3465a4"><title>Coigach (District)</title></circle></a><a href="/variants/s8/g5ly1dr2g25k14db19w2g4~x2/"><circle cx="195.2" cy="117.4" r="4" fill="#3465a4"><title>Tooth (Personal)</title></circle></a><a href="/variants/s8/g5y1r2g25k14db19w4g2~x2/"><circle cx="173.4" cy="115.1" r="4" fill="#3465a4"><title>Tooth</title></circle></a><a href="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/"><circle cx="186.4" cy="76.2" r="4" fill="#3465a4"><title>National Millennium</title></circle></a><a href="/variants/s10/dr4w6k10db5k3y16k3g33k1w4~x2/"><circle cx="141.1" cy="86.7" r="4" fill="#3465a4"><title>Fermanagh County, Crest Range</title></circle></a><a href="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/"><circle cx="215.9" cy="58.5" r="4" fill="#3465a4"><title>Knox (Personal)</title></circle></a><a href="/variants/s11/lb11k2lb2k2ly2k11dg30r2dg3k1w5~x2/"><circle cx="187.2" cy="68.2" r="4" fill="#3465a4"><title>Labrador (District)</title></circle></a><a href="/variants/s11/g30dp4r6w6db6dp3k14w14db50g50w2/"><circle cx="170.6" cy="100.8" r="4" fill="#3465a4"><title>Brehat (Personal)</title></circle></a><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/"><circle cx="215.7" cy="82.4" r="4" fill="#3465a4"><title>Lusk (Personal)</title></circle></a><circle cx="194.0" cy="76.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r3w3k3w3r3db8k1y2k1db8k2g30k1g10k2~x2/"><circle cx="204.0" cy="58.5" r="4" fill="#3465a4"><title>Coigach</title></circle></a><a href="/variants/s15/r3w3k3w3r3db8k1y2k1db8k2g30k1g10k2~x2~r1506019/"><circle cx="205.5" cy="59.3" r="4" fill="#3465a4"><title>Coigach (District)</title></circle></a><a href="/variants/s8/g5ly1dr2g25k14db19w2g4~x2/"><circle cx="195.1" cy="117.6" r="4" fill="#3465a4"><title>Tooth (Personal)</title></circle></a><a href="/variants/s8/g5y1r2g25k14db19w4g2~x2/"><circle cx="173.3" cy="115.4" r="4" fill="#3465a4"><title>Tooth</title></circle></a><a href="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/"><circle cx="186.3" cy="76.3" r="4" fill="#3465a4"><title>National Millennium</title></circle></a><a href="/variants/s10/dr4w6k10db5k3y16k3g33k1w4~x2/"><circle cx="141.0" cy="86.9" r="4" fill="#3465a4"><title>Fermanagh County, Crest Range</title></circle></a><a href="/variants/s13/dg55ly20w2ly3k2ly3w2ly3db18k2ly4y2ly3~x2/"><circle cx="215.7" cy="58.6" r="4" fill="#3465a4"><title>Knox (Personal)</title></circle></a><a href="/variants/s11/lb11k2lb2k2ly2k11dg30r2dg3k1w5~x2/"><circle cx="187.1" cy="68.3" r="4" fill="#3465a4"><title>Labrador (District)</title></circle></a><a href="/variants/s11/g30dp4r6w6db6dp3k14w14db50g50w2/"><circle cx="170.5" cy="101.0" r="4" fill="#3465a4"><title>Brehat (Personal)</title></circle></a><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/"><circle cx="215.6" cy="82.4" r="4" fill="#3465a4"><title>Lusk (Personal)</title></circle></a><circle cx="193.8" cy="76.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/w4k1db16k1g32dr6k6lo6g4lo2g1~x2/

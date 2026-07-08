@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacMillan Hunting"
   url: "/tartans/macmillan-hunting-2/"
+- name: "MacMillan Hunting Clan Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db6dy2db18k6dy3k6g14r3g10r2/)
 (the same proportion at any scale), whose colour order is pattern [BGBKGKGRGR](/stripes/bgbkgkgrgr/).
@@ -14,7 +16,7 @@ Part of the [MacMillan Hunting](/tartans/macmillan-hunting-2/) tartan — the na
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=668
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=668](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=668)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db3y1db12k4y2k4g8r2g8r1~x2/"><circle cx="128.1" cy="166.0" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/variants/s10/t5dr3t30k6w4k6dg24dr4dg6dr3/"><circle cx="158.8" cy="157.7" r="4" fill="#3465a4"><title>Law Society of Scotland</title></circle></a><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/"><circle cx="113.3" cy="173.9" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><a href="/variants/s9/k3y3g22db6k17g6db22r3db3~x2/"><circle cx="129.8" cy="182.3" r="4" fill="#3465a4"><title>Maresh</title></circle></a><a href="/variants/s12/dr1db6k6g1t2g9t2g1k6db6dr1db1~x8/"><circle cx="97.4" cy="170.4" r="4" fill="#3465a4"><title>MacTaggart (Johnstons)</title></circle></a><a href="/variants/s12/dr4g14dg2g4dg2k6g3k6db14dr2db4dr4~x2/"><circle cx="96.6" cy="185.6" r="4" fill="#3465a4"><title>Kinloch Anderson, hunting</title></circle></a><a href="/variants/s13/y3k1g10k7db10g2db2g2db10k7g10k1lb3~x2/"><circle cx="106.3" cy="168.5" r="4" fill="#3465a4"><title>Doon Valley Crafters</title></circle></a><a href="/variants/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/"><circle cx="89.6" cy="181.0" r="4" fill="#3465a4"><title>Denovan, The Lairdship of (Personal)</title></circle></a><a href="/variants/s12/dr4g14o2g4o2k6g3k6db12dr2db4dr4~x2/"><circle cx="87.9" cy="184.7" r="4" fill="#3465a4"><title>Kinloch Anderson #2 (Corporate)</title></circle></a><a href="/variants/s13/db9k1db1k1db1k7g8y2g8k7db8k1r2~x2/"><circle cx="107.5" cy="163.5" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><circle cx="115.5" cy="181.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db3y1db12k4y2k4g8r2g8r1~x2/"><circle cx="128.0" cy="166.4" r="4" fill="#3465a4"><title>MacMillan Hunting</title></circle></a><a href="/variants/s10/t5dr3t30k6w4k6dg24dr4dg6dr3/"><circle cx="158.8" cy="158.1" r="4" fill="#3465a4"><title>Law Society of Scotland</title></circle></a><a href="/variants/s12/db6lb2db20k15g20y2g6lb2g20k15db20y4~x2/"><circle cx="113.3" cy="174.3" r="4" fill="#3465a4"><title>Scottish Women's Rural Institutes</title></circle></a><a href="/variants/s9/k3y3g22db6k17g6db22r3db3~x2/"><circle cx="129.8" cy="182.7" r="4" fill="#3465a4"><title>Maresh</title></circle></a><a href="/variants/s12/dr1db6k6g1t2g9t2g1k6db6dr1db1~x8/"><circle cx="97.3" cy="170.8" r="4" fill="#3465a4"><title>MacTaggart (Johnstons)</title></circle></a><a href="/variants/s12/dr4g14dg2g4dg2k6g3k6db14dr2db4dr4~x2/"><circle cx="96.6" cy="186.0" r="4" fill="#3465a4"><title>Kinloch Anderson, hunting</title></circle></a><a href="/variants/s13/y3k1g10k7db10g2db2g2db10k7g10k1lb3~x2/"><circle cx="106.3" cy="168.9" r="4" fill="#3465a4"><title>Doon Valley Crafters</title></circle></a><a href="/variants/s12/db10dp2db3r4db14r2k14g14r4g3dp2g10~x2/"><circle cx="89.6" cy="181.5" r="4" fill="#3465a4"><title>Denovan, The Lairdship of (Personal)</title></circle></a><a href="/variants/s12/dr4g14o2g4o2k6g3k6db12dr2db4dr4~x2/"><circle cx="87.9" cy="185.1" r="4" fill="#3465a4"><title>Kinloch Anderson #2 (Corporate)</title></circle></a><a href="/variants/s13/db9k1db1k1db1k7g8y2g8k7db8k1r2~x2/"><circle cx="107.5" cy="163.9" r="4" fill="#3465a4"><title>MacLeod of Gesto</title></circle></a><circle cx="115.5" cy="181.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db6dy2db18k6dy3k6g14r3g10r2~x2/

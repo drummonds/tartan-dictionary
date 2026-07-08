@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. Patrick"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w13dg3w4dg3w3dg40w3dg2dy4dg2w3dg40w3dg3w4dg3w13dg4/)
 (the same proportion at any scale), whose colour order is pattern [GWGWGWGWGGGWGWGWGW](/stripes/gwgwgwgwgggwgwgwgw/).
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3902
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3902](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3902)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/"><circle cx="404.1" cy="145.8" r="4" fill="#3465a4"><title>St. Patrick (Fashion)</title></circle></a><a href="/variants/s10/g51dp3g5ly3g5dp5g5dp5g5ly3~x2/"><circle cx="487.0" cy="146.4" r="4" fill="#3465a4"><title>Highland Hospice</title></circle></a><a href="/variants/s10/y4g2w3g40w3g3w4g3w13g4~x2/"><circle cx="438.2" cy="164.1" r="4" fill="#3465a4"><title>St Patrick Trade or Fancy Tartan</title></circle></a><a href="/variants/s11/w16dy2w2dy2w2dy32g3dy32w16dy2w2~x2/"><circle cx="375.0" cy="161.2" r="4" fill="#3465a4"><title>MacLachlan, Brown Dress (Fashion)</title></circle></a><circle cx="406.3" cy="128.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy4dg2w3dg40w3dg3w4dg3w13dg4~x2/"><circle cx="404.1" cy="146.2" r="4" fill="#3465a4"><title>St. Patrick (Fashion)</title></circle></a><a href="/variants/s10/g51dp3g5ly3g5dp5g5dp5g5ly3~x2/"><circle cx="487.0" cy="146.7" r="4" fill="#3465a4"><title>Highland Hospice</title></circle></a><a href="/variants/s10/y4g2w3g40w3g3w4g3w13g4~x2/"><circle cx="438.3" cy="164.5" r="4" fill="#3465a4"><title>St Patrick Trade or Fancy Tartan</title></circle></a><a href="/variants/s11/w16dy2w2dy2w2dy32g3dy32w16dy2w2~x2/"><circle cx="375.0" cy="161.6" r="4" fill="#3465a4"><title>MacLachlan, Brown Dress (Fashion)</title></circle></a><circle cx="406.3" cy="128.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s18/w13dg3w4dg3w3dg40w3dg2dy4dg2w3dg40w3dg3w4dg3w13dg4~x2~dg1605139/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pille Family (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4/)
 (the same proportion at any scale), whose colour order is pattern [RGWGRGWWYWYWY](/stripes/rgwgrgwwywywy/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10345
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10345](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10345)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r2lb22ly4w3g7lyi2g4w2g9o6lyi2o4w2~x2~ly2503076-lyi3407090/"><circle cx="142.8" cy="148.2" r="4" fill="#3465a4"><title>Isle of Man (District)</title></circle></a><a href="/variants/s11/lb16dg5lo20lbi3dg3lbi3lo4g14lo2lbi2r1~x2~lb3203246-lbi3300000/"><circle cx="189.2" cy="147.4" r="4" fill="#3465a4"><title>Bouguet, Adrian Dress (Personal)</title></circle></a><a href="/variants/s25/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2/"><circle cx="165.6" cy="127.1" r="4" fill="#3465a4"><title>Morddyn</title></circle></a><circle cx="207.1" cy="153.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r2lb22ly4w3g7lyi2g4w2g9o6lyi2o4w2~x2~ly2503076-lyi3407090/"><circle cx="142.8" cy="148.4" r="4" fill="#3465a4"><title>Isle of Man (District)</title></circle></a><a href="/variants/s11/lb16dg5lo20lbi3dg3lbi3lo4g14lo2lbi2r1~x2~lb3203246-lbi3300000/"><circle cx="189.2" cy="147.6" r="4" fill="#3465a4"><title>Bouguet, Adrian Dress (Personal)</title></circle></a><a href="/variants/s25/lt5t13lt6w3ly5lt5t24lt5w2r1w2y9ly18y9t2lt4t2w2r3w2lt12ly6y24ly6t2~x2/"><circle cx="165.6" cy="127.2" r="4" fill="#3465a4"><title>Morddyn</title></circle></a><circle cx="207.1" cy="153.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/r4g1w5g1r2g1w5lb4lg20lb8ly2lb8ly4~x2/

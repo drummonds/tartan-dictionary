@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Minnesota (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr4g46dr10db10dy33db5dy4ly3/)
 (the same proportion at any scale), whose colour order is pattern [BGBBGBGY](/stripes/bgbbgbgy/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8637
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8637](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8637)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g1dr7g7n2dr1dg15lb1~x4/"><circle cx="321.0" cy="209.2" r="4" fill="#3465a4"><title>Ramsay (Green Fashion)</title></circle></a><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="246.6" cy="210.4" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/variants/s8/dy31ly6lb3db36dy8g60ly7n7~x2~db1004274-n2203265/"><circle cx="219.6" cy="165.1" r="4" fill="#3465a4"><title>Little-Dowse Wedding</title></circle></a><a href="/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/"><circle cx="269.9" cy="209.2" r="4" fill="#3465a4"><title>Eastern Western Motor Group, Dalbraith</title></circle></a><a href="/variants/s9/n44y2dg27y2g16lb8dg16lb2dg8~x2/"><circle cx="310.0" cy="187.6" r="4" fill="#3465a4"><title>Crumlish (2015)</title></circle></a><a href="/variants/s7/dr4db15w2n15g30dr2g4~x2/"><circle cx="293.9" cy="204.2" r="4" fill="#3465a4"><title>Sinclair Green (Personal)</title></circle></a><a href="/variants/s6/dr2do22g22do3db12y2~x2/"><circle cx="276.6" cy="233.2" r="4" fill="#3465a4"><title>Lisbon</title></circle></a><a href="/variants/s9/dg70y6n28g56n5g11n5g11lo12/"><circle cx="288.4" cy="204.8" r="4" fill="#3465a4"><title>Dalwhinnie Trade Tartan</title></circle></a><a href="/variants/s11/dr16dg1g2dg1dr4dg5lb1dg5g14dg1lb2~x2/"><circle cx="282.4" cy="184.3" r="4" fill="#3465a4"><title>Markson (Personal)</title></circle></a><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2~dg1806142-g2408144/"><circle cx="205.2" cy="170.5" r="4" fill="#3465a4"><title>Iroquois Falls Centenary (Commem.)</title></circle></a><circle cx="276.5" cy="191.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g1dr7g7n2dr1dg15lb1~x4/"><circle cx="321.1" cy="209.4" r="4" fill="#3465a4"><title>Ramsay (Green Fashion)</title></circle></a><a href="/variants/s7/g3dy32g4lb3g18dp18lo3~x2/"><circle cx="246.7" cy="210.7" r="4" fill="#3465a4"><title>Wcwm 9275-1410</title></circle></a><a href="/variants/s8/dy31ly6lb3db36dy8g60ly7n7~x2~db1004274-n2203265/"><circle cx="219.6" cy="165.3" r="4" fill="#3465a4"><title>Little-Dowse Wedding</title></circle></a><a href="/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/"><circle cx="270.0" cy="209.6" r="4" fill="#3465a4"><title>Eastern Western Motor Group, Dalbraith</title></circle></a><a href="/variants/s9/n44y2dg27y2g16lb8dg16lb2dg8~x2/"><circle cx="310.1" cy="187.8" r="4" fill="#3465a4"><title>Crumlish (2015)</title></circle></a><a href="/variants/s7/dr4db15w2n15g30dr2g4~x2/"><circle cx="294.0" cy="204.5" r="4" fill="#3465a4"><title>Sinclair Green (Personal)</title></circle></a><a href="/variants/s6/dr2do22g22do3db12y2~x2/"><circle cx="276.7" cy="233.6" r="4" fill="#3465a4"><title>Lisbon</title></circle></a><a href="/variants/s9/dg70y6n28g56n5g11n5g11lo12/"><circle cx="288.5" cy="205.0" r="4" fill="#3465a4"><title>Dalwhinnie Trade Tartan</title></circle></a><a href="/variants/s11/dr16dg1g2dg1dr4dg5lb1dg5g14dg1lb2~x2/"><circle cx="282.4" cy="184.5" r="4" fill="#3465a4"><title>Markson (Personal)</title></circle></a><a href="/variants/s8/dg18g6dy3w1dy3w1lb6db6~x2~dg1806142-g2408144/"><circle cx="205.3" cy="170.8" r="4" fill="#3465a4"><title>Iroquois Falls Centenary (Commem.)</title></circle></a><circle cx="276.5" cy="191.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dr4g46dr10db10dy33db5dy4ly3~x2/

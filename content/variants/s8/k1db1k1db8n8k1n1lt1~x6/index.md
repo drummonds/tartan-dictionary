@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Auld Lang Syne Burns Commemorative Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1db1k1db8n8k1n1lt1/)
 (the same proportion at any scale), whose colour order is pattern [KBKBBKBW](/stripes/kbkbbkbw/).
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2400
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2400](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2400)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n33k4n4k5n4k7db41r4~x2/"><circle cx="268.3" cy="149.3" r="4" fill="#3465a4"><title>Kinnaird</title></circle></a><a href="/variants/s9/k5db3k3db23n4k25n23lb3n5~x2/"><circle cx="169.6" cy="186.2" r="4" fill="#3465a4"><title>Cahonas Scotland</title></circle></a><a href="/variants/s7/n19k2w2k2b5k2b5~x4/"><circle cx="257.9" cy="176.3" r="4" fill="#3465a4"><title>Kyle</title></circle></a><a href="/variants/s7/y8k4n39k37db36k6db7/"><circle cx="170.9" cy="201.1" r="4" fill="#3465a4"><title>Oceanic (Corporate?)</title></circle></a><a href="/variants/s6/n6k6n21k16db36y4/"><circle cx="207.4" cy="216.8" r="4" fill="#3465a4"><title>Bareback (Corporate)</title></circle></a><a href="/variants/s8/b33k4b4k5b4k7db41r4~x2/"><circle cx="235.4" cy="173.8" r="4" fill="#3465a4"><title>Kinnaird</title></circle></a><a href="/variants/s9/db16k2db2k2db2k6dg13ly2dg3~x2/"><circle cx="228.5" cy="195.5" r="4" fill="#3465a4"><title>Christian Dewar (Personal)</title></circle></a><a href="/variants/s8/k1t1k1t7dy7k1dy1lt1~x6/"><circle cx="199.3" cy="189.5" r="4" fill="#3465a4"><title>Auld Lang Syne</title></circle></a><a href="/variants/s8/n9db1n1db1n1db7k7dr2~x4/"><circle cx="201.2" cy="196.8" r="4" fill="#3465a4"><title>Caledonian Hotel (Corporate)</title></circle></a><a href="/variants/s10/n1r1n7k3n1k1n1k1db9y1~x4/"><circle cx="189.6" cy="158.4" r="4" fill="#3465a4"><title>Brady 60th, Keith James (Personal)</title></circle></a><circle cx="235.6" cy="185.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n33k4n4k5n4k7db41r4~x2/"><circle cx="268.2" cy="149.5" r="4" fill="#3465a4"><title>Kinnaird</title></circle></a><a href="/variants/s9/k5db3k3db23n4k25n23lb3n5~x2/"><circle cx="169.6" cy="186.6" r="4" fill="#3465a4"><title>Cahonas Scotland</title></circle></a><a href="/variants/s7/n19k2w2k2b5k2b5~x4/"><circle cx="258.0" cy="176.7" r="4" fill="#3465a4"><title>Kyle</title></circle></a><a href="/variants/s7/y8k4n39k37db36k6db7/"><circle cx="170.9" cy="201.5" r="4" fill="#3465a4"><title>Oceanic (Corporate?)</title></circle></a><a href="/variants/s6/n6k6n21k16db36y4/"><circle cx="207.5" cy="217.2" r="4" fill="#3465a4"><title>Bareback (Corporate)</title></circle></a><a href="/variants/s8/b33k4b4k5b4k7db41r4~x2/"><circle cx="235.4" cy="174.1" r="4" fill="#3465a4"><title>Kinnaird</title></circle></a><a href="/variants/s9/db16k2db2k2db2k6dg13ly2dg3~x2/"><circle cx="228.6" cy="195.8" r="4" fill="#3465a4"><title>Christian Dewar (Personal)</title></circle></a><a href="/variants/s8/k1t1k1t7dy7k1dy1lt1~x6/"><circle cx="199.3" cy="189.9" r="4" fill="#3465a4"><title>Auld Lang Syne</title></circle></a><a href="/variants/s8/n9db1n1db1n1db7k7dr2~x4/"><circle cx="201.3" cy="197.2" r="4" fill="#3465a4"><title>Caledonian Hotel (Corporate)</title></circle></a><a href="/variants/s10/n1r1n7k3n1k1n1k1db9y1~x4/"><circle cx="189.6" cy="158.7" r="4" fill="#3465a4"><title>Brady 60th, Keith James (Personal)</title></circle></a><circle cx="235.6" cy="185.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k1db1k1db8n8k1n1lt1~x6/

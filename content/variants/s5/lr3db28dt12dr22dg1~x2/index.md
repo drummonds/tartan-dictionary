@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Diaspora (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lr3db28dt12dr22dg1/)
 (the same proportion at any scale), whose colour order is pattern [GBBBY](/stripes/gbbby/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2690
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2690](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2690)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db74g54dr44w2dp15y10/"><circle cx="250.7" cy="172.2" r="4" fill="#3465a4"><title>Palazzo Bloise (Personal)</title></circle></a><a href="/variants/s6/lb2db20n2dt15dr9lb2~x2/"><circle cx="308.1" cy="253.9" r="4" fill="#3465a4"><title>Open Championship (1998)</title></circle></a><a href="/variants/s6/dr28r1db18y2g6db18~x2/"><circle cx="364.4" cy="186.8" r="4" fill="#3465a4"><title>British Judo Association</title></circle></a><a href="/variants/s6/db47dg14dp5do2dr3dg7~x2~db1204274-dg1605139-dp1105325/"><circle cx="415.9" cy="176.9" r="4" fill="#3465a4"><title>Round Table of Britain and Ire Corporate Tartan</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="210.9" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/"><circle cx="276.2" cy="214.8" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><a href="/variants/s6/o4dg9w2dg24db37r3~x2/"><circle cx="329.3" cy="183.0" r="4" fill="#3465a4"><title>Hardie (Name)</title></circle></a><a href="/variants/s5/dy46dg23t23r4y4~x2/"><circle cx="314.8" cy="240.2" r="4" fill="#3465a4"><title>McMoosie Htg (Fashion)</title></circle></a><a href="/variants/s5/db32dy16g3lo4dg28~x2/"><circle cx="294.1" cy="262.6" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/variants/s6/db4w1db17dr28dp17r2~x2/"><circle cx="365.8" cy="199.5" r="4" fill="#3465a4"><title>Sail Chalmadale (Fashion)</title></circle></a><circle cx="364.7" cy="219.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db74g54dr44w2dp15y10/"><circle cx="250.7" cy="172.4" r="4" fill="#3465a4"><title>Palazzo Bloise (Personal)</title></circle></a><a href="/variants/s6/lb2db20n2dt15dr9lb2~x2/"><circle cx="308.3" cy="254.2" r="4" fill="#3465a4"><title>Open Championship (1998)</title></circle></a><a href="/variants/s6/dr28r1db18y2g6db18~x2/"><circle cx="364.4" cy="187.0" r="4" fill="#3465a4"><title>British Judo Association</title></circle></a><a href="/variants/s6/db47dg14dp5do2dr3dg7~x2~db1204274-dg1605139-dp1105325/"><circle cx="415.9" cy="176.8" r="4" fill="#3465a4"><title>Round Table of Britain and Ire Corporate Tartan</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2/"><circle cx="276.2" cy="215.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar (Corporate)</title></circle></a><a href="/variants/s6/o4dg9w2dg24db37r3~x2/"><circle cx="329.3" cy="183.2" r="4" fill="#3465a4"><title>Hardie (Name)</title></circle></a><a href="/variants/s5/dy46dg23t23r4y4~x2/"><circle cx="314.9" cy="240.5" r="4" fill="#3465a4"><title>McMoosie Htg (Fashion)</title></circle></a><a href="/variants/s5/db32dy16g3lo4dg28~x2/"><circle cx="294.2" cy="262.9" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/variants/s6/db4w1db17dr28dp17r2~x2/"><circle cx="365.8" cy="199.5" r="4" fill="#3465a4"><title>Sail Chalmadale (Fashion)</title></circle></a><circle cx="364.7" cy="219.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/lr3db28dt12dr22dg1~x2/

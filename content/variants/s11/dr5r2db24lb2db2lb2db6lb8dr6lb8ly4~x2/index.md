@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tasmania (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr5r2db24lb2db2lb2db6lb8dr6lb8ly4/)
 (the same proportion at any scale), whose colour order is pattern [BRBWBWBWBWY](/stripes/brbwbwbwbwy/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2498
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2498](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2498)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db9y4db4lb41db4r4lb4r15lb4r4db41w4~x2/"><circle cx="208.1" cy="143.6" r="4" fill="#3465a4"><title>Philadelphia Police and Fire Pipes and Drums</title></circle></a><a href="/variants/s12/dy4w2dy2r3dy19lb6db3lb2db2lb2db15dy3~x2/"><circle cx="214.3" cy="159.0" r="4" fill="#3465a4"><title>Cailean (Scotch House)</title></circle></a><a href="/variants/s10/dp4db16y1db1y1db5y4g4w4r4~x2/"><circle cx="215.1" cy="138.8" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x4/"><circle cx="215.3" cy="150.0" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/"><circle cx="215.3" cy="150.0" r="4" fill="#3465a4"><title>Yorkshire, C.C.C.</title></circle></a><a href="/variants/s12/db9y4db4lb41db4r4lb4r15lb4r4db41y4~x2/"><circle cx="227.2" cy="157.0" r="4" fill="#3465a4"><title>Philadelphia Police and Fire P&amp;D</title></circle></a><a href="/variants/s9/db32r4db4dy4db9lr9db4lr16w7~x2/"><circle cx="240.2" cy="177.9" r="4" fill="#3465a4"><title>Nevada State</title></circle></a><a href="/variants/s11/db4g2db24g8lb2r2lb2y2lb10db2w3~x2/"><circle cx="218.5" cy="135.9" r="4" fill="#3465a4"><title>McCartney (Evening/Night)</title></circle></a><a href="/variants/s12/dy4w2dy2w3dy20db6lb3db2lb2db2lb16r3~x2/"><circle cx="174.0" cy="149.8" r="4" fill="#3465a4"><title>Callum Scotch House Trade Tartan</title></circle></a><a href="/variants/s13/b4r4db44w6db5o4db3o8db3o16b4r22w4/"><circle cx="216.3" cy="128.7" r="4" fill="#3465a4"><title>Largs</title></circle></a><circle cx="214.7" cy="156.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db9y4db4lb41db4r4lb4r15lb4r4db41w4~x2/"><circle cx="208.1" cy="144.0" r="4" fill="#3465a4"><title>Philadelphia Police and Fire Pipes and Drums</title></circle></a><a href="/variants/s12/dy4w2dy2r3dy19lb6db3lb2db2lb2db15dy3~x2/"><circle cx="214.3" cy="159.3" r="4" fill="#3465a4"><title>Cailean (Scotch House)</title></circle></a><a href="/variants/s10/dp4db16y1db1y1db5y4g4w4r4~x2/"><circle cx="215.1" cy="139.0" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x4/"><circle cx="215.3" cy="150.4" r="4" fill="#3465a4"><title>Hodgkinson</title></circle></a><a href="/variants/s8/lb5y5db12g1db1r1db1w2~x2/"><circle cx="215.3" cy="150.4" r="4" fill="#3465a4"><title>Yorkshire, C.C.C.</title></circle></a><a href="/variants/s12/db9y4db4lb41db4r4lb4r15lb4r4db41y4~x2/"><circle cx="227.2" cy="157.4" r="4" fill="#3465a4"><title>Philadelphia Police and Fire P&amp;D</title></circle></a><a href="/variants/s9/db32r4db4dy4db9lr9db4lr16w7~x2/"><circle cx="240.3" cy="178.4" r="4" fill="#3465a4"><title>Nevada State</title></circle></a><a href="/variants/s11/db4g2db24g8lb2r2lb2y2lb10db2w3~x2/"><circle cx="218.5" cy="136.1" r="4" fill="#3465a4"><title>McCartney (Evening/Night)</title></circle></a><a href="/variants/s12/dy4w2dy2w3dy20db6lb3db2lb2db2lb16r3~x2/"><circle cx="174.0" cy="150.2" r="4" fill="#3465a4"><title>Callum Scotch House Trade Tartan</title></circle></a><a href="/variants/s13/b4r4db44w6db5o4db3o8db3o16b4r22w4/"><circle cx="216.3" cy="128.9" r="4" fill="#3465a4"><title>Largs</title></circle></a><circle cx="214.7" cy="156.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dr5r2db24lb2db2lb2db6lb8dr6lb8ly4~x2/

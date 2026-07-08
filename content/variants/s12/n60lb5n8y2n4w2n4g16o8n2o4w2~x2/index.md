@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Stuart / Stewart, Silver"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n60lb5n8y2n4w2n4g16o8n2o4w2/)
 (the same proportion at any scale), whose colour order is pattern [BWBGBWBGRBRW](/stripes/bwbgbwbgrbrw/).
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/n60lb5n8y2n4w2n4g16dy8n2dy4w2~x2/"><circle cx="481.4" cy="113.5" r="4" fill="#3465a4"><title>Stuart/Stewart Silver</title></circle></a><a href="/variants/s12/n38db4n8o2n4w3n4dr14b7n2b4w2~x2/"><circle cx="377.7" cy="126.4" r="4" fill="#3465a4"><title>Portree, Check</title></circle></a><a href="/variants/s12/dg43dp3dy3dp2dy4r3g2dg13g2dy9dg1ly2~x2~dg1504144-g2203152/"><circle cx="506.9" cy="106.7" r="4" fill="#3465a4"><title>Berry Tribute</title></circle></a><a href="/variants/s8/n40db4n4dp5g5n3y6r3~x2/"><circle cx="489.1" cy="172.3" r="4" fill="#3465a4"><title>Miller Hargreaves (Personal)</title></circle></a><a href="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2~g1903152/"><circle cx="474.6" cy="99.9" r="4" fill="#3465a4"><title>Kelly Dress</title></circle></a><a href="/variants/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="403.5" cy="100.8" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/"><circle cx="466.7" cy="92.3" r="4" fill="#3465a4"><title>Berry Tribute</title></circle></a><a href="/variants/s9/o4dg2o7n30o8n7g5dg1w2~x2~o2500000-n1900000/"><circle cx="453.2" cy="167.4" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><circle cx="493.9" cy="111.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/n60lb5n8y2n4w2n4g16dy8n2dy4w2~x2/"><circle cx="481.4" cy="113.4" r="4" fill="#3465a4"><title>Stuart/Stewart Silver</title></circle></a><a href="/variants/s12/n38db4n8o2n4w3n4dr14b7n2b4w2~x2/"><circle cx="377.6" cy="126.4" r="4" fill="#3465a4"><title>Portree, Check</title></circle></a><a href="/variants/s12/dg43dp3dy3dp2dy4r3g2dg13g2dy9dg1ly2~x2~dg1504144-g2203152/"><circle cx="506.8" cy="106.5" r="4" fill="#3465a4"><title>Berry Tribute</title></circle></a><a href="/variants/s8/n40db4n4dp5g5n3y6r3~x2/"><circle cx="489.2" cy="172.3" r="4" fill="#3465a4"><title>Miller Hargreaves (Personal)</title></circle></a><a href="/variants/s12/y68dy4g9r2g3w3g3dy12y6g3y3w3~x2~g1903152/"><circle cx="474.6" cy="99.9" r="4" fill="#3465a4"><title>Kelly Dress</title></circle></a><a href="/variants/s12/o46b3o7g2r2g2w2g11b6db2b3r2~x2/"><circle cx="403.5" cy="100.8" r="4" fill="#3465a4"><title>Diana, hunting Plaid</title></circle></a><a href="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/"><circle cx="466.6" cy="92.2" r="4" fill="#3465a4"><title>Berry Tribute</title></circle></a><a href="/variants/s9/o4dg2o7n30o8n7g5dg1w2~x2~o2500000-n1900000/"><circle cx="453.2" cy="167.4" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><circle cx="493.8" cy="111.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/n60lb5n8y2n4w2n4g16o8n2o4w2~x2/

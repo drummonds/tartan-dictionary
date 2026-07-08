@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Givens"
   url: "/tartans/givens/"
+- name: "Givens (Arizona)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k42w5k5dg16k5db21/)
 (the same proportion at any scale), whose colour order is pattern [BKGKWK](/stripes/bkgkwk/).
@@ -14,7 +16,7 @@ Part of the [Givens](/tartans/givens/) tartan — the named design grouping this
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10918
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10918](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10918)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="190.0" cy="222.0" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s5/k2db11k26g11k2~x2/"><circle cx="294.3" cy="197.8" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/variants/s5/k42w5dg16k10db21~x2/"><circle cx="246.4" cy="221.5" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s8/r1k7g7k7db7k7r1w1~x4/"><circle cx="183.7" cy="196.8" r="4" fill="#3465a4"><title>Tennent (Personal)</title></circle></a><a href="/variants/s6/k20lb2k6g16dp4k9~x2/"><circle cx="264.8" cy="197.2" r="4" fill="#3465a4"><title>Wilson's, No 167</title></circle></a><a href="/variants/s6/k5g23k18db21k33db3~x2/"><circle cx="253.6" cy="225.0" r="4" fill="#3465a4"><title>Black Watch (variation)</title></circle></a><a href="/variants/s6/k43dg8k8db21dg10w2~x2/"><circle cx="313.0" cy="167.9" r="4" fill="#3465a4"><title>Longmuir (2014)</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="170.3" cy="222.0" r="4" fill="#3465a4"><title>Forbes - 1947 (Lyon Court)</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1/"><circle cx="170.3" cy="222.0" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x2/"><circle cx="170.3" cy="222.0" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><circle cx="252.0" cy="196.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3dg11k3b11k18o3~x2/"><circle cx="190.1" cy="222.6" r="4" fill="#3465a4"><title>The Harbour Town, Hilton Head</title></circle></a><a href="/variants/s5/k2db11k26g11k2~x2/"><circle cx="294.3" cy="198.3" r="4" fill="#3465a4"><title>Campbell of Loch Awe</title></circle></a><a href="/variants/s5/k42w5dg16k10db21~x2/"><circle cx="246.4" cy="222.0" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s8/r1k7g7k7db7k7r1w1~x4/"><circle cx="183.7" cy="197.4" r="4" fill="#3465a4"><title>Tennent (Personal)</title></circle></a><a href="/variants/s6/k20lb2k6g16dp4k9~x2/"><circle cx="264.8" cy="197.8" r="4" fill="#3465a4"><title>Wilson's, No 167</title></circle></a><a href="/variants/s6/k5g23k18db21k33db3~x2/"><circle cx="253.7" cy="225.5" r="4" fill="#3465a4"><title>Black Watch (variation)</title></circle></a><a href="/variants/s6/k43dg8k8db21dg10w2~x2/"><circle cx="313.0" cy="168.1" r="4" fill="#3465a4"><title>Longmuir (2014)</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x6/"><circle cx="170.4" cy="222.6" r="4" fill="#3465a4"><title>Forbes - 1947 (Lyon Court)</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1/"><circle cx="170.4" cy="222.6" r="4" fill="#3465a4"><title>Forbes LC</title></circle></a><a href="/variants/s7/db1k6db6k6g6k1w1~x2/"><circle cx="170.4" cy="222.6" r="4" fill="#3465a4"><title>Forbes Ancient</title></circle></a><circle cx="252.0" cy="197.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k42w5k5dg16k5db21~x2/

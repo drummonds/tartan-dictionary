@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Valley of the"
   url: "/tartans/valley-of-the/"
+- name: "Valley of the Green (The ) Canadian Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb4dg26dgi8lb8dgi8g3lb2/)
 (the same proportion at any scale), whose colour order is pattern [WGGWGGW](/stripes/wggwggw/).
@@ -14,7 +16,7 @@ Part of the [Valley of the](/tartans/valley-of-the/) tartan — the named design
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=148
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=148](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=148)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb4dg26g8lb8g8b3lb2~x2/"><circle cx="264.8" cy="215.6" r="4" fill="#3465a4"><title>Valley, of the Green. (The )</title></circle></a><a href="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/"><circle cx="296.5" cy="196.3" r="4" fill="#3465a4"><title>Cork Irish County Tartan</title></circle></a><a href="/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/"><circle cx="269.9" cy="209.2" r="4" fill="#3465a4"><title>Eastern Western Motor Group, Dalbraith</title></circle></a><a href="/variants/s10/y14db5g25db5w2g11db7w5g6y5~x2/"><circle cx="275.3" cy="218.6" r="4" fill="#3465a4"><title>Kerry County Crest (Fashion)</title></circle></a><a href="/variants/s7/dr4db15w2n15g30dr2g4~x2/"><circle cx="293.9" cy="204.2" r="4" fill="#3465a4"><title>Sinclair Green (Personal)</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1806142-g2408144/"><circle cx="239.9" cy="215.0" r="4" fill="#3465a4"><title>Universal Ancient International Tartan</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1504144-g2408144/"><circle cx="237.5" cy="213.7" r="4" fill="#3465a4"><title>Universal Ancient</title></circle></a><a href="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/"><circle cx="287.3" cy="202.2" r="4" fill="#3465a4"><title>Cranstoun Clan Tartan</title></circle></a><a href="/variants/s6/g6ly3g26dg10dt30w3~x2/"><circle cx="257.3" cy="233.0" r="4" fill="#3465a4"><title>Wcwm 1716</title></circle></a><a href="/variants/s6/y4dg30g15db5lb10y4~x2/"><circle cx="228.2" cy="238.0" r="4" fill="#3465a4"><title>MPS Emerald Society NCLEES 2012</title></circle></a><circle cx="272.1" cy="218.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb4dg26g8lb8g8b3lb2~x2/"><circle cx="264.9" cy="216.1" r="4" fill="#3465a4"><title>Valley, of the Green. (The )</title></circle></a><a href="/variants/s9/g28dr12g4db20lo2db3lo2db3g7~x2/"><circle cx="296.5" cy="196.7" r="4" fill="#3465a4"><title>Cork Irish County Tartan</title></circle></a><a href="/variants/s8/dy28g2dy4db18g23db2g3ly4~x2/"><circle cx="270.0" cy="209.6" r="4" fill="#3465a4"><title>Eastern Western Motor Group, Dalbraith</title></circle></a><a href="/variants/s10/y14db5g25db5w2g11db7w5g6y5~x2/"><circle cx="275.4" cy="219.0" r="4" fill="#3465a4"><title>Kerry County Crest (Fashion)</title></circle></a><a href="/variants/s7/dr4db15w2n15g30dr2g4~x2/"><circle cx="294.0" cy="204.5" r="4" fill="#3465a4"><title>Sinclair Green (Personal)</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1806142-g2408144/"><circle cx="240.0" cy="215.5" r="4" fill="#3465a4"><title>Universal Ancient International Tartan</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1504144-g2408144/"><circle cx="237.6" cy="214.2" r="4" fill="#3465a4"><title>Universal Ancient</title></circle></a><a href="/variants/s8/g14db1g1db1g3db6dg12r2~x2~g2408144-dg1806142/"><circle cx="287.4" cy="202.5" r="4" fill="#3465a4"><title>Cranstoun Clan Tartan</title></circle></a><a href="/variants/s6/g6ly3g26dg10dt30w3~x2/"><circle cx="257.4" cy="233.4" r="4" fill="#3465a4"><title>Wcwm 1716</title></circle></a><a href="/variants/s6/y4dg30g15db5lb10y4~x2/"><circle cx="228.3" cy="238.5" r="4" fill="#3465a4"><title>MPS Emerald Society NCLEES 2012</title></circle></a><circle cx="272.1" cy="218.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lb4dg26dgi8lb8dgi8g3lb2~x2~dgi1806142-g2408144/

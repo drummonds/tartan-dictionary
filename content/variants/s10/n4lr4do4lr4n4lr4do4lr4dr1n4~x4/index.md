@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Brook (Estate Check)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n4lr4do4lr4n4lr4do4lr4dr1n4/)
 (the same proportion at any scale), whose colour order is pattern [BBYBYBYBYB](/stripes/bbybybybyb/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3734
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3734](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3734)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

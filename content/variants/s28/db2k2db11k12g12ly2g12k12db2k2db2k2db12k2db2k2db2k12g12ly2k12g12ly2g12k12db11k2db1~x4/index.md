@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gordon"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2k2db11k12g12ly2g12k12db2k2db2k2db12k2db2k2db2k12g12ly2k12g12ly2g12k12db11k2db1/)
 (the same proportion at any scale), whose colour order is pattern [BKBKGYGKBKBKBKBKBKGYKGYGKBKB](/stripes/bkbkgygkbkbkbkbkbkgykgygkbkb/).
 
 Sourced from logan-1831.  It is a [28 stripe tartan](/stripes/stripes28/).
 
-Original link /posts/logans-scottish-gael/
+Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 
 ## Provenance
 
@@ -23,7 +25,7 @@ James Logan recorded the **Gordon** sett in 1831, on page 403 of the *Table of C
 
 > ½ blue · 1 black · 5½ blue · 6 black · 6 green · 1 yellow · 6 green · 6 black · 1 yellow · 6 green · 6 black · 1 blue · 1 black · 1 blue · 1 black · 6 blue · 1 black · 1 blue · 1 black · 1 blue · 6 black · 6 green · 1 yellow · 6 green · 6 black · 5½ blue · 1 black · 1 blue
 
-In threads (at 8 to the eighth-inch) that is `B/4 K8 B44 K48 G48 Y8 G48 K48 Y8 G48 K48 B8 K8 B8 K8 B48 K8 B8 K8 B8 K48 G48 Y8 G48 K48 B44 K8 B/8`. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+Rendered at 8 threads to the eighth-inch that is `B/4 K8 B44 K48 G48 Y8 G48 K48 Y8 G48 K48 B8 K8 B8 K8 B48 K8 B8 K8 B8 K48 G48 Y8 G48 K48 B44 K8 B/8` — the eighths are the captured data, and the threadcount is derived from them at that stated factor. How many threads an eighth of cloth held depends on the weave's density, so the factor is a display calibration, not Logan's count; the sett's identity lives in the proportions, which the eighths record directly. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
 
 See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table and method.
 
@@ -43,6 +45,7 @@ Later records of the **Gordon** name adjusted Logan's counts: [Gordon](/setts/s1
 <ol class="capture-chain">
 <li>James Logan, The Scottish Gaël (first edition) <small>1831</small> · Public domain<br><small>the printed Table of Clan Tartans, vol. II pp. 401-408, plus the Duke of Sussex plate</small></li>
 <li><a href="https://archive.org/details/scotishgalorcel02logagoog">Internet Archive scan</a><br><small>the digitised first edition the transcription was made from, cross-checked against the OCR</small></li>
+<li><a href="/posts/logans-scottish-gael/">Tartan Dictionary transcription — Logan's Scottish Gaël</a> <small>2026-06</small> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><br><small>by-eye transcription of the Table of Clan Tartans and the Duke of Sussex plate — depths in eighths of an inch, rendered at 8 threads per eighth (a display calibration anchored by the Register's Abercrombie ×8 stripe-for-stripe match); method and match report in the linked post</small></li>
 <li>this dictionary<br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
 </details>
@@ -69,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db23k3db3k3db3k17g22k2y4k2g22k17db22k3db3~x2/"><circle cx="131.6" cy="129.5" r="4" fill="#3465a4"><title>Gordon Clan</title></circle></a><a href="/variants/s25/db22k2db2k2db2k16g16k2g16k16db16k2db2k2db16k16g16k2g16k16db2k2db2k2db11~x4/"><circle cx="160.7" cy="154.5" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/variants/s32/k2db14k14g14ly2g2ly4g2ly2g14k14db2k2db2k2db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2~db1406275/"><circle cx="97.8" cy="136.8" r="4" fill="#3465a4"><title>Gordon of Esselmont</title></circle></a><a href="/variants/s29/db4k1db1k1db1k8g8k1w2k1g8k8db8k1db1k1db8k8g8k1ly2k1g8k8db1k1db1k1db4~x8/"><circle cx="108.4" cy="125.2" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/variants/s28/k8g8k1y2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/"><circle cx="112.1" cy="126.4" r="4" fill="#3465a4"><title>Campbell of Argyll Clan Tartan</title></circle></a><a href="/variants/s29/dt16k3dt3k3dt3k16g15k1lb3k1g15k16dt15k3dt3k3dt15k16g15k1lr3k1g15k16dt3k3dt3k3dt3~x4/"><circle cx="142.2" cy="105.8" r="4" fill="#3465a4"><title>Broun Hunting (Personal?)</title></circle></a><a href="/variants/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15y1g1y4g1y1g15k15db3k3db3k3~x2/"><circle cx="120.9" cy="98.6" r="4" fill="#3465a4"><title>Gordon #4</title></circle></a><a href="/variants/s30/t14k2t2k2t2k8dg13w2dg12w2dg13k8dg6k12dg5k12dg6k8dg13w2dg12w2dg13k8t2k2t2k2t14dg3~x2/"><circle cx="156.6" cy="161.4" r="4" fill="#3465a4"><title>O'Donohue</title></circle></a><a href="/variants/s28/k13g13k1ly3k1g13k13t12k2t2k2t12k13g13k1w3k1g13k13t2k2t2k2t13k2t2k2t2~x4/"><circle cx="117.3" cy="109.8" r="4" fill="#3465a4"><title>Campbell of Argyll (Clan)</title></circle></a><a href="/variants/s29/db1k1db8k8g8k1y2k1g8k8db1k1db1k1db8k1db1k1db1k8g8k1w2k1g8k8db8k1db1~x2/"><circle cx="111.5" cy="123.7" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><circle cx="135.5" cy="137.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db23k3db3k3db3k17g22k2y4k2g22k17db22k3db3~x2/"><circle cx="131.5" cy="129.8" r="4" fill="#3465a4"><title>Gordon Clan</title></circle></a><a href="/variants/s25/db22k2db2k2db2k16g16k2g16k16db16k2db2k2db16k16g16k2g16k16db2k2db2k2db11~x4/"><circle cx="160.6" cy="154.8" r="4" fill="#3465a4"><title>Sutherland</title></circle></a><a href="/variants/s32/k2db14k14g14ly2g2ly4g2ly2g14k14db2k2db2k2db15k2db2k2db2k14g14ly2g2ly4g2ly2g14k14db14k2db2~x2~db1406275/"><circle cx="97.7" cy="137.1" r="4" fill="#3465a4"><title>Gordon of Esselmont</title></circle></a><a href="/variants/s29/db4k1db1k1db1k8g8k1w2k1g8k8db8k1db1k1db8k8g8k1ly2k1g8k8db1k1db1k1db4~x8/"><circle cx="108.3" cy="125.5" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/variants/s28/k8g8k1y2k1g8k8db8k1db1k1db8k8g8k1w2k1g8k8db1k1db1k1db8k1db1k1db1~x2/"><circle cx="112.0" cy="126.6" r="4" fill="#3465a4"><title>Campbell of Argyll Clan Tartan</title></circle></a><a href="/variants/s29/dt16k3dt3k3dt3k16g15k1lb3k1g15k16dt15k3dt3k3dt15k16g15k1lr3k1g15k16dt3k3dt3k3dt3~x4/"><circle cx="142.0" cy="106.0" r="4" fill="#3465a4"><title>Broun Hunting (Personal?)</title></circle></a><a href="/variants/s32/db15k3db3k3db3k15g15r1g1r4g1r1g15k15db15k3db4k3db15k15g15y1g1y4g1y1g15k15db3k3db3k3~x2/"><circle cx="120.8" cy="98.8" r="4" fill="#3465a4"><title>Gordon #4</title></circle></a><a href="/variants/s30/t14k2t2k2t2k8dg13w2dg12w2dg13k8dg6k12dg5k12dg6k8dg13w2dg12w2dg13k8t2k2t2k2t14dg3~x2/"><circle cx="156.5" cy="161.8" r="4" fill="#3465a4"><title>O'Donohue</title></circle></a><a href="/variants/s28/k13g13k1ly3k1g13k13t12k2t2k2t12k13g13k1w3k1g13k13t2k2t2k2t13k2t2k2t2~x4/"><circle cx="117.2" cy="110.0" r="4" fill="#3465a4"><title>Campbell of Argyll (Clan)</title></circle></a><a href="/variants/s29/db1k1db8k8g8k1y2k1g8k8db1k1db1k1db8k1db1k1db1k8g8k1w2k1g8k8db8k1db1~x2/"><circle cx="111.4" cy="124.0" r="4" fill="#3465a4"><title>Campbell of Argyll</title></circle></a><circle cx="135.4" cy="137.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s28/db2k2db11k12g12ly2g12k12db2k2db2k2db12k2db2k2db2k12g12ly2k12g12ly2g12k12db11k2db1~x4/

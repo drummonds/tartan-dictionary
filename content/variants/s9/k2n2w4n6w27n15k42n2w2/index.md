@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Swansea City AFC"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2n2w4n6w27n15k42n2w2/)
 (the same proportion at any scale), whose colour order is pattern [KBWBWBKBW](/stripes/kbwbwbkbw/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8461
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8461](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8461)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k16b1k1b1k1b9ly18b1~x4/"><circle cx="204.6" cy="147.5" r="4" fill="#3465a4"><title>Kelvingrove (Fashion)</title></circle></a><a href="/variants/s12/dr8w1k3dr3k10w3k5w25k3dr3k12w3~x2/"><circle cx="213.9" cy="127.0" r="4" fill="#3465a4"><title>Buildbase</title></circle></a><a href="/variants/s11/y3k2y2k2y2k28lb32y2lb3y2lb3~x2/"><circle cx="249.6" cy="117.1" r="4" fill="#3465a4"><title>General Choi</title></circle></a><a href="/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/"><circle cx="258.1" cy="108.9" r="4" fill="#3465a4"><title>Menzies Black Dress</title></circle></a><a href="/variants/s8/k2lb1g16lb1k13lb18k2lb2~x2/"><circle cx="210.8" cy="164.8" r="4" fill="#3465a4"><title>Hebridean Old</title></circle></a><a href="/variants/s8/lb40k3lb3k3lb3n8k24n8~x2/"><circle cx="250.6" cy="160.4" r="4" fill="#3465a4"><title>O'Sullivan-Beare (Family)</title></circle></a><a href="/variants/s8/n22k2n2k2n2k16w16k3~x2/"><circle cx="188.3" cy="176.5" r="4" fill="#3465a4"><title>Laksaa (Manx)</title></circle></a><a href="/variants/s8/r4w19dg2w8dg2w8k38w4~x2/"><circle cx="238.6" cy="136.2" r="4" fill="#3465a4"><title>St. Piran Dress</title></circle></a><a href="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/"><circle cx="270.1" cy="120.8" r="4" fill="#3465a4"><title>Gleneagles Gold (Dalgleish)</title></circle></a><a href="/variants/s11/w30n5k6n2k2w2k13n5k2n2w2~x2/"><circle cx="233.0" cy="131.9" r="4" fill="#3465a4"><title>Stewart Grey Dress Tartan</title></circle></a><circle cx="226.7" cy="133.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k16b1k1b1k1b9ly18b1~x4/"><circle cx="204.6" cy="147.9" r="4" fill="#3465a4"><title>Kelvingrove (Fashion)</title></circle></a><a href="/variants/s12/dr8w1k3dr3k10w3k5w25k3dr3k12w3~x2/"><circle cx="213.9" cy="127.4" r="4" fill="#3465a4"><title>Buildbase</title></circle></a><a href="/variants/s11/y3k2y2k2y2k28lb32y2lb3y2lb3~x2/"><circle cx="249.6" cy="117.4" r="4" fill="#3465a4"><title>General Choi</title></circle></a><a href="/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/"><circle cx="258.0" cy="109.2" r="4" fill="#3465a4"><title>Menzies Black Dress</title></circle></a><a href="/variants/s8/k2lb1g16lb1k13lb18k2lb2~x2/"><circle cx="210.8" cy="165.3" r="4" fill="#3465a4"><title>Hebridean Old</title></circle></a><a href="/variants/s8/lb40k3lb3k3lb3n8k24n8~x2/"><circle cx="250.7" cy="160.9" r="4" fill="#3465a4"><title>O'Sullivan-Beare (Family)</title></circle></a><a href="/variants/s8/n22k2n2k2n2k16w16k3~x2/"><circle cx="188.4" cy="177.1" r="4" fill="#3465a4"><title>Laksaa (Manx)</title></circle></a><a href="/variants/s8/r4w19dg2w8dg2w8k38w4~x2/"><circle cx="238.6" cy="136.6" r="4" fill="#3465a4"><title>St. Piran Dress</title></circle></a><a href="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/"><circle cx="270.1" cy="121.1" r="4" fill="#3465a4"><title>Gleneagles Gold (Dalgleish)</title></circle></a><a href="/variants/s11/w30n5k6n2k2w2k13n5k2n2w2~x2/"><circle cx="233.0" cy="132.4" r="4" fill="#3465a4"><title>Stewart Grey Dress Tartan</title></circle></a><circle cx="226.6" cy="133.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k2n2w4n6w27n15k42n2w2/

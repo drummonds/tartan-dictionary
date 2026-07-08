@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fenston/Morris (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k33db8k4db35dp3/)
 (the same proportion at any scale), whose colour order is pattern [BBKBK](/stripes/bbkbk/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1158
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1158](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1158)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k15db4k15db28r2~x2/"><circle cx="328.7" cy="220.2" r="4" fill="#3465a4"><title>MacKay (Blue) #2</title></circle></a><a href="/variants/s5/k30db6k6db41lb2~x2/"><circle cx="374.8" cy="191.6" r="4" fill="#3465a4"><title>Williams (New York) (Personal)</title></circle></a><a href="/variants/s5/k9db3k28db25w2~x2/"><circle cx="336.3" cy="207.0" r="4" fill="#3465a4"><title>Press &amp; Journal</title></circle></a><a href="/variants/s4/k34db13k7db14~x2/"><circle cx="378.0" cy="301.2" r="4" fill="#3465a4"><title>Auchincloss (Personal)</title></circle></a><a href="/variants/s6/db9k9r3db9k9y1~x4/"><circle cx="219.8" cy="235.3" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/variants/s6/db5k2db14k14db2lp2~x2/"><circle cx="302.7" cy="225.5" r="4" fill="#3465a4"><title>Royal Scotsman Train (Corporate)</title></circle></a><a href="/variants/s6/db8k39db8k39db87r6/"><circle cx="362.8" cy="197.9" r="4" fill="#3465a4"><title>Largan (?)</title></circle></a><a href="/variants/s6/lb5k22db4k4db26k4~x2/"><circle cx="257.9" cy="223.6" r="4" fill="#3465a4"><title>Slanj, The</title></circle></a><a href="/variants/s4/k3db23k17r2~x2/"><circle cx="327.2" cy="226.4" r="4" fill="#3465a4"><title>Wellington Variation</title></circle></a><a href="/variants/s6/db2k6db2k6db16r1~x2/"><circle cx="393.5" cy="194.0" r="4" fill="#3465a4"><title>MacKay V</title></circle></a><circle cx="360.3" cy="224.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k15db4k15db28r2~x2/"><circle cx="328.8" cy="220.7" r="4" fill="#3465a4"><title>MacKay (Blue) #2</title></circle></a><a href="/variants/s5/k30db6k6db41lb2~x2/"><circle cx="374.8" cy="192.0" r="4" fill="#3465a4"><title>Williams (New York) (Personal)</title></circle></a><a href="/variants/s5/k9db3k28db25w2~x2/"><circle cx="336.3" cy="207.5" r="4" fill="#3465a4"><title>Press &amp; Journal</title></circle></a><a href="/variants/s4/k34db13k7db14~x2/"><circle cx="378.1" cy="301.9" r="4" fill="#3465a4"><title>Auchincloss (Personal)</title></circle></a><a href="/variants/s6/db9k9r3db9k9y1~x4/"><circle cx="219.9" cy="235.8" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/variants/s6/db5k2db14k14db2lp2~x2/"><circle cx="302.7" cy="226.0" r="4" fill="#3465a4"><title>Royal Scotsman Train (Corporate)</title></circle></a><a href="/variants/s6/db8k39db8k39db87r6/"><circle cx="362.9" cy="198.2" r="4" fill="#3465a4"><title>Largan (?)</title></circle></a><a href="/variants/s6/lb5k22db4k4db26k4~x2/"><circle cx="258.0" cy="224.2" r="4" fill="#3465a4"><title>Slanj, The</title></circle></a><a href="/variants/s4/k3db23k17r2~x2/"><circle cx="327.2" cy="226.9" r="4" fill="#3465a4"><title>Wellington Variation</title></circle></a><a href="/variants/s6/db2k6db2k6db16r1~x2/"><circle cx="393.6" cy="194.3" r="4" fill="#3465a4"><title>MacKay V</title></circle></a><circle cx="360.4" cy="224.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k33db8k4db35dp3~x2/

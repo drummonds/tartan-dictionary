@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Stewart Ancient (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db17g4k4g4db17r6k12r4k12r6g17k4db2k4g17/)
 (the same proportion at any scale), whose colour order is pattern [BGKGBRKRKRGKBKG](/stripes/bgkgbrkrkrgkbkg/).
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=159
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=159](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=159)
 
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -67,8 +69,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/"><circle cx="113.6" cy="184.5" r="4" fill="#3465a4"><title>MacDonald #2</title></circle></a><a href="/variants/s15/db6k2db2k2db2k6g8k1r2k1g8k6db8k2db2~x2/"><circle cx="119.1" cy="182.3" r="4" fill="#3465a4"><title>MacKinlay</title></circle></a><a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/"><circle cx="128.3" cy="167.8" r="4" fill="#3465a4"><title>Murray of Atholl #3</title></circle></a><a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3/"><circle cx="128.3" cy="167.8" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/variants/s15/g4k1g1k1g1k5db5r2db2r2db5g5k1g1k1~x6/"><circle cx="88.7" cy="200.6" r="4" fill="#3465a4"><title>MacLachlan Hunting</title></circle></a><a href="/variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/"><circle cx="125.0" cy="176.3" r="4" fill="#3465a4"><title>Mulholland (Personal)</title></circle></a><a href="/variants/s12/db8r2db2r3db12r2k12g12r3g2r2g8/"><circle cx="100.8" cy="195.9" r="4" fill="#3465a4"><title>MacDonald MINI Design Tartan</title></circle></a><a href="/variants/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/"><circle cx="92.9" cy="205.9" r="4" fill="#3465a4"><title>MacLachlan, Hunting</title></circle></a><a href="/variants/s12/db12k2db2k2db2k12g12r3g12k12db12r3~x2/"><circle cx="104.0" cy="204.3" r="4" fill="#3465a4"><title>Glenalmond College</title></circle></a><a href="/variants/s15/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14~x2/"><circle cx="116.3" cy="172.7" r="4" fill="#3465a4"><title>Lumsden Green</title></circle></a><circle cx="92.9" cy="180.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/"><circle cx="113.6" cy="185.0" r="4" fill="#3465a4"><title>MacDonald #2</title></circle></a><a href="/variants/s15/db6k2db2k2db2k6g8k1r2k1g8k6db8k2db2~x2/"><circle cx="119.1" cy="182.8" r="4" fill="#3465a4"><title>MacKinlay</title></circle></a><a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3~x2/"><circle cx="128.3" cy="168.2" r="4" fill="#3465a4"><title>Murray of Atholl #3</title></circle></a><a href="/variants/s13/db12k2db2k2db2k12g12r3g12k12db12k1r3/"><circle cx="128.3" cy="168.2" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/variants/s15/g4k1g1k1g1k5db5r2db2r2db5g5k1g1k1~x6/"><circle cx="88.7" cy="201.1" r="4" fill="#3465a4"><title>MacLachlan Hunting</title></circle></a><a href="/variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/"><circle cx="125.0" cy="176.7" r="4" fill="#3465a4"><title>Mulholland (Personal)</title></circle></a><a href="/variants/s12/db8r2db2r3db12r2k12g12r3g2r2g8/"><circle cx="100.8" cy="196.4" r="4" fill="#3465a4"><title>MacDonald MINI Design Tartan</title></circle></a><a href="/variants/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/"><circle cx="93.0" cy="206.4" r="4" fill="#3465a4"><title>MacLachlan, Hunting</title></circle></a><a href="/variants/s12/db12k2db2k2db2k12g12r3g12k12db12r3~x2/"><circle cx="104.0" cy="204.8" r="4" fill="#3465a4"><title>Glenalmond College</title></circle></a><a href="/variants/s15/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14~x2/"><circle cx="116.3" cy="173.1" r="4" fill="#3465a4"><title>Lumsden Green</title></circle></a><circle cx="92.9" cy="181.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/db17g4k4g4db17r6k12r4k12r6g17k4db2k4g17/

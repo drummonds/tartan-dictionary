@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Jahore"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n57w5g20n5y10/)
 (the same proportion at any scale), whose colour order is pattern [BWGBG](/stripes/bwgbg/).
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n57w5g20n5lo10~x2/"><circle cx="370.6" cy="219.3" r="4" fill="#3465a4"><title>Johore</title></circle></a><a href="/variants/s5/n60g13n9dr8y4~x2/"><circle cx="626.0" cy="257.8" r="4" fill="#3465a4"><title>Ballantyne (Personal)</title></circle></a><a href="/variants/s5/n60g13n9r8dy4~x2/"><circle cx="594.4" cy="232.3" r="4" fill="#3465a4"><title>Ballantyne Personal Tartan</title></circle></a><a href="/variants/s5/n40r2n20g19db2~db1204274/"><circle cx="610.1" cy="253.4" r="4" fill="#3465a4"><title>Lloyd of Wales</title></circle></a><a href="/variants/s5/g5n1g1n12r1~x8/"><circle cx="570.6" cy="266.8" r="4" fill="#3465a4"><title>Ceredigion (Personal)</title></circle></a><a href="/variants/s6/y15g98n72r25n8lb15/"><circle cx="318.4" cy="232.3" r="4" fill="#3465a4"><title>Afternoon Tea / Afternoon Tea</title></circle></a><a href="/variants/s5/n65r27w2n4y5~x2/"><circle cx="554.2" cy="185.6" r="4" fill="#3465a4"><title>Perry, Arisaid</title></circle></a><a href="/variants/s3/g9n4ly1~x16/"><circle cx="536.0" cy="339.6" r="4" fill="#3465a4"><title>Ledford (Name)</title></circle></a><a href="/variants/s3/g9n4dy1~x8/"><circle cx="544.3" cy="340.9" r="4" fill="#3465a4"><title>Ledford</title></circle></a><a href="/variants/s3/g9n4dy1~x4/"><circle cx="544.3" cy="340.9" r="4" fill="#3465a4"><title>Ledford Family Tartan</title></circle></a><circle cx="499.9" cy="258.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/n57w5g20n5lo10~x2/"><circle cx="370.8" cy="219.7" r="4" fill="#3465a4"><title>Johore</title></circle></a><a href="/variants/s5/n60g13n9dr8y4~x2/"><circle cx="626.0" cy="257.9" r="4" fill="#3465a4"><title>Ballantyne (Personal)</title></circle></a><a href="/variants/s5/n60g13n9r8dy4~x2/"><circle cx="594.5" cy="232.4" r="4" fill="#3465a4"><title>Ballantyne Personal Tartan</title></circle></a><a href="/variants/s5/n40r2n20g19db2~db1204274/"><circle cx="610.2" cy="253.5" r="4" fill="#3465a4"><title>Lloyd of Wales</title></circle></a><a href="/variants/s5/g5n1g1n12r1~x8/"><circle cx="570.8" cy="267.0" r="4" fill="#3465a4"><title>Ceredigion (Personal)</title></circle></a><a href="/variants/s6/y15g98n72r25n8lb15/"><circle cx="318.5" cy="232.5" r="4" fill="#3465a4"><title>Afternoon Tea / Afternoon Tea</title></circle></a><a href="/variants/s5/n65r27w2n4y5~x2/"><circle cx="554.3" cy="185.8" r="4" fill="#3465a4"><title>Perry, Arisaid</title></circle></a><a href="/variants/s3/g9n4ly1~x16/"><circle cx="536.3" cy="340.1" r="4" fill="#3465a4"><title>Ledford (Name)</title></circle></a><a href="/variants/s3/g9n4dy1~x8/"><circle cx="544.6" cy="341.3" r="4" fill="#3465a4"><title>Ledford</title></circle></a><a href="/variants/s3/g9n4dy1~x4/"><circle cx="544.6" cy="341.3" r="4" fill="#3465a4"><title>Ledford Family Tartan</title></circle></a><circle cx="500.1" cy="258.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/n57w5g20n5y10/

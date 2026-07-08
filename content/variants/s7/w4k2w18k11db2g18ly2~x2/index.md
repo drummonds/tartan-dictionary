@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Barbour - Ancient"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4k2w18k11db2g18ly2/)
 (the same proportion at any scale), whose colour order is pattern [WKWKBGY](/stripes/wkwkbgy/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8733
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8733](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8733)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb13dr1g13w1k1w7k3~x2/"><circle cx="135.4" cy="170.2" r="4" fill="#3465a4"><title>Chambers, Christopher J (Personal)</title></circle></a><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><circle cx="99.0" cy="151.3" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="112.7" cy="164.3" r="4" fill="#3465a4"><title>Hackett, William (Coatbridge) (Personal)</title></circle></a><a href="/variants/s7/db8w33k15g17lb3g17lb3~x2/"><circle cx="101.3" cy="184.9" r="4" fill="#3465a4"><title>MacRobart, dress</title></circle></a><a href="/variants/s6/w8k16g32db3ly5w5~x2/"><circle cx="158.4" cy="173.8" r="4" fill="#3465a4"><title>Mellor (Name)</title></circle></a><a href="/variants/s9/w16g2k5r2k10g11y2g11k2~x2/"><circle cx="99.3" cy="176.4" r="4" fill="#3465a4"><title>Unidentified #46</title></circle></a><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="114.4" cy="168.2" r="4" fill="#3465a4"><title>Alexander Brothers - 2007? (Corp.)</title></circle></a><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/"><circle cx="119.5" cy="155.1" r="4" fill="#3465a4"><title>Spanish shirt</title></circle></a><a href="/variants/s8/r5w2lb20dy2k16w18k2w5~x2/"><circle cx="107.7" cy="163.9" r="4" fill="#3465a4"><title>Ailsa Craig (District)</title></circle></a><a href="/variants/s7/y17w7y6g43k5n6k13~x2/"><circle cx="162.2" cy="180.5" r="4" fill="#3465a4"><title>Keeling Dress</title></circle></a><circle cx="121.2" cy="177.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb13dr1g13w1k1w7k3~x2/"><circle cx="135.4" cy="170.6" r="4" fill="#3465a4"><title>Chambers, Christopher J (Personal)</title></circle></a><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><circle cx="99.0" cy="151.7" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="112.8" cy="164.8" r="4" fill="#3465a4"><title>Hackett, William (Coatbridge) (Personal)</title></circle></a><a href="/variants/s7/db8w33k15g17lb3g17lb3~x2/"><circle cx="101.3" cy="185.5" r="4" fill="#3465a4"><title>MacRobart, dress</title></circle></a><a href="/variants/s6/w8k16g32db3ly5w5~x2/"><circle cx="158.4" cy="174.3" r="4" fill="#3465a4"><title>Mellor (Name)</title></circle></a><a href="/variants/s9/w16g2k5r2k10g11y2g11k2~x2/"><circle cx="99.3" cy="177.0" r="4" fill="#3465a4"><title>Unidentified #46</title></circle></a><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="114.4" cy="168.7" r="4" fill="#3465a4"><title>Alexander Brothers - 2007? (Corp.)</title></circle></a><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/"><circle cx="119.5" cy="155.6" r="4" fill="#3465a4"><title>Spanish shirt</title></circle></a><a href="/variants/s8/r5w2lb20dy2k16w18k2w5~x2/"><circle cx="107.7" cy="164.4" r="4" fill="#3465a4"><title>Ailsa Craig (District)</title></circle></a><a href="/variants/s7/y17w7y6g43k5n6k13~x2/"><circle cx="162.2" cy="180.9" r="4" fill="#3465a4"><title>Keeling Dress</title></circle></a><circle cx="121.2" cy="178.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w4k2w18k11db2g18ly2~x2/

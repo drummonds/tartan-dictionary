@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Stewarton (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o3lb3n3db3n3g3k1g3n3db3n3lb3o3k1/)
 (the same proportion at any scale), whose colour order is pattern [KRWBBBGKGBBBWR](/stripes/krwbbbgkgbbbwr/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3961
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3961](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3961)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k1o3lb3n3db3n3g3k1~x4/"><circle cx="14.0" cy="264.7" r="4" fill="#3465a4"><title>Stewarton (Fashion)</title></circle></a><a href="/variants/s12/db3k1db3n3g4r1g4n3db3k1db3dbi2~x8~db1204274-dbi1406275/"><circle cx="91.3" cy="244.7" r="4" fill="#3465a4"><title>New York City American District Tartan</title></circle></a><a href="/variants/s11/db4t8k2t5w2t5dg8dr7dg2dr7dg3~x2~t2704230-w3402083/"><circle cx="60.6" cy="229.8" r="4" fill="#3465a4"><title>DunBroch</title></circle></a><circle cx="14.0" cy="268.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k1o3lb3n3db3n3g3k1~x4/"><circle cx="14.0" cy="265.4" r="4" fill="#3465a4"><title>Stewarton (Fashion)</title></circle></a><a href="/variants/s12/db3k1db3n3g4r1g4n3db3k1db3dbi2~x8~db1204274-dbi1406275/"><circle cx="91.4" cy="245.2" r="4" fill="#3465a4"><title>New York City American District Tartan</title></circle></a><a href="/variants/s11/db4t8k2t5w2t5dg8dr7dg2dr7dg3~x2~t2704230-w3402083/"><circle cx="60.7" cy="230.3" r="4" fill="#3465a4"><title>DunBroch</title></circle></a><circle cx="14.0" cy="269.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/o3lb3n3db3n3g3k1g3n3db3n3lb3o3k1~x4~o2403057/

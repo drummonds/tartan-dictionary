@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacIntosh Blanket"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w37dy1r4dg6r7w2r3w2r7dg6ri4dy1w64dy1r4g6r7w2r3w2r7/)
 (the same proportion at any scale), whose colour order is pattern [RWRWRGRGWGRGRWRWRGRGW](/stripes/rwrwrgrgwgrgrwrwrgrgw/).
 
 Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2482
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2482](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2482)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/w37o1b4dg6b7w2b3w2b7dg6r4o1w64o1b4g6b7w2b3w2b7~x2/"><circle cx="336.0" cy="19.9" r="4" fill="#3465a4"><title>MacIntosh, Blanket</title></circle></a><a href="/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/"><circle cx="401.5" cy="49.8" r="4" fill="#3465a4"><title>Druid (Corporate)</title></circle></a><a href="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/"><circle cx="356.5" cy="59.3" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/variants/s12/w63k4lb9y2lb4y2lb4o11r8lb2r4w5~x2/"><circle cx="300.4" cy="57.5" r="4" fill="#3465a4"><title>Seller, Sillar</title></circle></a><a href="/variants/s12/w46r3w7do2y2do2w2do11o6b2o3w2~x2/"><circle cx="334.3" cy="71.2" r="4" fill="#3465a4"><title>Diana, Plaid dress</title></circle></a><a href="/variants/s12/w24dr2w3dy1ly1dy1w1dy6o6lb1o2w1~x4/"><circle cx="294.0" cy="74.1" r="4" fill="#3465a4"><title>Unidentified #54</title></circle></a><a href="/variants/s16/db3n2db3y2w4y2k8y2w4y2r8y2w20y2w62y2/"><circle cx="350.0" cy="24.9" r="4" fill="#3465a4"><title>Druid</title></circle></a><a href="/variants/s14/t18w4o6w4lo4w36n4w4n4w36o12w1db4w3~x2~t2405244-o2208036-db1208266/"><circle cx="335.3" cy="86.7" r="4" fill="#3465a4"><title>Confederate Memorial Dress</title></circle></a><circle cx="337.8" cy="15.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/w37o1b4dg6b7w2b3w2b7dg6r4o1w64o1b4g6b7w2b3w2b7~x2/"><circle cx="335.8" cy="19.8" r="4" fill="#3465a4"><title>MacIntosh, Blanket</title></circle></a><a href="/variants/s15/dp3n2dp3y2w4g8y2w4y2r8y2w20y2w62y2/"><circle cx="401.4" cy="49.9" r="4" fill="#3465a4"><title>Druid (Corporate)</title></circle></a><a href="/variants/s19/lb1dr3r3w26db3w3g14w36r3dr1r3w36db14w2g3w26dr3r3lb1~x2/"><circle cx="356.4" cy="59.4" r="4" fill="#3465a4"><title>McDougall, Miss Anne (Personal)</title></circle></a><a href="/variants/s12/w63k4lb9y2lb4y2lb4o11r8lb2r4w5~x2/"><circle cx="300.3" cy="57.6" r="4" fill="#3465a4"><title>Seller, Sillar</title></circle></a><a href="/variants/s12/w46r3w7do2y2do2w2do11o6b2o3w2~x2/"><circle cx="334.3" cy="71.4" r="4" fill="#3465a4"><title>Diana, Plaid dress</title></circle></a><a href="/variants/s12/w24dr2w3dy1ly1dy1w1dy6o6lb1o2w1~x4/"><circle cx="293.9" cy="74.3" r="4" fill="#3465a4"><title>Unidentified #54</title></circle></a><a href="/variants/s16/db3n2db3y2w4y2k8y2w4y2r8y2w20y2w62y2/"><circle cx="349.9" cy="25.0" r="4" fill="#3465a4"><title>Druid</title></circle></a><a href="/variants/s14/t18w4o6w4lo4w36n4w4n4w36o12w1db4w3~x2~t2405244-o2208036-db1208266/"><circle cx="335.2" cy="86.9" r="4" fill="#3465a4"><title>Confederate Memorial Dress</title></circle></a><circle cx="337.6" cy="15.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s21/w37dy1r4dg6r7w2r3w2r7dg6ri4dy1w64dy1r4g6r7w2r3w2r7~x2~r2208029-ri2209032/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Manx Ellan Vannin"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg14w2db3g7dg2g7db3w2dg14lb2/)
 (the same proportion at any scale), whose colour order is pattern [GWBGGGBWGW](/stripes/gwbgggbwgw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2815
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2815](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2815)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/"><circle cx="268.2" cy="239.8" r="4" fill="#3465a4"><title>MacScott Family (America) (Personal)</title></circle></a><a href="/variants/s6/g2dg7db3w2g14b2~x4/"><circle cx="277.4" cy="235.1" r="4" fill="#3465a4"><title>Manx, Ellan Vannin</title></circle></a><a href="/variants/s9/dg20y2n5w4dg2n2dg2n2b6~x2/"><circle cx="292.4" cy="184.4" r="4" fill="#3465a4"><title>Boucherville (Tartan de..)</title></circle></a><a href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/"><circle cx="240.5" cy="226.1" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s11/g5db2g14db14r2db14w2g14r2g4lo3~x2/"><circle cx="224.1" cy="199.2" r="4" fill="#3465a4"><title>Hunter of Hunterston (Clan)</title></circle></a><a href="/variants/s11/g5db2g12db12r2db12w2g12r2g4y3~x2/"><circle cx="216.0" cy="212.0" r="4" fill="#3465a4"><title>Hunter of Hunterston</title></circle></a><a href="/variants/s9/g4lo1dt1lo1dt2g9r1dt6w1~x4/"><circle cx="256.7" cy="190.0" r="4" fill="#3465a4"><title>Casey of West Virginia (Personal)</title></circle></a><a href="/variants/s9/g20y2n5w4g2n2g2n2db6~x2/"><circle cx="303.2" cy="193.9" r="4" fill="#3465a4"><title>Boucherville (Tartan de..) District Tartan</title></circle></a><a href="/variants/s10/ly3dg17t3dg3t3do5t18dr2t8dr2~x2/"><circle cx="302.7" cy="213.8" r="4" fill="#3465a4"><title>Donegal, County</title></circle></a><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16/"><circle cx="307.9" cy="185.8" r="4" fill="#3465a4"><title>Aberlour Bicentenary (Commemorative)</title></circle></a><circle cx="255.9" cy="214.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g23dy5db13g5db5w3db5g5dy9g9~x2/"><circle cx="268.3" cy="240.4" r="4" fill="#3465a4"><title>MacScott Family (America) (Personal)</title></circle></a><a href="/variants/s6/g2dg7db3w2g14b2~x4/"><circle cx="277.5" cy="235.6" r="4" fill="#3465a4"><title>Manx, Ellan Vannin</title></circle></a><a href="/variants/s9/dg20y2n5w4dg2n2dg2n2b6~x2/"><circle cx="292.5" cy="184.7" r="4" fill="#3465a4"><title>Boucherville (Tartan de..)</title></circle></a><a href="/variants/s8/g28db9dg18w3dg18db9g28r3~x2/"><circle cx="240.6" cy="226.5" r="4" fill="#3465a4"><title>Simple Technology</title></circle></a><a href="/variants/s11/g5db2g14db14r2db14w2g14r2g4lo3~x2/"><circle cx="224.2" cy="199.6" r="4" fill="#3465a4"><title>Hunter of Hunterston (Clan)</title></circle></a><a href="/variants/s11/g5db2g12db12r2db12w2g12r2g4y3~x2/"><circle cx="216.1" cy="212.5" r="4" fill="#3465a4"><title>Hunter of Hunterston</title></circle></a><a href="/variants/s9/g4lo1dt1lo1dt2g9r1dt6w1~x4/"><circle cx="256.8" cy="190.4" r="4" fill="#3465a4"><title>Casey of West Virginia (Personal)</title></circle></a><a href="/variants/s9/g20y2n5w4g2n2g2n2db6~x2/"><circle cx="303.3" cy="194.2" r="4" fill="#3465a4"><title>Boucherville (Tartan de..) District Tartan</title></circle></a><a href="/variants/s10/ly3dg17t3dg3t3do5t18dr2t8dr2~x2/"><circle cx="302.8" cy="214.1" r="4" fill="#3465a4"><title>Donegal, County</title></circle></a><a href="/variants/s15/g16dp6g6db46g5db8g5dp10g6ly8g48dp6g6dp6g16/"><circle cx="308.0" cy="186.2" r="4" fill="#3465a4"><title>Aberlour Bicentenary (Commemorative)</title></circle></a><circle cx="256.0" cy="214.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dg14w2db3g7dg2g7db3w2dg14lb2~x4/

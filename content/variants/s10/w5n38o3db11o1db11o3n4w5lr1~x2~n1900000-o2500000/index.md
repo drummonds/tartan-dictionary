@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Ballarat"
   url: "/tartans/ballarat/"
+- name: "Ballarat"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w5n38o3db11o1db11o3n4w5lr1/)
 (the same proportion at any scale), whose colour order is pattern [WBRBRBRBWY](/stripes/wbrbrbrbwy/).
@@ -14,7 +16,7 @@ Part of the [Ballarat](/tartans/ballarat/) tartan — the named design grouping 
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10988
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10988](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10988)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/"><circle cx="336.4" cy="119.1" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="294.1" cy="142.4" r="4" fill="#3465a4"><title>Kruenaegel-Schropp Name Tartan</title></circle></a><a href="/variants/s9/w3db2w2db40r3y1r10g10r1~x2/"><circle cx="340.5" cy="83.7" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><a href="/variants/s8/w10db2w1db35dg10dy3dg10r4~x2/"><circle cx="269.2" cy="118.0" r="4" fill="#3465a4"><title>Sandelin #2 (Personal)</title></circle></a><a href="/variants/s10/db37w2db2y2r17w2db2g17y2db2~x2/"><circle cx="269.8" cy="121.0" r="4" fill="#3465a4"><title>MDF (Personal)</title></circle></a><a href="/variants/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/"><circle cx="300.3" cy="117.5" r="4" fill="#3465a4"><title>Solway Spirit (District)</title></circle></a><a href="/variants/s9/g3r12g15r2w1db30w1g2r2~x2/"><circle cx="279.7" cy="127.4" r="4" fill="#3465a4"><title>Christmas Morning</title></circle></a><a href="/variants/s8/w10db2w1db35g10ly3g10r4~x2/"><circle cx="259.6" cy="118.1" r="4" fill="#3465a4"><title>Sandelin (Personal)</title></circle></a><a href="/variants/s10/w2ly4db1ly1db40n6g18r2g2w1~x2/"><circle cx="301.2" cy="73.4" r="4" fill="#3465a4"><title>O'Mahony, The (Commemorative)</title></circle></a><a href="/variants/s9/dbi66w1db10w1db10w1db12r2lb24~x2~dbi1406275-db1404245/"><circle cx="356.5" cy="99.7" r="4" fill="#3465a4"><title>RAAF #2</title></circle></a><circle cx="316.7" cy="105.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w5n38y3db11y1db11y3n4w5lo1~x2~n1700000-y2400000/"><circle cx="336.4" cy="119.2" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><a href="/variants/s8/db20m1w3dt1w2dt8g3w1~x4~db1804259-dt1302222/"><circle cx="294.1" cy="142.6" r="4" fill="#3465a4"><title>Kruenaegel-Schropp Name Tartan</title></circle></a><a href="/variants/s9/w3db2w2db40r3y1r10g10r1~x2/"><circle cx="340.4" cy="83.8" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><a href="/variants/s8/w10db2w1db35dg10dy3dg10r4~x2/"><circle cx="269.1" cy="118.1" r="4" fill="#3465a4"><title>Sandelin #2 (Personal)</title></circle></a><a href="/variants/s10/db37w2db2y2r17w2db2g17y2db2~x2/"><circle cx="269.7" cy="121.2" r="4" fill="#3465a4"><title>MDF (Personal)</title></circle></a><a href="/variants/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/"><circle cx="300.2" cy="117.6" r="4" fill="#3465a4"><title>Solway Spirit (District)</title></circle></a><a href="/variants/s9/g3r12g15r2w1db30w1g2r2~x2/"><circle cx="279.6" cy="127.6" r="4" fill="#3465a4"><title>Christmas Morning</title></circle></a><a href="/variants/s8/w10db2w1db35g10ly3g10r4~x2/"><circle cx="259.5" cy="118.3" r="4" fill="#3465a4"><title>Sandelin (Personal)</title></circle></a><a href="/variants/s10/w2ly4db1ly1db40n6g18r2g2w1~x2/"><circle cx="301.0" cy="73.4" r="4" fill="#3465a4"><title>O'Mahony, The (Commemorative)</title></circle></a><a href="/variants/s9/dbi66w1db10w1db10w1db12r2lb24~x2~dbi1406275-db1404245/"><circle cx="356.4" cy="99.7" r="4" fill="#3465a4"><title>RAAF #2</title></circle></a><circle cx="316.6" cy="105.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w5n38o3db11o1db11o3n4w5lr1~x2~n1900000-o2500000/

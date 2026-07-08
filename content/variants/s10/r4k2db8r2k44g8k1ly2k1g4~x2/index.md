@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Marsa Scout Group"
   url: "/tartans/marsa-scout-group/"
+- name: "Marsa Scout Group"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4k2db8r2k44g8k1ly2k1g4/)
 (the same proportion at any scale), whose colour order is pattern [GKYKGKRBKR](/stripes/gkykgkrbkr/).
@@ -14,7 +16,7 @@ Part of the [Marsa Scout Group](/tartans/marsa-scout-group/) tartan — the name
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10585
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10585](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10585)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r4k1db8k1r2k44g8k1y2k1g4~x2/"><circle cx="341.1" cy="40.0" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/variants/s9/lb4n6k4ri2r10k44n1k1lb2~x2~ri2109032-r1807033/"><circle cx="357.9" cy="49.1" r="4" fill="#3465a4"><title>Calgary HOG (Corporate)</title></circle></a><a href="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/"><circle cx="327.6" cy="51.1" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="352.4" cy="47.5" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22o14k3o6w4/"><circle cx="319.6" cy="48.0" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s10/k53t3k2w1k2t3k5t32y1r3~x2/"><circle cx="333.8" cy="46.1" r="4" fill="#3465a4"><title>Estonian National Tartan (District)</title></circle></a><a href="/variants/s9/ly1k45dt23w1dt6r2ly1r2ly1~x2/"><circle cx="337.4" cy="67.1" r="4" fill="#3465a4"><title>Arbroath Smokie Corporate Tartan</title></circle></a><a href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/"><circle cx="361.2" cy="44.3" r="4" fill="#3465a4"><title>Goldwire (2015)</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22ly14k3ly6w4/"><circle cx="309.6" cy="46.5" r="4" fill="#3465a4"><title>Langtree Trade Tartan</title></circle></a><a href="/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/"><circle cx="317.5" cy="31.8" r="4" fill="#3465a4"><title>Coleburn (Corporate)</title></circle></a><circle cx="336.7" cy="47.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r4k1db8k1r2k44g8k1y2k1g4~x2/"><circle cx="340.9" cy="40.0" r="4" fill="#3465a4"><title>Marsa Scout Group</title></circle></a><a href="/variants/s9/lb4n6k4ri2r10k44n1k1lb2~x2~ri2109032-r1807033/"><circle cx="357.7" cy="49.2" r="4" fill="#3465a4"><title>Calgary HOG (Corporate)</title></circle></a><a href="/variants/s12/k86n6k4lb3k3dr3k3n22o14k3o6lb4/"><circle cx="327.4" cy="51.1" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="352.2" cy="47.6" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22o14k3o6w4/"><circle cx="319.4" cy="48.1" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s10/k53t3k2w1k2t3k5t32y1r3~x2/"><circle cx="333.5" cy="46.1" r="4" fill="#3465a4"><title>Estonian National Tartan (District)</title></circle></a><a href="/variants/s9/ly1k45dt23w1dt6r2ly1r2ly1~x2/"><circle cx="337.2" cy="67.1" r="4" fill="#3465a4"><title>Arbroath Smokie Corporate Tartan</title></circle></a><a href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/"><circle cx="361.0" cy="44.3" r="4" fill="#3465a4"><title>Goldwire (2015)</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22ly14k3ly6w4/"><circle cx="309.4" cy="46.6" r="4" fill="#3465a4"><title>Langtree Trade Tartan</title></circle></a><a href="/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/"><circle cx="317.3" cy="31.7" r="4" fill="#3465a4"><title>Coleburn (Corporate)</title></circle></a><circle cx="336.5" cy="47.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r4k2db8r2k44g8k1ly2k1g4~x2/

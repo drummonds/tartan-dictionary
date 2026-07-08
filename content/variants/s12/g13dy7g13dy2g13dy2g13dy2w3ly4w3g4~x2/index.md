@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "McGrane"
   url: "/tartans/mcgrane/"
+- name: "McGrane (2014)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g13dy7g13dy2g13dy2g13dy2w3ly4w3g4/)
 (the same proportion at any scale), whose colour order is pattern [GGGGGGGGWYWG](/stripes/ggggggggwywg/).
@@ -14,7 +16,7 @@ Part of the [McGrane](/tartans/mcgrane/) tartan — the named design grouping th
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11076
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11076](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11076)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g13dy7g13dy2g13dy2g13dy2w3y4w3g4~x2/"><circle cx="397.8" cy="241.9" r="4" fill="#3465a4"><title>McGrane (2014)</title></circle></a><a href="/variants/s12/g22db16g14dr2g6lo2g6dr2g14db16g22dr3~x2/"><circle cx="391.3" cy="221.5" r="4" fill="#3465a4"><title>Scottish Scouts #2</title></circle></a><a href="/variants/s10/g3lr2g3dr1g6dr3g3dr1g3lr2~x4/"><circle cx="364.9" cy="285.1" r="4" fill="#3465a4"><title>Dundee Green</title></circle></a><a href="/variants/s7/g20w2g9w2y5w7g10~x2/"><circle cx="432.9" cy="256.3" r="4" fill="#3465a4"><title>Heritage #2</title></circle></a><a href="/variants/s6/ly21g28db24g72w16g20/"><circle cx="336.3" cy="284.9" r="4" fill="#3465a4"><title>Meath County Crest (Fashion)</title></circle></a><a href="/variants/s8/g2db2g6db4g3db4g18ly2~x4/"><circle cx="453.8" cy="235.4" r="4" fill="#3465a4"><title>Crow (Name)</title></circle></a><circle cx="386.8" cy="238.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g13dy7g13dy2g13dy2g13dy2w3y4w3g4~x2/"><circle cx="398.0" cy="242.4" r="4" fill="#3465a4"><title>McGrane (2014)</title></circle></a><a href="/variants/s12/g22db16g14dr2g6lo2g6dr2g14db16g22dr3~x2/"><circle cx="391.4" cy="221.9" r="4" fill="#3465a4"><title>Scottish Scouts #2</title></circle></a><a href="/variants/s10/g3lr2g3dr1g6dr3g3dr1g3lr2~x4/"><circle cx="365.1" cy="285.9" r="4" fill="#3465a4"><title>Dundee Green</title></circle></a><a href="/variants/s7/g20w2g9w2y5w7g10~x2/"><circle cx="433.1" cy="256.9" r="4" fill="#3465a4"><title>Heritage #2</title></circle></a><a href="/variants/s6/ly21g28db24g72w16g20/"><circle cx="336.5" cy="285.6" r="4" fill="#3465a4"><title>Meath County Crest (Fashion)</title></circle></a><a href="/variants/s8/g2db2g6db4g3db4g18ly2~x4/"><circle cx="454.0" cy="235.9" r="4" fill="#3465a4"><title>Crow (Name)</title></circle></a><circle cx="386.9" cy="238.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/g13dy7g13dy2g13dy2g13dy2w3ly4w3g4~x2/

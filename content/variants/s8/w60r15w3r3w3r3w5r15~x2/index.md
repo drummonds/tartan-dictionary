@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Walk the Walk"
   url: "/tartans/walk-the-walk/"
+- name: "Walk the Walk (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w60r15w3r3w3r3w5r15/)
 (the same proportion at any scale), whose colour order is pattern [RWRWRWRW](/stripes/rwrwrwrw/).
@@ -14,7 +16,7 @@ Part of the [Walk the Walk](/tartans/walk-the-walk/) tartan — the named design
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7306
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7306](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7306)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r55w20r8w2r8w2r8w2~x2/"><circle cx="537.7" cy="148.1" r="4" fill="#3465a4"><title>Masai Shuka 08 (Artefact)</title></circle></a><a href="/variants/s8/r36w4r3w4r6w2r1w12~x4/"><circle cx="490.9" cy="139.3" r="4" fill="#3465a4"><title>Menzies (1815)</title></circle></a><a href="/variants/s8/r36w4r3w4r6w2r1w12/"><circle cx="490.9" cy="139.3" r="4" fill="#3465a4"><title>Menzies Dress</title></circle></a><a href="/variants/s8/r36w4r3w4r6w2r1w12~x2/"><circle cx="490.9" cy="139.3" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s10/w18r9w1r1w2r1w1r9db3r4~x4/"><circle cx="317.6" cy="154.5" r="4" fill="#3465a4"><title>Swiss Red (Fashion)</title></circle></a><a href="/variants/s10/w18r9w1r1w2r1w1r9db3r4~x4~w3600000/"><circle cx="330.2" cy="158.2" r="4" fill="#3465a4"><title>Swiss Red</title></circle></a><a href="/variants/s10/w75dy1r20w16r20w20g9w16g1r38~x2~w4000000/"><circle cx="366.4" cy="114.9" r="4" fill="#3465a4"><title>Border Sett</title></circle></a><a href="/variants/s10/r2g2w2r23w2g2w23g2r2w2~x2/"><circle cx="303.2" cy="158.3" r="4" fill="#3465a4"><title>Hose</title></circle></a><a href="/variants/s10/r4w8r3w2r3w2r21g2r2g4~x2/"><circle cx="377.9" cy="169.7" r="4" fill="#3465a4"><title>Queen Alexandra</title></circle></a><a href="/variants/s8/o31w5o2w5o4w3o2w7~x2/"><circle cx="454.5" cy="184.4" r="4" fill="#3465a4"><title>Menzies, Brown &amp; White</title></circle></a><circle cx="462.4" cy="163.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r55w20r8w2r8w2r8w2~x2/"><circle cx="537.8" cy="148.6" r="4" fill="#3465a4"><title>Masai Shuka 08 (Artefact)</title></circle></a><a href="/variants/s8/r36w4r3w4r6w2r1w12~x4/"><circle cx="491.0" cy="139.7" r="4" fill="#3465a4"><title>Menzies (1815)</title></circle></a><a href="/variants/s8/r36w4r3w4r6w2r1w12/"><circle cx="491.0" cy="139.7" r="4" fill="#3465a4"><title>Menzies Dress</title></circle></a><a href="/variants/s8/r36w4r3w4r6w2r1w12~x2/"><circle cx="491.0" cy="139.7" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s10/w18r9w1r1w2r1w1r9db3r4~x4/"><circle cx="317.6" cy="155.1" r="4" fill="#3465a4"><title>Swiss Red (Fashion)</title></circle></a><a href="/variants/s10/w18r9w1r1w2r1w1r9db3r4~x4~w3600000/"><circle cx="330.3" cy="158.7" r="4" fill="#3465a4"><title>Swiss Red</title></circle></a><a href="/variants/s10/w75dy1r20w16r20w20g9w16g1r38~x2~w4000000/"><circle cx="366.4" cy="115.3" r="4" fill="#3465a4"><title>Border Sett</title></circle></a><a href="/variants/s10/r2g2w2r23w2g2w23g2r2w2~x2/"><circle cx="303.3" cy="158.8" r="4" fill="#3465a4"><title>Hose</title></circle></a><a href="/variants/s10/r4w8r3w2r3w2r21g2r2g4~x2/"><circle cx="378.0" cy="170.3" r="4" fill="#3465a4"><title>Queen Alexandra</title></circle></a><a href="/variants/s8/o31w5o2w5o4w3o2w7~x2/"><circle cx="454.6" cy="184.9" r="4" fill="#3465a4"><title>Menzies, Brown &amp; White</title></circle></a><circle cx="462.5" cy="164.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/w60r15w3r3w3r3w5r15~x2/

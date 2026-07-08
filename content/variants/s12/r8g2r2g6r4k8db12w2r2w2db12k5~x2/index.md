@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Glengarry Highland Games"
   url: "/tartans/glengarry-highland-games/"
+- name: "Glengarry Highland Games"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r8g2r2g6r4k8db12w2r2w2db12k5/)
 (the same proportion at any scale), whose colour order is pattern [KBWRWBKRGRGR](/stripes/kbwrwbkrgrgr/).
@@ -14,7 +16,7 @@ Part of the [Glengarry Highland Games](/tartans/glengarry-highland-games/) tarta
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/"><circle cx="55.2" cy="178.8" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/"><circle cx="87.4" cy="172.0" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior Corporate Tartan</title></circle></a><a href="/variants/s12/r3lb3r3lb12k6g3k4db16k4g3k6lb3~x2/"><circle cx="46.9" cy="181.7" r="4" fill="#3465a4"><title>Trinity Presbyterian Church</title></circle></a><a href="/variants/s10/o4k16lb5n8lb2dp2lb2dp2n8k3~x2/"><circle cx="102.3" cy="163.4" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior High School</title></circle></a><a href="/variants/s12/db2r4k7r8g10k4y2k8db4r4db14r2~x2/"><circle cx="60.1" cy="184.1" r="4" fill="#3465a4"><title>Unidentified pattern</title></circle></a><a href="/variants/s13/db17r3db4r5db20r3k20g20r5g4r3k3y11~x2/"><circle cx="85.9" cy="170.2" r="4" fill="#3465a4"><title>MacSporran</title></circle></a><a href="/variants/s12/db18k3db5k3db18dg6k5dg6o12r5o12r3~x2~o2504058/"><circle cx="132.4" cy="191.7" r="4" fill="#3465a4"><title>Longford Irish County Tartan</title></circle></a><a href="/variants/s12/r6k20y4dy10t21k4t21dy10y4k20r6t3~x2/"><circle cx="87.8" cy="181.1" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/"><circle cx="68.3" cy="175.1" r="4" fill="#3465a4"><title>MacDonald of Clanranald #3</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6/"><circle cx="68.3" cy="175.1" r="4" fill="#3465a4"><title>MacDonald of Clanranald D</title></circle></a><circle cx="78.8" cy="180.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r20g3r3g13r6k10db14w3r3w3db14k12~x2/"><circle cx="55.2" cy="179.3" r="4" fill="#3465a4"><title>Glengarry Highland Games</title></circle></a><a href="/variants/s10/o5k15lb5n9lb2dp2lb2dp2n9k3~x2/"><circle cx="87.4" cy="172.5" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior Corporate Tartan</title></circle></a><a href="/variants/s12/r3lb3r3lb12k6g3k4db16k4g3k6lb3~x2/"><circle cx="46.9" cy="182.2" r="4" fill="#3465a4"><title>Trinity Presbyterian Church</title></circle></a><a href="/variants/s10/o4k16lb5n8lb2dp2lb2dp2n8k3~x2/"><circle cx="102.2" cy="163.9" r="4" fill="#3465a4"><title>Ryukoku University Heian Junior High School</title></circle></a><a href="/variants/s12/db2r4k7r8g10k4y2k8db4r4db14r2~x2/"><circle cx="60.1" cy="184.6" r="4" fill="#3465a4"><title>Unidentified pattern</title></circle></a><a href="/variants/s13/db17r3db4r5db20r3k20g20r5g4r3k3y11~x2/"><circle cx="85.9" cy="170.6" r="4" fill="#3465a4"><title>MacSporran</title></circle></a><a href="/variants/s12/db18k3db5k3db18dg6k5dg6o12r5o12r3~x2~o2504058/"><circle cx="132.4" cy="192.1" r="4" fill="#3465a4"><title>Longford Irish County Tartan</title></circle></a><a href="/variants/s12/r6k20y4dy10t21k4t21dy10y4k20r6t3~x2/"><circle cx="87.9" cy="181.5" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/"><circle cx="68.3" cy="175.6" r="4" fill="#3465a4"><title>MacDonald of Clanranald #3</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6/"><circle cx="68.3" cy="175.6" r="4" fill="#3465a4"><title>MacDonald of Clanranald D</title></circle></a><circle cx="78.8" cy="180.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r8g2r2g6r4k8db12w2r2w2db12k5~x2/

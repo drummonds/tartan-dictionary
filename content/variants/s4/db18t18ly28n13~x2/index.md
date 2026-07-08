@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Gold Country"
   url: "/tartans/gold-country/"
+- name: "Gold Country (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db18t18ly28n13/)
 (the same proportion at any scale), whose colour order is pattern [BBYB](/stripes/bbyb/).
@@ -14,7 +16,7 @@ Part of the [Gold Country](/tartans/gold-country/) tartan — the named design g
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10489
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10489](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10489)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db18ni18y28n13~x2~db1108266-ni2203265/"><circle cx="191.4" cy="366.0" r="4" fill="#3465a4"><title>Gold Country (California)</title></circle></a><a href="/variants/s3/db1w1lb1~x8/"><circle cx="87.1" cy="366.0" r="4" fill="#3465a4"><title>Glen Moriston Estate Check</title></circle></a><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="297.7" cy="300.5" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><a href="/variants/s3/dy1w2db1~x12/"><circle cx="192.2" cy="366.0" r="4" fill="#3465a4"><title>Aquascutum</title></circle></a><a href="/variants/s4/n22y10w3db8~x2/"><circle cx="325.2" cy="291.3" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s4/lb53g20w18db14~x2/"><circle cx="247.1" cy="312.8" r="4" fill="#3465a4"><title>Leutz (Name?)</title></circle></a><a href="/variants/s5/dp30y7w6db30ly8~x2~y2203076-ly3307090/"><circle cx="179.5" cy="258.2" r="4" fill="#3465a4"><title>Pownall (2015)</title></circle></a><a href="/variants/s3/dy2lb1lo1~x2/"><circle cx="221.1" cy="366.0" r="4" fill="#3465a4"><title>Gearach Woodcock Tweed (Corporate)</title></circle></a><a href="/variants/s4/r10db5lb5n4~x8/"><circle cx="162.9" cy="330.7" r="4" fill="#3465a4"><title>Haggis Hostels</title></circle></a><a href="/variants/s4/lb5db12g8lb4/"><circle cx="198.3" cy="350.5" r="4" fill="#3465a4"><title>Sheffield High (School)</title></circle></a><circle cx="144.3" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db18ni18y28n13~x2~db1108266-ni2203265/"><circle cx="191.8" cy="366.0" r="4" fill="#3465a4"><title>Gold Country (California)</title></circle></a><a href="/variants/s3/db1w1lb1~x8/"><circle cx="87.6" cy="366.0" r="4" fill="#3465a4"><title>Glen Moriston Estate Check</title></circle></a><a href="/variants/s4/lb14n7dy6n2~x8/"><circle cx="297.9" cy="301.2" r="4" fill="#3465a4"><title>Outlander #3</title></circle></a><a href="/variants/s3/dy1w2db1~x12/"><circle cx="192.5" cy="366.0" r="4" fill="#3465a4"><title>Aquascutum</title></circle></a><a href="/variants/s4/n22y10w3db8~x2/"><circle cx="325.4" cy="291.9" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s4/lb53g20w18db14~x2/"><circle cx="247.4" cy="313.7" r="4" fill="#3465a4"><title>Leutz (Name?)</title></circle></a><a href="/variants/s5/dp30y7w6db30ly8~x2~y2203076-ly3307090/"><circle cx="179.6" cy="258.8" r="4" fill="#3465a4"><title>Pownall (2015)</title></circle></a><a href="/variants/s3/dy2lb1lo1~x2/"><circle cx="221.5" cy="366.0" r="4" fill="#3465a4"><title>Gearach Woodcock Tweed (Corporate)</title></circle></a><a href="/variants/s4/r10db5lb5n4~x8/"><circle cx="163.2" cy="331.6" r="4" fill="#3465a4"><title>Haggis Hostels</title></circle></a><a href="/variants/s4/lb5db12g8lb4/"><circle cx="198.6" cy="351.5" r="4" fill="#3465a4"><title>Sheffield High (School)</title></circle></a><circle cx="144.7" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/db18t18ly28n13~x2/

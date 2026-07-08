@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Spirit of Dunkeld"
   url: "/tartans/spirit-of-dunkeld/"
+- name: "Spirit of Dunkeld"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb38r1lb2r2lb2r6y4r10db8lb11r3y1/)
 (the same proportion at any scale), whose colour order is pattern [GRWBRGRWRWRW](/stripes/grwbrgrwrwrw/).
@@ -14,7 +16,7 @@ Part of the [Spirit of Dunkeld](/tartans/spirit-of-dunkeld/) tartan — the name
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10564
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10564](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10564)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lb38r1lb2r2lb2r6lo4r10db8lb11r3lo1~x2/"><circle cx="395.3" cy="104.4" r="4" fill="#3465a4"><title>Spirit of Dunkeld (Fashion)</title></circle></a><a href="/variants/s11/w102dp20w4dp4w4dp4dg20r18dp3r10w4/"><circle cx="334.4" cy="84.8" r="4" fill="#3465a4"><title>Grotto Dove (Dance)</title></circle></a><a href="/variants/s11/r2lb2r1lb24o1n3k3lb3o12lb4r1~x2~o2500000-n1900000/"><circle cx="334.3" cy="105.4" r="4" fill="#3465a4"><title>Dabney Grey (Personal)</title></circle></a><a href="/variants/s14/n3db1n1r1n1r1db10lb1n9lb35y2lb2y1n2~x2/"><circle cx="342.0" cy="73.7" r="4" fill="#3465a4"><title>De Clercq, Christian Family (Belgium)</title></circle></a><a href="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2~x2/"><circle cx="364.3" cy="97.9" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2/"><circle cx="364.3" cy="97.9" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s13/r4w1db1r32w2r2db12r2g16r4w1r4db2/"><circle cx="355.1" cy="95.0" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s8/w75dy1r18g9dy1r27w2r5~x2/"><circle cx="371.1" cy="97.2" r="4" fill="#3465a4"><title>Unidentified Ross-shire</title></circle></a><circle cx="388.7" cy="100.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lb38r1lb2r2lb2r6lo4r10db8lb11r3lo1~x2/"><circle cx="395.2" cy="104.6" r="4" fill="#3465a4"><title>Spirit of Dunkeld (Fashion)</title></circle></a><a href="/variants/s11/w102dp20w4dp4w4dp4dg20r18dp3r10w4/"><circle cx="334.4" cy="85.0" r="4" fill="#3465a4"><title>Grotto Dove (Dance)</title></circle></a><a href="/variants/s11/r2lb2r1lb24o1n3k3lb3o12lb4r1~x2~o2500000-n1900000/"><circle cx="334.3" cy="105.6" r="4" fill="#3465a4"><title>Dabney Grey (Personal)</title></circle></a><a href="/variants/s14/n3db1n1r1n1r1db10lb1n9lb35y2lb2y1n2~x2/"><circle cx="341.9" cy="73.7" r="4" fill="#3465a4"><title>De Clercq, Christian Family (Belgium)</title></circle></a><a href="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2~x2/"><circle cx="364.2" cy="98.1" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2/"><circle cx="364.2" cy="98.1" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s13/r4w1db1r32w2r2db12r2g16r4w1r4db2/"><circle cx="355.0" cy="95.2" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s8/w75dy1r18g9dy1r27w2r5~x2/"><circle cx="371.0" cy="97.5" r="4" fill="#3465a4"><title>Unidentified Ross-shire</title></circle></a><circle cx="388.6" cy="101.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/lb38r1lb2r2lb2r6y4r10db8lb11r3y1~x2/

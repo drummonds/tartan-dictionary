@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "O'Malley (Name?)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r45k3y4k3r45k1dp2k1r2g8r2/)
 (the same proportion at any scale), whose colour order is pattern [RGRKBKRKGKR](/stripes/rgrkbkrkgkr/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6473
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6473](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6473)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r75g12r3k2r2k2r36~x2/"><circle cx="626.0" cy="111.8" r="4" fill="#3465a4"><title>MacKintosh #5</title></circle></a><a href="/variants/s8/r114db10w3db16y3k3y3r28~x2/"><circle cx="521.7" cy="65.7" r="4" fill="#3465a4"><title>Inverness #2</title></circle></a><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="535.2" cy="64.7" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken #2</title></circle></a><a href="/variants/s8/r36db3w1db6g1k1g1r9~x4/"><circle cx="499.8" cy="67.5" r="4" fill="#3465a4"><title>Inverness - 1829 (District)</title></circle></a><a href="/variants/s8/r36db3w1db6g1k1g1r9~x2/"><circle cx="499.8" cy="67.5" r="4" fill="#3465a4"><title>Inverness</title></circle></a><a href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/"><circle cx="616.2" cy="88.7" r="4" fill="#3465a4"><title>Burnett of Leys</title></circle></a><a href="/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/"><circle cx="499.3" cy="58.2" r="4" fill="#3465a4"><title>Junor</title></circle></a><a href="/variants/s8/r60db5r5w2r5g2r5y2~x2/"><circle cx="626.0" cy="90.4" r="4" fill="#3465a4"><title>Burnett, of Leys</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="537.9" cy="60.6" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s8/r42k4w1k6y1db1y1r12~x2/"><circle cx="490.9" cy="49.7" r="4" fill="#3465a4"><title>Princess Elizabeth</title></circle></a><circle cx="525.8" cy="44.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r75g12r3k2r2k2r36~x2/"><circle cx="626.0" cy="112.1" r="4" fill="#3465a4"><title>MacKintosh #5</title></circle></a><a href="/variants/s8/r114db10w3db16y3k3y3r28~x2/"><circle cx="521.6" cy="65.9" r="4" fill="#3465a4"><title>Inverness #2</title></circle></a><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="535.1" cy="64.9" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken #2</title></circle></a><a href="/variants/s8/r36db3w1db6g1k1g1r9~x4/"><circle cx="499.7" cy="67.6" r="4" fill="#3465a4"><title>Inverness - 1829 (District)</title></circle></a><a href="/variants/s8/r36db3w1db6g1k1g1r9~x2/"><circle cx="499.7" cy="67.6" r="4" fill="#3465a4"><title>Inverness</title></circle></a><a href="/variants/s8/r92db10r8w3r8g4r8lo3~x2/"><circle cx="616.1" cy="88.9" r="4" fill="#3465a4"><title>Burnett of Leys</title></circle></a><a href="/variants/s9/r72dg6y2dg11b2dg2b2r9k2~x2/"><circle cx="499.2" cy="58.3" r="4" fill="#3465a4"><title>Junor</title></circle></a><a href="/variants/s8/r60db5r5w2r5g2r5y2~x2/"><circle cx="626.0" cy="90.5" r="4" fill="#3465a4"><title>Burnett, of Leys</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="537.8" cy="60.8" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s8/r42k4w1k6y1db1y1r12~x2/"><circle cx="490.8" cy="49.9" r="4" fill="#3465a4"><title>Princess Elizabeth</title></circle></a><circle cx="525.7" cy="44.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r45k3y4k3r45k1dp2k1r2g8r2~x2/

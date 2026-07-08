@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Outdoorsmen (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t3k1g4k1t4g9k2/)
 (the same proportion at any scale), whose colour order is pattern [BKGKBGK](/stripes/bkgkbgk/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8037
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8037](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8037)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/t5k1g3k1t3k1g10r3~x2/"><circle cx="227.1" cy="197.0" r="4" fill="#3465a4"><title>Ayrton 1979 No. 2 (Personal)</title></circle></a><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="205.3" cy="188.5" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><a href="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/"><circle cx="234.5" cy="190.9" r="4" fill="#3465a4"><title>Letham (S.Australia)</title></circle></a><a href="/variants/s6/g30k12g6k6db2k5~x2/"><circle cx="314.3" cy="184.4" r="4" fill="#3465a4"><title>Fife, Duchess of..</title></circle></a><a href="/variants/s6/g4k2g28k8dg21g3~x2/"><circle cx="298.7" cy="203.3" r="4" fill="#3465a4"><title>Dunbar Hunting</title></circle></a><a href="/variants/s6/g3db8g3k4g15r2~x2/"><circle cx="269.3" cy="215.5" r="4" fill="#3465a4"><title>Lauder (Family)</title></circle></a><a href="/variants/s8/g9t4k4t3k4t4g9k2~x4/"><circle cx="165.2" cy="267.9" r="4" fill="#3465a4"><title>Keith Clan</title></circle></a><a href="/variants/s6/g24k2db3k2db8r2~x2/"><circle cx="305.0" cy="170.2" r="4" fill="#3465a4"><title>Shaw (Clan 1)</title></circle></a><a href="/variants/s6/g9lb1g6k7db7k1~x4/"><circle cx="187.6" cy="225.7" r="4" fill="#3465a4"><title>Menteith</title></circle></a><a href="/variants/s6/g9w1g6k7db7k1~x2/"><circle cx="184.1" cy="224.7" r="4" fill="#3465a4"><title>Menteith</title></circle></a><circle cx="266.2" cy="226.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/t5k1g3k1t3k1g10r3~x2/"><circle cx="227.1" cy="197.4" r="4" fill="#3465a4"><title>Ayrton 1979 No. 2 (Personal)</title></circle></a><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="205.4" cy="189.0" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><a href="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/"><circle cx="234.5" cy="191.4" r="4" fill="#3465a4"><title>Letham (S.Australia)</title></circle></a><a href="/variants/s6/g30k12g6k6db2k5~x2/"><circle cx="314.4" cy="184.9" r="4" fill="#3465a4"><title>Fife, Duchess of..</title></circle></a><a href="/variants/s6/g4k2g28k8dg21g3~x2/"><circle cx="298.8" cy="203.7" r="4" fill="#3465a4"><title>Dunbar Hunting</title></circle></a><a href="/variants/s6/g3db8g3k4g15r2~x2/"><circle cx="269.4" cy="216.0" r="4" fill="#3465a4"><title>Lauder (Family)</title></circle></a><a href="/variants/s8/g9t4k4t3k4t4g9k2~x4/"><circle cx="165.4" cy="268.7" r="4" fill="#3465a4"><title>Keith Clan</title></circle></a><a href="/variants/s6/g24k2db3k2db8r2~x2/"><circle cx="305.0" cy="170.6" r="4" fill="#3465a4"><title>Shaw (Clan 1)</title></circle></a><a href="/variants/s6/g9lb1g6k7db7k1~x4/"><circle cx="187.7" cy="226.3" r="4" fill="#3465a4"><title>Menteith</title></circle></a><a href="/variants/s6/g9w1g6k7db7k1~x2/"><circle cx="184.1" cy="225.3" r="4" fill="#3465a4"><title>Menteith</title></circle></a><circle cx="266.3" cy="226.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/t3k1g4k1t4g9k2~x4/

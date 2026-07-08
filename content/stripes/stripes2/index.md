@@ -3,17 +3,17 @@ title: 2 stripes tartan setts
 date: 2023-03-18
 weight: 2
 ---
-57 setts across 38 tartans with 2 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+58 setts across 39 tartans with 2 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 
 <ul class="stripe-summary">
 <li><a class="count" href="/stripes/gr/"><strong>GR</strong> · 9 setts · 6 tartans</a><div class="samples"><a class="pat" href="/stripes/gr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">GR</span></a></div></li>
 <li><a class="count" href="/stripes/kr/"><strong>KR</strong> · 9 setts · 3 tartans</a><div class="samples"><a class="pat" href="/stripes/kr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">KR</span></a></div></li>
 <li><a class="count" href="/stripes/kw/"><strong>KW</strong> · 7 setts · 3 tartans</a><div class="samples"><a class="pat" href="/stripes/kw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KW</span></a></div></li>
 <li><a class="count" href="/stripes/gk/"><strong>GK</strong> · 6 setts · 4 tartans</a><div class="samples"><a class="pat" href="/stripes/gk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">GK</span></a></div></li>
+<li><a class="count" href="/stripes/rw/"><strong>RW</strong> · 5 setts · 4 tartans</a><div class="samples"><a class="pat" href="/stripes/rw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RW</span></a></div></li>
 <li><a class="count" href="/stripes/bb/"><strong>BB</strong> · 4 setts · 2 tartans</a><div class="samples"><a class="pat" href="/stripes/bb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">BB</span></a></div></li>
 <li><a class="count" href="/stripes/bg/"><strong>BG</strong> · 4 setts · 4 tartans</a><div class="samples"><a class="pat" href="/stripes/bg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BG</span></a></div></li>
 <li><a class="count" href="/stripes/bk/"><strong>BK</strong> · 4 setts · 4 tartans</a><div class="samples"><a class="pat" href="/stripes/bk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="seq">BK</span></a></div></li>
-<li><a class="count" href="/stripes/rw/"><strong>RW</strong> · 4 setts · 3 tartans</a><div class="samples"><a class="pat" href="/stripes/rw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RW</span></a></div></li>
 <li><a class="count" href="/stripes/br/"><strong>BR</strong> · 2 setts · 1 tartans</a><div class="samples"><a class="pat" href="/stripes/br/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">BR</span></a></div></li>
 <li><a class="count" href="/stripes/bw/"><strong>BW</strong> · 2 setts · 2 tartans</a><div class="samples"><a class="pat" href="/stripes/bw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BW</span></a></div></li>
 <li><a class="count" href="/stripes/gg/"><strong>GG</strong> · 2 setts · 2 tartans</a><div class="samples"><a class="pat" href="/stripes/gg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GG</span></a></div></li>
@@ -77,6 +77,17 @@ weight: 2
 | 0.09 | [Justus Check (Personal)](/variants/s2/k1y1~x40/) | register-of-tartans |
 | 0.09 | [Rob Roy, Black & Tan (Fashion)](/variants/s2/k1y1~x100/) | tartans-authority |
 
+### RW
+<a class="pat" href="/stripes/rw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RW</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.01 | [English Kilt (Fashion)](/variants/s2/w10r3~x10/) | tartans-authority |
+| 0.01 | [MacMedic](/variants/s2/r1w1~x40/) | register-of-tartans |
+| 0.01 | [Spare](/variants/s2/r1w1~x5/) | register-of-tartans |
+| 0.10 | [Vindolanda Check](/variants/s2/w3o1~x8~w3801060-o1604029/) | research |
+| 0.11 | [Wilson's No.138](/variants/s2/r3lb1~x14/) | register-of-tartans |
+
 ### BB
 <a class="pat" href="/stripes/bb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">BB</span></a>
 
@@ -106,16 +117,6 @@ weight: 2
 | 0.05 | [Staines](/variants/s2/db12k1~x10/) | tartans-authority |
 | 0.05 | [Tartan Army](/variants/s2/db2k1~x4/) | weddslist |
 | 0.08 | [Black Shadow (Fashion)](/variants/s2/k20dt1~x6/) | tartans-authority |
-
-### RW
-<a class="pat" href="/stripes/rw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RW</span></a>
-
-| ΔT | Tartan | Source |
-|---|---|---|
-| 0.01 | [English Kilt (Fashion)](/variants/s2/w10r3~x10/) | tartans-authority |
-| 0.01 | [MacMedic](/variants/s2/r1w1~x40/) | register-of-tartans |
-| 0.01 | [Spare](/variants/s2/r1w1~x5/) | register-of-tartans |
-| 0.11 | [Wilson's No.138](/variants/s2/r3lb1~x14/) | register-of-tartans |
 
 ### BR
 <a class="pat" href="/stripes/br/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">BR</span></a>

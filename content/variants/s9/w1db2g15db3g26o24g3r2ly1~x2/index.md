@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Canuck Place"
   url: "/tartans/canuck-place/"
+- name: "Canuck Place (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w1db2g15db3g26o24g3r2ly1/)
 (the same proportion at any scale), whose colour order is pattern [WBGBGRGRY](/stripes/wbgbgrgry/).
@@ -14,7 +16,7 @@ Part of the [Canuck Place](/tartans/canuck-place/) tartan — the named design g
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7182
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7182](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7182)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y1r2g3o24g26db3g15db2w1~x2/"><circle cx="388.7" cy="143.8" r="4" fill="#3465a4"><title>Canuck Place</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2008029/"><circle cx="296.6" cy="178.5" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2209032/"><circle cx="296.8" cy="178.3" r="4" fill="#3465a4"><title>Manitoba Red</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1807008-ri2109032/"><circle cx="296.2" cy="177.8" r="4" fill="#3465a4"><title>Manitoba District Tartan</title></circle></a><a href="/variants/s9/g15y3g27r2g2r33t2w1t4~x2/"><circle cx="348.0" cy="128.6" r="4" fill="#3465a4"><title>Longmore (Name)</title></circle></a><a href="/variants/s11/y40dt10o2dt2w2dt3g8y6dt2y4w2~x2/"><circle cx="406.4" cy="132.0" r="4" fill="#3465a4"><title>Cavalier, Blue</title></circle></a><a href="/variants/s10/r4db10g2db2g24o2g2o16g2w1~x2/"><circle cx="287.9" cy="140.6" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><a href="/variants/s8/dg62n3dg3n31k4g5lb5r3~x2~dg1806142-g2408144/"><circle cx="374.2" cy="135.3" r="4" fill="#3465a4"><title>Sheffield, City of (District)</title></circle></a><a href="/variants/s12/g3o2g40dg2g4dg8w1o4g2dy4y4w2~x2/"><circle cx="425.6" cy="88.2" r="4" fill="#3465a4"><title>Springbok</title></circle></a><a href="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/"><circle cx="466.7" cy="92.3" r="4" fill="#3465a4"><title>Berry Tribute</title></circle></a><circle cx="383.0" cy="141.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/y1r2g3o24g26db3g15db2w1~x2/"><circle cx="388.7" cy="143.8" r="4" fill="#3465a4"><title>Canuck Place</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2008029/"><circle cx="296.6" cy="178.8" r="4" fill="#3465a4"><title>Manitoba</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1707016-ri2209032/"><circle cx="296.8" cy="178.7" r="4" fill="#3465a4"><title>Manitoba Red</title></circle></a><a href="/variants/s8/y2r6g1ri2g12lb1g1lb2~x2~r1807008-ri2109032/"><circle cx="296.2" cy="178.2" r="4" fill="#3465a4"><title>Manitoba District Tartan</title></circle></a><a href="/variants/s9/g15y3g27r2g2r33t2w1t4~x2/"><circle cx="348.0" cy="128.7" r="4" fill="#3465a4"><title>Longmore (Name)</title></circle></a><a href="/variants/s11/y40dt10o2dt2w2dt3g8y6dt2y4w2~x2/"><circle cx="406.4" cy="132.1" r="4" fill="#3465a4"><title>Cavalier, Blue</title></circle></a><a href="/variants/s10/r4db10g2db2g24o2g2o16g2w1~x2/"><circle cx="287.9" cy="140.7" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><a href="/variants/s8/dg62n3dg3n31k4g5lb5r3~x2~dg1806142-g2408144/"><circle cx="374.2" cy="135.2" r="4" fill="#3465a4"><title>Sheffield, City of (District)</title></circle></a><a href="/variants/s12/g3o2g40dg2g4dg8w1o4g2dy4y4w2~x2/"><circle cx="425.5" cy="88.0" r="4" fill="#3465a4"><title>Springbok</title></circle></a><a href="/variants/s12/dg43dp3o3dp2o4r3g2dg13g2o9dg1ly2~x2~dg1806142-g2408144/"><circle cx="466.6" cy="92.2" r="4" fill="#3465a4"><title>Berry Tribute</title></circle></a><circle cx="383.0" cy="141.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/w1db2g15db3g26o24g3r2ly1~x2/

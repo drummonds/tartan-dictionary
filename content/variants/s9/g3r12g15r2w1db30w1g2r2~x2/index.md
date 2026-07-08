@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Christmas Morning"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g3r12g15r2w1db30w1g2r2/)
 (the same proportion at any scale), whose colour order is pattern [GRGRWBWGR](/stripes/grgrwbwgr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6014
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6014](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6014)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r6db2r1db16r3db16g28w2g4~x2/"><circle cx="281.8" cy="151.0" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s9/r6db2r1db8r3db16g28w2g4~x2/"><circle cx="288.6" cy="146.2" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s8/g8lr4db21g6r7g1r1g8~x2/"><circle cx="242.4" cy="177.1" r="4" fill="#3465a4"><title>Cathcart</title></circle></a><a href="/variants/s11/r3w2r3dg14w3r3dg2r3w3db47w2~x2/"><circle cx="320.8" cy="100.9" r="4" fill="#3465a4"><title>Friends of Scotland Caucus</title></circle></a><a href="/variants/s8/db3r2db30r1w18o30r2o3~x2/"><circle cx="229.1" cy="133.1" r="4" fill="#3465a4"><title>Bannockbane Navy</title></circle></a><a href="/variants/s11/dg2db2lb23db2lb2db6lb2db2dg33r2lb2~x2/"><circle cx="265.0" cy="130.9" r="4" fill="#3465a4"><title>Maine, Original State of (Fashion)</title></circle></a><a href="/variants/s10/db37w2db2y2r17w2db2g17y2db2~x2/"><circle cx="269.8" cy="121.0" r="4" fill="#3465a4"><title>MDF (Personal)</title></circle></a><a href="/variants/s7/w3r2dp31g30y2dp2y1~x2/"><circle cx="309.7" cy="124.7" r="4" fill="#3465a4"><title>Caig (Corporate)</title></circle></a><a href="/variants/s11/dg2db2w1r2w1db3dg1db12dg18w1r2~x2/"><circle cx="298.7" cy="141.7" r="4" fill="#3465a4"><title>McKirgan/Mackirgan</title></circle></a><a href="/variants/s10/w5n38o3db11o1db11o3n4w5lr1~x2~n1900000-o2500000/"><circle cx="316.7" cy="105.8" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><circle cx="279.7" cy="127.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r6db2r1db16r3db16g28w2g4~x2/"><circle cx="281.8" cy="151.3" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s9/r6db2r1db8r3db16g28w2g4~x2/"><circle cx="288.6" cy="146.4" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/variants/s8/g8lr4db21g6r7g1r1g8~x2/"><circle cx="242.5" cy="177.5" r="4" fill="#3465a4"><title>Cathcart</title></circle></a><a href="/variants/s11/r3w2r3dg14w3r3dg2r3w3db47w2~x2/"><circle cx="320.7" cy="101.0" r="4" fill="#3465a4"><title>Friends of Scotland Caucus</title></circle></a><a href="/variants/s8/db3r2db30r1w18o30r2o3~x2/"><circle cx="229.1" cy="133.4" r="4" fill="#3465a4"><title>Bannockbane Navy</title></circle></a><a href="/variants/s11/dg2db2lb23db2lb2db6lb2db2dg33r2lb2~x2/"><circle cx="264.9" cy="131.1" r="4" fill="#3465a4"><title>Maine, Original State of (Fashion)</title></circle></a><a href="/variants/s10/db37w2db2y2r17w2db2g17y2db2~x2/"><circle cx="269.7" cy="121.2" r="4" fill="#3465a4"><title>MDF (Personal)</title></circle></a><a href="/variants/s7/w3r2dp31g30y2dp2y1~x2/"><circle cx="309.7" cy="124.9" r="4" fill="#3465a4"><title>Caig (Corporate)</title></circle></a><a href="/variants/s11/dg2db2w1r2w1db3dg1db12dg18w1r2~x2/"><circle cx="298.7" cy="141.9" r="4" fill="#3465a4"><title>McKirgan/Mackirgan</title></circle></a><a href="/variants/s10/w5n38o3db11o1db11o3n4w5lr1~x2~n1900000-o2500000/"><circle cx="316.6" cy="105.9" r="4" fill="#3465a4"><title>Ballarat</title></circle></a><circle cx="279.6" cy="127.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g3r12g15r2w1db30w1g2r2~x2/

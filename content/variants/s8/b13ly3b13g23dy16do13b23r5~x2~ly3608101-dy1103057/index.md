@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified 2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b13ly3b13g23dy16do13b23r5/)
 (the same proportion at any scale), whose colour order is pattern [BYBGGBBR](/stripes/bybggbbr/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db34w5db5r5db5do26g33o6~x2/"><circle cx="150.7" cy="195.7" r="4" fill="#3465a4"><title>Blairmore</title></circle></a><a href="/variants/s8/db2r1db10w1o4g8y1g2~x4/"><circle cx="190.9" cy="176.6" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s6/lr4g24db10r3db12lo4~x2/"><circle cx="201.6" cy="219.8" r="4" fill="#3465a4"><title>Inglis (Name)</title></circle></a><a href="/variants/s8/db11dg10g6db7lb2db3dp10lb2~x2/"><circle cx="198.6" cy="269.2" r="4" fill="#3465a4"><title>Hummelt, Katherine (Personal)</title></circle></a><a href="/variants/s7/r3dg9g15db10k2db18w3~x2~dg1806142-g1903114/"><circle cx="177.6" cy="193.2" r="4" fill="#3465a4"><title>Coulthard (Personal)</title></circle></a><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><circle cx="250.9" cy="305.1" r="4" fill="#3465a4"><title>Heriot Bay (District)</title></circle></a><a href="/variants/s6/r9t6db13t21n18w4~x2/"><circle cx="174.3" cy="276.3" r="4" fill="#3465a4"><title>Fox-Eves Wedding (Personal)</title></circle></a><a href="/variants/s9/g20lb6dg15db5dg2db15n4db10r2~x2/"><circle cx="162.0" cy="197.9" r="4" fill="#3465a4"><title>Copar a'Beannichte (Personal)</title></circle></a><a href="/variants/s9/dg3lo2o10dg10db20dg12r3db10w2~x2/"><circle cx="196.4" cy="191.6" r="4" fill="#3465a4"><title>Patel Name Tartan</title></circle></a><a href="/variants/s9/n8g4n8db2lb8r1m1lb8db2~n2203265-db0705267-r2209032-m2610337/"><circle cx="168.2" cy="206.0" r="4" fill="#3465a4"><title>Cole-Dale (Personal)</title></circle></a><circle cx="175.6" cy="234.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db34w5db5r5db5do26g33o6~x2/"><circle cx="150.7" cy="196.1" r="4" fill="#3465a4"><title>Blairmore</title></circle></a><a href="/variants/s8/db2r1db10w1o4g8y1g2~x4/"><circle cx="190.9" cy="176.9" r="4" fill="#3465a4"><title>Ayrshire</title></circle></a><a href="/variants/s6/lr4g24db10r3db12lo4~x2/"><circle cx="201.7" cy="220.3" r="4" fill="#3465a4"><title>Inglis (Name)</title></circle></a><a href="/variants/s8/db11dg10g6db7lb2db3dp10lb2~x2/"><circle cx="198.8" cy="269.7" r="4" fill="#3465a4"><title>Hummelt, Katherine (Personal)</title></circle></a><a href="/variants/s7/r3dg9g15db10k2db18w3~x2~dg1806142-g1903114/"><circle cx="177.6" cy="193.6" r="4" fill="#3465a4"><title>Coulthard (Personal)</title></circle></a><a href="/variants/s6/t5dy2dg4n3w1t5~x8/"><circle cx="251.1" cy="305.7" r="4" fill="#3465a4"><title>Heriot Bay (District)</title></circle></a><a href="/variants/s6/r9t6db13t21n18w4~x2/"><circle cx="174.5" cy="276.9" r="4" fill="#3465a4"><title>Fox-Eves Wedding (Personal)</title></circle></a><a href="/variants/s9/g20lb6dg15db5dg2db15n4db10r2~x2/"><circle cx="162.0" cy="198.2" r="4" fill="#3465a4"><title>Copar a'Beannichte (Personal)</title></circle></a><a href="/variants/s9/dg3lo2o10dg10db20dg12r3db10w2~x2/"><circle cx="196.4" cy="191.9" r="4" fill="#3465a4"><title>Patel Name Tartan</title></circle></a><a href="/variants/s9/n8g4n8db2lb8r1m1lb8db2~n2203265-db0705267-r2209032-m2610337/"><circle cx="168.3" cy="206.4" r="4" fill="#3465a4"><title>Cole-Dale (Personal)</title></circle></a><circle cx="175.7" cy="234.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/b13ly3b13g23dy16do13b23r5~x2~ly3608101-dy1103057/

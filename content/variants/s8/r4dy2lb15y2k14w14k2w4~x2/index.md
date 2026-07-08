@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Culloden - 2000 (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4dy2lb15y2k14w14k2w4/)
 (the same proportion at any scale), whose colour order is pattern [RGWGKWKW](/stripes/rgwgkwkw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1655
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1655](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1655)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r5w2lb20dy2k16w18k2w5~x2/"><circle cx="107.7" cy="163.9" r="4" fill="#3465a4"><title>Ailsa Craig (District)</title></circle></a><a href="/variants/s8/r5w2db20y2k16w18k2w5~x2/"><circle cx="105.6" cy="162.2" r="4" fill="#3465a4"><title>Ailsa, Craig</title></circle></a><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="114.4" cy="168.2" r="4" fill="#3465a4"><title>Alexander Brothers - 2007? (Corp.)</title></circle></a><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="53.8" cy="165.9" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s8/r6lb3dp20y2k20w20k2w5~x2/"><circle cx="72.0" cy="147.6" r="4" fill="#3465a4"><title>Humming Bird (Fashion)</title></circle></a><a href="/variants/s8/r6lb3dp24y2k23w23k2w6~x2/"><circle cx="84.2" cy="137.9" r="4" fill="#3465a4"><title>Culloden Dress</title></circle></a><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><circle cx="51.9" cy="156.1" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="106.3" cy="162.3" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s10/y6k2lb15r5lb9k13w25db2w3db2~x2/"><circle cx="81.5" cy="132.5" r="4" fill="#3465a4"><title>Gillies, dress Blue</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="136.7" cy="179.4" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, dress</title></circle></a><circle cx="57.4" cy="165.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r5w2lb20dy2k16w18k2w5~x2/"><circle cx="107.7" cy="164.4" r="4" fill="#3465a4"><title>Ailsa Craig (District)</title></circle></a><a href="/variants/s8/r5w2db20y2k16w18k2w5~x2/"><circle cx="105.6" cy="162.6" r="4" fill="#3465a4"><title>Ailsa, Craig</title></circle></a><a href="/variants/s8/g5y2lb20w2k20w20k2w5~x2/"><circle cx="114.4" cy="168.7" r="4" fill="#3465a4"><title>Alexander Brothers - 2007? (Corp.)</title></circle></a><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="53.8" cy="166.4" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s8/r6lb3dp20y2k20w20k2w5~x2/"><circle cx="72.0" cy="148.1" r="4" fill="#3465a4"><title>Humming Bird (Fashion)</title></circle></a><a href="/variants/s8/r6lb3dp24y2k23w23k2w6~x2/"><circle cx="84.2" cy="138.3" r="4" fill="#3465a4"><title>Culloden Dress</title></circle></a><a href="/variants/s10/b2w2b1w9k5dg3dr2dg5k1ly2~x4/"><circle cx="51.9" cy="156.6" r="4" fill="#3465a4"><title>Firth of Tay</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="106.3" cy="162.9" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s10/y6k2lb15r5lb9k13w25db2w3db2~x2/"><circle cx="81.5" cy="132.9" r="4" fill="#3465a4"><title>Gillies, dress Blue</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="136.7" cy="180.0" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, dress</title></circle></a><circle cx="57.4" cy="165.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r4dy2lb15y2k14w14k2w4~x2/

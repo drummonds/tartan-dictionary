@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacEvil (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr35w8k85n6k4n14k2dp4/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKWB](/stripes/bkbkbkwb/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10139
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10139](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10139)
 
 ## Provenance
 
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db12w1db2k3r15k1y2k39r2~x2/"><circle cx="292.7" cy="64.6" r="4" fill="#3465a4"><title>Superstition Fire Honor Guard Pipes &amp; Drums</title></circle></a><a href="/variants/s9/lb4n6k4ri2r10k44n1k1lb2~x2~ri2109032-r1807033/"><circle cx="357.9" cy="49.1" r="4" fill="#3465a4"><title>Calgary HOG (Corporate)</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="352.4" cy="47.5" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="340.2" cy="106.5" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/"><circle cx="290.7" cy="77.3" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/variants/s9/ly1k45dt23w1dt6r2ly1r2ly1~x2/"><circle cx="337.4" cy="67.1" r="4" fill="#3465a4"><title>Arbroath Smokie Corporate Tartan</title></circle></a><a href="/variants/s9/r8db9dp3y1dp1y2dp2k32dp1~x2/"><circle cx="291.9" cy="79.4" r="4" fill="#3465a4"><title>Gedling, Peter (Personal)</title></circle></a><a href="/variants/s9/r8db9dp3y1dp1y2dp2k32dp3~x2/"><circle cx="281.2" cy="83.5" r="4" fill="#3465a4"><title>Gedling, Peter (Personal)</title></circle></a><a href="/variants/s9/n4w1k36db2dr4w1db14dr8w1~x2/"><circle cx="277.3" cy="83.8" r="4" fill="#3465a4"><title>Midnight Balmoral (Personal)</title></circle></a><a href="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/"><circle cx="286.8" cy="97.4" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><circle cx="315.1" cy="75.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db12w1db2k3r15k1y2k39r2~x2/"><circle cx="292.5" cy="64.7" r="4" fill="#3465a4"><title>Superstition Fire Honor Guard Pipes &amp; Drums</title></circle></a><a href="/variants/s9/lb4n6k4ri2r10k44n1k1lb2~x2~ri2109032-r1807033/"><circle cx="357.7" cy="49.2" r="4" fill="#3465a4"><title>Calgary HOG (Corporate)</title></circle></a><a href="/variants/s9/lb4n6k4r2o10k44n1k1lb2~x2~r2410029-o2208036/"><circle cx="352.2" cy="47.6" r="4" fill="#3465a4"><title>Calgary HOG</title></circle></a><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="340.2" cy="106.8" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/"><circle cx="290.6" cy="77.4" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/variants/s9/ly1k45dt23w1dt6r2ly1r2ly1~x2/"><circle cx="337.2" cy="67.1" r="4" fill="#3465a4"><title>Arbroath Smokie Corporate Tartan</title></circle></a><a href="/variants/s9/r8db9dp3y1dp1y2dp2k32dp1~x2/"><circle cx="291.8" cy="79.4" r="4" fill="#3465a4"><title>Gedling, Peter (Personal)</title></circle></a><a href="/variants/s9/r8db9dp3y1dp1y2dp2k32dp3~x2/"><circle cx="281.1" cy="83.5" r="4" fill="#3465a4"><title>Gedling, Peter (Personal)</title></circle></a><a href="/variants/s9/n4w1k36db2dr4w1db14dr8w1~x2/"><circle cx="277.1" cy="83.8" r="4" fill="#3465a4"><title>Midnight Balmoral (Personal)</title></circle></a><a href="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/"><circle cx="286.7" cy="97.6" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><circle cx="314.9" cy="75.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dr35w8k85n6k4n14k2dp4/

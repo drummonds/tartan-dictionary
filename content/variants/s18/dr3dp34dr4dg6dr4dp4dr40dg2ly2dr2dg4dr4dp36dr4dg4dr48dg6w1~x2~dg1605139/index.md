@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unnamed C18th - S.Uist"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr3dp34dr4dg6dr4dp4dr40dg2ly2dr2dg4dr4dp36dr4dg4dr48dg6w1/)
 (the same proportion at any scale), whose colour order is pattern [BBBGBBBGYBGBBBGBGW](/stripes/bbbgbbbgybgbbbgbgw/).
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5308
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5308](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5308)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

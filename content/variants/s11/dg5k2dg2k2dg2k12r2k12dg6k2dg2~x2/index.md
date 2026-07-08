@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacLoughlin of Ardmarnoch (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg5k2dg2k2dg2k12r2k12dg6k2dg2/)
 (the same proportion at any scale), whose colour order is pattern [GKGKGKRKGKG](/stripes/gkgkgkrkgkg/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2650
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2650](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2650)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g10k3g3k20dp3k5g3k20g3k3g10~x2/"><circle cx="328.4" cy="161.3" r="4" fill="#3465a4"><title>Pike Personal Weavers Tartan</title></circle></a><a href="/variants/s11/dg10k3dg3k20dp3k5g3k20dg3k3dg10~x2~dg1806142-g2408144/"><circle cx="278.7" cy="182.1" r="4" fill="#3465a4"><title>Pike (Personal)</title></circle></a><a href="/variants/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2~dg1806142-g2408144/"><circle cx="283.4" cy="185.4" r="4" fill="#3465a4"><title>Guildry of Stirling</title></circle></a><a href="/variants/s13/k10dg2k2db2dg14ly1dg14db2k10dg4k2dg2k2~x2/"><circle cx="311.0" cy="157.8" r="4" fill="#3465a4"><title>Sawicki, Peter (Personal)</title></circle></a><a href="/variants/s11/k1b1dg7k8b1k8b1dg2b1k4b1~x4/"><circle cx="306.0" cy="188.3" r="4" fill="#3465a4"><title>Clergy, or Priest</title></circle></a><a href="/variants/s11/k1y1dp7k8y1k8y1dp2y1k4y1~x4/"><circle cx="306.5" cy="182.4" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s10/dg18k10dg13k9r3k9dg25k16dg9db3~x2/"><circle cx="296.7" cy="223.4" r="4" fill="#3465a4"><title>Holman</title></circle></a><a href="/variants/s10/dt8k2dt2k14dt2k2lr1dt19k27lr2~x2/"><circle cx="375.9" cy="140.5" r="4" fill="#3465a4"><title>Pride of Scotland, Muted (Fashion)</title></circle></a><a href="/variants/s9/db5k9g7k3g7k3g7k25g3~x2/"><circle cx="273.9" cy="193.2" r="4" fill="#3465a4"><title>Menez Du</title></circle></a><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><circle cx="421.0" cy="242.5" r="4" fill="#3465a4"><title>Taiheiyo Club, Inc.</title></circle></a><circle cx="339.5" cy="208.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g10k3g3k20dp3k5g3k20g3k3g10~x2/"><circle cx="328.4" cy="161.8" r="4" fill="#3465a4"><title>Pike Personal Weavers Tartan</title></circle></a><a href="/variants/s11/dg10k3dg3k20dp3k5g3k20dg3k3dg10~x2~dg1806142-g2408144/"><circle cx="278.7" cy="182.5" r="4" fill="#3465a4"><title>Pike (Personal)</title></circle></a><a href="/variants/s10/dg18k3dg3k3dg3k21g2k21dg21k4~x2~dg1806142-g2408144/"><circle cx="283.4" cy="185.9" r="4" fill="#3465a4"><title>Guildry of Stirling</title></circle></a><a href="/variants/s13/k10dg2k2db2dg14ly1dg14db2k10dg4k2dg2k2~x2/"><circle cx="310.9" cy="158.0" r="4" fill="#3465a4"><title>Sawicki, Peter (Personal)</title></circle></a><a href="/variants/s11/k1b1dg7k8b1k8b1dg2b1k4b1~x4/"><circle cx="306.0" cy="188.7" r="4" fill="#3465a4"><title>Clergy, or Priest</title></circle></a><a href="/variants/s11/k1y1dp7k8y1k8y1dp2y1k4y1~x4/"><circle cx="306.5" cy="182.8" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s10/dg18k10dg13k9r3k9dg25k16dg9db3~x2/"><circle cx="296.8" cy="223.8" r="4" fill="#3465a4"><title>Holman</title></circle></a><a href="/variants/s10/dt8k2dt2k14dt2k2lr1dt19k27lr2~x2/"><circle cx="375.8" cy="140.7" r="4" fill="#3465a4"><title>Pride of Scotland, Muted (Fashion)</title></circle></a><a href="/variants/s9/db5k9g7k3g7k3g7k25g3~x2/"><circle cx="273.9" cy="193.7" r="4" fill="#3465a4"><title>Menez Du</title></circle></a><a href="/variants/s7/k46dg6k6dg6k42dg47k12/"><circle cx="421.1" cy="243.0" r="4" fill="#3465a4"><title>Taiheiyo Club, Inc.</title></circle></a><circle cx="339.5" cy="208.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/

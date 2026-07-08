@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Argentina Argentinian District Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db36dbi3db3dbi33w3dbi5w3dbi33db3dbi3db36dbi3/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBWBWBBBB](/stripes/bbbbbwbwbbbb/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2487
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2487](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2487)
 
 ## Provenance
 

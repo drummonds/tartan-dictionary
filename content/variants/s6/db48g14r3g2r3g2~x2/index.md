@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Wilson"
   url: "/tartans/wilson/"
+- name: "Wilson #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db48g14r3g2r3g2/)
 (the same proportion at any scale), whose colour order is pattern [BGRGRG](/stripes/bgrgrg/).
@@ -14,7 +16,7 @@ Part of the [Wilson](/tartans/wilson/) tartan — the named design grouping this
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4633
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4633](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4633)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db64g20r4g3r4g3/"><circle cx="442.5" cy="166.7" r="4" fill="#3465a4"><title>Wilson</title></circle></a><a href="/variants/s6/db47g14do5o2r3g7~x2/"><circle cx="375.1" cy="147.6" r="4" fill="#3465a4"><title>Round Table of Britain and Ireland, RtbI.</title></circle></a><a href="/variants/s5/r2g5db27g11o2~x2/"><circle cx="352.2" cy="200.6" r="4" fill="#3465a4"><title>Hector James</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2/"><circle cx="400.4" cy="235.8" r="4" fill="#3465a4"><title>City of Kincardine (District)</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2~db1204274/"><circle cx="403.0" cy="234.5" r="4" fill="#3465a4"><title>City of Kincardine</title></circle></a><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="332.0" cy="207.3" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/variants/s6/db40g7y3g7db15r5~x2/"><circle cx="441.8" cy="196.5" r="4" fill="#3465a4"><title>Wheadon (Name)</title></circle></a><a href="/variants/s7/db40g8k1y2k1g8db5~x4/"><circle cx="453.8" cy="112.0" r="4" fill="#3465a4"><title>Salvation Army, Hunting</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="332.4" cy="200.6" r="4" fill="#3465a4"><title>Connacht Irish District Tartan</title></circle></a><a href="/variants/s8/db28o3lb1o3db4lb2dp1lb5~x4/"><circle cx="434.1" cy="123.7" r="4" fill="#3465a4"><title>Baker</title></circle></a><circle cx="456.2" cy="160.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db64g20r4g3r4g3/"><circle cx="442.5" cy="167.0" r="4" fill="#3465a4"><title>Wilson</title></circle></a><a href="/variants/s6/db47g14do5o2r3g7~x2/"><circle cx="375.1" cy="147.8" r="4" fill="#3465a4"><title>Round Table of Britain and Ireland, RtbI.</title></circle></a><a href="/variants/s5/r2g5db27g11o2~x2/"><circle cx="352.2" cy="201.0" r="4" fill="#3465a4"><title>Hector James</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2/"><circle cx="400.5" cy="236.4" r="4" fill="#3465a4"><title>City of Kincardine (District)</title></circle></a><a href="/variants/s6/g4db36lg6g16db16g3~x2~db1204274/"><circle cx="403.1" cy="235.0" r="4" fill="#3465a4"><title>City of Kincardine</title></circle></a><a href="/variants/s6/r1db12g5db2g4lb1~x2/"><circle cx="332.0" cy="207.7" r="4" fill="#3465a4"><title>Connaught Green</title></circle></a><a href="/variants/s6/db40g7y3g7db15r5~x2/"><circle cx="441.9" cy="196.9" r="4" fill="#3465a4"><title>Wheadon (Name)</title></circle></a><a href="/variants/s7/db40g8k1y2k1g8db5~x4/"><circle cx="453.7" cy="112.1" r="4" fill="#3465a4"><title>Salvation Army, Hunting</title></circle></a><a href="/variants/s6/r2db32g14db5g16w2~x2~g2106142/"><circle cx="332.5" cy="201.0" r="4" fill="#3465a4"><title>Connacht Irish District Tartan</title></circle></a><a href="/variants/s8/db28o3lb1o3db4lb2dp1lb5~x4/"><circle cx="434.1" cy="123.9" r="4" fill="#3465a4"><title>Baker</title></circle></a><circle cx="456.2" cy="160.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db48g14r3g2r3g2~x2/

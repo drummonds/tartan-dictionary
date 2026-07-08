@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacGuinness"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly1w5ly1k1ly1k1ly1k1ly1w5ly1k24ly1k1ly1k1ly1/)
 (the same proportion at any scale), whose colour order is pattern [YKYKYKYWYKYKYKYWY](/stripes/ykykykywykykykywy/).
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2463
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2463](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2463)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/"><circle cx="273.9" cy="106.8" r="4" fill="#3465a4"><title>Thain Dress #1</title></circle></a><a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x2/"><circle cx="273.9" cy="106.8" r="4" fill="#3465a4"><title>Thain, dress</title></circle></a><a href="/variants/s21/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3~x2/"><circle cx="313.8" cy="52.0" r="4" fill="#3465a4"><title>Clutha</title></circle></a><a href="/variants/s14/w100k15w2k4y2k6w10k4y2k13w4k100w3k2/"><circle cx="336.3" cy="50.7" r="4" fill="#3465a4"><title>Unidentified Plaid #6</title></circle></a><a href="/variants/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2/"><circle cx="348.9" cy="70.9" r="4" fill="#3465a4"><title>Pars, Dress (Sports)</title></circle></a><a href="/variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/"><circle cx="280.6" cy="72.0" r="4" fill="#3465a4"><title>Deudon (2015)</title></circle></a><a href="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/"><circle cx="259.4" cy="63.9" r="4" fill="#3465a4"><title>Black Onyx</title></circle></a><a href="/variants/s11/n8k40dy2n2w2n2k9w5n2w5k2~x2/"><circle cx="324.0" cy="89.8" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><circle cx="325.1" cy="65.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/"><circle cx="273.8" cy="107.1" r="4" fill="#3465a4"><title>Thain Dress #1</title></circle></a><a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x2/"><circle cx="273.8" cy="107.1" r="4" fill="#3465a4"><title>Thain, dress</title></circle></a><a href="/variants/s21/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3~x2/"><circle cx="313.6" cy="52.1" r="4" fill="#3465a4"><title>Clutha</title></circle></a><a href="/variants/s14/w100k15w2k4y2k6w10k4y2k13w4k100w3k2/"><circle cx="336.2" cy="50.8" r="4" fill="#3465a4"><title>Unidentified Plaid #6</title></circle></a><a href="/variants/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2/"><circle cx="348.8" cy="71.1" r="4" fill="#3465a4"><title>Pars, Dress (Sports)</title></circle></a><a href="/variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/"><circle cx="280.5" cy="72.2" r="4" fill="#3465a4"><title>Deudon (2015)</title></circle></a><a href="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/"><circle cx="259.2" cy="64.0" r="4" fill="#3465a4"><title>Black Onyx</title></circle></a><a href="/variants/s11/n8k40dy2n2w2n2k9w5n2w5k2~x2/"><circle cx="323.9" cy="90.0" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><circle cx="325.0" cy="65.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/ly1w5ly1k1ly1k1ly1k1ly1w5ly1k24ly1k1ly1k1ly1~x2/

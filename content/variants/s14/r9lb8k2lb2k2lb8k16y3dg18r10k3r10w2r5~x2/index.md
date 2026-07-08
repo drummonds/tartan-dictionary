@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Caledonia"
   url: "/tartans/caledonia/"
+- name: "Caledonia - 1819 (Wilsons') No.155"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5/)
 (the same proportion at any scale), whose colour order is pattern [RWKWKWKGGRKRWR](/stripes/rwkwkwkggrkrwr/).
@@ -14,7 +16,7 @@ Part of the [Caledonia](/tartans/caledonia/) tartan — the named design groupin
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7533
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7533](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7533)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/"><circle cx="124.7" cy="127.8" r="4" fill="#3465a4"><title>Caledonia No 155</title></circle></a><a href="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/"><circle cx="120.9" cy="128.6" r="4" fill="#3465a4"><title>Caledonian Cameron Commando</title></circle></a><a href="/variants/s14/r21db9k2db2k2db9k18y3g21r13k3r13w2r13~x2/"><circle cx="129.7" cy="129.0" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/variants/s13/r6db2k2db4k4y2k1w2k1g9r6w2r6~x4/"><circle cx="70.9" cy="150.1" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/variants/s16/w7k24r4k4r4k4r24y4r6db12r6k4g20k4r6w4/"><circle cx="58.2" cy="135.5" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/variants/s16/w3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2/"><circle cx="61.0" cy="134.8" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/variants/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2~db1406275/"><circle cx="89.7" cy="131.9" r="4" fill="#3465a4"><title>Norwich No.158</title></circle></a><a href="/variants/s12/r20lb14k17y2k3w3k3g24r14k4r4w2~x2/"><circle cx="79.4" cy="123.5" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/variants/s13/db8k1r4k1r4k1r4k1g8k1y1r1w1~x2/"><circle cx="88.9" cy="132.1" r="4" fill="#3465a4"><title>Unidentified No 158 Silk Fragment</title></circle></a><a href="/variants/s10/k2n10k5dg8k12r20lb16r4lb5w2~x2/"><circle cx="44.8" cy="154.2" r="4" fill="#3465a4"><title>Manderson #2</title></circle></a><circle cx="62.8" cy="137.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/r21lb9k2lb2k2lb9k18y3g21r13k3r13w2r13~x2/"><circle cx="124.7" cy="128.2" r="4" fill="#3465a4"><title>Caledonia No 155</title></circle></a><a href="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/"><circle cx="120.9" cy="129.0" r="4" fill="#3465a4"><title>Caledonian Cameron Commando</title></circle></a><a href="/variants/s14/r21db9k2db2k2db9k18y3g21r13k3r13w2r13~x2/"><circle cx="129.7" cy="129.4" r="4" fill="#3465a4"><title>Caledonia</title></circle></a><a href="/variants/s13/r6db2k2db4k4y2k1w2k1g9r6w2r6~x4/"><circle cx="70.9" cy="150.5" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/variants/s16/w7k24r4k4r4k4r24y4r6db12r6k4g20k4r6w4/"><circle cx="58.2" cy="135.9" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/variants/s16/w3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2/"><circle cx="61.0" cy="135.2" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/variants/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2~db1406275/"><circle cx="89.7" cy="132.2" r="4" fill="#3465a4"><title>Norwich No.158</title></circle></a><a href="/variants/s12/r20lb14k17y2k3w3k3g24r14k4r4w2~x2/"><circle cx="79.4" cy="123.9" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/variants/s13/db8k1r4k1r4k1r4k1g8k1y1r1w1~x2/"><circle cx="88.9" cy="132.5" r="4" fill="#3465a4"><title>Unidentified No 158 Silk Fragment</title></circle></a><a href="/variants/s10/k2n10k5dg8k12r20lb16r4lb5w2~x2/"><circle cx="44.8" cy="154.6" r="4" fill="#3465a4"><title>Manderson #2</title></circle></a><circle cx="62.7" cy="137.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5~x2/

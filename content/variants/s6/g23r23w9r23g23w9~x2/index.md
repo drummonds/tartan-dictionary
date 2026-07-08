@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Omani Regiment 2nd Pipe Sqn."
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g23r23w9r23g23w9/)
 (the same proportion at any scale), whose colour order is pattern [GRWRGW](/stripes/grwrgw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3246
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3246](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3246)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg14db8dg14r14k3r14~x2/"><circle cx="168.4" cy="275.6" r="4" fill="#3465a4"><title>Tulsa, City of</title></circle></a><a href="/variants/s6/r14k3r14g13db8g13~x2/"><circle cx="157.0" cy="275.9" r="4" fill="#3465a4"><title>Tulsa</title></circle></a><a href="/variants/s6/r6g5k5g5r6t1~x4~t2503227/"><circle cx="140.1" cy="262.8" r="4" fill="#3465a4"><title>Norwich No.028</title></circle></a><a href="/variants/s6/w11r32g12r5g12r5~x2/"><circle cx="295.9" cy="247.2" r="4" fill="#3465a4"><title>Al-Maktoum</title></circle></a><a href="/variants/s4/w9r23g23w9~x2/"><circle cx="155.5" cy="335.2" r="4" fill="#3465a4"><title>Quaboos Pipers Plaid</title></circle></a><a href="/variants/s4/g38r24k9r9~x2/"><circle cx="221.8" cy="275.2" r="4" fill="#3465a4"><title>Royal Guard of Oman 4th Band Squadron</title></circle></a><a href="/variants/s5/r33g9k5g24w33~x2/"><circle cx="114.8" cy="243.3" r="4" fill="#3465a4"><title>Inverness Basque (District)</title></circle></a><a href="/variants/s4/r5g5w3r5/"><circle cx="203.9" cy="366.0" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s4/g2r4g2lb1~x4/"><circle cx="262.4" cy="321.2" r="4" fill="#3465a4"><title>Wilson's No.188</title></circle></a><a href="/variants/s5/r3k10r10g10r3~x4/"><circle cx="152.5" cy="281.2" r="4" fill="#3465a4"><title>Unidentified (Gow-like)</title></circle></a><circle cx="177.4" cy="331.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg14db8dg14r14k3r14~x2/"><circle cx="168.6" cy="276.4" r="4" fill="#3465a4"><title>Tulsa, City of</title></circle></a><a href="/variants/s6/r14k3r14g13db8g13~x2/"><circle cx="157.2" cy="276.7" r="4" fill="#3465a4"><title>Tulsa</title></circle></a><a href="/variants/s6/r6g5k5g5r6t1~x4~t2503227/"><circle cx="140.3" cy="263.7" r="4" fill="#3465a4"><title>Norwich No.028</title></circle></a><a href="/variants/s6/w11r32g12r5g12r5~x2/"><circle cx="296.1" cy="247.9" r="4" fill="#3465a4"><title>Al-Maktoum</title></circle></a><a href="/variants/s4/w9r23g23w9~x2/"><circle cx="155.9" cy="336.2" r="4" fill="#3465a4"><title>Quaboos Pipers Plaid</title></circle></a><a href="/variants/s4/g38r24k9r9~x2/"><circle cx="222.0" cy="276.1" r="4" fill="#3465a4"><title>Royal Guard of Oman 4th Band Squadron</title></circle></a><a href="/variants/s5/r33g9k5g24w33~x2/"><circle cx="114.9" cy="244.1" r="4" fill="#3465a4"><title>Inverness Basque (District)</title></circle></a><a href="/variants/s4/r5g5w3r5/"><circle cx="204.3" cy="366.0" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s4/g2r4g2lb1~x4/"><circle cx="262.7" cy="322.1" r="4" fill="#3465a4"><title>Wilson's No.188</title></circle></a><a href="/variants/s5/r3k10r10g10r3~x4/"><circle cx="152.7" cy="282.1" r="4" fill="#3465a4"><title>Unidentified (Gow-like)</title></circle></a><circle cx="177.7" cy="332.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g23r23w9r23g23w9~x2/

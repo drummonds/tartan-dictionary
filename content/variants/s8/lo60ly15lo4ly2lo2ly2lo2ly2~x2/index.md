@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Masai Shuka 09 (Artefact)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lo60ly15lo4ly2lo2ly2lo2ly2/)
 (the same proportion at any scale), whose colour order is pattern [YYYYYYYY](/stripes/yyyyyyyy/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7200
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7200](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7200)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Fredericton"
   url: "/tartans/fredericton/"
+- name: "Fredericton"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp3lb1w9r6g5lb2w2lb2w2lb2g12y2/)
 (the same proportion at any scale), whose colour order is pattern [BWWRGWWWWWGG](/stripes/bwwrgwwwwwgg/).
@@ -14,7 +16,7 @@ Part of the [Fredericton](/tartans/fredericton/) tartan — the named design gro
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dp3lb1w9r6dg5lb2w2lb2w2lb2dg12y2~x4/"><circle cx="106.4" cy="148.6" r="4" fill="#3465a4"><title>Fredericton #1</title></circle></a><a href="/variants/s12/dp6lb2w24r15g12lb4w4lb4w4lb4g34y4/"><circle cx="165.9" cy="132.6" r="4" fill="#3465a4"><title>Fredericton (District)</title></circle></a><a href="/variants/s10/w2r8o5y6w5g21w6r8b4w2/"><circle cx="112.1" cy="173.7" r="4" fill="#3465a4"><title>Jacobite, Silk sash</title></circle></a><a href="/variants/s15/lg4w2lg1w14r2do4lg8g4w2lg3ly2g2do2w2ly2~x2/"><circle cx="146.4" cy="144.7" r="4" fill="#3465a4"><title>Highlands of Haliburton Dress (Dist.</title></circle></a><a href="/variants/s15/y10w1g2n2w2r1w2n2g2o1y10w7r3w13db5~x2/"><circle cx="132.1" cy="121.6" r="4" fill="#3465a4"><title>Contreceour dress</title></circle></a><a href="/variants/s10/w2ri8dy5y6w5g21w6ri8r4w2~ri2209032-r2208029/"><circle cx="106.1" cy="171.1" r="4" fill="#3465a4"><title>Jacobite Silk sash</title></circle></a><a href="/variants/s15/w2n2g2dy1y10w7r3w13db5y10w1g2n2w2r1~x4/"><circle cx="139.5" cy="127.1" r="4" fill="#3465a4"><title>Contrecoeur Dress</title></circle></a><a href="/variants/s8/dr6w20g12y3g8lb20k2lb3~x2/"><circle cx="98.8" cy="181.3" r="4" fill="#3465a4"><title>Coulter Dress (Personal)</title></circle></a><a href="/variants/s19/g8o3lr3o3w28lr4w8o12g3o3g3o3g8do3g3do3g3do12r4/"><circle cx="89.2" cy="133.9" r="4" fill="#3465a4"><title>Drymen</title></circle></a><a href="/variants/s11/w4lb5lo3lb22dy4k3g16lo7k2lo7dy2~x2/"><circle cx="104.9" cy="141.9" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><circle cx="125.7" cy="159.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dp3lb1w9r6dg5lb2w2lb2w2lb2dg12y2~x4/"><circle cx="106.4" cy="149.0" r="4" fill="#3465a4"><title>Fredericton #1</title></circle></a><a href="/variants/s12/dp6lb2w24r15g12lb4w4lb4w4lb4g34y4/"><circle cx="165.8" cy="132.9" r="4" fill="#3465a4"><title>Fredericton (District)</title></circle></a><a href="/variants/s10/w2r8o5y6w5g21w6r8b4w2/"><circle cx="112.1" cy="174.1" r="4" fill="#3465a4"><title>Jacobite, Silk sash</title></circle></a><a href="/variants/s15/lg4w2lg1w14r2do4lg8g4w2lg3ly2g2do2w2ly2~x2/"><circle cx="146.4" cy="145.0" r="4" fill="#3465a4"><title>Highlands of Haliburton Dress (Dist.</title></circle></a><a href="/variants/s15/y10w1g2n2w2r1w2n2g2o1y10w7r3w13db5~x2/"><circle cx="132.1" cy="121.9" r="4" fill="#3465a4"><title>Contreceour dress</title></circle></a><a href="/variants/s10/w2ri8dy5y6w5g21w6ri8r4w2~ri2209032-r2208029/"><circle cx="106.1" cy="171.5" r="4" fill="#3465a4"><title>Jacobite Silk sash</title></circle></a><a href="/variants/s15/w2n2g2dy1y10w7r3w13db5y10w1g2n2w2r1~x4/"><circle cx="139.5" cy="127.4" r="4" fill="#3465a4"><title>Contrecoeur Dress</title></circle></a><a href="/variants/s8/dr6w20g12y3g8lb20k2lb3~x2/"><circle cx="98.8" cy="181.8" r="4" fill="#3465a4"><title>Coulter Dress (Personal)</title></circle></a><a href="/variants/s19/g8o3lr3o3w28lr4w8o12g3o3g3o3g8do3g3do3g3do12r4/"><circle cx="89.2" cy="134.2" r="4" fill="#3465a4"><title>Drymen</title></circle></a><a href="/variants/s11/w4lb5lo3lb22dy4k3g16lo7k2lo7dy2~x2/"><circle cx="104.9" cy="142.3" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><circle cx="125.7" cy="159.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dp3lb1w9r6g5lb2w2lb2w2lb2g12y2~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Scrymgeour"
   url: "/tartans/scrymgeour-2/"
+- name: "Scrymgeour"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r15k1lo2g3r2k1lo15/)
 (the same proportion at any scale), whose colour order is pattern [KYGRKYKRGYKR](/stripes/kygrkykrgykr/).
@@ -14,7 +16,7 @@ Part of the [Scrymgeour](/tartans/scrymgeour-2/) tartan — the named design gro
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3754
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3754](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3754)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r15k1y2db3r2k1y15~x6/"><circle cx="298.0" cy="163.4" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s7/r15k1y2db3r2k1y15~x3/"><circle cx="298.0" cy="163.4" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s7/r46k3y6db8r6k3y46/"><circle cx="306.4" cy="161.9" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s7/r32k3lo6g10r6k3lo32~x2/"><circle cx="171.2" cy="145.2" r="4" fill="#3465a4"><title>Scrimgeour of Glassary</title></circle></a><a href="/variants/s9/r12w2ly3w2r3k5r2ly18w2~x2/"><circle cx="185.0" cy="161.9" r="4" fill="#3465a4"><title>Ballater Trade or 'Fancy' Tartan</title></circle></a><a href="/variants/s9/g12k1g1k1g1r5ri10k1ri2~x2~r1707016-ri2209032/"><circle cx="214.8" cy="153.8" r="4" fill="#3465a4"><title>Lindsay #3</title></circle></a><a href="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/"><circle cx="244.4" cy="149.5" r="4" fill="#3465a4"><title>Scrymgeour (Clan)</title></circle></a><a href="/variants/s14/r1ri2g1k1ri5g11ri1k2g1ri11g4r1ri2w1~x2~r2208029-ri2209032/"><circle cx="226.1" cy="123.2" r="4" fill="#3465a4"><title>MacKinnon #9</title></circle></a><a href="/variants/s12/k6r3k3r24lb4g10r2g4r2g24r6lb2~x2/"><circle cx="208.1" cy="143.2" r="4" fill="#3465a4"><title>Leach (1999)</title></circle></a><a href="/variants/s9/g12k1g1k1g1r5ri10k1ri2~x2~r1707016-ri2008029/"><circle cx="221.0" cy="156.7" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><circle cx="227.0" cy="123.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r15k1y2db3r2k1y15~x6/"><circle cx="298.0" cy="163.7" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s7/r15k1y2db3r2k1y15~x3/"><circle cx="298.0" cy="163.7" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s7/r46k3y6db8r6k3y46/"><circle cx="306.4" cy="162.2" r="4" fill="#3465a4"><title>Scrymgeour</title></circle></a><a href="/variants/s7/r32k3lo6g10r6k3lo32~x2/"><circle cx="171.2" cy="145.7" r="4" fill="#3465a4"><title>Scrimgeour of Glassary</title></circle></a><a href="/variants/s9/r12w2ly3w2r3k5r2ly18w2~x2/"><circle cx="185.0" cy="162.5" r="4" fill="#3465a4"><title>Ballater Trade or 'Fancy' Tartan</title></circle></a><a href="/variants/s9/g12k1g1k1g1r5ri10k1ri2~x2~r1707016-ri2209032/"><circle cx="214.8" cy="154.2" r="4" fill="#3465a4"><title>Lindsay #3</title></circle></a><a href="/variants/s7/dr15k1lo2db3dr2k1lo15~x6/"><circle cx="244.4" cy="149.9" r="4" fill="#3465a4"><title>Scrymgeour (Clan)</title></circle></a><a href="/variants/s14/r1ri2g1k1ri5g11ri1k2g1ri11g4r1ri2w1~x2~r2208029-ri2209032/"><circle cx="226.1" cy="123.6" r="4" fill="#3465a4"><title>MacKinnon #9</title></circle></a><a href="/variants/s12/k6r3k3r24lb4g10r2g4r2g24r6lb2~x2/"><circle cx="208.1" cy="143.6" r="4" fill="#3465a4"><title>Leach (1999)</title></circle></a><a href="/variants/s9/g12k1g1k1g1r5ri10k1ri2~x2~r1707016-ri2008029/"><circle cx="221.1" cy="157.1" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><circle cx="227.0" cy="123.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r15k1lo2g3r2k1lo15~x6~lo2906085/

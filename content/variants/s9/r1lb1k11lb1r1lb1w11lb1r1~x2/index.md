@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacPherson #4"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1lb1k11lb1r1lb1w11lb1r1/)
 (the same proportion at any scale), whose colour order is pattern [RWKWRWWWR](/stripes/rwkwrwwwr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2705
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2705](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2705)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r4w4k4w4k4w4k2n23w2~x2/"><circle cx="193.8" cy="149.6" r="4" fill="#3465a4"><title>Virtuoso (Corporate)</title></circle></a><a href="/variants/s11/dr2k9lb4w2k22w2lb4w22lb2w8dr2~x2/"><circle cx="177.1" cy="145.7" r="4" fill="#3465a4"><title>MacRae, Dress</title></circle></a><a href="/variants/s8/lb57k5lb9r29k18w9r9w5/"><circle cx="195.2" cy="158.2" r="4" fill="#3465a4"><title>Yale College, Wrexham</title></circle></a><a href="/variants/s8/r9w5lb57k5lb9r29k18w9/"><circle cx="195.2" cy="158.2" r="4" fill="#3465a4"><title>Yale College of Wrexham (Corporate)</title></circle></a><a href="/variants/s8/r20db2r2db2ly3db12w18db3~x2~ly2705081/"><circle cx="179.6" cy="183.5" r="4" fill="#3465a4"><title>Heriot</title></circle></a><a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x2/"><circle cx="126.9" cy="151.9" r="4" fill="#3465a4"><title>MacPherson Hunting</title></circle></a><a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x6/"><circle cx="126.9" cy="151.9" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s9/db1dr1k8dr1db1dr1w8dr1db1~x4/"><circle cx="132.6" cy="158.1" r="4" fill="#3465a4"><title>MacPherson of Pitmain</title></circle></a><a href="/variants/s10/dp17g1dp2k2dp2g1dp3k8w17g2~x4/"><circle cx="195.2" cy="126.2" r="4" fill="#3465a4"><title>Kyle, Grape (Dance)</title></circle></a><a href="/variants/s11/lb3k1n12k1n1k2n1k6w12k1lo1~x4/"><circle cx="118.8" cy="125.8" r="4" fill="#3465a4"><title>McCandlish Arisaid, Grey (Name)</title></circle></a><circle cx="173.1" cy="140.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r4w4k4w4k4w4k2n23w2~x2/"><circle cx="193.8" cy="150.0" r="4" fill="#3465a4"><title>Virtuoso (Corporate)</title></circle></a><a href="/variants/s11/dr2k9lb4w2k22w2lb4w22lb2w8dr2~x2/"><circle cx="177.1" cy="146.1" r="4" fill="#3465a4"><title>MacRae, Dress</title></circle></a><a href="/variants/s8/lb57k5lb9r29k18w9r9w5/"><circle cx="195.2" cy="158.7" r="4" fill="#3465a4"><title>Yale College, Wrexham</title></circle></a><a href="/variants/s8/r9w5lb57k5lb9r29k18w9/"><circle cx="195.2" cy="158.7" r="4" fill="#3465a4"><title>Yale College of Wrexham (Corporate)</title></circle></a><a href="/variants/s8/r20db2r2db2ly3db12w18db3~x2~ly2705081/"><circle cx="179.6" cy="184.0" r="4" fill="#3465a4"><title>Heriot</title></circle></a><a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x2/"><circle cx="126.9" cy="152.3" r="4" fill="#3465a4"><title>MacPherson Hunting</title></circle></a><a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x6/"><circle cx="126.9" cy="152.3" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s9/db1dr1k8dr1db1dr1w8dr1db1~x4/"><circle cx="132.6" cy="158.5" r="4" fill="#3465a4"><title>MacPherson of Pitmain</title></circle></a><a href="/variants/s10/dp17g1dp2k2dp2g1dp3k8w17g2~x4/"><circle cx="195.1" cy="126.6" r="4" fill="#3465a4"><title>Kyle, Grape (Dance)</title></circle></a><a href="/variants/s11/lb3k1n12k1n1k2n1k6w12k1lo1~x4/"><circle cx="118.7" cy="126.1" r="4" fill="#3465a4"><title>McCandlish Arisaid, Grey (Name)</title></circle></a><circle cx="173.1" cy="140.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r1lb1k11lb1r1lb1w11lb1r1~x2/

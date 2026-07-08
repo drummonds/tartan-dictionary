@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bannockbane, Dark Tan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do4y2do13y1w8lb13y2lb4/)
 (the same proportion at any scale), whose colour order is pattern [BGBGWWGW](/stripes/bgbgwwgw/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/do4y2do13y1w13lb13y2lb4~x2/"><circle cx="186.4" cy="209.0" r="4" fill="#3465a4"><title>Bannockbane Tan</title></circle></a><a href="/variants/s7/dr5w36dp14dr9g28dr8dp2~x2/"><circle cx="192.7" cy="197.8" r="4" fill="#3465a4"><title>MacKintosh (Artefact)</title></circle></a><a href="/variants/s8/db4dy3db21dy2w14ly22dy3ly4~x2/"><circle cx="185.9" cy="204.6" r="4" fill="#3465a4"><title>Bannock Bane M.407</title></circle></a><a href="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/"><circle cx="205.9" cy="205.0" r="4" fill="#3465a4"><title>Bannockbane Hunting (MacBean and Bishop)</title></circle></a><a href="/variants/s8/o20db2o2db2ly3db12w18db3~x2/"><circle cx="178.0" cy="189.0" r="4" fill="#3465a4"><title>Heriot (Fashion)</title></circle></a><a href="/variants/s7/dr2lb1db8lb8y8lb1y1~x2/"><circle cx="205.7" cy="236.5" r="4" fill="#3465a4"><title>Over Mountain</title></circle></a><a href="/variants/s6/dr1w12g6dr8lb3lo1~x4/"><circle cx="182.9" cy="209.4" r="4" fill="#3465a4"><title>MacLean Dress (Lumsden)</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1504144-g2408144/"><circle cx="237.5" cy="213.7" r="4" fill="#3465a4"><title>Universal Ancient</title></circle></a><a href="/variants/s9/y6w1y5w12y1db1lb1db1lb4~x4/"><circle cx="253.3" cy="197.7" r="4" fill="#3465a4"><title>MacGrath (Personal)</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1806142-g2408144/"><circle cx="239.9" cy="215.0" r="4" fill="#3465a4"><title>Universal Ancient International Tartan</title></circle></a><circle cx="203.8" cy="209.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/do4y2do13y1w13lb13y2lb4~x2/"><circle cx="186.5" cy="209.6" r="4" fill="#3465a4"><title>Bannockbane Tan</title></circle></a><a href="/variants/s7/dr5w36dp14dr9g28dr8dp2~x2/"><circle cx="192.8" cy="198.3" r="4" fill="#3465a4"><title>MacKintosh (Artefact)</title></circle></a><a href="/variants/s8/db4dy3db21dy2w14ly22dy3ly4~x2/"><circle cx="186.0" cy="205.2" r="4" fill="#3465a4"><title>Bannock Bane M.407</title></circle></a><a href="/variants/s8/dg3ly2dg14ly1w10n14ly2n3~x2/"><circle cx="206.0" cy="205.5" r="4" fill="#3465a4"><title>Bannockbane Hunting (MacBean and Bishop)</title></circle></a><a href="/variants/s8/o20db2o2db2ly3db12w18db3~x2/"><circle cx="178.1" cy="189.6" r="4" fill="#3465a4"><title>Heriot (Fashion)</title></circle></a><a href="/variants/s7/dr2lb1db8lb8y8lb1y1~x2/"><circle cx="205.9" cy="237.1" r="4" fill="#3465a4"><title>Over Mountain</title></circle></a><a href="/variants/s6/dr1w12g6dr8lb3lo1~x4/"><circle cx="183.0" cy="210.0" r="4" fill="#3465a4"><title>MacLean Dress (Lumsden)</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1504144-g2408144/"><circle cx="237.6" cy="214.2" r="4" fill="#3465a4"><title>Universal Ancient</title></circle></a><a href="/variants/s9/y6w1y5w12y1db1lb1db1lb4~x4/"><circle cx="253.5" cy="198.2" r="4" fill="#3465a4"><title>MacGrath (Personal)</title></circle></a><a href="/variants/s8/lb12dg2lb2dg2lb2dy8g8dy1~x2~dg1806142-g2408144/"><circle cx="240.0" cy="215.5" r="4" fill="#3465a4"><title>Universal Ancient International Tartan</title></circle></a><circle cx="203.9" cy="209.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/do4y2do13y1w8lb13y2lb4~x2/

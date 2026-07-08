@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Angle"
   url: "/tartans/angle/"
+- name: "Angle, Blue (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w1lg11k6lg3w1lg1w1/)
 (the same proportion at any scale), whose colour order is pattern [WYKYWYW](/stripes/wykywyw/).
@@ -14,7 +16,7 @@ Part of the [Angle](/tartans/angle/) tartan — the named design grouping this s
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3512
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3512](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3512)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -84,8 +86,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5g2w34g34k2g2y4~x2/"><circle cx="269.6" cy="151.7" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance)</title></circle></a><a href="/variants/s7/y2g1k1g20w20g1w2~x4/"><circle cx="280.7" cy="142.3" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance) Fashion Tartan</title></circle></a><a href="/variants/s7/dr3g20k20g20lo2g2lo2~x2/"><circle cx="277.2" cy="182.9" r="4" fill="#3465a4"><title>Paton (Personal)</title></circle></a><a href="/variants/s7/r3g24k28g19y3g3y3~x2/"><circle cx="247.6" cy="185.7" r="4" fill="#3465a4"><title>Paton</title></circle></a><a href="/variants/s5/g9lb1g2k4g2~x4/"><circle cx="369.1" cy="222.9" r="4" fill="#3465a4"><title>Peterhead (Personal)</title></circle></a><a href="/variants/s7/g8w4g50k12g4k15ly5~x2/"><circle cx="302.5" cy="158.9" r="4" fill="#3465a4"><title>Instakilt, Green (Fashion)</title></circle></a><a href="/variants/s8/g4r1g15t5r1w5g4r1~x4/"><circle cx="369.5" cy="190.5" r="4" fill="#3465a4"><title>McGirr (Letterkenny) David, (Pers.)</title></circle></a><a href="/variants/s5/g37w9g3k9w3/"><circle cx="336.4" cy="191.7" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><a href="/variants/s5/g19w5g2k5w2~x2/"><circle cx="310.7" cy="206.7" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><a href="/variants/s7/g20dp2g3dp2g14k18g4~x2/"><circle cx="321.5" cy="202.3" r="4" fill="#3465a4"><title>Pringle, James (Fashion)</title></circle></a><circle cx="303.7" cy="184.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5g2w34g34k2g2y4~x2/"><circle cx="269.7" cy="152.2" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance)</title></circle></a><a href="/variants/s7/y2g1k1g20w20g1w2~x4/"><circle cx="280.7" cy="142.7" r="4" fill="#3465a4"><title>Cunningham Dress Green (Dance) Fashion Tartan</title></circle></a><a href="/variants/s7/dr3g20k20g20lo2g2lo2~x2/"><circle cx="277.2" cy="183.4" r="4" fill="#3465a4"><title>Paton (Personal)</title></circle></a><a href="/variants/s7/r3g24k28g19y3g3y3~x2/"><circle cx="247.6" cy="186.3" r="4" fill="#3465a4"><title>Paton</title></circle></a><a href="/variants/s5/g9lb1g2k4g2~x4/"><circle cx="369.2" cy="223.6" r="4" fill="#3465a4"><title>Peterhead (Personal)</title></circle></a><a href="/variants/s7/g8w4g50k12g4k15ly5~x2/"><circle cx="302.6" cy="159.4" r="4" fill="#3465a4"><title>Instakilt, Green (Fashion)</title></circle></a><a href="/variants/s8/g4r1g15t5r1w5g4r1~x4/"><circle cx="369.6" cy="190.9" r="4" fill="#3465a4"><title>McGirr (Letterkenny) David, (Pers.)</title></circle></a><a href="/variants/s5/g37w9g3k9w3/"><circle cx="336.5" cy="192.3" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><a href="/variants/s5/g19w5g2k5w2~x2/"><circle cx="310.8" cy="207.4" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><a href="/variants/s7/g20dp2g3dp2g14k18g4~x2/"><circle cx="321.6" cy="202.9" r="4" fill="#3465a4"><title>Pringle, James (Fashion)</title></circle></a><circle cx="303.7" cy="184.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w1lg11k6lg3w1lg1w1~x4/

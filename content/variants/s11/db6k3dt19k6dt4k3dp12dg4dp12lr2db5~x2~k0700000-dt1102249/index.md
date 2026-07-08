@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Scotland Forever"
   url: "/tartans/scotland-forever/"
+- name: "Scotland Forever (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db6k3dt19k6dt4k3dp12dg4dp12lr2db5/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKBGBYB](/stripes/bkbkbkbgbyb/).
@@ -14,7 +16,7 @@ Part of the [Scotland Forever](/tartans/scotland-forever/) tartan — the named 
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6038
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6038](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6038)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

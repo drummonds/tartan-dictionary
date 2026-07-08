@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Midpac Tissue (non woven)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5k2dg1k2r5k2dg18ly3/)
 (the same proportion at any scale), whose colour order is pattern [RKGKRKGY](/stripes/rkgkrkgy/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6957
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6957](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6957)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/do2lr2k6do3k2o14k1o1~x4/"><circle cx="231.3" cy="143.4" r="4" fill="#3465a4"><title>Braemar or Blair Atholl</title></circle></a><a href="/variants/s8/dg36k2dg2k2dg3k12lb10r20~x2/"><circle cx="226.9" cy="141.3" r="4" fill="#3465a4"><title>Georgia, State of (District)</title></circle></a><a href="/variants/s8/g36k2g2k2g3k12lb10r20~x2/"><circle cx="216.5" cy="143.3" r="4" fill="#3465a4"><title>Georgia, State of</title></circle></a><a href="/variants/s8/db1r1y1k15y15r1db1y1~x4/"><circle cx="257.9" cy="127.2" r="4" fill="#3465a4"><title>Pittsburgh St Andrew's Society</title></circle></a><a href="/variants/s5/o16k2o9k37o10~x2/"><circle cx="218.6" cy="142.5" r="4" fill="#3465a4"><title>Highland Spring (1985) (Corporate)</title></circle></a><a href="/variants/s7/r1lb5k8o18lb1k1lb1~x4/"><circle cx="257.3" cy="130.9" r="4" fill="#3465a4"><title>Merrick, Camel</title></circle></a><a href="/variants/s9/n3r3k38n25ly3n6r7n3ly2~x2/"><circle cx="225.1" cy="121.1" r="4" fill="#3465a4"><title>Greater St. Louis Firefighters (Cor)</title></circle></a><a href="/variants/s6/r4k2lb10k10y28k3~x2/"><circle cx="219.7" cy="163.9" r="4" fill="#3465a4"><title>Thomson Camel (Jedburgh Mill)</title></circle></a><a href="/variants/s9/n3r3k38n25y3n6r7n3y2~x2/"><circle cx="232.0" cy="123.0" r="4" fill="#3465a4"><title>Greater St Louis Area Firefighters Highland Guard</title></circle></a><a href="/variants/s9/k4ly15dg5k3dg7k3dg30r20dg3~x2/"><circle cx="212.6" cy="168.0" r="4" fill="#3465a4"><title>MacKillen</title></circle></a><circle cx="250.9" cy="135.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/do2lr2k6do3k2o14k1o1~x4/"><circle cx="231.2" cy="143.8" r="4" fill="#3465a4"><title>Braemar or Blair Atholl</title></circle></a><a href="/variants/s8/dg36k2dg2k2dg3k12lb10r20~x2/"><circle cx="226.8" cy="141.7" r="4" fill="#3465a4"><title>Georgia, State of (District)</title></circle></a><a href="/variants/s8/g36k2g2k2g3k12lb10r20~x2/"><circle cx="216.5" cy="143.7" r="4" fill="#3465a4"><title>Georgia, State of</title></circle></a><a href="/variants/s8/db1r1y1k15y15r1db1y1~x4/"><circle cx="257.9" cy="127.6" r="4" fill="#3465a4"><title>Pittsburgh St Andrew's Society</title></circle></a><a href="/variants/s5/o16k2o9k37o10~x2/"><circle cx="218.6" cy="142.9" r="4" fill="#3465a4"><title>Highland Spring (1985) (Corporate)</title></circle></a><a href="/variants/s7/r1lb5k8o18lb1k1lb1~x4/"><circle cx="257.3" cy="131.3" r="4" fill="#3465a4"><title>Merrick, Camel</title></circle></a><a href="/variants/s9/n3r3k38n25ly3n6r7n3ly2~x2/"><circle cx="225.1" cy="121.4" r="4" fill="#3465a4"><title>Greater St. Louis Firefighters (Cor)</title></circle></a><a href="/variants/s6/r4k2lb10k10y28k3~x2/"><circle cx="219.7" cy="164.4" r="4" fill="#3465a4"><title>Thomson Camel (Jedburgh Mill)</title></circle></a><a href="/variants/s9/n3r3k38n25y3n6r7n3y2~x2/"><circle cx="231.9" cy="123.3" r="4" fill="#3465a4"><title>Greater St Louis Area Firefighters Highland Guard</title></circle></a><a href="/variants/s9/k4ly15dg5k3dg7k3dg30r20dg3~x2/"><circle cx="212.6" cy="168.5" r="4" fill="#3465a4"><title>MacKillen</title></circle></a><circle cx="250.9" cy="136.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r5k2dg1k2r5k2dg18ly3~x2/

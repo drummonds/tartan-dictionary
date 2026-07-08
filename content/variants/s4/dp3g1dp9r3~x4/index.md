@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Highland Spring"
   url: "/tartans/highland-spring/"
+- name: "Highland Spring (1988)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp3g1dp9r3/)
 (the same proportion at any scale), whose colour order is pattern [BGBRBG](/stripes/bgbrbg/).
@@ -14,7 +16,7 @@ Part of the [Highland Spring](/tartans/highland-spring/) tartan — the named de
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1720
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1720](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1720)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dp5g3dp19r5~x2/"><circle cx="490.9" cy="262.9" r="4" fill="#3465a4"><title>Highland Spring</title></circle></a><a href="/variants/s4/dp5g2dp19r5~x2/"><circle cx="536.2" cy="245.1" r="4" fill="#3465a4"><title>Highland Spring Corporate Tartan</title></circle></a><a href="/variants/s6/dp20lb8g8db8dp33r3~x2/"><circle cx="361.9" cy="200.8" r="4" fill="#3465a4"><title>McIntosh, Stuart (Personal)</title></circle></a><a href="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/"><circle cx="374.3" cy="214.4" r="4" fill="#3465a4"><title>International Festival of Authors</title></circle></a><a href="/variants/s5/r2dp20db9dp20g2~x2/"><circle cx="572.3" cy="260.4" r="4" fill="#3465a4"><title>Scottish Netball (1987) (Corporate)</title></circle></a><a href="/variants/s5/o2r1dp30w1y2~x2/"><circle cx="593.3" cy="114.8" r="4" fill="#3465a4"><title>Wedding</title></circle></a><a href="/variants/s6/dp30m5dp5b4dp4g12~x2~m2609322-b2306275/"><circle cx="378.7" cy="215.3" r="4" fill="#3465a4"><title>International Festival of Authors (C</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4~r1506028/"><circle cx="521.0" cy="181.2" r="4" fill="#3465a4"><title>Martin Family, Robert N Personal Tartan</title></circle></a><a href="/variants/s5/dr27w3dr6w2g3~x4/"><circle cx="528.9" cy="197.0" r="4" fill="#3465a4"><title>Martin Family, Robert N (Personal)</title></circle></a><a href="/variants/s4/b30y5b4r12~x4/"><circle cx="429.1" cy="247.5" r="4" fill="#3465a4"><title>UEFA (Glasgow)</title></circle></a><circle cx="548.3" cy="238.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dp5g3dp19r5~x2/"><circle cx="491.1" cy="263.5" r="4" fill="#3465a4"><title>Highland Spring</title></circle></a><a href="/variants/s4/dp5g2dp19r5~x2/"><circle cx="536.4" cy="245.7" r="4" fill="#3465a4"><title>Highland Spring Corporate Tartan</title></circle></a><a href="/variants/s6/dp20lb8g8db8dp33r3~x2/"><circle cx="362.0" cy="201.2" r="4" fill="#3465a4"><title>McIntosh, Stuart (Personal)</title></circle></a><a href="/variants/s6/dp30m5dp5lb4dp4g12~x2~dp1507303-m2510349/"><circle cx="374.4" cy="214.9" r="4" fill="#3465a4"><title>International Festival of Authors</title></circle></a><a href="/variants/s5/r2dp20db9dp20g2~x2/"><circle cx="572.4" cy="260.7" r="4" fill="#3465a4"><title>Scottish Netball (1987) (Corporate)</title></circle></a><a href="/variants/s5/o2r1dp30w1y2~x2/"><circle cx="593.3" cy="114.9" r="4" fill="#3465a4"><title>Wedding</title></circle></a><a href="/variants/s6/dp30m5dp5b4dp4g12~x2~m2609322-b2306275/"><circle cx="378.8" cy="215.8" r="4" fill="#3465a4"><title>International Festival of Authors (C</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4~r1506028/"><circle cx="521.1" cy="181.8" r="4" fill="#3465a4"><title>Martin Family, Robert N Personal Tartan</title></circle></a><a href="/variants/s5/dr27w3dr6w2g3~x4/"><circle cx="529.0" cy="197.5" r="4" fill="#3465a4"><title>Martin Family, Robert N (Personal)</title></circle></a><a href="/variants/s4/b30y5b4r12~x4/"><circle cx="429.3" cy="248.0" r="4" fill="#3465a4"><title>UEFA (Glasgow)</title></circle></a><circle cx="548.4" cy="238.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/dp3g1dp9r3~x4/

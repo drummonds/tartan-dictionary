@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Gordonstoun"
   url: "/tartans/gordonstoun-2/"
+- name: "Gordonstoun"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y3g15r2db8lb2r8g8r2dg15r2dg2lb2/)
 (the same proportion at any scale), whose colour order is pattern [GGRBWRGRGRGW](/stripes/ggrbwrgrgrgw/).
@@ -14,7 +16,7 @@ Part of the [Gordonstoun](/tartans/gordonstoun-2/) tartan — the named design g
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lo5t2o14do9dg8t3o3t3o3t3dg19lr3~x2/"><circle cx="167.8" cy="179.7" r="4" fill="#3465a4"><title>Meath Irish County Tartan</title></circle></a><a href="/variants/s13/db8r2db3r4db13w2o13w2g13r4g4y2g8~x2/"><circle cx="100.0" cy="189.2" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/variants/s11/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/"><circle cx="139.3" cy="190.6" r="4" fill="#3465a4"><title>Greyfriars (District)</title></circle></a><a href="/variants/s9/r1dy7db3g1n3g1db3g7w1~x4/"><circle cx="135.8" cy="204.6" r="4" fill="#3465a4"><title>Adamson (Personal)</title></circle></a><a href="/variants/s10/r2g6lb1g1lb1g1lb3dt8y1t1~x4~dt1102249-t2308259/"><circle cx="129.2" cy="173.8" r="4" fill="#3465a4"><title>Haines Family (Personal)</title></circle></a><a href="/variants/s13/db8r2db3r4db13w2dr13w2g13r4g4y2g8~x2/"><circle cx="95.0" cy="186.6" r="4" fill="#3465a4"><title>Bowie (Dalgety) Family Tartan</title></circle></a><a href="/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lo3~x2/"><circle cx="155.0" cy="159.9" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2~w4000000/"><circle cx="168.3" cy="180.7" r="4" fill="#3465a4"><title>Allen - Northumbrian (Personal)</title></circle></a><a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2/"><circle cx="169.2" cy="181.0" r="4" fill="#3465a4"><title>Allen - 2001 (Personal)</title></circle></a><a href="/variants/s11/w3g28dg3g3dg11db4r3db3r6db15wi3~x2~w3502055-wi4000000/"><circle cx="152.5" cy="159.4" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><circle cx="125.5" cy="180.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/lo5t2o14do9dg8t3o3t3o3t3dg19lr3~x2/"><circle cx="167.8" cy="180.0" r="4" fill="#3465a4"><title>Meath Irish County Tartan</title></circle></a><a href="/variants/s13/db8r2db3r4db13w2o13w2g13r4g4y2g8~x2/"><circle cx="100.1" cy="189.6" r="4" fill="#3465a4"><title>Bowie</title></circle></a><a href="/variants/s11/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/"><circle cx="139.3" cy="191.0" r="4" fill="#3465a4"><title>Greyfriars (District)</title></circle></a><a href="/variants/s9/r1dy7db3g1n3g1db3g7w1~x4/"><circle cx="135.9" cy="204.9" r="4" fill="#3465a4"><title>Adamson (Personal)</title></circle></a><a href="/variants/s10/r2g6lb1g1lb1g1lb3dt8y1t1~x4~dt1102249-t2308259/"><circle cx="129.2" cy="174.1" r="4" fill="#3465a4"><title>Haines Family (Personal)</title></circle></a><a href="/variants/s13/db8r2db3r4db13w2dr13w2g13r4g4y2g8~x2/"><circle cx="95.0" cy="187.0" r="4" fill="#3465a4"><title>Bowie (Dalgety) Family Tartan</title></circle></a><a href="/variants/s11/w3db15r6db3r3db4dg11g3dg3g28lo3~x2/"><circle cx="155.0" cy="160.2" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2~w4000000/"><circle cx="168.4" cy="180.9" r="4" fill="#3465a4"><title>Allen - Northumbrian (Personal)</title></circle></a><a href="/variants/s14/dt16r2dt3r4dt2dy12g18w2g18dy12dt12y2r2y2~x2/"><circle cx="169.2" cy="181.2" r="4" fill="#3465a4"><title>Allen - 2001 (Personal)</title></circle></a><a href="/variants/s11/w3g28dg3g3dg11db4r3db3r6db15wi3~x2~w3502055-wi4000000/"><circle cx="152.5" cy="159.6" r="4" fill="#3465a4"><title>Wojtek Memorial Trust</title></circle></a><circle cx="125.5" cy="180.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/y3g15r2db8lb2r8g8r2dg15r2dg2lb2~x2/

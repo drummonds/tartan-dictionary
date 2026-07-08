@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Quebec, Centennial"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db20k1db1k1db1k1db1k1db1k1db1k1db1k8w8db16w50k4r6db28r1db1r1db1r1db1r1db1r1db1r1db1r8k24w12k4/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKBKBKWBWKRBRBRBRBRBRBRBRKWK](/stripes/bkbkbkbkbkbkbkwbwkrbrbrbrbrbrbrbrkwk/).
 
 Sourced from weddslist.  It is a [36 stripe tartan](/stripes/stripes36/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s36/w50db16w8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40w12k24r8db1r1db1r1db1r1db1r1db1r1db1r1db28r6k4/"><circle cx="167.5" cy="14.0" r="4" fill="#3465a4"><title>Quebec (Commemorative)</title></circle></a><a href="/variants/s26/db10w4db60w1k1w1k1w1k1w1k1w1k1w1k1w2k2w2k2w36k10w2k10w2k10w2~x2/"><circle cx="238.9" cy="14.0" r="4" fill="#3465a4"><title>Kilbarchan Unidentified No. 5</title></circle></a><a href="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/"><circle cx="230.7" cy="42.7" r="4" fill="#3465a4"><title>Livingston, dress</title></circle></a><circle cx="179.1" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s36/w50db16w8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40w12k24r8db1r1db1r1db1r1db1r1db1r1db1r1db28r6k4/"><circle cx="167.3" cy="14.0" r="4" fill="#3465a4"><title>Quebec (Commemorative)</title></circle></a><a href="/variants/s26/db10w4db60w1k1w1k1w1k1w1k1w1k1w1k1w2k2w2k2w36k10w2k10w2k10w2~x2/"><circle cx="238.7" cy="14.0" r="4" fill="#3465a4"><title>Kilbarchan Unidentified No. 5</title></circle></a><a href="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/"><circle cx="230.5" cy="42.8" r="4" fill="#3465a4"><title>Livingston, dress</title></circle></a><circle cx="178.9" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s36/db20k1db1k1db1k1db1k1db1k1db1k1db1k8w8db16w50k4r6db28r1db1r1db1r1db1r1db1r1db1r1db1r8k24w12k4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rangers 1989 (Sports)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db21k10dt8r3/)
 (the same proportion at any scale), whose colour order is pattern [BKBR](/stripes/bkbr/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6583
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6583](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6583)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r3db22k11dg32ly3~x2/"><circle cx="229.2" cy="205.0" r="4" fill="#3465a4"><title>Cultoquhey Hotel Corporate Tartan</title></circle></a><a href="/variants/s4/db16k6g8y1~x2/"><circle cx="261.0" cy="211.6" r="4" fill="#3465a4"><title>Sinclair, Sir John</title></circle></a><a href="/variants/s5/k1dg8r6db8k1~x4/"><circle cx="166.0" cy="231.6" r="4" fill="#3465a4"><title>Edinburgh Tattoo 50th (Commemorative</title></circle></a><a href="/variants/s4/r1db9k4lb1~x4/"><circle cx="308.4" cy="210.7" r="4" fill="#3465a4"><title>Scottish Nuclear (Corporate)</title></circle></a><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><circle cx="183.3" cy="203.4" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="294.1" cy="198.2" r="4" fill="#3465a4"><title>Mirror (Corporate)</title></circle></a><a href="/variants/s5/dr2db9k5g6db1~x4/"><circle cx="189.1" cy="233.4" r="4" fill="#3465a4"><title>Frobo Nairn</title></circle></a><a href="/variants/s5/k7lt3dg18db18w2~x2/"><circle cx="172.9" cy="217.4" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/variants/s5/r6db35k36db36w6/"><circle cx="267.3" cy="240.3" r="4" fill="#3465a4"><title>Davidson of Tulloch Clan Tartan</title></circle></a><a href="/variants/s5/lg11db19dt38dr7k7~x2/"><circle cx="185.0" cy="236.3" r="4" fill="#3465a4"><title>Rose, Danny and Hanna (Personal)</title></circle></a><circle cx="262.5" cy="260.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r3db22k11dg32ly3~x2/"><circle cx="229.2" cy="205.3" r="4" fill="#3465a4"><title>Cultoquhey Hotel Corporate Tartan</title></circle></a><a href="/variants/s4/db16k6g8y1~x2/"><circle cx="261.1" cy="212.1" r="4" fill="#3465a4"><title>Sinclair, Sir John</title></circle></a><a href="/variants/s5/k1dg8r6db8k1~x4/"><circle cx="166.0" cy="232.2" r="4" fill="#3465a4"><title>Edinburgh Tattoo 50th (Commemorative</title></circle></a><a href="/variants/s4/r1db9k4lb1~x4/"><circle cx="308.5" cy="211.2" r="4" fill="#3465a4"><title>Scottish Nuclear (Corporate)</title></circle></a><a href="/variants/s6/db28r4k14r4dg33y4~x2/"><circle cx="183.4" cy="203.8" r="4" fill="#3465a4"><title>Royal College of Physicians of Edinburgh</title></circle></a><a href="/variants/s4/r5db26k12w2~x4/"><circle cx="294.1" cy="198.7" r="4" fill="#3465a4"><title>Mirror (Corporate)</title></circle></a><a href="/variants/s5/dr2db9k5g6db1~x4/"><circle cx="189.2" cy="234.0" r="4" fill="#3465a4"><title>Frobo Nairn</title></circle></a><a href="/variants/s5/k7lt3dg18db18w2~x2/"><circle cx="172.9" cy="217.9" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/variants/s5/r6db35k36db36w6/"><circle cx="267.4" cy="240.9" r="4" fill="#3465a4"><title>Davidson of Tulloch Clan Tartan</title></circle></a><a href="/variants/s5/lg11db19dt38dr7k7~x2/"><circle cx="185.1" cy="236.8" r="4" fill="#3465a4"><title>Rose, Danny and Hanna (Personal)</title></circle></a><circle cx="262.6" cy="261.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/db21k10dt8r3~x2/

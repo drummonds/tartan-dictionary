@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Green Swamp Youth Campers"
   url: "/tartans/green-swamp-youth-campers/"
+- name: "Green Swamp Youth Campers"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k8r2k13dy2dg48db6/)
 (the same proportion at any scale), whose colour order is pattern [BGGKRK](/stripes/bggkrk/).
@@ -14,7 +16,7 @@ Part of the [Green Swamp Youth Campers](/tartans/green-swamp-youth-campers/) tar
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11272
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11272](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11272)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k8r2k13y2dg48db6~x2/"><circle cx="376.5" cy="136.5" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="371.2" cy="104.9" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s6/db19k4dr1k4dg9k1~x4/"><circle cx="318.4" cy="171.7" r="4" fill="#3465a4"><title>Monarchs Corporate Sport Tartan</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46lyi2k2~x2~ly2503076-lyi2705081/"><circle cx="398.0" cy="114.0" r="4" fill="#3465a4"><title>Green Rover (Personal)</title></circle></a><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/"><circle cx="311.1" cy="96.3" r="4" fill="#3465a4"><title>Henschke, Felix (Personal)</title></circle></a><a href="/variants/s6/n5y1k5dg46k5r3~x2/"><circle cx="474.3" cy="101.1" r="4" fill="#3465a4"><title>Touch</title></circle></a><a href="/variants/s6/db12k17y4dg51ly3g4~x2~y2203076-ly3307090/"><circle cx="285.8" cy="141.1" r="4" fill="#3465a4"><title>US Army Regimental Tartan</title></circle></a><a href="/variants/s6/db6k17y4dg51dy3g4~x2~dg1806142-g2203152/"><circle cx="303.2" cy="133.3" r="4" fill="#3465a4"><title>U.S. Army (Military)</title></circle></a><a href="/variants/s6/dg42dy2dgi16db7k16r5~x2~dg1202166-dgi1804158/"><circle cx="252.2" cy="154.8" r="4" fill="#3465a4"><title>Waterford Irish County Tartan</title></circle></a><a href="/variants/s6/k43dg8k8db21dg10w2~x2/"><circle cx="313.0" cy="167.9" r="4" fill="#3465a4"><title>Longmuir (2014)</title></circle></a><circle cx="387.8" cy="140.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k8r2k13y2dg48db6~x2/"><circle cx="376.4" cy="136.6" r="4" fill="#3465a4"><title>Green Swamp Youth Campers</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46y2k2~x2~g1903133/"><circle cx="371.1" cy="105.1" r="4" fill="#3465a4"><title>Green Rover, The</title></circle></a><a href="/variants/s6/db19k4dr1k4dg9k1~x4/"><circle cx="318.3" cy="171.9" r="4" fill="#3465a4"><title>Monarchs Corporate Sport Tartan</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46lyi2k2~x2~ly2503076-lyi2705081/"><circle cx="397.9" cy="114.1" r="4" fill="#3465a4"><title>Green Rover (Personal)</title></circle></a><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/"><circle cx="311.0" cy="96.3" r="4" fill="#3465a4"><title>Henschke, Felix (Personal)</title></circle></a><a href="/variants/s6/n5y1k5dg46k5r3~x2/"><circle cx="474.2" cy="101.1" r="4" fill="#3465a4"><title>Touch</title></circle></a><a href="/variants/s6/db12k17y4dg51ly3g4~x2~y2203076-ly3307090/"><circle cx="285.8" cy="141.3" r="4" fill="#3465a4"><title>US Army Regimental Tartan</title></circle></a><a href="/variants/s6/db6k17y4dg51dy3g4~x2~dg1806142-g2203152/"><circle cx="303.1" cy="133.5" r="4" fill="#3465a4"><title>U.S. Army (Military)</title></circle></a><a href="/variants/s6/dg42dy2dgi16db7k16r5~x2~dg1202166-dgi1804158/"><circle cx="252.2" cy="154.9" r="4" fill="#3465a4"><title>Waterford Irish County Tartan</title></circle></a><a href="/variants/s6/k43dg8k8db21dg10w2~x2/"><circle cx="313.0" cy="168.1" r="4" fill="#3465a4"><title>Longmuir (2014)</title></circle></a><circle cx="387.7" cy="140.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k8r2k13dy2dg48db6~x2/

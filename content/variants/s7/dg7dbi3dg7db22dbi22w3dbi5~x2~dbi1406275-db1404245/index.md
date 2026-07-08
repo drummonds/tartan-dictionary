@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "United Colours of Scotland (Corporat"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg7dbi3dg7db22dbi22w3dbi5/)
 (the same proportion at any scale), whose colour order is pattern [BWBBGBG](/stripes/bwbbgbg/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6504
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6504](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6504)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g15b2w2b11n28b4~x2~g2003152-n2002277/"><circle cx="457.7" cy="279.9" r="4" fill="#3465a4"><title>Rhode Island, The State of</title></circle></a><a href="/variants/s8/dy3dbi6db2ly2db11dbi2db2dy3~x2~dbi1406275-db1204274/"><circle cx="348.2" cy="280.1" r="4" fill="#3465a4"><title>Daks (Blue)</title></circle></a><a href="/variants/s8/dy5dbi12db4ly4db22dbi3db4dy5~dbi1406275-db1204274/"><circle cx="370.2" cy="262.2" r="4" fill="#3465a4"><title>Daks Muted blue Trade Tartan</title></circle></a><a href="/variants/s9/dt5dp1dt4db4dt7db8w1db2y1~x4/"><circle cx="358.9" cy="261.0" r="4" fill="#3465a4"><title>Romantic Scotland (Madonna)</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="210.9" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s8/n9db1n1db1n1db7dg7dr2~x4/"><circle cx="337.6" cy="260.0" r="4" fill="#3465a4"><title>Caledonian Hotel (Corporate)</title></circle></a><circle cx="353.8" cy="282.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g15b2w2b11n28b4~x2~g2003152-n2002277/"><circle cx="457.9" cy="280.0" r="4" fill="#3465a4"><title>Rhode Island, The State of</title></circle></a><a href="/variants/s8/dy3dbi6db2ly2db11dbi2db2dy3~x2~dbi1406275-db1204274/"><circle cx="348.4" cy="280.4" r="4" fill="#3465a4"><title>Daks (Blue)</title></circle></a><a href="/variants/s8/dy5dbi12db4ly4db22dbi3db4dy5~dbi1406275-db1204274/"><circle cx="370.4" cy="262.5" r="4" fill="#3465a4"><title>Daks Muted blue Trade Tartan</title></circle></a><a href="/variants/s9/dt5dp1dt4db4dt7db8w1db2y1~x4/"><circle cx="359.0" cy="261.2" r="4" fill="#3465a4"><title>Romantic Scotland (Madonna)</title></circle></a><a href="/variants/s6/lb8n4db30dt30r3dt4~x2~db1406275/"><circle cx="312.1" cy="211.1" r="4" fill="#3465a4"><title>Hutchesons' Grammar School</title></circle></a><a href="/variants/s8/n9db1n1db1n1db7dg7dr2~x4/"><circle cx="337.7" cy="260.2" r="4" fill="#3465a4"><title>Caledonian Hotel (Corporate)</title></circle></a><circle cx="353.9" cy="282.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/

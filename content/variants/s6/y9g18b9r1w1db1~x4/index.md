@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "COG USA, THE"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y9g18b9r1w1db1/)
 (the same proportion at any scale), whose colour order is pattern [BWRBGG](/stripes/bwrbgg/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10286
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10286](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10286)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/ly9g18t9r1w1db1~x4/"><circle cx="282.3" cy="184.2" r="4" fill="#3465a4"><title>T.H.E. C.O.G. USA (Corporate)</title></circle></a><a href="/variants/s6/y15g98n72r25n8lb15/"><circle cx="318.4" cy="232.3" r="4" fill="#3465a4"><title>Afternoon Tea / Afternoon Tea</title></circle></a><a href="/variants/s5/dr3n34db4g47lb3~x2/"><circle cx="428.8" cy="235.7" r="4" fill="#3465a4"><title>Exabyte</title></circle></a><a href="/variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/"><circle cx="287.7" cy="154.9" r="4" fill="#3465a4"><title>Glencross (Solway) (Personal)</title></circle></a><a href="/variants/s6/g42y2b16db7do16r5~x2/"><circle cx="265.6" cy="170.6" r="4" fill="#3465a4"><title>Waterford</title></circle></a><a href="/variants/s5/dy46dg23t23r4y4~x2/"><circle cx="314.8" cy="240.2" r="4" fill="#3465a4"><title>McMoosie Htg (Fashion)</title></circle></a><a href="/variants/s9/g48n26w5dy7lb10g3t7n10r3~x2/"><circle cx="247.0" cy="153.3" r="4" fill="#3465a4"><title>State Seal of Mississippi (Fashion)</title></circle></a><a href="/variants/s7/lg22w1gi6r6gi6y3g12~x2~gi2504202-g2203152/"><circle cx="242.0" cy="185.0" r="4" fill="#3465a4"><title>Dalveen (District)</title></circle></a><a href="/variants/s6/g18y1dp5y1dg18r1~x4/"><circle cx="300.1" cy="188.5" r="4" fill="#3465a4"><title>Symonds (2016)</title></circle></a><a href="/variants/s8/db5r3g2r3dg12t34g2w2~x2~dg1804158/"><circle cx="332.9" cy="148.9" r="4" fill="#3465a4"><title>Moran (Drummond) Personal Tartan</title></circle></a><circle cx="301.8" cy="188.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/ly9g18t9r1w1db1~x4/"><circle cx="282.4" cy="184.5" r="4" fill="#3465a4"><title>T.H.E. C.O.G. USA (Corporate)</title></circle></a><a href="/variants/s6/y15g98n72r25n8lb15/"><circle cx="318.5" cy="232.5" r="4" fill="#3465a4"><title>Afternoon Tea / Afternoon Tea</title></circle></a><a href="/variants/s5/dr3n34db4g47lb3~x2/"><circle cx="429.0" cy="235.9" r="4" fill="#3465a4"><title>Exabyte</title></circle></a><a href="/variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/"><circle cx="287.7" cy="155.1" r="4" fill="#3465a4"><title>Glencross (Solway) (Personal)</title></circle></a><a href="/variants/s6/g42y2b16db7do16r5~x2/"><circle cx="265.6" cy="170.8" r="4" fill="#3465a4"><title>Waterford</title></circle></a><a href="/variants/s5/dy46dg23t23r4y4~x2/"><circle cx="314.9" cy="240.5" r="4" fill="#3465a4"><title>McMoosie Htg (Fashion)</title></circle></a><a href="/variants/s9/g48n26w5dy7lb10g3t7n10r3~x2/"><circle cx="246.9" cy="153.4" r="4" fill="#3465a4"><title>State Seal of Mississippi (Fashion)</title></circle></a><a href="/variants/s7/lg22w1gi6r6gi6y3g12~x2~gi2504202-g2203152/"><circle cx="242.0" cy="185.3" r="4" fill="#3465a4"><title>Dalveen (District)</title></circle></a><a href="/variants/s6/g18y1dp5y1dg18r1~x4/"><circle cx="300.2" cy="188.7" r="4" fill="#3465a4"><title>Symonds (2016)</title></circle></a><a href="/variants/s8/db5r3g2r3dg12t34g2w2~x2~dg1804158/"><circle cx="332.9" cy="148.9" r="4" fill="#3465a4"><title>Moran (Drummond) Personal Tartan</title></circle></a><circle cx="301.8" cy="188.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/y9g18b9r1w1db1~x4/

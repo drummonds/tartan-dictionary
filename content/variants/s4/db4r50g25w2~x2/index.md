@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Locket"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4r50g25w2/)
 (the same proportion at any scale), whose colour order is pattern [BRGW](/stripes/brgw/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4310
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4310](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4310)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/r104g39y4/"><circle cx="526.0" cy="219.5" r="4" fill="#3465a4"><title>Scottish Watch</title></circle></a><a href="/variants/s4/r32g8w4y1/"><circle cx="485.5" cy="158.7" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/variants/s4/r32dg8lb4y1~x2/"><circle cx="495.4" cy="159.6" r="4" fill="#3465a4"><title>MacLaine of Lochbuie (Coburn)</title></circle></a><a href="/variants/s4/r32g8lb4y1~x2/"><circle cx="511.8" cy="167.1" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/variants/s4/r32g8lb4y1/"><circle cx="511.8" cy="167.1" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="327.5" cy="234.8" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r24t3w1g9r12~x8/"><circle cx="375.4" cy="163.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s4/r80lb40k5lo6/"><circle cx="372.8" cy="183.0" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><a href="/variants/s5/r22g17w2lg6r19~x2/"><circle cx="347.3" cy="235.1" r="4" fill="#3465a4"><title>Menzies #2</title></circle></a><a href="/variants/s6/r36t8w1k5g20r18~x4/"><circle cx="338.2" cy="133.0" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><circle cx="415.0" cy="182.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/r104g39y4/"><circle cx="526.1" cy="220.1" r="4" fill="#3465a4"><title>Scottish Watch</title></circle></a><a href="/variants/s4/r32g8w4y1/"><circle cx="485.6" cy="159.1" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/variants/s4/r32dg8lb4y1~x2/"><circle cx="495.4" cy="160.0" r="4" fill="#3465a4"><title>MacLaine of Lochbuie (Coburn)</title></circle></a><a href="/variants/s4/r32g8lb4y1~x2/"><circle cx="511.9" cy="167.5" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/variants/s4/r32g8lb4y1/"><circle cx="511.9" cy="167.5" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="327.6" cy="235.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r24t3w1g9r12~x8/"><circle cx="375.4" cy="163.8" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s4/r80lb40k5lo6/"><circle cx="372.9" cy="183.5" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><a href="/variants/s5/r22g17w2lg6r19~x2/"><circle cx="347.4" cy="235.8" r="4" fill="#3465a4"><title>Menzies #2</title></circle></a><a href="/variants/s6/r36t8w1k5g20r18~x4/"><circle cx="338.2" cy="133.3" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><circle cx="415.1" cy="182.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/db4r50g25w2~x2/

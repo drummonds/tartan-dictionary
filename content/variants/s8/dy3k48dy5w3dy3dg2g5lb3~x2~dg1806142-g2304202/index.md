@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pavelka Ltd"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy3k48dy5w3dy3dg2g5lb3/)
 (the same proportion at any scale), whose colour order is pattern [GKGWGGGW](/stripes/gkgwgggw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11144
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11144](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11144)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w2do3g5k50g4do3w2db3k2ly2~x2/"><circle cx="341.7" cy="46.3" r="4" fill="#3465a4"><title>Hawks (2014)</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="305.7" cy="80.4" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s10/w2dr3g5k50g4dr3w2lb3k2ly2~x2/"><circle cx="337.0" cy="44.3" r="4" fill="#3465a4"><title>Hawes (Personal)</title></circle></a><a href="/variants/s8/w3k48ly5w3ly3g2db5lb3~x2/"><circle cx="321.7" cy="66.4" r="4" fill="#3465a4"><title>Pavelka Limited</title></circle></a><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="332.0" cy="95.4" r="4" fill="#3465a4"><title>Avalon</title></circle></a><a href="/variants/s7/r5g3y6w3y5k55w5~x2/"><circle cx="331.4" cy="95.4" r="4" fill="#3465a4"><title>Avalon (Corporate)</title></circle></a><a href="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/"><circle cx="324.0" cy="48.6" r="4" fill="#3465a4"><title>Clan An Caigeann (Corporate)</title></circle></a><a href="/variants/s12/k24t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="348.5" cy="45.4" r="4" fill="#3465a4"><title>Stewart/Stuart (Black)</title></circle></a><a href="/variants/s10/y2k2db3w2dy3g4k50g5dy3w2~x2/"><circle cx="344.2" cy="46.9" r="4" fill="#3465a4"><title>Hawes (2014)</title></circle></a><a href="/variants/s12/k48db4k8y2k3w3k3g12r6k3r3w3~x2/"><circle cx="302.1" cy="49.8" r="4" fill="#3465a4"><title>Stewart Black Clan Tartan</title></circle></a><circle cx="333.9" cy="66.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w2do3g5k50g4do3w2db3k2ly2~x2/"><circle cx="341.5" cy="46.3" r="4" fill="#3465a4"><title>Hawks (2014)</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="305.6" cy="80.6" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s10/w2dr3g5k50g4dr3w2lb3k2ly2~x2/"><circle cx="336.8" cy="44.4" r="4" fill="#3465a4"><title>Hawes (Personal)</title></circle></a><a href="/variants/s8/w3k48ly5w3ly3g2db5lb3~x2/"><circle cx="321.6" cy="66.5" r="4" fill="#3465a4"><title>Pavelka Limited</title></circle></a><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="331.9" cy="95.7" r="4" fill="#3465a4"><title>Avalon</title></circle></a><a href="/variants/s7/r5g3y6w3y5k55w5~x2/"><circle cx="331.3" cy="95.6" r="4" fill="#3465a4"><title>Avalon (Corporate)</title></circle></a><a href="/variants/s12/k44y3k4y3k4db4w2db4dr2w2dg4y2~x2/"><circle cx="323.8" cy="48.6" r="4" fill="#3465a4"><title>Clan An Caigeann (Corporate)</title></circle></a><a href="/variants/s12/k24t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="348.3" cy="45.5" r="4" fill="#3465a4"><title>Stewart/Stuart (Black)</title></circle></a><a href="/variants/s10/y2k2db3w2dy3g4k50g5dy3w2~x2/"><circle cx="344.0" cy="46.9" r="4" fill="#3465a4"><title>Hawes (2014)</title></circle></a><a href="/variants/s12/k48db4k8y2k3w3k3g12r6k3r3w3~x2/"><circle cx="301.9" cy="49.9" r="4" fill="#3465a4"><title>Stewart Black Clan Tartan</title></circle></a><circle cx="333.8" cy="66.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dy3k48dy5w3dy3dg2g5lb3~x2~dg1806142-g2304202/

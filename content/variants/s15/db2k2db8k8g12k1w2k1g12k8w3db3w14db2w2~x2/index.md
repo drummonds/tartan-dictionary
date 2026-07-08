@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/forbes/"
 - name: "Forbes Dress"
   url: "/tartans/forbes-dress/"
+- name: "Forbes Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2k2db8k8g12k1w2k1g12k8w3db3w14db2w2/)
 (the same proportion at any scale), whose colour order is pattern [BKBKGKWKGKWBWBW](/stripes/bkbkgkwkgkwbwbw/).
@@ -16,7 +18,7 @@ Part of the [Forbes Dress](/tartans/forbes-dress/) tartan — the named design g
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1222
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1222](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1222)
 
 ## Provenance
 
@@ -78,8 +80,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db4k2db16k12g16k2w4k2g16k12w4db4w16db2w1~x2/"><circle cx="84.6" cy="143.7" r="4" fill="#3465a4"><title>Forbes Dress</title></circle></a><a href="/variants/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/"><circle cx="77.9" cy="122.4" r="4" fill="#3465a4"><title>MacKenzie Dress #2</title></circle></a><a href="/variants/s20/k8t10k2t2k2t10k8g11k2g11k8w2t2w14t1w3t1w14t2w2~x2/"><circle cx="78.8" cy="139.1" r="4" fill="#3465a4"><title>Campbell, The 42nd Dress</title></circle></a><a href="/variants/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/"><circle cx="78.5" cy="136.3" r="4" fill="#3465a4"><title>Campbell, Forty Second</title></circle></a><a href="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/"><circle cx="85.4" cy="157.2" r="4" fill="#3465a4"><title>Campbell, 42nd dress</title></circle></a><a href="/variants/s13/w3k2w15t3w3k7g8k2g8k7t8k1t2~x2/"><circle cx="85.6" cy="159.3" r="4" fill="#3465a4"><title>Campbell, 42nd Dress (Balhousie)</title></circle></a><a href="/variants/s15/ly4g3w25g4ly4k12db16k2w4k2db16k12g16k2ly4/"><circle cx="41.3" cy="136.2" r="4" fill="#3465a4"><title>Lochalsh (Fashion)</title></circle></a><a href="/variants/s13/t25k4t4k4t4k26g25r9g25k26t25k2r9~x2/"><circle cx="113.7" cy="167.4" r="4" fill="#3465a4"><title>Atholl</title></circle></a><a href="/variants/s13/t25k4t4k4t4k26g25r6g25k26t25k2r6~x2/"><circle cx="124.6" cy="163.6" r="4" fill="#3465a4"><title>Atholl (District)</title></circle></a><a href="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/"><circle cx="118.5" cy="132.3" r="4" fill="#3465a4"><title>Dinarzh: Fortress of the Bear</title></circle></a><circle cx="87.2" cy="146.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db4k2db16k12g16k2w4k2g16k12w4db4w16db2w1~x2/"><circle cx="84.5" cy="144.1" r="4" fill="#3465a4"><title>Forbes Dress</title></circle></a><a href="/variants/s15/w16db3w3db3w3k16g13k1w3k1g13k16db16k1r3~x2/"><circle cx="77.8" cy="122.7" r="4" fill="#3465a4"><title>MacKenzie Dress #2</title></circle></a><a href="/variants/s20/k8t10k2t2k2t10k8g11k2g11k8w2t2w14t1w3t1w14t2w2~x2/"><circle cx="78.7" cy="139.5" r="4" fill="#3465a4"><title>Campbell, The 42nd Dress</title></circle></a><a href="/variants/s20/k8db10k2db2k2db10k8g11k2g11k8w2db2w14db1w3db1w14db2w2~x2/"><circle cx="78.5" cy="136.7" r="4" fill="#3465a4"><title>Campbell, Forty Second</title></circle></a><a href="/variants/s13/w3k2w15db3w3k7g8k2g8k7db8k1db2~x2/"><circle cx="85.4" cy="157.7" r="4" fill="#3465a4"><title>Campbell, 42nd dress</title></circle></a><a href="/variants/s13/w3k2w15t3w3k7g8k2g8k7t8k1t2~x2/"><circle cx="85.6" cy="159.8" r="4" fill="#3465a4"><title>Campbell, 42nd Dress (Balhousie)</title></circle></a><a href="/variants/s15/ly4g3w25g4ly4k12db16k2w4k2db16k12g16k2ly4/"><circle cx="41.2" cy="136.6" r="4" fill="#3465a4"><title>Lochalsh (Fashion)</title></circle></a><a href="/variants/s13/t25k4t4k4t4k26g25r9g25k26t25k2r9~x2/"><circle cx="113.7" cy="167.8" r="4" fill="#3465a4"><title>Atholl</title></circle></a><a href="/variants/s13/t25k4t4k4t4k26g25r6g25k26t25k2r6~x2/"><circle cx="124.5" cy="164.0" r="4" fill="#3465a4"><title>Atholl (District)</title></circle></a><a href="/variants/s13/w4y10db20k1w12y1db4w2k4y5k10w5db2~x2/"><circle cx="118.5" cy="132.7" r="4" fill="#3465a4"><title>Dinarzh: Fortress of the Bear</title></circle></a><circle cx="87.2" cy="146.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/db2k2db8k8g12k1w2k1g12k8w3db3w14db2w2~x2/

@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/sinclair/"
 - name: "Sinclair Dress"
   url: "/tartans/sinclair-dress-2/"
+- name: "Sinclair Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r28g16k4w7r28/)
 (the same proportion at any scale), whose colour order is pattern [RGKWR](/stripes/rgkwr/).
@@ -16,7 +18,7 @@ Part of the [Sinclair Dress](/tartans/sinclair-dress-2/) tartan — the named de
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r30g12k5w8r30/"><circle cx="339.5" cy="224.4" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r28g16k4w1lb6r28~x2/"><circle cx="372.5" cy="138.7" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r28g16k4w1lb6r28/"><circle cx="372.5" cy="138.7" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/variants/s6/r28g16k4w1db6r28~x2/"><circle cx="369.7" cy="137.5" r="4" fill="#3465a4"><title>Sinclair (Logan)</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30~x2/"><circle cx="370.2" cy="156.1" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30/"><circle cx="370.2" cy="156.1" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s5/r5g5w1lb2r5~x2/"><circle cx="266.5" cy="277.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r22g17w2lg6r19~x2/"><circle cx="347.3" cy="235.1" r="4" fill="#3465a4"><title>Menzies #2</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="327.5" cy="234.8" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r6dg13k5r20w3~x2/"><circle cx="239.1" cy="218.4" r="4" fill="#3465a4"><title>Ryutokukan Junior High School</title></circle></a><circle cx="324.6" cy="225.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r30g12k5w8r30/"><circle cx="339.7" cy="225.2" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r28g16k4w1lb6r28~x2/"><circle cx="372.5" cy="139.1" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r28g16k4w1lb6r28/"><circle cx="372.5" cy="139.1" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/variants/s6/r28g16k4w1db6r28~x2/"><circle cx="369.7" cy="137.9" r="4" fill="#3465a4"><title>Sinclair (Logan)</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30~x2/"><circle cx="370.2" cy="156.6" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30/"><circle cx="370.2" cy="156.6" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s5/r5g5w1lb2r5~x2/"><circle cx="266.7" cy="278.3" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r22g17w2lg6r19~x2/"><circle cx="347.4" cy="235.8" r="4" fill="#3465a4"><title>Menzies #2</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="327.6" cy="235.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r6dg13k5r20w3~x2/"><circle cx="239.2" cy="219.1" r="4" fill="#3465a4"><title>Ryutokukan Junior High School</title></circle></a><circle cx="324.8" cy="225.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r28g16k4w7r28/

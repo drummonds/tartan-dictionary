@@ -3,7 +3,7 @@ title: "Logan, The Scottish Gaël (1831)"
 date: 2023-03-18
 ---
 
-James Logan's 1831 survey of clan tartans — the earliest systematic published record of setts, recorded as stripe widths in eighths of an inch. 55 setts transcribed by hand from the first edition and converted to threads at 8 per eighth-inch. As the oldest source it owns the cloth it shares with later records; related tartans that adjusted Logan's counts are noted on each sett.
+James Logan's 1831 survey of clan tartans — the earliest systematic published record of setts, recorded as stripe depths in eighths of an inch of cloth. 55 setts transcribed by hand from the first edition; the threadcounts are derived from the eighths, rendered at 8 threads per eighth. As the oldest source it owns the cloth it shares with later records; related tartans that adjusted Logan's counts are noted on each sett.
 
 James Logan's 1831 *Table of Clan Tartans* is the earliest systematic published record of clan setts. Because it is the oldest source, a Logan record **owns** any cloth it shares with later records, and each Logan sett page carries his original stripe table in eighths of an inch with links to the modern tartans that adjusted his counts. See the post [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full story.
 
@@ -59,7 +59,7 @@ The 55 tartans this source attests, each linking to its sett page.
 <li><a class="tartan" href="/variants/s27/db2r8t1r8g36r4db28r2t2r72db2t1r8t1r8t1db1r72t1r2db28r4g36r8t1r8db2~x2/"><img src="/variants/s27/db2r8t1r8g36r4db28r2t2r72db2t1r8t1r8t1db1r72t1r2db28r4g36r8t1r8db2~x2/sett.png" alt="MacGillivray" width="140"><br>MacGillivray</a></li>
 <li><a class="tartan" href="/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/"><img src="/variants/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/sett.png" alt="MacGregor" width="140"><br>MacGregor</a></li>
 <li><a class="tartan" href="/variants/s11/r48db12r5g21r8db1r8g21r5db12r24~x4/"><img src="/variants/s11/r48db12r5g21r8db1r8g21r5db12r24~x4/sett.png" alt="MacIntosh" width="140"><br>MacIntosh</a></li>
-<li><a class="tartan" href="/variants/s13/g6dt28g4k28g28k6g28k6g28k28g4dt28g1~x2/"><img src="/variants/s13/g6dt28g4k28g28k6g28k6g28k28g4dt28g1~x2/sett.png" alt="MacKay" width="140"><br>MacKay</a></li>
+<li><a class="tartan" href="/variants/s13/g6dg28g4k28g28k6g28k6g28k28g4dg28g1~x2/"><img src="/variants/s13/g6dg28g4k28g28k6g28k6g28k28g4dg28g1~x2/sett.png" alt="MacKay" width="140"><br>MacKay</a></li>
 <li><a class="tartan" href="/variants/s33/db14k3db3k3db3k14g14k3w3k3g14k14db14k3r3k14db14k3r3k3db14k14g14k3w3k3g14k14db3k3db3k3db7~x4/"><img src="/variants/s33/db14k3db3k3db3k14g14k3w3k3g14k14db14k3r3k14db14k3r3k3db14k14g14k3w3k3g14k14db3k3db3k3db7~x4/sett.png" alt="MacKenzie" width="140"><br>MacKenzie</a></li>
 <li><a class="tartan" href="/variants/s27/w4r6g4db4r12g32r4db8g4r32g16w4r8w4r8w4g16r32g4db8r4g32r12db4g4r6w1~x2/"><img src="/variants/s27/w4r6g4db4r12g32r4db8g4r32g16w4r8w4r8w4g16r32g4db8r4g32r12db4g4r6w1~x2/sett.png" alt="MacKinnon" width="140"><br>MacKinnon</a></li>
 <li><a class="tartan" href="/variants/s13/r8k2r2k2r2k16db16g3db16k16r16k2r2~x4/"><img src="/variants/s13/r8k2r2k2r2k16db16g3db16k16r16k2r2~x4/sett.png" alt="MacLachlan" width="140"><br>MacLachlan</a></li>

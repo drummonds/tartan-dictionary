@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glen Moy #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n19dy2do3w1do1w1do1dy6n3do1n3w1/)
 (the same proportion at any scale), whose colour order is pattern [BGBWBWBGBBBW](/stripes/bgbwbwbgbbbw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1388
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1388](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1388)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy9n4dy2n4dy2n30dy9n4lb14lo2~x2/"><circle cx="359.2" cy="192.4" r="4" fill="#3465a4"><title>Hanna of Leith (yellow line)</title></circle></a><a href="/variants/s11/n36dr10ly2dr5g2dr5ly10n5ly2n10w2~x2/"><circle cx="366.6" cy="155.1" r="4" fill="#3465a4"><title>Toyokawa Check</title></circle></a><a href="/variants/s11/dy42do10lb2do2ly2do2dy10ly6do2ly3dy2~x2/"><circle cx="455.5" cy="143.9" r="4" fill="#3465a4"><title>Yarrow</title></circle></a><a href="/variants/s10/dg22dr2lr1ly3dr1dg6dr22ly3dr1dg10~x4/"><circle cx="404.1" cy="175.0" r="4" fill="#3465a4"><title>Glendronach Distillery</title></circle></a><a href="/variants/s9/n8y4n35db2lb8db2n4db21n4~x2/"><circle cx="420.3" cy="194.3" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/variants/s8/y52db6lb3db2lb2db2lb16dr3~x2/"><circle cx="431.8" cy="147.5" r="4" fill="#3465a4"><title>Scotch House (Corporate)</title></circle></a><a href="/variants/s11/ly4do37db17do4db8do6r2do5db2do3ly4/"><circle cx="394.6" cy="152.3" r="4" fill="#3465a4"><title>Griffiths (Welsh Name)</title></circle></a><a href="/variants/s11/dy46do6lo3do3w3do3dg10dy8do3dy6w3~x2/"><circle cx="430.9" cy="155.1" r="4" fill="#3465a4"><title>Williams</title></circle></a><a href="/variants/s13/n19do2r1dr3w1dr1w1dr1do6n3dr1do3w1~x4/"><circle cx="335.0" cy="124.1" r="4" fill="#3465a4"><title>Leando Hunting (Personal)</title></circle></a><a href="/variants/s9/dt44y8dt8y22lb4y4lb11y2w2~x2~dt1100000-y2200000/"><circle cx="342.7" cy="169.4" r="4" fill="#3465a4"><title>Titanium</title></circle></a><circle cx="424.0" cy="157.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dy9n4dy2n4dy2n30dy9n4lb14lo2~x2/"><circle cx="359.3" cy="192.7" r="4" fill="#3465a4"><title>Hanna of Leith (yellow line)</title></circle></a><a href="/variants/s11/n36dr10ly2dr5g2dr5ly10n5ly2n10w2~x2/"><circle cx="366.6" cy="155.3" r="4" fill="#3465a4"><title>Toyokawa Check</title></circle></a><a href="/variants/s11/dy42do10lb2do2ly2do2dy10ly6do2ly3dy2~x2/"><circle cx="455.5" cy="144.1" r="4" fill="#3465a4"><title>Yarrow</title></circle></a><a href="/variants/s10/dg22dr2lr1ly3dr1dg6dr22ly3dr1dg10~x4/"><circle cx="404.2" cy="175.2" r="4" fill="#3465a4"><title>Glendronach Distillery</title></circle></a><a href="/variants/s9/n8y4n35db2lb8db2n4db21n4~x2/"><circle cx="420.4" cy="194.5" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/variants/s8/y52db6lb3db2lb2db2lb16dr3~x2/"><circle cx="431.8" cy="147.7" r="4" fill="#3465a4"><title>Scotch House (Corporate)</title></circle></a><a href="/variants/s11/ly4do37db17do4db8do6r2do5db2do3ly4/"><circle cx="394.6" cy="152.5" r="4" fill="#3465a4"><title>Griffiths (Welsh Name)</title></circle></a><a href="/variants/s11/dy46do6lo3do3w3do3dg10dy8do3dy6w3~x2/"><circle cx="430.9" cy="155.2" r="4" fill="#3465a4"><title>Williams</title></circle></a><a href="/variants/s13/n19do2r1dr3w1dr1w1dr1do6n3dr1do3w1~x4/"><circle cx="335.0" cy="124.2" r="4" fill="#3465a4"><title>Leando Hunting (Personal)</title></circle></a><a href="/variants/s9/dt44y8dt8y22lb4y4lb11y2w2~x2~dt1100000-y2200000/"><circle cx="342.7" cy="169.7" r="4" fill="#3465a4"><title>Titanium</title></circle></a><circle cx="424.0" cy="157.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/n19dy2do3w1do1w1do1dy6n3do1n3w1~x4/

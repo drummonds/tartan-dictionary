@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Spirit of Scotland (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dbi96dp8dbi12db3dbi3db3dbi3dg20dp8k3dp14/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBBBGBKB](/stripes/bbbbbbbgbkb/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2451
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2451](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2451)
 
 ## Provenance
 

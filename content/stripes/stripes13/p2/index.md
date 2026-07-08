@@ -1612,13 +1612,6 @@ weight: 13
 |---|---|---|
 | 0.15 | [O'Neill (Personal)](/variants/s13/dg24g2dg4g16dg1lr2dg1g16dg3y1dg12n2dg5~x2/) | tartans-authority |
 
-### GBGKGKGKGKGBG
-<a class="pat" href="/stripes/gbgkgkgkgkgbg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GBGKGKGKGKGBG</span></a>
-
-| ΔT | Tartan | Source |
-|---|---|---|
-| 0.10 | [MacKay](/variants/s13/g6dt28g4k28g28k6g28k6g28k28g4dt28g1~x2/) | logan-1831 |
-
 ### GBGKYWYWYKWBW
 <a class="pat" href="/stripes/gbgkywywykwbw/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">GBGKYWYWYKWBW</span></a>
 
@@ -1772,6 +1765,13 @@ weight: 13
 | ΔT | Tartan | Source |
 |---|---|---|
 | 0.07 | [Ellis Island](/variants/s13/r68k1g6db4g1db12w1g6y1g24y1g2y3~x2/) | register-of-tartans |
+
+### GGGKGKGKGKGGG
+<a class="pat" href="/stripes/gggkgkgkgkggg/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="seq">GGGKGKGKGKGGG</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [MacKay](/variants/s13/g6dg28g4k28g28k6g28k6g28k28g4dg28g1~x2/) | logan-1831 |
 
 ### GGGKGKGKYKGKY
 <a class="pat" href="/stripes/gggkgkgkykgky/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">GGGKGKGKYKGKY</span></a>

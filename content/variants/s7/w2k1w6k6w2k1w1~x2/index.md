@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scott (Abbreviated)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2k1w6k6w2k1w1/)
 (the same proportion at any scale), whose colour order is pattern [WKWKWKW](/stripes/wkwkwkw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3690
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3690](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3690)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n8k3n17k13n6k3n4~x2/"><circle cx="338.9" cy="250.3" r="4" fill="#3465a4"><title>Scott Black and Grey</title></circle></a><a href="/variants/s7/w24k16w1k16w3k8w2~x2/"><circle cx="330.7" cy="177.6" r="4" fill="#3465a4"><title>Saks Fifth Avenue (Corp)</title></circle></a><a href="/variants/s6/w5k4w32k32w5k4~x2/"><circle cx="288.0" cy="215.1" r="4" fill="#3465a4"><title>Valley Forge (Artefact)</title></circle></a><a href="/variants/s6/n6k17n6k17n45k4~x2/"><circle cx="356.5" cy="209.1" r="4" fill="#3465a4"><title>Grey Spirit (Fashion)</title></circle></a><a href="/variants/s7/w5r3w35k28w4k11w2~x2/"><circle cx="287.6" cy="163.5" r="4" fill="#3465a4"><title>MacPherson of Cluny (Black and White)</title></circle></a><a href="/variants/s6/n6k16n6k16n45k4~x2/"><circle cx="363.8" cy="207.6" r="4" fill="#3465a4"><title>Grey Spirit Fashion Tartan</title></circle></a><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="270.6" cy="176.4" r="4" fill="#3465a4"><title>Forbes Dress (Clans Originaux)</title></circle></a><a href="/variants/s7/w4k4w21k12w4k12ly4/"><circle cx="205.1" cy="232.9" r="4" fill="#3465a4"><title>Mazda</title></circle></a><a href="/variants/s6/k2w1k9w9k1w2~x6/"><circle cx="284.3" cy="215.6" r="4" fill="#3465a4"><title>Erskine (Black and White)</title></circle></a><a href="/variants/s6/k2w1k9w9k1w2~x3/"><circle cx="284.3" cy="215.6" r="4" fill="#3465a4"><title>Erskine BW MINI Design Tartan</title></circle></a><circle cx="288.2" cy="232.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n8k3n17k13n6k3n4~x2/"><circle cx="339.0" cy="251.1" r="4" fill="#3465a4"><title>Scott Black and Grey</title></circle></a><a href="/variants/s7/w24k16w1k16w3k8w2~x2/"><circle cx="330.8" cy="178.2" r="4" fill="#3465a4"><title>Saks Fifth Avenue (Corp)</title></circle></a><a href="/variants/s6/w5k4w32k32w5k4~x2/"><circle cx="288.1" cy="215.8" r="4" fill="#3465a4"><title>Valley Forge (Artefact)</title></circle></a><a href="/variants/s6/n6k17n6k17n45k4~x2/"><circle cx="356.6" cy="209.7" r="4" fill="#3465a4"><title>Grey Spirit (Fashion)</title></circle></a><a href="/variants/s7/w5r3w35k28w4k11w2~x2/"><circle cx="287.7" cy="164.0" r="4" fill="#3465a4"><title>MacPherson of Cluny (Black and White)</title></circle></a><a href="/variants/s6/n6k16n6k16n45k4~x2/"><circle cx="363.9" cy="208.2" r="4" fill="#3465a4"><title>Grey Spirit Fashion Tartan</title></circle></a><a href="/variants/s7/w6t3w20k2w3k25w3~x2/"><circle cx="270.7" cy="177.0" r="4" fill="#3465a4"><title>Forbes Dress (Clans Originaux)</title></circle></a><a href="/variants/s7/w4k4w21k12w4k12ly4/"><circle cx="205.3" cy="233.7" r="4" fill="#3465a4"><title>Mazda</title></circle></a><a href="/variants/s6/k2w1k9w9k1w2~x6/"><circle cx="284.4" cy="216.4" r="4" fill="#3465a4"><title>Erskine (Black and White)</title></circle></a><a href="/variants/s6/k2w1k9w9k1w2~x3/"><circle cx="284.4" cy="216.4" r="4" fill="#3465a4"><title>Erskine BW MINI Design Tartan</title></circle></a><circle cx="288.4" cy="233.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w2k1w6k6w2k1w1~x2/

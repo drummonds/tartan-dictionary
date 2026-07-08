@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Lister"
   url: "/tartans/lister/"
+- name: "Lister (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy8n29dy8ly3dy8n8ly3/)
 (the same proportion at any scale), whose colour order is pattern [GBGYGBY](/stripes/gbgygby/).
@@ -14,7 +16,7 @@ Part of the [Lister](/tartans/lister/) tartan — the named design grouping this
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10650
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10650](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10650)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dy8n29dy8y3dy8n8y3~x2/"><circle cx="498.2" cy="284.9" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/variants/s5/do2n10o15do10n2~x4/"><circle cx="365.2" cy="311.8" r="4" fill="#3465a4"><title>Harmony 8</title></circle></a><a href="/variants/s8/db5n15dy4n4dy24n4dy4db5/"><circle cx="424.5" cy="292.2" r="4" fill="#3465a4"><title>Daks-Simpson (Muted Skye)</title></circle></a><a href="/variants/s10/dr3n30g8dr2g2dr2g2dr8n7dr2~x2/"><circle cx="476.3" cy="215.7" r="4" fill="#3465a4"><title>Gray Family Tartan</title></circle></a><a href="/variants/s5/n57w5g20n5y10/"><circle cx="499.9" cy="258.2" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s8/db5n15o4n4o24n4o4db5/"><circle cx="391.5" cy="272.8" r="4" fill="#3465a4"><title>Daks, (Muted Skye)</title></circle></a><a href="/variants/s6/n3dg1n10dg4dy10n2~x4/"><circle cx="470.6" cy="308.3" r="4" fill="#3465a4"><title>Rob Roy (Film) (Corporate)</title></circle></a><a href="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/"><circle cx="438.7" cy="218.4" r="4" fill="#3465a4"><title>Wicklow, County (District)</title></circle></a><a href="/variants/s6/dy6n2dy29n29dy2n6~x2/"><circle cx="545.6" cy="283.4" r="4" fill="#3465a4"><title>Harmony 12 #2</title></circle></a><a href="/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/"><circle cx="485.0" cy="296.3" r="4" fill="#3465a4"><title>Twisted Kilt Society</title></circle></a><circle cx="471.4" cy="277.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dy8n29dy8y3dy8n8y3~x2/"><circle cx="498.4" cy="285.2" r="4" fill="#3465a4"><title>Lister (Misty Mountain)</title></circle></a><a href="/variants/s5/do2n10o15do10n2~x4/"><circle cx="365.5" cy="312.3" r="4" fill="#3465a4"><title>Harmony 8</title></circle></a><a href="/variants/s8/db5n15dy4n4dy24n4dy4db5/"><circle cx="424.6" cy="292.5" r="4" fill="#3465a4"><title>Daks-Simpson (Muted Skye)</title></circle></a><a href="/variants/s10/dr3n30g8dr2g2dr2g2dr8n7dr2~x2/"><circle cx="476.4" cy="215.9" r="4" fill="#3465a4"><title>Gray Family Tartan</title></circle></a><a href="/variants/s5/n57w5g20n5y10/"><circle cx="500.1" cy="258.5" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s8/db5n15o4n4o24n4o4db5/"><circle cx="391.7" cy="273.2" r="4" fill="#3465a4"><title>Daks, (Muted Skye)</title></circle></a><a href="/variants/s6/n3dg1n10dg4dy10n2~x4/"><circle cx="470.8" cy="308.6" r="4" fill="#3465a4"><title>Rob Roy (Film) (Corporate)</title></circle></a><a href="/variants/s10/do1n2g6n1do3lb1n12do1n1g1~x4/"><circle cx="438.8" cy="218.6" r="4" fill="#3465a4"><title>Wicklow, County (District)</title></circle></a><a href="/variants/s6/dy6n2dy29n29dy2n6~x2/"><circle cx="545.8" cy="283.7" r="4" fill="#3465a4"><title>Harmony 12 #2</title></circle></a><a href="/variants/s10/dg7n3dg1n2dg1n3dg6n1dy1n2~x8/"><circle cx="485.2" cy="296.6" r="4" fill="#3465a4"><title>Twisted Kilt Society</title></circle></a><circle cx="471.6" cy="278.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dy8n29dy8ly3dy8n8ly3~x2~dy1603076-ly3307090/

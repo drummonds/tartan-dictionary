@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Boswell (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b9r2b2db12b2r2b12w1b15y2/)
 (the same proportion at any scale), whose colour order is pattern [BRBBBRBWBG](/stripes/brbbbrbwbg/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8091
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8091](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8091)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/b12r4db4b42r6b6db11b6dg19b8r4b6db6/"><circle cx="358.1" cy="187.3" r="4" fill="#3465a4"><title>Bermuda, Blue</title></circle></a><a href="/variants/s9/db60r5db60t40db36r10db36t40w5/"><circle cx="382.5" cy="223.4" r="4" fill="#3465a4"><title>Brash</title></circle></a><a href="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/"><circle cx="391.0" cy="176.5" r="4" fill="#3465a4"><title>Eidart</title></circle></a><circle cx="421.4" cy="180.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/b12r4db4b42r6b6db11b6dg19b8r4b6db6/"><circle cx="358.1" cy="187.5" r="4" fill="#3465a4"><title>Bermuda, Blue</title></circle></a><a href="/variants/s9/db60r5db60t40db36r10db36t40w5/"><circle cx="382.6" cy="223.8" r="4" fill="#3465a4"><title>Brash</title></circle></a><a href="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/"><circle cx="391.0" cy="176.8" r="4" fill="#3465a4"><title>Eidart</title></circle></a><circle cx="421.5" cy="180.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/b9r2b2db12b2r2b12w1b15y2~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Saskatchewan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y2b1r2b26o11dg6k1w2/)
 (the same proportion at any scale), whose colour order is pattern [GBRBRGKW](/stripes/gbrbrgkw/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y1db2y1db12k1g6dp3w1~x4/"><circle cx="226.8" cy="139.8" r="4" fill="#3465a4"><title>Lambert, Patrice (Personal)</title></circle></a><a href="/variants/s8/n18k3g3r2w3db36k2y6~x2/"><circle cx="220.9" cy="100.8" r="4" fill="#3465a4"><title>M'Kleod</title></circle></a><a href="/variants/s10/n73k9ly3k5n13w3lb7k5w7r16~n2303265/"><circle cx="222.0" cy="64.5" r="4" fill="#3465a4"><title>Ambulance Victoria (Corporate)</title></circle></a><a href="/variants/s8/r3w6r2dg32db36k2db4y2~x2/"><circle cx="241.8" cy="118.5" r="4" fill="#3465a4"><title>Canadian Centennial</title></circle></a><a href="/variants/s9/lb4dr2lb7n30lb8n7r5k1w2~x2/"><circle cx="315.4" cy="100.0" r="4" fill="#3465a4"><title>Hebridean Fire</title></circle></a><a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db1204274-dbi1406275/"><circle cx="284.1" cy="57.3" r="4" fill="#3465a4"><title>Allison Family Tartan</title></circle></a><a href="/variants/s10/g2k1r5w7r1db10w1db10t30y1~x2/"><circle cx="192.2" cy="71.3" r="4" fill="#3465a4"><title>Festival Intercltico de Avils (Coror</title></circle></a><a href="/variants/s8/r3w6r2g32db36k2db4y2~x2/"><circle cx="218.8" cy="114.4" r="4" fill="#3465a4"><title>Canadian Centennial</title></circle></a><a href="/variants/s7/r8y2b7y2db24k2g1~x2/"><circle cx="266.4" cy="112.2" r="4" fill="#3465a4"><title>(4) Traill</title></circle></a><a href="/variants/s11/k8t1o1ki10o16lb2k3n33t1n3w2~x2~k0700000-t2405244-o2500000-ki0803038-lb3200000-n1900000/"><circle cx="231.1" cy="71.2" r="4" fill="#3465a4"><title>Oban Mist</title></circle></a><circle cx="272.2" cy="90.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/y1db2y1db12k1g6dp3w1~x4/"><circle cx="226.7" cy="140.0" r="4" fill="#3465a4"><title>Lambert, Patrice (Personal)</title></circle></a><a href="/variants/s8/n18k3g3r2w3db36k2y6~x2/"><circle cx="220.8" cy="100.9" r="4" fill="#3465a4"><title>M'Kleod</title></circle></a><a href="/variants/s10/n73k9ly3k5n13w3lb7k5w7r16~n2303265/"><circle cx="221.9" cy="64.5" r="4" fill="#3465a4"><title>Ambulance Victoria (Corporate)</title></circle></a><a href="/variants/s8/r3w6r2dg32db36k2db4y2~x2/"><circle cx="241.8" cy="118.6" r="4" fill="#3465a4"><title>Canadian Centennial</title></circle></a><a href="/variants/s9/lb4dr2lb7n30lb8n7r5k1w2~x2/"><circle cx="315.4" cy="100.1" r="4" fill="#3465a4"><title>Hebridean Fire</title></circle></a><a href="/variants/s11/db64y3g12k3g12w3db15dbi4r21db3y2~db1204274-dbi1406275/"><circle cx="283.9" cy="57.3" r="4" fill="#3465a4"><title>Allison Family Tartan</title></circle></a><a href="/variants/s10/g2k1r5w7r1db10w1db10t30y1~x2/"><circle cx="192.0" cy="71.4" r="4" fill="#3465a4"><title>Festival Intercltico de Avils (Coror</title></circle></a><a href="/variants/s8/r3w6r2g32db36k2db4y2~x2/"><circle cx="218.7" cy="114.6" r="4" fill="#3465a4"><title>Canadian Centennial</title></circle></a><a href="/variants/s7/r8y2b7y2db24k2g1~x2/"><circle cx="266.3" cy="112.3" r="4" fill="#3465a4"><title>(4) Traill</title></circle></a><a href="/variants/s11/k8t1o1ki10o16lb2k3n33t1n3w2~x2~k0700000-t2405244-o2500000-ki0803038-lb3200000-n1900000/"><circle cx="231.0" cy="71.1" r="4" fill="#3465a4"><title>Oban Mist</title></circle></a><circle cx="272.1" cy="90.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/y2b1r2b26o11dg6k1w2~x2/

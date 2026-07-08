@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Recycled Lamb, The"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7y1/)
 (the same proportion at any scale), whose colour order is pattern [GGRBRBRWRBRGRG](/stripes/ggrbrbrwrbrgrg/).
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10837
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10837](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10837)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g15r1g8dr3dp1dr3w1dr3dp1dr3dp12r1g7y1~x2/"><circle cx="247.2" cy="131.4" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><a href="/variants/s12/b3r4g3dp3r11g30r3dp7g3b2r4w2~x2/"><circle cx="263.8" cy="134.3" r="4" fill="#3465a4"><title>MacKinnon 1</title></circle></a><a href="/variants/s14/g11r6db6o2g3o2db6r6g36y2o2y2db5r5~x2/"><circle cx="300.4" cy="126.1" r="4" fill="#3465a4"><title>Westmeath</title></circle></a><a href="/variants/s12/r3ri4g3dp3ri11g30ri3dp7g3r2ri4w2~x2~r2208029-ri2209032/"><circle cx="264.8" cy="132.3" r="4" fill="#3465a4"><title>MacKinnon #7</title></circle></a><a href="/variants/s11/o16db8n2o2db2o2r1g4dg4o4w2~x4/"><circle cx="236.3" cy="124.9" r="4" fill="#3465a4"><title>Scottish H &amp; I Film Com (Corporate)</title></circle></a><a href="/variants/s13/r4db5r4db5g8y2g24w2g8db5r4db5r4~x2/"><circle cx="235.1" cy="161.0" r="4" fill="#3465a4"><title>Clackson Hunting (Personal)</title></circle></a><a href="/variants/s16/w2o14g7o1db7o1db7o1g7o14r2o14g7o1db7o1~x4/"><circle cx="260.9" cy="158.4" r="4" fill="#3465a4"><title>Fraser, hunting</title></circle></a><a href="/variants/s14/db5w5n36y3n3r3n3y3n9dg8w3db3w3dg3~x2/"><circle cx="285.7" cy="121.6" r="4" fill="#3465a4"><title>Freiburg</title></circle></a><a href="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/"><circle cx="244.2" cy="149.7" r="4" fill="#3465a4"><title>Dorcas (Fashion)</title></circle></a><a href="/variants/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/"><circle cx="233.0" cy="163.5" r="4" fill="#3465a4"><title>Hynde</title></circle></a><circle cx="256.0" cy="124.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g15r1g8dr3dp1dr3w1dr3dp1dr3dp12r1g7y1~x2/"><circle cx="247.1" cy="131.6" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><a href="/variants/s12/b3r4g3dp3r11g30r3dp7g3b2r4w2~x2/"><circle cx="263.8" cy="134.5" r="4" fill="#3465a4"><title>MacKinnon 1</title></circle></a><a href="/variants/s14/g11r6db6o2g3o2db6r6g36y2o2y2db5r5~x2/"><circle cx="300.4" cy="126.3" r="4" fill="#3465a4"><title>Westmeath</title></circle></a><a href="/variants/s12/r3ri4g3dp3ri11g30ri3dp7g3r2ri4w2~x2~r2208029-ri2209032/"><circle cx="264.8" cy="132.6" r="4" fill="#3465a4"><title>MacKinnon #7</title></circle></a><a href="/variants/s11/o16db8n2o2db2o2r1g4dg4o4w2~x4/"><circle cx="236.2" cy="125.1" r="4" fill="#3465a4"><title>Scottish H &amp; I Film Com (Corporate)</title></circle></a><a href="/variants/s13/r4db5r4db5g8y2g24w2g8db5r4db5r4~x2/"><circle cx="235.1" cy="161.3" r="4" fill="#3465a4"><title>Clackson Hunting (Personal)</title></circle></a><a href="/variants/s16/w2o14g7o1db7o1db7o1g7o14r2o14g7o1db7o1~x4/"><circle cx="260.9" cy="158.6" r="4" fill="#3465a4"><title>Fraser, hunting</title></circle></a><a href="/variants/s14/db5w5n36y3n3r3n3y3n9dg8w3db3w3dg3~x2/"><circle cx="285.6" cy="121.7" r="4" fill="#3465a4"><title>Freiburg</title></circle></a><a href="/variants/s12/dr4g20db2g2db2g3db6o26w3o2w2o4~x2/"><circle cx="244.2" cy="150.0" r="4" fill="#3465a4"><title>Dorcas (Fashion)</title></circle></a><a href="/variants/s11/g14r1g14r7w1r7w1r7db5dp3w1~x4/"><circle cx="233.0" cy="163.9" r="4" fill="#3465a4"><title>Hynde</title></circle></a><circle cx="256.0" cy="125.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7y1~x2~r2109032/

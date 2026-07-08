@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Priest"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1y1dp7k8y1k8y1dp2y1k4y1/)
 (the same proportion at any scale), whose colour order is pattern [GKGBGKGKBGK](/stripes/gkgbgkgkbgk/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3383
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3383](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3383)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k1lb1lp7k8lb1k8lb1lp2lb1k4lb1~x4/"><circle cx="269.2" cy="176.6" r="4" fill="#3465a4"><title>Clark (Crook)</title></circle></a><a href="/variants/s11/k1b1dg7k8b1k8b1dg2b1k4b1~x4/"><circle cx="306.0" cy="188.3" r="4" fill="#3465a4"><title>Clergy, or Priest</title></circle></a><a href="/variants/s7/k14dp2k4lb3k12dp8k1~x2/"><circle cx="379.7" cy="184.6" r="4" fill="#3465a4"><title>Punky Princess</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="289.5" cy="185.4" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/variants/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/"><circle cx="339.5" cy="208.5" r="4" fill="#3465a4"><title>MacLoughlin of Ardmarnoch (Personal)</title></circle></a><a href="/variants/s11/k4r3k13dp10k3dp5k3dp5k13dp25ly4~x2/"><circle cx="253.6" cy="173.1" r="4" fill="#3465a4"><title>Caledonian Orient (Corporate)</title></circle></a><a href="/variants/s7/k39n3k3n3k14n28r3~x2/"><circle cx="335.7" cy="168.3" r="4" fill="#3465a4"><title>Moffat (1984)</title></circle></a><a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x4/"><circle cx="267.6" cy="175.0" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x2/"><circle cx="267.6" cy="175.0" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s9/n14k19n14k6n14k6n14k47n6/"><circle cx="309.2" cy="217.1" r="4" fill="#3465a4"><title>Grey Breton</title></circle></a><circle cx="306.5" cy="182.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k1lb1lp7k8lb1k8lb1lp2lb1k4lb1~x4/"><circle cx="269.3" cy="177.1" r="4" fill="#3465a4"><title>Clark (Crook)</title></circle></a><a href="/variants/s11/k1b1dg7k8b1k8b1dg2b1k4b1~x4/"><circle cx="306.0" cy="188.7" r="4" fill="#3465a4"><title>Clergy, or Priest</title></circle></a><a href="/variants/s7/k14dp2k4lb3k12dp8k1~x2/"><circle cx="379.7" cy="185.1" r="4" fill="#3465a4"><title>Punky Princess</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="289.5" cy="185.9" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/variants/s11/dg5k2dg2k2dg2k12r2k12dg6k2dg2~x2/"><circle cx="339.5" cy="208.9" r="4" fill="#3465a4"><title>MacLoughlin of Ardmarnoch (Personal)</title></circle></a><a href="/variants/s11/k4r3k13dp10k3dp5k3dp5k13dp25ly4~x2/"><circle cx="253.6" cy="173.5" r="4" fill="#3465a4"><title>Caledonian Orient (Corporate)</title></circle></a><a href="/variants/s7/k39n3k3n3k14n28r3~x2/"><circle cx="335.7" cy="168.7" r="4" fill="#3465a4"><title>Moffat (1984)</title></circle></a><a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x4/"><circle cx="267.7" cy="175.5" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x2/"><circle cx="267.7" cy="175.5" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s9/n14k19n14k6n14k6n14k47n6/"><circle cx="309.3" cy="217.7" r="4" fill="#3465a4"><title>Grey Breton</title></circle></a><circle cx="306.5" cy="182.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k1y1dp7k8y1k8y1dp2y1k4y1~x4/

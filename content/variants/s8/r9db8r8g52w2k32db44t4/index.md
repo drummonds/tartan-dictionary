@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Wedding (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r9db8r8g52w2k32db44t4/)
 (the same proportion at any scale), whose colour order is pattern [BBKWGRBR](/stripes/bbkwgrbr/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8954
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8954](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8954)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k2w2k8y8db24g13k3dr1~x2/"><circle cx="154.5" cy="118.2" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/variants/s8/k2w2k8ly8db24g13k3dr1~x2/"><circle cx="141.0" cy="114.3" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/variants/s9/g22y2g4dp3g4k20db20k1w3~x2/"><circle cx="142.3" cy="115.6" r="4" fill="#3465a4"><title>National Wedding</title></circle></a><a href="/variants/s8/dp3n3dp3n27w1t15k22r3~x2/"><circle cx="168.8" cy="107.8" r="4" fill="#3465a4"><title>Beauly Firth and Glens</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142/"><circle cx="180.5" cy="133.1" r="4" fill="#3465a4"><title>Jones (Name)</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/"><circle cx="184.3" cy="133.7" r="4" fill="#3465a4"><title>Jones</title></circle></a><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/"><circle cx="184.6" cy="115.2" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/variants/s10/g4lb3g18k14y2k2dp18ly1dp2ly3~x2~y2203076-ly2705081/"><circle cx="117.5" cy="114.6" r="4" fill="#3465a4"><title>Caisteal Leòdhais</title></circle></a><a href="/variants/s9/db11k6g25r1ly2y1db25k5ly7~x2/"><circle cx="177.1" cy="110.6" r="4" fill="#3465a4"><title>Army Ranger</title></circle></a><a href="/variants/s8/dp8n44k32lp2o53lb8n8lb4~n1900000-o2500000/"><circle cx="154.7" cy="119.7" r="4" fill="#3465a4"><title>Silver Wedding (Fashion)</title></circle></a><circle cx="138.1" cy="120.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k2w2k8y8db24g13k3dr1~x2/"><circle cx="154.4" cy="118.4" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/variants/s8/k2w2k8ly8db24g13k3dr1~x2/"><circle cx="140.9" cy="114.5" r="4" fill="#3465a4"><title>Froben, Christian (Personal)</title></circle></a><a href="/variants/s9/g22y2g4dp3g4k20db20k1w3~x2/"><circle cx="142.2" cy="115.9" r="4" fill="#3465a4"><title>National Wedding</title></circle></a><a href="/variants/s8/dp3n3dp3n27w1t15k22r3~x2/"><circle cx="168.7" cy="108.0" r="4" fill="#3465a4"><title>Beauly Firth and Glens</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142/"><circle cx="180.4" cy="133.3" r="4" fill="#3465a4"><title>Jones (Name)</title></circle></a><a href="/variants/s7/r4lb1g6dg25k8db15lb2~x2~g1903114-dg1806142-db1406275/"><circle cx="184.2" cy="133.9" r="4" fill="#3465a4"><title>Jones</title></circle></a><a href="/variants/s8/lo3k2n15k10dt23r2dt1w2~x2/"><circle cx="184.5" cy="115.3" r="4" fill="#3465a4"><title>Vienna Highlander (Fashion)</title></circle></a><a href="/variants/s10/g4lb3g18k14y2k2dp18ly1dp2ly3~x2~y2203076-ly2705081/"><circle cx="117.4" cy="114.8" r="4" fill="#3465a4"><title>Caisteal Leòdhais</title></circle></a><a href="/variants/s9/db11k6g25r1ly2y1db25k5ly7~x2/"><circle cx="177.0" cy="110.8" r="4" fill="#3465a4"><title>Army Ranger</title></circle></a><a href="/variants/s8/dp8n44k32lp2o53lb8n8lb4~n1900000-o2500000/"><circle cx="154.6" cy="119.9" r="4" fill="#3465a4"><title>Silver Wedding (Fashion)</title></circle></a><circle cx="138.0" cy="120.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r9db8r8g52w2k32db44t4/

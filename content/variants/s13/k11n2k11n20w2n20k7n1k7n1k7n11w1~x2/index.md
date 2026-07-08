@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Westwood MacRock (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k11n2k11n20w2n20k7n1k7n1k7n11w1/)
 (the same proportion at any scale), whose colour order is pattern [KBKBWBKBKBKBW](/stripes/kbkbwbkbkbkbw/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7487
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7487](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7487)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12~n1900000-o2500000/"><circle cx="247.3" cy="147.2" r="4" fill="#3465a4"><title>CBS (Corporate)</title></circle></a><a href="/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/"><circle cx="338.7" cy="196.6" r="4" fill="#3465a4"><title>Grey Spirit</title></circle></a><a href="/variants/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/"><circle cx="275.4" cy="125.5" r="4" fill="#3465a4"><title>Drummond (Grey)</title></circle></a><a href="/variants/s11/k8n2k2n2k14n2k2n1k14n26k2~x2/"><circle cx="355.5" cy="132.2" r="4" fill="#3465a4"><title>Grey Pride of Scotland (Fashion)</title></circle></a><a href="/variants/s14/k5w3k3lb10w3k3w2k6w1k15w3k3w2k5~x2/"><circle cx="267.9" cy="145.5" r="4" fill="#3465a4"><title>Drummond, Grey (Clans Originaux)</title></circle></a><a href="/variants/s9/k80n4k44n50k36n4y12k12y45/"><circle cx="302.8" cy="165.0" r="4" fill="#3465a4"><title>Melange</title></circle></a><a href="/variants/s10/k4w14k2w4k8w3k30w2k4w4~x2/"><circle cx="356.0" cy="157.4" r="4" fill="#3465a4"><title>Kinloch Anderson Black and White</title></circle></a><a href="/variants/s7/n5r3n35k28n4k11n2~x2/"><circle cx="314.2" cy="166.2" r="4" fill="#3465a4"><title>Korner-Macpherson (Personal)</title></circle></a><a href="/variants/s13/w1y2k8dp6k15y1k1w1k15dp5w8y1w1~x2/"><circle cx="256.6" cy="120.4" r="4" fill="#3465a4"><title>Freger</title></circle></a><a href="/variants/s9/w6k1w2k4w4k2w4k15r1~x2/"><circle cx="281.4" cy="153.5" r="4" fill="#3465a4"><title>Menzies Dress Tartan</title></circle></a><circle cx="295.5" cy="148.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db18n16o11n20k7n7k11n7k7n35k52n71o7k7o12~n1900000-o2500000/"><circle cx="247.2" cy="147.5" r="4" fill="#3465a4"><title>CBS (Corporate)</title></circle></a><a href="/variants/s10/n45k17n6k17n6k17n6k17n45k4~x2/"><circle cx="338.7" cy="197.2" r="4" fill="#3465a4"><title>Grey Spirit</title></circle></a><a href="/variants/s14/k4lb2k2n14lb2k2lb2k4n2k16lb2k2lb1k4~x2/"><circle cx="275.3" cy="125.8" r="4" fill="#3465a4"><title>Drummond (Grey)</title></circle></a><a href="/variants/s11/k8n2k2n2k14n2k2n1k14n26k2~x2/"><circle cx="355.4" cy="132.5" r="4" fill="#3465a4"><title>Grey Pride of Scotland (Fashion)</title></circle></a><a href="/variants/s14/k5w3k3lb10w3k3w2k6w1k15w3k3w2k5~x2/"><circle cx="267.9" cy="146.0" r="4" fill="#3465a4"><title>Drummond, Grey (Clans Originaux)</title></circle></a><a href="/variants/s9/k80n4k44n50k36n4y12k12y45/"><circle cx="302.8" cy="165.5" r="4" fill="#3465a4"><title>Melange</title></circle></a><a href="/variants/s10/k4w14k2w4k8w3k30w2k4w4~x2/"><circle cx="356.0" cy="157.9" r="4" fill="#3465a4"><title>Kinloch Anderson Black and White</title></circle></a><a href="/variants/s7/n5r3n35k28n4k11n2~x2/"><circle cx="314.2" cy="166.7" r="4" fill="#3465a4"><title>Korner-Macpherson (Personal)</title></circle></a><a href="/variants/s13/w1y2k8dp6k15y1k1w1k15dp5w8y1w1~x2/"><circle cx="256.5" cy="120.7" r="4" fill="#3465a4"><title>Freger</title></circle></a><a href="/variants/s9/w6k1w2k4w4k2w4k15r1~x2/"><circle cx="281.3" cy="154.0" r="4" fill="#3465a4"><title>Menzies Dress Tartan</title></circle></a><circle cx="295.5" cy="149.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/k11n2k11n20w2n20k7n1k7n1k7n11w1~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Robberstad"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r60b15r4db10w2db10w2db10r4/)
 (the same proportion at any scale), whose colour order is pattern [RBRBWBWBR](/stripes/rbrbwbwbr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4938
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4938](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4938)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r60db8r4k11w2k11w2k11db1r4~x2~db0906265-k0503265/"><circle cx="358.1" cy="57.4" r="4" fill="#3465a4"><title>Robberstad #2</title></circle></a><a href="/variants/s10/r6y1r24g6db2k1db2k1db12r1~x2/"><circle cx="305.5" cy="95.5" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/variants/s7/r50db14w6db9y3db4r4~x2/"><circle cx="362.3" cy="143.8" r="4" fill="#3465a4"><title>Texas Lone Star</title></circle></a><a href="/variants/s7/r50db14w6db9ly3db4r4~x2/"><circle cx="358.6" cy="142.8" r="4" fill="#3465a4"><title>Texas Lone Star (Fashion)</title></circle></a><a href="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/"><circle cx="332.2" cy="164.2" r="4" fill="#3465a4"><title>New Breckon (Fashion?)</title></circle></a><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="375.5" cy="124.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s9/db2r21db1w4db7w2db2w2r2~x2/"><circle cx="329.2" cy="138.2" r="4" fill="#3465a4"><title>31, Tartan (The.. )</title></circle></a><a href="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/"><circle cx="351.2" cy="146.0" r="4" fill="#3465a4"><title>American</title></circle></a><a href="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2~x2/"><circle cx="364.3" cy="97.9" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2/"><circle cx="364.3" cy="97.9" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><circle cx="371.8" cy="111.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r60db8r4k11w2k11w2k11db1r4~x2~db0906265-k0503265/"><circle cx="358.0" cy="57.6" r="4" fill="#3465a4"><title>Robberstad #2</title></circle></a><a href="/variants/s10/r6y1r24g6db2k1db2k1db12r1~x2/"><circle cx="305.5" cy="95.7" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/variants/s7/r50db14w6db9y3db4r4~x2/"><circle cx="362.4" cy="144.2" r="4" fill="#3465a4"><title>Texas Lone Star</title></circle></a><a href="/variants/s7/r50db14w6db9ly3db4r4~x2/"><circle cx="358.6" cy="143.2" r="4" fill="#3465a4"><title>Texas Lone Star (Fashion)</title></circle></a><a href="/variants/s9/db6ly2db27r27ly2r2ly2r2db4~x2/"><circle cx="332.2" cy="164.6" r="4" fill="#3465a4"><title>New Breckon (Fashion?)</title></circle></a><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="375.5" cy="124.9" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s9/db2r21db1w4db7w2db2w2r2~x2/"><circle cx="329.2" cy="138.6" r="4" fill="#3465a4"><title>31, Tartan (The.. )</title></circle></a><a href="/variants/s9/r2w2b2w2b7w4b1r21b2~x4/"><circle cx="351.3" cy="146.4" r="4" fill="#3465a4"><title>American</title></circle></a><a href="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2~x2/"><circle cx="364.2" cy="98.1" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/variants/s13/r4lb1db1r32lb2r2db12r2g16r4lb1r4db2/"><circle cx="364.2" cy="98.1" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><circle cx="371.8" cy="111.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r60b15r4db10w2db10w2db10r4~x2/

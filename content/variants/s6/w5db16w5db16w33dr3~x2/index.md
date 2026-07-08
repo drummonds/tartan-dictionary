@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Buchanan Dress"
   url: "/tartans/buchanan-dress-2/"
+- name: "Buchanan Dress Blue (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w5db16w5db16w33dr3/)
 (the same proportion at any scale), whose colour order is pattern [BWBWBW](/stripes/bwbwbw/).
@@ -14,7 +16,7 @@ Part of the [Buchanan Dress](/tartans/buchanan-dress-2/) tartan — the named de
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=424
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=424](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=424)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w5db16w5db16w33r3~x2/"><circle cx="306.6" cy="221.0" r="4" fill="#3465a4"><title>Buchanan Dress, Blue (Dance)</title></circle></a><a href="/variants/s7/w5r3w26db21w3db8y3~x2/"><circle cx="251.3" cy="202.2" r="4" fill="#3465a4"><title>MacPherson, Blue &amp; White</title></circle></a><a href="/variants/s6/w7db16w20db3w3y3~x2/"><circle cx="317.6" cy="254.0" r="4" fill="#3465a4"><title>Unidentified (Shirt)</title></circle></a><a href="/variants/s6/db1w1db5w5db1w1~x8/"><circle cx="333.1" cy="291.0" r="4" fill="#3465a4"><title>Erskine Blanket</title></circle></a><a href="/variants/s6/db6w2db29w29db2w6~x2/"><circle cx="375.9" cy="239.3" r="4" fill="#3465a4"><title>Erskine Blue (Dance)</title></circle></a><a href="/variants/s6/db3w16db4w3db12w2~x3/"><circle cx="354.8" cy="273.9" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/variants/s5/w32dr12db12w2db3~x2/"><circle cx="342.6" cy="228.1" r="4" fill="#3465a4"><title>Fraser Arisaid Red (Dance)</title></circle></a><a href="/variants/s5/db2w2dr8db8w1~x2/"><circle cx="309.0" cy="272.4" r="4" fill="#3465a4"><title>Laval (Tartan de..) District Tartan</title></circle></a><a href="/variants/s4/db4w35db31w4~x2/"><circle cx="366.8" cy="287.4" r="4" fill="#3465a4"><title>Lewis, Navy (Dance)</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="439.8" cy="223.1" r="4" fill="#3465a4"><title>Ikelman #1 (Personal)</title></circle></a><circle cx="346.3" cy="248.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w5db16w5db16w33r3~x2/"><circle cx="306.8" cy="221.7" r="4" fill="#3465a4"><title>Buchanan Dress, Blue (Dance)</title></circle></a><a href="/variants/s7/w5r3w26db21w3db8y3~x2/"><circle cx="251.4" cy="202.8" r="4" fill="#3465a4"><title>MacPherson, Blue &amp; White</title></circle></a><a href="/variants/s6/w7db16w20db3w3y3~x2/"><circle cx="317.8" cy="254.8" r="4" fill="#3465a4"><title>Unidentified (Shirt)</title></circle></a><a href="/variants/s6/db1w1db5w5db1w1~x8/"><circle cx="333.3" cy="291.8" r="4" fill="#3465a4"><title>Erskine Blanket</title></circle></a><a href="/variants/s6/db6w2db29w29db2w6~x2/"><circle cx="376.0" cy="239.9" r="4" fill="#3465a4"><title>Erskine Blue (Dance)</title></circle></a><a href="/variants/s6/db3w16db4w3db12w2~x3/"><circle cx="355.0" cy="274.7" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/variants/s5/w32dr12db12w2db3~x2/"><circle cx="342.8" cy="228.8" r="4" fill="#3465a4"><title>Fraser Arisaid Red (Dance)</title></circle></a><a href="/variants/s5/db2w2dr8db8w1~x2/"><circle cx="309.2" cy="273.1" r="4" fill="#3465a4"><title>Laval (Tartan de..) District Tartan</title></circle></a><a href="/variants/s4/db4w35db31w4~x2/"><circle cx="367.0" cy="288.3" r="4" fill="#3465a4"><title>Lewis, Navy (Dance)</title></circle></a><a href="/variants/s6/w8db16w2db2w1db1~x4/"><circle cx="439.9" cy="223.6" r="4" fill="#3465a4"><title>Ikelman #1 (Personal)</title></circle></a><circle cx="346.4" cy="248.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w5db16w5db16w33dr3~x2/

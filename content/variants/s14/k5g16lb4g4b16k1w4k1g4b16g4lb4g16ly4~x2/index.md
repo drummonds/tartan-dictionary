@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified (Callander 2009)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k5g16lb4g4b16k1w4k1g4b16g4lb4g16ly4/)
 (the same proportion at any scale), whose colour order is pattern [KGWGBKWKGBGWGY](/stripes/kgwgbkwkgbgwgy/).
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8531
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8531](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8531)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g11lr2g12k3lb15dr3lb15g19lr2lb3k2lb3dy3~x2/"><circle cx="168.8" cy="150.4" r="4" fill="#3465a4"><title>Greylock</title></circle></a><a href="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3t6~x2/"><circle cx="148.1" cy="136.1" r="4" fill="#3465a4"><title>Stinson (Name)</title></circle></a><a href="/variants/s13/g11lr2g12k3lb15dr3lb15g19lr2lb3k2lb3ly3~x2/"><circle cx="171.5" cy="151.6" r="4" fill="#3465a4"><title>Greylock (Corporate)</title></circle></a><a href="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3g6~x2/"><circle cx="122.0" cy="114.8" r="4" fill="#3465a4"><title>Stinson</title></circle></a><a href="/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/"><circle cx="164.9" cy="124.0" r="4" fill="#3465a4"><title>East Lothian (Fashion) Fashion Tartan</title></circle></a><a href="/variants/s9/db4k1g18dy2g11dy11lb18k1r4~x2/"><circle cx="155.9" cy="138.0" r="4" fill="#3465a4"><title>Morgan in Maryland (USA) (Name)</title></circle></a><a href="/variants/s9/db4k1g18do2g11do11lb18k1r4~x2/"><circle cx="155.8" cy="137.5" r="4" fill="#3465a4"><title>Morgan in Maryland (USA)</title></circle></a><a href="/variants/s11/y3g3r2g16k2db24k2g16r2g3lb3~x2/"><circle cx="210.5" cy="128.3" r="4" fill="#3465a4"><title>Loch Tay</title></circle></a><a href="/variants/s10/b24w2b6g9r6b3r6g35k2ly2~x2/"><circle cx="236.9" cy="124.4" r="4" fill="#3465a4"><title>O'Donohue Personal)</title></circle></a><a href="/variants/s11/g30dp4r6w6db6dp3k14w14db50g50w2/"><circle cx="170.6" cy="100.8" r="4" fill="#3465a4"><title>Brehat (Personal)</title></circle></a><circle cx="165.5" cy="132.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g11lr2g12k3lb15dr3lb15g19lr2lb3k2lb3dy3~x2/"><circle cx="168.8" cy="150.8" r="4" fill="#3465a4"><title>Greylock</title></circle></a><a href="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3t6~x2/"><circle cx="148.1" cy="136.4" r="4" fill="#3465a4"><title>Stinson (Name)</title></circle></a><a href="/variants/s13/g11lr2g12k3lb15dr3lb15g19lr2lb3k2lb3ly3~x2/"><circle cx="171.5" cy="152.0" r="4" fill="#3465a4"><title>Greylock (Corporate)</title></circle></a><a href="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3g6~x2/"><circle cx="121.9" cy="115.1" r="4" fill="#3465a4"><title>Stinson</title></circle></a><a href="/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/"><circle cx="164.8" cy="124.3" r="4" fill="#3465a4"><title>East Lothian (Fashion) Fashion Tartan</title></circle></a><a href="/variants/s9/db4k1g18dy2g11dy11lb18k1r4~x2/"><circle cx="155.9" cy="138.3" r="4" fill="#3465a4"><title>Morgan in Maryland (USA) (Name)</title></circle></a><a href="/variants/s9/db4k1g18do2g11do11lb18k1r4~x2/"><circle cx="155.8" cy="137.8" r="4" fill="#3465a4"><title>Morgan in Maryland (USA)</title></circle></a><a href="/variants/s11/y3g3r2g16k2db24k2g16r2g3lb3~x2/"><circle cx="210.5" cy="128.5" r="4" fill="#3465a4"><title>Loch Tay</title></circle></a><a href="/variants/s10/b24w2b6g9r6b3r6g35k2ly2~x2/"><circle cx="236.8" cy="124.6" r="4" fill="#3465a4"><title>O'Donohue Personal)</title></circle></a><a href="/variants/s11/g30dp4r6w6db6dp3k14w14db50g50w2/"><circle cx="170.5" cy="101.0" r="4" fill="#3465a4"><title>Brehat (Personal)</title></circle></a><circle cx="165.4" cy="132.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/k5g16lb4g4b16k1w4k1g4b16g4lb4g16ly4~x2/

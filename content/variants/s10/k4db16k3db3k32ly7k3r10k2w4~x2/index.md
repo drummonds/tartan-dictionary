@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Model T Ford (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4db16k3db3k32ly7k3r10k2w4/)
 (the same proportion at any scale), whose colour order is pattern [KBKBKYKRKW](/stripes/kbkbkykrkw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7479
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7479](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7479)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k35o2k3dp13g8w4g8dp8~x2/"><circle cx="194.4" cy="127.9" r="4" fill="#3465a4"><title>SheBoom</title></circle></a><a href="/variants/s12/y2w1r2k20r9k20y7n20k5y1k1r1~x2/"><circle cx="216.8" cy="100.6" r="4" fill="#3465a4"><title>Cates Dress</title></circle></a><a href="/variants/s11/n14k2db3k1y2k1db3k14db3k1w1~x2/"><circle cx="187.9" cy="120.3" r="4" fill="#3465a4"><title>McGuffey (School)</title></circle></a><a href="/variants/s11/k31lr4n2r2n2lr6n2lb4n2lr8k2~x2~lr2800000-n1700000/"><circle cx="212.3" cy="91.0" r="4" fill="#3465a4"><title>Rogue Attitude</title></circle></a><a href="/variants/s11/r9k3r9k2b4k4dp4k3dp2k32g6~x2/"><circle cx="246.1" cy="100.6" r="4" fill="#3465a4"><title>Brotherhood of Dirk, The</title></circle></a><a href="/variants/s11/r9k3r9k2t4k4dp4k3dp2k32g6~x2/"><circle cx="245.6" cy="100.9" r="4" fill="#3465a4"><title>Brotherhood of Dirk (Corporate)</title></circle></a><a href="/variants/s10/k62t4k7db29k3ly4k3w4k11t16~x2/"><circle cx="288.8" cy="100.2" r="4" fill="#3465a4"><title>State Seal of Massachusetts Fash)</title></circle></a><a href="/variants/s12/k5y3dg10k23r3k10r3w2r9w2k3w1~x2/"><circle cx="228.0" cy="96.4" r="4" fill="#3465a4"><title>Watson-Kirby (Personal)</title></circle></a><a href="/variants/s8/n10k7lt2lb2k27t7lt2t7~x2~lt3304230-t2105244/"><circle cx="219.0" cy="144.2" r="4" fill="#3465a4"><title>Croy, Jake (Personal)</title></circle></a><a href="/variants/s11/n14k2db3k1lo2k1db3k14db3k1lb1~x2/"><circle cx="188.2" cy="121.2" r="4" fill="#3465a4"><title>McFly School</title></circle></a><circle cx="207.3" cy="111.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k35o2k3dp13g8w4g8dp8~x2/"><circle cx="194.3" cy="128.1" r="4" fill="#3465a4"><title>SheBoom</title></circle></a><a href="/variants/s12/y2w1r2k20r9k20y7n20k5y1k1r1~x2/"><circle cx="216.7" cy="100.8" r="4" fill="#3465a4"><title>Cates Dress</title></circle></a><a href="/variants/s11/n14k2db3k1y2k1db3k14db3k1w1~x2/"><circle cx="187.8" cy="120.5" r="4" fill="#3465a4"><title>McGuffey (School)</title></circle></a><a href="/variants/s11/k31lr4n2r2n2lr6n2lb4n2lr8k2~x2~lr2800000-n1700000/"><circle cx="212.1" cy="91.2" r="4" fill="#3465a4"><title>Rogue Attitude</title></circle></a><a href="/variants/s11/r9k3r9k2b4k4dp4k3dp2k32g6~x2/"><circle cx="246.0" cy="100.9" r="4" fill="#3465a4"><title>Brotherhood of Dirk, The</title></circle></a><a href="/variants/s11/r9k3r9k2t4k4dp4k3dp2k32g6~x2/"><circle cx="245.5" cy="101.1" r="4" fill="#3465a4"><title>Brotherhood of Dirk (Corporate)</title></circle></a><a href="/variants/s10/k62t4k7db29k3ly4k3w4k11t16~x2/"><circle cx="288.6" cy="100.3" r="4" fill="#3465a4"><title>State Seal of Massachusetts Fash)</title></circle></a><a href="/variants/s12/k5y3dg10k23r3k10r3w2r9w2k3w1~x2/"><circle cx="227.9" cy="96.6" r="4" fill="#3465a4"><title>Watson-Kirby (Personal)</title></circle></a><a href="/variants/s8/n10k7lt2lb2k27t7lt2t7~x2~lt3304230-t2105244/"><circle cx="219.0" cy="144.5" r="4" fill="#3465a4"><title>Croy, Jake (Personal)</title></circle></a><a href="/variants/s11/n14k2db3k1lo2k1db3k14db3k1lb1~x2/"><circle cx="188.1" cy="121.4" r="4" fill="#3465a4"><title>McFly School</title></circle></a><circle cx="207.2" cy="112.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k4db16k3db3k32ly7k3r10k2w4~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rossi (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1y1k1g6k6r6db1r1db1r6k6g6k1lb1/)
 (the same proportion at any scale), whose colour order is pattern [KGKGKRBRBRKGKW](/stripes/kgkgkrbrbrkgkw/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3568
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3568](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3568)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/w3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2/"><circle cx="61.0" cy="134.8" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/variants/s16/w7k24r4k4r4k4r24y4r6db12r6k4g20k4r6w4/"><circle cx="58.2" cy="135.5" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/variants/s12/y4g20r3db11lb3r11g11r3k20r3k3lb3~x2/"><circle cx="49.6" cy="154.5" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="73.8" cy="139.5" r="4" fill="#3465a4"><title>MacPherson #6</title></circle></a><a href="/variants/s13/lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/"><circle cx="92.9" cy="132.6" r="4" fill="#3465a4"><title>Kapasi (Personal)</title></circle></a><a href="/variants/s11/y9ly3k4ly4k8dr17k3dr17db8k4w4~x2/"><circle cx="92.2" cy="175.6" r="4" fill="#3465a4"><title>Laois County Crest (Fashion)</title></circle></a><a href="/variants/s15/r14g3r14g13y2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="97.0" cy="136.6" r="4" fill="#3465a4"><title>MacPherson #8</title></circle></a><a href="/variants/s13/db8k1r4k1r4k1r4k1g8k1y1r1w1~x2/"><circle cx="88.9" cy="132.1" r="4" fill="#3465a4"><title>Unidentified No 158 Silk Fragment</title></circle></a><a href="/variants/s12/y8g2k4lo1k1lb1k1do8y3k1y1lb1~x4/"><circle cx="110.0" cy="140.7" r="4" fill="#3465a4"><title>Wcwm 9275-1258</title></circle></a><a href="/variants/s18/k14g2lb14g3lb14g2k14g14w2g14k14r2g2r10y4r10g2r2~x2/"><circle cx="24.0" cy="143.3" r="4" fill="#3465a4"><title>Langston (Personal)</title></circle></a><circle cx="64.8" cy="150.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/w3k12r2k2r2k2r12y2r3db6r3k2g10k2r3w2/"><circle cx="61.0" cy="135.2" r="4" fill="#3465a4"><title>Innes D</title></circle></a><a href="/variants/s16/w7k24r4k4r4k4r24y4r6db12r6k4g20k4r6w4/"><circle cx="58.2" cy="135.9" r="4" fill="#3465a4"><title>Innes</title></circle></a><a href="/variants/s12/y4g20r3db11lb3r11g11r3k20r3k3lb3~x2/"><circle cx="49.6" cy="154.9" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s15/r6db1r6g8y1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="73.8" cy="139.8" r="4" fill="#3465a4"><title>MacPherson #6</title></circle></a><a href="/variants/s13/lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/"><circle cx="92.8" cy="133.0" r="4" fill="#3465a4"><title>Kapasi (Personal)</title></circle></a><a href="/variants/s11/y9ly3k4ly4k8dr17k3dr17db8k4w4~x2/"><circle cx="92.2" cy="176.0" r="4" fill="#3465a4"><title>Laois County Crest (Fashion)</title></circle></a><a href="/variants/s15/r14g3r14g13y2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="96.9" cy="137.0" r="4" fill="#3465a4"><title>MacPherson #8</title></circle></a><a href="/variants/s13/db8k1r4k1r4k1r4k1g8k1y1r1w1~x2/"><circle cx="88.9" cy="132.5" r="4" fill="#3465a4"><title>Unidentified No 158 Silk Fragment</title></circle></a><a href="/variants/s12/y8g2k4lo1k1lb1k1do8y3k1y1lb1~x4/"><circle cx="110.0" cy="141.0" r="4" fill="#3465a4"><title>Wcwm 9275-1258</title></circle></a><a href="/variants/s18/k14g2lb14g3lb14g2k14g14w2g14k14r2g2r10y4r10g2r2~x2/"><circle cx="24.0" cy="143.7" r="4" fill="#3465a4"><title>Langston (Personal)</title></circle></a><circle cx="64.7" cy="150.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/k1y1k1g6k6r6db1r1db1r6k6g6k1lb1~x4/

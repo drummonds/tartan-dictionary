@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Scarlett #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w5lb1dp1w10lb2w1dp4w10g8lb2w1dp3/)
 (the same proportion at any scale), whose colour order is pattern [BWWGWBWWWBWWWBWWWBWGWW](/stripes/bwwgwbwwwbwwwbwwwbwgww/).
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4374
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4374](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4374)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/w56g5w5lb10w33dr14w5dp27w33lb10g5w33dp27w5dr14/"><circle cx="274.8" cy="171.4" r="4" fill="#3465a4"><title>Portmeirion</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="313.5" cy="177.0" r="4" fill="#3465a4"><title>St John's</title></circle></a><a href="/variants/s13/db6dr3lb24db12lr6lb6dr2lb6lr6lb12db2dr2db6~x2/"><circle cx="295.9" cy="177.3" r="4" fill="#3465a4"><title>Illinois St.Andrews Society</title></circle></a><circle cx="274.7" cy="177.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/w56g5w5lb10w33dr14w5dp27w33lb10g5w33dp27w5dr14/"><circle cx="274.9" cy="171.9" r="4" fill="#3465a4"><title>Portmeirion</title></circle></a><a href="/variants/s7/w2db1w15lb12w1dy3db1~x6/"><circle cx="313.6" cy="177.4" r="4" fill="#3465a4"><title>St John's</title></circle></a><a href="/variants/s13/db6dr3lb24db12lr6lb6dr2lb6lr6lb12db2dr2db6~x2/"><circle cx="296.0" cy="177.7" r="4" fill="#3465a4"><title>Illinois St.Andrews Society</title></circle></a><circle cx="274.8" cy="177.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/w5lb1dp1w10lb2w1dp4w10g8lb2w1dp3~x2~dp1607327/

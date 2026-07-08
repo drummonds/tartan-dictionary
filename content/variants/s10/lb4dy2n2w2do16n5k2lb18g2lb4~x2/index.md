@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Australian Heavy Horse"
   url: "/tartans/australian-heavy-horse/"
+- name: "Australian Heavy Horse (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb4dy2n2w2do16n5k2lb18g2lb4/)
 (the same proportion at any scale), whose colour order is pattern [WGBWBBKWGW](/stripes/wgbwbbkwgw/).
@@ -14,7 +16,7 @@ Part of the [Australian Heavy Horse](/tartans/australian-heavy-horse/) tartan �
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10136
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10136](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10136)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lb4g2lb18k2n5do16w2n2lr2lb4~x2/"><circle cx="148.0" cy="128.0" r="4" fill="#3465a4"><title>Australian Heavy Horse</title></circle></a><a href="/variants/s10/lr2y11r2y11k2db6lb13k2lb3ly2~x4~y2602166-ly3307090/"><circle cx="104.1" cy="160.9" r="4" fill="#3465a4"><title>RAF Leuchars</title></circle></a><a href="/variants/s10/n3lb18dr2lb18g3db8k20g2k5lo3~x2/"><circle cx="103.0" cy="123.9" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><a href="/variants/s11/db3k2lb3r2lb3k2lb24dt24r3db3w2~x2/"><circle cx="165.0" cy="108.3" r="4" fill="#3465a4"><title>Hamburg #2 (Corporate)</title></circle></a><a href="/variants/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="144.7" cy="158.7" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><a href="/variants/s13/lb10w18lb4lo6lb45k30lb4k4y4r4y4r4y4/"><circle cx="131.3" cy="102.1" r="4" fill="#3465a4"><title>Les Coeurs de Lions en Bleu</title></circle></a><a href="/variants/s14/t14lb2ly2lb2t25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="154.9" cy="112.9" r="4" fill="#3465a4"><title>Letang (Personal)</title></circle></a><a href="/variants/s13/w1r1db8lb1k1w8k1lo8lb1lo1db8lb1lo1~x6/"><circle cx="105.8" cy="131.2" r="4" fill="#3465a4"><title>Robieson Kith &amp; Kin (Personal)</title></circle></a><a href="/variants/s11/ly1t6g2lb1k8lb1g2lb9k1lb4lyi1~x4~ly2503076-lyi3104101/"><circle cx="114.7" cy="148.3" r="4" fill="#3465a4"><title>Tiree</title></circle></a><a href="/variants/s9/r4t3lr2k2lr12k2db10ti25w2~x2~lr2800000-ti2503227/"><circle cx="152.5" cy="128.5" r="4" fill="#3465a4"><title>O'Reilly (Estimated threadcount)</title></circle></a><circle cx="147.0" cy="127.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lb4g2lb18k2n5do16w2n2lr2lb4~x2/"><circle cx="148.0" cy="128.3" r="4" fill="#3465a4"><title>Australian Heavy Horse</title></circle></a><a href="/variants/s10/lr2y11r2y11k2db6lb13k2lb3ly2~x4~y2602166-ly3307090/"><circle cx="104.1" cy="161.3" r="4" fill="#3465a4"><title>RAF Leuchars</title></circle></a><a href="/variants/s10/n3lb18dr2lb18g3db8k20g2k5lo3~x2/"><circle cx="102.9" cy="124.3" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><a href="/variants/s11/db3k2lb3r2lb3k2lb24dt24r3db3w2~x2/"><circle cx="165.0" cy="108.6" r="4" fill="#3465a4"><title>Hamburg #2 (Corporate)</title></circle></a><a href="/variants/s7/lb4ly2lb21k11w2n21r2~x2/"><circle cx="144.8" cy="159.1" r="4" fill="#3465a4"><title>Barbour -Modern</title></circle></a><a href="/variants/s13/lb10w18lb4lo6lb45k30lb4k4y4r4y4r4y4/"><circle cx="131.3" cy="102.4" r="4" fill="#3465a4"><title>Les Coeurs de Lions en Bleu</title></circle></a><a href="/variants/s14/t14lb2ly2lb2t25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="154.9" cy="113.2" r="4" fill="#3465a4"><title>Letang (Personal)</title></circle></a><a href="/variants/s13/w1r1db8lb1k1w8k1lo8lb1lo1db8lb1lo1~x6/"><circle cx="105.8" cy="131.5" r="4" fill="#3465a4"><title>Robieson Kith &amp; Kin (Personal)</title></circle></a><a href="/variants/s11/ly1t6g2lb1k8lb1g2lb9k1lb4lyi1~x4~ly2503076-lyi3104101/"><circle cx="114.7" cy="148.7" r="4" fill="#3465a4"><title>Tiree</title></circle></a><a href="/variants/s9/r4t3lr2k2lr12k2db10ti25w2~x2~lr2800000-ti2503227/"><circle cx="152.5" cy="128.6" r="4" fill="#3465a4"><title>O'Reilly (Estimated threadcount)</title></circle></a><circle cx="147.0" cy="128.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/lb4dy2n2w2do16n5k2lb18g2lb4~x2/

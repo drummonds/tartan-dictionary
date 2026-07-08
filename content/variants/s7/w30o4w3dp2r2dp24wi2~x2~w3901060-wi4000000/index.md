@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St Andrews Links Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w30o4w3dp2r2dp24wi2/)
 (the same proportion at any scale), whose colour order is pattern [WBRBWRW](/stripes/wbrbwrw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10506
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10506](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10506)
 
 ## Provenance
 
@@ -68,8 +70,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db4w1db2w18g3w1r9y4~x4/"><circle cx="220.0" cy="142.6" r="4" fill="#3465a4"><title>Manitoba Dress (1958) (District)</title></circle></a><a href="/variants/s7/lr30lp4lr3dp2r2dp24w2~x2/"><circle cx="285.3" cy="143.8" r="4" fill="#3465a4"><title>St. Andrew's Links Dress (Corporate)</title></circle></a><a href="/variants/s7/w8dr5dp10r24w30dr2db2~x2/"><circle cx="219.7" cy="161.6" r="4" fill="#3465a4"><title>Shiel, Claret (Dance)</title></circle></a><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/"><circle cx="278.1" cy="94.9" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/variants/s7/r8dp2r24db5w26dy2w8~x2/"><circle cx="236.6" cy="169.0" r="4" fill="#3465a4"><title>Lennox Dress</title></circle></a><a href="/variants/s8/w8k4w54db18r6db8r49w6/"><circle cx="220.4" cy="156.2" r="4" fill="#3465a4"><title>Merida Dance</title></circle></a><a href="/variants/s7/r8dp2r24dp5w25dy2w8~x2/"><circle cx="251.9" cy="184.4" r="4" fill="#3465a4"><title>MacGiboney (Personal)</title></circle></a><a href="/variants/s10/w3db2w30db4o26w2o2dp4o2w3~x2/"><circle cx="279.9" cy="139.9" r="4" fill="#3465a4"><title>Harris Lilac</title></circle></a><a href="/variants/s7/r8dp2r24db5w26o2w8~x2/"><circle cx="239.1" cy="169.7" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><a href="/variants/s7/w8ly3w22n22dr3r2w4~x2/"><circle cx="266.1" cy="182.0" r="4" fill="#3465a4"><title>Banff, White (Fashion)</title></circle></a><circle cx="258.1" cy="142.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db4w1db2w18g3w1r9y4~x4/"><circle cx="220.0" cy="143.0" r="4" fill="#3465a4"><title>Manitoba Dress (1958) (District)</title></circle></a><a href="/variants/s7/lr30lp4lr3dp2r2dp24w2~x2/"><circle cx="285.3" cy="144.2" r="4" fill="#3465a4"><title>St. Andrew's Links Dress (Corporate)</title></circle></a><a href="/variants/s7/w8dr5dp10r24w30dr2db2~x2/"><circle cx="219.7" cy="162.1" r="4" fill="#3465a4"><title>Shiel, Claret (Dance)</title></circle></a><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/"><circle cx="278.0" cy="95.2" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><a href="/variants/s7/r8dp2r24db5w26dy2w8~x2/"><circle cx="236.6" cy="169.5" r="4" fill="#3465a4"><title>Lennox Dress</title></circle></a><a href="/variants/s8/w8k4w54db18r6db8r49w6/"><circle cx="220.5" cy="156.7" r="4" fill="#3465a4"><title>Merida Dance</title></circle></a><a href="/variants/s7/r8dp2r24dp5w25dy2w8~x2/"><circle cx="252.0" cy="185.0" r="4" fill="#3465a4"><title>MacGiboney (Personal)</title></circle></a><a href="/variants/s10/w3db2w30db4o26w2o2dp4o2w3~x2/"><circle cx="279.9" cy="140.4" r="4" fill="#3465a4"><title>Harris Lilac</title></circle></a><a href="/variants/s7/r8dp2r24db5w26o2w8~x2/"><circle cx="239.2" cy="170.2" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><a href="/variants/s7/w8ly3w22n22dr3r2w4~x2/"><circle cx="266.2" cy="182.5" r="4" fill="#3465a4"><title>Banff, White (Fashion)</title></circle></a><circle cx="258.1" cy="143.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w30o4w3dp2r2dp24wi2~x2~w3901060-wi4000000/

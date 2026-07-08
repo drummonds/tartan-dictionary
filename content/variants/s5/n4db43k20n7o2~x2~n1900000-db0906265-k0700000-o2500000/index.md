@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Deighan"
   url: "/tartans/deighan/"
+- name: "Deighan (Burham Kent) (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n4db43k20n7o2/)
 (the same proportion at any scale), whose colour order is pattern [BBKBR](/stripes/bbkbr/).
@@ -14,7 +16,7 @@ Part of the [Deighan](/tartans/deighan/) tartan — the named design grouping th
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10287
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10287](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10287)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dt4db43k20dt7y2~x2~dt0900000-y2100000/"><circle cx="387.1" cy="185.8" r="4" fill="#3465a4"><title>Deighan (Edinburgh)</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.7" cy="176.9" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s4/db8dr1k1n1~x10/"><circle cx="486.1" cy="226.5" r="4" fill="#3465a4"><title>Kucher, Gregory</title></circle></a><a href="/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/"><circle cx="410.6" cy="172.9" r="4" fill="#3465a4"><title>Connecticut State Police Pipe Band</title></circle></a><a href="/variants/s5/db4r1db18n18lb1~x4/"><circle cx="415.9" cy="217.1" r="4" fill="#3465a4"><title>Ardee (Corporate)</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r1~x2/"><circle cx="419.3" cy="128.1" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r2~x2/"><circle cx="404.4" cy="126.8" r="4" fill="#3465a4"><title>MacWilliam Htg</title></circle></a><a href="/variants/s4/dp20db25w3k2~x2/"><circle cx="327.0" cy="222.8" r="4" fill="#3465a4"><title>Murdoch, Ellis (Personal)</title></circle></a><a href="/variants/s5/db37dg37n8k3dp5~x2/"><circle cx="334.6" cy="230.8" r="4" fill="#3465a4"><title>Dallard Personal Tartan</title></circle></a><a href="/variants/s5/k37dg37n8ki3dp5~x2~k0504259-ki0700000/"><circle cx="314.6" cy="221.7" r="4" fill="#3465a4"><title>Dallard (Personal)</title></circle></a><circle cx="415.9" cy="196.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dt4db43k20dt7y2~x2~dt0900000-y2100000/"><circle cx="387.1" cy="185.9" r="4" fill="#3465a4"><title>Deighan (Edinburgh)</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.7" cy="177.2" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s4/db8dr1k1n1~x10/"><circle cx="486.1" cy="226.8" r="4" fill="#3465a4"><title>Kucher, Gregory</title></circle></a><a href="/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/"><circle cx="410.6" cy="173.0" r="4" fill="#3465a4"><title>Connecticut State Police Pipe Band</title></circle></a><a href="/variants/s5/db4r1db18n18lb1~x4/"><circle cx="415.9" cy="217.4" r="4" fill="#3465a4"><title>Ardee (Corporate)</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r1~x2/"><circle cx="419.2" cy="128.0" r="4" fill="#3465a4"><title>MacWilliam Hunting</title></circle></a><a href="/variants/s6/dy2dg44k10r1db16r2~x2/"><circle cx="404.3" cy="126.8" r="4" fill="#3465a4"><title>MacWilliam Htg</title></circle></a><a href="/variants/s4/dp20db25w3k2~x2/"><circle cx="327.1" cy="223.2" r="4" fill="#3465a4"><title>Murdoch, Ellis (Personal)</title></circle></a><a href="/variants/s5/db37dg37n8k3dp5~x2/"><circle cx="334.7" cy="230.9" r="4" fill="#3465a4"><title>Dallard Personal Tartan</title></circle></a><a href="/variants/s5/k37dg37n8ki3dp5~x2~k0504259-ki0700000/"><circle cx="314.6" cy="221.9" r="4" fill="#3465a4"><title>Dallard (Personal)</title></circle></a><circle cx="415.9" cy="196.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/n4db43k20n7o2~x2~n1900000-db0906265-k0700000-o2500000/

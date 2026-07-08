@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Stirling & Bannockburn Dress (Dist)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5w28r5lb3r5k21r5lb28w3y5/)
 (the same proportion at any scale), whose colour order is pattern [GWWRKRWRWR](/stripes/gwwrkrwrwr/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1705
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1705](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1705)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -64,8 +66,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r16k6r14g22k16db16w10r6w45k4r4/"><circle cx="79.4" cy="148.0" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x6/"><circle cx="126.9" cy="151.9" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x2/"><circle cx="126.9" cy="151.9" r="4" fill="#3465a4"><title>MacPherson Hunting</title></circle></a><a href="/variants/s8/r5w2lb20dy2k16w18k2w5~x2/"><circle cx="107.7" cy="163.9" r="4" fill="#3465a4"><title>Ailsa Craig (District)</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="106.3" cy="162.3" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/"><circle cx="95.9" cy="139.4" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/variants/s13/w3k2t4w4t3w11k2g3y3k3t12r19k2~x2/"><circle cx="47.1" cy="128.5" r="4" fill="#3465a4"><title>Badminton Cup</title></circle></a><a href="/variants/s10/y6k2lb15r5lb9k13w25db2w3db2~x2/"><circle cx="81.5" cy="132.5" r="4" fill="#3465a4"><title>Gillies, dress Blue</title></circle></a><a href="/variants/s12/w5lb2w2lb3w17k6n2k2n2k2n14r3~x2/"><circle cx="122.0" cy="144.2" r="4" fill="#3465a4"><title>Unidentified (Fashion)</title></circle></a><a href="/variants/s18/w28r5lb3r5k21r5lb28w3y5w3lb28r5k21r5lb3r5w28r5~x2~lb3203246/"><circle cx="63.9" cy="129.6" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress</title></circle></a><circle cx="73.4" cy="149.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r16k6r14g22k16db16w10r6w45k4r4/"><circle cx="79.4" cy="148.4" r="4" fill="#3465a4"><title>MacDuff Dress #4</title></circle></a><a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x6/"><circle cx="126.9" cy="152.3" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s9/db1r1k8r1db1r1w8r1db1~x2/"><circle cx="126.9" cy="152.3" r="4" fill="#3465a4"><title>MacPherson Hunting</title></circle></a><a href="/variants/s8/r5w2lb20dy2k16w18k2w5~x2/"><circle cx="107.7" cy="164.4" r="4" fill="#3465a4"><title>Ailsa Craig (District)</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="106.3" cy="162.9" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/"><circle cx="95.8" cy="139.8" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/variants/s13/w3k2t4w4t3w11k2g3y3k3t12r19k2~x2/"><circle cx="47.0" cy="128.9" r="4" fill="#3465a4"><title>Badminton Cup</title></circle></a><a href="/variants/s10/y6k2lb15r5lb9k13w25db2w3db2~x2/"><circle cx="81.5" cy="132.9" r="4" fill="#3465a4"><title>Gillies, dress Blue</title></circle></a><a href="/variants/s12/w5lb2w2lb3w17k6n2k2n2k2n14r3~x2/"><circle cx="122.0" cy="144.7" r="4" fill="#3465a4"><title>Unidentified (Fashion)</title></circle></a><a href="/variants/s18/w28r5lb3r5k21r5lb28w3y5w3lb28r5k21r5lb3r5w28r5~x2~lb3203246/"><circle cx="63.9" cy="130.1" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress</title></circle></a><circle cx="73.4" cy="150.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r5w28r5lb3r5k21r5lb28w3y5~x2/

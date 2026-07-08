@@ -10,6 +10,8 @@ crumbs:
   url: "/families/irvine-of-drum/"
 - name: "Irvine of Drum"
   url: "/tartans/irvine-of-drum/"
+- name: "Irvine of Drum (Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g49lb21k3lb3w3/)
 (the same proportion at any scale), whose colour order is pattern [GWKWW](/stripes/gwkww/).
@@ -18,7 +20,7 @@ Part of the [Irvine of Drum](/tartans/irvine-of-drum/) tartan — the named desi
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=733
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=733](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=733)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -79,8 +81,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g18db9k1db1w1~x4/"><circle cx="348.9" cy="170.8" r="4" fill="#3465a4"><title>Irvine</title></circle></a><a href="/variants/s5/g27db14k2db2y2~x4/"><circle cx="332.5" cy="189.6" r="4" fill="#3465a4"><title>Irving of Bonshaw</title></circle></a><a href="/variants/s5/g12lo1db8k1db1~x4/"><circle cx="292.6" cy="195.0" r="4" fill="#3465a4"><title>Rowan (Personal)</title></circle></a><a href="/variants/s6/g24k2db3k2db8r2~x2/"><circle cx="305.0" cy="170.2" r="4" fill="#3465a4"><title>Shaw (Clan 1)</title></circle></a><a href="/variants/s6/k3t2g13w2t24dr3~x4~t2405244-g2408144/"><circle cx="274.9" cy="172.6" r="4" fill="#3465a4"><title>Vance</title></circle></a><a href="/variants/s6/k3lb2g13w2lb24dr3~x4/"><circle cx="260.7" cy="164.5" r="4" fill="#3465a4"><title>Vance (Name?)</title></circle></a><a href="/variants/s6/g45db14k3db2dy2db5~x2/"><circle cx="388.1" cy="148.3" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel, Golf Course and Spa</title></circle></a><a href="/variants/s6/g50db20k3db2o2db5~x2/"><circle cx="379.3" cy="145.8" r="4" fill="#3465a4"><title>St Andrews Hotel, Golf Resort, and SPA</title></circle></a><a href="/variants/s6/g50db20k3db2dy2db5~x2/"><circle cx="380.3" cy="146.4" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel Corporate Tartan</title></circle></a><a href="/variants/s5/g44db9r2db9g2~x2/"><circle cx="481.1" cy="193.1" r="4" fill="#3465a4"><title>Tyrconnell (Personal)</title></circle></a><circle cx="371.1" cy="181.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g18db9k1db1w1~x4/"><circle cx="348.9" cy="171.2" r="4" fill="#3465a4"><title>Irvine</title></circle></a><a href="/variants/s5/g27db14k2db2y2~x4/"><circle cx="332.5" cy="190.0" r="4" fill="#3465a4"><title>Irving of Bonshaw</title></circle></a><a href="/variants/s5/g12lo1db8k1db1~x4/"><circle cx="292.7" cy="195.5" r="4" fill="#3465a4"><title>Rowan (Personal)</title></circle></a><a href="/variants/s6/g24k2db3k2db8r2~x2/"><circle cx="305.0" cy="170.6" r="4" fill="#3465a4"><title>Shaw (Clan 1)</title></circle></a><a href="/variants/s6/k3t2g13w2t24dr3~x4~t2405244-g2408144/"><circle cx="275.0" cy="173.0" r="4" fill="#3465a4"><title>Vance</title></circle></a><a href="/variants/s6/k3lb2g13w2lb24dr3~x4/"><circle cx="260.7" cy="165.0" r="4" fill="#3465a4"><title>Vance (Name?)</title></circle></a><a href="/variants/s6/g45db14k3db2dy2db5~x2/"><circle cx="388.0" cy="148.6" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel, Golf Course and Spa</title></circle></a><a href="/variants/s6/g50db20k3db2o2db5~x2/"><circle cx="379.3" cy="146.1" r="4" fill="#3465a4"><title>St Andrews Hotel, Golf Resort, and SPA</title></circle></a><a href="/variants/s6/g50db20k3db2dy2db5~x2/"><circle cx="380.2" cy="146.7" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel Corporate Tartan</title></circle></a><a href="/variants/s5/g44db9r2db9g2~x2/"><circle cx="481.2" cy="193.5" r="4" fill="#3465a4"><title>Tyrconnell (Personal)</title></circle></a><circle cx="371.2" cy="182.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/g49lb21k3lb3w3~x2/

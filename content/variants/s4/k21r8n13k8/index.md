@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "New Exeter Check (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k21r8n13k8/)
 (the same proportion at any scale), whose colour order is pattern [KBRK](/stripes/kbrk/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8141
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8141](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8141)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k7r5w3db2~x4/"><circle cx="100.3" cy="274.6" r="4" fill="#3465a4"><title>Thomas Newcomen's Combustion Engine</title></circle></a><a href="/variants/s4/r3g1k3w1~x20/"><circle cx="97.4" cy="276.4" r="4" fill="#3465a4"><title>SAL Glindrande Stiernan</title></circle></a><a href="/variants/s5/n5k2r2y2n5~x10/"><circle cx="264.8" cy="299.5" r="4" fill="#3465a4"><title>Ikelman No 3</title></circle></a><a href="/variants/s5/n11k4dr4lo4n11~x4/"><circle cx="143.8" cy="261.5" r="4" fill="#3465a4"><title>Ikelman #3 (Personal)</title></circle></a><a href="/variants/s4/k46o7k8w20~x2/"><circle cx="303.8" cy="224.2" r="4" fill="#3465a4"><title>Lords, of Skye</title></circle></a><a href="/variants/s4/k46dy7k8w20~x2/"><circle cx="307.5" cy="226.9" r="4" fill="#3465a4"><title>Lords of Skye (Fashion?)</title></circle></a><a href="/variants/s4/dr3n16k16lb3~x4/"><circle cx="183.9" cy="246.3" r="4" fill="#3465a4"><title>Thompson, Dress (Clan)</title></circle></a><a href="/variants/s4/r5n32k31w5~x2/"><circle cx="193.0" cy="230.8" r="4" fill="#3465a4"><title>Loganair, Uniform Skirt</title></circle></a><a href="/variants/s4/r5n32k31w5/"><circle cx="193.0" cy="230.8" r="4" fill="#3465a4"><title>Loganair Uniform Skirt Corporate Tartan</title></circle></a><a href="/variants/s4/dr5n32k31w5~x2/"><circle cx="196.3" cy="233.1" r="4" fill="#3465a4"><title>Loganair</title></circle></a><circle cx="213.4" cy="302.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k7r5w3db2~x4/"><circle cx="100.5" cy="275.5" r="4" fill="#3465a4"><title>Thomas Newcomen's Combustion Engine</title></circle></a><a href="/variants/s4/r3g1k3w1~x20/"><circle cx="97.6" cy="277.4" r="4" fill="#3465a4"><title>SAL Glindrande Stiernan</title></circle></a><a href="/variants/s5/n5k2r2y2n5~x10/"><circle cx="265.1" cy="300.3" r="4" fill="#3465a4"><title>Ikelman No 3</title></circle></a><a href="/variants/s5/n11k4dr4lo4n11~x4/"><circle cx="143.9" cy="262.3" r="4" fill="#3465a4"><title>Ikelman #3 (Personal)</title></circle></a><a href="/variants/s4/k46o7k8w20~x2/"><circle cx="303.9" cy="224.9" r="4" fill="#3465a4"><title>Lords, of Skye</title></circle></a><a href="/variants/s4/k46dy7k8w20~x2/"><circle cx="307.6" cy="227.6" r="4" fill="#3465a4"><title>Lords of Skye (Fashion?)</title></circle></a><a href="/variants/s4/dr3n16k16lb3~x4/"><circle cx="184.0" cy="247.0" r="4" fill="#3465a4"><title>Thompson, Dress (Clan)</title></circle></a><a href="/variants/s4/r5n32k31w5~x2/"><circle cx="193.1" cy="231.5" r="4" fill="#3465a4"><title>Loganair, Uniform Skirt</title></circle></a><a href="/variants/s4/r5n32k31w5/"><circle cx="193.1" cy="231.5" r="4" fill="#3465a4"><title>Loganair Uniform Skirt Corporate Tartan</title></circle></a><a href="/variants/s4/dr5n32k31w5~x2/"><circle cx="196.4" cy="233.8" r="4" fill="#3465a4"><title>Loganair</title></circle></a><circle cx="213.6" cy="303.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/k21r8n13k8/

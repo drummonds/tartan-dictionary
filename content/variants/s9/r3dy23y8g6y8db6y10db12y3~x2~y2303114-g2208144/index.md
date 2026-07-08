@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lawrence's Seven Pillars of Khaki"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3dy23y8g6y8db6y10db12y3/)
 (the same proportion at any scale), whose colour order is pattern [GBGBGGGGR](/stripes/gbgbggggr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11062
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11062](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11062)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg3b22do10o5dg21r6b3~x2/"><circle cx="203.3" cy="229.8" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/variants/s11/do6y4do3db2do5db2do3db2g15r3db2~x2/"><circle cx="193.4" cy="204.3" r="4" fill="#3465a4"><title>Limerick</title></circle></a><a href="/variants/s13/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2~x2/"><circle cx="174.2" cy="221.1" r="4" fill="#3465a4"><title>MacVicker (Name)</title></circle></a><a href="/variants/s13/db12dy2y2dy2db2dy10g12dy3g12dy10db11r2y2~x2/"><circle cx="170.9" cy="220.3" r="4" fill="#3465a4"><title>MacVicar, McVicar, McVicker</title></circle></a><a href="/variants/s8/dg24b8do2b8do2b8o15g2~x2/"><circle cx="226.8" cy="203.8" r="4" fill="#3465a4"><title>Unidentified from Winnipeg</title></circle></a><a href="/variants/s12/db22g4db4g17o17g17db4g4db22y8o8r8~x2/"><circle cx="154.3" cy="226.4" r="4" fill="#3465a4"><title>Niagara Falls</title></circle></a><a href="/variants/s12/db22g4db4g17dy17g17db4g4db22y8dy8r8~x2/"><circle cx="162.2" cy="231.0" r="4" fill="#3465a4"><title>Niagra Falls Trade Tartan</title></circle></a><a href="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/"><circle cx="146.6" cy="231.6" r="4" fill="#3465a4"><title>Roscommon, County</title></circle></a><a href="/variants/s11/db3dy14g14dy2db14dy2db14dy2g14dy14r3~x2/"><circle cx="207.4" cy="239.1" r="4" fill="#3465a4"><title>Buchanan Hunting</title></circle></a><a href="/variants/s11/db30r6dy16dp8g10dp14g24y4dy10dp3dy28/"><circle cx="172.3" cy="201.9" r="4" fill="#3465a4"><title>Greyfriars</title></circle></a><circle cx="196.4" cy="231.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dg3b22do10o5dg21r6b3~x2/"><circle cx="203.4" cy="230.2" r="4" fill="#3465a4"><title>Swankie</title></circle></a><a href="/variants/s11/do6y4do3db2do5db2do3db2g15r3db2~x2/"><circle cx="193.4" cy="204.6" r="4" fill="#3465a4"><title>Limerick</title></circle></a><a href="/variants/s13/db12dy2y2dy2db2dy10g10dy3g12dy10db11r2y2~x2/"><circle cx="174.3" cy="221.4" r="4" fill="#3465a4"><title>MacVicker (Name)</title></circle></a><a href="/variants/s13/db12dy2y2dy2db2dy10g12dy3g12dy10db11r2y2~x2/"><circle cx="171.0" cy="220.6" r="4" fill="#3465a4"><title>MacVicar, McVicar, McVicker</title></circle></a><a href="/variants/s8/dg24b8do2b8do2b8o15g2~x2/"><circle cx="226.8" cy="204.1" r="4" fill="#3465a4"><title>Unidentified from Winnipeg</title></circle></a><a href="/variants/s12/db22g4db4g17o17g17db4g4db22y8o8r8~x2/"><circle cx="154.4" cy="226.9" r="4" fill="#3465a4"><title>Niagara Falls</title></circle></a><a href="/variants/s12/db22g4db4g17dy17g17db4g4db22y8dy8r8~x2/"><circle cx="162.3" cy="231.5" r="4" fill="#3465a4"><title>Niagra Falls Trade Tartan</title></circle></a><a href="/variants/s10/o5ly3o19do6ly5do6dg12db5dg12db3~x2/"><circle cx="146.7" cy="232.1" r="4" fill="#3465a4"><title>Roscommon, County</title></circle></a><a href="/variants/s11/db3dy14g14dy2db14dy2db14dy2g14dy14r3~x2/"><circle cx="207.5" cy="239.5" r="4" fill="#3465a4"><title>Buchanan Hunting</title></circle></a><a href="/variants/s11/db30r6dy16dp8g10dp14g24y4dy10dp3dy28/"><circle cx="172.3" cy="202.2" r="4" fill="#3465a4"><title>Greyfriars</title></circle></a><circle cx="196.5" cy="231.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/

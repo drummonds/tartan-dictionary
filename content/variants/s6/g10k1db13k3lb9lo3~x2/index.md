@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Inverary"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g10k1db13k3lb9lo3/)
 (the same proportion at any scale), whose colour order is pattern [GKBKWY](/stripes/gkbkwy/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1838
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1838](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1838)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2k1db6k2g6b2~x4/"><circle cx="85.6" cy="223.0" r="4" fill="#3465a4"><title>MacCaughan, or MacEachain</title></circle></a><a href="/variants/s6/dg10k1db13k3w9y3~x2/"><circle cx="97.6" cy="185.4" r="4" fill="#3465a4"><title>Inverary</title></circle></a><a href="/variants/s5/k7lb3g18db18w2~x2/"><circle cx="148.9" cy="212.5" r="4" fill="#3465a4"><title>Bhatti (Name)</title></circle></a><a href="/variants/s5/k4lb2g8db8w1~x2/"><circle cx="116.7" cy="225.6" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/variants/s5/k4lb2g8db8w1/"><circle cx="116.7" cy="225.6" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/variants/s5/k2lb2g8db8w1~x2/"><circle cx="150.1" cy="216.8" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k2lb2g8db8w1/"><circle cx="150.1" cy="216.8" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s6/dr4k2db24k20g20lo3~x2/"><circle cx="129.1" cy="185.7" r="4" fill="#3465a4"><title>Loudoun's Highlanders</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="125.4" cy="171.2" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s6/k1y1db8g10lb7w1~x2/"><circle cx="118.6" cy="178.9" r="4" fill="#3465a4"><title>Porteous</title></circle></a><circle cx="107.2" cy="190.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r2k1db6k2g6b2~x4/"><circle cx="85.7" cy="223.6" r="4" fill="#3465a4"><title>MacCaughan, or MacEachain</title></circle></a><a href="/variants/s6/dg10k1db13k3w9y3~x2/"><circle cx="97.7" cy="185.9" r="4" fill="#3465a4"><title>Inverary</title></circle></a><a href="/variants/s5/k7lb3g18db18w2~x2/"><circle cx="148.9" cy="213.0" r="4" fill="#3465a4"><title>Bhatti (Name)</title></circle></a><a href="/variants/s5/k4lb2g8db8w1~x2/"><circle cx="116.8" cy="226.2" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/variants/s5/k4lb2g8db8w1/"><circle cx="116.8" cy="226.2" r="4" fill="#3465a4"><title>Dougles Green</title></circle></a><a href="/variants/s5/k2lb2g8db8w1~x2/"><circle cx="150.2" cy="217.4" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s5/k2lb2g8db8w1/"><circle cx="150.2" cy="217.4" r="4" fill="#3465a4"><title>Douglas</title></circle></a><a href="/variants/s6/dr4k2db24k20g20lo3~x2/"><circle cx="129.1" cy="186.1" r="4" fill="#3465a4"><title>Loudoun's Highlanders</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="125.4" cy="171.6" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s6/k1y1db8g10lb7w1~x2/"><circle cx="118.6" cy="179.4" r="4" fill="#3465a4"><title>Porteous</title></circle></a><circle cx="107.2" cy="191.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g10k1db13k3lb9lo3~x2/

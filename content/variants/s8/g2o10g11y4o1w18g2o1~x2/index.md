@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Aviemore, Check"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g2o10g11y4o1w18g2o1/)
 (the same proportion at any scale), whose colour order is pattern [GRGGRWGR](/stripes/grggrwgr/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2~dy1603076-ly3307090/"><circle cx="221.6" cy="187.3" r="4" fill="#3465a4"><title>Aviemore Check</title></circle></a><a href="/variants/s8/g2do8g8ly3do1w12g2do1~x2/"><circle cx="180.9" cy="210.9" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/variants/s8/dg2do8dg8o3do1w12dg2do1~x2/"><circle cx="153.6" cy="189.7" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/variants/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="235.9" cy="149.6" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/variants/s7/lb8w16g18r2y4r1lb4~x2/"><circle cx="187.9" cy="184.3" r="4" fill="#3465a4"><title>Lake Ainslie Heritage</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8y2r1~x4/"><circle cx="226.2" cy="172.4" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8dy2r1~x4/"><circle cx="217.9" cy="169.3" r="4" fill="#3465a4"><title>Karibu (Corporate)</title></circle></a><a href="/variants/s10/dy2w19r2w2dy3w3dy3r6ly25w2~x2/"><circle cx="225.8" cy="162.3" r="4" fill="#3465a4"><title>Llama (Fashion)</title></circle></a><a href="/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2/"><circle cx="210.8" cy="183.9" r="4" fill="#3465a4"><title>Aviemore Check (Fashion)</title></circle></a><a href="/variants/s8/g2dy10g11y4dy1w18g2dy1~x2/"><circle cx="211.9" cy="183.9" r="4" fill="#3465a4"><title>Aviemore Check District Tartan</title></circle></a><circle cx="219.3" cy="178.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2~dy1603076-ly3307090/"><circle cx="221.7" cy="187.8" r="4" fill="#3465a4"><title>Aviemore Check</title></circle></a><a href="/variants/s8/g2do8g8ly3do1w12g2do1~x2/"><circle cx="181.0" cy="211.4" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/variants/s8/dg2do8dg8o3do1w12dg2do1~x2/"><circle cx="153.7" cy="190.3" r="4" fill="#3465a4"><title>National Trust</title></circle></a><a href="/variants/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="235.9" cy="150.0" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/variants/s7/lb8w16g18r2y4r1lb4~x2/"><circle cx="188.0" cy="184.7" r="4" fill="#3465a4"><title>Lake Ainslie Heritage</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8y2r1~x4/"><circle cx="226.3" cy="172.8" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8dy2r1~x4/"><circle cx="218.0" cy="169.8" r="4" fill="#3465a4"><title>Karibu (Corporate)</title></circle></a><a href="/variants/s10/dy2w19r2w2dy3w3dy3r6ly25w2~x2/"><circle cx="225.9" cy="162.7" r="4" fill="#3465a4"><title>Llama (Fashion)</title></circle></a><a href="/variants/s8/g2dy10g11ly4dy1w18g2dy1~x2/"><circle cx="210.9" cy="184.4" r="4" fill="#3465a4"><title>Aviemore Check (Fashion)</title></circle></a><a href="/variants/s8/g2dy10g11y4dy1w18g2dy1~x2/"><circle cx="212.0" cy="184.4" r="4" fill="#3465a4"><title>Aviemore Check District Tartan</title></circle></a><circle cx="219.4" cy="179.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g2o10g11y4o1w18g2o1~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Mair"
   url: "/tartans/mair/"
+- name: "Mair (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r23g3ly1g3r2db18r2w1g3r2db2r23/)
 (the same proportion at any scale), whose colour order is pattern [RBRGWRBRGYGR](/stripes/rbrgwrbrgygr/).
@@ -14,7 +16,7 @@ Part of the [Mair](/tartans/mair/) tartan — the named design grouping this set
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1406
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1406](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1406)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r23g3y1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="366.9" cy="101.6" r="4" fill="#3465a4"><title>Mair (Personal)</title></circle></a><a href="/variants/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/"><circle cx="330.7" cy="103.9" r="4" fill="#3465a4"><title>1745 Trading (Corporate)</title></circle></a><a href="/variants/s11/r5g9y2g9r5db9r28g3lb2r4db2~x2/"><circle cx="294.8" cy="147.1" r="4" fill="#3465a4"><title>Loch Creran</title></circle></a><a href="/variants/s11/r6dg8y2dg8r6db8r29dg3lb2r5db3~x2/"><circle cx="317.7" cy="143.0" r="4" fill="#3465a4"><title>Loch Creran (District)</title></circle></a><a href="/variants/s10/y3r4db2r31g10lb2r5db12r6g3~x2/"><circle cx="330.7" cy="139.0" r="4" fill="#3465a4"><title>Loch Linnhe</title></circle></a><a href="/variants/s9/r40w1db7w1g12r8db6lb2w1~x2/"><circle cx="381.2" cy="88.3" r="4" fill="#3465a4"><title>Spens (Lochcarron)</title></circle></a><a href="/variants/s10/r7w2r36t6dg3t3dg3t3dg12r4~x2/"><circle cx="366.3" cy="134.8" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="375.5" cy="124.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s10/r7w2r36db6g3db3g3db3g12r4~x2/"><circle cx="356.9" cy="132.5" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/variants/s10/r23db2r1o2r1db2r4db10k2lo2~x2/"><circle cx="336.4" cy="89.9" r="4" fill="#3465a4"><title>Chang-Miller (Personal)</title></circle></a><circle cx="364.9" cy="101.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r23g3y1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="366.9" cy="101.8" r="4" fill="#3465a4"><title>Mair (Personal)</title></circle></a><a href="/variants/s12/r4w2r3dg6r2dg2r2db16r2lb2r32w2~x2/"><circle cx="330.7" cy="104.2" r="4" fill="#3465a4"><title>1745 Trading (Corporate)</title></circle></a><a href="/variants/s11/r5g9y2g9r5db9r28g3lb2r4db2~x2/"><circle cx="294.8" cy="147.4" r="4" fill="#3465a4"><title>Loch Creran</title></circle></a><a href="/variants/s11/r6dg8y2dg8r6db8r29dg3lb2r5db3~x2/"><circle cx="317.7" cy="143.3" r="4" fill="#3465a4"><title>Loch Creran (District)</title></circle></a><a href="/variants/s10/y3r4db2r31g10lb2r5db12r6g3~x2/"><circle cx="330.7" cy="139.3" r="4" fill="#3465a4"><title>Loch Linnhe</title></circle></a><a href="/variants/s9/r40w1db7w1g12r8db6lb2w1~x2/"><circle cx="381.1" cy="88.5" r="4" fill="#3465a4"><title>Spens (Lochcarron)</title></circle></a><a href="/variants/s10/r7w2r36t6dg3t3dg3t3dg12r4~x2/"><circle cx="366.3" cy="135.1" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/variants/s10/dg2r2db1r24lb1db6r3dg12r4db1~x2/"><circle cx="375.5" cy="124.9" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s10/r7w2r36db6g3db3g3db3g12r4~x2/"><circle cx="356.9" cy="132.9" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/variants/s10/r23db2r1o2r1db2r4db10k2lo2~x2/"><circle cx="336.3" cy="90.2" r="4" fill="#3465a4"><title>Chang-Miller (Personal)</title></circle></a><circle cx="364.8" cy="101.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Ikelman"
   url: "/tartans/ikelman/"
+- name: "Ikelman #4 (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr11k4dr4lo4dr11/)
 (the same proportion at any scale), whose colour order is pattern [BKBYB](/stripes/bkbyb/).
@@ -14,7 +16,7 @@ Part of the [Ikelman](/tartans/ikelman/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1814
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1814](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1814)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr9k1dr5g6dr4k2~x4/"><circle cx="367.6" cy="242.3" r="4" fill="#3465a4"><title>MacAn of Lurgyvallan (Hose)</title></circle></a><a href="/variants/s5/dr6dg13k5dr20w3~x2/"><circle cx="274.2" cy="238.4" r="4" fill="#3465a4"><title>Ryutokukan Junior High School (Corp)</title></circle></a><a href="/variants/s5/r6dg13k5r20w3~x2/"><circle cx="239.1" cy="218.4" r="4" fill="#3465a4"><title>Ryutokukan Junior High School</title></circle></a><a href="/variants/s4/k6r31k31r6~x2/"><circle cx="275.9" cy="255.8" r="4" fill="#3465a4"><title>Ettrick</title></circle></a><a href="/variants/s4/k5r26k26r5~x4/"><circle cx="276.2" cy="255.4" r="4" fill="#3465a4"><title>Ettrick (District)</title></circle></a><a href="/variants/s5/dr20k3dr4w2k7~x2/"><circle cx="381.5" cy="201.2" r="4" fill="#3465a4"><title>Loevenstein Castle</title></circle></a><a href="/variants/s4/r10k1r4g6~x2/"><circle cx="378.7" cy="206.6" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan (Hose)</title></circle></a><a href="/variants/s5/r26k18r7k4y4~x2/"><circle cx="238.6" cy="203.6" r="4" fill="#3465a4"><title>Haig &amp; Haig Whisky</title></circle></a><a href="/variants/s5/r3k25r25k10lb3~x2/"><circle cx="266.8" cy="208.1" r="4" fill="#3465a4"><title>Bodog.com</title></circle></a><a href="/variants/s4/k20dr3k20dr20~x2/"><circle cx="406.6" cy="305.7" r="4" fill="#3465a4"><title>Wcwm 9275-1333-2</title></circle></a><circle cx="384.0" cy="291.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr9k1dr5g6dr4k2~x4/"><circle cx="367.8" cy="242.9" r="4" fill="#3465a4"><title>MacAn of Lurgyvallan (Hose)</title></circle></a><a href="/variants/s5/dr6dg13k5dr20w3~x2/"><circle cx="274.3" cy="239.0" r="4" fill="#3465a4"><title>Ryutokukan Junior High School (Corp)</title></circle></a><a href="/variants/s5/r6dg13k5r20w3~x2/"><circle cx="239.2" cy="219.1" r="4" fill="#3465a4"><title>Ryutokukan Junior High School</title></circle></a><a href="/variants/s4/k6r31k31r6~x2/"><circle cx="276.1" cy="256.7" r="4" fill="#3465a4"><title>Ettrick</title></circle></a><a href="/variants/s4/k5r26k26r5~x4/"><circle cx="276.4" cy="256.3" r="4" fill="#3465a4"><title>Ettrick (District)</title></circle></a><a href="/variants/s5/dr20k3dr4w2k7~x2/"><circle cx="381.6" cy="201.8" r="4" fill="#3465a4"><title>Loevenstein Castle</title></circle></a><a href="/variants/s4/r10k1r4g6~x2/"><circle cx="378.8" cy="207.3" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan (Hose)</title></circle></a><a href="/variants/s5/r26k18r7k4y4~x2/"><circle cx="238.7" cy="204.2" r="4" fill="#3465a4"><title>Haig &amp; Haig Whisky</title></circle></a><a href="/variants/s5/r3k25r25k10lb3~x2/"><circle cx="266.9" cy="208.8" r="4" fill="#3465a4"><title>Bodog.com</title></circle></a><a href="/variants/s4/k20dr3k20dr20~x2/"><circle cx="406.8" cy="306.4" r="4" fill="#3465a4"><title>Wcwm 9275-1333-2</title></circle></a><circle cx="384.2" cy="292.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dr11k4dr4lo4dr11~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sustainability (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db20k3g18r12lb4r12db15y4/)
 (the same proportion at any scale), whose colour order is pattern [BKGRWRBG](/stripes/bkgrwrbg/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6693
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6693](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6693)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db9r24g24k24db24y2db9/"><circle cx="112.0" cy="199.0" r="4" fill="#3465a4"><title>Dundas</title></circle></a><a href="/variants/s8/db18k5r26k5g25k5db18y2~x2/"><circle cx="120.8" cy="170.2" r="4" fill="#3465a4"><title>St. Clement of Rome (Corporate)</title></circle></a><a href="/variants/s8/db18k5r26k5g25k5db18y2~x2~db1204274/"><circle cx="124.7" cy="170.2" r="4" fill="#3465a4"><title>St. Clement of Rome School</title></circle></a><a href="/variants/s7/dr4db2lb7db20k7g10y4~x2/"><circle cx="114.8" cy="175.3" r="4" fill="#3465a4"><title>Renfrewshire District Tartan</title></circle></a><a href="/variants/s7/n5db4y1db4k4o4w1~x4/"><circle cx="54.3" cy="231.8" r="4" fill="#3465a4"><title>Devon, Companion</title></circle></a><a href="/variants/s7/k4n4lo1n4r4db4w1~x8~r2406019/"><circle cx="50.2" cy="242.3" r="4" fill="#3465a4"><title>Blackdown Hills Corporate Tartan</title></circle></a><a href="/variants/s6/k8r12w8g15db30y5~x2/"><circle cx="72.9" cy="202.6" r="4" fill="#3465a4"><title>Reekie (Edmonton)</title></circle></a><a href="/variants/s10/n12k3w3k3w3k3n13t6db17dr3~x2~t1904230-db1003265/"><circle cx="95.8" cy="181.4" r="4" fill="#3465a4"><title>Mitsukoshi</title></circle></a><a href="/variants/s8/dg14dp11lb3k5lb3dp11dg14w2~x2~dg1605139-dp1607327/"><circle cx="172.9" cy="213.6" r="4" fill="#3465a4"><title>Wilson's No.229</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="75.0" cy="192.6" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><circle cx="108.2" cy="201.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db9r24g24k24db24y2db9/"><circle cx="112.0" cy="199.5" r="4" fill="#3465a4"><title>Dundas</title></circle></a><a href="/variants/s8/db18k5r26k5g25k5db18y2~x2/"><circle cx="120.8" cy="170.6" r="4" fill="#3465a4"><title>St. Clement of Rome (Corporate)</title></circle></a><a href="/variants/s8/db18k5r26k5g25k5db18y2~x2~db1204274/"><circle cx="124.7" cy="170.7" r="4" fill="#3465a4"><title>St. Clement of Rome School</title></circle></a><a href="/variants/s7/dr4db2lb7db20k7g10y4~x2/"><circle cx="114.8" cy="175.7" r="4" fill="#3465a4"><title>Renfrewshire District Tartan</title></circle></a><a href="/variants/s7/n5db4y1db4k4o4w1~x4/"><circle cx="54.4" cy="232.4" r="4" fill="#3465a4"><title>Devon, Companion</title></circle></a><a href="/variants/s7/k4n4lo1n4r4db4w1~x8~r2406019/"><circle cx="50.3" cy="243.0" r="4" fill="#3465a4"><title>Blackdown Hills Corporate Tartan</title></circle></a><a href="/variants/s6/k8r12w8g15db30y5~x2/"><circle cx="73.0" cy="203.1" r="4" fill="#3465a4"><title>Reekie (Edmonton)</title></circle></a><a href="/variants/s10/n12k3w3k3w3k3n13t6db17dr3~x2~t1904230-db1003265/"><circle cx="95.8" cy="181.9" r="4" fill="#3465a4"><title>Mitsukoshi</title></circle></a><a href="/variants/s8/dg14dp11lb3k5lb3dp11dg14w2~x2~dg1605139-dp1607327/"><circle cx="172.9" cy="214.2" r="4" fill="#3465a4"><title>Wilson's No.229</title></circle></a><a href="/variants/s8/g4lb2g9k4g2r6db12w2~x2/"><circle cx="75.1" cy="193.1" r="4" fill="#3465a4"><title>Cherokee</title></circle></a><circle cx="108.2" cy="201.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db20k3g18r12lb4r12db15y4~x2/

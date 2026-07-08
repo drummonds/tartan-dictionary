@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Jon's Theme (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1ly2k3db12k18w1/)
 (the same proportion at any scale), whose colour order is pattern [KYKBKW](/stripes/kykbkw/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10642
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10642](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10642)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4dr2k12db12k1lo2~x2/"><circle cx="270.7" cy="187.7" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s6/db52k28w5k3w2k10/"><circle cx="323.6" cy="152.3" r="4" fill="#3465a4"><title>St Andrews, Earl of</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="304.4" cy="152.6" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="252.0" cy="196.9" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><circle cx="360.0" cy="132.3" r="4" fill="#3465a4"><title>Pride of Nova Scotia (Corporate)</title></circle></a><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="298.3" cy="176.6" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s6/k4w2k28db30k1db3~x2/"><circle cx="350.8" cy="152.9" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s6/k4y1k20t20k1t4~x4/"><circle cx="299.7" cy="165.4" r="4" fill="#3465a4"><title>Oakleigh (Corporate)</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><circle cx="266.3" cy="114.7" r="4" fill="#3465a4"><title>Fuller of Hopewell (Personal)</title></circle></a><a href="/variants/s6/y2k9w3k9db35w2~x2/"><circle cx="311.4" cy="146.0" r="4" fill="#3465a4"><title>Hannah (Personal)</title></circle></a><circle cx="322.6" cy="151.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4dr2k12db12k1lo2~x2/"><circle cx="270.7" cy="188.1" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s6/db52k28w5k3w2k10/"><circle cx="323.6" cy="152.6" r="4" fill="#3465a4"><title>St Andrews, Earl of</title></circle></a><a href="/variants/s7/k32t2k6t2k13n30w2~x2/"><circle cx="304.4" cy="153.0" r="4" fill="#3465a4"><title>Mountain Rescue Association Honor Guard</title></circle></a><a href="/variants/s6/k42w5k5dg16k5db21~x2/"><circle cx="252.0" cy="197.4" r="4" fill="#3465a4"><title>Givens (Arizona)</title></circle></a><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><circle cx="360.0" cy="132.6" r="4" fill="#3465a4"><title>Pride of Nova Scotia (Corporate)</title></circle></a><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="298.3" cy="177.1" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s6/k4w2k28db30k1db3~x2/"><circle cx="350.8" cy="153.2" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s6/k4y1k20t20k1t4~x4/"><circle cx="299.7" cy="165.8" r="4" fill="#3465a4"><title>Oakleigh (Corporate)</title></circle></a><a href="/variants/s7/k1w1k18db20w1r1y1~x4/"><circle cx="266.2" cy="114.9" r="4" fill="#3465a4"><title>Fuller of Hopewell (Personal)</title></circle></a><a href="/variants/s6/y2k9w3k9db35w2~x2/"><circle cx="311.3" cy="146.3" r="4" fill="#3465a4"><title>Hannah (Personal)</title></circle></a><circle cx="322.5" cy="151.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k1ly2k3db12k18w1~x2/

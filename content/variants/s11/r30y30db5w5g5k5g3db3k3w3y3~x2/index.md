@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Aguilar Gorrondona Family (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r30y30db5w5g5k5g3db3k3w3y3/)
 (the same proportion at any scale), whose colour order is pattern [GWKBGKGWBGR](/stripes/gwkbgkgwbgr/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11016
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11016](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11016)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db4w1k3y1g1w1k1g8r12w1r2k1~x2/"><circle cx="120.6" cy="105.2" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s11/lb13k6y2k3w4k3g22r31lb3r4k2~x2/"><circle cx="125.0" cy="102.2" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/variants/s11/lb4r3y2r9lb3g24lb3r9k3r3w2~x2/"><circle cx="153.5" cy="125.2" r="4" fill="#3465a4"><title>Wilson's, No 128</title></circle></a><a href="/variants/s11/dp45k12y4k4w6k4g50r57dp4r10k4~x2/"><circle cx="123.1" cy="105.7" r="4" fill="#3465a4"><title>MacLean Variation</title></circle></a><a href="/variants/s9/lb3n1k1ri12r1g9r1n1lb3~x2~ri2209032-r2208029/"><circle cx="164.6" cy="132.1" r="4" fill="#3465a4"><title>Murray of Abercairney (Personal)</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/"><circle cx="143.3" cy="96.6" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x4/"><circle cx="143.3" cy="96.6" r="4" fill="#3465a4"><title>Baxter (Clan)</title></circle></a><a href="/variants/s9/db3lb1k1r12ri1g9r1lb1db3~x4~r2109032-ri2406019/"><circle cx="167.6" cy="126.6" r="4" fill="#3465a4"><title>Moray of Abercairney Clan Tartan</title></circle></a><a href="/variants/s13/w2r16k1lb2k1y4k1y4k1lb2k1dg16lb2~x4/"><circle cx="112.4" cy="88.9" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/"><circle cx="161.0" cy="132.5" r="4" fill="#3465a4"><title>Murray of Abercairney</title></circle></a><circle cx="126.8" cy="120.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db4w1k3y1g1w1k1g8r12w1r2k1~x2/"><circle cx="120.5" cy="105.5" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s11/lb13k6y2k3w4k3g22r31lb3r4k2~x2/"><circle cx="125.0" cy="102.5" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/variants/s11/lb4r3y2r9lb3g24lb3r9k3r3w2~x2/"><circle cx="153.4" cy="125.5" r="4" fill="#3465a4"><title>Wilson's, No 128</title></circle></a><a href="/variants/s11/dp45k12y4k4w6k4g50r57dp4r10k4~x2/"><circle cx="123.0" cy="105.9" r="4" fill="#3465a4"><title>MacLean Variation</title></circle></a><a href="/variants/s9/lb3n1k1ri12r1g9r1n1lb3~x2~ri2209032-r2208029/"><circle cx="164.5" cy="132.4" r="4" fill="#3465a4"><title>Murray of Abercairney (Personal)</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x2/"><circle cx="143.2" cy="96.8" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/variants/s11/w2r16k1lb2k1y4k1lb2k1g16lb1~x4/"><circle cx="143.2" cy="96.8" r="4" fill="#3465a4"><title>Baxter (Clan)</title></circle></a><a href="/variants/s9/db3lb1k1r12ri1g9r1lb1db3~x4~r2109032-ri2406019/"><circle cx="167.6" cy="126.9" r="4" fill="#3465a4"><title>Moray of Abercairney Clan Tartan</title></circle></a><a href="/variants/s13/w2r16k1lb2k1y4k1y4k1lb2k1dg16lb2~x4/"><circle cx="112.3" cy="89.1" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/"><circle cx="161.0" cy="132.8" r="4" fill="#3465a4"><title>Murray of Abercairney</title></circle></a><circle cx="126.7" cy="120.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r30y30db5w5g5k5g3db3k3w3y3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harazeen"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2g1w1k1/)
 (the same proportion at any scale), whose colour order is pattern [KWGRKWGR](/stripes/kwgrkwgr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10249
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10249](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10249)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r1g3dp3w1~x4/"><circle cx="139.6" cy="304.3" r="4" fill="#3465a4"><title>Wilson's, No 113</title></circle></a><a href="/variants/s5/n11k4dr4lo4n11~x4/"><circle cx="143.8" cy="261.5" r="4" fill="#3465a4"><title>Ikelman #3 (Personal)</title></circle></a><a href="/variants/s4/r3g1k3w1~x20/"><circle cx="97.4" cy="276.4" r="4" fill="#3465a4"><title>SAL Glindrande Stiernan</title></circle></a><a href="/variants/s5/k6r33k18w20db6~x2/"><circle cx="120.2" cy="227.8" r="4" fill="#3465a4"><title>Brodie Dress</title></circle></a><a href="/variants/s4/r6g5k5lb1~x2/"><circle cx="110.5" cy="263.7" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/variants/s4/k7r5w3db2~x4/"><circle cx="100.3" cy="274.6" r="4" fill="#3465a4"><title>Thomas Newcomen's Combustion Engine</title></circle></a><a href="/variants/s5/r21k21w10k10w21~x2/"><circle cx="78.6" cy="318.9" r="4" fill="#3465a4"><title>Havel</title></circle></a><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="88.0" cy="238.1" r="4" fill="#3465a4"><title>Heidrick Family (Personal)</title></circle></a><a href="/variants/s4/r9g9k10lb2~x2~r2109032/"><circle cx="92.8" cy="275.5" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/variants/s7/ly11r6k10ly10k10dy10r4~x2/"><circle cx="31.3" cy="293.9" r="4" fill="#3465a4"><title>Duffus Hose, Lord</title></circle></a><circle cx="46.2" cy="286.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r1g3dp3w1~x4/"><circle cx="139.9" cy="305.2" r="4" fill="#3465a4"><title>Wilson's, No 113</title></circle></a><a href="/variants/s5/n11k4dr4lo4n11~x4/"><circle cx="143.9" cy="262.3" r="4" fill="#3465a4"><title>Ikelman #3 (Personal)</title></circle></a><a href="/variants/s4/r3g1k3w1~x20/"><circle cx="97.6" cy="277.4" r="4" fill="#3465a4"><title>SAL Glindrande Stiernan</title></circle></a><a href="/variants/s5/k6r33k18w20db6~x2/"><circle cx="120.3" cy="228.5" r="4" fill="#3465a4"><title>Brodie Dress</title></circle></a><a href="/variants/s4/r6g5k5lb1~x2/"><circle cx="110.7" cy="264.6" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/variants/s4/k7r5w3db2~x4/"><circle cx="100.5" cy="275.5" r="4" fill="#3465a4"><title>Thomas Newcomen's Combustion Engine</title></circle></a><a href="/variants/s5/r21k21w10k10w21~x2/"><circle cx="78.8" cy="320.1" r="4" fill="#3465a4"><title>Havel</title></circle></a><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="88.1" cy="238.9" r="4" fill="#3465a4"><title>Heidrick Family (Personal)</title></circle></a><a href="/variants/s4/r9g9k10lb2~x2~r2109032/"><circle cx="93.0" cy="276.4" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/variants/s7/ly11r6k10ly10k10dy10r4~x2/"><circle cx="31.5" cy="294.9" r="4" fill="#3465a4"><title>Duffus Hose, Lord</title></circle></a><circle cx="46.5" cy="287.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/r2g1w1k1~x20/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ferguson, Jerrfey S (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g27db12k12r9k1ly2/)
 (the same proportion at any scale), whose colour order is pattern [GBKRKY](/stripes/gbkrky/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11199
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11199](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11199)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g27db12k12r9k1y2~x2/"><circle cx="181.3" cy="144.7" r="4" fill="#3465a4"><title>Ferguson, Jeffrey S (Personal)</title></circle></a><a href="/variants/s7/w5k26ly2g24db8k4r3~x2/"><circle cx="133.3" cy="139.6" r="4" fill="#3465a4"><title>Cornish Htg (District)</title></circle></a><a href="/variants/s6/lb3dr30k18db6g30k2~x2/"><circle cx="149.9" cy="173.8" r="4" fill="#3465a4"><title>Bryant (Dalgleish) (Personal)</title></circle></a><a href="/variants/s6/dy30ly5lb10k10w2k2~x2/"><circle cx="213.2" cy="148.2" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/variants/s7/g30dp5db32k32g36lg2y5~g2208144-lg3105139/"><circle cx="168.1" cy="157.6" r="4" fill="#3465a4"><title>Camelot (Corporate)</title></circle></a><a href="/variants/s5/g21db10k26ly10r1~x2/"><circle cx="149.8" cy="170.8" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/variants/s7/lb31k18dg13r3dg13k1y3~x2/"><circle cx="164.0" cy="128.8" r="4" fill="#3465a4"><title>Big Sur MacLaren (Personal)</title></circle></a><a href="/variants/s6/y2g23k21r2t22g2~x2/"><circle cx="135.6" cy="180.7" r="4" fill="#3465a4"><title>Royal Ashburn Golf Club</title></circle></a><a href="/variants/s5/dg21db10k26ly10r1~x2/"><circle cx="164.4" cy="172.2" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/"><circle cx="210.9" cy="112.6" r="4" fill="#3465a4"><title>Stansbury (2014)</title></circle></a><circle cx="178.0" cy="143.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g27db12k12r9k1y2~x2/"><circle cx="181.2" cy="145.0" r="4" fill="#3465a4"><title>Ferguson, Jeffrey S (Personal)</title></circle></a><a href="/variants/s7/w5k26ly2g24db8k4r3~x2/"><circle cx="133.2" cy="139.9" r="4" fill="#3465a4"><title>Cornish Htg (District)</title></circle></a><a href="/variants/s6/lb3dr30k18db6g30k2~x2/"><circle cx="149.8" cy="174.2" r="4" fill="#3465a4"><title>Bryant (Dalgleish) (Personal)</title></circle></a><a href="/variants/s6/dy30ly5lb10k10w2k2~x2/"><circle cx="213.1" cy="148.6" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/variants/s7/g30dp5db32k32g36lg2y5~g2208144-lg3105139/"><circle cx="168.0" cy="158.0" r="4" fill="#3465a4"><title>Camelot (Corporate)</title></circle></a><a href="/variants/s5/g21db10k26ly10r1~x2/"><circle cx="149.8" cy="171.2" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/variants/s7/lb31k18dg13r3dg13k1y3~x2/"><circle cx="164.0" cy="129.1" r="4" fill="#3465a4"><title>Big Sur MacLaren (Personal)</title></circle></a><a href="/variants/s6/y2g23k21r2t22g2~x2/"><circle cx="135.6" cy="181.2" r="4" fill="#3465a4"><title>Royal Ashburn Golf Club</title></circle></a><a href="/variants/s5/dg21db10k26ly10r1~x2/"><circle cx="164.4" cy="172.6" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/variants/s8/g28r3k28db8lb1g8r2k3~x2/"><circle cx="210.8" cy="112.9" r="4" fill="#3465a4"><title>Stansbury (2014)</title></circle></a><circle cx="177.9" cy="144.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g27db12k12r9k1ly2~x2/

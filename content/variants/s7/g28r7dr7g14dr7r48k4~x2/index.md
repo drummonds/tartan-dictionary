@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacNab (Crimson)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g28r7dr7g14dr7r48k4/)
 (the same proportion at any scale), whose colour order is pattern [GRBGBRK](/stripes/grbgbrk/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2668
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2668](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2668)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g6ri2r2g4r2ri12k1~x2~ri2209032-r1707016/"><circle cx="271.9" cy="183.3" r="4" fill="#3465a4"><title>MacNab #3</title></circle></a><a href="/variants/s7/g6ri2r2g4r2ri12k1~x2~ri2008029-r1707016/"><circle cx="281.3" cy="187.5" r="4" fill="#3465a4"><title>MacNab 5</title></circle></a><a href="/variants/s7/g6r2dr2g4dr2r12k1~x2~r1908029/"><circle cx="280.2" cy="189.0" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><a href="/variants/s7/g6r2dp2g4dp2r12k1~x2/"><circle cx="257.3" cy="179.2" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><a href="/variants/s7/k2r4w1r10g12r2w2~x4/"><circle cx="238.8" cy="174.1" r="4" fill="#3465a4"><title>Starr (1978) (Name)</title></circle></a><a href="/variants/s8/k1r9g2r2g4w1g4r1~x2/"><circle cx="258.7" cy="184.4" r="4" fill="#3465a4"><title>Comyn</title></circle></a><a href="/variants/s6/r30k8g30t4r3t2~x2/"><circle cx="232.1" cy="169.1" r="4" fill="#3465a4"><title>Plummer Family Personal Tartan</title></circle></a><a href="/variants/s6/k1g6k1g6r16db1~x2/"><circle cx="299.3" cy="160.2" r="4" fill="#3465a4"><title>Denny, hunting</title></circle></a><a href="/variants/s6/k2r16g6r3g8lb1~x2/"><circle cx="297.2" cy="174.2" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s7/k2r12db6r3g12r4db1~x2/"><circle cx="224.9" cy="186.9" r="4" fill="#3465a4"><title>MacBean/MacElvain</title></circle></a><circle cx="265.7" cy="177.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g6ri2r2g4r2ri12k1~x2~ri2209032-r1707016/"><circle cx="272.0" cy="183.7" r="4" fill="#3465a4"><title>MacNab #3</title></circle></a><a href="/variants/s7/g6ri2r2g4r2ri12k1~x2~ri2008029-r1707016/"><circle cx="281.4" cy="188.0" r="4" fill="#3465a4"><title>MacNab 5</title></circle></a><a href="/variants/s7/g6r2dr2g4dr2r12k1~x2~r1908029/"><circle cx="280.2" cy="189.4" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><a href="/variants/s7/g6r2dp2g4dp2r12k1~x2/"><circle cx="257.3" cy="179.7" r="4" fill="#3465a4"><title>MacNab VS</title></circle></a><a href="/variants/s7/k2r4w1r10g12r2w2~x4/"><circle cx="238.9" cy="174.6" r="4" fill="#3465a4"><title>Starr (1978) (Name)</title></circle></a><a href="/variants/s8/k1r9g2r2g4w1g4r1~x2/"><circle cx="258.7" cy="185.0" r="4" fill="#3465a4"><title>Comyn</title></circle></a><a href="/variants/s6/r30k8g30t4r3t2~x2/"><circle cx="232.1" cy="169.5" r="4" fill="#3465a4"><title>Plummer Family Personal Tartan</title></circle></a><a href="/variants/s6/k1g6k1g6r16db1~x2/"><circle cx="299.3" cy="160.6" r="4" fill="#3465a4"><title>Denny, hunting</title></circle></a><a href="/variants/s6/k2r16g6r3g8lb1~x2/"><circle cx="297.3" cy="174.7" r="4" fill="#3465a4"><title>MacAulay</title></circle></a><a href="/variants/s7/k2r12db6r3g12r4db1~x2/"><circle cx="224.9" cy="187.4" r="4" fill="#3465a4"><title>MacBean/MacElvain</title></circle></a><circle cx="265.7" cy="178.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/g28r7dr7g14dr7r48k4~x2/

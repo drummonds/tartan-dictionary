@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Letham Hunting (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2/)
 (the same proportion at any scale), whose colour order is pattern [BKGWKBKGKWKWGKB](/stripes/bkgwkbkgkwkwgkb/).
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10025
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10025](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10025)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/"><circle cx="117.5" cy="139.5" r="4" fill="#3465a4"><title>Ogilvie of Inverarity (Wilson) / Ochterlonie</title></circle></a><a href="/variants/s14/g16k3g20w2r3k2r3w2g2db18k2r4w2g3~x2/"><circle cx="184.0" cy="129.3" r="4" fill="#3465a4"><title>MacFarlane Hunting Clan Tartan</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/"><circle cx="169.2" cy="149.3" r="4" fill="#3465a4"><title>Reid, Green</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/"><circle cx="169.2" cy="149.3" r="4" fill="#3465a4"><title>Reid Family Tartan</title></circle></a><a href="/variants/s16/t11k3t3k3t4k15g36w3g36k15t4k3t3k3t11r4~x2/"><circle cx="175.8" cy="122.0" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="153.1" cy="145.7" r="4" fill="#3465a4"><title>Skene (Maclan)</title></circle></a><a href="/variants/s16/g5k24g12k16g26w4g24w4g26k16db4k4db4k4dbi28g3~db1404245-dbi1406275/"><circle cx="145.2" cy="152.6" r="4" fill="#3465a4"><title>O'Conner Irish Family Tartan</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/"><circle cx="156.2" cy="146.9" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3~x2/"><circle cx="161.4" cy="142.3" r="4" fill="#3465a4"><title>Cochrane (1974)</title></circle></a><a href="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3/"><circle cx="161.4" cy="142.3" r="4" fill="#3465a4"><title>Cochrane LC</title></circle></a><circle cx="142.8" cy="137.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db20ly3k7g11k2g3k2g3r4~x2/"><circle cx="117.5" cy="139.8" r="4" fill="#3465a4"><title>Ogilvie of Inverarity (Wilson) / Ochterlonie</title></circle></a><a href="/variants/s14/g16k3g20w2r3k2r3w2g2db18k2r4w2g3~x2/"><circle cx="184.0" cy="129.6" r="4" fill="#3465a4"><title>MacFarlane Hunting Clan Tartan</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/"><circle cx="169.1" cy="149.7" r="4" fill="#3465a4"><title>Reid, Green</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/"><circle cx="169.1" cy="149.7" r="4" fill="#3465a4"><title>Reid Family Tartan</title></circle></a><a href="/variants/s16/t11k3t3k3t4k15g36w3g36k15t4k3t3k3t11r4~x2/"><circle cx="175.7" cy="122.2" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4lo3k4g24r3k4~x2/"><circle cx="153.0" cy="146.0" r="4" fill="#3465a4"><title>Skene (Maclan)</title></circle></a><a href="/variants/s16/g5k24g12k16g26w4g24w4g26k16db4k4db4k4dbi28g3~db1404245-dbi1406275/"><circle cx="145.2" cy="153.0" r="4" fill="#3465a4"><title>O'Conner Irish Family Tartan</title></circle></a><a href="/variants/s12/k4db24k4r3k4g24k4y3k4g24r3k4/"><circle cx="156.1" cy="147.3" r="4" fill="#3465a4"><title>Skene N</title></circle></a><a href="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3~x2/"><circle cx="161.4" cy="142.6" r="4" fill="#3465a4"><title>Cochrane (1974)</title></circle></a><a href="/variants/s13/g22r4g2r2g2r4g12k12r2db10r4db4y3/"><circle cx="161.4" cy="142.6" r="4" fill="#3465a4"><title>Cochrane LC</title></circle></a><circle cx="142.8" cy="137.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/

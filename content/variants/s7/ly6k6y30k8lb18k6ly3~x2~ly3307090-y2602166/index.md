@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cape Breton (yellow stripes)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly6k6y30k8lb18k6ly3/)
 (the same proportion at any scale), whose colour order is pattern [YKGKWKY](/stripes/ykgkwky/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=557
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=557](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=557)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y6k6g30k8lb18k6y3~x2/"><circle cx="142.3" cy="190.8" r="4" fill="#3465a4"><title>Cape Breton (yellow stripes) (Dist)</title></circle></a><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/"><circle cx="118.0" cy="178.5" r="4" fill="#3465a4"><title>MacLeod (Clan)</title></circle></a><a href="/variants/s8/k4y2k13y1w8lb13y2lb4~x2/"><circle cx="132.0" cy="171.0" r="4" fill="#3465a4"><title>Bannockbane, Blue</title></circle></a><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="165.0" cy="181.0" r="4" fill="#3465a4"><title>Black &amp; White Golf (Corporate)</title></circle></a><a href="/variants/s7/g16dp4g8dp13k3w26dp10~x2/"><circle cx="122.1" cy="213.0" r="4" fill="#3465a4"><title>Because You Care</title></circle></a><a href="/variants/s8/k4lo2k13lo1w8t13lo2t4~x2/"><circle cx="138.0" cy="177.1" r="4" fill="#3465a4"><title>Bannockbane Blue #1</title></circle></a><a href="/variants/s6/r2n20k5w10k10r2~x2/"><circle cx="150.0" cy="189.7" r="4" fill="#3465a4"><title>Thom(p)son, Grey</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="112.7" cy="164.3" r="4" fill="#3465a4"><title>Hackett, William (Coatbridge) (Personal)</title></circle></a><a href="/variants/s7/y9k32g6w20y3w9k5~x2/"><circle cx="163.3" cy="178.9" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/"><circle cx="100.9" cy="180.8" r="4" fill="#3465a4"><title>MacRobart Dress (Personal)</title></circle></a><circle cx="142.1" cy="187.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y6k6g30k8lb18k6y3~x2/"><circle cx="142.3" cy="191.4" r="4" fill="#3465a4"><title>Cape Breton (yellow stripes) (Dist)</title></circle></a><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/"><circle cx="118.0" cy="179.0" r="4" fill="#3465a4"><title>MacLeod (Clan)</title></circle></a><a href="/variants/s8/k4y2k13y1w8lb13y2lb4~x2/"><circle cx="132.0" cy="171.5" r="4" fill="#3465a4"><title>Bannockbane, Blue</title></circle></a><a href="/variants/s7/ly9k32g6w20ly3w9k5~x2/"><circle cx="165.1" cy="181.6" r="4" fill="#3465a4"><title>Black &amp; White Golf (Corporate)</title></circle></a><a href="/variants/s7/g16dp4g8dp13k3w26dp10~x2/"><circle cx="122.2" cy="213.7" r="4" fill="#3465a4"><title>Because You Care</title></circle></a><a href="/variants/s8/k4lo2k13lo1w8t13lo2t4~x2/"><circle cx="138.1" cy="177.6" r="4" fill="#3465a4"><title>Bannockbane Blue #1</title></circle></a><a href="/variants/s6/r2n20k5w10k10r2~x2/"><circle cx="150.0" cy="190.3" r="4" fill="#3465a4"><title>Thom(p)son, Grey</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="112.8" cy="164.8" r="4" fill="#3465a4"><title>Hackett, William (Coatbridge) (Personal)</title></circle></a><a href="/variants/s7/y9k32g6w20y3w9k5~x2/"><circle cx="163.3" cy="179.4" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><a href="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/"><circle cx="100.9" cy="181.3" r="4" fill="#3465a4"><title>MacRobart Dress (Personal)</title></circle></a><circle cx="142.1" cy="187.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/ly6k6y30k8lb18k6ly3~x2~ly3307090-y2602166/

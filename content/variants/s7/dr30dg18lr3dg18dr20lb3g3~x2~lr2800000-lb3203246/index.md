@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tartan for London, A (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr30dg18lr3dg18dr20lb3g3/)
 (the same proportion at any scale), whose colour order is pattern [BGYGBWG](/stripes/bgygbwg/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8128
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8128](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8128)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr2o2dr17dt17m2dt2~x4/"><circle cx="431.5" cy="256.8" r="4" fill="#3465a4"><title>Eglington</title></circle></a><a href="/variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/"><circle cx="236.5" cy="262.7" r="4" fill="#3465a4"><title>Heather MacRae</title></circle></a><a href="/variants/s7/r8w2dr30dg12dr3dg12dr3~x2/"><circle cx="368.0" cy="205.7" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><a href="/variants/s8/dg8do2dg13db4dg12n22dg5ly3~x2/"><circle cx="379.4" cy="241.7" r="4" fill="#3465a4"><title>Scottish Pup</title></circle></a><a href="/variants/s7/g1dr7g7n2dr1dg15lb1~x4/"><circle cx="321.0" cy="209.2" r="4" fill="#3465a4"><title>Ramsay (Green Fashion)</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="267.9" cy="231.5" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/variants/s6/dr2dg14lb3dr13ly1dr2~x4/"><circle cx="364.7" cy="222.3" r="4" fill="#3465a4"><title>Swedish Para Whisky Club (Corporate</title></circle></a><a href="/variants/s6/dr58db12dr5g28dr7ly5~x2/"><circle cx="393.1" cy="213.8" r="4" fill="#3465a4"><title>Cairn O'Mount (Personal)</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.5" cy="296.3" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s8/dy35dg19r3g8r3dg8r3db3~x2/"><circle cx="324.2" cy="205.4" r="4" fill="#3465a4"><title>John Muir Way</title></circle></a><circle cx="383.6" cy="247.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dr2o2dr17dt17m2dt2~x4/"><circle cx="431.7" cy="257.0" r="4" fill="#3465a4"><title>Eglington</title></circle></a><a href="/variants/s7/dg2dr12db11ly6dy6dr12dg2~x2/"><circle cx="236.7" cy="263.2" r="4" fill="#3465a4"><title>Heather MacRae</title></circle></a><a href="/variants/s7/r8w2dr30dg12dr3dg12dr3~x2/"><circle cx="368.0" cy="206.0" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><a href="/variants/s8/dg8do2dg13db4dg12n22dg5ly3~x2/"><circle cx="379.5" cy="242.0" r="4" fill="#3465a4"><title>Scottish Pup</title></circle></a><a href="/variants/s7/g1dr7g7n2dr1dg15lb1~x4/"><circle cx="321.1" cy="209.4" r="4" fill="#3465a4"><title>Ramsay (Green Fashion)</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="268.0" cy="231.8" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/variants/s6/dr2dg14lb3dr13ly1dr2~x4/"><circle cx="364.8" cy="222.6" r="4" fill="#3465a4"><title>Swedish Para Whisky Club (Corporate</title></circle></a><a href="/variants/s6/dr58db12dr5g28dr7ly5~x2/"><circle cx="393.2" cy="214.2" r="4" fill="#3465a4"><title>Cairn O'Mount (Personal)</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.7" cy="296.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s8/dy35dg19r3g8r3dg8r3db3~x2/"><circle cx="324.2" cy="205.5" r="4" fill="#3465a4"><title>John Muir Way</title></circle></a><circle cx="383.7" cy="247.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dr30dg18lr3dg18dr20lb3g3~x2~lr2800000-lb3203246/

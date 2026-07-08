@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hunting Kenmore"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2dg19g2dg2g19dg2y2/)
 (the same proportion at any scale), whose colour order is pattern [GGGGGGR](/stripes/ggggggr/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2dg19g2dg2g19dg2k2~x2/"><circle cx="293.0" cy="189.1" r="4" fill="#3465a4"><title>Hunting Kenmore Trade Com. Tartan</title></circle></a><a href="/variants/s6/dg30g13dg7g30dg2y4~x2/"><circle cx="423.4" cy="264.4" r="4" fill="#3465a4"><title>MacSporran Rejected design</title></circle></a><a href="/variants/s6/r3dg1g32dg32g1y3~x2/"><circle cx="391.7" cy="176.5" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s6/r3dg2g32dg32g2w3~x2/"><circle cx="330.2" cy="192.3" r="4" fill="#3465a4"><title>Galloway Hunting</title></circle></a><a href="/variants/s6/r3dg1g32dg32g1w3~x2/"><circle cx="352.2" cy="163.4" r="4" fill="#3465a4"><title>Galloway, hunting</title></circle></a><a href="/variants/s9/dg2ly6g24r2dy2dg1dy6dg10g2~x2~g1906142/"><circle cx="303.8" cy="154.0" r="4" fill="#3465a4"><title>Fitzgibbon</title></circle></a><a href="/variants/s9/dg2ly6g24r2dy2dg1dy6dg10g2~x2/"><circle cx="286.5" cy="148.7" r="4" fill="#3465a4"><title>Fitzgibbon (Name)</title></circle></a><a href="/variants/s10/dg5dt2dg18ly2dt5ly2o5dt17dg2ly4~x2/"><circle cx="268.3" cy="215.1" r="4" fill="#3465a4"><title>Antrim, County</title></circle></a><a href="/variants/s9/g4y2g17dg2r4dg2g3dg11g2~x2/"><circle cx="347.2" cy="219.9" r="4" fill="#3465a4"><title>Armagh</title></circle></a><a href="/variants/s9/g4lo1dt1lo1dt2g9r1dt6w1~x4/"><circle cx="256.7" cy="190.0" r="4" fill="#3465a4"><title>Casey of West Virginia (Personal)</title></circle></a><circle cx="354.0" cy="217.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2dg19g2dg2g19dg2k2~x2/"><circle cx="293.0" cy="189.5" r="4" fill="#3465a4"><title>Hunting Kenmore Trade Com. Tartan</title></circle></a><a href="/variants/s6/dg30g13dg7g30dg2y4~x2/"><circle cx="423.5" cy="264.8" r="4" fill="#3465a4"><title>MacSporran Rejected design</title></circle></a><a href="/variants/s6/r3dg1g32dg32g1y3~x2/"><circle cx="391.7" cy="176.7" r="4" fill="#3465a4"><title>Galloway</title></circle></a><a href="/variants/s6/r3dg2g32dg32g2w3~x2/"><circle cx="330.2" cy="192.6" r="4" fill="#3465a4"><title>Galloway Hunting</title></circle></a><a href="/variants/s6/r3dg1g32dg32g1w3~x2/"><circle cx="352.2" cy="163.6" r="4" fill="#3465a4"><title>Galloway, hunting</title></circle></a><a href="/variants/s9/dg2ly6g24r2dy2dg1dy6dg10g2~x2~g1906142/"><circle cx="303.8" cy="154.1" r="4" fill="#3465a4"><title>Fitzgibbon</title></circle></a><a href="/variants/s9/dg2ly6g24r2dy2dg1dy6dg10g2~x2/"><circle cx="286.4" cy="148.9" r="4" fill="#3465a4"><title>Fitzgibbon (Name)</title></circle></a><a href="/variants/s10/dg5dt2dg18ly2dt5ly2o5dt17dg2ly4~x2/"><circle cx="268.4" cy="215.5" r="4" fill="#3465a4"><title>Antrim, County</title></circle></a><a href="/variants/s9/g4y2g17dg2r4dg2g3dg11g2~x2/"><circle cx="347.3" cy="220.2" r="4" fill="#3465a4"><title>Armagh</title></circle></a><a href="/variants/s9/g4lo1dt1lo1dt2g9r1dt6w1~x4/"><circle cx="256.8" cy="190.4" r="4" fill="#3465a4"><title>Casey of West Virginia (Personal)</title></circle></a><circle cx="354.1" cy="218.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r2dg19g2dg2g19dg2y2~x2/

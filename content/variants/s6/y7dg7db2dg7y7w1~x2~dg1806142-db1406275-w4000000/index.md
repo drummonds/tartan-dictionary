@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Norwich No.078"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y7dg7db2dg7y7w1/)
 (the same proportion at any scale), whose colour order is pattern [GGBGGW](/stripes/ggbggw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3195
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3195](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3195)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g1dy8g8r1g8dy8w1~x2/"><circle cx="296.7" cy="243.9" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s7/g1dy8g8r1g8dy8w1~x4/"><circle cx="296.7" cy="243.9" r="4" fill="#3465a4"><title>MacKinnon Htg (Clan)</title></circle></a><a href="/variants/s4/dy5dt32dy32w5~x2/"><circle cx="394.7" cy="313.0" r="4" fill="#3465a4"><title>Barclay Dress</title></circle></a><a href="/variants/s6/dg2y14dg8y3dg12lo2~x2/"><circle cx="382.7" cy="284.5" r="4" fill="#3465a4"><title>Confederate Cavalry (Military)</title></circle></a><a href="/variants/s6/r2g12ly3g8ly14g2~x2/"><circle cx="362.1" cy="278.2" r="4" fill="#3465a4"><title>Confederate Artillery (Military)</title></circle></a><a href="/variants/s6/y11dg5y10g4dg26y4~x2/"><circle cx="400.7" cy="293.1" r="4" fill="#3465a4"><title>North Dakota State University Bison</title></circle></a><a href="/variants/s6/g4dy25g6db12g12db3~x2/"><circle cx="298.2" cy="278.9" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><a href="/variants/s7/dy9g9y2g9dy9t9dy3~x2/"><circle cx="250.0" cy="326.6" r="4" fill="#3465a4"><title>MacKay - 1800 (Reay Coat) (Artefact)</title></circle></a><a href="/variants/s5/g7dy6dt7dy1dt2~x6/"><circle cx="332.0" cy="331.7" r="4" fill="#3465a4"><title>Bright of Garth (Personal)</title></circle></a><a href="/variants/s5/o2g10dy15o10g2~x4/"><circle cx="290.3" cy="289.6" r="4" fill="#3465a4"><title>Harmony 6</title></circle></a><circle cx="349.9" cy="316.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g1dy8g8r1g8dy8w1~x2/"><circle cx="296.8" cy="244.4" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s7/g1dy8g8r1g8dy8w1~x4/"><circle cx="296.8" cy="244.4" r="4" fill="#3465a4"><title>MacKinnon Htg (Clan)</title></circle></a><a href="/variants/s4/dy5dt32dy32w5~x2/"><circle cx="395.0" cy="313.5" r="4" fill="#3465a4"><title>Barclay Dress</title></circle></a><a href="/variants/s6/dg2y14dg8y3dg12lo2~x2/"><circle cx="382.9" cy="285.1" r="4" fill="#3465a4"><title>Confederate Cavalry (Military)</title></circle></a><a href="/variants/s6/r2g12ly3g8ly14g2~x2/"><circle cx="362.4" cy="278.9" r="4" fill="#3465a4"><title>Confederate Artillery (Military)</title></circle></a><a href="/variants/s6/y11dg5y10g4dg26y4~x2/"><circle cx="400.9" cy="293.6" r="4" fill="#3465a4"><title>North Dakota State University Bison</title></circle></a><a href="/variants/s6/g4dy25g6db12g12db3~x2/"><circle cx="298.3" cy="279.4" r="4" fill="#3465a4"><title>Canadian Fancy</title></circle></a><a href="/variants/s7/dy9g9y2g9dy9t9dy3~x2/"><circle cx="250.2" cy="327.3" r="4" fill="#3465a4"><title>MacKay - 1800 (Reay Coat) (Artefact)</title></circle></a><a href="/variants/s5/g7dy6dt7dy1dt2~x6/"><circle cx="332.3" cy="332.2" r="4" fill="#3465a4"><title>Bright of Garth (Personal)</title></circle></a><a href="/variants/s5/o2g10dy15o10g2~x4/"><circle cx="290.5" cy="290.2" r="4" fill="#3465a4"><title>Harmony 6</title></circle></a><circle cx="350.2" cy="317.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/y7dg7db2dg7y7w1~x2~dg1806142-db1406275-w4000000/

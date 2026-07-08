@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Fred Perry"
   url: "/tartans/fred-perry/"
+- name: "Fred Perry"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db36r4db3w3db36dg6w1dg2w1dg10r1dg10w1dg2w1dg6/)
 (the same proportion at any scale), whose colour order is pattern [BRBWBGWGWGRGWGWG](/stripes/brbwbgwgwgrgwgwg/).
@@ -14,7 +16,7 @@ Part of the [Fred Perry](/tartans/fred-perry/) tartan — the named design group
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10902
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10902](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10902)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/db36r4db3w3db36g6w1g2w1g10r1g10w1g2w1g6~x2/"><circle cx="373.1" cy="88.6" r="4" fill="#3465a4"><title>Fred Perry (Corporate)</title></circle></a><a href="/variants/s11/n3w1n1w1n2w3n14db2n2db32r2~x2/"><circle cx="371.8" cy="107.3" r="4" fill="#3465a4"><title>Unknown</title></circle></a><a href="/variants/s11/g8db3g2db4ly2db5g7db4g4db37r6~db1204274/"><circle cx="396.6" cy="137.7" r="4" fill="#3465a4"><title>Jenkins (Welsh Name)</title></circle></a><a href="/variants/s9/db70w6db21g10t27g4t4g1r4~x2/"><circle cx="388.7" cy="100.1" r="4" fill="#3465a4"><title>State Seal of Tennessee (Fashion)</title></circle></a><a href="/variants/s10/db57y2db10dg4db4dg9r12db4r4lr2~x2/"><circle cx="452.2" cy="106.4" r="4" fill="#3465a4"><title>Unidentified #64</title></circle></a><a href="/variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/"><circle cx="430.8" cy="82.4" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/variants/s11/db4n21db8k4db4y4db9n9db38k1w3~x2/"><circle cx="366.5" cy="106.0" r="4" fill="#3465a4"><title>Connaught Ancestry</title></circle></a><a href="/variants/s11/db45n5o1dt1lb1dt1lb5o3dt1o2lb1~x4~n1900000-o2500000/"><circle cx="462.0" cy="65.0" r="4" fill="#3465a4"><title>Mingulay (Fashion)</title></circle></a><a href="/variants/s15/db1k6db2k8db2k2db52r2db2y8db2y6db2y2r1~x2/"><circle cx="395.3" cy="34.6" r="4" fill="#3465a4"><title>(3) Laing</title></circle></a><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><circle cx="424.8" cy="81.8" r="4" fill="#3465a4"><title>Hybelius, J-A (Personal)</title></circle></a><circle cx="405.9" cy="97.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/db36r4db3w3db36g6w1g2w1g10r1g10w1g2w1g6~x2/"><circle cx="373.0" cy="88.6" r="4" fill="#3465a4"><title>Fred Perry (Corporate)</title></circle></a><a href="/variants/s11/n3w1n1w1n2w3n14db2n2db32r2~x2/"><circle cx="371.7" cy="107.4" r="4" fill="#3465a4"><title>Unknown</title></circle></a><a href="/variants/s11/g8db3g2db4ly2db5g7db4g4db37r6~db1204274/"><circle cx="396.5" cy="137.9" r="4" fill="#3465a4"><title>Jenkins (Welsh Name)</title></circle></a><a href="/variants/s9/db70w6db21g10t27g4t4g1r4~x2/"><circle cx="388.6" cy="100.2" r="4" fill="#3465a4"><title>State Seal of Tennessee (Fashion)</title></circle></a><a href="/variants/s10/db57y2db10dg4db4dg9r12db4r4lr2~x2/"><circle cx="452.1" cy="106.4" r="4" fill="#3465a4"><title>Unidentified #64</title></circle></a><a href="/variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/"><circle cx="430.7" cy="82.4" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/variants/s11/db4n21db8k4db4y4db9n9db38k1w3~x2/"><circle cx="366.4" cy="106.0" r="4" fill="#3465a4"><title>Connaught Ancestry</title></circle></a><a href="/variants/s11/db45n5o1dt1lb1dt1lb5o3dt1o2lb1~x4~n1900000-o2500000/"><circle cx="461.9" cy="64.9" r="4" fill="#3465a4"><title>Mingulay (Fashion)</title></circle></a><a href="/variants/s15/db1k6db2k8db2k2db52r2db2y8db2y6db2y2r1~x2/"><circle cx="395.1" cy="34.4" r="4" fill="#3465a4"><title>(3) Laing</title></circle></a><a href="/variants/s9/db58y2r1lb4y2r2lb7r8y6~x2/"><circle cx="424.7" cy="81.9" r="4" fill="#3465a4"><title>Hybelius, J-A (Personal)</title></circle></a><circle cx="405.8" cy="97.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/db36r4db3w3db36dg6w1dg2w1dg10r1dg10w1dg2w1dg6~x2/

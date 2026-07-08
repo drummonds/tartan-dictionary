@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Jones, Alexander Michael (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg34w6g20yi20k2dr2r2dr2lb24w40y13/)
 (the same proportion at any scale), whose colour order is pattern [GWGGKBRBWWG](/stripes/gwggkbrbwwg/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11411
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11411](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11411)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/y3db5dg2db2dg2w1dg4ly12r2lb2k2~x4/"><circle cx="38.3" cy="109.0" r="4" fill="#3465a4"><title>Oregon American District Tartan</title></circle></a><a href="/variants/s11/dy3dp5g2dp2g2w1g4ly12dr2lb2k2~x4/"><circle cx="41.8" cy="110.3" r="4" fill="#3465a4"><title>Oregon, State of</title></circle></a><circle cx="22.4" cy="82.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/y3db5dg2db2dg2w1dg4ly12r2lb2k2~x4/"><circle cx="38.2" cy="109.3" r="4" fill="#3465a4"><title>Oregon American District Tartan</title></circle></a><a href="/variants/s11/dy3dp5g2dp2g2w1g4ly12dr2lb2k2~x4/"><circle cx="41.7" cy="110.5" r="4" fill="#3465a4"><title>Oregon, State of</title></circle></a><circle cx="22.3" cy="82.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dg34w6g20yi20k2dr2r2dr2lb24w40y13~g1903114-yi2303114/

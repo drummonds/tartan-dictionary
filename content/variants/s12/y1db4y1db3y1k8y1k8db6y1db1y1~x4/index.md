@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clergy (WCWM)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y1db4y1db3y1k8y1k8db6y1db1y1/)
 (the same proportion at any scale), whose colour order is pattern [GBGBGKGKBGBG](/stripes/gbgbgkgkbgbg/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=683
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=683](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=683)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/"><circle cx="199.9" cy="209.7" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/"><circle cx="199.9" cy="209.7" r="4" fill="#3465a4"><title>Cargill</title></circle></a><a href="/variants/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/"><circle cx="208.2" cy="199.4" r="4" fill="#3465a4"><title>Clergy #2</title></circle></a><a href="/variants/s11/k2g2db10k10g2k10g2db3g2db5g2~x2/"><circle cx="189.9" cy="219.3" r="4" fill="#3465a4"><title>Clergy (Clark) (Clan)</title></circle></a><a href="/variants/s6/k3db15k42db13k2db3~x2~db1704245/"><circle cx="198.9" cy="204.0" r="4" fill="#3465a4"><title>McWilliams Personal Tartan</title></circle></a><a href="/variants/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/"><circle cx="214.1" cy="161.0" r="4" fill="#3465a4"><title>Chess (Universal)</title></circle></a><a href="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x2/"><circle cx="195.2" cy="203.2" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x4/"><circle cx="195.2" cy="203.2" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/variants/s11/k24dp5k9g3k2g3k2g14dp7k2dp10~x2/"><circle cx="234.3" cy="170.9" r="4" fill="#3465a4"><title>Paxton (Personal)</title></circle></a><a href="/variants/s13/k1w1k8dg1k1db8k1dg8k1db1k8w1k1~x6/"><circle cx="220.9" cy="155.2" r="4" fill="#3465a4"><title>Chess</title></circle></a><circle cx="227.5" cy="185.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/"><circle cx="199.9" cy="210.2" r="4" fill="#3465a4"><title>Clergy</title></circle></a><a href="/variants/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/"><circle cx="199.9" cy="210.2" r="4" fill="#3465a4"><title>Cargill</title></circle></a><a href="/variants/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/"><circle cx="208.2" cy="199.9" r="4" fill="#3465a4"><title>Clergy #2</title></circle></a><a href="/variants/s11/k2g2db10k10g2k10g2db3g2db5g2~x2/"><circle cx="189.9" cy="219.9" r="4" fill="#3465a4"><title>Clergy (Clark) (Clan)</title></circle></a><a href="/variants/s6/k3db15k42db13k2db3~x2~db1704245/"><circle cx="198.9" cy="204.4" r="4" fill="#3465a4"><title>McWilliams Personal Tartan</title></circle></a><a href="/variants/s12/k1w1k8dg1k1db8dg8k1db1k8w1k1~x6/"><circle cx="214.1" cy="161.4" r="4" fill="#3465a4"><title>Chess (Universal)</title></circle></a><a href="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x2/"><circle cx="195.2" cy="203.8" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/variants/s11/k1lb1db6k6lb1k6lb1db2lb1db3lb1~x4/"><circle cx="195.2" cy="203.8" r="4" fill="#3465a4"><title>Clergy (Smith)</title></circle></a><a href="/variants/s11/k24dp5k9g3k2g3k2g14dp7k2dp10~x2/"><circle cx="234.2" cy="171.3" r="4" fill="#3465a4"><title>Paxton (Personal)</title></circle></a><a href="/variants/s13/k1w1k8dg1k1db8k1dg8k1db1k8w1k1~x6/"><circle cx="220.8" cy="155.5" r="4" fill="#3465a4"><title>Chess</title></circle></a><circle cx="227.5" cy="186.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/y1db4y1db3y1k8y1k8db6y1db1y1~x4/

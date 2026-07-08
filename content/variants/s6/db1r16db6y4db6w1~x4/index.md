@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Superfast Ferries (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1r16db6y4db6w1/)
 (the same proportion at any scale), whose colour order is pattern [BRBGBW](/stripes/brbgbw/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3187
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3187](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3187)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.1" cy="177.1" r="4" fill="#3465a4"><title>Fazzolettone (Fashion?)</title></circle></a><a href="/variants/s6/db3r24db3r3db25w3~x2/"><circle cx="322.7" cy="210.5" r="4" fill="#3465a4"><title>Matthews (Personal)</title></circle></a><a href="/variants/s6/r1db6r1dg6r12w1~x2/"><circle cx="289.8" cy="191.4" r="4" fill="#3465a4"><title>Fraser Red Clan Tartan</title></circle></a><a href="/variants/s6/r15dr98db72lb25db8w15/"><circle cx="217.6" cy="186.0" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><a href="/variants/s7/r50db14w6db9y3db4r4~x2/"><circle cx="362.3" cy="143.8" r="4" fill="#3465a4"><title>Texas Lone Star</title></circle></a><a href="/variants/s7/r50db14w6db9ly3db4r4~x2/"><circle cx="358.6" cy="142.8" r="4" fill="#3465a4"><title>Texas Lone Star (Fashion)</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="273.6" cy="213.3" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="298.2" cy="158.0" r="4" fill="#3465a4"><title>Tartan Lassie (Fashion)</title></circle></a><a href="/variants/s5/db15w2r20db2r4~x2/"><circle cx="348.9" cy="218.2" r="4" fill="#3465a4"><title>Masai Shuka 25 (Artefact)</title></circle></a><a href="/variants/s6/r2db12r2dg12r24w1~x2/"><circle cx="326.9" cy="164.8" r="4" fill="#3465a4"><title>Fraser</title></circle></a><circle cx="295.3" cy="185.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y2db3w6db15r24db3w2~x2/"><circle cx="247.2" cy="177.6" r="4" fill="#3465a4"><title>Fazzolettone (Fashion?)</title></circle></a><a href="/variants/s6/db3r24db3r3db25w3~x2/"><circle cx="322.8" cy="211.1" r="4" fill="#3465a4"><title>Matthews (Personal)</title></circle></a><a href="/variants/s6/r1db6r1dg6r12w1~x2/"><circle cx="289.8" cy="191.8" r="4" fill="#3465a4"><title>Fraser Red Clan Tartan</title></circle></a><a href="/variants/s6/r15dr98db72lb25db8w15/"><circle cx="217.6" cy="186.4" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><a href="/variants/s7/r50db14w6db9y3db4r4~x2/"><circle cx="362.4" cy="144.2" r="4" fill="#3465a4"><title>Texas Lone Star</title></circle></a><a href="/variants/s7/r50db14w6db9ly3db4r4~x2/"><circle cx="358.6" cy="143.2" r="4" fill="#3465a4"><title>Texas Lone Star (Fashion)</title></circle></a><a href="/variants/s5/r9db1g2db5w1~x12/"><circle cx="273.7" cy="213.9" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><a href="/variants/s6/w3db23r44db26g4y2~x2/"><circle cx="298.2" cy="158.4" r="4" fill="#3465a4"><title>Tartan Lassie (Fashion)</title></circle></a><a href="/variants/s5/db15w2r20db2r4~x2/"><circle cx="349.1" cy="218.9" r="4" fill="#3465a4"><title>Masai Shuka 25 (Artefact)</title></circle></a><a href="/variants/s6/r2db12r2dg12r24w1~x2/"><circle cx="327.0" cy="165.2" r="4" fill="#3465a4"><title>Fraser</title></circle></a><circle cx="295.3" cy="186.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db1r16db6y4db6w1~x4/

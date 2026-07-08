@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Caledon (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8w3db25k3db4k8r31y2r5/)
 (the same proportion at any scale), whose colour order is pattern [BWBKBKRGR](/stripes/bwbkbkrgr/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7731
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7731](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7731)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/b4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.2" cy="122.2" r="4" fill="#3465a4"><title>Golfers</title></circle></a><a href="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="213.8" cy="113.0" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/variants/s7/dp38k12ri15r4ri15k2w4~x2~ri2906009-r2007025/"><circle cx="187.9" cy="132.2" r="4" fill="#3465a4"><title>Ferguson's Promise</title></circle></a><a href="/variants/s10/k3g1r1db6n2db1n1db1r10w1~x4/"><circle cx="148.4" cy="124.5" r="4" fill="#3465a4"><title>Crieff Primary School</title></circle></a><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="187.8" cy="122.3" r="4" fill="#3465a4"><title>Golfing Stewart (Fashion)</title></circle></a><a href="/variants/s10/r7k3r4k5r25k7y2db22k3db4~x2/"><circle cx="206.0" cy="144.2" r="4" fill="#3465a4"><title>St. George's (Edinburgh) (School)</title></circle></a><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/"><circle cx="164.2" cy="135.5" r="4" fill="#3465a4"><title>McGurk (Personal)</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="226.7" cy="150.0" r="4" fill="#3465a4"><title>Americana - 1978 #2 (Fashion)</title></circle></a><a href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.9" cy="122.2" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><a href="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="207.6" cy="112.6" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><circle cx="199.7" cy="125.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/b4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.2" cy="122.5" r="4" fill="#3465a4"><title>Golfers</title></circle></a><a href="/variants/s9/db26dg11r8k2r2w2r4w1r15~x2/"><circle cx="213.8" cy="113.2" r="4" fill="#3465a4"><title>Royal Scottish Assurance</title></circle></a><a href="/variants/s7/dp38k12ri15r4ri15k2w4~x2~ri2906009-r2007025/"><circle cx="187.9" cy="132.6" r="4" fill="#3465a4"><title>Ferguson's Promise</title></circle></a><a href="/variants/s10/k3g1r1db6n2db1n1db1r10w1~x4/"><circle cx="148.4" cy="124.8" r="4" fill="#3465a4"><title>Crieff Primary School</title></circle></a><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="187.7" cy="122.7" r="4" fill="#3465a4"><title>Golfing Stewart (Fashion)</title></circle></a><a href="/variants/s10/r7k3r4k5r25k7y2db22k3db4~x2/"><circle cx="206.0" cy="144.6" r="4" fill="#3465a4"><title>St. George's (Edinburgh) (School)</title></circle></a><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/"><circle cx="164.2" cy="135.8" r="4" fill="#3465a4"><title>McGurk (Personal)</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="226.6" cy="150.4" r="4" fill="#3465a4"><title>Americana - 1978 #2 (Fashion)</title></circle></a><a href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.8" cy="122.6" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><a href="/variants/s9/db26g11r8k2r2w2r4w1r15~x2/"><circle cx="207.6" cy="112.8" r="4" fill="#3465a4"><title>Royal Scottish Assurance (Corporate)</title></circle></a><circle cx="199.6" cy="126.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db8w3db25k3db4k8r31y2r5~x2/

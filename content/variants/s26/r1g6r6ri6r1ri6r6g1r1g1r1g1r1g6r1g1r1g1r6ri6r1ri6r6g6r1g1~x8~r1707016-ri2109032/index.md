@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacNab"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1g6r6ri6r1ri6r6g1r1g1r1g1r1g6r1g1r1g1r6ri6r1ri6r6g6r1g1/)
 (the same proportion at any scale), whose colour order is pattern [GRGRRRRRGRGRGRGRGRGRRRRRGR](/stripes/grgrrrrrgrgrgrgrgrgrrrrrgr/).
 
 Sourced from logan-1831.  It is a [26 stripe tartan](/stripes/stripes26/).
 
-Original link /posts/logans-scottish-gael/
+Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 
 ## Provenance
 
@@ -23,7 +25,7 @@ James Logan recorded the **MacNab** sett in 1831, on page 406 of the *Table of C
 
 > 1 green · 1 crimson · 6 green · 6 crimson · 6 red · 1 crimson · 6 red · 6 crimson · 1 green · 1 crimson · 1 green · 1 crimson · 6 green · 1 crimson · 1 green · 1 crimson · 1 green · 1 crimson · 1 green · 6 crimson · 6 red · 1 crimson · 6 red · 6 crimson · 6 green · 1 crimson
 
-In threads (at 8 to the eighth-inch) that is `G/8 C8 G48 C48 R48 C8 R48 C48 G8 C8 G8 C8 G48 C8 G8 C8 G8 C8 G8 C48 R48 C8 R48 C48 G48 C/8`. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+Rendered at 8 threads to the eighth-inch that is `G/8 C8 G48 C48 R48 C8 R48 C48 G8 C8 G8 C8 G48 C8 G8 C8 G8 C8 G8 C48 R48 C8 R48 C48 G48 C/8` — the eighths are the captured data, and the threadcount is derived from them at that stated factor. How many threads an eighth of cloth held depends on the weave's density, so the factor is a display calibration, not Logan's count; the sett's identity lives in the proportions, which the eighths record directly. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
 
 See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table and method.
 
@@ -43,6 +45,7 @@ Later records of the **MacNab** name adjusted Logan's counts: [MacNab](/setts/s4
 <ol class="capture-chain">
 <li>James Logan, The Scottish Gaël (first edition) <small>1831</small> · Public domain<br><small>the printed Table of Clan Tartans, vol. II pp. 401-408, plus the Duke of Sussex plate</small></li>
 <li><a href="https://archive.org/details/scotishgalorcel02logagoog">Internet Archive scan</a><br><small>the digitised first edition the transcription was made from, cross-checked against the OCR</small></li>
+<li><a href="/posts/logans-scottish-gael/">Tartan Dictionary transcription — Logan's Scottish Gaël</a> <small>2026-06</small> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><br><small>by-eye transcription of the Table of Clan Tartans and the Duke of Sussex plate — depths in eighths of an inch, rendered at 8 threads per eighth (a display calibration anchored by the Register's Abercrombie ×8 stripe-for-stripe match); method and match report in the linked post</small></li>
 <li>this dictionary<br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
 </details>
@@ -69,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2~x2/"><circle cx="283.0" cy="235.0" r="4" fill="#3465a4"><title>MacIntosh, Ancient</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x4~r1807008-ri2109032/"><circle cx="262.4" cy="220.3" r="4" fill="#3465a4"><title>MacNab (Logan)</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1807008-ri2109032/"><circle cx="262.4" cy="220.3" r="4" fill="#3465a4"><title>MacNab Clan Tartan</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1707016-ri2008029/"><circle cx="265.6" cy="222.2" r="4" fill="#3465a4"><title>MacNab 3</title></circle></a><a href="/variants/s20/r5n1r2dg4r3dg2r2n5r5dg1r1dg2r1dg1r1dg4r1dg1r1dg2~x2/"><circle cx="269.9" cy="226.1" r="4" fill="#3465a4"><title>MacIntosh Ancient</title></circle></a><a href="/variants/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4~db1406275/"><circle cx="200.0" cy="188.6" r="4" fill="#3465a4"><title>Grant of Ballindalloch (Personal)</title></circle></a><a href="/variants/s30/r1g6r6g1y1g1r6y8r1g1r1y8g6r1y1r1g6y8r1g1r1y8r6g1y1g1r6g6r1y1~x2/"><circle cx="292.6" cy="205.8" r="4" fill="#3465a4"><title>Strathearn</title></circle></a><circle cx="262.7" cy="206.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2~x2/"><circle cx="283.2" cy="235.5" r="4" fill="#3465a4"><title>MacIntosh, Ancient</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x4~r1807008-ri2109032/"><circle cx="262.5" cy="220.8" r="4" fill="#3465a4"><title>MacNab (Logan)</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1807008-ri2109032/"><circle cx="262.5" cy="220.8" r="4" fill="#3465a4"><title>MacNab Clan Tartan</title></circle></a><a href="/variants/s13/g8r1g1r1g1r6ri8r1ri8r6g7r1g1~x2~r1707016-ri2008029/"><circle cx="265.8" cy="222.7" r="4" fill="#3465a4"><title>MacNab 3</title></circle></a><a href="/variants/s20/r5n1r2dg4r3dg2r2n5r5dg1r1dg2r1dg1r1dg4r1dg1r1dg2~x2/"><circle cx="270.0" cy="226.6" r="4" fill="#3465a4"><title>MacIntosh Ancient</title></circle></a><a href="/variants/s15/r5db3r3g16r3g3r3db5r3y5r12db5r3db3r5~x4~db1406275/"><circle cx="200.1" cy="189.0" r="4" fill="#3465a4"><title>Grant of Ballindalloch (Personal)</title></circle></a><a href="/variants/s30/r1g6r6g1y1g1r6y8r1g1r1y8g6r1y1r1g6y8r1g1r1y8r6g1y1g1r6g6r1y1~x2/"><circle cx="292.7" cy="206.0" r="4" fill="#3465a4"><title>Strathearn</title></circle></a><circle cx="262.8" cy="207.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s26/r1g6r6ri6r1ri6r6g1r1g1r1g1r1g6r1g1r1g1r6ri6r1ri6r6g6r1g1~x8~r1707016-ri2109032/

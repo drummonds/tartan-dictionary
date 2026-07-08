@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Singer Sewing Machine Company"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db3w2k2r62db2k2y2w2/)
 (the same proportion at any scale), whose colour order is pattern [BWKRBKGW](/stripes/bwkrbkgw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11652
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11652](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11652)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr90k3lb10k5r2k2lb2~x2/"><circle cx="515.9" cy="38.0" r="4" fill="#3465a4"><title>Lock in Northumberland</title></circle></a><a href="/variants/s4/y6k3r40w3~x2/"><circle cx="479.2" cy="161.1" r="4" fill="#3465a4"><title>Masai Shuka 18 (Artefact)</title></circle></a><a href="/variants/s6/db12k1r70k1g12k1~x2/"><circle cx="480.1" cy="80.9" r="4" fill="#3465a4"><title>Lawers Estate</title></circle></a><a href="/variants/s6/r70k1db12k1g12k1~x2/"><circle cx="480.1" cy="80.9" r="4" fill="#3465a4"><title>Lawers Estate (Corporate)</title></circle></a><a href="/variants/s6/lb5k1w11k1r42k1~x2/"><circle cx="422.7" cy="83.1" r="4" fill="#3465a4"><title>Davet (2014)</title></circle></a><a href="/variants/s8/dr90lr1k2lb10k5r2lr2lb2~x2/"><circle cx="515.8" cy="39.1" r="4" fill="#3465a4"><title>Lock in Northumberland (Name)</title></circle></a><a href="/variants/s8/r114db10w3db16y3k3y3r28~x2/"><circle cx="521.7" cy="65.7" r="4" fill="#3465a4"><title>Inverness #2</title></circle></a><a href="/variants/s9/r72db6y1db12k4w1n4w1k5~x2/"><circle cx="400.2" cy="21.1" r="4" fill="#3465a4"><title>Inverness Cathedral (Corporate)</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="537.9" cy="60.6" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s8/r72k6lb2k11y2db2y2r18~x2/"><circle cx="478.5" cy="55.8" r="4" fill="#3465a4"><title>Princess Elizabeth (Royal)</title></circle></a><circle cx="517.7" cy="47.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dr90k3lb10k5r2k2lb2~x2/"><circle cx="515.7" cy="38.0" r="4" fill="#3465a4"><title>Lock in Northumberland</title></circle></a><a href="/variants/s4/y6k3r40w3~x2/"><circle cx="479.3" cy="161.7" r="4" fill="#3465a4"><title>Masai Shuka 18 (Artefact)</title></circle></a><a href="/variants/s6/db12k1r70k1g12k1~x2/"><circle cx="480.0" cy="81.1" r="4" fill="#3465a4"><title>Lawers Estate</title></circle></a><a href="/variants/s6/r70k1db12k1g12k1~x2/"><circle cx="480.0" cy="81.1" r="4" fill="#3465a4"><title>Lawers Estate (Corporate)</title></circle></a><a href="/variants/s6/lb5k1w11k1r42k1~x2/"><circle cx="422.7" cy="83.5" r="4" fill="#3465a4"><title>Davet (2014)</title></circle></a><a href="/variants/s8/dr90lr1k2lb10k5r2lr2lb2~x2/"><circle cx="515.6" cy="39.2" r="4" fill="#3465a4"><title>Lock in Northumberland (Name)</title></circle></a><a href="/variants/s8/r114db10w3db16y3k3y3r28~x2/"><circle cx="521.6" cy="65.9" r="4" fill="#3465a4"><title>Inverness #2</title></circle></a><a href="/variants/s9/r72db6y1db12k4w1n4w1k5~x2/"><circle cx="400.0" cy="21.1" r="4" fill="#3465a4"><title>Inverness Cathedral (Corporate)</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="537.8" cy="60.8" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s8/r72k6lb2k11y2db2y2r18~x2/"><circle cx="478.4" cy="56.0" r="4" fill="#3465a4"><title>Princess Elizabeth (Royal)</title></circle></a><circle cx="517.6" cy="47.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db3w2k2r62db2k2y2w2~x2/

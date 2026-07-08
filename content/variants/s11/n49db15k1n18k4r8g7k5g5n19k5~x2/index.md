@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Virginia (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n49db15k1n18k4r8g7k5g5n19k5/)
 (the same proportion at any scale), whose colour order is pattern [BBKBKRGKGBK](/stripes/bbkbkrgkgbk/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8660
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8660](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8660)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/"><circle cx="307.8" cy="101.5" r="4" fill="#3465a4"><title>Suttle (Personal)</title></circle></a><a href="/variants/s8/n36k18n5db7n5k7r1g2~x2/"><circle cx="306.4" cy="101.2" r="4" fill="#3465a4"><title>Suttle (Personal)</title></circle></a><a href="/variants/s9/o4dg2o7dt30o8dt7g5dg1w2~x2~o2600000-dt1501240/"><circle cx="376.6" cy="139.3" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><a href="/variants/s13/db3k1dr1n24dr1n4lo3db1k4dr1n8dr1k1~x4/"><circle cx="388.6" cy="83.7" r="4" fill="#3465a4"><title>Wcwm 1445</title></circle></a><a href="/variants/s8/lb5k1dg30dp15r8dg30r8dp2~x2/"><circle cx="343.9" cy="135.7" r="4" fill="#3465a4"><title>Shaw of Tordarroch, hunting</title></circle></a><a href="/variants/s11/dr6k3do4k10do5o3k2do31w1do2w2~x2~do1400000-o2500000/"><circle cx="333.9" cy="83.9" r="4" fill="#3465a4"><title>Glen and Son, William (Corporate)</title></circle></a><a href="/variants/s9/r1k1n30k6n1k6dy8k1r1~x2/"><circle cx="333.6" cy="97.9" r="4" fill="#3465a4"><title>Klappert Original (Odsherred, Denmark) (Personal)</title></circle></a><a href="/variants/s10/n5k1n33dp1n9k9dp5k1dr2k4~x2/"><circle cx="405.6" cy="100.6" r="4" fill="#3465a4"><title>Lochnagar Dress (Fashion)</title></circle></a><a href="/variants/s8/dt8y74k8dt42y11k2y16dt4~dt1000000-y2100000/"><circle cx="421.4" cy="131.2" r="4" fill="#3465a4"><title>Orkney Slate</title></circle></a><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="325.3" cy="79.2" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><circle cx="362.7" cy="90.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/"><circle cx="307.6" cy="101.7" r="4" fill="#3465a4"><title>Suttle (Personal)</title></circle></a><a href="/variants/s8/n36k18n5db7n5k7r1g2~x2/"><circle cx="306.3" cy="101.3" r="4" fill="#3465a4"><title>Suttle (Personal)</title></circle></a><a href="/variants/s9/o4dg2o7dt30o8dt7g5dg1w2~x2~o2600000-dt1501240/"><circle cx="376.5" cy="139.4" r="4" fill="#3465a4"><title>Inchforth (Personal)</title></circle></a><a href="/variants/s13/db3k1dr1n24dr1n4lo3db1k4dr1n8dr1k1~x4/"><circle cx="388.5" cy="83.7" r="4" fill="#3465a4"><title>Wcwm 1445</title></circle></a><a href="/variants/s8/lb5k1dg30dp15r8dg30r8dp2~x2/"><circle cx="343.8" cy="135.9" r="4" fill="#3465a4"><title>Shaw of Tordarroch, hunting</title></circle></a><a href="/variants/s11/dr6k3do4k10do5o3k2do31w1do2w2~x2~do1400000-o2500000/"><circle cx="333.7" cy="83.9" r="4" fill="#3465a4"><title>Glen and Son, William (Corporate)</title></circle></a><a href="/variants/s9/r1k1n30k6n1k6dy8k1r1~x2/"><circle cx="333.5" cy="98.1" r="4" fill="#3465a4"><title>Klappert Original (Odsherred, Denmark) (Personal)</title></circle></a><a href="/variants/s10/n5k1n33dp1n9k9dp5k1dr2k4~x2/"><circle cx="405.6" cy="100.8" r="4" fill="#3465a4"><title>Lochnagar Dress (Fashion)</title></circle></a><a href="/variants/s8/dt8y74k8dt42y11k2y16dt4~dt1000000-y2100000/"><circle cx="421.3" cy="131.3" r="4" fill="#3465a4"><title>Orkney Slate</title></circle></a><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="325.2" cy="79.4" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><circle cx="362.6" cy="90.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/n49db15k1n18k4r8g7k5g5n19k5~x2/

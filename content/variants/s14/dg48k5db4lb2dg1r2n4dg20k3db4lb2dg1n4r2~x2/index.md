@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Heart of Alba"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg48k5db4lb2dg1r2n4dg20k3db4lb2dg1n4r2/)
 (the same proportion at any scale), whose colour order is pattern [GKBWGRBGKBWGBR](/stripes/gkbwgrbgkbwgbr/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11507
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11507](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11507)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg115k15r8k4t8k4y8k4g8~x2/"><circle cx="386.1" cy="70.8" r="4" fill="#3465a4"><title>Granvert</title></circle></a><a href="/variants/s15/dg32do1lo1dg1k1o1k1o1k1do3dg2k1o4k1lo1~x4/"><circle cx="429.2" cy="49.6" r="4" fill="#3465a4"><title>Anderson Green</title></circle></a><a href="/variants/s12/dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2~x2/"><circle cx="341.6" cy="69.4" r="4" fill="#3465a4"><title>Carroll O'Reed</title></circle></a><a href="/variants/s8/dg62r5w1r4g5y4k4w2~x2/"><circle cx="430.9" cy="50.0" r="4" fill="#3465a4"><title>Greeven, Wolfgang H (Personal)</title></circle></a><a href="/variants/s11/r2y2dg24lt10dy6lt2dy6lt1dy71dg2g2~x2~dg1806142-lt3305186-g2504187/"><circle cx="422.9" cy="62.7" r="4" fill="#3465a4"><title>Original Tartan Ltd (Corporate)</title></circle></a><a href="/variants/s10/dg68k2dg2k2dg2dy8r8k8dy2db7~x2/"><circle cx="450.4" cy="88.8" r="4" fill="#3465a4"><title>Moran Family Ubique</title></circle></a><a href="/variants/s10/dg67k2dg2k2dg2y8r8k8y2lb7~x2/"><circle cx="381.1" cy="66.9" r="4" fill="#3465a4"><title>Moran (French) (Name)</title></circle></a><a href="/variants/s10/dg40dr5k2w2k2y3k2dg10dr3k3~x2/"><circle cx="421.2" cy="106.4" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><a href="/variants/s14/dg78k4dg4k4dg4k6db26k4w8k4db26k6dg48g3/"><circle cx="341.1" cy="94.8" r="4" fill="#3465a4"><title>Proctor</title></circle></a><circle cx="421.0" cy="44.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg115k15r8k4t8k4y8k4g8~x2/"><circle cx="386.0" cy="70.7" r="4" fill="#3465a4"><title>Granvert</title></circle></a><a href="/variants/s15/dg32do1lo1dg1k1o1k1o1k1do3dg2k1o4k1lo1~x4/"><circle cx="429.0" cy="49.4" r="4" fill="#3465a4"><title>Anderson Green</title></circle></a><a href="/variants/s12/dg28lb1dg4dr1k1lr1k1g4dr4k2dr4lr2~x2/"><circle cx="341.4" cy="69.4" r="4" fill="#3465a4"><title>Carroll O'Reed</title></circle></a><a href="/variants/s8/dg62r5w1r4g5y4k4w2~x2/"><circle cx="430.7" cy="49.9" r="4" fill="#3465a4"><title>Greeven, Wolfgang H (Personal)</title></circle></a><a href="/variants/s11/r2y2dg24lt10dy6lt2dy6lt1dy71dg2g2~x2~dg1806142-lt3305186-g2504187/"><circle cx="422.7" cy="62.6" r="4" fill="#3465a4"><title>Original Tartan Ltd (Corporate)</title></circle></a><a href="/variants/s10/dg68k2dg2k2dg2dy8r8k8dy2db7~x2/"><circle cx="450.3" cy="88.7" r="4" fill="#3465a4"><title>Moran Family Ubique</title></circle></a><a href="/variants/s10/dg67k2dg2k2dg2y8r8k8y2lb7~x2/"><circle cx="381.0" cy="66.9" r="4" fill="#3465a4"><title>Moran (French) (Name)</title></circle></a><a href="/variants/s10/dg40dr5k2w2k2y3k2dg10dr3k3~x2/"><circle cx="421.1" cy="106.4" r="4" fill="#3465a4"><title>Palmer, Arnold</title></circle></a><a href="/variants/s14/dg78k4dg4k4dg4k6db26k4w8k4db26k6dg48g3/"><circle cx="341.0" cy="94.8" r="4" fill="#3465a4"><title>Proctor</title></circle></a><circle cx="420.8" cy="44.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/dg48k5db4lb2dg1r2n4dg20k3db4lb2dg1n4r2~x2/

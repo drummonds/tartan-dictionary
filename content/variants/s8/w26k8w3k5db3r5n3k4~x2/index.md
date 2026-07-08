@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lootens Jensen (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w26k8w3k5db3r5n3k4/)
 (the same proportion at any scale), whose colour order is pattern [KBRBKWKW](/stripes/kbrbkwkw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2213
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2213](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2213)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4w1k1w9g1w1g1w1dy4~x4/"><circle cx="199.6" cy="160.4" r="4" fill="#3465a4"><title>Puffin (Personal)</title></circle></a><a href="/variants/s7/y3k9w3k20w30dp3w3~x2/"><circle cx="226.6" cy="166.3" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/variants/s9/r2db2w26dg25k14db13w26db2r2~x2/"><circle cx="150.7" cy="149.6" r="4" fill="#3465a4"><title>MacNaughton Dress</title></circle></a><a href="/variants/s7/w39db9k10g11r7k3r7~x2/"><circle cx="148.2" cy="148.1" r="4" fill="#3465a4"><title>MacDuff Dress #5</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2n23w2~x2/"><circle cx="193.8" cy="149.6" r="4" fill="#3465a4"><title>Virtuoso (Corporate)</title></circle></a><a href="/variants/s8/lb12k3w3k3lb13t6k17r3~x2~lb3200000-t2503227/"><circle cx="113.7" cy="192.7" r="4" fill="#3465a4"><title>Mitsukoshi (Corporate)</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="136.7" cy="179.4" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, dress</title></circle></a><a href="/variants/s11/lo2db2w2r1w2db10w1k2lo10w1lo2~x4/"><circle cx="152.0" cy="141.9" r="4" fill="#3465a4"><title>Bear Baars (Personal)</title></circle></a><a href="/variants/s6/r1lb12k1w2k5r1~x4/"><circle cx="242.1" cy="154.5" r="4" fill="#3465a4"><title>Rui (Personal)</title></circle></a><a href="/variants/s11/dr2k9lb4w2k22w2lb4w22lb2w8dr2~x2/"><circle cx="177.1" cy="145.7" r="4" fill="#3465a4"><title>MacRae, Dress</title></circle></a><circle cx="185.5" cy="150.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4w1k1w9g1w1g1w1dy4~x4/"><circle cx="199.6" cy="161.0" r="4" fill="#3465a4"><title>Puffin (Personal)</title></circle></a><a href="/variants/s7/y3k9w3k20w30dp3w3~x2/"><circle cx="226.6" cy="166.9" r="4" fill="#3465a4"><title>MacPherson Dress (1951)</title></circle></a><a href="/variants/s9/r2db2w26dg25k14db13w26db2r2~x2/"><circle cx="150.7" cy="150.0" r="4" fill="#3465a4"><title>MacNaughton Dress</title></circle></a><a href="/variants/s7/w39db9k10g11r7k3r7~x2/"><circle cx="148.3" cy="148.6" r="4" fill="#3465a4"><title>MacDuff Dress #5</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2n23w2~x2/"><circle cx="193.8" cy="150.0" r="4" fill="#3465a4"><title>Virtuoso (Corporate)</title></circle></a><a href="/variants/s8/lb12k3w3k3lb13t6k17r3~x2~lb3200000-t2503227/"><circle cx="113.8" cy="193.3" r="4" fill="#3465a4"><title>Mitsukoshi (Corporate)</title></circle></a><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="136.7" cy="180.0" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, dress</title></circle></a><a href="/variants/s11/lo2db2w2r1w2db10w1k2lo10w1lo2~x4/"><circle cx="152.0" cy="142.4" r="4" fill="#3465a4"><title>Bear Baars (Personal)</title></circle></a><a href="/variants/s6/r1lb12k1w2k5r1~x4/"><circle cx="242.1" cy="155.1" r="4" fill="#3465a4"><title>Rui (Personal)</title></circle></a><a href="/variants/s11/dr2k9lb4w2k22w2lb4w22lb2w8dr2~x2/"><circle cx="177.1" cy="146.1" r="4" fill="#3465a4"><title>MacRae, Dress</title></circle></a><circle cx="185.5" cy="150.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/w26k8w3k5db3r5n3k4~x2/

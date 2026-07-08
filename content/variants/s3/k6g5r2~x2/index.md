@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glen Lyon #1"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k6g5r2/)
 (the same proportion at any scale), whose colour order is pattern [GRGK](/stripes/grgk/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1383
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1383](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1383)
 
 ## Provenance
 
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/k5g4r2~x2/"><circle cx="140.9" cy="335.3" r="4" fill="#3465a4"><title>Wilson's, No 94</title></circle></a><a href="/variants/s3/r4k7g4~x2/"><circle cx="123.9" cy="354.6" r="4" fill="#3465a4"><title>Wilson's No.200</title></circle></a><a href="/variants/s3/k11g17r3/"><circle cx="238.8" cy="278.7" r="4" fill="#3465a4"><title>Kincaid</title></circle></a><a href="/variants/s3/k11g17r3~x2/"><circle cx="238.8" cy="278.7" r="4" fill="#3465a4"><title>Kincaid</title></circle></a><a href="/variants/s3/k4g6r1~x10/"><circle cx="240.7" cy="276.0" r="4" fill="#3465a4"><title>Kincaid, of Kincaid</title></circle></a><a href="/variants/s3/k11g16dr2~x4/"><circle cx="266.4" cy="265.5" r="4" fill="#3465a4"><title>Kincaid of Kincaid (Clan)</title></circle></a><a href="/variants/s3/g7k4r4~x2/"><circle cx="126.6" cy="359.9" r="4" fill="#3465a4"><title>Wilson's No.202</title></circle></a><a href="/variants/s3/k5g4lb2~x2/"><circle cx="136.0" cy="340.5" r="4" fill="#3465a4"><title>Mull</title></circle></a><a href="/variants/s3/k5g4y1~x2/"><circle cx="215.1" cy="291.7" r="4" fill="#3465a4"><title>Wilson's, No 2/53 or Mull</title></circle></a><a href="/variants/s3/k5g4lb3~x2/"><circle cx="83.4" cy="366.0" r="4" fill="#3465a4"><title>Glen Lyon (District)</title></circle></a><circle cx="192.4" cy="323.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/k5g4r2~x2/"><circle cx="141.1" cy="336.4" r="4" fill="#3465a4"><title>Wilson's, No 94</title></circle></a><a href="/variants/s3/r4k7g4~x2/"><circle cx="124.2" cy="355.8" r="4" fill="#3465a4"><title>Wilson's No.200</title></circle></a><a href="/variants/s3/k11g17r3/"><circle cx="239.0" cy="279.5" r="4" fill="#3465a4"><title>Kincaid</title></circle></a><a href="/variants/s3/k11g17r3~x2/"><circle cx="239.0" cy="279.5" r="4" fill="#3465a4"><title>Kincaid</title></circle></a><a href="/variants/s3/k4g6r1~x10/"><circle cx="240.9" cy="276.8" r="4" fill="#3465a4"><title>Kincaid, of Kincaid</title></circle></a><a href="/variants/s3/k11g16dr2~x4/"><circle cx="266.6" cy="266.3" r="4" fill="#3465a4"><title>Kincaid of Kincaid (Clan)</title></circle></a><a href="/variants/s3/g7k4r4~x2/"><circle cx="126.9" cy="361.1" r="4" fill="#3465a4"><title>Wilson's No.202</title></circle></a><a href="/variants/s3/k5g4lb2~x2/"><circle cx="136.3" cy="341.6" r="4" fill="#3465a4"><title>Mull</title></circle></a><a href="/variants/s3/k5g4y1~x2/"><circle cx="215.3" cy="292.5" r="4" fill="#3465a4"><title>Wilson's, No 2/53 or Mull</title></circle></a><a href="/variants/s3/k5g4lb3~x2/"><circle cx="83.8" cy="366.0" r="4" fill="#3465a4"><title>Glen Lyon (District)</title></circle></a><circle cx="192.6" cy="324.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/k6g5r2~x2/

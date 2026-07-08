@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Malaysian Unknown (Artefact)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w45dr2g9w2dr30/)
 (the same proportion at any scale), whose colour order is pattern [BWGBW](/stripes/bwgbw/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8667
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8667](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8667)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="411.7" cy="205.4" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><a href="/variants/s6/w44dg18w6dg11db1r4~x2/"><circle cx="353.8" cy="134.0" r="4" fill="#3465a4"><title>Westfalia Dress (Corporate)</title></circle></a><a href="/variants/s6/dg44w18dg6w11db1r4~x2/"><circle cx="351.6" cy="132.7" r="4" fill="#3465a4"><title>Westfalia (Corporate)</title></circle></a><a href="/variants/s5/w32dr12db12w2db3~x2/"><circle cx="342.6" cy="228.1" r="4" fill="#3465a4"><title>Fraser Arisaid Red (Dance)</title></circle></a><a href="/variants/s6/dr5w2dr25w25dr2w5~x2/"><circle cx="375.3" cy="240.1" r="4" fill="#3465a4"><title>Erskine Dress Burgandy Clan Tartan</title></circle></a><a href="/variants/s6/n56w30n8r10n3r20/"><circle cx="328.3" cy="201.1" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/variants/s6/y8w3y28w32dp3w4~x2/"><circle cx="345.4" cy="233.9" r="4" fill="#3465a4"><title>Ailsa Yellow Fashion Tartan</title></circle></a><a href="/variants/s6/ly72db16w9db4w5db16~x2/"><circle cx="394.1" cy="203.9" r="4" fill="#3465a4"><title>Machair</title></circle></a><a href="/variants/s6/r6w2r29w29r2w6~x2/"><circle cx="370.4" cy="210.6" r="4" fill="#3465a4"><title>Erskine, Burgundy (Dance)</title></circle></a><a href="/variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/"><circle cx="283.0" cy="135.2" r="4" fill="#3465a4"><title>Longniddry Burgundy (Dance)</title></circle></a><circle cx="340.7" cy="196.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="411.9" cy="206.0" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><a href="/variants/s6/w44dg18w6dg11db1r4~x2/"><circle cx="353.9" cy="134.4" r="4" fill="#3465a4"><title>Westfalia Dress (Corporate)</title></circle></a><a href="/variants/s6/dg44w18dg6w11db1r4~x2/"><circle cx="351.5" cy="133.1" r="4" fill="#3465a4"><title>Westfalia (Corporate)</title></circle></a><a href="/variants/s5/w32dr12db12w2db3~x2/"><circle cx="342.8" cy="228.8" r="4" fill="#3465a4"><title>Fraser Arisaid Red (Dance)</title></circle></a><a href="/variants/s6/dr5w2dr25w25dr2w5~x2/"><circle cx="375.5" cy="240.9" r="4" fill="#3465a4"><title>Erskine Dress Burgandy Clan Tartan</title></circle></a><a href="/variants/s6/n56w30n8r10n3r20/"><circle cx="328.4" cy="201.6" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/variants/s6/y8w3y28w32dp3w4~x2/"><circle cx="345.6" cy="234.5" r="4" fill="#3465a4"><title>Ailsa Yellow Fashion Tartan</title></circle></a><a href="/variants/s6/ly72db16w9db4w5db16~x2/"><circle cx="394.3" cy="204.5" r="4" fill="#3465a4"><title>Machair</title></circle></a><a href="/variants/s6/r6w2r29w29r2w6~x2/"><circle cx="370.6" cy="211.3" r="4" fill="#3465a4"><title>Erskine, Burgundy (Dance)</title></circle></a><a href="/variants/s8/dr42ri2w2ri2dr5r12w32dr4~x2~ri2806019-r2109032/"><circle cx="283.0" cy="135.6" r="4" fill="#3465a4"><title>Longniddry Burgundy (Dance)</title></circle></a><circle cx="340.8" cy="196.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/w45dr2g9w2dr30~x2/

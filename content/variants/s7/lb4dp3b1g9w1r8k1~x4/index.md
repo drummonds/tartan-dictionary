@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's, No 121"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb4dp3b1g9w1r8k1/)
 (the same proportion at any scale), whose colour order is pattern [KRWGBBW](/stripes/krwgbbw/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k3r18w2g21b2dp7lb5w2~x2/"><circle cx="97.1" cy="132.1" r="4" fill="#3465a4"><title>Wilson's, No 132</title></circle></a><a href="/variants/s7/t4dp3g1dg9lb1r8k1~x4~t2503227-g1903114-dg1806142-lb3200000-r2109032/"><circle cx="129.7" cy="147.6" r="4" fill="#3465a4"><title>Wilson's No.121</title></circle></a><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><circle cx="57.8" cy="179.4" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/variants/s7/k7r22t9dp20lb2g28y7~x2~t2503227-lb3200000/"><circle cx="73.1" cy="158.2" r="4" fill="#3465a4"><title>Jefferson (Personal)</title></circle></a><a href="/variants/s9/y3k2lb3r14g19k3w3dp10lb3~x2/"><circle cx="60.6" cy="137.8" r="4" fill="#3465a4"><title>Wilson's, No 110</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><circle cx="66.0" cy="174.8" r="4" fill="#3465a4"><title>Kentucky State American District Tartan</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="57.7" cy="174.1" r="4" fill="#3465a4"><title>Kentucky, State of (District)</title></circle></a><a href="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/"><circle cx="161.0" cy="132.5" r="4" fill="#3465a4"><title>Murray of Abercairney</title></circle></a><a href="/variants/s10/dy5w1dy5w1g6y1k1y1lb8r1~x4/"><circle cx="66.5" cy="146.4" r="4" fill="#3465a4"><title>Glendale</title></circle></a><a href="/variants/s7/y5n3db6dy8w5r17k2/"><circle cx="79.3" cy="162.1" r="4" fill="#3465a4"><title>Barrington Municipality</title></circle></a><circle cx="85.9" cy="156.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k3r18w2g21b2dp7lb5w2~x2/"><circle cx="97.0" cy="132.4" r="4" fill="#3465a4"><title>Wilson's, No 132</title></circle></a><a href="/variants/s7/t4dp3g1dg9lb1r8k1~x4~t2503227-g1903114-dg1806142-lb3200000-r2109032/"><circle cx="129.7" cy="147.9" r="4" fill="#3465a4"><title>Wilson's No.121</title></circle></a><a href="/variants/s7/k20y4db13w4g30w4r13~x2/"><circle cx="57.8" cy="179.9" r="4" fill="#3465a4"><title>South Africa 1994 (Fashion)</title></circle></a><a href="/variants/s7/k7r22t9dp20lb2g28y7~x2~t2503227-lb3200000/"><circle cx="73.1" cy="158.5" r="4" fill="#3465a4"><title>Jefferson (Personal)</title></circle></a><a href="/variants/s9/y3k2lb3r14g19k3w3dp10lb3~x2/"><circle cx="60.5" cy="138.2" r="4" fill="#3465a4"><title>Wilson's, No 110</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11dg13k2~x2~r2109032-db1406275-dg1806142/"><circle cx="66.1" cy="175.3" r="4" fill="#3465a4"><title>Kentucky State American District Tartan</title></circle></a><a href="/variants/s7/ly3r3lb4w2db11g13k2~x2/"><circle cx="57.7" cy="174.6" r="4" fill="#3465a4"><title>Kentucky, State of (District)</title></circle></a><a href="/variants/s9/lb3n1k1r12b1g9b1n1lb3~x2/"><circle cx="161.0" cy="132.8" r="4" fill="#3465a4"><title>Murray of Abercairney</title></circle></a><a href="/variants/s10/dy5w1dy5w1g6y1k1y1lb8r1~x4/"><circle cx="66.4" cy="146.8" r="4" fill="#3465a4"><title>Glendale</title></circle></a><a href="/variants/s7/y5n3db6dy8w5r17k2/"><circle cx="79.4" cy="162.5" r="4" fill="#3465a4"><title>Barrington Municipality</title></circle></a><circle cx="86.0" cy="157.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lb4dp3b1g9w1r8k1~x4/

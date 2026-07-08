@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Rathmore"
   url: "/tartans/rathmore/"
+- name: "Rathmore"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r26b2r6n2r2n2o2n9w5dg2w4o2/)
 (the same proportion at any scale), whose colour order is pattern [RBRBRBRBWGWR](/stripes/rbrbrbrbwgwr/).
@@ -14,7 +16,7 @@ Part of the [Rathmore](/tartans/rathmore/) tartan — the named design grouping 
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr10lb1dr2n1dr1n1lo1n4lbi2r1lbi2lo1~x8~lb3103284-lbi3200000/"><circle cx="233.3" cy="143.9" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/variants/s12/r26lb2r6n2r2n2ly2n9w5ri2w4ly2~x2~r2109032-ri2406019/"><circle cx="280.6" cy="119.7" r="4" fill="#3465a4"><title>Rathmore Family Tartan</title></circle></a><a href="/variants/s10/do2lr3r3lr21y3lr2r6db6r4w2~x2~lr2906019-r2510029/"><circle cx="262.0" cy="148.6" r="4" fill="#3465a4"><title>Hello Kitty</title></circle></a><a href="/variants/s10/do2ri3r3ri21y3ri2r6db6r4w2~x2~ri2906009-r2609025/"><circle cx="263.0" cy="146.0" r="4" fill="#3465a4"><title>Hello Kitty (Corporate)</title></circle></a><a href="/variants/s9/r24y2n3o2w10r4n3o3w2~x2/"><circle cx="289.7" cy="147.4" r="4" fill="#3465a4"><title>Manx Laxey, Red</title></circle></a><a href="/variants/s12/r52db12n9y2n2g2n2dg11r7n2r3db2~x2~g2408144-dg1806142/"><circle cx="366.3" cy="83.4" r="4" fill="#3465a4"><title>McPrato</title></circle></a><a href="/variants/s9/r41w2dp5y2g21r9dp5db3w2~x2/"><circle cx="309.0" cy="109.6" r="4" fill="#3465a4"><title>Perthshire, or Drummond</title></circle></a><a href="/variants/s9/r41w2dp5dy2g21r9dp5db3w2~x2/"><circle cx="306.8" cy="108.7" r="4" fill="#3465a4"><title>Perthshire or Drummond District Tartan</title></circle></a><a href="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/"><circle cx="327.9" cy="134.6" r="4" fill="#3465a4"><title>West Virginia Old Shawl</title></circle></a><a href="/variants/s12/r64lb16dp18y4dp4w4dp18g32r14lb4r14w3~x2/"><circle cx="236.3" cy="110.9" r="4" fill="#3465a4"><title>Wilson's No 4</title></circle></a><circle cx="277.5" cy="116.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr10lb1dr2n1dr1n1lo1n4lbi2r1lbi2lo1~x8~lb3103284-lbi3200000/"><circle cx="233.3" cy="144.2" r="4" fill="#3465a4"><title>Rathmore</title></circle></a><a href="/variants/s12/r26lb2r6n2r2n2ly2n9w5ri2w4ly2~x2~r2109032-ri2406019/"><circle cx="280.6" cy="119.9" r="4" fill="#3465a4"><title>Rathmore Family Tartan</title></circle></a><a href="/variants/s10/do2lr3r3lr21y3lr2r6db6r4w2~x2~lr2906019-r2510029/"><circle cx="262.1" cy="148.9" r="4" fill="#3465a4"><title>Hello Kitty</title></circle></a><a href="/variants/s10/do2ri3r3ri21y3ri2r6db6r4w2~x2~ri2906009-r2609025/"><circle cx="263.0" cy="146.3" r="4" fill="#3465a4"><title>Hello Kitty (Corporate)</title></circle></a><a href="/variants/s9/r24y2n3o2w10r4n3o3w2~x2/"><circle cx="289.8" cy="147.7" r="4" fill="#3465a4"><title>Manx Laxey, Red</title></circle></a><a href="/variants/s12/r52db12n9y2n2g2n2dg11r7n2r3db2~x2~g2408144-dg1806142/"><circle cx="366.2" cy="83.4" r="4" fill="#3465a4"><title>McPrato</title></circle></a><a href="/variants/s9/r41w2dp5y2g21r9dp5db3w2~x2/"><circle cx="309.0" cy="109.8" r="4" fill="#3465a4"><title>Perthshire, or Drummond</title></circle></a><a href="/variants/s9/r41w2dp5dy2g21r9dp5db3w2~x2/"><circle cx="306.7" cy="108.9" r="4" fill="#3465a4"><title>Perthshire or Drummond District Tartan</title></circle></a><a href="/variants/s11/ly1g1db2r2g2r12lb2g1r2g1ly1~x4/"><circle cx="327.9" cy="134.9" r="4" fill="#3465a4"><title>West Virginia Old Shawl</title></circle></a><a href="/variants/s12/r64lb16dp18y4dp4w4dp18g32r14lb4r14w3~x2/"><circle cx="236.3" cy="111.1" r="4" fill="#3465a4"><title>Wilson's No 4</title></circle></a><circle cx="277.5" cy="116.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r26b2r6n2r2n2o2n9w5dg2w4o2~x2/

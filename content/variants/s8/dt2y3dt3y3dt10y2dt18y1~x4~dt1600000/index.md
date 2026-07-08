@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hebridean Cairn Fashion Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt2y3dt3y3dt10y2dt18y1/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBGBG](/stripes/bgbgbgbg/).
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6822
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6822](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6822)
 
 ## Provenance
 

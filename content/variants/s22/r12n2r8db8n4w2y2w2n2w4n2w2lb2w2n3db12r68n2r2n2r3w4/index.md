@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glasgow Garden Festival"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r12n2r8db8n4w2y2w2n2w4n2w2lb2w2n3db12r68n2r2n2r3w4/)
 (the same proportion at any scale), whose colour order is pattern [RBRBBWGWBWBWWWBBRBRBRW](/stripes/rbrbbwgwbwbwwwbbrbrbrw/).
 
 Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1357
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1357](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1357)
 
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -67,8 +69,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r40lb2r6n2r2n2lo2n9w5ri2w4lo1~x2~r2109032-ri2806019/"><circle cx="398.5" cy="58.6" r="4" fill="#3465a4"><title>Rathmore (Fashion)</title></circle></a><a href="/variants/s24/db5r3w2db1w2r3g9y2w1y2g9r1g1r27db1r1db1r27db1r1db9w1db1w4~x2/"><circle cx="295.9" cy="56.3" r="4" fill="#3465a4"><title>Hebridean, North Uist</title></circle></a><a href="/variants/s16/r46w1y3db1y3db1y3db1y3w1r46dp14r2w2g2dp14~x2/"><circle cx="438.0" cy="41.8" r="4" fill="#3465a4"><title>Firenze ~ Florence</title></circle></a><a href="/variants/s25/r18lb1r1dg8r1lb1r6w1r1db4r1w1r2dg3g1r2g1dg3r3w1r1db2r1w1r8~x2~dg1806142-g2408144/"><circle cx="312.3" cy="68.2" r="4" fill="#3465a4"><title>MacAlister Modern (Lochcarron)</title></circle></a><a href="/variants/s20/r55dp1dy1r3dp7r3dy1dp1r3g16r3dp1dy1k3w1g5r3k2dp2w1~x2/"><circle cx="356.9" cy="14.0" r="4" fill="#3465a4"><title>Fennell Grandmothers (Personal)</title></circle></a><a href="/variants/s20/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2dp2w1~x2/"><circle cx="359.0" cy="14.0" r="4" fill="#3465a4"><title>Fennell Grandmothers Canadian Personal Tartan</title></circle></a><a href="/variants/s23/r6n2r6w1lr4ly2w1ly2lr4w1r5w1lr3ly2w1ly2lr3w1r40lr5ly3n1w3~x2/"><circle cx="387.2" cy="43.4" r="4" fill="#3465a4"><title>B &amp; Q (Corporate)</title></circle></a><circle cx="363.4" cy="18.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r40lb2r6n2r2n2lo2n9w5ri2w4lo1~x2~r2109032-ri2806019/"><circle cx="398.5" cy="58.7" r="4" fill="#3465a4"><title>Rathmore (Fashion)</title></circle></a><a href="/variants/s24/db5r3w2db1w2r3g9y2w1y2g9r1g1r27db1r1db1r27db1r1db9w1db1w4~x2/"><circle cx="295.8" cy="56.4" r="4" fill="#3465a4"><title>Hebridean, North Uist</title></circle></a><a href="/variants/s16/r46w1y3db1y3db1y3db1y3w1r46dp14r2w2g2dp14~x2/"><circle cx="437.9" cy="41.7" r="4" fill="#3465a4"><title>Firenze ~ Florence</title></circle></a><a href="/variants/s25/r18lb1r1dg8r1lb1r6w1r1db4r1w1r2dg3g1r2g1dg3r3w1r1db2r1w1r8~x2~dg1806142-g2408144/"><circle cx="312.2" cy="68.3" r="4" fill="#3465a4"><title>MacAlister Modern (Lochcarron)</title></circle></a><a href="/variants/s20/r55dp1dy1r3dp7r3dy1dp1r3g16r3dp1dy1k3w1g5r3k2dp2w1~x2/"><circle cx="356.7" cy="14.0" r="4" fill="#3465a4"><title>Fennell Grandmothers (Personal)</title></circle></a><a href="/variants/s20/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2dp2w1~x2/"><circle cx="358.8" cy="14.0" r="4" fill="#3465a4"><title>Fennell Grandmothers Canadian Personal Tartan</title></circle></a><a href="/variants/s23/r6n2r6w1lr4ly2w1ly2lr4w1r5w1lr3ly2w1ly2lr3w1r40lr5ly3n1w3~x2/"><circle cx="387.1" cy="43.4" r="4" fill="#3465a4"><title>B &amp; Q (Corporate)</title></circle></a><circle cx="363.3" cy="18.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s22/r12n2r8db8n4w2y2w2n2w4n2w2lb2w2n3db12r68n2r2n2r3w4/

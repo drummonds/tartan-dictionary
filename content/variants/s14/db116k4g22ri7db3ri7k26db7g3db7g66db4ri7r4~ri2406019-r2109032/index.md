@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Cooper"
   url: "/tartans/cooper/"
+- name: "Cooper Family Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db116k4g22ri7db3ri7k26db7g3db7g66db4ri7r4/)
 (the same proportion at any scale), whose colour order is pattern [BKGRBRKBGBGBRR](/stripes/bkgrbrkbgbgbrr/).
@@ -14,7 +16,7 @@ Part of the [Cooper](/tartans/cooper/) tartan — the named design grouping this
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=332
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=332](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=332)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db116k4g22b7db3b7k26db7g3db7g66db4b7r4/"><circle cx="276.3" cy="64.8" r="4" fill="#3465a4"><title>Cooper</title></circle></a><a href="/variants/s14/g3lb2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="277.5" cy="62.1" r="4" fill="#3465a4"><title>Prestoungrange (Personal)</title></circle></a><a href="/variants/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="282.2" cy="63.6" r="4" fill="#3465a4"><title>Prestoungrange/Dolphinstoun/Wills</title></circle></a><a href="/variants/s11/db60k15g10r2g10r2g10r2g10k1y4~x2/"><circle cx="272.3" cy="67.8" r="4" fill="#3465a4"><title>Muir/Moore</title></circle></a><a href="/variants/s11/db60k15g10dr2g10dr2g10dr2g10k1lo4~x2/"><circle cx="272.3" cy="68.5" r="4" fill="#3465a4"><title>Muir (Clan)</title></circle></a><a href="/variants/s18/db60ly2db2ly2db5k15db5g20r2k3r2g20db5k15g5db20ly2g4~x2/"><circle cx="249.6" cy="66.8" r="4" fill="#3465a4"><title>Whitworth (Name)</title></circle></a><a href="/variants/s16/k3db42k3y2k3g22k3r2k3g22k3y2k3db42k3r2~x2~db1406275/"><circle cx="261.9" cy="82.9" r="4" fill="#3465a4"><title>Strachan</title></circle></a><a href="/variants/s12/r10db4r3db6w3db4w3db40dg73k4db2ly6/"><circle cx="266.0" cy="59.4" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4t6lb2/"><circle cx="257.2" cy="45.6" r="4" fill="#3465a4"><title>Swedish #2</title></circle></a><a href="/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/"><circle cx="230.1" cy="103.5" r="4" fill="#3465a4"><title>Spirit of Morningside (Fashion)</title></circle></a><circle cx="267.7" cy="59.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db116k4g22b7db3b7k26db7g3db7g66db4b7r4/"><circle cx="276.1" cy="64.8" r="4" fill="#3465a4"><title>Cooper</title></circle></a><a href="/variants/s14/g3lb2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="277.4" cy="62.1" r="4" fill="#3465a4"><title>Prestoungrange (Personal)</title></circle></a><a href="/variants/s14/g3b2g3r4g15k2g2k2g3db35k2db2k1db2~x2/"><circle cx="282.1" cy="63.6" r="4" fill="#3465a4"><title>Prestoungrange/Dolphinstoun/Wills</title></circle></a><a href="/variants/s11/db60k15g10r2g10r2g10r2g10k1y4~x2/"><circle cx="272.1" cy="67.8" r="4" fill="#3465a4"><title>Muir/Moore</title></circle></a><a href="/variants/s11/db60k15g10dr2g10dr2g10dr2g10k1lo4~x2/"><circle cx="272.1" cy="68.5" r="4" fill="#3465a4"><title>Muir (Clan)</title></circle></a><a href="/variants/s18/db60ly2db2ly2db5k15db5g20r2k3r2g20db5k15g5db20ly2g4~x2/"><circle cx="249.4" cy="66.8" r="4" fill="#3465a4"><title>Whitworth (Name)</title></circle></a><a href="/variants/s16/k3db42k3y2k3g22k3r2k3g22k3y2k3db42k3r2~x2~db1406275/"><circle cx="261.7" cy="82.9" r="4" fill="#3465a4"><title>Strachan</title></circle></a><a href="/variants/s12/r10db4r3db6w3db4w3db40dg73k4db2ly6/"><circle cx="265.8" cy="59.3" r="4" fill="#3465a4"><title>Johnston, Diana Dress (Personal)</title></circle></a><a href="/variants/s11/db80lo1k4lo4k4lo4k22g36db4t6lb2/"><circle cx="257.0" cy="45.5" r="4" fill="#3465a4"><title>Swedish #2</title></circle></a><a href="/variants/s10/dp4db5dp3db50k15g3k5g32w2g3/"><circle cx="230.0" cy="103.6" r="4" fill="#3465a4"><title>Spirit of Morningside (Fashion)</title></circle></a><circle cx="267.5" cy="59.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/db116k4g22ri7db3ri7k26db7g3db7g66db4ri7r4~ri2406019-r2109032/

@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/rice/"
 - name: "Rice"
   url: "/tartans/rice/"
+- name: "Rice (Welsh Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly4dr21ly1dr21g8db4g5db4g4ly4/)
 (the same proportion at any scale), whose colour order is pattern [YBYBGBGBGY](/stripes/ybybgbgbgy/).
@@ -16,7 +18,7 @@ Part of the [Rice](/tartans/rice/) tartan — the named design grouping this set
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5754
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5754](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5754)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/do22ly11dg2ly4dg2ly6dg16do42lr6~x2/"><circle cx="354.4" cy="171.5" r="4" fill="#3465a4"><title>Kenmore (Fashion)</title></circle></a><a href="/variants/s18/dr21ly1dr21g8db4g5db4g4ly4g4db4g5db4g8dr21ly1dr21ly4~x2~db1204274/"><circle cx="356.0" cy="156.2" r="4" fill="#3465a4"><title>Rice of Wales</title></circle></a><a href="/variants/s10/db28dr26w2db5w2dr26g28dr5w2dr5~x2/"><circle cx="293.2" cy="194.5" r="4" fill="#3465a4"><title>Glenfinnan (Clan?)</title></circle></a><a href="/variants/s10/do7dr4do4dr25dp1g32dp4g2w2g5~x2/"><circle cx="322.5" cy="140.3" r="4" fill="#3465a4"><title>Bell of Ardbel (Personal)</title></circle></a><a href="/variants/s6/w2dr12g6dr1n6dr1~x4/"><circle cx="305.7" cy="225.2" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/variants/s10/dr5w2g3w2dr10g10dr2w1dr2dg1~x4/"><circle cx="272.5" cy="202.3" r="4" fill="#3465a4"><title>Glenfinnan (Fashion)</title></circle></a><a href="/variants/s9/dt44y8dt8y22lb4y4lb11y2w2~x2~dt1100000-y2200000/"><circle cx="342.7" cy="169.4" r="4" fill="#3465a4"><title>Titanium</title></circle></a><a href="/variants/s15/dr2w2db6dr2db2dr2db1dr20y1dr2y2dr2y6w2y2~x2/"><circle cx="349.8" cy="133.1" r="4" fill="#3465a4"><title>Winthrop University</title></circle></a><a href="/variants/s7/r8w2dr30g12dr3g12dr3~x2/"><circle cx="314.6" cy="189.9" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><a href="/variants/s11/n36dr10ly2dr5g2dr5ly10n5ly2n10w2~x2/"><circle cx="366.6" cy="155.1" r="4" fill="#3465a4"><title>Toyokawa Check</title></circle></a><circle cx="337.2" cy="174.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/do22ly11dg2ly4dg2ly6dg16do42lr6~x2/"><circle cx="354.4" cy="171.9" r="4" fill="#3465a4"><title>Kenmore (Fashion)</title></circle></a><a href="/variants/s18/dr21ly1dr21g8db4g5db4g4ly4g4db4g5db4g8dr21ly1dr21ly4~x2~db1204274/"><circle cx="356.0" cy="156.5" r="4" fill="#3465a4"><title>Rice of Wales</title></circle></a><a href="/variants/s10/db28dr26w2db5w2dr26g28dr5w2dr5~x2/"><circle cx="293.3" cy="194.9" r="4" fill="#3465a4"><title>Glenfinnan (Clan?)</title></circle></a><a href="/variants/s10/do7dr4do4dr25dp1g32dp4g2w2g5~x2/"><circle cx="322.5" cy="140.4" r="4" fill="#3465a4"><title>Bell of Ardbel (Personal)</title></circle></a><a href="/variants/s6/w2dr12g6dr1n6dr1~x4/"><circle cx="305.8" cy="225.7" r="4" fill="#3465a4"><title>Fraser Green</title></circle></a><a href="/variants/s10/dr5w2g3w2dr10g10dr2w1dr2dg1~x4/"><circle cx="272.6" cy="202.8" r="4" fill="#3465a4"><title>Glenfinnan (Fashion)</title></circle></a><a href="/variants/s9/dt44y8dt8y22lb4y4lb11y2w2~x2~dt1100000-y2200000/"><circle cx="342.7" cy="169.7" r="4" fill="#3465a4"><title>Titanium</title></circle></a><a href="/variants/s15/dr2w2db6dr2db2dr2db1dr20y1dr2y2dr2y6w2y2~x2/"><circle cx="349.7" cy="133.3" r="4" fill="#3465a4"><title>Winthrop University</title></circle></a><a href="/variants/s7/r8w2dr30g12dr3g12dr3~x2/"><circle cx="314.7" cy="190.3" r="4" fill="#3465a4"><title>Wasko (Personal)</title></circle></a><a href="/variants/s11/n36dr10ly2dr5g2dr5ly10n5ly2n10w2~x2/"><circle cx="366.6" cy="155.3" r="4" fill="#3465a4"><title>Toyokawa Check</title></circle></a><circle cx="337.2" cy="175.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/ly4dr21ly1dr21g8db4g5db4g4ly4~db1204274/

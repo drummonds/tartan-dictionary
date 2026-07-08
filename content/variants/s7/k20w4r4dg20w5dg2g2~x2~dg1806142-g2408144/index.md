@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hackett (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k20w4r4dg20w5dg2g2/)
 (the same proportion at any scale), whose colour order is pattern [GGWGRWK](/stripes/ggwgrwk/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10530
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10530](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10530)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="112.7" cy="164.3" r="4" fill="#3465a4"><title>Hackett, William (Coatbridge) (Personal)</title></circle></a><a href="/variants/s6/r5g18y2k14lb5k4~x2/"><circle cx="118.9" cy="189.3" r="4" fill="#3465a4"><title>Dahlonega (District)</title></circle></a><a href="/variants/s7/r4lb38k4lb6k41g62ly4/"><circle cx="155.3" cy="147.5" r="4" fill="#3465a4"><title>Bennett, John Paul (Personal)</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20ly2g3r2~x2/"><circle cx="153.0" cy="143.1" r="4" fill="#3465a4"><title>Connolly Hunting (Name)</title></circle></a><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/"><circle cx="118.0" cy="178.5" r="4" fill="#3465a4"><title>MacLeod (Clan)</title></circle></a><a href="/variants/s6/w2k11y11lb3k1r1~x2/"><circle cx="158.6" cy="161.3" r="4" fill="#3465a4"><title>Cornish National Small Set Tartan</title></circle></a><a href="/variants/s9/r2g10k12n1ly2n14k1n1g2~x2/"><circle cx="147.4" cy="141.9" r="4" fill="#3465a4"><title>McWilliams Wedding (Personal)</title></circle></a><a href="/variants/s6/w5k26y26lb7k3r3~x2/"><circle cx="147.2" cy="172.8" r="4" fill="#3465a4"><title>Cornish, National</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><circle cx="156.6" cy="144.1" r="4" fill="#3465a4"><title>Connolly Hunting</title></circle></a><a href="/variants/s7/r2k9g12db8r1db1w1~x4/"><circle cx="128.0" cy="163.8" r="4" fill="#3465a4"><title>Genet, Citizen (Commem)</title></circle></a><circle cx="132.6" cy="163.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="112.8" cy="164.8" r="4" fill="#3465a4"><title>Hackett, William (Coatbridge) (Personal)</title></circle></a><a href="/variants/s6/r5g18y2k14lb5k4~x2/"><circle cx="118.9" cy="189.9" r="4" fill="#3465a4"><title>Dahlonega (District)</title></circle></a><a href="/variants/s7/r4lb38k4lb6k41g62ly4/"><circle cx="155.2" cy="147.9" r="4" fill="#3465a4"><title>Bennett, John Paul (Personal)</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20ly2g3r2~x2/"><circle cx="152.9" cy="143.4" r="4" fill="#3465a4"><title>Connolly Hunting (Name)</title></circle></a><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/"><circle cx="118.0" cy="179.0" r="4" fill="#3465a4"><title>MacLeod (Clan)</title></circle></a><a href="/variants/s6/w2k11y11lb3k1r1~x2/"><circle cx="158.6" cy="161.8" r="4" fill="#3465a4"><title>Cornish National Small Set Tartan</title></circle></a><a href="/variants/s9/r2g10k12n1ly2n14k1n1g2~x2/"><circle cx="147.3" cy="142.2" r="4" fill="#3465a4"><title>McWilliams Wedding (Personal)</title></circle></a><a href="/variants/s6/w5k26y26lb7k3r3~x2/"><circle cx="147.3" cy="173.3" r="4" fill="#3465a4"><title>Cornish, National</title></circle></a><a href="/variants/s10/k6r2k2r2k6db7g20y2g3r2~x2/"><circle cx="156.6" cy="144.5" r="4" fill="#3465a4"><title>Connolly Hunting</title></circle></a><a href="/variants/s7/r2k9g12db8r1db1w1~x4/"><circle cx="128.0" cy="164.2" r="4" fill="#3465a4"><title>Genet, Citizen (Commem)</title></circle></a><circle cx="132.6" cy="164.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k20w4r4dg20w5dg2g2~x2~dg1806142-g2408144/

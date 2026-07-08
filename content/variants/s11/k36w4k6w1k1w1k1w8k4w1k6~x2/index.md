@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal Stewart B & W (Universal?)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k36w4k6w1k1w1k1w8k4w1k6/)
 (the same proportion at any scale), whose colour order is pattern [KWKWKWKWKWK](/stripes/kwkwkwkwkwk/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1231
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1231](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1231)
 
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -67,8 +69,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k8n2k2n2k14n2k2n1k14n26k2~x2/"><circle cx="355.5" cy="132.2" r="4" fill="#3465a4"><title>Grey Pride of Scotland (Fashion)</title></circle></a><a href="/variants/s12/k31w2k4w1k1w1k1w1k1w1k3w3~x4/"><circle cx="475.5" cy="53.6" r="4" fill="#3465a4"><title>Scott (Black and White)</title></circle></a><a href="/variants/s11/k68n11k16n4k4n4k4n19k14w4k14/"><circle cx="416.1" cy="123.9" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/variants/s11/k40n3k5n2k2n2k2n6k4w2k4~x2/"><circle cx="397.0" cy="78.0" r="4" fill="#3465a4"><title>Stewart/Stuart Mourning</title></circle></a><a href="/variants/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/"><circle cx="435.0" cy="111.1" r="4" fill="#3465a4"><title>Stuart/Stewart Mourning</title></circle></a><a href="/variants/s10/k4w14k2w4k8w3k30w2k4w4~x2/"><circle cx="356.0" cy="157.4" r="4" fill="#3465a4"><title>Kinloch Anderson Black and White</title></circle></a><a href="/variants/s7/k75lb6k5lb18k2lb2k3~x2/"><circle cx="481.7" cy="101.8" r="4" fill="#3465a4"><title>Bargain Booze</title></circle></a><a href="/variants/s8/k38y1w7y1k4y2k3y2~x2/"><circle cx="466.2" cy="82.0" r="4" fill="#3465a4"><title>Erck, Georges van (Personal),</title></circle></a><a href="/variants/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/"><circle cx="534.2" cy="42.9" r="4" fill="#3465a4"><title>Heolnezva ha Materi (Fashion)</title></circle></a><a href="/variants/s8/k44r2w10r3k6r1w2k18~x2/"><circle cx="462.9" cy="87.9" r="4" fill="#3465a4"><title>Mull Rugby Club</title></circle></a><circle cx="474.1" cy="84.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k8n2k2n2k14n2k2n1k14n26k2~x2/"><circle cx="355.4" cy="132.5" r="4" fill="#3465a4"><title>Grey Pride of Scotland (Fashion)</title></circle></a><a href="/variants/s12/k31w2k4w1k1w1k1w1k1w1k3w3~x4/"><circle cx="475.3" cy="53.7" r="4" fill="#3465a4"><title>Scott (Black and White)</title></circle></a><a href="/variants/s11/k68n11k16n4k4n4k4n19k14w4k14/"><circle cx="416.0" cy="124.2" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/variants/s11/k40n3k5n2k2n2k2n6k4w2k4~x2/"><circle cx="396.9" cy="78.2" r="4" fill="#3465a4"><title>Stewart/Stuart Mourning</title></circle></a><a href="/variants/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/"><circle cx="435.0" cy="111.5" r="4" fill="#3465a4"><title>Stuart/Stewart Mourning</title></circle></a><a href="/variants/s10/k4w14k2w4k8w3k30w2k4w4~x2/"><circle cx="356.0" cy="157.9" r="4" fill="#3465a4"><title>Kinloch Anderson Black and White</title></circle></a><a href="/variants/s7/k75lb6k5lb18k2lb2k3~x2/"><circle cx="481.6" cy="102.1" r="4" fill="#3465a4"><title>Bargain Booze</title></circle></a><a href="/variants/s8/k38y1w7y1k4y2k3y2~x2/"><circle cx="466.1" cy="82.2" r="4" fill="#3465a4"><title>Erck, Georges van (Personal),</title></circle></a><a href="/variants/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/"><circle cx="534.0" cy="43.0" r="4" fill="#3465a4"><title>Heolnezva ha Materi (Fashion)</title></circle></a><a href="/variants/s8/k44r2w10r3k6r1w2k18~x2/"><circle cx="462.8" cy="88.2" r="4" fill="#3465a4"><title>Mull Rugby Club</title></circle></a><circle cx="473.9" cy="84.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k36w4k6w1k1w1k1w8k4w1k6~x2/

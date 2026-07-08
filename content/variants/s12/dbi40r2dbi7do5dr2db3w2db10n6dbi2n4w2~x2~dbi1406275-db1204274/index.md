@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Plymouth Armada"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dbi40r2dbi7do5dr2db3w2db10n6dbi2n4w2/)
 (the same proportion at any scale), whose colour order is pattern [BRBBBBWBBBBW](/stripes/brbbbbwbbbbw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3349
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3349](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3349)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dbi40r2dbi7db5dr2db3w2db10n6dbi2n4w2~x2~dbi1406275-db1204274/"><circle cx="387.9" cy="122.9" r="4" fill="#3465a4"><title>Plymouth Armada Special event Tartan</title></circle></a><a href="/variants/s12/dbi40r2dbi7db5o2db3w2db10n6dbi2n4w2~x2~dbi1604274-db0805267/"><circle cx="352.0" cy="110.5" r="4" fill="#3465a4"><title>Plymouth/Armada 400, Armada</title></circle></a><a href="/variants/s12/t40r2t7db5ly2db3w2db10n6t2n4w2~x2/"><circle cx="346.6" cy="115.5" r="4" fill="#3465a4"><title>Plymouth Armada (Commemorative)</title></circle></a><a href="/variants/s12/db54dy9db16dy2dp3w3dp3dr27db13dy3g5w2~x2/"><circle cx="389.0" cy="122.4" r="4" fill="#3465a4"><title>Queens University Kingston Ontario</title></circle></a><a href="/variants/s8/w3dp2ly2dp38db28o2db2r2~x2/"><circle cx="345.2" cy="128.6" r="4" fill="#3465a4"><title>Gretna Gold (Fashion)</title></circle></a><a href="/variants/s8/w3dp2ly2dp38db28o2db2r2~x2~db1204274/"><circle cx="398.4" cy="130.4" r="4" fill="#3465a4"><title>Gretna Gold</title></circle></a><a href="/variants/s11/db54dbi14y3dbi3w3dbi3g9dy7dbi2dy9w2~x2~db1204274-dbi1406275/"><circle cx="336.7" cy="119.1" r="4" fill="#3465a4"><title>Holyrood Corporate Tartan</title></circle></a><a href="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/"><circle cx="312.6" cy="117.3" r="4" fill="#3465a4"><title>Scottish Parliament (Official)</title></circle></a><circle cx="358.3" cy="106.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dbi40r2dbi7db5dr2db3w2db10n6dbi2n4w2~x2~dbi1406275-db1204274/"><circle cx="387.9" cy="122.7" r="4" fill="#3465a4"><title>Plymouth Armada Special event Tartan</title></circle></a><a href="/variants/s12/dbi40r2dbi7db5o2db3w2db10n6dbi2n4w2~x2~dbi1604274-db0805267/"><circle cx="351.9" cy="110.4" r="4" fill="#3465a4"><title>Plymouth/Armada 400, Armada</title></circle></a><a href="/variants/s12/t40r2t7db5ly2db3w2db10n6t2n4w2~x2/"><circle cx="346.5" cy="115.5" r="4" fill="#3465a4"><title>Plymouth Armada (Commemorative)</title></circle></a><a href="/variants/s12/db54dy9db16dy2dp3w3dp3dr27db13dy3g5w2~x2/"><circle cx="388.9" cy="122.4" r="4" fill="#3465a4"><title>Queens University Kingston Ontario</title></circle></a><a href="/variants/s8/w3dp2ly2dp38db28o2db2r2~x2/"><circle cx="345.2" cy="128.6" r="4" fill="#3465a4"><title>Gretna Gold (Fashion)</title></circle></a><a href="/variants/s8/w3dp2ly2dp38db28o2db2r2~x2~db1204274/"><circle cx="398.3" cy="130.2" r="4" fill="#3465a4"><title>Gretna Gold</title></circle></a><a href="/variants/s11/db54dbi14y3dbi3w3dbi3g9dy7dbi2dy9w2~x2~db1204274-dbi1406275/"><circle cx="336.6" cy="119.0" r="4" fill="#3465a4"><title>Holyrood Corporate Tartan</title></circle></a><a href="/variants/s12/n45g3db7r2db7g3n4w2dp36w2n11db4/"><circle cx="312.5" cy="117.3" r="4" fill="#3465a4"><title>Scottish Parliament (Official)</title></circle></a><circle cx="358.2" cy="106.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dbi40r2dbi7do5dr2db3w2db10n6dbi2n4w2~x2~dbi1406275-db1204274/

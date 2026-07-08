@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "BC Corps of Commissionaires"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db12lb1dr3lb1dr3lb1db6/)
 (the same proportion at any scale), whose colour order is pattern [BWBWBWB](/stripes/bwbwbwb/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11090
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11090](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11090)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db12lb1r3lb1r3lb1db6~x4/"><circle cx="403.4" cy="200.9" r="4" fill="#3465a4"><title>BC Corps of Commissionaires, The</title></circle></a><a href="/variants/s6/db144dr9lb44db4lb4db4/"><circle cx="539.3" cy="162.2" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><a href="/variants/s6/db35lr8db21lr13db6ly4~x2/"><circle cx="437.4" cy="258.8" r="4" fill="#3465a4"><title>Ochterlonie</title></circle></a><a href="/variants/s5/db24t13db4t4w2~x2/"><circle cx="435.3" cy="262.5" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/variants/s7/db36lo5db8lb3db8lb10db3~x2/"><circle cx="491.5" cy="219.2" r="4" fill="#3465a4"><title>Scottish Qualifications Auth. (Corp)</title></circle></a><a href="/variants/s9/n1lb6db4lb1db16dt1db4dt6lb1~x4~dt1602194/"><circle cx="393.5" cy="198.1" r="4" fill="#3465a4"><title>Fujisankei Serene</title></circle></a><a href="/variants/s5/dr1db9ly2db9ly1~x4/"><circle cx="541.3" cy="258.0" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Blue (Fashion</title></circle></a><a href="/variants/s4/db60y6db11r25~x2/"><circle cx="431.4" cy="216.1" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/variants/s5/db13lb3db1r3lb1~x6/"><circle cx="405.8" cy="200.1" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s6/db50do4db12do23ly4do4~x2/"><circle cx="523.9" cy="257.2" r="4" fill="#3465a4"><title>Sligo, County</title></circle></a><circle cx="468.2" cy="237.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db12lb1r3lb1r3lb1db6~x4/"><circle cx="403.5" cy="201.4" r="4" fill="#3465a4"><title>BC Corps of Commissionaires, The</title></circle></a><a href="/variants/s6/db144dr9lb44db4lb4db4/"><circle cx="539.3" cy="162.4" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><a href="/variants/s6/db35lr8db21lr13db6ly4~x2/"><circle cx="437.6" cy="259.5" r="4" fill="#3465a4"><title>Ochterlonie</title></circle></a><a href="/variants/s5/db24t13db4t4w2~x2/"><circle cx="435.4" cy="263.0" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/variants/s7/db36lo5db8lb3db8lb10db3~x2/"><circle cx="491.6" cy="219.7" r="4" fill="#3465a4"><title>Scottish Qualifications Auth. (Corp)</title></circle></a><a href="/variants/s9/n1lb6db4lb1db16dt1db4dt6lb1~x4~dt1602194/"><circle cx="393.5" cy="198.4" r="4" fill="#3465a4"><title>Fujisankei Serene</title></circle></a><a href="/variants/s5/dr1db9ly2db9ly1~x4/"><circle cx="541.5" cy="258.6" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Blue (Fashion</title></circle></a><a href="/variants/s4/db60y6db11r25~x2/"><circle cx="431.5" cy="216.6" r="4" fill="#3465a4"><title>South Australian Pipes &amp; Drums (Corp</title></circle></a><a href="/variants/s5/db13lb3db1r3lb1~x6/"><circle cx="405.9" cy="200.6" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s6/db50do4db12do23ly4do4~x2/"><circle cx="524.0" cy="257.4" r="4" fill="#3465a4"><title>Sligo, County</title></circle></a><circle cx="468.3" cy="237.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db12lb1dr3lb1dr3lb1db6~x4/

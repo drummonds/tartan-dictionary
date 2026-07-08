@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Swanstrom (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k8r1k8r11y1r1/)
 (the same proportion at any scale), whose colour order is pattern [KRKRGR](/stripes/krkrgr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4052
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4052](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4052)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r8k1r8k12r1~x2/"><circle cx="324.5" cy="209.2" r="4" fill="#3465a4"><title>MacLeod Black &amp; Red</title></circle></a><a href="/variants/s5/r4k1r24k22r2~x2/"><circle cx="361.7" cy="163.4" r="4" fill="#3465a4"><title>Campbell Red (artefact)</title></circle></a><a href="/variants/s5/r4k1r12k12r2~x2/"><circle cx="334.8" cy="203.4" r="4" fill="#3465a4"><title>Campbell of Armaddie</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y1~x2/"><circle cx="274.5" cy="187.1" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><a href="/variants/s6/k31r4k47r47k4r31~x2/"><circle cx="289.3" cy="212.9" r="4" fill="#3465a4"><title>Erskine (Paton)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y2~x4/"><circle cx="259.0" cy="192.6" r="4" fill="#3465a4"><title>MacDonald of Ardnamurchan (Clan?)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y2~x2/"><circle cx="259.0" cy="192.6" r="4" fill="#3465a4"><title>MacIain</title></circle></a><a href="/variants/s6/k6r3k28r28k3r6~x2/"><circle cx="300.9" cy="197.8" r="4" fill="#3465a4"><title>Erskine, Black &amp; Red (Clan)</title></circle></a><a href="/variants/s5/k13r2k13r19k2~x2/"><circle cx="311.3" cy="221.2" r="4" fill="#3465a4"><title>MacLeod of Raasay (Highland Society of London)</title></circle></a><a href="/variants/s6/k3r1k16r16k1r3~x4/"><circle cx="323.1" cy="170.9" r="4" fill="#3465a4"><title>The Mary Erskine</title></circle></a><circle cx="283.9" cy="185.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r8k1r8k12r1~x2/"><circle cx="324.6" cy="210.0" r="4" fill="#3465a4"><title>MacLeod Black &amp; Red</title></circle></a><a href="/variants/s5/r4k1r24k22r2~x2/"><circle cx="361.8" cy="164.0" r="4" fill="#3465a4"><title>Campbell Red (artefact)</title></circle></a><a href="/variants/s5/r4k1r12k12r2~x2/"><circle cx="334.9" cy="204.1" r="4" fill="#3465a4"><title>Campbell of Armaddie</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y1~x2/"><circle cx="274.5" cy="187.8" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><a href="/variants/s6/k31r4k47r47k4r31~x2/"><circle cx="289.4" cy="213.7" r="4" fill="#3465a4"><title>Erskine (Paton)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y2~x4/"><circle cx="259.1" cy="193.2" r="4" fill="#3465a4"><title>MacDonald of Ardnamurchan (Clan?)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y2~x2/"><circle cx="259.1" cy="193.2" r="4" fill="#3465a4"><title>MacIain</title></circle></a><a href="/variants/s6/k6r3k28r28k3r6~x2/"><circle cx="300.9" cy="198.5" r="4" fill="#3465a4"><title>Erskine, Black &amp; Red (Clan)</title></circle></a><a href="/variants/s5/k13r2k13r19k2~x2/"><circle cx="311.4" cy="221.9" r="4" fill="#3465a4"><title>MacLeod of Raasay (Highland Society of London)</title></circle></a><a href="/variants/s6/k3r1k16r16k1r3~x4/"><circle cx="323.1" cy="171.5" r="4" fill="#3465a4"><title>The Mary Erskine</title></circle></a><circle cx="283.9" cy="185.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k8r1k8r11y1r1~x4/

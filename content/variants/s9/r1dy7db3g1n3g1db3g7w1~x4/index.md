@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Adamson (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1dy7db3g1n3g1db3g7w1/)
 (the same proportion at any scale), whose colour order is pattern [RGBGBGBGW](/stripes/rgbgbgbgw/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7942
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7942](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7942)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g1lr1g6db5dg6r1dg1lo1~x4/"><circle cx="130.9" cy="207.9" r="4" fill="#3465a4"><title>Vermont</title></circle></a><a href="/variants/s8/g1lr1g6db5dg6r1dg1lo1~x4~dg1605139/"><circle cx="143.7" cy="213.6" r="4" fill="#3465a4"><title>Vermont District USA Tartan</title></circle></a><a href="/variants/s9/o3b2g19b6g2b6dg14dr4w2~x2/"><circle cx="173.8" cy="189.0" r="4" fill="#3465a4"><title>Royal Pharmaceutical, Society</title></circle></a><a href="/variants/s8/db34w5db5r5db5do26g33o6~x2/"><circle cx="150.7" cy="195.7" r="4" fill="#3465a4"><title>Blairmore</title></circle></a><a href="/variants/s12/y3g15r2db8lb2r8g8r2dg15r2dg2lb2~x2/"><circle cx="125.5" cy="180.1" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4~r2109032/"><circle cx="158.7" cy="186.3" r="4" fill="#3465a4"><title>Hash House Harriers Hunting</title></circle></a><a href="/variants/s11/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/"><circle cx="139.3" cy="190.6" r="4" fill="#3465a4"><title>Greyfriars (District)</title></circle></a><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4/"><circle cx="158.1" cy="186.1" r="4" fill="#3465a4"><title>Hash House Harriers Hunting (Corp)</title></circle></a><a href="/variants/s12/db9n3db2lr2db9n6db3lr3db3g18dg8r2~x2/"><circle cx="155.4" cy="178.6" r="4" fill="#3465a4"><title>Patterson, William John Magee (Personal)</title></circle></a><a href="/variants/s10/r2g6lb1g1lb1g1lb3dt8y1t1~x4~dt1102249-t2308259/"><circle cx="129.2" cy="173.8" r="4" fill="#3465a4"><title>Haines Family (Personal)</title></circle></a><circle cx="135.8" cy="204.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g1lr1g6db5dg6r1dg1lo1~x4/"><circle cx="130.9" cy="208.3" r="4" fill="#3465a4"><title>Vermont</title></circle></a><a href="/variants/s8/g1lr1g6db5dg6r1dg1lo1~x4~dg1605139/"><circle cx="143.8" cy="214.0" r="4" fill="#3465a4"><title>Vermont District USA Tartan</title></circle></a><a href="/variants/s9/o3b2g19b6g2b6dg14dr4w2~x2/"><circle cx="173.8" cy="189.3" r="4" fill="#3465a4"><title>Royal Pharmaceutical, Society</title></circle></a><a href="/variants/s8/db34w5db5r5db5do26g33o6~x2/"><circle cx="150.7" cy="196.1" r="4" fill="#3465a4"><title>Blairmore</title></circle></a><a href="/variants/s12/y3g15r2db8lb2r8g8r2dg15r2dg2lb2~x2/"><circle cx="125.5" cy="180.4" r="4" fill="#3465a4"><title>Gordonstoun</title></circle></a><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4~r2109032/"><circle cx="158.7" cy="186.6" r="4" fill="#3465a4"><title>Hash House Harriers Hunting</title></circle></a><a href="/variants/s11/t30r6dy16lp6g10lp14g24y4dy10lp3dy28/"><circle cx="139.3" cy="191.0" r="4" fill="#3465a4"><title>Greyfriars (District)</title></circle></a><a href="/variants/s13/g7dy1w1dy1ly1dy7db7dy1db7dy7g7dy1r1~x4/"><circle cx="158.1" cy="186.4" r="4" fill="#3465a4"><title>Hash House Harriers Hunting (Corp)</title></circle></a><a href="/variants/s12/db9n3db2lr2db9n6db3lr3db3g18dg8r2~x2/"><circle cx="155.4" cy="178.8" r="4" fill="#3465a4"><title>Patterson, William John Magee (Personal)</title></circle></a><a href="/variants/s10/r2g6lb1g1lb1g1lb3dt8y1t1~x4~dt1102249-t2308259/"><circle cx="129.2" cy="174.1" r="4" fill="#3465a4"><title>Haines Family (Personal)</title></circle></a><circle cx="135.9" cy="204.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r1dy7db3g1n3g1db3g7w1~x4/

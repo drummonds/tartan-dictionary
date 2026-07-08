@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lennox Primary School"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp2o1dp10db1n10k1n2/)
 (the same proportion at any scale), whose colour order is pattern [BKBBBRB](/stripes/bkbbbrb/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11442
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11442](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11442)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k2dr1db17dr17b1y2~x4/"><circle cx="336.0" cy="170.0" r="4" fill="#3465a4"><title>Murdoch</title></circle></a><a href="/variants/s6/k2dr1dbi17dr17db1y2~x4~dbi1404245-db1204274/"><circle cx="373.6" cy="184.9" r="4" fill="#3465a4"><title>Murdoch (Geoffrey)</title></circle></a><a href="/variants/s7/dp29y4db4y4do4y4r4~x4/"><circle cx="341.5" cy="195.1" r="4" fill="#3465a4"><title>Marino</title></circle></a><a href="/variants/s9/k4db4k2db4k2db22dy27y2r3~x2/"><circle cx="279.1" cy="153.1" r="4" fill="#3465a4"><title>Falkirk (District)</title></circle></a><a href="/variants/s6/db18y2dy6y2dy19r3~x2/"><circle cx="361.4" cy="237.4" r="4" fill="#3465a4"><title>Balfour #2</title></circle></a><a href="/variants/s6/db18y2dy6y2dy19r3~x4/"><circle cx="361.4" cy="237.4" r="4" fill="#3465a4"><title>Balfour (Clan)</title></circle></a><a href="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/"><circle cx="257.2" cy="159.1" r="4" fill="#3465a4"><title>By Storm</title></circle></a><a href="/variants/s7/dg27dr2dg4o15db26k2db6~x2~dg1703114/"><circle cx="252.6" cy="190.1" r="4" fill="#3465a4"><title>Bailies of Bennachie Corporate Tartan</title></circle></a><a href="/variants/s8/k4dr2lr2dr28db27dr2k2lo2~x2/"><circle cx="294.0" cy="142.7" r="4" fill="#3465a4"><title>Toronto Fire Services (Corporate)</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.3" cy="219.4" r="4" fill="#3465a4"><title>Balfour</title></circle></a><circle cx="324.1" cy="193.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k2dr1db17dr17b1y2~x4/"><circle cx="336.0" cy="170.1" r="4" fill="#3465a4"><title>Murdoch</title></circle></a><a href="/variants/s6/k2dr1dbi17dr17db1y2~x4~dbi1404245-db1204274/"><circle cx="373.6" cy="184.9" r="4" fill="#3465a4"><title>Murdoch (Geoffrey)</title></circle></a><a href="/variants/s7/dp29y4db4y4do4y4r4~x4/"><circle cx="341.6" cy="195.4" r="4" fill="#3465a4"><title>Marino</title></circle></a><a href="/variants/s9/k4db4k2db4k2db22dy27y2r3~x2/"><circle cx="279.1" cy="153.2" r="4" fill="#3465a4"><title>Falkirk (District)</title></circle></a><a href="/variants/s6/db18y2dy6y2dy19r3~x2/"><circle cx="361.5" cy="237.7" r="4" fill="#3465a4"><title>Balfour #2</title></circle></a><a href="/variants/s6/db18y2dy6y2dy19r3~x4/"><circle cx="361.5" cy="237.7" r="4" fill="#3465a4"><title>Balfour (Clan)</title></circle></a><a href="/variants/s8/dp5r3dp18g8k8dpi31k2dpi4~x2~dp1005325-dpi1505337/"><circle cx="257.2" cy="159.3" r="4" fill="#3465a4"><title>By Storm</title></circle></a><a href="/variants/s7/dg27dr2dg4o15db26k2db6~x2~dg1703114/"><circle cx="252.7" cy="190.3" r="4" fill="#3465a4"><title>Bailies of Bennachie Corporate Tartan</title></circle></a><a href="/variants/s8/k4dr2lr2dr28db27dr2k2lo2~x2/"><circle cx="293.9" cy="142.9" r="4" fill="#3465a4"><title>Toronto Fire Services (Corporate)</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.4" cy="219.7" r="4" fill="#3465a4"><title>Balfour</title></circle></a><circle cx="324.2" cy="193.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dp2o1dp10db1n10k1n2~x4/

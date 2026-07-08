@@ -4,6 +4,8 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified (2013)"
+  url: ""
 slug_full: "r5dg10lo1ly1lo1ly1lo1ly1lo1r9lo2ly1lo1r7lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1~x2"
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5dg10lo1ly1lo1ly1lo1ly1lo1r9lo2ly1lo1r7lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1/)
@@ -11,7 +13,7 @@ This page is one **sett** — a single exact thread-count. It belongs to the [ta
 
 Sourced from tartans-authority.  It is a [72 stripe tartan](/stripes/stripes72/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8689
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8689](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8689)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

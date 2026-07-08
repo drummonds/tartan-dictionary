@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "SiMBA"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp2g3lp21dp42w1g2/)
 (the same proportion at any scale), whose colour order is pattern [BGWBWG](/stripes/bgwbwg/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11234
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11234](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11234)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp2g3o21dp42w1g2~x2/"><circle cx="452.9" cy="130.8" r="4" fill="#3465a4"><title>SiMBA</title></circle></a><a href="/variants/s7/dp40k8ly8dp4ly1dp4lr8~x4/"><circle cx="379.4" cy="101.6" r="4" fill="#3465a4"><title>Wcwm 4907-2</title></circle></a><a href="/variants/s5/dp37w9dp3dy9w3~x2/"><circle cx="402.7" cy="208.0" r="4" fill="#3465a4"><title>Glen App Trade Tartan</title></circle></a><a href="/variants/s6/r1lr10y2lr16db40lr1~x2/"><circle cx="376.8" cy="129.1" r="4" fill="#3465a4"><title>Caithness Glass (Corporate)</title></circle></a><a href="/variants/s5/dp37w9dp3o9w3~x2/"><circle cx="382.3" cy="193.7" r="4" fill="#3465a4"><title>Glen App</title></circle></a><circle cx="425.9" cy="129.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp2g3o21dp42w1g2~x2/"><circle cx="452.8" cy="131.0" r="4" fill="#3465a4"><title>SiMBA</title></circle></a><a href="/variants/s7/dp40k8ly8dp4ly1dp4lr8~x4/"><circle cx="379.3" cy="101.8" r="4" fill="#3465a4"><title>Wcwm 4907-2</title></circle></a><a href="/variants/s5/dp37w9dp3dy9w3~x2/"><circle cx="402.8" cy="208.6" r="4" fill="#3465a4"><title>Glen App Trade Tartan</title></circle></a><a href="/variants/s6/r1lr10y2lr16db40lr1~x2/"><circle cx="376.8" cy="129.4" r="4" fill="#3465a4"><title>Caithness Glass (Corporate)</title></circle></a><a href="/variants/s5/dp37w9dp3o9w3~x2/"><circle cx="382.3" cy="194.2" r="4" fill="#3465a4"><title>Glen App</title></circle></a><circle cx="425.9" cy="130.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dp2g3lp21dp42w1g2~x2/

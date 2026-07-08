@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Baru"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp23dg8dp23dg35w5/)
 (the same proportion at any scale), whose colour order is pattern [BGBGW](/stripes/bgbgw/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=226
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=226](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=226)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dp15dt5dp15dt21w2~x2/"><circle cx="452.0" cy="312.1" r="4" fill="#3465a4"><title>Highland Spirit (Fashion)</title></circle></a><a href="/variants/s4/g4dp4g1dp1~x4/"><circle cx="345.7" cy="332.9" r="4" fill="#3465a4"><title>Wilson's No 211</title></circle></a><a href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/"><circle cx="319.6" cy="239.8" r="4" fill="#3465a4"><title>O'Long (Personal)</title></circle></a><a href="/variants/s5/g5dp2db5dp10dy2~x2/"><circle cx="307.5" cy="299.2" r="4" fill="#3465a4"><title>Bryson (2000)</title></circle></a><a href="/variants/s5/db23dp2g11dp24lb3~x2/"><circle cx="301.0" cy="251.6" r="4" fill="#3465a4"><title>Scottish Open Squash (Corporate)</title></circle></a><a href="/variants/s6/dp6y1dp20db6g19dp2~x4/"><circle cx="358.2" cy="208.8" r="4" fill="#3465a4"><title>Discover Islay (District)</title></circle></a><a href="/variants/s3/dp3n1g2~x10/"><circle cx="274.9" cy="359.6" r="4" fill="#3465a4"><title>Coleman, Sarah-Louise (Personal)</title></circle></a><a href="/variants/s3/dp5g6y1~x4/"><circle cx="322.6" cy="324.6" r="4" fill="#3465a4"><title>Wilson's, No 81</title></circle></a><a href="/variants/s5/db5g2db5g8w1~x8/"><circle cx="303.2" cy="288.2" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/variants/s7/db3dr19db13dr5g21dr8db3~x2/"><circle cx="295.9" cy="277.3" r="4" fill="#3465a4"><title>MacBean of Tomatin (Clan)</title></circle></a><circle cx="350.3" cy="298.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dp15dt5dp15dt21w2~x2/"><circle cx="452.2" cy="312.5" r="4" fill="#3465a4"><title>Highland Spirit (Fashion)</title></circle></a><a href="/variants/s4/g4dp4g1dp1~x4/"><circle cx="346.0" cy="333.8" r="4" fill="#3465a4"><title>Wilson's No 211</title></circle></a><a href="/variants/s7/g22dp22g3dp11w3dp4w3~x2/"><circle cx="319.8" cy="240.5" r="4" fill="#3465a4"><title>O'Long (Personal)</title></circle></a><a href="/variants/s5/g5dp2db5dp10dy2~x2/"><circle cx="307.7" cy="299.7" r="4" fill="#3465a4"><title>Bryson (2000)</title></circle></a><a href="/variants/s5/db23dp2g11dp24lb3~x2/"><circle cx="301.1" cy="252.0" r="4" fill="#3465a4"><title>Scottish Open Squash (Corporate)</title></circle></a><a href="/variants/s6/dp6y1dp20db6g19dp2~x4/"><circle cx="358.3" cy="209.2" r="4" fill="#3465a4"><title>Discover Islay (District)</title></circle></a><a href="/variants/s3/dp3n1g2~x10/"><circle cx="275.3" cy="360.4" r="4" fill="#3465a4"><title>Coleman, Sarah-Louise (Personal)</title></circle></a><a href="/variants/s3/dp5g6y1~x4/"><circle cx="322.9" cy="325.4" r="4" fill="#3465a4"><title>Wilson's, No 81</title></circle></a><a href="/variants/s5/db5g2db5g8w1~x8/"><circle cx="303.4" cy="288.9" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/variants/s7/db3dr19db13dr5g21dr8db3~x2/"><circle cx="296.1" cy="277.9" r="4" fill="#3465a4"><title>MacBean of Tomatin (Clan)</title></circle></a><circle cx="350.5" cy="299.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dp23dg8dp23dg35w5~x2/

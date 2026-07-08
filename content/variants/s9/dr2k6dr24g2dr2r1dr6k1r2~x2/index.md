@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Fitzgibbon Red"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr2k6dr24g2dr2r1dr6k1r2/)
 (the same proportion at any scale), whose colour order is pattern [BKBGBRBKR](/stripes/bkbgbrbkr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10035
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10035](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10035)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr32k2dr4k2dr2k8dr30lb3~x2/"><circle cx="554.9" cy="159.9" r="4" fill="#3465a4"><title>University of Chicago (Corporate)</title></circle></a><a href="/variants/s11/n2dr2k37dr3ri2dr3r1ri4dr4k19ri1~x2~dr1302028-ri1606028/"><circle cx="445.4" cy="68.1" r="4" fill="#3465a4"><title>Brodie, Graeme (Personal)</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="428.4" cy="120.5" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/variants/s10/dr6y1dr6k3dr12k15r1dr30k1w2~x2/"><circle cx="417.2" cy="94.7" r="4" fill="#3465a4"><title>Motherwell Football Club 1991</title></circle></a><a href="/variants/s12/dr40k1dr3k1w3k4w3k1dr3k1dr40k4~x2/"><circle cx="557.7" cy="75.0" r="4" fill="#3465a4"><title>Salt Lake County District Tartan</title></circle></a><a href="/variants/s7/dr18g1k5g1k1g1dr9~x2/"><circle cx="501.6" cy="162.0" r="4" fill="#3465a4"><title>Inverness Augustus</title></circle></a><a href="/variants/s10/dy36k3r6k3dy10r5dy3lo4k1dy2~x2/"><circle cx="433.3" cy="90.7" r="4" fill="#3465a4"><title>Mead Hunting (Personal)</title></circle></a><a href="/variants/s13/w2k2lb2y2k2dr6k1dr12k2dr6w1dr23k1~x2/"><circle cx="425.4" cy="81.8" r="4" fill="#3465a4"><title>Wilding, Michael John (Personal)</title></circle></a><a href="/variants/s6/r30db8r2k1r2k1~x2/"><circle cx="429.4" cy="91.0" r="4" fill="#3465a4"><title>Masai Shuka 27 (Artefact)</title></circle></a><a href="/variants/s9/dr74k4dr7k4dr9k40w2k4n2/"><circle cx="429.0" cy="97.1" r="4" fill="#3465a4"><title>Llewellen of Wales</title></circle></a><circle cx="486.2" cy="115.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr32k2dr4k2dr2k8dr30lb3~x2/"><circle cx="554.9" cy="160.2" r="4" fill="#3465a4"><title>University of Chicago (Corporate)</title></circle></a><a href="/variants/s11/n2dr2k37dr3ri2dr3r1ri4dr4k19ri1~x2~dr1302028-ri1606028/"><circle cx="445.2" cy="68.1" r="4" fill="#3465a4"><title>Brodie, Graeme (Personal)</title></circle></a><a href="/variants/s9/dr18k1dy3k1lr1dr3k2dr2lr2~x4/"><circle cx="428.4" cy="120.7" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/variants/s10/dr6y1dr6k3dr12k15r1dr30k1w2~x2/"><circle cx="417.1" cy="94.8" r="4" fill="#3465a4"><title>Motherwell Football Club 1991</title></circle></a><a href="/variants/s12/dr40k1dr3k1w3k4w3k1dr3k1dr40k4~x2/"><circle cx="557.6" cy="75.2" r="4" fill="#3465a4"><title>Salt Lake County District Tartan</title></circle></a><a href="/variants/s7/dr18g1k5g1k1g1dr9~x2/"><circle cx="501.6" cy="162.3" r="4" fill="#3465a4"><title>Inverness Augustus</title></circle></a><a href="/variants/s10/dy36k3r6k3dy10r5dy3lo4k1dy2~x2/"><circle cx="433.2" cy="90.8" r="4" fill="#3465a4"><title>Mead Hunting (Personal)</title></circle></a><a href="/variants/s13/w2k2lb2y2k2dr6k1dr12k2dr6w1dr23k1~x2/"><circle cx="425.3" cy="82.0" r="4" fill="#3465a4"><title>Wilding, Michael John (Personal)</title></circle></a><a href="/variants/s6/r30db8r2k1r2k1~x2/"><circle cx="429.3" cy="91.2" r="4" fill="#3465a4"><title>Masai Shuka 27 (Artefact)</title></circle></a><a href="/variants/s9/dr74k4dr7k4dr9k40w2k4n2/"><circle cx="428.9" cy="97.2" r="4" fill="#3465a4"><title>Llewellen of Wales</title></circle></a><circle cx="486.2" cy="115.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dr2k6dr24g2dr2r1dr6k1r2~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Scottish Parliament"
   url: "/tartans/scottish-parliament/"
+- name: "Scottish Parliament (unofficial)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db14g18k3g18dr20k14lo3/)
 (the same proportion at any scale), whose colour order is pattern [BGKGBKY](/stripes/bgkgbky/).
@@ -14,7 +16,7 @@ Part of the [Scottish Parliament](/tartans/scottish-parliament/) tartan — the 
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3738
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3738](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3738)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r1dy7g7k7t7dy7r1~x4/"><circle cx="110.4" cy="230.4" r="4" fill="#3465a4"><title>Tennant #2</title></circle></a><a href="/variants/s7/r1do7g7k7t7do7r1~x4/"><circle cx="110.9" cy="229.8" r="4" fill="#3465a4"><title>Tennant (Clan)</title></circle></a><a href="/variants/s5/dp11lb2k10g10y3~x2/"><circle cx="73.3" cy="223.4" r="4" fill="#3465a4"><title>Wilson's No.217</title></circle></a><a href="/variants/s6/g2lo1g5k4do5dr1~x4/"><circle cx="111.6" cy="237.9" r="4" fill="#3465a4"><title>Forres</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2~dp1607327/"><circle cx="82.5" cy="218.8" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><a href="/variants/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="140.7" cy="217.7" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/variants/s7/db8g11k3g11dr12ki10y2~x2~ki0604259/"><circle cx="89.3" cy="232.6" r="4" fill="#3465a4"><title>Scottish Parliament</title></circle></a><a href="/variants/s7/k11g12w2g12k12dp12r3~x2/"><circle cx="86.1" cy="230.1" r="4" fill="#3465a4"><title>Cunningham / Wilson's No 120</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.8" cy="232.2" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s7/k6g6w1g6k6dp6b1~x4/"><circle cx="97.4" cy="230.0" r="4" fill="#3465a4"><title>Wilson's, No 233</title></circle></a><circle cx="108.4" cy="228.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r1dy7g7k7t7dy7r1~x4/"><circle cx="110.4" cy="231.0" r="4" fill="#3465a4"><title>Tennant #2</title></circle></a><a href="/variants/s7/r1do7g7k7t7do7r1~x4/"><circle cx="111.0" cy="230.4" r="4" fill="#3465a4"><title>Tennant (Clan)</title></circle></a><a href="/variants/s5/dp11lb2k10g10y3~x2/"><circle cx="73.4" cy="224.0" r="4" fill="#3465a4"><title>Wilson's No.217</title></circle></a><a href="/variants/s6/g2lo1g5k4do5dr1~x4/"><circle cx="111.7" cy="238.6" r="4" fill="#3465a4"><title>Forres</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2~dp1607327/"><circle cx="82.6" cy="219.4" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><a href="/variants/s8/do10r2do10g17k12db9do9r2~x2/"><circle cx="140.8" cy="218.2" r="4" fill="#3465a4"><title>MacDuff Hunting</title></circle></a><a href="/variants/s7/db8g11k3g11dr12ki10y2~x2~ki0604259/"><circle cx="89.4" cy="233.1" r="4" fill="#3465a4"><title>Scottish Parliament</title></circle></a><a href="/variants/s7/k11g12w2g12k12dp12r3~x2/"><circle cx="86.2" cy="230.8" r="4" fill="#3465a4"><title>Cunningham / Wilson's No 120</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.9" cy="232.9" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s7/k6g6w1g6k6dp6b1~x4/"><circle cx="97.5" cy="230.7" r="4" fill="#3465a4"><title>Wilson's, No 233</title></circle></a><circle cx="108.5" cy="229.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db14g18k3g18dr20k14lo3~x2/

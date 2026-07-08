@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal Stuart / Stewart"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k14w4k14w19k4w4k4n4k16n11k8/)
 (the same proportion at any scale), whose colour order is pattern [KBKBKWKWKWK](/stripes/kbkbkwkwkwk/).
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/n11k16n4k4w4k4w19k14w4k14w4k14w19k4w4k4n4k16n11k8/"><circle cx="172.7" cy="198.2" r="4" fill="#3465a4"><title>Stewart/Stuart Royal (B,W. &amp; Grey)</title></circle></a><a href="/variants/s5/k12t3k12t18w5~x2/"><circle cx="209.2" cy="241.1" r="4" fill="#3465a4"><title>Grampian Television</title></circle></a><a href="/variants/s7/k10y2k10w2k2y13w3~x2/"><circle cx="220.2" cy="214.2" r="4" fill="#3465a4"><title>Nooten-Boom (Personal)</title></circle></a><a href="/variants/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/"><circle cx="168.7" cy="227.3" r="4" fill="#3465a4"><title>Blackcraig (Personal)</title></circle></a><a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x4/"><circle cx="267.6" cy="175.0" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x2/"><circle cx="267.6" cy="175.0" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s15/k10w10k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/"><circle cx="165.0" cy="225.7" r="4" fill="#3465a4"><title>Blackcraig</title></circle></a><a href="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/"><circle cx="218.3" cy="199.8" r="4" fill="#3465a4"><title>Process Safety Solutions Ltd</title></circle></a><a href="/variants/s10/k17y2k2y2k9lb11k2lb11k20y2~x2/"><circle cx="293.6" cy="172.6" r="4" fill="#3465a4"><title>Coppa Romana (Switzerland)</title></circle></a><a href="/variants/s10/k5w4k4r4k4w7k2w7k8y1~x4/"><circle cx="157.2" cy="207.4" r="4" fill="#3465a4"><title>Little, Arisaid</title></circle></a><circle cx="202.3" cy="217.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/n11k16n4k4w4k4w19k14w4k14w4k14w19k4w4k4n4k16n11k8/"><circle cx="172.8" cy="198.9" r="4" fill="#3465a4"><title>Stewart/Stuart Royal (B,W. &amp; Grey)</title></circle></a><a href="/variants/s5/k12t3k12t18w5~x2/"><circle cx="209.3" cy="241.8" r="4" fill="#3465a4"><title>Grampian Television</title></circle></a><a href="/variants/s7/k10y2k10w2k2y13w3~x2/"><circle cx="220.3" cy="214.8" r="4" fill="#3465a4"><title>Nooten-Boom (Personal)</title></circle></a><a href="/variants/s13/k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/"><circle cx="168.8" cy="228.1" r="4" fill="#3465a4"><title>Blackcraig (Personal)</title></circle></a><a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x4/"><circle cx="267.7" cy="175.5" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x2/"><circle cx="267.7" cy="175.5" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s15/k10w10k10w10k10w10r3w6k3w3k3w3k3w3k3~x2/"><circle cx="165.1" cy="226.5" r="4" fill="#3465a4"><title>Blackcraig</title></circle></a><a href="/variants/s10/r4k11n8dg2n8k13dg2k13r5k2~x2/"><circle cx="218.3" cy="200.4" r="4" fill="#3465a4"><title>Process Safety Solutions Ltd</title></circle></a><a href="/variants/s10/k17y2k2y2k9lb11k2lb11k20y2~x2/"><circle cx="293.6" cy="173.1" r="4" fill="#3465a4"><title>Coppa Romana (Switzerland)</title></circle></a><a href="/variants/s10/k5w4k4r4k4w7k2w7k8y1~x4/"><circle cx="157.3" cy="208.1" r="4" fill="#3465a4"><title>Little, Arisaid</title></circle></a><circle cx="202.4" cy="218.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k14w4k14w19k4w4k4n4k16n11k8/

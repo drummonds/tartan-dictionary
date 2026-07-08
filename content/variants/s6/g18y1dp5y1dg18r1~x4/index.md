@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Symonds (2016)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g18y1dp5y1dg18r1/)
 (the same proportion at any scale), whose colour order is pattern [GGBGGR](/stripes/ggbggr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11473
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11473](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11473)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/ly5g33dg33r6w2~x2~g1903114-dg1405151/"><circle cx="316.4" cy="214.6" r="4" fill="#3465a4"><title>Symington</title></circle></a><a href="/variants/s5/dr8g19dg42ly3r1~x2/"><circle cx="403.6" cy="162.6" r="4" fill="#3465a4"><title>Nolan (Personal)</title></circle></a><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="230.3" cy="225.5" r="4" fill="#3465a4"><title>Simple Technology (Corporate)</title></circle></a><a href="/variants/s5/do8g19dg42lo3r1~x2~do1102055-lo3006076/"><circle cx="413.5" cy="166.8" r="4" fill="#3465a4"><title>Nolan Family, John J (Personal)</title></circle></a><a href="/variants/s6/dy4r2dg40g39dg3r4~x2/"><circle cx="363.5" cy="194.0" r="4" fill="#3465a4"><title>McGeorge (Personal)</title></circle></a><a href="/variants/s4/dy22dp1g22r4~x4/"><circle cx="340.9" cy="222.1" r="4" fill="#3465a4"><title>McWilliams Hunting (2014)</title></circle></a><a href="/variants/s7/dy10r5dy62dg40dy5g44r10/"><circle cx="309.5" cy="228.1" r="4" fill="#3465a4"><title>Ballintrae Trade Tartan</title></circle></a><a href="/variants/s6/r3g13db13dy2dg34w3~x2/"><circle cx="266.1" cy="167.3" r="4" fill="#3465a4"><title>Glencross, Tynron (Name)</title></circle></a><a href="/variants/s6/r3g13db13y2dg34w3~x2/"><circle cx="263.4" cy="166.3" r="4" fill="#3465a4"><title>Glencross (Tynron) (Personal)</title></circle></a><a href="/variants/s7/dy5r3dy31dg20dy3g22r5~x2/"><circle cx="301.2" cy="235.8" r="4" fill="#3465a4"><title>Ballantrae (Dalgety)</title></circle></a><circle cx="300.1" cy="188.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/ly5g33dg33r6w2~x2~g1903114-dg1405151/"><circle cx="316.5" cy="214.8" r="4" fill="#3465a4"><title>Symington</title></circle></a><a href="/variants/s5/dr8g19dg42ly3r1~x2/"><circle cx="403.6" cy="162.7" r="4" fill="#3465a4"><title>Nolan (Personal)</title></circle></a><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="230.4" cy="226.0" r="4" fill="#3465a4"><title>Simple Technology (Corporate)</title></circle></a><a href="/variants/s5/do8g19dg42lo3r1~x2~do1102055-lo3006076/"><circle cx="413.5" cy="166.9" r="4" fill="#3465a4"><title>Nolan Family, John J (Personal)</title></circle></a><a href="/variants/s6/dy4r2dg40g39dg3r4~x2/"><circle cx="363.5" cy="194.3" r="4" fill="#3465a4"><title>McGeorge (Personal)</title></circle></a><a href="/variants/s4/dy22dp1g22r4~x4/"><circle cx="341.0" cy="222.5" r="4" fill="#3465a4"><title>McWilliams Hunting (2014)</title></circle></a><a href="/variants/s7/dy10r5dy62dg40dy5g44r10/"><circle cx="309.6" cy="228.4" r="4" fill="#3465a4"><title>Ballintrae Trade Tartan</title></circle></a><a href="/variants/s6/r3g13db13dy2dg34w3~x2/"><circle cx="266.1" cy="167.5" r="4" fill="#3465a4"><title>Glencross, Tynron (Name)</title></circle></a><a href="/variants/s6/r3g13db13y2dg34w3~x2/"><circle cx="263.4" cy="166.5" r="4" fill="#3465a4"><title>Glencross (Tynron) (Personal)</title></circle></a><a href="/variants/s7/dy5r3dy31dg20dy3g22r5~x2/"><circle cx="301.3" cy="236.1" r="4" fill="#3465a4"><title>Ballantrae (Dalgety)</title></circle></a><circle cx="300.2" cy="188.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g18y1dp5y1dg18r1~x4/

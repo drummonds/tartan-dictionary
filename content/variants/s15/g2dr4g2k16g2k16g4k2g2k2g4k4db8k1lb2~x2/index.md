@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacKean Hunting"
   url: "/tartans/mackean-hunting/"
+- name: "MacKean Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g2dr4g2k16g2k16g4k2g2k2g4k4db8k1lb2/)
 (the same proportion at any scale), whose colour order is pattern [GBGKGKGKGKGKBKW](/stripes/gbgkgkgkgkgkbkw/).
@@ -14,7 +16,7 @@ Part of the [MacKean Hunting](/tartans/mackean-hunting/) tartan — the named de
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2510
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2510](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2510)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g2r4g2k16g4k16g4k2g2k2g4k4db8k1w2~x2/"><circle cx="223.2" cy="110.1" r="4" fill="#3465a4"><title>MacKean Hunting Family Tartan</title></circle></a><a href="/variants/s12/k17n2k3g2k3g2k24t8g4t4g3t8~x2/"><circle cx="259.9" cy="141.6" r="4" fill="#3465a4"><title>Kells Irish Pubs (Corporate)</title></circle></a><a href="/variants/s12/k43o7k9b3k3b3k3g18do9k3do4dg4~x2/"><circle cx="223.3" cy="93.4" r="4" fill="#3465a4"><title>Braveheart -Warrior (hunting)</title></circle></a><a href="/variants/s12/g12k40db4lb4db4k28db7k8db7k8db10r4/"><circle cx="269.9" cy="140.1" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s10/k4dg13k4g8k44g8k4dg13k4w3~x2~dg1806142-g2203152/"><circle cx="269.6" cy="134.3" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s12/k17n2k3g2k3g2k24db8g4db4g3db8~x2/"><circle cx="284.7" cy="146.8" r="4" fill="#3465a4"><title>Kells Irish Pubs</title></circle></a><a href="/variants/s10/k37g27w2k4r6k4w2g27k37y2~x2/"><circle cx="245.4" cy="118.1" r="4" fill="#3465a4"><title>Highlands of Durham #2</title></circle></a><a href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/"><circle cx="224.1" cy="137.2" r="4" fill="#3465a4"><title>Shadow Halls</title></circle></a><a href="/variants/s17/dy3k20db4dg3db3dg3db3dg3db4k13lo2k2lo2k2dg2k2dg3~x2/"><circle cx="225.6" cy="125.7" r="4" fill="#3465a4"><title>Fermanagh, County</title></circle></a><a href="/variants/s15/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249/"><circle cx="230.7" cy="141.1" r="4" fill="#3465a4"><title>ShadowHalls</title></circle></a><circle cx="242.0" cy="109.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/g2r4g2k16g4k16g4k2g2k2g4k4db8k1w2~x2/"><circle cx="223.1" cy="110.4" r="4" fill="#3465a4"><title>MacKean Hunting Family Tartan</title></circle></a><a href="/variants/s12/k17n2k3g2k3g2k24t8g4t4g3t8~x2/"><circle cx="259.8" cy="141.9" r="4" fill="#3465a4"><title>Kells Irish Pubs (Corporate)</title></circle></a><a href="/variants/s12/k43o7k9b3k3b3k3g18do9k3do4dg4~x2/"><circle cx="223.2" cy="93.5" r="4" fill="#3465a4"><title>Braveheart -Warrior (hunting)</title></circle></a><a href="/variants/s12/g12k40db4lb4db4k28db7k8db7k8db10r4/"><circle cx="269.9" cy="140.4" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><a href="/variants/s10/k4dg13k4g8k44g8k4dg13k4w3~x2~dg1806142-g2203152/"><circle cx="269.6" cy="134.7" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s12/k17n2k3g2k3g2k24db8g4db4g3db8~x2/"><circle cx="284.7" cy="147.1" r="4" fill="#3465a4"><title>Kells Irish Pubs</title></circle></a><a href="/variants/s10/k37g27w2k4r6k4w2g27k37y2~x2/"><circle cx="245.3" cy="118.4" r="4" fill="#3465a4"><title>Highlands of Durham #2</title></circle></a><a href="/variants/s15/k1db8k7n8y1n4k11t1k1db1k1db1k11db4t1~x4/"><circle cx="224.1" cy="137.5" r="4" fill="#3465a4"><title>Shadow Halls</title></circle></a><a href="/variants/s17/dy3k20db4dg3db3dg3db3dg3db4k13lo2k2lo2k2dg2k2dg3~x2/"><circle cx="225.5" cy="125.9" r="4" fill="#3465a4"><title>Fermanagh, County</title></circle></a><a href="/variants/s15/dti1dt4k11dt1k1dt1k1dti1k11n4g1n8k8dt8n1~x4~dti1503227-dt1202249/"><circle cx="230.7" cy="141.4" r="4" fill="#3465a4"><title>ShadowHalls</title></circle></a><circle cx="241.9" cy="110.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/g2dr4g2k16g2k16g4k2g2k2g4k4db8k1lb2~x2/

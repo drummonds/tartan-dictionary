@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/ferguson/"
 - name: "Ferguson Dress"
   url: "/tartans/ferguson-dress-2/"
+- name: "Ferguson Dress Clan Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb34db24w18dr3w18dg2w3/)
 (the same proportion at any scale), whose colour order is pattern [WBWBWGW](/stripes/wbwbwgw/).
@@ -16,7 +18,7 @@ Part of the [Ferguson Dress](/tartans/ferguson-dress-2/) tartan — the named de
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=92
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=92](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=92)
 
 ## Provenance
 
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb34db24w18r3w18g2w3~x2/"><circle cx="194.7" cy="183.6" r="4" fill="#3465a4"><title>Ferguson, dress</title></circle></a><a href="/variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/"><circle cx="203.4" cy="139.0" r="4" fill="#3465a4"><title>South Canterbury Centre P. &amp; D. Assoc., Jubilee</title></circle></a><a href="/variants/s8/lb36db5g5w2r4w2dr9w22~x2/"><circle cx="212.4" cy="142.5" r="4" fill="#3465a4"><title>Jubilee, South Canterbury Centre Piping &amp; Dancing Association</title></circle></a><a href="/variants/s7/w28lb19dbi19w4db2b2dbi7~x2~dbi1604274-db0805267/"><circle cx="232.5" cy="209.9" r="4" fill="#3465a4"><title>St Andrews, Earl of, dress</title></circle></a><a href="/variants/s7/t30db15w4dg12w9t8w3~x2/"><circle cx="243.5" cy="239.3" r="4" fill="#3465a4"><title>Newall (Personal)</title></circle></a><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><circle cx="198.7" cy="203.6" r="4" fill="#3465a4"><title>Allanton Dress (Fashion)</title></circle></a><a href="/variants/s7/w8g5lb10dp24w30g2lp2~x2/"><circle cx="241.3" cy="185.3" r="4" fill="#3465a4"><title>Shiel, Purple (Dance)</title></circle></a><a href="/variants/s6/g4w28dp8y2db17g4~x2/"><circle cx="207.3" cy="188.3" r="4" fill="#3465a4"><title>Manx, dress</title></circle></a><a href="/variants/s6/g4w28dp8dy2db17g4~x2/"><circle cx="206.6" cy="188.0" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/variants/s7/w28lb19dbi19w4db2lp2dbi7~x2~dbi1406275-db1204274/"><circle cx="235.1" cy="212.0" r="4" fill="#3465a4"><title>St Andrews Dress, Earl of.. District Tartan</title></circle></a><circle cx="212.8" cy="196.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb34db24w18r3w18g2w3~x2/"><circle cx="194.8" cy="184.1" r="4" fill="#3465a4"><title>Ferguson, dress</title></circle></a><a href="/variants/s8/b36db5g5w2r4w2dr9w22~x2~g2004144-r2308029/"><circle cx="203.4" cy="139.2" r="4" fill="#3465a4"><title>South Canterbury Centre P. &amp; D. Assoc., Jubilee</title></circle></a><a href="/variants/s8/lb36db5g5w2r4w2dr9w22~x2/"><circle cx="212.4" cy="142.8" r="4" fill="#3465a4"><title>Jubilee, South Canterbury Centre Piping &amp; Dancing Association</title></circle></a><a href="/variants/s7/w28lb19dbi19w4db2b2dbi7~x2~dbi1604274-db0805267/"><circle cx="232.7" cy="210.4" r="4" fill="#3465a4"><title>St Andrews, Earl of, dress</title></circle></a><a href="/variants/s7/t30db15w4dg12w9t8w3~x2/"><circle cx="243.6" cy="239.8" r="4" fill="#3465a4"><title>Newall (Personal)</title></circle></a><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><circle cx="198.8" cy="204.1" r="4" fill="#3465a4"><title>Allanton Dress (Fashion)</title></circle></a><a href="/variants/s7/w8g5lb10dp24w30g2lp2~x2/"><circle cx="241.4" cy="185.8" r="4" fill="#3465a4"><title>Shiel, Purple (Dance)</title></circle></a><a href="/variants/s6/g4w28dp8y2db17g4~x2/"><circle cx="207.4" cy="188.8" r="4" fill="#3465a4"><title>Manx, dress</title></circle></a><a href="/variants/s6/g4w28dp8dy2db17g4~x2/"><circle cx="206.7" cy="188.5" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/variants/s7/w28lb19dbi19w4db2lp2dbi7~x2~dbi1406275-db1204274/"><circle cx="235.2" cy="212.5" r="4" fill="#3465a4"><title>St Andrews Dress, Earl of.. District Tartan</title></circle></a><circle cx="212.9" cy="197.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lb34db24w18dr3w18dg2w3~x2~dg1806142/

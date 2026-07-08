@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacCarthy (Fashion?)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g2k1g14r2g2k10g2r4k1w2/)
 (the same proportion at any scale), whose colour order is pattern [GKGRGKGRKW](/stripes/gkgrgkgrkw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8440
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8440](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8440)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g10k1g10dr1g1k1g1k1dr10k1lo1k1~x4/"><circle cx="275.5" cy="145.7" r="4" fill="#3465a4"><title>Ulster Red (District)</title></circle></a><a href="/variants/s9/k4ly17k2ly2g7k2ly2k22db4~x2/"><circle cx="200.1" cy="152.3" r="4" fill="#3465a4"><title>Bro-Leon</title></circle></a><a href="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/"><circle cx="253.7" cy="114.9" r="4" fill="#3465a4"><title>Kiernan</title></circle></a><a href="/variants/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/"><circle cx="242.3" cy="107.6" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #2</title></circle></a><a href="/variants/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/"><circle cx="229.0" cy="93.0" r="4" fill="#3465a4"><title>Moss</title></circle></a><a href="/variants/s10/r4g4k2g31k10y3g5k11g6k3~x2/"><circle cx="276.8" cy="139.2" r="4" fill="#3465a4"><title>MacArthur-Fox Green</title></circle></a><a href="/variants/s12/r3db16k16g4k2g2k2g34r4g3r2g3~x2/"><circle cx="235.2" cy="120.1" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/variants/s10/k8g4r1k2g16ly1k8g2k2g4~x4/"><circle cx="261.0" cy="145.4" r="4" fill="#3465a4"><title>Manitoba Cue (Corporate)</title></circle></a><a href="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/"><circle cx="263.3" cy="145.9" r="4" fill="#3465a4"><title>Manitoba Cue Sports</title></circle></a><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="230.9" cy="144.8" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><circle cx="214.8" cy="139.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g10k1g10dr1g1k1g1k1dr10k1lo1k1~x4/"><circle cx="275.5" cy="146.0" r="4" fill="#3465a4"><title>Ulster Red (District)</title></circle></a><a href="/variants/s9/k4ly17k2ly2g7k2ly2k22db4~x2/"><circle cx="200.1" cy="152.8" r="4" fill="#3465a4"><title>Bro-Leon</title></circle></a><a href="/variants/s10/w2g4k6r2k2r2k3r2g20w1~x2/"><circle cx="253.6" cy="115.3" r="4" fill="#3465a4"><title>Kiernan</title></circle></a><a href="/variants/s11/k4w1r4k2g2r3k2g20r2k2r2~x2/"><circle cx="242.2" cy="107.9" r="4" fill="#3465a4"><title>Valdres, Kvam &amp; Vang #2</title></circle></a><a href="/variants/s12/g4k2g28r4g4k18g4lp4g4lp7k1w3~x2/"><circle cx="228.9" cy="93.2" r="4" fill="#3465a4"><title>Moss</title></circle></a><a href="/variants/s10/r4g4k2g31k10y3g5k11g6k3~x2/"><circle cx="276.7" cy="139.6" r="4" fill="#3465a4"><title>MacArthur-Fox Green</title></circle></a><a href="/variants/s12/r3db16k16g4k2g2k2g34r4g3r2g3~x2/"><circle cx="235.1" cy="120.4" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/variants/s10/k8g4r1k2g16ly1k8g2k2g4~x4/"><circle cx="261.0" cy="145.8" r="4" fill="#3465a4"><title>Manitoba Cue (Corporate)</title></circle></a><a href="/variants/s10/k8g4r1k2g16dy1k8g2k2g4~x4/"><circle cx="263.2" cy="146.3" r="4" fill="#3465a4"><title>Manitoba Cue Sports</title></circle></a><a href="/variants/s8/g4r4k12w2k12g32r4k3~x2/"><circle cx="230.9" cy="145.2" r="4" fill="#3465a4"><title>MacHardy (Clans Originaux)</title></circle></a><circle cx="214.7" cy="140.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g2k1g14r2g2k10g2r4k1w2~x4/

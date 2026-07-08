@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Laval, Tartan de"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1lb1dr4db4lb1/)
 (the same proportion at any scale), whose colour order is pattern [BWBBW](/stripes/bwbbw/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2064
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2064](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2064)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db24lb13db4lb4w2~x2/"><circle cx="396.4" cy="249.0" r="4" fill="#3465a4"><title>Gallaecia (Unofficial) (District)</title></circle></a><a href="/variants/s5/db24t13db4t4w2~x2/"><circle cx="435.3" cy="262.5" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/variants/s6/db3lb3db16lb16db16w3~x2/"><circle cx="359.3" cy="288.6" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/variants/s6/db5lb5w1lb5db5lb1~x4/"><circle cx="297.4" cy="313.7" r="4" fill="#3465a4"><title>Manx Cornaa (Personal)</title></circle></a><a href="/variants/s8/lb16db3lb3n3lb3db10dr12w4~x2/"><circle cx="184.8" cy="246.6" r="4" fill="#3465a4"><title>Greer (Name?)</title></circle></a><a href="/variants/s6/w4db25b25db2b5w2~x2/"><circle cx="369.8" cy="243.4" r="4" fill="#3465a4"><title>Douglas, Variation</title></circle></a><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><circle cx="338.4" cy="235.0" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><a href="/variants/s5/db2w2dr8db8w1~x2/"><circle cx="309.0" cy="272.4" r="4" fill="#3465a4"><title>Laval (Tartan de..) District Tartan</title></circle></a><a href="/variants/s5/db9dr12g9db5w2~x4/"><circle cx="197.4" cy="298.3" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Heritage Trust, The</title></circle></a><a href="/variants/s4/lb5db12g8lb4/"><circle cx="198.3" cy="350.5" r="4" fill="#3465a4"><title>Sheffield High (School)</title></circle></a><circle cx="289.7" cy="312.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db24lb13db4lb4w2~x2/"><circle cx="396.5" cy="249.6" r="4" fill="#3465a4"><title>Gallaecia (Unofficial) (District)</title></circle></a><a href="/variants/s5/db24t13db4t4w2~x2/"><circle cx="435.4" cy="263.0" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/variants/s6/db3lb3db16lb16db16w3~x2/"><circle cx="359.5" cy="289.4" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/variants/s6/db5lb5w1lb5db5lb1~x4/"><circle cx="297.7" cy="314.5" r="4" fill="#3465a4"><title>Manx Cornaa (Personal)</title></circle></a><a href="/variants/s8/lb16db3lb3n3lb3db10dr12w4~x2/"><circle cx="185.0" cy="247.2" r="4" fill="#3465a4"><title>Greer (Name?)</title></circle></a><a href="/variants/s6/w4db25b25db2b5w2~x2/"><circle cx="369.9" cy="243.9" r="4" fill="#3465a4"><title>Douglas, Variation</title></circle></a><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><circle cx="338.5" cy="235.6" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><a href="/variants/s5/db2w2dr8db8w1~x2/"><circle cx="309.2" cy="273.1" r="4" fill="#3465a4"><title>Laval (Tartan de..) District Tartan</title></circle></a><a href="/variants/s5/db9dr12g9db5w2~x4/"><circle cx="197.6" cy="299.0" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Heritage Trust, The</title></circle></a><a href="/variants/s4/lb5db12g8lb4/"><circle cx="198.6" cy="351.5" r="4" fill="#3465a4"><title>Sheffield High (School)</title></circle></a><circle cx="289.9" cy="313.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db1lb1dr4db4lb1~x4/

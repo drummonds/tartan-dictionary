@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacGregor, Glengyle"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r96g42r16g17k4n6/)
 (the same proportion at any scale), whose colour order is pattern [BKGRGR](/stripes/bkgrgr/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r96g42r16g17k4lb6/"><circle cx="392.4" cy="146.0" r="4" fill="#3465a4"><title>MacGregor Hunting Glengyle Clan Tartan</title></circle></a><a href="/variants/s6/r18g9r2g3k1n1~x4/"><circle cx="369.1" cy="156.4" r="4" fill="#3465a4"><title>MacGregor of Cardney - 1930 (Clan)</title></circle></a><a href="/variants/s6/r18g9r2g3k1w1~x4/"><circle cx="357.3" cy="152.6" r="4" fill="#3465a4"><title>MacGregor of Cardney</title></circle></a><a href="/variants/s6/r36g18r4g6k1w2~x2/"><circle cx="394.9" cy="127.6" r="4" fill="#3465a4"><title>MacGregor #3</title></circle></a><a href="/variants/s6/r36g18r4g6k1w2/"><circle cx="394.9" cy="127.6" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s6/r41g19r7g8k1w3~x2/"><circle cx="398.5" cy="127.1" r="4" fill="#3465a4"><title>MacGregor #4</title></circle></a><a href="/variants/s6/r57dg21r8dg8k1w3~x2/"><circle cx="440.7" cy="103.1" r="4" fill="#3465a4"><title>MacGregor - 1800 (Clan)</title></circle></a><a href="/variants/s6/r35g16r5g5w2k3~x2/"><circle cx="351.7" cy="150.1" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s6/r60k2w3dg20r10dg20~x2/"><circle cx="380.1" cy="131.4" r="4" fill="#3465a4"><title>Greig (Personal)</title></circle></a><a href="/variants/s6/r32lb5g17r4g5w2~x2/"><circle cx="355.5" cy="184.5" r="4" fill="#3465a4"><title>Wilson's, No 5</title></circle></a><circle cx="399.1" cy="148.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r96g42r16g17k4lb6/"><circle cx="392.5" cy="146.4" r="4" fill="#3465a4"><title>MacGregor Hunting Glengyle Clan Tartan</title></circle></a><a href="/variants/s6/r18g9r2g3k1n1~x4/"><circle cx="369.2" cy="156.9" r="4" fill="#3465a4"><title>MacGregor of Cardney - 1930 (Clan)</title></circle></a><a href="/variants/s6/r18g9r2g3k1w1~x4/"><circle cx="357.3" cy="153.1" r="4" fill="#3465a4"><title>MacGregor of Cardney</title></circle></a><a href="/variants/s6/r36g18r4g6k1w2~x2/"><circle cx="394.9" cy="128.0" r="4" fill="#3465a4"><title>MacGregor #3</title></circle></a><a href="/variants/s6/r36g18r4g6k1w2/"><circle cx="394.9" cy="128.0" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s6/r41g19r7g8k1w3~x2/"><circle cx="398.5" cy="127.4" r="4" fill="#3465a4"><title>MacGregor #4</title></circle></a><a href="/variants/s6/r57dg21r8dg8k1w3~x2/"><circle cx="440.7" cy="103.3" r="4" fill="#3465a4"><title>MacGregor - 1800 (Clan)</title></circle></a><a href="/variants/s6/r35g16r5g5w2k3~x2/"><circle cx="351.7" cy="150.5" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/variants/s6/r60k2w3dg20r10dg20~x2/"><circle cx="380.1" cy="131.8" r="4" fill="#3465a4"><title>Greig (Personal)</title></circle></a><a href="/variants/s6/r32lb5g17r4g5w2~x2/"><circle cx="355.6" cy="184.9" r="4" fill="#3465a4"><title>Wilson's, No 5</title></circle></a><circle cx="399.1" cy="148.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r96g42r16g17k4n6/

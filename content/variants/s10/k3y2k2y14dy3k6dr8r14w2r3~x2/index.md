@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Walls, Steve C (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3y2k2y14dy3k6dr8r14w2r3/)
 (the same proportion at any scale), whose colour order is pattern [KGKGGKBRWR](/stripes/kgkggkbrwr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11161
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11161](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11161)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k2r8db2k2r2k6o2g6y1~x2/"><circle cx="65.9" cy="165.3" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><a href="/variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032/"><circle cx="50.9" cy="153.3" r="4" fill="#3465a4"><title>Walls, Steve C (Personal)</title></circle></a><a href="/variants/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><circle cx="86.1" cy="131.6" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/variants/s9/y4k2dg7g7r5k2r15k2w4~x2/"><circle cx="97.7" cy="162.7" r="4" fill="#3465a4"><title>Thirkill</title></circle></a><a href="/variants/s9/k2r8db2k2r2k6dy2g6y1~x2/"><circle cx="66.8" cy="165.9" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><a href="/variants/s9/dr6k1y1k2db2dr4o8k1r2~x4/"><circle cx="138.2" cy="168.9" r="4" fill="#3465a4"><title>Bicentenary (Commemorative)</title></circle></a><a href="/variants/s8/k14y3g18r15w2r3w2dp14~x2/"><circle cx="44.7" cy="167.1" r="4" fill="#3465a4"><title>Wilson's, No 83</title></circle></a><a href="/variants/s8/r5lb2o14w2k13dy13k2y3~x2/"><circle cx="37.0" cy="159.1" r="4" fill="#3465a4"><title>Culloden (Old and Rare) District Tartan</title></circle></a><a href="/variants/s14/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5~x2/"><circle cx="62.8" cy="137.4" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><a href="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/"><circle cx="78.2" cy="142.1" r="4" fill="#3465a4"><title>Derry County Crest (Fashion)</title></circle></a><circle cx="70.8" cy="160.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k2r8db2k2r2k6o2g6y1~x2/"><circle cx="65.9" cy="165.8" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><a href="/variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032/"><circle cx="50.9" cy="153.8" r="4" fill="#3465a4"><title>Walls, Steve C (Personal)</title></circle></a><a href="/variants/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><circle cx="86.0" cy="131.9" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/variants/s9/y4k2dg7g7r5k2r15k2w4~x2/"><circle cx="97.7" cy="163.2" r="4" fill="#3465a4"><title>Thirkill</title></circle></a><a href="/variants/s9/k2r8db2k2r2k6dy2g6y1~x2/"><circle cx="66.8" cy="166.4" r="4" fill="#3465a4"><title>Craigmoor</title></circle></a><a href="/variants/s9/dr6k1y1k2db2dr4o8k1r2~x4/"><circle cx="138.2" cy="169.3" r="4" fill="#3465a4"><title>Bicentenary (Commemorative)</title></circle></a><a href="/variants/s8/k14y3g18r15w2r3w2dp14~x2/"><circle cx="44.7" cy="167.5" r="4" fill="#3465a4"><title>Wilson's, No 83</title></circle></a><a href="/variants/s8/r5lb2o14w2k13dy13k2y3~x2/"><circle cx="36.9" cy="159.5" r="4" fill="#3465a4"><title>Culloden (Old and Rare) District Tartan</title></circle></a><a href="/variants/s14/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5~x2/"><circle cx="62.7" cy="137.8" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><a href="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/"><circle cx="78.1" cy="142.5" r="4" fill="#3465a4"><title>Derry County Crest (Fashion)</title></circle></a><circle cx="70.8" cy="160.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Jaggy Thistle (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lp9n4lp5o4k3o12n18g4n18o6/)
 (the same proportion at any scale), whose colour order is pattern [RBGBRKRWBW](/stripes/rbgbrkrwbw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8696
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8696](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8696)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3n20k2n20o20lb20r3~x2~n1900000-o2500000/"><circle cx="247.2" cy="217.8" r="4" fill="#3465a4"><title>Brodie Silver</title></circle></a><a href="/variants/s10/n5g3n1db8n10g5k1g5n1t2~x4/"><circle cx="229.6" cy="207.7" r="4" fill="#3465a4"><title>Berkshire #1 (District)</title></circle></a><a href="/variants/s11/t9db2lb2t10db4y8r4t7lb2db2y2~x4/"><circle cx="234.2" cy="241.5" r="4" fill="#3465a4"><title>Healy (Name)</title></circle></a><a href="/variants/s9/k4lb12n3lb3n3lb4ly17lb15dy4~x2~ly2701120/"><circle cx="211.5" cy="204.9" r="4" fill="#3465a4"><title>Cotswolds Distillery</title></circle></a><a href="/variants/s11/n6r2ri15n15k2n15r2ri6r2n8w2~x2~r1506019-ri2806019/"><circle cx="309.0" cy="189.9" r="4" fill="#3465a4"><title>Frater (Name)</title></circle></a><a href="/variants/s10/n6db3k1o10n12g6k1g6n1db2~x4~o2500000/"><circle cx="219.3" cy="194.0" r="4" fill="#3465a4"><title>Berkshire #2</title></circle></a><a href="/variants/s11/b8k5b8dg27b13dg3b13o27b8o3b3~x2/"><circle cx="229.1" cy="197.7" r="4" fill="#3465a4"><title>McCall/MacCall</title></circle></a><a href="/variants/s10/lo3g17n3g3n3k5n18r2n8r2~x2/"><circle cx="251.2" cy="180.3" r="4" fill="#3465a4"><title>Donegal Irish County Tartan</title></circle></a><circle cx="228.2" cy="220.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3n20k2n20o20lb20r3~x2~n1900000-o2500000/"><circle cx="247.3" cy="218.2" r="4" fill="#3465a4"><title>Brodie Silver</title></circle></a><a href="/variants/s10/n5g3n1db8n10g5k1g5n1t2~x4/"><circle cx="229.7" cy="208.0" r="4" fill="#3465a4"><title>Berkshire #1 (District)</title></circle></a><a href="/variants/s11/t9db2lb2t10db4y8r4t7lb2db2y2~x4/"><circle cx="234.4" cy="242.0" r="4" fill="#3465a4"><title>Healy (Name)</title></circle></a><a href="/variants/s9/k4lb12n3lb3n3lb4ly17lb15dy4~x2~ly2701120/"><circle cx="211.6" cy="205.4" r="4" fill="#3465a4"><title>Cotswolds Distillery</title></circle></a><a href="/variants/s11/n6r2ri15n15k2n15r2ri6r2n8w2~x2~r1506019-ri2806019/"><circle cx="309.1" cy="190.2" r="4" fill="#3465a4"><title>Frater (Name)</title></circle></a><a href="/variants/s10/n6db3k1o10n12g6k1g6n1db2~x4~o2500000/"><circle cx="219.4" cy="194.2" r="4" fill="#3465a4"><title>Berkshire #2</title></circle></a><a href="/variants/s11/b8k5b8dg27b13dg3b13o27b8o3b3~x2/"><circle cx="229.1" cy="198.1" r="4" fill="#3465a4"><title>McCall/MacCall</title></circle></a><a href="/variants/s10/lo3g17n3g3n3k5n18r2n8r2~x2/"><circle cx="251.2" cy="180.6" r="4" fill="#3465a4"><title>Donegal Irish County Tartan</title></circle></a><circle cx="228.3" cy="220.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/lp9n4lp5o4k3o12n18g4n18o6~x2~n1900000-o2500000/

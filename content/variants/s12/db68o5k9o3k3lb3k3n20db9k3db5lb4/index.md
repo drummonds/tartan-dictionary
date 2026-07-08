@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "British Caledonian Airways #1"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db68o5k9o3k3lb3k3n20db9k3db5lb4/)
 (the same proportion at any scale), whose colour order is pattern [BRKRKWKBBKBW](/stripes/brkrkwkbbkbw/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5278
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5278](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5278)
 
 <details class="attestations">
 <summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -67,8 +69,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/"><circle cx="430.8" cy="82.4" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/variants/s11/db50k14g3dr2g3dr2g3dr2g3k2lo2~x2/"><circle cx="327.2" cy="76.6" r="4" fill="#3465a4"><title>Minnock (Name)</title></circle></a><a href="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/"><circle cx="298.5" cy="53.1" r="4" fill="#3465a4"><title>Wcwm 1105</title></circle></a><a href="/variants/s14/db40lb2k4r3n6db2r16db2n6r3k4lb2db40lb6~x2/"><circle cx="315.5" cy="87.7" r="4" fill="#3465a4"><title>St. Leonards</title></circle></a><a href="/variants/s12/b98n12k16w5k5w5k5n28b16k5b16w6/"><circle cx="320.4" cy="109.6" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s13/k4n8db54y6db23n4k4r14k4n2db2k4db4/"><circle cx="344.4" cy="82.7" r="4" fill="#3465a4"><title>Blue Brough from Orkney</title></circle></a><a href="/variants/s14/lr2db1t2db2k1t12db2k11db28t1db3t2db3w1~x2/"><circle cx="295.5" cy="79.1" r="4" fill="#3465a4"><title>Northfield Academy Corporate Tartan</title></circle></a><a href="/variants/s11/db42n2db2n4y4ly2y6k9y2k2r2~x2~y2204115-ly3206085/"><circle cx="289.8" cy="73.2" r="4" fill="#3465a4"><title>Dama Weekend</title></circle></a><a href="/variants/s13/k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2/"><circle cx="331.1" cy="78.0" r="4" fill="#3465a4"><title>Brough from Orkney (Name)</title></circle></a><a href="/variants/s8/db50y4db3y4db8k2dbi12w5~x2~db1003265-dbi1605267/"><circle cx="409.9" cy="108.7" r="4" fill="#3465a4"><title>Indiana #2</title></circle></a><circle cx="333.4" cy="81.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/"><circle cx="430.7" cy="82.4" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/variants/s11/db50k14g3dr2g3dr2g3dr2g3k2lo2~x2/"><circle cx="327.0" cy="76.6" r="4" fill="#3465a4"><title>Minnock (Name)</title></circle></a><a href="/variants/s12/b84dr3k16ly4k4w4k4dg20b8k4b8w4/"><circle cx="298.3" cy="53.1" r="4" fill="#3465a4"><title>Wcwm 1105</title></circle></a><a href="/variants/s14/db40lb2k4r3n6db2r16db2n6r3k4lb2db40lb6~x2/"><circle cx="315.4" cy="87.8" r="4" fill="#3465a4"><title>St. Leonards</title></circle></a><a href="/variants/s12/b98n12k16w5k5w5k5n28b16k5b16w6/"><circle cx="320.4" cy="109.8" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s13/k4n8db54y6db23n4k4r14k4n2db2k4db4/"><circle cx="344.3" cy="82.7" r="4" fill="#3465a4"><title>Blue Brough from Orkney</title></circle></a><a href="/variants/s14/lr2db1t2db2k1t12db2k11db28t1db3t2db3w1~x2/"><circle cx="295.4" cy="79.1" r="4" fill="#3465a4"><title>Northfield Academy Corporate Tartan</title></circle></a><a href="/variants/s11/db42n2db2n4y4ly2y6k9y2k2r2~x2~y2204115-ly3206085/"><circle cx="289.6" cy="73.2" r="4" fill="#3465a4"><title>Dama Weekend</title></circle></a><a href="/variants/s13/k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2/"><circle cx="331.0" cy="78.1" r="4" fill="#3465a4"><title>Brough from Orkney (Name)</title></circle></a><a href="/variants/s8/db50y4db3y4db8k2dbi12w5~x2~db1003265-dbi1605267/"><circle cx="409.8" cy="108.8" r="4" fill="#3465a4"><title>Indiana #2</title></circle></a><circle cx="333.2" cy="81.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db68o5k9o3k3lb3k3n20db9k3db5lb4/

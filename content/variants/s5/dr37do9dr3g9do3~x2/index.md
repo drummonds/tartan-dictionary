@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/glen/"
 - name: "Glen Shee"
   url: "/tartans/glen-shee/"
+- name: "Glen Shee #1 (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr37do9dr3g9do3/)
 (the same proportion at any scale), whose colour order is pattern [BBBGB](/stripes/bbbgb/).
@@ -16,7 +18,7 @@ Part of the [Glen Shee](/tartans/glen-shee/) tartan — the named design groupin
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1662
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1662](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1662)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r37o9r3g9o3~x2/"><circle cx="521.6" cy="233.0" r="4" fill="#3465a4"><title>Glen Shee</title></circle></a><a href="/variants/s5/dg42o10dg3dr10o3~x2/"><circle cx="517.2" cy="237.5" r="4" fill="#3465a4"><title>Glen Trool (Fashion)</title></circle></a><a href="/variants/s6/dr2o2dr17dt17m2dt2~x4/"><circle cx="431.5" cy="256.8" r="4" fill="#3465a4"><title>Eglington</title></circle></a><a href="/variants/s3/dr104dg39lo4~x2/"><circle cx="577.4" cy="283.8" r="4" fill="#3465a4"><title>Scottish Watch</title></circle></a><a href="/variants/s5/dr6dg2b2dg17dr2~x4/"><circle cx="570.8" cy="293.5" r="4" fill="#3465a4"><title>Loton (Personal)</title></circle></a><circle cx="562.4" cy="266.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r37o9r3g9o3~x2/"><circle cx="521.7" cy="233.4" r="4" fill="#3465a4"><title>Glen Shee</title></circle></a><a href="/variants/s5/dg42o10dg3dr10o3~x2/"><circle cx="517.3" cy="237.8" r="4" fill="#3465a4"><title>Glen Trool (Fashion)</title></circle></a><a href="/variants/s6/dr2o2dr17dt17m2dt2~x4/"><circle cx="431.7" cy="257.0" r="4" fill="#3465a4"><title>Eglington</title></circle></a><a href="/variants/s3/dr104dg39lo4~x2/"><circle cx="577.6" cy="284.0" r="4" fill="#3465a4"><title>Scottish Watch</title></circle></a><a href="/variants/s5/dr6dg2b2dg17dr2~x4/"><circle cx="571.0" cy="293.7" r="4" fill="#3465a4"><title>Loton (Personal)</title></circle></a><circle cx="562.6" cy="266.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dr37do9dr3g9do3~x2/

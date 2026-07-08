@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Digital"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b6k3b10o5b2o2b2o2b7w2/)
 (the same proportion at any scale), whose colour order is pattern [BKBRBRBRBW](/stripes/bkbrbrbrbw/).
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -46,12 +48,12 @@ One full sett is **148 threads**.
 
 The nearest existing variants by ΔTartan distance, with this cloth at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">148</div><div class="nn-name nn-base"><a href="/variants/s10/b6k3b10o5b2o2b2o2b7w2~x2/">Digital</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/b6k3b10o5b2o2b2o2b7w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db5r2lp2r2db5y1r1y1db5~x8&amp;base=b6k3b10o5b2o2b2o2b7w2~x2" title="compare in the TTD">3.45</a></div><div class="nn-threads nn-far2">304</div><div class="nn-name nn-far2"><a href="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/">Millar (Kirkcaldy) (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-threads">Threads</div><div class="nn-h nn-name">Variant</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-threads nn-base">148</div><div class="nn-name nn-base"><a href="/variants/s10/b6k3b10o5b2o2b2o2b7w2~x2/">Digital</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/variants/s10/b6k3b10o5b2o2b2o2b7w2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db5r2lp2r2db5y1r1y1db5~x8&amp;base=b6k3b10o5b2o2b2o2b7w2~x2" title="compare in the TTD">3.45</a></div><div class="nn-threads nn-far2">304</div><div class="nn-name nn-far2"><a href="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/">Millar (Kirkcaldy) (Personal)</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2"><a href="/ttd/edit/#slug=db65k9db21y8db21w8db35r35&amp;base=b6k3b10o5b2o2b2o2b7w2~x2" title="compare in the TTD">4.00</a></div><div class="nn-threads nn-far2">304</div><div class="nn-name nn-far2"><a href="/variants/s8/db65k9db21y8db21w8db35r35/">Maud, Mary</a></div><div class="nn-sw"><img class="nn-swatch" src="/variants/s8/db65k9db21y8db21w8db35r35/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/"><circle cx="292.8" cy="234.9" r="4" fill="#3465a4"><title>Millar (Kirkcaldy) (Personal)</title></circle></a><circle cx="299.6" cy="223.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db5r2lp2r2db5y1r1y1db5~x8/"><circle cx="292.9" cy="235.5" r="4" fill="#3465a4"><title>Millar (Kirkcaldy) (Personal)</title></circle></a><a href="/variants/s8/db65k9db21y8db21w8db35r35/"><circle cx="328.7" cy="185.8" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><circle cx="299.8" cy="223.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/b6k3b10o5b2o2b2o2b7w2~x2/

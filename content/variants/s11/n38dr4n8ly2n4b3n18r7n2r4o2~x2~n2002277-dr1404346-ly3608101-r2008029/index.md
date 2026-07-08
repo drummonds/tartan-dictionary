@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Louth"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n38dr4n8ly2n4b3n18r7n2r4o2/)
 (the same proportion at any scale), whose colour order is pattern [BBBYBBBRBRR](/stripes/bbbybbbrbrr/).
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db51t4db7o2db2g2db2dg10db13w2~x2~db1406275/"><circle cx="549.6" cy="110.9" r="4" fill="#3465a4"><title>Visit Scotland</title></circle></a><a href="/variants/s11/db50dp3k3db11dp8db2r6db2dbi8db2w4~x2~db1204274-dbi1406275/"><circle cx="414.4" cy="88.7" r="4" fill="#3465a4"><title>Scottish American</title></circle></a><a href="/variants/s10/db51t4db7o2db2g2db2dg10db13w2~x2/"><circle cx="534.0" cy="108.0" r="4" fill="#3465a4"><title>Visit Scotland Corporate)</title></circle></a><a href="/variants/s10/y4k3db6dbi4db57n3db3n3db3r3~x2~db1204274-dbi1406275/"><circle cx="530.7" cy="97.2" r="4" fill="#3465a4"><title>U.S. Law Enforcement</title></circle></a><circle cx="553.9" cy="144.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db51t4db7o2db2g2db2dg10db13w2~x2~db1406275/"><circle cx="549.5" cy="110.8" r="4" fill="#3465a4"><title>Visit Scotland</title></circle></a><a href="/variants/s11/db50dp3k3db11dp8db2r6db2dbi8db2w4~x2~db1204274-dbi1406275/"><circle cx="414.3" cy="88.6" r="4" fill="#3465a4"><title>Scottish American</title></circle></a><a href="/variants/s10/db51t4db7o2db2g2db2dg10db13w2~x2/"><circle cx="533.9" cy="107.9" r="4" fill="#3465a4"><title>Visit Scotland Corporate)</title></circle></a><a href="/variants/s10/y4k3db6dbi4db57n3db3n3db3r3~x2~db1204274-dbi1406275/"><circle cx="530.6" cy="97.0" r="4" fill="#3465a4"><title>U.S. Law Enforcement</title></circle></a><circle cx="553.9" cy="144.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/n38dr4n8ly2n4b3n18r7n2r4o2~x2~n2002277-dr1404346-ly3608101-r2008029/

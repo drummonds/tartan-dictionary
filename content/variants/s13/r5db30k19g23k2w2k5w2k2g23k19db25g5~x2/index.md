@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Loch Carron"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5db30k19g23k2w2k5w2k2g23k19db25g5/)
 (the same proportion at any scale), whose colour order is pattern [GBKGKWKWKGKBR](/stripes/gbkgkwkwkgkbr/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2143
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2143](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2143)
 
 ## Provenance
 
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y2k1g12k12db12k1db2k1db12k12g12k1w2~x2/"><circle cx="120.9" cy="146.8" r="4" fill="#3465a4"><title>Campbell Loudon</title></circle></a><a href="/variants/s13/y2k1g12k12db12k1db1k1db12k12g12k1w2~x2/"><circle cx="123.0" cy="144.7" r="4" fill="#3465a4"><title>Campbell of Loudoun</title></circle></a><a href="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/"><circle cx="123.6" cy="151.5" r="4" fill="#3465a4"><title>Paterson (Dalgleish Version)</title></circle></a><a href="/variants/s13/r2k1g12k12db12k1db2k1db12k12g12k1y2~x2/"><circle cx="124.3" cy="146.3" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="116.9" cy="123.2" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/"><circle cx="134.0" cy="126.5" r="4" fill="#3465a4"><title>Dyce #2</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="121.0" cy="122.1" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12g12k1w3k1g12k12db12k1r3~x2/"><circle cx="112.5" cy="137.6" r="4" fill="#3465a4"><title>MacKenzie Clan Tartan</title></circle></a><a href="/variants/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="136.6" cy="125.7" r="4" fill="#3465a4"><title>Campbell Red</title></circle></a><a href="/variants/s13/y4k1g12k12db12k1db4k1db12k12g12k1w4~x2/"><circle cx="94.9" cy="155.6" r="4" fill="#3465a4"><title>Campbell of Loudon</title></circle></a><circle cx="125.3" cy="139.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y2k1g12k12db12k1db2k1db12k12g12k1w2~x2/"><circle cx="120.8" cy="147.1" r="4" fill="#3465a4"><title>Campbell Loudon</title></circle></a><a href="/variants/s13/y2k1g12k12db12k1db1k1db12k12g12k1w2~x2/"><circle cx="122.9" cy="145.0" r="4" fill="#3465a4"><title>Campbell of Loudoun</title></circle></a><a href="/variants/s12/ly3k1g5y2g5k12db15k2db15k12g12y2~x2~ly3307090-y2400000/"><circle cx="123.5" cy="151.9" r="4" fill="#3465a4"><title>Paterson (Dalgleish Version)</title></circle></a><a href="/variants/s13/r2k1g12k12db12k1db2k1db12k12g12k1y2~x2/"><circle cx="124.2" cy="146.6" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="116.8" cy="123.4" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/variants/s15/db16k2db2k2db2k12g12y2k2y2g12k16db16k1w3~x2/"><circle cx="133.9" cy="126.8" r="4" fill="#3465a4"><title>Dyce #2</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="120.9" cy="122.3" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/variants/s15/db12k2db2k2db2k12g12k1w3k1g12k12db12k1r3~x2/"><circle cx="112.4" cy="137.9" r="4" fill="#3465a4"><title>MacKenzie Clan Tartan</title></circle></a><a href="/variants/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="136.5" cy="125.9" r="4" fill="#3465a4"><title>Campbell Red</title></circle></a><a href="/variants/s13/y4k1g12k12db12k1db4k1db12k12g12k1w4~x2/"><circle cx="94.9" cy="155.9" r="4" fill="#3465a4"><title>Campbell of Loudon</title></circle></a><circle cx="125.3" cy="139.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "John, Hamilton Gray"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w8g14r6g24db30y10w40y10db7y4/)
 (the same proportion at any scale), whose colour order is pattern [GBGWGBGRGW](/stripes/gbgwgbgrgw/).
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db6w10g10r2y3r1db3~x2/"><circle cx="99.8" cy="205.9" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/variants/s7/db6w10g10r2dy3r1db3~x2/"><circle cx="96.5" cy="204.5" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/variants/s8/g1w1g6db5w6r1g1lo1~x4/"><circle cx="128.9" cy="207.2" r="4" fill="#3465a4"><title>Vermont Dress</title></circle></a><a href="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2~w3600000/"><circle cx="158.6" cy="164.4" r="4" fill="#3465a4"><title>Fraser Gathering Dress Clan Tartan</title></circle></a><a href="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2/"><circle cx="150.8" cy="162.1" r="4" fill="#3465a4"><title>Fraser Gathering Dress (1997)</title></circle></a><a href="/variants/s9/db24r4g24r4db4w20r10g3w4~x2/"><circle cx="117.4" cy="204.3" r="4" fill="#3465a4"><title>Robertson, dress</title></circle></a><a href="/variants/s8/db24r4g24r4w20r10g3w4~x2/"><circle cx="117.4" cy="213.0" r="4" fill="#3465a4"><title>Robertson Dress (Dalgleish) #2</title></circle></a><a href="/variants/s8/dg2do8dg8r3do1w12dg2g1~x2/"><circle cx="132.2" cy="175.4" r="4" fill="#3465a4"><title>National Trust Corporate Tartan</title></circle></a><a href="/variants/s8/db12r2db2r2db2g10w12o3~x2/"><circle cx="115.8" cy="207.7" r="4" fill="#3465a4"><title>Idaho, Centennial</title></circle></a><a href="/variants/s10/lr4dt6r3dt10db14ly6lr18ly6db4ly2~x2/"><circle cx="104.6" cy="197.9" r="4" fill="#3465a4"><title>Gray, Sir John Hamilton (Commem)</title></circle></a><circle cx="105.3" cy="187.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db6w10g10r2y3r1db3~x2/"><circle cx="99.9" cy="206.5" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/variants/s7/db6w10g10r2dy3r1db3~x2/"><circle cx="96.6" cy="205.1" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><a href="/variants/s8/g1w1g6db5w6r1g1lo1~x4/"><circle cx="129.0" cy="207.8" r="4" fill="#3465a4"><title>Vermont Dress</title></circle></a><a href="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2~w3600000/"><circle cx="158.6" cy="164.8" r="4" fill="#3465a4"><title>Fraser Gathering Dress Clan Tartan</title></circle></a><a href="/variants/s9/r2db12dg2g11dg4db5g2w24g2~x2/"><circle cx="150.8" cy="162.6" r="4" fill="#3465a4"><title>Fraser Gathering Dress (1997)</title></circle></a><a href="/variants/s9/db24r4g24r4db4w20r10g3w4~x2/"><circle cx="117.4" cy="204.8" r="4" fill="#3465a4"><title>Robertson, dress</title></circle></a><a href="/variants/s8/db24r4g24r4w20r10g3w4~x2/"><circle cx="117.5" cy="213.6" r="4" fill="#3465a4"><title>Robertson Dress (Dalgleish) #2</title></circle></a><a href="/variants/s8/dg2do8dg8r3do1w12dg2g1~x2/"><circle cx="132.2" cy="175.9" r="4" fill="#3465a4"><title>National Trust Corporate Tartan</title></circle></a><a href="/variants/s8/db12r2db2r2db2g10w12o3~x2/"><circle cx="115.9" cy="208.3" r="4" fill="#3465a4"><title>Idaho, Centennial</title></circle></a><a href="/variants/s10/lr4dt6r3dt10db14ly6lr18ly6db4ly2~x2/"><circle cx="104.7" cy="198.4" r="4" fill="#3465a4"><title>Gray, Sir John Hamilton (Commem)</title></circle></a><circle cx="105.3" cy="188.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w8g14r6g24db30y10w40y10db7y4/

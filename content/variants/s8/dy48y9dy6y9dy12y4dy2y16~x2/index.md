@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Yellow Pencil"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy48y9dy6y9dy12y4dy2y16/)
 (the same proportion at any scale), whose colour order is pattern [GGGGGGGG](/stripes/gggggggg/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10761
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10761](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10761)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Drambuie"
   url: "/tartans/drambuie/"
+- name: "Drambuie"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy6k5ly4k48dr36w6/)
 (the same proportion at any scale), whose colour order is pattern [GKYKBW](/stripes/gkykbw/).
@@ -14,7 +16,7 @@ Part of the [Drambuie](/tartans/drambuie/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=972
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=972](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=972)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="140.7" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/w6dy36k48r4k5ly6~dy1603076-ly3307090/"><circle cx="216.3" cy="147.4" r="4" fill="#3465a4"><title>Drambuie Dress</title></circle></a><a href="/variants/s6/y6k5r4k48o36w6/"><circle cx="214.4" cy="145.2" r="4" fill="#3465a4"><title>Drambuie dress</title></circle></a><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="189.7" cy="150.6" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="274.0" cy="132.7" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s6/o6do36k48r4k5y6/"><circle cx="257.8" cy="159.4" r="4" fill="#3465a4"><title>Drambuie hunting</title></circle></a><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="257.3" cy="147.8" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s8/k1w1y2g1k10db1r2w1~x10/"><circle cx="214.6" cy="114.3" r="4" fill="#3465a4"><title>Kaptain Family (Personal)</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="268.8" cy="136.5" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s6/ly6do36k48r4k5lyi6~ly2503076-lyi2705081/"><circle cx="244.7" cy="155.5" r="4" fill="#3465a4"><title>Drambuie Hunting</title></circle></a><circle cx="235.9" cy="153.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="141.2" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/w6dy36k48r4k5ly6~dy1603076-ly3307090/"><circle cx="216.2" cy="147.9" r="4" fill="#3465a4"><title>Drambuie Dress</title></circle></a><a href="/variants/s6/y6k5r4k48o36w6/"><circle cx="214.4" cy="145.6" r="4" fill="#3465a4"><title>Drambuie dress</title></circle></a><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="189.6" cy="151.0" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="273.9" cy="133.1" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s6/o6do36k48r4k5y6/"><circle cx="257.7" cy="159.7" r="4" fill="#3465a4"><title>Drambuie hunting</title></circle></a><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="257.2" cy="148.2" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s8/k1w1y2g1k10db1r2w1~x10/"><circle cx="214.5" cy="114.6" r="4" fill="#3465a4"><title>Kaptain Family (Personal)</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="268.7" cy="136.9" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s6/ly6do36k48r4k5lyi6~ly2503076-lyi2705081/"><circle cx="244.6" cy="155.9" r="4" fill="#3465a4"><title>Drambuie Hunting</title></circle></a><circle cx="235.9" cy="154.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dy6k5ly4k48dr36w6/

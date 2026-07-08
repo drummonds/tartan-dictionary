@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Norwich No.028"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r6g5k5g5r6t1/)
 (the same proportion at any scale), whose colour order is pattern [BRGKGR](/stripes/brgkgr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3177
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3177](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3177)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r14k3r14g13db8g13~x2/"><circle cx="157.0" cy="275.9" r="4" fill="#3465a4"><title>Tulsa</title></circle></a><a href="/variants/s6/dg14db8dg14r14k3r14~x2/"><circle cx="168.4" cy="275.6" r="4" fill="#3465a4"><title>Tulsa, City of</title></circle></a><a href="/variants/s7/dr10k1dr3g7k7g5lo3~x4/"><circle cx="136.3" cy="218.4" r="4" fill="#3465a4"><title>Wcwm 1651</title></circle></a><a href="/variants/s7/r6g1r6db1g3k3g3~x4/"><circle cx="208.6" cy="224.9" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s5/r33g9k5g24w33~x2/"><circle cx="114.8" cy="243.3" r="4" fill="#3465a4"><title>Inverness Basque (District)</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.8" cy="232.2" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s7/r22lb8k9g14r10lb2r10~x2/"><circle cx="232.9" cy="205.5" r="4" fill="#3465a4"><title>MacDuff #2</title></circle></a><a href="/variants/s4/r6g5k5lb1~x2/"><circle cx="110.5" cy="263.7" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="93.9" cy="222.7" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="158.3" cy="198.3" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><circle cx="140.1" cy="262.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r14k3r14g13db8g13~x2/"><circle cx="157.2" cy="276.7" r="4" fill="#3465a4"><title>Tulsa</title></circle></a><a href="/variants/s6/dg14db8dg14r14k3r14~x2/"><circle cx="168.6" cy="276.4" r="4" fill="#3465a4"><title>Tulsa, City of</title></circle></a><a href="/variants/s7/dr10k1dr3g7k7g5lo3~x4/"><circle cx="136.3" cy="219.0" r="4" fill="#3465a4"><title>Wcwm 1651</title></circle></a><a href="/variants/s7/r6g1r6db1g3k3g3~x4/"><circle cx="208.7" cy="225.6" r="4" fill="#3465a4"><title>MacTavish</title></circle></a><a href="/variants/s5/r33g9k5g24w33~x2/"><circle cx="114.9" cy="244.1" r="4" fill="#3465a4"><title>Inverness Basque (District)</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.9" cy="232.9" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><a href="/variants/s7/r22lb8k9g14r10lb2r10~x2/"><circle cx="233.0" cy="206.2" r="4" fill="#3465a4"><title>MacDuff #2</title></circle></a><a href="/variants/s4/r6g5k5lb1~x2/"><circle cx="110.7" cy="264.6" r="4" fill="#3465a4"><title>Unidentified No 28</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="94.0" cy="223.4" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="158.3" cy="198.9" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><circle cx="140.3" cy="263.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r6g5k5g5r6t1~x4~t2503227/

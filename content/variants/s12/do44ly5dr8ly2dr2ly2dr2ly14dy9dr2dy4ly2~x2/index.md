@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Waverly Check Corporate Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do44ly5dr8ly2dr2ly2dr2ly14dy9dr2dy4ly2/)
 (the same proportion at any scale), whose colour order is pattern [BYBYBYBYGBGY](/stripes/bybybybygbgy/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1747
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1747](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1747)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr56w2t6w2g32dr11t6w5~x2~t2405244/"><circle cx="293.3" cy="134.8" r="4" fill="#3465a4"><title>Spens/Spence</title></circle></a><a href="/variants/s15/dr2w2db6dr2db2dr2db1dr20y1dr2y2dr2y6w2y2~x2/"><circle cx="349.8" cy="133.1" r="4" fill="#3465a4"><title>Winthrop University</title></circle></a><a href="/variants/s9/g4y9g3db4g3w3dr32g4y3~x2~db1208266/"><circle cx="285.9" cy="169.5" r="4" fill="#3465a4"><title>Antrim County, Crest Range</title></circle></a><a href="/variants/s10/do7dr4do4dr25dp1g32dp4g2w2g5~x2/"><circle cx="322.5" cy="140.3" r="4" fill="#3465a4"><title>Bell of Ardbel (Personal)</title></circle></a><a href="/variants/s10/lb1dr1g1dr11db6dr1g14dr1g1lb1~x4/"><circle cx="291.9" cy="177.9" r="4" fill="#3465a4"><title>Glen Tilt #1</title></circle></a><a href="/variants/s10/w1dr1g1dr11lb6dr1g14dr1g1w1~x4/"><circle cx="269.4" cy="170.9" r="4" fill="#3465a4"><title>Glen Tilt #2</title></circle></a><a href="/variants/s11/dr16dg1g2dg1dr4dg5lb1dg5g14dg1lb2~x2/"><circle cx="282.4" cy="184.3" r="4" fill="#3465a4"><title>Markson (Personal)</title></circle></a><a href="/variants/s10/ly4dr21ly1dr21g8db4g5db4g4ly4~db1204274/"><circle cx="337.2" cy="174.7" r="4" fill="#3465a4"><title>Rice (Welsh Name)</title></circle></a><a href="/variants/s11/o10lb2g3lb2do24lb4do4o34do2lb3do2~x2/"><circle cx="342.6" cy="153.7" r="4" fill="#3465a4"><title>Fort William (Fashion)</title></circle></a><a href="/variants/s12/lr12g3lr3dg4lr16g3lr3g3lr3g16dg52lr4/"><circle cx="306.9" cy="159.0" r="4" fill="#3465a4"><title>Kelso (Fashion)</title></circle></a><circle cx="310.9" cy="136.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dr56w2t6w2g32dr11t6w5~x2~t2405244/"><circle cx="293.3" cy="135.0" r="4" fill="#3465a4"><title>Spens/Spence</title></circle></a><a href="/variants/s15/dr2w2db6dr2db2dr2db1dr20y1dr2y2dr2y6w2y2~x2/"><circle cx="349.7" cy="133.3" r="4" fill="#3465a4"><title>Winthrop University</title></circle></a><a href="/variants/s9/g4y9g3db4g3w3dr32g4y3~x2~db1208266/"><circle cx="285.9" cy="169.8" r="4" fill="#3465a4"><title>Antrim County, Crest Range</title></circle></a><a href="/variants/s10/do7dr4do4dr25dp1g32dp4g2w2g5~x2/"><circle cx="322.5" cy="140.4" r="4" fill="#3465a4"><title>Bell of Ardbel (Personal)</title></circle></a><a href="/variants/s10/lb1dr1g1dr11db6dr1g14dr1g1lb1~x4/"><circle cx="292.0" cy="178.2" r="4" fill="#3465a4"><title>Glen Tilt #1</title></circle></a><a href="/variants/s10/w1dr1g1dr11lb6dr1g14dr1g1w1~x4/"><circle cx="269.5" cy="171.3" r="4" fill="#3465a4"><title>Glen Tilt #2</title></circle></a><a href="/variants/s11/dr16dg1g2dg1dr4dg5lb1dg5g14dg1lb2~x2/"><circle cx="282.4" cy="184.5" r="4" fill="#3465a4"><title>Markson (Personal)</title></circle></a><a href="/variants/s10/ly4dr21ly1dr21g8db4g5db4g4ly4~db1204274/"><circle cx="337.2" cy="175.1" r="4" fill="#3465a4"><title>Rice (Welsh Name)</title></circle></a><a href="/variants/s11/o10lb2g3lb2do24lb4do4o34do2lb3do2~x2/"><circle cx="342.6" cy="153.9" r="4" fill="#3465a4"><title>Fort William (Fashion)</title></circle></a><a href="/variants/s12/lr12g3lr3dg4lr16g3lr3g3lr3g16dg52lr4/"><circle cx="306.9" cy="159.3" r="4" fill="#3465a4"><title>Kelso (Fashion)</title></circle></a><circle cx="310.9" cy="136.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/do44ly5dr8ly2dr2ly2dr2ly14dy9dr2dy4ly2~x2/

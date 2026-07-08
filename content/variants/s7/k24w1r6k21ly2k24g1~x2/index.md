@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Gourlay, George"
   url: "/tartans/gourlay-george/"
+- name: "Gourlay, George (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k24w1r6k21ly2k24g1/)
 (the same proportion at any scale), whose colour order is pattern [GKYKRWK](/stripes/gkykrwk/).
@@ -14,7 +16,7 @@ Part of the [Gourlay, George](/tartans/gourlay-george/) tartan — the named des
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10266
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10266](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10266)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k24w1r6k21y2k24g1~x2/"><circle cx="506.2" cy="124.1" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/variants/s6/k36y5k1y1n5k12~x2/"><circle cx="522.7" cy="121.8" r="4" fill="#3465a4"><title>Merola (2016)</title></circle></a><a href="/variants/s6/k8y1k1r1k4db1~x12/"><circle cx="449.2" cy="180.4" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s6/k4r4k20r1k20w4~x6/"><circle cx="469.1" cy="155.2" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/variants/s5/k4r11k32y1k4~x2/"><circle cx="469.9" cy="132.7" r="4" fill="#3465a4"><title>Harvie</title></circle></a><a href="/variants/s9/k20db2k2db4dg4y2k40r2w3~x2/"><circle cx="417.1" cy="78.0" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles) Hunting</title></circle></a><a href="/variants/s6/k31r2k10db1k1w1~x4/"><circle cx="604.7" cy="103.7" r="4" fill="#3465a4"><title>NewGeneration Alchemy (NGA) Inc</title></circle></a><a href="/variants/s7/n3k31w6k8n3k12w2~x2/"><circle cx="427.1" cy="155.8" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="425.2" cy="154.4" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="491.3" cy="157.9" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><circle cx="497.9" cy="121.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k24w1r6k21y2k24g1~x2/"><circle cx="506.1" cy="124.4" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/variants/s6/k36y5k1y1n5k12~x2/"><circle cx="522.6" cy="122.0" r="4" fill="#3465a4"><title>Merola (2016)</title></circle></a><a href="/variants/s6/k8y1k1r1k4db1~x12/"><circle cx="449.2" cy="180.9" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s6/k4r4k20r1k20w4~x6/"><circle cx="469.1" cy="155.7" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/variants/s5/k4r11k32y1k4~x2/"><circle cx="469.8" cy="133.1" r="4" fill="#3465a4"><title>Harvie</title></circle></a><a href="/variants/s9/k20db2k2db4dg4y2k40r2w3~x2/"><circle cx="417.0" cy="78.1" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles) Hunting</title></circle></a><a href="/variants/s6/k31r2k10db1k1w1~x4/"><circle cx="604.6" cy="103.9" r="4" fill="#3465a4"><title>NewGeneration Alchemy (NGA) Inc</title></circle></a><a href="/variants/s7/n3k31w6k8n3k12w2~x2/"><circle cx="427.0" cy="156.2" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s7/n3k31w6k7n3k12w2~x2/"><circle cx="425.2" cy="154.9" r="4" fill="#3465a4"><title>Believe - Colette</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="491.3" cy="158.4" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><circle cx="497.8" cy="122.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k24w1r6k21ly2k24g1~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacInroy"
   url: "/tartans/macinroy/"
+- name: "MacInroy Clan Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1g3k3r1dp3r1dp1r3g1k1/)
 (the same proportion at any scale), whose colour order is pattern [KGKRBRBRGK](/stripes/kgkrbrbrgk/).
@@ -14,7 +16,7 @@ Part of the [MacInroy](/tartans/macinroy/) tartan — the named design grouping 
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1081
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1081](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1081)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db13k4y4k4r13~x4/"><circle cx="78.4" cy="237.6" r="4" fill="#3465a4"><title>Clark, Red</title></circle></a><a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x4/"><circle cx="38.3" cy="241.9" r="4" fill="#3465a4"><title>MacInroy</title></circle></a><a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x8/"><circle cx="38.3" cy="241.9" r="4" fill="#3465a4"><title>MacInroy (Clan)</title></circle></a><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/"><circle cx="95.7" cy="228.8" r="4" fill="#3465a4"><title>Holden Monaro Corporate Tartan</title></circle></a><a href="/variants/s11/r10k10r4g2r2k2r4g12db12g3db4~x2/"><circle cx="86.6" cy="202.0" r="4" fill="#3465a4"><title>Hueg (Personal)</title></circle></a><a href="/variants/s9/y8g16k6g6k6g6k16r21k5/"><circle cx="88.8" cy="230.6" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/variants/s9/y6r13k13w5k13r13g5r4g6~x2/"><circle cx="56.4" cy="234.6" r="4" fill="#3465a4"><title>Akins Red Dress</title></circle></a><a href="/variants/s13/k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1~x4/"><circle cx="85.0" cy="199.9" r="4" fill="#3465a4"><title>Franklin (District)</title></circle></a><a href="/variants/s8/k3y2k3dr8k8r8dg2r3~x4/"><circle cx="97.9" cy="221.0" r="4" fill="#3465a4"><title>Davis</title></circle></a><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="93.0" cy="210.2" r="4" fill="#3465a4"><title>Borthwick Hunting</title></circle></a><circle cx="43.3" cy="240.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db13k4y4k4r13~x4/"><circle cx="78.5" cy="238.3" r="4" fill="#3465a4"><title>Clark, Red</title></circle></a><a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x4/"><circle cx="38.4" cy="242.6" r="4" fill="#3465a4"><title>MacInroy</title></circle></a><a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x8/"><circle cx="38.4" cy="242.6" r="4" fill="#3465a4"><title>MacInroy (Clan)</title></circle></a><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/"><circle cx="95.8" cy="229.6" r="4" fill="#3465a4"><title>Holden Monaro Corporate Tartan</title></circle></a><a href="/variants/s11/r10k10r4g2r2k2r4g12db12g3db4~x2/"><circle cx="86.7" cy="202.5" r="4" fill="#3465a4"><title>Hueg (Personal)</title></circle></a><a href="/variants/s9/y8g16k6g6k6g6k16r21k5/"><circle cx="88.9" cy="231.3" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/variants/s9/y6r13k13w5k13r13g5r4g6~x2/"><circle cx="56.5" cy="235.4" r="4" fill="#3465a4"><title>Akins Red Dress</title></circle></a><a href="/variants/s13/k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1~x4/"><circle cx="85.1" cy="200.5" r="4" fill="#3465a4"><title>Franklin (District)</title></circle></a><a href="/variants/s8/k3y2k3dr8k8r8dg2r3~x4/"><circle cx="98.0" cy="221.6" r="4" fill="#3465a4"><title>Davis</title></circle></a><a href="/variants/s9/g12k2r12k3n12k16n12k3r6~x2/"><circle cx="93.1" cy="210.8" r="4" fill="#3465a4"><title>Borthwick Hunting</title></circle></a><circle cx="43.4" cy="241.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/

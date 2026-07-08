@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Styrian"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o16dg29n19dgi8n19dg29o16r4/)
 (the same proportion at any scale), whose colour order is pattern [RGBGBGRR](/stripes/rgbgbgrr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4034
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4034](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4034)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/"><circle cx="241.4" cy="281.6" r="4" fill="#3465a4"><title>Styrian (Fashion)</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="267.9" cy="231.5" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/variants/s12/dt22g4dt4g17dy17g17dt4g4dt22y8dy8r8~x2/"><circle cx="201.0" cy="246.5" r="4" fill="#3465a4"><title>Niagara Falls</title></circle></a><a href="/variants/s6/r4t19g10n10dy15y2~x2/"><circle cx="187.4" cy="249.1" r="4" fill="#3465a4"><title>Isle of Rona (District)</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="201.7" cy="295.9" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s8/n9dy9yi9r1y1dy9y1r1~x4~n1900000-yi2300000/"><circle cx="319.7" cy="235.1" r="4" fill="#3465a4"><title>Jardine (Clan)</title></circle></a><a href="/variants/s8/dg12dgi6r1dg6dgi4dp8dy2w2~x4~dg1403171-dgi1805151/"><circle cx="240.6" cy="211.4" r="4" fill="#3465a4"><title>Connelly, James (Personal)</title></circle></a><circle cx="249.5" cy="276.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g8n19dg29o16dr4~x2~n1900000-o2500000/"><circle cx="241.5" cy="282.1" r="4" fill="#3465a4"><title>Styrian (Fashion)</title></circle></a><a href="/variants/s7/r3dg20y2dg20n20b20r3~x2/"><circle cx="268.0" cy="231.8" r="4" fill="#3465a4"><title>Brodie, Silver</title></circle></a><a href="/variants/s12/dt22g4dt4g17dy17g17dt4g4dt22y8dy8r8~x2/"><circle cx="201.1" cy="246.9" r="4" fill="#3465a4"><title>Niagara Falls</title></circle></a><a href="/variants/s6/r4t19g10n10dy15y2~x2/"><circle cx="187.5" cy="249.4" r="4" fill="#3465a4"><title>Isle of Rona (District)</title></circle></a><a href="/variants/s5/r5db12g11n21y5~x2/"><circle cx="201.9" cy="296.5" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s8/n9dy9yi9r1y1dy9y1r1~x4~n1900000-yi2300000/"><circle cx="319.8" cy="235.4" r="4" fill="#3465a4"><title>Jardine (Clan)</title></circle></a><a href="/variants/s8/dg12dgi6r1dg6dgi4dp8dy2w2~x4~dg1403171-dgi1805151/"><circle cx="240.6" cy="211.6" r="4" fill="#3465a4"><title>Connelly, James (Personal)</title></circle></a><circle cx="249.7" cy="276.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/o16dg29n19dgi8n19dg29o16r4~x2~o2500000-n1900000-dgi1806142-r1606028/

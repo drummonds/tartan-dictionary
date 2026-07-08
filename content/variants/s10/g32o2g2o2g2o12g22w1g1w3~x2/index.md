@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Plaid 11"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g32o2g2o2g2o12g22w1g1w3/)
 (the same proportion at any scale), whose colour order is pattern [GRGRGRGWGW](/stripes/grgrgrgwgw/).
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/"><circle cx="506.6" cy="97.8" r="4" fill="#3465a4"><title>Ridgeback (Corporate)</title></circle></a><a href="/variants/s8/g2o2g15o1w1g15o2g2~x2/"><circle cx="626.0" cy="223.4" r="4" fill="#3465a4"><title>Bannockbane, hunting</title></circle></a><a href="/variants/s12/y5k1y6g20w1g3w1g3w1g30k1y2~x2/"><circle cx="525.9" cy="125.4" r="4" fill="#3465a4"><title>Delta Lambda Phi</title></circle></a><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/"><circle cx="570.2" cy="170.1" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/g48r4g2r4g6r2g3r9/"><circle cx="570.2" cy="170.1" r="4" fill="#3465a4"><title>Menzies Hunting</title></circle></a><circle cx="571.9" cy="165.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g74o6g3o24k1g9o12db2g2db2g2db2~x2/"><circle cx="506.5" cy="97.7" r="4" fill="#3465a4"><title>Ridgeback (Corporate)</title></circle></a><a href="/variants/s8/g2o2g15o1w1g15o2g2~x2/"><circle cx="626.0" cy="223.7" r="4" fill="#3465a4"><title>Bannockbane, hunting</title></circle></a><a href="/variants/s12/y5k1y6g20w1g3w1g3w1g30k1y2~x2/"><circle cx="525.8" cy="125.5" r="4" fill="#3465a4"><title>Delta Lambda Phi</title></circle></a><a href="/variants/s8/g48r4g2r4g6r2g3r9~x2/"><circle cx="570.3" cy="170.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s8/g48r4g2r4g6r2g3r9/"><circle cx="570.3" cy="170.4" r="4" fill="#3465a4"><title>Menzies Hunting</title></circle></a><circle cx="571.9" cy="165.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g32o2g2o2g2o12g22w1g1w3~x2/

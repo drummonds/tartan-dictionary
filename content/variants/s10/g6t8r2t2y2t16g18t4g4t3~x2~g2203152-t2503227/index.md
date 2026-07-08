@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Blue Ridge"
   url: "/tartans/blue-ridge/"
+- name: "Blue Ridge"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6t8r2t2y2t16g18t4g4t3/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBGBRBG](/stripes/bgbgbgbrbg/).
@@ -14,7 +16,7 @@ Part of the [Blue Ridge](/tartans/blue-ridge/) tartan — the named design group
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5374
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5374](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5374)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

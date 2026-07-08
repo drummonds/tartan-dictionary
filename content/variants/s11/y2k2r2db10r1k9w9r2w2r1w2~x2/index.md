@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cameron of Erracht Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y2k2r2db10r1k9w9r2w2r1w2/)
 (the same proportion at any scale), whose colour order is pattern [GKRBRKWRWRW](/stripes/gkrbrkwrwrw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=496
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=496](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=496)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r1k2w8k2r1k2db8k2r1k2y1~x4/"><circle cx="80.5" cy="146.7" r="4" fill="#3465a4"><title>Andreou Family (Personal)</title></circle></a><a href="/variants/s12/dr8w30o5w8o5k12w6k12db28dr4db8dr8/"><circle cx="58.4" cy="164.6" r="4" fill="#3465a4"><title>Kinloch Anderson Dress</title></circle></a><a href="/variants/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1y3~x2/"><circle cx="81.9" cy="125.0" r="4" fill="#3465a4"><title>Carnegie #2</title></circle></a><a href="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/"><circle cx="119.2" cy="149.5" r="4" fill="#3465a4"><title>de Franck, Matt (Personal)</title></circle></a><a href="/variants/s15/db2k1db6k1dr5y3dr5k2w3k2w9k1w2k1y2~x2/"><circle cx="50.0" cy="151.6" r="4" fill="#3465a4"><title>Unidentified #11</title></circle></a><a href="/variants/s13/db14lb2w2lb2db20k20r17w4r3w3r3w3r5~x2/"><circle cx="101.5" cy="133.1" r="4" fill="#3465a4"><title>American Bi-Centennial</title></circle></a><a href="/variants/s13/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8~x4/"><circle cx="110.8" cy="132.9" r="4" fill="#3465a4"><title>Boston Pipe Band, Greater</title></circle></a><a href="/variants/s9/lr18k3lr4lb3lr4k19n20k2r4~x2~lr2800000-n1700000/"><circle cx="113.3" cy="157.8" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s10/dr4k1dr4g8k6lb3db2lb11db1dr2~x4/"><circle cx="87.4" cy="165.4" r="4" fill="#3465a4"><title>MacDuff Dress #2</title></circle></a><a href="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/"><circle cx="109.2" cy="173.1" r="4" fill="#3465a4"><title>Law Society of Scotland (Corporate)</title></circle></a><circle cx="73.1" cy="142.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r1k2w8k2r1k2db8k2r1k2y1~x4/"><circle cx="80.4" cy="147.1" r="4" fill="#3465a4"><title>Andreou Family (Personal)</title></circle></a><a href="/variants/s12/dr8w30o5w8o5k12w6k12db28dr4db8dr8/"><circle cx="58.4" cy="165.1" r="4" fill="#3465a4"><title>Kinloch Anderson Dress</title></circle></a><a href="/variants/s14/db10r2db2r4db12r2k14w13r4w2r2w4r1y3~x2/"><circle cx="81.9" cy="125.4" r="4" fill="#3465a4"><title>Carnegie #2</title></circle></a><a href="/variants/s9/n12k2n2k2n2k12lp12lb3w1~x2/"><circle cx="119.1" cy="149.9" r="4" fill="#3465a4"><title>de Franck, Matt (Personal)</title></circle></a><a href="/variants/s15/db2k1db6k1dr5y3dr5k2w3k2w9k1w2k1y2~x2/"><circle cx="50.0" cy="152.1" r="4" fill="#3465a4"><title>Unidentified #11</title></circle></a><a href="/variants/s13/db14lb2w2lb2db20k20r17w4r3w3r3w3r5~x2/"><circle cx="101.4" cy="133.4" r="4" fill="#3465a4"><title>American Bi-Centennial</title></circle></a><a href="/variants/s13/dg8r1dg2r2dg12w1k12r1lb12r2lb2r1lb8~x4/"><circle cx="110.7" cy="133.3" r="4" fill="#3465a4"><title>Boston Pipe Band, Greater</title></circle></a><a href="/variants/s9/lr18k3lr4lb3lr4k19n20k2r4~x2~lr2800000-n1700000/"><circle cx="113.3" cy="158.2" r="4" fill="#3465a4"><title>Heart of the Highlands</title></circle></a><a href="/variants/s10/dr4k1dr4g8k6lb3db2lb11db1dr2~x4/"><circle cx="87.4" cy="165.9" r="4" fill="#3465a4"><title>MacDuff Dress #2</title></circle></a><a href="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/"><circle cx="109.2" cy="173.6" r="4" fill="#3465a4"><title>Law Society of Scotland (Corporate)</title></circle></a><circle cx="73.0" cy="143.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/y2k2r2db10r1k9w9r2w2r1w2~x2/

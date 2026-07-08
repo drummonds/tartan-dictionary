@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wanstall"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr12dg4dr8db3dg3db3dg8db12dr38dy2/)
 (the same proportion at any scale), whose colour order is pattern [BGBBGBGBBG](/stripes/bgbbgbgbbg/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4490
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4490](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4490)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr12dg4dr8dt3dg3dt3dg8dt12dr38ly2~x2/"><circle cx="568.3" cy="224.1" r="4" fill="#3465a4"><title>Wanstall (Name)</title></circle></a><a href="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/"><circle cx="463.2" cy="243.0" r="4" fill="#3465a4"><title>Lawlis/Lawless</title></circle></a><a href="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50b11dr2b7dr2b7~x2~dr1404346-dg1601120/"><circle cx="579.6" cy="192.7" r="4" fill="#3465a4"><title>Unidentified Plaid 2</title></circle></a><a href="/variants/s9/db2dr49dg51dr9w2dr9db51dr49db2~x2/"><circle cx="458.2" cy="214.3" r="4" fill="#3465a4"><title>Nethybridge</title></circle></a><a href="/variants/s6/do3db3do3db27do40dy3/"><circle cx="589.0" cy="271.2" r="4" fill="#3465a4"><title>Keeper of the Quaich Corporate Tartan</title></circle></a><a href="/variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/"><circle cx="485.2" cy="233.2" r="4" fill="#3465a4"><title>Wicklow Irish County Tartan</title></circle></a><circle cx="563.0" cy="219.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr12dg4dr8dt3dg3dt3dg8dt12dr38ly2~x2/"><circle cx="568.4" cy="224.0" r="4" fill="#3465a4"><title>Wanstall (Name)</title></circle></a><a href="/variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/"><circle cx="463.3" cy="243.0" r="4" fill="#3465a4"><title>Lawlis/Lawless</title></circle></a><a href="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50b11dr2b7dr2b7~x2~dr1404346-dg1601120/"><circle cx="579.6" cy="192.6" r="4" fill="#3465a4"><title>Unidentified Plaid 2</title></circle></a><a href="/variants/s9/db2dr49dg51dr9w2dr9db51dr49db2~x2/"><circle cx="458.3" cy="214.4" r="4" fill="#3465a4"><title>Nethybridge</title></circle></a><a href="/variants/s6/do3db3do3db27do40dy3/"><circle cx="589.2" cy="271.2" r="4" fill="#3465a4"><title>Keeper of the Quaich Corporate Tartan</title></circle></a><a href="/variants/s10/do2n4dg12n3do6t2n24do2n2dg2~x2/"><circle cx="485.3" cy="233.3" r="4" fill="#3465a4"><title>Wicklow Irish County Tartan</title></circle></a><circle cx="563.1" cy="219.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dr12dg4dr8db3dg3db3dg8db12dr38dy2~x2/

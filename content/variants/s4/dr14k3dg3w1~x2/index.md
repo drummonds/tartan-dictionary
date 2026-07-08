@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Bacon"
   url: "/tartans/bacon/"
+- name: "Bacon, Red (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr14k3dg3w1/)
 (the same proportion at any scale), whose colour order is pattern [BKGW](/stripes/bkgw/).
@@ -14,7 +16,7 @@ Part of the [Bacon](/tartans/bacon/) tartan — the named design grouping this s
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3627
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3627](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3627)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db3k32r27w2~x2/"><circle cx="264.8" cy="173.6" r="4" fill="#3465a4"><title>Templar Grand Priory USA</title></circle></a><a href="/variants/s3/k27dg10r2~x4/"><circle cx="431.9" cy="230.0" r="4" fill="#3465a4"><title>The Caledonian Hotel</title></circle></a><a href="/variants/s4/y1k8r13g1~x6/"><circle cx="290.1" cy="176.1" r="4" fill="#3465a4"><title>Billy Apple® Red</title></circle></a><a href="/variants/s5/k50db6r6n6w3~x2/"><circle cx="366.3" cy="127.9" r="4" fill="#3465a4"><title>Friends of Nordegg (Corporate)</title></circle></a><a href="/variants/s4/k50db3y3dr50~x2/"><circle cx="341.1" cy="200.4" r="4" fill="#3465a4"><title>Hungerford RFC (Corporate)</title></circle></a><a href="/variants/s4/g1r8k13ly1~x6/"><circle cx="280.9" cy="177.6" r="4" fill="#3465a4"><title>Billy Apple</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="268.8" cy="136.5" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="257.3" cy="147.8" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s4/dr3lo2k10w1~x6/"><circle cx="343.4" cy="183.6" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/variants/s5/r17db7y8dg58k6~x2/"><circle cx="318.9" cy="183.0" r="4" fill="#3465a4"><title>St Johns County's Sheriff's Office</title></circle></a><circle cx="395.2" cy="189.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db3k32r27w2~x2/"><circle cx="264.8" cy="174.1" r="4" fill="#3465a4"><title>Templar Grand Priory USA</title></circle></a><a href="/variants/s3/k27dg10r2~x4/"><circle cx="431.9" cy="230.5" r="4" fill="#3465a4"><title>The Caledonian Hotel</title></circle></a><a href="/variants/s4/y1k8r13g1~x6/"><circle cx="290.1" cy="176.7" r="4" fill="#3465a4"><title>Billy Apple® Red</title></circle></a><a href="/variants/s5/k50db6r6n6w3~x2/"><circle cx="366.2" cy="128.2" r="4" fill="#3465a4"><title>Friends of Nordegg (Corporate)</title></circle></a><a href="/variants/s4/k50db3y3dr50~x2/"><circle cx="341.1" cy="200.8" r="4" fill="#3465a4"><title>Hungerford RFC (Corporate)</title></circle></a><a href="/variants/s4/g1r8k13ly1~x6/"><circle cx="280.9" cy="178.1" r="4" fill="#3465a4"><title>Billy Apple</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="268.7" cy="136.9" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="257.2" cy="148.2" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s4/dr3lo2k10w1~x6/"><circle cx="343.4" cy="184.2" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/variants/s5/r17db7y8dg58k6~x2/"><circle cx="319.0" cy="183.4" r="4" fill="#3465a4"><title>St Johns County's Sheriff's Office</title></circle></a><circle cx="395.3" cy="190.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/dr14k3dg3w1~x2/

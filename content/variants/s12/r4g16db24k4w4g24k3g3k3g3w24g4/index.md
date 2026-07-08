@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacInnes Dress"
   url: "/tartans/macinnes-dress/"
+- name: "MacInnes Dress (Dalgliesh)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4g16db24k4w4g24k3g3k3g3w24g4/)
 (the same proportion at any scale), whose colour order is pattern [GWGKGKGWKBGR](/stripes/gwgkgkgwkbgr/).
@@ -14,7 +16,7 @@ Part of the [MacInnes Dress](/tartans/macinnes-dress/) tartan — the named desi
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2475
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2475](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2475)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/"><circle cx="98.2" cy="146.1" r="4" fill="#3465a4"><title>MacInnes Dress</title></circle></a><a href="/variants/s15/lb8g2k2w2g8lb2g8w2k2dg3g2w2g1lb2k2~x2/"><circle cx="115.3" cy="164.0" r="4" fill="#3465a4"><title>Gayre Dress</title></circle></a><a href="/variants/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/"><circle cx="92.6" cy="142.0" r="4" fill="#3465a4"><title>Blair, dress</title></circle></a><a href="/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/"><circle cx="174.4" cy="164.7" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/variants/s13/g2r2g21k8lb8k2lb28k2lb8k8g21w2g2~x2/"><circle cx="157.4" cy="129.5" r="4" fill="#3465a4"><title>Mack Original (Personal)</title></circle></a><a href="/variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/"><circle cx="142.8" cy="137.2" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><a href="/variants/s10/k6y2g18w3g13k3y4k3db18w3~x2/"><circle cx="130.1" cy="166.9" r="4" fill="#3465a4"><title>Corstorphine Trial A</title></circle></a><a href="/variants/s15/lbi20g4k4lb4g16lbi4g16lb4k4r6g4lb4g3r6k4~x2~lbi3203246-lb3200000/"><circle cx="105.9" cy="168.0" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/variants/s12/k4g4k2g14k6w3k6n2w4n2w15r3~x2/"><circle cx="70.5" cy="164.3" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/"><circle cx="143.8" cy="175.1" r="4" fill="#3465a4"><title>Wellecomme, Bernard (Personal)</title></circle></a><circle cx="126.3" cy="154.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/"><circle cx="98.1" cy="146.5" r="4" fill="#3465a4"><title>MacInnes Dress</title></circle></a><a href="/variants/s15/lb8g2k2w2g8lb2g8w2k2dg3g2w2g1lb2k2~x2/"><circle cx="115.4" cy="164.5" r="4" fill="#3465a4"><title>Gayre Dress</title></circle></a><a href="/variants/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/"><circle cx="92.6" cy="142.4" r="4" fill="#3465a4"><title>Blair, dress</title></circle></a><a href="/variants/s10/k3y2g18w3g18k3y4k3b18w3~x2/"><circle cx="174.4" cy="165.2" r="4" fill="#3465a4"><title>Forrester / Foster, hunting</title></circle></a><a href="/variants/s13/g2r2g21k8lb8k2lb28k2lb8k8g21w2g2~x2/"><circle cx="157.3" cy="129.8" r="4" fill="#3465a4"><title>Mack Original (Personal)</title></circle></a><a href="/variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/"><circle cx="142.8" cy="137.5" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><a href="/variants/s10/k6y2g18w3g13k3y4k3db18w3~x2/"><circle cx="130.1" cy="167.3" r="4" fill="#3465a4"><title>Corstorphine Trial A</title></circle></a><a href="/variants/s15/lbi20g4k4lb4g16lbi4g16lb4k4r6g4lb4g3r6k4~x2~lbi3203246-lb3200000/"><circle cx="105.9" cy="168.5" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/variants/s12/k4g4k2g14k6w3k6n2w4n2w15r3~x2/"><circle cx="70.5" cy="164.8" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s10/db4g8k8db4y3g21k3lb4k3lb4~x2/"><circle cx="143.9" cy="175.6" r="4" fill="#3465a4"><title>Wellecomme, Bernard (Personal)</title></circle></a><circle cx="126.3" cy="155.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r4g16db24k4w4g24k3g3k3g3w24g4/

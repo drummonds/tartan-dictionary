@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Scouts (1922)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n11dt2n2dt2n2dt12o12dt2o12dt12n11dt2n2/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBBRBRBBBBBBBRBRBBBBB](/stripes/bbbbbbrbrbbbbbbbrbrbbbbb/).
 
 Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3745
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3745](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3745)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

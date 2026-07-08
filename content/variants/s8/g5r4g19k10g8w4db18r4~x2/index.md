@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "CSCA"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g5r4g19k10g8w4db18r4/)
 (the same proportion at any scale), whose colour order is pattern [GRGKGWBRBWGKGR](/stripes/grgkgwbrbwgkgr/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=818
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=818](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=818)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/b4g1b1g6k1g6b1g1b4w1k4g1k4y2~x4/"><circle cx="102.7" cy="181.6" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/variants/s15/db18g4k4w4g16db4g16w4k4r5g4w4g4r5k4~x2/"><circle cx="93.0" cy="179.9" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/variants/s8/g24k4g6r4g6k19db22w5~x2/"><circle cx="108.3" cy="198.4" r="4" fill="#3465a4"><title>MacRae, Ancient hunting</title></circle></a><a href="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/"><circle cx="113.4" cy="189.7" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/variants/s14/db4g1db1g6k1g6db1g1db4w1k4g1k4y1~x4/"><circle cx="115.2" cy="177.6" r="4" fill="#3465a4"><title>MacAlpine (1906)</title></circle></a><a href="/variants/s11/k8w2g11lb2k2lb2g11db6k7db6g8~x2/"><circle cx="100.6" cy="182.7" r="4" fill="#3465a4"><title>Wilson's No.149</title></circle></a><a href="/variants/s15/t12k2t2k2t2k10g5r3w2r3g5k10t11k2t2~x2/"><circle cx="101.8" cy="169.4" r="4" fill="#3465a4"><title>Blanton (Dress)</title></circle></a><a href="/variants/s11/k8w2g11lb2k2lb2g11db6k2db6g8~x2/"><circle cx="138.4" cy="199.8" r="4" fill="#3465a4"><title>Wilson's, No 149</title></circle></a><a href="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/"><circle cx="85.8" cy="215.0" r="4" fill="#3465a4"><title>Lloyd of Dolobran Family Tartan</title></circle></a><a href="/variants/s13/k2t1g6t2g2k4g5ly1g5k4db4k2db2~x4/"><circle cx="109.1" cy="206.2" r="4" fill="#3465a4"><title>Gordon Dress (US Fashion)</title></circle></a><circle cx="97.0" cy="197.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/b4g1b1g6k1g6b1g1b4w1k4g1k4y2~x4/"><circle cx="102.7" cy="182.1" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/variants/s15/db18g4k4w4g16db4g16w4k4r5g4w4g4r5k4~x2/"><circle cx="93.0" cy="180.5" r="4" fill="#3465a4"><title>Gayre</title></circle></a><a href="/variants/s8/g24k4g6r4g6k19db22w5~x2/"><circle cx="108.4" cy="198.9" r="4" fill="#3465a4"><title>MacRae, Ancient hunting</title></circle></a><a href="/variants/s9/r3g6k2g2k1y1g2db3w1~x4/"><circle cx="113.5" cy="190.2" r="4" fill="#3465a4"><title>Bisset</title></circle></a><a href="/variants/s14/db4g1db1g6k1g6db1g1db4w1k4g1k4y1~x4/"><circle cx="115.2" cy="178.1" r="4" fill="#3465a4"><title>MacAlpine (1906)</title></circle></a><a href="/variants/s11/k8w2g11lb2k2lb2g11db6k7db6g8~x2/"><circle cx="100.6" cy="183.2" r="4" fill="#3465a4"><title>Wilson's No.149</title></circle></a><a href="/variants/s15/t12k2t2k2t2k10g5r3w2r3g5k10t11k2t2~x2/"><circle cx="101.8" cy="169.8" r="4" fill="#3465a4"><title>Blanton (Dress)</title></circle></a><a href="/variants/s11/k8w2g11lb2k2lb2g11db6k2db6g8~x2/"><circle cx="138.5" cy="200.4" r="4" fill="#3465a4"><title>Wilson's, No 149</title></circle></a><a href="/variants/s12/k5g4w1g4k1g4r1g4k5db5k1db5~x4/"><circle cx="85.9" cy="215.6" r="4" fill="#3465a4"><title>Lloyd of Dolobran Family Tartan</title></circle></a><a href="/variants/s13/k2t1g6t2g2k4g5ly1g5k4db4k2db2~x4/"><circle cx="109.1" cy="206.8" r="4" fill="#3465a4"><title>Gordon Dress (US Fashion)</title></circle></a><circle cx="97.0" cy="197.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g5r4g19k10g8w4db18r4~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gleneagles, Hotel"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4y4w35y1k36y4k2/)
 (the same proportion at any scale), whose colour order is pattern [KGKGWGK](/stripes/kgkgwgk/).
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4o4w35o1k36o4k2~x2/"><circle cx="275.0" cy="111.8" r="4" fill="#3465a4"><title>Gleneagles</title></circle></a><a href="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/"><circle cx="270.1" cy="120.8" r="4" fill="#3465a4"><title>Gleneagles Gold (Dalgleish)</title></circle></a><a href="/variants/s7/k14w4k8y45w3k1y2~x2/"><circle cx="364.4" cy="103.2" r="4" fill="#3465a4"><title>Kernow Spirit (Corporate)</title></circle></a><a href="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/"><circle cx="288.9" cy="151.7" r="4" fill="#3465a4"><title>Bannockbane Grey #3</title></circle></a><a href="/variants/s6/k4ly18db44k3ly10k4/"><circle cx="270.3" cy="166.9" r="4" fill="#3465a4"><title>Stutterheim (Corporate)</title></circle></a><a href="/variants/s6/r2w30k15y2k15r2~x2/"><circle cx="216.3" cy="157.6" r="4" fill="#3465a4"><title>Brodie (WCWM)</title></circle></a><a href="/variants/s5/y3k1n24k35w3~x2/"><circle cx="310.8" cy="131.9" r="4" fill="#3465a4"><title>George Heriots</title></circle></a><a href="/variants/s7/w4k30r1k1r3w12y3~x2/"><circle cx="289.8" cy="99.7" r="4" fill="#3465a4"><title>Richecourt, Baron of (Personal)</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="304.2" cy="151.4" r="4" fill="#3465a4"><title>St. Piran Cornish Flag</title></circle></a><a href="/variants/s10/k3r1k1w20k10r2k2w2k2r2~x4/"><circle cx="254.8" cy="116.4" r="4" fill="#3465a4"><title>Buckleigh Dress (Fashion)</title></circle></a><circle cx="274.9" cy="112.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4o4w35o1k36o4k2~x2/"><circle cx="274.9" cy="112.2" r="4" fill="#3465a4"><title>Gleneagles</title></circle></a><a href="/variants/s7/k4ly4lb32ly1k32ly4k2~x4/"><circle cx="270.1" cy="121.1" r="4" fill="#3465a4"><title>Gleneagles Gold (Dalgleish)</title></circle></a><a href="/variants/s7/k14w4k8y45w3k1y2~x2/"><circle cx="364.3" cy="103.5" r="4" fill="#3465a4"><title>Kernow Spirit (Corporate)</title></circle></a><a href="/variants/s7/k4ly2k13ly1y21ly2y4~x2~ly3307090-y2400000/"><circle cx="288.9" cy="152.1" r="4" fill="#3465a4"><title>Bannockbane Grey #3</title></circle></a><a href="/variants/s6/k4ly18db44k3ly10k4/"><circle cx="270.3" cy="167.4" r="4" fill="#3465a4"><title>Stutterheim (Corporate)</title></circle></a><a href="/variants/s6/r2w30k15y2k15r2~x2/"><circle cx="216.3" cy="158.1" r="4" fill="#3465a4"><title>Brodie (WCWM)</title></circle></a><a href="/variants/s5/y3k1n24k35w3~x2/"><circle cx="310.7" cy="132.2" r="4" fill="#3465a4"><title>George Heriots</title></circle></a><a href="/variants/s7/w4k30r1k1r3w12y3~x2/"><circle cx="289.7" cy="100.1" r="4" fill="#3465a4"><title>Richecourt, Baron of (Personal)</title></circle></a><a href="/variants/s5/w5k20w10k1r2~x2/"><circle cx="304.1" cy="151.9" r="4" fill="#3465a4"><title>St. Piran Cornish Flag</title></circle></a><a href="/variants/s10/k3r1k1w20k10r2k2w2k2r2~x4/"><circle cx="254.8" cy="116.9" r="4" fill="#3465a4"><title>Buckleigh Dress (Fashion)</title></circle></a><circle cx="274.9" cy="113.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k4y4w35y1k36y4k2~x2/

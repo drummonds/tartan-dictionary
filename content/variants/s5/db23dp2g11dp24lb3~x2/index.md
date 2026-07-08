@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Open Squash (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db23dp2g11dp24lb3/)
 (the same proportion at any scale), whose colour order is pattern [BBGBW](/stripes/bbgbw/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3189
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3189](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3189)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g5dp2db5dp10dy2~x2/"><circle cx="307.5" cy="299.2" r="4" fill="#3465a4"><title>Bryson (2000)</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2/"><circle cx="291.5" cy="245.0" r="4" fill="#3465a4"><title>Belfrage (Name)</title></circle></a><a href="/variants/s6/b4g16y2dp7b28w4~x2/"><circle cx="314.5" cy="207.0" r="4" fill="#3465a4"><title>Manx Laxey</title></circle></a><a href="/variants/s5/dp10db10g10w1dy1~x6/"><circle cx="202.6" cy="247.2" r="4" fill="#3465a4"><title>Edelstein (Personal)</title></circle></a><a href="/variants/s5/dp23dg8dp23dg35w5~x2/"><circle cx="350.3" cy="298.6" r="4" fill="#3465a4"><title>Baru</title></circle></a><a href="/variants/s6/dp6y1dp20db6g19dp2~x4/"><circle cx="358.2" cy="208.8" r="4" fill="#3465a4"><title>Discover Islay (District)</title></circle></a><a href="/variants/s5/dp9db6w1dg4dp2~x4/"><circle cx="346.4" cy="277.5" r="4" fill="#3465a4"><title>Cathro</title></circle></a><a href="/variants/s5/lb8r3dbi29db29lb4~x2~dbi1605267-db1003265/"><circle cx="260.9" cy="236.3" r="4" fill="#3465a4"><title>Bryson</title></circle></a><a href="/variants/s7/y4db4lb5dbi24y2db24w4~x2~db1204274-dbi1406275/"><circle cx="269.2" cy="203.5" r="4" fill="#3465a4"><title>Mina Perhonen Japanese Corporate Tartan</title></circle></a><a href="/variants/s6/db2b22dg11y2dg11db2~x2/"><circle cx="337.8" cy="242.1" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><circle cx="301.0" cy="251.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g5dp2db5dp10dy2~x2/"><circle cx="307.7" cy="299.7" r="4" fill="#3465a4"><title>Bryson (2000)</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2/"><circle cx="291.6" cy="245.5" r="4" fill="#3465a4"><title>Belfrage (Name)</title></circle></a><a href="/variants/s6/b4g16y2dp7b28w4~x2/"><circle cx="314.6" cy="207.3" r="4" fill="#3465a4"><title>Manx Laxey</title></circle></a><a href="/variants/s5/dp10db10g10w1dy1~x6/"><circle cx="202.7" cy="247.7" r="4" fill="#3465a4"><title>Edelstein (Personal)</title></circle></a><a href="/variants/s5/dp23dg8dp23dg35w5~x2/"><circle cx="350.5" cy="299.2" r="4" fill="#3465a4"><title>Baru</title></circle></a><a href="/variants/s6/dp6y1dp20db6g19dp2~x4/"><circle cx="358.3" cy="209.2" r="4" fill="#3465a4"><title>Discover Islay (District)</title></circle></a><a href="/variants/s5/dp9db6w1dg4dp2~x4/"><circle cx="346.5" cy="277.9" r="4" fill="#3465a4"><title>Cathro</title></circle></a><a href="/variants/s5/lb8r3dbi29db29lb4~x2~dbi1605267-db1003265/"><circle cx="261.0" cy="236.7" r="4" fill="#3465a4"><title>Bryson</title></circle></a><a href="/variants/s7/y4db4lb5dbi24y2db24w4~x2~db1204274-dbi1406275/"><circle cx="269.3" cy="203.7" r="4" fill="#3465a4"><title>Mina Perhonen Japanese Corporate Tartan</title></circle></a><a href="/variants/s6/db2b22dg11y2dg11db2~x2/"><circle cx="337.9" cy="242.4" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><circle cx="301.1" cy="252.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db23dp2g11dp24lb3~x2/

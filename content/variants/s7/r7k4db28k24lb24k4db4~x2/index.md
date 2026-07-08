@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacCorquodale"
   url: "/tartans/maccorquodale/"
+- name: "MacCorquodale"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r7k4db28k24lb24k4db4/)
 (the same proportion at any scale), whose colour order is pattern [BKWKBKR](/stripes/bkwkbkr/).
@@ -14,7 +16,7 @@ Part of the [MacCorquodale](/tartans/maccorquodale/) tartan — the named design
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r7k4t28k24ti24k4t4~x2~t2405244-ti2503227/"><circle cx="121.1" cy="206.6" r="4" fill="#3465a4"><title>MacCorquodale</title></circle></a><a href="/variants/s7/db1k1db6k6g6k1w1~x2/"><circle cx="131.5" cy="211.6" r="4" fill="#3465a4"><title>Forbes #4</title></circle></a><a href="/variants/s7/db6k2db18k18g18k3r2~x2/"><circle cx="155.4" cy="200.1" r="4" fill="#3465a4"><title>Renfrew</title></circle></a><a href="/variants/s7/k4db2k15w10b15db2b4~x2/"><circle cx="125.2" cy="204.5" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8k2/"><circle cx="148.1" cy="217.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8k2~x2/"><circle cx="148.1" cy="217.2" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/k6lb3k8db7lo2db7lb1~x4/"><circle cx="158.0" cy="226.5" r="4" fill="#3465a4"><title>St. Johnstone F.C. (Sports)</title></circle></a><a href="/variants/s7/k3db24lb3ki25lb22k3lb3~x2~db1605267-ki0503265/"><circle cx="141.3" cy="194.8" r="4" fill="#3465a4"><title>Strathclyde blue</title></circle></a><a href="/variants/s7/y8k4n39k37db36k6db7/"><circle cx="170.9" cy="201.1" r="4" fill="#3465a4"><title>Oceanic (Corporate?)</title></circle></a><a href="/variants/s8/db25k3db7k15t25k2t2w4~x2~db1406275/"><circle cx="181.8" cy="174.2" r="4" fill="#3465a4"><title>Sabema</title></circle></a><circle cx="116.3" cy="201.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r7k4t28k24ti24k4t4~x2~t2405244-ti2503227/"><circle cx="121.2" cy="207.2" r="4" fill="#3465a4"><title>MacCorquodale</title></circle></a><a href="/variants/s7/db1k1db6k6g6k1w1~x2/"><circle cx="131.6" cy="212.1" r="4" fill="#3465a4"><title>Forbes #4</title></circle></a><a href="/variants/s7/db6k2db18k18g18k3r2~x2/"><circle cx="155.4" cy="200.5" r="4" fill="#3465a4"><title>Renfrew</title></circle></a><a href="/variants/s7/k4db2k15w10b15db2b4~x2/"><circle cx="125.2" cy="205.1" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8k2/"><circle cx="148.1" cy="217.7" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/db6k1db6k8r1g8k2~x2/"><circle cx="148.1" cy="217.7" r="4" fill="#3465a4"><title>Fletcher</title></circle></a><a href="/variants/s7/k6lb3k8db7lo2db7lb1~x4/"><circle cx="158.1" cy="227.1" r="4" fill="#3465a4"><title>St. Johnstone F.C. (Sports)</title></circle></a><a href="/variants/s7/k3db24lb3ki25lb22k3lb3~x2~db1605267-ki0503265/"><circle cx="141.4" cy="195.4" r="4" fill="#3465a4"><title>Strathclyde blue</title></circle></a><a href="/variants/s7/y8k4n39k37db36k6db7/"><circle cx="170.9" cy="201.5" r="4" fill="#3465a4"><title>Oceanic (Corporate?)</title></circle></a><a href="/variants/s8/db25k3db7k15t25k2t2w4~x2~db1406275/"><circle cx="181.8" cy="174.6" r="4" fill="#3465a4"><title>Sabema</title></circle></a><circle cx="116.3" cy="201.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r7k4db28k24lb24k4db4~x2/

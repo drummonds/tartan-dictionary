@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Layton, Mervin"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o4r3o24k1w7k1g24y3/)
 (the same proportion at any scale), whose colour order is pattern [GGKWKRRR](/stripes/ggkwkrrr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10486
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10486](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10486)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k3r12do8ly2g36do10lb2~x2/"><circle cx="232.6" cy="131.1" r="4" fill="#3465a4"><title>Snelgrove Htg (Name)</title></circle></a><a href="/variants/s8/g18r1w2k1w2r1o6k2~x4/"><circle cx="255.7" cy="116.9" r="4" fill="#3465a4"><title>Humphries (Name)</title></circle></a><a href="/variants/s7/k2o30g4w2g14dr13y2~x2/"><circle cx="235.0" cy="149.6" r="4" fill="#3465a4"><title>Red Rum</title></circle></a><a href="/variants/s9/k2w1g25dy11r12w1y12k1w2~x2/"><circle cx="169.7" cy="115.1" r="4" fill="#3465a4"><title>Leaf Peeper</title></circle></a><a href="/variants/s9/r3k1g8ly1dyi7ly1g19dy25k1~x2~dyi1603076-dy1503076/"><circle cx="266.5" cy="125.6" r="4" fill="#3465a4"><title>The Broons (Corporate)</title></circle></a><a href="/variants/s6/r20w1k1o6dy1g18~x2/"><circle cx="246.4" cy="137.2" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Red..) Portrait Tartan</title></circle></a><a href="/variants/s8/dg4r3dg24k1w7k1g24ly3~x2~dg1806142-g2106142/"><circle cx="226.1" cy="128.9" r="4" fill="#3465a4"><title>Layton (Name)</title></circle></a><a href="/variants/s6/r20w1k1b6y1g18~x2/"><circle cx="238.0" cy="137.6" r="4" fill="#3465a4"><title>Gordon of Abergeldie, (Red..)</title></circle></a><a href="/variants/s9/k2w1dg25dy11r12w1ly12k1w2~x2~dy1503076-ly3307090/"><circle cx="152.8" cy="107.3" r="4" fill="#3465a4"><title>Leaf Peeper</title></circle></a><a href="/variants/s8/w3o1r29o16g23db3g3y2~x2/"><circle cx="246.5" cy="132.9" r="4" fill="#3465a4"><title>Etienne, Paschal Tache Sir...</title></circle></a><circle cx="229.3" cy="120.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k3r12do8ly2g36do10lb2~x2/"><circle cx="232.6" cy="131.3" r="4" fill="#3465a4"><title>Snelgrove Htg (Name)</title></circle></a><a href="/variants/s8/g18r1w2k1w2r1o6k2~x4/"><circle cx="255.6" cy="117.2" r="4" fill="#3465a4"><title>Humphries (Name)</title></circle></a><a href="/variants/s7/k2o30g4w2g14dr13y2~x2/"><circle cx="235.0" cy="149.8" r="4" fill="#3465a4"><title>Red Rum</title></circle></a><a href="/variants/s9/k2w1g25dy11r12w1y12k1w2~x2/"><circle cx="169.6" cy="115.3" r="4" fill="#3465a4"><title>Leaf Peeper</title></circle></a><a href="/variants/s9/r3k1g8ly1dyi7ly1g19dy25k1~x2~dyi1603076-dy1503076/"><circle cx="266.4" cy="125.6" r="4" fill="#3465a4"><title>The Broons (Corporate)</title></circle></a><a href="/variants/s6/r20w1k1o6dy1g18~x2/"><circle cx="246.4" cy="137.5" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Red..) Portrait Tartan</title></circle></a><a href="/variants/s8/dg4r3dg24k1w7k1g24ly3~x2~dg1806142-g2106142/"><circle cx="226.0" cy="129.1" r="4" fill="#3465a4"><title>Layton (Name)</title></circle></a><a href="/variants/s6/r20w1k1b6y1g18~x2/"><circle cx="237.9" cy="137.9" r="4" fill="#3465a4"><title>Gordon of Abergeldie, (Red..)</title></circle></a><a href="/variants/s9/k2w1dg25dy11r12w1ly12k1w2~x2~dy1503076-ly3307090/"><circle cx="152.7" cy="107.6" r="4" fill="#3465a4"><title>Leaf Peeper</title></circle></a><a href="/variants/s8/w3o1r29o16g23db3g3y2~x2/"><circle cx="246.5" cy="133.0" r="4" fill="#3465a4"><title>Etienne, Paschal Tache Sir...</title></circle></a><circle cx="229.3" cy="120.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/o4r3o24k1w7k1g24y3~x2/

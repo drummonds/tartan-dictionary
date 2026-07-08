@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Puffin"
   url: "/tartans/puffin/"
+- name: "Puffin"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3w1k1w6g1w1g1w1o3/)
 (the same proportion at any scale), whose colour order is pattern [KWKWGWGWR](/stripes/kwkwgwgwr/).
@@ -14,7 +16,7 @@ Part of the [Puffin](/tartans/puffin/) tartan — the named design grouping this
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4w1k1w9g1w1g1w1dy4~x4/"><circle cx="199.6" cy="160.4" r="4" fill="#3465a4"><title>Puffin (Personal)</title></circle></a><a href="/variants/s8/w2g4k7w2k1w11db2w2~x4/"><circle cx="214.7" cy="172.3" r="4" fill="#3465a4"><title>Forbes - 1880 (Clans Originaux)</title></circle></a><a href="/variants/s7/k3r3k3w16k3g3k3/"><circle cx="162.0" cy="187.5" r="4" fill="#3465a4"><title>Eglinton</title></circle></a><a href="/variants/s9/w1b3w3b1w5k1w2k3lo1~x4/"><circle cx="179.7" cy="224.6" r="4" fill="#3465a4"><title>Henderson Dress (Dance)</title></circle></a><a href="/variants/s8/dg14r5dg14w5k2r5k2w9~x4/"><circle cx="166.7" cy="203.6" r="4" fill="#3465a4"><title>Unnamed (Hip Flask)</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2/"><circle cx="105.1" cy="196.3" r="4" fill="#3465a4"><title>Aberlour (Corporate)</title></circle></a><a href="/variants/s13/w2r1w8n2k2w1n1w1n4w2k1w1r1~x4/"><circle cx="218.7" cy="160.8" r="4" fill="#3465a4"><title>Balmoral (Ghillies white variation)</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="105.6" cy="195.8" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s14/w7k21w9k9w29lo4w29k10r3k3r3k3r19w6/"><circle cx="182.8" cy="147.1" r="4" fill="#3465a4"><title>Casey, Dress (Corporate)</title></circle></a><a href="/variants/s8/w26k8w3k5db3r5n3k4~x2/"><circle cx="185.5" cy="150.0" r="4" fill="#3465a4"><title>Lootens Jensen (Personal)</title></circle></a><circle cx="160.9" cy="189.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4w1k1w9g1w1g1w1dy4~x4/"><circle cx="199.6" cy="161.0" r="4" fill="#3465a4"><title>Puffin (Personal)</title></circle></a><a href="/variants/s8/w2g4k7w2k1w11db2w2~x4/"><circle cx="214.7" cy="172.9" r="4" fill="#3465a4"><title>Forbes - 1880 (Clans Originaux)</title></circle></a><a href="/variants/s7/k3r3k3w16k3g3k3/"><circle cx="162.0" cy="188.2" r="4" fill="#3465a4"><title>Eglinton</title></circle></a><a href="/variants/s9/w1b3w3b1w5k1w2k3lo1~x4/"><circle cx="179.9" cy="225.4" r="4" fill="#3465a4"><title>Henderson Dress (Dance)</title></circle></a><a href="/variants/s8/dg14r5dg14w5k2r5k2w9~x4/"><circle cx="166.8" cy="204.2" r="4" fill="#3465a4"><title>Unnamed (Hip Flask)</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2/"><circle cx="105.1" cy="197.0" r="4" fill="#3465a4"><title>Aberlour (Corporate)</title></circle></a><a href="/variants/s13/w2r1w8n2k2w1n1w1n4w2k1w1r1~x4/"><circle cx="218.7" cy="161.4" r="4" fill="#3465a4"><title>Balmoral (Ghillies white variation)</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="105.6" cy="196.5" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s14/w7k21w9k9w29lo4w29k10r3k3r3k3r19w6/"><circle cx="182.8" cy="147.7" r="4" fill="#3465a4"><title>Casey, Dress (Corporate)</title></circle></a><a href="/variants/s8/w26k8w3k5db3r5n3k4~x2/"><circle cx="185.5" cy="150.5" r="4" fill="#3465a4"><title>Lootens Jensen (Personal)</title></circle></a><circle cx="161.0" cy="189.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k3w1k1w6g1w1g1w1o3~x4/

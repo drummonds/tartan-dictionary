@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Canmore Highland Games Dress (Corp)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w52db2k7w3k2dp2k1db9g8k2g3y2/)
 (the same proportion at any scale), whose colour order is pattern [GGKGBKBKWKBW](/stripes/ggkgbkbkwkbw/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10009
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10009](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10009)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w36db5k5y1k1w1k1g8r4k1r2w1/"><circle cx="255.0" cy="31.1" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="254.9" cy="30.7" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/"><circle cx="254.9" cy="30.7" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s11/k1w31k4g8r1g2db7r4k1r4w1~x2/"><circle cx="218.3" cy="68.2" r="4" fill="#3465a4"><title>Hohenzollern (Personal)</title></circle></a><a href="/variants/s11/k1w31k4g8r1g2db7r4k1r4w1~x2~db1404245/"><circle cx="219.3" cy="68.8" r="4" fill="#3465a4"><title>Hohenzollern</title></circle></a><a href="/variants/s13/w50db6w2k6y2k3w2k3g6r6k2r2w2~x2/"><circle cx="264.0" cy="37.5" r="4" fill="#3465a4"><title>Stewart Dress (Artefact)</title></circle></a><a href="/variants/s11/w24db2k2ly1k1w1dg6n4dg1n1w1~x4~dg1806142-n1805302/"><circle cx="265.4" cy="61.1" r="4" fill="#3465a4"><title>Pritchard</title></circle></a><a href="/variants/s11/w50db14g2db2w2db2n10t6k2t3w2~x2/"><circle cx="257.2" cy="63.6" r="4" fill="#3465a4"><title>Blue Dunnett</title></circle></a><a href="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/"><circle cx="256.5" cy="44.6" r="4" fill="#3465a4"><title>Stuart/Stewart Royal variant</title></circle></a><a href="/variants/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><circle cx="286.0" cy="52.6" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><circle cx="278.7" cy="20.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w36db5k5y1k1w1k1g8r4k1r2w1/"><circle cx="254.9" cy="31.2" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="254.8" cy="30.8" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s12/w36db4k6y1k1w1k1g8r4k1r2w1/"><circle cx="254.8" cy="30.8" r="4" fill="#3465a4"><title>Stewart Dress</title></circle></a><a href="/variants/s11/k1w31k4g8r1g2db7r4k1r4w1~x2/"><circle cx="218.2" cy="68.4" r="4" fill="#3465a4"><title>Hohenzollern (Personal)</title></circle></a><a href="/variants/s11/k1w31k4g8r1g2db7r4k1r4w1~x2~db1404245/"><circle cx="219.2" cy="69.1" r="4" fill="#3465a4"><title>Hohenzollern</title></circle></a><a href="/variants/s13/w50db6w2k6y2k3w2k3g6r6k2r2w2~x2/"><circle cx="263.9" cy="37.6" r="4" fill="#3465a4"><title>Stewart Dress (Artefact)</title></circle></a><a href="/variants/s11/w24db2k2ly1k1w1dg6n4dg1n1w1~x4~dg1806142-n1805302/"><circle cx="265.2" cy="61.3" r="4" fill="#3465a4"><title>Pritchard</title></circle></a><a href="/variants/s11/w50db14g2db2w2db2n10t6k2t3w2~x2/"><circle cx="257.1" cy="63.8" r="4" fill="#3465a4"><title>Blue Dunnett</title></circle></a><a href="/variants/s12/lb57db4k8y4k4lb4k4g8r6k4r4lb2/"><circle cx="256.4" cy="44.7" r="4" fill="#3465a4"><title>Stuart/Stewart Royal variant</title></circle></a><a href="/variants/s14/w40o1w6o3n1o7n3do1n8do3k1do9k2w8~x2/"><circle cx="285.8" cy="52.7" r="4" fill="#3465a4"><title>Snowy Owl</title></circle></a><circle cx="278.5" cy="21.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/w52db2k7w3k2dp2k1db9g8k2g3y2~x2/

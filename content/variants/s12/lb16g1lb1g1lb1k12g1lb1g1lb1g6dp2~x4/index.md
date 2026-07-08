@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Stephen-Mathieson"
   url: "/tartans/stephen-mathieson/"
+- name: "Stephen-Mathieson (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb16g1lb1g1lb1k12g1lb1g1lb1g6dp2/)
 (the same proportion at any scale), whose colour order is pattern [BGWGWGKWGWGW](/stripes/bgwgwgkwgwgw/).
@@ -14,7 +16,7 @@ Part of the [Stephen-Mathieson](/tartans/stephen-mathieson/) tartan — the name
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10108
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10108](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10108)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/y5lb36n5lb5n56k5n8k5n5k34y5/"><circle cx="190.3" cy="142.5" r="4" fill="#3465a4"><title>Chartered Institute of Bankers in Scotland</title></circle></a><a href="/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/"><circle cx="181.3" cy="122.4" r="4" fill="#3465a4"><title>Scott, (MacRae)</title></circle></a><a href="/variants/s10/w16k4o1k2w1k6dg6k1dg6w1~x4/"><circle cx="164.6" cy="134.1" r="4" fill="#3465a4"><title>Unidentified #49</title></circle></a><a href="/variants/s14/lb7w3lb2w30k5w3g2w3g8w3g2w3k30dp2~x2/"><circle cx="168.6" cy="98.3" r="4" fill="#3465a4"><title>Wiseman Dairies Corporate Tartan</title></circle></a><a href="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/"><circle cx="167.2" cy="106.5" r="4" fill="#3465a4"><title>Robert Wiseman Dairies, Golden Jubilee</title></circle></a><a href="/variants/s11/w30n5k6n2k2w2k13n5k2n2w2~x2/"><circle cx="233.0" cy="131.9" r="4" fill="#3465a4"><title>Stewart Grey Dress Tartan</title></circle></a><a href="/variants/s11/dr2k9lb4w2k22w2lb4w22lb2w8dr2~x2/"><circle cx="177.1" cy="145.7" r="4" fill="#3465a4"><title>MacRae, Dress</title></circle></a><a href="/variants/s11/y3k2y2k2y2k28lb32y2lb3y2lb3~x2/"><circle cx="249.6" cy="117.1" r="4" fill="#3465a4"><title>General Choi</title></circle></a><a href="/variants/s10/lb39g3lb3g20k3g20k3g3k20r3~x2/"><circle cx="169.4" cy="150.5" r="4" fill="#3465a4"><title>Dunedin Chapter (Corporate)</title></circle></a><a href="/variants/s11/dg27w2dg3ly4dg3w2dg5k13lg2w26lg3~x2/"><circle cx="154.4" cy="122.3" r="4" fill="#3465a4"><title>MacKellar Dress, Green (Dance)</title></circle></a><circle cx="205.4" cy="112.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/y5lb36n5lb5n56k5n8k5n5k34y5/"><circle cx="190.3" cy="142.9" r="4" fill="#3465a4"><title>Chartered Institute of Bankers in Scotland</title></circle></a><a href="/variants/s11/r2w6db2w16db3w1k16w1db2k4r2~x2/"><circle cx="181.3" cy="122.8" r="4" fill="#3465a4"><title>Scott, (MacRae)</title></circle></a><a href="/variants/s10/w16k4o1k2w1k6dg6k1dg6w1~x4/"><circle cx="164.6" cy="134.5" r="4" fill="#3465a4"><title>Unidentified #49</title></circle></a><a href="/variants/s14/lb7w3lb2w30k5w3g2w3g8w3g2w3k30dp2~x2/"><circle cx="168.6" cy="98.6" r="4" fill="#3465a4"><title>Wiseman Dairies Corporate Tartan</title></circle></a><a href="/variants/s13/b5w2b2w4k27w2dg2w2dg6w2dg2w22dr2~x2/"><circle cx="167.1" cy="106.8" r="4" fill="#3465a4"><title>Robert Wiseman Dairies, Golden Jubilee</title></circle></a><a href="/variants/s11/w30n5k6n2k2w2k13n5k2n2w2~x2/"><circle cx="233.0" cy="132.4" r="4" fill="#3465a4"><title>Stewart Grey Dress Tartan</title></circle></a><a href="/variants/s11/dr2k9lb4w2k22w2lb4w22lb2w8dr2~x2/"><circle cx="177.1" cy="146.1" r="4" fill="#3465a4"><title>MacRae, Dress</title></circle></a><a href="/variants/s11/y3k2y2k2y2k28lb32y2lb3y2lb3~x2/"><circle cx="249.6" cy="117.4" r="4" fill="#3465a4"><title>General Choi</title></circle></a><a href="/variants/s10/lb39g3lb3g20k3g20k3g3k20r3~x2/"><circle cx="169.3" cy="150.9" r="4" fill="#3465a4"><title>Dunedin Chapter (Corporate)</title></circle></a><a href="/variants/s11/dg27w2dg3ly4dg3w2dg5k13lg2w26lg3~x2/"><circle cx="154.4" cy="122.7" r="4" fill="#3465a4"><title>MacKellar Dress, Green (Dance)</title></circle></a><circle cx="205.3" cy="113.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/lb16g1lb1g1lb1k12g1lb1g1lb1g6dp2~x4/

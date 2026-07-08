@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Jacobite"
   url: "/tartans/jacobite/"
+- name: "Jacobite"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w1r2db2w1g9w1db2r2w1r2db2w1lo9w1db2r2w1/)
 (the same proportion at any scale), whose colour order is pattern [WRBWGWBRWRBWYWBRW](/stripes/wrbwgwbrwrbwywbrw/).
@@ -14,7 +16,7 @@ Part of the [Jacobite](/tartans/jacobite/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1873
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1873](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1873)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/w1r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1~x4/"><circle cx="71.3" cy="164.9" r="4" fill="#3465a4"><title>Jacobite (1712) (Universal)</title></circle></a><a href="/variants/s17/w1r2db2w1g8w1db2r2w1r2db2w1b8w1db2r2w1~x2/"><circle cx="68.4" cy="164.4" r="4" fill="#3465a4"><title>Jacobite</title></circle></a><a href="/variants/s17/w1r2db2w1g9w1db2r2w1r2db2w1b9w1db2r2w1~x4/"><circle cx="83.0" cy="154.3" r="4" fill="#3465a4"><title>Jacobite</title></circle></a><a href="/variants/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x4/"><circle cx="65.7" cy="146.2" r="4" fill="#3465a4"><title>Wombles #4</title></circle></a><a href="/variants/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x2/"><circle cx="108.6" cy="172.5" r="4" fill="#3465a4"><title>Wombles Corporate Tartan</title></circle></a><a href="/variants/s23/w2dp7w2lb6w2y4w2dp4w2y4w2g19w2dp7w2dp7w2r19w4r3lb2r3w2~x2/"><circle cx="64.1" cy="125.9" r="4" fill="#3465a4"><title>Lasting</title></circle></a><a href="/variants/s19/g8o3lr3o3w28lr4w8o12g3o3g3o3g8do3g3do3g3do12r4/"><circle cx="89.2" cy="133.9" r="4" fill="#3465a4"><title>Drymen</title></circle></a><a href="/variants/s23/w8dp7w2y6w2ly4w2dp4w2ly4w2dg19w2dp7w2dp7w2r19w4r3y2r3w2~x2~y2602166-ly3307090/"><circle cx="53.6" cy="118.6" r="4" fill="#3465a4"><title>Lasting</title></circle></a><a href="/variants/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/"><circle cx="59.9" cy="176.7" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/variants/s32/r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1y8w1db2r2w1~x4~r2109032/"><circle cx="60.6" cy="142.7" r="4" fill="#3465a4"><title>Jacobite (1712)</title></circle></a><circle cx="79.9" cy="151.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/w1r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1~x4/"><circle cx="71.3" cy="165.3" r="4" fill="#3465a4"><title>Jacobite (1712) (Universal)</title></circle></a><a href="/variants/s17/w1r2db2w1g8w1db2r2w1r2db2w1b8w1db2r2w1~x2/"><circle cx="68.4" cy="164.8" r="4" fill="#3465a4"><title>Jacobite</title></circle></a><a href="/variants/s17/w1r2db2w1g9w1db2r2w1r2db2w1b9w1db2r2w1~x4/"><circle cx="83.0" cy="154.6" r="4" fill="#3465a4"><title>Jacobite</title></circle></a><a href="/variants/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x4/"><circle cx="65.8" cy="146.6" r="4" fill="#3465a4"><title>Wombles #4</title></circle></a><a href="/variants/s15/w5db2w1g8w1db2r2w1r2db2w1lo8w1db2w5~x2/"><circle cx="108.6" cy="173.0" r="4" fill="#3465a4"><title>Wombles Corporate Tartan</title></circle></a><a href="/variants/s23/w2dp7w2lb6w2y4w2dp4w2y4w2g19w2dp7w2dp7w2r19w4r3lb2r3w2~x2/"><circle cx="64.1" cy="126.2" r="4" fill="#3465a4"><title>Lasting</title></circle></a><a href="/variants/s19/g8o3lr3o3w28lr4w8o12g3o3g3o3g8do3g3do3g3do12r4/"><circle cx="89.2" cy="134.2" r="4" fill="#3465a4"><title>Drymen</title></circle></a><a href="/variants/s23/w8dp7w2y6w2ly4w2dp4w2ly4w2dg19w2dp7w2dp7w2r19w4r3y2r3w2~x2~y2602166-ly3307090/"><circle cx="53.5" cy="118.9" r="4" fill="#3465a4"><title>Lasting</title></circle></a><a href="/variants/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/"><circle cx="59.9" cy="177.2" r="4" fill="#3465a4"><title>Womble</title></circle></a><a href="/variants/s32/r2db2w1y8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1g8w1db2r2w1r2db2w1y8w1db2r2w1~x4~r2109032/"><circle cx="60.6" cy="143.0" r="4" fill="#3465a4"><title>Jacobite (1712)</title></circle></a><circle cx="79.9" cy="151.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/w1r2db2w1g9w1db2r2w1r2db2w1lo9w1db2r2w1~x4/

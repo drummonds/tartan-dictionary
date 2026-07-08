@@ -10,6 +10,8 @@ crumbs:
   url: "/families/dodd-of-branford/"
 - name: "Dodd of Branford"
   url: "/tartans/dodd-of-branford/"
+- name: "Dodd of Branford"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4dr2g20db8k8db4lb1lo2k1/)
 (the same proportion at any scale), whose colour order is pattern [GBGBKBWYK](/stripes/gbgbkbwyk/).
@@ -18,7 +20,7 @@ Part of the [Dodd of Branford](/tartans/dodd-of-branford/) tartan — the named 
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=942
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=942](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=942)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g20k1n1k1g20k10n2k2r2db20w1~x2/"><circle cx="205.9" cy="100.4" r="4" fill="#3465a4"><title>Storrie (Name)</title></circle></a><a href="/variants/s8/g5ly1dr2g25k14db19w2g4~x2/"><circle cx="195.2" cy="117.4" r="4" fill="#3465a4"><title>Tooth (Personal)</title></circle></a><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><circle cx="212.1" cy="165.1" r="4" fill="#3465a4"><title>Gillies (House of Edgar)</title></circle></a><a href="/variants/s8/g5y1r2g25k14db19w4g2~x2/"><circle cx="173.4" cy="115.1" r="4" fill="#3465a4"><title>Tooth</title></circle></a><a href="/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/"><circle cx="164.9" cy="124.0" r="4" fill="#3465a4"><title>East Lothian (Fashion) Fashion Tartan</title></circle></a><a href="/variants/s12/db7lb1db1r2db9r1k9g13dp2g18r1g6~x2/"><circle cx="206.4" cy="115.5" r="4" fill="#3465a4"><title>West Highland Way (Corporate)</title></circle></a><a href="/variants/s11/g32w2g2y3g2w2g2k16lb2db16w3~x2/"><circle cx="167.9" cy="99.4" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/variants/s13/g18dr1g2dr2g16dr1k16n1k2dr2b20dr1w2~x4/"><circle cx="164.1" cy="94.4" r="4" fill="#3465a4"><title>Canadian Estate</title></circle></a><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/"><circle cx="215.7" cy="82.4" r="4" fill="#3465a4"><title>Lusk (Personal)</title></circle></a><a href="/variants/s7/lb6db17dp4db2k11g33y4~x2/"><circle cx="158.7" cy="142.1" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><circle cx="192.3" cy="115.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g20k1n1k1g20k10n2k2r2db20w1~x2/"><circle cx="205.8" cy="100.5" r="4" fill="#3465a4"><title>Storrie (Name)</title></circle></a><a href="/variants/s8/g5ly1dr2g25k14db19w2g4~x2/"><circle cx="195.1" cy="117.6" r="4" fill="#3465a4"><title>Tooth (Personal)</title></circle></a><a href="/variants/s8/t32k12t12g6r6g18k2y3~x2/"><circle cx="212.1" cy="165.4" r="4" fill="#3465a4"><title>Gillies (House of Edgar)</title></circle></a><a href="/variants/s8/g5y1r2g25k14db19w4g2~x2/"><circle cx="173.3" cy="115.4" r="4" fill="#3465a4"><title>Tooth</title></circle></a><a href="/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/"><circle cx="164.8" cy="124.3" r="4" fill="#3465a4"><title>East Lothian (Fashion) Fashion Tartan</title></circle></a><a href="/variants/s12/db7lb1db1r2db9r1k9g13dp2g18r1g6~x2/"><circle cx="206.3" cy="115.7" r="4" fill="#3465a4"><title>West Highland Way (Corporate)</title></circle></a><a href="/variants/s11/g32w2g2y3g2w2g2k16lb2db16w3~x2/"><circle cx="167.8" cy="99.6" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><a href="/variants/s13/g18dr1g2dr2g16dr1k16n1k2dr2b20dr1w2~x4/"><circle cx="164.0" cy="94.6" r="4" fill="#3465a4"><title>Canadian Estate</title></circle></a><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/"><circle cx="215.6" cy="82.4" r="4" fill="#3465a4"><title>Lusk (Personal)</title></circle></a><a href="/variants/s7/lb6db17dp4db2k11g33y4~x2/"><circle cx="158.6" cy="142.4" r="4" fill="#3465a4"><title>East Lothian</title></circle></a><circle cx="192.2" cy="115.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g4dr2g20db8k8db4lb1lo2k1~x2/

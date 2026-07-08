@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Hose"
   url: "/tartans/hose/"
+- name: "Hose (Dunmore)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r13k1w13/)
 (the same proportion at any scale), whose colour order is pattern [RKW](/stripes/rkw/).
@@ -14,7 +16,7 @@ Part of the [Hose](/tartans/hose/) tartan — the named design grouping this set
 
 Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1769
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1769](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1769)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/w37k2r36~x2/"><circle cx="302.3" cy="219.2" r="4" fill="#3465a4"><title>Hose</title></circle></a><a href="/variants/s3/r35w94k6/"><circle cx="390.3" cy="208.6" r="4" fill="#3465a4"><title>St Georges Check</title></circle></a><a href="/variants/s4/r25k13w8db5~x2/"><circle cx="169.2" cy="239.2" r="4" fill="#3465a4"><title>Hamby Sport (Personal)</title></circle></a><a href="/variants/s4/k5w37r37w5~x2/"><circle cx="271.4" cy="236.0" r="4" fill="#3465a4"><title>MacRae of Conchra #2</title></circle></a><a href="/variants/s5/k3r28k10w28lb3~x2/"><circle cx="161.2" cy="192.4" r="4" fill="#3465a4"><title>Wallace Dress, Red (Dance)</title></circle></a><a href="/variants/s4/n25k4w8r16~x4/"><circle cx="202.9" cy="248.0" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/variants/s3/r24dp16w3~x4/"><circle cx="350.4" cy="274.5" r="4" fill="#3465a4"><title>National Autistic Society Scotland</title></circle></a><a href="/variants/s3/w9r20db2~x2/"><circle cx="382.8" cy="247.6" r="4" fill="#3465a4"><title>Masai Shuka 28 (Artefact)</title></circle></a><a href="/variants/s4/r80lb40k5lo6/"><circle cx="372.8" cy="183.0" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><a href="/variants/s4/r125k26lb20lo16/"><circle cx="341.6" cy="188.9" r="4" fill="#3465a4"><title>McPeek (Fashion)</title></circle></a><circle cx="279.9" cy="233.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/w37k2r36~x2/"><circle cx="302.4" cy="220.0" r="4" fill="#3465a4"><title>Hose</title></circle></a><a href="/variants/s3/r35w94k6/"><circle cx="390.5" cy="209.4" r="4" fill="#3465a4"><title>St Georges Check</title></circle></a><a href="/variants/s4/r25k13w8db5~x2/"><circle cx="169.4" cy="240.0" r="4" fill="#3465a4"><title>Hamby Sport (Personal)</title></circle></a><a href="/variants/s4/k5w37r37w5~x2/"><circle cx="271.6" cy="236.9" r="4" fill="#3465a4"><title>MacRae of Conchra #2</title></circle></a><a href="/variants/s5/k3r28k10w28lb3~x2/"><circle cx="161.3" cy="193.1" r="4" fill="#3465a4"><title>Wallace Dress, Red (Dance)</title></circle></a><a href="/variants/s4/n25k4w8r16~x4/"><circle cx="203.1" cy="248.8" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/variants/s3/r24dp16w3~x4/"><circle cx="350.6" cy="275.3" r="4" fill="#3465a4"><title>National Autistic Society Scotland</title></circle></a><a href="/variants/s3/w9r20db2~x2/"><circle cx="383.0" cy="248.5" r="4" fill="#3465a4"><title>Masai Shuka 28 (Artefact)</title></circle></a><a href="/variants/s4/r80lb40k5lo6/"><circle cx="372.9" cy="183.5" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><a href="/variants/s4/r125k26lb20lo16/"><circle cx="341.8" cy="189.5" r="4" fill="#3465a4"><title>McPeek (Fashion)</title></circle></a><circle cx="280.1" cy="234.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/r13k1w13~x4/

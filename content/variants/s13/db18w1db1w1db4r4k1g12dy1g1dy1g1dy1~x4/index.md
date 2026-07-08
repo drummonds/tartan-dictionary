@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Roach (2015)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1/)
 (the same proportion at any scale), whose colour order is pattern [BWBWBRKGGGGGG](/stripes/bwbwbrkgggggg/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11251
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11251](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11251)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/y3db2k1db24k2db2k2db2k2g8dp2g8k1w2~x2/"><circle cx="220.8" cy="73.0" r="4" fill="#3465a4"><title>Alexander-Johnstone (Personal)</title></circle></a><a href="/variants/s14/w2dg2r2dg16t2k13r2t2r2t32lb2k2t2w2~x2/"><circle cx="174.3" cy="78.8" r="4" fill="#3465a4"><title>Aberfeldy</title></circle></a><a href="/variants/s12/r8g2k2ly2k2y2k2g18db2g2db29k3~x2/"><circle cx="167.5" cy="94.9" r="4" fill="#3465a4"><title>Cats Winter (Fashion)</title></circle></a><a href="/variants/s11/db38w2db2k10g2y2g22k3r3k3r3~x2/"><circle cx="185.7" cy="85.1" r="4" fill="#3465a4"><title>Hunnisett, /Edinchip</title></circle></a><a href="/variants/s12/lr2db3k3g8dr6db2ly2k3lr2k6db32ly2~x2/"><circle cx="217.7" cy="87.4" r="4" fill="#3465a4"><title>Talisman (Fashion)</title></circle></a><a href="/variants/s12/db5r2y7r2db42g28k5db10k15g5w3r3/"><circle cx="182.1" cy="95.7" r="4" fill="#3465a4"><title>Héritage Séquane</title></circle></a><a href="/variants/s12/db40y4k3w2k3w2k3g10r6k2r4w2~x2/"><circle cx="200.3" cy="65.9" r="4" fill="#3465a4"><title>MacBeth #2</title></circle></a><a href="/variants/s12/db5r2ly7r2db42g28k5db10k15g5w3r3/"><circle cx="174.7" cy="93.5" r="4" fill="#3465a4"><title>Heritage Sequane</title></circle></a><a href="/variants/s11/dr2g32lo2g2k3db2lo2db28w2db2w2~x2~db1106275-w3600000/"><circle cx="203.1" cy="90.1" r="4" fill="#3465a4"><title>Pringle Personal Tartan</title></circle></a><a href="/variants/s11/r2k1db30k6g12y1db2y1g12k3w1~x2/"><circle cx="218.6" cy="76.0" r="4" fill="#3465a4"><title>Hororata</title></circle></a><circle cx="222.0" cy="82.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/y3db2k1db24k2db2k2db2k2g8dp2g8k1w2~x2/"><circle cx="220.7" cy="73.1" r="4" fill="#3465a4"><title>Alexander-Johnstone (Personal)</title></circle></a><a href="/variants/s14/w2dg2r2dg16t2k13r2t2r2t32lb2k2t2w2~x2/"><circle cx="174.2" cy="78.9" r="4" fill="#3465a4"><title>Aberfeldy</title></circle></a><a href="/variants/s12/r8g2k2ly2k2y2k2g18db2g2db29k3~x2/"><circle cx="167.4" cy="95.0" r="4" fill="#3465a4"><title>Cats Winter (Fashion)</title></circle></a><a href="/variants/s11/db38w2db2k10g2y2g22k3r3k3r3~x2/"><circle cx="185.5" cy="85.2" r="4" fill="#3465a4"><title>Hunnisett, /Edinchip</title></circle></a><a href="/variants/s12/lr2db3k3g8dr6db2ly2k3lr2k6db32ly2~x2/"><circle cx="217.6" cy="87.5" r="4" fill="#3465a4"><title>Talisman (Fashion)</title></circle></a><a href="/variants/s12/db5r2y7r2db42g28k5db10k15g5w3r3/"><circle cx="181.9" cy="95.9" r="4" fill="#3465a4"><title>Héritage Séquane</title></circle></a><a href="/variants/s12/db40y4k3w2k3w2k3g10r6k2r4w2~x2/"><circle cx="200.1" cy="66.0" r="4" fill="#3465a4"><title>MacBeth #2</title></circle></a><a href="/variants/s12/db5r2ly7r2db42g28k5db10k15g5w3r3/"><circle cx="174.6" cy="93.7" r="4" fill="#3465a4"><title>Heritage Sequane</title></circle></a><a href="/variants/s11/dr2g32lo2g2k3db2lo2db28w2db2w2~x2~db1106275-w3600000/"><circle cx="203.0" cy="90.2" r="4" fill="#3465a4"><title>Pringle Personal Tartan</title></circle></a><a href="/variants/s11/r2k1db30k6g12y1db2y1g12k3w1~x2/"><circle cx="218.5" cy="76.1" r="4" fill="#3465a4"><title>Hororata</title></circle></a><circle cx="221.8" cy="82.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/

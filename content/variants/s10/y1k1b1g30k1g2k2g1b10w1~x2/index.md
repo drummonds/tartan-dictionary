@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Celtic F.C."
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y1k1b1g30k1g2k2g1b10w1/)
 (the same proportion at any scale), whose colour order is pattern [GKBGKGKGBW](/stripes/gkbgkgkgbw/).
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g64k3g20w2r3k2r3w2g2db18k2r4w2g3~x2/"><circle cx="375.1" cy="58.2" r="4" fill="#3465a4"><title>MacFarlane, hunting</title></circle></a><a href="/variants/s10/y1k1g1dg30k1dg2k2dg1g10w1~x2~g2408144-dg1806142/"><circle cx="416.9" cy="93.3" r="4" fill="#3465a4"><title>Celtic F.C. Corporate Tartan</title></circle></a><a href="/variants/s10/dg67k2dg2k2dg2y8r8k8y2lb7~x2/"><circle cx="381.1" cy="66.9" r="4" fill="#3465a4"><title>Moran (French) (Name)</title></circle></a><a href="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2/"><circle cx="343.6" cy="57.3" r="4" fill="#3465a4"><title>Sillars (Name)</title></circle></a><a href="/variants/s13/dr4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/"><circle cx="351.6" cy="105.2" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/variants/s10/g53dg5y5dg9k5w5dg2g7dg1y2~x2/"><circle cx="382.1" cy="73.9" r="4" fill="#3465a4"><title>Irish National</title></circle></a><a href="/variants/s15/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/"><circle cx="345.7" cy="100.9" r="4" fill="#3465a4"><title>Kennedy #2</title></circle></a><a href="/variants/s8/g44k2g2k2g3k12db10r3~x2/"><circle cx="334.3" cy="119.3" r="4" fill="#3465a4"><title>Celtic (New) Corporate Sport Tartan</title></circle></a><a href="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="341.4" cy="56.5" r="4" fill="#3465a4"><title>Princess Mary #2</title></circle></a><a href="/variants/s12/g70db3k9w4k4dp4k3db12g9k4g4y4~x2/"><circle cx="307.3" cy="63.7" r="4" fill="#3465a4"><title>Canmore Highland Games (Corporate)</title></circle></a><circle cx="385.5" cy="81.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/g64k3g20w2r3k2r3w2g2db18k2r4w2g3~x2/"><circle cx="375.0" cy="58.3" r="4" fill="#3465a4"><title>MacFarlane, hunting</title></circle></a><a href="/variants/s10/y1k1g1dg30k1dg2k2dg1g10w1~x2~g2408144-dg1806142/"><circle cx="416.8" cy="93.3" r="4" fill="#3465a4"><title>Celtic F.C. Corporate Tartan</title></circle></a><a href="/variants/s10/dg67k2dg2k2dg2y8r8k8y2lb7~x2/"><circle cx="381.0" cy="66.9" r="4" fill="#3465a4"><title>Moran (French) (Name)</title></circle></a><a href="/variants/s12/g64k4db9dy2db4dy2db4g11r8db2r4w3~x2/"><circle cx="343.5" cy="57.3" r="4" fill="#3465a4"><title>Sillars (Name)</title></circle></a><a href="/variants/s13/dr4g40db12lo2db12g30k2g4k2g4lo2g3k3~x2/"><circle cx="351.5" cy="105.4" r="4" fill="#3465a4"><title>Bartlett from Winnetka, Illinois</title></circle></a><a href="/variants/s10/g53dg5y5dg9k5w5dg2g7dg1y2~x2/"><circle cx="382.0" cy="74.0" r="4" fill="#3465a4"><title>Irish National</title></circle></a><a href="/variants/s15/y8g77db18k7db9k6db18g64r4g5r4g9y4g5r6/"><circle cx="345.6" cy="101.1" r="4" fill="#3465a4"><title>Kennedy #2</title></circle></a><a href="/variants/s8/g44k2g2k2g3k12db10r3~x2/"><circle cx="334.2" cy="119.5" r="4" fill="#3465a4"><title>Celtic (New) Corporate Sport Tartan</title></circle></a><a href="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="341.2" cy="56.6" r="4" fill="#3465a4"><title>Princess Mary #2</title></circle></a><a href="/variants/s12/g70db3k9w4k4dp4k3db12g9k4g4y4~x2/"><circle cx="307.1" cy="63.8" r="4" fill="#3465a4"><title>Canmore Highland Games (Corporate)</title></circle></a><circle cx="385.4" cy="81.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/y1k1b1g30k1g2k2g1b10w1~x2/

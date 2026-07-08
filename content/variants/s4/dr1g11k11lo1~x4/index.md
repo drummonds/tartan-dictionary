@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Brooks Brothers"
   url: "/tartans/brooks-brothers-2/"
+- name: "Brooks Brothers (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr1g11k11lo1/)
 (the same proportion at any scale), whose colour order is pattern [BGKY](/stripes/bgky/).
@@ -14,7 +16,7 @@ Part of the [Brooks Brothers](/tartans/brooks-brothers-2/) tartan — the named 
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3736
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3736](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3736)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r1g11k11y1~x4/"><circle cx="230.3" cy="205.0" r="4" fill="#3465a4"><title>Brooks Brothers</title></circle></a><a href="/variants/s3/k11g16dr2~x4/"><circle cx="266.4" cy="265.5" r="4" fill="#3465a4"><title>Kincaid of Kincaid (Clan)</title></circle></a><a href="/variants/s3/k6y1g6~x4/"><circle cx="200.8" cy="254.0" r="4" fill="#3465a4"><title>Wilson's No.197</title></circle></a><a href="/variants/s3/g5k6lb1~x4/"><circle cx="222.3" cy="280.8" r="4" fill="#3465a4"><title>Wilson's, No 50</title></circle></a><a href="/variants/s5/g37k22w4r15y3~x2/"><circle cx="172.2" cy="181.8" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s4/k7y1g7lb1~x2/"><circle cx="190.3" cy="230.0" r="4" fill="#3465a4"><title>Wilson's, No 140</title></circle></a><a href="/variants/s4/k7w1g7lb1~x2/"><circle cx="193.7" cy="234.9" r="4" fill="#3465a4"><title>Wilson's No.079</title></circle></a><a href="/variants/s4/k11dp4lb1g9~x4/"><circle cx="190.3" cy="224.7" r="4" fill="#3465a4"><title>Wilson's, No 228</title></circle></a><a href="/variants/s4/k4g33k33y4~x2/"><circle cx="256.2" cy="232.6" r="4" fill="#3465a4"><title>Wallace, hunting</title></circle></a><a href="/variants/s5/k6db4g44k41w4~x2/"><circle cx="233.3" cy="187.4" r="4" fill="#3465a4"><title>Douglas (alternative threadcount)</title></circle></a><circle cx="230.2" cy="205.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r1g11k11y1~x4/"><circle cx="230.4" cy="205.6" r="4" fill="#3465a4"><title>Brooks Brothers</title></circle></a><a href="/variants/s3/k11g16dr2~x4/"><circle cx="266.6" cy="266.3" r="4" fill="#3465a4"><title>Kincaid of Kincaid (Clan)</title></circle></a><a href="/variants/s3/k6y1g6~x4/"><circle cx="200.9" cy="254.8" r="4" fill="#3465a4"><title>Wilson's No.197</title></circle></a><a href="/variants/s3/g5k6lb1~x4/"><circle cx="222.5" cy="281.6" r="4" fill="#3465a4"><title>Wilson's, No 50</title></circle></a><a href="/variants/s5/g37k22w4r15y3~x2/"><circle cx="172.3" cy="182.3" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s4/k7y1g7lb1~x2/"><circle cx="190.3" cy="230.7" r="4" fill="#3465a4"><title>Wilson's, No 140</title></circle></a><a href="/variants/s4/k7w1g7lb1~x2/"><circle cx="193.8" cy="235.6" r="4" fill="#3465a4"><title>Wilson's No.079</title></circle></a><a href="/variants/s4/k11dp4lb1g9~x4/"><circle cx="190.4" cy="225.4" r="4" fill="#3465a4"><title>Wilson's, No 228</title></circle></a><a href="/variants/s4/k4g33k33y4~x2/"><circle cx="256.3" cy="233.3" r="4" fill="#3465a4"><title>Wallace, hunting</title></circle></a><a href="/variants/s5/k6db4g44k41w4~x2/"><circle cx="233.3" cy="187.9" r="4" fill="#3465a4"><title>Douglas (alternative threadcount)</title></circle></a><circle cx="230.2" cy="206.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/dr1g11k11lo1~x4/

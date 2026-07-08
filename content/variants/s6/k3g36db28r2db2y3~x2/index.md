@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Carmichael"
   url: "/tartans/carmichael/"
+- name: "Carmichael"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3g36db28r2db2y3/)
 (the same proportion at any scale), whose colour order is pattern [GBRBGK](/stripes/gbrbgk/).
@@ -14,7 +16,7 @@ Part of the [Carmichael](/tartans/carmichael/) tartan — the named design group
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="231.5" cy="174.7" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s5/g27db14k2db2y2~x4/"><circle cx="332.5" cy="189.6" r="4" fill="#3465a4"><title>Irving of Bonshaw</title></circle></a><a href="/variants/s7/dp6y2dp1g25db16k2db4~x2~dp1105325/"><circle cx="255.4" cy="141.7" r="4" fill="#3465a4"><title>Lowry Clan Tartan</title></circle></a><a href="/variants/s7/dp6dy2dp1g25db16k2db4~x2~dp1105325/"><circle cx="256.8" cy="142.0" r="4" fill="#3465a4"><title>Lawrie Clan Tartan</title></circle></a><a href="/variants/s5/g18db9k1db1w1~x4/"><circle cx="348.9" cy="170.8" r="4" fill="#3465a4"><title>Irvine</title></circle></a><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/"><circle cx="203.4" cy="123.8" r="4" fill="#3465a4"><title>MacNeil 3</title></circle></a><a href="/variants/s6/r1g9db9k1db1w1~x6/"><circle cx="218.7" cy="179.0" r="4" fill="#3465a4"><title>Irving of Glentulchan</title></circle></a><a href="/variants/s7/k2dbi2g16db2y1db13w2~x2~dbi1406275-db1204274/"><circle cx="199.3" cy="137.9" r="4" fill="#3465a4"><title>Wishart Hunting Family Tartan</title></circle></a><a href="/variants/s7/k2dbi2g16db2y1db13w2~x2~dbi1604274-db0805267/"><circle cx="185.6" cy="134.3" r="4" fill="#3465a4"><title>Wishart, hunting</title></circle></a><a href="/variants/s5/g12lo1db8k1db1~x4/"><circle cx="292.6" cy="195.0" r="4" fill="#3465a4"><title>Rowan (Personal)</title></circle></a><circle cx="278.6" cy="150.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="231.5" cy="175.0" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s5/g27db14k2db2y2~x4/"><circle cx="332.5" cy="190.0" r="4" fill="#3465a4"><title>Irving of Bonshaw</title></circle></a><a href="/variants/s7/dp6y2dp1g25db16k2db4~x2~dp1105325/"><circle cx="255.3" cy="141.9" r="4" fill="#3465a4"><title>Lowry Clan Tartan</title></circle></a><a href="/variants/s7/dp6dy2dp1g25db16k2db4~x2~dp1105325/"><circle cx="256.8" cy="142.2" r="4" fill="#3465a4"><title>Lawrie Clan Tartan</title></circle></a><a href="/variants/s5/g18db9k1db1w1~x4/"><circle cx="348.9" cy="171.2" r="4" fill="#3465a4"><title>Irvine</title></circle></a><a href="/variants/s8/g45w2r3k15r3db15r3db15~x2/"><circle cx="203.3" cy="124.1" r="4" fill="#3465a4"><title>MacNeil 3</title></circle></a><a href="/variants/s6/r1g9db9k1db1w1~x6/"><circle cx="218.7" cy="179.4" r="4" fill="#3465a4"><title>Irving of Glentulchan</title></circle></a><a href="/variants/s7/k2dbi2g16db2y1db13w2~x2~dbi1406275-db1204274/"><circle cx="199.2" cy="138.1" r="4" fill="#3465a4"><title>Wishart Hunting Family Tartan</title></circle></a><a href="/variants/s7/k2dbi2g16db2y1db13w2~x2~dbi1604274-db0805267/"><circle cx="185.5" cy="134.6" r="4" fill="#3465a4"><title>Wishart, hunting</title></circle></a><a href="/variants/s5/g12lo1db8k1db1~x4/"><circle cx="292.7" cy="195.5" r="4" fill="#3465a4"><title>Rowan (Personal)</title></circle></a><circle cx="278.5" cy="150.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k3g36db28r2db2y3~x2/

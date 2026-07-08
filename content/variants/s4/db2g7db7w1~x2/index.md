@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified No 78"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2g7db7w1/)
 (the same proportion at any scale), whose colour order is pattern [BGBW](/stripes/bgbw/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4332
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4332](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4332)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w4g28db18r4db18y3~x2/"><circle cx="235.9" cy="214.5" r="4" fill="#3465a4"><title>MacIntyre, Inglis</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="221.3" cy="261.7" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s5/db11g2db15g18w2~x2/"><circle cx="341.1" cy="271.6" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/variants/s4/w2g13b13w2~x6/"><circle cx="300.7" cy="299.1" r="4" fill="#3465a4"><title>Dunoon</title></circle></a><a href="/variants/s3/db13r2g13~x2/"><circle cx="266.1" cy="273.7" r="4" fill="#3465a4"><title>Wilson's No.062</title></circle></a><a href="/variants/s6/r5db25w5db3g25db3~x2/"><circle cx="248.0" cy="216.7" r="4" fill="#3465a4"><title>Thayer USA (Name)</title></circle></a><a href="/variants/s6/r5t25w5t3dg25t3~x2/"><circle cx="268.7" cy="224.5" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/variants/s5/db5g2db5g8w1~x8/"><circle cx="303.2" cy="288.2" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/variants/s4/db18w4db3y12~x2/"><circle cx="320.5" cy="287.7" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><a href="/variants/s5/dr7y3g28db28w3~x2/"><circle cx="238.2" cy="230.0" r="4" fill="#3465a4"><title>Turnbull Hunting</title></circle></a><circle cx="322.9" cy="292.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w4g28db18r4db18y3~x2/"><circle cx="236.0" cy="215.0" r="4" fill="#3465a4"><title>MacIntyre, Inglis</title></circle></a><a href="/variants/s4/r1g6db6w1~x4/"><circle cx="221.5" cy="262.4" r="4" fill="#3465a4"><title>Salt Spring Island</title></circle></a><a href="/variants/s5/db11g2db15g18w2~x2/"><circle cx="341.2" cy="272.2" r="4" fill="#3465a4"><title>Hamilton Hunting</title></circle></a><a href="/variants/s4/w2g13b13w2~x6/"><circle cx="301.0" cy="299.9" r="4" fill="#3465a4"><title>Dunoon</title></circle></a><a href="/variants/s3/db13r2g13~x2/"><circle cx="266.3" cy="274.4" r="4" fill="#3465a4"><title>Wilson's No.062</title></circle></a><a href="/variants/s6/r5db25w5db3g25db3~x2/"><circle cx="248.1" cy="217.2" r="4" fill="#3465a4"><title>Thayer USA (Name)</title></circle></a><a href="/variants/s6/r5t25w5t3dg25t3~x2/"><circle cx="268.8" cy="225.0" r="4" fill="#3465a4"><title>Thayer USA</title></circle></a><a href="/variants/s5/db5g2db5g8w1~x8/"><circle cx="303.4" cy="288.9" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/variants/s4/db18w4db3y12~x2/"><circle cx="320.7" cy="288.5" r="4" fill="#3465a4"><title>Genesee Community College</title></circle></a><a href="/variants/s5/dr7y3g28db28w3~x2/"><circle cx="238.3" cy="230.5" r="4" fill="#3465a4"><title>Turnbull Hunting</title></circle></a><circle cx="323.1" cy="293.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/db2g7db7w1~x2/

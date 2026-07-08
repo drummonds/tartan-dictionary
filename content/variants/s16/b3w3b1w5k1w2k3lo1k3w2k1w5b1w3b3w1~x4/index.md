@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Henderson Dress (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1/)
 (the same proportion at any scale), whose colour order is pattern [BWBWKWKYKWKWBWBW](/stripes/bwbwkwkykwkwbwbw/).
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1684
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1684](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1684)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w1b3w3b1w5k1w2k3lo1~x4/"><circle cx="179.7" cy="224.6" r="4" fill="#3465a4"><title>Henderson Dress (Dance)</title></circle></a><a href="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/"><circle cx="190.5" cy="193.5" r="4" fill="#3465a4"><title>Dijkgraaf, Markus Jack (Personal)</title></circle></a><a href="/variants/s13/w2r1w8n2k2w1n1w1n4w2k1w1r1~x4/"><circle cx="218.7" cy="160.8" r="4" fill="#3465a4"><title>Balmoral (Ghillies white variation)</title></circle></a><a href="/variants/s8/w13r3w2k5w2r3w13db8~x2/"><circle cx="239.0" cy="204.9" r="4" fill="#3465a4"><title>Boswell Dress Personal Tartan</title></circle></a><a href="/variants/s13/w25k8w8k8w8k46w46y8w46k46w46k8w8/"><circle cx="256.7" cy="199.3" r="4" fill="#3465a4"><title>Poulter SG ? Black &amp; white (Fashion)</title></circle></a><circle cx="163.5" cy="204.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w1b3w3b1w5k1w2k3lo1~x4/"><circle cx="179.9" cy="225.4" r="4" fill="#3465a4"><title>Henderson Dress (Dance)</title></circle></a><a href="/variants/s10/w5k5w10r2w10dp8w15dp8lb3k3~x2/"><circle cx="190.6" cy="194.2" r="4" fill="#3465a4"><title>Dijkgraaf, Markus Jack (Personal)</title></circle></a><a href="/variants/s13/w2r1w8n2k2w1n1w1n4w2k1w1r1~x4/"><circle cx="218.7" cy="161.4" r="4" fill="#3465a4"><title>Balmoral (Ghillies white variation)</title></circle></a><a href="/variants/s8/w13r3w2k5w2r3w13db8~x2/"><circle cx="239.1" cy="205.6" r="4" fill="#3465a4"><title>Boswell Dress Personal Tartan</title></circle></a><a href="/variants/s13/w25k8w8k8w8k46w46y8w46k46w46k8w8/"><circle cx="256.8" cy="200.1" r="4" fill="#3465a4"><title>Poulter SG ? Black &amp; white (Fashion)</title></circle></a><circle cx="163.6" cy="205.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/b3w3b1w5k1w2k3lo1k3w2k1w5b1w3b3w1~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Granite City (Silver Granite) Fashion Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3g3k3g21dg21k3g1/)
 (the same proportion at any scale), whose colour order is pattern [GKGGKGK](/stripes/gkggkgk/).
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7459
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7459](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7459)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g4k2g28k8dg21g3~x2/"><circle cx="298.7" cy="203.3" r="4" fill="#3465a4"><title>Dunbar Hunting</title></circle></a><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/"><circle cx="241.5" cy="181.1" r="4" fill="#3465a4"><title>John Telfar Dunbar Hunting</title></circle></a><a href="/variants/s6/k5dg25k10g15y1g5~x2/"><circle cx="229.9" cy="177.6" r="4" fill="#3465a4"><title>Delaware Fine Spirits Guild (Corp)</title></circle></a><a href="/variants/s6/k10dg25k10g15y1g5~x2/"><circle cx="206.3" cy="184.5" r="4" fill="#3465a4"><title>Delaware Fine Spirits Guild</title></circle></a><a href="/variants/s8/dg14k1dg2k1dg2k10g14r2/"><circle cx="198.8" cy="170.4" r="4" fill="#3465a4"><title>Manor (Corporate)</title></circle></a><a href="/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/"><circle cx="346.2" cy="168.2" r="4" fill="#3465a4"><title>Donachie of Brockloch Ancient Hunting</title></circle></a><a href="/variants/s9/y24k2y3k2y3k8g24k2g5~x2/"><circle cx="239.2" cy="178.5" r="4" fill="#3465a4"><title>Jamaican National</title></circle></a><a href="/variants/s5/g68k22n28dr3n12~x2/"><circle cx="284.5" cy="183.8" r="4" fill="#3465a4"><title>Herbage of Laggan (Personal)</title></circle></a><a href="/variants/s5/g25k8n10r1n3~x4/"><circle cx="296.7" cy="173.6" r="4" fill="#3465a4"><title>Herbage</title></circle></a><a href="/variants/s8/g2k3y1k3g2db8g16k1~x4/"><circle cx="272.4" cy="152.0" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><circle cx="287.5" cy="172.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g4k2g28k8dg21g3~x2/"><circle cx="298.8" cy="203.7" r="4" fill="#3465a4"><title>Dunbar Hunting</title></circle></a><a href="/variants/s7/g5k2g28k10dy26db4g4~x2/"><circle cx="241.5" cy="181.5" r="4" fill="#3465a4"><title>John Telfar Dunbar Hunting</title></circle></a><a href="/variants/s6/k5dg25k10g15y1g5~x2/"><circle cx="229.8" cy="178.0" r="4" fill="#3465a4"><title>Delaware Fine Spirits Guild (Corp)</title></circle></a><a href="/variants/s6/k10dg25k10g15y1g5~x2/"><circle cx="206.3" cy="184.9" r="4" fill="#3465a4"><title>Delaware Fine Spirits Guild</title></circle></a><a href="/variants/s8/dg14k1dg2k1dg2k10g14r2/"><circle cx="198.8" cy="170.8" r="4" fill="#3465a4"><title>Manor (Corporate)</title></circle></a><a href="/variants/s10/dy10g1k1g1k1g11dy18g1k1g10~x4/"><circle cx="346.2" cy="168.5" r="4" fill="#3465a4"><title>Donachie of Brockloch Ancient Hunting</title></circle></a><a href="/variants/s9/y24k2y3k2y3k8g24k2g5~x2/"><circle cx="239.3" cy="178.9" r="4" fill="#3465a4"><title>Jamaican National</title></circle></a><a href="/variants/s5/g68k22n28dr3n12~x2/"><circle cx="284.5" cy="184.2" r="4" fill="#3465a4"><title>Herbage of Laggan (Personal)</title></circle></a><a href="/variants/s5/g25k8n10r1n3~x4/"><circle cx="296.7" cy="174.0" r="4" fill="#3465a4"><title>Herbage</title></circle></a><a href="/variants/s8/g2k3y1k3g2db8g16k1~x4/"><circle cx="272.4" cy="152.3" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><circle cx="287.5" cy="172.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k3g3k3g21dg21k3g1~x2/

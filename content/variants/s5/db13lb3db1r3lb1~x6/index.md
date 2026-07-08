@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/glen/"
 - name: "Glen Moy"
   url: "/tartans/glen-moy-2/"
+- name: "Glen Moy"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db13lb3db1r3lb1/)
 (the same proportion at any scale), whose colour order is pattern [BWBRW](/stripes/bwbrw/).
@@ -16,7 +18,7 @@ Part of the [Glen Moy](/tartans/glen-moy-2/) tartan — the named design groupin
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1387
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1387](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1387)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y5db15lb5db5lb40y3~x2/"><circle cx="388.5" cy="207.3" r="4" fill="#3465a4"><title>Legary</title></circle></a><a href="/variants/s5/db100lb10k5lb10r8/"><circle cx="463.9" cy="143.4" r="4" fill="#3465a4"><title>Waugh</title></circle></a><a href="/variants/s6/db13lb1db3lb6y1lb1~x4/"><circle cx="414.5" cy="214.3" r="4" fill="#3465a4"><title>Hepburn #2</title></circle></a><a href="/variants/s5/db68lb7db16k16ly4~x2/"><circle cx="445.5" cy="167.6" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/variants/s6/db128r8lb41n4lb4n4/"><circle cx="437.9" cy="127.6" r="4" fill="#3465a4"><title>French Freemasons' Pride (Fashion)</title></circle></a><a href="/variants/s5/db37w9db3r9w3~x2/"><circle cx="372.6" cy="197.6" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s7/db14r6db52lb4db4lb51y8/"><circle cx="288.4" cy="179.7" r="4" fill="#3465a4"><title>International Police Association (IPA 2010)</title></circle></a><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/"><circle cx="287.4" cy="179.5" r="4" fill="#3465a4"><title>Int. Police Association (Official)</title></circle></a><a href="/variants/s6/lb28db15r2db2w1db6~x2/"><circle cx="334.6" cy="153.7" r="4" fill="#3465a4"><title>Corries</title></circle></a><a href="/variants/s7/lb5db30k25lb5db30dp2lb5~x2/"><circle cx="292.5" cy="174.4" r="4" fill="#3465a4"><title>Van Loo (Personal)</title></circle></a><circle cx="405.8" cy="200.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y5db15lb5db5lb40y3~x2/"><circle cx="388.6" cy="207.9" r="4" fill="#3465a4"><title>Legary</title></circle></a><a href="/variants/s5/db100lb10k5lb10r8/"><circle cx="463.9" cy="143.7" r="4" fill="#3465a4"><title>Waugh</title></circle></a><a href="/variants/s6/db13lb1db3lb6y1lb1~x4/"><circle cx="414.6" cy="214.8" r="4" fill="#3465a4"><title>Hepburn #2</title></circle></a><a href="/variants/s5/db68lb7db16k16ly4~x2/"><circle cx="445.5" cy="167.9" r="4" fill="#3465a4"><title>Burnetts &amp; Struth</title></circle></a><a href="/variants/s6/db128r8lb41n4lb4n4/"><circle cx="437.9" cy="127.8" r="4" fill="#3465a4"><title>French Freemasons' Pride (Fashion)</title></circle></a><a href="/variants/s5/db37w9db3r9w3~x2/"><circle cx="372.6" cy="198.1" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s7/db14r6db52lb4db4lb51y8/"><circle cx="288.5" cy="180.2" r="4" fill="#3465a4"><title>International Police Association (IPA 2010)</title></circle></a><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/"><circle cx="287.5" cy="180.0" r="4" fill="#3465a4"><title>Int. Police Association (Official)</title></circle></a><a href="/variants/s6/lb28db15r2db2w1db6~x2/"><circle cx="334.6" cy="154.1" r="4" fill="#3465a4"><title>Corries</title></circle></a><a href="/variants/s7/lb5db30k25lb5db30dp2lb5~x2/"><circle cx="292.5" cy="174.8" r="4" fill="#3465a4"><title>Van Loo (Personal)</title></circle></a><circle cx="405.9" cy="200.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db13lb3db1r3lb1~x6/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Harding (Florida) (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db13r50y7o6g4k4/)
 (the same proportion at any scale), whose colour order is pattern [BRGRGK](/stripes/brgrgk/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6874
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6874](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6874)
 
 ## Provenance
 
@@ -68,8 +70,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dg4lb4k2r15ly4~x4/"><circle cx="206.7" cy="190.6" r="4" fill="#3465a4"><title>Benedict (Personal)</title></circle></a><a href="/variants/s6/r48db16y5g17w8k3~x2/"><circle cx="205.7" cy="134.2" r="4" fill="#3465a4"><title>Scottish American Society of Michigan (Official)</title></circle></a><a href="/variants/s6/t6dp5k2g18r28w2~x2/"><circle cx="209.1" cy="148.1" r="4" fill="#3465a4"><title>Dundhuin Ladies (Personal)</title></circle></a><a href="/variants/s10/r50y7o6g4k4g4o6y7r50db13~x2/"><circle cx="366.9" cy="119.6" r="4" fill="#3465a4"><title>Harding (Florida) (Personal)</title></circle></a><a href="/variants/s5/r50k25dg10n5ly2~x2/"><circle cx="272.2" cy="127.7" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s5/r50k25g10n5y2~x2/"><circle cx="269.0" cy="127.4" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s7/r30db12k3g12y2g3w2~x2/"><circle cx="203.2" cy="127.8" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><a href="/variants/s6/r25db7r3g13lb1k2~x4/"><circle cx="292.4" cy="129.5" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s5/r62db8w20k3g4~x2/"><circle cx="338.2" cy="122.7" r="4" fill="#3465a4"><title>Nicolson Dress (Clan)</title></circle></a><a href="/variants/s7/k2g6do4lb1r18do5ly1~x4/"><circle cx="235.0" cy="123.1" r="4" fill="#3465a4"><title>Snelgrove (Name)</title></circle></a><circle cx="304.6" cy="131.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dg4lb4k2r15ly4~x4/"><circle cx="206.8" cy="191.2" r="4" fill="#3465a4"><title>Benedict (Personal)</title></circle></a><a href="/variants/s6/r48db16y5g17w8k3~x2/"><circle cx="205.7" cy="134.5" r="4" fill="#3465a4"><title>Scottish American Society of Michigan (Official)</title></circle></a><a href="/variants/s6/t6dp5k2g18r28w2~x2/"><circle cx="209.1" cy="148.5" r="4" fill="#3465a4"><title>Dundhuin Ladies (Personal)</title></circle></a><a href="/variants/s10/r50y7o6g4k4g4o6y7r50db13~x2/"><circle cx="366.9" cy="119.8" r="4" fill="#3465a4"><title>Harding (Florida) (Personal)</title></circle></a><a href="/variants/s5/r50k25dg10n5ly2~x2/"><circle cx="272.2" cy="128.1" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s5/r50k25g10n5y2~x2/"><circle cx="269.0" cy="127.8" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s7/r30db12k3g12y2g3w2~x2/"><circle cx="203.2" cy="128.1" r="4" fill="#3465a4"><title>Hewitt (Name)</title></circle></a><a href="/variants/s6/r25db7r3g13lb1k2~x4/"><circle cx="292.4" cy="129.8" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s5/r62db8w20k3g4~x2/"><circle cx="338.2" cy="123.1" r="4" fill="#3465a4"><title>Nicolson Dress (Clan)</title></circle></a><a href="/variants/s7/k2g6do4lb1r18do5ly1~x4/"><circle cx="235.0" cy="123.4" r="4" fill="#3465a4"><title>Snelgrove (Name)</title></circle></a><circle cx="304.5" cy="132.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db13r50y7o6g4k4~x2/

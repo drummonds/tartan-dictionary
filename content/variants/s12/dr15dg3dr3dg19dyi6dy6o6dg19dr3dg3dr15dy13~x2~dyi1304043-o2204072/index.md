@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Maple Leaf (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr15dg3dr3dg19dyi6dy6o6dg19dr3dg3dr15dy13/)
 (the same proportion at any scale), whose colour order is pattern [BGBGGGRGBGBG](/stripes/bgbgggrgbgbg/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2034
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2034](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2034)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

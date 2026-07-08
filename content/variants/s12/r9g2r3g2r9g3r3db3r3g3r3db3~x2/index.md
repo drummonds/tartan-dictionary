@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Early 18th Centuary #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r9g2r3g2r9g3r3db3r3g3r3db3/)
 (the same proportion at any scale), whose colour order is pattern [BRGRBRGRGRGR](/stripes/brgrbrgrgrgr/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4292
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4292](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4292)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x6/"><circle cx="275.8" cy="169.9" r="4" fill="#3465a4"><title>Nicolson (McIan)</title></circle></a><a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x2/"><circle cx="275.8" cy="169.9" r="4" fill="#3465a4"><title>Nicolson, MacNicol</title></circle></a><a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1/"><circle cx="275.8" cy="169.9" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/variants/s12/r36dg4r13dg13r4dg4r4dg13r13dg4r36lo4~x2/"><circle cx="451.1" cy="188.4" r="4" fill="#3465a4"><title>Wolfe</title></circle></a><a href="/variants/s12/r2g2r2g8r2g2r2db2r11y1r4y1~x4/"><circle cx="353.8" cy="178.3" r="4" fill="#3465a4"><title>Burns 1930</title></circle></a><a href="/variants/s12/r3g3r3g14r3g3r3db5r18y2r8y2~x2/"><circle cx="325.7" cy="186.5" r="4" fill="#3465a4"><title>Burns</title></circle></a><a href="/variants/s11/r10g2r20g16dbi3g16r3db8r20g2r10~x2~dbi1406275-db1004274/"><circle cx="312.9" cy="200.5" r="4" fill="#3465a4"><title>Peacock, Grahame (Name)</title></circle></a><a href="/variants/s12/r6g1r6k4r1w1r1g8r6k1r6g1/"><circle cx="272.8" cy="169.0" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/variants/s13/r5t3r24g7db6r3g3r3g11r6db3r3t3~x2/"><circle cx="294.6" cy="182.7" r="4" fill="#3465a4"><title>Dabney Red (Personal)</title></circle></a><a href="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/"><circle cx="376.8" cy="159.6" r="4" fill="#3465a4"><title>MacColl</title></circle></a><circle cx="340.9" cy="243.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x6/"><circle cx="275.9" cy="170.5" r="4" fill="#3465a4"><title>Nicolson (McIan)</title></circle></a><a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1~x2/"><circle cx="275.9" cy="170.5" r="4" fill="#3465a4"><title>Nicolson, MacNicol</title></circle></a><a href="/variants/s12/r6g1r6k4r1lb1r1g8r6k1r6g1/"><circle cx="275.9" cy="170.5" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/variants/s12/r36dg4r13dg13r4dg4r4dg13r13dg4r36lo4~x2/"><circle cx="451.2" cy="188.9" r="4" fill="#3465a4"><title>Wolfe</title></circle></a><a href="/variants/s12/r2g2r2g8r2g2r2db2r11y1r4y1~x4/"><circle cx="353.8" cy="178.7" r="4" fill="#3465a4"><title>Burns 1930</title></circle></a><a href="/variants/s12/r3g3r3g14r3g3r3db5r18y2r8y2~x2/"><circle cx="325.8" cy="186.9" r="4" fill="#3465a4"><title>Burns</title></circle></a><a href="/variants/s11/r10g2r20g16dbi3g16r3db8r20g2r10~x2~dbi1406275-db1004274/"><circle cx="313.0" cy="201.1" r="4" fill="#3465a4"><title>Peacock, Grahame (Name)</title></circle></a><a href="/variants/s12/r6g1r6k4r1w1r1g8r6k1r6g1/"><circle cx="272.9" cy="169.6" r="4" fill="#3465a4"><title>MacNicol</title></circle></a><a href="/variants/s13/r5t3r24g7db6r3g3r3g11r6db3r3t3~x2/"><circle cx="294.7" cy="183.2" r="4" fill="#3465a4"><title>Dabney Red (Personal)</title></circle></a><a href="/variants/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x4/"><circle cx="376.9" cy="160.0" r="4" fill="#3465a4"><title>MacColl</title></circle></a><circle cx="341.1" cy="244.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r9g2r3g2r9g3r3db3r3g3r3db3~x2/

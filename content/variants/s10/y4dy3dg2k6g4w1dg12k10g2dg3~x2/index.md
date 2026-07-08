@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Noble"
   url: "/tartans/noble/"
+- name: "Noble (South Africa) (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y4dy3dg2k6g4w1dg12k10g2dg3/)
 (the same proportion at any scale), whose colour order is pattern [GGGKGWGKGG](/stripes/gggkgwgkgg/).
@@ -14,7 +16,7 @@ Part of the [Noble](/tartans/noble/) tartan — the named design grouping this s
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10903
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10903](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10903)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/ly4dy3dg2k6g4w1dg12k10g2dg3~x2/"><circle cx="103.4" cy="154.1" r="4" fill="#3465a4"><title>Noble (South Africa) (Personal)</title></circle></a><a href="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1604274-db0805267/"><circle cx="79.0" cy="157.8" r="4" fill="#3465a4"><title>Gow, hunting</title></circle></a><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/"><circle cx="152.3" cy="176.4" r="4" fill="#3465a4"><title>Dunfermline Bank of Scotland (Corp)</title></circle></a><a href="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1605267-db0804274/"><circle cx="78.8" cy="157.8" r="4" fill="#3465a4"><title>Gow Hunting</title></circle></a><a href="/variants/s12/lr3k15db10o10k1g5k1y10k10g8k1db2~x2/"><circle cx="83.8" cy="133.4" r="4" fill="#3465a4"><title>Blue Castlefield</title></circle></a><a href="/variants/s9/r2y2t9k10dg12k1y1k1dy1~x4/"><circle cx="111.1" cy="139.1" r="4" fill="#3465a4"><title>Trades House</title></circle></a><a href="/variants/s15/dy5k2t6w1t6k2dy7k16g7k2dr4g2dr4k2g4~x2/"><circle cx="85.7" cy="124.0" r="4" fill="#3465a4"><title>Redgate Hunting #2 (Name)</title></circle></a><a href="/variants/s13/dg6dgi3dg22k2dg4k14dgi5k3lyi5k3dgi20k4ly4~x2~dgi1605139-lyi3104101-ly2705081/"><circle cx="142.2" cy="156.2" r="4" fill="#3465a4"><title>Celtic Football Club (2005)</title></circle></a><a href="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/"><circle cx="120.9" cy="136.9" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><a href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20y3~x2/"><circle cx="112.1" cy="134.1" r="4" fill="#3465a4"><title>Kelsey, William (Personal)</title></circle></a><circle cx="119.8" cy="159.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/ly4dy3dg2k6g4w1dg12k10g2dg3~x2/"><circle cx="103.3" cy="154.4" r="4" fill="#3465a4"><title>Noble (South Africa) (Personal)</title></circle></a><a href="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1604274-db0805267/"><circle cx="79.0" cy="158.1" r="4" fill="#3465a4"><title>Gow, hunting</title></circle></a><a href="/variants/s8/dg24k5dg6r6dg6k20t20w2~x2/"><circle cx="152.3" cy="176.8" r="4" fill="#3465a4"><title>Dunfermline Bank of Scotland (Corp)</title></circle></a><a href="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1605267-db0804274/"><circle cx="78.8" cy="158.1" r="4" fill="#3465a4"><title>Gow Hunting</title></circle></a><a href="/variants/s12/lr3k15db10o10k1g5k1y10k10g8k1db2~x2/"><circle cx="83.7" cy="133.7" r="4" fill="#3465a4"><title>Blue Castlefield</title></circle></a><a href="/variants/s9/r2y2t9k10dg12k1y1k1dy1~x4/"><circle cx="111.1" cy="139.4" r="4" fill="#3465a4"><title>Trades House</title></circle></a><a href="/variants/s15/dy5k2t6w1t6k2dy7k16g7k2dr4g2dr4k2g4~x2/"><circle cx="85.6" cy="124.2" r="4" fill="#3465a4"><title>Redgate Hunting #2 (Name)</title></circle></a><a href="/variants/s13/dg6dgi3dg22k2dg4k14dgi5k3lyi5k3dgi20k4ly4~x2~dgi1605139-lyi3104101-ly2705081/"><circle cx="142.1" cy="156.5" r="4" fill="#3465a4"><title>Celtic Football Club (2005)</title></circle></a><a href="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/"><circle cx="120.9" cy="137.2" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><a href="/variants/s12/g12r2g2r5g16db3n2k2n3db6k20y3~x2/"><circle cx="112.1" cy="134.4" r="4" fill="#3465a4"><title>Kelsey, William (Personal)</title></circle></a><circle cx="119.8" cy="159.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/y4dy3dg2k6g4w1dg12k10g2dg3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Millennium (Langholm) (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp35dt2dy1dt1lb1dt5dr2g5lo4/)
 (the same proportion at any scale), whose colour order is pattern [BBGBWBBGY](/stripes/bbgbwbbgy/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3474
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3474](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3474)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y3db38g7dp4lb5r5w3~x2/"><circle cx="276.7" cy="129.8" r="4" fill="#3465a4"><title>Blairgowrie Golf Club, The</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.7" cy="109.5" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s10/dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/"><circle cx="464.6" cy="150.2" r="4" fill="#3465a4"><title>Islay Whisky Club (Corporate)</title></circle></a><a href="/variants/s10/db18g1dy3g1lr1db1dr2g2dr2lr2~x4/"><circle cx="355.1" cy="133.6" r="4" fill="#3465a4"><title>Anthony Plaid Blue</title></circle></a><a href="/variants/s8/g5y2dp40w1db15w1db1w1~x2/"><circle cx="438.2" cy="111.9" r="4" fill="#3465a4"><title>Jackson (Personal)</title></circle></a><a href="/variants/s11/y2dg4db1dr3db3dg3g1dr32db14w3y2~x2/"><circle cx="347.5" cy="103.8" r="4" fill="#3465a4"><title>Banause-Zunft zu Olte</title></circle></a><a href="/variants/s8/dg5ly2dp40w1db15w1db1w1~x2/"><circle cx="451.3" cy="118.3" r="4" fill="#3465a4"><title>Jackson (Name)</title></circle></a><a href="/variants/s8/db46ly1y3dg13ly1dr7g3ly1~x2/"><circle cx="436.4" cy="106.4" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Association (Australia)</title></circle></a><a href="/variants/s6/g20dr10ly2db100w1y10/"><circle cx="478.5" cy="107.7" r="4" fill="#3465a4"><title>Ravetta (Name)</title></circle></a><a href="/variants/s8/db46ly1dy3dg13ly1dr7g3ly1~x2/"><circle cx="449.6" cy="111.1" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Assoc</title></circle></a><circle cx="406.3" cy="81.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y3db38g7dp4lb5r5w3~x2/"><circle cx="276.6" cy="130.0" r="4" fill="#3465a4"><title>Blairgowrie Golf Club, The</title></circle></a><a href="/variants/s6/w2dp2db25r3y3g1~x4/"><circle cx="403.6" cy="109.6" r="4" fill="#3465a4"><title>Pool, Robert David (Personal)</title></circle></a><a href="/variants/s10/dr30dgi4dp3lb3dgi4dr30dp3lb3dg4dy2~x2~dgi1805151/"><circle cx="464.6" cy="150.3" r="4" fill="#3465a4"><title>Islay Whisky Club (Corporate)</title></circle></a><a href="/variants/s10/db18g1dy3g1lr1db1dr2g2dr2lr2~x4/"><circle cx="355.0" cy="133.7" r="4" fill="#3465a4"><title>Anthony Plaid Blue</title></circle></a><a href="/variants/s8/g5y2dp40w1db15w1db1w1~x2/"><circle cx="438.2" cy="111.9" r="4" fill="#3465a4"><title>Jackson (Personal)</title></circle></a><a href="/variants/s11/y2dg4db1dr3db3dg3g1dr32db14w3y2~x2/"><circle cx="347.4" cy="103.7" r="4" fill="#3465a4"><title>Banause-Zunft zu Olte</title></circle></a><a href="/variants/s8/dg5ly2dp40w1db15w1db1w1~x2/"><circle cx="451.2" cy="118.3" r="4" fill="#3465a4"><title>Jackson (Name)</title></circle></a><a href="/variants/s8/db46ly1y3dg13ly1dr7g3ly1~x2/"><circle cx="436.3" cy="106.3" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Association (Australia)</title></circle></a><a href="/variants/s6/g20dr10ly2db100w1y10/"><circle cx="478.4" cy="107.7" r="4" fill="#3465a4"><title>Ravetta (Name)</title></circle></a><a href="/variants/s8/db46ly1dy3dg13ly1dr7g3ly1~x2/"><circle cx="449.5" cy="111.0" r="4" fill="#3465a4"><title>Victorian Highland Pipe Band Assoc</title></circle></a><circle cx="406.2" cy="80.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dp35dt2dy1dt1lb1dt5dr2g5lo4~x2/

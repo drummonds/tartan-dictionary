@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cummins Royal Blue, B (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k9db5w5k9db14k5w5k9w5k5db8/)
 (the same proportion at any scale), whose colour order is pattern [BKWKWKBKWBK](/stripes/bkwkwkbkwbk/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10729
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10729](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10729)
 
 ## Provenance
 
@@ -68,8 +70,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k9b5w5k9b14k5w5k9w5k5b8~x2/"><circle cx="118.4" cy="273.8" r="4" fill="#3465a4"><title>Cummins (Personal)</title></circle></a><a href="/variants/s11/k4lb4db14k15lb4k15lb4db7lb4db10lb4~x2/"><circle cx="134.8" cy="241.9" r="4" fill="#3465a4"><title>Clark (Clerke/Clergy/Priest)</title></circle></a><a href="/variants/s10/k10w7k8w7k8b14k4b14k16y2/"><circle cx="160.3" cy="209.7" r="4" fill="#3465a4"><title>Little of Morton Rig</title></circle></a><a href="/variants/s9/k4db10k2db2k4t5k6t6k4~x4/"><circle cx="168.4" cy="252.3" r="4" fill="#3465a4"><title>Saul (Personal)</title></circle></a><a href="/variants/s9/k4db1k1db1k1db4r2db4w2~x4/"><circle cx="160.1" cy="229.8" r="4" fill="#3465a4"><title>Broz Sanz Elementary (Corporate)</title></circle></a><a href="/variants/s16/db10k2db2k4t5k6t6k4t6k6t5k4db2k2db10k4~x4~db1406275/"><circle cx="142.4" cy="234.7" r="4" fill="#3465a4"><title>Saul (Personal)</title></circle></a><a href="/variants/s5/db3w3db5k6y1~x4/"><circle cx="107.9" cy="241.1" r="4" fill="#3465a4"><title>Kilmarnock Football Club (Old)</title></circle></a><a href="/variants/s8/db12k16g14k5g14k16db12g4~x2~db1406275/"><circle cx="121.6" cy="284.5" r="4" fill="#3465a4"><title>Norwich No.064</title></circle></a><a href="/variants/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/"><circle cx="154.4" cy="217.5" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s8/k8db8k2db2w2k5db5r2~x5/"><circle cx="161.3" cy="236.1" r="4" fill="#3465a4"><title>Lexington Fire Department</title></circle></a><circle cx="121.4" cy="273.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k9b5w5k9b14k5w5k9w5k5b8~x2/"><circle cx="118.5" cy="274.6" r="4" fill="#3465a4"><title>Cummins (Personal)</title></circle></a><a href="/variants/s11/k4lb4db14k15lb4k15lb4db7lb4db10lb4~x2/"><circle cx="134.9" cy="242.6" r="4" fill="#3465a4"><title>Clark (Clerke/Clergy/Priest)</title></circle></a><a href="/variants/s10/k10w7k8w7k8b14k4b14k16y2/"><circle cx="160.3" cy="210.3" r="4" fill="#3465a4"><title>Little of Morton Rig</title></circle></a><a href="/variants/s9/k4db10k2db2k4t5k6t6k4~x4/"><circle cx="168.5" cy="253.0" r="4" fill="#3465a4"><title>Saul (Personal)</title></circle></a><a href="/variants/s9/k4db1k1db1k1db4r2db4w2~x4/"><circle cx="160.2" cy="230.4" r="4" fill="#3465a4"><title>Broz Sanz Elementary (Corporate)</title></circle></a><a href="/variants/s16/db10k2db2k4t5k6t6k4t6k6t5k4db2k2db10k4~x4~db1406275/"><circle cx="142.5" cy="235.3" r="4" fill="#3465a4"><title>Saul (Personal)</title></circle></a><a href="/variants/s5/db3w3db5k6y1~x4/"><circle cx="108.0" cy="241.8" r="4" fill="#3465a4"><title>Kilmarnock Football Club (Old)</title></circle></a><a href="/variants/s8/db12k16g14k5g14k16db12g4~x2~db1406275/"><circle cx="121.8" cy="285.3" r="4" fill="#3465a4"><title>Norwich No.064</title></circle></a><a href="/variants/s11/k4w4db19k19w4k19w4db7w4db11w4~x2/"><circle cx="154.4" cy="218.1" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s8/k8db8k2db2w2k5db5r2~x5/"><circle cx="161.4" cy="236.7" r="4" fill="#3465a4"><title>Lexington Fire Department</title></circle></a><circle cx="121.5" cy="274.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k9db5w5k9db14k5w5k9w5k5db8~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McTear's Auctioneers"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k48db23k2/)
 (the same proportion at any scale), whose colour order is pattern [KBKKK](/stripes/kbkkk/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11434
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11434](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11434)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/k11db2r1~x8/"><circle cx="238.2" cy="281.8" r="4" fill="#3465a4"><title>Arrol (Corporate)</title></circle></a><a href="/variants/s5/n4db43k20n7o2~x2~n1900000-db0906265-k0700000-o2500000/"><circle cx="415.9" cy="196.8" r="4" fill="#3465a4"><title>Deighan (Burham Kent) (Name)</title></circle></a><a href="/variants/s5/dt4db43k20dt7y2~x2~dt0900000-y2100000/"><circle cx="387.1" cy="185.8" r="4" fill="#3465a4"><title>Deighan (Edinburgh)</title></circle></a><a href="/variants/s4/k16db16k3g2~x4/"><circle cx="229.7" cy="164.0" r="4" fill="#3465a4"><title>Arundel County (District)</title></circle></a><a href="/variants/s5/k33db8k4db35dp3~x2/"><circle cx="360.3" cy="224.2" r="4" fill="#3465a4"><title>Fenston/Morris (Personal)</title></circle></a><a href="/variants/s5/k13n8k15dp2k8~x2/"><circle cx="232.9" cy="263.4" r="4" fill="#3465a4"><title>Warwick (Fashion)</title></circle></a><a href="/variants/s5/k37dg37n8ki3dp5~x2~k0504259-ki0700000/"><circle cx="314.6" cy="221.7" r="4" fill="#3465a4"><title>Dallard (Personal)</title></circle></a><a href="/variants/s6/k4dg23k23dg2db23dg4~x2/"><circle cx="262.7" cy="236.3" r="4" fill="#3465a4"><title>MacKay - 1800 (Clan)</title></circle></a><circle cx="285.6" cy="255.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/k11db2r1~x8/"><circle cx="238.4" cy="282.3" r="4" fill="#3465a4"><title>Arrol (Corporate)</title></circle></a><a href="/variants/s5/n4db43k20n7o2~x2~n1900000-db0906265-k0700000-o2500000/"><circle cx="415.9" cy="196.9" r="4" fill="#3465a4"><title>Deighan (Burham Kent) (Name)</title></circle></a><a href="/variants/s5/dt4db43k20dt7y2~x2~dt0900000-y2100000/"><circle cx="387.1" cy="185.9" r="4" fill="#3465a4"><title>Deighan (Edinburgh)</title></circle></a><a href="/variants/s4/k16db16k3g2~x4/"><circle cx="229.7" cy="164.2" r="4" fill="#3465a4"><title>Arundel County (District)</title></circle></a><a href="/variants/s5/k33db8k4db35dp3~x2/"><circle cx="360.4" cy="224.6" r="4" fill="#3465a4"><title>Fenston/Morris (Personal)</title></circle></a><a href="/variants/s5/k13n8k15dp2k8~x2/"><circle cx="233.0" cy="263.9" r="4" fill="#3465a4"><title>Warwick (Fashion)</title></circle></a><a href="/variants/s5/k37dg37n8ki3dp5~x2~k0504259-ki0700000/"><circle cx="314.6" cy="221.9" r="4" fill="#3465a4"><title>Dallard (Personal)</title></circle></a><a href="/variants/s6/k4dg23k23dg2db23dg4~x2/"><circle cx="262.8" cy="236.7" r="4" fill="#3465a4"><title>MacKay - 1800 (Clan)</title></circle></a><circle cx="285.7" cy="255.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/k48db23k2~x2/

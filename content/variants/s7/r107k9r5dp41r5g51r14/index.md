@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Buccleuch"
   url: "/tartans/buccleuch/"
+- name: "Buccleuch"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r107k9r5dp41r5g51r14/)
 (the same proportion at any scale), whose colour order is pattern [RGRBRKR](/stripes/rgrbrkr/).
@@ -14,7 +16,7 @@ Part of the [Buccleuch](/tartans/buccleuch/) tartan — the named design groupin
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=411
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=411](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=411)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r107k9r5db41r5g51r14/"><circle cx="312.3" cy="136.9" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/variants/s6/r100k15g48db5r7db16~x2/"><circle cx="305.3" cy="143.3" r="4" fill="#3465a4"><title>Plummer (Personal)</title></circle></a><a href="/variants/s7/r2db1r16db4r1g10r1~x4/"><circle cx="368.8" cy="177.8" r="4" fill="#3465a4"><title>Robertson - 1988 (Corporate)</title></circle></a><a href="/variants/s8/lb5k1r30dp15r8g30r8dp2/"><circle cx="254.7" cy="126.4" r="4" fill="#3465a4"><title>Shaw of Tordarroch Clan Tartan</title></circle></a><a href="/variants/s8/lb5k1r30dp15r8g30r8dp2~x2/"><circle cx="254.7" cy="126.4" r="4" fill="#3465a4"><title>Shaw Red of Tordarroch Dress (Clan 2</title></circle></a><a href="/variants/s11/ri4g8k6r8ri6g2ri2g2ri24g1ri3~x2~ri2008029-r1707016/"><circle cx="334.8" cy="119.8" r="4" fill="#3465a4"><title>MacDougal 3</title></circle></a><a href="/variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/"><circle cx="335.3" cy="135.6" r="4" fill="#3465a4"><title>Justerini &amp; Brooks</title></circle></a><a href="/variants/s6/r4k2dg28r38k1ly4~x2/"><circle cx="348.3" cy="116.4" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/variants/s11/ri4g8k6r8ri6g2ri2g2ri24g1ri3~x2~ri2209032-r1707016/"><circle cx="324.5" cy="115.1" r="4" fill="#3465a4"><title>MacDougall #8</title></circle></a><a href="/variants/s9/k2r1g8r3g3r14y1r1w2~x2/"><circle cx="265.9" cy="129.4" r="4" fill="#3465a4"><title>Melieres, Michel (Personal)</title></circle></a><circle cx="325.0" cy="138.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r107k9r5db41r5g51r14/"><circle cx="312.3" cy="137.2" r="4" fill="#3465a4"><title>Buccleuch</title></circle></a><a href="/variants/s6/r100k15g48db5r7db16~x2/"><circle cx="305.3" cy="143.7" r="4" fill="#3465a4"><title>Plummer (Personal)</title></circle></a><a href="/variants/s7/r2db1r16db4r1g10r1~x4/"><circle cx="368.8" cy="178.2" r="4" fill="#3465a4"><title>Robertson - 1988 (Corporate)</title></circle></a><a href="/variants/s8/lb5k1r30dp15r8g30r8dp2/"><circle cx="254.7" cy="126.6" r="4" fill="#3465a4"><title>Shaw of Tordarroch Clan Tartan</title></circle></a><a href="/variants/s8/lb5k1r30dp15r8g30r8dp2~x2/"><circle cx="254.7" cy="126.6" r="4" fill="#3465a4"><title>Shaw Red of Tordarroch Dress (Clan 2</title></circle></a><a href="/variants/s11/ri4g8k6r8ri6g2ri2g2ri24g1ri3~x2~ri2008029-r1707016/"><circle cx="334.8" cy="120.1" r="4" fill="#3465a4"><title>MacDougal 3</title></circle></a><a href="/variants/s9/o48ly14o9dg14k6o11g6o10dg3~x2~o2208036-dg1806142/"><circle cx="335.4" cy="136.0" r="4" fill="#3465a4"><title>Justerini &amp; Brooks</title></circle></a><a href="/variants/s6/r4k2dg28r38k1ly4~x2/"><circle cx="348.3" cy="116.7" r="4" fill="#3465a4"><title>Wcwm 9275 5471-1</title></circle></a><a href="/variants/s11/ri4g8k6r8ri6g2ri2g2ri24g1ri3~x2~ri2209032-r1707016/"><circle cx="324.5" cy="115.5" r="4" fill="#3465a4"><title>MacDougall #8</title></circle></a><a href="/variants/s9/k2r1g8r3g3r14y1r1w2~x2/"><circle cx="265.8" cy="129.7" r="4" fill="#3465a4"><title>Melieres, Michel (Personal)</title></circle></a><circle cx="325.0" cy="138.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r107k9r5dp41r5g51r14/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Plaid #6"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w100k15w2k4y2k6w10k4y2k13w4k100w3k2/)
 (the same proportion at any scale), whose colour order is pattern [KWKWKGKWKGKWKW](/stripes/kwkwkgkwkgkwkw/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4353
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4353](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4353)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2/"><circle cx="348.9" cy="70.9" r="4" fill="#3465a4"><title>Pars, Dress (Sports)</title></circle></a><a href="/variants/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/"><circle cx="325.2" cy="94.3" r="4" fill="#3465a4"><title>Myles, Lee (Name)</title></circle></a><a href="/variants/s17/ly1w5ly1k1ly1k1ly1k1ly1w5ly1k24ly1k1ly1k1ly1~x2/"><circle cx="325.1" cy="65.3" r="4" fill="#3465a4"><title>MacGuinness</title></circle></a><a href="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/"><circle cx="259.4" cy="63.9" r="4" fill="#3465a4"><title>Black Onyx</title></circle></a><a href="/variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/"><circle cx="280.6" cy="72.0" r="4" fill="#3465a4"><title>Deudon (2015)</title></circle></a><a href="/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/"><circle cx="258.1" cy="108.9" r="4" fill="#3465a4"><title>Menzies Black Dress</title></circle></a><a href="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/"><circle cx="230.7" cy="42.7" r="4" fill="#3465a4"><title>Livingston, dress</title></circle></a><circle cx="336.3" cy="50.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w10k1w5k7w7r2w7k50w7k2w7k7w5k1~x2/"><circle cx="348.8" cy="71.1" r="4" fill="#3465a4"><title>Pars, Dress (Sports)</title></circle></a><a href="/variants/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/"><circle cx="325.1" cy="94.6" r="4" fill="#3465a4"><title>Myles, Lee (Name)</title></circle></a><a href="/variants/s17/ly1w5ly1k1ly1k1ly1k1ly1w5ly1k24ly1k1ly1k1ly1~x2/"><circle cx="325.0" cy="65.5" r="4" fill="#3465a4"><title>MacGuinness</title></circle></a><a href="/variants/s15/k30n33k1ly1k1n8k1ly2k1n3k1ly3w2k1ly7~x2/"><circle cx="259.2" cy="64.0" r="4" fill="#3465a4"><title>Black Onyx</title></circle></a><a href="/variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/"><circle cx="280.5" cy="72.2" r="4" fill="#3465a4"><title>Deudon (2015)</title></circle></a><a href="/variants/s12/w4k1w2k3w23db5k3db1k1db1k19w2~x2/"><circle cx="258.0" cy="109.2" r="4" fill="#3465a4"><title>Menzies Black Dress</title></circle></a><a href="/variants/s16/db133w16k8w8k2y4k2w54k8w8k16w8k16w16k2y12/"><circle cx="230.5" cy="42.8" r="4" fill="#3465a4"><title>Livingston, dress</title></circle></a><circle cx="336.2" cy="50.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/w100k15w2k4y2k6w10k4y2k13w4k100w3k2/

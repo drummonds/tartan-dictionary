@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Salt Lake County"
   url: "/tartans/salt-lake-county-2/"
+- name: "Salt Lake County"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r40k1r3k1w3k4w3k1r3k1r40k4/)
 (the same proportion at any scale), whose colour order is pattern [KRKRKWKWKRKR](/stripes/krkrkwkwkrkr/).
@@ -14,7 +16,7 @@ Part of the [Salt Lake County](/tartans/salt-lake-county-2/) tartan — the name
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3643
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3643](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3643)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr40k1dr3k1w3k4w3k1dr3k1dr40k4~x2/"><circle cx="557.7" cy="75.0" r="4" fill="#3465a4"><title>Salt Lake County District Tartan</title></circle></a><a href="/variants/s13/w2k2lb2ly2k2r7k1r12k2r6w1r23k1~x2/"><circle cx="412.3" cy="66.9" r="4" fill="#3465a4"><title>Wilding, Michael John (Personal)</title></circle></a><a href="/variants/s8/r55w20r8w2r8w2r8w2~x2/"><circle cx="537.7" cy="148.1" r="4" fill="#3465a4"><title>Masai Shuka 08 (Artefact)</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="537.9" cy="60.6" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s7/r75g12r3k2r2k2r36~x2/"><circle cx="626.0" cy="111.8" r="4" fill="#3465a4"><title>MacKintosh #5</title></circle></a><a href="/variants/s10/r80w7k2w2k2r3k7r2b12k2~x2/"><circle cx="438.3" cy="42.9" r="4" fill="#3465a4"><title>Masai Shuka 05 (Artefact)</title></circle></a><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="535.2" cy="64.7" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken #2</title></circle></a><a href="/variants/s10/r64db4r1k4r12w4r1w4k4r1~x2/"><circle cx="516.5" cy="36.5" r="4" fill="#3465a4"><title>Ramsay (Angus &amp; Mearns)</title></circle></a><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/"><circle cx="496.0" cy="109.1" r="4" fill="#3465a4"><title>Rose of Kilravock (Personal)</title></circle></a><a href="/variants/s13/k6r1k1r1k1r5k2r5k4r2w1r40w1~x2/"><circle cx="494.9" cy="42.8" r="4" fill="#3465a4"><title>Jupiter Shop Channel Co Ltd</title></circle></a><circle cx="539.8" cy="57.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr40k1dr3k1w3k4w3k1dr3k1dr40k4~x2/"><circle cx="557.6" cy="75.2" r="4" fill="#3465a4"><title>Salt Lake County District Tartan</title></circle></a><a href="/variants/s13/w2k2lb2ly2k2r7k1r12k2r6w1r23k1~x2/"><circle cx="412.2" cy="67.2" r="4" fill="#3465a4"><title>Wilding, Michael John (Personal)</title></circle></a><a href="/variants/s8/r55w20r8w2r8w2r8w2~x2/"><circle cx="537.8" cy="148.6" r="4" fill="#3465a4"><title>Masai Shuka 08 (Artefact)</title></circle></a><a href="/variants/s9/r80w2r5k10r6n4r10k2n6/"><circle cx="537.8" cy="60.8" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><a href="/variants/s7/r75g12r3k2r2k2r36~x2/"><circle cx="626.0" cy="112.1" r="4" fill="#3465a4"><title>MacKintosh #5</title></circle></a><a href="/variants/s10/r80w7k2w2k2r3k7r2b12k2~x2/"><circle cx="438.1" cy="43.0" r="4" fill="#3465a4"><title>Masai Shuka 05 (Artefact)</title></circle></a><a href="/variants/s8/r65w1r6k8g8r6k3r11~x2/"><circle cx="535.1" cy="64.9" r="4" fill="#3465a4"><title>Gudbrandsdalen, Rondastakken #2</title></circle></a><a href="/variants/s10/r64db4r1k4r12w4r1w4k4r1~x2/"><circle cx="516.4" cy="36.7" r="4" fill="#3465a4"><title>Ramsay (Angus &amp; Mearns)</title></circle></a><a href="/variants/s9/k2r35db6r5db2r2db2r14w2~x2/"><circle cx="496.0" cy="109.4" r="4" fill="#3465a4"><title>Rose of Kilravock (Personal)</title></circle></a><a href="/variants/s13/k6r1k1r1k1r5k2r5k4r2w1r40w1~x2/"><circle cx="494.8" cy="43.0" r="4" fill="#3465a4"><title>Jupiter Shop Channel Co Ltd</title></circle></a><circle cx="539.7" cy="57.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r40k1r3k1w3k4w3k1r3k1r40k4~x2/

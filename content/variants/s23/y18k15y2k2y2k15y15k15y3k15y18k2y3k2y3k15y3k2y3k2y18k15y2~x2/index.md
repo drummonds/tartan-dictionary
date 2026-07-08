@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Garwhal Rifles (Military)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y18k15y2k2y2k15y15k15y3k15y18k2y3k2y3k15y3k2y3k2y18k15y2/)
 (the same proportion at any scale), whose colour order is pattern [GKGKGKGKGKGKGKGKGKGKGKG](/stripes/gkgkgkgkgkgkgkgkgkgkgkg/).
 
 Sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8677
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8677](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8677)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k4y2k27y2k8y31k2y4~x2/"><circle cx="308.8" cy="146.2" r="4" fill="#3465a4"><title>Watertown Library Assoc.</title></circle></a><a href="/variants/s9/k3ly1k8ly9k1ly1k1ly1k2~x4/"><circle cx="272.9" cy="163.9" r="4" fill="#3465a4"><title>Justus Black &amp; Gold (Angus) (Personal)</title></circle></a><a href="/variants/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~x2/"><circle cx="290.4" cy="175.6" r="4" fill="#3465a4"><title>Yamaguchi Tsutomu</title></circle></a><a href="/variants/s12/k4y1k4y11dr1y1dr1y11k4y1k4y1~x4/"><circle cx="300.7" cy="158.6" r="4" fill="#3465a4"><title>Baillieville Family Tartan</title></circle></a><circle cx="269.1" cy="166.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k4y2k27y2k8y31k2y4~x2/"><circle cx="308.8" cy="146.6" r="4" fill="#3465a4"><title>Watertown Library Assoc.</title></circle></a><a href="/variants/s9/k3ly1k8ly9k1ly1k1ly1k2~x4/"><circle cx="272.9" cy="164.5" r="4" fill="#3465a4"><title>Justus Black &amp; Gold (Angus) (Personal)</title></circle></a><a href="/variants/s13/y20k3y10k6y8k8y6k10y3k12y2k14y1~x2/"><circle cx="290.4" cy="176.1" r="4" fill="#3465a4"><title>Yamaguchi Tsutomu</title></circle></a><a href="/variants/s12/k4y1k4y11dr1y1dr1y11k4y1k4y1~x4/"><circle cx="300.7" cy="159.1" r="4" fill="#3465a4"><title>Baillieville Family Tartan</title></circle></a><circle cx="269.1" cy="166.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s23/y18k15y2k2y2k15y15k15y3k15y18k2y3k2y3k15y3k2y3k2y18k15y2~x2/

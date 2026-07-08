@@ -10,6 +10,8 @@ crumbs:
   url: "/families/dodd-of-branford/"
 - name: "Dodd of Branford"
   url: "/tartans/dodd-of-branford/"
+- name: "Dodd of Branford (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg4dr2dg20db8k8db4lb1lo2k1/)
 (the same proportion at any scale), whose colour order is pattern [GBGBKBWYK](/stripes/gbgbkbwyk/).
@@ -18,7 +20,7 @@ Part of the [Dodd of Branford](/tartans/dodd-of-branford/) tartan — the named 
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4686
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4686](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4686)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -79,8 +81,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db1k8db2dg16dr6dg16db2k8w1~x2/"><circle cx="290.2" cy="167.7" r="4" fill="#3465a4"><title>Basel Tattoo (Official)</title></circle></a><a href="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/"><circle cx="191.5" cy="141.9" r="4" fill="#3465a4"><title>Jones, The</title></circle></a><a href="/variants/s10/y3dg5k2dg5w1dg17db4r1db22w2~x2/"><circle cx="250.0" cy="116.6" r="4" fill="#3465a4"><title>McAvoy (Personal)</title></circle></a><a href="/variants/s10/dy3dg5k2dg5w1dg17db4r1db22w2~x2/"><circle cx="261.1" cy="120.7" r="4" fill="#3465a4"><title>MacAvoy Clan Tartan</title></circle></a><a href="/variants/s8/dy4w1dg12k3db16r1db1r1~x2/"><circle cx="241.0" cy="140.8" r="4" fill="#3465a4"><title>Purves (2014)</title></circle></a><a href="/variants/s7/w2k2r1db20k15dg30ly1~x2/"><circle cx="224.8" cy="113.8" r="4" fill="#3465a4"><title>Muir-Hill (Personal)</title></circle></a><a href="/variants/s9/o3db24k16dt3g2dt2g2dt28lb3~x2/"><circle cx="199.7" cy="141.4" r="4" fill="#3465a4"><title>Thistle of Scotland</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="232.5" cy="155.2" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s9/db2r1dg26ly1k18db26y1r1db2~x2~ly3307090-y2602166/"><circle cx="238.5" cy="110.9" r="4" fill="#3465a4"><title>Robb (Personal) Personal Tartan</title></circle></a><a href="/variants/s9/db2r1dg26ly1k18db26y1r1db2~x2/"><circle cx="240.8" cy="111.6" r="4" fill="#3465a4"><title>Robb Hunting (Personal)</title></circle></a><circle cx="240.8" cy="127.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db1k8db2dg16dr6dg16db2k8w1~x2/"><circle cx="290.1" cy="167.9" r="4" fill="#3465a4"><title>Basel Tattoo (Official)</title></circle></a><a href="/variants/s7/r3w2dy10dg37k12db21w2~x2~dy1703114-dg1304144/"><circle cx="191.4" cy="142.1" r="4" fill="#3465a4"><title>Jones, The</title></circle></a><a href="/variants/s10/y3dg5k2dg5w1dg17db4r1db22w2~x2/"><circle cx="249.9" cy="116.6" r="4" fill="#3465a4"><title>McAvoy (Personal)</title></circle></a><a href="/variants/s10/dy3dg5k2dg5w1dg17db4r1db22w2~x2/"><circle cx="261.0" cy="120.7" r="4" fill="#3465a4"><title>MacAvoy Clan Tartan</title></circle></a><a href="/variants/s8/dy4w1dg12k3db16r1db1r1~x2/"><circle cx="240.9" cy="140.9" r="4" fill="#3465a4"><title>Purves (2014)</title></circle></a><a href="/variants/s7/w2k2r1db20k15dg30ly1~x2/"><circle cx="224.7" cy="113.9" r="4" fill="#3465a4"><title>Muir-Hill (Personal)</title></circle></a><a href="/variants/s9/o3db24k16dt3g2dt2g2dt28lb3~x2/"><circle cx="199.6" cy="141.5" r="4" fill="#3465a4"><title>Thistle of Scotland</title></circle></a><a href="/variants/s6/k3dg44db27y6r10w3~x2/"><circle cx="232.5" cy="155.5" r="4" fill="#3465a4"><title>Official Glasgow 2014, The</title></circle></a><a href="/variants/s9/db2r1dg26ly1k18db26y1r1db2~x2~ly3307090-y2602166/"><circle cx="238.4" cy="110.9" r="4" fill="#3465a4"><title>Robb (Personal) Personal Tartan</title></circle></a><a href="/variants/s9/db2r1dg26ly1k18db26y1r1db2~x2/"><circle cx="240.7" cy="111.6" r="4" fill="#3465a4"><title>Robb Hunting (Personal)</title></circle></a><circle cx="240.7" cy="127.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dg4dr2dg20db8k8db4lb1lo2k1~x2/

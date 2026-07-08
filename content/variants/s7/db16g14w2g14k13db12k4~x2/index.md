@@ -10,6 +10,8 @@ crumbs:
   url: "/families/macneil-of-colonsay/"
 - name: "MacNeil of Colonsay"
   url: "/tartans/macneil-of-colonsay/"
+- name: "MacNeil of Colonsay (Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db16g14w2g14k13db12k4/)
 (the same proportion at any scale), whose colour order is pattern [BGWGKBK](/stripes/bgwgkbk/).
@@ -18,7 +20,7 @@ Part of the [MacNeil of Colonsay](/tartans/macneil-of-colonsay/) tartan — the 
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=196
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=196](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=196)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -79,8 +81,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db4g6w1g6k6db6k2~x2/"><circle cx="117.6" cy="253.9" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/variants/s7/db4g6w1g6k6db6k2~x4/"><circle cx="117.6" cy="253.9" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/variants/s7/db4k3db16k14g14r3g3~x2/"><circle cx="126.9" cy="227.8" r="4" fill="#3465a4"><title>Inneryne (Personal)</title></circle></a><a href="/variants/s7/g24db6lb3k6db12k15g4~x2/"><circle cx="150.2" cy="212.3" r="4" fill="#3465a4"><title>Blaylock Annandale</title></circle></a><a href="/variants/s6/db2k2db12k11g16w2~x2/"><circle cx="141.5" cy="213.1" r="4" fill="#3465a4"><title>Campbell of Argyll (Smiths)</title></circle></a><a href="/variants/s6/g9w1g6k7db7k1~x2/"><circle cx="184.1" cy="224.7" r="4" fill="#3465a4"><title>Menteith</title></circle></a><a href="/variants/s7/k7g6w1g6k7db7k1~x4/"><circle cx="135.6" cy="230.2" r="4" fill="#3465a4"><title>MacLaggan</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="124.0" cy="228.1" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/variants/s6/g21w2g4k17db14k3/"><circle cx="169.2" cy="204.3" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s7/k9g9w2g9k9db9k3~x2/"><circle cx="105.3" cy="259.7" r="4" fill="#3465a4"><title>Graham of Montrose - 1850 (Clan)</title></circle></a><circle cx="131.9" cy="242.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db4g6w1g6k6db6k2~x2/"><circle cx="117.7" cy="254.6" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/variants/s7/db4g6w1g6k6db6k2~x4/"><circle cx="117.7" cy="254.6" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/variants/s7/db4k3db16k14g14r3g3~x2/"><circle cx="126.9" cy="228.4" r="4" fill="#3465a4"><title>Inneryne (Personal)</title></circle></a><a href="/variants/s7/g24db6lb3k6db12k15g4~x2/"><circle cx="150.3" cy="212.9" r="4" fill="#3465a4"><title>Blaylock Annandale</title></circle></a><a href="/variants/s6/db2k2db12k11g16w2~x2/"><circle cx="141.5" cy="213.7" r="4" fill="#3465a4"><title>Campbell of Argyll (Smiths)</title></circle></a><a href="/variants/s6/g9w1g6k7db7k1~x2/"><circle cx="184.1" cy="225.3" r="4" fill="#3465a4"><title>Menteith</title></circle></a><a href="/variants/s7/k7g6w1g6k7db7k1~x4/"><circle cx="135.7" cy="230.9" r="4" fill="#3465a4"><title>MacLaggan</title></circle></a><a href="/variants/s6/db2k2db12k11g12w2~x2/"><circle cx="124.1" cy="228.7" r="4" fill="#3465a4"><title>Campbell, The White Stripe</title></circle></a><a href="/variants/s6/g21w2g4k17db14k3/"><circle cx="169.2" cy="204.8" r="4" fill="#3465a4"><title>Graham W</title></circle></a><a href="/variants/s7/k9g9w2g9k9db9k3~x2/"><circle cx="105.4" cy="260.4" r="4" fill="#3465a4"><title>Graham of Montrose - 1850 (Clan)</title></circle></a><circle cx="132.0" cy="242.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db16g14w2g14k13db12k4~x2/

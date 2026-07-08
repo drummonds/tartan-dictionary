@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Laksaa"
   url: "/tartans/laksaa/"
+- name: "Laksaa"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n21k2n2k2n2k15w17k3/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKWK](/stripes/bkbkbkwk/).
@@ -14,7 +16,7 @@ Part of the [Laksaa](/tartans/laksaa/) tartan — the named design grouping this
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n22k2n2k2n2k16w16k3~x2/"><circle cx="188.3" cy="176.5" r="4" fill="#3465a4"><title>Laksaa (Manx)</title></circle></a><a href="/variants/s8/n32k3n3k3t5k8o21k4~x2~n1900000-o2500000/"><circle cx="215.5" cy="169.4" r="4" fill="#3465a4"><title>Speyside Blue (Fashion)</title></circle></a><a href="/variants/s9/w2k11w2k2w16k2w2k11lo2~x4/"><circle cx="250.8" cy="185.1" r="4" fill="#3465a4"><title>MacFie of Colonsay Dress (Fashion?)</title></circle></a><a href="/variants/s8/k16b1k1b1k1b9ly18b1~x4/"><circle cx="204.6" cy="147.5" r="4" fill="#3465a4"><title>Kelvingrove (Fashion)</title></circle></a><a href="/variants/s11/w4k2o12dr3k3dr3k23o10k2o6k2~x2~o2500000/"><circle cx="194.8" cy="143.1" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey Weavers Tartan</title></circle></a><a href="/variants/s10/y1k4b2k10w1b2w10b1w4y1~x4/"><circle cx="159.8" cy="157.6" r="4" fill="#3465a4"><title>Chieftain</title></circle></a><a href="/variants/s11/w2lb7w2lb3w2k15w2k15lb15w2lb2~x2/"><circle cx="197.4" cy="183.9" r="4" fill="#3465a4"><title>Clark (Clan)</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="105.6" cy="195.8" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s9/g24k3g2k3g4k4r20k3r6~x2~g2504202/"><circle cx="224.5" cy="163.1" r="4" fill="#3465a4"><title>Alma College</title></circle></a><a href="/variants/s7/y9k32g6w20y3w9k5~x2/"><circle cx="163.3" cy="178.9" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><circle cx="181.5" cy="179.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n22k2n2k2n2k16w16k3~x2/"><circle cx="188.4" cy="177.1" r="4" fill="#3465a4"><title>Laksaa (Manx)</title></circle></a><a href="/variants/s8/n32k3n3k3t5k8o21k4~x2~n1900000-o2500000/"><circle cx="215.5" cy="169.8" r="4" fill="#3465a4"><title>Speyside Blue (Fashion)</title></circle></a><a href="/variants/s9/w2k11w2k2w16k2w2k11lo2~x4/"><circle cx="250.9" cy="185.7" r="4" fill="#3465a4"><title>MacFie of Colonsay Dress (Fashion?)</title></circle></a><a href="/variants/s8/k16b1k1b1k1b9ly18b1~x4/"><circle cx="204.6" cy="147.9" r="4" fill="#3465a4"><title>Kelvingrove (Fashion)</title></circle></a><a href="/variants/s11/w4k2o12dr3k3dr3k23o10k2o6k2~x2~o2500000/"><circle cx="194.7" cy="143.5" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey Weavers Tartan</title></circle></a><a href="/variants/s10/y1k4b2k10w1b2w10b1w4y1~x4/"><circle cx="159.8" cy="158.1" r="4" fill="#3465a4"><title>Chieftain</title></circle></a><a href="/variants/s11/w2lb7w2lb3w2k15w2k15lb15w2lb2~x2/"><circle cx="197.5" cy="184.5" r="4" fill="#3465a4"><title>Clark (Clan)</title></circle></a><a href="/variants/s8/w23k4w4k4w4k22o23ly5~x2~o2005046/"><circle cx="105.6" cy="196.5" r="4" fill="#3465a4"><title>Aberlour</title></circle></a><a href="/variants/s9/g24k3g2k3g4k4r20k3r6~x2~g2504202/"><circle cx="224.5" cy="163.6" r="4" fill="#3465a4"><title>Alma College</title></circle></a><a href="/variants/s7/y9k32g6w20y3w9k5~x2/"><circle cx="163.3" cy="179.4" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><circle cx="181.5" cy="179.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/n21k2n2k2n2k15w17k3~x2/

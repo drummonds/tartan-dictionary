@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Centeno-Oxford"
   url: "/tartans/centeno-oxford/"
+- name: "Centeno-Oxford"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g12k10y9db11ly3g9/)
 (the same proportion at any scale), whose colour order is pattern [GKGBYG](/stripes/gkgbyg/).
@@ -14,7 +16,7 @@ Part of the [Centeno-Oxford](/tartans/centeno-oxford/) tartan — the named desi
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10892
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10892](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10892)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k10y9db11g12ly3g9~x2/"><circle cx="61.7" cy="283.0" r="4" fill="#3465a4"><title>Centeno-Oxford (Personal)</title></circle></a><a href="/variants/s6/k4dg16k14ly3t16r4~x2/"><circle cx="77.4" cy="226.2" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/"><circle cx="123.7" cy="258.5" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><a href="/variants/s6/r4g12k12g2db12g3~x2/"><circle cx="125.7" cy="237.8" r="4" fill="#3465a4"><title>Gunn - 1810 (Clan)</title></circle></a><a href="/variants/s7/k4g4k1g4k4db4y1~x2/"><circle cx="112.2" cy="267.7" r="4" fill="#3465a4"><title>Unidentified No 39</title></circle></a><a href="/variants/s6/db12y8r5k6db7g5~x4/"><circle cx="82.1" cy="292.9" r="4" fill="#3465a4"><title>Mitchell, Martin (Personal)</title></circle></a><a href="/variants/s9/r2db4k4g4w1g4k4g4w1~x4/"><circle cx="71.7" cy="245.2" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/variants/s7/k4g4y1g4k4db4k1~x2/"><circle cx="106.6" cy="264.0" r="4" fill="#3465a4"><title>MacKay Coat</title></circle></a><a href="/variants/s7/k4g4w1g4k4db4k1~x2/"><circle cx="97.9" cy="261.5" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/variants/s7/k4g4w1g4k4db4k1~x4/"><circle cx="97.9" cy="261.5" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><circle cx="61.3" cy="282.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k10y9db11g12ly3g9~x2/"><circle cx="61.8" cy="283.8" r="4" fill="#3465a4"><title>Centeno-Oxford (Personal)</title></circle></a><a href="/variants/s6/k4dg16k14ly3t16r4~x2/"><circle cx="77.5" cy="226.8" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/variants/s7/db2dg4r1dg4k4db4ly1~x8/"><circle cx="123.8" cy="259.1" r="4" fill="#3465a4"><title>Isle of Gigha (District)</title></circle></a><a href="/variants/s6/r4g12k12g2db12g3~x2/"><circle cx="125.8" cy="238.5" r="4" fill="#3465a4"><title>Gunn - 1810 (Clan)</title></circle></a><a href="/variants/s7/k4g4k1g4k4db4y1~x2/"><circle cx="112.4" cy="268.4" r="4" fill="#3465a4"><title>Unidentified No 39</title></circle></a><a href="/variants/s6/db12y8r5k6db7g5~x4/"><circle cx="82.3" cy="293.7" r="4" fill="#3465a4"><title>Mitchell, Martin (Personal)</title></circle></a><a href="/variants/s9/r2db4k4g4w1g4k4g4w1~x4/"><circle cx="71.8" cy="245.9" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/variants/s7/k4g4y1g4k4db4k1~x2/"><circle cx="106.7" cy="264.7" r="4" fill="#3465a4"><title>MacKay Coat</title></circle></a><a href="/variants/s7/k4g4w1g4k4db4k1~x2/"><circle cx="98.0" cy="262.3" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/variants/s7/k4g4w1g4k4db4k1~x4/"><circle cx="98.0" cy="262.3" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><circle cx="61.4" cy="283.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g12k10y9db11ly3g9~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Welsh Stanley–Gpa (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2g2r2g4y3dy45g2dy3g2/)
 (the same proportion at any scale), whose colour order is pattern [GGGGGGRGR](/stripes/ggggggrgr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10388
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10388](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10388)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r2g2r2g4ly3dy45g2dy3g2~x2/"><circle cx="513.2" cy="117.6" r="4" fill="#3465a4"><title>Welsh, Stanly-Gpa (Personal)</title></circle></a><a href="/variants/s10/y36dg4k1y2k1dg4k4dg60dr4dg4~x2/"><circle cx="442.1" cy="95.3" r="4" fill="#3465a4"><title>Orvis Sports Company (Corporate)</title></circle></a><a href="/variants/s8/dg5r3dg3ly2dg1lyi8dg24ly2~x2~ly2705081-lyi3104101/"><circle cx="413.9" cy="143.3" r="4" fill="#3465a4"><title>St. Christopher (Corporate)</title></circle></a><a href="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g2203152-gi2408144/"><circle cx="564.5" cy="161.8" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/variants/s7/w2dy44db8dy2db2dy3r1~x2/"><circle cx="600.7" cy="117.6" r="4" fill="#3465a4"><title>Reece, Mathew</title></circle></a><a href="/variants/s6/r4dp12dg2dp2dg46w1~x2/"><circle cx="557.2" cy="141.0" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><circle cx="546.2" cy="128.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r2g2r2g4ly3dy45g2dy3g2~x2/"><circle cx="513.2" cy="117.7" r="4" fill="#3465a4"><title>Welsh, Stanly-Gpa (Personal)</title></circle></a><a href="/variants/s10/y36dg4k1y2k1dg4k4dg60dr4dg4~x2/"><circle cx="442.0" cy="95.2" r="4" fill="#3465a4"><title>Orvis Sports Company (Corporate)</title></circle></a><a href="/variants/s8/dg5r3dg3ly2dg1lyi8dg24ly2~x2~ly2705081-lyi3104101/"><circle cx="413.9" cy="143.6" r="4" fill="#3465a4"><title>St. Christopher (Corporate)</title></circle></a><a href="/variants/s8/g16dg1y4dg41y1dg6gi2dg2~x2~g2203152-gi2408144/"><circle cx="564.5" cy="161.8" r="4" fill="#3465a4"><title>Semper</title></circle></a><a href="/variants/s7/w2dy44db8dy2db2dy3r1~x2/"><circle cx="600.7" cy="117.7" r="4" fill="#3465a4"><title>Reece, Mathew</title></circle></a><a href="/variants/s6/r4dp12dg2dp2dg46w1~x2/"><circle cx="557.2" cy="141.0" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><circle cx="546.2" cy="128.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r2g2r2g4y3dy45g2dy3g2~x2/

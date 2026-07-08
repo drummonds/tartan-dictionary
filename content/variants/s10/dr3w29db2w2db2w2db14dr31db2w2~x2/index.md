@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Siddle"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr3w29db2w2db2w2db14dr31db2w2/)
 (the same proportion at any scale), whose colour order is pattern [BWBWBWBBBW](/stripes/bwbwbwbbbw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10302
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10302](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10302)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w29db2w2db2w2db14dr31db2dr3~x2/"><circle cx="276.7" cy="186.1" r="4" fill="#3465a4"><title>Lindsay (Dance)</title></circle></a><a href="/variants/s10/db14w2db3w2dr10w32dr10db10w2db3~x2/"><circle cx="277.6" cy="194.5" r="4" fill="#3465a4"><title>Fraser Arisaid #2</title></circle></a><a href="/variants/s12/lr12dr3lr3db4lr16ly3lr3ly3lr3ly16db52lr4/"><circle cx="303.1" cy="154.1" r="4" fill="#3465a4"><title>Carsaig</title></circle></a><a href="/variants/s12/dr3n2dr6n21lb2n4lb3n3lb4n2lb13w2~x2/"><circle cx="334.2" cy="206.7" r="4" fill="#3465a4"><title>Qatar Airways</title></circle></a><a href="/variants/s12/w4db2lo8db2n2db2n2db23lo10db2lo7db2~x2/"><circle cx="299.4" cy="180.8" r="4" fill="#3465a4"><title>Auld Lang Syne Brown Tartan</title></circle></a><a href="/variants/s8/dp42db2w2db2dp5lb12w32dp4~x2/"><circle cx="321.4" cy="164.6" r="4" fill="#3465a4"><title>Longniddry Dress District Tartan</title></circle></a><a href="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2~lb3103284-t2405244/"><circle cx="323.6" cy="166.4" r="4" fill="#3465a4"><title>Longniddry Purple</title></circle></a><a href="/variants/s8/n9do1n1do1n1do7w7do2~x4/"><circle cx="261.4" cy="241.1" r="4" fill="#3465a4"><title>Grey Watch, Dress</title></circle></a><a href="/variants/s8/dp42db2w2db2dp5b12w32dp4~x2/"><circle cx="322.9" cy="165.1" r="4" fill="#3465a4"><title>Longniddry, dress</title></circle></a><a href="/variants/s10/db19ly2db3w7db3w7db9w3db2w19~x2/"><circle cx="310.4" cy="229.5" r="4" fill="#3465a4"><title>Yorkshire, The Spirit of</title></circle></a><circle cx="278.2" cy="178.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/w29db2w2db2w2db14dr31db2dr3~x2/"><circle cx="276.8" cy="186.6" r="4" fill="#3465a4"><title>Lindsay (Dance)</title></circle></a><a href="/variants/s10/db14w2db3w2dr10w32dr10db10w2db3~x2/"><circle cx="277.7" cy="195.0" r="4" fill="#3465a4"><title>Fraser Arisaid #2</title></circle></a><a href="/variants/s12/lr12dr3lr3db4lr16ly3lr3ly3lr3ly16db52lr4/"><circle cx="303.2" cy="154.4" r="4" fill="#3465a4"><title>Carsaig</title></circle></a><a href="/variants/s12/dr3n2dr6n21lb2n4lb3n3lb4n2lb13w2~x2/"><circle cx="334.3" cy="207.1" r="4" fill="#3465a4"><title>Qatar Airways</title></circle></a><a href="/variants/s12/w4db2lo8db2n2db2n2db23lo10db2lo7db2~x2/"><circle cx="299.5" cy="181.2" r="4" fill="#3465a4"><title>Auld Lang Syne Brown Tartan</title></circle></a><a href="/variants/s8/dp42db2w2db2dp5lb12w32dp4~x2/"><circle cx="321.5" cy="165.1" r="4" fill="#3465a4"><title>Longniddry Dress District Tartan</title></circle></a><a href="/variants/s8/dp42lb2w2lb2dp5t12w32dp4~x2~lb3103284-t2405244/"><circle cx="323.7" cy="166.8" r="4" fill="#3465a4"><title>Longniddry Purple</title></circle></a><a href="/variants/s8/n9do1n1do1n1do7w7do2~x4/"><circle cx="261.5" cy="241.7" r="4" fill="#3465a4"><title>Grey Watch, Dress</title></circle></a><a href="/variants/s8/dp42db2w2db2dp5b12w32dp4~x2/"><circle cx="322.9" cy="165.5" r="4" fill="#3465a4"><title>Longniddry, dress</title></circle></a><a href="/variants/s10/db19ly2db3w7db3w7db9w3db2w19~x2/"><circle cx="310.5" cy="230.1" r="4" fill="#3465a4"><title>Yorkshire, The Spirit of</title></circle></a><circle cx="278.2" cy="178.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dr3w29db2w2db2w2db14dr31db2w2~x2/

@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/brown/"
 - name: "Brown Watch"
   url: "/tartans/brown-watch/"
+- name: "Brown Watch"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly12k2ly2k2ly2k10g12k3g12k10ly12k2ly2/)
 (the same proportion at any scale), whose colour order is pattern [YKYKGKGKYKYKY](/stripes/ykykgkgkykyky/).
@@ -16,7 +18,7 @@ Part of the [Brown Watch](/tartans/brown-watch/) tartan — the named design gro
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=392
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=392](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=392)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -64,8 +66,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/ly18k3ly3k3ly3k13dg16k4dg16k13ly16k3ly3~x2/"><circle cx="128.4" cy="202.7" r="4" fill="#3465a4"><title>Campbell Collegiate (Corporate)</title></circle></a><a href="/variants/s13/y18k3y3k3y3k13dg16k4dg16k13y16k3y3~x2/"><circle cx="162.0" cy="212.0" r="4" fill="#3465a4"><title>Campbell Collegiate</title></circle></a><a href="/variants/s13/dy11k1dy1k1dy1k8g8k1g8k8dy8k1dy1~x4/"><circle cx="195.9" cy="179.3" r="4" fill="#3465a4"><title>Brown Watch Trade Tartan</title></circle></a><a href="/variants/s13/ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2/"><circle cx="143.5" cy="173.2" r="4" fill="#3465a4"><title>Unidentified (NZ)</title></circle></a><a href="/variants/s13/o25k4o4k4o4k23g23y4g23k23o23k4o4~x2/"><circle cx="119.3" cy="186.6" r="4" fill="#3465a4"><title>Poulter, Green (Corporate)</title></circle></a><a href="/variants/s13/lb12k2lb2k2lb2k10g12k3g12k10lb12k2lb2~x2/"><circle cx="122.9" cy="203.5" r="4" fill="#3465a4"><title>Sutherland (District)</title></circle></a><a href="/variants/s13/lr25k4lr4k4lr4k23g23y4g23k23lr23k4lr4~x2/"><circle cx="107.5" cy="183.5" r="4" fill="#3465a4"><title>Poulter Green Corporate Tartan</title></circle></a><a href="/variants/s13/lb14k3lb3k3lb3k16g16k3g16k16lb16k3lb3~x2/"><circle cx="125.2" cy="207.6" r="4" fill="#3465a4"><title>Campbell (Clan)</title></circle></a><a href="/variants/s13/o11k1o1k1o1k8g8k1g8k8o8k1o1~x2/"><circle cx="172.6" cy="168.7" r="4" fill="#3465a4"><title>Brown, Watch</title></circle></a><a href="/variants/s12/dg36ly8k9ly24dg4ly12dg4ly24k9ly8dg36dr4/"><circle cx="190.0" cy="179.7" r="4" fill="#3465a4"><title>Harmer</title></circle></a><circle cx="121.8" cy="203.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/ly18k3ly3k3ly3k13dg16k4dg16k13ly16k3ly3~x2/"><circle cx="128.5" cy="203.3" r="4" fill="#3465a4"><title>Campbell Collegiate (Corporate)</title></circle></a><a href="/variants/s13/y18k3y3k3y3k13dg16k4dg16k13y16k3y3~x2/"><circle cx="162.0" cy="212.5" r="4" fill="#3465a4"><title>Campbell Collegiate</title></circle></a><a href="/variants/s13/dy11k1dy1k1dy1k8g8k1g8k8dy8k1dy1~x4/"><circle cx="195.9" cy="179.8" r="4" fill="#3465a4"><title>Brown Watch Trade Tartan</title></circle></a><a href="/variants/s13/ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2/"><circle cx="143.5" cy="173.8" r="4" fill="#3465a4"><title>Unidentified (NZ)</title></circle></a><a href="/variants/s13/o25k4o4k4o4k23g23y4g23k23o23k4o4~x2/"><circle cx="119.3" cy="187.1" r="4" fill="#3465a4"><title>Poulter, Green (Corporate)</title></circle></a><a href="/variants/s13/lb12k2lb2k2lb2k10g12k3g12k10lb12k2lb2~x2/"><circle cx="123.0" cy="204.1" r="4" fill="#3465a4"><title>Sutherland (District)</title></circle></a><a href="/variants/s13/lr25k4lr4k4lr4k23g23y4g23k23lr23k4lr4~x2/"><circle cx="107.5" cy="184.0" r="4" fill="#3465a4"><title>Poulter Green Corporate Tartan</title></circle></a><a href="/variants/s13/lb14k3lb3k3lb3k16g16k3g16k16lb16k3lb3~x2/"><circle cx="125.3" cy="208.3" r="4" fill="#3465a4"><title>Campbell (Clan)</title></circle></a><a href="/variants/s13/o11k1o1k1o1k8g8k1g8k8o8k1o1~x2/"><circle cx="172.6" cy="169.2" r="4" fill="#3465a4"><title>Brown, Watch</title></circle></a><a href="/variants/s12/dg36ly8k9ly24dg4ly12dg4ly24k9ly8dg36dr4/"><circle cx="190.1" cy="180.3" r="4" fill="#3465a4"><title>Harmer</title></circle></a><circle cx="121.8" cy="204.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/ly12k2ly2k2ly2k10g12k3g12k10ly12k2ly2~x2/

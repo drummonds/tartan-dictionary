@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Otago Peninsula"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg4db4dr4db2dg12db2dg12db2dr4dg4w1r4dbi2dr4db4dg4db4dr4db2dg12db2/)
 (the same proportion at any scale), whose colour order is pattern [BBBGBGBBGWRBBBGBBBGBGBBBGBBBRWGBBGBGBBBG](/stripes/bbbgbgbbgwrbbbgbbbgbgbbbgbbbrwgbbgbgbbbg/).
 
 Sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3276
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3276](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3276)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>

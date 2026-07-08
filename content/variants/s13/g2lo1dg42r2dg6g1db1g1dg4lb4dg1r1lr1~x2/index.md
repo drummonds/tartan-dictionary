@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kerr of Ardgowan Hunting (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g2lo1dg42r2dg6g1db1g1dg4lb4dg1r1lr1/)
 (the same proportion at any scale), whose colour order is pattern [GYGRGGBGGWGRY](/stripes/gygrggbggwgry/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7319
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7319](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7319)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

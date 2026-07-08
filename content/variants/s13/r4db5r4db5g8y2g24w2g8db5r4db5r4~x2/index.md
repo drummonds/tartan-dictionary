@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clackson Hunting (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4db5r4db5g8y2g24w2g8db5r4db5r4/)
 (the same proportion at any scale), whose colour order is pattern [RBRBGGGWGBRBR](/stripes/rbrbgggwgbrbr/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11315
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11315](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11315)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g22r3db10t2db10r21g22r3y2db2~x2/"><circle cx="228.1" cy="179.1" r="4" fill="#3465a4"><title>Glasgow Cathedral 2000</title></circle></a><a href="/variants/s10/db22g6db5lb2g22r6g5r4g9w3~x2/"><circle cx="235.6" cy="179.2" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><a href="/variants/s10/r2db10w1dr1g1r1g6dr1g10w1~x2/"><circle cx="238.8" cy="165.5" r="4" fill="#3465a4"><title>Tennessee</title></circle></a><a href="/variants/s11/g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1~x4/"><circle cx="212.3" cy="155.6" r="4" fill="#3465a4"><title>Hynde (Sir John) (Artefact)</title></circle></a><a href="/variants/s16/w2o14g7o1db7o1db7o1g7o14r2o14g7o1db7o1~x4/"><circle cx="260.9" cy="158.4" r="4" fill="#3465a4"><title>Fraser, hunting</title></circle></a><a href="/variants/s14/g15r1g8dr3dp1dr3w1dr3dp1dr3dp12r1g7y1~x2/"><circle cx="247.2" cy="131.4" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><a href="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/"><circle cx="263.8" cy="172.5" r="4" fill="#3465a4"><title>Cape Breton University</title></circle></a><a href="/variants/s10/g11r4g4r7g41o11lb4db41r4db8/"><circle cx="217.5" cy="170.8" r="4" fill="#3465a4"><title>Stewart of Appin, Ancient hunting</title></circle></a><a href="/variants/s10/db4r17db4g4db2g4db4g27db4y4~x2/"><circle cx="273.6" cy="175.7" r="4" fill="#3465a4"><title>Cape Breton University Chemistry Society</title></circle></a><a href="/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/"><circle cx="251.8" cy="166.9" r="4" fill="#3465a4"><title>Chisholm Hunting #2</title></circle></a><circle cx="235.1" cy="161.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g22r3db10t2db10r21g22r3y2db2~x2/"><circle cx="228.1" cy="179.4" r="4" fill="#3465a4"><title>Glasgow Cathedral 2000</title></circle></a><a href="/variants/s10/db22g6db5lb2g22r6g5r4g9w3~x2/"><circle cx="235.7" cy="179.6" r="4" fill="#3465a4"><title>MacConnell</title></circle></a><a href="/variants/s10/r2db10w1dr1g1r1g6dr1g10w1~x2/"><circle cx="238.8" cy="165.9" r="4" fill="#3465a4"><title>Tennessee</title></circle></a><a href="/variants/s11/g14dr1g14dr7lb1dr7lb1dr7k5dp3lb1~x4/"><circle cx="212.3" cy="155.9" r="4" fill="#3465a4"><title>Hynde (Sir John) (Artefact)</title></circle></a><a href="/variants/s16/w2o14g7o1db7o1db7o1g7o14r2o14g7o1db7o1~x4/"><circle cx="260.9" cy="158.6" r="4" fill="#3465a4"><title>Fraser, hunting</title></circle></a><a href="/variants/s14/g15r1g8dr3dp1dr3w1dr3dp1dr3dp12r1g7y1~x2/"><circle cx="247.1" cy="131.6" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><a href="/variants/s10/db4r17db4g4db2g4db4g27db4ly4~x2/"><circle cx="263.8" cy="172.9" r="4" fill="#3465a4"><title>Cape Breton University</title></circle></a><a href="/variants/s10/g11r4g4r7g41o11lb4db41r4db8/"><circle cx="217.6" cy="171.1" r="4" fill="#3465a4"><title>Stewart of Appin, Ancient hunting</title></circle></a><a href="/variants/s10/db4r17db4g4db2g4db4g27db4y4~x2/"><circle cx="273.6" cy="176.1" r="4" fill="#3465a4"><title>Cape Breton University Chemistry Society</title></circle></a><a href="/variants/s10/dy5w3dy30db6g3db3g3db3g15r3~x2/"><circle cx="251.8" cy="167.2" r="4" fill="#3465a4"><title>Chisholm Hunting #2</title></circle></a><circle cx="235.1" cy="161.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/r4db5r4db5g8y2g24w2g8db5r4db5r4~x2/

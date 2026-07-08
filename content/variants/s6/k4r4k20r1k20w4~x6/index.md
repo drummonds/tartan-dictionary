@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lanoir"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4r4k20r1k20w4/)
 (the same proportion at any scale), whose colour order is pattern [KRKRKW](/stripes/krkrkw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2047
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2047](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2047)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k17dr6k2w6k17ly2~x2/"><circle cx="328.1" cy="191.2" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/variants/s7/r2k1r2k14w1k1w1~x8/"><circle cx="397.5" cy="128.7" r="4" fill="#3465a4"><title>White Stripes Hunting</title></circle></a><a href="/variants/s5/k55r18k4r18k38/"><circle cx="406.4" cy="210.1" r="4" fill="#3465a4"><title>Unidentified Kirtle</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17lo2~x2/"><circle cx="337.7" cy="193.3" r="4" fill="#3465a4"><title>Black Clan/Family Tartan</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="336.9" cy="193.5" r="4" fill="#3465a4"><title>Black (symmetrical)</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="491.3" cy="157.9" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><a href="/variants/s6/k8y1k1r1k4db1~x12/"><circle cx="449.2" cy="180.4" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s7/k24w1r6k21ly2k24g1~x2/"><circle cx="497.9" cy="121.9" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/variants/s7/k24w1r6k21y2k24g1~x2/"><circle cx="506.2" cy="124.1" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/variants/s5/k4r11k32y1k4~x2/"><circle cx="469.9" cy="132.7" r="4" fill="#3465a4"><title>Harvie</title></circle></a><circle cx="469.1" cy="155.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k17dr6k2w6k17ly2~x2/"><circle cx="328.2" cy="191.8" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/variants/s7/r2k1r2k14w1k1w1~x8/"><circle cx="397.4" cy="129.1" r="4" fill="#3465a4"><title>White Stripes Hunting</title></circle></a><a href="/variants/s5/k55r18k4r18k38/"><circle cx="406.5" cy="210.7" r="4" fill="#3465a4"><title>Unidentified Kirtle</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17lo2~x2/"><circle cx="337.7" cy="193.9" r="4" fill="#3465a4"><title>Black Clan/Family Tartan</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="336.9" cy="194.1" r="4" fill="#3465a4"><title>Black (symmetrical)</title></circle></a><a href="/variants/s7/k24g3r3k24r2k2r2/"><circle cx="491.3" cy="158.4" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><a href="/variants/s6/k8y1k1r1k4db1~x12/"><circle cx="449.2" cy="180.9" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s7/k24w1r6k21ly2k24g1~x2/"><circle cx="497.8" cy="122.1" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/variants/s7/k24w1r6k21y2k24g1~x2/"><circle cx="506.1" cy="124.4" r="4" fill="#3465a4"><title>Gourlay, George (Personal)</title></circle></a><a href="/variants/s5/k4r11k32y1k4~x2/"><circle cx="469.8" cy="133.1" r="4" fill="#3465a4"><title>Harvie</title></circle></a><circle cx="469.1" cy="155.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k4r4k20r1k20w4~x6/

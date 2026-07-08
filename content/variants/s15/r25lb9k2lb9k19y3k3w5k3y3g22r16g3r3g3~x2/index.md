@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's No 181, (Stewart)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r25lb9k2lb9k19y3k3w5k3y3g22r16g3r3g3/)
 (the same proportion at any scale), whose colour order is pattern [GRGRGGKWKGKWKWR](/stripes/grgrggkwkgkwkwr/).
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r20lb14k17y2k3w3k3g24r14k4r4w2~x2/"><circle cx="79.4" cy="123.5" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/variants/s14/r25w4k4g25y3k15lb13r5lb5r15g4r5k2g3~x2/"><circle cx="105.2" cy="117.0" r="4" fill="#3465a4"><title>Wilson's, No 226</title></circle></a><a href="/variants/s17/db3y5r4k4db14w3y4r4k2r4y4w3g17w3k3r22w3~x2/"><circle cx="68.1" cy="110.1" r="4" fill="#3465a4"><title>MacPherson #3</title></circle></a><a href="/variants/s12/r19lb13k16y3k3w5k3g32k2r15lb5r15~x2/"><circle cx="103.6" cy="119.2" r="4" fill="#3465a4"><title>Wilson's, No 90</title></circle></a><a href="/variants/s15/db1y3r3k2db8y3r2k1r2y3g8w1k1r12w1~x2/"><circle cx="110.6" cy="114.6" r="4" fill="#3465a4"><title>MacPherson #2</title></circle></a><a href="/variants/s8/k14ly3g18r15w2r3w2dp14~x2~dp1607327/"><circle cx="73.9" cy="142.2" r="4" fill="#3465a4"><title>Wilson's No.083</title></circle></a><a href="/variants/s12/r8lb7k8y2k1w2k1g19k1r8lb3r8~x2/"><circle cx="110.1" cy="108.1" r="4" fill="#3465a4"><title>Unidentified No 1</title></circle></a><a href="/variants/s12/r14lb4k6y1k2w2k2g12r6k2r2w1~x2/"><circle cx="120.5" cy="109.4" r="4" fill="#3465a4"><title>Stewart, Prince Charles Edward</title></circle></a><a href="/variants/s17/r48b4r28k5w4k6b4k7g8k7b4k6w4k5ri24b4g48~g2508144-ri2209032/"><circle cx="100.0" cy="90.5" r="4" fill="#3465a4"><title>Total</title></circle></a><a href="/variants/s12/db4w1k3y1g1w1k1g8r12w1r2k1~x2/"><circle cx="120.6" cy="105.2" r="4" fill="#3465a4"><title>MacLean</title></circle></a><circle cx="80.4" cy="111.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r20lb14k17y2k3w3k3g24r14k4r4w2~x2/"><circle cx="79.4" cy="123.9" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/variants/s14/r25w4k4g25y3k15lb13r5lb5r15g4r5k2g3~x2/"><circle cx="105.2" cy="117.3" r="4" fill="#3465a4"><title>Wilson's, No 226</title></circle></a><a href="/variants/s17/db3y5r4k4db14w3y4r4k2r4y4w3g17w3k3r22w3~x2/"><circle cx="68.0" cy="110.4" r="4" fill="#3465a4"><title>MacPherson #3</title></circle></a><a href="/variants/s12/r19lb13k16y3k3w5k3g32k2r15lb5r15~x2/"><circle cx="103.6" cy="119.5" r="4" fill="#3465a4"><title>Wilson's, No 90</title></circle></a><a href="/variants/s15/db1y3r3k2db8y3r2k1r2y3g8w1k1r12w1~x2/"><circle cx="110.6" cy="114.8" r="4" fill="#3465a4"><title>MacPherson #2</title></circle></a><a href="/variants/s8/k14ly3g18r15w2r3w2dp14~x2~dp1607327/"><circle cx="73.9" cy="142.6" r="4" fill="#3465a4"><title>Wilson's No.083</title></circle></a><a href="/variants/s12/r8lb7k8y2k1w2k1g19k1r8lb3r8~x2/"><circle cx="110.0" cy="108.4" r="4" fill="#3465a4"><title>Unidentified No 1</title></circle></a><a href="/variants/s12/r14lb4k6y1k2w2k2g12r6k2r2w1~x2/"><circle cx="120.4" cy="109.7" r="4" fill="#3465a4"><title>Stewart, Prince Charles Edward</title></circle></a><a href="/variants/s17/r48b4r28k5w4k6b4k7g8k7b4k6w4k5ri24b4g48~g2508144-ri2209032/"><circle cx="99.9" cy="90.8" r="4" fill="#3465a4"><title>Total</title></circle></a><a href="/variants/s12/db4w1k3y1g1w1k1g8r12w1r2k1~x2/"><circle cx="120.5" cy="105.5" r="4" fill="#3465a4"><title>MacLean</title></circle></a><circle cx="80.3" cy="111.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/r25lb9k2lb9k19y3k3w5k3y3g22r16g3r3g3~x2/

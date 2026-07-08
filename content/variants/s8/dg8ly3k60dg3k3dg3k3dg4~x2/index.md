@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Aberdeen-Angus Cattle Society (Corp)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg8ly3k60dg3k3dg3k3dg4/)
 (the same proportion at any scale), whose colour order is pattern [GKGKGKYG](/stripes/gkgkgkyg/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3012
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3012](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3012)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/"><circle cx="572.7" cy="133.4" r="4" fill="#3465a4"><title>STLTH</title></circle></a><a href="/variants/s9/k21dp2n1k1n1dp2k6db2n1~x4/"><circle cx="485.4" cy="115.6" r="4" fill="#3465a4"><title>Clan Inebriated</title></circle></a><a href="/variants/s9/k100dp8n4k4n4dp8k25db10n4/"><circle cx="510.0" cy="106.1" r="4" fill="#3465a4"><title>CI (Corporate)</title></circle></a><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="454.7" cy="88.0" r="4" fill="#3465a4"><title>Racing Stewart (Stealth)</title></circle></a><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/"><circle cx="439.1" cy="76.2" r="4" fill="#3465a4"><title>Racing Stewart, Stealth (Corporate)</title></circle></a><a href="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"><circle cx="465.9" cy="114.1" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="450.6" cy="111.7" r="4" fill="#3465a4"><title>Laird Abdullah (Personal)</title></circle></a><a href="/variants/s12/r3dg4r3dg4k4dg2k50dg2k4g3k4g3~x2~dg1806142-g2408144/"><circle cx="410.7" cy="69.5" r="4" fill="#3465a4"><title>Ross, Ryan (Personal)</title></circle></a><a href="/variants/s9/db7k5b6k5r7k2db2k70b2/"><circle cx="480.1" cy="69.3" r="4" fill="#3465a4"><title>United States</title></circle></a><a href="/variants/s8/k62r3k3dy3k3r3k9n5~x2/"><circle cx="540.7" cy="98.2" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><circle cx="501.6" cy="121.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dt4k2dt4k45n2k3n2~x2/"><circle cx="572.6" cy="133.5" r="4" fill="#3465a4"><title>STLTH</title></circle></a><a href="/variants/s9/k21dp2n1k1n1dp2k6db2n1~x4/"><circle cx="485.3" cy="115.7" r="4" fill="#3465a4"><title>Clan Inebriated</title></circle></a><a href="/variants/s9/k100dp8n4k4n4dp8k25db10n4/"><circle cx="509.9" cy="106.1" r="4" fill="#3465a4"><title>CI (Corporate)</title></circle></a><a href="/variants/s10/k81n5k5n3k3n3k3dg11dr11n4~x2/"><circle cx="454.5" cy="88.1" r="4" fill="#3465a4"><title>Racing Stewart (Stealth)</title></circle></a><a href="/variants/s10/k86n5k5n3k3n3k3g11dr11n4~x2/"><circle cx="438.9" cy="76.2" r="4" fill="#3465a4"><title>Racing Stewart, Stealth (Corporate)</title></circle></a><a href="/variants/s8/k2w1k2dr6k6dr3k28w2~x2/"><circle cx="465.8" cy="114.4" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/variants/s8/k10n2k2n8k40r4k5ri2~x2~r2109032-ri2806019/"><circle cx="450.5" cy="111.9" r="4" fill="#3465a4"><title>Laird Abdullah (Personal)</title></circle></a><a href="/variants/s12/r3dg4r3dg4k4dg2k50dg2k4g3k4g3~x2~dg1806142-g2408144/"><circle cx="410.5" cy="69.6" r="4" fill="#3465a4"><title>Ross, Ryan (Personal)</title></circle></a><a href="/variants/s9/db7k5b6k5r7k2db2k70b2/"><circle cx="479.9" cy="69.4" r="4" fill="#3465a4"><title>United States</title></circle></a><a href="/variants/s8/k62r3k3dy3k3r3k9n5~x2/"><circle cx="540.6" cy="98.3" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><circle cx="501.5" cy="121.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg8ly3k60dg3k3dg3k3dg4~x2/

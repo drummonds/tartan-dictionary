@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Boy Scouts of Canada (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w16r16w16r3w1r1w3r1w1r1w1r3w3r3w1r1w3r1w1r3w3r3w1r1w3r1w1r3w1r1w1r3/)
 (the same proportion at any scale), whose colour order is pattern [RWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRW](/stripes/rwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrw/).
 
 Sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8023
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8023](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8023)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

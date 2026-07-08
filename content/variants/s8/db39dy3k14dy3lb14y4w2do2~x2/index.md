@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Unidentified Lady's"
   url: "/tartans/unidentified-lady-s/"
+- name: "Unidentified Lady's kilt"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db39dy3k14dy3lb14y4w2do2/)
 (the same proportion at any scale), whose colour order is pattern [BGKGWGWB](/stripes/bgkgwgwb/).
@@ -14,7 +16,7 @@ Part of the [Unidentified Lady's](/tartans/unidentified-lady-s/) tartan — the 
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4302
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4302](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4302)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db39o3k14o3lb14y4w2do2~x2/"><circle cx="174.5" cy="88.1" r="4" fill="#3465a4"><title>Unidentified, Lady's kilt</title></circle></a><a href="/variants/s6/w4db54k53dp4lb8ly4/"><circle cx="195.2" cy="138.1" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><a href="/variants/s6/y4lb8dp4k53db54w4/"><circle cx="199.7" cy="139.4" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/"><circle cx="151.0" cy="124.0" r="4" fill="#3465a4"><title>Unidentified #23</title></circle></a><a href="/variants/s7/db35r2k16y2b25w2b6~x2/"><circle cx="182.5" cy="134.5" r="4" fill="#3465a4"><title>Unidentified 7</title></circle></a><a href="/variants/s7/db40dr3k10lo2lb15w2lb4~x2/"><circle cx="231.7" cy="108.9" r="4" fill="#3465a4"><title>U.S. Forces Thurso (Military)</title></circle></a><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="196.9" cy="156.8" r="4" fill="#3465a4"><title>Ferster, James Carney (Personal)</title></circle></a><a href="/variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/"><circle cx="159.3" cy="125.0" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/variants/s8/n18k3g3r2w3db36k2y6~x2/"><circle cx="220.9" cy="100.8" r="4" fill="#3465a4"><title>M'Kleod</title></circle></a><a href="/variants/s10/db73k9g3k5dbi13w3lb7k5w7r16~db1208266-dbi1606265/"><circle cx="205.9" cy="57.7" r="4" fill="#3465a4"><title>Ambulance Victoria</title></circle></a><circle cx="180.3" cy="91.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db39o3k14o3lb14y4w2do2~x2/"><circle cx="174.4" cy="88.2" r="4" fill="#3465a4"><title>Unidentified, Lady's kilt</title></circle></a><a href="/variants/s6/w4db54k53dp4lb8ly4/"><circle cx="195.1" cy="138.4" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><a href="/variants/s6/y4lb8dp4k53db54w4/"><circle cx="199.6" cy="139.6" r="4" fill="#3465a4"><title>Pipers' Trail, The</title></circle></a><a href="/variants/s7/db35r2k16y2lb25w2lb6~x2/"><circle cx="151.0" cy="124.3" r="4" fill="#3465a4"><title>Unidentified #23</title></circle></a><a href="/variants/s7/db35r2k16y2b25w2b6~x2/"><circle cx="182.5" cy="134.7" r="4" fill="#3465a4"><title>Unidentified 7</title></circle></a><a href="/variants/s7/db40dr3k10lo2lb15w2lb4~x2/"><circle cx="231.6" cy="109.1" r="4" fill="#3465a4"><title>U.S. Forces Thurso (Military)</title></circle></a><a href="/variants/s6/t12db35lb4w3k11dr5~x2/"><circle cx="196.9" cy="157.1" r="4" fill="#3465a4"><title>Ferster, James Carney (Personal)</title></circle></a><a href="/variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/"><circle cx="159.2" cy="125.2" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/variants/s8/n18k3g3r2w3db36k2y6~x2/"><circle cx="220.8" cy="100.9" r="4" fill="#3465a4"><title>M'Kleod</title></circle></a><a href="/variants/s10/db73k9g3k5dbi13w3lb7k5w7r16~db1208266-dbi1606265/"><circle cx="205.7" cy="57.7" r="4" fill="#3465a4"><title>Ambulance Victoria</title></circle></a><circle cx="180.1" cy="91.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db39dy3k14dy3lb14y4w2do2~x2/

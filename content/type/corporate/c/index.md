@@ -6,18 +6,18 @@ date: 2023-03-18
 
 <ul class="clan-grid">
 <li><a class="tartan" href="/variants/s4/k62db15w6y4~x2/"><img src="/variants/s4/k62db15w6y4~x2/sett.png" alt="C-Tec N.I. Ltd" width="140"><br>C-Tec N.I. Ltd</a></li>
-<li><a class="tartan" href="/variants/s7/dt51g5r15g37dt17r6g7~x2/"><img src="/variants/s7/dt51g5r15g37dt17r6g7~x2/sett.png" alt="Cadence Design Systems (Corporate)" width="140"><br>Cadence Design Systems (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s7/db51g5r15g37db17r6g7~x2/"><img src="/variants/s7/db51g5r15g37db17r6g7~x2/sett.png" alt="Cadence Design Systems (Corporate)" width="140"><br>Cadence Design Systems (Corporate)</a></li>
+<li><a class="tartan" href="/variants/s7/dt51g5r15g37dt17r6g7~x2/"><img src="/variants/s7/dt51g5r15g37dt17r6g7~x2/sett.png" alt="Cadence Design Systems (Corporate)" width="140"><br>Cadence Design Systems (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s9/k5db3k3db23n4k25n23lb3n5~x2/"><img src="/variants/s9/k5db3k3db23n4k25n23lb3n5~x2/sett.png" alt="Cahonas Scotland" width="140"><br>Cahonas Scotland</a></li>
 <li><a class="tartan" href="/variants/s7/w3r2dp31g30y2dp2y1~x2/"><img src="/variants/s7/w3r2dp31g30y2dp2y1~x2/sett.png" alt="Caig (Corporate)" width="140"><br>Caig (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s8/dp57r5dp2r8n2dp3y2dp14~x2/"><img src="/variants/s8/dp57r5dp2r8n2dp3y2dp14~x2/sett.png" alt="Cairngorms National Park" width="140"><br>Cairngorms National Park</a></li>
 <li><a class="tartan" href="/variants/s8/o57r5o2r8n2o3ly2o14~x2/"><img src="/variants/s8/o57r5o2r8n2o3ly2o14~x2/sett.png" alt="Cairngorms National Park" width="140"><br>Cairngorms National Park</a></li>
+<li><a class="tartan" href="/variants/s8/dp57r5dp2r8n2dp3y2dp14~x2/"><img src="/variants/s8/dp57r5dp2r8n2dp3y2dp14~x2/sett.png" alt="Cairngorms National Park" width="140"><br>Cairngorms National Park</a></li>
 <li><a class="tartan" href="/variants/s10/g4lb3g18k14y2k2dp18ly1dp2ly3~x2~y2203076-ly2705081/"><img src="/variants/s10/g4lb3g18k14y2k2dp18ly1dp2ly3~x2~y2203076-ly2705081/sett.png" alt="Caisteal Leòdhais" width="140"><br>Caisteal Leòdhais</a></li>
 <li><a class="tartan" href="/variants/s6/r1lr10y2lr16db40lr1~x2/"><img src="/variants/s6/r1lr10y2lr16db40lr1~x2/sett.png" alt="Caithness Glass (Corporate)" width="140"><br>Caithness Glass (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s9/w3lb2n14o8lb14db16n13lb2w3~x2~n1900000-o2500000/"><img src="/variants/s9/w3lb2n14o8lb14db16n13lb2w3~x2~n1900000-o2500000/sett.png" alt="Caitriot" width="140"><br>Caitriot</a></li>
 <li><a class="tartan" href="/variants/s9/w3ni2n14lr8ni14db16n13ni2w3~x2~ni2203265-n1700000-lr2800000-db0705267/"><img src="/variants/s9/w3ni2n14lr8ni14db16n13ni2w3~x2~ni2203265-n1700000-lr2800000-db0705267/sett.png" alt="Caitriot" width="140"><br>Caitriot</a></li>
-<li><a class="tartan" href="/variants/s10/dbi56dg11r2dg7k2dg7r2dg7db3lo4~x2~dbi1406275-db1204274/"><img src="/variants/s10/dbi56dg11r2dg7k2dg7r2dg7db3lo4~x2~dbi1406275-db1204274/sett.png" alt="CAL FIRE Local 2881" width="140"><br>CAL FIRE Local 2881</a></li>
 <li><a class="tartan" href="/variants/s10/db56dg11r2dg7k2dg7r2dg7dbi3y4~x2~db1003265-dbi1208266/"><img src="/variants/s10/db56dg11r2dg7k2dg7r2dg7dbi3y4~x2~db1003265-dbi1208266/sett.png" alt="CAL FIRE Local 2881" width="140"><br>CAL FIRE Local 2881</a></li>
+<li><a class="tartan" href="/variants/s10/dbi56dg11r2dg7k2dg7r2dg7db3lo4~x2~dbi1406275-db1204274/"><img src="/variants/s10/dbi56dg11r2dg7k2dg7r2dg7db3lo4~x2~dbi1406275-db1204274/sett.png" alt="CAL FIRE Local 2881" width="140"><br>CAL FIRE Local 2881</a></li>
 <li><a class="tartan" href="/variants/s6/ly5db24k8dbi18ly6dy3~ly3307090-db1204274-dbi1406275-dy1603076/"><img src="/variants/s6/ly5db24k8dbi18ly6dy3~ly3307090-db1204274-dbi1406275-dy1603076/sett.png" alt="Cala Homes (Corporate)" width="140"><br>Cala Homes (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/"><img src="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/sett.png" alt="Caledon (Corporate)" width="140"><br>Caledon (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s13/lg1dt9lg1db1lg1db5lg1db1lg1db9lg2dt2lg1~x4/"><img src="/variants/s13/lg1dt9lg1db1lg1db5lg1db1lg1db9lg2dt2lg1~x4/sett.png" alt="Caledonian Airways (Corporate)" width="140"><br>Caledonian Airways (Corporate)</a></li>
@@ -94,8 +94,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s7/k72r3k11lb9k11r3k37/"><img src="/variants/s7/k72r3k11lb9k11r3k37/sett.png" alt="Chafyn House (School)" width="140"><br>Chafyn House (School)</a></li>
 <li><a class="tartan" href="/variants/s7/g2db15n5g2db2g7w2~x4/"><img src="/variants/s7/g2db15n5g2db2g7w2~x4/sett.png" alt="Chambers Bay" width="140"><br>Chambers Bay</a></li>
 <li><a class="tartan" href="/variants/s7/dp22ly10dp6lb18dp50db71k6/"><img src="/variants/s7/dp22ly10dp6lb18dp50db71k6/sett.png" alt="Charleston Police Department" width="140"><br>Charleston Police Department</a></li>
-<li><a class="tartan" href="/variants/s6/k78r10g7y3db2w5~x2/"><img src="/variants/s6/k78r10g7y3db2w5~x2/sett.png" alt="Charlotte Fire Department" width="140"><br>Charlotte Fire Department</a></li>
 <li><a class="tartan" href="/variants/s6/k75r10g7y3db2w5~x2/"><img src="/variants/s6/k75r10g7y3db2w5~x2/sett.png" alt="Charlotte Fire Department" width="140"><br>Charlotte Fire Department</a></li>
+<li><a class="tartan" href="/variants/s6/k78r10g7y3db2w5~x2/"><img src="/variants/s6/k78r10g7y3db2w5~x2/sett.png" alt="Charlotte Fire Department" width="140"><br>Charlotte Fire Department</a></li>
 <li><a class="tartan" href="/variants/s8/dy4g3r2g36t30k3t3k3~x2/"><img src="/variants/s8/dy4g3r2g36t30k3t3k3~x2/sett.png" alt="Chartered Accountants of Scotland" width="140"><br>Chartered Accountants of Scotland</a></li>
 <li><a class="tartan" href="/variants/s20/k34n5k5n8k5n56lb5n5lb36y5lb36n5lb5n56k5n8k5n5k34y5/"><img src="/variants/s20/k34n5k5n8k5n56lb5n5lb36y5lb36n5lb5n56k5n8k5n5k34y5/sett.png" alt="Chartered Institute of Bankers" width="140"><br>Chartered Institute of Bankers</a></li>
 <li><a class="tartan" href="/variants/s11/y5lb36n5lb5n56k5n8k5n5k34y5/"><img src="/variants/s11/y5lb36n5lb5n56k5n8k5n5k34y5/sett.png" alt="Chartered Institute of Bankers in Scotland" width="140"><br>Chartered Institute of Bankers in Scotland</a></li>
@@ -130,8 +130,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s5/r13y13g13db22w4~x2/"><img src="/variants/s5/r13y13g13db22w4~x2/sett.png" alt="Clan Haggis World (Corporate)" width="140"><br>Clan Haggis World (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s9/k21dp2n1k1n1dp2k6db2n1~x4/"><img src="/variants/s9/k21dp2n1k1n1dp2k6db2n1~x4/sett.png" alt="Clan Inebriated" width="140"><br>Clan Inebriated</a></li>
 <li><a class="tartan" href="/variants/s9/k75dp6n2k2n2dp6k12db2n2~x2/"><img src="/variants/s9/k75dp6n2k2n2dp6k12db2n2~x2/sett.png" alt="Clan Inebriated (Corporate)" width="140"><br>Clan Inebriated (Corporate)</a></li>
-<li><a class="tartan" href="/variants/s8/k4ly2k4r29w29db4w2g4~x2/"><img src="/variants/s8/k4ly2k4r29w29db4w2g4~x2/sett.png" alt="Clan MacLeod Societies of Canada" width="140"><br>Clan MacLeod Societies of Canada</a></li>
 <li><a class="tartan" href="/variants/s8/k4y2k4r29w29db4w2g4~x2/"><img src="/variants/s8/k4y2k4r29w29db4w2g4~x2/sett.png" alt="Clan MacLeod Societies of Canada" width="140"><br>Clan MacLeod Societies of Canada</a></li>
+<li><a class="tartan" href="/variants/s8/k4ly2k4r29w29db4w2g4~x2/"><img src="/variants/s8/k4ly2k4r29w29db4w2g4~x2/sett.png" alt="Clan MacLeod Societies of Canada" width="140"><br>Clan MacLeod Societies of Canada</a></li>
 <li><a class="tartan" href="/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/"><img src="/variants/s15/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/sett.png" alt="Clan Pipers Frankfurt and District Pipe Band" width="140"><br>Clan Pipers Frankfurt and District Pipe Band</a></li>
 <li><a class="tartan" href="/variants/s8/db4g5dp3g5db46dp42w4dp4/"><img src="/variants/s8/db4g5dp3g5db46dp42w4dp4/sett.png" alt="Clans of Caledonia" width="140"><br>Clans of Caledonia</a></li>
 <li><a class="tartan" href="/variants/s7/r21g3r21g16y3w2y3~x2/"><img src="/variants/s7/r21g3r21g16y3w2y3~x2/sett.png" alt="Claus of the North Pole (Restricted)" width="140"><br>Claus of the North Pole (Restricted)</a></li>
@@ -195,8 +195,8 @@ date: 2023-03-18
 <li><a class="tartan" href="/variants/s16/r5k1db2k1r3k1db35w1db2r3db3r2db3ly1db1r5~x2/"><img src="/variants/s16/r5k1db2k1r3k1db35w1db2r3db3r2db3ly1db1r5~x2/sett.png" alt="Crieff High (Corporate)" width="140"><br>Crieff High (Corporate)</a></li>
 <li><a class="tartan" href="/variants/s9/k3dp16dg5dp3o2dp2k12db23w2~x2/"><img src="/variants/s9/k3dp16dg5dp3o2dp2k12db23w2~x2/sett.png" alt="Crieff Highland Gathering" width="140"><br>Crieff Highland Gathering</a></li>
 <li><a class="tartan" href="/variants/s16/db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1~x4/"><img src="/variants/s16/db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1~x4/sett.png" alt="Crieff Hydro Hotel" width="140"><br>Crieff Hydro Hotel</a></li>
-<li><a class="tartan" href="/variants/s10/k3g1r1db6n2db1n1db1r10w1~x4/"><img src="/variants/s10/k3g1r1db6n2db1n1db1r10w1~x4/sett.png" alt="Crieff Primary School" width="140"><br>Crieff Primary School</a></li>
 <li><a class="tartan" href="/variants/s10/k3g1dr1db6n2db1n1db1dr10w1~x4/"><img src="/variants/s10/k3g1dr1db6n2db1n1db1dr10w1~x4/sett.png" alt="Crieff Primary School" width="140"><br>Crieff Primary School</a></li>
+<li><a class="tartan" href="/variants/s10/k3g1r1db6n2db1n1db1r10w1~x4/"><img src="/variants/s10/k3g1r1db6n2db1n1db1r10w1~x4/sett.png" alt="Crieff Primary School" width="140"><br>Crieff Primary School</a></li>
 <li><a class="tartan" href="/variants/s6/k3lb10db2g6db18g2~x2/"><img src="/variants/s6/k3lb10db2g6db18g2~x2/sett.png" alt="Crombie House Check" width="140"><br>Crombie House Check</a></li>
 <li><a class="tartan" href="/variants/s7/dg4o2dg13w2o13dg2o4~x2/"><img src="/variants/s7/dg4o2dg13w2o13dg2o4~x2/sett.png" alt="Crossnor School" width="140"><br>Crossnor School</a></li>
 <li><a class="tartan" href="/variants/s13/g27r2g3r3db3ly2db14r2db3ly3db3r2db14~x2/"><img src="/variants/s13/g27r2g3r3db3ly2db14r2db3ly3db3r2db14~x2/sett.png" alt="Crowne Plaza (Corporate)" width="140"><br>Crowne Plaza (Corporate)</a></li>

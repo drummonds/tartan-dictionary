@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kilgour"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db14g21db4r21db14y2/)
 (the same proportion at any scale), whose colour order is pattern [BGBRBG](/stripes/bgbrbg/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1967
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1967](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1967)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y15db8r25db72dg98w15/"><circle cx="227.6" cy="195.9" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s5/db9r12dg9db5w2~x4/"><circle cx="169.8" cy="274.7" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Herit</title></circle></a><a href="/variants/s6/db9r3db1g9r3db1~x2/"><circle cx="252.0" cy="237.8" r="4" fill="#3465a4"><title>Logan #5</title></circle></a><a href="/variants/s5/db18r18dp2g12db1~x4/"><circle cx="247.2" cy="194.5" r="4" fill="#3465a4"><title>Wyeth (Personal)</title></circle></a><a href="/variants/s6/db3dg21db3o21db35w3~x2/"><circle cx="286.0" cy="216.0" r="4" fill="#3465a4"><title>Donnolly</title></circle></a><a href="/variants/s7/db1y6db8r1db8g6y1~x4~g2408144/"><circle cx="282.3" cy="235.7" r="4" fill="#3465a4"><title>Hill of Banchory Primary School</title></circle></a><a href="/variants/s7/db1y6db8r1db8g6y1~x4/"><circle cx="293.2" cy="239.1" r="4" fill="#3465a4"><title>Hill of Banchory Primary (School)</title></circle></a><a href="/variants/s6/lr4g24db10r3db12lo4~x2/"><circle cx="201.6" cy="219.8" r="4" fill="#3465a4"><title>Inglis (Name)</title></circle></a><a href="/variants/s6/db4r11g11db22y1g4~x2/"><circle cx="289.9" cy="190.0" r="4" fill="#3465a4"><title>Harvey</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="175.6" cy="204.8" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><circle cx="221.2" cy="239.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/y15db8r25db72dg98w15/"><circle cx="227.6" cy="196.3" r="4" fill="#3465a4"><title>Afternoon Tea / Darjeeling</title></circle></a><a href="/variants/s5/db9r12dg9db5w2~x4/"><circle cx="170.0" cy="275.5" r="4" fill="#3465a4"><title>Battle of Prestonpans (1745) Herit</title></circle></a><a href="/variants/s6/db9r3db1g9r3db1~x2/"><circle cx="252.2" cy="238.3" r="4" fill="#3465a4"><title>Logan #5</title></circle></a><a href="/variants/s5/db18r18dp2g12db1~x4/"><circle cx="247.2" cy="194.9" r="4" fill="#3465a4"><title>Wyeth (Personal)</title></circle></a><a href="/variants/s6/db3dg21db3o21db35w3~x2/"><circle cx="286.1" cy="216.4" r="4" fill="#3465a4"><title>Donnolly</title></circle></a><a href="/variants/s7/db1y6db8r1db8g6y1~x4~g2408144/"><circle cx="282.4" cy="236.2" r="4" fill="#3465a4"><title>Hill of Banchory Primary School</title></circle></a><a href="/variants/s7/db1y6db8r1db8g6y1~x4/"><circle cx="293.3" cy="239.6" r="4" fill="#3465a4"><title>Hill of Banchory Primary (School)</title></circle></a><a href="/variants/s6/lr4g24db10r3db12lo4~x2/"><circle cx="201.7" cy="220.3" r="4" fill="#3465a4"><title>Inglis (Name)</title></circle></a><a href="/variants/s6/db4r11g11db22y1g4~x2/"><circle cx="289.9" cy="190.4" r="4" fill="#3465a4"><title>Harvey</title></circle></a><a href="/variants/s6/w5lb34k24lb4dr24lb4~x2/"><circle cx="175.6" cy="205.4" r="4" fill="#3465a4"><title>Wcwm 759-3</title></circle></a><circle cx="221.3" cy="240.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db14g21db4r21db14y2~x2/

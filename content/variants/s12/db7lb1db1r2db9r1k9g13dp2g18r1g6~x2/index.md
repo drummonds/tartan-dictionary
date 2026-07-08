@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/west/"
 - name: "West Highland Way"
   url: "/tartans/west-highland-way/"
+- name: "West Highland Way (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db7lb1db1r2db9r1k9g13dp2g18r1g6/)
 (the same proportion at any scale), whose colour order is pattern [BWBRBRKGBGRG](/stripes/bwbrbrkgbgrg/).
@@ -16,7 +18,7 @@ Part of the [West Highland Way](/tartans/west-highland-way/) tartan — the name
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6837
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6837](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6837)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -77,8 +79,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db9lb1db1r3db14r1k12dg15dp3dg21r1dg8~x2~db1406275-dg1806142-dp1607327/"><circle cx="200.3" cy="89.4" r="4" fill="#3465a4"><title>West Highland Way</title></circle></a><a href="/variants/s11/g20k1n1k1g20k10n2k2r2db20w1~x2/"><circle cx="205.9" cy="100.4" r="4" fill="#3465a4"><title>Storrie (Name)</title></circle></a><a href="/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/"><circle cx="164.9" cy="124.0" r="4" fill="#3465a4"><title>East Lothian (Fashion) Fashion Tartan</title></circle></a><a href="/variants/s9/g4dr2g20db8k8db4lb1lo2k1~x2/"><circle cx="192.3" cy="115.7" r="4" fill="#3465a4"><title>Dodd of Branford</title></circle></a><a href="/variants/s11/ly3g3dr2g16k2db24k2g16dr2g3lb3~x2/"><circle cx="207.7" cy="128.5" r="4" fill="#3465a4"><title>Loch Tay (District)</title></circle></a><a href="/variants/s11/y3g3r2g16k2db24k2g16r2g3lb3~x2/"><circle cx="210.5" cy="128.3" r="4" fill="#3465a4"><title>Loch Tay</title></circle></a><a href="/variants/s12/k2w1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="219.5" cy="107.5" r="4" fill="#3465a4"><title>MacClure Htg (Name)</title></circle></a><a href="/variants/s12/k2lr1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="223.5" cy="108.5" r="4" fill="#3465a4"><title>MacClure Hunting Clan/Family Tartan</title></circle></a><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="220.4" cy="142.5" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3t6~x2/"><circle cx="148.1" cy="136.1" r="4" fill="#3465a4"><title>Stinson (Name)</title></circle></a><circle cx="206.4" cy="115.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db9lb1db1r3db14r1k12dg15dp3dg21r1dg8~x2~db1406275-dg1806142-dp1607327/"><circle cx="200.1" cy="89.4" r="4" fill="#3465a4"><title>West Highland Way</title></circle></a><a href="/variants/s11/g20k1n1k1g20k10n2k2r2db20w1~x2/"><circle cx="205.8" cy="100.5" r="4" fill="#3465a4"><title>Storrie (Name)</title></circle></a><a href="/variants/s12/db17dp4db2k11g33y4g33k11db2dp4db17lb6~x2/"><circle cx="164.8" cy="124.3" r="4" fill="#3465a4"><title>East Lothian (Fashion) Fashion Tartan</title></circle></a><a href="/variants/s9/g4dr2g20db8k8db4lb1lo2k1~x2/"><circle cx="192.2" cy="115.9" r="4" fill="#3465a4"><title>Dodd of Branford</title></circle></a><a href="/variants/s11/ly3g3dr2g16k2db24k2g16dr2g3lb3~x2/"><circle cx="207.6" cy="128.8" r="4" fill="#3465a4"><title>Loch Tay (District)</title></circle></a><a href="/variants/s11/y3g3r2g16k2db24k2g16r2g3lb3~x2/"><circle cx="210.5" cy="128.5" r="4" fill="#3465a4"><title>Loch Tay</title></circle></a><a href="/variants/s12/k2w1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="219.4" cy="107.7" r="4" fill="#3465a4"><title>MacClure Htg (Name)</title></circle></a><a href="/variants/s12/k2lr1g2dy6g2db4g2k2g15r2g2k1~x4/"><circle cx="223.4" cy="108.7" r="4" fill="#3465a4"><title>MacClure Hunting Clan/Family Tartan</title></circle></a><a href="/variants/s9/dg4dr1dg12k1ly4k1dg3t5w2~x2/"><circle cx="220.3" cy="142.8" r="4" fill="#3465a4"><title>Lees-McRae College</title></circle></a><a href="/variants/s11/k7t20lb2r6lb2k20y3g20t27r3t6~x2/"><circle cx="148.1" cy="136.4" r="4" fill="#3465a4"><title>Stinson (Name)</title></circle></a><circle cx="206.3" cy="115.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db7lb1db1r2db9r1k9g13dp2g18r1g6~x2/

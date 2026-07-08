@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Erskine Dress Burgandy Clan Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr5w2dr25w25dr2w5/)
 (the same proportion at any scale), whose colour order is pattern [BWBWBW](/stripes/bwbwbw/).
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1972
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1972](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1972)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r6w2r29w29r2w6~x2/"><circle cx="370.4" cy="210.6" r="4" fill="#3465a4"><title>Erskine, Burgundy (Dance)</title></circle></a><a href="/variants/s6/r2w1r9w9r1w2~x6/"><circle cx="351.2" cy="233.9" r="4" fill="#3465a4"><title>Erskine Red &amp; White (Dance)</title></circle></a><a href="/variants/s6/dp6w2dp29w29dp2w6~x2/"><circle cx="381.3" cy="233.8" r="4" fill="#3465a4"><title>Erskine Purple (Dance) Fashion Tartan</title></circle></a><a href="/variants/s6/dp2w1dp9w9dp1w2~x6/"><circle cx="362.0" cy="257.1" r="4" fill="#3465a4"><title>Erskine Purple (Dance)</title></circle></a><a href="/variants/s5/w45dr2g9w2dr30~x2/"><circle cx="340.7" cy="196.2" r="4" fill="#3465a4"><title>Malaysian Unknown (Artefact)</title></circle></a><a href="/variants/s6/w5db16w5db16w33dr3~x2/"><circle cx="346.3" cy="248.0" r="4" fill="#3465a4"><title>Buchanan Dress Blue (Dance)</title></circle></a><a href="/variants/s6/dr3lb10dr3lb4dr20w1~x4/"><circle cx="441.9" cy="210.0" r="4" fill="#3465a4"><title>Monica</title></circle></a><a href="/variants/s6/lr15do6lr1do3ly3lr1~x4/"><circle cx="405.7" cy="219.1" r="4" fill="#3465a4"><title>Burns (Fashion)</title></circle></a><circle cx="375.3" cy="240.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r6w2r29w29r2w6~x2/"><circle cx="370.6" cy="211.3" r="4" fill="#3465a4"><title>Erskine, Burgundy (Dance)</title></circle></a><a href="/variants/s6/r2w1r9w9r1w2~x6/"><circle cx="351.4" cy="234.7" r="4" fill="#3465a4"><title>Erskine Red &amp; White (Dance)</title></circle></a><a href="/variants/s6/dp6w2dp29w29dp2w6~x2/"><circle cx="381.4" cy="234.5" r="4" fill="#3465a4"><title>Erskine Purple (Dance) Fashion Tartan</title></circle></a><a href="/variants/s6/dp2w1dp9w9dp1w2~x6/"><circle cx="362.2" cy="257.9" r="4" fill="#3465a4"><title>Erskine Purple (Dance)</title></circle></a><a href="/variants/s5/w45dr2g9w2dr30~x2/"><circle cx="340.8" cy="196.8" r="4" fill="#3465a4"><title>Malaysian Unknown (Artefact)</title></circle></a><a href="/variants/s6/w5db16w5db16w33dr3~x2/"><circle cx="346.4" cy="248.7" r="4" fill="#3465a4"><title>Buchanan Dress Blue (Dance)</title></circle></a><a href="/variants/s6/dr3lb10dr3lb4dr20w1~x4/"><circle cx="442.0" cy="210.5" r="4" fill="#3465a4"><title>Monica</title></circle></a><a href="/variants/s6/lr15do6lr1do3ly3lr1~x4/"><circle cx="405.8" cy="219.7" r="4" fill="#3465a4"><title>Burns (Fashion)</title></circle></a><circle cx="375.5" cy="240.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dr5w2dr25w25dr2w5~x2/

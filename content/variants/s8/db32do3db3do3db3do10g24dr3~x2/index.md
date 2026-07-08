@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Gammell"
   url: "/tartans/gammell/"
+- name: "Gammell"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db32do3db3do3db3do10g24dr3/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBBGB](/stripes/bbbbbbgb/).
@@ -14,7 +16,7 @@ Part of the [Gammell](/tartans/gammell/) tartan — the named design grouping th
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dp4db18dr2db2dr2db9g20db3g4~x2/"><circle cx="321.9" cy="216.6" r="4" fill="#3465a4"><title>St. Andrews New Golf Club (Corp)</title></circle></a><a href="/variants/s8/db20dy2db2dy2db2dy6g15dy2~x2/"><circle cx="339.2" cy="230.6" r="4" fill="#3465a4"><title>Gammell (Brown) (Personal)</title></circle></a><a href="/variants/s9/y7db32dp4db4dp8db4dp8g32y3~x2/"><circle cx="262.9" cy="211.5" r="4" fill="#3465a4"><title>Children 1st (Corporate)</title></circle></a><a href="/variants/s9/db12dr1db1dr1db1dr4g12y1g2~x4/"><circle cx="287.3" cy="195.7" r="4" fill="#3465a4"><title>Durie (Clan)</title></circle></a><a href="/variants/s11/db10dr3db3dr6db26g12dr6g2dr3g6lo2~x2/"><circle cx="311.2" cy="196.9" r="4" fill="#3465a4"><title>Law of Atholl (Personal)</title></circle></a><a href="/variants/s10/db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/"><circle cx="328.4" cy="180.7" r="4" fill="#3465a4"><title>Jones (Welsh Name)</title></circle></a><a href="/variants/s8/dg36db3dg3db3dg6t34dr4t4~x2/"><circle cx="379.9" cy="214.8" r="4" fill="#3465a4"><title>Wcwm 1530</title></circle></a><a href="/variants/s6/g25db10dy3db2dy2db6~x2/"><circle cx="337.3" cy="213.0" r="4" fill="#3465a4"><title>Inkster</title></circle></a><a href="/variants/s6/db2b22dg11y2dg11db2~x2/"><circle cx="337.8" cy="242.1" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/"><circle cx="309.8" cy="205.1" r="4" fill="#3465a4"><title>Sverker</title></circle></a><circle cx="323.2" cy="215.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dp4db18dr2db2dr2db9g20db3g4~x2/"><circle cx="321.9" cy="216.9" r="4" fill="#3465a4"><title>St. Andrews New Golf Club (Corp)</title></circle></a><a href="/variants/s8/db20dy2db2dy2db2dy6g15dy2~x2/"><circle cx="339.3" cy="231.0" r="4" fill="#3465a4"><title>Gammell (Brown) (Personal)</title></circle></a><a href="/variants/s9/y7db32dp4db4dp8db4dp8g32y3~x2/"><circle cx="263.0" cy="211.8" r="4" fill="#3465a4"><title>Children 1st (Corporate)</title></circle></a><a href="/variants/s9/db12dr1db1dr1db1dr4g12y1g2~x4/"><circle cx="287.3" cy="196.0" r="4" fill="#3465a4"><title>Durie (Clan)</title></circle></a><a href="/variants/s11/db10dr3db3dr6db26g12dr6g2dr3g6lo2~x2/"><circle cx="311.2" cy="197.2" r="4" fill="#3465a4"><title>Law of Atholl (Personal)</title></circle></a><a href="/variants/s10/db6lb3db3lb15dg7db7dg5db17dg46dgi4~dgi1605139/"><circle cx="328.4" cy="180.9" r="4" fill="#3465a4"><title>Jones (Welsh Name)</title></circle></a><a href="/variants/s8/dg36db3dg3db3dg6t34dr4t4~x2/"><circle cx="380.0" cy="215.0" r="4" fill="#3465a4"><title>Wcwm 1530</title></circle></a><a href="/variants/s6/g25db10dy3db2dy2db6~x2/"><circle cx="337.3" cy="213.3" r="4" fill="#3465a4"><title>Inkster</title></circle></a><a href="/variants/s6/db2b22dg11y2dg11db2~x2/"><circle cx="337.9" cy="242.4" r="4" fill="#3465a4"><title>Cetoloni</title></circle></a><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/"><circle cx="309.9" cy="205.3" r="4" fill="#3465a4"><title>Sverker</title></circle></a><circle cx="323.3" cy="215.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db32do3db3do3db3do10g24dr3~x2/

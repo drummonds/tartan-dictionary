@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Faulkner"
   url: "/tartans/faulkner/"
+- name: "Faulkner (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1/)
 (the same proportion at any scale), whose colour order is pattern [BKBYBKGWKBW](/stripes/bkbybkgwkbw/).
@@ -14,7 +16,7 @@ Part of the [Faulkner](/tartans/faulkner/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10080
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10080](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10080)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp13y2dr38k13dr8k8dp17dg2dp17k4dp11/"><circle cx="313.7" cy="170.9" r="4" fill="#3465a4"><title>Bute Heather, Autumn (Fashion)</title></circle></a><a href="/variants/s14/do18k2do2k2do9dg10dy2dg10dp11k9dp2k2dp1r3~x2/"><circle cx="221.1" cy="152.1" r="4" fill="#3465a4"><title>Hay-Gray (Personal)</title></circle></a><a href="/variants/s15/lb3dy8dr2dy8db11dr2dy4r4dr27db1dr2db2dr2db13dr2~x2/"><circle cx="324.7" cy="139.5" r="4" fill="#3465a4"><title>Strathdon</title></circle></a><a href="/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/"><circle cx="242.4" cy="130.9" r="4" fill="#3465a4"><title>Newlands, Charlie (Personal)</title></circle></a><a href="/variants/s10/dbi6dpi10dp4dpi11dg20k4dg8k21db47dbi2~dbi1406275-dpi1607327-dp1105325-db1204274/"><circle cx="219.1" cy="135.8" r="4" fill="#3465a4"><title>Spirit of Alva (Fashion)</title></circle></a><a href="/variants/s11/ki90n8k10n3k4g4k3r16k14ly6k28~ki0803038-k0700000/"><circle cx="306.3" cy="80.8" r="4" fill="#3465a4"><title>Father's Pride, The</title></circle></a><a href="/variants/s12/db9k2db4k2dr6ly3dy2db2dr11dy23lb1k8~x2/"><circle cx="186.8" cy="119.7" r="4" fill="#3465a4"><title>Kelvin Family (Personal)</title></circle></a><a href="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/"><circle cx="279.1" cy="139.8" r="4" fill="#3465a4"><title>McCall (Caithness)</title></circle></a><circle cx="282.3" cy="121.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dp13y2dr38k13dr8k8dp17dg2dp17k4dp11/"><circle cx="313.7" cy="170.9" r="4" fill="#3465a4"><title>Bute Heather, Autumn (Fashion)</title></circle></a><a href="/variants/s14/do18k2do2k2do9dg10dy2dg10dp11k9dp2k2dp1r3~x2/"><circle cx="221.1" cy="152.1" r="4" fill="#3465a4"><title>Hay-Gray (Personal)</title></circle></a><a href="/variants/s15/lb3dy8dr2dy8db11dr2dy4r4dr27db1dr2db2dr2db13dr2~x2/"><circle cx="324.6" cy="139.4" r="4" fill="#3465a4"><title>Strathdon</title></circle></a><a href="/variants/s11/db6k2dp9lb1dp9k2dt4k6dt24w1db6~x2/"><circle cx="242.3" cy="130.9" r="4" fill="#3465a4"><title>Newlands, Charlie (Personal)</title></circle></a><a href="/variants/s10/dbi6dpi10dp4dpi11dg20k4dg8k21db47dbi2~dbi1406275-dpi1607327-dp1105325-db1204274/"><circle cx="219.0" cy="135.7" r="4" fill="#3465a4"><title>Spirit of Alva (Fashion)</title></circle></a><a href="/variants/s11/ki90n8k10n3k4g4k3r16k14ly6k28~ki0803038-k0700000/"><circle cx="306.1" cy="80.7" r="4" fill="#3465a4"><title>Father's Pride, The</title></circle></a><a href="/variants/s12/db9k2db4k2dr6ly3dy2db2dr11dy23lb1k8~x2/"><circle cx="186.7" cy="119.7" r="4" fill="#3465a4"><title>Kelvin Family (Personal)</title></circle></a><a href="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/"><circle cx="279.1" cy="139.9" r="4" fill="#3465a4"><title>McCall (Caithness)</title></circle></a><circle cx="282.2" cy="121.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dp8k2dr26lo1dr6k3dg10lb1k3dp22lb1~x2/

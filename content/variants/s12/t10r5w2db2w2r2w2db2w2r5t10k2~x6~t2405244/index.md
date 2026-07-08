@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "U.S. Postal Service"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t10r5w2db2w2r2w2db2w2r5t10k2/)
 (the same proportion at any scale), whose colour order is pattern [BRWBWRWBWRBK](/stripes/brwbwrwbwrbk/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4190
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4190](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4190)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/"><circle cx="109.2" cy="173.1" r="4" fill="#3465a4"><title>Law Society of Scotland (Corporate)</title></circle></a><a href="/variants/s10/dr3lb6k1dr1k1lb6dr2db6b1db3~x4~db1208266-b2603265/"><circle cx="113.9" cy="191.4" r="4" fill="#3465a4"><title>Ballater</title></circle></a><a href="/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/"><circle cx="105.6" cy="185.9" r="4" fill="#3465a4"><title>Ship Hector, The</title></circle></a><a href="/variants/s10/db12w4r12w5k4o12db20r4db5r4~x2/"><circle cx="122.8" cy="197.1" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s13/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6/"><circle cx="155.9" cy="148.5" r="4" fill="#3465a4"><title>Euphoria</title></circle></a><a href="/variants/s9/db18n5db18ly14k3w3k3ly14n3~x2/"><circle cx="141.8" cy="196.5" r="4" fill="#3465a4"><title>Strakan</title></circle></a><a href="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/"><circle cx="121.0" cy="186.2" r="4" fill="#3465a4"><title>Kile (Red line) (Personal)</title></circle></a><a href="/variants/s10/db12w4r12w5k4w12db20r4db5r4~x2/"><circle cx="147.4" cy="215.8" r="4" fill="#3465a4"><title>Commonwealth, Games 1986</title></circle></a><a href="/variants/s8/w4db32w12k5r9y8r4w4~x2/"><circle cx="124.8" cy="162.3" r="4" fill="#3465a4"><title>Brunnbauer (2015)</title></circle></a><a href="/variants/s8/k4db9y6db22g4w20g6w4/"><circle cx="111.6" cy="200.2" r="4" fill="#3465a4"><title>Ship Hector</title></circle></a><circle cx="131.2" cy="186.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/"><circle cx="109.2" cy="173.6" r="4" fill="#3465a4"><title>Law Society of Scotland (Corporate)</title></circle></a><a href="/variants/s10/dr3lb6k1dr1k1lb6dr2db6b1db3~x4~db1208266-b2603265/"><circle cx="113.9" cy="191.9" r="4" fill="#3465a4"><title>Ballater</title></circle></a><a href="/variants/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2~db1406275/"><circle cx="105.7" cy="186.4" r="4" fill="#3465a4"><title>Ship Hector, The</title></circle></a><a href="/variants/s10/db12w4r12w5k4o12db20r4db5r4~x2/"><circle cx="122.9" cy="197.7" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s13/w1r1lb8k1w1db8w1lb8k1lb1w8k1lb1~x6/"><circle cx="155.9" cy="148.9" r="4" fill="#3465a4"><title>Euphoria</title></circle></a><a href="/variants/s9/db18n5db18ly14k3w3k3ly14n3~x2/"><circle cx="141.9" cy="197.1" r="4" fill="#3465a4"><title>Strakan</title></circle></a><a href="/variants/s8/db18w3db3w3dr3w3k5ly12~x2/"><circle cx="121.1" cy="186.8" r="4" fill="#3465a4"><title>Kile (Red line) (Personal)</title></circle></a><a href="/variants/s10/db12w4r12w5k4w12db20r4db5r4~x2/"><circle cx="147.5" cy="216.4" r="4" fill="#3465a4"><title>Commonwealth, Games 1986</title></circle></a><a href="/variants/s8/w4db32w12k5r9y8r4w4~x2/"><circle cx="124.8" cy="162.8" r="4" fill="#3465a4"><title>Brunnbauer (2015)</title></circle></a><a href="/variants/s8/k4db9y6db22g4w20g6w4/"><circle cx="111.6" cy="200.8" r="4" fill="#3465a4"><title>Ship Hector</title></circle></a><circle cx="131.2" cy="186.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/t10r5w2db2w2r2w2db2w2r5t10k2~x6~t2405244/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ailsa, Grey (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/o9w9o9n25o1w1o1w1g3/)
 (the same proportion at any scale), whose colour order is pattern [GWRWRBRWR](/stripes/gwrwrbrwr/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3025
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3025](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3025)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n3r2n30r1w18o14r2o3~x2~n1900000-o2500000/"><circle cx="289.8" cy="146.1" r="4" fill="#3465a4"><title>Bannockbane Variant</title></circle></a><a href="/variants/s11/n2y2n1y2n1lb15n4r1y2b7y1~x4~n1700000-lb3200000/"><circle cx="247.0" cy="156.0" r="4" fill="#3465a4"><title>Hutt Tartan</title></circle></a><a href="/variants/s8/n20db2n2db2n2o47db24w2~n1900000-o2500000/"><circle cx="352.6" cy="166.3" r="4" fill="#3465a4"><title>Browne (Personal)</title></circle></a><a href="/variants/s11/n2y2n1y2n1lb15n4r1y2dg7y1~x4/"><circle cx="223.0" cy="148.2" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/"><circle cx="296.3" cy="199.3" r="4" fill="#3465a4"><title>Gammell (Personal)</title></circle></a><a href="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do1400000-o2600000/"><circle cx="305.0" cy="164.3" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/variants/s8/lb12g2lb2g2lb2o8b8o1~x2/"><circle cx="278.9" cy="218.5" r="4" fill="#3465a4"><title>Universal, Ancient</title></circle></a><a href="/variants/s10/r4db10g2db2g24o2g2o16g2w1~x2/"><circle cx="287.9" cy="140.6" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><a href="/variants/s11/g2r2lb23db2lb2db6lb2db2g33r2lb2~x2/"><circle cx="284.8" cy="142.4" r="4" fill="#3465a4"><title>Maine State</title></circle></a><a href="/variants/s8/w3lb3k3lb21g49lb21k3lb3~x2~g2203152/"><circle cx="298.1" cy="161.3" r="4" fill="#3465a4"><title>Irvine of Drum</title></circle></a><circle cx="306.7" cy="160.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n3r2n30r1w18o14r2o3~x2~n1900000-o2500000/"><circle cx="289.8" cy="146.4" r="4" fill="#3465a4"><title>Bannockbane Variant</title></circle></a><a href="/variants/s11/n2y2n1y2n1lb15n4r1y2b7y1~x4~n1700000-lb3200000/"><circle cx="247.0" cy="156.2" r="4" fill="#3465a4"><title>Hutt Tartan</title></circle></a><a href="/variants/s8/n20db2n2db2n2o47db24w2~n1900000-o2500000/"><circle cx="352.6" cy="166.4" r="4" fill="#3465a4"><title>Browne (Personal)</title></circle></a><a href="/variants/s11/n2y2n1y2n1lb15n4r1y2dg7y1~x4/"><circle cx="223.0" cy="148.4" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/variants/s8/lb32o3lb3o3lb3o10g24dr3~x2/"><circle cx="296.4" cy="199.7" r="4" fill="#3465a4"><title>Gammell (Personal)</title></circle></a><a href="/variants/s9/do8o4w2o4do1o12g9do24r4~x2~do1400000-o2600000/"><circle cx="305.0" cy="164.5" r="4" fill="#3465a4"><title>Willsher Wedding (Personal)</title></circle></a><a href="/variants/s8/lb12g2lb2g2lb2o8b8o1~x2/"><circle cx="279.0" cy="218.9" r="4" fill="#3465a4"><title>Universal, Ancient</title></circle></a><a href="/variants/s10/r4db10g2db2g24o2g2o16g2w1~x2/"><circle cx="287.9" cy="140.7" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><a href="/variants/s11/g2r2lb23db2lb2db6lb2db2g33r2lb2~x2/"><circle cx="284.8" cy="142.7" r="4" fill="#3465a4"><title>Maine State</title></circle></a><a href="/variants/s8/w3lb3k3lb21g49lb21k3lb3~x2~g2203152/"><circle cx="298.1" cy="161.7" r="4" fill="#3465a4"><title>Irvine of Drum</title></circle></a><circle cx="306.7" cy="160.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/o9w9o9n25o1w1o1w1g3~x2~o2500000-n1900000/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Batson (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k69r14y5/)
 (the same proportion at any scale), whose colour order is pattern [GRK](/stripes/grk/).
 
 Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5755
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5755](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5755)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s2/k4r1~x36/"><circle cx="441.9" cy="302.3" r="4" fill="#3465a4"><title>St Kilda</title></circle></a><a href="/variants/s2/k4r1~x6/"><circle cx="441.9" cy="302.3" r="4" fill="#3465a4"><title>St Kilda</title></circle></a><a href="/variants/s4/db1r1k12g1~x4/"><circle cx="471.7" cy="163.6" r="4" fill="#3465a4"><title>MacNathair Sgianach</title></circle></a><a href="/variants/s4/dr3lo2k10w1~x6/"><circle cx="343.4" cy="183.6" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/variants/s3/dr8w1k1~x20/"><circle cx="472.2" cy="218.9" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/variants/s5/k50db6r6n6w3~x2/"><circle cx="366.3" cy="127.9" r="4" fill="#3465a4"><title>Friends of Nordegg (Corporate)</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="395.2" cy="189.6" r="4" fill="#3465a4"><title>Bacon, Red (Fashion)</title></circle></a><a href="/variants/s5/r2g2k20w1db1~x6/"><circle cx="423.3" cy="109.5" r="4" fill="#3465a4"><title>Fily, Sylvain Roger</title></circle></a><a href="/variants/s3/k10r3k1~x4/"><circle cx="463.2" cy="228.2" r="4" fill="#3465a4"><title>Red Watch</title></circle></a><a href="/variants/s3/k27dg10r2~x4/"><circle cx="431.9" cy="230.0" r="4" fill="#3465a4"><title>The Caledonian Hotel</title></circle></a><circle cx="462.0" cy="195.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s2/k4r1~x36/"><circle cx="442.1" cy="303.2" r="4" fill="#3465a4"><title>St Kilda</title></circle></a><a href="/variants/s2/k4r1~x6/"><circle cx="442.1" cy="303.2" r="4" fill="#3465a4"><title>St Kilda</title></circle></a><a href="/variants/s4/db1r1k12g1~x4/"><circle cx="471.7" cy="164.0" r="4" fill="#3465a4"><title>MacNathair Sgianach</title></circle></a><a href="/variants/s4/dr3lo2k10w1~x6/"><circle cx="343.4" cy="184.2" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/variants/s3/dr8w1k1~x20/"><circle cx="472.4" cy="219.6" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/variants/s5/k50db6r6n6w3~x2/"><circle cx="366.2" cy="128.2" r="4" fill="#3465a4"><title>Friends of Nordegg (Corporate)</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="395.3" cy="190.1" r="4" fill="#3465a4"><title>Bacon, Red (Fashion)</title></circle></a><a href="/variants/s5/r2g2k20w1db1~x6/"><circle cx="423.2" cy="109.8" r="4" fill="#3465a4"><title>Fily, Sylvain Roger</title></circle></a><a href="/variants/s3/k10r3k1~x4/"><circle cx="463.3" cy="228.9" r="4" fill="#3465a4"><title>Red Watch</title></circle></a><a href="/variants/s3/k27dg10r2~x4/"><circle cx="431.9" cy="230.5" r="4" fill="#3465a4"><title>The Caledonian Hotel</title></circle></a><circle cx="462.0" cy="196.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/k69r14y5~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dark Lochnagar"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt6o1dt40n1dt12o12n6o2r2o4/)
 (the same proportion at any scale), whose colour order is pattern [BRBBBRBRRR](/stripes/brbbbrbrrr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=890
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=890](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=890)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dt6o1dt40n1dt12o12dp6o2r2o4~x2~o2500000-n1900000/"><circle cx="464.8" cy="111.7" r="4" fill="#3465a4"><title>Lochnagar Dark (Fashion)</title></circle></a><a href="/variants/s8/dt8y74k8dt42y11k2y16dt4~dt1000000-y2100000/"><circle cx="421.4" cy="131.2" r="4" fill="#3465a4"><title>Orkney Slate</title></circle></a><a href="/variants/s6/r4dp12dg2dp2dg46w1~x2/"><circle cx="557.2" cy="141.0" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><a href="/variants/s10/dg25b10w1b5w1b10dg25r1dg3r2~x2/"><circle cx="409.5" cy="148.9" r="4" fill="#3465a4"><title>Strathdee (Personal)</title></circle></a><a href="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/"><circle cx="454.1" cy="141.9" r="4" fill="#3465a4"><title>Dauphinee, Andrew Hunter (Personal)</title></circle></a><a href="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4~dg1605139-g2408144/"><circle cx="470.0" cy="114.1" r="4" fill="#3465a4"><title>Verdon</title></circle></a><a href="/variants/s8/w3dr11db4dr6dg48o2dg3o2~x2/"><circle cx="447.6" cy="135.2" r="4" fill="#3465a4"><title>Hall, from Springbrook and Newtown (Personal)</title></circle></a><a href="/variants/s7/n18w2k1w4g13n40r2~x2/"><circle cx="485.6" cy="128.4" r="4" fill="#3465a4"><title>Puxty-Dunne (Personal)</title></circle></a><a href="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2/"><circle cx="385.0" cy="142.6" r="4" fill="#3465a4"><title>Hebridean Heather (Fashion)</title></circle></a><a href="/variants/s7/n18w2k1w4dg13n40r2~x2/"><circle cx="469.6" cy="120.9" r="4" fill="#3465a4"><title>Puxty-Dunne</title></circle></a><circle cx="487.5" cy="128.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dt6o1dt40n1dt12o12dp6o2r2o4~x2~o2500000-n1900000/"><circle cx="464.7" cy="111.7" r="4" fill="#3465a4"><title>Lochnagar Dark (Fashion)</title></circle></a><a href="/variants/s8/dt8y74k8dt42y11k2y16dt4~dt1000000-y2100000/"><circle cx="421.3" cy="131.3" r="4" fill="#3465a4"><title>Orkney Slate</title></circle></a><a href="/variants/s6/r4dp12dg2dp2dg46w1~x2/"><circle cx="557.2" cy="141.0" r="4" fill="#3465a4"><title>Kinfauns Castle</title></circle></a><a href="/variants/s10/dg25b10w1b5w1b10dg25r1dg3r2~x2/"><circle cx="409.5" cy="149.1" r="4" fill="#3465a4"><title>Strathdee (Personal)</title></circle></a><a href="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/"><circle cx="454.0" cy="141.9" r="4" fill="#3465a4"><title>Dauphinee, Andrew Hunter (Personal)</title></circle></a><a href="/variants/s10/dt36k3dg3g1dg3k3dt4dg6k1g2~x4~dg1605139-g2408144/"><circle cx="469.9" cy="114.0" r="4" fill="#3465a4"><title>Verdon</title></circle></a><a href="/variants/s8/w3dr11db4dr6dg48o2dg3o2~x2/"><circle cx="447.5" cy="135.2" r="4" fill="#3465a4"><title>Hall, from Springbrook and Newtown (Personal)</title></circle></a><a href="/variants/s7/n18w2k1w4g13n40r2~x2/"><circle cx="485.5" cy="128.5" r="4" fill="#3465a4"><title>Puxty-Dunne (Personal)</title></circle></a><a href="/variants/s9/n4db2n7dt30n8dt7r5db1w2~x2/"><circle cx="385.0" cy="142.7" r="4" fill="#3465a4"><title>Hebridean Heather (Fashion)</title></circle></a><a href="/variants/s7/n18w2k1w4dg13n40r2~x2/"><circle cx="469.6" cy="121.1" r="4" fill="#3465a4"><title>Puxty-Dunne</title></circle></a><circle cx="487.5" cy="128.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dt6o1dt40n1dt12o12n6o2r2o4~x2~o2500000-n1900000/

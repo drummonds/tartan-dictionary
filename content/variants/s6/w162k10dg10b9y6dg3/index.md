@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Young, Christina"
   url: "/tartans/young-christina/"
+- name: "Young, Christina"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w162k10dg10b9y6dg3/)
 (the same proportion at any scale), whose colour order is pattern [GGBGKW](/stripes/ggbgkw/).
@@ -14,7 +16,7 @@ Part of the [Young, Christina](/tartans/young-christina/) tartan — the named d
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w54k7r7lo6ly4r1~x2~ly3307090/"><circle cx="374.2" cy="74.5" r="4" fill="#3465a4"><title>Young, Christina</title></circle></a><a href="/variants/s6/k2w1g5dr1lb18dr2~x2/"><circle cx="313.4" cy="131.8" r="4" fill="#3465a4"><title>Norris (1998) (Name)</title></circle></a><a href="/variants/s6/k2w1g5dr1lb18r2~x2/"><circle cx="294.0" cy="114.9" r="4" fill="#3465a4"><title>Norris (1998)</title></circle></a><a href="/variants/s4/w35db12r2n2~x2/"><circle cx="389.9" cy="181.4" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s5/k2lb28g7w3r2~x2/"><circle cx="352.4" cy="153.6" r="4" fill="#3465a4"><title>Cleland Corporate Tartan</title></circle></a><a href="/variants/s5/k2lb36g12w3r2~x2/"><circle cx="363.2" cy="148.0" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.9" cy="110.7" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s3/dy6lb38k3~x2/"><circle cx="479.8" cy="206.2" r="4" fill="#3465a4"><title>Poulain League (Corporate)</title></circle></a><a href="/variants/s6/w52g22w6g8k1r3~x2/"><circle cx="382.7" cy="114.8" r="4" fill="#3465a4"><title>MacGregor Dress Green (Dance)</title></circle></a><a href="/variants/s5/ly12w1k2ly1r1~x8/"><circle cx="419.9" cy="159.5" r="4" fill="#3465a4"><title>Lochcarron Camel</title></circle></a><circle cx="487.6" cy="63.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/w54k7r7lo6ly4r1~x2~ly3307090/"><circle cx="374.1" cy="74.8" r="4" fill="#3465a4"><title>Young, Christina</title></circle></a><a href="/variants/s6/k2w1g5dr1lb18dr2~x2/"><circle cx="313.4" cy="132.2" r="4" fill="#3465a4"><title>Norris (1998) (Name)</title></circle></a><a href="/variants/s6/k2w1g5dr1lb18r2~x2/"><circle cx="294.0" cy="115.2" r="4" fill="#3465a4"><title>Norris (1998)</title></circle></a><a href="/variants/s4/w35db12r2n2~x2/"><circle cx="390.0" cy="182.0" r="4" fill="#3465a4"><title>Triplett, Jack Arnold</title></circle></a><a href="/variants/s5/k2lb28g7w3r2~x2/"><circle cx="352.4" cy="154.0" r="4" fill="#3465a4"><title>Cleland Corporate Tartan</title></circle></a><a href="/variants/s5/k2lb36g12w3r2~x2/"><circle cx="363.2" cy="148.4" r="4" fill="#3465a4"><title>Cleland</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.9" cy="110.9" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s3/dy6lb38k3~x2/"><circle cx="479.9" cy="206.9" r="4" fill="#3465a4"><title>Poulain League (Corporate)</title></circle></a><a href="/variants/s6/w52g22w6g8k1r3~x2/"><circle cx="382.7" cy="115.1" r="4" fill="#3465a4"><title>MacGregor Dress Green (Dance)</title></circle></a><a href="/variants/s5/ly12w1k2ly1r1~x8/"><circle cx="420.0" cy="160.1" r="4" fill="#3465a4"><title>Lochcarron Camel</title></circle></a><circle cx="487.5" cy="63.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w162k10dg10b9y6dg3/

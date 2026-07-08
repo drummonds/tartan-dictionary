@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dress Watch"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4k3db18k18g18db1g2w4/)
 (the same proportion at any scale), whose colour order is pattern [BKBKGBGW](/stripes/bkbkgbgw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=976
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=976](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=976)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r7g3r2g33k31db31k3db3/"><circle cx="159.1" cy="157.5" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s8/db4k3db12k11dg13g1dg1g3~x2~dg1806142-g2408144/"><circle cx="161.3" cy="187.7" r="4" fill="#3465a4"><title>Bedford High School</title></circle></a><a href="/variants/s7/k1r1k18g12db18g1db1~x2/"><circle cx="199.0" cy="153.3" r="4" fill="#3465a4"><title>Meoni (Personal)</title></circle></a><a href="/variants/s7/r3k2db25k28g25k2r3~x2/"><circle cx="167.5" cy="167.4" r="4" fill="#3465a4"><title>Coarse Kilt</title></circle></a><a href="/variants/s6/lo4db24g3k21g23k1~x2/"><circle cx="173.4" cy="168.8" r="4" fill="#3465a4"><title>Glenturret Distillery</title></circle></a><a href="/variants/s7/g30db4g2k20db18r1db4~x2/"><circle cx="223.3" cy="146.3" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><a href="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/"><circle cx="188.7" cy="143.3" r="4" fill="#3465a4"><title>Sardar Chadha (Personal)</title></circle></a><a href="/variants/s7/r4k4db24k24g24k2r3~x2/"><circle cx="151.5" cy="179.5" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><a href="/variants/s6/db2g12k13w1db13w2~x2/"><circle cx="147.5" cy="192.1" r="4" fill="#3465a4"><title>Herd Family Tartan</title></circle></a><a href="/variants/s6/r2g12k12g1db12g1~x2/"><circle cx="160.0" cy="194.2" r="4" fill="#3465a4"><title>Gunn</title></circle></a><circle cx="156.9" cy="160.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r7g3r2g33k31db31k3db3/"><circle cx="159.0" cy="157.8" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s8/db4k3db12k11dg13g1dg1g3~x2~dg1806142-g2408144/"><circle cx="161.3" cy="188.1" r="4" fill="#3465a4"><title>Bedford High School</title></circle></a><a href="/variants/s7/k1r1k18g12db18g1db1~x2/"><circle cx="199.0" cy="153.6" r="4" fill="#3465a4"><title>Meoni (Personal)</title></circle></a><a href="/variants/s7/r3k2db25k28g25k2r3~x2/"><circle cx="167.5" cy="167.8" r="4" fill="#3465a4"><title>Coarse Kilt</title></circle></a><a href="/variants/s6/lo4db24g3k21g23k1~x2/"><circle cx="173.4" cy="169.2" r="4" fill="#3465a4"><title>Glenturret Distillery</title></circle></a><a href="/variants/s7/g30db4g2k20db18r1db4~x2/"><circle cx="223.2" cy="146.6" r="4" fill="#3465a4"><title>MacTaggert</title></circle></a><a href="/variants/s10/lr6g34db4g4k32g4db34g4db2g5/"><circle cx="188.7" cy="143.6" r="4" fill="#3465a4"><title>Sardar Chadha (Personal)</title></circle></a><a href="/variants/s7/r4k4db24k24g24k2r3~x2/"><circle cx="151.5" cy="179.9" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><a href="/variants/s6/db2g12k13w1db13w2~x2/"><circle cx="147.5" cy="192.6" r="4" fill="#3465a4"><title>Herd Family Tartan</title></circle></a><a href="/variants/s6/r2g12k12g1db12g1~x2/"><circle cx="160.0" cy="194.7" r="4" fill="#3465a4"><title>Gunn</title></circle></a><circle cx="156.8" cy="161.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db4k3db18k18g18db1g2w4~x2/

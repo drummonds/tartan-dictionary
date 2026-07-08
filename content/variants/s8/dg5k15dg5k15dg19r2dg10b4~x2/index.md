@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Strath Halladale (Sutherland)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg5k15dg5k15dg19r2dg10b4/)
 (the same proportion at any scale), whose colour order is pattern [BGRGKGKG](/stripes/bgrgkgkg/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="305.1" cy="142.5" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/variants/s9/w2dg12k3dg3k16dg3k3dg12ly2~x2/"><circle cx="254.6" cy="188.3" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/variants/s8/k7r3k27dg27ly3dg3ly3dg3~x2/"><circle cx="228.1" cy="167.4" r="4" fill="#3465a4"><title>Brunton (Personal)</title></circle></a><a href="/variants/s8/g6k16w1k16g8k4g12r2~x2/"><circle cx="255.7" cy="173.9" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/variants/s10/dg18k10dg13k9r3k9dg25k16dg9db3~x2/"><circle cx="296.7" cy="223.4" r="4" fill="#3465a4"><title>Holman</title></circle></a><a href="/variants/s6/k40dt4k12dt21dg17k4~x2~dg1804158/"><circle cx="275.5" cy="211.2" r="4" fill="#3465a4"><title>Granger Family Tartan</title></circle></a><a href="/variants/s9/do20db2do5db5k18g5do5g2do15~x2/"><circle cx="314.0" cy="197.2" r="4" fill="#3465a4"><title>Laois</title></circle></a><a href="/variants/s10/db19dg7db7lb2dg20k9dg6k4dg10w3~x2/"><circle cx="215.6" cy="188.4" r="4" fill="#3465a4"><title>O'Connell, William Benedict (Personal)</title></circle></a><a href="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2/"><circle cx="267.0" cy="166.9" r="4" fill="#3465a4"><title>Cork, County (District)</title></circle></a><a href="/variants/s11/k1dr1dg7k8w1k8dr1dg2dr1dg4dr1~x4/"><circle cx="246.2" cy="181.5" r="4" fill="#3465a4"><title>Episcopal Clergy</title></circle></a><circle cx="271.9" cy="216.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="305.1" cy="142.7" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/variants/s9/w2dg12k3dg3k16dg3k3dg12ly2~x2/"><circle cx="254.6" cy="188.8" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/variants/s8/k7r3k27dg27ly3dg3ly3dg3~x2/"><circle cx="228.0" cy="167.8" r="4" fill="#3465a4"><title>Brunton (Personal)</title></circle></a><a href="/variants/s8/g6k16w1k16g8k4g12r2~x2/"><circle cx="255.7" cy="174.4" r="4" fill="#3465a4"><title>MacAulay Hunting</title></circle></a><a href="/variants/s10/dg18k10dg13k9r3k9dg25k16dg9db3~x2/"><circle cx="296.8" cy="223.8" r="4" fill="#3465a4"><title>Holman</title></circle></a><a href="/variants/s6/k40dt4k12dt21dg17k4~x2~dg1804158/"><circle cx="275.5" cy="211.6" r="4" fill="#3465a4"><title>Granger Family Tartan</title></circle></a><a href="/variants/s9/do20db2do5db5k18g5do5g2do15~x2/"><circle cx="314.0" cy="197.6" r="4" fill="#3465a4"><title>Laois</title></circle></a><a href="/variants/s10/db19dg7db7lb2dg20k9dg6k4dg10w3~x2/"><circle cx="215.6" cy="188.7" r="4" fill="#3465a4"><title>O'Connell, William Benedict (Personal)</title></circle></a><a href="/variants/s9/dg28dr12dg4k20ly2k3ly2k3dg7~x2/"><circle cx="267.0" cy="167.1" r="4" fill="#3465a4"><title>Cork, County (District)</title></circle></a><a href="/variants/s11/k1dr1dg7k8w1k8dr1dg2dr1dg4dr1~x4/"><circle cx="246.2" cy="181.8" r="4" fill="#3465a4"><title>Episcopal Clergy</title></circle></a><circle cx="271.9" cy="216.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg5k15dg5k15dg19r2dg10b4~x2/

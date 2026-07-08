@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "HMS Duncan Regimental Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp3o15db15r2db15y3/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBG](/stripes/brbrbg/).
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10268
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10268](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10268)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp3n15db15r2db15y3~x2/"><circle cx="351.9" cy="250.0" r="4" fill="#3465a4"><title>HMS Duncan (Military)</title></circle></a><a href="/variants/s7/db25r10db25w8o6g8y5~x2/"><circle cx="204.8" cy="215.5" r="4" fill="#3465a4"><title>Barneys (Scunthorpe) (Personal)</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4/"><circle cx="279.4" cy="221.6" r="4" fill="#3465a4"><title>Atlantic, Ancient (Fashion)</title></circle></a><a href="/variants/s6/w4g28db18r4db18y3~x2/"><circle cx="235.9" cy="214.5" r="4" fill="#3465a4"><title>MacIntyre, Inglis</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.7" cy="176.9" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s6/dy34db27r3db27dy34w3~x2/"><circle cx="378.0" cy="255.8" r="4" fill="#3465a4"><title>London Regiment</title></circle></a><a href="/variants/s6/w1db15r1n10g2lp1~x4/"><circle cx="292.8" cy="162.8" r="4" fill="#3465a4"><title>Peterson, Oren (Name)</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2/"><circle cx="291.5" cy="245.0" r="4" fill="#3465a4"><title>Belfrage (Name)</title></circle></a><a href="/variants/s6/g4y3db35r13dp8w3~x2/"><circle cx="277.5" cy="152.6" r="4" fill="#3465a4"><title>Kilsyth</title></circle></a><a href="/variants/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="291.9" cy="215.2" r="4" fill="#3465a4"><title>Woodcock (2014)</title></circle></a><circle cx="302.1" cy="232.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp3n15db15r2db15y3~x2/"><circle cx="352.0" cy="250.3" r="4" fill="#3465a4"><title>HMS Duncan (Military)</title></circle></a><a href="/variants/s7/db25r10db25w8o6g8y5~x2/"><circle cx="204.9" cy="216.1" r="4" fill="#3465a4"><title>Barneys (Scunthorpe) (Personal)</title></circle></a><a href="/variants/s6/y1db6k1dy5db6w1~x4/"><circle cx="279.5" cy="222.1" r="4" fill="#3465a4"><title>Atlantic, Ancient (Fashion)</title></circle></a><a href="/variants/s6/w4g28db18r4db18y3~x2/"><circle cx="236.0" cy="215.0" r="4" fill="#3465a4"><title>MacIntyre, Inglis</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.7" cy="177.2" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s6/dy34db27r3db27dy34w3~x2/"><circle cx="378.1" cy="256.2" r="4" fill="#3465a4"><title>London Regiment</title></circle></a><a href="/variants/s6/w1db15r1n10g2lp1~x4/"><circle cx="292.8" cy="163.0" r="4" fill="#3465a4"><title>Peterson, Oren (Name)</title></circle></a><a href="/variants/s6/db22n5dp9g14db10lo2~x2/"><circle cx="291.6" cy="245.5" r="4" fill="#3465a4"><title>Belfrage (Name)</title></circle></a><a href="/variants/s6/g4y3db35r13dp8w3~x2/"><circle cx="277.5" cy="152.9" r="4" fill="#3465a4"><title>Kilsyth</title></circle></a><a href="/variants/s7/db30dp9g6dp9r4db17w5~x2/"><circle cx="292.0" cy="215.6" r="4" fill="#3465a4"><title>Woodcock (2014)</title></circle></a><circle cx="302.2" cy="233.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dp3o15db15r2db15y3~x2~o2500000/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacArthur Fox Green (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4db4k2db31k10y3db5k11db6k3/)
 (the same proportion at any scale), whose colour order is pattern [KBKBGKBKBR](/stripes/kbkbgkbkbr/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10927
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10927](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10927)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db30r2db2r4db9k26w2k4~x2/"><circle cx="288.8" cy="150.2" r="4" fill="#3465a4"><title>Murdoch Celebration (Personal)</title></circle></a><a href="/variants/s10/db42k6db3k3db3w5db17w7dy10k3~x2/"><circle cx="327.1" cy="133.9" r="4" fill="#3465a4"><title>California Riverside, University of (Corporate)</title></circle></a><a href="/variants/s7/k3db10y5db29k10r6k2~x2/"><circle cx="310.3" cy="164.0" r="4" fill="#3465a4"><title>Perkins (2015)</title></circle></a><a href="/variants/s11/k3r2k12db8k2db4k2db4k12db22y3~x2/"><circle cx="281.3" cy="166.4" r="4" fill="#3465a4"><title>Caledonian Dragon (Corporate)</title></circle></a><a href="/variants/s8/k20db2k6db2k4db27w2db8~x2/"><circle cx="338.1" cy="178.0" r="4" fill="#3465a4"><title>Pride of Kinross</title></circle></a><a href="/variants/s8/db12k1db1k1db1k3g6k1~x2/"><circle cx="296.2" cy="172.1" r="4" fill="#3465a4"><title>Black Watch (Miniature) Regimental Tartan</title></circle></a><a href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="306.5" cy="160.8" r="4" fill="#3465a4"><title>Auckland (Fashion)</title></circle></a><a href="/variants/s13/db16k2ly2k2ly2k15db14k2db14k15db16k4w1~x2/"><circle cx="302.1" cy="153.7" r="4" fill="#3465a4"><title>Bredillet (Personal)</title></circle></a><a href="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/"><circle cx="251.1" cy="167.4" r="4" fill="#3465a4"><title>Ibrox</title></circle></a><a href="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/"><circle cx="345.0" cy="145.9" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><circle cx="326.1" cy="145.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db30r2db2r4db9k26w2k4~x2/"><circle cx="288.8" cy="150.5" r="4" fill="#3465a4"><title>Murdoch Celebration (Personal)</title></circle></a><a href="/variants/s10/db42k6db3k3db3w5db17w7dy10k3~x2/"><circle cx="327.0" cy="134.2" r="4" fill="#3465a4"><title>California Riverside, University of (Corporate)</title></circle></a><a href="/variants/s7/k3db10y5db29k10r6k2~x2/"><circle cx="310.3" cy="164.3" r="4" fill="#3465a4"><title>Perkins (2015)</title></circle></a><a href="/variants/s11/k3r2k12db8k2db4k2db4k12db22y3~x2/"><circle cx="281.2" cy="166.7" r="4" fill="#3465a4"><title>Caledonian Dragon (Corporate)</title></circle></a><a href="/variants/s8/k20db2k6db2k4db27w2db8~x2/"><circle cx="338.1" cy="178.3" r="4" fill="#3465a4"><title>Pride of Kinross</title></circle></a><a href="/variants/s8/db12k1db1k1db1k3g6k1~x2/"><circle cx="296.2" cy="172.5" r="4" fill="#3465a4"><title>Black Watch (Miniature) Regimental Tartan</title></circle></a><a href="/variants/s8/dg3k3db2k16db2k2db24lb2~x2/"><circle cx="306.5" cy="161.0" r="4" fill="#3465a4"><title>Auckland (Fashion)</title></circle></a><a href="/variants/s13/db16k2ly2k2ly2k15db14k2db14k15db16k4w1~x2/"><circle cx="302.0" cy="154.0" r="4" fill="#3465a4"><title>Bredillet (Personal)</title></circle></a><a href="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/"><circle cx="251.0" cy="167.8" r="4" fill="#3465a4"><title>Ibrox</title></circle></a><a href="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/"><circle cx="344.9" cy="146.0" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><circle cx="326.1" cy="145.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r4db4k2db31k10y3db5k11db6k3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Peeper (check)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g4k1y4ly4y4ly4y4o5y4ly4y4ly4y4ly4y4ly4y4ly4k1/)
 (the same proportion at any scale), whose colour order is pattern [GKGYGYGRGYGYGYGYGYK](/stripes/gkgygygrgygygygygyk/).
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3313
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3313](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3313)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>

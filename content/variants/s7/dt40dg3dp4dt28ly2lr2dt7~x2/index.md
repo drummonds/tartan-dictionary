@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pisniak (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt40dg3dp4dt28ly2lr2dt7/)
 (the same proportion at any scale), whose colour order is pattern [BGBBYYB](/stripes/bgbbyyb/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8385
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8385](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8385)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg30dr2dg8dr1dg5w2/"><circle cx="626.0" cy="183.1" r="4" fill="#3465a4"><title>Dewi Sant</title></circle></a><a href="/variants/s6/dg9lb3dg6lb3dg20y2~x2/"><circle cx="522.8" cy="238.1" r="4" fill="#3465a4"><title>Oman, Sultanate of..</title></circle></a><a href="/variants/s9/dg6dy2o1dg15o3dy1dg15g6o1~x2/"><circle cx="516.2" cy="208.7" r="4" fill="#3465a4"><title>McCall, F W (Personal)</title></circle></a><a href="/variants/s6/dg60r2dg8r1dg5w2/"><circle cx="626.0" cy="129.9" r="4" fill="#3465a4"><title>St. David's (District)</title></circle></a><a href="/variants/s6/dg60r2dg8r1dg5w2~w4000000/"><circle cx="626.0" cy="129.2" r="4" fill="#3465a4"><title>St. David's Welsh District Tartan</title></circle></a><a href="/variants/s6/dt40dy10dt8r20dt100w5/"><circle cx="550.3" cy="178.3" r="4" fill="#3465a4"><title>East of Scotland Tartan Army</title></circle></a><a href="/variants/s6/dt4k2dt16k2dt16k1~x4/"><circle cx="626.0" cy="231.0" r="4" fill="#3465a4"><title>Ben Dubh (The Black Mount)</title></circle></a><a href="/variants/s9/dt76db1dt2lb1g14dr5dt13o1lo1~x2~db2006246-lb3200000/"><circle cx="584.8" cy="72.6" r="4" fill="#3465a4"><title>Royal Canadian Mounted Police</title></circle></a><a href="/variants/s8/dg2dy2dg15dy1w1dg15dy2dg2~x2/"><circle cx="626.0" cy="243.1" r="4" fill="#3465a4"><title>Bannockbane Hunting</title></circle></a><a href="/variants/s8/g2dy2g15dy1w1g15dy2g2~x2/"><circle cx="626.0" cy="217.5" r="4" fill="#3465a4"><title>Bannockbane Hunting Trade Tartan</title></circle></a><circle cx="626.0" cy="188.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg30dr2dg8dr1dg5w2/"><circle cx="626.0" cy="183.3" r="4" fill="#3465a4"><title>Dewi Sant</title></circle></a><a href="/variants/s6/dg9lb3dg6lb3dg20y2~x2/"><circle cx="523.0" cy="238.6" r="4" fill="#3465a4"><title>Oman, Sultanate of..</title></circle></a><a href="/variants/s9/dg6dy2o1dg15o3dy1dg15g6o1~x2/"><circle cx="516.3" cy="208.9" r="4" fill="#3465a4"><title>McCall, F W (Personal)</title></circle></a><a href="/variants/s6/dg60r2dg8r1dg5w2/"><circle cx="626.0" cy="130.0" r="4" fill="#3465a4"><title>St. David's (District)</title></circle></a><a href="/variants/s6/dg60r2dg8r1dg5w2~w4000000/"><circle cx="626.0" cy="129.3" r="4" fill="#3465a4"><title>St. David's Welsh District Tartan</title></circle></a><a href="/variants/s6/dt40dy10dt8r20dt100w5/"><circle cx="550.3" cy="178.6" r="4" fill="#3465a4"><title>East of Scotland Tartan Army</title></circle></a><a href="/variants/s6/dt4k2dt16k2dt16k1~x4/"><circle cx="626.0" cy="231.3" r="4" fill="#3465a4"><title>Ben Dubh (The Black Mount)</title></circle></a><a href="/variants/s9/dt76db1dt2lb1g14dr5dt13o1lo1~x2~db2006246-lb3200000/"><circle cx="584.6" cy="72.4" r="4" fill="#3465a4"><title>Royal Canadian Mounted Police</title></circle></a><a href="/variants/s8/dg2dy2dg15dy1w1dg15dy2dg2~x2/"><circle cx="626.0" cy="243.2" r="4" fill="#3465a4"><title>Bannockbane Hunting</title></circle></a><a href="/variants/s8/g2dy2g15dy1w1g15dy2g2~x2/"><circle cx="626.0" cy="217.9" r="4" fill="#3465a4"><title>Bannockbane Hunting Trade Tartan</title></circle></a><circle cx="626.0" cy="189.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dt40dg3dp4dt28ly2lr2dt7~x2/

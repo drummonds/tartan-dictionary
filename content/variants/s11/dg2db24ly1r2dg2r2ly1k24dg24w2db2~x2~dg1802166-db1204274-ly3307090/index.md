@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Smithsonian"
   url: "/tartans/smithsonian/"
+- name: "Smithsonian (Corporate) American Corporate Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2db24ly1r2dg2r2ly1k24dg24w2db2/)
 (the same proportion at any scale), whose colour order is pattern [BWGKYRGRYBG](/stripes/bwgkyrgrybg/).
@@ -14,7 +16,7 @@ Part of the [Smithsonian](/tartans/smithsonian/) tartan — the named design gro
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5813
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5813](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5813)
 
 ## Provenance
 
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg2db24y1r2dg2r2y1k24dg24w2db2~x2/"><circle cx="175.0" cy="93.1" r="4" fill="#3465a4"><title>Smithsonian (Corporate)</title></circle></a><a href="/variants/s11/db2r2db2r2db20k24g12y1k2g2lb2~x2/"><circle cx="160.5" cy="85.2" r="4" fill="#3465a4"><title>Unidentified #7</title></circle></a><a href="/variants/s13/k2dp4o4dp3g20dp5k4dp3k7dp3k3db35w2~x2/"><circle cx="153.9" cy="96.1" r="4" fill="#3465a4"><title>Spirit of Bannockburn (Fashion)</title></circle></a><a href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1dr14~x2/"><circle cx="160.6" cy="108.7" r="4" fill="#3465a4"><title>Womack (2014)</title></circle></a><a href="/variants/s11/g9r2m2g3m18g2k2g1k19db33w2~x2/"><circle cx="151.3" cy="71.8" r="4" fill="#3465a4"><title>Pride of Scotland</title></circle></a><a href="/variants/s17/k2g2k1g2k1g2k1g12db4k3db3k3db3k3db4dp24r2~x2/"><circle cx="145.9" cy="69.2" r="4" fill="#3465a4"><title>Rendell, Charles</title></circle></a><a href="/variants/s12/r8g2k2ly2k2y2k2g18db2g2db29k3~x2/"><circle cx="167.5" cy="94.9" r="4" fill="#3465a4"><title>Cats Winter (Fashion)</title></circle></a><a href="/variants/s15/w3db3r1db3r1db15r1db2g15y1g2k20y1k2y2~x2/"><circle cx="115.5" cy="77.4" r="4" fill="#3465a4"><title>Joseph Linn Family (Monohon 2012) (Personal)</title></circle></a><a href="/variants/s17/k2g2b1g2b1g2b1g12db4k3db3k3db3k3db4dp24r2~x2/"><circle cx="147.8" cy="70.1" r="4" fill="#3465a4"><title>Rendell, Charles (Personal)</title></circle></a><a href="/variants/s12/dg4r1dg1r3dg16k12r1db27lb2db3lb1y2~x2/"><circle cx="209.3" cy="83.1" r="4" fill="#3465a4"><title>McGuirk (2013)</title></circle></a><circle cx="161.8" cy="87.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dg2db24y1r2dg2r2y1k24dg24w2db2~x2/"><circle cx="174.9" cy="93.1" r="4" fill="#3465a4"><title>Smithsonian (Corporate)</title></circle></a><a href="/variants/s11/db2r2db2r2db20k24g12y1k2g2lb2~x2/"><circle cx="160.4" cy="85.2" r="4" fill="#3465a4"><title>Unidentified #7</title></circle></a><a href="/variants/s13/k2dp4o4dp3g20dp5k4dp3k7dp3k3db35w2~x2/"><circle cx="153.8" cy="96.2" r="4" fill="#3465a4"><title>Spirit of Bannockburn (Fashion)</title></circle></a><a href="/variants/s12/dg19w2dg5k4db21k4w2dg5w1y1w1dr14~x2/"><circle cx="160.5" cy="108.8" r="4" fill="#3465a4"><title>Womack (2014)</title></circle></a><a href="/variants/s11/g9r2m2g3m18g2k2g1k19db33w2~x2/"><circle cx="151.2" cy="71.9" r="4" fill="#3465a4"><title>Pride of Scotland</title></circle></a><a href="/variants/s17/k2g2k1g2k1g2k1g12db4k3db3k3db3k3db4dp24r2~x2/"><circle cx="145.7" cy="69.1" r="4" fill="#3465a4"><title>Rendell, Charles</title></circle></a><a href="/variants/s12/r8g2k2ly2k2y2k2g18db2g2db29k3~x2/"><circle cx="167.4" cy="95.0" r="4" fill="#3465a4"><title>Cats Winter (Fashion)</title></circle></a><a href="/variants/s15/w3db3r1db3r1db15r1db2g15y1g2k20y1k2y2~x2/"><circle cx="115.3" cy="77.5" r="4" fill="#3465a4"><title>Joseph Linn Family (Monohon 2012) (Personal)</title></circle></a><a href="/variants/s17/k2g2b1g2b1g2b1g12db4k3db3k3db3k3db4dp24r2~x2/"><circle cx="147.6" cy="70.1" r="4" fill="#3465a4"><title>Rendell, Charles (Personal)</title></circle></a><a href="/variants/s12/dg4r1dg1r3dg16k12r1db27lb2db3lb1y2~x2/"><circle cx="209.2" cy="83.1" r="4" fill="#3465a4"><title>McGuirk (2013)</title></circle></a><circle cx="161.6" cy="88.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dg2db24ly1r2dg2r2ly1k24dg24w2db2~x2~dg1802166-db1204274-ly3307090/

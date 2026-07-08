@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Connaught Ancestry"
   url: "/tartans/connaught-ancestry/"
+- name: "Connaught Ancestry (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4n21db8k4db4dy4db9n9db38k1w3/)
 (the same proportion at any scale), whose colour order is pattern [BBBKBGBBBKW](/stripes/bbbkbgbbbkw/).
@@ -14,7 +16,7 @@ Part of the [Connaught Ancestry](/tartans/connaught-ancestry/) tartan — the na
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10797
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10797](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10797)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db4n21db8k4db4y4db9n9db38k1w3~x2/"><circle cx="366.5" cy="106.0" r="4" fill="#3465a4"><title>Connaught Ancestry</title></circle></a><a href="/variants/s11/db4y2db5dr11db4dr2db2g10db28k1dr2~x2/"><circle cx="375.0" cy="117.3" r="4" fill="#3465a4"><title>Rabbie Burns</title></circle></a><a href="/variants/s8/ly4dp2db30k3dp8db5dp1r2~x2/"><circle cx="388.6" cy="109.0" r="4" fill="#3465a4"><title>Royal British Legion Scotland (Corp)</title></circle></a><a href="/variants/s13/k4n8db54y6db23n4k4r14k4n2db2k4db4/"><circle cx="344.4" cy="82.7" r="4" fill="#3465a4"><title>Blue Brough from Orkney</title></circle></a><a href="/variants/s9/db5r3db21b5db5b40k2b2w1~x2/"><circle cx="391.4" cy="106.2" r="4" fill="#3465a4"><title>MacNeill</title></circle></a><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/"><circle cx="353.3" cy="93.9" r="4" fill="#3465a4"><title>European Union (Fashion)</title></circle></a><a href="/variants/s11/db50dp3k3db11dp8db2r6db2dbi8db2w4~x2~db1204274-dbi1406275/"><circle cx="414.4" cy="88.7" r="4" fill="#3465a4"><title>Scottish American</title></circle></a><a href="/variants/s13/k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2/"><circle cx="331.1" cy="78.0" r="4" fill="#3465a4"><title>Brough from Orkney (Name)</title></circle></a><a href="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/"><circle cx="295.3" cy="103.1" r="4" fill="#3465a4"><title>Mount Dora</title></circle></a><a href="/variants/s10/w4db52k12db12k12db12k12dg24db8k1~x2/"><circle cx="343.1" cy="120.0" r="4" fill="#3465a4"><title>Dollar Academy, The</title></circle></a><circle cx="372.8" cy="108.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db4n21db8k4db4y4db9n9db38k1w3~x2/"><circle cx="366.4" cy="106.0" r="4" fill="#3465a4"><title>Connaught Ancestry</title></circle></a><a href="/variants/s11/db4y2db5dr11db4dr2db2g10db28k1dr2~x2/"><circle cx="374.9" cy="117.3" r="4" fill="#3465a4"><title>Rabbie Burns</title></circle></a><a href="/variants/s8/ly4dp2db30k3dp8db5dp1r2~x2/"><circle cx="388.5" cy="109.1" r="4" fill="#3465a4"><title>Royal British Legion Scotland (Corp)</title></circle></a><a href="/variants/s13/k4n8db54y6db23n4k4r14k4n2db2k4db4/"><circle cx="344.3" cy="82.7" r="4" fill="#3465a4"><title>Blue Brough from Orkney</title></circle></a><a href="/variants/s9/db5r3db21b5db5b40k2b2w1~x2/"><circle cx="391.3" cy="106.2" r="4" fill="#3465a4"><title>MacNeill</title></circle></a><a href="/variants/s10/w4db32k1y2k1db10y18db10k1dr2~x2/"><circle cx="353.2" cy="94.0" r="4" fill="#3465a4"><title>European Union (Fashion)</title></circle></a><a href="/variants/s11/db50dp3k3db11dp8db2r6db2dbi8db2w4~x2~db1204274-dbi1406275/"><circle cx="414.3" cy="88.6" r="4" fill="#3465a4"><title>Scottish American</title></circle></a><a href="/variants/s13/k2n4db27ly3db12n2k2r7k2n1db1k2db2~x2/"><circle cx="331.0" cy="78.1" r="4" fill="#3465a4"><title>Brough from Orkney (Name)</title></circle></a><a href="/variants/s10/db42dp4db16dg10k2r6k2dg10k3w4~x2/"><circle cx="295.2" cy="103.1" r="4" fill="#3465a4"><title>Mount Dora</title></circle></a><a href="/variants/s10/w4db52k12db12k12db12k12dg24db8k1~x2/"><circle cx="343.0" cy="120.0" r="4" fill="#3465a4"><title>Dollar Academy, The</title></circle></a><circle cx="372.7" cy="108.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db4n21db8k4db4dy4db9n9db38k1w3~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Jamaican National"
   url: "/tartans/jamaican-national/"
+- name: "Jamaican National"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y24k2y3k2y3k8g24k2g5/)
 (the same proportion at any scale), whose colour order is pattern [GKGKGKGKG](/stripes/gkgkgkgkg/).
@@ -14,7 +16,7 @@ Part of the [Jamaican National](/tartans/jamaican-national/) tartan — the name
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10545
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10545](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10545)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/ly24k2ly3k2ly3k8g24k2g5~x2/"><circle cx="206.9" cy="169.0" r="4" fill="#3465a4"><title>Jamaican National (District)</title></circle></a><a href="/variants/s8/ly15k1ly2k1ly2k10g14w2~x2/"><circle cx="172.6" cy="157.1" r="4" fill="#3465a4"><title>Buccleuch (Fashion)</title></circle></a><a href="/variants/s7/g5k2g28k10o26db4g4~x2/"><circle cx="234.8" cy="176.9" r="4" fill="#3465a4"><title>John Telfar, Dunbar hunting</title></circle></a><a href="/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/"><circle cx="267.2" cy="167.6" r="4" fill="#3465a4"><title>MacCall/McCall</title></circle></a><a href="/variants/s9/k1y12k2g1k2g3k1y1k1~x4/"><circle cx="280.4" cy="149.2" r="4" fill="#3465a4"><title>Glen Carron (Fashion)</title></circle></a><a href="/variants/s11/dr6g3k3n24g4k10g4dr2g24dr6g2~x2/"><circle cx="204.9" cy="166.1" r="4" fill="#3465a4"><title>MacNeish Htg</title></circle></a><a href="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/"><circle cx="227.3" cy="176.3" r="4" fill="#3465a4"><title>McInery (Personal)</title></circle></a><a href="/variants/s9/g12k1g1k1g1r5ki10k1ki2~x4~r2109032-ki0700000/"><circle cx="195.7" cy="153.0" r="4" fill="#3465a4"><title>Lindsay (Crimson version) (Clan?)</title></circle></a><a href="/variants/s9/r16k3r16g44k3g8k3y20k4~x2/"><circle cx="219.1" cy="158.1" r="4" fill="#3465a4"><title>MacMillan, Society of Glasgow</title></circle></a><a href="/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/"><circle cx="336.0" cy="144.1" r="4" fill="#3465a4"><title>Historic Scotland Corporate Tartan</title></circle></a><circle cx="239.2" cy="178.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/ly24k2ly3k2ly3k8g24k2g5~x2/"><circle cx="206.9" cy="169.5" r="4" fill="#3465a4"><title>Jamaican National (District)</title></circle></a><a href="/variants/s8/ly15k1ly2k1ly2k10g14w2~x2/"><circle cx="172.6" cy="157.6" r="4" fill="#3465a4"><title>Buccleuch (Fashion)</title></circle></a><a href="/variants/s7/g5k2g28k10o26db4g4~x2/"><circle cx="234.8" cy="177.4" r="4" fill="#3465a4"><title>John Telfar, Dunbar hunting</title></circle></a><a href="/variants/s8/dr3k2dr3g12dr3w1dr1g1~x4/"><circle cx="267.2" cy="168.1" r="4" fill="#3465a4"><title>MacCall/McCall</title></circle></a><a href="/variants/s9/k1y12k2g1k2g3k1y1k1~x4/"><circle cx="280.4" cy="149.6" r="4" fill="#3465a4"><title>Glen Carron (Fashion)</title></circle></a><a href="/variants/s11/dr6g3k3n24g4k10g4dr2g24dr6g2~x2/"><circle cx="204.9" cy="166.4" r="4" fill="#3465a4"><title>MacNeish Htg</title></circle></a><a href="/variants/s8/dr8g2dr12k6dr3db3g24k2~x2/"><circle cx="227.3" cy="176.7" r="4" fill="#3465a4"><title>McInery (Personal)</title></circle></a><a href="/variants/s9/g12k1g1k1g1r5ki10k1ki2~x4~r2109032-ki0700000/"><circle cx="195.7" cy="153.4" r="4" fill="#3465a4"><title>Lindsay (Crimson version) (Clan?)</title></circle></a><a href="/variants/s9/r16k3r16g44k3g8k3y20k4~x2/"><circle cx="219.1" cy="158.5" r="4" fill="#3465a4"><title>MacMillan, Society of Glasgow</title></circle></a><a href="/variants/s9/k2g7k1g9dy21n2dy1n1dy2~x2/"><circle cx="335.9" cy="144.3" r="4" fill="#3465a4"><title>Historic Scotland Corporate Tartan</title></circle></a><circle cx="239.3" cy="178.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/y24k2y3k2y3k8g24k2g5~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cambridge"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db73k4lb6k4db73g73r4g73db73k4lb4k4db73g73y4/)
 (the same proportion at any scale), whose colour order is pattern [BKWKBGRGBKWKBGG](/stripes/bkwkbgrgbkwkbgg/).
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=486
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=486](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=486)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r4g73db73k4lb4k4db73g73y4/"><circle cx="255.4" cy="134.4" r="4" fill="#3465a4"><title>Cambridge (Fashion)</title></circle></a><a href="/variants/s14/t34g10t5r2k8dy2w3dy2k8r2t5g10t28k3~x2/"><circle cx="247.7" cy="99.4" r="4" fill="#3465a4"><title>Lambert Dress (Personal)</title></circle></a><a href="/variants/s13/r3g1db2g4db30k2db4k2db30g27y3k3w3~x2/"><circle cx="289.4" cy="72.3" r="4" fill="#3465a4"><title>Joss</title></circle></a><a href="/variants/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/"><circle cx="236.6" cy="90.9" r="4" fill="#3465a4"><title>Scotia (EWM)</title></circle></a><a href="/variants/s16/t21k3t15k4n6k3t2dr3t1dy2t1dp3t18k2t2k2~x2/"><circle cx="326.8" cy="86.7" r="4" fill="#3465a4"><title>Pounds</title></circle></a><a href="/variants/s14/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3~x2/"><circle cx="256.6" cy="95.6" r="4" fill="#3465a4"><title>Lambert (Front Royal) Dress</title></circle></a><a href="/variants/s16/t21k3t15k4n6k3t2dr3t1ly2t1dp3t18k2t2k2~x2/"><circle cx="323.2" cy="85.6" r="4" fill="#3465a4"><title>Pounds (Name)</title></circle></a><a href="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/"><circle cx="224.1" cy="133.8" r="4" fill="#3465a4"><title>Hay Hunting</title></circle></a><a href="/variants/s15/db6y2g24db4g8db6g6db8g3db10n14db4r3db34lb4/"><circle cx="274.7" cy="135.7" r="4" fill="#3465a4"><title>Matchpoint Hunting</title></circle></a><a href="/variants/s15/db6dy2g24db4g8db6g6db8g3db10n14db4r3db34lb4/"><circle cx="275.3" cy="135.8" r="4" fill="#3465a4"><title>Matchpoint Hunting</title></circle></a><circle cx="264.7" cy="115.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r4g73db73k4lb4k4db73g73y4/"><circle cx="255.4" cy="134.6" r="4" fill="#3465a4"><title>Cambridge (Fashion)</title></circle></a><a href="/variants/s14/t34g10t5r2k8dy2w3dy2k8r2t5g10t28k3~x2/"><circle cx="247.6" cy="99.6" r="4" fill="#3465a4"><title>Lambert Dress (Personal)</title></circle></a><a href="/variants/s13/r3g1db2g4db30k2db4k2db30g27y3k3w3~x2/"><circle cx="289.3" cy="72.3" r="4" fill="#3465a4"><title>Joss</title></circle></a><a href="/variants/s16/db58g28dy4w18db14r3db8k4db8r3db14w18dy4g28db58w4/"><circle cx="236.5" cy="91.1" r="4" fill="#3465a4"><title>Scotia (EWM)</title></circle></a><a href="/variants/s16/t21k3t15k4n6k3t2dr3t1dy2t1dp3t18k2t2k2~x2/"><circle cx="326.7" cy="86.8" r="4" fill="#3465a4"><title>Pounds</title></circle></a><a href="/variants/s14/db34g10db5r2k8dy2w3dy2k8r2db5g10db28k3~x2/"><circle cx="256.5" cy="95.7" r="4" fill="#3465a4"><title>Lambert (Front Royal) Dress</title></circle></a><a href="/variants/s16/t21k3t15k4n6k3t2dr3t1ly2t1dp3t18k2t2k2~x2/"><circle cx="323.1" cy="85.7" r="4" fill="#3465a4"><title>Pounds (Name)</title></circle></a><a href="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/"><circle cx="224.1" cy="134.0" r="4" fill="#3465a4"><title>Hay Hunting</title></circle></a><a href="/variants/s15/db6y2g24db4g8db6g6db8g3db10n14db4r3db34lb4/"><circle cx="274.6" cy="135.8" r="4" fill="#3465a4"><title>Matchpoint Hunting</title></circle></a><a href="/variants/s15/db6dy2g24db4g8db6g6db8g3db10n14db4r3db34lb4/"><circle cx="275.3" cy="135.9" r="4" fill="#3465a4"><title>Matchpoint Hunting</title></circle></a><circle cx="264.7" cy="115.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/db73k4lb6k4db73g73r4g73db73k4lb4k4db73g73y4/

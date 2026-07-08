@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sinclair"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r30g12k5w2db6r30db12w2k5g12/)
 (the same proportion at any scale), whose colour order is pattern [GKWBRBWKGR](/stripes/gkwbrbwkgr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3792
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3792](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3792)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n47r8k22r7w3r24n9r10ly3~x2/"><circle cx="201.5" cy="137.6" r="4" fill="#3465a4"><title>Ulster Ancestry (Fashion)</title></circle></a><a href="/variants/s9/n47r8k22r7w3r24n9r10y3~x2/"><circle cx="204.8" cy="138.6" r="4" fill="#3465a4"><title>Ulster Ancestry</title></circle></a><a href="/variants/s13/db2r11g2r11g21r2k9lb2db11r11g2r11db2~x2/"><circle cx="174.2" cy="147.9" r="4" fill="#3465a4"><title>Nicolson/MacNicol</title></circle></a><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/"><circle cx="218.0" cy="149.2" r="4" fill="#3465a4"><title>Seton (Clan)</title></circle></a><a href="/variants/s11/y4k1r12db3r3db16r3db3r12k1w4~x2/"><circle cx="220.0" cy="127.2" r="4" fill="#3465a4"><title>MacKeever</title></circle></a><a href="/variants/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/"><circle cx="201.4" cy="126.6" r="4" fill="#3465a4"><title>Cameron of Locheil (Bonner collection)</title></circle></a><a href="/variants/s9/lb2k2r27g27k12lb12r27k2lb2~x2/"><circle cx="206.9" cy="154.2" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><circle cx="224.4" cy="119.0" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/"><circle cx="224.4" cy="119.0" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s13/k1r14lb8k9y1k2w2k2g10r15k4r12w1~x2/"><circle cx="167.5" cy="107.5" r="4" fill="#3465a4"><title>Wilson's, No 1</title></circle></a><circle cx="217.3" cy="135.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n47r8k22r7w3r24n9r10ly3~x2/"><circle cx="201.5" cy="138.0" r="4" fill="#3465a4"><title>Ulster Ancestry (Fashion)</title></circle></a><a href="/variants/s9/n47r8k22r7w3r24n9r10y3~x2/"><circle cx="204.7" cy="139.0" r="4" fill="#3465a4"><title>Ulster Ancestry</title></circle></a><a href="/variants/s13/db2r11g2r11g21r2k9lb2db11r11g2r11db2~x2/"><circle cx="174.2" cy="148.3" r="4" fill="#3465a4"><title>Nicolson/MacNicol</title></circle></a><a href="/variants/s10/g3w1g6r2dp2r1k2r10g1r2~x8/"><circle cx="218.0" cy="149.6" r="4" fill="#3465a4"><title>Seton (Clan)</title></circle></a><a href="/variants/s11/y4k1r12db3r3db16r3db3r12k1w4~x2/"><circle cx="220.0" cy="127.5" r="4" fill="#3465a4"><title>MacKeever</title></circle></a><a href="/variants/s13/k3r4db2r20db20r2g2r6g10r6w2r3k2~x2/"><circle cx="201.4" cy="126.9" r="4" fill="#3465a4"><title>Cameron of Locheil (Bonner collection)</title></circle></a><a href="/variants/s9/lb2k2r27g27k12lb12r27k2lb2~x2/"><circle cx="206.9" cy="154.7" r="4" fill="#3465a4"><title>MacNaughton</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><circle cx="224.4" cy="119.3" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/"><circle cx="224.4" cy="119.3" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><a href="/variants/s13/k1r14lb8k9y1k2w2k2g10r15k4r12w1~x2/"><circle cx="167.4" cy="107.9" r="4" fill="#3465a4"><title>Wilson's, No 1</title></circle></a><circle cx="217.3" cy="136.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r30g12k5w2db6r30db12w2k5g12~x2/

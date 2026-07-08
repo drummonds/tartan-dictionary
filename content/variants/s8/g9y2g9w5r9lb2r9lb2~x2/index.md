@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Blackie"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g9y2g9w5r9lb2r9lb2/)
 (the same proportion at any scale), whose colour order is pattern [GGGWRWRW](/stripes/gggwrwrw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=285
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=285](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=285)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r1g4w1g4y1dr8lb1~x6/"><circle cx="188.3" cy="191.1" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/variants/s5/g6y1r1lb2r2~x4/"><circle cx="210.4" cy="240.6" r="4" fill="#3465a4"><title>Wilson's No.179</title></circle></a><a href="/variants/s8/db16r14g16y3g16r14db16w3~x2/"><circle cx="112.2" cy="256.7" r="4" fill="#3465a4"><title>James William Forrester of S. Carolina</title></circle></a><a href="/variants/s8/db16r14g16dy3g16r14db16w3~x2/"><circle cx="111.3" cy="256.3" r="4" fill="#3465a4"><title>Forrester (James) (Personal)</title></circle></a><a href="/variants/s6/r3w8db4g14r4db2~x2/"><circle cx="163.3" cy="235.9" r="4" fill="#3465a4"><title>MacIntosh, dress</title></circle></a><a href="/variants/s7/g15r3lb15r8g15ly2db4~x2/"><circle cx="216.7" cy="232.9" r="4" fill="#3465a4"><title>Rotary International</title></circle></a><a href="/variants/s8/dp13r8w5g24w5r10w5r10~x2/"><circle cx="131.7" cy="248.5" r="4" fill="#3465a4"><title>Chaudhri, Zafar Iqbal</title></circle></a><a href="/variants/s7/dg20r3n3r15w19dg3lb2~x2/"><circle cx="150.0" cy="186.2" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/"><circle cx="198.5" cy="270.3" r="4" fill="#3465a4"><title>Torana</title></circle></a><a href="/variants/s7/g19r3lb19r11g19y2db4~x2/"><circle cx="238.7" cy="220.5" r="4" fill="#3465a4"><title>Rotary Corporate Tartan</title></circle></a><circle cx="163.3" cy="256.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r1g4w1g4y1dr8lb1~x6/"><circle cx="188.4" cy="191.5" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/variants/s5/g6y1r1lb2r2~x4/"><circle cx="210.5" cy="241.1" r="4" fill="#3465a4"><title>Wilson's No.179</title></circle></a><a href="/variants/s8/db16r14g16y3g16r14db16w3~x2/"><circle cx="112.3" cy="257.3" r="4" fill="#3465a4"><title>James William Forrester of S. Carolina</title></circle></a><a href="/variants/s8/db16r14g16dy3g16r14db16w3~x2/"><circle cx="111.5" cy="256.9" r="4" fill="#3465a4"><title>Forrester (James) (Personal)</title></circle></a><a href="/variants/s6/r3w8db4g14r4db2~x2/"><circle cx="163.4" cy="236.6" r="4" fill="#3465a4"><title>MacIntosh, dress</title></circle></a><a href="/variants/s7/g15r3lb15r8g15ly2db4~x2/"><circle cx="216.8" cy="233.4" r="4" fill="#3465a4"><title>Rotary International</title></circle></a><a href="/variants/s8/dp13r8w5g24w5r10w5r10~x2/"><circle cx="131.9" cy="249.2" r="4" fill="#3465a4"><title>Chaudhri, Zafar Iqbal</title></circle></a><a href="/variants/s7/dg20r3n3r15w19dg3lb2~x2/"><circle cx="150.1" cy="186.7" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s6/r13dt13o5lo2dt13lo13~x2~o2606057-lo2906085/"><circle cx="198.7" cy="271.0" r="4" fill="#3465a4"><title>Torana</title></circle></a><a href="/variants/s7/g19r3lb19r11g19y2db4~x2/"><circle cx="238.8" cy="221.0" r="4" fill="#3465a4"><title>Rotary Corporate Tartan</title></circle></a><circle cx="163.5" cy="257.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g9y2g9w5r9lb2r9lb2~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Maryland"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8lb1dbi1lb1r12y6k12w2/)
 (the same proportion at any scale), whose colour order is pattern [BWBWRGKW](/stripes/bwbwrgkw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2847
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2847](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2847)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db4k1w2k3y1n12o1k12o12r4~x2/"><circle cx="63.2" cy="119.1" r="4" fill="#3465a4"><title>Campbell, hunting</title></circle></a><a href="/variants/s10/r24dr24k2w6k2y2k16lb5db6w2~x2/"><circle cx="51.1" cy="108.8" r="4" fill="#3465a4"><title>Scotland's International - Away (Fas</title></circle></a><a href="/variants/s9/k2lb6k1db7g13w1k11r14y2~x2/"><circle cx="26.5" cy="126.4" r="4" fill="#3465a4"><title>Teall of Teallach (Personal)</title></circle></a><a href="/variants/s8/r5lb2dp14w2k13ly13k2y3~x2/"><circle cx="20.7" cy="154.0" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/variants/s11/r30w4y2w4db16dg8dp3dg8k10r3k4~x2/"><circle cx="83.6" cy="96.5" r="4" fill="#3465a4"><title>Filipino American</title></circle></a><a href="/variants/s10/r4dy12k12dy1n12y1k3w2k1t4~x2/"><circle cx="71.3" cy="124.9" r="4" fill="#3465a4"><title>Campbell Hunting</title></circle></a><a href="/variants/s8/r5lb2o14w2k13dy13k2y3~x2/"><circle cx="37.0" cy="159.1" r="4" fill="#3465a4"><title>Culloden (Old and Rare) District Tartan</title></circle></a><a href="/variants/s7/lp33dr7db9dp7g12r3k29~x2/"><circle cx="52.8" cy="141.4" r="4" fill="#3465a4"><title>Hatcher (Texas) (Personal)</title></circle></a><a href="/variants/s8/k14y3g18r15w2r3w2dp14~x2/"><circle cx="44.7" cy="167.1" r="4" fill="#3465a4"><title>Wilson's, No 83</title></circle></a><a href="/variants/s10/r24g22k2w6k2y2k15lb6b6w2~x2/"><circle cx="39.7" cy="115.8" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><circle cx="52.0" cy="129.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/db4k1w2k3y1n12o1k12o12r4~x2/"><circle cx="63.1" cy="119.3" r="4" fill="#3465a4"><title>Campbell, hunting</title></circle></a><a href="/variants/s10/r24dr24k2w6k2y2k16lb5db6w2~x2/"><circle cx="51.0" cy="109.0" r="4" fill="#3465a4"><title>Scotland's International - Away (Fas</title></circle></a><a href="/variants/s9/k2lb6k1db7g13w1k11r14y2~x2/"><circle cx="26.4" cy="126.7" r="4" fill="#3465a4"><title>Teall of Teallach (Personal)</title></circle></a><a href="/variants/s8/r5lb2dp14w2k13ly13k2y3~x2/"><circle cx="20.7" cy="154.5" r="4" fill="#3465a4"><title>Culloden</title></circle></a><a href="/variants/s11/r30w4y2w4db16dg8dp3dg8k10r3k4~x2/"><circle cx="83.5" cy="96.8" r="4" fill="#3465a4"><title>Filipino American</title></circle></a><a href="/variants/s10/r4dy12k12dy1n12y1k3w2k1t4~x2/"><circle cx="71.2" cy="125.2" r="4" fill="#3465a4"><title>Campbell Hunting</title></circle></a><a href="/variants/s8/r5lb2o14w2k13dy13k2y3~x2/"><circle cx="36.9" cy="159.5" r="4" fill="#3465a4"><title>Culloden (Old and Rare) District Tartan</title></circle></a><a href="/variants/s7/lp33dr7db9dp7g12r3k29~x2/"><circle cx="52.8" cy="141.8" r="4" fill="#3465a4"><title>Hatcher (Texas) (Personal)</title></circle></a><a href="/variants/s8/k14y3g18r15w2r3w2dp14~x2/"><circle cx="44.7" cy="167.5" r="4" fill="#3465a4"><title>Wilson's, No 83</title></circle></a><a href="/variants/s10/r24g22k2w6k2y2k15lb6b6w2~x2/"><circle cx="39.6" cy="116.1" r="4" fill="#3465a4"><title>Bruce of Kinnaird</title></circle></a><circle cx="52.0" cy="130.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db8lb1dbi1lb1r12y6k12w2~x4~db1404245-dbi1406275/

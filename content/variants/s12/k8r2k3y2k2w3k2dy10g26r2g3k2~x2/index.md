@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tara Murphy Irish Family Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k8r2k3y2k2w3k2dy10g26r2g3k2/)
 (the same proportion at any scale), whose colour order is pattern [KGRGGKWKGKRK](/stripes/kgrggkwkgkrk/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1103
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1103](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1103)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k4r1k3ly1k1w1k1dy8g12r1g2k1~x4/"><circle cx="121.0" cy="109.0" r="4" fill="#3465a4"><title>Murphy (District)</title></circle></a><a href="/variants/s11/r3g24k4y2k3db2k6r4k2r3w2~x2/"><circle cx="146.8" cy="103.7" r="4" fill="#3465a4"><title>King George VI</title></circle></a><a href="/variants/s12/k8r2k3y2k2w3k2o10g26r2g3k2~x2/"><circle cx="148.3" cy="97.1" r="4" fill="#3465a4"><title>Tara, Murphy</title></circle></a><a href="/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="184.8" cy="105.0" r="4" fill="#3465a4"><title>Stewart (King George VI)</title></circle></a><a href="/variants/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2y3~x2/"><circle cx="141.3" cy="115.8" r="4" fill="#3465a4"><title>Celtic F.C.</title></circle></a><a href="/variants/s12/g1k1g14k2r3db3k6w1k1w1k1w1~x4/"><circle cx="159.6" cy="107.7" r="4" fill="#3465a4"><title>Murray-Hetherington (Personal) Name Tartan</title></circle></a><a href="/variants/s12/k14r2k2r2k2g18r2g18w1db12lb1r8~x2/"><circle cx="145.5" cy="105.3" r="4" fill="#3465a4"><title>Princess Diana</title></circle></a><a href="/variants/s10/g1k1g14k2r3db3k6w1k1w1~x4/"><circle cx="175.5" cy="119.6" r="4" fill="#3465a4"><title>Murray-Hetherington (Personal)</title></circle></a><a href="/variants/s9/y16ly5k8ly8k68g46w8k8r8/"><circle cx="159.0" cy="112.8" r="4" fill="#3465a4"><title>Louth County Crest (Fashion)</title></circle></a><a href="/variants/s11/g32w2g2y3g2w2g2k16lb2db16w3~x2/"><circle cx="167.9" cy="99.4" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><circle cx="148.8" cy="97.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k4r1k3ly1k1w1k1dy8g12r1g2k1~x4/"><circle cx="120.9" cy="109.3" r="4" fill="#3465a4"><title>Murphy (District)</title></circle></a><a href="/variants/s11/r3g24k4y2k3db2k6r4k2r3w2~x2/"><circle cx="146.7" cy="103.9" r="4" fill="#3465a4"><title>King George VI</title></circle></a><a href="/variants/s12/k8r2k3y2k2w3k2o10g26r2g3k2~x2/"><circle cx="148.2" cy="97.3" r="4" fill="#3465a4"><title>Tara, Murphy</title></circle></a><a href="/variants/s13/dr2g13t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="184.7" cy="105.2" r="4" fill="#3465a4"><title>Stewart (King George VI)</title></circle></a><a href="/variants/s14/dg6g3dg24k2dg4k16o5dg2w4dg2g21dg2k2y3~x2/"><circle cx="141.2" cy="116.0" r="4" fill="#3465a4"><title>Celtic F.C.</title></circle></a><a href="/variants/s12/g1k1g14k2r3db3k6w1k1w1k1w1~x4/"><circle cx="159.5" cy="108.0" r="4" fill="#3465a4"><title>Murray-Hetherington (Personal) Name Tartan</title></circle></a><a href="/variants/s12/k14r2k2r2k2g18r2g18w1db12lb1r8~x2/"><circle cx="145.5" cy="105.5" r="4" fill="#3465a4"><title>Princess Diana</title></circle></a><a href="/variants/s10/g1k1g14k2r3db3k6w1k1w1~x4/"><circle cx="175.4" cy="119.9" r="4" fill="#3465a4"><title>Murray-Hetherington (Personal)</title></circle></a><a href="/variants/s9/y16ly5k8ly8k68g46w8k8r8/"><circle cx="158.9" cy="113.1" r="4" fill="#3465a4"><title>Louth County Crest (Fashion)</title></circle></a><a href="/variants/s11/g32w2g2y3g2w2g2k16lb2db16w3~x2/"><circle cx="167.8" cy="99.6" r="4" fill="#3465a4"><title>MacKellar</title></circle></a><circle cx="148.7" cy="98.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k8r2k3y2k2w3k2dy10g26r2g3k2~x2/

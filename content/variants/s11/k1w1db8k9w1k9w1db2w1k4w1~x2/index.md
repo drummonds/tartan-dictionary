@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Clergy (Mackinlay)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1w1db8k9w1k9w1db2w1k4w1/)
 (the same proportion at any scale), whose colour order is pattern [KWBKWKWBWKW](/stripes/kwbkwkwbwkw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=681
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=681](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=681)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k7n2lb2n2k13n2k2lb2n13k26lp2~x2/"><circle cx="326.6" cy="130.4" r="4" fill="#3465a4"><title>Pride of Scotland Platinum Fashion Tartan</title></circle></a><a href="/variants/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2~lr2800000-t2503227/"><circle cx="209.5" cy="186.3" r="4" fill="#3465a4"><title>Clergy (Corporate)</title></circle></a><a href="/variants/s10/k10n2lb5k5dr1k5lb5n2k10dr1~x4/"><circle cx="272.2" cy="176.1" r="4" fill="#3465a4"><title>Callaway Corporate Tartan</title></circle></a><a href="/variants/s8/k5w5k5t11k3n17k30t3~x2/"><circle cx="226.5" cy="171.2" r="4" fill="#3465a4"><title>Australian Police</title></circle></a><a href="/variants/s11/k1lb1lp7k8lb1k8lb1lp2lb1k4lb1~x4/"><circle cx="269.2" cy="176.6" r="4" fill="#3465a4"><title>Clark (Crook)</title></circle></a><a href="/variants/s10/k17y2k2y2k9lb11k2lb11k20y2~x2/"><circle cx="293.6" cy="172.6" r="4" fill="#3465a4"><title>Coppa Romana (Switzerland)</title></circle></a><a href="/variants/s10/k17ly2k2ly2k9lb11k2lb11k20ly2~x2/"><circle cx="298.2" cy="176.8" r="4" fill="#3465a4"><title>Coppa Romana (Corporate)</title></circle></a><a href="/variants/s10/k28t3k3t25k3t25k3t3k28o4~x2/"><circle cx="259.2" cy="176.4" r="4" fill="#3465a4"><title>Slanj</title></circle></a><a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x4/"><circle cx="267.6" cy="175.0" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x2/"><circle cx="267.6" cy="175.0" r="4" fill="#3465a4"><title>Priest</title></circle></a><circle cx="281.6" cy="169.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k7n2lb2n2k13n2k2lb2n13k26lp2~x2/"><circle cx="326.5" cy="130.7" r="4" fill="#3465a4"><title>Pride of Scotland Platinum Fashion Tartan</title></circle></a><a href="/variants/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2~lr2800000-t2503227/"><circle cx="209.5" cy="186.8" r="4" fill="#3465a4"><title>Clergy (Corporate)</title></circle></a><a href="/variants/s10/k10n2lb5k5dr1k5lb5n2k10dr1~x4/"><circle cx="272.3" cy="176.6" r="4" fill="#3465a4"><title>Callaway Corporate Tartan</title></circle></a><a href="/variants/s8/k5w5k5t11k3n17k30t3~x2/"><circle cx="226.5" cy="171.7" r="4" fill="#3465a4"><title>Australian Police</title></circle></a><a href="/variants/s11/k1lb1lp7k8lb1k8lb1lp2lb1k4lb1~x4/"><circle cx="269.3" cy="177.1" r="4" fill="#3465a4"><title>Clark (Crook)</title></circle></a><a href="/variants/s10/k17y2k2y2k9lb11k2lb11k20y2~x2/"><circle cx="293.6" cy="173.1" r="4" fill="#3465a4"><title>Coppa Romana (Switzerland)</title></circle></a><a href="/variants/s10/k17ly2k2ly2k9lb11k2lb11k20ly2~x2/"><circle cx="298.2" cy="177.3" r="4" fill="#3465a4"><title>Coppa Romana (Corporate)</title></circle></a><a href="/variants/s10/k28t3k3t25k3t25k3t3k28o4~x2/"><circle cx="259.2" cy="176.9" r="4" fill="#3465a4"><title>Slanj</title></circle></a><a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x4/"><circle cx="267.7" cy="175.5" r="4" fill="#3465a4"><title>Priest</title></circle></a><a href="/variants/s11/k1lb1y7k8lb1k8lb1y2lb1k4lb1~x2/"><circle cx="267.7" cy="175.5" r="4" fill="#3465a4"><title>Priest</title></circle></a><circle cx="281.6" cy="169.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k1w1db8k9w1k9w1db2w1k4w1~x2/

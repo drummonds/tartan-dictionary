@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Alexander-Johnstone"
   url: "/tartans/alexander-johnstone/"
+- name: "Alexander-Johnstone (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y3db2k1db24k2db2k2db2k2g8dp2g8k1w2/)
 (the same proportion at any scale), whose colour order is pattern [GBKBKBKBKGBGKW](/stripes/gbkbkbkbkgbgkw/).
@@ -14,7 +16,7 @@ Part of the [Alexander-Johnstone](/tartans/alexander-johnstone/) tartan — the 
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10907
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10907](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10907)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><circle cx="247.7" cy="78.7" r="4" fill="#3465a4"><title>Huaumé, Patrick Antoine (Personal)</title></circle></a><a href="/variants/s11/r2k1db30k6g12y1db2y1g12k3w1~x2/"><circle cx="218.6" cy="76.0" r="4" fill="#3465a4"><title>Hororata</title></circle></a><a href="/variants/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/"><circle cx="222.0" cy="82.4" r="4" fill="#3465a4"><title>Roach (2015)</title></circle></a><a href="/variants/s17/k3db2g2db26t1db1t1db1t1db1t3lg2k10db3g14k3r3~x2/"><circle cx="184.4" cy="56.2" r="4" fill="#3465a4"><title>St. Lawrence</title></circle></a><a href="/variants/s11/r2k1db30k6g12ly1db2ly1g12k3w1~x2/"><circle cx="214.1" cy="74.6" r="4" fill="#3465a4"><title>Hororata (District)</title></circle></a><a href="/variants/s17/k3db2g2db26t1db1t1db1t1db1t3ti2k10db3g14k3r3~x2~t2405244-ti2503227/"><circle cx="187.8" cy="56.8" r="4" fill="#3465a4"><title>St Lawrence District Tartan</title></circle></a><a href="/variants/s17/k3db2g2db26b1db1b1db1b1db1b3lb2k10db3g14k3r3~x2/"><circle cx="186.0" cy="55.7" r="4" fill="#3465a4"><title>St Lawrence</title></circle></a><a href="/variants/s12/db5r2y7r2db42g28k5db10k15g5w3r3/"><circle cx="182.1" cy="95.7" r="4" fill="#3465a4"><title>Héritage Séquane</title></circle></a><a href="/variants/s11/db38w2db2k10g2y2g22k3r3k3r3~x2/"><circle cx="185.7" cy="85.1" r="4" fill="#3465a4"><title>Hunnisett, /Edinchip</title></circle></a><a href="/variants/s12/db5r2ly7r2db42g28k5db10k15g5w3r3/"><circle cx="174.7" cy="93.5" r="4" fill="#3465a4"><title>Heritage Sequane</title></circle></a><circle cx="220.8" cy="73.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/g10db9dp4dr2dp4g6k10w4g24db60k4/"><circle cx="247.5" cy="78.7" r="4" fill="#3465a4"><title>Huaumé, Patrick Antoine (Personal)</title></circle></a><a href="/variants/s11/r2k1db30k6g12y1db2y1g12k3w1~x2/"><circle cx="218.5" cy="76.1" r="4" fill="#3465a4"><title>Hororata</title></circle></a><a href="/variants/s13/db18w1db1w1db4r4k1g12dy1g1dy1g1dy1~x4/"><circle cx="221.8" cy="82.4" r="4" fill="#3465a4"><title>Roach (2015)</title></circle></a><a href="/variants/s17/k3db2g2db26t1db1t1db1t1db1t3lg2k10db3g14k3r3~x2/"><circle cx="184.2" cy="56.2" r="4" fill="#3465a4"><title>St. Lawrence</title></circle></a><a href="/variants/s11/r2k1db30k6g12ly1db2ly1g12k3w1~x2/"><circle cx="213.9" cy="74.7" r="4" fill="#3465a4"><title>Hororata (District)</title></circle></a><a href="/variants/s17/k3db2g2db26t1db1t1db1t1db1t3ti2k10db3g14k3r3~x2~t2405244-ti2503227/"><circle cx="187.6" cy="56.8" r="4" fill="#3465a4"><title>St Lawrence District Tartan</title></circle></a><a href="/variants/s17/k3db2g2db26b1db1b1db1b1db1b3lb2k10db3g14k3r3~x2/"><circle cx="185.9" cy="55.7" r="4" fill="#3465a4"><title>St Lawrence</title></circle></a><a href="/variants/s12/db5r2y7r2db42g28k5db10k15g5w3r3/"><circle cx="181.9" cy="95.9" r="4" fill="#3465a4"><title>Héritage Séquane</title></circle></a><a href="/variants/s11/db38w2db2k10g2y2g22k3r3k3r3~x2/"><circle cx="185.5" cy="85.2" r="4" fill="#3465a4"><title>Hunnisett, /Edinchip</title></circle></a><a href="/variants/s12/db5r2ly7r2db42g28k5db10k15g5w3r3/"><circle cx="174.6" cy="93.7" r="4" fill="#3465a4"><title>Heritage Sequane</title></circle></a><circle cx="220.7" cy="73.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/y3db2k1db24k2db2k2db2k2g8dp2g8k1w2~x2/

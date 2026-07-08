@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Greylock"
   url: "/tartans/greylock/"
+- name: "Greylock (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g11lr2g12k3lb15dr3lb15g19lr2lb3k2lb3ly3/)
 (the same proportion at any scale), whose colour order is pattern [GYGKWBWGYWKWY](/stripes/gygkwbwgywkwy/).
@@ -14,7 +16,7 @@ Part of the [Greylock](/tartans/greylock/) tartan — the named design grouping 
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=944
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=944](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=944)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g11lr2g12k3lb15dr3lb15g19lr2lb3k2lb3dy3~x2/"><circle cx="168.8" cy="150.4" r="4" fill="#3465a4"><title>Greylock</title></circle></a><a href="/variants/s13/g10w2g10k3db12r3db12g15w2db3k2g3y3~x2/"><circle cx="149.8" cy="162.8" r="4" fill="#3465a4"><title>Greylock</title></circle></a><a href="/variants/s9/g9k2b4g14w3dg3w23g5y3~x2/"><circle cx="154.1" cy="148.2" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/variants/s8/k3r1ly1lb11g13lb5r1ly1~x4~r2109032-ly3307090-g2408144/"><circle cx="219.6" cy="138.8" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s10/g9k2g15r4g14w3n3w23g5y3~x2/"><circle cx="201.6" cy="149.9" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/variants/s10/g9k2g15r4g14w3n3w23g5dy3~x2/"><circle cx="197.5" cy="148.4" r="4" fill="#3465a4"><title>Taylor Dress</title></circle></a><a href="/variants/s9/g9k2r4g14w3lp3w23g5y3~x2/"><circle cx="155.5" cy="145.4" r="4" fill="#3465a4"><title>Taylor Dress #2</title></circle></a><a href="/variants/s14/k5g16lb4g4b16k1w4k1g4b16g4lb4g16ly4~x2/"><circle cx="165.5" cy="132.5" r="4" fill="#3465a4"><title>Unidentified (Callander 2009)</title></circle></a><a href="/variants/s10/g9lb9k1lb1w1lb1k1lb9g9r1~x6~w3600000/"><circle cx="237.6" cy="176.2" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="149.5" cy="111.6" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><circle cx="171.5" cy="151.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g11lr2g12k3lb15dr3lb15g19lr2lb3k2lb3dy3~x2/"><circle cx="168.8" cy="150.8" r="4" fill="#3465a4"><title>Greylock</title></circle></a><a href="/variants/s13/g10w2g10k3db12r3db12g15w2db3k2g3y3~x2/"><circle cx="149.8" cy="163.2" r="4" fill="#3465a4"><title>Greylock</title></circle></a><a href="/variants/s9/g9k2b4g14w3dg3w23g5y3~x2/"><circle cx="154.1" cy="148.6" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/variants/s8/k3r1ly1lb11g13lb5r1ly1~x4~r2109032-ly3307090-g2408144/"><circle cx="219.6" cy="139.2" r="4" fill="#3465a4"><title>Snodgrass</title></circle></a><a href="/variants/s10/g9k2g15r4g14w3n3w23g5y3~x2/"><circle cx="201.6" cy="150.3" r="4" fill="#3465a4"><title>Taylor, dress</title></circle></a><a href="/variants/s10/g9k2g15r4g14w3n3w23g5dy3~x2/"><circle cx="197.5" cy="148.8" r="4" fill="#3465a4"><title>Taylor Dress</title></circle></a><a href="/variants/s9/g9k2r4g14w3lp3w23g5y3~x2/"><circle cx="155.5" cy="145.8" r="4" fill="#3465a4"><title>Taylor Dress #2</title></circle></a><a href="/variants/s14/k5g16lb4g4b16k1w4k1g4b16g4lb4g16ly4~x2/"><circle cx="165.4" cy="132.7" r="4" fill="#3465a4"><title>Unidentified (Callander 2009)</title></circle></a><a href="/variants/s10/g9lb9k1lb1w1lb1k1lb9g9r1~x6~w3600000/"><circle cx="237.7" cy="176.7" r="4" fill="#3465a4"><title>Irving of Glentulchan (Personal)</title></circle></a><a href="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="149.4" cy="111.9" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><circle cx="171.5" cy="152.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/g11lr2g12k3lb15dr3lb15g19lr2lb3k2lb3ly3~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Galvez-Brown"
   url: "/tartans/galvez-brown/"
+- name: "Galvez-Brown"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db36dy5dr12r9dp5w12dy7/)
 (the same proportion at any scale), whose colour order is pattern [BGBRBWG](/stripes/bgbrbwg/).
@@ -14,7 +16,7 @@ Part of the [Galvez-Brown](/tartans/galvez-brown/) tartan — the named design g
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10693
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10693](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10693)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db36ly5dr12r9dp5w12ly7~x2/"><circle cx="132.7" cy="186.1" r="4" fill="#3465a4"><title>Galvez-Brown (Personal)</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.1" cy="220.6" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s7/g21db21y3r21n3dp5n3~x2/"><circle cx="122.3" cy="206.5" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.5" cy="200.7" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="183.4" cy="220.6" r="4" fill="#3465a4"><title>Unidentified (Sock Tie)</title></circle></a><a href="/variants/s5/dp30y7w6db30ly8~x2~y2203076-ly3307090/"><circle cx="179.5" cy="258.2" r="4" fill="#3465a4"><title>Pownall (2015)</title></circle></a><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="164.9" cy="176.5" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/variants/s8/db11lb1k3w1lg4dr5y1db5~x4~db1003265-lg2704216/"><circle cx="188.6" cy="150.5" r="4" fill="#3465a4"><title>Wingtip</title></circle></a><a href="/variants/s7/k20r6ly3db24g3r8w4~x2/"><circle cx="89.3" cy="162.2" r="4" fill="#3465a4"><title>Eichelberger (Perrsonal)</title></circle></a><a href="/variants/s6/r15dr98db72lb25db8w15/"><circle cx="217.6" cy="186.0" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><circle cx="145.9" cy="189.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db36ly5dr12r9dp5w12ly7~x2/"><circle cx="132.8" cy="186.6" r="4" fill="#3465a4"><title>Galvez-Brown (Personal)</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.2" cy="221.1" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s7/g21db21y3r21n3dp5n3~x2/"><circle cx="122.4" cy="206.9" r="4" fill="#3465a4"><title>Falardeau-Murphy (Canada) (Personal)</title></circle></a><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.5" cy="201.2" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s5/db27ly9w3dy16r7~x2/"><circle cx="183.5" cy="221.1" r="4" fill="#3465a4"><title>Unidentified (Sock Tie)</title></circle></a><a href="/variants/s5/dp30y7w6db30ly8~x2~y2203076-ly3307090/"><circle cx="179.6" cy="258.8" r="4" fill="#3465a4"><title>Pownall (2015)</title></circle></a><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="164.9" cy="176.8" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/variants/s8/db11lb1k3w1lg4dr5y1db5~x4~db1003265-lg2704216/"><circle cx="188.5" cy="150.8" r="4" fill="#3465a4"><title>Wingtip</title></circle></a><a href="/variants/s7/k20r6ly3db24g3r8w4~x2/"><circle cx="89.3" cy="162.6" r="4" fill="#3465a4"><title>Eichelberger (Perrsonal)</title></circle></a><a href="/variants/s6/r15dr98db72lb25db8w15/"><circle cx="217.6" cy="186.4" r="4" fill="#3465a4"><title>Afternoon Tea / Assam</title></circle></a><circle cx="145.9" cy="189.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db36dy5dr12r9dp5w12dy7~x2/

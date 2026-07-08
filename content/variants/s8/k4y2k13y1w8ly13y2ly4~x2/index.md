@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bannockbane Light Tan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4y2k13y1w8ly13y2ly4/)
 (the same proportion at any scale), whose colour order is pattern [KGKGWYGY](/stripes/kgkgwygy/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=203
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=203](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=203)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w2k1g16k12r12k1w2~x2/"><circle cx="147.4" cy="156.2" r="4" fill="#3465a4"><title>Prince Edward Island #2</title></circle></a><a href="/variants/s6/r2ly20k5w10k10w2~x2/"><circle cx="156.7" cy="196.9" r="4" fill="#3465a4"><title>Thompson Camel Clan Tartan</title></circle></a><a href="/variants/s8/k4y2k13y1w8o13y2o4~x2/"><circle cx="136.6" cy="167.8" r="4" fill="#3465a4"><title>Bannockbane, Light Tan</title></circle></a><a href="/variants/s8/k4y2k13y1w8lb13y2lb4~x2/"><circle cx="132.0" cy="171.0" r="4" fill="#3465a4"><title>Bannockbane, Blue</title></circle></a><a href="/variants/s9/db3k5r2g2r3g12r6k1r3~x4/"><circle cx="162.9" cy="174.1" r="4" fill="#3465a4"><title>Fulton (1999) (Name)</title></circle></a><a href="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/"><circle cx="186.2" cy="136.7" r="4" fill="#3465a4"><title>Burberry (Counterfeit #4)</title></circle></a><a href="/variants/s6/r4ly30k6w13k13w3~x2/"><circle cx="168.5" cy="193.2" r="4" fill="#3465a4"><title>Thomson, Camel (Fashion)</title></circle></a><a href="/variants/s7/g3r20g16k22lo6k3g2~x2/"><circle cx="136.4" cy="182.3" r="4" fill="#3465a4"><title>Wcwm 1062</title></circle></a><a href="/variants/s9/g7k1r7k1w7k10w7k2w4~x2/"><circle cx="107.1" cy="190.8" r="4" fill="#3465a4"><title>Borthwick, dress</title></circle></a><a href="/variants/s7/ly6k6y30k8lb18k6ly3~x2~ly3307090-y2602166/"><circle cx="142.1" cy="187.1" r="4" fill="#3465a4"><title>Cape Breton (yellow stripes)</title></circle></a><circle cx="130.4" cy="171.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w2k1g16k12r12k1w2~x2/"><circle cx="147.4" cy="156.6" r="4" fill="#3465a4"><title>Prince Edward Island #2</title></circle></a><a href="/variants/s6/r2ly20k5w10k10w2~x2/"><circle cx="156.8" cy="197.6" r="4" fill="#3465a4"><title>Thompson Camel Clan Tartan</title></circle></a><a href="/variants/s8/k4y2k13y1w8o13y2o4~x2/"><circle cx="136.7" cy="168.3" r="4" fill="#3465a4"><title>Bannockbane, Light Tan</title></circle></a><a href="/variants/s8/k4y2k13y1w8lb13y2lb4~x2/"><circle cx="132.0" cy="171.5" r="4" fill="#3465a4"><title>Bannockbane, Blue</title></circle></a><a href="/variants/s9/db3k5r2g2r3g12r6k1r3~x4/"><circle cx="162.9" cy="174.6" r="4" fill="#3465a4"><title>Fulton (1999) (Name)</title></circle></a><a href="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/"><circle cx="186.2" cy="137.1" r="4" fill="#3465a4"><title>Burberry (Counterfeit #4)</title></circle></a><a href="/variants/s6/r4ly30k6w13k13w3~x2/"><circle cx="168.6" cy="193.9" r="4" fill="#3465a4"><title>Thomson, Camel (Fashion)</title></circle></a><a href="/variants/s7/g3r20g16k22lo6k3g2~x2/"><circle cx="136.5" cy="182.8" r="4" fill="#3465a4"><title>Wcwm 1062</title></circle></a><a href="/variants/s9/g7k1r7k1w7k10w7k2w4~x2/"><circle cx="107.1" cy="191.4" r="4" fill="#3465a4"><title>Borthwick, dress</title></circle></a><a href="/variants/s7/ly6k6y30k8lb18k6ly3~x2~ly3307090-y2602166/"><circle cx="142.1" cy="187.7" r="4" fill="#3465a4"><title>Cape Breton (yellow stripes)</title></circle></a><circle cx="130.5" cy="171.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k4y2k13y1w8ly13y2ly4~x2/

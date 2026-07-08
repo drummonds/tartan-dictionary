@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Howard, Vincent (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r65g16r4dp4r4w5/)
 (the same proportion at any scale), whose colour order is pattern [RGRBRW](/stripes/rgrbrw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11067
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11067](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11067)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r72k8r4g16r7n2~x2/"><circle cx="494.0" cy="99.9" r="4" fill="#3465a4"><title>MacAndrew Dress (Name)</title></circle></a><a href="/variants/s6/r80dp19r8g36r10dp2~x2/"><circle cx="455.0" cy="157.0" r="4" fill="#3465a4"><title>Lovat or Fraser #2</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1/"><circle cx="409.6" cy="179.3" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1~x2/"><circle cx="409.6" cy="179.3" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1/"><circle cx="407.1" cy="178.3" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1~x2/"><circle cx="407.1" cy="178.3" r="4" fill="#3465a4"><title>MacKintosh 1</title></circle></a><a href="/variants/s6/r48db2r3g28r4db2~x2/"><circle cx="455.5" cy="165.3" r="4" fill="#3465a4"><title>MacKintosh #3</title></circle></a><a href="/variants/s8/r51lr2k11ly3r11ly3r11g3~x2/"><circle cx="454.8" cy="90.4" r="4" fill="#3465a4"><title>Hackston (Green stripe) (Portrait)</title></circle></a><a href="/variants/s8/r56w2k12y3r12y3r12g3~x2/"><circle cx="462.6" cy="82.2" r="4" fill="#3465a4"><title>Hackston, or Halkerston</title></circle></a><a href="/variants/s5/r35w3r8y2g11~x2/"><circle cx="485.7" cy="179.8" r="4" fill="#3465a4"><title>Highlands at Wyomissing, The</title></circle></a><circle cx="499.1" cy="150.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r72k8r4g16r7n2~x2/"><circle cx="494.0" cy="100.2" r="4" fill="#3465a4"><title>MacAndrew Dress (Name)</title></circle></a><a href="/variants/s6/r80dp19r8g36r10dp2~x2/"><circle cx="455.0" cy="157.3" r="4" fill="#3465a4"><title>Lovat or Fraser #2</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1/"><circle cx="409.7" cy="179.8" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1~x2/"><circle cx="409.7" cy="179.8" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1/"><circle cx="407.2" cy="178.8" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1~x2/"><circle cx="407.2" cy="178.8" r="4" fill="#3465a4"><title>MacKintosh 1</title></circle></a><a href="/variants/s6/r48db2r3g28r4db2~x2/"><circle cx="455.6" cy="165.7" r="4" fill="#3465a4"><title>MacKintosh #3</title></circle></a><a href="/variants/s8/r51lr2k11ly3r11ly3r11g3~x2/"><circle cx="454.8" cy="90.7" r="4" fill="#3465a4"><title>Hackston (Green stripe) (Portrait)</title></circle></a><a href="/variants/s8/r56w2k12y3r12y3r12g3~x2/"><circle cx="462.6" cy="82.5" r="4" fill="#3465a4"><title>Hackston, or Halkerston</title></circle></a><a href="/variants/s5/r35w3r8y2g11~x2/"><circle cx="485.8" cy="180.2" r="4" fill="#3465a4"><title>Highlands at Wyomissing, The</title></circle></a><circle cx="499.1" cy="151.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r65g16r4dp4r4w5~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Reese (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4g2r2k5db22w2/)
 (the same proportion at any scale), whose colour order is pattern [RGRKBW](/stripes/rgrkbw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3485
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3485](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3485)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lr8w3db40k12w3lr3~x2/"><circle cx="281.1" cy="154.7" r="4" fill="#3465a4"><title>Wolverines (Corporate)</title></circle></a><a href="/variants/s5/db19r2w2r2k2~x4/"><circle cx="374.8" cy="164.6" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/variants/s5/db8r1w1r1k1~x8/"><circle cx="335.4" cy="175.5" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/variants/s5/r14w6db38k3g2~x2/"><circle cx="299.6" cy="138.5" r="4" fill="#3465a4"><title>Doten (2013)</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="260.5" cy="78.4" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.1" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s6/w2db15r3g3r3db1~x8/"><circle cx="325.3" cy="171.0" r="4" fill="#3465a4"><title>Lothian Buses (Corporate?)</title></circle></a><a href="/variants/s5/r14lr6db38k3g2~x2/"><circle cx="313.5" cy="141.4" r="4" fill="#3465a4"><title>Doten (2013)</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.7" cy="176.9" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s5/dt30lb2k6db3r3~x4~db1406275/"><circle cx="281.9" cy="130.7" r="4" fill="#3465a4"><title>Edinburgh Crystal Corporate Tartan</title></circle></a><circle cx="273.4" cy="145.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lr8w3db40k12w3lr3~x2/"><circle cx="281.0" cy="155.1" r="4" fill="#3465a4"><title>Wolverines (Corporate)</title></circle></a><a href="/variants/s5/db19r2w2r2k2~x4/"><circle cx="374.8" cy="165.0" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/variants/s5/db8r1w1r1k1~x8/"><circle cx="335.4" cy="175.9" r="4" fill="#3465a4"><title>Laing of Archiestown</title></circle></a><a href="/variants/s5/r14w6db38k3g2~x2/"><circle cx="299.6" cy="138.8" r="4" fill="#3465a4"><title>Doten (2013)</title></circle></a><a href="/variants/s9/db20k3y1w1g3r3k1r2w1~x2/"><circle cx="260.4" cy="78.5" r="4" fill="#3465a4"><title>Stewart Blue MINI Tartan</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.4" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><a href="/variants/s6/w2db15r3g3r3db1~x8/"><circle cx="325.3" cy="171.4" r="4" fill="#3465a4"><title>Lothian Buses (Corporate?)</title></circle></a><a href="/variants/s5/r14lr6db38k3g2~x2/"><circle cx="313.5" cy="141.7" r="4" fill="#3465a4"><title>Doten (2013)</title></circle></a><a href="/variants/s5/db46k6g9dy9r4/"><circle cx="337.7" cy="177.2" r="4" fill="#3465a4"><title>Ayllu Thuban</title></circle></a><a href="/variants/s5/dt30lb2k6db3r3~x4~db1406275/"><circle cx="281.8" cy="130.9" r="4" fill="#3465a4"><title>Edinburgh Crystal Corporate Tartan</title></circle></a><circle cx="273.4" cy="145.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r4g2r2k5db22w2~x4/

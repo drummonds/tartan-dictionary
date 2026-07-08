@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's No.176"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k8lb3g13dp12y2/)
 (the same proportion at any scale), whose colour order is pattern [KWGBGBGW](/stripes/kwgbgbgw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4715
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4715](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4715)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k4lb3g12dp13y2~x2/"><circle cx="137.4" cy="220.7" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="134.3" cy="224.1" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/variants/s5/k4lb3dp11g14w2~x2/"><circle cx="146.8" cy="220.1" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/variants/s5/k4lb3dp11g14y2~x2/"><circle cx="148.4" cy="217.0" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2~dp1607327/"><circle cx="82.5" cy="218.8" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><a href="/variants/s5/dp19w2g12lb3k4~x2/"><circle cx="164.0" cy="179.6" r="4" fill="#3465a4"><title>Wilson's No.111</title></circle></a><a href="/variants/s5/dp11lb2k10g10y3~x2/"><circle cx="73.3" cy="223.4" r="4" fill="#3465a4"><title>Wilson's No.217</title></circle></a><a href="/variants/s6/k2lb1dp6g6r1g1~x4/"><circle cx="152.3" cy="204.4" r="4" fill="#3465a4"><title>Wilson's, No 183</title></circle></a><a href="/variants/s7/db14g18k3g18dr20k14lo3~x2/"><circle cx="108.4" cy="228.9" r="4" fill="#3465a4"><title>Scottish Parliament (unofficial)</title></circle></a><a href="/variants/s10/r1g6dp6lb1k2lb1dp6g6r1g1~x4/"><circle cx="166.3" cy="196.7" r="4" fill="#3465a4"><title>Wilson's No.183</title></circle></a><circle cx="130.3" cy="223.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k4lb3g12dp13y2~x2/"><circle cx="137.5" cy="221.3" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><a href="/variants/s5/k4lb3g13dp12w2~x2/"><circle cx="134.4" cy="224.7" r="4" fill="#3465a4"><title>Wilson's No 148</title></circle></a><a href="/variants/s5/k4lb3dp11g14w2~x2/"><circle cx="146.9" cy="220.7" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/variants/s5/k4lb3dp11g14y2~x2/"><circle cx="148.5" cy="217.5" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2~dp1607327/"><circle cx="82.6" cy="219.4" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><a href="/variants/s5/dp19w2g12lb3k4~x2/"><circle cx="164.0" cy="180.1" r="4" fill="#3465a4"><title>Wilson's No.111</title></circle></a><a href="/variants/s5/dp11lb2k10g10y3~x2/"><circle cx="73.4" cy="224.0" r="4" fill="#3465a4"><title>Wilson's No.217</title></circle></a><a href="/variants/s6/k2lb1dp6g6r1g1~x4/"><circle cx="152.4" cy="205.0" r="4" fill="#3465a4"><title>Wilson's, No 183</title></circle></a><a href="/variants/s7/db14g18k3g18dr20k14lo3~x2/"><circle cx="108.5" cy="229.5" r="4" fill="#3465a4"><title>Scottish Parliament (unofficial)</title></circle></a><a href="/variants/s10/r1g6dp6lb1k2lb1dp6g6r1g1~x4/"><circle cx="166.4" cy="197.2" r="4" fill="#3465a4"><title>Wilson's No.183</title></circle></a><circle cx="130.4" cy="224.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k8lb3g13dp12y2~x2/

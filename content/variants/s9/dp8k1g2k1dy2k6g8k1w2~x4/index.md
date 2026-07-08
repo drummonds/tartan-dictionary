@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Coffield-Limesand"
   url: "/tartans/coffield-limesand/"
+- name: "Coffield-Limesand (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp8k1g2k1dy2k6g8k1w2/)
 (the same proportion at any scale), whose colour order is pattern [BKGKGKGKW](/stripes/bkgkgkgkw/).
@@ -14,7 +16,7 @@ Part of the [Coffield-Limesand](/tartans/coffield-limesand/) tartan — the name
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10596
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10596](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10596)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r3g18r4db3r4k13r3db18g2y3~x2/"><circle cx="92.2" cy="162.8" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn (District)</title></circle></a><a href="/variants/s8/r5db3r3db29k29g29w4r4~x2/"><circle cx="102.5" cy="165.6" r="4" fill="#3465a4"><title>Borrodale</title></circle></a><a href="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/"><circle cx="105.9" cy="173.0" r="4" fill="#3465a4"><title>Biskup (Personal)</title></circle></a><a href="/variants/s7/dp6k3dp21k23w3g24r3~x2/"><circle cx="115.3" cy="186.7" r="4" fill="#3465a4"><title>Colquhoun #3</title></circle></a><a href="/variants/s11/lb2k1lb1db2k8r2g8db2lb1k1lb2~x2/"><circle cx="80.3" cy="153.7" r="4" fill="#3465a4"><title>Unidentified No 22</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1y2~x2/"><circle cx="101.7" cy="190.4" r="4" fill="#3465a4"><title>Campbell of Cawdor Clan Tartan</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="108.7" cy="195.2" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1w2/"><circle cx="90.7" cy="187.7" r="4" fill="#3465a4"><title>Campbell Cawdor</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1lb2~x2/"><circle cx="96.5" cy="189.4" r="4" fill="#3465a4"><title>Argyll</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1lb2~x4/"><circle cx="96.5" cy="189.4" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><circle cx="92.5" cy="173.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r3g18r4db3r4k13r3db18g2y3~x2/"><circle cx="92.2" cy="163.2" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn (District)</title></circle></a><a href="/variants/s8/r5db3r3db29k29g29w4r4~x2/"><circle cx="102.5" cy="166.0" r="4" fill="#3465a4"><title>Borrodale</title></circle></a><a href="/variants/s10/db12r4db18r2k19g18r4g3y2g8~x2/"><circle cx="105.9" cy="173.4" r="4" fill="#3465a4"><title>Biskup (Personal)</title></circle></a><a href="/variants/s7/dp6k3dp21k23w3g24r3~x2/"><circle cx="115.3" cy="187.2" r="4" fill="#3465a4"><title>Colquhoun #3</title></circle></a><a href="/variants/s11/lb2k1lb1db2k8r2g8db2lb1k1lb2~x2/"><circle cx="80.3" cy="154.1" r="4" fill="#3465a4"><title>Unidentified No 22</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1y2~x2/"><circle cx="101.7" cy="190.9" r="4" fill="#3465a4"><title>Campbell of Cawdor Clan Tartan</title></circle></a><a href="/variants/s7/k4t21dy10y4k20r6t3~x2/"><circle cx="108.7" cy="195.7" r="4" fill="#3465a4"><title>Swankie (Personal)</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1w2/"><circle cx="90.7" cy="188.2" r="4" fill="#3465a4"><title>Campbell Cawdor</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1lb2~x2/"><circle cx="96.5" cy="189.9" r="4" fill="#3465a4"><title>Argyll</title></circle></a><a href="/variants/s7/r2k1db8k8g8k1lb2~x4/"><circle cx="96.5" cy="189.9" r="4" fill="#3465a4"><title>Campbell of Cawdor</title></circle></a><circle cx="92.5" cy="173.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dp8k1g2k1dy2k6g8k1w2~x4/

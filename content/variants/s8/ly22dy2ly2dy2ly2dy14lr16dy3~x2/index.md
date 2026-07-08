@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Snaefell (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly22dy2ly2dy2ly2dy14lr16dy3/)
 (the same proportion at any scale), whose colour order is pattern [GYGYGYGY](/stripes/gygygygy/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5319
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5319](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5319)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/"><circle cx="238.2" cy="236.6" r="4" fill="#3465a4"><title>Baillie Dress</title></circle></a><a href="/variants/s14/lr16dy14ly2dy2ly2dy2ly22dy2ly2dy2ly2dy14lr16dy3~x2~dy1603076/"><circle cx="275.8" cy="201.4" r="4" fill="#3465a4"><title>Snaefell</title></circle></a><a href="/variants/s8/ly22do2ly2do2ly2do15w17do3~x2/"><circle cx="270.1" cy="226.9" r="4" fill="#3465a4"><title>Turnberry Manx Snaefell Family Tartan</title></circle></a><a href="/variants/s8/r3ly8r3ly20dy20ly3dy8ly3~x2/"><circle cx="274.1" cy="228.7" r="4" fill="#3465a4"><title>Miyuki #4</title></circle></a><a href="/variants/s8/n2dy2n15dy2w10ly15dy2ly2~x2/"><circle cx="198.2" cy="225.9" r="4" fill="#3465a4"><title>Bannockbane Grey #2</title></circle></a><a href="/variants/s8/o22do2o2do2o2do15w17do3~x2/"><circle cx="235.6" cy="195.8" r="4" fill="#3465a4"><title>Turnberry, Manx Snaefell</title></circle></a><a href="/variants/s10/dg5dr2dg2lr34dg18dr4dg4lr4dg4dr4~x2/"><circle cx="318.0" cy="167.8" r="4" fill="#3465a4"><title>Buccleuch Dress (Fashion)</title></circle></a><a href="/variants/s8/do2lo2do15lo1w10ly15lo2ly2~x2/"><circle cx="232.9" cy="205.6" r="4" fill="#3465a4"><title>Bannockbane Orange Stripes</title></circle></a><a href="/variants/s7/do5lo4do26ly26do4ly3w5~x2/"><circle cx="294.9" cy="226.4" r="4" fill="#3465a4"><title>Elgin District Tartan</title></circle></a><a href="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/"><circle cx="291.9" cy="248.9" r="4" fill="#3465a4"><title>Heil, Rudiger (Personal)</title></circle></a><circle cx="272.5" cy="215.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/ly24dy3ly3dy3ly3dy20w22dy4~x2~dy1603076/"><circle cx="238.4" cy="237.3" r="4" fill="#3465a4"><title>Baillie Dress</title></circle></a><a href="/variants/s14/lr16dy14ly2dy2ly2dy2ly22dy2ly2dy2ly2dy14lr16dy3~x2~dy1603076/"><circle cx="275.9" cy="201.8" r="4" fill="#3465a4"><title>Snaefell</title></circle></a><a href="/variants/s8/ly22do2ly2do2ly2do15w17do3~x2/"><circle cx="270.3" cy="227.6" r="4" fill="#3465a4"><title>Turnberry Manx Snaefell Family Tartan</title></circle></a><a href="/variants/s8/r3ly8r3ly20dy20ly3dy8ly3~x2/"><circle cx="274.3" cy="229.4" r="4" fill="#3465a4"><title>Miyuki #4</title></circle></a><a href="/variants/s8/n2dy2n15dy2w10ly15dy2ly2~x2/"><circle cx="198.4" cy="226.5" r="4" fill="#3465a4"><title>Bannockbane Grey #2</title></circle></a><a href="/variants/s8/o22do2o2do2o2do15w17do3~x2/"><circle cx="235.7" cy="196.4" r="4" fill="#3465a4"><title>Turnberry, Manx Snaefell</title></circle></a><a href="/variants/s10/dg5dr2dg2lr34dg18dr4dg4lr4dg4dr4~x2/"><circle cx="318.0" cy="168.3" r="4" fill="#3465a4"><title>Buccleuch Dress (Fashion)</title></circle></a><a href="/variants/s8/do2lo2do15lo1w10ly15lo2ly2~x2/"><circle cx="233.0" cy="206.1" r="4" fill="#3465a4"><title>Bannockbane Orange Stripes</title></circle></a><a href="/variants/s7/do5lo4do26ly26do4ly3w5~x2/"><circle cx="295.0" cy="227.1" r="4" fill="#3465a4"><title>Elgin District Tartan</title></circle></a><a href="/variants/s8/ly6n2ly2n2ly18n13db13n2~x2/"><circle cx="292.0" cy="249.5" r="4" fill="#3465a4"><title>Heil, Rudiger (Personal)</title></circle></a><circle cx="272.6" cy="216.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/ly22dy2ly2dy2ly2dy14lr16dy3~x2/

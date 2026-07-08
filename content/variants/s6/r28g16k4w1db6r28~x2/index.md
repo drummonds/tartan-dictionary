@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/sinclair/"
 - name: "Sinclair"
   url: "/tartans/sinclair/"
+- name: "Sinclair (Logan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r28g16k4w1db6r28/)
 (the same proportion at any scale), whose colour order is pattern [RBWKGR](/stripes/rbwkgr/).
@@ -16,7 +18,7 @@ Part of the [Sinclair](/tartans/sinclair/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3791
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3791](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3791)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r28g16k4w1lb6r28/"><circle cx="372.5" cy="138.7" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/variants/s6/r28g16k4w1lb6r28~x2/"><circle cx="372.5" cy="138.7" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r36t8w1k5g20r18~x4/"><circle cx="338.2" cy="133.0" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30/"><circle cx="370.2" cy="156.1" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30~x2/"><circle cx="370.2" cy="156.1" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r40lb11w2k12g36r32~x2/"><circle cx="247.9" cy="166.0" r="4" fill="#3465a4"><title>Caithness (1848) (District?)</title></circle></a><a href="/variants/s6/g15k10r30dp2r20w1~x2/"><circle cx="328.7" cy="130.3" r="4" fill="#3465a4"><title>Kinnaird (Name)</title></circle></a><a href="/variants/s6/r25db7r3g13lb1k2~x4/"><circle cx="292.4" cy="129.5" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s4/db4r50g25w2~x2/"><circle cx="415.0" cy="182.0" r="4" fill="#3465a4"><title>Unidentified Locket</title></circle></a><a href="/variants/s5/r62db8w20k3g4~x2/"><circle cx="338.2" cy="122.7" r="4" fill="#3465a4"><title>Nicolson Dress (Clan)</title></circle></a><circle cx="369.7" cy="137.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r28g16k4w1lb6r28/"><circle cx="372.5" cy="139.1" r="4" fill="#3465a4"><title>Sinclair Dress</title></circle></a><a href="/variants/s6/r28g16k4w1lb6r28~x2/"><circle cx="372.5" cy="139.1" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r36t8w1k5g20r18~x4/"><circle cx="338.2" cy="133.3" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30/"><circle cx="370.2" cy="156.6" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30~x2/"><circle cx="370.2" cy="156.6" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r40lb11w2k12g36r32~x2/"><circle cx="248.0" cy="166.6" r="4" fill="#3465a4"><title>Caithness (1848) (District?)</title></circle></a><a href="/variants/s6/g15k10r30dp2r20w1~x2/"><circle cx="328.7" cy="130.8" r="4" fill="#3465a4"><title>Kinnaird (Name)</title></circle></a><a href="/variants/s6/r25db7r3g13lb1k2~x4/"><circle cx="292.4" cy="129.8" r="4" fill="#3465a4"><title>MacPhail</title></circle></a><a href="/variants/s4/db4r50g25w2~x2/"><circle cx="415.1" cy="182.5" r="4" fill="#3465a4"><title>Unidentified Locket</title></circle></a><a href="/variants/s5/r62db8w20k3g4~x2/"><circle cx="338.2" cy="123.1" r="4" fill="#3465a4"><title>Nicolson Dress (Clan)</title></circle></a><circle cx="369.7" cy="137.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r28g16k4w1db6r28~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Thom(p)son"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1k1w2k2w2k1w4k1db9y1/)
 (the same proportion at any scale), whose colour order is pattern [GBKWKWKWKR](/stripes/gbkwkwkwkr/).
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r1k1lb2k2lb2k1lb4k1db9lo1~x4/"><circle cx="126.5" cy="146.3" r="4" fill="#3465a4"><title>Thompson Variant</title></circle></a><a href="/variants/s12/dr3k2w18db18k3db3k3db18k18w18k2lo3~x2/"><circle cx="102.0" cy="153.0" r="4" fill="#3465a4"><title>MacEwan Arisaid (Dance)</title></circle></a><a href="/variants/s9/dr3k1w12k2b2k2ki14w2ki2~x2~b1511266-ki0604259/"><circle cx="139.2" cy="124.5" r="4" fill="#3465a4"><title>NEWYORKER</title></circle></a><a href="/variants/s14/w1k1y1db8k1lb1w8lb1k8lb1w1db8lb1w1~x6/"><circle cx="106.2" cy="133.2" r="4" fill="#3465a4"><title>Praetorian, Blue (Fashion)</title></circle></a><a href="/variants/s12/db17dr6y2dr6k2w2k2w10k1w2k1y3~x2/"><circle cx="104.1" cy="116.3" r="4" fill="#3465a4"><title>Chieftain, The</title></circle></a><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/"><circle cx="135.4" cy="127.6" r="4" fill="#3465a4"><title>Sutherland, Dress</title></circle></a><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/"><circle cx="132.2" cy="122.9" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/variants/s11/db23w2db3lb4db3w2db5k11dp2w23k3~x2/"><circle cx="153.1" cy="131.6" r="4" fill="#3465a4"><title>MacKellar Royal Blue Dress Tartan</title></circle></a><a href="/variants/s11/r1k2w8k2r1k2db8k2r1k2y1~x4/"><circle cx="80.5" cy="146.7" r="4" fill="#3465a4"><title>Andreou Family (Personal)</title></circle></a><a href="/variants/s8/w4db32w12k5r9y8r4w4~x2/"><circle cx="124.8" cy="162.3" r="4" fill="#3465a4"><title>Brunnbauer (2015)</title></circle></a><circle cx="115.0" cy="143.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r1k1lb2k2lb2k1lb4k1db9lo1~x4/"><circle cx="126.5" cy="146.7" r="4" fill="#3465a4"><title>Thompson Variant</title></circle></a><a href="/variants/s12/dr3k2w18db18k3db3k3db18k18w18k2lo3~x2/"><circle cx="102.0" cy="153.4" r="4" fill="#3465a4"><title>MacEwan Arisaid (Dance)</title></circle></a><a href="/variants/s9/dr3k1w12k2b2k2ki14w2ki2~x2~b1511266-ki0604259/"><circle cx="139.1" cy="124.8" r="4" fill="#3465a4"><title>NEWYORKER</title></circle></a><a href="/variants/s14/w1k1y1db8k1lb1w8lb1k8lb1w1db8lb1w1~x6/"><circle cx="106.2" cy="133.5" r="4" fill="#3465a4"><title>Praetorian, Blue (Fashion)</title></circle></a><a href="/variants/s12/db17dr6y2dr6k2w2k2w10k1w2k1y3~x2/"><circle cx="104.0" cy="116.6" r="4" fill="#3465a4"><title>Chieftain, The</title></circle></a><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/"><circle cx="135.4" cy="128.0" r="4" fill="#3465a4"><title>Sutherland, Dress</title></circle></a><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/"><circle cx="132.2" cy="123.3" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/variants/s11/db23w2db3lb4db3w2db5k11dp2w23k3~x2/"><circle cx="153.0" cy="132.0" r="4" fill="#3465a4"><title>MacKellar Royal Blue Dress Tartan</title></circle></a><a href="/variants/s11/r1k2w8k2r1k2db8k2r1k2y1~x4/"><circle cx="80.4" cy="147.1" r="4" fill="#3465a4"><title>Andreou Family (Personal)</title></circle></a><a href="/variants/s8/w4db32w12k5r9y8r4w4~x2/"><circle cx="124.8" cy="162.8" r="4" fill="#3465a4"><title>Brunnbauer (2015)</title></circle></a><circle cx="115.0" cy="143.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/r1k1w2k2w2k1w4k1db9y1~x4/

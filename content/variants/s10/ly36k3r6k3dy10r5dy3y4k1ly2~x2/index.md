@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mead (Tennessee) Hunting (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly36k3r6k3dy10r5dy3y4k1ly2/)
 (the same proportion at any scale), whose colour order is pattern [YKGGRGKRKY](/stripes/ykggrgkrky/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10760
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10760](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10760)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lo32k6r1lr1r1k4dg8lo1dg3~x4/"><circle cx="288.6" cy="66.8" r="4" fill="#3465a4"><title>Durango</title></circle></a><a href="/variants/s8/ly50k1dr12lb1g12dr14lb1dr2~x4/"><circle cx="310.6" cy="80.1" r="4" fill="#3465a4"><title>MacByrd (Personal)</title></circle></a><a href="/variants/s12/lo45g24k15w2lo2k1lo2w2lb11k3lo4w8~x2/"><circle cx="205.0" cy="65.5" r="4" fill="#3465a4"><title>MacGill of Jura (Clan?)</title></circle></a><a href="/variants/s13/g8ri1r6g3r40y2k12r6g30r3k2ri1r6~x2~ri2307033-r2109032/"><circle cx="282.6" cy="66.0" r="4" fill="#3465a4"><title>MacDonald of Glencoe #3</title></circle></a><a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4/"><circle cx="231.2" cy="57.1" r="4" fill="#3465a4"><title>U.S. Customs &amp; Border Protection (C</title></circle></a><a href="/variants/s11/dy32r2y3k3r2dy3y3dy3ly3dy3ly32~x2/"><circle cx="228.6" cy="99.7" r="4" fill="#3465a4"><title>Glen Talloch</title></circle></a><a href="/variants/s8/k2r2k1r18g24k1g2lo2~x2/"><circle cx="298.6" cy="118.1" r="4" fill="#3465a4"><title>Gleneil (Spoof)</title></circle></a><a href="/variants/s8/k2r2k2r24g31k1g2y2~x2/"><circle cx="315.1" cy="107.3" r="4" fill="#3465a4"><title>Gleneil</title></circle></a><a href="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/"><circle cx="323.3" cy="93.8" r="4" fill="#3465a4"><title>Bell's Whisky</title></circle></a><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/"><circle cx="305.7" cy="101.7" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><circle cx="251.0" cy="70.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lo32k6r1lr1r1k4dg8lo1dg3~x4/"><circle cx="288.5" cy="67.1" r="4" fill="#3465a4"><title>Durango</title></circle></a><a href="/variants/s8/ly50k1dr12lb1g12dr14lb1dr2~x4/"><circle cx="310.5" cy="80.3" r="4" fill="#3465a4"><title>MacByrd (Personal)</title></circle></a><a href="/variants/s12/lo45g24k15w2lo2k1lo2w2lb11k3lo4w8~x2/"><circle cx="204.8" cy="65.7" r="4" fill="#3465a4"><title>MacGill of Jura (Clan?)</title></circle></a><a href="/variants/s13/g8ri1r6g3r40y2k12r6g30r3k2ri1r6~x2~ri2307033-r2109032/"><circle cx="282.5" cy="66.1" r="4" fill="#3465a4"><title>MacDonald of Glencoe #3</title></circle></a><a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4/"><circle cx="231.1" cy="57.3" r="4" fill="#3465a4"><title>U.S. Customs &amp; Border Protection (C</title></circle></a><a href="/variants/s11/dy32r2y3k3r2dy3y3dy3ly3dy3ly32~x2/"><circle cx="228.5" cy="100.0" r="4" fill="#3465a4"><title>Glen Talloch</title></circle></a><a href="/variants/s8/k2r2k1r18g24k1g2lo2~x2/"><circle cx="298.5" cy="118.4" r="4" fill="#3465a4"><title>Gleneil (Spoof)</title></circle></a><a href="/variants/s8/k2r2k2r24g31k1g2y2~x2/"><circle cx="315.1" cy="107.6" r="4" fill="#3465a4"><title>Gleneil</title></circle></a><a href="/variants/s9/r3w5dy16ly2dy1ly40w6o3r2~x4~ly2705081-o2500000/"><circle cx="323.2" cy="94.0" r="4" fill="#3465a4"><title>Bell's Whisky</title></circle></a><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/"><circle cx="305.7" cy="101.9" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><circle cx="250.9" cy="70.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/ly36k3r6k3dy10r5dy3y4k1ly2~x2/

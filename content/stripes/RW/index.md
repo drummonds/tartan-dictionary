@@ -33,6 +33,9 @@ second parent, beside its family or clan).
 <tr><td><a href="/setts/r1w1/">Spare</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/r1w1/"><img src="/variants/s2/r1w1~x5/sett.png" alt="Spare sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr class="cluster-sep"><td></td></tr>
+<tr><td><a href="/variants/s2/w3o1~x8~w3801060-o1604029/">Vindolanda Check</a></td></tr>
+<tr><td class="sett-swatch"><a href="/variants/s2/w3o1~x8~w3801060-o1604029/"><img src="/variants/s2/w3o1~x8~w3801060-o1604029/sett.png" alt="Vindolanda Check sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr class="cluster-sep"><td></td></tr>
 <tr><td><a href="/variants/s2/r3lb1~x14/">Wilson's No.138</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s2/r3lb1~x14/"><img src="/variants/s2/r3lb1~x14/sett.png" alt="Wilson's No.138 sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>

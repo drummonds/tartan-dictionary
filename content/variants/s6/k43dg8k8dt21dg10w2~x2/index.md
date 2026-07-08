@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Longmuir"
   url: "/tartans/longmuir/"
+- name: "Longmuir (2014)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k43dg8k8dt21dg10w2/)
 (the same proportion at any scale), whose colour order is pattern [KGKBGW](/stripes/kgkbgw/).
@@ -14,7 +16,7 @@ Part of the [Longmuir](/tartans/longmuir/) tartan — the named design grouping 
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11146
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11146](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11146)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k43dg8k8db21dg10w2~x2/"><circle cx="313.0" cy="167.9" r="4" fill="#3465a4"><title>Longmuir (2014)</title></circle></a><a href="/variants/s6/k88dg17k8g28k8r6~dg1405139-g1903114/"><circle cx="361.1" cy="152.5" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles) (Military)</title></circle></a><a href="/variants/s6/db2k6g2k6dg12y1~x4/"><circle cx="217.6" cy="192.8" r="4" fill="#3465a4"><title>Leahy, Thomas Francis &amp; Mary (Australia)</title></circle></a><a href="/variants/s6/k40dt4k12dt21dg17k4~x2~dg1804158/"><circle cx="275.5" cy="211.2" r="4" fill="#3465a4"><title>Granger Family Tartan</title></circle></a><a href="/variants/s8/dr2k13db4k13dg6k17dg23w1~x2/"><circle cx="307.0" cy="159.4" r="4" fill="#3465a4"><title>Meiklejohn (Personal)</title></circle></a><a href="/variants/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="305.1" cy="142.5" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/"><circle cx="309.9" cy="153.9" r="4" fill="#3465a4"><title>Patriot, The (Fashion)</title></circle></a><a href="/variants/s5/r4k2dg28k39ly4~x2/"><circle cx="299.8" cy="163.2" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/variants/s7/dt6n4dt2db25k30g2k2~x2/"><circle cx="255.4" cy="152.6" r="4" fill="#3465a4"><title>Passion of Scotland (Fashion)</title></circle></a><a href="/variants/s7/k14dg7k2g8k4y2k1~x4/"><circle cx="247.9" cy="175.3" r="4" fill="#3465a4"><title>Grass of Rasunda (2009), The</title></circle></a><circle cx="325.0" cy="173.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k43dg8k8db21dg10w2~x2/"><circle cx="313.0" cy="168.1" r="4" fill="#3465a4"><title>Longmuir (2014)</title></circle></a><a href="/variants/s6/k88dg17k8g28k8r6~dg1405139-g1903114/"><circle cx="361.0" cy="152.8" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles) (Military)</title></circle></a><a href="/variants/s6/db2k6g2k6dg12y1~x4/"><circle cx="217.6" cy="193.2" r="4" fill="#3465a4"><title>Leahy, Thomas Francis &amp; Mary (Australia)</title></circle></a><a href="/variants/s6/k40dt4k12dt21dg17k4~x2~dg1804158/"><circle cx="275.5" cy="211.6" r="4" fill="#3465a4"><title>Granger Family Tartan</title></circle></a><a href="/variants/s8/dr2k13db4k13dg6k17dg23w1~x2/"><circle cx="307.0" cy="159.6" r="4" fill="#3465a4"><title>Meiklejohn (Personal)</title></circle></a><a href="/variants/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="305.1" cy="142.7" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/variants/s7/k10db4k34dt2k2dt30w3~x2~db1106275-dt1401240/"><circle cx="309.8" cy="154.2" r="4" fill="#3465a4"><title>Patriot, The (Fashion)</title></circle></a><a href="/variants/s5/r4k2dg28k39ly4~x2/"><circle cx="299.8" cy="163.5" r="4" fill="#3465a4"><title>Wcwm 9275 5471-2</title></circle></a><a href="/variants/s7/dt6n4dt2db25k30g2k2~x2/"><circle cx="255.3" cy="152.8" r="4" fill="#3465a4"><title>Passion of Scotland (Fashion)</title></circle></a><a href="/variants/s7/k14dg7k2g8k4y2k1~x4/"><circle cx="247.9" cy="175.7" r="4" fill="#3465a4"><title>Grass of Rasunda (2009), The</title></circle></a><circle cx="325.0" cy="173.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k43dg8k8dt21dg10w2~x2/

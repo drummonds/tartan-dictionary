@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mull Millenium Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g91y3k28n18r12b18w2g12/)
 (the same proportion at any scale), whose colour order is pattern [GGKBRBWG](/stripes/ggkbrbwg/).
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g92dy3k28n18r12db18w2g12/"><circle cx="257.9" cy="67.7" r="4" fill="#3465a4"><title>Mull Millennium</title></circle></a><a href="/variants/s9/g60db1y5k1r15k1w15k1g15~x2/"><circle cx="356.5" cy="60.2" r="4" fill="#3465a4"><title>Michael Pellicci (Personal)</title></circle></a><a href="/variants/s9/g60db1ly5k1r15k1w15k1g15~x2/"><circle cx="353.3" cy="59.3" r="4" fill="#3465a4"><title>Pellicci, Michael (Personal)</title></circle></a><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="312.6" cy="129.0" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s9/k1g23k1y3k1w8r1lb5k1~x2/"><circle cx="217.8" cy="84.0" r="4" fill="#3465a4"><title>Nor Westers</title></circle></a><a href="/variants/s9/y2g30k1t5w3t5k1dy12b2~x2~t2308259-b2008266/"><circle cx="226.8" cy="80.8" r="4" fill="#3465a4"><title>St Brigid's Quirindi</title></circle></a><a href="/variants/s9/db2dy12k1t5w3t5k1g30ly2~x2/"><circle cx="234.4" cy="84.7" r="4" fill="#3465a4"><title>St Brigid's Parish Triple Celebratio</title></circle></a><a href="/variants/s7/w3r4db13g37lb3k3y2~x2/"><circle cx="248.4" cy="103.2" r="4" fill="#3465a4"><title>Washington District Tartan</title></circle></a><a href="/variants/s7/w3r4db13g37b3k3y2~x2/"><circle cx="252.1" cy="104.4" r="4" fill="#3465a4"><title>Washington</title></circle></a><a href="/variants/s13/g50k3w4k1y5r4k1w2k2db15k5g4w2~x2/"><circle cx="262.7" cy="28.6" r="4" fill="#3465a4"><title>Abbotsford, City of</title></circle></a><circle cx="258.2" cy="69.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g92dy3k28n18r12db18w2g12/"><circle cx="257.8" cy="67.8" r="4" fill="#3465a4"><title>Mull Millennium</title></circle></a><a href="/variants/s9/g60db1y5k1r15k1w15k1g15~x2/"><circle cx="356.4" cy="60.3" r="4" fill="#3465a4"><title>Michael Pellicci (Personal)</title></circle></a><a href="/variants/s9/g60db1ly5k1r15k1w15k1g15~x2/"><circle cx="353.2" cy="59.4" r="4" fill="#3465a4"><title>Pellicci, Michael (Personal)</title></circle></a><a href="/variants/s7/g41r6g12db8k2y5w8~x2/"><circle cx="312.5" cy="129.3" r="4" fill="#3465a4"><title>Decatur Presbyterian Church</title></circle></a><a href="/variants/s9/k1g23k1y3k1w8r1lb5k1~x2/"><circle cx="217.7" cy="84.2" r="4" fill="#3465a4"><title>Nor Westers</title></circle></a><a href="/variants/s9/y2g30k1t5w3t5k1dy12b2~x2~t2308259-b2008266/"><circle cx="226.6" cy="80.8" r="4" fill="#3465a4"><title>St Brigid's Quirindi</title></circle></a><a href="/variants/s9/db2dy12k1t5w3t5k1g30ly2~x2/"><circle cx="234.3" cy="84.8" r="4" fill="#3465a4"><title>St Brigid's Parish Triple Celebratio</title></circle></a><a href="/variants/s7/w3r4db13g37lb3k3y2~x2/"><circle cx="248.3" cy="103.3" r="4" fill="#3465a4"><title>Washington District Tartan</title></circle></a><a href="/variants/s7/w3r4db13g37b3k3y2~x2/"><circle cx="252.0" cy="104.6" r="4" fill="#3465a4"><title>Washington</title></circle></a><a href="/variants/s13/g50k3w4k1y5r4k1w2k2db15k5g4w2~x2/"><circle cx="262.5" cy="28.6" r="4" fill="#3465a4"><title>Abbotsford, City of</title></circle></a><circle cx="258.1" cy="69.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g91y3k28n18r12b18w2g12~n1700000-r2209032/

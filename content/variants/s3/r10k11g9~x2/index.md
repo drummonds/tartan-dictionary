@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's, No 204"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r10k11g9/)
 (the same proportion at any scale), whose colour order is pattern [GKR](/stripes/gkr/).
 
 Sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/k11g9r10~x2/"><circle cx="43.4" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.204</title></circle></a><a href="/variants/s3/k1g1r1~x8/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 187</title></circle></a><a href="/variants/s3/k1g1r1~x8~r2109032/"><circle cx="72.2" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.187</title></circle></a><a href="/variants/s3/r4k7g4~x2/"><circle cx="123.9" cy="354.6" r="4" fill="#3465a4"><title>Wilson's No.200</title></circle></a><a href="/variants/s3/g7k4r4~x2/"><circle cx="126.6" cy="359.9" r="4" fill="#3465a4"><title>Wilson's No.202</title></circle></a><a href="/variants/s3/k5g4r2~x2/"><circle cx="140.9" cy="335.3" r="4" fill="#3465a4"><title>Wilson's, No 94</title></circle></a><a href="/variants/s3/k6g5r2~x2/"><circle cx="192.4" cy="323.7" r="4" fill="#3465a4"><title>Glen Lyon #1</title></circle></a><a href="/variants/s4/r3g1k3w1~x20/"><circle cx="97.4" cy="276.4" r="4" fill="#3465a4"><title>SAL Glindrande Stiernan</title></circle></a><a href="/variants/s4/r9g9k10lb2~x2~r2109032/"><circle cx="92.8" cy="275.5" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/variants/s3/k1lr1o1~x6/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Coigach Tweed</title></circle></a><circle cx="43.4" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/k11g9r10~x2/"><circle cx="43.8" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.204</title></circle></a><a href="/variants/s3/k1g1r1~x8/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 187</title></circle></a><a href="/variants/s3/k1g1r1~x8~r2109032/"><circle cx="72.7" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.187</title></circle></a><a href="/variants/s3/r4k7g4~x2/"><circle cx="124.2" cy="355.8" r="4" fill="#3465a4"><title>Wilson's No.200</title></circle></a><a href="/variants/s3/g7k4r4~x2/"><circle cx="126.9" cy="361.1" r="4" fill="#3465a4"><title>Wilson's No.202</title></circle></a><a href="/variants/s3/k5g4r2~x2/"><circle cx="141.1" cy="336.4" r="4" fill="#3465a4"><title>Wilson's, No 94</title></circle></a><a href="/variants/s3/k6g5r2~x2/"><circle cx="192.6" cy="324.8" r="4" fill="#3465a4"><title>Glen Lyon #1</title></circle></a><a href="/variants/s4/r3g1k3w1~x20/"><circle cx="97.6" cy="277.4" r="4" fill="#3465a4"><title>SAL Glindrande Stiernan</title></circle></a><a href="/variants/s4/r9g9k10lb2~x2~r2109032/"><circle cx="93.0" cy="276.4" r="4" fill="#3465a4"><title>Wilson's No.196</title></circle></a><a href="/variants/s3/k1lr1o1~x6/"><circle cx="14.0" cy="366.0" r="4" fill="#3465a4"><title>Coigach Tweed</title></circle></a><circle cx="43.8" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/r10k11g9~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dege of Saville Row"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy11db1dy3dbi1db9r1/)
 (the same proportion at any scale), whose colour order is pattern [GBGBBR](/stripes/gbgbbr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=907
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=907](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=907)
 
 ## Provenance
 
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db18y2dy6y2dy19r3~x2/"><circle cx="361.4" cy="237.4" r="4" fill="#3465a4"><title>Balfour #2</title></circle></a><a href="/variants/s6/db18y2dy6y2dy19r3~x4/"><circle cx="361.4" cy="237.4" r="4" fill="#3465a4"><title>Balfour (Clan)</title></circle></a><a href="/variants/s6/dy15r5dy30db32dy4y3~x2/"><circle cx="409.1" cy="242.9" r="4" fill="#3465a4"><title>Cameron Hunting Brown Clan Tartan</title></circle></a><a href="/variants/s5/y1db10dbi5db2g1~x8~db1204274-dbi1406275/"><circle cx="547.3" cy="286.9" r="4" fill="#3465a4"><title>Open Championship (2000)</title></circle></a><a href="/variants/s6/db9dy12db44dy12db9dr3~x2/"><circle cx="626.0" cy="277.7" r="4" fill="#3465a4"><title>Elliot</title></circle></a><a href="/variants/s5/y1db11dbi5db2g1~x4~db1003265-dbi1605267/"><circle cx="516.3" cy="260.8" r="4" fill="#3465a4"><title>Open Championship, The</title></circle></a><a href="/variants/s6/dr2o2dr17dt17m2dt2~x4/"><circle cx="431.5" cy="256.8" r="4" fill="#3465a4"><title>Eglington</title></circle></a><a href="/variants/s6/dr1dy2dt12dy8db16ly1~x2/"><circle cx="396.1" cy="253.6" r="4" fill="#3465a4"><title>Bobby Jones (Personal)</title></circle></a><a href="/variants/s5/db7dr26db7dg24y2~x2/"><circle cx="402.7" cy="285.7" r="4" fill="#3465a4"><title>McCarthy, Old</title></circle></a><a href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/"><circle cx="492.3" cy="249.1" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><circle cx="490.1" cy="257.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db18y2dy6y2dy19r3~x2/"><circle cx="361.5" cy="237.7" r="4" fill="#3465a4"><title>Balfour #2</title></circle></a><a href="/variants/s6/db18y2dy6y2dy19r3~x4/"><circle cx="361.5" cy="237.7" r="4" fill="#3465a4"><title>Balfour (Clan)</title></circle></a><a href="/variants/s6/dy15r5dy30db32dy4y3~x2/"><circle cx="409.2" cy="243.2" r="4" fill="#3465a4"><title>Cameron Hunting Brown Clan Tartan</title></circle></a><a href="/variants/s5/y1db10dbi5db2g1~x8~db1204274-dbi1406275/"><circle cx="547.4" cy="287.0" r="4" fill="#3465a4"><title>Open Championship (2000)</title></circle></a><a href="/variants/s6/db9dy12db44dy12db9dr3~x2/"><circle cx="626.0" cy="277.8" r="4" fill="#3465a4"><title>Elliot</title></circle></a><a href="/variants/s5/y1db11dbi5db2g1~x4~db1003265-dbi1605267/"><circle cx="516.4" cy="261.0" r="4" fill="#3465a4"><title>Open Championship, The</title></circle></a><a href="/variants/s6/dr2o2dr17dt17m2dt2~x4/"><circle cx="431.7" cy="257.0" r="4" fill="#3465a4"><title>Eglington</title></circle></a><a href="/variants/s6/dr1dy2dt12dy8db16ly1~x2/"><circle cx="396.2" cy="253.6" r="4" fill="#3465a4"><title>Bobby Jones (Personal)</title></circle></a><a href="/variants/s5/db7dr26db7dg24y2~x2/"><circle cx="402.9" cy="285.9" r="4" fill="#3465a4"><title>McCarthy, Old</title></circle></a><a href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/"><circle cx="492.4" cy="249.1" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><circle cx="490.2" cy="257.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dy11db1dy3dbi1db9r1~x4~db1204274-dbi1406275/

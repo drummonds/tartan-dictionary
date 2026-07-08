@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Munster Ancestry"
   url: "/tartans/munster-ancestry/"
+- name: "Munster Ancestry"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n4db48n21db14dy3db6n1y3/)
 (the same proportion at any scale), whose colour order is pattern [BBBBGBBG](/stripes/bbbbgbbg/).
@@ -14,7 +16,7 @@ Part of the [Munster Ancestry](/tartans/munster-ancestry/) tartan — the named 
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10799
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10799](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10799)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n4db48n21db14dy3db6n1ly3~x2~dy1603076-ly3307090/"><circle cx="534.9" cy="154.5" r="4" fill="#3465a4"><title>Munster Ancestry (Fashion)</title></circle></a><a href="/variants/s8/db21n2lr1n2db1dr2db1y6~x4/"><circle cx="439.5" cy="150.1" r="4" fill="#3465a4"><title>Blue Rust (Corporate)</title></circle></a><a href="/variants/s11/t79n2t10n5w2n5t10w2dg8g6w2~x2~g2004173/"><circle cx="610.1" cy="128.7" r="4" fill="#3465a4"><title>Dallas (Lochcarron) (Personal)</title></circle></a><a href="/variants/s7/n4db1dr15db42dr6db4dy1~x2/"><circle cx="582.9" cy="177.6" r="4" fill="#3465a4"><title>Lion Brand Sportswear</title></circle></a><a href="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/"><circle cx="454.1" cy="141.9" r="4" fill="#3465a4"><title>Dauphinee, Andrew Hunter (Personal)</title></circle></a><a href="/variants/s9/n8y4n35db2lb8db2n4db21n4~x2/"><circle cx="420.3" cy="194.3" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/variants/s9/n8y4n35db2lt8db2n4db21n4~x2~db1108266-lt3103227/"><circle cx="399.0" cy="187.6" r="4" fill="#3465a4"><title>Bedford Academy</title></circle></a><a href="/variants/s7/y4b3y1b17db40b2db3~x2/"><circle cx="526.5" cy="177.1" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s8/b29dg2b1dg1b1dg1db8y1~x4/"><circle cx="566.7" cy="156.8" r="4" fill="#3465a4"><title>Marist School, The</title></circle></a><a href="/variants/s9/db32ly4dbi12db2dbi4db2n16db67ly6~db1204274-dbi1406275/"><circle cx="551.7" cy="170.1" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><circle cx="570.9" cy="166.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n4db48n21db14dy3db6n1ly3~x2~dy1603076-ly3307090/"><circle cx="534.9" cy="154.6" r="4" fill="#3465a4"><title>Munster Ancestry (Fashion)</title></circle></a><a href="/variants/s8/db21n2lr1n2db1dr2db1y6~x4/"><circle cx="439.4" cy="150.2" r="4" fill="#3465a4"><title>Blue Rust (Corporate)</title></circle></a><a href="/variants/s11/t79n2t10n5w2n5t10w2dg8g6w2~x2~g2004173/"><circle cx="610.1" cy="128.5" r="4" fill="#3465a4"><title>Dallas (Lochcarron) (Personal)</title></circle></a><a href="/variants/s7/n4db1dr15db42dr6db4dy1~x2/"><circle cx="582.9" cy="177.5" r="4" fill="#3465a4"><title>Lion Brand Sportswear</title></circle></a><a href="/variants/s9/r3n32db2n3db4n2db16w1db1~x2/"><circle cx="454.0" cy="141.9" r="4" fill="#3465a4"><title>Dauphinee, Andrew Hunter (Personal)</title></circle></a><a href="/variants/s9/n8y4n35db2lb8db2n4db21n4~x2/"><circle cx="420.4" cy="194.5" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/variants/s9/n8y4n35db2lt8db2n4db21n4~x2~db1108266-lt3103227/"><circle cx="399.1" cy="187.8" r="4" fill="#3465a4"><title>Bedford Academy</title></circle></a><a href="/variants/s7/y4b3y1b17db40b2db3~x2/"><circle cx="526.5" cy="177.1" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s8/b29dg2b1dg1b1dg1db8y1~x4/"><circle cx="566.7" cy="156.8" r="4" fill="#3465a4"><title>Marist School, The</title></circle></a><a href="/variants/s9/db32ly4dbi12db2dbi4db2n16db67ly6~db1204274-dbi1406275/"><circle cx="551.7" cy="170.2" r="4" fill="#3465a4"><title>Calum's Cabin</title></circle></a><circle cx="570.9" cy="166.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/n4db48n21db14dy3db6n1y3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Young in Australia (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly81dg6lyi8dg8/)
 (the same proportion at any scale), whose colour order is pattern [GYGY](/stripes/gygy/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10241
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10241](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10241)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/g16dy3g2~x10/"><circle cx="626.0" cy="319.4" r="4" fill="#3465a4"><title>Hallstatt (Artefact)</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="450.9" cy="285.4" r="4" fill="#3465a4"><title>Special Saffron Tartan</title></circle></a><a href="/variants/s4/g56dy13y13n5~x2/"><circle cx="504.7" cy="280.5" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/variants/s4/ly24r1w1db1~x11/"><circle cx="626.0" cy="172.4" r="4" fill="#3465a4"><title>Dutch Football (Corporate)</title></circle></a><a href="/variants/s4/lb9g52dy15ly4~x2/"><circle cx="424.4" cy="241.2" r="4" fill="#3465a4"><title>McGuigan, Julia (Personal)</title></circle></a><a href="/variants/s3/g81r10y20~x2/"><circle cx="577.0" cy="313.7" r="4" fill="#3465a4"><title>McMoosie</title></circle></a><a href="/variants/s5/ly3g14dy1g14ly3~x4/"><circle cx="597.5" cy="269.6" r="4" fill="#3465a4"><title>Pearson Family Tartan</title></circle></a><a href="/variants/s4/dg2dp2dg24dpi1~x4~dg1806142-dpi1507327/"><circle cx="626.0" cy="228.7" r="4" fill="#3465a4"><title>Walters (Personal)</title></circle></a><a href="/variants/s4/w1n12dp1w1~x4/"><circle cx="584.1" cy="234.7" r="4" fill="#3465a4"><title>Lochnagar</title></circle></a><a href="/variants/s3/r1n19w1~x2/"><circle cx="626.0" cy="223.5" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny (Clan)</title></circle></a><circle cx="626.0" cy="249.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/g16dy3g2~x10/"><circle cx="626.0" cy="320.0" r="4" fill="#3465a4"><title>Hallstatt (Artefact)</title></circle></a><a href="/variants/s4/dg21y43dg86lb10/"><circle cx="451.1" cy="286.0" r="4" fill="#3465a4"><title>Special Saffron Tartan</title></circle></a><a href="/variants/s4/g56dy13y13n5~x2/"><circle cx="504.9" cy="280.8" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/variants/s4/ly24r1w1db1~x11/"><circle cx="626.0" cy="172.8" r="4" fill="#3465a4"><title>Dutch Football (Corporate)</title></circle></a><a href="/variants/s4/lb9g52dy15ly4~x2/"><circle cx="424.6" cy="241.7" r="4" fill="#3465a4"><title>McGuigan, Julia (Personal)</title></circle></a><a href="/variants/s3/g81r10y20~x2/"><circle cx="577.2" cy="314.2" r="4" fill="#3465a4"><title>McMoosie</title></circle></a><a href="/variants/s5/ly3g14dy1g14ly3~x4/"><circle cx="597.7" cy="270.1" r="4" fill="#3465a4"><title>Pearson Family Tartan</title></circle></a><a href="/variants/s4/dg2dp2dg24dpi1~x4~dg1806142-dpi1507327/"><circle cx="626.0" cy="228.9" r="4" fill="#3465a4"><title>Walters (Personal)</title></circle></a><a href="/variants/s4/w1n12dp1w1~x4/"><circle cx="584.3" cy="235.2" r="4" fill="#3465a4"><title>Lochnagar</title></circle></a><a href="/variants/s3/r1n19w1~x2/"><circle cx="626.0" cy="223.9" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny (Clan)</title></circle></a><circle cx="626.0" cy="249.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/ly81dg6lyi8dg8~x2~ly2503076-lyi2705081/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lachine Historic"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w13g13lb13k10w7y1r1/)
 (the same proportion at any scale), whose colour order is pattern [RGWKWGW](/stripes/rgwkwgw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2020
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2020](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2020)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb13dr1g13w1k1w7k3~x2/"><circle cx="135.4" cy="170.2" r="4" fill="#3465a4"><title>Chambers, Christopher J (Personal)</title></circle></a><a href="/variants/s7/lb17k12w9r2w9g1w2~x4/"><circle cx="147.7" cy="164.0" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><a href="/variants/s7/w4k2w18k11db2g18ly2~x2/"><circle cx="121.2" cy="177.7" r="4" fill="#3465a4"><title>Barbour - Ancient</title></circle></a><a href="/variants/s9/g5db22g6k10w24y2db2w2r2~x2/"><circle cx="93.1" cy="130.0" r="4" fill="#3465a4"><title>Haymarket, dress Blue</title></circle></a><a href="/variants/s8/db7w30k13g9r6g16k2y7~x2/"><circle cx="69.8" cy="149.4" r="4" fill="#3465a4"><title>MacLaren dress</title></circle></a><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><circle cx="99.0" cy="151.3" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/variants/s8/dr6w20g12y3g8lb20k2lb3~x2/"><circle cx="98.8" cy="181.3" r="4" fill="#3465a4"><title>Coulter Dress (Personal)</title></circle></a><a href="/variants/s7/db8w33k15g17lb3g17lb3~x2/"><circle cx="101.3" cy="184.9" r="4" fill="#3465a4"><title>MacRobart, dress</title></circle></a><a href="/variants/s8/db2w12k8g8r2g8k1lo2~x2/"><circle cx="83.2" cy="158.2" r="4" fill="#3465a4"><title>MacLaren Dress (Clan)</title></circle></a><a href="/variants/s7/db6w10g10r2y3r1db3~x2/"><circle cx="99.8" cy="205.9" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><circle cx="80.2" cy="180.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/lb13dr1g13w1k1w7k3~x2/"><circle cx="135.4" cy="170.6" r="4" fill="#3465a4"><title>Chambers, Christopher J (Personal)</title></circle></a><a href="/variants/s7/lb17k12w9r2w9g1w2~x4/"><circle cx="147.8" cy="164.5" r="4" fill="#3465a4"><title>Ferguson Dress</title></circle></a><a href="/variants/s7/w4k2w18k11db2g18ly2~x2/"><circle cx="121.2" cy="178.3" r="4" fill="#3465a4"><title>Barbour - Ancient</title></circle></a><a href="/variants/s9/g5db22g6k10w24y2db2w2r2~x2/"><circle cx="93.1" cy="130.3" r="4" fill="#3465a4"><title>Haymarket, dress Blue</title></circle></a><a href="/variants/s8/db7w30k13g9r6g16k2y7~x2/"><circle cx="69.8" cy="149.9" r="4" fill="#3465a4"><title>MacLaren dress</title></circle></a><a href="/variants/s8/r2k2w16dg13g6y2k2w2~x2/"><circle cx="99.0" cy="151.7" r="4" fill="#3465a4"><title>Madewell Dress</title></circle></a><a href="/variants/s8/dr6w20g12y3g8lb20k2lb3~x2/"><circle cx="98.8" cy="181.8" r="4" fill="#3465a4"><title>Coulter Dress (Personal)</title></circle></a><a href="/variants/s7/db8w33k15g17lb3g17lb3~x2/"><circle cx="101.3" cy="185.5" r="4" fill="#3465a4"><title>MacRobart, dress</title></circle></a><a href="/variants/s8/db2w12k8g8r2g8k1lo2~x2/"><circle cx="83.2" cy="158.7" r="4" fill="#3465a4"><title>MacLaren Dress (Clan)</title></circle></a><a href="/variants/s7/db6w10g10r2y3r1db3~x2/"><circle cx="99.9" cy="206.5" r="4" fill="#3465a4"><title>Ainslie, Lake</title></circle></a><circle cx="80.2" cy="180.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/w13g13lb13k10w7y1r1~x4/

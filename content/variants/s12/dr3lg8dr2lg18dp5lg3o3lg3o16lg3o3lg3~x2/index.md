@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dublin Irish County Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr3lg8dr2lg18dp5lg3o3lg3o16lg3o3lg3/)
 (the same proportion at any scale), whose colour order is pattern [BYBYBYRYRYRY](/stripes/bybybyryryry/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2250
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2250](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2250)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r3g8r2g18dr5g3do3g3do16g3do3g3~x2/"><circle cx="318.1" cy="202.2" r="4" fill="#3465a4"><title>Dublin</title></circle></a><a href="/variants/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/"><circle cx="293.4" cy="198.5" r="4" fill="#3465a4"><title>Major, Frazer</title></circle></a><a href="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/"><circle cx="319.1" cy="204.2" r="4" fill="#3465a4"><title>Fraser of Castle Leathers, Major James</title></circle></a><a href="/variants/s14/dg6ly2db2ly11dg2ly2r3ly2dg2ly11db2ly2dg6r3~x2/"><circle cx="223.1" cy="200.0" r="4" fill="#3465a4"><title>Invertere (Daks #1)</title></circle></a><a href="/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/"><circle cx="357.9" cy="173.4" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s14/g19dy3g19r3g19dy3g19r3g3r21lb3r21g3r3~x2/"><circle cx="322.9" cy="203.7" r="4" fill="#3465a4"><title>Burnett of Powis (Modern) (Personal)</title></circle></a><a href="/variants/s12/lo28r3lo3db5lo3g3r3g12r3g3lo6db3~x2/"><circle cx="283.9" cy="166.0" r="4" fill="#3465a4"><title>Bird of Paradise (Fashion)</title></circle></a><a href="/variants/s11/ly15g6ly1r1ly1g6ly15dy2ly1dy6w1~x4/"><circle cx="326.9" cy="155.8" r="4" fill="#3465a4"><title>Connaught</title></circle></a><a href="/variants/s7/r4ly27dy9w2t2dy2t4~x3/"><circle cx="301.0" cy="137.5" r="4" fill="#3465a4"><title>Unidentified #25</title></circle></a><a href="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/"><circle cx="323.6" cy="219.7" r="4" fill="#3465a4"><title>Burnett of Powis (Personal)</title></circle></a><circle cx="286.5" cy="193.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r3g8r2g18dr5g3do3g3do16g3do3g3~x2/"><circle cx="318.2" cy="202.5" r="4" fill="#3465a4"><title>Dublin</title></circle></a><a href="/variants/s15/w2r18w2r5w2g13w2g13w2r5w2g13w2g13w2~x2/"><circle cx="293.5" cy="199.0" r="4" fill="#3465a4"><title>Major, Frazer</title></circle></a><a href="/variants/s15/lb2r19lb2r5lb2g13lb2g12lb2r5lb2g14lb2g12lb2~x2/"><circle cx="319.2" cy="204.7" r="4" fill="#3465a4"><title>Fraser of Castle Leathers, Major James</title></circle></a><a href="/variants/s14/dg6ly2db2ly11dg2ly2r3ly2dg2ly11db2ly2dg6r3~x2/"><circle cx="223.3" cy="200.6" r="4" fill="#3465a4"><title>Invertere (Daks #1)</title></circle></a><a href="/variants/s15/w2r28w2r6w2g21w2g21w2r6w2g21w2g21w2~x2/"><circle cx="357.9" cy="173.9" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s14/g19dy3g19r3g19dy3g19r3g3r21lb3r21g3r3~x2/"><circle cx="323.0" cy="204.2" r="4" fill="#3465a4"><title>Burnett of Powis (Modern) (Personal)</title></circle></a><a href="/variants/s12/lo28r3lo3db5lo3g3r3g12r3g3lo6db3~x2/"><circle cx="284.0" cy="166.5" r="4" fill="#3465a4"><title>Bird of Paradise (Fashion)</title></circle></a><a href="/variants/s11/ly15g6ly1r1ly1g6ly15dy2ly1dy6w1~x4/"><circle cx="326.9" cy="156.2" r="4" fill="#3465a4"><title>Connaught</title></circle></a><a href="/variants/s7/r4ly27dy9w2t2dy2t4~x3/"><circle cx="301.1" cy="137.9" r="4" fill="#3465a4"><title>Unidentified #25</title></circle></a><a href="/variants/s8/r3g19dy3g19r3g3r21lb3~x2/"><circle cx="323.7" cy="220.2" r="4" fill="#3465a4"><title>Burnett of Powis (Personal)</title></circle></a><circle cx="286.6" cy="194.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dr3lg8dr2lg18dp5lg3o3lg3o16lg3o3lg3~x2/

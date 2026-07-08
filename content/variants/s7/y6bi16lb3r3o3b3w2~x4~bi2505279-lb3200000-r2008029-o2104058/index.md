@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Atikokan"
   url: "/tartans/atikokan/"
+- name: "Atikokan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y6bi16lb3r3o3b3w2/)
 (the same proportion at any scale), whose colour order is pattern [GBWRRBW](/stripes/gbwrrbw/).
@@ -14,7 +16,7 @@ Part of the [Atikokan](/tartans/atikokan/) tartan — the named design grouping 
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y6t16lb3r3ly3g3w2~x4~t2607245-lb3200000/"><circle cx="188.3" cy="189.7" r="4" fill="#3465a4"><title>Atikokan</title></circle></a><a href="/variants/s7/dy6t16lb3y3o3g3w2~x4~t2405244-lb3200000-y2104086-o2605070/"><circle cx="181.2" cy="185.5" r="4" fill="#3465a4"><title>Atikokan (District)</title></circle></a><a href="/variants/s6/db30y3dy11y3n33r6~x2/"><circle cx="278.1" cy="223.4" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s7/lb25r10lb25w8b6g8y5~x2/"><circle cx="268.5" cy="242.5" r="4" fill="#3465a4"><title>Barneys (Scunthorpe) (Personal)</title></circle></a><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><circle cx="253.5" cy="207.7" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.3" cy="219.4" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s7/dbi8y4w2db25dy25dbii2r5~x2~dbi1404245-db1106275-dbii1406275/"><circle cx="201.9" cy="169.0" r="4" fill="#3465a4"><title>Kildrummie (Name)</title></circle></a><a href="/variants/s5/b15t20n12r34y3~x2~t2004230-y2301060/"><circle cx="273.6" cy="251.9" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/variants/s7/dp2g6r1y1db3b10w1~x2/"><circle cx="180.6" cy="172.7" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/variants/s6/w3dbi17o16db2dg17y2~x2~dbi1604274-db0805267/"><circle cx="159.9" cy="216.3" r="4" fill="#3465a4"><title>Atlantic, Ancient</title></circle></a><circle cx="225.0" cy="193.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y6t16lb3r3ly3g3w2~x4~t2607245-lb3200000/"><circle cx="188.4" cy="190.0" r="4" fill="#3465a4"><title>Atikokan</title></circle></a><a href="/variants/s7/dy6t16lb3y3o3g3w2~x4~t2405244-lb3200000-y2104086-o2605070/"><circle cx="181.3" cy="185.8" r="4" fill="#3465a4"><title>Atikokan (District)</title></circle></a><a href="/variants/s6/db30y3dy11y3n33r6~x2/"><circle cx="278.2" cy="223.6" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s7/lb25r10lb25w8b6g8y5~x2/"><circle cx="268.7" cy="243.0" r="4" fill="#3465a4"><title>Barneys (Scunthorpe) (Personal)</title></circle></a><a href="/variants/s6/r15t98db72y25db8w15~t2304245-db1404245/"><circle cx="253.6" cy="208.0" r="4" fill="#3465a4"><title>Afternoon Tea / Earl Grey</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.4" cy="219.7" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s7/dbi8y4w2db25dy25dbii2r5~x2~dbi1404245-db1106275-dbii1406275/"><circle cx="201.9" cy="169.1" r="4" fill="#3465a4"><title>Kildrummie (Name)</title></circle></a><a href="/variants/s5/b15t20n12r34y3~x2~t2004230-y2301060/"><circle cx="273.8" cy="252.2" r="4" fill="#3465a4"><title>McCurdy-Stribbling (Personal)</title></circle></a><a href="/variants/s7/dp2g6r1y1db3b10w1~x2/"><circle cx="180.6" cy="172.9" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/variants/s6/w3dbi17o16db2dg17y2~x2~dbi1604274-db0805267/"><circle cx="160.0" cy="216.7" r="4" fill="#3465a4"><title>Atlantic, Ancient</title></circle></a><circle cx="225.0" cy="193.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/y6bi16lb3r3o3b3w2~x4~bi2505279-lb3200000-r2008029-o2104058/

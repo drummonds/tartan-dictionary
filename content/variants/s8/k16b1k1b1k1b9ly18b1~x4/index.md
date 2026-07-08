@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kelvingrove (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k16b1k1b1k1b9ly18b1/)
 (the same proportion at any scale), whose colour order is pattern [BYBKBKBK](/stripes/bybkbkbk/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5326
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5326](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5326)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k2n2w4n6w27n15k42n2w2/"><circle cx="226.7" cy="133.0" r="4" fill="#3465a4"><title>Swansea City AFC</title></circle></a><a href="/variants/s8/k2lb1g16lb1k13lb18k2lb2~x2/"><circle cx="210.8" cy="164.8" r="4" fill="#3465a4"><title>Hebridean Old</title></circle></a><a href="/variants/s8/n22k2n2k2n2k16w16k3~x2/"><circle cx="188.3" cy="176.5" r="4" fill="#3465a4"><title>Laksaa (Manx)</title></circle></a><a href="/variants/s8/n21k2n2k2n2k15w17k3~x2/"><circle cx="181.5" cy="179.2" r="4" fill="#3465a4"><title>Laksaa</title></circle></a><a href="/variants/s8/lb12g2lb4g2lb4k33g13r4~x2/"><circle cx="194.4" cy="139.8" r="4" fill="#3465a4"><title>Brown of the Southeast (Personal)</title></circle></a><a href="/variants/s10/w16k4o1k2w1k6dg6k1dg6w1~x4/"><circle cx="164.6" cy="134.1" r="4" fill="#3465a4"><title>Unidentified #49</title></circle></a><a href="/variants/s12/dr8w1k3dr3k10w3k5w25k3dr3k12w3~x2/"><circle cx="213.9" cy="127.0" r="4" fill="#3465a4"><title>Buildbase</title></circle></a><a href="/variants/s8/k2lb6r3lb6r3k20n30r2~x2/"><circle cx="190.7" cy="142.0" r="4" fill="#3465a4"><title>Hermitage Academy (Corporate)</title></circle></a><a href="/variants/s9/r3g2k1g20k9lb20k1lb2r3~x2/"><circle cx="174.5" cy="133.8" r="4" fill="#3465a4"><title>Ayrton</title></circle></a><a href="/variants/s7/r2w8k14dy25w2k2w2~x2/"><circle cx="200.5" cy="155.3" r="4" fill="#3465a4"><title>Merric Dark Camel.. Trade Tartan</title></circle></a><circle cx="204.6" cy="147.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k2n2w4n6w27n15k42n2w2/"><circle cx="226.6" cy="133.4" r="4" fill="#3465a4"><title>Swansea City AFC</title></circle></a><a href="/variants/s8/k2lb1g16lb1k13lb18k2lb2~x2/"><circle cx="210.8" cy="165.3" r="4" fill="#3465a4"><title>Hebridean Old</title></circle></a><a href="/variants/s8/n22k2n2k2n2k16w16k3~x2/"><circle cx="188.4" cy="177.1" r="4" fill="#3465a4"><title>Laksaa (Manx)</title></circle></a><a href="/variants/s8/n21k2n2k2n2k15w17k3~x2/"><circle cx="181.5" cy="179.7" r="4" fill="#3465a4"><title>Laksaa</title></circle></a><a href="/variants/s8/lb12g2lb4g2lb4k33g13r4~x2/"><circle cx="194.3" cy="140.2" r="4" fill="#3465a4"><title>Brown of the Southeast (Personal)</title></circle></a><a href="/variants/s10/w16k4o1k2w1k6dg6k1dg6w1~x4/"><circle cx="164.6" cy="134.5" r="4" fill="#3465a4"><title>Unidentified #49</title></circle></a><a href="/variants/s12/dr8w1k3dr3k10w3k5w25k3dr3k12w3~x2/"><circle cx="213.9" cy="127.4" r="4" fill="#3465a4"><title>Buildbase</title></circle></a><a href="/variants/s8/k2lb6r3lb6r3k20n30r2~x2/"><circle cx="190.7" cy="142.4" r="4" fill="#3465a4"><title>Hermitage Academy (Corporate)</title></circle></a><a href="/variants/s9/r3g2k1g20k9lb20k1lb2r3~x2/"><circle cx="174.5" cy="134.2" r="4" fill="#3465a4"><title>Ayrton</title></circle></a><a href="/variants/s7/r2w8k14dy25w2k2w2~x2/"><circle cx="200.5" cy="155.7" r="4" fill="#3465a4"><title>Merric Dark Camel.. Trade Tartan</title></circle></a><circle cx="204.6" cy="147.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k16b1k1b1k1b9ly18b1~x4/

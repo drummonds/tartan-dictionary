@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Common Ground Dress (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3dr27w16db27ly3/)
 (the same proportion at any scale), whose colour order is pattern [WBWBY](/stripes/wbwby/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10579
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10579](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10579)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/y3db27w16dr27w3~x2/"><circle cx="193.9" cy="243.0" r="4" fill="#3465a4"><title>Common Ground (Dress)</title></circle></a><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="268.3" cy="225.2" r="4" fill="#3465a4"><title>Highland Spring Dress (2004) (Corp)</title></circle></a><a href="/variants/s5/db2w2dr8db8w1~x2/"><circle cx="309.0" cy="272.4" r="4" fill="#3465a4"><title>Laval (Tartan de..) District Tartan</title></circle></a><a href="/variants/s4/w4dp31w35lb4~x2/"><circle cx="341.7" cy="270.6" r="4" fill="#3465a4"><title>Lewis, Magenta (Dance)</title></circle></a><a href="/variants/s7/w20dbi14dp14w4db2lb2dp7~x2~dbi1405255-db0906265/"><circle cx="194.1" cy="223.1" r="4" fill="#3465a4"><title>Earl of St. Andrews Dress</title></circle></a><a href="/variants/s8/ly15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/"><circle cx="162.7" cy="223.9" r="4" fill="#3465a4"><title>Monaghan County Crest (Fashion)</title></circle></a><a href="/variants/s6/db1n8w1db4dr8w1~x6/"><circle cx="253.7" cy="259.4" r="4" fill="#3465a4"><title>Little's Chauffeur Drive</title></circle></a><a href="/variants/s8/n12dt2n2dt2n2dt10w12dt3~x2~n1900000-dt0900000/"><circle cx="227.1" cy="260.1" r="4" fill="#3465a4"><title>Grey Watch Dress (Fashion)</title></circle></a><a href="/variants/s5/dp30ly7w6db30y8~x2/"><circle cx="182.8" cy="259.5" r="4" fill="#3465a4"><title>Pownall (2015)</title></circle></a><a href="/variants/s8/lb16db3lb3n3lb3db10dr12w4~x2/"><circle cx="184.8" cy="246.6" r="4" fill="#3465a4"><title>Greer (Name?)</title></circle></a><circle cx="215.8" cy="258.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/y3db27w16dr27w3~x2/"><circle cx="194.1" cy="243.7" r="4" fill="#3465a4"><title>Common Ground (Dress)</title></circle></a><a href="/variants/s5/w4db30g10dr25w2~x2/"><circle cx="268.4" cy="225.7" r="4" fill="#3465a4"><title>Highland Spring Dress (2004) (Corp)</title></circle></a><a href="/variants/s5/db2w2dr8db8w1~x2/"><circle cx="309.2" cy="273.1" r="4" fill="#3465a4"><title>Laval (Tartan de..) District Tartan</title></circle></a><a href="/variants/s4/w4dp31w35lb4~x2/"><circle cx="342.0" cy="271.4" r="4" fill="#3465a4"><title>Lewis, Magenta (Dance)</title></circle></a><a href="/variants/s7/w20dbi14dp14w4db2lb2dp7~x2~dbi1405255-db0906265/"><circle cx="194.2" cy="223.6" r="4" fill="#3465a4"><title>Earl of St. Andrews Dress</title></circle></a><a href="/variants/s8/ly15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/"><circle cx="162.9" cy="224.4" r="4" fill="#3465a4"><title>Monaghan County Crest (Fashion)</title></circle></a><a href="/variants/s6/db1n8w1db4dr8w1~x6/"><circle cx="253.9" cy="259.9" r="4" fill="#3465a4"><title>Little's Chauffeur Drive</title></circle></a><a href="/variants/s8/n12dt2n2dt2n2dt10w12dt3~x2~n1900000-dt0900000/"><circle cx="227.2" cy="260.8" r="4" fill="#3465a4"><title>Grey Watch Dress (Fashion)</title></circle></a><a href="/variants/s5/dp30ly7w6db30y8~x2/"><circle cx="183.0" cy="260.1" r="4" fill="#3465a4"><title>Pownall (2015)</title></circle></a><a href="/variants/s8/lb16db3lb3n3lb3db10dr12w4~x2/"><circle cx="185.0" cy="247.2" r="4" fill="#3465a4"><title>Greer (Name?)</title></circle></a><circle cx="216.0" cy="258.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/w3dr27w16db27ly3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Livingstone"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g14r4g2r2g2r4g19r30g2r9/)
 (the same proportion at any scale), whose colour order is pattern [GRGRGRGRGR](/stripes/grgrgrgrgr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2134
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2134](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2134)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/"><circle cx="421.6" cy="183.1" r="4" fill="#3465a4"><title>Donachie</title></circle></a><a href="/variants/s11/g22r4g22r22g2r3g2r3g2r3y2~x2/"><circle cx="393.3" cy="190.6" r="4" fill="#3465a4"><title>MacRea / MacRae</title></circle></a><a href="/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/"><circle cx="384.8" cy="192.5" r="4" fill="#3465a4"><title>Princess Marina</title></circle></a><a href="/variants/s10/r8g2r2g6r1g6r2g2r8y1/"><circle cx="355.8" cy="232.3" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/variants/s14/r1w1g1r16g7r1w1g1w1r1g7w2r1g1~x2/"><circle cx="318.4" cy="137.6" r="4" fill="#3465a4"><title>Mordente</title></circle></a><a href="/variants/s14/r2w1g1r16g7r1w1g1w1r1g7w2r1g2~x2/"><circle cx="317.4" cy="142.1" r="4" fill="#3465a4"><title>Mordente (Personal)</title></circle></a><a href="/variants/s14/r2w1g1r16g7r1w1g1w1r1g7w2r1g2~x4/"><circle cx="317.4" cy="142.1" r="4" fill="#3465a4"><title>Mordente (Personal)</title></circle></a><a href="/variants/s11/y1r8g2r2g6r1g6r2g2r8w1~x4/"><circle cx="317.4" cy="207.4" r="4" fill="#3465a4"><title>Bruce (Vestiarium)</title></circle></a><a href="/variants/s11/y1r8g2r2g6r1g6r2g2r8w1~x2/"><circle cx="317.4" cy="207.4" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12~x4/"><circle cx="451.2" cy="210.5" r="4" fill="#3465a4"><title>MacQuarrie #5</title></circle></a><circle cx="416.5" cy="195.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r24g2r2g40r25g2r2g2r2g20~x2/"><circle cx="421.7" cy="183.5" r="4" fill="#3465a4"><title>Donachie</title></circle></a><a href="/variants/s11/g22r4g22r22g2r3g2r3g2r3y2~x2/"><circle cx="393.4" cy="191.0" r="4" fill="#3465a4"><title>MacRea / MacRae</title></circle></a><a href="/variants/s11/r3g22r3g4r5g4r5g4r5g2w2~x2/"><circle cx="384.9" cy="193.0" r="4" fill="#3465a4"><title>Princess Marina</title></circle></a><a href="/variants/s10/r8g2r2g6r1g6r2g2r8y1/"><circle cx="356.0" cy="232.9" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/variants/s14/r1w1g1r16g7r1w1g1w1r1g7w2r1g1~x2/"><circle cx="318.4" cy="138.0" r="4" fill="#3465a4"><title>Mordente</title></circle></a><a href="/variants/s14/r2w1g1r16g7r1w1g1w1r1g7w2r1g2~x2/"><circle cx="317.4" cy="142.5" r="4" fill="#3465a4"><title>Mordente (Personal)</title></circle></a><a href="/variants/s14/r2w1g1r16g7r1w1g1w1r1g7w2r1g2~x4/"><circle cx="317.4" cy="142.5" r="4" fill="#3465a4"><title>Mordente (Personal)</title></circle></a><a href="/variants/s11/y1r8g2r2g6r1g6r2g2r8w1~x4/"><circle cx="317.6" cy="207.9" r="4" fill="#3465a4"><title>Bruce (Vestiarium)</title></circle></a><a href="/variants/s11/y1r8g2r2g6r1g6r2g2r8w1~x2/"><circle cx="317.6" cy="207.9" r="4" fill="#3465a4"><title>Bruce</title></circle></a><a href="/variants/s6/r16g1r1g1r4g12~x4/"><circle cx="451.4" cy="211.0" r="4" fill="#3465a4"><title>MacQuarrie #5</title></circle></a><circle cx="416.6" cy="195.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Labrador"
   url: "/tartans/labrador/"
+- name: "Labrador"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb11k2lb2k2dy2k11dg30r2dg3k1w5/)
 (the same proportion at any scale), whose colour order is pattern [WKGRGKGKWKW](/stripes/wkgrgkgkwkw/).
@@ -14,7 +16,7 @@ Part of the [Labrador](/tartans/labrador/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10004
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10004](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10004)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb11k2lb2k2ly2k11dg30r2dg3k1w5~x2/"><circle cx="187.2" cy="68.2" r="4" fill="#3465a4"><title>Labrador (District)</title></circle></a><a href="/variants/s10/k45r4k4n4ly16n76db8ly6db2w4/"><circle cx="216.5" cy="54.7" r="4" fill="#3465a4"><title>Highland Gathering (Fashion?)</title></circle></a><a href="/variants/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/"><circle cx="131.7" cy="76.5" r="4" fill="#3465a4"><title>Beaudoux - Amis Picards (District)</title></circle></a><a href="/variants/s15/dy29g17k1w3k1y2k10lb8dy4lb8k10y2k1w3dy29~x2/"><circle cx="186.4" cy="72.0" r="4" fill="#3465a4"><title>Massie/Massey</title></circle></a><a href="/variants/s11/g28k1g1k6w1k6dp1k1dp4r3dp14~x4/"><circle cx="216.4" cy="86.3" r="4" fill="#3465a4"><title>New Hampshire</title></circle></a><a href="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/"><circle cx="186.4" cy="76.2" r="4" fill="#3465a4"><title>National Millennium</title></circle></a><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/"><circle cx="215.7" cy="82.4" r="4" fill="#3465a4"><title>Lusk (Personal)</title></circle></a><a href="/variants/s11/w4k1db16k1g32dr6k6lo6g4lo2g1~x2/"><circle cx="194.0" cy="76.4" r="4" fill="#3465a4"><title>Zambia</title></circle></a><a href="/variants/s15/r4g3k11n3db3n30k1w4k1g3k3g3k3n12r2~x2/"><circle cx="228.6" cy="59.7" r="4" fill="#3465a4"><title>Trew 40th (Personal)</title></circle></a><a href="/variants/s11/y7dg1k1y2k9g22dg7k27db4k3w4~x2~dg1806142-g2408144/"><circle cx="165.5" cy="87.0" r="4" fill="#3465a4"><title>Gilhooley (Personal)</title></circle></a><circle cx="188.9" cy="68.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/lb11k2lb2k2ly2k11dg30r2dg3k1w5~x2/"><circle cx="187.1" cy="68.3" r="4" fill="#3465a4"><title>Labrador (District)</title></circle></a><a href="/variants/s10/k45r4k4n4ly16n76db8ly6db2w4/"><circle cx="216.3" cy="54.8" r="4" fill="#3465a4"><title>Highland Gathering (Fashion?)</title></circle></a><a href="/variants/s11/ly4db7ly4k26g3k1g3w9r2w4r2~x2/"><circle cx="131.5" cy="76.6" r="4" fill="#3465a4"><title>Beaudoux - Amis Picards (District)</title></circle></a><a href="/variants/s15/dy29g17k1w3k1y2k10lb8dy4lb8k10y2k1w3dy29~x2/"><circle cx="186.2" cy="72.1" r="4" fill="#3465a4"><title>Massie/Massey</title></circle></a><a href="/variants/s11/g28k1g1k6w1k6dp1k1dp4r3dp14~x4/"><circle cx="216.3" cy="86.4" r="4" fill="#3465a4"><title>New Hampshire</title></circle></a><a href="/variants/s9/w2db4r16k12g36dy1db6k2w2~x2/"><circle cx="186.3" cy="76.3" r="4" fill="#3465a4"><title>National Millennium</title></circle></a><a href="/variants/s9/k2g30k3dbi4k2db18lb1k3r2~x2~dbi1406275-db1004274/"><circle cx="215.6" cy="82.4" r="4" fill="#3465a4"><title>Lusk (Personal)</title></circle></a><a href="/variants/s11/w4k1db16k1g32dr6k6lo6g4lo2g1~x2/"><circle cx="193.8" cy="76.5" r="4" fill="#3465a4"><title>Zambia</title></circle></a><a href="/variants/s15/r4g3k11n3db3n30k1w4k1g3k3g3k3n12r2~x2/"><circle cx="228.4" cy="59.7" r="4" fill="#3465a4"><title>Trew 40th (Personal)</title></circle></a><a href="/variants/s11/y7dg1k1y2k9g22dg7k27db4k3w4~x2~dg1806142-g2408144/"><circle cx="165.3" cy="87.2" r="4" fill="#3465a4"><title>Gilhooley (Personal)</title></circle></a><circle cx="188.7" cy="68.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/lb11k2lb2k2dy2k11dg30r2dg3k1w5~x2/

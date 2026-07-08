@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Shieldhall (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do12r1do2r1do2lb2do3n9r1n2r1n3/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBBWBRBRB](/stripes/brbrbbwbrbrb/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3206
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3206](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3206)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/do12r1do2r1do2lb2do3o9r1o2r1o3~x4~o2500000/"><circle cx="251.3" cy="146.5" r="4" fill="#3465a4"><title>Shieldhall</title></circle></a><a href="/variants/s15/o8db3o3dg20o3dg3o3db6o3b3o20db3o3db2o6~x2~o1305035-dg1806142/"><circle cx="353.2" cy="184.3" r="4" fill="#3465a4"><title>Glenfarclas Distillery</title></circle></a><a href="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2~db1204274/"><circle cx="361.8" cy="186.9" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/variants/s9/n3do18n4do3n4r13n21do2b3~x2/"><circle cx="343.6" cy="223.7" r="4" fill="#3465a4"><title>Leitrim</title></circle></a><a href="/variants/s12/o12n3o3dt4o16dr3o3dr3o3dr16dt52o4/"><circle cx="362.6" cy="158.0" r="4" fill="#3465a4"><title>Drumbeg</title></circle></a><a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2~db1104274/"><circle cx="347.4" cy="193.4" r="4" fill="#3465a4"><title>Great Dane, The</title></circle></a><a href="/variants/s10/r4n4dt2n24lb1dt14n2r18n4dt3~x4/"><circle cx="348.3" cy="171.0" r="4" fill="#3465a4"><title>Marshall</title></circle></a><a href="/variants/s10/dr3o22do6n4do6n6do2dr1o2do3~x4~o2500000-n1900000/"><circle cx="344.0" cy="178.5" r="4" fill="#3465a4"><title>Southdown Grey</title></circle></a><a href="/variants/s10/dp3o23dp3o26dp3o3dp25o3g24o3~x2~dp1607327/"><circle cx="344.9" cy="222.6" r="4" fill="#3465a4"><title>Unidentified 18th Century</title></circle></a><a href="/variants/s9/y20db27r6db15y8db11y78dbi10r12~db1204274-dbi1406275/"><circle cx="357.7" cy="183.3" r="4" fill="#3465a4"><title>Braken Tartan</title></circle></a><circle cx="348.5" cy="187.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/do12r1do2r1do2lb2do3o9r1o2r1o3~x4~o2500000/"><circle cx="251.3" cy="146.7" r="4" fill="#3465a4"><title>Shieldhall</title></circle></a><a href="/variants/s15/o8db3o3dg20o3dg3o3db6o3b3o20db3o3db2o6~x2~o1305035-dg1806142/"><circle cx="353.2" cy="184.5" r="4" fill="#3465a4"><title>Glenfarclas Distillery</title></circle></a><a href="/variants/s9/dy5db9r3db5dy2db4dy26lb3r4~x2~db1204274/"><circle cx="361.9" cy="187.1" r="4" fill="#3465a4"><title>Bracken</title></circle></a><a href="/variants/s9/n3do18n4do3n4r13n21do2b3~x2/"><circle cx="343.7" cy="223.9" r="4" fill="#3465a4"><title>Leitrim</title></circle></a><a href="/variants/s12/o12n3o3dt4o16dr3o3dr3o3dr16dt52o4/"><circle cx="362.6" cy="158.1" r="4" fill="#3465a4"><title>Drumbeg</title></circle></a><a href="/variants/s13/db6dr30db6dr30db6g6db6dr6db15r2g10db15r2~db1104274/"><circle cx="347.5" cy="193.5" r="4" fill="#3465a4"><title>Great Dane, The</title></circle></a><a href="/variants/s10/r4n4dt2n24lb1dt14n2r18n4dt3~x4/"><circle cx="348.3" cy="171.2" r="4" fill="#3465a4"><title>Marshall</title></circle></a><a href="/variants/s10/dr3o22do6n4do6n6do2dr1o2do3~x4~o2500000-n1900000/"><circle cx="344.1" cy="178.6" r="4" fill="#3465a4"><title>Southdown Grey</title></circle></a><a href="/variants/s10/dp3o23dp3o26dp3o3dp25o3g24o3~x2~dp1607327/"><circle cx="345.1" cy="223.0" r="4" fill="#3465a4"><title>Unidentified 18th Century</title></circle></a><a href="/variants/s9/y20db27r6db15y8db11y78dbi10r12~db1204274-dbi1406275/"><circle cx="357.8" cy="183.6" r="4" fill="#3465a4"><title>Braken Tartan</title></circle></a><circle cx="348.6" cy="187.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/do12r1do2r1do2lb2do3n9r1n2r1n3~x4/

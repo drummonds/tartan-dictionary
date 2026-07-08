@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Porcupine"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n1r1n3o1n1do8y7g1n1lb1w1/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBBGGBWW](/stripes/brbrbbggbww/).
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n1r1n3ly1n1do8y7g1n1lb1w1~x2/"><circle cx="137.2" cy="149.1" r="4" fill="#3465a4"><title>Porcupine Fancy Tartan</title></circle></a><a href="/variants/s11/n1r1n3ly1n1dy8y7g1n1lb1w1~x4/"><circle cx="136.6" cy="149.7" r="4" fill="#3465a4"><title>Porcupine</title></circle></a><a href="/variants/s9/y4r24dy19w3g23o13dy3n13dy3~x2~o2500000-n1900000/"><circle cx="94.0" cy="194.9" r="4" fill="#3465a4"><title>Teallach Family Tartan</title></circle></a><a href="/variants/s9/ly4o24dy19w3g23n13dy3oi13dy3~x2~n1900000-oi2500000/"><circle cx="109.7" cy="205.0" r="4" fill="#3465a4"><title>Teallach (Personal)</title></circle></a><a href="/variants/s12/g40db4lb39db4n4y4n4r4n34dp4n4w4/"><circle cx="138.1" cy="129.4" r="4" fill="#3465a4"><title>Glasgow Tattoo</title></circle></a><a href="/variants/s10/w3r10o6y8lb8g32b8r10b6w3~x4/"><circle cx="127.6" cy="162.1" r="4" fill="#3465a4"><title>Unidentified, Silk scarf</title></circle></a><circle cx="149.4" cy="152.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/n1r1n3ly1n1do8y7g1n1lb1w1~x2/"><circle cx="137.2" cy="149.2" r="4" fill="#3465a4"><title>Porcupine Fancy Tartan</title></circle></a><a href="/variants/s11/n1r1n3ly1n1dy8y7g1n1lb1w1~x4/"><circle cx="136.6" cy="149.8" r="4" fill="#3465a4"><title>Porcupine</title></circle></a><a href="/variants/s9/y4r24dy19w3g23o13dy3n13dy3~x2~o2500000-n1900000/"><circle cx="94.1" cy="195.3" r="4" fill="#3465a4"><title>Teallach Family Tartan</title></circle></a><a href="/variants/s9/ly4o24dy19w3g23n13dy3oi13dy3~x2~n1900000-oi2500000/"><circle cx="109.8" cy="205.2" r="4" fill="#3465a4"><title>Teallach (Personal)</title></circle></a><a href="/variants/s12/g40db4lb39db4n4y4n4r4n34dp4n4w4/"><circle cx="138.0" cy="129.5" r="4" fill="#3465a4"><title>Glasgow Tattoo</title></circle></a><a href="/variants/s10/w3r10o6y8lb8g32b8r10b6w3~x4/"><circle cx="127.6" cy="162.4" r="4" fill="#3465a4"><title>Unidentified, Silk scarf</title></circle></a><circle cx="149.4" cy="152.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/n1r1n3o1n1do8y7g1n1lb1w1~x2/

@@ -10,6 +10,8 @@ crumbs:
   url: "/families/skene-of-cromar/"
 - name: "Skene of Cromar"
   url: "/tartans/skene-of-cromar/"
+- name: "Skene of Cromar (1885)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2r20g20k21r1/)
 (the same proportion at any scale), whose colour order is pattern [BRGKR](/stripes/brgkr/).
@@ -18,7 +20,7 @@ Part of the [Skene of Cromar](/tartans/skene-of-cromar/) tartan — the named de
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3806
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3806](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3806)
 
 ## Provenance
 
@@ -78,8 +80,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r30k8g30t4r3t2~x2/"><circle cx="232.1" cy="169.1" r="4" fill="#3465a4"><title>Plummer Family Personal Tartan</title></circle></a><a href="/variants/s6/g21k21r1db20r20k2~x2/"><circle cx="119.1" cy="184.3" r="4" fill="#3465a4"><title>Skene of Cromar (Cant version)</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.0" cy="183.1" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s6/lb3dr30k18db6g30k2~x2/"><circle cx="149.9" cy="173.8" r="4" fill="#3465a4"><title>Bryant (Dalgleish) (Personal)</title></circle></a><a href="/variants/s6/dy2ly14k14ly1dr14ly2~x2/"><circle cx="162.4" cy="182.7" r="4" fill="#3465a4"><title>United Distillers</title></circle></a><a href="/variants/s5/g21db10k26ly10r1~x2/"><circle cx="149.8" cy="170.8" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/variants/s5/dg21db10k26ly10r1~x2/"><circle cx="164.4" cy="172.2" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/variants/s7/dg12g6dg6r15k1r1k2~x2/"><circle cx="222.5" cy="174.9" r="4" fill="#3465a4"><title>Cook (Name)</title></circle></a><a href="/variants/s5/dg37k22w4r15y3~x2/"><circle cx="188.1" cy="181.8" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s5/g37k22w4r15y3~x2/"><circle cx="172.2" cy="181.8" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><circle cx="164.2" cy="177.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r30k8g30t4r3t2~x2/"><circle cx="232.1" cy="169.5" r="4" fill="#3465a4"><title>Plummer Family Personal Tartan</title></circle></a><a href="/variants/s6/g21k21r1db20r20k2~x2/"><circle cx="119.2" cy="184.8" r="4" fill="#3465a4"><title>Skene of Cromar (Cant version)</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.1" cy="183.7" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s6/lb3dr30k18db6g30k2~x2/"><circle cx="149.8" cy="174.2" r="4" fill="#3465a4"><title>Bryant (Dalgleish) (Personal)</title></circle></a><a href="/variants/s6/dy2ly14k14ly1dr14ly2~x2/"><circle cx="162.5" cy="183.3" r="4" fill="#3465a4"><title>United Distillers</title></circle></a><a href="/variants/s5/g21db10k26ly10r1~x2/"><circle cx="149.8" cy="171.2" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/variants/s5/dg21db10k26ly10r1~x2/"><circle cx="164.4" cy="172.6" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/variants/s7/dg12g6dg6r15k1r1k2~x2/"><circle cx="222.5" cy="175.3" r="4" fill="#3465a4"><title>Cook (Name)</title></circle></a><a href="/variants/s5/dg37k22w4r15y3~x2/"><circle cx="188.1" cy="182.3" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s5/g37k22w4r15y3~x2/"><circle cx="172.3" cy="182.3" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><circle cx="164.2" cy="178.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db2r20g20k21r1~x2/

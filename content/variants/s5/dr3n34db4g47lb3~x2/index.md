@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Exabyte"
   url: "/tartans/exabyte/"
+- name: "Exabyte"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr3n34db4g47lb3/)
 (the same proportion at any scale), whose colour order is pattern [BBBGW](/stripes/bbbgw/).
@@ -14,7 +16,7 @@ Part of the [Exabyte](/tartans/exabyte/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1142
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1142](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1142)
 
 ## Provenance
 
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr3b35db4g47w3~x2/"><circle cx="357.3" cy="212.1" r="4" fill="#3465a4"><title>Exabyte</title></circle></a><a href="/variants/s4/g56dy13y13n5~x2/"><circle cx="504.7" cy="280.5" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/variants/s6/y15g98n72r25n8lb15/"><circle cx="318.4" cy="232.3" r="4" fill="#3465a4"><title>Afternoon Tea / Afternoon Tea</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.5" cy="296.3" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s6/y9g18b9r1w1db1~x4/"><circle cx="301.8" cy="188.3" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><a href="/variants/s6/ly9g18t9r1w1db1~x4/"><circle cx="282.3" cy="184.2" r="4" fill="#3465a4"><title>T.H.E. C.O.G. USA (Corporate)</title></circle></a><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000/"><circle cx="371.0" cy="229.2" r="4" fill="#3465a4"><title>Bagpipe Shop, The (Corporate)</title></circle></a><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000-g2408144/"><circle cx="367.0" cy="227.9" r="4" fill="#3465a4"><title>Bagpipe Shop, The Corporate Tartan</title></circle></a><a href="/variants/s5/n57w5g20n5y10/"><circle cx="499.9" cy="258.2" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s5/g27t14db2t2y2~x4/"><circle cx="514.6" cy="269.9" r="4" fill="#3465a4"><title>Irving of Bonshaw Clan/Family Tartan</title></circle></a><circle cx="428.8" cy="235.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr3b35db4g47w3~x2/"><circle cx="357.4" cy="212.4" r="4" fill="#3465a4"><title>Exabyte</title></circle></a><a href="/variants/s4/g56dy13y13n5~x2/"><circle cx="504.9" cy="280.8" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/variants/s6/y15g98n72r25n8lb15/"><circle cx="318.5" cy="232.5" r="4" fill="#3465a4"><title>Afternoon Tea / Afternoon Tea</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.7" cy="296.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s6/y9g18b9r1w1db1~x4/"><circle cx="301.8" cy="188.5" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><a href="/variants/s6/ly9g18t9r1w1db1~x4/"><circle cx="282.4" cy="184.5" r="4" fill="#3465a4"><title>T.H.E. C.O.G. USA (Corporate)</title></circle></a><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000/"><circle cx="371.1" cy="229.5" r="4" fill="#3465a4"><title>Bagpipe Shop, The (Corporate)</title></circle></a><a href="/variants/s5/n10lb3o3r1g1~x10~n1900000-o2500000-g2408144/"><circle cx="367.2" cy="228.2" r="4" fill="#3465a4"><title>Bagpipe Shop, The Corporate Tartan</title></circle></a><a href="/variants/s5/n57w5g20n5y10/"><circle cx="500.1" cy="258.5" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s5/g27t14db2t2y2~x4/"><circle cx="514.8" cy="270.0" r="4" fill="#3465a4"><title>Irving of Bonshaw Clan/Family Tartan</title></circle></a><circle cx="429.0" cy="235.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dr3n34db4g47lb3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lawlis/Lawless"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db10dg1db1dg1db1dg2dr12dg1dr2/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBGBGB](/stripes/bgbgbgbgb/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2068
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2068](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2068)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg2r1dg8db2dg1db2dg1db10r2~x4/"><circle cx="370.7" cy="225.5" r="4" fill="#3465a4"><title>Barnaby Brown Pibroch</title></circle></a><a href="/variants/s8/dg2db26dg2db2dg9dr2dg9db2~x2/"><circle cx="551.1" cy="256.6" r="4" fill="#3465a4"><title>Land's End, Blue (Fashion)</title></circle></a><a href="/variants/s10/dr12dg4dr8db3dg3db3dg8db12dr38dy2~x2/"><circle cx="563.0" cy="219.2" r="4" fill="#3465a4"><title>Wanstall</title></circle></a><a href="/variants/s10/db2dp26dg26db2dg3db2dg3db14dp2db2~x2/"><circle cx="452.7" cy="249.5" r="4" fill="#3465a4"><title>Wcwm 1527-2</title></circle></a><a href="/variants/s9/db3dr1db14dg14dr1dg1dr1dg1dr2~x4/"><circle cx="485.7" cy="243.5" r="4" fill="#3465a4"><title>Breckon Hunting</title></circle></a><a href="/variants/s9/db22g3db3g3db3g9n28g3n6~x2/"><circle cx="347.8" cy="244.8" r="4" fill="#3465a4"><title>Manx Centenary</title></circle></a><a href="/variants/s9/dg4db3dg20db9dr2db2dr2db18dp4~x2/"><circle cx="466.9" cy="263.8" r="4" fill="#3465a4"><title>New Club Centenary</title></circle></a><a href="/variants/s8/db5n15dy4n4dy24n4dy4db5/"><circle cx="424.5" cy="292.2" r="4" fill="#3465a4"><title>Daks-Simpson (Muted Skye)</title></circle></a><a href="/variants/s9/db2dr49dg51dr9w2dr9db51dr49db2~x2/"><circle cx="458.2" cy="214.3" r="4" fill="#3465a4"><title>Nethybridge</title></circle></a><a href="/variants/s8/dg8db27dg11do2dg11db27dg8dr2~x2/"><circle cx="517.6" cy="273.0" r="4" fill="#3465a4"><title>Hector, James</title></circle></a><circle cx="463.2" cy="243.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg2r1dg8db2dg1db2dg1db10r2~x4/"><circle cx="370.8" cy="225.8" r="4" fill="#3465a4"><title>Barnaby Brown Pibroch</title></circle></a><a href="/variants/s8/dg2db26dg2db2dg9dr2dg9db2~x2/"><circle cx="551.2" cy="256.6" r="4" fill="#3465a4"><title>Land's End, Blue (Fashion)</title></circle></a><a href="/variants/s10/dr12dg4dr8db3dg3db3dg8db12dr38dy2~x2/"><circle cx="563.1" cy="219.2" r="4" fill="#3465a4"><title>Wanstall</title></circle></a><a href="/variants/s10/db2dp26dg26db2dg3db2dg3db14dp2db2~x2/"><circle cx="452.8" cy="249.5" r="4" fill="#3465a4"><title>Wcwm 1527-2</title></circle></a><a href="/variants/s9/db3dr1db14dg14dr1dg1dr1dg1dr2~x4/"><circle cx="485.8" cy="243.5" r="4" fill="#3465a4"><title>Breckon Hunting</title></circle></a><a href="/variants/s9/db22g3db3g3db3g9n28g3n6~x2/"><circle cx="347.9" cy="245.1" r="4" fill="#3465a4"><title>Manx Centenary</title></circle></a><a href="/variants/s9/dg4db3dg20db9dr2db2dr2db18dp4~x2/"><circle cx="467.0" cy="263.8" r="4" fill="#3465a4"><title>New Club Centenary</title></circle></a><a href="/variants/s8/db5n15dy4n4dy24n4dy4db5/"><circle cx="424.6" cy="292.5" r="4" fill="#3465a4"><title>Daks-Simpson (Muted Skye)</title></circle></a><a href="/variants/s9/db2dr49dg51dr9w2dr9db51dr49db2~x2/"><circle cx="458.3" cy="214.4" r="4" fill="#3465a4"><title>Nethybridge</title></circle></a><a href="/variants/s8/dg8db27dg11do2dg11db27dg8dr2~x2/"><circle cx="517.7" cy="273.1" r="4" fill="#3465a4"><title>Hector, James</title></circle></a><circle cx="463.3" cy="243.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db10dg1db1dg1db1dg2dr12dg1dr2~x4/

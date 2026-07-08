@@ -10,6 +10,8 @@ crumbs:
   url: "/families/macdonald-of-sleat/"
 - name: "MacDonald of Sleat"
   url: "/tartans/macdonald-of-sleat/"
+- name: "MacDonald of Sleat - 1810 (Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r36dg2r5dg16/)
 (the same proportion at any scale), whose colour order is pattern [GRGR](/stripes/grgr/).
@@ -18,7 +20,7 @@ Part of the [MacDonald of Sleat](/tartans/macdonald-of-sleat/) tartan — the na
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=904
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=904](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=904)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -79,8 +81,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r36g2r5g16~x2/"><circle cx="515.9" cy="228.2" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s4/r38g2r5g16/"><circle cx="526.4" cy="224.2" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><a href="/variants/s4/r38g2r5g16~x2/"><circle cx="526.4" cy="224.2" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><a href="/variants/s6/r96g42r16g17k4n6/"><circle cx="399.1" cy="148.2" r="4" fill="#3465a4"><title>MacGregor, Glengyle</title></circle></a><a href="/variants/s6/r96g42r16g17k4lb6/"><circle cx="392.4" cy="146.0" r="4" fill="#3465a4"><title>MacGregor Hunting Glengyle Clan Tartan</title></circle></a><a href="/variants/s5/r39g6r2g3w1~x2/"><circle cx="624.8" cy="141.7" r="4" fill="#3465a4"><title>MacGregor #2</title></circle></a><a href="/variants/s4/r10k1r4g6~x2/"><circle cx="378.7" cy="206.6" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan (Hose)</title></circle></a><a href="/variants/s6/r24g5r3g9r3db1~x4/"><circle cx="477.5" cy="177.3" r="4" fill="#3465a4"><title>MacKintosh, Red</title></circle></a><a href="/variants/s5/r35w3r8y2g11~x2/"><circle cx="485.7" cy="179.8" r="4" fill="#3465a4"><title>Highlands at Wyomissing, The</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="386.9" cy="257.4" r="4" fill="#3465a4"><title>Bryce</title></circle></a><circle cx="503.2" cy="220.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r36g2r5g16~x2/"><circle cx="516.1" cy="228.8" r="4" fill="#3465a4"><title>MacDonald of Sleat</title></circle></a><a href="/variants/s4/r38g2r5g16/"><circle cx="526.5" cy="224.8" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><a href="/variants/s4/r38g2r5g16~x2/"><circle cx="526.5" cy="224.8" r="4" fill="#3465a4"><title>MacDonald Lord of the Isles</title></circle></a><a href="/variants/s6/r96g42r16g17k4n6/"><circle cx="399.1" cy="148.6" r="4" fill="#3465a4"><title>MacGregor, Glengyle</title></circle></a><a href="/variants/s6/r96g42r16g17k4lb6/"><circle cx="392.5" cy="146.4" r="4" fill="#3465a4"><title>MacGregor Hunting Glengyle Clan Tartan</title></circle></a><a href="/variants/s5/r39g6r2g3w1~x2/"><circle cx="624.8" cy="142.0" r="4" fill="#3465a4"><title>MacGregor #2</title></circle></a><a href="/variants/s4/r10k1r4g6~x2/"><circle cx="378.8" cy="207.3" r="4" fill="#3465a4"><title>Macan, of Lurgyvallan (Hose)</title></circle></a><a href="/variants/s6/r24g5r3g9r3db1~x4/"><circle cx="477.6" cy="177.7" r="4" fill="#3465a4"><title>MacKintosh, Red</title></circle></a><a href="/variants/s5/r35w3r8y2g11~x2/"><circle cx="485.8" cy="180.2" r="4" fill="#3465a4"><title>Highlands at Wyomissing, The</title></circle></a><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="387.1" cy="258.0" r="4" fill="#3465a4"><title>Bryce</title></circle></a><circle cx="503.4" cy="221.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/r36dg2r5dg16~x2/

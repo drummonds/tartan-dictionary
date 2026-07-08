@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Muylle, Jelle (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k5r1y1k1y1r1k8db1w1/)
 (the same proportion at any scale), whose colour order is pattern [KRGKGRKBW](/stripes/krgkgrkbw/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11627
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11627](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11627)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="336.9" cy="193.5" r="4" fill="#3465a4"><title>Black (symmetrical)</title></circle></a><a href="/variants/s6/k17dr6k2w6k17ly2~x2/"><circle cx="328.1" cy="191.2" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="368.0" cy="144.0" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17lo2~x2/"><circle cx="337.7" cy="193.3" r="4" fill="#3465a4"><title>Black Clan/Family Tartan</title></circle></a><a href="/variants/s7/k16t2k8r3lr3r3k8~x2/"><circle cx="342.9" cy="181.8" r="4" fill="#3465a4"><title>Benson (New England)</title></circle></a><a href="/variants/s7/k8lb3k32t14w3k25lb3~x2/"><circle cx="359.6" cy="172.6" r="4" fill="#3465a4"><title>Cowe (Personal)</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="305.7" cy="80.4" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s7/k11w1k1w1k4n8r1~x8/"><circle cx="272.6" cy="158.8" r="4" fill="#3465a4"><title>Dunfermline Athletic (2008) (Corp)</title></circle></a><a href="/variants/s7/t1k4r1k1ly1k4t1~x12/"><circle cx="277.7" cy="214.5" r="4" fill="#3465a4"><title>Justus #1 (Personal)</title></circle></a><a href="/variants/s7/db1k4r1k1y1k4db1~x6/"><circle cx="306.7" cy="221.5" r="4" fill="#3465a4"><title>Justus Family Tartan</title></circle></a><circle cx="305.4" cy="137.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="336.9" cy="194.1" r="4" fill="#3465a4"><title>Black (symmetrical)</title></circle></a><a href="/variants/s6/k17dr6k2w6k17ly2~x2/"><circle cx="328.2" cy="191.8" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/variants/s7/w5k3y6k5w3k30y2~x2/"><circle cx="368.0" cy="144.4" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17lo2~x2/"><circle cx="337.7" cy="193.9" r="4" fill="#3465a4"><title>Black Clan/Family Tartan</title></circle></a><a href="/variants/s7/k16t2k8r3lr3r3k8~x2/"><circle cx="342.9" cy="182.3" r="4" fill="#3465a4"><title>Benson (New England)</title></circle></a><a href="/variants/s7/k8lb3k32t14w3k25lb3~x2/"><circle cx="359.6" cy="173.1" r="4" fill="#3465a4"><title>Cowe (Personal)</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="305.6" cy="80.6" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s7/k11w1k1w1k4n8r1~x8/"><circle cx="272.6" cy="159.3" r="4" fill="#3465a4"><title>Dunfermline Athletic (2008) (Corp)</title></circle></a><a href="/variants/s7/t1k4r1k1ly1k4t1~x12/"><circle cx="277.8" cy="215.2" r="4" fill="#3465a4"><title>Justus #1 (Personal)</title></circle></a><a href="/variants/s7/db1k4r1k1y1k4db1~x6/"><circle cx="306.7" cy="222.1" r="4" fill="#3465a4"><title>Justus Family Tartan</title></circle></a><circle cx="305.4" cy="137.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k5r1y1k1y1r1k8db1w1~x6/

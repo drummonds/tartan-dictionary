@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rowan (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g12lo1db8k1db1/)
 (the same proportion at any scale), whose colour order is pattern [BKBYG](/stripes/bkbyg/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3580
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3580](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3580)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g27db14k2db2y2~x4/"><circle cx="332.5" cy="189.6" r="4" fill="#3465a4"><title>Irving of Bonshaw</title></circle></a><a href="/variants/s5/k3db3g23db21w2~x2~db1406275/"><circle cx="226.9" cy="190.2" r="4" fill="#3465a4"><title>Douglas Clan Tartan</title></circle></a><a href="/variants/s5/g18db9k1db1w1~x4/"><circle cx="348.9" cy="170.8" r="4" fill="#3465a4"><title>Irvine</title></circle></a><a href="/variants/s6/g24k2db3k2db8r2~x2/"><circle cx="305.0" cy="170.2" r="4" fill="#3465a4"><title>Shaw (Clan 1)</title></circle></a><a href="/variants/s6/r1g9db9k1db1w1~x6/"><circle cx="218.7" cy="179.0" r="4" fill="#3465a4"><title>Irving of Glentulchan</title></circle></a><a href="/variants/s6/k3t2g13w2t24dr3~x4~t2405244-g2408144/"><circle cx="274.9" cy="172.6" r="4" fill="#3465a4"><title>Vance</title></circle></a><a href="/variants/s6/k4t24k2dg13t2k3~x4~t2405244-dg1806142/"><circle cx="242.0" cy="162.4" r="4" fill="#3465a4"><title>Vance (Family Association) Corporate Family Tartan</title></circle></a><a href="/variants/s6/k3g36db28r2db2y3~x2/"><circle cx="278.6" cy="150.5" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s6/dr5t35k24t9g9dr5~x2/"><circle cx="208.6" cy="216.6" r="4" fill="#3465a4"><title>Notre Dame Marching Guard (Corp)</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="231.5" cy="174.7" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><circle cx="292.6" cy="195.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g27db14k2db2y2~x4/"><circle cx="332.5" cy="190.0" r="4" fill="#3465a4"><title>Irving of Bonshaw</title></circle></a><a href="/variants/s5/k3db3g23db21w2~x2~db1406275/"><circle cx="227.0" cy="190.7" r="4" fill="#3465a4"><title>Douglas Clan Tartan</title></circle></a><a href="/variants/s5/g18db9k1db1w1~x4/"><circle cx="348.9" cy="171.2" r="4" fill="#3465a4"><title>Irvine</title></circle></a><a href="/variants/s6/g24k2db3k2db8r2~x2/"><circle cx="305.0" cy="170.6" r="4" fill="#3465a4"><title>Shaw (Clan 1)</title></circle></a><a href="/variants/s6/r1g9db9k1db1w1~x6/"><circle cx="218.7" cy="179.4" r="4" fill="#3465a4"><title>Irving of Glentulchan</title></circle></a><a href="/variants/s6/k3t2g13w2t24dr3~x4~t2405244-g2408144/"><circle cx="275.0" cy="173.0" r="4" fill="#3465a4"><title>Vance</title></circle></a><a href="/variants/s6/k4t24k2dg13t2k3~x4~t2405244-dg1806142/"><circle cx="242.0" cy="162.8" r="4" fill="#3465a4"><title>Vance (Family Association) Corporate Family Tartan</title></circle></a><a href="/variants/s6/k3g36db28r2db2y3~x2/"><circle cx="278.5" cy="150.8" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><a href="/variants/s6/dr5t35k24t9g9dr5~x2/"><circle cx="208.7" cy="217.2" r="4" fill="#3465a4"><title>Notre Dame Marching Guard (Corp)</title></circle></a><a href="/variants/s6/k5g32db32r3db3y3~x2/"><circle cx="231.5" cy="175.0" r="4" fill="#3465a4"><title>Carmichael</title></circle></a><circle cx="292.7" cy="195.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/g12lo1db8k1db1~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Westwood MacStone (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2k13ly13r2ly13k13w2k6ly6r1/)
 (the same proportion at any scale), whose colour order is pattern [RYKWKYRYKW](/stripes/rykwkyrykw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7486
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7486](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7486)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dg36ly8k9ly24dg4ly12dg4ly24k9ly8dg36dr4/"><circle cx="190.0" cy="179.7" r="4" fill="#3465a4"><title>Harmer</title></circle></a><a href="/variants/s10/k3lb7ly26k26w5k26ly26lb7k3r3~x2/"><circle cx="138.9" cy="156.9" r="4" fill="#3465a4"><title>Cornish National</title></circle></a><a href="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/"><circle cx="205.4" cy="156.8" r="4" fill="#3465a4"><title>Campbell 'Camel'</title></circle></a><a href="/variants/s12/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9~x2/"><circle cx="140.5" cy="171.1" r="4" fill="#3465a4"><title>Kinloch Anderson Check Fashion Tartan</title></circle></a><a href="/variants/s6/k4ly32k16r3k16ly4~x2/"><circle cx="240.3" cy="192.4" r="4" fill="#3465a4"><title>Unnamed C21st - Fashion</title></circle></a><a href="/variants/s7/ly12dg4ly24k9ly8dg36dr4/"><circle cx="202.7" cy="198.4" r="4" fill="#3465a4"><title>Harmer (Corporate)</title></circle></a><a href="/variants/s9/k4ly17k2ly2g7k2ly2k22db4~x2/"><circle cx="200.1" cy="152.3" r="4" fill="#3465a4"><title>Bro-Leon</title></circle></a><a href="/variants/s7/ly3k9lb1k1dr6k2ly3~x4/"><circle cx="185.4" cy="188.7" r="4" fill="#3465a4"><title>LP Cover (Dance)</title></circle></a><a href="/variants/s11/k2r8g2r8k8t1k4r2g12r8g2~x4/"><circle cx="180.3" cy="167.2" r="4" fill="#3465a4"><title>MacNicol Dress (Clan) (Smiths)</title></circle></a><a href="/variants/s6/k2ly6k2ly11k9r1~x2/"><circle cx="259.9" cy="198.4" r="4" fill="#3465a4"><title>Porter Drinkers (Commemorative)</title></circle></a><circle cx="192.9" cy="170.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dg36ly8k9ly24dg4ly12dg4ly24k9ly8dg36dr4/"><circle cx="190.1" cy="180.3" r="4" fill="#3465a4"><title>Harmer</title></circle></a><a href="/variants/s10/k3lb7ly26k26w5k26ly26lb7k3r3~x2/"><circle cx="138.9" cy="157.5" r="4" fill="#3465a4"><title>Cornish National</title></circle></a><a href="/variants/s10/do1lr2k5do3k1ly4k1ly10k1ly1~x4/"><circle cx="205.4" cy="157.3" r="4" fill="#3465a4"><title>Campbell 'Camel'</title></circle></a><a href="/variants/s12/k18lo2k2lo3k2lo2k18lo12y18dy3y18lo9~x2/"><circle cx="140.5" cy="171.6" r="4" fill="#3465a4"><title>Kinloch Anderson Check Fashion Tartan</title></circle></a><a href="/variants/s6/k4ly32k16r3k16ly4~x2/"><circle cx="240.3" cy="193.0" r="4" fill="#3465a4"><title>Unnamed C21st - Fashion</title></circle></a><a href="/variants/s7/ly12dg4ly24k9ly8dg36dr4/"><circle cx="202.8" cy="199.1" r="4" fill="#3465a4"><title>Harmer (Corporate)</title></circle></a><a href="/variants/s9/k4ly17k2ly2g7k2ly2k22db4~x2/"><circle cx="200.1" cy="152.8" r="4" fill="#3465a4"><title>Bro-Leon</title></circle></a><a href="/variants/s7/ly3k9lb1k1dr6k2ly3~x4/"><circle cx="185.4" cy="189.3" r="4" fill="#3465a4"><title>LP Cover (Dance)</title></circle></a><a href="/variants/s11/k2r8g2r8k8t1k4r2g12r8g2~x4/"><circle cx="180.3" cy="167.7" r="4" fill="#3465a4"><title>MacNicol Dress (Clan) (Smiths)</title></circle></a><a href="/variants/s6/k2ly6k2ly11k9r1~x2/"><circle cx="260.0" cy="199.1" r="4" fill="#3465a4"><title>Porter Drinkers (Commemorative)</title></circle></a><circle cx="193.0" cy="170.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w2k13ly13r2ly13k13w2k6ly6r1~x2/

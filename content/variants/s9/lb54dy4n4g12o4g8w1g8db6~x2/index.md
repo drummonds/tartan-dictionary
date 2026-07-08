@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cadenhead (2015)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb54dy4n4g12o4g8w1g8db6/)
 (the same proportion at any scale), whose colour order is pattern [BGWGRGBGW](/stripes/bgwgrgbgw/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11292
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11292](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11292)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

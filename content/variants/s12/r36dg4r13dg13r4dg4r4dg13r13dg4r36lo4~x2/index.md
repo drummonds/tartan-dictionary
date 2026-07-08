@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wolfe"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r36dg4r13dg13r4dg4r4dg13r13dg4r36lo4/)
 (the same proportion at any scale), whose colour order is pattern [RGRGRGRGRGRY](/stripes/rgrgrgrgrgry/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4770
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4770](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4770)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r9g2r3g2r9g3r3db3r3g3r3db3~x2/"><circle cx="340.9" cy="243.3" r="4" fill="#3465a4"><title>Unidentified Early 18th Centuary #2</title></circle></a><a href="/variants/s11/r8g2r6db1r2db1r8g12r14db1r2~x2/"><circle cx="448.1" cy="181.3" r="4" fill="#3465a4"><title>MacDonell of Keppoch #2</title></circle></a><a href="/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/"><circle cx="416.5" cy="195.2" r="4" fill="#3465a4"><title>Livingstone</title></circle></a><a href="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/"><circle cx="435.5" cy="204.6" r="4" fill="#3465a4"><title>Wolfe (Name)</title></circle></a><a href="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/"><circle cx="427.8" cy="132.8" r="4" fill="#3465a4"><title>MacGillivray #3</title></circle></a><a href="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/"><circle cx="447.3" cy="144.7" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s10/dg4r2dg2r16lr2r3lr2r3lr8r3~x2/"><circle cx="372.5" cy="201.5" r="4" fill="#3465a4"><title>Queen Alexandra</title></circle></a><a href="/variants/s10/dg4r2dg2r16lr2r3lr2r3lr8r3~x4/"><circle cx="372.5" cy="201.5" r="4" fill="#3465a4"><title>Queen Alexandra (Fashion)</title></circle></a><a href="/variants/s9/g2r28db6r5db2r2db2r11w2~x2/"><circle cx="487.3" cy="143.8" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s9/g2r28db6r5db2r2db2r11w2/"><circle cx="487.3" cy="143.8" r="4" fill="#3465a4"><title>Rose</title></circle></a><circle cx="451.1" cy="188.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r9g2r3g2r9g3r3db3r3g3r3db3~x2/"><circle cx="341.1" cy="244.0" r="4" fill="#3465a4"><title>Unidentified Early 18th Centuary #2</title></circle></a><a href="/variants/s11/r8g2r6db1r2db1r8g12r14db1r2~x2/"><circle cx="448.2" cy="181.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch #2</title></circle></a><a href="/variants/s10/g14r4g2r2g2r4g19r30g2r9~x2/"><circle cx="416.6" cy="195.7" r="4" fill="#3465a4"><title>Livingstone</title></circle></a><a href="/variants/s7/dg4r4dg13r13dg4r36lo4~x2/"><circle cx="435.6" cy="205.1" r="4" fill="#3465a4"><title>Wolfe (Name)</title></circle></a><a href="/variants/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/"><circle cx="427.8" cy="133.1" r="4" fill="#3465a4"><title>MacGillivray #3</title></circle></a><a href="/variants/s9/g4r32db9r6db2r3db2r12w3~x2/"><circle cx="447.4" cy="145.1" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s10/dg4r2dg2r16lr2r3lr2r3lr8r3~x2/"><circle cx="372.7" cy="202.0" r="4" fill="#3465a4"><title>Queen Alexandra</title></circle></a><a href="/variants/s10/dg4r2dg2r16lr2r3lr2r3lr8r3~x4/"><circle cx="372.7" cy="202.0" r="4" fill="#3465a4"><title>Queen Alexandra (Fashion)</title></circle></a><a href="/variants/s9/g2r28db6r5db2r2db2r11w2~x2/"><circle cx="487.3" cy="144.2" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/variants/s9/g2r28db6r5db2r2db2r11w2/"><circle cx="487.3" cy="144.2" r="4" fill="#3465a4"><title>Rose</title></circle></a><circle cx="451.2" cy="188.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r36dg4r13dg13r4dg4r4dg13r13dg4r36lo4~x2/

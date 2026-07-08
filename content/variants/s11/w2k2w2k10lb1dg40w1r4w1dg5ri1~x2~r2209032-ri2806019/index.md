@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Knox, David Paul (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2k2w2k10lb1dg40w1r4w1dg5ri1/)
 (the same proportion at any scale), whose colour order is pattern [RGWRWGWKWKW](/stripes/rgwrwgwkwkw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11300
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11300](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11300)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="341.4" cy="56.5" r="4" fill="#3465a4"><title>Princess Mary #2</title></circle></a><a href="/variants/s11/k69g6r3g1r6k2w1g30lb1g2ly2~x2/"><circle cx="299.5" cy="20.7" r="4" fill="#3465a4"><title>Downs (Personal)</title></circle></a><a href="/variants/s13/w2k1w2k1dg42k1lb5k1g5dg6r2k1ly2~x2/"><circle cx="339.7" cy="14.0" r="4" fill="#3465a4"><title>University of Hong Kong</title></circle></a><a href="/variants/s10/dg67k2dg2k2dg2y8r8k8y2lb7~x2/"><circle cx="381.1" cy="66.9" r="4" fill="#3465a4"><title>Moran (French) (Name)</title></circle></a><a href="/variants/s13/dg50k3w4k1ly5r4k1w2k2t15k5dg4w2~x2/"><circle cx="267.7" cy="26.2" r="4" fill="#3465a4"><title>City of Abbotsford (District)</title></circle></a><a href="/variants/s13/y2k1r2dg6lg5k1db5k1dg42k1w2k1w2~x2~dg1605139-lg3005163/"><circle cx="350.4" cy="15.4" r="4" fill="#3465a4"><title>Hong Kong, University of</title></circle></a><a href="/variants/s8/w3k48ly5w3ly3g2db5lb3~x2/"><circle cx="321.7" cy="66.4" r="4" fill="#3465a4"><title>Pavelka Limited</title></circle></a><a href="/variants/s10/w2dr3g5k50g4dr3w2lb3k2ly2~x2/"><circle cx="337.0" cy="44.3" r="4" fill="#3465a4"><title>Hawes (Personal)</title></circle></a><a href="/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/"><circle cx="317.5" cy="31.8" r="4" fill="#3465a4"><title>Coleburn (Corporate)</title></circle></a><a href="/variants/s7/dg40k3w1k5r1k2ri10~x2~r2109032-ri2806019/"><circle cx="366.0" cy="78.9" r="4" fill="#3465a4"><title>Aviemore Highland (Corporate)</title></circle></a><circle cx="349.1" cy="42.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/g26t2k3ly1k1lr1k1g4dr2k1dr2lr1~x4/"><circle cx="341.2" cy="56.6" r="4" fill="#3465a4"><title>Princess Mary #2</title></circle></a><a href="/variants/s11/k69g6r3g1r6k2w1g30lb1g2ly2~x2/"><circle cx="299.2" cy="20.7" r="4" fill="#3465a4"><title>Downs (Personal)</title></circle></a><a href="/variants/s13/w2k1w2k1dg42k1lb5k1g5dg6r2k1ly2~x2/"><circle cx="339.5" cy="14.0" r="4" fill="#3465a4"><title>University of Hong Kong</title></circle></a><a href="/variants/s10/dg67k2dg2k2dg2y8r8k8y2lb7~x2/"><circle cx="381.0" cy="66.9" r="4" fill="#3465a4"><title>Moran (French) (Name)</title></circle></a><a href="/variants/s13/dg50k3w4k1ly5r4k1w2k2t15k5dg4w2~x2/"><circle cx="267.4" cy="26.2" r="4" fill="#3465a4"><title>City of Abbotsford (District)</title></circle></a><a href="/variants/s13/y2k1r2dg6lg5k1db5k1dg42k1w2k1w2~x2~dg1605139-lg3005163/"><circle cx="350.2" cy="15.2" r="4" fill="#3465a4"><title>Hong Kong, University of</title></circle></a><a href="/variants/s8/w3k48ly5w3ly3g2db5lb3~x2/"><circle cx="321.6" cy="66.5" r="4" fill="#3465a4"><title>Pavelka Limited</title></circle></a><a href="/variants/s10/w2dr3g5k50g4dr3w2lb3k2ly2~x2/"><circle cx="336.8" cy="44.4" r="4" fill="#3465a4"><title>Hawes (Personal)</title></circle></a><a href="/variants/s10/n24ly2n4ly1n3k3dg1k50r1dr3~x2/"><circle cx="317.3" cy="31.7" r="4" fill="#3465a4"><title>Coleburn (Corporate)</title></circle></a><a href="/variants/s7/dg40k3w1k5r1k2ri10~x2~r2109032-ri2806019/"><circle cx="365.8" cy="79.0" r="4" fill="#3465a4"><title>Aviemore Highland (Corporate)</title></circle></a><circle cx="348.9" cy="42.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/w2k2w2k10lb1dg40w1r4w1dg5ri1~x2~r2209032-ri2806019/

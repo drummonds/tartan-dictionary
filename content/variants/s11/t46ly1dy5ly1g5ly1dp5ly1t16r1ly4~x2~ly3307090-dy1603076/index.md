@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Craven County"
   url: "/tartans/craven-county/"
+- name: "Craven County (Commemorative)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t46ly1dy5ly1g5ly1dp5ly1t16r1ly4/)
 (the same proportion at any scale), whose colour order is pattern [BYGYGYBYBRY](/stripes/bygygybybry/).
@@ -14,7 +16,7 @@ Part of the [Craven County](/tartans/craven-county/) tartan — the named design
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10679
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10679](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10679)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db46y1dy5y1g5y1dp5y1db16r1y4~x2/"><circle cx="502.2" cy="77.4" r="4" fill="#3465a4"><title>Craven County</title></circle></a><a href="/variants/s10/t42w5t1w1ly9t1dg2w1t1r1~x4/"><circle cx="475.2" cy="84.4" r="4" fill="#3465a4"><title>Stratford, (Oregon) City of (Dist.)</title></circle></a><a href="/variants/s10/n56db9w2db2r2n9lb4db2lb2y3~x2/"><circle cx="493.1" cy="97.5" r="4" fill="#3465a4"><title>Blue Toon</title></circle></a><a href="/variants/s12/t48dp4t8lr2t4r3t4dg14dr7t2dr4r2~x2/"><circle cx="398.0" cy="105.3" r="4" fill="#3465a4"><title>Louth, County</title></circle></a><a href="/variants/s11/t49db11w2db2r2db2t10lb4db2lb2y3~x2~t2203246-db1404245/"><circle cx="461.5" cy="112.2" r="4" fill="#3465a4"><title>Blue Toon (Fashion)</title></circle></a><a href="/variants/s8/dy6y3t42w4dg18y2t12r3~x2/"><circle cx="347.0" cy="142.1" r="4" fill="#3465a4"><title>Glasgow High (School)</title></circle></a><a href="/variants/s12/w4t8w4lg8w2lg2w4t42r1ly2r1t2~x2/"><circle cx="425.2" cy="89.1" r="4" fill="#3465a4"><title>StammBar</title></circle></a><a href="/variants/s11/t27w2t15ly1t1ly1t15k2w2g16r1~x2/"><circle cx="423.8" cy="118.1" r="4" fill="#3465a4"><title>Quigley of Knockcroghery Htg (Per.)</title></circle></a><a href="/variants/s11/n30db6o1w2o6w2o1db6n30lb1dp3~x2/"><circle cx="450.4" cy="110.0" r="4" fill="#3465a4"><title>Kuehle Family (Personal)</title></circle></a><a href="/variants/s13/dp2y1lb42lo2lb6lr1r1lr1g4lo4lr1y1dp1~x2/"><circle cx="486.2" cy="47.7" r="4" fill="#3465a4"><title>Kerr of Ardgowan Dress (Personal)</title></circle></a><circle cx="495.1" cy="84.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db46y1dy5y1g5y1dp5y1db16r1y4~x2/"><circle cx="502.0" cy="77.2" r="4" fill="#3465a4"><title>Craven County</title></circle></a><a href="/variants/s10/t42w5t1w1ly9t1dg2w1t1r1~x4/"><circle cx="475.1" cy="84.4" r="4" fill="#3465a4"><title>Stratford, (Oregon) City of (Dist.)</title></circle></a><a href="/variants/s10/n56db9w2db2r2n9lb4db2lb2y3~x2/"><circle cx="493.0" cy="97.5" r="4" fill="#3465a4"><title>Blue Toon</title></circle></a><a href="/variants/s12/t48dp4t8lr2t4r3t4dg14dr7t2dr4r2~x2/"><circle cx="398.0" cy="105.3" r="4" fill="#3465a4"><title>Louth, County</title></circle></a><a href="/variants/s11/t49db11w2db2r2db2t10lb4db2lb2y3~x2~t2203246-db1404245/"><circle cx="461.5" cy="112.1" r="4" fill="#3465a4"><title>Blue Toon (Fashion)</title></circle></a><a href="/variants/s8/dy6y3t42w4dg18y2t12r3~x2/"><circle cx="346.9" cy="142.2" r="4" fill="#3465a4"><title>Glasgow High (School)</title></circle></a><a href="/variants/s12/w4t8w4lg8w2lg2w4t42r1ly2r1t2~x2/"><circle cx="425.1" cy="89.1" r="4" fill="#3465a4"><title>StammBar</title></circle></a><a href="/variants/s11/t27w2t15ly1t1ly1t15k2w2g16r1~x2/"><circle cx="423.8" cy="118.2" r="4" fill="#3465a4"><title>Quigley of Knockcroghery Htg (Per.)</title></circle></a><a href="/variants/s11/n30db6o1w2o6w2o1db6n30lb1dp3~x2/"><circle cx="450.3" cy="110.0" r="4" fill="#3465a4"><title>Kuehle Family (Personal)</title></circle></a><a href="/variants/s13/dp2y1lb42lo2lb6lr1r1lr1g4lo4lr1y1dp1~x2/"><circle cx="486.1" cy="47.6" r="4" fill="#3465a4"><title>Kerr of Ardgowan Dress (Personal)</title></circle></a><circle cx="495.0" cy="84.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/t46ly1dy5ly1g5ly1dp5ly1t16r1ly4~x2~ly3307090-dy1603076/

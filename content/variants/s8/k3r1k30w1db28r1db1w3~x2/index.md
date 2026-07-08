@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Dunlop"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3r1k30w1db28r1db1w3/)
 (the same proportion at any scale), whose colour order is pattern [KRKWBRBW](/stripes/krkwbrbw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1045
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1045](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1045)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4y1k18db18lb1db4~x4/"><circle cx="311.8" cy="169.3" r="4" fill="#3465a4"><title>Lyndon Prep (School)</title></circle></a><a href="/variants/s10/r3w2r2db2r2db24k28r2k3y1~x2/"><circle cx="240.8" cy="79.0" r="4" fill="#3465a4"><title>Locky</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="337.4" cy="120.0" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/variants/s9/k3r1k32db28r1db2r1db2r3~x2/"><circle cx="340.5" cy="110.6" r="4" fill="#3465a4"><title>Angus</title></circle></a><a href="/variants/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="250.5" cy="118.4" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s7/k8dr4k36db48dr6dg3lo2~x2/"><circle cx="288.6" cy="134.2" r="4" fill="#3465a4"><title>Royal Marines Condor (Military)</title></circle></a><a href="/variants/s6/k4w2k28db30k1db3~x2/"><circle cx="350.8" cy="152.9" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s6/k4lb2k28t30k1t3~x2/"><circle cx="311.9" cy="145.5" r="4" fill="#3465a4"><title>Ramsay Blue Hunting</title></circle></a><a href="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/"><circle cx="276.5" cy="83.4" r="4" fill="#3465a4"><title>Hill</title></circle></a><a href="/variants/s9/w3db2y1db2y1db31k28r2k2~x2/"><circle cx="281.9" cy="80.5" r="4" fill="#3465a4"><title>Hill (Name)</title></circle></a><circle cx="294.5" cy="99.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4y1k18db18lb1db4~x4/"><circle cx="311.8" cy="169.6" r="4" fill="#3465a4"><title>Lyndon Prep (School)</title></circle></a><a href="/variants/s10/r3w2r2db2r2db24k28r2k3y1~x2/"><circle cx="240.6" cy="79.1" r="4" fill="#3465a4"><title>Locky</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="337.4" cy="120.1" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/variants/s9/k3r1k32db28r1db2r1db2r3~x2/"><circle cx="340.4" cy="110.7" r="4" fill="#3465a4"><title>Angus</title></circle></a><a href="/variants/s7/k8r4k36db48r6g3lo2~x2/"><circle cx="250.4" cy="118.5" r="4" fill="#3465a4"><title>Royal Marines Condor</title></circle></a><a href="/variants/s7/k8dr4k36db48dr6dg3lo2~x2/"><circle cx="288.5" cy="134.3" r="4" fill="#3465a4"><title>Royal Marines Condor (Military)</title></circle></a><a href="/variants/s6/k4w2k28db30k1db3~x2/"><circle cx="350.8" cy="153.2" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><a href="/variants/s6/k4lb2k28t30k1t3~x2/"><circle cx="311.9" cy="145.9" r="4" fill="#3465a4"><title>Ramsay Blue Hunting</title></circle></a><a href="/variants/s9/k4r2k28db31y1db2y1db2w3~x2/"><circle cx="276.4" cy="83.5" r="4" fill="#3465a4"><title>Hill</title></circle></a><a href="/variants/s9/w3db2y1db2y1db31k28r2k2~x2/"><circle cx="281.7" cy="80.5" r="4" fill="#3465a4"><title>Hill (Name)</title></circle></a><circle cx="294.4" cy="99.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k3r1k30w1db28r1db1w3~x2/

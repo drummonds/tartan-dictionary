@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Not Specified #4"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n35w2n2w2n2w2n2w2n2w2n14w38k4n4w4n4k4w4k4n4w4n4k4w16k36n19w2n4w4n3w4n2w13/)
 (the same proportion at any scale), whose colour order is pattern [BWBWBWBWBWBWKBWBKWKBWBKWKBWBWBWBWBWBWBWBKWKBWBKWKBWBKWBWBWBWBWBW](/stripes/bwbwbwbwbwbwkbwbkwkbwbkwkbwbwbwbwbwbwbwbkwkbwbkwkbwbkwbwbwbwbwbw/).
 
 Sourced from register-of-tartans.  It is a [64 stripe tartan](/stripes/stripes64/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4814
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4814](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4814)
 
 ## Provenance
 

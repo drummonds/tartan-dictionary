@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Carnegie Check"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2/)
 (the same proportion at any scale), whose colour order is pattern [GKYKYKYKYKYKYKYKY](/stripes/gkykykykykykykyky/).
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=569
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=569](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=569)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dr12w2dr2w2dr2w10k12w3k12w10dr12w2dr2~x2/"><circle cx="134.1" cy="202.3" r="4" fill="#3465a4"><title>Red, White, Blue Watch (Dance)</title></circle></a><a href="/variants/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/"><circle cx="132.5" cy="183.6" r="4" fill="#3465a4"><title>Grant of Ballindalloch</title></circle></a><a href="/variants/s12/k6r1k1r4k7r1k7g6r5g1r1g5~x2/"><circle cx="172.8" cy="198.9" r="4" fill="#3465a4"><title>MacDonald #8</title></circle></a><a href="/variants/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/"><circle cx="159.1" cy="184.2" r="4" fill="#3465a4"><title>42nd Regiment (Musicians) (Mil.)</title></circle></a><a href="/variants/s13/ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2/"><circle cx="143.5" cy="173.2" r="4" fill="#3465a4"><title>Unidentified (NZ)</title></circle></a><a href="/variants/s11/k3lo1k5lo1w5lo5k5lo1w5lo1k1~x4/"><circle cx="127.9" cy="213.6" r="4" fill="#3465a4"><title>Dundee United Football Club</title></circle></a><a href="/variants/s10/n6k1n1k1n2k4ly6k1n2k2~x8/"><circle cx="166.4" cy="211.6" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/variants/s13/k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1~x4/"><circle cx="85.0" cy="199.9" r="4" fill="#3465a4"><title>Franklin (District)</title></circle></a><a href="/variants/s8/n6k2w1k2n3r6n1r6~x4/"><circle cx="157.2" cy="189.9" r="4" fill="#3465a4"><title>Sydney (Nova Scotia)</title></circle></a><a href="/variants/s13/lb7k1lb1k1lb1y4k6w1k6y4lb5k1lb1~x4/"><circle cx="126.0" cy="177.8" r="4" fill="#3465a4"><title>Kernbrownek (Personal)</title></circle></a><circle cx="145.7" cy="188.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dr12w2dr2w2dr2w10k12w3k12w10dr12w2dr2~x2/"><circle cx="134.2" cy="203.0" r="4" fill="#3465a4"><title>Red, White, Blue Watch (Dance)</title></circle></a><a href="/variants/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/"><circle cx="132.6" cy="184.1" r="4" fill="#3465a4"><title>Grant of Ballindalloch</title></circle></a><a href="/variants/s12/k6r1k1r4k7r1k7g6r5g1r1g5~x2/"><circle cx="172.8" cy="199.5" r="4" fill="#3465a4"><title>MacDonald #8</title></circle></a><a href="/variants/s13/k28r4k4r4k4r27dg26r4dg26r27k28r4k4/"><circle cx="159.1" cy="184.7" r="4" fill="#3465a4"><title>42nd Regiment (Musicians) (Mil.)</title></circle></a><a href="/variants/s13/ly16k2ly2k2ly2k16r16k3r16k16ly16k2ly2~x2/"><circle cx="143.5" cy="173.8" r="4" fill="#3465a4"><title>Unidentified (NZ)</title></circle></a><a href="/variants/s11/k3lo1k5lo1w5lo5k5lo1w5lo1k1~x4/"><circle cx="128.0" cy="214.4" r="4" fill="#3465a4"><title>Dundee United Football Club</title></circle></a><a href="/variants/s10/n6k1n1k1n2k4ly6k1n2k2~x8/"><circle cx="166.5" cy="212.3" r="4" fill="#3465a4"><title>Tyndrum</title></circle></a><a href="/variants/s13/k2db3lo5k1lo2k1lo5dr3k2dr3db6k1db1~x4/"><circle cx="85.1" cy="200.5" r="4" fill="#3465a4"><title>Franklin (District)</title></circle></a><a href="/variants/s8/n6k2w1k2n3r6n1r6~x4/"><circle cx="157.3" cy="190.5" r="4" fill="#3465a4"><title>Sydney (Nova Scotia)</title></circle></a><a href="/variants/s13/lb7k1lb1k1lb1y4k6w1k6y4lb5k1lb1~x4/"><circle cx="126.0" cy="178.3" r="4" fill="#3465a4"><title>Kernbrownek (Personal)</title></circle></a><circle cx="145.8" cy="188.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/

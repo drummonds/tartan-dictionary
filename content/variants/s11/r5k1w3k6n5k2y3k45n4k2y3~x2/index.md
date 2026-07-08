@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/williams/"
 - name: "Williams Dress"
   url: "/tartans/williams-dress/"
+- name: "Williams Dress (Carolinas) (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5k1w3k6n5k2y3k45n4k2y3/)
 (the same proportion at any scale), whose colour order is pattern [GKBKGKBKWKR](/stripes/gkbkgkbkwkr/).
@@ -16,7 +18,7 @@ Part of the [Williams Dress](/tartans/williams-dress/) tartan — the named desi
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10707
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10707](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10707)
 
 ## Provenance
 
@@ -74,8 +76,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r5k1w3k6n5k2ly3k45n4k2ly3~x2/"><circle cx="381.5" cy="35.0" r="4" fill="#3465a4"><title>Williams Dress (Personal)</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22ly14k3ly6w4/"><circle cx="309.6" cy="46.5" r="4" fill="#3465a4"><title>Langtree Trade Tartan</title></circle></a><a href="/variants/s13/k75lb2w2k2y2dg4r3k2r4k1w4k2lb5~x2/"><circle cx="416.1" cy="14.0" r="4" fill="#3465a4"><title>New World Celts (Corporate)</title></circle></a><a href="/variants/s10/db5k35lb3k2r3k2g3k2w3k2~x2/"><circle cx="339.4" cy="62.2" r="4" fill="#3465a4"><title>Thin Blue Line UK</title></circle></a><a href="/variants/s12/k48db4k8y2k3w3k3g12r6k3r3w3~x2/"><circle cx="302.1" cy="49.8" r="4" fill="#3465a4"><title>Stewart Black Clan Tartan</title></circle></a><a href="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="342.4" cy="27.4" r="4" fill="#3465a4"><title>Stewart, Black ground</title></circle></a><a href="/variants/s12/k48n4k6lr2k2dr2k2n10ly6k2ly3dr2~x2/"><circle cx="346.6" cy="60.4" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22o14k3o6w4/"><circle cx="319.6" cy="48.0" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/"><circle cx="361.2" cy="44.3" r="4" fill="#3465a4"><title>Goldwire (2015)</title></circle></a><a href="/variants/s9/lb4n6k4ri2r10k44n1k1lb2~x2~ri2109032-r1807033/"><circle cx="357.9" cy="49.1" r="4" fill="#3465a4"><title>Calgary HOG (Corporate)</title></circle></a><circle cx="387.9" cy="36.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r5k1w3k6n5k2ly3k45n4k2ly3~x2/"><circle cx="381.3" cy="35.1" r="4" fill="#3465a4"><title>Williams Dress (Personal)</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22ly14k3ly6w4/"><circle cx="309.4" cy="46.6" r="4" fill="#3465a4"><title>Langtree Trade Tartan</title></circle></a><a href="/variants/s13/k75lb2w2k2y2dg4r3k2r4k1w4k2lb5~x2/"><circle cx="415.8" cy="14.0" r="4" fill="#3465a4"><title>New World Celts (Corporate)</title></circle></a><a href="/variants/s10/db5k35lb3k2r3k2g3k2w3k2~x2/"><circle cx="339.2" cy="62.3" r="4" fill="#3465a4"><title>Thin Blue Line UK</title></circle></a><a href="/variants/s12/k48db4k8y2k3w3k3g12r6k3r3w3~x2/"><circle cx="301.9" cy="49.9" r="4" fill="#3465a4"><title>Stewart Black Clan Tartan</title></circle></a><a href="/variants/s12/k36db4k6y1k1w1k1g8r4k1r2w1~x2/"><circle cx="342.2" cy="27.4" r="4" fill="#3465a4"><title>Stewart, Black ground</title></circle></a><a href="/variants/s12/k48n4k6lr2k2dr2k2n10ly6k2ly3dr2~x2/"><circle cx="346.5" cy="60.5" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 2)</title></circle></a><a href="/variants/s12/k86n6k4w3k3r3k3n22o14k3o6w4/"><circle cx="319.4" cy="48.1" r="4" fill="#3465a4"><title>Langtree</title></circle></a><a href="/variants/s14/k3y3k3y3k3y3k3y3k36w1k2db9r2db1~x2/"><circle cx="361.0" cy="44.3" r="4" fill="#3465a4"><title>Goldwire (2015)</title></circle></a><a href="/variants/s9/lb4n6k4ri2r10k44n1k1lb2~x2~ri2109032-r1807033/"><circle cx="357.7" cy="49.2" r="4" fill="#3465a4"><title>Calgary HOG (Corporate)</title></circle></a><circle cx="387.7" cy="36.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r5k1w3k6n5k2y3k45n4k2y3~x2/

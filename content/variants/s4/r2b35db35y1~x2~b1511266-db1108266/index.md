@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Mackaw"
   url: "/tartans/mackaw/"
+- name: "Mackaw"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2b35db35y1/)
 (the same proportion at any scale), whose colour order is pattern [GBBR](/stripes/gbbr/).
@@ -14,7 +16,7 @@ Part of the [Mackaw](/tartans/mackaw/) tartan — the named design grouping this
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10583
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10583](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10583)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r2dbi35db35ly1~x2~dbi1406275-db1204274/"><circle cx="611.2" cy="274.1" r="4" fill="#3465a4"><title>Mackaw (Corporate)</title></circle></a><a href="/variants/s4/b20dp3db7y1~x4/"><circle cx="506.0" cy="238.4" r="4" fill="#3465a4"><title>Peacock</title></circle></a><a href="/variants/s6/dbi15db55w1dp5r2ly1~x2~dbi1406275-db1404245/"><circle cx="599.2" cy="146.4" r="4" fill="#3465a4"><title>Venters (Personal)</title></circle></a><a href="/variants/s5/o2db19t6b44w2~x2/"><circle cx="429.5" cy="186.8" r="4" fill="#3465a4"><title>World Fed. of Bldg Contractors (Corp</title></circle></a><a href="/variants/s5/db30do9w1dr5y1~x4/"><circle cx="505.1" cy="183.1" r="4" fill="#3465a4"><title>Dunning Primary (School)</title></circle></a><a href="/variants/s4/db3b30db40r3~x2/"><circle cx="447.3" cy="257.7" r="4" fill="#3465a4"><title>Sanix Large Muted</title></circle></a><a href="/variants/s4/w4n28t48y3~x2~t2503227/"><circle cx="531.4" cy="281.2" r="4" fill="#3465a4"><title>MacKerrell of Hillhouse Dress Personal Tartan</title></circle></a><a href="/variants/s5/y1db10dbi5db2g1~x8~db1204274-dbi1406275/"><circle cx="547.3" cy="286.9" r="4" fill="#3465a4"><title>Open Championship (2000)</title></circle></a><a href="/variants/s6/db38w3db8dbi36dg9r3~x2~db1106275-dbi1406275/"><circle cx="359.2" cy="219.4" r="4" fill="#3465a4"><title>Waters of Georgian Bay (District)</title></circle></a><a href="/variants/s5/y1db11dbi5db2g1~x4~db1003265-dbi1605267/"><circle cx="516.3" cy="260.8" r="4" fill="#3465a4"><title>Open Championship, The</title></circle></a><circle cx="512.5" cy="237.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r2dbi35db35ly1~x2~dbi1406275-db1204274/"><circle cx="611.3" cy="273.8" r="4" fill="#3465a4"><title>Mackaw (Corporate)</title></circle></a><a href="/variants/s4/b20dp3db7y1~x4/"><circle cx="506.1" cy="238.6" r="4" fill="#3465a4"><title>Peacock</title></circle></a><a href="/variants/s6/dbi15db55w1dp5r2ly1~x2~dbi1406275-db1404245/"><circle cx="599.2" cy="146.1" r="4" fill="#3465a4"><title>Venters (Personal)</title></circle></a><a href="/variants/s5/o2db19t6b44w2~x2/"><circle cx="429.5" cy="187.0" r="4" fill="#3465a4"><title>World Fed. of Bldg Contractors (Corp</title></circle></a><a href="/variants/s5/db30do9w1dr5y1~x4/"><circle cx="505.1" cy="183.1" r="4" fill="#3465a4"><title>Dunning Primary (School)</title></circle></a><a href="/variants/s4/db3b30db40r3~x2/"><circle cx="447.5" cy="258.1" r="4" fill="#3465a4"><title>Sanix Large Muted</title></circle></a><a href="/variants/s4/w4n28t48y3~x2~t2503227/"><circle cx="531.6" cy="281.4" r="4" fill="#3465a4"><title>MacKerrell of Hillhouse Dress Personal Tartan</title></circle></a><a href="/variants/s5/y1db10dbi5db2g1~x8~db1204274-dbi1406275/"><circle cx="547.4" cy="287.0" r="4" fill="#3465a4"><title>Open Championship (2000)</title></circle></a><a href="/variants/s6/db38w3db8dbi36dg9r3~x2~db1106275-dbi1406275/"><circle cx="359.2" cy="219.5" r="4" fill="#3465a4"><title>Waters of Georgian Bay (District)</title></circle></a><a href="/variants/s5/y1db11dbi5db2g1~x4~db1003265-dbi1605267/"><circle cx="516.4" cy="261.0" r="4" fill="#3465a4"><title>Open Championship, The</title></circle></a><circle cx="512.6" cy="237.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/r2b35db35y1~x2~b1511266-db1108266/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Millar (Kirkcaldy) (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db5r2lp2r2db5y1r1y1db5/)
 (the same proportion at any scale), whose colour order is pattern [BGRGBRWRB](/stripes/bgrgbrwrb/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8104
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8104](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8104)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/"><circle cx="411.7" cy="181.8" r="4" fill="#3465a4"><title>Orlando Fire Department (Corporate)</title></circle></a><a href="/variants/s9/w1db8r3db2r1db2r3db8ly1~x4/"><circle cx="365.7" cy="197.0" r="4" fill="#3465a4"><title>Louisville Fire &amp; Rescue P&amp;D</title></circle></a><a href="/variants/s8/r5db6r1db6r1db6r5w5~x4/"><circle cx="228.0" cy="262.3" r="4" fill="#3465a4"><title>U.S. Coast Guard</title></circle></a><a href="/variants/s7/db7w1r7db4r2db4w2~x2/"><circle cx="274.6" cy="246.8" r="4" fill="#3465a4"><title>Coronation</title></circle></a><a href="/variants/s8/db38r6db6r9w5r12db8r16/"><circle cx="305.1" cy="216.9" r="4" fill="#3465a4"><title>Edinburgh Marketing</title></circle></a><a href="/variants/s6/r12db3g5db16y2g2~x2/"><circle cx="296.8" cy="204.2" r="4" fill="#3465a4"><title>Dunbog Primary School</title></circle></a><a href="/variants/s8/db6r1db1r2w1r2db1r3~x4/"><circle cx="274.2" cy="230.8" r="4" fill="#3465a4"><title>Edinburgh Marketing</title></circle></a><a href="/variants/s6/db1r3db1r3db6g1~x4/"><circle cx="311.1" cy="250.9" r="4" fill="#3465a4"><title>Robbins</title></circle></a><a href="/variants/s6/db11r4y9db4y2db11~x2/"><circle cx="346.5" cy="282.3" r="4" fill="#3465a4"><title>Unidentified Sample</title></circle></a><a href="/variants/s10/b6k3b10o5b2o2b2o2b7w2~x2/"><circle cx="299.6" cy="223.3" r="4" fill="#3465a4"><title>Digital</title></circle></a><circle cx="292.8" cy="234.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db12y1r16db1r1db14r3db14y1~x4/"><circle cx="411.7" cy="182.2" r="4" fill="#3465a4"><title>Orlando Fire Department (Corporate)</title></circle></a><a href="/variants/s9/w1db8r3db2r1db2r3db8ly1~x4/"><circle cx="365.8" cy="197.5" r="4" fill="#3465a4"><title>Louisville Fire &amp; Rescue P&amp;D</title></circle></a><a href="/variants/s8/r5db6r1db6r1db6r5w5~x4/"><circle cx="228.2" cy="263.1" r="4" fill="#3465a4"><title>U.S. Coast Guard</title></circle></a><a href="/variants/s7/db7w1r7db4r2db4w2~x2/"><circle cx="274.8" cy="247.5" r="4" fill="#3465a4"><title>Coronation</title></circle></a><a href="/variants/s8/db38r6db6r9w5r12db8r16/"><circle cx="305.2" cy="217.5" r="4" fill="#3465a4"><title>Edinburgh Marketing</title></circle></a><a href="/variants/s6/r12db3g5db16y2g2~x2/"><circle cx="296.9" cy="204.6" r="4" fill="#3465a4"><title>Dunbog Primary School</title></circle></a><a href="/variants/s8/db6r1db1r2w1r2db1r3~x4/"><circle cx="274.4" cy="231.5" r="4" fill="#3465a4"><title>Edinburgh Marketing</title></circle></a><a href="/variants/s6/db1r3db1r3db6g1~x4/"><circle cx="311.2" cy="251.6" r="4" fill="#3465a4"><title>Robbins</title></circle></a><a href="/variants/s6/db11r4y9db4y2db11~x2/"><circle cx="346.6" cy="283.0" r="4" fill="#3465a4"><title>Unidentified Sample</title></circle></a><a href="/variants/s10/b6k3b10o5b2o2b2o2b7w2~x2/"><circle cx="299.8" cy="223.9" r="4" fill="#3465a4"><title>Digital</title></circle></a><circle cx="292.9" cy="235.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db5r2lp2r2db5y1r1y1db5~x8/

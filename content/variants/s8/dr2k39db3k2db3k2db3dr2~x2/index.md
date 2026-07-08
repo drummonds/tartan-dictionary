@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Impulse (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr2k39db3k2db3k2db3dr2/)
 (the same proportion at any scale), whose colour order is pattern [BBKBKBKKKKB](/stripes/bbkbkbkkkkb/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5249
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5249](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5249)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

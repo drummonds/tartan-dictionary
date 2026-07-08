@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rangers Dress (Sports)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr2db6lr2db2k9lb30k9db5lr4db2dr2/)
 (the same proportion at any scale), whose colour order is pattern [BBYBKWKBYBB](/stripes/bbybkwkbybb/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2171
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2171](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2171)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/"><circle cx="132.2" cy="122.9" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/"><circle cx="153.7" cy="111.2" r="4" fill="#3465a4"><title>Ellis (Welsh Name)</title></circle></a><a href="/variants/s11/db15y30w30k20w20k15w10y4db94w4r10/"><circle cx="177.4" cy="108.9" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><a href="/variants/s11/db23w2db3lb4db3w2db5k11dp2w23k3~x2/"><circle cx="153.1" cy="131.6" r="4" fill="#3465a4"><title>MacKellar Royal Blue Dress Tartan</title></circle></a><a href="/variants/s11/r1db1r8w1k2db16k2w1g8db1g1~x2/"><circle cx="185.7" cy="113.0" r="4" fill="#3465a4"><title>MacMichael</title></circle></a><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/"><circle cx="135.4" cy="127.6" r="4" fill="#3465a4"><title>Sutherland, Dress</title></circle></a><a href="/variants/s11/db15ly30w30k20w20k15w10ly4db94w4r10/"><circle cx="174.3" cy="108.5" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><a href="/variants/s9/dr3k1w12k2b2k2ki14w2ki2~x2~b1511266-ki0604259/"><circle cx="139.2" cy="124.5" r="4" fill="#3465a4"><title>NEWYORKER</title></circle></a><a href="/variants/s13/k2db2w2db2w27db2k9db3g3db24g2db4y2~x2/"><circle cx="172.5" cy="102.8" r="4" fill="#3465a4"><title>Yarrow Turquoise Dress Tartan</title></circle></a><a href="/variants/s10/db8r3db34b3k9w31r5w3r3w8~x2/"><circle cx="150.8" cy="136.4" r="4" fill="#3465a4"><title>Stewart of Appin, dress</title></circle></a><circle cx="157.6" cy="113.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/w6dg2w27k10db4k4db4k4db15r2db2r4~x2/"><circle cx="132.2" cy="123.3" r="4" fill="#3465a4"><title>Sutherland Dress, Old (Dance)</title></circle></a><a href="/variants/s12/k4lb26k2lb4k2lb26k3db36k3dg30k3w2/"><circle cx="153.6" cy="111.5" r="4" fill="#3465a4"><title>Ellis (Welsh Name)</title></circle></a><a href="/variants/s11/db15y30w30k20w20k15w10y4db94w4r10/"><circle cx="177.3" cy="109.1" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><a href="/variants/s11/db23w2db3lb4db3w2db5k11dp2w23k3~x2/"><circle cx="153.0" cy="132.0" r="4" fill="#3465a4"><title>MacKellar Royal Blue Dress Tartan</title></circle></a><a href="/variants/s11/r1db1r8w1k2db16k2w1g8db1g1~x2/"><circle cx="185.6" cy="113.2" r="4" fill="#3465a4"><title>MacMichael</title></circle></a><a href="/variants/s12/w5g2w23k7db4k3db3k3db11r2db2r3~x2/"><circle cx="135.4" cy="128.0" r="4" fill="#3465a4"><title>Sutherland, Dress</title></circle></a><a href="/variants/s11/db15ly30w30k20w20k15w10ly4db94w4r10/"><circle cx="174.2" cy="108.7" r="4" fill="#3465a4"><title>Ar Lenn Vor</title></circle></a><a href="/variants/s9/dr3k1w12k2b2k2ki14w2ki2~x2~b1511266-ki0604259/"><circle cx="139.1" cy="124.8" r="4" fill="#3465a4"><title>NEWYORKER</title></circle></a><a href="/variants/s13/k2db2w2db2w27db2k9db3g3db24g2db4y2~x2/"><circle cx="172.4" cy="103.1" r="4" fill="#3465a4"><title>Yarrow Turquoise Dress Tartan</title></circle></a><a href="/variants/s10/db8r3db34b3k9w31r5w3r3w8~x2/"><circle cx="150.8" cy="136.8" r="4" fill="#3465a4"><title>Stewart of Appin, dress</title></circle></a><circle cx="157.5" cy="113.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/dr2db6lr2db2k9lb30k9db5lr4db2dr2~x2/

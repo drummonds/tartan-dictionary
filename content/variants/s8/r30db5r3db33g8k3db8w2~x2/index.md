@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Saint Margaret of Scotland Youth Group"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r30db5r3db33g8k3db8w2/)
 (the same proportion at any scale), whose colour order is pattern [RBRBGKBW](/stripes/rbrbgkbw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10441
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10441](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10441)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r10db4r6db30k10db5w2~x2/"><circle cx="296.8" cy="162.0" r="4" fill="#3465a4"><title>Heritage of Wales (Fashion)</title></circle></a><a href="/variants/s8/dg8db5k1db17r10db2r10n2~x2/"><circle cx="228.3" cy="165.3" r="4" fill="#3465a4"><title>Harrower, John Anthony (Personal)</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="197.8" cy="151.8" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="239.4" cy="145.3" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="226.7" cy="150.0" r="4" fill="#3465a4"><title>Americana - 1978 #2 (Fashion)</title></circle></a><a href="/variants/s6/db18r9db2r3k1n1~x4/"><circle cx="352.6" cy="149.9" r="4" fill="#3465a4"><title>MacGregor, Modern</title></circle></a><a href="/variants/s6/lb12g12k12g24dp75ly4/"><circle cx="265.8" cy="140.0" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><a href="/variants/s7/db50r26k9r4w2lo2r10~x2/"><circle cx="266.2" cy="111.9" r="4" fill="#3465a4"><title>Java Saint Andrew Society Dress</title></circle></a><a href="/variants/s9/k4db12lb3db4g8lo2r24db4r4~x2/"><circle cx="161.5" cy="132.0" r="4" fill="#3465a4"><title>MacCreary (Personal)</title></circle></a><a href="/variants/s6/lb12g16k12g24dp75y4/"><circle cx="261.1" cy="145.0" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><circle cx="254.9" cy="133.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r10db4r6db30k10db5w2~x2/"><circle cx="296.8" cy="162.4" r="4" fill="#3465a4"><title>Heritage of Wales (Fashion)</title></circle></a><a href="/variants/s8/dg8db5k1db17r10db2r10n2~x2/"><circle cx="228.3" cy="165.6" r="4" fill="#3465a4"><title>Harrower, John Anthony (Personal)</title></circle></a><a href="/variants/s9/db12k3db2r2db2r12w2k1w2~x4/"><circle cx="197.8" cy="152.3" r="4" fill="#3465a4"><title>Ainslie</title></circle></a><a href="/variants/s9/db8w2k8g12r2db3r2db24r2~x2/"><circle cx="239.4" cy="145.6" r="4" fill="#3465a4"><title>Burt #2 (Name)</title></circle></a><a href="/variants/s7/db2r2db28k11r27w2r2~x2/"><circle cx="226.6" cy="150.4" r="4" fill="#3465a4"><title>Americana - 1978 #2 (Fashion)</title></circle></a><a href="/variants/s6/db18r9db2r3k1n1~x4/"><circle cx="352.5" cy="150.3" r="4" fill="#3465a4"><title>MacGregor, Modern</title></circle></a><a href="/variants/s6/lb12g12k12g24dp75ly4/"><circle cx="265.8" cy="140.3" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><a href="/variants/s7/db50r26k9r4w2lo2r10~x2/"><circle cx="266.1" cy="112.1" r="4" fill="#3465a4"><title>Java Saint Andrew Society Dress</title></circle></a><a href="/variants/s9/k4db12lb3db4g8lo2r24db4r4~x2/"><circle cx="161.5" cy="132.3" r="4" fill="#3465a4"><title>MacCreary (Personal)</title></circle></a><a href="/variants/s6/lb12g16k12g24dp75y4/"><circle cx="261.1" cy="145.3" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><circle cx="254.9" cy="133.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r30db5r3db33g8k3db8w2~x2/

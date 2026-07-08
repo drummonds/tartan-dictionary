@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/forbes/"
 - name: "Forbes"
   url: "/tartans/forbes-2/"
+- name: "Forbes #5"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db28k3db6k3db6k20dy28k3w6/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKGKW](/stripes/bkbkbkgkw/).
@@ -16,7 +18,7 @@ Part of the [Forbes](/tartans/forbes-2/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1218
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1218](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1218)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -63,8 +65,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db28k3db6k3db6k20o28k3w6~x2/"><circle cx="155.7" cy="170.4" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s9/k5db3k3db23n4k25n23lb3n5~x2/"><circle cx="169.6" cy="186.2" r="4" fill="#3465a4"><title>Cahonas Scotland</title></circle></a><a href="/variants/s9/db8k2db2k2db2k8g7k1w1~x2/"><circle cx="158.2" cy="192.1" r="4" fill="#3465a4"><title>Forbes #3</title></circle></a><a href="/variants/s8/n9db1n1db1n1db7k7dr2~x4/"><circle cx="201.2" cy="196.8" r="4" fill="#3465a4"><title>Caledonian Hotel (Corporate)</title></circle></a><a href="/variants/s11/k16db8k6db8k6db20k6db6k14t41r4/"><circle cx="154.3" cy="171.9" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s7/r3k12g4db12r1k2r1~x4/"><circle cx="184.1" cy="171.3" r="4" fill="#3465a4"><title>Sandberg</title></circle></a><a href="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/"><circle cx="127.3" cy="182.1" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s8/k1g4r1k4db1k1db7g1~x6/"><circle cx="162.1" cy="196.1" r="4" fill="#3465a4"><title>Brabender</title></circle></a><a href="/variants/s9/r9db11k3db3k3db3k20g20k3~x2/"><circle cx="133.0" cy="191.2" r="4" fill="#3465a4"><title>Urquhart - 1810 ((Clan)</title></circle></a><a href="/variants/s8/db17o2db2o2db2k17dbi13k4~x2~db1404245-dbi1406275/"><circle cx="202.7" cy="201.9" r="4" fill="#3465a4"><title>Balmoral Hotel</title></circle></a><circle cx="180.2" cy="181.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db28k3db6k3db6k20o28k3w6~x2/"><circle cx="155.7" cy="170.8" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s9/k5db3k3db23n4k25n23lb3n5~x2/"><circle cx="169.6" cy="186.6" r="4" fill="#3465a4"><title>Cahonas Scotland</title></circle></a><a href="/variants/s9/db8k2db2k2db2k8g7k1w1~x2/"><circle cx="158.2" cy="192.6" r="4" fill="#3465a4"><title>Forbes #3</title></circle></a><a href="/variants/s8/n9db1n1db1n1db7k7dr2~x4/"><circle cx="201.3" cy="197.2" r="4" fill="#3465a4"><title>Caledonian Hotel (Corporate)</title></circle></a><a href="/variants/s11/k16db8k6db8k6db20k6db6k14t41r4/"><circle cx="154.2" cy="172.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s7/r3k12g4db12r1k2r1~x4/"><circle cx="184.1" cy="171.7" r="4" fill="#3465a4"><title>Sandberg</title></circle></a><a href="/variants/s9/r3db6k1db1k1db1k6g9k2~x2/"><circle cx="127.3" cy="182.5" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s8/k1g4r1k4db1k1db7g1~x6/"><circle cx="162.1" cy="196.6" r="4" fill="#3465a4"><title>Brabender</title></circle></a><a href="/variants/s9/r9db11k3db3k3db3k20g20k3~x2/"><circle cx="133.0" cy="191.7" r="4" fill="#3465a4"><title>Urquhart - 1810 ((Clan)</title></circle></a><a href="/variants/s8/db17o2db2o2db2k17dbi13k4~x2~db1404245-dbi1406275/"><circle cx="202.7" cy="202.3" r="4" fill="#3465a4"><title>Balmoral Hotel</title></circle></a><circle cx="180.2" cy="181.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db28k3db6k3db6k20dy28k3w6~x2/

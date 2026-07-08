@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacNeil 2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2dp10k10g9k3w2/)
 (the same proportion at any scale), whose colour order is pattern [WBKGKW](/stripes/wbkgkw/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dp5k5g5w1~x4~dp1607327/"><circle cx="89.0" cy="277.6" r="4" fill="#3465a4"><title>Wilson's No.220</title></circle></a><a href="/variants/s4/dp8k11g9w2~x2/"><circle cx="109.3" cy="272.1" r="4" fill="#3465a4"><title>Wilson's No 220</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2~dp1607327/"><circle cx="116.0" cy="270.0" r="4" fill="#3465a4"><title>Norwich Collection No. 60</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2/"><circle cx="119.9" cy="272.8" r="4" fill="#3465a4"><title>Wilson's, No 159</title></circle></a><a href="/variants/s6/w1db9k9g9k2w1~x4/"><circle cx="133.7" cy="206.0" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/variants/s6/k3dp9k11lb2g9k3~x2/"><circle cx="151.2" cy="232.9" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/variants/s6/r4g12k12g2db12g3~x2/"><circle cx="125.7" cy="237.8" r="4" fill="#3465a4"><title>Gunn - 1810 (Clan)</title></circle></a><a href="/variants/s6/k2g10lb2k9dp8g2~x2/"><circle cx="120.5" cy="238.0" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/variants/s6/k2g8db2k9dp7k2~x2/"><circle cx="144.6" cy="241.0" r="4" fill="#3465a4"><title>Campbell, Sir Walter Scott</title></circle></a><a href="/variants/s6/k3g8k8r2db8w2~x2/"><circle cx="63.3" cy="239.5" r="4" fill="#3465a4"><title>Mitchell Family Tartan</title></circle></a><circle cx="98.8" cy="235.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/dp5k5g5w1~x4~dp1607327/"><circle cx="89.2" cy="278.5" r="4" fill="#3465a4"><title>Wilson's No.220</title></circle></a><a href="/variants/s4/dp8k11g9w2~x2/"><circle cx="109.4" cy="272.9" r="4" fill="#3465a4"><title>Wilson's No 220</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2~dp1607327/"><circle cx="116.1" cy="270.8" r="4" fill="#3465a4"><title>Norwich Collection No. 60</title></circle></a><a href="/variants/s4/dp8k11g9r2~x2/"><circle cx="120.1" cy="273.5" r="4" fill="#3465a4"><title>Wilson's, No 159</title></circle></a><a href="/variants/s6/w1db9k9g9k2w1~x4/"><circle cx="133.7" cy="206.5" r="4" fill="#3465a4"><title>MacNeil 1</title></circle></a><a href="/variants/s6/k3dp9k11lb2g9k3~x2/"><circle cx="151.3" cy="233.6" r="4" fill="#3465a4"><title>Scott, Sir Walter</title></circle></a><a href="/variants/s6/r4g12k12g2db12g3~x2/"><circle cx="125.8" cy="238.5" r="4" fill="#3465a4"><title>Gunn - 1810 (Clan)</title></circle></a><a href="/variants/s6/k2g10lb2k9dp8g2~x2/"><circle cx="120.6" cy="238.6" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/variants/s6/k2g8db2k9dp7k2~x2/"><circle cx="144.7" cy="241.7" r="4" fill="#3465a4"><title>Campbell, Sir Walter Scott</title></circle></a><a href="/variants/s6/k3g8k8r2db8w2~x2/"><circle cx="63.4" cy="240.2" r="4" fill="#3465a4"><title>Mitchell Family Tartan</title></circle></a><circle cx="98.9" cy="235.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w2dp10k10g9k3w2~x2/

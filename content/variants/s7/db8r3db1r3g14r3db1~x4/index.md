@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Logan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8r3db1r3g14r3db1/)
 (the same proportion at any scale), whose colour order is pattern [BRBRGRB](/stripes/brbrgrb/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2181
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2181](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2181)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="228.3" cy="231.4" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/db3r25db17r5g22r9db3~x2/"><circle cx="260.2" cy="234.4" r="4" fill="#3465a4"><title>MacFadyan (MacGregor Hastie)</title></circle></a><a href="/variants/s6/db9r3db1g9r3db1~x2/"><circle cx="252.0" cy="237.8" r="4" fill="#3465a4"><title>Logan #5</title></circle></a><a href="/variants/s7/g25r4db24r21g25r3db4~x2/"><circle cx="255.9" cy="246.9" r="4" fill="#3465a4"><title>Glasgow #2</title></circle></a><a href="/variants/s7/r6db2r2db21g20r4g4~x2/"><circle cx="258.9" cy="216.3" r="4" fill="#3465a4"><title>Robertson of Struan</title></circle></a><a href="/variants/s7/db1r5g18r4db9r10w1~x4/"><circle cx="243.4" cy="187.1" r="4" fill="#3465a4"><title>MacKintosh Geddes</title></circle></a><a href="/variants/s6/db2r24g24r1db24r2~x2/"><circle cx="260.9" cy="192.6" r="4" fill="#3465a4"><title>Mar Dress</title></circle></a><a href="/variants/s7/db30r5g30r22db30r5g4/"><circle cx="252.7" cy="247.3" r="4" fill="#3465a4"><title>GS Gaelic School (School)</title></circle></a><a href="/variants/s9/g10r1g1r1g1r4db12r1db2~x2/"><circle cx="272.1" cy="186.8" r="4" fill="#3465a4"><title>Unidentified Portrait</title></circle></a><a href="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x4/"><circle cx="291.7" cy="183.9" r="4" fill="#3465a4"><title>Nithsdale (3 colours) (District)</title></circle></a><circle cx="269.9" cy="203.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db9r3db1r3g9r3db1~x2/"><circle cx="228.4" cy="231.9" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s7/db3r25db17r5g22r9db3~x2/"><circle cx="260.4" cy="235.0" r="4" fill="#3465a4"><title>MacFadyan (MacGregor Hastie)</title></circle></a><a href="/variants/s6/db9r3db1g9r3db1~x2/"><circle cx="252.2" cy="238.3" r="4" fill="#3465a4"><title>Logan #5</title></circle></a><a href="/variants/s7/g25r4db24r21g25r3db4~x2/"><circle cx="256.1" cy="247.5" r="4" fill="#3465a4"><title>Glasgow #2</title></circle></a><a href="/variants/s7/r6db2r2db21g20r4g4~x2/"><circle cx="259.0" cy="216.8" r="4" fill="#3465a4"><title>Robertson of Struan</title></circle></a><a href="/variants/s7/db1r5g18r4db9r10w1~x4/"><circle cx="243.5" cy="187.6" r="4" fill="#3465a4"><title>MacKintosh Geddes</title></circle></a><a href="/variants/s6/db2r24g24r1db24r2~x2/"><circle cx="260.9" cy="193.0" r="4" fill="#3465a4"><title>Mar Dress</title></circle></a><a href="/variants/s7/db30r5g30r22db30r5g4/"><circle cx="252.9" cy="247.9" r="4" fill="#3465a4"><title>GS Gaelic School (School)</title></circle></a><a href="/variants/s9/g10r1g1r1g1r4db12r1db2~x2/"><circle cx="272.1" cy="187.2" r="4" fill="#3465a4"><title>Unidentified Portrait</title></circle></a><a href="/variants/s10/db10r2g2r6g16r1g2r1g3r6~x4/"><circle cx="291.8" cy="184.3" r="4" fill="#3465a4"><title>Nithsdale (3 colours) (District)</title></circle></a><circle cx="269.9" cy="204.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db8r3db1r3g14r3db1~x4/

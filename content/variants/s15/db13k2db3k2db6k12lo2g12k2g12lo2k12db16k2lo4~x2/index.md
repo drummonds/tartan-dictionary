@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mulholland (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKYGKGYKBKY](/stripes/bkbkbkygkgykbky/).
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3042
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3042](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3042)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/"><circle cx="139.2" cy="171.9" r="4" fill="#3465a4"><title>Lorne, Louise of</title></circle></a><a href="/variants/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="133.4" cy="172.9" r="4" fill="#3465a4"><title>Stephenson Hunting</title></circle></a><a href="/variants/s15/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14~x2/"><circle cx="116.3" cy="172.7" r="4" fill="#3465a4"><title>Lumsden Green</title></circle></a><a href="/variants/s13/g4k1g1k1g1k8db8r1db8k8g8k1g1~x8/"><circle cx="147.2" cy="174.6" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s9/k4g21k10r2k10db21k4db4k4~x2/"><circle cx="139.7" cy="162.5" r="4" fill="#3465a4"><title>Swallow Hotels</title></circle></a><a href="/variants/s13/g8k1g1k1g1k8db8r1db8k8g8k1g1~x2/"><circle cx="135.3" cy="177.3" r="4" fill="#3465a4"><title>Urquhart L</title></circle></a><a href="/variants/s13/g8k1g1k1g1k8db8dr1db8k8g8k1g1~x2/"><circle cx="136.9" cy="178.1" r="4" fill="#3465a4"><title>Urquhart (Logan)</title></circle></a><a href="/variants/s13/g25k8g8k8g8k46db46r8db46k46g46k8g8/"><circle cx="128.0" cy="194.5" r="4" fill="#3465a4"><title>Poulter SG 100 (Fashion)</title></circle></a><a href="/variants/s17/db18k4db4k4db4k19g7w2g8db8g8w2g7k19db19k4db4~x2/"><circle cx="153.4" cy="168.2" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/variants/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/"><circle cx="126.4" cy="192.2" r="4" fill="#3465a4"><title>Forbes</title></circle></a><circle cx="125.0" cy="176.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2~x2/"><circle cx="139.2" cy="172.3" r="4" fill="#3465a4"><title>Lorne, Louise of</title></circle></a><a href="/variants/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="133.4" cy="173.3" r="4" fill="#3465a4"><title>Stephenson Hunting</title></circle></a><a href="/variants/s15/k14db2g2db2k14r2db12r2db12r2g13db2k2db2g14~x2/"><circle cx="116.3" cy="173.1" r="4" fill="#3465a4"><title>Lumsden Green</title></circle></a><a href="/variants/s13/g4k1g1k1g1k8db8r1db8k8g8k1g1~x8/"><circle cx="147.2" cy="175.0" r="4" fill="#3465a4"><title>Urquhart</title></circle></a><a href="/variants/s9/k4g21k10r2k10db21k4db4k4~x2/"><circle cx="139.7" cy="162.8" r="4" fill="#3465a4"><title>Swallow Hotels</title></circle></a><a href="/variants/s13/g8k1g1k1g1k8db8r1db8k8g8k1g1~x2/"><circle cx="135.3" cy="177.7" r="4" fill="#3465a4"><title>Urquhart L</title></circle></a><a href="/variants/s13/g8k1g1k1g1k8db8dr1db8k8g8k1g1~x2/"><circle cx="136.9" cy="178.5" r="4" fill="#3465a4"><title>Urquhart (Logan)</title></circle></a><a href="/variants/s13/g25k8g8k8g8k46db46r8db46k46g46k8g8/"><circle cx="128.0" cy="195.0" r="4" fill="#3465a4"><title>Poulter SG 100 (Fashion)</title></circle></a><a href="/variants/s17/db18k4db4k4db4k19g7w2g8db8g8w2g7k19db19k4db4~x2/"><circle cx="153.4" cy="168.6" r="4" fill="#3465a4"><title>Arbuthnott</title></circle></a><a href="/variants/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/"><circle cx="126.4" cy="192.6" r="4" fill="#3465a4"><title>Forbes</title></circle></a><circle cx="125.0" cy="176.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/db13k2db3k2db6k12lo2g12k2g12lo2k12db16k2lo4~x2/

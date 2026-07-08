@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gates, Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg24g3dg4g12dg8g3dg8g30t3/)
 (the same proportion at any scale), whose colour order is pattern [BGGGGGGGG](/stripes/bgggggggg/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1317
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1317](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1317)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dg25dgi7dg25dgi7g5dg25dgi7dg25dgi7g5dr2w2dr2~x2~dgi1806142-g2408144/"><circle cx="479.6" cy="212.9" r="4" fill="#3465a4"><title>Pino (Personal)</title></circle></a><circle cx="534.8" cy="305.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dg25dgi7dg25dgi7g5dg25dgi7dg25dgi7g5dr2w2dr2~x2~dgi1806142-g2408144/"><circle cx="479.7" cy="213.1" r="4" fill="#3465a4"><title>Pino (Personal)</title></circle></a><circle cx="535.0" cy="306.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dg24g3dg4g12dg8g3dg8g30t3~x2~dg1806142-g2408144/

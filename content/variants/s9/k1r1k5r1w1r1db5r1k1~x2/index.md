@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Gipsy"
   url: "/tartans/gipsy/"
+- name: "Gipsy"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1r1k5r1w1r1db5r1k1/)
 (the same proportion at any scale), whose colour order is pattern [KRBRWRKRK](/stripes/krbrwrkrk/).
@@ -14,7 +16,7 @@ Part of the [Gipsy](/tartans/gipsy/) tartan — the named design grouping this s
 
 Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x2/"><circle cx="155.5" cy="175.3" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x4/"><circle cx="155.5" cy="175.3" r="4" fill="#3465a4"><title>Gipsy (Fashion)</title></circle></a><a href="/variants/s6/db5k1g1k1r3k1~x4/"><circle cx="156.4" cy="219.5" r="4" fill="#3465a4"><title>Clerk</title></circle></a><a href="/variants/s7/y3db22k3db3k11r20y3~x2/"><circle cx="162.8" cy="191.8" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.3" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s13/r8k2r2k2r2k16db16g3db16k16r16k2r2~x4/"><circle cx="144.3" cy="164.2" r="4" fill="#3465a4"><title>MacLachlan</title></circle></a><a href="/variants/s9/db28k3db6k3db6k20o28k3w6~x2/"><circle cx="155.7" cy="170.4" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s11/r3k15r2k2r6n16k3n2k3n9w2~x2/"><circle cx="172.7" cy="165.0" r="4" fill="#3465a4"><title>Lunch with an Old Bag (Fundraising Committee)</title></circle></a><a href="/variants/s9/k35r6db6r6k16db48r36k6r6/"><circle cx="171.6" cy="189.2" r="4" fill="#3465a4"><title>Rosie O'Grady (P&amp;D) (Corporate)</title></circle></a><a href="/variants/s13/r16k2r2k2r2k16db16g3db16k16r16k2r2~x2/"><circle cx="134.3" cy="165.2" r="4" fill="#3465a4"><title>MacLachlan</title></circle></a><circle cx="138.8" cy="185.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x2/"><circle cx="155.5" cy="175.8" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x4/"><circle cx="155.5" cy="175.8" r="4" fill="#3465a4"><title>Gipsy (Fashion)</title></circle></a><a href="/variants/s6/db5k1g1k1r3k1~x4/"><circle cx="156.5" cy="220.1" r="4" fill="#3465a4"><title>Clerk</title></circle></a><a href="/variants/s7/y3db22k3db3k11r20y3~x2/"><circle cx="162.9" cy="192.3" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.9" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s13/r8k2r2k2r2k16db16g3db16k16r16k2r2~x4/"><circle cx="144.3" cy="164.6" r="4" fill="#3465a4"><title>MacLachlan</title></circle></a><a href="/variants/s9/db28k3db6k3db6k20o28k3w6~x2/"><circle cx="155.7" cy="170.8" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s11/r3k15r2k2r6n16k3n2k3n9w2~x2/"><circle cx="172.7" cy="165.5" r="4" fill="#3465a4"><title>Lunch with an Old Bag (Fundraising Committee)</title></circle></a><a href="/variants/s9/k35r6db6r6k16db48r36k6r6/"><circle cx="171.7" cy="189.7" r="4" fill="#3465a4"><title>Rosie O'Grady (P&amp;D) (Corporate)</title></circle></a><a href="/variants/s13/r16k2r2k2r2k16db16g3db16k16r16k2r2~x2/"><circle cx="134.3" cy="165.6" r="4" fill="#3465a4"><title>MacLachlan</title></circle></a><circle cx="138.8" cy="186.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k1r1k5r1w1r1db5r1k1~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Gold Country"
   url: "/tartans/gold-country/"
+- name: "Gold Country (California)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db18ni18y28n13/)
 (the same proportion at any scale), whose colour order is pattern [BBGB](/stripes/bbgb/).
@@ -14,7 +16,7 @@ Part of the [Gold Country](/tartans/gold-country/) tartan — the named design g
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10489
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10489](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10489)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db18t18ly28n13~x2/"><circle cx="144.3" cy="366.0" r="4" fill="#3465a4"><title>Gold Country (District)</title></circle></a><a href="/variants/s4/n22y10w3db8~x2/"><circle cx="325.2" cy="291.3" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s6/dg2y1b1r1dp1db1~x36/"><circle cx="53.5" cy="325.1" r="4" fill="#3465a4"><title>Rainbow</title></circle></a><a href="/variants/s6/y1dr1dp2r1db1b1~x10~db1108266-b1511266/"><circle cx="54.1" cy="320.4" r="4" fill="#3465a4"><title>Lytley alias Parsons Formal (Personal)</title></circle></a><a href="/variants/s6/dbi1db1r1dp2dr1ly1~x10~dbi1406275-db1404245/"><circle cx="36.7" cy="314.8" r="4" fill="#3465a4"><title>Lytley Formal (Personal)</title></circle></a><a href="/variants/s4/r10db5lb5n4~x8/"><circle cx="162.9" cy="330.7" r="4" fill="#3465a4"><title>Haggis Hostels</title></circle></a><a href="/variants/s5/db2dp3g3n6y2~x2/"><circle cx="208.1" cy="338.7" r="4" fill="#3465a4"><title>Dunoon Burgh Hall Trust</title></circle></a><a href="/variants/s4/r2db2g3y2~x5/"><circle cx="91.1" cy="366.0" r="4" fill="#3465a4"><title>Sturch (Corporate)</title></circle></a><a href="/variants/s4/t6db6g6r1~x2~t2503227-db1406275-r2109032/"><circle cx="197.9" cy="314.5" r="4" fill="#3465a4"><title>Norwich No.040</title></circle></a><a href="/variants/s4/lb5db12g8lb4/"><circle cx="198.3" cy="350.5" r="4" fill="#3465a4"><title>Sheffield High (School)</title></circle></a><circle cx="191.4" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db18t18ly28n13~x2/"><circle cx="144.7" cy="366.0" r="4" fill="#3465a4"><title>Gold Country (District)</title></circle></a><a href="/variants/s4/n22y10w3db8~x2/"><circle cx="325.4" cy="291.9" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s6/dg2y1b1r1dp1db1~x36/"><circle cx="53.7" cy="325.8" r="4" fill="#3465a4"><title>Rainbow</title></circle></a><a href="/variants/s6/y1dr1dp2r1db1b1~x10~db1108266-b1511266/"><circle cx="54.4" cy="321.1" r="4" fill="#3465a4"><title>Lytley alias Parsons Formal (Personal)</title></circle></a><a href="/variants/s6/dbi1db1r1dp2dr1ly1~x10~dbi1406275-db1404245/"><circle cx="36.9" cy="315.6" r="4" fill="#3465a4"><title>Lytley Formal (Personal)</title></circle></a><a href="/variants/s4/r10db5lb5n4~x8/"><circle cx="163.2" cy="331.6" r="4" fill="#3465a4"><title>Haggis Hostels</title></circle></a><a href="/variants/s5/db2dp3g3n6y2~x2/"><circle cx="208.4" cy="339.3" r="4" fill="#3465a4"><title>Dunoon Burgh Hall Trust</title></circle></a><a href="/variants/s4/r2db2g3y2~x5/"><circle cx="91.5" cy="366.0" r="4" fill="#3465a4"><title>Sturch (Corporate)</title></circle></a><a href="/variants/s4/t6db6g6r1~x2~t2503227-db1406275-r2109032/"><circle cx="198.2" cy="315.1" r="4" fill="#3465a4"><title>Norwich No.040</title></circle></a><a href="/variants/s4/lb5db12g8lb4/"><circle cx="198.6" cy="351.5" r="4" fill="#3465a4"><title>Sheffield High (School)</title></circle></a><circle cx="191.8" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/db18ni18y28n13~x2~db1108266-ni2203265/

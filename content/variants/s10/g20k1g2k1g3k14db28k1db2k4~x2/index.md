@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/kerr/"
 - name: "Kerr Hunting"
   url: "/tartans/kerr-hunting/"
+- name: "Kerr Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g20k1g2k1g3k14db28k1db2k4/)
 (the same proportion at any scale), whose colour order is pattern [GKGKGKBKBK](/stripes/gkgkgkbkbk/).
@@ -16,7 +18,7 @@ Part of the [Kerr Hunting](/tartans/kerr-hunting/) tartan — the named design g
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb)
 
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -80,8 +82,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g14k2g2k2g3k10db16k1db2k2~x2/"><circle cx="198.1" cy="163.1" r="4" fill="#3465a4"><title>Kerr, hunting</title></circle></a><a href="/variants/s8/db10k1db3k1db20k25g40k3~x2/"><circle cx="244.8" cy="135.2" r="4" fill="#3465a4"><title>Black Watch RHR</title></circle></a><a href="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/"><circle cx="207.8" cy="138.3" r="4" fill="#3465a4"><title>Pitceathly Chamberlain (Personal)</title></circle></a><a href="/variants/s10/db2k3g5k7db20k2db5k2g20w1~x2/"><circle cx="210.2" cy="139.7" r="4" fill="#3465a4"><title>Pitceathly Chamberlain Tartan</title></circle></a><a href="/variants/s14/g19k1g4k1g3k10db20y1k7y1db20k10y3g1~x2/"><circle cx="192.0" cy="128.3" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/variants/s12/k4db2g24r1g2r1g2k20db24k1db2k4~x2/"><circle cx="185.8" cy="107.7" r="4" fill="#3465a4"><title>Jedforest</title></circle></a><a href="/variants/s10/g20k1g2k1g3k14dr28k1dr2k4~x2/"><circle cx="252.7" cy="126.5" r="4" fill="#3465a4"><title>Kerr (Clan)</title></circle></a><a href="/variants/s8/r3k2db25k28g25k2r1db2~x2/"><circle cx="199.8" cy="129.1" r="4" fill="#3465a4"><title>Common Kilt</title></circle></a><a href="/variants/s8/k3db3k3db22g26k2db1y3~x2/"><circle cx="252.5" cy="133.3" r="4" fill="#3465a4"><title>Johnstone/Johnston</title></circle></a><a href="/variants/s9/k2db3g16lb1k13lb1db18k2db2~x2/"><circle cx="202.1" cy="147.3" r="4" fill="#3465a4"><title>Hebridean Old.. District Tartan</title></circle></a><circle cx="244.9" cy="129.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g14k2g2k2g3k10db16k1db2k2~x2/"><circle cx="198.1" cy="163.5" r="4" fill="#3465a4"><title>Kerr, hunting</title></circle></a><a href="/variants/s8/db10k1db3k1db20k25g40k3~x2/"><circle cx="244.7" cy="135.4" r="4" fill="#3465a4"><title>Black Watch RHR</title></circle></a><a href="/variants/s10/db2k3g5k9db21k2db5k2g20w1~x2/"><circle cx="207.7" cy="138.5" r="4" fill="#3465a4"><title>Pitceathly Chamberlain (Personal)</title></circle></a><a href="/variants/s10/db2k3g5k7db20k2db5k2g20w1~x2/"><circle cx="210.1" cy="140.0" r="4" fill="#3465a4"><title>Pitceathly Chamberlain Tartan</title></circle></a><a href="/variants/s14/g19k1g4k1g3k10db20y1k7y1db20k10y3g1~x2/"><circle cx="191.9" cy="128.6" r="4" fill="#3465a4"><title>Hope-Vere/Weir #2</title></circle></a><a href="/variants/s12/k4db2g24r1g2r1g2k20db24k1db2k4~x2/"><circle cx="185.7" cy="107.9" r="4" fill="#3465a4"><title>Jedforest</title></circle></a><a href="/variants/s10/g20k1g2k1g3k14dr28k1dr2k4~x2/"><circle cx="252.6" cy="126.8" r="4" fill="#3465a4"><title>Kerr (Clan)</title></circle></a><a href="/variants/s8/r3k2db25k28g25k2r1db2~x2/"><circle cx="199.7" cy="129.4" r="4" fill="#3465a4"><title>Common Kilt</title></circle></a><a href="/variants/s8/k3db3k3db22g26k2db1y3~x2/"><circle cx="252.4" cy="133.6" r="4" fill="#3465a4"><title>Johnstone/Johnston</title></circle></a><a href="/variants/s9/k2db3g16lb1k13lb1db18k2db2~x2/"><circle cx="202.1" cy="147.6" r="4" fill="#3465a4"><title>Hebridean Old.. District Tartan</title></circle></a><circle cx="244.9" cy="129.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g20k1g2k1g3k14db28k1db2k4~x2/

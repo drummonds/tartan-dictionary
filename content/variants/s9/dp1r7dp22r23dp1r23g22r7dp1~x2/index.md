@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lovat or Fraser"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp1r7dp22r23dp1r23g22r7dp1/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBRGRB](/stripes/brbrbrgrb/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2235
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2235](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2235)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r5g20r25db1r25db20r5db1~x4/"><circle cx="366.9" cy="178.0" r="4" fill="#3465a4"><title>Franklin Museum Unidentified 2</title></circle></a><a href="/variants/s12/db80r56dg3r56dg88r64db3r4dg3r4db3r64/"><circle cx="373.4" cy="144.1" r="4" fill="#3465a4"><title>Unidentified Cant #14</title></circle></a><a href="/variants/s6/r70db20r10g40r10db3/"><circle cx="385.5" cy="183.5" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r68db18r9g34r9db3~x2/"><circle cx="400.6" cy="180.7" r="4" fill="#3465a4"><title>MacKintosh #2</title></circle></a><a href="/variants/s6/r60dp20r8g45r8dp2/"><circle cx="373.5" cy="179.5" r="4" fill="#3465a4"><title>Caledonian - 1819 (Fashion?)</title></circle></a><a href="/variants/s6/r60dp20r8g45r8dp2~x2/"><circle cx="373.5" cy="179.5" r="4" fill="#3465a4"><title>Caledonian</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1/"><circle cx="409.6" cy="179.3" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1~x2/"><circle cx="409.6" cy="179.3" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="399.0" cy="148.5" r="4" fill="#3465a4"><title>MacDonald #7</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1/"><circle cx="407.1" cy="178.3" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><circle cx="366.9" cy="177.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r5g20r25db1r25db20r5db1~x4/"><circle cx="367.0" cy="178.4" r="4" fill="#3465a4"><title>Franklin Museum Unidentified 2</title></circle></a><a href="/variants/s12/db80r56dg3r56dg88r64db3r4dg3r4db3r64/"><circle cx="373.4" cy="144.4" r="4" fill="#3465a4"><title>Unidentified Cant #14</title></circle></a><a href="/variants/s6/r70db20r10g40r10db3/"><circle cx="385.6" cy="184.0" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r68db18r9g34r9db3~x2/"><circle cx="400.7" cy="181.2" r="4" fill="#3465a4"><title>MacKintosh #2</title></circle></a><a href="/variants/s6/r60dp20r8g45r8dp2/"><circle cx="373.6" cy="179.9" r="4" fill="#3465a4"><title>Caledonian - 1819 (Fashion?)</title></circle></a><a href="/variants/s6/r60dp20r8g45r8dp2~x2/"><circle cx="373.6" cy="179.9" r="4" fill="#3465a4"><title>Caledonian</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1/"><circle cx="409.7" cy="179.8" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s6/r24db6r3g12r4db1~x2/"><circle cx="409.7" cy="179.8" r="4" fill="#3465a4"><title>MacKintosh</title></circle></a><a href="/variants/s9/g2r2db1r24db6r3g12r4db1~x2/"><circle cx="399.0" cy="148.9" r="4" fill="#3465a4"><title>MacDonald #7</title></circle></a><a href="/variants/s6/r22db5r2g11r3db1/"><circle cx="407.2" cy="178.8" r="4" fill="#3465a4"><title>MacKintosh D</title></circle></a><circle cx="367.0" cy="178.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/dp1r7dp22r23dp1r23g22r7dp1~x2/

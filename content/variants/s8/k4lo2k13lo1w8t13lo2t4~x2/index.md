@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Bannockbane"
   url: "/tartans/bannockbane-2/"
+- name: "Bannockbane Blue #1"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4lo2k13lo1w8t13lo2t4/)
 (the same proportion at any scale), whose colour order is pattern [BYBWYKYK](/stripes/bybwykyk/).
@@ -14,7 +16,7 @@ Part of the [Bannockbane](/tartans/bannockbane-2/) tartan — the named design g
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=195
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=195](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=195)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k4y2k13y1w8lb13y2lb4~x2/"><circle cx="132.0" cy="171.0" r="4" fill="#3465a4"><title>Bannockbane, Blue</title></circle></a><a href="/variants/s8/k4y2k13y1w8n13y2n4~x2/"><circle cx="138.5" cy="172.1" r="4" fill="#3465a4"><title>Bannockbane Grey #1</title></circle></a><a href="/variants/s6/w2db12lo1k12lo12k1~x2/"><circle cx="141.0" cy="186.7" r="4" fill="#3465a4"><title>Dutch District Tartan</title></circle></a><a href="/variants/s7/ly6k6y30k8lb18k6ly3~x2~ly3307090-y2602166/"><circle cx="142.1" cy="187.1" r="4" fill="#3465a4"><title>Cape Breton (yellow stripes)</title></circle></a><a href="/variants/s8/k3g2k10w11g1dy10g2dy3~x6~w3600000/"><circle cx="104.9" cy="181.8" r="4" fill="#3465a4"><title>Dalveen (1981)</title></circle></a><a href="/variants/s7/w8k2n12k11w1dr6n4~x2/"><circle cx="125.3" cy="196.5" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/db2g12k13w1db13w2~x2/"><circle cx="147.5" cy="192.1" r="4" fill="#3465a4"><title>Herd Family Tartan</title></circle></a><a href="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/"><circle cx="100.9" cy="180.8" r="4" fill="#3465a4"><title>MacRobart Dress (Personal)</title></circle></a><a href="/variants/s6/k4g23k23g2w23t4~x2/"><circle cx="123.4" cy="194.0" r="4" fill="#3465a4"><title>MacKay Dress</title></circle></a><a href="/variants/s7/y9k32g6w20y3w9k5~x2/"><circle cx="163.3" cy="178.9" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><circle cx="138.0" cy="177.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k4y2k13y1w8lb13y2lb4~x2/"><circle cx="132.0" cy="171.5" r="4" fill="#3465a4"><title>Bannockbane, Blue</title></circle></a><a href="/variants/s8/k4y2k13y1w8n13y2n4~x2/"><circle cx="138.6" cy="172.6" r="4" fill="#3465a4"><title>Bannockbane Grey #1</title></circle></a><a href="/variants/s6/w2db12lo1k12lo12k1~x2/"><circle cx="141.0" cy="187.2" r="4" fill="#3465a4"><title>Dutch District Tartan</title></circle></a><a href="/variants/s7/ly6k6y30k8lb18k6ly3~x2~ly3307090-y2602166/"><circle cx="142.1" cy="187.7" r="4" fill="#3465a4"><title>Cape Breton (yellow stripes)</title></circle></a><a href="/variants/s8/k3g2k10w11g1dy10g2dy3~x6~w3600000/"><circle cx="104.9" cy="182.3" r="4" fill="#3465a4"><title>Dalveen (1981)</title></circle></a><a href="/variants/s7/w8k2n12k11w1dr6n4~x2/"><circle cx="125.3" cy="197.1" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s6/db2g12k13w1db13w2~x2/"><circle cx="147.5" cy="192.6" r="4" fill="#3465a4"><title>Herd Family Tartan</title></circle></a><a href="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/"><circle cx="100.9" cy="181.3" r="4" fill="#3465a4"><title>MacRobart Dress (Personal)</title></circle></a><a href="/variants/s6/k4g23k23g2w23t4~x2/"><circle cx="123.5" cy="194.6" r="4" fill="#3465a4"><title>MacKay Dress</title></circle></a><a href="/variants/s7/y9k32g6w20y3w9k5~x2/"><circle cx="163.3" cy="179.4" r="4" fill="#3465a4"><title>Black and White Golf</title></circle></a><circle cx="138.1" cy="177.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k4lo2k13lo1w8t13lo2t4~x2/

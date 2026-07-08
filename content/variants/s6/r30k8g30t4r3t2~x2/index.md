@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Plummer"
   url: "/tartans/plummer/"
+- name: "Plummer Family Personal Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r30k8g30t4r3t2/)
 (the same proportion at any scale), whose colour order is pattern [BRBGKR](/stripes/brbgkr/).
@@ -14,7 +16,7 @@ Part of the [Plummer](/tartans/plummer/) tartan — the named design grouping th
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2778
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2778](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2778)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r100k15g48db5r7db16~x2/"><circle cx="305.3" cy="143.3" r="4" fill="#3465a4"><title>Plummer (Personal)</title></circle></a><a href="/variants/s7/r12t18k1r4k1g6k2~x2/"><circle cx="224.0" cy="159.8" r="4" fill="#3465a4"><title>Confederate</title></circle></a><a href="/variants/s5/g24db2r25y2k3~x2/"><circle cx="249.0" cy="173.6" r="4" fill="#3465a4"><title>Bronte</title></circle></a><a href="/variants/s5/g24t2r25y2k3~x2/"><circle cx="253.5" cy="175.6" r="4" fill="#3465a4"><title>Bronte (Name)</title></circle></a><a href="/variants/s7/g12lb6g6r15k1r1k2~x4/"><circle cx="210.2" cy="173.7" r="4" fill="#3465a4"><title>McCook/Cook (Name)</title></circle></a><a href="/variants/s7/g12lb6g6r15k1r1k2~x2/"><circle cx="210.2" cy="173.7" r="4" fill="#3465a4"><title>(2) Cook</title></circle></a><a href="/variants/s6/r5w2r28k12g16r3~x2/"><circle cx="257.2" cy="169.1" r="4" fill="#3465a4"><title>MacKintosh #4</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.0" cy="183.1" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="206.8" cy="187.1" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s6/k6r2g17r16k1lb2~x2/"><circle cx="210.5" cy="163.1" r="4" fill="#3465a4"><title>Unidentified #15</title></circle></a><circle cx="232.1" cy="169.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r100k15g48db5r7db16~x2/"><circle cx="305.3" cy="143.7" r="4" fill="#3465a4"><title>Plummer (Personal)</title></circle></a><a href="/variants/s7/r12t18k1r4k1g6k2~x2/"><circle cx="224.0" cy="160.2" r="4" fill="#3465a4"><title>Confederate</title></circle></a><a href="/variants/s5/g24db2r25y2k3~x2/"><circle cx="249.1" cy="174.1" r="4" fill="#3465a4"><title>Bronte</title></circle></a><a href="/variants/s5/g24t2r25y2k3~x2/"><circle cx="253.6" cy="176.0" r="4" fill="#3465a4"><title>Bronte (Name)</title></circle></a><a href="/variants/s7/g12lb6g6r15k1r1k2~x4/"><circle cx="210.3" cy="174.2" r="4" fill="#3465a4"><title>McCook/Cook (Name)</title></circle></a><a href="/variants/s7/g12lb6g6r15k1r1k2~x2/"><circle cx="210.3" cy="174.2" r="4" fill="#3465a4"><title>(2) Cook</title></circle></a><a href="/variants/s6/r5w2r28k12g16r3~x2/"><circle cx="257.2" cy="169.6" r="4" fill="#3465a4"><title>MacKintosh #4</title></circle></a><a href="/variants/s6/k2r20k8g18r3w2~x2/"><circle cx="190.1" cy="183.7" r="4" fill="#3465a4"><title>Celtic Combat</title></circle></a><a href="/variants/s5/k2db1g10r10ly1~x6/"><circle cx="206.8" cy="187.6" r="4" fill="#3465a4"><title>Turnbull Dress</title></circle></a><a href="/variants/s6/k6r2g17r16k1lb2~x2/"><circle cx="210.5" cy="163.6" r="4" fill="#3465a4"><title>Unidentified #15</title></circle></a><circle cx="232.1" cy="169.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r30k8g30t4r3t2~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Teylu Coleman (Cornwall)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y3dp17do9k25w3/)
 (the same proportion at any scale), whose colour order is pattern [GBBKW](/stripes/gbbkw/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10792
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10792](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10792)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dp8y6k2n1w1~x8/"><circle cx="192.2" cy="198.6" r="4" fill="#3465a4"><title>Ballater Victoria Week</title></circle></a><a href="/variants/s4/db1n6k6r1~x10/"><circle cx="196.7" cy="235.7" r="4" fill="#3465a4"><title>Mayer, Chris (Personal)</title></circle></a><a href="/variants/s5/k3r11db26dy11lo3~x2/"><circle cx="212.5" cy="199.2" r="4" fill="#3465a4"><title>Novotel, The</title></circle></a><a href="/variants/s5/dp27db4k27g27lo4~x2/"><circle cx="98.6" cy="224.4" r="4" fill="#3465a4"><title>Selkirk (Personal)</title></circle></a><a href="/variants/s5/w3k25n9db17ly3~x2/"><circle cx="160.3" cy="200.4" r="4" fill="#3465a4"><title>Teylu Coleman (Name)</title></circle></a><a href="/variants/s6/w6k29n29dp7k3r3~x2/"><circle cx="163.4" cy="168.6" r="4" fill="#3465a4"><title>Jewell of Kernow (Personal)</title></circle></a><a href="/variants/s5/dp20dt5k19g19dy2~x2/"><circle cx="118.3" cy="217.3" r="4" fill="#3465a4"><title>Martin Hunting</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="151.9" cy="216.0" r="4" fill="#3465a4"><title>Lanarkshire</title></circle></a><a href="/variants/s6/w5k26dy26lb7k3r3~x2/"><circle cx="154.3" cy="173.9" r="4" fill="#3465a4"><title>Cornish National District Tartan</title></circle></a><a href="/variants/s5/k4lb3g12dp13y2~x2/"><circle cx="137.4" cy="220.7" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><circle cx="176.9" cy="203.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dp8y6k2n1w1~x8/"><circle cx="192.2" cy="199.1" r="4" fill="#3465a4"><title>Ballater Victoria Week</title></circle></a><a href="/variants/s4/db1n6k6r1~x10/"><circle cx="196.8" cy="236.3" r="4" fill="#3465a4"><title>Mayer, Chris (Personal)</title></circle></a><a href="/variants/s5/k3r11db26dy11lo3~x2/"><circle cx="212.5" cy="199.7" r="4" fill="#3465a4"><title>Novotel, The</title></circle></a><a href="/variants/s5/dp27db4k27g27lo4~x2/"><circle cx="98.7" cy="224.9" r="4" fill="#3465a4"><title>Selkirk (Personal)</title></circle></a><a href="/variants/s5/w3k25n9db17ly3~x2/"><circle cx="160.3" cy="200.9" r="4" fill="#3465a4"><title>Teylu Coleman (Name)</title></circle></a><a href="/variants/s6/w6k29n29dp7k3r3~x2/"><circle cx="163.3" cy="169.1" r="4" fill="#3465a4"><title>Jewell of Kernow (Personal)</title></circle></a><a href="/variants/s5/dp20dt5k19g19dy2~x2/"><circle cx="118.4" cy="217.8" r="4" fill="#3465a4"><title>Martin Hunting</title></circle></a><a href="/variants/s6/dg31y4dg6k19db18lb9~x2/"><circle cx="152.0" cy="216.5" r="4" fill="#3465a4"><title>Lanarkshire</title></circle></a><a href="/variants/s6/w5k26dy26lb7k3r3~x2/"><circle cx="154.3" cy="174.4" r="4" fill="#3465a4"><title>Cornish National District Tartan</title></circle></a><a href="/variants/s5/k4lb3g12dp13y2~x2/"><circle cx="137.5" cy="221.3" r="4" fill="#3465a4"><title>Wilson's, No 176</title></circle></a><circle cx="177.0" cy="204.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/y3dp17do9k25w3~x2~dp1502305-do1301000/

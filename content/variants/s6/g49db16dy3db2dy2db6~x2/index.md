@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal and Ancient, The"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g49db16dy3db2dy2db6/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBG](/stripes/bgbgbg/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3584
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3584](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3584)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g45db14k3db2dy2db5~x2/"><circle cx="388.1" cy="148.3" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel, Golf Course and Spa</title></circle></a><a href="/variants/s6/g49db16o3db2o2db6~x2/"><circle cx="442.6" cy="177.7" r="4" fill="#3465a4"><title>Royal and Ancient, The</title></circle></a><a href="/variants/s8/g37w2g6db23y6db2y3db2~x2/"><circle cx="358.4" cy="181.6" r="4" fill="#3465a4"><title>MacAuliffe (Name)</title></circle></a><a href="/variants/s5/g44db9r2db9g2~x2/"><circle cx="481.1" cy="193.1" r="4" fill="#3465a4"><title>Tyrconnell (Personal)</title></circle></a><a href="/variants/s6/db2g15do3db7g7db2~x4/"><circle cx="384.7" cy="273.6" r="4" fill="#3465a4"><title>Green Highland, The (Fashion)</title></circle></a><a href="/variants/s8/g99db20w8db30y8db10y8g46/"><circle cx="388.7" cy="203.8" r="4" fill="#3465a4"><title>Duke of York Hunting</title></circle></a><a href="/variants/s8/g40db2w2db2y2db23g32r2~x2/"><circle cx="412.3" cy="151.8" r="4" fill="#3465a4"><title>Marshall, Fields</title></circle></a><a href="/variants/s6/db4w1db12g12db1g4~x2/"><circle cx="348.5" cy="244.7" r="4" fill="#3465a4"><title>Unidentified Tweed</title></circle></a><a href="/variants/s8/db2g2ly1g30db20r2db2r2~x2/"><circle cx="360.9" cy="136.8" r="4" fill="#3465a4"><title>Gretna Green</title></circle></a><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/"><circle cx="335.5" cy="163.9" r="4" fill="#3465a4"><title>MacAuliffe/McAucliffe</title></circle></a><circle cx="463.0" cy="191.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g45db14k3db2dy2db5~x2/"><circle cx="388.0" cy="148.6" r="4" fill="#3465a4"><title>St Andrews Old Course Hotel, Golf Course and Spa</title></circle></a><a href="/variants/s6/g49db16o3db2o2db6~x2/"><circle cx="442.7" cy="178.0" r="4" fill="#3465a4"><title>Royal and Ancient, The</title></circle></a><a href="/variants/s8/g37w2g6db23y6db2y3db2~x2/"><circle cx="358.5" cy="181.9" r="4" fill="#3465a4"><title>MacAuliffe (Name)</title></circle></a><a href="/variants/s5/g44db9r2db9g2~x2/"><circle cx="481.2" cy="193.5" r="4" fill="#3465a4"><title>Tyrconnell (Personal)</title></circle></a><a href="/variants/s6/db2g15do3db7g7db2~x4/"><circle cx="384.8" cy="274.2" r="4" fill="#3465a4"><title>Green Highland, The (Fashion)</title></circle></a><a href="/variants/s8/g99db20w8db30y8db10y8g46/"><circle cx="388.8" cy="204.2" r="4" fill="#3465a4"><title>Duke of York Hunting</title></circle></a><a href="/variants/s8/g40db2w2db2y2db23g32r2~x2/"><circle cx="412.3" cy="152.0" r="4" fill="#3465a4"><title>Marshall, Fields</title></circle></a><a href="/variants/s6/db4w1db12g12db1g4~x2/"><circle cx="348.6" cy="245.2" r="4" fill="#3465a4"><title>Unidentified Tweed</title></circle></a><a href="/variants/s8/db2g2ly1g30db20r2db2r2~x2/"><circle cx="360.8" cy="137.0" r="4" fill="#3465a4"><title>Gretna Green</title></circle></a><a href="/variants/s8/g38w2g6db24o6db2o3db2~x2/"><circle cx="335.5" cy="164.2" r="4" fill="#3465a4"><title>MacAuliffe/McAucliffe</title></circle></a><circle cx="463.1" cy="191.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g49db16dy3db2dy2db6~x2/

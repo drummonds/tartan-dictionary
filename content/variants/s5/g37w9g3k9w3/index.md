@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Loch Rannoch"
   url: "/tartans/loch-rannoch/"
+- name: "Loch Rannoch"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g37w9g3k9w3/)
 (the same proportion at any scale), whose colour order is pattern [GWGKW](/stripes/gwgkw/).
@@ -14,7 +16,7 @@ Part of the [Loch Rannoch](/tartans/loch-rannoch/) tartan — the named design g
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g19w5g2k5w2~x2/"><circle cx="310.7" cy="206.7" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><a href="/variants/s8/g60w3k12n5g9n6k4w10/"><circle cx="325.8" cy="130.0" r="4" fill="#3465a4"><title>New York Jets</title></circle></a><a href="/variants/s5/g25k8n10r1n3~x4/"><circle cx="296.7" cy="173.6" r="4" fill="#3465a4"><title>Herbage</title></circle></a><a href="/variants/s6/w12k3g50w3k13ly6~x2/"><circle cx="270.7" cy="153.8" r="4" fill="#3465a4"><title>Limerick County Crest (Fashion)</title></circle></a><a href="/variants/s6/w12k3g50w3k13dy6~x2/"><circle cx="271.6" cy="153.5" r="4" fill="#3465a4"><title>Limerick County, Crest Range</title></circle></a><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="371.0" cy="138.3" r="4" fill="#3465a4"><title>Tahrir (Liberation)</title></circle></a><a href="/variants/s7/w1lg11k6lg3w1lg1w1~x4/"><circle cx="303.7" cy="184.0" r="4" fill="#3465a4"><title>Angle, Blue (Fashion)</title></circle></a><a href="/variants/s7/g30k2w3k1w4lb6w2~x4/"><circle cx="347.8" cy="118.0" r="4" fill="#3465a4"><title>Madras 2 (Fashion)</title></circle></a><a href="/variants/s5/t13w3t1k3w1~x6/"><circle cx="357.2" cy="188.3" r="4" fill="#3465a4"><title>Loch Lomond #2</title></circle></a><a href="/variants/s5/g9lb1g2k4g2~x4/"><circle cx="369.1" cy="222.9" r="4" fill="#3465a4"><title>Peterhead (Personal)</title></circle></a><circle cx="336.4" cy="191.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g19w5g2k5w2~x2/"><circle cx="310.8" cy="207.4" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><a href="/variants/s8/g60w3k12n5g9n6k4w10/"><circle cx="325.7" cy="130.4" r="4" fill="#3465a4"><title>New York Jets</title></circle></a><a href="/variants/s5/g25k8n10r1n3~x4/"><circle cx="296.7" cy="174.0" r="4" fill="#3465a4"><title>Herbage</title></circle></a><a href="/variants/s6/w12k3g50w3k13ly6~x2/"><circle cx="270.7" cy="154.3" r="4" fill="#3465a4"><title>Limerick County Crest (Fashion)</title></circle></a><a href="/variants/s6/w12k3g50w3k13dy6~x2/"><circle cx="271.6" cy="154.0" r="4" fill="#3465a4"><title>Limerick County, Crest Range</title></circle></a><a href="/variants/s6/k5w4r15g70k4w5~x2/"><circle cx="371.0" cy="138.7" r="4" fill="#3465a4"><title>Tahrir (Liberation)</title></circle></a><a href="/variants/s7/w1lg11k6lg3w1lg1w1~x4/"><circle cx="303.7" cy="184.6" r="4" fill="#3465a4"><title>Angle, Blue (Fashion)</title></circle></a><a href="/variants/s7/g30k2w3k1w4lb6w2~x4/"><circle cx="347.8" cy="118.3" r="4" fill="#3465a4"><title>Madras 2 (Fashion)</title></circle></a><a href="/variants/s5/t13w3t1k3w1~x6/"><circle cx="357.3" cy="188.9" r="4" fill="#3465a4"><title>Loch Lomond #2</title></circle></a><a href="/variants/s5/g9lb1g2k4g2~x4/"><circle cx="369.2" cy="223.6" r="4" fill="#3465a4"><title>Peterhead (Personal)</title></circle></a><circle cx="336.5" cy="192.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/g37w9g3k9w3/

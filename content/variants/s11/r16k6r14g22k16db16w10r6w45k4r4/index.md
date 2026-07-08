@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacDuff Dress #4"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r16k6r14g22k16db16w10r6w45k4r4/)
 (the same proportion at any scale), whose colour order is pattern [RKRGKBWRWKR](/stripes/rkrgkbwrwkr/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2422
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2422](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2422)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r6g3w22r5w5k9g16r4k1r4~x2/"><circle cx="141.9" cy="138.4" r="4" fill="#3465a4"><title>MacDuff Dress #3</title></circle></a><a href="/variants/s10/r5w28r5lb3r5k21r5lb28w3y5~x2/"><circle cx="73.4" cy="149.8" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress (Dist)</title></circle></a><a href="/variants/s15/db2k1db6k1r5y3r5k2w3k2w9k1w2k1y2~x2/"><circle cx="48.4" cy="147.2" r="4" fill="#3465a4"><title>Unidentified 32</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="106.3" cy="162.3" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s15/db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4~x2/"><circle cx="99.1" cy="125.9" r="4" fill="#3465a4"><title>MacFarlane Dress Clan Tartan</title></circle></a><a href="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/"><circle cx="95.9" cy="139.4" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/"><circle cx="133.5" cy="140.4" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/variants/s10/y6k2r15g5r8k12w24lb2w4lb2~x2/"><circle cx="80.3" cy="128.8" r="4" fill="#3465a4"><title>Gillies, dress Red</title></circle></a><a href="/variants/s14/w8db3w10ly8y2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="46.2" cy="138.0" r="4" fill="#3465a4"><title>MacInnes Ancient Htg (Clan?)</title></circle></a><a href="/variants/s14/w8db3w10o8y2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="48.7" cy="136.9" r="4" fill="#3465a4"><title>MacInnes, Ancient hunting</title></circle></a><circle cx="79.4" cy="148.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r6g3w22r5w5k9g16r4k1r4~x2/"><circle cx="141.9" cy="138.9" r="4" fill="#3465a4"><title>MacDuff Dress #3</title></circle></a><a href="/variants/s10/r5w28r5lb3r5k21r5lb28w3y5~x2/"><circle cx="73.4" cy="150.3" r="4" fill="#3465a4"><title>Stirling &amp; Bannockburn Dress (Dist)</title></circle></a><a href="/variants/s15/db2k1db6k1r5y3r5k2w3k2w9k1w2k1y2~x2/"><circle cx="48.4" cy="147.7" r="4" fill="#3465a4"><title>Unidentified 32</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="106.3" cy="162.9" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/variants/s15/db4w2r6k1db12g4w2r6db1r6w2g8r2w16r4~x2/"><circle cx="99.1" cy="126.3" r="4" fill="#3465a4"><title>MacFarlane Dress Clan Tartan</title></circle></a><a href="/variants/s10/r5k1r5g9k7w3db3w15db1r2~x2/"><circle cx="95.8" cy="139.8" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/variants/s10/ly6r6ly6r6ly6k1db18w2db1w4~x2/"><circle cx="133.5" cy="140.8" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><a href="/variants/s10/y6k2r15g5r8k12w24lb2w4lb2~x2/"><circle cx="80.2" cy="129.3" r="4" fill="#3465a4"><title>Gillies, dress Red</title></circle></a><a href="/variants/s14/w8db3w10ly8y2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="46.2" cy="138.4" r="4" fill="#3465a4"><title>MacInnes Ancient Htg (Clan?)</title></circle></a><a href="/variants/s14/w8db3w10o8y2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="48.7" cy="137.4" r="4" fill="#3465a4"><title>MacInnes, Ancient hunting</title></circle></a><circle cx="79.4" cy="148.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r16k6r14g22k16db16w10r6w45k4r4/

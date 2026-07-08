@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Burns Check"
   url: "/tartans/burns-check/"
+- name: "Burns Check (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w6k6w6k6w6k6w4dy3g2dy2/)
 (the same proportion at any scale), whose colour order is pattern [GGGWKWKWKW](/stripes/gggwkwkwkw/).
@@ -14,7 +16,7 @@ Part of the [Burns Check](/tartans/burns-check/) tartan — the named design gro
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1736
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1736](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1736)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w2k2w2k2w2k2w1dy1g1dy1~x2/"><circle cx="68.7" cy="294.6" r="4" fill="#3465a4"><title>Burns Check Trade Tartan</title></circle></a><a href="/variants/s10/w2k2w2k2w2k2w1dy1g1dy1~x8~w4000000-g2203152/"><circle cx="68.7" cy="294.2" r="4" fill="#3465a4"><title>Burns Check</title></circle></a><a href="/variants/s10/w2k2w2k2w2k2w1o1g1o1~x4/"><circle cx="69.4" cy="294.2" r="4" fill="#3465a4"><title>Robert, Burns check</title></circle></a><a href="/variants/s9/k4w4k4w4k4w4db3w2r2/"><circle cx="62.3" cy="301.1" r="4" fill="#3465a4"><title>Scott, Sir Walter #3</title></circle></a><a href="/variants/s13/dg1lb1dg1lb2k2lb2k2lb2k2lb2ly1lb1ly1~x4/"><circle cx="92.8" cy="281.7" r="4" fill="#3465a4"><title>Glen Flesk</title></circle></a><a href="/variants/s9/k6w6k6w6g7w4dy3g2dy3~x2~g2203152/"><circle cx="43.0" cy="267.6" r="4" fill="#3465a4"><title>Burns Heritage Check</title></circle></a><a href="/variants/s9/k6w6k6w6g7w4dy3g2dy3~x2/"><circle cx="41.3" cy="268.6" r="4" fill="#3465a4"><title>Burns Heritage Check (Corporate)</title></circle></a><a href="/variants/s7/w4k4w21k12w4k12ly4/"><circle cx="205.1" cy="232.9" r="4" fill="#3465a4"><title>Mazda</title></circle></a><a href="/variants/s8/w4k4w4k4w4db3w2r2~x2/"><circle cx="80.2" cy="291.3" r="4" fill="#3465a4"><title>Scott, Sir Walter #2</title></circle></a><a href="/variants/s13/o1w1o1w2k2w2k2w2k2w2g1w1g1~x4/"><circle cx="86.8" cy="281.0" r="4" fill="#3465a4"><title>Glen Flesk</title></circle></a><circle cx="106.1" cy="270.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w2k2w2k2w2k2w1dy1g1dy1~x2/"><circle cx="68.9" cy="295.5" r="4" fill="#3465a4"><title>Burns Check Trade Tartan</title></circle></a><a href="/variants/s10/w2k2w2k2w2k2w1dy1g1dy1~x8~w4000000-g2203152/"><circle cx="69.0" cy="295.2" r="4" fill="#3465a4"><title>Burns Check</title></circle></a><a href="/variants/s10/w2k2w2k2w2k2w1o1g1o1~x4/"><circle cx="69.6" cy="295.2" r="4" fill="#3465a4"><title>Robert, Burns check</title></circle></a><a href="/variants/s9/k4w4k4w4k4w4db3w2r2/"><circle cx="62.5" cy="302.1" r="4" fill="#3465a4"><title>Scott, Sir Walter #3</title></circle></a><a href="/variants/s13/dg1lb1dg1lb2k2lb2k2lb2k2lb2ly1lb1ly1~x4/"><circle cx="93.0" cy="282.6" r="4" fill="#3465a4"><title>Glen Flesk</title></circle></a><a href="/variants/s9/k6w6k6w6g7w4dy3g2dy3~x2~g2203152/"><circle cx="43.2" cy="268.5" r="4" fill="#3465a4"><title>Burns Heritage Check</title></circle></a><a href="/variants/s9/k6w6k6w6g7w4dy3g2dy3~x2/"><circle cx="41.5" cy="269.4" r="4" fill="#3465a4"><title>Burns Heritage Check (Corporate)</title></circle></a><a href="/variants/s7/w4k4w21k12w4k12ly4/"><circle cx="205.3" cy="233.7" r="4" fill="#3465a4"><title>Mazda</title></circle></a><a href="/variants/s8/w4k4w4k4w4db3w2r2~x2/"><circle cx="80.4" cy="292.3" r="4" fill="#3465a4"><title>Scott, Sir Walter #2</title></circle></a><a href="/variants/s13/o1w1o1w2k2w2k2w2k2w2g1w1g1~x4/"><circle cx="87.0" cy="282.0" r="4" fill="#3465a4"><title>Glen Flesk</title></circle></a><circle cx="106.3" cy="271.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w6k6w6k6w6k6w4dy3g2dy2~x3/

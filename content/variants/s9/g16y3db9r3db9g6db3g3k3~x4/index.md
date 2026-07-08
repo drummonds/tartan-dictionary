@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Blarney Castle"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g16y3db9r3db9g6db3g3k3/)
 (the same proportion at any scale), whose colour order is pattern [GGBRBGBGK](/stripes/ggbrbgbgk/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11441
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11441](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11441)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g3db9g3k4g8y2db2y2r2/"><circle cx="116.8" cy="220.8" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s9/g3db8g3k4g9y2db2y2r2~x2/"><circle cx="127.3" cy="220.4" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s9/g3db8g3k4g9y2db2y2r2/"><circle cx="127.3" cy="220.4" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s9/g5db24g7k10g24y2db2y2r2~x2/"><circle cx="204.5" cy="154.5" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s9/g5db24g7k10g24dy2db2dy2r2~x2/"><circle cx="205.9" cy="154.8" r="4" fill="#3465a4"><title>Maitland Chief</title></circle></a><a href="/variants/s10/g21db4w4db32g12y4g8r4g6db12/"><circle cx="223.7" cy="196.1" r="4" fill="#3465a4"><title>Harkness Hunting</title></circle></a><a href="/variants/s11/db6o2db6y3g6k1g2lb2g2k1g6~x2/"><circle cx="123.9" cy="197.7" r="4" fill="#3465a4"><title>Presbyterian Synod (US) (Corporate)</title></circle></a><a href="/variants/s11/g5db2g12db12r2db12w2g12r2g4y3~x2/"><circle cx="216.0" cy="212.0" r="4" fill="#3465a4"><title>Hunter of Hunterston</title></circle></a><a href="/variants/s11/k8w2g11lb2k2lb2g11db6k2db6g8~x2/"><circle cx="138.4" cy="199.8" r="4" fill="#3465a4"><title>Wilson's, No 149</title></circle></a><a href="/variants/s11/g5db2g14db14r2db14w2g14r2g4lo3~x2/"><circle cx="224.1" cy="199.2" r="4" fill="#3465a4"><title>Hunter of Hunterston (Clan)</title></circle></a><circle cx="174.6" cy="213.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g3db9g3k4g8y2db2y2r2/"><circle cx="116.9" cy="221.3" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s9/g3db8g3k4g9y2db2y2r2~x2/"><circle cx="127.3" cy="221.0" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s9/g3db8g3k4g9y2db2y2r2/"><circle cx="127.3" cy="221.0" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s9/g5db24g7k10g24y2db2y2r2~x2/"><circle cx="204.5" cy="154.8" r="4" fill="#3465a4"><title>Maitland</title></circle></a><a href="/variants/s9/g5db24g7k10g24dy2db2dy2r2~x2/"><circle cx="205.9" cy="155.1" r="4" fill="#3465a4"><title>Maitland Chief</title></circle></a><a href="/variants/s10/g21db4w4db32g12y4g8r4g6db12/"><circle cx="223.7" cy="196.5" r="4" fill="#3465a4"><title>Harkness Hunting</title></circle></a><a href="/variants/s11/db6o2db6y3g6k1g2lb2g2k1g6~x2/"><circle cx="124.0" cy="198.2" r="4" fill="#3465a4"><title>Presbyterian Synod (US) (Corporate)</title></circle></a><a href="/variants/s11/g5db2g12db12r2db12w2g12r2g4y3~x2/"><circle cx="216.1" cy="212.5" r="4" fill="#3465a4"><title>Hunter of Hunterston</title></circle></a><a href="/variants/s11/k8w2g11lb2k2lb2g11db6k2db6g8~x2/"><circle cx="138.5" cy="200.4" r="4" fill="#3465a4"><title>Wilson's, No 149</title></circle></a><a href="/variants/s11/g5db2g14db14r2db14w2g14r2g4lo3~x2/"><circle cx="224.2" cy="199.6" r="4" fill="#3465a4"><title>Hunter of Hunterston (Clan)</title></circle></a><circle cx="174.6" cy="213.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/g16y3db9r3db9g6db3g3k3~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Connemarra Irish District Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb4dy1g1dr30g22k3g22dr30g1dy1lb4g2/)
 (the same proportion at any scale), whose colour order is pattern [GWGGBGKGBGGW](/stripes/gwggbgkgbggw/).
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3897
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3897](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3897)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dr5r2k3dr4g43dr6k7lb2dr47g2dr3r2g4~x2/"><circle cx="288.7" cy="82.3" r="4" fill="#3465a4"><title>Glen Coe (District)</title></circle></a><a href="/variants/s11/k3w1g29n8m2n2m2n2m8g7k2~x2/"><circle cx="284.9" cy="92.7" r="4" fill="#3465a4"><title>Gray Htg (Name)</title></circle></a><a href="/variants/s11/k3w1g29n8r2n2r2n2r8g7k2~x2/"><circle cx="290.0" cy="94.8" r="4" fill="#3465a4"><title>Gray, hunting</title></circle></a><a href="/variants/s10/dy4n2k2n42k13g25n6k2r4k2~x2/"><circle cx="248.1" cy="110.7" r="4" fill="#3465a4"><title>Dinwiddie Clan Tartan</title></circle></a><a href="/variants/s9/dr24lb1k3lb1g14dr8k3dp3lb2~x4/"><circle cx="284.8" cy="115.8" r="4" fill="#3465a4"><title>Leach (1995)</title></circle></a><a href="/variants/s13/dt8k3y1k1y39k3r3y2dt11k8y2k3w2~x2/"><circle cx="269.6" cy="57.1" r="4" fill="#3465a4"><title>Afghanistan Memorial</title></circle></a><a href="/variants/s10/y7n2k2n41k12g22n6k2r4k2~x2/"><circle cx="244.9" cy="115.5" r="4" fill="#3465a4"><title>Dinwiddie</title></circle></a><a href="/variants/s15/dr6k2dr2k4dr2k2dr6g18dr2lo1dr2k2dr10w1dr2~x4/"><circle cx="246.5" cy="108.4" r="4" fill="#3465a4"><title>Ainslie #2</title></circle></a><a href="/variants/s15/dr6k4dr8g16dr6lb2dr2g2dr2lb2dr6g18dp6g2dp1~x2/"><circle cx="222.2" cy="130.9" r="4" fill="#3465a4"><title>MacCall Family Tartan</title></circle></a><a href="/variants/s9/dp6r1dp20g6dp6g24k1g2w4~x2/"><circle cx="256.2" cy="123.4" r="4" fill="#3465a4"><title>MacNeill</title></circle></a><circle cx="290.0" cy="100.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dr5r2k3dr4g43dr6k7lb2dr47g2dr3r2g4~x2/"><circle cx="288.5" cy="82.4" r="4" fill="#3465a4"><title>Glen Coe (District)</title></circle></a><a href="/variants/s11/k3w1g29n8m2n2m2n2m8g7k2~x2/"><circle cx="284.8" cy="92.8" r="4" fill="#3465a4"><title>Gray Htg (Name)</title></circle></a><a href="/variants/s11/k3w1g29n8r2n2r2n2r8g7k2~x2/"><circle cx="289.9" cy="94.9" r="4" fill="#3465a4"><title>Gray, hunting</title></circle></a><a href="/variants/s10/dy4n2k2n42k13g25n6k2r4k2~x2/"><circle cx="248.0" cy="110.9" r="4" fill="#3465a4"><title>Dinwiddie Clan Tartan</title></circle></a><a href="/variants/s9/dr24lb1k3lb1g14dr8k3dp3lb2~x4/"><circle cx="284.7" cy="116.0" r="4" fill="#3465a4"><title>Leach (1995)</title></circle></a><a href="/variants/s13/dt8k3y1k1y39k3r3y2dt11k8y2k3w2~x2/"><circle cx="269.4" cy="57.2" r="4" fill="#3465a4"><title>Afghanistan Memorial</title></circle></a><a href="/variants/s10/y7n2k2n41k12g22n6k2r4k2~x2/"><circle cx="244.8" cy="115.6" r="4" fill="#3465a4"><title>Dinwiddie</title></circle></a><a href="/variants/s15/dr6k2dr2k4dr2k2dr6g18dr2lo1dr2k2dr10w1dr2~x4/"><circle cx="246.4" cy="108.6" r="4" fill="#3465a4"><title>Ainslie #2</title></circle></a><a href="/variants/s15/dr6k4dr8g16dr6lb2dr2g2dr2lb2dr6g18dp6g2dp1~x2/"><circle cx="222.2" cy="131.1" r="4" fill="#3465a4"><title>MacCall Family Tartan</title></circle></a><a href="/variants/s9/dp6r1dp20g6dp6g24k1g2w4~x2/"><circle cx="256.2" cy="123.7" r="4" fill="#3465a4"><title>MacNeill</title></circle></a><circle cx="289.9" cy="100.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/lb4dy1g1dr30g22k3g22dr30g1dy1lb4g2~x2/

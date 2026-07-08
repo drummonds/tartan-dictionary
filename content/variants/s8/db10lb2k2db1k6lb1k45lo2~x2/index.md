@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Marine Harvest (Scotland)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db10lb2k2db1k6lb1k45lo2/)
 (the same proportion at any scale), whose colour order is pattern [BWKBKWKY](/stripes/bwkbkwky/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10382
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10382](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10382)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/t10lb2k2t1k6lb1k45lo2~x2/"><circle cx="464.9" cy="69.1" r="4" fill="#3465a4"><title>Marine Harvest Scotland (Corporate)</title></circle></a><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/"><circle cx="495.1" cy="57.6" r="4" fill="#3465a4"><title>Wcwm 1669-3</title></circle></a><a href="/variants/s9/lo2k3db6dr4k48dr4db6k3lb2~x2/"><circle cx="401.1" cy="85.0" r="4" fill="#3465a4"><title>Highland Park</title></circle></a><a href="/variants/s10/w2k2dp8k10dp8k64w2k8y1k1~x2/"><circle cx="517.5" cy="55.4" r="4" fill="#3465a4"><title>Payne of Wallins Creek (Personal)</title></circle></a><a href="/variants/s9/dp3n2o2k60n2k3n12k1o3~x2~n1900000-o2500000/"><circle cx="460.7" cy="55.3" r="4" fill="#3465a4"><title>Grassi (Personal)</title></circle></a><a href="/variants/s8/k50db2k13w1k13db5g15r2~x2/"><circle cx="427.9" cy="74.4" r="4" fill="#3465a4"><title>Center</title></circle></a><a href="/variants/s8/k50t2k13w1k13t5g15r2~x2/"><circle cx="419.5" cy="72.6" r="4" fill="#3465a4"><title>Center (Name)</title></circle></a><a href="/variants/s9/db7k5b6k5r7k2db2k70b2/"><circle cx="480.1" cy="69.3" r="4" fill="#3465a4"><title>United States</title></circle></a><a href="/variants/s7/k5db15k5lb1k35dp1k2~x4/"><circle cx="481.9" cy="115.0" r="4" fill="#3465a4"><title>Gibson, Robert (Personal)</title></circle></a><a href="/variants/s9/k5ly1dg7dr1k45dr5ly3k4ly3~x2/"><circle cx="441.3" cy="69.6" r="4" fill="#3465a4"><title>Brooks Brothers Signature (Corporate</title></circle></a><circle cx="485.5" cy="73.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/t10lb2k2t1k6lb1k45lo2~x2/"><circle cx="464.8" cy="69.2" r="4" fill="#3465a4"><title>Marine Harvest Scotland (Corporate)</title></circle></a><a href="/variants/s9/k93dr2k4w2k8n8k2n16w2~x2/"><circle cx="494.9" cy="57.6" r="4" fill="#3465a4"><title>Wcwm 1669-3</title></circle></a><a href="/variants/s9/lo2k3db6dr4k48dr4db6k3lb2~x2/"><circle cx="400.9" cy="85.1" r="4" fill="#3465a4"><title>Highland Park</title></circle></a><a href="/variants/s10/w2k2dp8k10dp8k64w2k8y1k1~x2/"><circle cx="517.3" cy="55.4" r="4" fill="#3465a4"><title>Payne of Wallins Creek (Personal)</title></circle></a><a href="/variants/s9/dp3n2o2k60n2k3n12k1o3~x2~n1900000-o2500000/"><circle cx="460.5" cy="55.3" r="4" fill="#3465a4"><title>Grassi (Personal)</title></circle></a><a href="/variants/s8/k50db2k13w1k13db5g15r2~x2/"><circle cx="427.8" cy="74.5" r="4" fill="#3465a4"><title>Center</title></circle></a><a href="/variants/s8/k50t2k13w1k13t5g15r2~x2/"><circle cx="419.3" cy="72.7" r="4" fill="#3465a4"><title>Center (Name)</title></circle></a><a href="/variants/s9/db7k5b6k5r7k2db2k70b2/"><circle cx="479.9" cy="69.4" r="4" fill="#3465a4"><title>United States</title></circle></a><a href="/variants/s7/k5db15k5lb1k35dp1k2~x4/"><circle cx="481.8" cy="115.1" r="4" fill="#3465a4"><title>Gibson, Robert (Personal)</title></circle></a><a href="/variants/s9/k5ly1dg7dr1k45dr5ly3k4ly3~x2/"><circle cx="441.1" cy="69.7" r="4" fill="#3465a4"><title>Brooks Brothers Signature (Corporate</title></circle></a><circle cx="485.3" cy="73.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db10lb2k2db1k6lb1k45lo2~x2/

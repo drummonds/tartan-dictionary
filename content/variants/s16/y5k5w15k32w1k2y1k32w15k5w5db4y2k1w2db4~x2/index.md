@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Deudon (2015)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4/)
 (the same proportion at any scale), whose colour order is pattern [BWKGBWKWKGKWKWKG](/stripes/bwkgbwkwkgkwkwkg/).
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11392
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11392](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11392)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3~x2/"><circle cx="313.8" cy="52.0" r="4" fill="#3465a4"><title>Clutha</title></circle></a><a href="/variants/s10/w8k1db2k4y2k2y2k24w8k2~x2/"><circle cx="290.8" cy="100.5" r="4" fill="#3465a4"><title>Newcastle</title></circle></a><a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/"><circle cx="230.2" cy="65.9" r="4" fill="#3465a4"><title>Mizzou (Corporate)</title></circle></a><a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2~r2109032/"><circle cx="230.2" cy="65.9" r="4" fill="#3465a4"><title>Mizzou American Corporate Tartan</title></circle></a><a href="/variants/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/"><circle cx="325.2" cy="94.3" r="4" fill="#3465a4"><title>Myles, Lee (Name)</title></circle></a><a href="/variants/s9/lb7k2n2k18lb2k4lb6k2lb1~x4/"><circle cx="231.4" cy="90.8" r="4" fill="#3465a4"><title>Wcwm 972-2</title></circle></a><a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/"><circle cx="273.9" cy="106.8" r="4" fill="#3465a4"><title>Thain Dress #1</title></circle></a><a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x2/"><circle cx="273.9" cy="106.8" r="4" fill="#3465a4"><title>Thain, dress</title></circle></a><a href="/variants/s11/k7lb2w2lb2k13lb2k2b1lb13k26b2~x2/"><circle cx="339.7" cy="99.4" r="4" fill="#3465a4"><title>Pride of Scotland Royal fashion Tartan</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="333.8" cy="106.6" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><circle cx="280.6" cy="72.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s21/w6k4w3k3w2k18n1y5n1k3y2n1k3y2n1k32n2w6k3w6k3~x2/"><circle cx="313.6" cy="52.1" r="4" fill="#3465a4"><title>Clutha</title></circle></a><a href="/variants/s10/w8k1db2k4y2k2y2k24w8k2~x2/"><circle cx="290.7" cy="100.8" r="4" fill="#3465a4"><title>Newcastle</title></circle></a><a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2/"><circle cx="230.0" cy="66.1" r="4" fill="#3465a4"><title>Mizzou (Corporate)</title></circle></a><a href="/variants/s20/y8w8k2w6y8k28r2k12y18k12w6k51w2k12y8w8k2w6y8db2~r2109032/"><circle cx="230.0" cy="66.1" r="4" fill="#3465a4"><title>Mizzou American Corporate Tartan</title></circle></a><a href="/variants/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/"><circle cx="325.1" cy="94.6" r="4" fill="#3465a4"><title>Myles, Lee (Name)</title></circle></a><a href="/variants/s9/lb7k2n2k18lb2k4lb6k2lb1~x4/"><circle cx="231.3" cy="91.0" r="4" fill="#3465a4"><title>Wcwm 972-2</title></circle></a><a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x4/"><circle cx="273.8" cy="107.1" r="4" fill="#3465a4"><title>Thain Dress #1</title></circle></a><a href="/variants/s13/y22w1y2w2k2w1k14w1k2w2k2w1k14~x2/"><circle cx="273.8" cy="107.1" r="4" fill="#3465a4"><title>Thain, dress</title></circle></a><a href="/variants/s11/k7lb2w2lb2k13lb2k2b1lb13k26b2~x2/"><circle cx="339.6" cy="99.6" r="4" fill="#3465a4"><title>Pride of Scotland Royal fashion Tartan</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="333.7" cy="106.9" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><circle cx="280.5" cy="72.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/y5k5w15k32w1k2y1k32w15k5w5db4y2k1w2db4~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Holman"
   url: "/tartans/holman/"
+- name: "Holman (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g7k12g12k9dr3k9g20k16g7t3/)
 (the same proportion at any scale), whose colour order is pattern [BGKGKBKGKG](/stripes/bgkgkbkgkg/).
@@ -14,7 +16,7 @@ Part of the [Holman](/tartans/holman/) tartan — the named design grouping this
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1751
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1751](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1751)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dg13r2dg19k15dg5k15dg5k15dg5k15dg19r2dg13lb4~x2~dg1806142/"><circle cx="223.1" cy="189.1" r="4" fill="#3465a4"><title>Strath Hallidale (Sutherland)</title></circle></a><a href="/variants/s9/g5y1g3y2g8k8db1k8g1~x4/"><circle cx="189.9" cy="196.9" r="4" fill="#3465a4"><title>Fitzpatrick Hunting</title></circle></a><a href="/variants/s6/dr3k9g20k16g7t3~x2/"><circle cx="190.1" cy="225.5" r="4" fill="#3465a4"><title>Holman (Personal)</title></circle></a><a href="/variants/s8/g5k15g5k15g19r2g13lb4~x2/"><circle cx="218.3" cy="203.6" r="4" fill="#3465a4"><title>Strath Hallidale (Fashion)</title></circle></a><a href="/variants/s14/k4w1k4g1k1g6k1g6k1g1k4y1k4g1~x2/"><circle cx="202.2" cy="183.6" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/variants/s14/k4y1k4g1k4w1k4g1k1g6k1g6k1g1~x4/"><circle cx="202.2" cy="183.6" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/variants/s9/w2dg12k3dg3k16dg3k3dg12ly2~x2/"><circle cx="254.6" cy="188.3" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/"><circle cx="193.3" cy="181.1" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="219.2" cy="187.8" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s13/o4k2g6o3g10k10g4k10g10o3g6k2w4~x2/"><circle cx="137.5" cy="216.7" r="4" fill="#3465a4"><title>Crihfield Family (Personal)</title></circle></a><circle cx="177.7" cy="221.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dg13r2dg19k15dg5k15dg5k15dg5k15dg19r2dg13lb4~x2~dg1806142/"><circle cx="223.1" cy="189.7" r="4" fill="#3465a4"><title>Strath Hallidale (Sutherland)</title></circle></a><a href="/variants/s9/g5y1g3y2g8k8db1k8g1~x4/"><circle cx="189.9" cy="197.4" r="4" fill="#3465a4"><title>Fitzpatrick Hunting</title></circle></a><a href="/variants/s6/dr3k9g20k16g7t3~x2/"><circle cx="190.2" cy="226.2" r="4" fill="#3465a4"><title>Holman (Personal)</title></circle></a><a href="/variants/s8/g5k15g5k15g19r2g13lb4~x2/"><circle cx="218.3" cy="204.2" r="4" fill="#3465a4"><title>Strath Hallidale (Fashion)</title></circle></a><a href="/variants/s14/k4w1k4g1k1g6k1g6k1g1k4y1k4g1~x2/"><circle cx="202.2" cy="184.1" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/variants/s14/k4y1k4g1k4w1k4g1k1g6k1g6k1g1~x4/"><circle cx="202.2" cy="184.1" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/variants/s9/w2dg12k3dg3k16dg3k3dg12ly2~x2/"><circle cx="254.6" cy="188.8" r="4" fill="#3465a4"><title>MacIver Hunting</title></circle></a><a href="/variants/s6/k20lb2k6g16dp4k9~x2~dp1105325/"><circle cx="193.3" cy="181.6" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><a href="/variants/s8/g6k16r3k16g28k4g12w3~x2/"><circle cx="219.3" cy="188.4" r="4" fill="#3465a4"><title>MacAulay of Lewis</title></circle></a><a href="/variants/s13/o4k2g6o3g10k10g4k10g10o3g6k2w4~x2/"><circle cx="137.6" cy="217.4" r="4" fill="#3465a4"><title>Crihfield Family (Personal)</title></circle></a><circle cx="177.7" cy="221.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g7k12g12k9dr3k9g20k16g7t3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "King (Austria) (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2r2db14g16y2k2g2r35g1/)
 (the same proportion at any scale), whose colour order is pattern [GRGKGGBRW](/stripes/grgkggbrw/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1980
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1980](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1980)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/"><circle cx="232.3" cy="44.6" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/variants/s12/db3r2db2r35dy2db3k2db5k4g13k1w3~x2/"><circle cx="234.3" cy="45.0" r="4" fill="#3465a4"><title>Celtic Nations</title></circle></a><a href="/variants/s11/r64lb12k16y2k4w3dg32r8k4r3w2~x2/"><circle cx="227.6" cy="53.6" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/variants/s8/y3r4k1r27g14r4db15w2~x2/"><circle cx="238.3" cy="104.3" r="4" fill="#3465a4"><title>Dalmagarry (Corporate)</title></circle></a><a href="/variants/s8/r40g16y2k8lb4w1db5w2~x2/"><circle cx="233.4" cy="53.7" r="4" fill="#3465a4"><title>Ancient Caledonian Society</title></circle></a><a href="/variants/s14/w4db4r18n4r1n36k1n4k6r2k6r6ly4r2~x2/"><circle cx="214.3" cy="51.1" r="4" fill="#3465a4"><title>Mehrtens variant (Personal)</title></circle></a><a href="/variants/s8/r40g16ly2k8y4w1db5w2~x2~ly3307090-y2602166/"><circle cx="235.8" cy="55.3" r="4" fill="#3465a4"><title>Caledonian Soc., Ancient (Artefact)</title></circle></a><a href="/variants/s11/lb14k8y2k3w4k3g21r48lb4r5k3~x2/"><circle cx="189.7" cy="72.0" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/variants/s11/r48lb8k10y2k3w2g25r10k3r3w2~x2/"><circle cx="232.8" cy="68.4" r="4" fill="#3465a4"><title>Followers' Plaid</title></circle></a><a href="/variants/s14/w4db4r18n4r1n36k1n4k6r2k6r6k4r2~x2/"><circle cx="211.6" cy="49.8" r="4" fill="#3465a4"><title>Mehrtens variant (Personal)</title></circle></a><circle cx="253.6" cy="72.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db3r2db2r35ly2db3k2db5k4g13k1w3~x2/"><circle cx="232.2" cy="44.7" r="4" fill="#3465a4"><title>Celtic Nations (Fashion)</title></circle></a><a href="/variants/s12/db3r2db2r35dy2db3k2db5k4g13k1w3~x2/"><circle cx="234.1" cy="45.1" r="4" fill="#3465a4"><title>Celtic Nations</title></circle></a><a href="/variants/s11/r64lb12k16y2k4w3dg32r8k4r3w2~x2/"><circle cx="227.4" cy="53.8" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/variants/s8/y3r4k1r27g14r4db15w2~x2/"><circle cx="238.3" cy="104.5" r="4" fill="#3465a4"><title>Dalmagarry (Corporate)</title></circle></a><a href="/variants/s8/r40g16y2k8lb4w1db5w2~x2/"><circle cx="233.3" cy="53.8" r="4" fill="#3465a4"><title>Ancient Caledonian Society</title></circle></a><a href="/variants/s14/w4db4r18n4r1n36k1n4k6r2k6r6ly4r2~x2/"><circle cx="214.1" cy="51.1" r="4" fill="#3465a4"><title>Mehrtens variant (Personal)</title></circle></a><a href="/variants/s8/r40g16ly2k8y4w1db5w2~x2~ly3307090-y2602166/"><circle cx="235.6" cy="55.4" r="4" fill="#3465a4"><title>Caledonian Soc., Ancient (Artefact)</title></circle></a><a href="/variants/s11/lb14k8y2k3w4k3g21r48lb4r5k3~x2/"><circle cx="189.6" cy="72.2" r="4" fill="#3465a4"><title>MacLean of Duart #5</title></circle></a><a href="/variants/s11/r48lb8k10y2k3w2g25r10k3r3w2~x2/"><circle cx="232.7" cy="68.6" r="4" fill="#3465a4"><title>Followers' Plaid</title></circle></a><a href="/variants/s14/w4db4r18n4r1n36k1n4k6r2k6r6k4r2~x2/"><circle cx="211.4" cy="49.8" r="4" fill="#3465a4"><title>Mehrtens variant (Personal)</title></circle></a><circle cx="253.5" cy="72.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/w2r2db14g16y2k2g2r35g1~x2/

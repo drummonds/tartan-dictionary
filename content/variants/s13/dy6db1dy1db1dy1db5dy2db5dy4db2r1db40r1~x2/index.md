@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Angotta"
   url: "/tartans/angotta/"
+- name: "Angotta"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy6db1dy1db1dy1db5dy2db5dy4db2r1db40r1/)
 (the same proportion at any scale), whose colour order is pattern [GBGBGBGBGBRBR](/stripes/gbgbgbgbgbrbr/).
@@ -14,7 +16,7 @@ Part of the [Angotta](/tartans/angotta/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10038
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10038](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10038)
 
 ## Provenance
 

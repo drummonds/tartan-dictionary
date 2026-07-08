@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Pople"
   url: "/tartans/pople/"
+- name: "Pople (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1dr9n8y8w1/)
 (the same proportion at any scale), whose colour order is pattern [KBBGW](/stripes/kbbgw/).
@@ -14,7 +16,7 @@ Part of the [Pople](/tartans/pople/) tartan — the named design grouping this s
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3247
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3247](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3247)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy12k4w2n6r3~x2/"><circle cx="153.2" cy="222.7" r="4" fill="#3465a4"><title>Strathblane (Fashion)</title></circle></a><a href="/variants/s5/k8lo2n30dr30lb3~x2/"><circle cx="251.4" cy="185.1" r="4" fill="#3465a4"><title>Douglas Ancient Red</title></circle></a><a href="/variants/s4/g30y3db8r25~x2/"><circle cx="272.9" cy="249.2" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/variants/s6/y15k10n30o11w3y5~x2/"><circle cx="183.1" cy="205.9" r="4" fill="#3465a4"><title>McHale (Personal)</title></circle></a><a href="/variants/s5/y32k21r16lr6dt4~x2~r1706028/"><circle cx="139.2" cy="209.3" r="4" fill="#3465a4"><title>Scottish American Athletic Assoc</title></circle></a><a href="/variants/s6/r15dt8g25dt72n98lb15~dt0900000/"><circle cx="254.5" cy="204.0" r="4" fill="#3465a4"><title>Afternoon Tea / Black Tea</title></circle></a><a href="/variants/s5/do9ly9n9r1lb1~x4/"><circle cx="169.4" cy="234.4" r="4" fill="#3465a4"><title>Jardine #2</title></circle></a><a href="/variants/s5/r39db22k11y22g5~x2/"><circle cx="141.8" cy="220.0" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.3" cy="219.4" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s7/k2y1dg12y12dr12k1r2~x4/"><circle cx="188.3" cy="186.1" r="4" fill="#3465a4"><title>PSD: Operation Iraqi Freedom</title></circle></a><circle cx="194.9" cy="232.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy12k4w2n6r3~x2/"><circle cx="153.3" cy="223.3" r="4" fill="#3465a4"><title>Strathblane (Fashion)</title></circle></a><a href="/variants/s5/k8lo2n30dr30lb3~x2/"><circle cx="251.4" cy="185.5" r="4" fill="#3465a4"><title>Douglas Ancient Red</title></circle></a><a href="/variants/s4/g30y3db8r25~x2/"><circle cx="273.1" cy="249.8" r="4" fill="#3465a4"><title>Dohmen Family (Zuid-Nederland)</title></circle></a><a href="/variants/s6/y15k10n30o11w3y5~x2/"><circle cx="183.1" cy="206.3" r="4" fill="#3465a4"><title>McHale (Personal)</title></circle></a><a href="/variants/s5/y32k21r16lr6dt4~x2~r1706028/"><circle cx="139.3" cy="209.9" r="4" fill="#3465a4"><title>Scottish American Athletic Assoc</title></circle></a><a href="/variants/s6/r15dt8g25dt72n98lb15~dt0900000/"><circle cx="254.5" cy="204.3" r="4" fill="#3465a4"><title>Afternoon Tea / Black Tea</title></circle></a><a href="/variants/s5/do9ly9n9r1lb1~x4/"><circle cx="169.5" cy="235.0" r="4" fill="#3465a4"><title>Jardine #2</title></circle></a><a href="/variants/s5/r39db22k11y22g5~x2/"><circle cx="141.9" cy="220.6" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.4" cy="219.7" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s7/k2y1dg12y12dr12k1r2~x4/"><circle cx="188.4" cy="186.4" r="4" fill="#3465a4"><title>PSD: Operation Iraqi Freedom</title></circle></a><circle cx="195.0" cy="233.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k1dr9n8y8w1~x2/

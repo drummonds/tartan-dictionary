@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lundy (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb2k2dg8g8r1g1w1/)
 (the same proportion at any scale), whose colour order is pattern [WGRGGKW](/stripes/wgrggkw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2249
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2249](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2249)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dr3o3dt16k2dt2g16dr3g2w2~x2/"><circle cx="157.6" cy="163.7" r="4" fill="#3465a4"><title>Chinzei Keiai School</title></circle></a><a href="/variants/s7/r3g3db4g17k13dt26w3~x2/"><circle cx="119.1" cy="172.1" r="4" fill="#3465a4"><title>Royal Burgh of Peebles (District)</title></circle></a><a href="/variants/s7/r3lb2dg20k3db8g2lb2~x2~dg1806142-g2408144/"><circle cx="202.8" cy="152.9" r="4" fill="#3465a4"><title>Royal British Legion (Corporate)</title></circle></a><a href="/variants/s9/dy4db3dt18k3dt2g18dy3g2lb2~x4/"><circle cx="175.3" cy="166.4" r="4" fill="#3465a4"><title>Tombow 21st School Memorial</title></circle></a><a href="/variants/s6/g15ly1dy2db5k4dg5~x6~ly3307090-dy1603076/"><circle cx="185.2" cy="162.8" r="4" fill="#3465a4"><title>Dobson (Palm Bay) (Personal)</title></circle></a><a href="/variants/s6/g15y1dy2db5k4dg5~x6/"><circle cx="192.5" cy="165.2" r="4" fill="#3465a4"><title>Dobson (Palm Bay) (Personal)</title></circle></a><a href="/variants/s7/r6b2g20k3db8dg2b4~x2/"><circle cx="163.1" cy="164.9" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><circle cx="173.6" cy="175.4" r="4" fill="#3465a4"><title>Ednie (Personal)</title></circle></a><a href="/variants/s6/k1y1db8g10lb7w1~x2/"><circle cx="118.6" cy="178.9" r="4" fill="#3465a4"><title>Porteous</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="144.4" cy="125.0" r="4" fill="#3465a4"><title>Mission</title></circle></a><circle cx="150.7" cy="179.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dr3o3dt16k2dt2g16dr3g2w2~x2/"><circle cx="157.6" cy="164.0" r="4" fill="#3465a4"><title>Chinzei Keiai School</title></circle></a><a href="/variants/s7/r3g3db4g17k13dt26w3~x2/"><circle cx="119.1" cy="172.5" r="4" fill="#3465a4"><title>Royal Burgh of Peebles (District)</title></circle></a><a href="/variants/s7/r3lb2dg20k3db8g2lb2~x2~dg1806142-g2408144/"><circle cx="202.8" cy="153.2" r="4" fill="#3465a4"><title>Royal British Legion (Corporate)</title></circle></a><a href="/variants/s9/dy4db3dt18k3dt2g18dy3g2lb2~x4/"><circle cx="175.3" cy="166.7" r="4" fill="#3465a4"><title>Tombow 21st School Memorial</title></circle></a><a href="/variants/s6/g15ly1dy2db5k4dg5~x6~ly3307090-dy1603076/"><circle cx="185.2" cy="163.1" r="4" fill="#3465a4"><title>Dobson (Palm Bay) (Personal)</title></circle></a><a href="/variants/s6/g15y1dy2db5k4dg5~x6/"><circle cx="192.5" cy="165.5" r="4" fill="#3465a4"><title>Dobson (Palm Bay) (Personal)</title></circle></a><a href="/variants/s7/r6b2g20k3db8dg2b4~x2/"><circle cx="163.1" cy="165.2" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><a href="/variants/s7/t11k4g4o1g4k1r1~x4/"><circle cx="173.6" cy="175.8" r="4" fill="#3465a4"><title>Ednie (Personal)</title></circle></a><a href="/variants/s6/k1y1db8g10lb7w1~x2/"><circle cx="118.6" cy="179.4" r="4" fill="#3465a4"><title>Porteous</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="144.4" cy="125.3" r="4" fill="#3465a4"><title>Mission</title></circle></a><circle cx="150.7" cy="179.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/lb2k2dg8g8r1g1w1~x4~dg1806142-g2304202/

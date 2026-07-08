@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rhode Island, The State of"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g15b2w2b11n28b4/)
 (the same proportion at any scale), whose colour order is pattern [BBBWBG](/stripes/bbbwbg/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db1404245-dbi1406275/"><circle cx="500.2" cy="213.1" r="4" fill="#3465a4"><title>US Navy Edzell</title></circle></a><a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db1204274-dbi1406275/"><circle cx="500.5" cy="210.7" r="4" fill="#3465a4"><title>Edzell U.S. Navy Regimental Tartan</title></circle></a><a href="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/"><circle cx="353.8" cy="282.4" r="4" fill="#3465a4"><title>United Colours of Scotland (Corporat</title></circle></a><a href="/variants/s5/b9t6w1g4b2~x8/"><circle cx="380.8" cy="302.9" r="4" fill="#3465a4"><title>Cathro (Name)</title></circle></a><a href="/variants/s6/dbi28db49y3db49dbi28w4~x2~dbi1406275-db1204274/"><circle cx="565.8" cy="293.3" r="4" fill="#3465a4"><title>MacKerrell of Hillhouse Htg Family Tartan</title></circle></a><a href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/"><circle cx="492.3" cy="249.1" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><circle cx="457.7" cy="279.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db1404245-dbi1406275/"><circle cx="500.2" cy="213.1" r="4" fill="#3465a4"><title>US Navy Edzell</title></circle></a><a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db1204274-dbi1406275/"><circle cx="500.5" cy="210.6" r="4" fill="#3465a4"><title>Edzell U.S. Navy Regimental Tartan</title></circle></a><a href="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/"><circle cx="353.9" cy="282.7" r="4" fill="#3465a4"><title>United Colours of Scotland (Corporat</title></circle></a><a href="/variants/s5/b9t6w1g4b2~x8/"><circle cx="381.1" cy="303.3" r="4" fill="#3465a4"><title>Cathro (Name)</title></circle></a><a href="/variants/s6/dbi28db49y3db49dbi28w4~x2~dbi1406275-db1204274/"><circle cx="566.0" cy="293.3" r="4" fill="#3465a4"><title>MacKerrell of Hillhouse Htg Family Tartan</title></circle></a><a href="/variants/s6/dt4r1dt18db18w1db4~x4~dt1101240-db1404245/"><circle cx="492.4" cy="249.1" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><circle cx="457.9" cy="280.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/g15b2w2b11n28b4~x2~g2003152-n2002277/

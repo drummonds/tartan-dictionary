@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Strathclyde"
   url: "/tartans/strathclyde-2/"
+- name: "Strathclyde"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4db2k15w10lb15db2lb4/)
 (the same proportion at any scale), whose colour order is pattern [KBKWWBW](/stripes/kbkwwbw/).
@@ -14,7 +16,7 @@ Part of the [Strathclyde](/tartans/strathclyde-2/) tartan — the named design g
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3979
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3979](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3979)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2b16w2ki16w15k2w2~x2~ki0604259/"><circle cx="127.4" cy="193.4" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/variants/s7/k2lb16w2db16w15k2w2~x2/"><circle cx="137.4" cy="198.8" r="4" fill="#3465a4"><title>Strathclyde 1975 (District)</title></circle></a><a href="/variants/s7/k3db24lb3ki25lb22k3lb3~x2~db1605267-ki0503265/"><circle cx="141.3" cy="194.8" r="4" fill="#3465a4"><title>Strathclyde blue</title></circle></a><a href="/variants/s7/k4db2k15w10b15db2b4~x2/"><circle cx="125.2" cy="204.5" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/variants/s7/k3db24lb3ki25lb22k3lb3~x2~ki0604259/"><circle cx="140.8" cy="194.9" r="4" fill="#3465a4"><title>Strathclyde blue</title></circle></a><a href="/variants/s7/r3db15w13dy6db2dy2r2~x2/"><circle cx="161.4" cy="204.0" r="4" fill="#3465a4"><title>Thompson Navy Trade Tartan</title></circle></a><a href="/variants/s7/k3y1w9y1db9k3lb1~x4/"><circle cx="100.7" cy="171.5" r="4" fill="#3465a4"><title>St. Francis Xavier University</title></circle></a><a href="/variants/s10/lb7k2w2k2w2k2lb7t4k10w2~x4~lb3103284-t2405244/"><circle cx="113.5" cy="208.1" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/variants/s8/k4db9y6db22g4w20g6w4/"><circle cx="111.6" cy="200.2" r="4" fill="#3465a4"><title>Ship Hector</title></circle></a><a href="/variants/s6/k3w25g16w3db25w3~x2/"><circle cx="166.9" cy="209.9" r="4" fill="#3465a4"><title>Birnham, Blue (Dance)</title></circle></a><circle cx="127.4" cy="206.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k2b16w2ki16w15k2w2~x2~ki0604259/"><circle cx="127.4" cy="194.0" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/variants/s7/k2lb16w2db16w15k2w2~x2/"><circle cx="137.5" cy="199.4" r="4" fill="#3465a4"><title>Strathclyde 1975 (District)</title></circle></a><a href="/variants/s7/k3db24lb3ki25lb22k3lb3~x2~db1605267-ki0503265/"><circle cx="141.4" cy="195.4" r="4" fill="#3465a4"><title>Strathclyde blue</title></circle></a><a href="/variants/s7/k4db2k15w10b15db2b4~x2/"><circle cx="125.2" cy="205.1" r="4" fill="#3465a4"><title>Strathclyde</title></circle></a><a href="/variants/s7/k3db24lb3ki25lb22k3lb3~x2~ki0604259/"><circle cx="140.9" cy="195.4" r="4" fill="#3465a4"><title>Strathclyde blue</title></circle></a><a href="/variants/s7/r3db15w13dy6db2dy2r2~x2/"><circle cx="161.5" cy="204.6" r="4" fill="#3465a4"><title>Thompson Navy Trade Tartan</title></circle></a><a href="/variants/s7/k3y1w9y1db9k3lb1~x4/"><circle cx="100.8" cy="172.0" r="4" fill="#3465a4"><title>St. Francis Xavier University</title></circle></a><a href="/variants/s10/lb7k2w2k2w2k2lb7t4k10w2~x4~lb3103284-t2405244/"><circle cx="113.6" cy="208.7" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/variants/s8/k4db9y6db22g4w20g6w4/"><circle cx="111.6" cy="200.8" r="4" fill="#3465a4"><title>Ship Hector</title></circle></a><a href="/variants/s6/k3w25g16w3db25w3~x2/"><circle cx="167.0" cy="210.5" r="4" fill="#3465a4"><title>Birnham, Blue (Dance)</title></circle></a><circle cx="127.4" cy="206.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k4db2k15w10lb15db2lb4~x2~k0503265-db1605267/

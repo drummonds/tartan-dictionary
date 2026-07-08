@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Napier"
   url: "/tartans/napier/"
+- name: "Napier"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2w2k2w2k2w4k2w2k4db12w1/)
 (the same proportion at any scale), whose colour order is pattern [KWKWKWKWKBW](/stripes/kwkwkwkwkbw/).
@@ -14,7 +16,7 @@ Part of the [Napier](/tartans/napier/) tartan — the named design grouping this
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k4w2k2w2k2w4k2w2k4db12w1~x4/"><circle cx="167.1" cy="170.8" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/variants/s11/k4w2k2w2k2w4k2w2k4db12w1~x2/"><circle cx="167.1" cy="170.8" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/"><circle cx="159.7" cy="166.9" r="4" fill="#3465a4"><title>Blue Watch (Fashion)</title></circle></a><a href="/variants/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/"><circle cx="90.7" cy="178.2" r="4" fill="#3465a4"><title>Merchiston Castle School Pipe Band</title></circle></a><a href="/variants/s11/k9w8k8w8r5w18k5w5k12db36r5/"><circle cx="92.9" cy="175.3" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5~x2/"><circle cx="93.5" cy="178.3" r="4" fill="#3465a4"><title>Merchiston, Castle School Pipers</title></circle></a><a href="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5/"><circle cx="93.5" cy="178.3" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s9/db27k4db4k4db4k14lb14w2lb27/"><circle cx="175.1" cy="162.5" r="4" fill="#3465a4"><title>(1) Abercrombie</title></circle></a><a href="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/"><circle cx="151.1" cy="126.5" r="4" fill="#3465a4"><title>Knights Templar St Andrews Corporate Tartan</title></circle></a><a href="/variants/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2~lr2800000-t2503227/"><circle cx="209.5" cy="186.3" r="4" fill="#3465a4"><title>Clergy (Corporate)</title></circle></a><circle cx="159.1" cy="167.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k4w2k2w2k2w4k2w2k4db12w1~x4/"><circle cx="167.1" cy="171.3" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/variants/s11/k4w2k2w2k2w4k2w2k4db12w1~x2/"><circle cx="167.1" cy="171.3" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/"><circle cx="159.7" cy="167.4" r="4" fill="#3465a4"><title>Blue Watch (Fashion)</title></circle></a><a href="/variants/s11/k12w6k6w6r4w13k3w4k8db24r3~x2/"><circle cx="90.8" cy="178.7" r="4" fill="#3465a4"><title>Merchiston Castle School Pipe Band</title></circle></a><a href="/variants/s11/k9w8k8w8r5w18k5w5k12db36r5/"><circle cx="92.9" cy="175.8" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5~x2/"><circle cx="93.5" cy="178.8" r="4" fill="#3465a4"><title>Merchiston, Castle School Pipers</title></circle></a><a href="/variants/s11/k18w8k8w8r5w18k5w5k12db36r5/"><circle cx="93.5" cy="178.8" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><a href="/variants/s9/db27k4db4k4db4k14lb14w2lb27/"><circle cx="175.1" cy="163.0" r="4" fill="#3465a4"><title>(1) Abercrombie</title></circle></a><a href="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/"><circle cx="151.0" cy="126.8" r="4" fill="#3465a4"><title>Knights Templar St Andrews Corporate Tartan</title></circle></a><a href="/variants/s11/k4lr4t29k29lr4k29lr4t6lr4t14lr4~x2~lr2800000-t2503227/"><circle cx="209.5" cy="186.8" r="4" fill="#3465a4"><title>Clergy (Corporate)</title></circle></a><circle cx="159.1" cy="168.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k2w2k2w2k2w4k2w2k4db12w1~x2/

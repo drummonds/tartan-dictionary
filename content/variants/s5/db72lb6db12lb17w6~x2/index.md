@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "GulfMark"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db72lb6db12lb17w6/)
 (the same proportion at any scale), whose colour order is pattern [BWBWW](/stripes/bwbww/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10325
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10325](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10325)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db24lb13db4lb4w2~x2/"><circle cx="396.4" cy="249.0" r="4" fill="#3465a4"><title>Gallaecia (Unofficial) (District)</title></circle></a><a href="/variants/s5/db24t13db4t4w2~x2/"><circle cx="435.3" cy="262.5" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/variants/s5/db13lb3db1r3lb1~x6/"><circle cx="405.8" cy="200.1" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><circle cx="338.4" cy="235.0" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><a href="/variants/s6/w4db25b25db2b5w2~x2/"><circle cx="369.8" cy="243.4" r="4" fill="#3465a4"><title>Douglas, Variation</title></circle></a><a href="/variants/s6/y5db15lb5db5lb40y3~x2/"><circle cx="388.5" cy="207.3" r="4" fill="#3465a4"><title>Legary</title></circle></a><a href="/variants/s6/b10db6b3db62w4db5~x2/"><circle cx="623.4" cy="197.9" r="4" fill="#3465a4"><title>Auchairne</title></circle></a><a href="/variants/s6/db24lb6db10lb6db32dy3~x2/"><circle cx="529.5" cy="241.9" r="4" fill="#3465a4"><title>Sultan of Qaboo's Air Force</title></circle></a><a href="/variants/s5/lb37w9lb3db9w3~x2/"><circle cx="457.3" cy="246.6" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><circle cx="519.8" cy="165.5" r="4" fill="#3465a4"><title>Talisker</title></circle></a><circle cx="498.0" cy="230.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/db24lb13db4lb4w2~x2/"><circle cx="396.5" cy="249.6" r="4" fill="#3465a4"><title>Gallaecia (Unofficial) (District)</title></circle></a><a href="/variants/s5/db24t13db4t4w2~x2/"><circle cx="435.4" cy="263.0" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/variants/s5/db13lb3db1r3lb1~x6/"><circle cx="405.9" cy="200.6" r="4" fill="#3465a4"><title>Glen Moy</title></circle></a><a href="/variants/s6/w4db25lb25db2lb5w2~x2/"><circle cx="338.5" cy="235.6" r="4" fill="#3465a4"><title>Douglas Variation</title></circle></a><a href="/variants/s6/w4db25b25db2b5w2~x2/"><circle cx="369.9" cy="243.9" r="4" fill="#3465a4"><title>Douglas, Variation</title></circle></a><a href="/variants/s6/y5db15lb5db5lb40y3~x2/"><circle cx="388.6" cy="207.9" r="4" fill="#3465a4"><title>Legary</title></circle></a><a href="/variants/s6/b10db6b3db62w4db5~x2/"><circle cx="623.4" cy="198.2" r="4" fill="#3465a4"><title>Auchairne</title></circle></a><a href="/variants/s6/db24lb6db10lb6db32dy3~x2/"><circle cx="529.6" cy="242.4" r="4" fill="#3465a4"><title>Sultan of Qaboo's Air Force</title></circle></a><a href="/variants/s5/lb37w9lb3db9w3~x2/"><circle cx="457.5" cy="247.2" r="4" fill="#3465a4"><title>Loch Lomond</title></circle></a><a href="/variants/s7/db16lb4db1lb2db24w1y4~x2/"><circle cx="519.8" cy="165.8" r="4" fill="#3465a4"><title>Talisker</title></circle></a><circle cx="498.1" cy="230.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db72lb6db12lb17w6~x2/

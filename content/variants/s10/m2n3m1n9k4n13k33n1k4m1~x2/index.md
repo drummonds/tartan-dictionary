@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Myles, Lee"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/m2n3m1n9k4n13k33n1k4m1/)
 (the same proportion at any scale), whose colour order is pattern [RBRBKBKBKR](/stripes/rbrbkbkbkr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10352
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10352](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10352)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k13n1k1n1k4n10y1n1~x6/"><circle cx="325.7" cy="161.8" r="4" fill="#3465a4"><title>West Point</title></circle></a><a href="/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/"><circle cx="376.7" cy="100.5" r="4" fill="#3465a4"><title>Lochnagar Dark Fashion Tartan</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="333.8" cy="106.6" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s8/r1k1n1k15n15k1n1r1~x4/"><circle cx="294.5" cy="140.5" r="4" fill="#3465a4"><title>Bundy, Dress Black Personal)</title></circle></a><a href="/variants/s7/k39n3k3n3k14n28r3~x2/"><circle cx="335.7" cy="168.3" r="4" fill="#3465a4"><title>Moffat (1984)</title></circle></a><a href="/variants/s8/k16n1k1n1k8n16k1n2~x2/"><circle cx="357.7" cy="169.4" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s11/k8n2k2n2k14n2k2n1k14n26k2~x2/"><circle cx="355.5" cy="132.2" r="4" fill="#3465a4"><title>Grey Pride of Scotland (Fashion)</title></circle></a><a href="/variants/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/"><circle cx="325.2" cy="94.3" r="4" fill="#3465a4"><title>Myles, Lee (Name)</title></circle></a><a href="/variants/s7/n13k3n3k3n3k35r3~x2/"><circle cx="365.8" cy="157.2" r="4" fill="#3465a4"><title>Holden Black (Corporate)</title></circle></a><a href="/variants/s7/n5r3n35k28n4k11n2~x2/"><circle cx="314.2" cy="166.2" r="4" fill="#3465a4"><title>Korner-Macpherson (Personal)</title></circle></a><circle cx="351.6" cy="101.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k13n1k1n1k4n10y1n1~x6/"><circle cx="325.7" cy="162.2" r="4" fill="#3465a4"><title>West Point</title></circle></a><a href="/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/"><circle cx="376.6" cy="100.6" r="4" fill="#3465a4"><title>Lochnagar Dark Fashion Tartan</title></circle></a><a href="/variants/s7/w36k8w36k95w4k4r6/"><circle cx="333.7" cy="106.9" r="4" fill="#3465a4"><title>Gretna Football Club</title></circle></a><a href="/variants/s8/r1k1n1k15n15k1n1r1~x4/"><circle cx="294.5" cy="140.9" r="4" fill="#3465a4"><title>Bundy, Dress Black Personal)</title></circle></a><a href="/variants/s7/k39n3k3n3k14n28r3~x2/"><circle cx="335.7" cy="168.7" r="4" fill="#3465a4"><title>Moffat (1984)</title></circle></a><a href="/variants/s8/k16n1k1n1k8n16k1n2~x2/"><circle cx="357.7" cy="169.9" r="4" fill="#3465a4"><title>Douglas VS</title></circle></a><a href="/variants/s11/k8n2k2n2k14n2k2n1k14n26k2~x2/"><circle cx="355.4" cy="132.5" r="4" fill="#3465a4"><title>Grey Pride of Scotland (Fashion)</title></circle></a><a href="/variants/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/"><circle cx="325.1" cy="94.6" r="4" fill="#3465a4"><title>Myles, Lee (Name)</title></circle></a><a href="/variants/s7/n13k3n3k3n3k35r3~x2/"><circle cx="365.8" cy="157.6" r="4" fill="#3465a4"><title>Holden Black (Corporate)</title></circle></a><a href="/variants/s7/n5r3n35k28n4k11n2~x2/"><circle cx="314.2" cy="166.7" r="4" fill="#3465a4"><title>Korner-Macpherson (Personal)</title></circle></a><circle cx="351.5" cy="101.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/m2n3m1n9k4n13k33n1k4m1~x2/

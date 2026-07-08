@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Border Union Cattle Show"
   url: "/tartans/border-union-cattle-show/"
+- name: "Border Union Cattle Show (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy20k4g14k1o2k1g14k10w22o7/)
 (the same proportion at any scale), whose colour order is pattern [GKGKRKGKWR](/stripes/gkgkrkgkwr/).
@@ -14,7 +16,7 @@ Part of the [Border Union Cattle Show](/tartans/border-union-cattle-show/) tarta
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3715
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3715](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3715)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr20k4g14k1o2k1g14k10w22o7~x2~w3600000/"><circle cx="86.9" cy="134.4" r="4" fill="#3465a4"><title>Border Union Cattle Show</title></circle></a><a href="/variants/s9/k3dy14lo4dy9lo14k14g28k1o3~x2/"><circle cx="119.6" cy="129.3" r="4" fill="#3465a4"><title>Dutch Friendship</title></circle></a><a href="/variants/s10/lo12k3g24r12g24k32w44g4w8g4/"><circle cx="94.4" cy="148.9" r="4" fill="#3465a4"><title>Gillies Dress Green</title></circle></a><a href="/variants/s6/ly16k7w1g7k1dy3~x4/"><circle cx="102.9" cy="137.7" r="4" fill="#3465a4"><title>Hamilton of Brandon</title></circle></a><a href="/variants/s7/t18k7g5r4g7k1y2~x2/"><circle cx="122.6" cy="144.3" r="4" fill="#3465a4"><title>Wilson's No.232</title></circle></a><a href="/variants/s13/r4g20k16y2k3w3k2w18r6k2r4k1w2~x2/"><circle cx="89.9" cy="102.9" r="4" fill="#3465a4"><title>Palmer, Edward</title></circle></a><a href="/variants/s8/k3w1r16k1g21t9k6w1~x4/"><circle cx="152.6" cy="130.6" r="4" fill="#3465a4"><title>Ford &amp; Etal</title></circle></a><a href="/variants/s13/r24k8dg12k1g2k1dg12k8w3g2w14g1w2~x2~r2109032-dg1806142-g2508144/"><circle cx="90.3" cy="103.2" r="4" fill="#3465a4"><title>Hohenzollern Staff</title></circle></a><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/"><circle cx="119.5" cy="155.1" r="4" fill="#3465a4"><title>Spanish shirt</title></circle></a><a href="/variants/s9/g3dp4g23k10r2k10lb18k1w3~x2/"><circle cx="108.1" cy="112.1" r="4" fill="#3465a4"><title>Birch</title></circle></a><circle cx="81.4" cy="134.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr20k4g14k1o2k1g14k10w22o7~x2~w3600000/"><circle cx="86.8" cy="134.7" r="4" fill="#3465a4"><title>Border Union Cattle Show</title></circle></a><a href="/variants/s9/k3dy14lo4dy9lo14k14g28k1o3~x2/"><circle cx="119.5" cy="129.6" r="4" fill="#3465a4"><title>Dutch Friendship</title></circle></a><a href="/variants/s10/lo12k3g24r12g24k32w44g4w8g4/"><circle cx="94.4" cy="149.4" r="4" fill="#3465a4"><title>Gillies Dress Green</title></circle></a><a href="/variants/s6/ly16k7w1g7k1dy3~x4/"><circle cx="102.9" cy="138.1" r="4" fill="#3465a4"><title>Hamilton of Brandon</title></circle></a><a href="/variants/s7/t18k7g5r4g7k1y2~x2/"><circle cx="122.6" cy="144.6" r="4" fill="#3465a4"><title>Wilson's No.232</title></circle></a><a href="/variants/s13/r4g20k16y2k3w3k2w18r6k2r4k1w2~x2/"><circle cx="89.9" cy="103.2" r="4" fill="#3465a4"><title>Palmer, Edward</title></circle></a><a href="/variants/s8/k3w1r16k1g21t9k6w1~x4/"><circle cx="152.6" cy="131.0" r="4" fill="#3465a4"><title>Ford &amp; Etal</title></circle></a><a href="/variants/s13/r24k8dg12k1g2k1dg12k8w3g2w14g1w2~x2~r2109032-dg1806142-g2508144/"><circle cx="90.2" cy="103.5" r="4" fill="#3465a4"><title>Hohenzollern Staff</title></circle></a><a href="/variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/"><circle cx="119.5" cy="155.6" r="4" fill="#3465a4"><title>Spanish shirt</title></circle></a><a href="/variants/s9/g3dp4g23k10r2k10lb18k1w3~x2/"><circle cx="108.0" cy="112.4" r="4" fill="#3465a4"><title>Birch</title></circle></a><circle cx="81.4" cy="135.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dy20k4g14k1o2k1g14k10w22o7~x2/

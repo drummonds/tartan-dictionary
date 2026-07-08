@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Read Dress, Peter"
   url: "/tartans/read-dress-peter/"
+- name: "Read Dress, Peter (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r8k24n1k1n1k1n1k1n8k1n1k1n1k1n1r20y1w1/)
 (the same proportion at any scale), whose colour order is pattern [RKBKBKBKBKBKBKBRGW](/stripes/rkbkbkbkbkbkbkbrgw/).
@@ -14,7 +16,7 @@ Part of the [Read Dress, Peter](/tartans/read-dress-peter/) tartan — the named
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11008
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11008](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11008)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/o8k24n1k1n1k1n1k1n8k1n1k1n1k1n1o20y1w1~x2/"><circle cx="209.2" cy="52.2" r="4" fill="#3465a4"><title>Read Dress, Peter (Personal)</title></circle></a><a href="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/"><circle cx="203.5" cy="65.6" r="4" fill="#3465a4"><title>El Dorado Hills P &amp; D (Corporate)</title></circle></a><a href="/variants/s14/k5r1w2r1k26r3y1n10w1r3w1n10w1r3~x2/"><circle cx="203.3" cy="65.1" r="4" fill="#3465a4"><title>El Dorado Hills Firefighters Pipes and Drums</title></circle></a><a href="/variants/s14/k33w1r23k1n6w1n6k1r23w1k33r3w3db3~x2/"><circle cx="238.3" cy="61.0" r="4" fill="#3465a4"><title>Manac</title></circle></a><a href="/variants/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2y1~x2/"><circle cx="228.9" cy="70.8" r="4" fill="#3465a4"><title>Unidentified Scarlett #8</title></circle></a><a href="/variants/s14/k56r90db4w4k13y3k3w3k3g18r14k3r7w3/"><circle cx="232.3" cy="32.0" r="4" fill="#3465a4"><title>Stewart - (Galloway ?)</title></circle></a><a href="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="233.2" cy="75.5" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/variants/s17/r5k20n1k2n1k2n2k2n5o2n2o2n2o3n2o10w3~x2/"><circle cx="156.0" cy="82.7" r="4" fill="#3465a4"><title>Nike Golf Dark</title></circle></a><a href="/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/"><circle cx="198.0" cy="74.0" r="4" fill="#3465a4"><title>Cornish Brewery, Red</title></circle></a><a href="/variants/s10/r47dg14k5y2k3dg7k3y2k5dg14~x2/"><circle cx="214.7" cy="86.7" r="4" fill="#3465a4"><title>Harbor Club</title></circle></a><circle cx="208.7" cy="45.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s18/o8k24n1k1n1k1n1k1n8k1n1k1n1k1n1o20y1w1~x2/"><circle cx="209.0" cy="52.3" r="4" fill="#3465a4"><title>Read Dress, Peter (Personal)</title></circle></a><a href="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/"><circle cx="203.4" cy="65.8" r="4" fill="#3465a4"><title>El Dorado Hills P &amp; D (Corporate)</title></circle></a><a href="/variants/s14/k5r1w2r1k26r3y1n10w1r3w1n10w1r3~x2/"><circle cx="203.2" cy="65.3" r="4" fill="#3465a4"><title>El Dorado Hills Firefighters Pipes and Drums</title></circle></a><a href="/variants/s14/k33w1r23k1n6w1n6k1r23w1k33r3w3db3~x2/"><circle cx="238.2" cy="61.2" r="4" fill="#3465a4"><title>Manac</title></circle></a><a href="/variants/s17/g2r20k2r2g3r2k18r3w1g3r20k2r2k18r2g2y1~x2/"><circle cx="228.8" cy="71.1" r="4" fill="#3465a4"><title>Unidentified Scarlett #8</title></circle></a><a href="/variants/s14/k56r90db4w4k13y3k3w3k3g18r14k3r7w3/"><circle cx="232.1" cy="32.0" r="4" fill="#3465a4"><title>Stewart - (Galloway ?)</title></circle></a><a href="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="233.1" cy="75.7" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/variants/s17/r5k20n1k2n1k2n2k2n5o2n2o2n2o3n2o10w3~x2/"><circle cx="155.8" cy="82.9" r="4" fill="#3465a4"><title>Nike Golf Dark</title></circle></a><a href="/variants/s19/ly2r3k2r6k10w4k10b3r7k3r35b3k10w4k10r5k2r3ly2~x2/"><circle cx="197.9" cy="74.2" r="4" fill="#3465a4"><title>Cornish Brewery, Red</title></circle></a><a href="/variants/s10/r47dg14k5y2k3dg7k3y2k5dg14~x2/"><circle cx="214.6" cy="86.8" r="4" fill="#3465a4"><title>Harbor Club</title></circle></a><circle cx="208.5" cy="45.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s18/r8k24n1k1n1k1n1k1n8k1n1k1n1k1n1r20y1w1~x2/

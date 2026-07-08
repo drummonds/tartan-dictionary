@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Equity Vision Ltd"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n12k8db15w8/)
 (the same proportion at any scale), whose colour order is pattern [BKBW](/stripes/bkbw/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11397
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11397](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11397)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/lb3n6k4lb2~x2/"><circle cx="130.1" cy="317.0" r="4" fill="#3465a4"><title>Bedford Check (Fashion)</title></circle></a><a href="/variants/s4/lb3o6k4lb2~x2~o2500000/"><circle cx="121.5" cy="312.6" r="4" fill="#3465a4"><title>Bedford Check</title></circle></a><a href="/variants/s4/k19db18w9r3~x4/"><circle cx="126.7" cy="247.7" r="4" fill="#3465a4"><title>Raven (Fashion)</title></circle></a><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="88.0" cy="238.1" r="4" fill="#3465a4"><title>Heidrick Family (Personal)</title></circle></a><a href="/variants/s4/db2dr1k1lb1~x10/"><circle cx="86.7" cy="327.1" r="4" fill="#3465a4"><title>Kucher, Gregory (Personal)</title></circle></a><a href="/variants/s3/ly5db5k3~x4/"><circle cx="83.5" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic (Artefact)</title></circle></a><a href="/variants/s5/k4g8k7db8r4~x2/"><circle cx="47.1" cy="323.7" r="4" fill="#3465a4"><title>Durham</title></circle></a><a href="/variants/s3/b3k2db2~x4/"><circle cx="123.7" cy="366.0" r="4" fill="#3465a4"><title>Glen Lyon</title></circle></a><a href="/variants/s5/db3k1n3dp4g3~x4/"><circle cx="83.6" cy="301.5" r="4" fill="#3465a4"><title>Crinnion (Middlesbrough) (Personal)</title></circle></a><a href="/variants/s3/g3k2db2~x4/"><circle cx="103.3" cy="366.0" r="4" fill="#3465a4"><title>Glenlyon #2</title></circle></a><circle cx="41.2" cy="341.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/lb3n6k4lb2~x2/"><circle cx="130.4" cy="318.0" r="4" fill="#3465a4"><title>Bedford Check (Fashion)</title></circle></a><a href="/variants/s4/lb3o6k4lb2~x2~o2500000/"><circle cx="121.7" cy="313.7" r="4" fill="#3465a4"><title>Bedford Check</title></circle></a><a href="/variants/s4/k19db18w9r3~x4/"><circle cx="126.8" cy="248.5" r="4" fill="#3465a4"><title>Raven (Fashion)</title></circle></a><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="88.1" cy="238.9" r="4" fill="#3465a4"><title>Heidrick Family (Personal)</title></circle></a><a href="/variants/s4/db2dr1k1lb1~x10/"><circle cx="86.9" cy="328.1" r="4" fill="#3465a4"><title>Kucher, Gregory (Personal)</title></circle></a><a href="/variants/s3/ly5db5k3~x4/"><circle cx="83.8" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic (Artefact)</title></circle></a><a href="/variants/s5/k4g8k7db8r4~x2/"><circle cx="47.3" cy="324.7" r="4" fill="#3465a4"><title>Durham</title></circle></a><a href="/variants/s3/b3k2db2~x4/"><circle cx="124.0" cy="366.0" r="4" fill="#3465a4"><title>Glen Lyon</title></circle></a><a href="/variants/s5/db3k1n3dp4g3~x4/"><circle cx="83.8" cy="302.2" r="4" fill="#3465a4"><title>Crinnion (Middlesbrough) (Personal)</title></circle></a><a href="/variants/s3/g3k2db2~x4/"><circle cx="103.6" cy="366.0" r="4" fill="#3465a4"><title>Glenlyon #2</title></circle></a><circle cx="41.5" cy="342.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/n12k8db15w8~x2/

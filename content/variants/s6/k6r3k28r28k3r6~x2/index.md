@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Erskine"
   url: "/tartans/erskine-3/"
+- name: "Erskine, Black & Red (Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k6r3k28r28k3r6/)
 (the same proportion at any scale), whose colour order is pattern [KRKRKR](/stripes/krkrkr/).
@@ -14,7 +16,7 @@ Part of the [Erskine](/tartans/erskine-3/) tartan — the named design grouping 
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1185
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1185](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1185)
 
 <details class="attestations">
 <summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -86,8 +88,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3r1k16r16k1r3~x4/"><circle cx="323.1" cy="170.9" r="4" fill="#3465a4"><title>The Mary Erskine</title></circle></a><a href="/variants/s6/k31r4k47r47k4r31~x2/"><circle cx="289.3" cy="212.9" r="4" fill="#3465a4"><title>Erskine (Paton)</title></circle></a><a href="/variants/s6/k6r1k24r28k1r4~x2/"><circle cx="347.4" cy="147.2" r="4" fill="#3465a4"><title>Aragon (Erskine)</title></circle></a><a href="/variants/s7/k3r2k30r28k2r2w3~x2/"><circle cx="291.7" cy="139.5" r="4" fill="#3465a4"><title>Cunningham #2</title></circle></a><a href="/variants/s6/k2r12k2r12k33r2~x2/"><circle cx="357.4" cy="165.4" r="4" fill="#3465a4"><title>Cameron Black &amp; Red (Dress)</title></circle></a><a href="/variants/s6/k1r4k1r4k13r1~x4/"><circle cx="367.9" cy="173.3" r="4" fill="#3465a4"><title>Cameron, Black &amp; Red (dress)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y1~x2/"><circle cx="274.5" cy="187.1" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y2~x4/"><circle cx="259.0" cy="192.6" r="4" fill="#3465a4"><title>MacDonald of Ardnamurchan (Clan?)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y2~x2/"><circle cx="259.0" cy="192.6" r="4" fill="#3465a4"><title>MacIain</title></circle></a><a href="/variants/s8/db1r1k2r7k7r1k2w1~x6/"><circle cx="218.1" cy="170.4" r="4" fill="#3465a4"><title>Nakayama (Personal)</title></circle></a><circle cx="300.9" cy="197.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3r1k16r16k1r3~x4/"><circle cx="323.1" cy="171.5" r="4" fill="#3465a4"><title>The Mary Erskine</title></circle></a><a href="/variants/s6/k31r4k47r47k4r31~x2/"><circle cx="289.4" cy="213.7" r="4" fill="#3465a4"><title>Erskine (Paton)</title></circle></a><a href="/variants/s6/k6r1k24r28k1r4~x2/"><circle cx="347.4" cy="147.7" r="4" fill="#3465a4"><title>Aragon (Erskine)</title></circle></a><a href="/variants/s7/k3r2k30r28k2r2w3~x2/"><circle cx="291.7" cy="140.0" r="4" fill="#3465a4"><title>Cunningham #2</title></circle></a><a href="/variants/s6/k2r12k2r12k33r2~x2/"><circle cx="357.4" cy="166.0" r="4" fill="#3465a4"><title>Cameron Black &amp; Red (Dress)</title></circle></a><a href="/variants/s6/k1r4k1r4k13r1~x4/"><circle cx="368.0" cy="173.8" r="4" fill="#3465a4"><title>Cameron, Black &amp; Red (dress)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y1~x2/"><circle cx="274.5" cy="187.8" r="4" fill="#3465a4"><title>MacKeane (Clan?)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y2~x4/"><circle cx="259.1" cy="193.2" r="4" fill="#3465a4"><title>MacDonald of Ardnamurchan (Clan?)</title></circle></a><a href="/variants/s7/r4k8r4k8r12k1y2~x2/"><circle cx="259.1" cy="193.2" r="4" fill="#3465a4"><title>MacIain</title></circle></a><a href="/variants/s8/db1r1k2r7k7r1k2w1~x6/"><circle cx="218.1" cy="170.9" r="4" fill="#3465a4"><title>Nakayama (Personal)</title></circle></a><circle cx="300.9" cy="198.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k6r3k28r28k3r6~x2/

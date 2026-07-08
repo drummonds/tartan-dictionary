@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Hyndman"
   url: "/tartans/hyndman-2/"
+- name: "Hyndman (Omagh)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBGRGKBRBRB](/stripes/brbrbgrgkbrbrb/).
@@ -14,7 +16,7 @@ Part of the [Hyndman](/tartans/hyndman-2/) tartan — the named design grouping 
 
 Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dbi8dr4dbi6dr10dbi24dg12ly4dg4k4db18r10db4r6lr3~dbi1406275-db1204274/"><circle cx="73.5" cy="146.3" r="4" fill="#3465a4"><title>Hyndman Family Tartan</title></circle></a><a href="/variants/s12/db16dp2db2dp2db2dp8dg8dy8r8k1w1r2~x2~db1406275-k0700000/"><circle cx="158.4" cy="129.2" r="4" fill="#3465a4"><title>Salt Lake City Arts Council (Corp)</title></circle></a><a href="/variants/s12/y4dg19db4dg4db4dg6db12dbi12r15k4r4w4~db1204274-dbi1406275/"><circle cx="45.5" cy="177.8" r="4" fill="#3465a4"><title>Chattahoochee Commemorative Tartan</title></circle></a><a href="/variants/s11/db22r3db2n3k14dg20dy2dg20k14db11do6~x2/"><circle cx="146.3" cy="166.2" r="4" fill="#3465a4"><title>Wisconsin</title></circle></a><circle cx="85.3" cy="150.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dbi8dr4dbi6dr10dbi24dg12ly4dg4k4db18r10db4r6lr3~dbi1406275-db1204274/"><circle cx="73.4" cy="146.4" r="4" fill="#3465a4"><title>Hyndman Family Tartan</title></circle></a><a href="/variants/s12/db16dp2db2dp2db2dp8dg8dy8r8k1w1r2~x2~db1406275-k0700000/"><circle cx="158.4" cy="129.2" r="4" fill="#3465a4"><title>Salt Lake City Arts Council (Corp)</title></circle></a><a href="/variants/s12/y4dg19db4dg4db4dg6db12dbi12r15k4r4w4~db1204274-dbi1406275/"><circle cx="45.5" cy="178.2" r="4" fill="#3465a4"><title>Chattahoochee Commemorative Tartan</title></circle></a><a href="/variants/s11/db22r3db2n3k14dg20dy2dg20k14db11do6~x2/"><circle cx="146.3" cy="166.3" r="4" fill="#3465a4"><title>Wisconsin</title></circle></a><circle cx="85.2" cy="150.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/dbi8r4dbi6r10dbi24dg12o4dg4k4db18ri10db4ri6b3~dbi1604274-r1506028-db0805267-ri2008029/

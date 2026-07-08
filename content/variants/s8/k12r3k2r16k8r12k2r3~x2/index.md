@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacLeod #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k12r3k2r16k8r12k2r3/)
 (the same proportion at any scale), whose colour order is pattern [KRKRKRKR](/stripes/krkrkrkr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2627
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2627](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2627)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k30r3k2r3k2r27k30r4~x2/"><circle cx="366.9" cy="160.6" r="4" fill="#3465a4"><title>Murray of Ochtertyre #2</title></circle></a><a href="/variants/s9/k4r4k19r9k9r19k2r2w2~x2/"><circle cx="253.2" cy="173.0" r="4" fill="#3465a4"><title>Pink MacLeod (Personal)</title></circle></a><a href="/variants/s9/k4m4k19m9k9m19k2m2w3~x2/"><circle cx="245.1" cy="174.5" r="4" fill="#3465a4"><title>McLeod-Bain (Personal)</title></circle></a><a href="/variants/s8/k25r25k10lb3k10r25k25r3~x2/"><circle cx="260.6" cy="204.8" r="4" fill="#3465a4"><title>bodog.com Corporate Tartan</title></circle></a><a href="/variants/s9/w2r12k3r3k16r3k3r12ly2~x2/"><circle cx="234.9" cy="164.7" r="4" fill="#3465a4"><title>MacIver (Clan)</title></circle></a><a href="/variants/s9/y1r12k2r2k16r2k2r12w1/"><circle cx="289.5" cy="124.8" r="4" fill="#3465a4"><title>MacIvor</title></circle></a><a href="/variants/s9/y1r12k2r2k16r2k2r12w1~x2/"><circle cx="289.5" cy="124.8" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s9/y1r9k2r2k12r2k2r9w1~x4/"><circle cx="267.0" cy="143.5" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s9/y3r27k5r5k32r5k5r27w3~x2/"><circle cx="273.7" cy="145.3" r="4" fill="#3465a4"><title>MacIver #2</title></circle></a><a href="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/"><circle cx="293.6" cy="136.5" r="4" fill="#3465a4"><title>Hanna of Falkirk (Clan?)</title></circle></a><circle cx="308.7" cy="206.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k30r3k2r3k2r27k30r4~x2/"><circle cx="366.9" cy="161.1" r="4" fill="#3465a4"><title>Murray of Ochtertyre #2</title></circle></a><a href="/variants/s9/k4r4k19r9k9r19k2r2w2~x2/"><circle cx="253.3" cy="173.6" r="4" fill="#3465a4"><title>Pink MacLeod (Personal)</title></circle></a><a href="/variants/s9/k4m4k19m9k9m19k2m2w3~x2/"><circle cx="245.2" cy="175.1" r="4" fill="#3465a4"><title>McLeod-Bain (Personal)</title></circle></a><a href="/variants/s8/k25r25k10lb3k10r25k25r3~x2/"><circle cx="260.7" cy="205.5" r="4" fill="#3465a4"><title>bodog.com Corporate Tartan</title></circle></a><a href="/variants/s9/w2r12k3r3k16r3k3r12ly2~x2/"><circle cx="235.0" cy="165.3" r="4" fill="#3465a4"><title>MacIver (Clan)</title></circle></a><a href="/variants/s9/y1r12k2r2k16r2k2r12w1/"><circle cx="289.5" cy="125.2" r="4" fill="#3465a4"><title>MacIvor</title></circle></a><a href="/variants/s9/y1r12k2r2k16r2k2r12w1~x2/"><circle cx="289.5" cy="125.2" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s9/y1r9k2r2k12r2k2r9w1~x4/"><circle cx="267.0" cy="144.0" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s9/y3r27k5r5k32r5k5r27w3~x2/"><circle cx="273.7" cy="145.8" r="4" fill="#3465a4"><title>MacIver #2</title></circle></a><a href="/variants/s10/k9r4k2r4k2r30k9r4k14lo2~x2/"><circle cx="293.6" cy="136.9" r="4" fill="#3465a4"><title>Hanna of Falkirk (Clan?)</title></circle></a><circle cx="308.7" cy="207.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k12r3k2r16k8r12k2r3~x2/

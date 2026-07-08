@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Martin Family, Robert N (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr27w3dr6w2g3/)
 (the same proportion at any scale), whose colour order is pattern [BWBWG](/stripes/bwbwg/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10481
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10481](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10481)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r27w3r6w2dg3~x4~r1506028/"><circle cx="521.0" cy="181.2" r="4" fill="#3465a4"><title>Martin Family, Robert N Personal Tartan</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4/"><circle cx="540.2" cy="181.9" r="4" fill="#3465a4"><title>Martin, Robert N (Personal)</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="411.7" cy="205.4" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><a href="/variants/s5/dr35w3dr8y2dg11~x2/"><circle cx="456.4" cy="165.9" r="4" fill="#3465a4"><title>Highlands of Wyomissing (Corporate)</title></circle></a><a href="/variants/s5/r35w3r8y2g11~x2/"><circle cx="485.7" cy="179.8" r="4" fill="#3465a4"><title>Highlands at Wyomissing, The</title></circle></a><a href="/variants/s5/r38w9r3do9w3~x2/"><circle cx="411.1" cy="192.4" r="4" fill="#3465a4"><title>Loch Morar</title></circle></a><a href="/variants/s5/dr20k3dr4w2k7~x2/"><circle cx="381.5" cy="201.2" r="4" fill="#3465a4"><title>Loevenstein Castle</title></circle></a><a href="/variants/s5/db1dr9db2dr9ly1~x4/"><circle cx="621.4" cy="273.6" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Red (Fashion)</title></circle></a><a href="/variants/s5/r12w1r2dg1b3~x4/"><circle cx="476.3" cy="183.9" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s5/r2dg1r1dg10w1~x4/"><circle cx="448.6" cy="201.0" r="4" fill="#3465a4"><title>Welsh National District Tartan</title></circle></a><circle cx="528.9" cy="197.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r27w3r6w2dg3~x4~r1506028/"><circle cx="521.1" cy="181.8" r="4" fill="#3465a4"><title>Martin Family, Robert N Personal Tartan</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4/"><circle cx="540.3" cy="182.5" r="4" fill="#3465a4"><title>Martin, Robert N (Personal)</title></circle></a><a href="/variants/s5/dr13w3dr1dg3w1~x6/"><circle cx="411.9" cy="206.0" r="4" fill="#3465a4"><title>Glen Shiel (Fashion)</title></circle></a><a href="/variants/s5/dr35w3dr8y2dg11~x2/"><circle cx="456.4" cy="166.2" r="4" fill="#3465a4"><title>Highlands of Wyomissing (Corporate)</title></circle></a><a href="/variants/s5/r35w3r8y2g11~x2/"><circle cx="485.8" cy="180.2" r="4" fill="#3465a4"><title>Highlands at Wyomissing, The</title></circle></a><a href="/variants/s5/r38w9r3do9w3~x2/"><circle cx="411.2" cy="193.1" r="4" fill="#3465a4"><title>Loch Morar</title></circle></a><a href="/variants/s5/dr20k3dr4w2k7~x2/"><circle cx="381.6" cy="201.8" r="4" fill="#3465a4"><title>Loevenstein Castle</title></circle></a><a href="/variants/s5/db1dr9db2dr9ly1~x4/"><circle cx="621.7" cy="274.1" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Red (Fashion)</title></circle></a><a href="/variants/s5/r12w1r2dg1b3~x4/"><circle cx="476.4" cy="184.4" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s5/r2dg1r1dg10w1~x4/"><circle cx="448.7" cy="201.6" r="4" fill="#3465a4"><title>Welsh National District Tartan</title></circle></a><circle cx="529.0" cy="197.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dr27w3dr6w2g3~x4/

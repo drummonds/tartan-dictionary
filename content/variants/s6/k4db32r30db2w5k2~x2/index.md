@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Masai Shuka 17 (Artefact)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4db32r30db2w5k2/)
 (the same proportion at any scale), whose colour order is pattern [KBRBWK](/stripes/kbrbwk/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7277
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7277](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7277)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r80db30k3dp2db30k12/"><circle cx="317.4" cy="119.0" r="4" fill="#3465a4"><title>Double Elvis Gallery</title></circle></a><a href="/variants/s6/r40db15k2dp1db15k6~x2/"><circle cx="313.6" cy="119.7" r="4" fill="#3465a4"><title>Double Elvis Gallery (Corporate)</title></circle></a><a href="/variants/s6/db18r9db2r3k1n1~x4/"><circle cx="352.6" cy="149.9" r="4" fill="#3465a4"><title>MacGregor, Modern</title></circle></a><a href="/variants/s6/g3r2db22r22db2w3~x2/"><circle cx="274.3" cy="186.0" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><a href="/variants/s6/g1r1db16r16db1w1~x2/"><circle cx="326.4" cy="162.6" r="4" fill="#3465a4"><title>Galloway, dress</title></circle></a><a href="/variants/s6/k3r11db3w1db3w1~x4/"><circle cx="226.4" cy="167.1" r="4" fill="#3465a4"><title>Suntan (Masai Shuka) (District?)</title></circle></a><a href="/variants/s7/k2dbi2r16db2y1db13w2~x2~dbi1604274-db0805267/"><circle cx="193.4" cy="119.2" r="4" fill="#3465a4"><title>Wishart, dress</title></circle></a><a href="/variants/s7/lb4y1r28db24k5lb5k3~x4/"><circle cx="207.9" cy="116.8" r="4" fill="#3465a4"><title>McKnight #2 (Personal)</title></circle></a><a href="/variants/s6/y2db1r16db16r1g2~x2/"><circle cx="307.8" cy="172.5" r="4" fill="#3465a4"><title>Galloway dress</title></circle></a><a href="/variants/s6/dg2r1db16r16db1y2~x2/"><circle cx="311.6" cy="173.2" r="4" fill="#3465a4"><title>Galloway Dress (Yellow Line)</title></circle></a><circle cx="242.3" cy="147.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r80db30k3dp2db30k12/"><circle cx="317.3" cy="119.3" r="4" fill="#3465a4"><title>Double Elvis Gallery</title></circle></a><a href="/variants/s6/r40db15k2dp1db15k6~x2/"><circle cx="313.6" cy="120.0" r="4" fill="#3465a4"><title>Double Elvis Gallery (Corporate)</title></circle></a><a href="/variants/s6/db18r9db2r3k1n1~x4/"><circle cx="352.5" cy="150.3" r="4" fill="#3465a4"><title>MacGregor, Modern</title></circle></a><a href="/variants/s6/g3r2db22r22db2w3~x2/"><circle cx="274.4" cy="186.5" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><a href="/variants/s6/g1r1db16r16db1w1~x2/"><circle cx="326.5" cy="163.0" r="4" fill="#3465a4"><title>Galloway, dress</title></circle></a><a href="/variants/s6/k3r11db3w1db3w1~x4/"><circle cx="226.4" cy="167.6" r="4" fill="#3465a4"><title>Suntan (Masai Shuka) (District?)</title></circle></a><a href="/variants/s7/k2dbi2r16db2y1db13w2~x2~dbi1604274-db0805267/"><circle cx="193.3" cy="119.5" r="4" fill="#3465a4"><title>Wishart, dress</title></circle></a><a href="/variants/s7/lb4y1r28db24k5lb5k3~x4/"><circle cx="207.8" cy="117.1" r="4" fill="#3465a4"><title>McKnight #2 (Personal)</title></circle></a><a href="/variants/s6/y2db1r16db16r1g2~x2/"><circle cx="307.8" cy="172.9" r="4" fill="#3465a4"><title>Galloway dress</title></circle></a><a href="/variants/s6/dg2r1db16r16db1y2~x2/"><circle cx="311.7" cy="173.6" r="4" fill="#3465a4"><title>Galloway Dress (Yellow Line)</title></circle></a><circle cx="242.3" cy="148.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k4db32r30db2w5k2~x2/

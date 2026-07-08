@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ruben Delanghe (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g14k5db2r21g18k4db18r9k2r12/)
 (the same proportion at any scale), whose colour order is pattern [GKBRGKBRKR](/stripes/gkbrgkbrkr/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10054
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10054](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10054)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4r14t2dg16r3k3r3t12dg4~x2/"><circle cx="138.7" cy="194.4" r="4" fill="#3465a4"><title>Crook</title></circle></a><a href="/variants/s9/k4r14t2g16r3k3r3t12g4~x2/"><circle cx="134.9" cy="197.1" r="4" fill="#3465a4"><title>Crook (Name)</title></circle></a><a href="/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/"><circle cx="126.5" cy="177.1" r="4" fill="#3465a4"><title>Murray of Atholl, Red Dress</title></circle></a><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><circle cx="108.9" cy="183.8" r="4" fill="#3465a4"><title>Unidentified Sample #2</title></circle></a><a href="/variants/s10/g3r20k2db3k13db3k2g20r3db2~x2/"><circle cx="134.9" cy="156.1" r="4" fill="#3465a4"><title>Matthew Gloag</title></circle></a><a href="/variants/s11/k2r8g2r8k8db1k4r2g12r8g2~x2/"><circle cx="180.3" cy="167.0" r="4" fill="#3465a4"><title>MacNicol/Nicolson (W &amp; A Smith)</title></circle></a><a href="/variants/s11/k2r8g2r8k8t1k4r2g12r8g2~x4/"><circle cx="180.3" cy="167.2" r="4" fill="#3465a4"><title>MacNicol Dress (Clan) (Smiths)</title></circle></a><a href="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/"><circle cx="191.6" cy="177.5" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/variants/s10/n28k3r22k8w3k8r22k3n28k3~x2/"><circle cx="195.1" cy="172.2" r="4" fill="#3465a4"><title>Henkel</title></circle></a><a href="/variants/s9/db3k5r2g2r3g12r6k1r3~x4/"><circle cx="162.9" cy="174.1" r="4" fill="#3465a4"><title>Fulton (1999) (Name)</title></circle></a><circle cx="153.4" cy="187.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4r14t2dg16r3k3r3t12dg4~x2/"><circle cx="138.7" cy="194.9" r="4" fill="#3465a4"><title>Crook</title></circle></a><a href="/variants/s9/k4r14t2g16r3k3r3t12g4~x2/"><circle cx="135.0" cy="197.6" r="4" fill="#3465a4"><title>Crook (Name)</title></circle></a><a href="/variants/s13/db4k1db5k4g8r4g8k4r3db3r12db2r4~x4/"><circle cx="126.5" cy="177.6" r="4" fill="#3465a4"><title>Murray of Atholl, Red Dress</title></circle></a><a href="/variants/s13/r8db3r18db3r3k6g12r3g12k6db12k2db7~x2/"><circle cx="108.9" cy="184.3" r="4" fill="#3465a4"><title>Unidentified Sample #2</title></circle></a><a href="/variants/s10/g3r20k2db3k13db3k2g20r3db2~x2/"><circle cx="134.9" cy="156.5" r="4" fill="#3465a4"><title>Matthew Gloag</title></circle></a><a href="/variants/s11/k2r8g2r8k8db1k4r2g12r8g2~x2/"><circle cx="180.4" cy="167.5" r="4" fill="#3465a4"><title>MacNicol/Nicolson (W &amp; A Smith)</title></circle></a><a href="/variants/s11/k2r8g2r8k8t1k4r2g12r8g2~x4/"><circle cx="180.3" cy="167.7" r="4" fill="#3465a4"><title>MacNicol Dress (Clan) (Smiths)</title></circle></a><a href="/variants/s8/dg8o2dg12k6dg3db6o24k4~x2~dg1806142-o2208036/"><circle cx="191.6" cy="177.9" r="4" fill="#3465a4"><title>Dickie</title></circle></a><a href="/variants/s10/n28k3r22k8w3k8r22k3n28k3~x2/"><circle cx="195.1" cy="172.6" r="4" fill="#3465a4"><title>Henkel</title></circle></a><a href="/variants/s9/db3k5r2g2r3g12r6k1r3~x4/"><circle cx="162.9" cy="174.6" r="4" fill="#3465a4"><title>Fulton (1999) (Name)</title></circle></a><circle cx="153.5" cy="187.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g14k5db2r21g18k4db18r9k2r12/

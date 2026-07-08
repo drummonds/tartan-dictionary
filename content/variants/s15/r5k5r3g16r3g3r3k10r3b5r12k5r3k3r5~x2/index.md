@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Grant of Ballindalloch"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5/)
 (the same proportion at any scale), whose colour order is pattern [RKRGRGRKRBRKRKR](/stripes/rkrgrgrkrbrkrkr/).
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n6k2w1k2n3r6n1r6~x4/"><circle cx="157.2" cy="189.9" r="4" fill="#3465a4"><title>Sydney (Nova Scotia)</title></circle></a><a href="/variants/s13/k2r10g2r10g13r2k6lb2k8r10g2r10k2~x2/"><circle cx="189.2" cy="178.4" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><a href="/variants/s13/k2r10g2r10g13r2k6lb2k8r10g2r10k2/"><circle cx="189.2" cy="178.4" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><a href="/variants/s13/k2r10g2r10g13r2k6w2k8r10g2r10k2/"><circle cx="187.2" cy="177.8" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><a href="/variants/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/"><circle cx="145.7" cy="188.1" r="4" fill="#3465a4"><title>Carnegie Check</title></circle></a><a href="/variants/s13/r12g16r3g16r3g16r4db16r5k9r12g3r12~x2/"><circle cx="138.9" cy="217.3" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><a href="/variants/s13/y3r3k5r2db9r7k1r3k1r7g7r2k2~x2/"><circle cx="139.9" cy="161.9" r="4" fill="#3465a4"><title>Prince Charles Edward (Edinburgh)</title></circle></a><a href="/variants/s12/k10r12g3r12k2r12g3r12g20r2k8lb2/"><circle cx="200.9" cy="169.2" r="4" fill="#3465a4"><title>Nicolson MacNicol</title></circle></a><a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2~x2/"><circle cx="145.2" cy="187.7" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2/"><circle cx="145.2" cy="187.7" r="4" fill="#3465a4"><title>Montrose</title></circle></a><circle cx="132.5" cy="183.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n6k2w1k2n3r6n1r6~x4/"><circle cx="157.3" cy="190.5" r="4" fill="#3465a4"><title>Sydney (Nova Scotia)</title></circle></a><a href="/variants/s13/k2r10g2r10g13r2k6lb2k8r10g2r10k2~x2/"><circle cx="189.3" cy="179.0" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><a href="/variants/s13/k2r10g2r10g13r2k6lb2k8r10g2r10k2/"><circle cx="189.3" cy="179.0" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><a href="/variants/s13/k2r10g2r10g13r2k6w2k8r10g2r10k2/"><circle cx="187.2" cy="178.4" r="4" fill="#3465a4"><title>MacNicol D</title></circle></a><a href="/variants/s17/dy6k1lr1k1lr1k1lr1k1lr1k1lr2k2lr2k2lr2k2lr2~x2/"><circle cx="145.8" cy="188.7" r="4" fill="#3465a4"><title>Carnegie Check</title></circle></a><a href="/variants/s13/r12g16r3g16r3g16r4db16r5k9r12g3r12~x2/"><circle cx="139.0" cy="218.0" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><a href="/variants/s13/y3r3k5r2db9r7k1r3k1r7g7r2k2~x2/"><circle cx="139.9" cy="162.4" r="4" fill="#3465a4"><title>Prince Charles Edward (Edinburgh)</title></circle></a><a href="/variants/s12/k10r12g3r12k2r12g3r12g20r2k8lb2/"><circle cx="200.9" cy="169.7" r="4" fill="#3465a4"><title>Nicolson MacNicol</title></circle></a><a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2~x2/"><circle cx="145.2" cy="188.3" r="4" fill="#3465a4"><title>Montrose</title></circle></a><a href="/variants/s9/lb2k2r14g15k8lb7r14k2lb2/"><circle cx="145.2" cy="188.3" r="4" fill="#3465a4"><title>Montrose</title></circle></a><circle cx="132.6" cy="184.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/r5k5r3g16r3g3r3k10r3b5r12k5r3k3r5~x2/

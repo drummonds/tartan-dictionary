@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kaptain Family (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1w1y2g1k10db1r2w1/)
 (the same proportion at any scale), whose colour order is pattern [KWGGKBRW](/stripes/kwggkbrw/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11313
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11313](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11313)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5k26y2dg24db7k3r3~x2/"><circle cx="154.7" cy="139.0" r="4" fill="#3465a4"><title>Cornish Hunting District Tartan</title></circle></a><a href="/variants/s9/w2k25dt2dg6dy2r6dt2k25w2~x2~dg1704144/"><circle cx="311.4" cy="109.3" r="4" fill="#3465a4"><title>Stott Personal Tartan</title></circle></a><a href="/variants/s9/w2k25b2dg6dy2r6b2k25w2~x2~dg1704144/"><circle cx="307.2" cy="107.9" r="4" fill="#3465a4"><title>Stott (Personal)</title></circle></a><a href="/variants/s9/w2k25b2dg6dy2r6b2k25w2~x2/"><circle cx="309.2" cy="108.4" r="4" fill="#3465a4"><title>Stott (Personal)</title></circle></a><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><circle cx="305.9" cy="89.1" r="4" fill="#3465a4"><title>Tainsh (2016)</title></circle></a><a href="/variants/s7/r5g3y6w3y5k55w5~x2/"><circle cx="331.4" cy="95.4" r="4" fill="#3465a4"><title>Avalon (Corporate)</title></circle></a><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="332.0" cy="95.4" r="4" fill="#3465a4"><title>Avalon</title></circle></a><a href="/variants/s6/dy6k5ly4k48dr36w6/"><circle cx="235.9" cy="153.7" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="140.7" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="305.7" cy="80.4" r="4" fill="#3465a4"><title>Victory</title></circle></a><circle cx="214.6" cy="114.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w5k26y2dg24db7k3r3~x2/"><circle cx="154.6" cy="139.3" r="4" fill="#3465a4"><title>Cornish Hunting District Tartan</title></circle></a><a href="/variants/s9/w2k25dt2dg6dy2r6dt2k25w2~x2~dg1704144/"><circle cx="311.3" cy="109.5" r="4" fill="#3465a4"><title>Stott Personal Tartan</title></circle></a><a href="/variants/s9/w2k25b2dg6dy2r6b2k25w2~x2~dg1704144/"><circle cx="307.1" cy="108.2" r="4" fill="#3465a4"><title>Stott (Personal)</title></circle></a><a href="/variants/s9/w2k25b2dg6dy2r6b2k25w2~x2/"><circle cx="309.1" cy="108.6" r="4" fill="#3465a4"><title>Stott (Personal)</title></circle></a><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><circle cx="305.8" cy="89.3" r="4" fill="#3465a4"><title>Tainsh (2016)</title></circle></a><a href="/variants/s7/r5g3y6w3y5k55w5~x2/"><circle cx="331.3" cy="95.6" r="4" fill="#3465a4"><title>Avalon (Corporate)</title></circle></a><a href="/variants/s7/r5dg3y6w3y5k55w5~x2~dg1806142/"><circle cx="331.9" cy="95.7" r="4" fill="#3465a4"><title>Avalon</title></circle></a><a href="/variants/s6/dy6k5ly4k48dr36w6/"><circle cx="235.9" cy="154.1" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="141.2" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="305.6" cy="80.6" r="4" fill="#3465a4"><title>Victory</title></circle></a><circle cx="214.5" cy="114.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k1w1y2g1k10db1r2w1~x10/

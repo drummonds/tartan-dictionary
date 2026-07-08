@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacBean Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g10w4r4dr4g2dr4r4w4g10w4lb4w2lb4w23k2r2/)
 (the same proportion at any scale), whose colour order is pattern [GWRBGBRWGWWWWWKR](/stripes/gwrbgbrwgwwwwwkr/).
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2292
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2292](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2292)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/y10w1g2k2w2r1w2k2g2k1y10w7r3w13lb5~x2/"><circle cx="96.1" cy="102.3" r="4" fill="#3465a4"><title>Contreceour Dress Corporate Tartan</title></circle></a><a href="/variants/s17/r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3~x2/"><circle cx="100.3" cy="86.9" r="4" fill="#3465a4"><title>Victoria</title></circle></a><a href="/variants/s14/w9r5w29db3k10ly2k3w3k3g12r6k3r3w2~x2/"><circle cx="132.2" cy="93.4" r="4" fill="#3465a4"><title>Hay - Stewart (Fashion)</title></circle></a><a href="/variants/s11/w4lb5lo3lb22dy4k3g16lo7k2lo7dy2~x2/"><circle cx="104.9" cy="141.9" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><a href="/variants/s13/lb2w1lb12dt6k3w1g1w1g4w2k1w1r1~x4~lb3402028-r2109032/"><circle cx="106.7" cy="111.4" r="4" fill="#3465a4"><title>Diana Pink (Commemorative)</title></circle></a><a href="/variants/s14/r5w23db5w5k7y3k3w2k3g16r8g3r6w3~x2/"><circle cx="71.4" cy="120.8" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><a href="/variants/s17/r3w5r2w12y1k2y1w2y1k2y2k2r1g4r2g4r2~x2/"><circle cx="104.0" cy="120.1" r="4" fill="#3465a4"><title>Anderson Dress</title></circle></a><a href="/variants/s13/w1r1t8lb1k1w8k1lo8lb1lo1t8lb1lo1~x6/"><circle cx="131.3" cy="144.1" r="4" fill="#3465a4"><title>Robieson (Personal)</title></circle></a><a href="/variants/s14/t14lb2ly2lb2t25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="154.9" cy="112.9" r="4" fill="#3465a4"><title>Letang (Personal)</title></circle></a><a href="/variants/s16/db20g5k5w22db5w22k2y2k2r6g4w4g3r4k2y2~x2/"><circle cx="107.2" cy="102.5" r="4" fill="#3465a4"><title>Gayre Arisaidh</title></circle></a><circle cx="117.5" cy="114.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/y10w1g2k2w2r1w2k2g2k1y10w7r3w13lb5~x2/"><circle cx="96.1" cy="102.6" r="4" fill="#3465a4"><title>Contreceour Dress Corporate Tartan</title></circle></a><a href="/variants/s17/r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3~x2/"><circle cx="100.2" cy="87.2" r="4" fill="#3465a4"><title>Victoria</title></circle></a><a href="/variants/s14/w9r5w29db3k10ly2k3w3k3g12r6k3r3w2~x2/"><circle cx="132.1" cy="93.7" r="4" fill="#3465a4"><title>Hay - Stewart (Fashion)</title></circle></a><a href="/variants/s11/w4lb5lo3lb22dy4k3g16lo7k2lo7dy2~x2/"><circle cx="104.9" cy="142.3" r="4" fill="#3465a4"><title>Cossar (Personal)</title></circle></a><a href="/variants/s13/lb2w1lb12dt6k3w1g1w1g4w2k1w1r1~x4~lb3402028-r2109032/"><circle cx="106.6" cy="111.7" r="4" fill="#3465a4"><title>Diana Pink (Commemorative)</title></circle></a><a href="/variants/s14/r5w23db5w5k7y3k3w2k3g16r8g3r6w3~x2/"><circle cx="71.4" cy="121.2" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><a href="/variants/s17/r3w5r2w12y1k2y1w2y1k2y2k2r1g4r2g4r2~x2/"><circle cx="104.0" cy="120.5" r="4" fill="#3465a4"><title>Anderson Dress</title></circle></a><a href="/variants/s13/w1r1t8lb1k1w8k1lo8lb1lo1t8lb1lo1~x6/"><circle cx="131.3" cy="144.4" r="4" fill="#3465a4"><title>Robieson (Personal)</title></circle></a><a href="/variants/s14/t14lb2ly2lb2t25k6w17r3w3r3w3r3w3r3~x2/"><circle cx="154.9" cy="113.2" r="4" fill="#3465a4"><title>Letang (Personal)</title></circle></a><a href="/variants/s16/db20g5k5w22db5w22k2y2k2r6g4w4g3r4k2y2~x2/"><circle cx="107.2" cy="102.8" r="4" fill="#3465a4"><title>Gayre Arisaidh</title></circle></a><circle cx="117.4" cy="114.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/g10w4r4dr4g2dr4r4w4g10w4lb4w2lb4w23k2r2~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. Christopher (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg5r3dg3ly2dg1lyi8dg24ly2/)
 (the same proportion at any scale), whose colour order is pattern [GRGYGYGY](/stripes/grgygygy/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6778
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6778](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6778)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r4g3dp3g44dp16g10w2g2dp2~x2/"><circle cx="432.5" cy="138.9" r="4" fill="#3465a4"><title>Glenfeshie (Personal)</title></circle></a><a href="/variants/s9/r2g2r2g4ly3dy45g2dy3g2~x2/"><circle cx="513.2" cy="117.6" r="4" fill="#3465a4"><title>Welsh, Stanly-Gpa (Personal)</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="314.7" cy="178.9" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="324.9" cy="200.5" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/"><circle cx="408.3" cy="191.0" r="4" fill="#3465a4"><title>Glenlivet Check (Corporate)</title></circle></a><a href="/variants/s10/dg40r8dg26g5dg10ly3db4ly2db1ly16~x2/"><circle cx="375.7" cy="111.0" r="4" fill="#3465a4"><title>Lodge Isandlwana</title></circle></a><a href="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/"><circle cx="334.3" cy="186.1" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s7/g3r16g4k6g28r1g3~x2/"><circle cx="369.0" cy="149.9" r="4" fill="#3465a4"><title>Maxwell, hunting</title></circle></a><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="407.6" cy="162.0" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><a href="/variants/s7/g3dr16g4k6g28dr2g3~x2/"><circle cx="349.7" cy="183.7" r="4" fill="#3465a4"><title>Maxwell Htg (Clan)</title></circle></a><circle cx="413.9" cy="143.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r4g3dp3g44dp16g10w2g2dp2~x2/"><circle cx="432.5" cy="139.1" r="4" fill="#3465a4"><title>Glenfeshie (Personal)</title></circle></a><a href="/variants/s9/r2g2r2g4ly3dy45g2dy3g2~x2/"><circle cx="513.2" cy="117.7" r="4" fill="#3465a4"><title>Welsh, Stanly-Gpa (Personal)</title></circle></a><a href="/variants/s8/dg50r5dg8w10dg8db8dg8y21~x2/"><circle cx="314.7" cy="179.3" r="4" fill="#3465a4"><title>St Patrick's Krewe</title></circle></a><a href="/variants/s8/g10r1g1r2g8db10g1ly1~x4/"><circle cx="324.9" cy="200.9" r="4" fill="#3465a4"><title>Glen Esk</title></circle></a><a href="/variants/s8/dg18dr6dg75b6dg13ly35dg12b6/"><circle cx="408.3" cy="191.4" r="4" fill="#3465a4"><title>Glenlivet Check (Corporate)</title></circle></a><a href="/variants/s10/dg40r8dg26g5dg10ly3db4ly2db1ly16~x2/"><circle cx="375.6" cy="111.2" r="4" fill="#3465a4"><title>Lodge Isandlwana</title></circle></a><a href="/variants/s7/dg3w1dg12r6dg3k3dg2~x4~dg1806142/"><circle cx="334.3" cy="186.6" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/variants/s7/g3r16g4k6g28r1g3~x2/"><circle cx="369.0" cy="150.3" r="4" fill="#3465a4"><title>Maxwell, hunting</title></circle></a><a href="/variants/s10/g33db2g33r2db12r12g4r2g4w3~x2/"><circle cx="407.6" cy="162.4" r="4" fill="#3465a4"><title>Island Weavers (Corporate)</title></circle></a><a href="/variants/s7/g3dr16g4k6g28dr2g3~x2/"><circle cx="349.8" cy="184.1" r="4" fill="#3465a4"><title>Maxwell Htg (Clan)</title></circle></a><circle cx="413.9" cy="143.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg5r3dg3ly2dg1lyi8dg24ly2~x2~ly2705081-lyi3104101/

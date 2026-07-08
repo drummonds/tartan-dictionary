@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kucher, Gregory (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2dr1k1lb1/)
 (the same proportion at any scale), whose colour order is pattern [BBKW](/stripes/bbkw/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10086
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10086](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10086)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/b3k2db2~x4/"><circle cx="123.7" cy="366.0" r="4" fill="#3465a4"><title>Glen Lyon</title></circle></a><a href="/variants/s3/r4k7lb4~x2~r2109032/"><circle cx="119.9" cy="350.6" r="4" fill="#3465a4"><title>Wilson's No.198</title></circle></a><a href="/variants/s3/r4k7lb4~x2/"><circle cx="119.6" cy="350.1" r="4" fill="#3465a4"><title>Wilson's, No 198</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="195.1" cy="277.2" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2/"><circle cx="88.5" cy="258.6" r="4" fill="#3465a4"><title>Gandy of Myrton (Name)</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2~db1404245/"><circle cx="91.0" cy="260.7" r="4" fill="#3465a4"><title>Gandy of Myrton Clan/Family Tartan</title></circle></a><a href="/variants/s3/db1k2r1~x42/"><circle cx="170.0" cy="338.7" r="4" fill="#3465a4"><title>Allen, Nicholas (Personal)</title></circle></a><a href="/variants/s4/b9g9k10lb2~x2/"><circle cx="90.8" cy="283.0" r="4" fill="#3465a4"><title>Wilson's, No 196</title></circle></a><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><circle cx="144.9" cy="261.6" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s5/dr3k1g1k1db3~x16/"><circle cx="135.0" cy="288.2" r="4" fill="#3465a4"><title>Clark Clerk(e)</title></circle></a><circle cx="86.7" cy="327.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/b3k2db2~x4/"><circle cx="124.0" cy="366.0" r="4" fill="#3465a4"><title>Glen Lyon</title></circle></a><a href="/variants/s3/r4k7lb4~x2~r2109032/"><circle cx="120.2" cy="351.8" r="4" fill="#3465a4"><title>Wilson's No.198</title></circle></a><a href="/variants/s3/r4k7lb4~x2/"><circle cx="119.9" cy="351.3" r="4" fill="#3465a4"><title>Wilson's, No 198</title></circle></a><a href="/variants/s4/g21db34r14w6~x2/"><circle cx="195.2" cy="278.0" r="4" fill="#3465a4"><title>Harbison (2015)</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2/"><circle cx="88.6" cy="259.4" r="4" fill="#3465a4"><title>Gandy of Myrton (Name)</title></circle></a><a href="/variants/s6/r14w5db20k10lb10db10~x2~db1404245/"><circle cx="91.1" cy="261.5" r="4" fill="#3465a4"><title>Gandy of Myrton Clan/Family Tartan</title></circle></a><a href="/variants/s3/db1k2r1~x42/"><circle cx="170.2" cy="339.7" r="4" fill="#3465a4"><title>Allen, Nicholas (Personal)</title></circle></a><a href="/variants/s4/b9g9k10lb2~x2/"><circle cx="91.0" cy="283.9" r="4" fill="#3465a4"><title>Wilson's, No 196</title></circle></a><a href="/variants/s6/r9db6dbi13db21y18w4~x2~dbi1003265-y2400000/"><circle cx="145.1" cy="262.2" r="4" fill="#3465a4"><title>Fox-Eves Wedding</title></circle></a><a href="/variants/s5/dr3k1g1k1db3~x16/"><circle cx="135.2" cy="288.9" r="4" fill="#3465a4"><title>Clark Clerk(e)</title></circle></a><circle cx="86.9" cy="328.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/db2dr1k1lb1~x10/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tomatin Distillery"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do9k8n15dy50k3dr2k2dg1k2do1k1dy9/)
 (the same proportion at any scale), whose colour order is pattern [BKBGKBKGKBKG](/stripes/bkbgkbkgkbkg/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11480
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11480](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11480)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dp10lb1dg2k2dg18r1n45k1~x2/"><circle cx="391.8" cy="91.9" r="4" fill="#3465a4"><title>Highland Burn (Fashion)</title></circle></a><a href="/variants/s11/ki90n8k10n3k4g4k3r16k14ly6k28~ki0803038-k0700000/"><circle cx="306.3" cy="80.8" r="4" fill="#3465a4"><title>Father's Pride, The</title></circle></a><a href="/variants/s10/db56dg11r2dg7k2dg7r2dg7dbi3y4~x2~db1003265-dbi1208266/"><circle cx="425.1" cy="113.8" r="4" fill="#3465a4"><title>CAL FIRE Local 2881</title></circle></a><circle cx="407.5" cy="73.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dp10lb1dg2k2dg18r1n45k1~x2/"><circle cx="391.7" cy="91.7" r="4" fill="#3465a4"><title>Highland Burn (Fashion)</title></circle></a><a href="/variants/s11/ki90n8k10n3k4g4k3r16k14ly6k28~ki0803038-k0700000/"><circle cx="306.1" cy="80.7" r="4" fill="#3465a4"><title>Father's Pride, The</title></circle></a><a href="/variants/s10/db56dg11r2dg7k2dg7r2dg7dbi3y4~x2~db1003265-dbi1208266/"><circle cx="425.0" cy="113.5" r="4" fill="#3465a4"><title>CAL FIRE Local 2881</title></circle></a><circle cx="407.3" cy="72.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/do9k8n15dy50k3dr2k2dg1k2do1k1dy9~x2/

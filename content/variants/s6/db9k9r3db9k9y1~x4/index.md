@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Old Brigade"
   url: "/tartans/old-brigade/"
+- name: "Old Brigade"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db9k9r3db9k9y1/)
 (the same proportion at any scale), whose colour order is pattern [BKRBKG](/stripes/bkrbkg/).
@@ -14,7 +16,7 @@ Part of the [Old Brigade](/tartans/old-brigade/) tartan — the named design gro
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10718
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10718](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10718)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db9k9r3db9k9ly1~x4/"><circle cx="211.4" cy="232.7" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/variants/s5/k15db4k15db28r2~x2/"><circle cx="328.7" cy="220.2" r="4" fill="#3465a4"><title>MacKay (Blue) #2</title></circle></a><a href="/variants/s5/k5db1k5db7w2~x2/"><circle cx="224.0" cy="252.0" r="4" fill="#3465a4"><title>Grampian, T.V.</title></circle></a><a href="/variants/s5/db20k5db18y26k6~x2/"><circle cx="238.5" cy="272.8" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s5/k7r3k24b28y3~x2/"><circle cx="225.6" cy="195.0" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s5/k15dy2k10db18w3~x2/"><circle cx="240.2" cy="217.6" r="4" fill="#3465a4"><title>College of Radiographers Corporate Tartan</title></circle></a><a href="/variants/s5/k15y2k10db18w3~x2/"><circle cx="235.5" cy="216.2" r="4" fill="#3465a4"><title>College of Radiographers</title></circle></a><a href="/variants/s4/k1db8k8y1/"><circle cx="309.2" cy="244.5" r="4" fill="#3465a4"><title>Wallace Blue</title></circle></a><a href="/variants/s5/k15lo2k10db18lr3~x2/"><circle cx="244.7" cy="219.6" r="4" fill="#3465a4"><title>College of Radiographers</title></circle></a><a href="/variants/s4/k3db23k17r2~x2/"><circle cx="327.2" cy="226.4" r="4" fill="#3465a4"><title>Wellington Variation</title></circle></a><circle cx="219.8" cy="235.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db9k9r3db9k9ly1~x4/"><circle cx="211.5" cy="233.2" r="4" fill="#3465a4"><title>Old Brigade</title></circle></a><a href="/variants/s5/k15db4k15db28r2~x2/"><circle cx="328.8" cy="220.7" r="4" fill="#3465a4"><title>MacKay (Blue) #2</title></circle></a><a href="/variants/s5/k5db1k5db7w2~x2/"><circle cx="224.1" cy="252.7" r="4" fill="#3465a4"><title>Grampian, T.V.</title></circle></a><a href="/variants/s5/db20k5db18y26k6~x2/"><circle cx="238.6" cy="273.5" r="4" fill="#3465a4"><title>Jahore</title></circle></a><a href="/variants/s5/k7r3k24b28y3~x2/"><circle cx="225.6" cy="195.5" r="4" fill="#3465a4"><title>Robert Gordon University</title></circle></a><a href="/variants/s5/k15dy2k10db18w3~x2/"><circle cx="240.2" cy="218.2" r="4" fill="#3465a4"><title>College of Radiographers Corporate Tartan</title></circle></a><a href="/variants/s5/k15y2k10db18w3~x2/"><circle cx="235.5" cy="216.7" r="4" fill="#3465a4"><title>College of Radiographers</title></circle></a><a href="/variants/s4/k1db8k8y1/"><circle cx="309.3" cy="245.0" r="4" fill="#3465a4"><title>Wallace Blue</title></circle></a><a href="/variants/s5/k15lo2k10db18lr3~x2/"><circle cx="244.8" cy="220.2" r="4" fill="#3465a4"><title>College of Radiographers</title></circle></a><a href="/variants/s4/k3db23k17r2~x2/"><circle cx="327.2" cy="226.9" r="4" fill="#3465a4"><title>Wellington Variation</title></circle></a><circle cx="219.9" cy="235.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db9k9r3db9k9y1~x4/

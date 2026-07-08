@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "First Special Service Force"
   url: "/tartans/first-special-service-force/"
+- name: "First Special Service Force"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r8k14r6ly6r34k10r6w6r6k64r44db9r6/)
 (the same proportion at any scale), whose colour order is pattern [RBRKRWRKRYRKR](/stripes/rbrkrwrkryrkr/).
@@ -14,7 +16,7 @@ Part of the [First Special Service Force](/tartans/first-special-service-force/)
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11160
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11160](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11160)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r8k14r6y6r34k10r6w6r6k64r44db9r6/"><circle cx="216.7" cy="111.3" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><a href="/variants/s13/r4k9r3y3r18k4r2w2r2k36r24db4r3~x2/"><circle cx="239.6" cy="85.8" r="4" fill="#3465a4"><title>First Special Services Forces (Mil)</title></circle></a><a href="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/"><circle cx="241.3" cy="117.9" r="4" fill="#3465a4"><title>Hallingdal</title></circle></a><a href="/variants/s9/r60ly4k22g5k25lb8k4r4k4~x2/"><circle cx="218.7" cy="106.7" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="233.2" cy="75.5" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/variants/s12/y4k2r7k15r3k3r3k7r28dg7r6dg2/"><circle cx="252.9" cy="124.5" r="4" fill="#3465a4"><title>Walker</title></circle></a><a href="/variants/s10/dy4k30r30k2r2dy2k2r5w5g2~x2/"><circle cx="204.2" cy="96.1" r="4" fill="#3465a4"><title>Haileybury</title></circle></a><a href="/variants/s15/r31g3r2g2r3g2r2g3r15k15g2k15g3k3w2~x2/"><circle cx="208.1" cy="86.3" r="4" fill="#3465a4"><title>Moir (Loch Insh) (Personal)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><circle cx="224.4" cy="119.0" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/"><circle cx="224.4" cy="119.0" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><circle cx="215.0" cy="110.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r8k14r6y6r34k10r6w6r6k64r44db9r6/"><circle cx="216.7" cy="111.6" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><a href="/variants/s13/r4k9r3y3r18k4r2w2r2k36r24db4r3~x2/"><circle cx="239.5" cy="86.0" r="4" fill="#3465a4"><title>First Special Services Forces (Mil)</title></circle></a><a href="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/"><circle cx="241.3" cy="118.3" r="4" fill="#3465a4"><title>Hallingdal</title></circle></a><a href="/variants/s9/r60ly4k22g5k25lb8k4r4k4~x2/"><circle cx="218.7" cy="107.0" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/variants/s13/k36r8w2r2k2r2ly2r24k3r2g6r2k8~x2/"><circle cx="233.1" cy="75.7" r="4" fill="#3465a4"><title>MacKeever (Personal)</title></circle></a><a href="/variants/s12/y4k2r7k15r3k3r3k7r28dg7r6dg2/"><circle cx="252.9" cy="124.9" r="4" fill="#3465a4"><title>Walker</title></circle></a><a href="/variants/s10/dy4k30r30k2r2dy2k2r5w5g2~x2/"><circle cx="204.1" cy="96.4" r="4" fill="#3465a4"><title>Haileybury</title></circle></a><a href="/variants/s15/r31g3r2g2r3g2r2g3r15k15g2k15g3k3w2~x2/"><circle cx="208.0" cy="86.6" r="4" fill="#3465a4"><title>Moir (Loch Insh) (Personal)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x4/"><circle cx="224.4" cy="119.3" r="4" fill="#3465a4"><title>Hepburn (Clan)</title></circle></a><a href="/variants/s12/r21db4k5y2k2y2k2r7g4r2db3y2~x2/"><circle cx="224.4" cy="119.3" r="4" fill="#3465a4"><title>Hepburn</title></circle></a><circle cx="214.9" cy="111.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/

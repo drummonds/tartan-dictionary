@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Suttle"
   url: "/tartans/suttle/"
+- name: "Suttle (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n36k18n5db7n5k7r1g2/)
 (the same proportion at any scale), whose colour order is pattern [BKBBBKRG](/stripes/bkbbbkrg/).
@@ -14,7 +16,7 @@ Part of the [Suttle](/tartans/suttle/) tartan — the named design grouping this
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7668
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7668](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7668)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/"><circle cx="307.8" cy="101.5" r="4" fill="#3465a4"><title>Suttle (Personal)</title></circle></a><a href="/variants/s11/n49db15k1n18k4r8g7k5g5n19k5~x2/"><circle cx="362.7" cy="90.8" r="4" fill="#3465a4"><title>State Seal of Virginia (Fashion)</title></circle></a><a href="/variants/s11/dr6k3do4k10do5o3k2do31w1do2w2~x2~do1400000-o2500000/"><circle cx="333.9" cy="83.9" r="4" fill="#3465a4"><title>Glen and Son, William (Corporate)</title></circle></a><a href="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/"><circle cx="286.8" cy="97.4" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="325.3" cy="79.2" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/"><circle cx="290.7" cy="77.3" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/variants/s8/k2dbi6k1db7g13k11db42r2~x2~dbi1605267-db1003265/"><circle cx="344.4" cy="100.0" r="4" fill="#3465a4"><title>Scottish Heritage</title></circle></a><a href="/variants/s9/db10k12dg3k1dg1k1dg30w4ly4~x2/"><circle cx="250.0" cy="98.4" r="4" fill="#3465a4"><title>Hutchens (Personal)</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="255.7" cy="102.4" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><a href="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/"><circle cx="285.5" cy="78.5" r="4" fill="#3465a4"><title>Niagara Region</title></circle></a><circle cx="306.4" cy="101.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/n36k18n5db7n5k7r1dg2~x2~dg1806142/"><circle cx="307.6" cy="101.7" r="4" fill="#3465a4"><title>Suttle (Personal)</title></circle></a><a href="/variants/s11/n49db15k1n18k4r8g7k5g5n19k5~x2/"><circle cx="362.6" cy="90.8" r="4" fill="#3465a4"><title>State Seal of Virginia (Fashion)</title></circle></a><a href="/variants/s11/dr6k3do4k10do5o3k2do31w1do2w2~x2~do1400000-o2500000/"><circle cx="333.7" cy="83.9" r="4" fill="#3465a4"><title>Glen and Son, William (Corporate)</title></circle></a><a href="/variants/s9/n4db2n7k30n8k7dr5db1w2~x2/"><circle cx="286.7" cy="97.6" r="4" fill="#3465a4"><title>Hebridean Heather</title></circle></a><a href="/variants/s11/dr6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="325.2" cy="79.4" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><a href="/variants/s8/r6k1w4k4n15r1k35o2~x2~n1900000-o2500000/"><circle cx="290.6" cy="77.4" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/variants/s8/k2dbi6k1db7g13k11db42r2~x2~dbi1605267-db1003265/"><circle cx="344.2" cy="100.1" r="4" fill="#3465a4"><title>Scottish Heritage</title></circle></a><a href="/variants/s9/db10k12dg3k1dg1k1dg30w4ly4~x2/"><circle cx="249.9" cy="98.5" r="4" fill="#3465a4"><title>Hutchens (Personal)</title></circle></a><a href="/variants/s8/lo8k50n15dg6n6db3n6lo2~x2/"><circle cx="255.6" cy="102.6" r="4" fill="#3465a4"><title>Royal College of G.P.s (Corporate)</title></circle></a><a href="/variants/s12/w4k2w2k28dt4k2dt2r1k13r1g13r2~x2~k0504259-dt1602222/"><circle cx="285.4" cy="78.6" r="4" fill="#3465a4"><title>Niagara Region</title></circle></a><circle cx="306.3" cy="101.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/n36k18n5db7n5k7r1g2~x2/

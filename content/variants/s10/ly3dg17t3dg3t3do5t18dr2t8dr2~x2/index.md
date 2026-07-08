@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Donegal, County"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly3dg17t3dg3t3do5t18dr2t8dr2/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBBGBGY](/stripes/bbbbbbgbgy/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=950
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=950](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=950)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y3g17db3g3db3do5db18r2db8r2~x2/"><circle cx="255.9" cy="187.1" r="4" fill="#3465a4"><title>Donegal</title></circle></a><a href="/variants/s9/dp4db18dr2db2dr2db9g20db3g4~x2/"><circle cx="321.9" cy="216.6" r="4" fill="#3465a4"><title>St. Andrews New Golf Club (Corp)</title></circle></a><a href="/variants/s9/dt3db4dt24db6r3db4g3db8w3~x2/"><circle cx="270.7" cy="196.3" r="4" fill="#3465a4"><title>Scozia (Fashion)</title></circle></a><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/"><circle cx="309.8" cy="205.1" r="4" fill="#3465a4"><title>Sverker</title></circle></a><a href="/variants/s9/yi25dp3yi8dp13y8lr2g11yi2dp3~x2~yi2602194-lr2800000/"><circle cx="284.2" cy="207.2" r="4" fill="#3465a4"><title>Organic</title></circle></a><a href="/variants/s9/dg20y2n5w4dg2n2dg2n2b6~x2/"><circle cx="292.4" cy="184.4" r="4" fill="#3465a4"><title>Boucherville (Tartan de..)</title></circle></a><a href="/variants/s7/dr4db15w2n15g30dr2g4~x2/"><circle cx="293.9" cy="204.2" r="4" fill="#3465a4"><title>Sinclair Green (Personal)</title></circle></a><a href="/variants/s7/g31dg7y3dg14g8db18dp5~x2/"><circle cx="266.8" cy="237.3" r="4" fill="#3465a4"><title>Reidy Wedding</title></circle></a><a href="/variants/s7/dt4t28dt11w2dt2g14y2~x2/"><circle cx="308.8" cy="212.1" r="4" fill="#3465a4"><title>Rhode Island, State of</title></circle></a><a href="/variants/s9/g20y2n5w4g2n2g2n2db6~x2/"><circle cx="303.2" cy="193.9" r="4" fill="#3465a4"><title>Boucherville (Tartan de..) District Tartan</title></circle></a><circle cx="302.7" cy="213.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/y3g17db3g3db3do5db18r2db8r2~x2/"><circle cx="256.0" cy="187.4" r="4" fill="#3465a4"><title>Donegal</title></circle></a><a href="/variants/s9/dp4db18dr2db2dr2db9g20db3g4~x2/"><circle cx="321.9" cy="216.9" r="4" fill="#3465a4"><title>St. Andrews New Golf Club (Corp)</title></circle></a><a href="/variants/s9/dt3db4dt24db6r3db4g3db8w3~x2/"><circle cx="270.7" cy="196.5" r="4" fill="#3465a4"><title>Scozia (Fashion)</title></circle></a><a href="/variants/s10/w2t4dy3dt3dy3dt20dy3t16dt8lb2~x2~t2102222-dt1102249/"><circle cx="309.9" cy="205.3" r="4" fill="#3465a4"><title>Sverker</title></circle></a><a href="/variants/s9/yi25dp3yi8dp13y8lr2g11yi2dp3~x2~yi2602194-lr2800000/"><circle cx="284.3" cy="207.5" r="4" fill="#3465a4"><title>Organic</title></circle></a><a href="/variants/s9/dg20y2n5w4dg2n2dg2n2b6~x2/"><circle cx="292.5" cy="184.7" r="4" fill="#3465a4"><title>Boucherville (Tartan de..)</title></circle></a><a href="/variants/s7/dr4db15w2n15g30dr2g4~x2/"><circle cx="294.0" cy="204.5" r="4" fill="#3465a4"><title>Sinclair Green (Personal)</title></circle></a><a href="/variants/s7/g31dg7y3dg14g8db18dp5~x2/"><circle cx="266.9" cy="237.7" r="4" fill="#3465a4"><title>Reidy Wedding</title></circle></a><a href="/variants/s7/dt4t28dt11w2dt2g14y2~x2/"><circle cx="308.8" cy="212.3" r="4" fill="#3465a4"><title>Rhode Island, State of</title></circle></a><a href="/variants/s9/g20y2n5w4g2n2g2n2db6~x2/"><circle cx="303.3" cy="194.2" r="4" fill="#3465a4"><title>Boucherville (Tartan de..) District Tartan</title></circle></a><circle cx="302.8" cy="214.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/ly3dg17t3dg3t3do5t18dr2t8dr2~x2/

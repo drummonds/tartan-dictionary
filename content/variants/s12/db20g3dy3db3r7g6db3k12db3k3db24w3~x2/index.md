@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Bhoyrub"
   url: "/tartans/bhoyrub/"
+- name: "Bhoyrub Clan/Family Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db20g3dy3db3r7g6db3k12db3k3db24w3/)
 (the same proportion at any scale), whose colour order is pattern [BGGBRGBKBKBW](/stripes/bggbrgbkbkbw/).
@@ -14,7 +16,7 @@ Part of the [Bhoyrub](/tartans/bhoyrub/) tartan — the named design grouping th
 
 Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6953
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6953](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6953)
 
 ## Provenance
 
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/t20g3dy3t3r7g6t3k12t3k3t24w3~x2/"><circle cx="214.7" cy="143.7" r="4" fill="#3465a4"><title>Bhoyrub (Personal)</title></circle></a><a href="/variants/s11/db15k3db19w3db5y5r3y5lb3y5k3~x2/"><circle cx="197.7" cy="160.2" r="4" fill="#3465a4"><title>Gouranga</title></circle></a><a href="/variants/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7y2~x2/"><circle cx="155.6" cy="168.8" r="4" fill="#3465a4"><title>MacLellan, McLellan hunting</title></circle></a><a href="/variants/s12/dr4y4db9w3y2k9db21y2db2y2db8y3~x2/"><circle cx="250.3" cy="146.6" r="4" fill="#3465a4"><title>Ruxton, dress</title></circle></a><a href="/variants/s12/lb6db20lg5db5lg5db20dr14db4k18db30ly4db4/"><circle cx="226.1" cy="159.4" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/variants/s12/w6db20t5db5t5db20r14db4k18db30lo4db4~w3600000-t2607245/"><circle cx="222.6" cy="155.7" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/variants/s12/r4dy4db9w3dy2k9db21dy2db2dy2db8dy3~x2/"><circle cx="264.2" cy="150.2" r="4" fill="#3465a4"><title>Ruxton Dress</title></circle></a><a href="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/"><circle cx="267.1" cy="155.8" r="4" fill="#3465a4"><title>Lochranza</title></circle></a><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/"><circle cx="244.0" cy="146.2" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/"><circle cx="257.0" cy="152.5" r="4" fill="#3465a4"><title>Montreat</title></circle></a><circle cx="226.2" cy="141.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/t20g3dy3t3r7g6t3k12t3k3t24w3~x2/"><circle cx="214.6" cy="144.1" r="4" fill="#3465a4"><title>Bhoyrub (Personal)</title></circle></a><a href="/variants/s11/db15k3db19w3db5y5r3y5lb3y5k3~x2/"><circle cx="197.7" cy="160.6" r="4" fill="#3465a4"><title>Gouranga</title></circle></a><a href="/variants/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7y2~x2/"><circle cx="155.5" cy="169.2" r="4" fill="#3465a4"><title>MacLellan, McLellan hunting</title></circle></a><a href="/variants/s12/dr4y4db9w3y2k9db21y2db2y2db8y3~x2/"><circle cx="250.3" cy="146.9" r="4" fill="#3465a4"><title>Ruxton, dress</title></circle></a><a href="/variants/s12/lb6db20lg5db5lg5db20dr14db4k18db30ly4db4/"><circle cx="226.1" cy="159.7" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/variants/s12/w6db20t5db5t5db20r14db4k18db30lo4db4~w3600000-t2607245/"><circle cx="222.5" cy="156.1" r="4" fill="#3465a4"><title>Edinburgh Bus Tours</title></circle></a><a href="/variants/s12/r4dy4db9w3dy2k9db21dy2db2dy2db8dy3~x2/"><circle cx="264.2" cy="150.5" r="4" fill="#3465a4"><title>Ruxton Dress</title></circle></a><a href="/variants/s9/db3n1db10g3r1k3db5n2lb1~x4/"><circle cx="267.1" cy="156.1" r="4" fill="#3465a4"><title>Lochranza</title></circle></a><a href="/variants/s10/db10k1g2k2lb3k2g2k1db10w1~x8/"><circle cx="244.0" cy="146.5" r="4" fill="#3465a4"><title>Isle of Harris</title></circle></a><a href="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/"><circle cx="256.9" cy="152.8" r="4" fill="#3465a4"><title>Montreat</title></circle></a><circle cx="226.1" cy="141.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db20g3dy3db3r7g6db3k12db3k3db24w3~x2/

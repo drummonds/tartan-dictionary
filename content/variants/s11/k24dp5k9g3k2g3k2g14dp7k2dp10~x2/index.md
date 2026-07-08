@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Paxton (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k24dp5k9g3k2g3k2g14dp7k2dp10/)
 (the same proportion at any scale), whose colour order is pattern [BKBGKGKGKBK](/stripes/bkbgkgkgkbk/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3304
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3304](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3304)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k61n20ly2n20k5ly4~x2/"><circle cx="201.2" cy="149.4" r="4" fill="#3465a4"><title>Sonsub Corporate Tartan</title></circle></a><a href="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/"><circle cx="207.2" cy="172.9" r="4" fill="#3465a4"><title>Guthrie</title></circle></a><a href="/variants/s11/w4k2n12dr3k3dr3k23n10k2n6k2~x2/"><circle cx="211.7" cy="150.3" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey (Fashion)</title></circle></a><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="244.7" cy="156.8" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/"><circle cx="206.6" cy="155.2" r="4" fill="#3465a4"><title>Wild Highlanders</title></circle></a><a href="/variants/s12/y1db4y1db3y1k8y1k8db6y1db1y1~x4/"><circle cx="227.5" cy="185.8" r="4" fill="#3465a4"><title>Clergy (WCWM)</title></circle></a><a href="/variants/s10/dy32db10k52db10w5k24db16w10k11dy15/"><circle cx="185.2" cy="179.2" r="4" fill="#3465a4"><title>Cavan County, Crest Range</title></circle></a><a href="/variants/s9/dr20g2dr2g2dr2g8k24g2k3~x2/"><circle cx="240.5" cy="164.5" r="4" fill="#3465a4"><title>Carlow, County</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="289.5" cy="185.4" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/variants/s9/dr20b2dr2b2dr2b8k24b2k3~x2/"><circle cx="248.6" cy="165.3" r="4" fill="#3465a4"><title>Carlow</title></circle></a><circle cx="234.3" cy="170.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k61n20ly2n20k5ly4~x2/"><circle cx="201.2" cy="149.8" r="4" fill="#3465a4"><title>Sonsub Corporate Tartan</title></circle></a><a href="/variants/s9/k1g8k9r1k1r1k9db8r1~x6/"><circle cx="207.2" cy="173.3" r="4" fill="#3465a4"><title>Guthrie</title></circle></a><a href="/variants/s11/w4k2n12dr3k3dr3k23n10k2n6k2~x2/"><circle cx="211.7" cy="150.7" r="4" fill="#3465a4"><title>Auld Lang Syne, Grey (Fashion)</title></circle></a><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="244.7" cy="157.2" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/variants/s7/k36w3k10w3dg28dr6k18~x2~dg1804158/"><circle cx="206.5" cy="155.6" r="4" fill="#3465a4"><title>Wild Highlanders</title></circle></a><a href="/variants/s12/y1db4y1db3y1k8y1k8db6y1db1y1~x4/"><circle cx="227.5" cy="186.2" r="4" fill="#3465a4"><title>Clergy (WCWM)</title></circle></a><a href="/variants/s10/dy32db10k52db10w5k24db16w10k11dy15/"><circle cx="185.2" cy="179.6" r="4" fill="#3465a4"><title>Cavan County, Crest Range</title></circle></a><a href="/variants/s9/dr20g2dr2g2dr2g8k24g2k3~x2/"><circle cx="240.5" cy="164.9" r="4" fill="#3465a4"><title>Carlow, County</title></circle></a><a href="/variants/s8/k10n1k2n1k4n10y1n2~x4/"><circle cx="289.5" cy="185.9" r="4" fill="#3465a4"><title>West Point Military Academy (Mil.)</title></circle></a><a href="/variants/s9/dr20b2dr2b2dr2b8k24b2k3~x2/"><circle cx="248.6" cy="165.7" r="4" fill="#3465a4"><title>Carlow</title></circle></a><circle cx="234.2" cy="171.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k24dp5k9g3k2g3k2g14dp7k2dp10~x2/

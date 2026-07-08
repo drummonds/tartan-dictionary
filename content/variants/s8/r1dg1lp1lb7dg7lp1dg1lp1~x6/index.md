@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Beck-McSorley"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1dg1lp1lb7dg7lp1dg1lp1/)
 (the same proportion at any scale), whose colour order is pattern [RGWWGWGW](/stripes/rgwwgwgw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11167
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11167](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11167)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb30r3lb3r3lb12dt30n3dt5~x2/"><circle cx="284.9" cy="190.2" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><a href="/variants/s8/r2g12db2g8db18w3r2w2~x2/"><circle cx="210.7" cy="199.7" r="4" fill="#3465a4"><title>Albuquerque, City of</title></circle></a><a href="/variants/s9/db2r3g11r3db2lb2db11r2g2~x2/"><circle cx="191.3" cy="218.9" r="4" fill="#3465a4"><title>Hebridean 1</title></circle></a><a href="/variants/s8/o20db2o2db2ly3db12w18db3~x2/"><circle cx="178.0" cy="189.0" r="4" fill="#3465a4"><title>Heriot (Fashion)</title></circle></a><a href="/variants/s8/ly3lb7do2r2do14lb2do2ly3~x2/"><circle cx="247.0" cy="203.7" r="4" fill="#3465a4"><title>Daks (Blue Loden)</title></circle></a><a href="/variants/s8/y32db3r4db3r8db32w3db4~x2/"><circle cx="280.7" cy="181.7" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/variants/s13/r3dg8db5w3dg20w3db5w3db5w22db3w8r3~x2/"><circle cx="161.5" cy="178.1" r="4" fill="#3465a4"><title>MacDonald, Flora (Dance)</title></circle></a><a href="/variants/s12/t15w13dy6t2dy2r2dy2t2dy6w13t15r3~x4~r2109032/"><circle cx="178.1" cy="199.7" r="4" fill="#3465a4"><title>Thompson (Pendleton)</title></circle></a><a href="/variants/s7/r3db15w13o6db2o2r2~x2/"><circle cx="164.8" cy="204.0" r="4" fill="#3465a4"><title>Thom(p)son, Navy</title></circle></a><a href="/variants/s8/y35db3r4db3r8db30w3db4~x2/"><circle cx="275.8" cy="178.6" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><circle cx="225.3" cy="196.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/lb30r3lb3r3lb12dt30n3dt5~x2/"><circle cx="285.0" cy="190.7" r="4" fill="#3465a4"><title>Dama Classic</title></circle></a><a href="/variants/s8/r2g12db2g8db18w3r2w2~x2/"><circle cx="210.8" cy="200.2" r="4" fill="#3465a4"><title>Albuquerque, City of</title></circle></a><a href="/variants/s9/db2r3g11r3db2lb2db11r2g2~x2/"><circle cx="191.4" cy="219.5" r="4" fill="#3465a4"><title>Hebridean 1</title></circle></a><a href="/variants/s8/o20db2o2db2ly3db12w18db3~x2/"><circle cx="178.1" cy="189.6" r="4" fill="#3465a4"><title>Heriot (Fashion)</title></circle></a><a href="/variants/s8/ly3lb7do2r2do14lb2do2ly3~x2/"><circle cx="247.1" cy="204.3" r="4" fill="#3465a4"><title>Daks (Blue Loden)</title></circle></a><a href="/variants/s8/y32db3r4db3r8db32w3db4~x2/"><circle cx="280.7" cy="182.0" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><a href="/variants/s13/r3dg8db5w3dg20w3db5w3db5w22db3w8r3~x2/"><circle cx="161.6" cy="178.7" r="4" fill="#3465a4"><title>MacDonald, Flora (Dance)</title></circle></a><a href="/variants/s12/t15w13dy6t2dy2r2dy2t2dy6w13t15r3~x4~r2109032/"><circle cx="178.2" cy="200.3" r="4" fill="#3465a4"><title>Thompson (Pendleton)</title></circle></a><a href="/variants/s7/r3db15w13o6db2o2r2~x2/"><circle cx="164.9" cy="204.6" r="4" fill="#3465a4"><title>Thom(p)son, Navy</title></circle></a><a href="/variants/s8/y35db3r4db3r8db30w3db4~x2/"><circle cx="275.8" cy="179.0" r="4" fill="#3465a4"><title>Clemens and August (Personal)</title></circle></a><circle cx="225.4" cy="197.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r1dg1lp1lb7dg7lp1dg1lp1~x6/

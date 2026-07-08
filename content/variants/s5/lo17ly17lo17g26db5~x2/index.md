@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wild Mustard Dreams"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lo17ly17lo17g26db5/)
 (the same proportion at any scale), whose colour order is pattern [BGYYY](/stripes/bgyyy/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10933
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10933](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10933)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/lo17y17o17g26db5~x2/"><circle cx="168.2" cy="311.5" r="4" fill="#3465a4"><title>Wild Mustard Dreams</title></circle></a><a href="/variants/s5/o2g10dy15o10g2~x4/"><circle cx="290.3" cy="289.6" r="4" fill="#3465a4"><title>Harmony 6</title></circle></a><a href="/variants/s6/o2g8dp4w2o13t2~x4/"><circle cx="252.1" cy="231.9" r="4" fill="#3465a4"><title>Ellan Vannin</title></circle></a><a href="/variants/s7/o7r3o9g15db19o14r4~x2/"><circle cx="211.4" cy="261.5" r="4" fill="#3465a4"><title>Dorward</title></circle></a><a href="/variants/s4/w2g13lo13w2~x6/"><circle cx="314.1" cy="300.4" r="4" fill="#3465a4"><title>Dunoon Irish Corporate Tartan</title></circle></a><a href="/variants/s6/r1o4g3o1db3o1~x2/"><circle cx="226.9" cy="284.6" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><a href="/variants/s5/db7lo8g15ly6dy3~x10/"><circle cx="151.1" cy="288.8" r="4" fill="#3465a4"><title>Unidentified Silk Plaid</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="216.3" cy="282.2" r="4" fill="#3465a4"><title>Delroeux (Personal)</title></circle></a><a href="/variants/s4/g9o7w7r1~x4/"><circle cx="189.0" cy="275.1" r="4" fill="#3465a4"><title>MacKinnon, dress</title></circle></a><circle cx="231.3" cy="326.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/lo17y17o17g26db5~x2/"><circle cx="168.4" cy="312.2" r="4" fill="#3465a4"><title>Wild Mustard Dreams</title></circle></a><a href="/variants/s5/o2g10dy15o10g2~x4/"><circle cx="290.5" cy="290.2" r="4" fill="#3465a4"><title>Harmony 6</title></circle></a><a href="/variants/s6/o2g8dp4w2o13t2~x4/"><circle cx="252.2" cy="232.4" r="4" fill="#3465a4"><title>Ellan Vannin</title></circle></a><a href="/variants/s7/o7r3o9g15db19o14r4~x2/"><circle cx="211.5" cy="262.1" r="4" fill="#3465a4"><title>Dorward</title></circle></a><a href="/variants/s4/w2g13lo13w2~x6/"><circle cx="314.4" cy="301.1" r="4" fill="#3465a4"><title>Dunoon Irish Corporate Tartan</title></circle></a><a href="/variants/s6/r1o4g3o1db3o1~x2/"><circle cx="227.1" cy="285.3" r="4" fill="#3465a4"><title>Fraser Hunting</title></circle></a><a href="/variants/s5/db7lo8g15ly6dy3~x10/"><circle cx="151.3" cy="289.5" r="4" fill="#3465a4"><title>Unidentified Silk Plaid</title></circle></a><a href="/variants/s4/db3g6ly1r3~x10/"><circle cx="216.5" cy="282.9" r="4" fill="#3465a4"><title>Delroeux (Personal)</title></circle></a><a href="/variants/s4/g9o7w7r1~x4/"><circle cx="189.2" cy="275.8" r="4" fill="#3465a4"><title>MacKinnon, dress</title></circle></a><circle cx="231.6" cy="327.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/lo17ly17lo17g26db5~x2/

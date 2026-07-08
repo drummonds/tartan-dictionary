@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "O'Mahony, The (Commemorative)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2ly4db1ly1db40n6g18r2g2w1/)
 (the same proportion at any scale), whose colour order is pattern [WGRGBBYBYW](/stripes/wgrgbbybyw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6491
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6491](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6491)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db33k1db5k8g8r2g15y1w2~x2/"><circle cx="247.1" cy="87.7" r="4" fill="#3465a4"><title>Mulcahy (Name)</title></circle></a><a href="/variants/s7/db50g25ly3lb8r1w1r1~x2/"><circle cx="333.8" cy="88.9" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/variants/s8/w10db2w1db35g10ly3g10r4~x2/"><circle cx="259.6" cy="118.1" r="4" fill="#3465a4"><title>Sandelin (Personal)</title></circle></a><a href="/variants/s8/w10db2w1db35dg10dy3dg10r4~x2/"><circle cx="269.2" cy="118.0" r="4" fill="#3465a4"><title>Sandelin #2 (Personal)</title></circle></a><a href="/variants/s8/r2w1r5g5lo1g10db40y2~x2/"><circle cx="360.8" cy="82.3" r="4" fill="#3465a4"><title>St. Andrew Quebec City (Corporate)</title></circle></a><a href="/variants/s8/db30r2db4w1o11g4y2g22~x2/"><circle cx="261.2" cy="126.0" r="4" fill="#3465a4"><title>Yorkland</title></circle></a><a href="/variants/s7/db50g25y3n8r1w1r1~x2/"><circle cx="363.0" cy="98.3" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/variants/s18/g2r2g18o6db40ly1db1ly4w2ly4db1ly1db40o6g18r2g2w1~x2~g2408144-o2500000-db1204274/"><circle cx="288.1" cy="50.5" r="4" fill="#3465a4"><title>O'Mahony, The</title></circle></a><a href="/variants/s8/r3w6r2g32db36k2db4y2~x2/"><circle cx="218.8" cy="114.4" r="4" fill="#3465a4"><title>Canadian Centennial</title></circle></a><a href="/variants/s8/db3lb3g30db25dp4r3y2dp1~x2~dp1507327-r2108022/"><circle cx="260.3" cy="117.0" r="4" fill="#3465a4"><title>Young</title></circle></a><circle cx="301.2" cy="73.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db33k1db5k8g8r2g15y1w2~x2/"><circle cx="247.0" cy="87.8" r="4" fill="#3465a4"><title>Mulcahy (Name)</title></circle></a><a href="/variants/s7/db50g25ly3lb8r1w1r1~x2/"><circle cx="333.6" cy="89.0" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/variants/s8/w10db2w1db35g10ly3g10r4~x2/"><circle cx="259.5" cy="118.3" r="4" fill="#3465a4"><title>Sandelin (Personal)</title></circle></a><a href="/variants/s8/w10db2w1db35dg10dy3dg10r4~x2/"><circle cx="269.1" cy="118.1" r="4" fill="#3465a4"><title>Sandelin #2 (Personal)</title></circle></a><a href="/variants/s8/r2w1r5g5lo1g10db40y2~x2/"><circle cx="360.6" cy="82.3" r="4" fill="#3465a4"><title>St. Andrew Quebec City (Corporate)</title></circle></a><a href="/variants/s8/db30r2db4w1o11g4y2g22~x2/"><circle cx="261.1" cy="126.1" r="4" fill="#3465a4"><title>Yorkland</title></circle></a><a href="/variants/s7/db50g25y3n8r1w1r1~x2/"><circle cx="362.8" cy="98.3" r="4" fill="#3465a4"><title>Wells (2014)</title></circle></a><a href="/variants/s18/g2r2g18o6db40ly1db1ly4w2ly4db1ly1db40o6g18r2g2w1~x2~g2408144-o2500000-db1204274/"><circle cx="288.0" cy="50.5" r="4" fill="#3465a4"><title>O'Mahony, The</title></circle></a><a href="/variants/s8/r3w6r2g32db36k2db4y2~x2/"><circle cx="218.7" cy="114.6" r="4" fill="#3465a4"><title>Canadian Centennial</title></circle></a><a href="/variants/s8/db3lb3g30db25dp4r3y2dp1~x2~dp1507327-r2108022/"><circle cx="260.2" cy="117.1" r="4" fill="#3465a4"><title>Young</title></circle></a><circle cx="301.0" cy="73.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w2ly4db1ly1db40n6g18r2g2w1~x2/

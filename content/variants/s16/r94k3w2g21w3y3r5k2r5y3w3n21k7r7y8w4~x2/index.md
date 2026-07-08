@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacKintosh 8"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r94k3w2g21w3y3r5k2r5y3w3n21k7r7y8w4/)
 (the same proportion at any scale), whose colour order is pattern [RKWGWGRKRGWBKRGW](/stripes/rkwgwgrkrgwbkrgw/).
 
 Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3n2w16k4r4y6w2/"><circle cx="281.9" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s16/r60g2w1g15w2y3r3k1r3y3n2w16k4r4y6w2/"><circle cx="290.2" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s16/r120k4w2g32w4k7r7k2r7k7w4lb32k8r8k12w4/"><circle cx="262.5" cy="14.0" r="4" fill="#3465a4"><title>Chattan, Clan</title></circle></a><a href="/variants/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3~x2/"><circle cx="363.5" cy="14.0" r="4" fill="#3465a4"><title>MacPherson (Crubin Plaid)</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2~x2/"><circle cx="290.9" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2/"><circle cx="290.9" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s16/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4~x2/"><circle cx="293.3" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s16/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4/"><circle cx="293.3" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s16/r122k4w2g32w4ly7r7k2r7ly7w4lb32k8r8ly12w4/"><circle cx="287.1" cy="14.0" r="4" fill="#3465a4"><title>Chattan (Clan)</title></circle></a><a href="/variants/s20/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2dp2w1~x2/"><circle cx="359.0" cy="14.0" r="4" fill="#3465a4"><title>Fennell Grandmothers Canadian Personal Tartan</title></circle></a><circle cx="319.3" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3n2w16k4r4y6w2/"><circle cx="281.7" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s16/r60g2w1g15w2y3r3k1r3y3n2w16k4r4y6w2/"><circle cx="290.0" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s16/r120k4w2g32w4k7r7k2r7k7w4lb32k8r8k12w4/"><circle cx="262.3" cy="14.0" r="4" fill="#3465a4"><title>Chattan, Clan</title></circle></a><a href="/variants/s15/r160k2w1dg36ly9r4k1r4ly9y36k9r9ly9r4y3~x2/"><circle cx="363.3" cy="14.0" r="4" fill="#3465a4"><title>MacPherson (Crubin Plaid)</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2~x2/"><circle cx="290.7" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s16/r60k2w1g16w2y3r3k1r3y3w2lb16k4r4y6w2/"><circle cx="290.7" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan D</title></circle></a><a href="/variants/s16/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4~x2/"><circle cx="293.1" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s16/r122k4w2g32w4y7r7k2r7y7w4lb32k8r8y12w4/"><circle cx="293.1" cy="14.0" r="4" fill="#3465a4"><title>Clan Chattan</title></circle></a><a href="/variants/s16/r122k4w2g32w4ly7r7k2r7ly7w4lb32k8r8ly12w4/"><circle cx="286.9" cy="14.0" r="4" fill="#3465a4"><title>Chattan (Clan)</title></circle></a><a href="/variants/s20/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2dp2w1~x2/"><circle cx="358.8" cy="14.0" r="4" fill="#3465a4"><title>Fennell Grandmothers Canadian Personal Tartan</title></circle></a><circle cx="319.1" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/r94k3w2g21w3y3r5k2r5y3w3n21k7r7y8w4~x2/

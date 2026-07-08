@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Longniddry"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr16db4ly2lyi2db4ly6db4lyi2ly2db16dr3db3lyi3db3dr3db16ly2lyi2db3/)
 (the same proportion at any scale), whose colour order is pattern [BBYYBYBYYBBBYBBBYYB](/stripes/bbyybybyybbbybbbyyb/).
 
 Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2204
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2204](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2204)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/dp50dt75dp75dt12ly12dp75dt75dp50w12dt12dp75dt75dp50w12dt12w12~dp1105325-ly3104101/"><circle cx="347.7" cy="245.9" r="4" fill="#3465a4"><title>Henbury</title></circle></a><a href="/variants/s16/dp50dt75dp75dt12ly12dp75dt75dp50w12dt12dp75dt75dp50w12dt12w12/"><circle cx="351.0" cy="247.4" r="4" fill="#3465a4"><title>Henbury (Corporate)</title></circle></a><a href="/variants/s18/db46dbi17db5dbi7db7ly15dbi3ly3dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~db0705267-dbi1204274/"><circle cx="320.2" cy="160.3" r="4" fill="#3465a4"><title>Rhys of Wales</title></circle></a><circle cx="327.0" cy="199.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/dp50dt75dp75dt12ly12dp75dt75dp50w12dt12dp75dt75dp50w12dt12w12~dp1105325-ly3104101/"><circle cx="347.9" cy="246.3" r="4" fill="#3465a4"><title>Henbury</title></circle></a><a href="/variants/s16/dp50dt75dp75dt12ly12dp75dt75dp50w12dt12dp75dt75dp50w12dt12w12/"><circle cx="351.1" cy="247.8" r="4" fill="#3465a4"><title>Henbury (Corporate)</title></circle></a><a href="/variants/s18/db46dbi17db5dbi7db7ly15dbi3ly3dbi6ly3dbi3ly15db7dbi7db5dbi17db46w4~db0705267-dbi1204274/"><circle cx="320.2" cy="160.6" r="4" fill="#3465a4"><title>Rhys of Wales</title></circle></a><circle cx="327.1" cy="199.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s19/dr16db4ly2lyi2db4ly6db4lyi2ly2db16dr3db3lyi3db3dr3db16ly2lyi2db3~x2~ly2505093-lyi2806085/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified (Sock Tie)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db27ly9w3dy16r7/)
 (the same proportion at any scale), whose colour order is pattern [BYWGR](/stripes/bywgr/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4273
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4273](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4273)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy5n21ly11db12r5~x2/"><circle cx="147.7" cy="273.9" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/k7lb3dy30db30w3~x2/"><circle cx="227.5" cy="202.6" r="4" fill="#3465a4"><title>Douglas, (Brown)</title></circle></a><a href="/variants/s6/r12dbi3g5db16y2g2~x2~dbi1604274-db0805267/"><circle cx="180.8" cy="205.7" r="4" fill="#3465a4"><title>Dunbog, Primary School</title></circle></a><a href="/variants/s4/db13r5g5w3~x8/"><circle cx="201.9" cy="276.5" r="4" fill="#3465a4"><title>International Highland Games Fed.</title></circle></a><a href="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/"><circle cx="145.9" cy="189.4" r="4" fill="#3465a4"><title>Galvez-Brown</title></circle></a><a href="/variants/s7/db36ly5dr12r9dp5w12ly7~x2/"><circle cx="132.7" cy="186.1" r="4" fill="#3465a4"><title>Galvez-Brown (Personal)</title></circle></a><a href="/variants/s6/db15r6g8k2w2k2~x6/"><circle cx="145.0" cy="192.0" r="4" fill="#3465a4"><title>Stovell (2015)</title></circle></a><a href="/variants/s6/ly5db30w3g15y8r4~x2/"><circle cx="188.3" cy="183.1" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.0" cy="213.1" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.1" cy="220.6" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><circle cx="183.4" cy="220.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy5n21ly11db12r5~x2/"><circle cx="147.9" cy="274.5" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s5/k7lb3dy30db30w3~x2/"><circle cx="227.5" cy="203.0" r="4" fill="#3465a4"><title>Douglas, (Brown)</title></circle></a><a href="/variants/s6/r12dbi3g5db16y2g2~x2~dbi1604274-db0805267/"><circle cx="180.8" cy="206.2" r="4" fill="#3465a4"><title>Dunbog, Primary School</title></circle></a><a href="/variants/s4/db13r5g5w3~x8/"><circle cx="202.1" cy="277.3" r="4" fill="#3465a4"><title>International Highland Games Fed.</title></circle></a><a href="/variants/s7/db36dy5dr12r9dp5w12dy7~x2/"><circle cx="145.9" cy="189.9" r="4" fill="#3465a4"><title>Galvez-Brown</title></circle></a><a href="/variants/s7/db36ly5dr12r9dp5w12ly7~x2/"><circle cx="132.8" cy="186.6" r="4" fill="#3465a4"><title>Galvez-Brown (Personal)</title></circle></a><a href="/variants/s6/db15r6g8k2w2k2~x6/"><circle cx="145.0" cy="192.5" r="4" fill="#3465a4"><title>Stovell (2015)</title></circle></a><a href="/variants/s6/ly5db30w3g15y8r4~x2/"><circle cx="188.4" cy="183.5" r="4" fill="#3465a4"><title>Carleton College Rugby</title></circle></a><a href="/variants/s5/r7y3g28db28w3~x2/"><circle cx="212.0" cy="213.6" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.2" cy="221.1" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><circle cx="183.5" cy="221.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db27ly9w3dy16r7~x2/

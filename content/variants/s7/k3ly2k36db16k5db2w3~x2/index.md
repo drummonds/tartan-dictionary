@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pride of Nova Scotia (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3ly2k36db16k5db2w3/)
 (the same proportion at any scale), whose colour order is pattern [KYKBKBW](/stripes/kykbkbw/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7881
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7881](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7881)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="298.3" cy="176.6" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/"><circle cx="266.0" cy="120.4" r="4" fill="#3465a4"><title>Ewbank</title></circle></a><a href="/variants/s6/k1ly2k3db12k18w1~x2/"><circle cx="322.6" cy="151.0" r="4" fill="#3465a4"><title>Jon's Theme (Fashion)</title></circle></a><a href="/variants/s7/k2lb5k1lb1k10r1k1~x4/"><circle cx="328.6" cy="163.7" r="4" fill="#3465a4"><title>Lundy Reform</title></circle></a><a href="/variants/s7/k4n2k46db20k6dbi3g4~x2~db1404274-dbi1406275/"><circle cx="379.6" cy="104.2" r="4" fill="#3465a4"><title>Silver Thistle</title></circle></a><a href="/variants/s7/dr12lo6k88db45k6db6y6~db1406275/"><circle cx="290.9" cy="133.5" r="4" fill="#3465a4"><title>City of Rome Pipe Band</title></circle></a><a href="/variants/s7/dr12lo6k88db45k6db6y6/"><circle cx="295.8" cy="136.1" r="4" fill="#3465a4"><title>City of Rome Pipe Band (Corporate)</title></circle></a><a href="/variants/s7/k8lb3k32t14w3k25lb3~x2/"><circle cx="359.6" cy="172.6" r="4" fill="#3465a4"><title>Cowe (Personal)</title></circle></a><a href="/variants/s8/k3lb1k32db6k4db16k3r2~x2/"><circle cx="391.0" cy="114.7" r="4" fill="#3465a4"><title>Little of Morton Rigg Red (Personal)</title></circle></a><a href="/variants/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="276.1" cy="152.6" r="4" fill="#3465a4"><title>Slanj Dress (Corporate)</title></circle></a><circle cx="360.0" cy="132.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4k21w2k20db21k2db2~x2/"><circle cx="298.3" cy="177.1" r="4" fill="#3465a4"><title>St. Georges, Edgbaston</title></circle></a><a href="/variants/s9/r3t14y2k2t14k36y2k2y2~x2/"><circle cx="265.9" cy="120.7" r="4" fill="#3465a4"><title>Ewbank</title></circle></a><a href="/variants/s6/k1ly2k3db12k18w1~x2/"><circle cx="322.5" cy="151.4" r="4" fill="#3465a4"><title>Jon's Theme (Fashion)</title></circle></a><a href="/variants/s7/k2lb5k1lb1k10r1k1~x4/"><circle cx="328.6" cy="164.2" r="4" fill="#3465a4"><title>Lundy Reform</title></circle></a><a href="/variants/s7/k4n2k46db20k6dbi3g4~x2~db1404274-dbi1406275/"><circle cx="379.5" cy="104.3" r="4" fill="#3465a4"><title>Silver Thistle</title></circle></a><a href="/variants/s7/dr12lo6k88db45k6db6y6~db1406275/"><circle cx="290.8" cy="133.7" r="4" fill="#3465a4"><title>City of Rome Pipe Band</title></circle></a><a href="/variants/s7/dr12lo6k88db45k6db6y6/"><circle cx="295.7" cy="136.3" r="4" fill="#3465a4"><title>City of Rome Pipe Band (Corporate)</title></circle></a><a href="/variants/s7/k8lb3k32t14w3k25lb3~x2/"><circle cx="359.6" cy="173.1" r="4" fill="#3465a4"><title>Cowe (Personal)</title></circle></a><a href="/variants/s8/k3lb1k32db6k4db16k3r2~x2/"><circle cx="390.9" cy="114.9" r="4" fill="#3465a4"><title>Little of Morton Rigg Red (Personal)</title></circle></a><a href="/variants/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="276.1" cy="152.9" r="4" fill="#3465a4"><title>Slanj Dress (Corporate)</title></circle></a><circle cx="360.0" cy="132.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k3ly2k36db16k5db2w3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Stewart of Bute Hunting Clan/Family Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k22g11k2g4k2g6k58lb6/)
 (the same proportion at any scale), whose colour order is pattern [KGKGKGKKW](/stripes/kgkgkgkkw/).
 
 Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5175
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5175](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5175)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/"><circle cx="296.0" cy="120.5" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/"><circle cx="276.9" cy="138.0" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles)</title></circle></a><a href="/variants/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="305.1" cy="142.5" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/variants/s10/k4dg13k4g8k44g8k4dg13k4w3~x2~dg1806142-g2203152/"><circle cx="269.6" cy="134.3" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="244.7" cy="156.8" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/variants/s9/k12r2k28g12k1w3k1g12r4~x2/"><circle cx="272.2" cy="116.4" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/variants/s11/k48dp5k9g3k2g3k2g14dp7dy2dp10~x2/"><circle cx="315.7" cy="100.7" r="4" fill="#3465a4"><title>Paxton (Personal)</title></circle></a><a href="/variants/s11/dt8k2o2dt2k13dt2k2ly1dt14k26ly2~x2/"><circle cx="339.8" cy="115.5" r="4" fill="#3465a4"><title>Pride of Scotland Hunting/Dark Fashion Tartan</title></circle></a><a href="/variants/s7/k14dg7k2g8k4y2k1~x4/"><circle cx="247.9" cy="175.3" r="4" fill="#3465a4"><title>Grass of Rasunda (2009), The</title></circle></a><a href="/variants/s10/db6k74db6k6db6k6db20g30k3w6/"><circle cx="279.7" cy="106.0" r="4" fill="#3465a4"><title>Scruffy Wallace</title></circle></a><circle cx="277.0" cy="130.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/"><circle cx="295.9" cy="120.8" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/variants/s10/k8g28k8dg17k88dg17k8g28k8r6~g1903114-dg1405139/"><circle cx="276.9" cy="138.3" r="4" fill="#3465a4"><title>Childers (Gurkha Rifles)</title></circle></a><a href="/variants/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="305.1" cy="142.7" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/variants/s10/k4dg13k4g8k44g8k4dg13k4w3~x2~dg1806142-g2203152/"><circle cx="269.6" cy="134.7" r="4" fill="#3465a4"><title>Childers</title></circle></a><a href="/variants/s9/dg4k4dg23k11r2k2r2k20w4~x2/"><circle cx="244.7" cy="157.2" r="4" fill="#3465a4"><title>New Golf Club</title></circle></a><a href="/variants/s9/k12r2k28g12k1w3k1g12r4~x2/"><circle cx="272.1" cy="116.7" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/variants/s11/k48dp5k9g3k2g3k2g14dp7dy2dp10~x2/"><circle cx="315.6" cy="100.8" r="4" fill="#3465a4"><title>Paxton (Personal)</title></circle></a><a href="/variants/s11/dt8k2o2dt2k13dt2k2ly1dt14k26ly2~x2/"><circle cx="339.7" cy="115.7" r="4" fill="#3465a4"><title>Pride of Scotland Hunting/Dark Fashion Tartan</title></circle></a><a href="/variants/s7/k14dg7k2g8k4y2k1~x4/"><circle cx="247.9" cy="175.7" r="4" fill="#3465a4"><title>Grass of Rasunda (2009), The</title></circle></a><a href="/variants/s10/db6k74db6k6db6k6db20g30k3w6/"><circle cx="279.6" cy="106.2" r="4" fill="#3465a4"><title>Scruffy Wallace</title></circle></a><circle cx="276.9" cy="130.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k22g11k2g4k2g6k58lb6~x2/

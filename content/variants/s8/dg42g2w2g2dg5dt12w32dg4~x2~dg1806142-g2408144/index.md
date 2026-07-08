@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Longniddry"
   url: "/tartans/longniddry/"
+- name: "Longniddry Green (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg42g2w2g2dg5dt12w32dg4/)
 (the same proportion at any scale), whose colour order is pattern [GGWGGBWG](/stripes/ggwggbwg/).
@@ -14,7 +16,7 @@ Part of the [Longniddry](/tartans/longniddry/) tartan — the named design group
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2208
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2208](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2208)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dgi42g2w2g2dgi5dg12w32dgi4~x2~dgi1806142-g2408144/"><circle cx="299.1" cy="164.0" r="4" fill="#3465a4"><title>Longniddry Green District Tartan</title></circle></a><a href="/variants/s8/g42b2w2b2g5dg12w32g4~x2/"><circle cx="306.5" cy="167.9" r="4" fill="#3465a4"><title>Longniddry, Green</title></circle></a><a href="/variants/s8/g42y1w2y1g5dg12w32g4~x2/"><circle cx="337.4" cy="139.8" r="4" fill="#3465a4"><title>Longniddry Green Error (Dance)</title></circle></a><a href="/variants/s10/ly4g4db2g29w1db12g2ly16g4db2~x2/"><circle cx="330.3" cy="156.4" r="4" fill="#3465a4"><title>Unidentified (Pahls)</title></circle></a><a href="/variants/s7/g3r2g27dg3w30dg2w3~x2/"><circle cx="278.6" cy="169.6" r="4" fill="#3465a4"><title>Uist, Green (Dance)</title></circle></a><a href="/variants/s7/y6dg36w5t4w30t1w2~x2/"><circle cx="290.7" cy="146.9" r="4" fill="#3465a4"><title>Pearce Scotch Plaid 4 (Fashion)</title></circle></a><a href="/variants/s9/dg41ly3g7n3w24dg10g7n7w3~x2/"><circle cx="234.2" cy="166.9" r="4" fill="#3465a4"><title>Drummond of Perth Dress (Dance)</title></circle></a><a href="/variants/s8/g2dy10g11y4dy1w18g2dy1~x2/"><circle cx="211.9" cy="183.9" r="4" fill="#3465a4"><title>Aviemore Check District Tartan</title></circle></a><a href="/variants/s9/g22dr2g4dr2g4dr18w24dr1lo3~x2/"><circle cx="233.5" cy="164.2" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><a href="/variants/s8/g3dr12g12ly5dr1w25g2dr1~x2/"><circle cx="244.2" cy="165.1" r="4" fill="#3465a4"><title>Dogwood Trade Tartan</title></circle></a><circle cx="298.8" cy="163.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dgi42g2w2g2dgi5dg12w32dgi4~x2~dgi1806142-g2408144/"><circle cx="299.2" cy="164.4" r="4" fill="#3465a4"><title>Longniddry Green District Tartan</title></circle></a><a href="/variants/s8/g42b2w2b2g5dg12w32g4~x2/"><circle cx="306.6" cy="168.3" r="4" fill="#3465a4"><title>Longniddry, Green</title></circle></a><a href="/variants/s8/g42y1w2y1g5dg12w32g4~x2/"><circle cx="337.4" cy="140.1" r="4" fill="#3465a4"><title>Longniddry Green Error (Dance)</title></circle></a><a href="/variants/s10/ly4g4db2g29w1db12g2ly16g4db2~x2/"><circle cx="330.3" cy="156.6" r="4" fill="#3465a4"><title>Unidentified (Pahls)</title></circle></a><a href="/variants/s7/g3r2g27dg3w30dg2w3~x2/"><circle cx="278.6" cy="170.1" r="4" fill="#3465a4"><title>Uist, Green (Dance)</title></circle></a><a href="/variants/s7/y6dg36w5t4w30t1w2~x2/"><circle cx="290.7" cy="147.3" r="4" fill="#3465a4"><title>Pearce Scotch Plaid 4 (Fashion)</title></circle></a><a href="/variants/s9/dg41ly3g7n3w24dg10g7n7w3~x2/"><circle cx="234.2" cy="167.3" r="4" fill="#3465a4"><title>Drummond of Perth Dress (Dance)</title></circle></a><a href="/variants/s8/g2dy10g11y4dy1w18g2dy1~x2/"><circle cx="212.0" cy="184.4" r="4" fill="#3465a4"><title>Aviemore Check District Tartan</title></circle></a><a href="/variants/s9/g22dr2g4dr2g4dr18w24dr1lo3~x2/"><circle cx="233.5" cy="164.6" r="4" fill="#3465a4"><title>Prince Edward Island, Dress</title></circle></a><a href="/variants/s8/g3dr12g12ly5dr1w25g2dr1~x2/"><circle cx="244.3" cy="165.5" r="4" fill="#3465a4"><title>Dogwood Trade Tartan</title></circle></a><circle cx="298.8" cy="164.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dg42g2w2g2dg5dt12w32dg4~x2~dg1806142-g2408144/

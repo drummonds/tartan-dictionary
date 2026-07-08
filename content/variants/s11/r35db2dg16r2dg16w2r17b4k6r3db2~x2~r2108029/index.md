@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Chafee of Glenmary (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r35db2dg16r2dg16w2r17b4k6r3db2/)
 (the same proportion at any scale), whose colour order is pattern [BRKBRWGRGBR](/stripes/brkbrwgrgbr/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4488
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4488](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4488)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/dg10r3k2r3dg10r8k2y1b1y1k2r20dg4r8w1~x2/"><circle cx="257.7" cy="83.9" r="4" fill="#3465a4"><title>Livingstone (Australia) Official</title></circle></a><a href="/variants/s11/lb4k2db3r33g9y3r5db10r6g2k2~x2/"><circle cx="255.0" cy="93.1" r="4" fill="#3465a4"><title>MacArthur-Fox Dress</title></circle></a><a href="/variants/s9/k2r1g8r3g3r14y1r1w2~x2/"><circle cx="265.9" cy="129.4" r="4" fill="#3465a4"><title>Melieres, Michel (Personal)</title></circle></a><a href="/variants/s13/y3r25k8r4db8w2db3w2db8r4g8r25y3~x2/"><circle cx="222.0" cy="106.2" r="4" fill="#3465a4"><title>Maynard</title></circle></a><a href="/variants/s11/r3db1r1db2r12lb1r1k4w1g6r1~x4/"><circle cx="213.9" cy="106.0" r="4" fill="#3465a4"><title>McLinden, Thomas (Personal)</title></circle></a><a href="/variants/s11/r7k6r62k15r20n15dy10k16db10k3w6/"><circle cx="211.2" cy="86.1" r="4" fill="#3465a4"><title>Cork County, Crest Range</title></circle></a><a href="/variants/s10/y2r3dy3r21db3r2dy6k6dy4w2~x2/"><circle cx="201.9" cy="120.0" r="4" fill="#3465a4"><title>Hello Kitty Red</title></circle></a><a href="/variants/s10/w3o18k18y1r2t2r2y1o18t2~x2/"><circle cx="224.0" cy="95.1" r="4" fill="#3465a4"><title>Selkirk High (Corporate)</title></circle></a><a href="/variants/s15/r3g1r2g1r18k4y1k2w1db4g6r3k1r2w1~x2/"><circle cx="233.2" cy="66.1" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #4</title></circle></a><a href="/variants/s10/g6w1g12r4db4r2k4r32g1r2~x2/"><circle cx="328.7" cy="77.6" r="4" fill="#3465a4"><title>Seton</title></circle></a><circle cx="262.0" cy="102.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/dg10r3k2r3dg10r8k2y1b1y1k2r20dg4r8w1~x2/"><circle cx="257.6" cy="84.1" r="4" fill="#3465a4"><title>Livingstone (Australia) Official</title></circle></a><a href="/variants/s11/lb4k2db3r33g9y3r5db10r6g2k2~x2/"><circle cx="255.0" cy="93.3" r="4" fill="#3465a4"><title>MacArthur-Fox Dress</title></circle></a><a href="/variants/s9/k2r1g8r3g3r14y1r1w2~x2/"><circle cx="265.8" cy="129.7" r="4" fill="#3465a4"><title>Melieres, Michel (Personal)</title></circle></a><a href="/variants/s13/y3r25k8r4db8w2db3w2db8r4g8r25y3~x2/"><circle cx="221.9" cy="106.5" r="4" fill="#3465a4"><title>Maynard</title></circle></a><a href="/variants/s11/r3db1r1db2r12lb1r1k4w1g6r1~x4/"><circle cx="213.8" cy="106.3" r="4" fill="#3465a4"><title>McLinden, Thomas (Personal)</title></circle></a><a href="/variants/s11/r7k6r62k15r20n15dy10k16db10k3w6/"><circle cx="211.1" cy="86.3" r="4" fill="#3465a4"><title>Cork County, Crest Range</title></circle></a><a href="/variants/s10/y2r3dy3r21db3r2dy6k6dy4w2~x2/"><circle cx="201.9" cy="120.3" r="4" fill="#3465a4"><title>Hello Kitty Red</title></circle></a><a href="/variants/s10/w3o18k18y1r2t2r2y1o18t2~x2/"><circle cx="223.9" cy="95.4" r="4" fill="#3465a4"><title>Selkirk High (Corporate)</title></circle></a><a href="/variants/s15/r3g1r2g1r18k4y1k2w1db4g6r3k1r2w1~x2/"><circle cx="233.1" cy="66.3" r="4" fill="#3465a4"><title>Stuart/Stewart of Appin #4</title></circle></a><a href="/variants/s10/g6w1g12r4db4r2k4r32g1r2~x2/"><circle cx="328.6" cy="77.8" r="4" fill="#3465a4"><title>Seton</title></circle></a><circle cx="262.0" cy="102.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r35db2dg16r2dg16w2r17b4k6r3db2~x2~r2108029/

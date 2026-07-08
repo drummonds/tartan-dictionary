@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Skye"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db45k10n2k2y2k2n10db5k1db5y1/)
 (the same proportion at any scale), whose colour order is pattern [BKBKGKBBKBG](/stripes/bkbkgkbbkbg/).
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db68o5k9o3k3lb3k3n20db9k3db5lb4/"><circle cx="333.4" cy="81.8" r="4" fill="#3465a4"><title>British Caledonian Airways #1</title></circle></a><a href="/variants/s10/db50k12n2k2w2k2n12db7k7w2~x2/"><circle cx="335.6" cy="106.1" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><a href="/variants/s10/db84dp1db1k2db2k30dp7db2g3lo2~x2/"><circle cx="448.1" cy="58.6" r="4" fill="#3465a4"><title>Ulster Scots (Fashion)</title></circle></a><a href="/variants/s11/db130k18r6k6r6k6b18db14b5db18y4~db1003265-b2008266/"><circle cx="449.8" cy="75.2" r="4" fill="#3465a4"><title>Concours of Elegance</title></circle></a><a href="/variants/s9/k10db3k3db32g1db1g1db2n2~x2/"><circle cx="462.6" cy="104.4" r="4" fill="#3465a4"><title>Orman (Midlothian) (Personal)</title></circle></a><a href="/variants/s10/db62r1db2r1db4k14g4k2g6k4~x2/"><circle cx="429.3" cy="54.9" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/variants/s11/db44k3db3k3db3k14y4k3w2k2w2~x2/"><circle cx="344.2" cy="93.4" r="4" fill="#3465a4"><title>Kang (Personal)</title></circle></a><a href="/variants/s12/db4w1db30k15dp4db2k2db2k10db4dp2db2~x2/"><circle cx="366.1" cy="111.1" r="4" fill="#3465a4"><title>Scotland's Own</title></circle></a><a href="/variants/s7/db80k5g12k2y2g2k10~x2/"><circle cx="466.3" cy="97.2" r="4" fill="#3465a4"><title>Affara (Personal)</title></circle></a><a href="/variants/s10/k46w1ki3lb4ki3db3ki2db11ki1lb2~x2~k0504259-ki0700000/"><circle cx="381.9" cy="65.7" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><circle cx="430.8" cy="82.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db68o5k9o3k3lb3k3n20db9k3db5lb4/"><circle cx="333.2" cy="81.8" r="4" fill="#3465a4"><title>British Caledonian Airways #1</title></circle></a><a href="/variants/s10/db50k12n2k2w2k2n12db7k7w2~x2/"><circle cx="335.5" cy="106.2" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><a href="/variants/s10/db84dp1db1k2db2k30dp7db2g3lo2~x2/"><circle cx="447.9" cy="58.4" r="4" fill="#3465a4"><title>Ulster Scots (Fashion)</title></circle></a><a href="/variants/s11/db130k18r6k6r6k6b18db14b5db18y4~db1003265-b2008266/"><circle cx="449.6" cy="75.1" r="4" fill="#3465a4"><title>Concours of Elegance</title></circle></a><a href="/variants/s9/k10db3k3db32g1db1g1db2n2~x2/"><circle cx="462.5" cy="104.4" r="4" fill="#3465a4"><title>Orman (Midlothian) (Personal)</title></circle></a><a href="/variants/s10/db62r1db2r1db4k14g4k2g6k4~x2/"><circle cx="429.1" cy="54.8" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/variants/s11/db44k3db3k3db3k14y4k3w2k2w2~x2/"><circle cx="344.1" cy="93.5" r="4" fill="#3465a4"><title>Kang (Personal)</title></circle></a><a href="/variants/s12/db4w1db30k15dp4db2k2db2k10db4dp2db2~x2/"><circle cx="366.0" cy="111.1" r="4" fill="#3465a4"><title>Scotland's Own</title></circle></a><a href="/variants/s7/db80k5g12k2y2g2k10~x2/"><circle cx="466.2" cy="97.3" r="4" fill="#3465a4"><title>Affara (Personal)</title></circle></a><a href="/variants/s10/k46w1ki3lb4ki3db3ki2db11ki1lb2~x2~k0504259-ki0700000/"><circle cx="381.7" cy="65.5" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><circle cx="430.7" cy="82.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/

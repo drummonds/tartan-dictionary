@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Langara College"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w120lb5lo4lb5w40lb30w1n1w2n4lo8n10w20n30w40lb60/)
 (the same proportion at any scale), whose colour order is pattern [WWBWBYBWBWWWWYWW](/stripes/wwbwbybwbwwwwyww/).
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10847
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10847](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10847)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

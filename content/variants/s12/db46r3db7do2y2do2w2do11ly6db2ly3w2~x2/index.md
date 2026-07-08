@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Lady Diana"
   url: "/tartans/lady-diana/"
+- name: "Lady Diana Plaid"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db46r3db7do2y2do2w2do11ly6db2ly3w2/)
 (the same proportion at any scale), whose colour order is pattern [BRBBGBWBYBYW](/stripes/brbbgbwbybyw/).
@@ -14,7 +16,7 @@ Part of the [Lady Diana](/tartans/lady-diana/) tartan — the named design group
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2021
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2021](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2021)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db46r3db7do2y2do2w2do11o6db2o3w2~x2/"><circle cx="365.9" cy="84.8" r="4" fill="#3465a4"><title>Lady Diana, Plaid</title></circle></a><a href="/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/"><circle cx="387.3" cy="55.8" r="4" fill="#3465a4"><title>Bartlett from El Paso, Texas</title></circle></a><a href="/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/"><circle cx="321.2" cy="90.6" r="4" fill="#3465a4"><title>Queens University, of Ontario</title></circle></a><a href="/variants/s11/r3w2db2ly1db39ly1db1g2db1lyi15db1~x2~ly2705081-lyi3104101/"><circle cx="369.1" cy="52.1" r="4" fill="#3465a4"><title>Bartlett of El Paso (Name)</title></circle></a><a href="/variants/s12/db76w3r4w3g4w3dg8db19lb20db3lb8w10/"><circle cx="313.5" cy="81.5" r="4" fill="#3465a4"><title>Summerwood (School)</title></circle></a><a href="/variants/s12/db76w3r4w3g4w3dg8db20lt20db3lt8w10/"><circle cx="312.6" cy="83.2" r="4" fill="#3465a4"><title>Summerwood</title></circle></a><a href="/variants/s12/dbi4dp8dbi3dp2dbi64lb24r4db3lb4db3w8r4~dbi1003265-db0906265/"><circle cx="281.5" cy="64.3" r="4" fill="#3465a4"><title>Royal Navy</title></circle></a><a href="/variants/s14/y8lb8r8db2r3db2r3db3r2db3r2db52lb2w8/"><circle cx="320.0" cy="73.8" r="4" fill="#3465a4"><title>Kiltwalk</title></circle></a><a href="/variants/s14/db40g10lo1g5r5w1r2w1r5g5lo1g10db40y2~x2~db1406275/"><circle cx="373.5" cy="67.8" r="4" fill="#3465a4"><title>St. Andrew Quebec City</title></circle></a><a href="/variants/s8/r2w1r5g5lo1g10db40y2~x2/"><circle cx="360.8" cy="82.3" r="4" fill="#3465a4"><title>St. Andrew Quebec City (Corporate)</title></circle></a><circle cx="339.5" cy="77.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db46r3db7do2y2do2w2do11o6db2o3w2~x2/"><circle cx="365.8" cy="84.8" r="4" fill="#3465a4"><title>Lady Diana, Plaid</title></circle></a><a href="/variants/s11/r3w2db2lo1db39lo1db1ly2db1y15db1~x2/"><circle cx="387.2" cy="55.8" r="4" fill="#3465a4"><title>Bartlett from El Paso, Texas</title></circle></a><a href="/variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/"><circle cx="321.1" cy="90.7" r="4" fill="#3465a4"><title>Queens University, of Ontario</title></circle></a><a href="/variants/s11/r3w2db2ly1db39ly1db1g2db1lyi15db1~x2~ly2705081-lyi3104101/"><circle cx="368.9" cy="52.1" r="4" fill="#3465a4"><title>Bartlett of El Paso (Name)</title></circle></a><a href="/variants/s12/db76w3r4w3g4w3dg8db19lb20db3lb8w10/"><circle cx="313.4" cy="81.6" r="4" fill="#3465a4"><title>Summerwood (School)</title></circle></a><a href="/variants/s12/db76w3r4w3g4w3dg8db20lt20db3lt8w10/"><circle cx="312.4" cy="83.3" r="4" fill="#3465a4"><title>Summerwood</title></circle></a><a href="/variants/s12/dbi4dp8dbi3dp2dbi64lb24r4db3lb4db3w8r4~dbi1003265-db0906265/"><circle cx="281.4" cy="64.4" r="4" fill="#3465a4"><title>Royal Navy</title></circle></a><a href="/variants/s14/y8lb8r8db2r3db2r3db3r2db3r2db52lb2w8/"><circle cx="319.9" cy="73.9" r="4" fill="#3465a4"><title>Kiltwalk</title></circle></a><a href="/variants/s14/db40g10lo1g5r5w1r2w1r5g5lo1g10db40y2~x2~db1406275/"><circle cx="373.3" cy="67.7" r="4" fill="#3465a4"><title>St. Andrew Quebec City</title></circle></a><a href="/variants/s8/r2w1r5g5lo1g10db40y2~x2/"><circle cx="360.6" cy="82.3" r="4" fill="#3465a4"><title>St. Andrew Quebec City (Corporate)</title></circle></a><circle cx="339.4" cy="77.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/

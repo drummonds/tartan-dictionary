@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Michaluk (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3t4g20k20g3ly3/)
 (the same proportion at any scale), whose colour order is pattern [KBGKGY](/stripes/kbgkgy/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2944
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2944](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2944)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k9g3k3g12y2~x4/"><circle cx="235.9" cy="246.5" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/variants/s6/k2g9lb1k6b4g2~x2/"><circle cx="179.1" cy="212.5" r="4" fill="#3465a4"><title>Unnamed 3</title></circle></a><a href="/variants/s6/dr3k9g20k16g7t3~x2/"><circle cx="190.1" cy="225.5" r="4" fill="#3465a4"><title>Holman (Personal)</title></circle></a><a href="/variants/s6/k3g14k14g2t14r3~x2/"><circle cx="119.0" cy="223.7" r="4" fill="#3465a4"><title>Morrison Society</title></circle></a><a href="/variants/s6/k4g19k16w2db15g4~x2/"><circle cx="149.4" cy="212.0" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/variants/s6/r3g30k12g6k16y2~x2/"><circle cx="253.9" cy="177.0" r="4" fill="#3465a4"><title>MacArthur (Variant)</title></circle></a><a href="/variants/s4/k1g8k8ly1~x4/"><circle cx="250.0" cy="233.2" r="4" fill="#3465a4"><title>Wallace Htg (Clan)</title></circle></a><a href="/variants/s4/k1g8k8y1/"><circle cx="254.5" cy="234.3" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="139.9" cy="223.9" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s7/k22g21k5g12lb12n3w4~x2/"><circle cx="115.7" cy="202.1" r="4" fill="#3465a4"><title>Disciples of Christ Motorcycle Ministry (Switzerland)</title></circle></a><circle cx="186.0" cy="204.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k9g3k3g12y2~x4/"><circle cx="236.0" cy="247.3" r="4" fill="#3465a4"><title>MacArthur</title></circle></a><a href="/variants/s6/k2g9lb1k6b4g2~x2/"><circle cx="179.2" cy="213.1" r="4" fill="#3465a4"><title>Unnamed 3</title></circle></a><a href="/variants/s6/dr3k9g20k16g7t3~x2/"><circle cx="190.2" cy="226.2" r="4" fill="#3465a4"><title>Holman (Personal)</title></circle></a><a href="/variants/s6/k3g14k14g2t14r3~x2/"><circle cx="119.0" cy="224.3" r="4" fill="#3465a4"><title>Morrison Society</title></circle></a><a href="/variants/s6/k4g19k16w2db15g4~x2/"><circle cx="149.5" cy="212.5" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/variants/s6/r3g30k12g6k16y2~x2/"><circle cx="253.9" cy="177.5" r="4" fill="#3465a4"><title>MacArthur (Variant)</title></circle></a><a href="/variants/s4/k1g8k8ly1~x4/"><circle cx="250.1" cy="233.9" r="4" fill="#3465a4"><title>Wallace Htg (Clan)</title></circle></a><a href="/variants/s4/k1g8k8y1/"><circle cx="254.5" cy="235.0" r="4" fill="#3465a4"><title>Wallace Hunting</title></circle></a><a href="/variants/s6/k2g7lb1k6r4g2~x4/"><circle cx="140.0" cy="224.6" r="4" fill="#3465a4"><title>Walker, James</title></circle></a><a href="/variants/s7/k22g21k5g12lb12n3w4~x2/"><circle cx="115.8" cy="202.7" r="4" fill="#3465a4"><title>Disciples of Christ Motorcycle Ministry (Switzerland)</title></circle></a><circle cx="186.1" cy="204.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k3t4g20k20g3ly3~x4/

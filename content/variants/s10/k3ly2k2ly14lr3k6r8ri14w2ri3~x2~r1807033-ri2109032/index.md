@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Walls, Steve C (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3ly2k2ly14lr3k6r8ri14w2ri3/)
 (the same proportion at any scale), whose colour order is pattern [KYKYYKRRWR](/stripes/kykyykrrwr/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11161
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11161](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11161)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/"><circle cx="70.8" cy="160.4" r="4" fill="#3465a4"><title>Walls, Steve C (Personal)</title></circle></a><a href="/variants/s9/y4k2dg7g7r5k2r15k2w4~x2/"><circle cx="97.7" cy="162.7" r="4" fill="#3465a4"><title>Thirkill</title></circle></a><a href="/variants/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><circle cx="86.1" cy="131.6" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/variants/s8/k14ly3g18r15w2r3w2dp14~x2~dp1607327/"><circle cx="73.9" cy="142.2" r="4" fill="#3465a4"><title>Wilson's No.083</title></circle></a><a href="/variants/s12/r20lb14k17y2k3w3k3g24r14k4r4w2~x2/"><circle cx="79.4" cy="123.5" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/variants/s15/r18lb5r18g24y3k19lb10k3lb3k3lb10r18w4k5r5~x2/"><circle cx="79.9" cy="138.3" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><a href="/variants/s10/w16k16ri40w3r6w3r40k16w16g4~ri2406019-r2109032/"><circle cx="87.3" cy="140.3" r="4" fill="#3465a4"><title>Nisbett Rose Dress Family Tartan</title></circle></a><a href="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/"><circle cx="78.2" cy="142.1" r="4" fill="#3465a4"><title>Derry County Crest (Fashion)</title></circle></a><a href="/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/"><circle cx="91.3" cy="138.4" r="4" fill="#3465a4"><title>Kidd</title></circle></a><a href="/variants/s14/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5~x2/"><circle cx="62.8" cy="137.4" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><circle cx="50.9" cy="153.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/"><circle cx="70.8" cy="160.9" r="4" fill="#3465a4"><title>Walls, Steve C (Personal)</title></circle></a><a href="/variants/s9/y4k2dg7g7r5k2r15k2w4~x2/"><circle cx="97.7" cy="163.2" r="4" fill="#3465a4"><title>Thirkill</title></circle></a><a href="/variants/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><circle cx="86.0" cy="131.9" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/variants/s8/k14ly3g18r15w2r3w2dp14~x2~dp1607327/"><circle cx="73.9" cy="142.6" r="4" fill="#3465a4"><title>Wilson's No.083</title></circle></a><a href="/variants/s12/r20lb14k17y2k3w3k3g24r14k4r4w2~x2/"><circle cx="79.4" cy="123.9" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/variants/s15/r18lb5r18g24y3k19lb10k3lb3k3lb10r18w4k5r5~x2/"><circle cx="79.8" cy="138.7" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><a href="/variants/s10/w16k16ri40w3r6w3r40k16w16g4~ri2406019-r2109032/"><circle cx="87.3" cy="140.7" r="4" fill="#3465a4"><title>Nisbett Rose Dress Family Tartan</title></circle></a><a href="/variants/s11/k14db22k5ly11k5y24k11ly11r54ly8k10/"><circle cx="78.1" cy="142.5" r="4" fill="#3465a4"><title>Derry County Crest (Fashion)</title></circle></a><a href="/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/"><circle cx="91.2" cy="138.8" r="4" fill="#3465a4"><title>Kidd</title></circle></a><a href="/variants/s14/r9lb8k2lb2k2lb8k16y3dg18r10k3r10w2r5~x2/"><circle cx="62.7" cy="137.8" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><circle cx="50.9" cy="153.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k3ly2k2ly14lr3k6r8ri14w2ri3~x2~r1807033-ri2109032/

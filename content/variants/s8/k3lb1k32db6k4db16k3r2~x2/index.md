@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Little of Morton Rigg Red (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3lb1k32db6k4db16k3r2/)
 (the same proportion at any scale), whose colour order is pattern [KWKBKBKR](/stripes/kwkbkbkr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2128
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2128](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2128)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb3k6w2k6db2k2db32k2n1~x2/"><circle cx="341.2" cy="79.7" r="4" fill="#3465a4"><title>Nocken Blue Modern Tartan (Personal)</title></circle></a><a href="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/"><circle cx="345.0" cy="145.9" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><a href="/variants/s8/k28r1k2r1k8db24g2db3~x2/"><circle cx="349.5" cy="122.1" r="4" fill="#3465a4"><title>Home or Hume (Vestiarium Scoticum)</title></circle></a><a href="/variants/s10/db50k12n2k2w2k2n12db7k7w2~x2/"><circle cx="335.6" cy="106.1" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><a href="/variants/s7/k5db15k5lb1k35dp1k2~x4/"><circle cx="481.9" cy="115.0" r="4" fill="#3465a4"><title>Gibson, Robert (Personal)</title></circle></a><a href="/variants/s6/k7r2k33db33k2db7~x2/"><circle cx="349.4" cy="186.5" r="4" fill="#3465a4"><title>Casterton (Corporate)</title></circle></a><a href="/variants/s7/k3db10y5db29k10r6k2~x2/"><circle cx="310.3" cy="164.0" r="4" fill="#3465a4"><title>Perkins (2015)</title></circle></a><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><circle cx="360.0" cy="132.3" r="4" fill="#3465a4"><title>Pride of Nova Scotia (Corporate)</title></circle></a><a href="/variants/s8/k8y1k1db28k12g2k1lb2~x2/"><circle cx="301.4" cy="103.9" r="4" fill="#3465a4"><title>Hope-Weir/Weir</title></circle></a><a href="/variants/s6/k4w2k28db30k1db3~x2/"><circle cx="350.8" cy="152.9" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><circle cx="391.0" cy="114.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb3k6w2k6db2k2db32k2n1~x2/"><circle cx="341.0" cy="79.8" r="4" fill="#3465a4"><title>Nocken Blue Modern Tartan (Personal)</title></circle></a><a href="/variants/s9/db23k2db2k2db2k28dr2k4t2~x2/"><circle cx="344.9" cy="146.0" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><a href="/variants/s8/k28r1k2r1k8db24g2db3~x2/"><circle cx="349.4" cy="122.3" r="4" fill="#3465a4"><title>Home or Hume (Vestiarium Scoticum)</title></circle></a><a href="/variants/s10/db50k12n2k2w2k2n12db7k7w2~x2/"><circle cx="335.5" cy="106.2" r="4" fill="#3465a4"><title>Skye (Fashion)</title></circle></a><a href="/variants/s7/k5db15k5lb1k35dp1k2~x4/"><circle cx="481.8" cy="115.1" r="4" fill="#3465a4"><title>Gibson, Robert (Personal)</title></circle></a><a href="/variants/s6/k7r2k33db33k2db7~x2/"><circle cx="349.4" cy="186.8" r="4" fill="#3465a4"><title>Casterton (Corporate)</title></circle></a><a href="/variants/s7/k3db10y5db29k10r6k2~x2/"><circle cx="310.3" cy="164.3" r="4" fill="#3465a4"><title>Perkins (2015)</title></circle></a><a href="/variants/s7/k3ly2k36db16k5db2w3~x2/"><circle cx="360.0" cy="132.6" r="4" fill="#3465a4"><title>Pride of Nova Scotia (Corporate)</title></circle></a><a href="/variants/s8/k8y1k1db28k12g2k1lb2~x2/"><circle cx="301.2" cy="103.9" r="4" fill="#3465a4"><title>Hope-Weir/Weir</title></circle></a><a href="/variants/s6/k4w2k28db30k1db3~x2/"><circle cx="350.8" cy="153.2" r="4" fill="#3465a4"><title>Ramsay</title></circle></a><circle cx="390.9" cy="114.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k3lb1k32db6k4db16k3r2~x2/

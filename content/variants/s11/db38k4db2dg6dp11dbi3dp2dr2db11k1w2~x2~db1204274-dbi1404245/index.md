@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Highland Pride 2 (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db38k4db2dg6dp11dbi3dp2dr2db11k1w2/)
 (the same proportion at any scale), whose colour order is pattern [BKBGBBBBBKW](/stripes/bkbgbbbbbkw/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8591
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8591](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8591)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dy8w1o1db10n16dy2k3db33lb1ki3dy2~x2~o2500000-n1700000-k0700000-ki0800000/"><circle cx="332.5" cy="81.1" r="4" fill="#3465a4"><title>Arran Mist</title></circle></a><a href="/variants/s12/db54dy9db16dy2dp3w3dp3dr27db13dy3g5w2~x2/"><circle cx="389.0" cy="122.4" r="4" fill="#3465a4"><title>Queens University Kingston Ontario</title></circle></a><a href="/variants/s9/db3n3db36dbi7k3dbi6g5k1y3~x2~db1106275-dbi1406275/"><circle cx="371.7" cy="94.1" r="4" fill="#3465a4"><title>Incorporation of Weavers (Glasgow)</title></circle></a><a href="/variants/s10/db56dg11r2dg7k2dg7r2dg7dbi3y4~x2~db1003265-dbi1208266/"><circle cx="425.1" cy="113.8" r="4" fill="#3465a4"><title>CAL FIRE Local 2881</title></circle></a><circle cx="416.8" cy="84.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dy8w1o1db10n16dy2k3db33lb1ki3dy2~x2~o2500000-n1700000-k0700000-ki0800000/"><circle cx="332.4" cy="80.7" r="4" fill="#3465a4"><title>Arran Mist</title></circle></a><a href="/variants/s12/db54dy9db16dy2dp3w3dp3dr27db13dy3g5w2~x2/"><circle cx="388.9" cy="122.4" r="4" fill="#3465a4"><title>Queens University Kingston Ontario</title></circle></a><a href="/variants/s9/db3n3db36dbi7k3dbi6g5k1y3~x2~db1106275-dbi1406275/"><circle cx="371.6" cy="94.0" r="4" fill="#3465a4"><title>Incorporation of Weavers (Glasgow)</title></circle></a><a href="/variants/s10/db56dg11r2dg7k2dg7r2dg7dbi3y4~x2~db1003265-dbi1208266/"><circle cx="425.0" cy="113.5" r="4" fill="#3465a4"><title>CAL FIRE Local 2881</title></circle></a><circle cx="416.7" cy="84.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db38k4db2dg6dp11dbi3dp2dr2db11k1w2~x2~db1204274-dbi1404245/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Salvation Army Hunting"
   url: "/tartans/salvation-army-hunting/"
+- name: "Salvation Army, Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db40g8k1y2k1g8db5/)
 (the same proportion at any scale), whose colour order is pattern [BGKGKGB](/stripes/bgkgkgb/).
@@ -14,7 +16,7 @@ Part of the [Salvation Army Hunting](/tartans/salvation-army-hunting/) tartan �
 
 Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g23db3k8db4g4db56dy8/"><circle cx="352.2" cy="154.9" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56ly8/"><circle cx="324.8" cy="146.4" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s7/db80k5g12k2y2g2k10~x2/"><circle cx="466.3" cy="97.2" r="4" fill="#3465a4"><title>Affara (Personal)</title></circle></a><a href="/variants/s7/db80r21k2y4k2r16db10~x2/"><circle cx="428.2" cy="101.0" r="4" fill="#3465a4"><title>Salvation Army, dress</title></circle></a><a href="/variants/s6/db47g14do5o2r3g7~x2/"><circle cx="375.1" cy="147.6" r="4" fill="#3465a4"><title>Round Table of Britain and Ireland, RtbI.</title></circle></a><a href="/variants/s7/db67w1ly6r5dg25db3k5~x2/"><circle cx="380.8" cy="79.2" r="4" fill="#3465a4"><title>Guide Dogs (Corporate)</title></circle></a><a href="/variants/s6/r5db40w1db13g8k4~x2/"><circle cx="448.2" cy="111.5" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s6/r5db40w1db13dg8k4~x2/"><circle cx="478.6" cy="120.6" r="4" fill="#3465a4"><title>London Caledonian Rugby Club</title></circle></a><a href="/variants/s9/k10db3k3db32g1db1g1db2n2~x2/"><circle cx="462.6" cy="104.4" r="4" fill="#3465a4"><title>Orman (Midlothian) (Personal)</title></circle></a><a href="/variants/s6/db48g14r3g2r3g2~x2/"><circle cx="456.2" cy="160.6" r="4" fill="#3465a4"><title>Wilson #2</title></circle></a><circle cx="453.8" cy="112.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/g23db3k8db4g4db56dy8/"><circle cx="352.2" cy="155.1" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s7/g23db3k8db4g4db56ly8/"><circle cx="324.7" cy="146.7" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/variants/s7/db80k5g12k2y2g2k10~x2/"><circle cx="466.2" cy="97.3" r="4" fill="#3465a4"><title>Affara (Personal)</title></circle></a><a href="/variants/s7/db80r21k2y4k2r16db10~x2/"><circle cx="428.1" cy="101.2" r="4" fill="#3465a4"><title>Salvation Army, dress</title></circle></a><a href="/variants/s6/db47g14do5o2r3g7~x2/"><circle cx="375.1" cy="147.8" r="4" fill="#3465a4"><title>Round Table of Britain and Ireland, RtbI.</title></circle></a><a href="/variants/s7/db67w1ly6r5dg25db3k5~x2/"><circle cx="380.6" cy="79.2" r="4" fill="#3465a4"><title>Guide Dogs (Corporate)</title></circle></a><a href="/variants/s6/r5db40w1db13g8k4~x2/"><circle cx="448.1" cy="111.6" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s6/r5db40w1db13dg8k4~x2/"><circle cx="478.5" cy="120.7" r="4" fill="#3465a4"><title>London Caledonian Rugby Club</title></circle></a><a href="/variants/s9/k10db3k3db32g1db1g1db2n2~x2/"><circle cx="462.5" cy="104.4" r="4" fill="#3465a4"><title>Orman (Midlothian) (Personal)</title></circle></a><a href="/variants/s6/db48g14r3g2r3g2~x2/"><circle cx="456.2" cy="160.8" r="4" fill="#3465a4"><title>Wilson #2</title></circle></a><circle cx="453.7" cy="112.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db40g8k1y2k1g8db5~x4/

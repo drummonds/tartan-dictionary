@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Caledonian Hotel (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n9db1n1db1n1db7dg7dr2/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBBGB](/stripes/bbbbbbgb/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2215
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2215](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2215)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db16dr2db2dr2db2dr6dg13ly2dg3~x2/"><circle cx="328.0" cy="242.8" r="4" fill="#3465a4"><title>Dewar, Christian (Personal)</title></circle></a><a href="/variants/s7/dg32dy7dg7dy16db32y3dy8~x2~dg1806142-db1406275/"><circle cx="319.4" cy="243.3" r="4" fill="#3465a4"><title>Strange of Balcaskie (Personal)</title></circle></a><a href="/variants/s8/dy9db4dy4db4dy24n19db19n4~x2/"><circle cx="371.8" cy="303.4" r="4" fill="#3465a4"><title>Chindecella Gorse (Kemete Heil)</title></circle></a><a href="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/"><circle cx="353.8" cy="282.4" r="4" fill="#3465a4"><title>United Colours of Scotland (Corporat</title></circle></a><a href="/variants/s13/n11b2n2b2n2b12dg12b2dg12b12n11b2n2~x2/"><circle cx="322.8" cy="279.9" r="4" fill="#3465a4"><title>Scottish Scouts</title></circle></a><a href="/variants/s5/db32dy16g3lo4dg28~x2/"><circle cx="294.1" cy="262.6" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/variants/s7/dr1n5dt3db11dt3n5lo1~x8/"><circle cx="320.6" cy="259.5" r="4" fill="#3465a4"><title>Newmill</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.5" cy="296.3" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s7/dr18db12w2db12dg8dr3dg10~x2/"><circle cx="281.7" cy="283.6" r="4" fill="#3465a4"><title>Brough (Name)</title></circle></a><a href="/variants/s8/dy5dbi12db4ly4db22dbi3db4dy5~dbi1406275-db1204274/"><circle cx="370.2" cy="262.2" r="4" fill="#3465a4"><title>Daks Muted blue Trade Tartan</title></circle></a><circle cx="337.6" cy="260.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db16dr2db2dr2db2dr6dg13ly2dg3~x2/"><circle cx="328.1" cy="243.0" r="4" fill="#3465a4"><title>Dewar, Christian (Personal)</title></circle></a><a href="/variants/s7/dg32dy7dg7dy16db32y3dy8~x2~dg1806142-db1406275/"><circle cx="319.5" cy="243.5" r="4" fill="#3465a4"><title>Strange of Balcaskie (Personal)</title></circle></a><a href="/variants/s8/dy9db4dy4db4dy24n19db19n4~x2/"><circle cx="372.0" cy="303.8" r="4" fill="#3465a4"><title>Chindecella Gorse (Kemete Heil)</title></circle></a><a href="/variants/s7/dg7dbi3dg7db22dbi22w3dbi5~x2~dbi1406275-db1404245/"><circle cx="353.9" cy="282.7" r="4" fill="#3465a4"><title>United Colours of Scotland (Corporat</title></circle></a><a href="/variants/s13/n11b2n2b2n2b12dg12b2dg12b12n11b2n2~x2/"><circle cx="323.0" cy="280.2" r="4" fill="#3465a4"><title>Scottish Scouts</title></circle></a><a href="/variants/s5/db32dy16g3lo4dg28~x2/"><circle cx="294.2" cy="262.9" r="4" fill="#3465a4"><title>Corey in Balachuirn</title></circle></a><a href="/variants/s7/dr1n5dt3db11dt3n5lo1~x8/"><circle cx="320.7" cy="259.7" r="4" fill="#3465a4"><title>Newmill</title></circle></a><a href="/variants/s5/dg3dr1dg9n10db3~x4/"><circle cx="403.7" cy="296.6" r="4" fill="#3465a4"><title>Bethlehem, City of</title></circle></a><a href="/variants/s7/dr18db12w2db12dg8dr3dg10~x2/"><circle cx="281.8" cy="284.0" r="4" fill="#3465a4"><title>Brough (Name)</title></circle></a><a href="/variants/s8/dy5dbi12db4ly4db22dbi3db4dy5~dbi1406275-db1204274/"><circle cx="370.4" cy="262.5" r="4" fill="#3465a4"><title>Daks Muted blue Trade Tartan</title></circle></a><circle cx="337.7" cy="260.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/n9db1n1db1n1db7dg7dr2~x4/

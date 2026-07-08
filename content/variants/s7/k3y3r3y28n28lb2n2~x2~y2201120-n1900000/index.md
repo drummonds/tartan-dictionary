@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Isle of Cumbrae (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3y3r3y28n28lb2n2/)
 (the same proportion at any scale), whose colour order is pattern [BWBGRGK](/stripes/bwbgrgk/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7170
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7170](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7170)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

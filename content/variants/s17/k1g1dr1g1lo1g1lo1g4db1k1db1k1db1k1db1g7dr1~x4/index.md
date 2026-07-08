@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Myron"
   url: "/tartans/myron/"
+- name: "Myron"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k1g1dr1g1lo1g1lo1g4db1k1db1k1db1k1db1g7dr1/)
 (the same proportion at any scale), whose colour order is pattern [BGBKBKBKBGYGYGBGK](/stripes/bgbkbkbkbgygygbgk/).
@@ -14,7 +16,7 @@ Part of the [Myron](/tartans/myron/) tartan — the named design grouping this s
 
 Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3086
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3086](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3086)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/r3g24db4k3db3k3db3k3db4g12o2g2o2g3lo2g2k2~x2/"><circle cx="211.0" cy="97.4" r="4" fill="#3465a4"><title>Kennedy (Clan)</title></circle></a><a href="/variants/s17/k3g3dr2g3y2g2y2g11db3k3db3k3db3k3db3g20r3~x2/"><circle cx="188.4" cy="113.9" r="4" fill="#3465a4"><title>Myron</title></circle></a><a href="/variants/s14/g16k3g20w2r3k2r3w2g2db18k2r4w2g3~x2/"><circle cx="184.0" cy="129.3" r="4" fill="#3465a4"><title>MacFarlane Hunting Clan Tartan</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/"><circle cx="169.2" cy="149.3" r="4" fill="#3465a4"><title>Reid, Green</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/"><circle cx="169.2" cy="149.3" r="4" fill="#3465a4"><title>Reid Family Tartan</title></circle></a><a href="/variants/s16/t11k3t3k3t4k15g36w3g36k15t4k3t3k3t11r4~x2/"><circle cx="175.8" cy="122.0" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/"><circle cx="142.8" cy="137.2" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><a href="/variants/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27y4g27k8db3k3/"><circle cx="202.4" cy="134.2" r="4" fill="#3465a4"><title>Stuart/Stewart Hunting #2</title></circle></a><a href="/variants/s16/g10k1g1k1g1k1db4k1w1k1db1y1k1g4k1r1~x4/"><circle cx="173.5" cy="102.8" r="4" fill="#3465a4"><title>Cockburn - 1830 (Clan)</title></circle></a><a href="/variants/s23/g4db9k3db3k8g27r8g27k8g5k13g8k13g5k8g27y8g27k8db3k3db9g4/"><circle cx="191.9" cy="137.5" r="4" fill="#3465a4"><title>Stewart Hunting Early</title></circle></a><circle cx="187.6" cy="143.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/r3g24db4k3db3k3db3k3db4g12o2g2o2g3lo2g2k2~x2/"><circle cx="210.9" cy="97.6" r="4" fill="#3465a4"><title>Kennedy (Clan)</title></circle></a><a href="/variants/s17/k3g3dr2g3y2g2y2g11db3k3db3k3db3k3db3g20r3~x2/"><circle cx="188.3" cy="114.1" r="4" fill="#3465a4"><title>Myron</title></circle></a><a href="/variants/s14/g16k3g20w2r3k2r3w2g2db18k2r4w2g3~x2/"><circle cx="184.0" cy="129.6" r="4" fill="#3465a4"><title>MacFarlane Hunting Clan Tartan</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x4/"><circle cx="169.1" cy="149.7" r="4" fill="#3465a4"><title>Reid, Green</title></circle></a><a href="/variants/s13/w1r2g10r2g2k8g2db8g2r2g10r2w1~x2/"><circle cx="169.1" cy="149.7" r="4" fill="#3465a4"><title>Reid Family Tartan</title></circle></a><a href="/variants/s16/t11k3t3k3t4k15g36w3g36k15t4k3t3k3t11r4~x2/"><circle cx="175.7" cy="122.2" r="4" fill="#3465a4"><title>Semple</title></circle></a><a href="/variants/s15/dp2k2g6lb4k2db5k4g20k4lb5k2lb4g6k2dp2~x2/"><circle cx="142.8" cy="137.5" r="4" fill="#3465a4"><title>Letham Hunting (Name)</title></circle></a><a href="/variants/s22/db9g4db9k3db3k8g27r4g27k8g5k13g4k13g5k8g27y4g27k8db3k3/"><circle cx="202.3" cy="134.5" r="4" fill="#3465a4"><title>Stuart/Stewart Hunting #2</title></circle></a><a href="/variants/s16/g10k1g1k1g1k1db4k1w1k1db1y1k1g4k1r1~x4/"><circle cx="173.4" cy="103.0" r="4" fill="#3465a4"><title>Cockburn - 1830 (Clan)</title></circle></a><a href="/variants/s23/g4db9k3db3k8g27r8g27k8g5k13g8k13g5k8g27y8g27k8db3k3db9g4/"><circle cx="191.8" cy="137.8" r="4" fill="#3465a4"><title>Stewart Hunting Early</title></circle></a><circle cx="187.6" cy="144.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/k1g1dr1g1lo1g1lo1g4db1k1db1k1db1k1db1g7dr1~x4/

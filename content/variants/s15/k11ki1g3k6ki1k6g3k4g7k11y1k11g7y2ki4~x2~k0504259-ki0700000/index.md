@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Eynon (Welsh Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4/)
 (the same proportion at any scale), whose colour order is pattern [KGGKGKGKGKKKGKK](/stripes/kggkgkgkgkkkgkk/).
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7860
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7860](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7860)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db11k1g3db6k1db6g3db4g7db11y1db11g7y2k4/"><circle cx="299.3" cy="179.7" r="4" fill="#3465a4"><title>Beynon</title></circle></a><a href="/variants/s15/db32k6db6k6db6k32db33k4y8k4db33k32db34k4w8/"><circle cx="273.8" cy="168.3" r="4" fill="#3465a4"><title>Fleming /Frisken/Flanders</title></circle></a><a href="/variants/s12/k17n2k3g2k3g2k24db8g4db4g3db8~x2/"><circle cx="284.7" cy="146.8" r="4" fill="#3465a4"><title>Kells Irish Pubs</title></circle></a><a href="/variants/s15/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3~x2/"><circle cx="269.1" cy="153.1" r="4" fill="#3465a4"><title>Cornwall</title></circle></a><a href="/variants/s15/db16k3db3k3db3k16db17k2dy4k2db17k16db17k2w4~x2/"><circle cx="282.6" cy="170.2" r="4" fill="#3465a4"><title>Fleming/Frisken/Flanders</title></circle></a><a href="/variants/s16/db14k21r2k3db4k21r3w3r3k21db4k3r2k21db14w3~x2/"><circle cx="282.2" cy="138.4" r="4" fill="#3465a4"><title>Royal Naval Association</title></circle></a><a href="/variants/s13/db56k6g24k6db8k21y6k21db8k6g24k6db56/"><circle cx="233.1" cy="165.3" r="4" fill="#3465a4"><title>Murray of Elibank</title></circle></a><a href="/variants/s13/db16k2ly2k2ly2k15db14k2db14k15db16k4w1~x2/"><circle cx="302.1" cy="153.7" r="4" fill="#3465a4"><title>Bredillet (Personal)</title></circle></a><a href="/variants/s12/k17n2k3g2k3g2k24t8g4t4g3t8~x2/"><circle cx="259.9" cy="141.6" r="4" fill="#3465a4"><title>Kells Irish Pubs (Corporate)</title></circle></a><a href="/variants/s12/g12k40db4lb4db4k28db7k8db7k8db10r4/"><circle cx="269.9" cy="140.1" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><circle cx="279.9" cy="169.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db11k1g3db6k1db6g3db4g7db11y1db11g7y2k4/"><circle cx="299.3" cy="180.1" r="4" fill="#3465a4"><title>Beynon</title></circle></a><a href="/variants/s15/db32k6db6k6db6k32db33k4y8k4db33k32db34k4w8/"><circle cx="273.8" cy="168.7" r="4" fill="#3465a4"><title>Fleming /Frisken/Flanders</title></circle></a><a href="/variants/s12/k17n2k3g2k3g2k24db8g4db4g3db8~x2/"><circle cx="284.7" cy="147.1" r="4" fill="#3465a4"><title>Kells Irish Pubs</title></circle></a><a href="/variants/s15/t4dr12t4k14t36dr3t36k14t4dr12t4dr12k14t36ly3~x2/"><circle cx="269.1" cy="153.5" r="4" fill="#3465a4"><title>Cornwall</title></circle></a><a href="/variants/s15/db16k3db3k3db3k16db17k2dy4k2db17k16db17k2w4~x2/"><circle cx="282.6" cy="170.5" r="4" fill="#3465a4"><title>Fleming/Frisken/Flanders</title></circle></a><a href="/variants/s16/db14k21r2k3db4k21r3w3r3k21db4k3r2k21db14w3~x2/"><circle cx="282.1" cy="138.7" r="4" fill="#3465a4"><title>Royal Naval Association</title></circle></a><a href="/variants/s13/db56k6g24k6db8k21y6k21db8k6g24k6db56/"><circle cx="233.1" cy="165.7" r="4" fill="#3465a4"><title>Murray of Elibank</title></circle></a><a href="/variants/s13/db16k2ly2k2ly2k15db14k2db14k15db16k4w1~x2/"><circle cx="302.0" cy="154.0" r="4" fill="#3465a4"><title>Bredillet (Personal)</title></circle></a><a href="/variants/s12/k17n2k3g2k3g2k24t8g4t4g3t8~x2/"><circle cx="259.8" cy="141.9" r="4" fill="#3465a4"><title>Kells Irish Pubs (Corporate)</title></circle></a><a href="/variants/s12/g12k40db4lb4db4k28db7k8db7k8db10r4/"><circle cx="269.9" cy="140.4" r="4" fill="#3465a4"><title>Pride of Wales (Fashion)</title></circle></a><circle cx="279.9" cy="169.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/k11ki1g3k6ki1k6g3k4g7k11y1k11g7y2ki4~x2~k0504259-ki0700000/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Arnold (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4ki1ly2ki1k5ki1k2ki2k2ki4k2ki2k2ki1k5r1k4ki20dp3ki4k4ki1w2ki1k4ki4dp3ki20k4r1k5ki1k2ki2k2ki4k2ki2k2ki1k5ki1ly2/)
 (the same proportion at any scale), whose colour order is pattern [KKYKKKKKKKKKKKKRKKBKKKWKKKBKKRKKKKKKKKKKKKY](/stripes/kkykkkkkkkkkkkkrkkbkkkwkkkbkkrkkkkkkkkkkkky/).
 
 Sourced from tartans-authority.  It is a [43 stripe tartan](/stripes/stripes43/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10751
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10751](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10751)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

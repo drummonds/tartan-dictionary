@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rice of Wales"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr21ly1dr21g8db4g5db4g4ly4g4db4g5db4g8dr21ly1dr21ly4/)
 (the same proportion at any scale), whose colour order is pattern [BYBGBGBGYGBGBGBYBY](/stripes/bybgbgbgygbgbgbyby/).
 
 Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3506
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3506](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3506)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/ly4dr21ly1dr21g8db4g5db4g4ly4~db1204274/"><circle cx="337.2" cy="174.7" r="4" fill="#3465a4"><title>Rice (Welsh Name)</title></circle></a><a href="/variants/s15/dr2w2db6dr2db2dr2db1dr20y1dr2y2dr2y6w2y2~x2/"><circle cx="349.8" cy="133.1" r="4" fill="#3465a4"><title>Winthrop University</title></circle></a><a href="/variants/s14/dr12db1dr1g8dr2db1dr1db3dr1db1dr12g1dr1g8~x4/"><circle cx="389.8" cy="192.6" r="4" fill="#3465a4"><title>MacDonald of Aird &amp; Valley (Clan?)</title></circle></a><a href="/variants/s9/do22ly11dg2ly4dg2ly6dg16do42lr6~x2/"><circle cx="354.4" cy="171.5" r="4" fill="#3465a4"><title>Kenmore (Fashion)</title></circle></a><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4~g2203152/"><circle cx="348.5" cy="136.0" r="4" fill="#3465a4"><title>Seton Hunting</title></circle></a><a href="/variants/s11/n36dr10ly2dr5g2dr5ly10n5ly2n10w2~x2/"><circle cx="366.6" cy="155.1" r="4" fill="#3465a4"><title>Toyokawa Check</title></circle></a><a href="/variants/s21/g4dr4g2dr2g2dr18db4g4dr2g2dr2g3dr4g2dr2g2dr2db4g4dr2g4~x2/"><circle cx="330.0" cy="197.2" r="4" fill="#3465a4"><title>Matheson (WCWM)</title></circle></a><circle cx="356.0" cy="156.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/ly4dr21ly1dr21g8db4g5db4g4ly4~db1204274/"><circle cx="337.2" cy="175.1" r="4" fill="#3465a4"><title>Rice (Welsh Name)</title></circle></a><a href="/variants/s15/dr2w2db6dr2db2dr2db1dr20y1dr2y2dr2y6w2y2~x2/"><circle cx="349.7" cy="133.3" r="4" fill="#3465a4"><title>Winthrop University</title></circle></a><a href="/variants/s14/dr12db1dr1g8dr2db1dr1db3dr1db1dr12g1dr1g8~x4/"><circle cx="389.9" cy="192.9" r="4" fill="#3465a4"><title>MacDonald of Aird &amp; Valley (Clan?)</title></circle></a><a href="/variants/s9/do22ly11dg2ly4dg2ly6dg16do42lr6~x2/"><circle cx="354.4" cy="171.9" r="4" fill="#3465a4"><title>Kenmore (Fashion)</title></circle></a><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4~g2203152/"><circle cx="348.5" cy="136.2" r="4" fill="#3465a4"><title>Seton Hunting</title></circle></a><a href="/variants/s11/n36dr10ly2dr5g2dr5ly10n5ly2n10w2~x2/"><circle cx="366.6" cy="155.3" r="4" fill="#3465a4"><title>Toyokawa Check</title></circle></a><a href="/variants/s21/g4dr4g2dr2g2dr18db4g4dr2g2dr2g3dr4g2dr2g2dr2db4g4dr2g4~x2/"><circle cx="330.0" cy="197.6" r="4" fill="#3465a4"><title>Matheson (WCWM)</title></circle></a><circle cx="356.0" cy="156.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s18/dr21ly1dr21g8db4g5db4g4ly4g4db4g5db4g8dr21ly1dr21ly4~x2~db1204274/

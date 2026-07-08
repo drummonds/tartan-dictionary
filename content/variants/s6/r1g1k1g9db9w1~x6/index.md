@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Irving of Bonshaw Tower"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1g1k1g9db9w1/)
 (the same proportion at any scale), whose colour order is pattern [RGKGBW](/stripes/rgkgbw/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4g14k3o3g12db36w4~x2/"><circle cx="196.1" cy="143.3" r="4" fill="#3465a4"><title>Vipont (White line)</title></circle></a><a href="/variants/s7/r4g14k3lp3g12db36w4~x2/"><circle cx="195.0" cy="144.0" r="4" fill="#3465a4"><title>Vipont Family Tartan</title></circle></a><a href="/variants/s7/r4g14k3b3g12db36w4~x2/"><circle cx="199.6" cy="145.9" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s6/g3lb1db7lb1g3k1~x8~db1406275/"><circle cx="203.3" cy="220.6" r="4" fill="#3465a4"><title>Scott Green (Sir Walter)</title></circle></a><a href="/variants/s6/r3w3db36g36k2r2~x2/"><circle cx="243.9" cy="142.7" r="4" fill="#3465a4"><title>Militello (Palermo) Dress (Personal)</title></circle></a><a href="/variants/s5/k7y3g28db28w3~x2/"><circle cx="178.3" cy="197.2" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="186.4" cy="197.0" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s6/db30k10g10lb2g15lb2~x2/"><circle cx="215.4" cy="187.8" r="4" fill="#3465a4"><title>MacRobart (Personal)</title></circle></a><a href="/variants/s6/db24k4r3g24k4o3~x2/"><circle cx="165.3" cy="186.7" r="4" fill="#3465a4"><title>(1) Skene</title></circle></a><a href="/variants/s5/k2dy1g10db10w1~x6/"><circle cx="194.5" cy="192.2" r="4" fill="#3465a4"><title>Turnbull Hunting (1983) #2</title></circle></a><circle cx="214.7" cy="177.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r4g14k3o3g12db36w4~x2/"><circle cx="196.1" cy="143.6" r="4" fill="#3465a4"><title>Vipont (White line)</title></circle></a><a href="/variants/s7/r4g14k3lp3g12db36w4~x2/"><circle cx="195.0" cy="144.3" r="4" fill="#3465a4"><title>Vipont Family Tartan</title></circle></a><a href="/variants/s7/r4g14k3b3g12db36w4~x2/"><circle cx="199.6" cy="146.2" r="4" fill="#3465a4"><title>Vipont</title></circle></a><a href="/variants/s6/g3lb1db7lb1g3k1~x8~db1406275/"><circle cx="203.3" cy="221.1" r="4" fill="#3465a4"><title>Scott Green (Sir Walter)</title></circle></a><a href="/variants/s6/r3w3db36g36k2r2~x2/"><circle cx="243.9" cy="143.0" r="4" fill="#3465a4"><title>Militello (Palermo) Dress (Personal)</title></circle></a><a href="/variants/s5/k7y3g28db28w3~x2/"><circle cx="178.3" cy="197.7" r="4" fill="#3465a4"><title>Turnbull, hunting</title></circle></a><a href="/variants/s5/k7dr3g29db29w3~x2/"><circle cx="186.4" cy="197.5" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/variants/s6/db30k10g10lb2g15lb2~x2/"><circle cx="215.4" cy="188.3" r="4" fill="#3465a4"><title>MacRobart (Personal)</title></circle></a><a href="/variants/s6/db24k4r3g24k4o3~x2/"><circle cx="165.4" cy="187.1" r="4" fill="#3465a4"><title>(1) Skene</title></circle></a><a href="/variants/s5/k2dy1g10db10w1~x6/"><circle cx="194.6" cy="192.7" r="4" fill="#3465a4"><title>Turnbull Hunting (1983) #2</title></circle></a><circle cx="214.7" cy="177.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r1g1k1g9db9w1~x6/

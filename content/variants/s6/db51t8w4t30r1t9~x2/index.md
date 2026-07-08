@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Navy-Radar"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db51t8w4t30r1t9/)
 (the same proportion at any scale), whose colour order is pattern [BBWBRB](/stripes/bbwbrb/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8868
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8868](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8868)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db45dbi7w3dbi27r1dbi7~x2~db0805267-dbi1604274/"><circle cx="423.1" cy="164.0" r="4" fill="#3465a4"><title>Edzell, U.S. Navy</title></circle></a><a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db0805267-dbi1604274/"><circle cx="400.6" cy="172.3" r="4" fill="#3465a4"><title>Edzell, U.S. Navy</title></circle></a><a href="/variants/s7/db2b2r1b16w1db20r2~x2/"><circle cx="373.0" cy="173.1" r="4" fill="#3465a4"><title>British American School (Corporate)</title></circle></a><a href="/variants/s7/db2b2r1b16w1db20r2~x2~db1406275/"><circle cx="403.8" cy="182.6" r="4" fill="#3465a4"><title>British American School of Charlotte</title></circle></a><a href="/variants/s6/db4r1db18t18w1t4~x4/"><circle cx="358.2" cy="200.7" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/variants/s6/db128r8lb41n4lb4n4/"><circle cx="437.9" cy="127.6" r="4" fill="#3465a4"><title>French Freemasons' Pride (Fashion)</title></circle></a><a href="/variants/s8/db26r2t16db23t16r2w2y1~x2~db1003265-t2304245/"><circle cx="341.9" cy="156.0" r="4" fill="#3465a4"><title>Boxing Scotland</title></circle></a><a href="/variants/s7/y4t3y1t17db40t2db3~x2/"><circle cx="502.5" cy="171.3" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s7/k4w1lb2w1k16t36lb4~x2~lb3203246-t2405244/"><circle cx="312.5" cy="107.4" r="4" fill="#3465a4"><title>NHS Grampian (Corporate)</title></circle></a><a href="/variants/s8/t36db6t5r3k2r3t5db18~x2/"><circle cx="357.4" cy="155.3" r="4" fill="#3465a4"><title>Leonard (Name)</title></circle></a><circle cx="387.5" cy="154.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db45dbi7w3dbi27r1dbi7~x2~db0805267-dbi1604274/"><circle cx="423.0" cy="164.1" r="4" fill="#3465a4"><title>Edzell, U.S. Navy</title></circle></a><a href="/variants/s6/db104dbi16w8dbi66r3dbi16~db0805267-dbi1604274/"><circle cx="400.6" cy="172.5" r="4" fill="#3465a4"><title>Edzell, U.S. Navy</title></circle></a><a href="/variants/s7/db2b2r1b16w1db20r2~x2/"><circle cx="373.0" cy="173.3" r="4" fill="#3465a4"><title>British American School (Corporate)</title></circle></a><a href="/variants/s7/db2b2r1b16w1db20r2~x2~db1406275/"><circle cx="403.8" cy="182.8" r="4" fill="#3465a4"><title>British American School of Charlotte</title></circle></a><a href="/variants/s6/db4r1db18t18w1t4~x4/"><circle cx="358.3" cy="201.0" r="4" fill="#3465a4"><title>Ewell Castle School</title></circle></a><a href="/variants/s6/db128r8lb41n4lb4n4/"><circle cx="437.9" cy="127.8" r="4" fill="#3465a4"><title>French Freemasons' Pride (Fashion)</title></circle></a><a href="/variants/s8/db26r2t16db23t16r2w2y1~x2~db1003265-t2304245/"><circle cx="341.9" cy="156.3" r="4" fill="#3465a4"><title>Boxing Scotland</title></circle></a><a href="/variants/s7/y4t3y1t17db40t2db3~x2/"><circle cx="502.5" cy="171.4" r="4" fill="#3465a4"><title>Danzas</title></circle></a><a href="/variants/s7/k4w1lb2w1k16t36lb4~x2~lb3203246-t2405244/"><circle cx="312.4" cy="107.6" r="4" fill="#3465a4"><title>NHS Grampian (Corporate)</title></circle></a><a href="/variants/s8/t36db6t5r3k2r3t5db18~x2/"><circle cx="357.4" cy="155.5" r="4" fill="#3465a4"><title>Leonard (Name)</title></circle></a><circle cx="387.5" cy="154.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db51t8w4t30r1t9~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hueg (Munich) Formal (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n4dp3n13dg8r12g4r12n4r5w4r4/)
 (the same proportion at any scale), whose colour order is pattern [BBBGRGRBRWR](/stripes/bbbgrgrbrwr/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10525
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10525](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10525)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r4w4r5t4r12dg4r12g8t13db3t4~x2/"><circle cx="152.6" cy="222.1" r="4" fill="#3465a4"><title>Hueg (Formal) (Personal)</title></circle></a><a href="/variants/s12/g2k1g4lb4y1lb4r4k1r4lb2r4w1~x4/"><circle cx="66.5" cy="206.9" r="4" fill="#3465a4"><title>British Columbia</title></circle></a><a href="/variants/s9/r13lb3r13g12y2b9lb9r13b2~x2/"><circle cx="232.4" cy="232.0" r="4" fill="#3465a4"><title>Caledonia No 3</title></circle></a><a href="/variants/s9/r13lb3r13g12y2dp9lb9r13dp2~x2/"><circle cx="220.9" cy="225.6" r="4" fill="#3465a4"><title>Caledonia No 3</title></circle></a><a href="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r1807008-ri2806019/"><circle cx="134.7" cy="216.7" r="4" fill="#3465a4"><title>Khosla, Sarah and Jatin (Personal)</title></circle></a><a href="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r1807008-ri2109013/"><circle cx="140.8" cy="217.7" r="4" fill="#3465a4"><title>Khosla, Sarah and Justin (Personal)</title></circle></a><a href="/variants/s12/g3db1g6r6lo1r6n6db1n6r2n6lb1~x4/"><circle cx="199.4" cy="220.8" r="4" fill="#3465a4"><title>Wcwm 1243</title></circle></a><a href="/variants/s13/y18r18dg30r12db55r42dg6r18dg6r42g44r12dg12/"><circle cx="196.5" cy="189.9" r="4" fill="#3465a4"><title>Unidentified Plaid #4</title></circle></a><a href="/variants/s8/b2r11lb9b11y2g13r21w2~x2/"><circle cx="203.8" cy="188.0" r="4" fill="#3465a4"><title>Wilson's, No 2</title></circle></a><a href="/variants/s8/r6y15do4db12g12dy4r25w5~x2/"><circle cx="108.3" cy="196.7" r="4" fill="#3465a4"><title>Young Presidents Organisation Dress</title></circle></a><circle cx="166.6" cy="223.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r4w4r5t4r12dg4r12g8t13db3t4~x2/"><circle cx="152.8" cy="222.7" r="4" fill="#3465a4"><title>Hueg (Formal) (Personal)</title></circle></a><a href="/variants/s12/g2k1g4lb4y1lb4r4k1r4lb2r4w1~x4/"><circle cx="66.6" cy="207.5" r="4" fill="#3465a4"><title>British Columbia</title></circle></a><a href="/variants/s9/r13lb3r13g12y2b9lb9r13b2~x2/"><circle cx="232.5" cy="232.6" r="4" fill="#3465a4"><title>Caledonia No 3</title></circle></a><a href="/variants/s9/r13lb3r13g12y2dp9lb9r13dp2~x2/"><circle cx="221.0" cy="226.2" r="4" fill="#3465a4"><title>Caledonia No 3</title></circle></a><a href="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r1807008-ri2806019/"><circle cx="134.8" cy="217.2" r="4" fill="#3465a4"><title>Khosla, Sarah and Jatin (Personal)</title></circle></a><a href="/variants/s9/dp4n10r18ly3r3ly5ri8n9w4~x2~r1807008-ri2109013/"><circle cx="140.9" cy="218.2" r="4" fill="#3465a4"><title>Khosla, Sarah and Justin (Personal)</title></circle></a><a href="/variants/s12/g3db1g6r6lo1r6n6db1n6r2n6lb1~x4/"><circle cx="199.5" cy="221.2" r="4" fill="#3465a4"><title>Wcwm 1243</title></circle></a><a href="/variants/s13/y18r18dg30r12db55r42dg6r18dg6r42g44r12dg12/"><circle cx="196.6" cy="190.3" r="4" fill="#3465a4"><title>Unidentified Plaid #4</title></circle></a><a href="/variants/s8/b2r11lb9b11y2g13r21w2~x2/"><circle cx="203.9" cy="188.4" r="4" fill="#3465a4"><title>Wilson's, No 2</title></circle></a><a href="/variants/s8/r6y15do4db12g12dy4r25w5~x2/"><circle cx="108.4" cy="197.2" r="4" fill="#3465a4"><title>Young Presidents Organisation Dress</title></circle></a><circle cx="166.7" cy="224.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/n4dp3n13dg8r12g4r12n4r5w4r4~x2~n2203265-dp1502305/

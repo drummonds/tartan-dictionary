@@ -32,10 +32,10 @@ second parent, beside its family or clan).
 <tr><td class="sett-swatch"><a href="/variants/s13/db16r2db2r7db31r2k32w3g31r7g2r2g16~x2/"><img src="/variants/s13/db16r2db2r7db31r2k32w3g31r7g2r2g16~x2/sett.png" alt="Clanranald, MacDonald of sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/setts/db8r1db2r3db12r1k12w1g12r3g2r1g8/">MacDonald of Clanranald</a></td></tr>
 <tr><td class="sett-swatch"><a href="/setts/db8r1db2r3db12r1k12w1g12r3g2r1g8/"><img src="/variants/s13/db8r1db2r3db12r1k12w1g12r3g2r1g8/sett.png" alt="MacDonald of Clanranald sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
-<tr><td><a href="/setts/db6r2db2r3db12r2k11w2g11r3g2r2g6/">MacDonald of Clanranald D</a></td></tr>
-<tr><td class="sett-swatch"><a href="/setts/db6r2db2r3db12r2k11w2g11r3g2r2g6/"><img src="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6/sett.png" alt="MacDonald of Clanranald D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 <tr><td><a href="/variants/s13/db6r2db2r3db12r2k10w2g12r3g2r2g6/">MacDonald of Clanranald D</a></td></tr>
 <tr><td class="sett-swatch"><a href="/variants/s13/db6r2db2r3db12r2k10w2g12r3g2r2g6/"><img src="/variants/s13/db6r2db2r3db12r2k10w2g12r3g2r2g6/sett.png" alt="MacDonald of Clanranald D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
+<tr><td><a href="/setts/db6r2db2r3db12r2k11w2g11r3g2r2g6/">MacDonald of Clanranald D</a></td></tr>
+<tr><td class="sett-swatch"><a href="/setts/db6r2db2r3db12r2k11w2g11r3g2r2g6/"><img src="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6/sett.png" alt="MacDonald of Clanranald D sett" loading="lazy" style="width:100%;max-width:560px"></a></td></tr>
 </tbody>
 </table>
 

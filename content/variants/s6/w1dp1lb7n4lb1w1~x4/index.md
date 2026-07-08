@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lochnagar Trade Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w1dp1lb7n4lb1w1/)
 (the same proportion at any scale), whose colour order is pattern [WBWBWW](/stripes/wbwbww/).
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1771
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1771](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1771)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g8w3n6db11n30db5~x2/"><circle cx="374.5" cy="242.8" r="4" fill="#3465a4"><title>Craig Devlin (Dundee) (Personal)</title></circle></a><a href="/variants/s6/w4lb28dp7y2dg16lb4~x2/"><circle cx="272.4" cy="189.8" r="4" fill="#3465a4"><title>Manx Laxey (Blue)</title></circle></a><a href="/variants/s6/b4g16y2dp7b28w4~x2/"><circle cx="314.5" cy="207.0" r="4" fill="#3465a4"><title>Manx Laxey</title></circle></a><a href="/variants/s4/w4n28lb48y3~x2/"><circle cx="434.9" cy="245.0" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress (Clan)</title></circle></a><a href="/variants/s6/db4dpi2dp3db24lb24w3~x2~dpi1607327-dp1105325/"><circle cx="286.1" cy="203.8" r="4" fill="#3465a4"><title>Aberdeen Academy of Performing Art</title></circle></a><a href="/variants/s4/n22y10w3db8~x2/"><circle cx="325.2" cy="291.3" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s5/db3dbi2lb31db34w2~x2~db1204274-dbi1406275/"><circle cx="359.0" cy="208.2" r="4" fill="#3465a4"><title>Gilt Edge (Corporate)</title></circle></a><a href="/variants/s6/w15y2db5n3lb40db10/"><circle cx="310.7" cy="173.0" r="4" fill="#3465a4"><title>Herriot New Zealand</title></circle></a><a href="/variants/s6/db1n8w1db4dr8w1~x6/"><circle cx="253.7" cy="259.4" r="4" fill="#3465a4"><title>Little's Chauffeur Drive</title></circle></a><a href="/variants/s6/w15y2db5lr3n40db10~lr2800000-n2402249/"><circle cx="318.7" cy="176.2" r="4" fill="#3465a4"><title>Herriot (New Zealand) (Name)</title></circle></a><circle cx="349.2" cy="261.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g8w3n6db11n30db5~x2/"><circle cx="374.6" cy="243.2" r="4" fill="#3465a4"><title>Craig Devlin (Dundee) (Personal)</title></circle></a><a href="/variants/s6/w4lb28dp7y2dg16lb4~x2/"><circle cx="272.4" cy="190.3" r="4" fill="#3465a4"><title>Manx Laxey (Blue)</title></circle></a><a href="/variants/s6/b4g16y2dp7b28w4~x2/"><circle cx="314.6" cy="207.3" r="4" fill="#3465a4"><title>Manx Laxey</title></circle></a><a href="/variants/s4/w4n28lb48y3~x2/"><circle cx="435.0" cy="245.5" r="4" fill="#3465a4"><title>McKerrell of Hillhouse Dress (Clan)</title></circle></a><a href="/variants/s6/db4dpi2dp3db24lb24w3~x2~dpi1607327-dp1105325/"><circle cx="286.2" cy="204.2" r="4" fill="#3465a4"><title>Aberdeen Academy of Performing Art</title></circle></a><a href="/variants/s4/n22y10w3db8~x2/"><circle cx="325.4" cy="291.9" r="4" fill="#3465a4"><title>Louisburg</title></circle></a><a href="/variants/s5/db3dbi2lb31db34w2~x2~db1204274-dbi1406275/"><circle cx="359.1" cy="208.7" r="4" fill="#3465a4"><title>Gilt Edge (Corporate)</title></circle></a><a href="/variants/s6/w15y2db5n3lb40db10/"><circle cx="310.8" cy="173.4" r="4" fill="#3465a4"><title>Herriot New Zealand</title></circle></a><a href="/variants/s6/db1n8w1db4dr8w1~x6/"><circle cx="253.9" cy="259.9" r="4" fill="#3465a4"><title>Little's Chauffeur Drive</title></circle></a><a href="/variants/s6/w15y2db5lr3n40db10~lr2800000-n2402249/"><circle cx="318.8" cy="176.5" r="4" fill="#3465a4"><title>Herriot (New Zealand) (Name)</title></circle></a><circle cx="349.4" cy="261.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/w1dp1lb7n4lb1w1~x4/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Letham"
   url: "/tartans/letham/"
+- name: "Letham (S.Australia)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g40k20lb10k4lb7g13k4lb4/)
 (the same proportion at any scale), whose colour order is pattern [GKWKWGKW](/stripes/gkwkwgkw/).
@@ -14,7 +16,7 @@ Part of the [Letham](/tartans/letham/) tartan — the named design grouping this
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2106
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2106](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2106)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/t3k1g4k1t4g9k2~x4/"><circle cx="266.2" cy="226.3" r="4" fill="#3465a4"><title>Outdoorsmen (Fashion)</title></circle></a><a href="/variants/s8/t5k1g3k1t3k1g10r3~x2/"><circle cx="227.1" cy="197.0" r="4" fill="#3465a4"><title>Ayrton 1979 No. 2 (Personal)</title></circle></a><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="205.3" cy="188.5" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><a href="/variants/s8/k3w7g3k16g17w1g8k1~x2/"><circle cx="229.6" cy="167.9" r="4" fill="#3465a4"><title>Utah Valley University</title></circle></a><a href="/variants/s8/k1t1k1t7g8k1g1ly1~x4/"><circle cx="215.8" cy="189.7" r="4" fill="#3465a4"><title>Banff Centennial (Commemorative)</title></circle></a><a href="/variants/s11/dg17lb2g2lb2k21lb2k3dg30k2lb2k4~x2~dg1806142-g2408144/"><circle cx="265.3" cy="129.3" r="4" fill="#3465a4"><title>Fort William District Tartan</title></circle></a><a href="/variants/s7/k5g2k5g2db8g25w4~x2/"><circle cx="252.9" cy="164.7" r="4" fill="#3465a4"><title>Keppoch</title></circle></a><a href="/variants/s10/g9lb1k6lb4g2lb4k6lb1g9k2~x2/"><circle cx="176.2" cy="209.0" r="4" fill="#3465a4"><title>Norwich No.049</title></circle></a><a href="/variants/s6/g7k1g7lb1k6lb1~x4/"><circle cx="276.9" cy="228.8" r="4" fill="#3465a4"><title>Innes, Georgina (Portrait)</title></circle></a><a href="/variants/s6/g7k1g7lb1k6lb1~x2/"><circle cx="276.9" cy="228.8" r="4" fill="#3465a4"><title>Innes</title></circle></a><circle cx="234.5" cy="190.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/t3k1g4k1t4g9k2~x4/"><circle cx="266.3" cy="226.8" r="4" fill="#3465a4"><title>Outdoorsmen (Fashion)</title></circle></a><a href="/variants/s8/t5k1g3k1t3k1g10r3~x2/"><circle cx="227.1" cy="197.4" r="4" fill="#3465a4"><title>Ayrton 1979 No. 2 (Personal)</title></circle></a><a href="/variants/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="205.4" cy="189.0" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><a href="/variants/s8/k3w7g3k16g17w1g8k1~x2/"><circle cx="229.6" cy="168.5" r="4" fill="#3465a4"><title>Utah Valley University</title></circle></a><a href="/variants/s8/k1t1k1t7g8k1g1ly1~x4/"><circle cx="215.8" cy="190.2" r="4" fill="#3465a4"><title>Banff Centennial (Commemorative)</title></circle></a><a href="/variants/s11/dg17lb2g2lb2k21lb2k3dg30k2lb2k4~x2~dg1806142-g2408144/"><circle cx="265.2" cy="129.6" r="4" fill="#3465a4"><title>Fort William District Tartan</title></circle></a><a href="/variants/s7/k5g2k5g2db8g25w4~x2/"><circle cx="252.9" cy="165.2" r="4" fill="#3465a4"><title>Keppoch</title></circle></a><a href="/variants/s10/g9lb1k6lb4g2lb4k6lb1g9k2~x2/"><circle cx="176.3" cy="209.7" r="4" fill="#3465a4"><title>Norwich No.049</title></circle></a><a href="/variants/s6/g7k1g7lb1k6lb1~x4/"><circle cx="277.0" cy="229.5" r="4" fill="#3465a4"><title>Innes, Georgina (Portrait)</title></circle></a><a href="/variants/s6/g7k1g7lb1k6lb1~x2/"><circle cx="277.0" cy="229.5" r="4" fill="#3465a4"><title>Innes</title></circle></a><circle cx="234.5" cy="191.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g40k20lb10k4lb7g13k4lb4~x2/

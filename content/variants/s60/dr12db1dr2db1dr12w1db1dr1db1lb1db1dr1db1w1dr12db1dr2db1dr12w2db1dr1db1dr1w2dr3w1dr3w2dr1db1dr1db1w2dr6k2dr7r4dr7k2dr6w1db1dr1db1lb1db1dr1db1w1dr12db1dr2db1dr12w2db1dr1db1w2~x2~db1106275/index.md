@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Takla Makan (Artefact)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr12db1dr2db1dr12w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1dr1w2dr3w1dr3w2dr1db1dr1db1w2dr6k2dr7r4dr7k2dr6w1db1dr1db1lb1db1dr1db1w1dr12db1dr2db1dr12w2db1dr1db1w2/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBWBBBWBBBWBBBBBWBBBBWBWBWBBBBWBKBRBKBWBBBWBBBWBBBBBWBBBW](/stripes/bbbbbwbbbwbbbwbbbbbwbbbbwbwbwbbbbwbkbrbkbwbbbwbbbwbbbbbwbbbw/).
 
 Sourced from tartans-authority.  It is a [60 stripe tartan](/stripes/stripes60/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5156
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5156](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5156)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

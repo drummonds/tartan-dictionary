@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "All Breeds Dairy Goats"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db10r10k36o1w1o1w1o1w1o1w1o1w1o1k1o1k1o1k1o1k1o1k1w1o1w1o1w1o1w1o1w1o27w26lg10ly10/)
 (the same proportion at any scale), whose colour order is pattern [BRKRWRWRWRWRWRKRKRKRKRKWRWRWRWRWRWYY](/stripes/brkrwrwrwrwrwrkrkrkrkrkwrwrwrwrwrwyy/).
 
 Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5880
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5880](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5880)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s36/db10r10k36w1ly1w1ly1w1ly1w1ly1w1ly1k1ly1k1ly1k1ly1k1ly1k1ly1w1ly1w1ly1w1ly1w1ly1w1ly26w26g10y10~x2/"><circle cx="62.2" cy="14.0" r="4" fill="#3465a4"><title>All Breeds Dairy Goats (Corporate)</title></circle></a><a href="/variants/s35/db10r10k16w4k16w1ly1w1ly1w1ly1w1ly1w1ly1k1ly1k1ly1k1ly1k1w1ly1w1ly1w1ly1w1ly1w1ly22w24lg10y10~x2/"><circle cx="35.0" cy="14.0" r="4" fill="#3465a4"><title>All breeds Dairy Goats (Version 2)</title></circle></a><a href="/variants/s53/db10r10k16w4k16ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1k1ly1k1ly1k1ly1k1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly22w24g10y10~x2/"><circle cx="43.7" cy="14.0" r="4" fill="#3465a4"><title>All Breeds Dairy Goats #2 (Corp)</title></circle></a><a href="/variants/s24/k4w2k2w1lb6r6g6w1g27w1db4lb4dy3w1dy3lb4db4w1r36db3lb2w1lb2db3~x2/"><circle cx="126.7" cy="14.0" r="4" fill="#3465a4"><title>Ross Wedding Dress</title></circle></a><a href="/variants/s24/k4w2k2w1lb6r6g6w1g27w1db4lb4o3w1o3lb4db4w1r36db3lb2w1lb2db3~x2/"><circle cx="129.6" cy="14.6" r="4" fill="#3465a4"><title>Ross, Wedding dress</title></circle></a><a href="/variants/s34/db8k2db3k2db2k3db2k11g2k4g3k3g4k2g5k2g55r4g11r11w4r66k2r5k2r4k3r3k4r2k11g15k2y4/"><circle cx="156.3" cy="14.0" r="4" fill="#3465a4"><title>Paisley Fancy Reduced</title></circle></a><circle cx="62.6" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s36/db10r10k36w1ly1w1ly1w1ly1w1ly1w1ly1k1ly1k1ly1k1ly1k1ly1k1ly1w1ly1w1ly1w1ly1w1ly1w1ly26w26g10y10~x2/"><circle cx="61.9" cy="14.0" r="4" fill="#3465a4"><title>All Breeds Dairy Goats (Corporate)</title></circle></a><a href="/variants/s35/db10r10k16w4k16w1ly1w1ly1w1ly1w1ly1w1ly1k1ly1k1ly1k1ly1k1w1ly1w1ly1w1ly1w1ly1w1ly22w24lg10y10~x2/"><circle cx="34.8" cy="14.0" r="4" fill="#3465a4"><title>All breeds Dairy Goats (Version 2)</title></circle></a><a href="/variants/s53/db10r10k16w4k16ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1k1ly1k1ly1k1ly1k1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly1w1ly22w24g10y10~x2/"><circle cx="43.4" cy="14.0" r="4" fill="#3465a4"><title>All Breeds Dairy Goats #2 (Corp)</title></circle></a><a href="/variants/s24/k4w2k2w1lb6r6g6w1g27w1db4lb4dy3w1dy3lb4db4w1r36db3lb2w1lb2db3~x2/"><circle cx="126.4" cy="14.0" r="4" fill="#3465a4"><title>Ross Wedding Dress</title></circle></a><a href="/variants/s24/k4w2k2w1lb6r6g6w1g27w1db4lb4o3w1o3lb4db4w1r36db3lb2w1lb2db3~x2/"><circle cx="129.4" cy="14.5" r="4" fill="#3465a4"><title>Ross, Wedding dress</title></circle></a><a href="/variants/s34/db8k2db3k2db2k3db2k11g2k4g3k3g4k2g5k2g55r4g11r11w4r66k2r5k2r4k3r3k4r2k11g15k2y4/"><circle cx="156.1" cy="14.0" r="4" fill="#3465a4"><title>Paisley Fancy Reduced</title></circle></a><circle cx="62.3" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s36/db10r10k36o1w1o1w1o1w1o1w1o1w1o1k1o1k1o1k1o1k1o1k1w1o1w1o1w1o1w1o1w1o27w26lg10ly10~o2505058-ly3607098/

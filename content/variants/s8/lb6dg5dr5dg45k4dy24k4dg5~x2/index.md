@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "O'Neill"
   url: "/tartans/o-neill-2/"
+- name: "O'Neill Clan/Family Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb6dg5dr5dg45k4dy24k4dg5/)
 (the same proportion at any scale), whose colour order is pattern [GKGKGBGWGBGKGK](/stripes/gkgkgbgwgbgkgk/).
@@ -14,7 +16,7 @@ Part of the [O'Neill](/tartans/o-neill-2/) tartan — the named design grouping 
 
 Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4135
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4135](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4135)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dr3dg24k4dg10g3dg10dr5dy3n3~x2/"><circle cx="423.6" cy="202.6" r="4" fill="#3465a4"><title>Battle of the Somme Centenary</title></circle></a><a href="/variants/s15/ly4dg18do3dg3do3dg18k2dr4k2do16dg3do3dg3do16dg3~x2/"><circle cx="358.9" cy="201.8" r="4" fill="#3465a4"><title>Ontario, Ensign of</title></circle></a><a href="/variants/s8/g3dyi3g4k4dy14k3g41gi2~x2~g1903114-dyi1603076-dy1503076-gi2203152/"><circle cx="440.1" cy="142.6" r="4" fill="#3465a4"><title>Huntsman</title></circle></a><a href="/variants/s15/dg3do16dg3do3dg3do16k2dr4k2dg18do3dg3do3dg16ly3~x2/"><circle cx="378.8" cy="209.3" r="4" fill="#3465a4"><title>Ontario, Ensign of (District)</title></circle></a><a href="/variants/s15/dg21k1r4k1dy21dg3dy3dg3dy21dg3ly4dg21dy3dg3dy3~x2/"><circle cx="404.1" cy="163.0" r="4" fill="#3465a4"><title>Ensign of Ontario (Fashion)</title></circle></a><a href="/variants/s7/dg11t4dg6dy11t1k1dy4~x4/"><circle cx="377.5" cy="261.2" r="4" fill="#3465a4"><title>Calais (Fashion)</title></circle></a><a href="/variants/s10/db56dg11r2dg7k2dg7r2dg7dbi3y4~x2~db1003265-dbi1208266/"><circle cx="425.1" cy="113.8" r="4" fill="#3465a4"><title>CAL FIRE Local 2881</title></circle></a><a href="/variants/s17/dg5db2dg12k4dg3dr3dg3dr13y3dr13dg3dr3dg3k3dg12db2dg5~x2/"><circle cx="316.7" cy="212.7" r="4" fill="#3465a4"><title>Lowland Donnelly (Personal)</title></circle></a><a href="/variants/s13/y1ki1dg8k1dg1ki8dg1k8dg1ki1dg8ki1w1~x6~ki0700000-k0504259/"><circle cx="278.9" cy="182.6" r="4" fill="#3465a4"><title>Robieson, Graham A. (Personal)</title></circle></a><circle cx="384.7" cy="173.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dr3dg24k4dg10g3dg10dr5dy3n3~x2/"><circle cx="423.7" cy="202.7" r="4" fill="#3465a4"><title>Battle of the Somme Centenary</title></circle></a><a href="/variants/s15/ly4dg18do3dg3do3dg18k2dr4k2do16dg3do3dg3do16dg3~x2/"><circle cx="358.9" cy="201.8" r="4" fill="#3465a4"><title>Ontario, Ensign of</title></circle></a><a href="/variants/s8/g3dyi3g4k4dy14k3g41gi2~x2~g1903114-dyi1603076-dy1503076-gi2203152/"><circle cx="440.1" cy="142.6" r="4" fill="#3465a4"><title>Huntsman</title></circle></a><a href="/variants/s15/dg3do16dg3do3dg3do16k2dr4k2dg18do3dg3do3dg16ly3~x2/"><circle cx="378.9" cy="209.3" r="4" fill="#3465a4"><title>Ontario, Ensign of (District)</title></circle></a><a href="/variants/s15/dg21k1r4k1dy21dg3dy3dg3dy21dg3ly4dg21dy3dg3dy3~x2/"><circle cx="404.0" cy="162.8" r="4" fill="#3465a4"><title>Ensign of Ontario (Fashion)</title></circle></a><a href="/variants/s7/dg11t4dg6dy11t1k1dy4~x4/"><circle cx="377.6" cy="261.4" r="4" fill="#3465a4"><title>Calais (Fashion)</title></circle></a><a href="/variants/s10/db56dg11r2dg7k2dg7r2dg7dbi3y4~x2~db1003265-dbi1208266/"><circle cx="425.0" cy="113.5" r="4" fill="#3465a4"><title>CAL FIRE Local 2881</title></circle></a><a href="/variants/s17/dg5db2dg12k4dg3dr3dg3dr13y3dr13dg3dr3dg3k3dg12db2dg5~x2/"><circle cx="316.8" cy="212.8" r="4" fill="#3465a4"><title>Lowland Donnelly (Personal)</title></circle></a><a href="/variants/s13/y1ki1dg8k1dg1ki8dg1k8dg1ki1dg8ki1w1~x6~ki0700000-k0504259/"><circle cx="278.9" cy="182.6" r="4" fill="#3465a4"><title>Robieson, Graham A. (Personal)</title></circle></a><circle cx="384.7" cy="173.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/lb6dg5dr5dg45k4dy24k4dg5~x2/

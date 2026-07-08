@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Virginia Tech"
   url: "/tartans/virginia-tech/"
+- name: "Virginia Tech (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr6lo2dr36lo18dr2lo4dr2lo6w3db4/)
 (the same proportion at any scale), whose colour order is pattern [BWYBYBYBYB](/stripes/bwybybybyb/).
@@ -14,7 +16,7 @@ Part of the [Virginia Tech](/tartans/virginia-tech/) tartan — the named design
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7663
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7663](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7663)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr6lo2dr32lo15dr2lo3dr2lo6w3db4~x2/"><circle cx="364.6" cy="164.4" r="4" fill="#3465a4"><title>Virginia Tech</title></circle></a><a href="/variants/s9/dr3lo2dr12lo2dr3lo8dr2lo8dr2~x2/"><circle cx="359.0" cy="266.7" r="4" fill="#3465a4"><title>MacMillan - 1842 (Dress)</title></circle></a><a href="/variants/s7/dr3lo3dr6lo18dr1lo2dr2~x4~dr1004029-lo2905070/"><circle cx="484.3" cy="209.8" r="4" fill="#3465a4"><title>Loughheed (Personal)</title></circle></a><a href="/variants/s15/dr2w2db6dr2db2dr2db1dr20ly1dr2ly2dr2ly6w2ly2~x2/"><circle cx="339.2" cy="137.0" r="4" fill="#3465a4"><title>Winthrop University (Corporate)</title></circle></a><a href="/variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/"><circle cx="324.2" cy="169.0" r="4" fill="#3465a4"><title>Citylink Gold (Corporate)</title></circle></a><a href="/variants/s9/w1dr12g2dr2w16dr2g2dr12lo1~x4/"><circle cx="315.5" cy="165.8" r="4" fill="#3465a4"><title>MacFie Dress</title></circle></a><circle cx="369.9" cy="157.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/dr6lo2dr32lo15dr2lo3dr2lo6w3db4~x2/"><circle cx="364.7" cy="164.8" r="4" fill="#3465a4"><title>Virginia Tech</title></circle></a><a href="/variants/s9/dr3lo2dr12lo2dr3lo8dr2lo8dr2~x2/"><circle cx="359.2" cy="267.5" r="4" fill="#3465a4"><title>MacMillan - 1842 (Dress)</title></circle></a><a href="/variants/s7/dr3lo3dr6lo18dr1lo2dr2~x4~dr1004029-lo2905070/"><circle cx="484.5" cy="210.4" r="4" fill="#3465a4"><title>Loughheed (Personal)</title></circle></a><a href="/variants/s15/dr2w2db6dr2db2dr2db1dr20ly1dr2ly2dr2ly6w2ly2~x2/"><circle cx="339.2" cy="137.3" r="4" fill="#3465a4"><title>Winthrop University (Corporate)</title></circle></a><a href="/variants/s8/dr25lb2dr3ly2dr3lb11w13ly1~x2/"><circle cx="324.2" cy="169.4" r="4" fill="#3465a4"><title>Citylink Gold (Corporate)</title></circle></a><a href="/variants/s9/w1dr12g2dr2w16dr2g2dr12lo1~x4/"><circle cx="315.5" cy="166.3" r="4" fill="#3465a4"><title>MacFie Dress</title></circle></a><circle cx="369.9" cy="158.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dr6lo2dr36lo18dr2lo4dr2lo6w3db4~x2/

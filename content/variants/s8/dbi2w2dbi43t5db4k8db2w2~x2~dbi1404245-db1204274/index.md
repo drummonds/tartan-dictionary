@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Fife Flyers"
   url: "/tartans/fife-flyers/"
+- name: "Fife Flyers"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dbi2w2dbi43t5db4k8db2w2/)
 (the same proportion at any scale), whose colour order is pattern [BWBBBKBW](/stripes/bwbbbkbw/).
@@ -14,7 +16,7 @@ Part of the [Fife Flyers](/tartans/fife-flyers/) tartan — the named design gro
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1181
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1181](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1181)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="330.4" cy="124.1" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/variants/s7/n5k6w2g7w2db44w2~x2/"><circle cx="344.1" cy="107.6" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s10/db46w1k3lb4k3t3k2t11k1lb2~x2~db1404245-t2308259/"><circle cx="359.9" cy="61.1" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><a href="/variants/s10/k46w1ki3lb4ki3db3ki2db11ki1lb2~x2~k0504259-ki0700000/"><circle cx="381.9" cy="65.7" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><a href="/variants/s9/db40g3db2g12k2g2y2g2k3~x2/"><circle cx="372.4" cy="117.2" r="4" fill="#3465a4"><title>Oliver, hunting</title></circle></a><a href="/variants/s8/db50y4db3y4db8k2dbi12w5~x2~db1003265-dbi1605267/"><circle cx="409.9" cy="108.7" r="4" fill="#3465a4"><title>Indiana #2</title></circle></a><a href="/variants/s7/db36k8g3dr3g6k1lo2~x2/"><circle cx="349.6" cy="97.4" r="4" fill="#3465a4"><title>MacLaurin of Broich (Clan)</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="337.4" cy="120.0" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/variants/s5/dt30lb2k6db3r3~x4/"><circle cx="395.0" cy="157.1" r="4" fill="#3465a4"><title>Edinburgh Crystal</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.1" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><circle cx="380.0" cy="107.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db20dy1db1dy1dg8k1w3~x2/"><circle cx="330.3" cy="124.3" r="4" fill="#3465a4"><title>Chestico</title></circle></a><a href="/variants/s7/n5k6w2g7w2db44w2~x2/"><circle cx="344.0" cy="107.8" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s10/db46w1k3lb4k3t3k2t11k1lb2~x2~db1404245-t2308259/"><circle cx="359.7" cy="61.1" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><a href="/variants/s10/k46w1ki3lb4ki3db3ki2db11ki1lb2~x2~k0504259-ki0700000/"><circle cx="381.7" cy="65.5" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><a href="/variants/s9/db40g3db2g12k2g2y2g2k3~x2/"><circle cx="372.3" cy="117.4" r="4" fill="#3465a4"><title>Oliver, hunting</title></circle></a><a href="/variants/s8/db50y4db3y4db8k2dbi12w5~x2~db1003265-dbi1605267/"><circle cx="409.8" cy="108.8" r="4" fill="#3465a4"><title>Indiana #2</title></circle></a><a href="/variants/s7/db36k8g3dr3g6k1lo2~x2/"><circle cx="349.5" cy="97.5" r="4" fill="#3465a4"><title>MacLaurin of Broich (Clan)</title></circle></a><a href="/variants/s7/r4k9dg9db40r2db2w2~x2/"><circle cx="337.4" cy="120.1" r="4" fill="#3465a4"><title>Genet, Edmond Charles 'Citizen' (Personal)</title></circle></a><a href="/variants/s5/dt30lb2k6db3r3~x4/"><circle cx="394.9" cy="157.4" r="4" fill="#3465a4"><title>Edinburgh Crystal</title></circle></a><a href="/variants/s6/b5g8k5db32w2r2~x2/"><circle cx="279.2" cy="129.4" r="4" fill="#3465a4"><title>Marion (Personal)</title></circle></a><circle cx="379.9" cy="107.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dbi2w2dbi43t5db4k8db2w2~x2~dbi1404245-db1204274/

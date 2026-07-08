@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Gillespie"
   url: "/tartans/gillespie/"
+- name: "Gillespie"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r13y1k3ly1dg4r1k2y1w1/)
 (the same proportion at any scale), whose colour order is pattern [RGKYGRKGW](/stripes/rgkygrkgw/).
@@ -14,7 +16,7 @@ Part of the [Gillespie](/tartans/gillespie/) tartan — the named design groupin
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1339
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1339](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1339)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r13lb1k3y1g4r1k2lb1w1~x4/"><circle cx="203.8" cy="98.9" r="4" fill="#3465a4"><title>Gillespie</title></circle></a><a href="/variants/s9/r13lb1k3dy1g4r1k2lb1w1~x4/"><circle cx="203.2" cy="98.6" r="4" fill="#3465a4"><title>Gillespie Family Tartan</title></circle></a><a href="/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/"><circle cx="199.6" cy="93.6" r="4" fill="#3465a4"><title>Burns 250th Anniversary (Commem.)</title></circle></a><a href="/variants/s9/r19y1k2lb1g7r2k1lb1w1~x4/"><circle cx="296.5" cy="77.1" r="4" fill="#3465a4"><title>Drummond Ancient</title></circle></a><a href="/variants/s11/r3db1r1db2r12lb1r1k4w1g6r1~x4/"><circle cx="213.9" cy="106.0" r="4" fill="#3465a4"><title>McLinden, Thomas (Personal)</title></circle></a><a href="/variants/s10/y2r3dy3r21db3r2dy6k6dy4w2~x2/"><circle cx="201.9" cy="120.0" r="4" fill="#3465a4"><title>Hello Kitty Red</title></circle></a><a href="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/"><circle cx="216.1" cy="69.5" r="4" fill="#3465a4"><title>Strathclyde Fire Services (Corporate</title></circle></a><a href="/variants/s8/k3r34g10r5db2k8dy2w3~x2/"><circle cx="257.3" cy="93.4" r="4" fill="#3465a4"><title>Lambert (Front Royal) Greer</title></circle></a><a href="/variants/s8/k3r34g10r5t2k8dy2w3~x2/"><circle cx="257.7" cy="93.9" r="4" fill="#3465a4"><title>Lambert Greer (Personal)</title></circle></a><a href="/variants/s11/r7k6r62k15r20n15ly10k16db10k3w6/"><circle cx="206.2" cy="84.9" r="4" fill="#3465a4"><title>Cork County Crest (Fashion)</title></circle></a><circle cx="206.3" cy="98.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r13lb1k3y1g4r1k2lb1w1~x4/"><circle cx="203.8" cy="99.2" r="4" fill="#3465a4"><title>Gillespie</title></circle></a><a href="/variants/s9/r13lb1k3dy1g4r1k2lb1w1~x4/"><circle cx="203.2" cy="98.9" r="4" fill="#3465a4"><title>Gillespie Family Tartan</title></circle></a><a href="/variants/s12/r8ly2r24k6dy3g2dy3g2dy3k3w3k2~x2/"><circle cx="199.5" cy="93.9" r="4" fill="#3465a4"><title>Burns 250th Anniversary (Commem.)</title></circle></a><a href="/variants/s9/r19y1k2lb1g7r2k1lb1w1~x4/"><circle cx="296.5" cy="77.3" r="4" fill="#3465a4"><title>Drummond Ancient</title></circle></a><a href="/variants/s11/r3db1r1db2r12lb1r1k4w1g6r1~x4/"><circle cx="213.8" cy="106.3" r="4" fill="#3465a4"><title>McLinden, Thomas (Personal)</title></circle></a><a href="/variants/s10/y2r3dy3r21db3r2dy6k6dy4w2~x2/"><circle cx="201.9" cy="120.3" r="4" fill="#3465a4"><title>Hello Kitty Red</title></circle></a><a href="/variants/s12/r37k3r7w3dg3ly3dg2db10k6db3dg3w4~x2/"><circle cx="216.0" cy="69.7" r="4" fill="#3465a4"><title>Strathclyde Fire Services (Corporate</title></circle></a><a href="/variants/s8/k3r34g10r5db2k8dy2w3~x2/"><circle cx="257.3" cy="93.7" r="4" fill="#3465a4"><title>Lambert (Front Royal) Greer</title></circle></a><a href="/variants/s8/k3r34g10r5t2k8dy2w3~x2/"><circle cx="257.7" cy="94.2" r="4" fill="#3465a4"><title>Lambert Greer (Personal)</title></circle></a><a href="/variants/s11/r7k6r62k15r20n15ly10k16db10k3w6/"><circle cx="206.2" cy="85.2" r="4" fill="#3465a4"><title>Cork County Crest (Fashion)</title></circle></a><circle cx="206.2" cy="98.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r13y1k3ly1dg4r1k2y1w1~x4~y2602166-ly3307090/

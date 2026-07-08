@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bush Pilot"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1r20g6k6g6r1k6db20w1/)
 (the same proportion at any scale), whose colour order is pattern [BRGKGRKBW](/stripes/brgkgrkbw/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=453
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=453](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=453)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg1r24dg8k8dg8r1k4db16w1~x2/"><circle cx="162.0" cy="121.3" r="4" fill="#3465a4"><title>Manson</title></circle></a><a href="/variants/s9/dg1r11dg3k4dg4r1k2db11w1~x2/"><circle cx="120.8" cy="153.3" r="4" fill="#3465a4"><title>Manson (Name)</title></circle></a><a href="/variants/s11/r6db6r3db3r3db28k21g28r21k2y4/"><circle cx="105.9" cy="138.1" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/"><circle cx="164.2" cy="135.5" r="4" fill="#3465a4"><title>McGurk (Personal)</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/"><circle cx="128.4" cy="127.0" r="4" fill="#3465a4"><title>Logan #7</title></circle></a><a href="/variants/s8/k3r2db30r1k18o30r2o3~x2/"><circle cx="196.2" cy="107.7" r="4" fill="#3465a4"><title>Bannockbane Navy Fashion Tartan</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1g1y2~x2/"><circle cx="132.6" cy="129.6" r="4" fill="#3465a4"><title>Logan and MacLennan</title></circle></a><a href="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/"><circle cx="171.5" cy="118.8" r="4" fill="#3465a4"><title>Windsor</title></circle></a><a href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/"><circle cx="147.7" cy="130.2" r="4" fill="#3465a4"><title>Urquhart (Fashion)</title></circle></a><a href="/variants/s10/y6r6y6r6y6k1db18w2db1w4~x2/"><circle cx="144.9" cy="141.0" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><circle cx="134.3" cy="126.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/dg1r24dg8k8dg8r1k4db16w1~x2/"><circle cx="161.9" cy="121.5" r="4" fill="#3465a4"><title>Manson</title></circle></a><a href="/variants/s9/dg1r11dg3k4dg4r1k2db11w1~x2/"><circle cx="120.8" cy="153.7" r="4" fill="#3465a4"><title>Manson (Name)</title></circle></a><a href="/variants/s11/r6db6r3db3r3db28k21g28r21k2y4/"><circle cx="105.8" cy="138.4" r="4" fill="#3465a4"><title>MacLagan of Glenquiech</title></circle></a><a href="/variants/s9/db8k4db31lo5r26k5y10lo5k2/"><circle cx="164.2" cy="135.8" r="4" fill="#3465a4"><title>McGurk (Personal)</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1k1y2~x2/"><circle cx="128.3" cy="127.3" r="4" fill="#3465a4"><title>Logan #7</title></circle></a><a href="/variants/s8/k3r2db30r1k18o30r2o3~x2/"><circle cx="196.1" cy="107.9" r="4" fill="#3465a4"><title>Bannockbane Navy Fashion Tartan</title></circle></a><a href="/variants/s11/r6db3r2db2r2db16k12g16r1g1y2~x2/"><circle cx="132.5" cy="129.8" r="4" fill="#3465a4"><title>Logan and MacLennan</title></circle></a><a href="/variants/s10/dr4db12k18db4y22lb1y2lb2y3lb2~x4/"><circle cx="171.4" cy="119.0" r="4" fill="#3465a4"><title>Windsor</title></circle></a><a href="/variants/s12/o9w2o18k3o3k3o3k12n30k6n6r6~o2500000-n1900000/"><circle cx="147.7" cy="130.5" r="4" fill="#3465a4"><title>Urquhart (Fashion)</title></circle></a><a href="/variants/s10/y6r6y6r6y6k1db18w2db1w4~x2/"><circle cx="144.9" cy="141.4" r="4" fill="#3465a4"><title>Catalunya Escocia</title></circle></a><circle cx="134.2" cy="126.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db1r20g6k6g6r1k6db20w1~x2/

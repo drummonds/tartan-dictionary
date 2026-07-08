@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Haughey (2015)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy5r21y21w2db1/)
 (the same proportion at any scale), whose colour order is pattern [BWGRG](/stripes/bwgrg/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11390
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11390](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11390)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr24g1lb1g2r24~x2~r1908029/"><circle cx="446.5" cy="199.6" r="4" fill="#3465a4"><title>MacNab WI 1</title></circle></a><a href="/variants/s5/y9r31g12dy2lb9~x2/"><circle cx="292.5" cy="203.4" r="4" fill="#3465a4"><title>Buncle (Duns)</title></circle></a><a href="/variants/s5/ly9r31g12dy2lb9~x2/"><circle cx="272.9" cy="197.0" r="4" fill="#3465a4"><title>Buncle (Name)</title></circle></a><a href="/variants/s7/r3ly2r18db8w1o18r2~x2/"><circle cx="298.6" cy="168.7" r="4" fill="#3465a4"><title>Barbour - Cardinal Red</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.2" cy="189.5" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/"><circle cx="255.8" cy="202.1" r="4" fill="#3465a4"><title>Stevens #3</title></circle></a><a href="/variants/s6/n47w6r24w3db5y3~x2/"><circle cx="337.6" cy="174.4" r="4" fill="#3465a4"><title>Duminiak (Trevose, Pennsylvania)</title></circle></a><a href="/variants/s5/y28r11g11db11w2~x2/"><circle cx="243.0" cy="221.9" r="4" fill="#3465a4"><title>Samye #2</title></circle></a><a href="/variants/s6/n47w6r24w3db5ly3~x2/"><circle cx="330.8" cy="172.1" r="4" fill="#3465a4"><title>Duminiak (Personal)</title></circle></a><a href="/variants/s6/r20w1k1b6y1g18~x2/"><circle cx="238.0" cy="137.6" r="4" fill="#3465a4"><title>Gordon of Abergeldie, (Red..)</title></circle></a><circle cx="324.7" cy="188.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr24g1lb1g2r24~x2~r1908029/"><circle cx="446.5" cy="199.8" r="4" fill="#3465a4"><title>MacNab WI 1</title></circle></a><a href="/variants/s5/y9r31g12dy2lb9~x2/"><circle cx="292.6" cy="203.8" r="4" fill="#3465a4"><title>Buncle (Duns)</title></circle></a><a href="/variants/s5/ly9r31g12dy2lb9~x2/"><circle cx="273.0" cy="197.5" r="4" fill="#3465a4"><title>Buncle (Name)</title></circle></a><a href="/variants/s7/r3ly2r18db8w1o18r2~x2/"><circle cx="298.7" cy="169.0" r="4" fill="#3465a4"><title>Barbour - Cardinal Red</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.3" cy="190.0" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/variants/s6/dp2lb9dp3ri7r19y2~x2~ri2109032-r1706009/"><circle cx="255.9" cy="202.5" r="4" fill="#3465a4"><title>Stevens #3</title></circle></a><a href="/variants/s6/n47w6r24w3db5y3~x2/"><circle cx="337.7" cy="174.7" r="4" fill="#3465a4"><title>Duminiak (Trevose, Pennsylvania)</title></circle></a><a href="/variants/s5/y28r11g11db11w2~x2/"><circle cx="243.1" cy="222.4" r="4" fill="#3465a4"><title>Samye #2</title></circle></a><a href="/variants/s6/n47w6r24w3db5ly3~x2/"><circle cx="330.9" cy="172.5" r="4" fill="#3465a4"><title>Duminiak (Personal)</title></circle></a><a href="/variants/s6/r20w1k1b6y1g18~x2/"><circle cx="237.9" cy="137.9" r="4" fill="#3465a4"><title>Gordon of Abergeldie, (Red..)</title></circle></a><circle cx="324.8" cy="188.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dy5r21y21w2db1~x2/

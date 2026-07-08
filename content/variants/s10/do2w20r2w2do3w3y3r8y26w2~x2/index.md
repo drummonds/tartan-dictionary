@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Liama, The"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do2w20r2w2do3w3y3r8y26w2/)
 (the same proportion at any scale), whose colour order is pattern [BWRWBWGRGW](/stripes/bwrwbwgrgw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2111
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2111](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2111)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g12w1r1w4r1w1r8dy2r1~x4/"><circle cx="217.9" cy="169.3" r="4" fill="#3465a4"><title>Karibu (Corporate)</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8y2r1~x4/"><circle cx="226.2" cy="172.4" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/variants/s10/dy2w19r2w2dy3w3dy3r6ly25w2~x2/"><circle cx="225.8" cy="162.3" r="4" fill="#3465a4"><title>Llama (Fashion)</title></circle></a><a href="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/"><circle cx="191.3" cy="149.1" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/"><circle cx="183.1" cy="171.3" r="4" fill="#3465a4"><title>Raibert, Check</title></circle></a><a href="/variants/s10/w3db2w30db4o26w2o2dp4o2w3~x2/"><circle cx="279.9" cy="139.9" r="4" fill="#3465a4"><title>Harris Lilac</title></circle></a><a href="/variants/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><circle cx="265.6" cy="123.5" r="4" fill="#3465a4"><title>Ben Cleuch (Fashion)</title></circle></a><a href="/variants/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/"><circle cx="212.7" cy="173.8" r="4" fill="#3465a4"><title>Princess Marina (Fashion)</title></circle></a><a href="/variants/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="235.9" cy="149.6" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/variants/s10/w1r1g1r11db6r1g14r1g1w1~x4/"><circle cx="253.1" cy="152.7" r="4" fill="#3465a4"><title>Unidentified Specimen #2</title></circle></a><circle cx="236.1" cy="157.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/g12w1r1w4r1w1r8dy2r1~x4/"><circle cx="218.0" cy="169.8" r="4" fill="#3465a4"><title>Karibu (Corporate)</title></circle></a><a href="/variants/s9/g12w1r1w4r1w1r8y2r1~x4/"><circle cx="226.3" cy="172.8" r="4" fill="#3465a4"><title>Karibu</title></circle></a><a href="/variants/s10/dy2w19r2w2dy3w3dy3r6ly25w2~x2/"><circle cx="225.9" cy="162.7" r="4" fill="#3465a4"><title>Llama (Fashion)</title></circle></a><a href="/variants/s11/o35w4o3y7o3w4o7do15n4w36n5~x2/"><circle cx="191.3" cy="149.5" r="4" fill="#3465a4"><title>MacKellar, dress</title></circle></a><a href="/variants/s12/db3o14g2o2g2o3g6w18db3o2db2o2~x2/"><circle cx="183.1" cy="171.7" r="4" fill="#3465a4"><title>Raibert, Check</title></circle></a><a href="/variants/s10/w3db2w30db4o26w2o2dp4o2w3~x2/"><circle cx="279.9" cy="140.4" r="4" fill="#3465a4"><title>Harris Lilac</title></circle></a><a href="/variants/s10/w68o3w3o8w3o27dy16r3dy20o3~x2/"><circle cx="265.5" cy="123.9" r="4" fill="#3465a4"><title>Ben Cleuch (Fashion)</title></circle></a><a href="/variants/s12/w2g2r3g2r3g2r3g2r2g3lb13r1~x4/"><circle cx="212.7" cy="174.2" r="4" fill="#3465a4"><title>Princess Marina (Fashion)</title></circle></a><a href="/variants/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="235.9" cy="150.0" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/variants/s10/w1r1g1r11db6r1g14r1g1w1~x4/"><circle cx="253.1" cy="153.1" r="4" fill="#3465a4"><title>Unidentified Specimen #2</title></circle></a><circle cx="236.1" cy="158.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/do2w20r2w2do3w3y3r8y26w2~x2/

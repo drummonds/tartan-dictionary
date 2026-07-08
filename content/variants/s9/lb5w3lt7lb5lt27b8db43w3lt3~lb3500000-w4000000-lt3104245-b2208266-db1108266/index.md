@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Queensferry High School: Ferry Fling"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb5w3lt7lb5lt27b8db43w3lt3/)
 (the same proportion at any scale), whose colour order is pattern [WWBBWWWWW](/stripes/wwbbwwwww/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10176
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10176](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10176)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n5lbi3lb7n5lb27b8db43w3lb3~lbi3300000-lb3103284-b1907278-db1404245/"><circle cx="266.8" cy="172.7" r="4" fill="#3465a4"><title>Queensferry High (School)</title></circle></a><a href="/variants/s8/lb12dbi6lb50db39b12dp6b6w4~dbi1406275-db1004274/"><circle cx="245.6" cy="182.0" r="4" fill="#3465a4"><title>Pride of the Nation (Fashion)</title></circle></a><a href="/variants/s12/w6n2db6n2db25n2dr1n2ly3lb5w6n4~x2/"><circle cx="259.9" cy="124.4" r="4" fill="#3465a4"><title>Mead of Poetry, The</title></circle></a><a href="/variants/s8/db3dbi2db14dbi1lbi10lb16dbi2lb3~x2~db1106275-dbi1406275-lbi3200000-lb3103284/"><circle cx="250.0" cy="209.2" r="4" fill="#3465a4"><title>Bannockbane Blue #2</title></circle></a><a href="/variants/s6/db4dpi2dp3db24lb24w3~x2~dpi1607327-dp1105325/"><circle cx="286.1" cy="203.8" r="4" fill="#3465a4"><title>Aberdeen Academy of Performing Art</title></circle></a><a href="/variants/s10/db8dr3db36lb3do10w34dr4w3dr3w8~x2/"><circle cx="223.6" cy="173.7" r="4" fill="#3465a4"><title>Stewart of Appin Htg Dress</title></circle></a><circle cx="230.1" cy="163.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/n5lbi3lb7n5lb27b8db43w3lb3~lbi3300000-lb3103284-b1907278-db1404245/"><circle cx="266.9" cy="172.9" r="4" fill="#3465a4"><title>Queensferry High (School)</title></circle></a><a href="/variants/s8/lb12dbi6lb50db39b12dp6b6w4~dbi1406275-db1004274/"><circle cx="245.6" cy="182.3" r="4" fill="#3465a4"><title>Pride of the Nation (Fashion)</title></circle></a><a href="/variants/s12/w6n2db6n2db25n2dr1n2ly3lb5w6n4~x2/"><circle cx="259.9" cy="124.5" r="4" fill="#3465a4"><title>Mead of Poetry, The</title></circle></a><a href="/variants/s8/db3dbi2db14dbi1lbi10lb16dbi2lb3~x2~db1106275-dbi1406275-lbi3200000-lb3103284/"><circle cx="250.1" cy="209.6" r="4" fill="#3465a4"><title>Bannockbane Blue #2</title></circle></a><a href="/variants/s6/db4dpi2dp3db24lb24w3~x2~dpi1607327-dp1105325/"><circle cx="286.2" cy="204.2" r="4" fill="#3465a4"><title>Aberdeen Academy of Performing Art</title></circle></a><a href="/variants/s10/db8dr3db36lb3do10w34dr4w3dr3w8~x2/"><circle cx="223.7" cy="174.1" r="4" fill="#3465a4"><title>Stewart of Appin Htg Dress</title></circle></a><circle cx="230.1" cy="163.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/lb5w3lt7lb5lt27b8db43w3lt3~lb3500000-w4000000-lt3104245-b2208266-db1108266/

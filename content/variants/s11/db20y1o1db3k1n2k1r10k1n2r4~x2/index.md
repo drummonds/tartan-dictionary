@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Blais"
   url: "/tartans/blais/"
+- name: "Blais"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db20y1o1db3k1n2k1r10k1n2r4/)
 (the same proportion at any scale), whose colour order is pattern [BGRBKBKRKBR](/stripes/bgrbkbkrkbr/).
@@ -14,7 +16,7 @@ Part of the [Blais](/tartans/blais/) tartan — the named design grouping this s
 
 Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/"><circle cx="251.2" cy="82.7" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x4/"><circle cx="251.2" cy="82.7" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/variants/s11/db20y1dy1db3k1o2k1r10k1o2r4~x2~o2500000/"><circle cx="171.1" cy="56.6" r="4" fill="#3465a4"><title>Blais Family Tartan</title></circle></a><a href="/variants/s10/g5db2k2db29r2db2r15y2db4w2~x2/"><circle cx="269.7" cy="101.2" r="4" fill="#3465a4"><title>Bro-Naoned</title></circle></a><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/"><circle cx="145.1" cy="113.2" r="4" fill="#3465a4"><title>Asman, Dress (Name)</title></circle></a><a href="/variants/s11/db49k2g2k2g2k10r38db5r4k4n10~x2~db1406275-g2304202/"><circle cx="230.6" cy="88.4" r="4" fill="#3465a4"><title>Porsche Bank Austria</title></circle></a><a href="/variants/s12/dp27y2k3ly2k2w2k2n6dp3k2dp2w2~x2/"><circle cx="259.5" cy="79.0" r="4" fill="#3465a4"><title>Stevens #4</title></circle></a><a href="/variants/s10/db4w1k2db25k12b1k2r16k2lo1~x2/"><circle cx="198.5" cy="79.4" r="4" fill="#3465a4"><title>Sidey (Dundee) Dress (Personal)</title></circle></a><a href="/variants/s11/dp10db1dp2db1lb1db1lb2o2lb1k1y2~x10/"><circle cx="205.3" cy="121.0" r="4" fill="#3465a4"><title>Lieuwen, Jeffrey Pascal (Personal)</title></circle></a><a href="/variants/s10/db4w1k2db25k12t1k2r16k2lo1~x2/"><circle cx="198.2" cy="79.4" r="4" fill="#3465a4"><title>Sidey Dress Tartan (Name)</title></circle></a><circle cx="250.2" cy="82.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x2/"><circle cx="251.1" cy="82.8" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/variants/s11/db20y1dy1db3k1n2k1r10k1n2r4~x4/"><circle cx="251.1" cy="82.8" r="4" fill="#3465a4"><title>Blais (Personal)</title></circle></a><a href="/variants/s11/db20y1dy1db3k1o2k1r10k1o2r4~x2~o2500000/"><circle cx="170.9" cy="56.6" r="4" fill="#3465a4"><title>Blais Family Tartan</title></circle></a><a href="/variants/s10/g5db2k2db29r2db2r15y2db4w2~x2/"><circle cx="269.6" cy="101.4" r="4" fill="#3465a4"><title>Bro-Naoned</title></circle></a><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/"><circle cx="145.0" cy="113.4" r="4" fill="#3465a4"><title>Asman, Dress (Name)</title></circle></a><a href="/variants/s11/db49k2g2k2g2k10r38db5r4k4n10~x2~db1406275-g2304202/"><circle cx="230.5" cy="88.5" r="4" fill="#3465a4"><title>Porsche Bank Austria</title></circle></a><a href="/variants/s12/dp27y2k3ly2k2w2k2n6dp3k2dp2w2~x2/"><circle cx="259.4" cy="79.2" r="4" fill="#3465a4"><title>Stevens #4</title></circle></a><a href="/variants/s10/db4w1k2db25k12b1k2r16k2lo1~x2/"><circle cx="198.3" cy="79.5" r="4" fill="#3465a4"><title>Sidey (Dundee) Dress (Personal)</title></circle></a><a href="/variants/s11/dp10db1dp2db1lb1db1lb2o2lb1k1y2~x10/"><circle cx="205.2" cy="121.2" r="4" fill="#3465a4"><title>Lieuwen, Jeffrey Pascal (Personal)</title></circle></a><a href="/variants/s10/db4w1k2db25k12t1k2r16k2lo1~x2/"><circle cx="198.1" cy="79.6" r="4" fill="#3465a4"><title>Sidey Dress Tartan (Name)</title></circle></a><circle cx="250.1" cy="82.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db20y1o1db3k1n2k1r10k1n2r4~x2/

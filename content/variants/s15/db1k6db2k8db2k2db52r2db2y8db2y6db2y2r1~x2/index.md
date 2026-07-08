@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/laing/"
 - name: "Laing"
   url: "/tartans/laing/"
+- name: "(3) Laing"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1k6db2k8db2k2db52r2db2y8db2y6db2y2r1/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKBRBGBGBGR](/stripes/bkbkbkbrbgbgbgr/).
@@ -16,7 +18,7 @@ Part of the [Laing](/tartans/laing/) tartan — the named design grouping this s
 
 Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=misc
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=misc](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=misc)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db23k1db1w1db1r1db4y2db1y2db1y2db1y2~x2/"><circle cx="452.0" cy="69.1" r="4" fill="#3465a4"><title>King Pootatau Te Wherowhero</title></circle></a><a href="/variants/s10/db54lb3k5lb1k2lb1k2g8dr8lb2~x2/"><circle cx="375.4" cy="52.5" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s10/db62r1db2r1db4k14g4w2g6k4~x2/"><circle cx="417.1" cy="52.2" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/variants/s10/db62r1db2r1db4k14g4k2g6k4~x2/"><circle cx="429.3" cy="54.9" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/variants/s10/db84dp1db1k2db2k30dp7db2g3lo2~x2/"><circle cx="448.1" cy="58.6" r="4" fill="#3465a4"><title>Ulster Scots (Fashion)</title></circle></a><a href="/variants/s10/k46w1ki3lb4ki3db3ki2db11ki1lb2~x2~k0504259-ki0700000/"><circle cx="381.9" cy="65.7" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><a href="/variants/s10/db46w1k3lb4k3t3k2t11k1lb2~x2~db1404245-t2308259/"><circle cx="359.9" cy="61.1" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><a href="/variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/"><circle cx="430.8" cy="82.4" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/variants/s16/r5k1db2k1r3k1db35w1db2r3db3r2db3ly1db1r5~x2/"><circle cx="390.2" cy="32.9" r="4" fill="#3465a4"><title>Crieff High (Corporate)</title></circle></a><a href="/variants/s13/k4n8db54y6db23n4k4r14k4n2db2k4db4/"><circle cx="344.4" cy="82.7" r="4" fill="#3465a4"><title>Blue Brough from Orkney</title></circle></a><circle cx="395.3" cy="34.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db23k1db1w1db1r1db4y2db1y2db1y2db1y2~x2/"><circle cx="451.8" cy="69.1" r="4" fill="#3465a4"><title>King Pootatau Te Wherowhero</title></circle></a><a href="/variants/s10/db54lb3k5lb1k2lb1k2g8dr8lb2~x2/"><circle cx="375.2" cy="52.4" r="4" fill="#3465a4"><title>Racing Stewart</title></circle></a><a href="/variants/s10/db62r1db2r1db4k14g4w2g6k4~x2/"><circle cx="417.0" cy="52.1" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/variants/s10/db62r1db2r1db4k14g4k2g6k4~x2/"><circle cx="429.1" cy="54.8" r="4" fill="#3465a4"><title>Park</title></circle></a><a href="/variants/s10/db84dp1db1k2db2k30dp7db2g3lo2~x2/"><circle cx="447.9" cy="58.4" r="4" fill="#3465a4"><title>Ulster Scots (Fashion)</title></circle></a><a href="/variants/s10/k46w1ki3lb4ki3db3ki2db11ki1lb2~x2~k0504259-ki0700000/"><circle cx="381.7" cy="65.5" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><a href="/variants/s10/db46w1k3lb4k3t3k2t11k1lb2~x2~db1404245-t2308259/"><circle cx="359.7" cy="61.1" r="4" fill="#3465a4"><title>Seacliff Academy</title></circle></a><a href="/variants/s11/db45k10n2k2y2k2n10db5k1db5y1~x2/"><circle cx="430.7" cy="82.4" r="4" fill="#3465a4"><title>Skye</title></circle></a><a href="/variants/s16/r5k1db2k1r3k1db35w1db2r3db3r2db3ly1db1r5~x2/"><circle cx="390.0" cy="32.8" r="4" fill="#3465a4"><title>Crieff High (Corporate)</title></circle></a><a href="/variants/s13/k4n8db54y6db23n4k4r14k4n2db2k4db4/"><circle cx="344.3" cy="82.7" r="4" fill="#3465a4"><title>Blue Brough from Orkney</title></circle></a><circle cx="395.1" cy="34.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/db1k6db2k8db2k2db52r2db2y8db2y6db2y2r1~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Skinner"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r8k8lo1k8r8db1/)
 (the same proportion at any scale), whose colour order is pattern [BRKYKR](/stripes/brkykr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3810
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3810](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3810)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r8k8y1k8r8w1~x4/"><circle cx="209.3" cy="209.7" r="4" fill="#3465a4"><title>Connel</title></circle></a><a href="/variants/s7/k23r27db3r5w3k14y6~x2/"><circle cx="178.5" cy="165.0" r="4" fill="#3465a4"><title>Hoffman Texas German</title></circle></a><a href="/variants/s6/db1r12k6y1k6db1~x4/"><circle cx="227.4" cy="166.7" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s6/k2r16k8ly1k8r2~x4/"><circle cx="282.2" cy="169.2" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/variants/s6/k2r16k8y1k8r2/"><circle cx="284.3" cy="169.8" r="4" fill="#3465a4"><title>Brodie Dress</title></circle></a><a href="/variants/s6/k2r16k8y1k8r2~x2/"><circle cx="284.3" cy="169.8" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/variants/s6/r19k3r19k32g3k8~x2~r2109032/"><circle cx="270.9" cy="195.6" r="4" fill="#3465a4"><title>Tartan TV</title></circle></a><a href="/variants/s6/k8r1k8r11y1r1~x4/"><circle cx="283.9" cy="185.2" r="4" fill="#3465a4"><title>Swanstrom (Personal)</title></circle></a><a href="/variants/s6/k3r15k11y2k4r3~x2/"><circle cx="243.9" cy="205.0" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/variants/s6/k4r33k24w3k4r3~x2/"><circle cx="280.2" cy="168.1" r="4" fill="#3465a4"><title>Monmouth College</title></circle></a><circle cx="211.1" cy="209.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r8k8y1k8r8w1~x4/"><circle cx="209.4" cy="210.4" r="4" fill="#3465a4"><title>Connel</title></circle></a><a href="/variants/s7/k23r27db3r5w3k14y6~x2/"><circle cx="178.5" cy="165.5" r="4" fill="#3465a4"><title>Hoffman Texas German</title></circle></a><a href="/variants/s6/db1r12k6y1k6db1~x4/"><circle cx="227.4" cy="167.2" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s6/k2r16k8ly1k8r2~x4/"><circle cx="282.2" cy="169.8" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/variants/s6/k2r16k8y1k8r2/"><circle cx="284.4" cy="170.3" r="4" fill="#3465a4"><title>Brodie Dress</title></circle></a><a href="/variants/s6/k2r16k8y1k8r2~x2/"><circle cx="284.4" cy="170.3" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/variants/s6/r19k3r19k32g3k8~x2~r2109032/"><circle cx="271.0" cy="196.3" r="4" fill="#3465a4"><title>Tartan TV</title></circle></a><a href="/variants/s6/k8r1k8r11y1r1~x4/"><circle cx="283.9" cy="185.8" r="4" fill="#3465a4"><title>Swanstrom (Personal)</title></circle></a><a href="/variants/s6/k3r15k11y2k4r3~x2/"><circle cx="244.0" cy="205.7" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/variants/s6/k4r33k24w3k4r3~x2/"><circle cx="280.2" cy="168.6" r="4" fill="#3465a4"><title>Monmouth College</title></circle></a><circle cx="211.2" cy="210.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r8k8lo1k8r8db1~x4~db1406275/

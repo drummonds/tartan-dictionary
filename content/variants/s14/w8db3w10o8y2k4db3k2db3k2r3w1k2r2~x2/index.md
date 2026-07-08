@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacInnes Ancient Hunting"
   url: "/tartans/macinnes-ancient-hunting/"
+- name: "MacInnes, Ancient hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w8db3w10o8y2k4db3k2db3k2r3w1k2r2/)
 (the same proportion at any scale), whose colour order is pattern [RKWRKBKBKGRWBW](/stripes/rkwrkbkbkgrwbw/).
@@ -14,7 +16,7 @@ Part of the [MacInnes Ancient Hunting](/tartans/macinnes-ancient-hunting/) tarta
 
 Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w8db3w10ly8y2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="46.2" cy="138.0" r="4" fill="#3465a4"><title>MacInnes Ancient Htg (Clan?)</title></circle></a><a href="/variants/s14/w8db3w10dy8y2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="47.0" cy="137.1" r="4" fill="#3465a4"><title>MacInnes Hunting Dress Clan Tartan</title></circle></a><a href="/variants/s15/k6g10w10k2w23db10w2k6y2k8g10r12g4r8w4/"><circle cx="39.6" cy="136.7" r="4" fill="#3465a4"><title>Stuart/Stewart variant</title></circle></a><a href="/variants/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7y2~x4/"><circle cx="47.5" cy="149.1" r="4" fill="#3465a4"><title>MacLellan/McLellan Dress (Personal)</title></circle></a><a href="/variants/s13/r4w16lb5k5y2k2w2k2g5r5k2r2w2~x2/"><circle cx="62.7" cy="131.0" r="4" fill="#3465a4"><title>Victoria (Wilsons)</title></circle></a><a href="/variants/s15/db2k1db6k1r5y3r5k2w3k2w9k1w2k1y2~x2/"><circle cx="48.4" cy="147.2" r="4" fill="#3465a4"><title>Unidentified 32</title></circle></a><a href="/variants/s14/r5w23db5w5k7y3k3w2k3g16r8g3r6w3~x2/"><circle cx="71.4" cy="120.8" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><a href="/variants/s12/k2w1db7k4r1w8r2w8k1g7w1y2~x2/"><circle cx="70.4" cy="147.3" r="4" fill="#3465a4"><title>MacLellan, dress McLellan</title></circle></a><a href="/variants/s16/w2k15n7lb7k1r1k1lr7k1w7k7n7lb7w1k1r1~x2/"><circle cx="65.9" cy="101.5" r="4" fill="#3465a4"><title>Borders (Personal)</title></circle></a><a href="/variants/s14/db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2/"><circle cx="61.2" cy="121.8" r="4" fill="#3465a4"><title>MacFarlane, dress</title></circle></a><circle cx="48.7" cy="136.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/w8db3w10ly8y2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="46.2" cy="138.4" r="4" fill="#3465a4"><title>MacInnes Ancient Htg (Clan?)</title></circle></a><a href="/variants/s14/w8db3w10dy8y2k4db3k2db3k2r3w1k2r2~x2/"><circle cx="47.0" cy="137.5" r="4" fill="#3465a4"><title>MacInnes Hunting Dress Clan Tartan</title></circle></a><a href="/variants/s15/k6g10w10k2w23db10w2k6y2k8g10r12g4r8w4/"><circle cx="39.6" cy="137.1" r="4" fill="#3465a4"><title>Stuart/Stewart variant</title></circle></a><a href="/variants/s13/k2w1db7k4r1w8r2w8k1dg7w1dg7y2~x4/"><circle cx="47.5" cy="149.5" r="4" fill="#3465a4"><title>MacLellan/McLellan Dress (Personal)</title></circle></a><a href="/variants/s13/r4w16lb5k5y2k2w2k2g5r5k2r2w2~x2/"><circle cx="62.7" cy="131.4" r="4" fill="#3465a4"><title>Victoria (Wilsons)</title></circle></a><a href="/variants/s15/db2k1db6k1r5y3r5k2w3k2w9k1w2k1y2~x2/"><circle cx="48.4" cy="147.7" r="4" fill="#3465a4"><title>Unidentified 32</title></circle></a><a href="/variants/s14/r5w23db5w5k7y3k3w2k3g16r8g3r6w3~x2/"><circle cx="71.4" cy="121.2" r="4" fill="#3465a4"><title>Victoria Highland Dress</title></circle></a><a href="/variants/s12/k2w1db7k4r1w8r2w8k1g7w1y2~x2/"><circle cx="70.4" cy="147.8" r="4" fill="#3465a4"><title>MacLellan, dress McLellan</title></circle></a><a href="/variants/s16/w2k15n7lb7k1r1k1lr7k1w7k7n7lb7w1k1r1~x2/"><circle cx="65.8" cy="101.8" r="4" fill="#3465a4"><title>Borders (Personal)</title></circle></a><a href="/variants/s14/db4w2r6k1db12g4w2r6b6w2g8r2w16r4~x2/"><circle cx="61.2" cy="122.2" r="4" fill="#3465a4"><title>MacFarlane, dress</title></circle></a><circle cx="48.7" cy="137.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/w8db3w10o8y2k4db3k2db3k2r3w1k2r2~x2/

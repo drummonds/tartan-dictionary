@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Poulter SG 096 (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w25g8w8g8w8g46lb46y8lb46g46w46g8w8/)
 (the same proportion at any scale), whose colour order is pattern [WGWGWGWGWGWGW](/stripes/wgwgwgwgwgwgw/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7719
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7719](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7719)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/"><circle cx="145.6" cy="226.5" r="4" fill="#3465a4"><title>Poulter Hoylake</title></circle></a><a href="/variants/s13/w35g7w7g7w7g35db36ly7db36g35w35g7w7/"><circle cx="146.3" cy="235.6" r="4" fill="#3465a4"><title>Poulter Hoylake</title></circle></a><a href="/variants/s13/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2/"><circle cx="256.4" cy="262.4" r="4" fill="#3465a4"><title>Scottish Scouts (1922) (Corporate)</title></circle></a><a href="/variants/s13/g69w14g13w14g13lb69w72dp13w72lb69g68w14g13/"><circle cx="190.8" cy="243.1" r="4" fill="#3465a4"><title>Poulter Millicent</title></circle></a><a href="/variants/s13/g36w7g7w7g7lb36w35dp7w36lb35g34w7g7/"><circle cx="183.8" cy="246.9" r="4" fill="#3465a4"><title>Poulter Millicent</title></circle></a><a href="/variants/s7/lb47g6t13dy20g6t6g28~x2/"><circle cx="225.7" cy="250.7" r="4" fill="#3465a4"><title>State Seal of North Carolina (Fash.)</title></circle></a><a href="/variants/s10/g5lb5t1lb1y1lb1t1lb5g5w1~x4~lb3200000-t2503227/"><circle cx="286.8" cy="261.3" r="4" fill="#3465a4"><title>MacGiboney Clan Tartan</title></circle></a><circle cx="215.8" cy="247.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/w69dg14w13dg14w13dg69db72ly13db72dg69w68dg14w13/"><circle cx="145.7" cy="227.2" r="4" fill="#3465a4"><title>Poulter Hoylake</title></circle></a><a href="/variants/s13/w35g7w7g7w7g35db36ly7db36g35w35g7w7/"><circle cx="146.4" cy="236.2" r="4" fill="#3465a4"><title>Poulter Hoylake</title></circle></a><a href="/variants/s13/n11dt2n2dt2n2dt12lb12dt2lb12dt12n11dt2n2~x2/"><circle cx="256.6" cy="263.0" r="4" fill="#3465a4"><title>Scottish Scouts (1922) (Corporate)</title></circle></a><a href="/variants/s13/g69w14g13w14g13lb69w72dp13w72lb69g68w14g13/"><circle cx="190.9" cy="243.7" r="4" fill="#3465a4"><title>Poulter Millicent</title></circle></a><a href="/variants/s13/g36w7g7w7g7lb36w35dp7w36lb35g34w7g7/"><circle cx="184.0" cy="247.5" r="4" fill="#3465a4"><title>Poulter Millicent</title></circle></a><a href="/variants/s7/lb47g6t13dy20g6t6g28~x2/"><circle cx="225.9" cy="251.2" r="4" fill="#3465a4"><title>State Seal of North Carolina (Fash.)</title></circle></a><a href="/variants/s10/g5lb5t1lb1y1lb1t1lb5g5w1~x4~lb3200000-t2503227/"><circle cx="287.0" cy="261.7" r="4" fill="#3465a4"><title>MacGiboney Clan Tartan</title></circle></a><circle cx="216.0" cy="247.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/w25g8w8g8w8g46lb46y8lb46g46w46g8w8/

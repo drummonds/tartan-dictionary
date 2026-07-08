@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wallace Blue"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db29t12g29w2g29t12db29t2/)
 (the same proportion at any scale), whose colour order is pattern [BBBGWGBB](/stripes/bbbgwgbb/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4483
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4483](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4483)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g19w1db12b2db2b2db2b16~x2/"><circle cx="284.4" cy="201.6" r="4" fill="#3465a4"><title>Unnamed, No 52</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/"><circle cx="251.6" cy="192.5" r="4" fill="#3465a4"><title>Unidentified No 52</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/"><circle cx="248.4" cy="190.4" r="4" fill="#3465a4"><title>Norwich No.052</title></circle></a><a href="/variants/s10/db4g2dbi10y1dbi2g13db11g13dbi13y2~x2~db1204274-dbi1406275/"><circle cx="273.4" cy="233.3" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><a href="/variants/s7/g10db2g2db6lb5db1lb2~x2/"><circle cx="261.4" cy="251.1" r="4" fill="#3465a4"><title>Unidentified No 17</title></circle></a><a href="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/"><circle cx="282.3" cy="203.0" r="4" fill="#3465a4"><title>Miller</title></circle></a><a href="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/"><circle cx="293.8" cy="250.4" r="4" fill="#3465a4"><title>Norwich No.017</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="260.6" cy="217.0" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s7/g25b4db24b21g25b3db4~x2/"><circle cx="306.1" cy="279.3" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s10/g3lr3g18db14dr5db14dr5db14g21lr3~x2/"><circle cx="235.1" cy="247.9" r="4" fill="#3465a4"><title>Hamilton (Personal)</title></circle></a><circle cx="264.6" cy="239.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/g19w1db12b2db2b2db2b16~x2/"><circle cx="284.4" cy="201.9" r="4" fill="#3465a4"><title>Unnamed, No 52</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2/"><circle cx="251.6" cy="192.9" r="4" fill="#3465a4"><title>Unidentified No 52</title></circle></a><a href="/variants/s8/g19w1db12lb2db2lb2db2lb16~x2~db1004274/"><circle cx="248.4" cy="190.8" r="4" fill="#3465a4"><title>Norwich No.052</title></circle></a><a href="/variants/s10/db4g2dbi10y1dbi2g13db11g13dbi13y2~x2~db1204274-dbi1406275/"><circle cx="273.5" cy="233.6" r="4" fill="#3465a4"><title>Pinney's of Scotland</title></circle></a><a href="/variants/s7/g10db2g2db6lb5db1lb2~x2/"><circle cx="261.6" cy="251.7" r="4" fill="#3465a4"><title>Unidentified No 17</title></circle></a><a href="/variants/s8/dr2db6g15t9db30t9g6lo2~x2/"><circle cx="282.3" cy="203.3" r="4" fill="#3465a4"><title>Miller</title></circle></a><a href="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/"><circle cx="293.9" cy="250.8" r="4" fill="#3465a4"><title>Norwich No.017</title></circle></a><a href="/variants/s7/w3dg22b11db3b11g4b2~x2/"><circle cx="260.7" cy="217.3" r="4" fill="#3465a4"><title>Queen of the South</title></circle></a><a href="/variants/s7/g25b4db24b21g25b3db4~x2/"><circle cx="306.2" cy="279.8" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s10/g3lr3g18db14dr5db14dr5db14g21lr3~x2/"><circle cx="235.2" cy="248.4" r="4" fill="#3465a4"><title>Hamilton (Personal)</title></circle></a><circle cx="264.7" cy="239.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db29t12g29w2g29t12db29t2~x2~t2405244/

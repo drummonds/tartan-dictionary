@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Walker"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y4k2r7k15r3k3r3k7r28dg7r6dg2/)
 (the same proportion at any scale), whose colour order is pattern [GKRKRKRKRGRG](/stripes/gkrkrkrkrgrg/).
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/"><circle cx="241.3" cy="117.9" r="4" fill="#3465a4"><title>Hallingdal</title></circle></a><a href="/variants/s12/r2dy1k2r13k2r2k2r2k12r2dy1g2~x2/"><circle cx="233.9" cy="94.7" r="4" fill="#3465a4"><title>Hallingdal</title></circle></a><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/"><circle cx="232.5" cy="128.0" r="4" fill="#3465a4"><title>Hannay Dress (Dance)</title></circle></a><a href="/variants/s9/n3k14r3k14lb3r32k2r6k2~x2/"><circle cx="267.3" cy="122.7" r="4" fill="#3465a4"><title>Gallmore (Fashion)</title></circle></a><a href="/variants/s14/r16db8r2k3y1k3r2k3y1k3r2db8r16k1~x4/"><circle cx="262.7" cy="113.3" r="4" fill="#3465a4"><title>Leslie Red (VS)</title></circle></a><a href="/variants/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/"><circle cx="205.1" cy="152.8" r="4" fill="#3465a4"><title>MacKinnon Black (Personal)</title></circle></a><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x2/"><circle cx="215.0" cy="149.6" r="4" fill="#3465a4"><title>Scoepaig, fragment</title></circle></a><a href="/variants/s10/g8r1k1r8g1r8k1r1k8r1~x6/"><circle cx="241.9" cy="147.7" r="4" fill="#3465a4"><title>Hebrides South Uist #3</title></circle></a><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="239.1" cy="112.8" r="4" fill="#3465a4"><title>Unidentified No 3 #2</title></circle></a><a href="/variants/s13/r8k14r6y6r34k10r6w6r6k64r44db9r6/"><circle cx="216.7" cy="111.3" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><circle cx="252.9" cy="124.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r2y1k2r13k2r2k2r2k12r2y1g2~x2/"><circle cx="241.3" cy="118.3" r="4" fill="#3465a4"><title>Hallingdal</title></circle></a><a href="/variants/s12/r2dy1k2r13k2r2k2r2k12r2dy1g2~x2/"><circle cx="233.8" cy="95.0" r="4" fill="#3465a4"><title>Hallingdal</title></circle></a><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/"><circle cx="232.4" cy="128.4" r="4" fill="#3465a4"><title>Hannay Dress (Dance)</title></circle></a><a href="/variants/s9/n3k14r3k14lb3r32k2r6k2~x2/"><circle cx="267.3" cy="123.1" r="4" fill="#3465a4"><title>Gallmore (Fashion)</title></circle></a><a href="/variants/s14/r16db8r2k3y1k3r2k3y1k3r2db8r16k1~x4/"><circle cx="262.7" cy="113.7" r="4" fill="#3465a4"><title>Leslie Red (VS)</title></circle></a><a href="/variants/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/"><circle cx="205.1" cy="153.3" r="4" fill="#3465a4"><title>MacKinnon Black (Personal)</title></circle></a><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x2/"><circle cx="215.0" cy="150.1" r="4" fill="#3465a4"><title>Scoepaig, fragment</title></circle></a><a href="/variants/s10/g8r1k1r8g1r8k1r1k8r1~x6/"><circle cx="242.0" cy="148.2" r="4" fill="#3465a4"><title>Hebrides South Uist #3</title></circle></a><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="239.0" cy="113.2" r="4" fill="#3465a4"><title>Unidentified No 3 #2</title></circle></a><a href="/variants/s13/r8k14r6y6r34k10r6w6r6k64r44db9r6/"><circle cx="216.7" cy="111.6" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><circle cx="252.9" cy="124.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/y4k2r7k15r3k3r3k7r28dg7r6dg2/

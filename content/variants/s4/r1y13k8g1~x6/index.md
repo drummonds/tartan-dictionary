@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Billy Apple®"
   url: "/tartans/billy-apple/"
+- name: "Billy Apple® Yellow"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1y13k8g1/)
 (the same proportion at any scale), whose colour order is pattern [GKGR](/stripes/gkgr/).
@@ -14,7 +16,7 @@ Part of the [Billy Apple®](/tartans/billy-apple/) tartan — the named design g
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11180
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11180](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11180)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r1ly13k8g1~x6/"><circle cx="266.5" cy="184.8" r="4" fill="#3465a4"><title>Billy Apple - Yellow</title></circle></a><a href="/variants/s5/r2y36k12w3g2~x2/"><circle cx="334.4" cy="133.0" r="4" fill="#3465a4"><title>Port Moresby City Pipes &amp; Drums</title></circle></a><a href="/variants/s4/r1g11k11y1~x4/"><circle cx="230.3" cy="205.0" r="4" fill="#3465a4"><title>Brooks Brothers</title></circle></a><a href="/variants/s3/k15y20w3~x2/"><circle cx="242.3" cy="268.4" r="4" fill="#3465a4"><title>Silvicola (Corporate)</title></circle></a><a href="/variants/s4/g10w7y41k7~x2/"><circle cx="299.7" cy="227.7" r="4" fill="#3465a4"><title>Hogan (2014)</title></circle></a><a href="/variants/s4/r4k25y25w4~x2/"><circle cx="180.5" cy="227.5" r="4" fill="#3465a4"><title>Bonhill Primary School</title></circle></a><a href="/variants/s4/g1r8k13ly1~x6/"><circle cx="280.9" cy="177.6" r="4" fill="#3465a4"><title>Billy Apple</title></circle></a><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="257.3" cy="147.8" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="268.8" cy="136.5" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s4/dr80lb40k5dy6/"><circle cx="334.7" cy="175.9" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><circle cx="288.3" cy="189.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r1ly13k8g1~x6/"><circle cx="266.5" cy="185.5" r="4" fill="#3465a4"><title>Billy Apple - Yellow</title></circle></a><a href="/variants/s5/r2y36k12w3g2~x2/"><circle cx="334.4" cy="133.5" r="4" fill="#3465a4"><title>Port Moresby City Pipes &amp; Drums</title></circle></a><a href="/variants/s4/r1g11k11y1~x4/"><circle cx="230.4" cy="205.6" r="4" fill="#3465a4"><title>Brooks Brothers</title></circle></a><a href="/variants/s3/k15y20w3~x2/"><circle cx="242.5" cy="269.3" r="4" fill="#3465a4"><title>Silvicola (Corporate)</title></circle></a><a href="/variants/s4/g10w7y41k7~x2/"><circle cx="299.8" cy="228.4" r="4" fill="#3465a4"><title>Hogan (2014)</title></circle></a><a href="/variants/s4/r4k25y25w4~x2/"><circle cx="180.6" cy="228.3" r="4" fill="#3465a4"><title>Bonhill Primary School</title></circle></a><a href="/variants/s4/g1r8k13ly1~x6/"><circle cx="280.9" cy="178.1" r="4" fill="#3465a4"><title>Billy Apple</title></circle></a><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="257.2" cy="148.2" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="268.7" cy="136.9" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s4/dr80lb40k5dy6/"><circle cx="334.7" cy="176.4" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><circle cx="288.4" cy="189.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/r1y13k8g1~x6/

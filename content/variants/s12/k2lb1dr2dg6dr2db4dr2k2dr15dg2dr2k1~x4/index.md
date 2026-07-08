@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "MacClure"
   url: "/tartans/macclure/"
+- name: "MacClure"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2lb1dr2dg6dr2db4dr2k2dr15dg2dr2k1/)
 (the same proportion at any scale), whose colour order is pattern [KBGBKBBBGBWK](/stripes/kbgbkbbbgbwk/).
@@ -14,7 +16,7 @@ Part of the [MacClure](/tartans/macclure/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2314
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2314](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2314)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k2lr1dr2g6dr2db4dr2k2dr15g2dr2k1~x4/"><circle cx="273.4" cy="119.8" r="4" fill="#3465a4"><title>MacClure Clan/Family Tartan</title></circle></a><a href="/variants/s12/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2~x2/"><circle cx="383.6" cy="122.0" r="4" fill="#3465a4"><title>Methodist Church</title></circle></a><a href="/variants/s10/dr6lo1dr24dg6db2k1db2k1db12dr1~x2/"><circle cx="400.2" cy="133.9" r="4" fill="#3465a4"><title>MacEdward (MacGregor Hastie)</title></circle></a><a href="/variants/s8/dy6o2dy12k4dp14k1dy3ly2~x2/"><circle cx="272.0" cy="174.8" r="4" fill="#3465a4"><title>Mica, Green (Fashion)</title></circle></a><a href="/variants/s10/dr48k10dt12k2dr3k2dt12k10dr2ly3~x2/"><circle cx="344.2" cy="130.6" r="4" fill="#3465a4"><title>Wcwm 1684</title></circle></a><a href="/variants/s12/dr16dg4k3ly1k2lr1k3dg4dr4k1dr4lr1~x4/"><circle cx="286.1" cy="125.1" r="4" fill="#3465a4"><title>Unidentified #53</title></circle></a><a href="/variants/s10/dt8lb2dt27k10n4k2n3k2n16dt2~x2~dt1300000-n1800000/"><circle cx="300.8" cy="170.4" r="4" fill="#3465a4"><title>Highland Granite</title></circle></a><a href="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/"><circle cx="279.1" cy="139.8" r="4" fill="#3465a4"><title>McCall (Caithness)</title></circle></a><a href="/variants/s14/y3dy3r1y2r1dy20k5dy4k5dy3r2dy3o7dy2~x2/"><circle cx="302.2" cy="113.4" r="4" fill="#3465a4"><title>Balnagowan (Harrods)</title></circle></a><a href="/variants/s15/dr12n4dr7do2dr2do28dy2do28k2do2k23dr3ly6dr3k5/"><circle cx="240.6" cy="120.0" r="4" fill="#3465a4"><title>Scottish Register of Tartans' Tartan</title></circle></a><circle cx="333.2" cy="139.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k2lr1dr2g6dr2db4dr2k2dr15g2dr2k1~x4/"><circle cx="273.3" cy="120.0" r="4" fill="#3465a4"><title>MacClure Clan/Family Tartan</title></circle></a><a href="/variants/s12/dr6dg2dr2dg3k2dr2db16k3dg4dr34ly2dr2~x2/"><circle cx="383.5" cy="122.0" r="4" fill="#3465a4"><title>Methodist Church</title></circle></a><a href="/variants/s10/dr6lo1dr24dg6db2k1db2k1db12dr1~x2/"><circle cx="400.1" cy="133.9" r="4" fill="#3465a4"><title>MacEdward (MacGregor Hastie)</title></circle></a><a href="/variants/s8/dy6o2dy12k4dp14k1dy3ly2~x2/"><circle cx="272.0" cy="175.1" r="4" fill="#3465a4"><title>Mica, Green (Fashion)</title></circle></a><a href="/variants/s10/dr48k10dt12k2dr3k2dt12k10dr2ly3~x2/"><circle cx="344.1" cy="130.7" r="4" fill="#3465a4"><title>Wcwm 1684</title></circle></a><a href="/variants/s12/dr16dg4k3ly1k2lr1k3dg4dr4k1dr4lr1~x4/"><circle cx="286.0" cy="125.3" r="4" fill="#3465a4"><title>Unidentified #53</title></circle></a><a href="/variants/s10/dt8lb2dt27k10n4k2n3k2n16dt2~x2~dt1300000-n1800000/"><circle cx="300.8" cy="170.7" r="4" fill="#3465a4"><title>Highland Granite</title></circle></a><a href="/variants/s15/dr6k4dr8dp16dr6lb2dr2dp2dr2lb2dr6dp18g6dp2g1~x2/"><circle cx="279.1" cy="139.9" r="4" fill="#3465a4"><title>McCall (Caithness)</title></circle></a><a href="/variants/s14/y3dy3r1y2r1dy20k5dy4k5dy3r2dy3o7dy2~x2/"><circle cx="302.1" cy="113.5" r="4" fill="#3465a4"><title>Balnagowan (Harrods)</title></circle></a><a href="/variants/s15/dr12n4dr7do2dr2do28dy2do28k2do2k23dr3ly6dr3k5/"><circle cx="240.5" cy="120.1" r="4" fill="#3465a4"><title>Scottish Register of Tartans' Tartan</title></circle></a><circle cx="333.2" cy="139.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k2lb1dr2dg6dr2db4dr2k2dr15dg2dr2k1~x4/

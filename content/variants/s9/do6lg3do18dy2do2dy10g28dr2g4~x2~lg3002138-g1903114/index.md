@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Crofting Foundation"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do6lg3do18dy2do2dy10g28dr2g4/)
 (the same proportion at any scale), whose colour order is pattern [BYBGBGGBG](/stripes/bybgbggbg/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3712
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3712](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3712)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy31do3dy3do3dy3do22g26dr4~x2/"><circle cx="364.2" cy="255.1" r="4" fill="#3465a4"><title>Devarr (Fashion)</title></circle></a><a href="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/"><circle cx="434.5" cy="238.7" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><a href="/variants/s8/y5dg14dy4db4dy27dg3dy4y5/"><circle cx="465.1" cy="270.2" r="4" fill="#3465a4"><title>Invertere Corporate Tartan</title></circle></a><a href="/variants/s10/do7dr4do4dr25dp1dg32dp4dg2w2dg5~x2/"><circle cx="449.0" cy="183.3" r="4" fill="#3465a4"><title>Bell, John</title></circle></a><a href="/variants/s8/dy31y6n3db31dy8dg60y7t7~x2/"><circle cx="343.0" cy="203.4" r="4" fill="#3465a4"><title>Little-Dowse Wedding</title></circle></a><a href="/variants/s8/do9dy9n9r1db1dy9db1r1~x4/"><circle cx="380.3" cy="258.5" r="4" fill="#3465a4"><title>Jardine of Castlemilk Family Tartan</title></circle></a><a href="/variants/s7/dp3ni24n10ni2g11ni8lb3~x2~ni1900000-n1700000/"><circle cx="450.8" cy="262.2" r="4" fill="#3465a4"><title>Hesco</title></circle></a><circle cx="396.4" cy="224.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy31do3dy3do3dy3do22g26dr4~x2/"><circle cx="364.3" cy="255.3" r="4" fill="#3465a4"><title>Devarr (Fashion)</title></circle></a><a href="/variants/s11/dr2lr1dg12n1dg1n1dg3n4dr3n4b2~x4~lr3103019-dg1601120/"><circle cx="434.6" cy="238.6" r="4" fill="#3465a4"><title>Tasmanian</title></circle></a><a href="/variants/s8/y5dg14dy4db4dy27dg3dy4y5/"><circle cx="465.2" cy="270.3" r="4" fill="#3465a4"><title>Invertere Corporate Tartan</title></circle></a><a href="/variants/s10/do7dr4do4dr25dp1dg32dp4dg2w2dg5~x2/"><circle cx="449.0" cy="183.1" r="4" fill="#3465a4"><title>Bell, John</title></circle></a><a href="/variants/s8/dy31y6n3db31dy8dg60y7t7~x2/"><circle cx="343.1" cy="203.3" r="4" fill="#3465a4"><title>Little-Dowse Wedding</title></circle></a><a href="/variants/s8/do9dy9n9r1db1dy9db1r1~x4/"><circle cx="380.4" cy="258.5" r="4" fill="#3465a4"><title>Jardine of Castlemilk Family Tartan</title></circle></a><a href="/variants/s7/dp3ni24n10ni2g11ni8lb3~x2~ni1900000-n1700000/"><circle cx="451.0" cy="262.4" r="4" fill="#3465a4"><title>Hesco</title></circle></a><circle cx="396.5" cy="224.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/do6lg3do18dy2do2dy10g28dr2g4~x2~lg3002138-g1903114/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Wallace Blue Dress"
   url: "/tartans/wallace-blue-dress/"
+- name: "Wallace Blue Dress Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g1k9lb4db9lb1/)
 (the same proportion at any scale), whose colour order is pattern [GKWBW](/stripes/gkwbw/).
@@ -14,7 +16,7 @@ Part of the [Wallace Blue Dress](/tartans/wallace-blue-dress/) tartan — the na
 
 Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6569
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6569](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6569)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r8t32k24db24k3t3~x2/"><circle cx="160.8" cy="205.3" r="4" fill="#3465a4"><title>MacCorquodale #2</title></circle></a><a href="/variants/s6/b4dg25k24w3db24w4~x2/"><circle cx="102.3" cy="201.5" r="4" fill="#3465a4"><title>Herd</title></circle></a><a href="/variants/s6/lb1db11k11g11k2lb1~x2/"><circle cx="150.9" cy="197.3" r="4" fill="#3465a4"><title>Unidentified No 59</title></circle></a><a href="/variants/s6/r4db24k12g14k4lb3~x2/"><circle cx="132.2" cy="198.5" r="4" fill="#3465a4"><title>MacPhail Hunting #2</title></circle></a><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="114.8" cy="230.9" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/variants/s6/w2db12b1k12b12k1~x2/"><circle cx="155.4" cy="193.4" r="4" fill="#3465a4"><title>Dutch</title></circle></a><a href="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/"><circle cx="136.0" cy="204.9" r="4" fill="#3465a4"><title>Bryson (1988) (Name)</title></circle></a><a href="/variants/s7/r7k4db28k24lb24k4db4~x2/"><circle cx="116.3" cy="201.0" r="4" fill="#3465a4"><title>MacCorquodale</title></circle></a><a href="/variants/s6/g8w2g1k12db12k1~x2/"><circle cx="158.2" cy="191.4" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s6/r5db35k25db8ly10r5~x2/"><circle cx="199.7" cy="208.3" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><circle cx="159.6" cy="210.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r8t32k24db24k3t3~x2/"><circle cx="160.8" cy="205.8" r="4" fill="#3465a4"><title>MacCorquodale #2</title></circle></a><a href="/variants/s6/b4dg25k24w3db24w4~x2/"><circle cx="102.3" cy="201.9" r="4" fill="#3465a4"><title>Herd</title></circle></a><a href="/variants/s6/lb1db11k11g11k2lb1~x2/"><circle cx="150.9" cy="197.8" r="4" fill="#3465a4"><title>Unidentified No 59</title></circle></a><a href="/variants/s6/r4db24k12g14k4lb3~x2/"><circle cx="132.3" cy="199.0" r="4" fill="#3465a4"><title>MacPhail Hunting #2</title></circle></a><a href="/variants/s5/r2db12k7g8lb2~x4/"><circle cx="114.9" cy="231.5" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/variants/s6/w2db12b1k12b12k1~x2/"><circle cx="155.4" cy="193.9" r="4" fill="#3465a4"><title>Dutch</title></circle></a><a href="/variants/s5/lr2r1t7k7lb1~x8~lr2800000-lb3501240/"><circle cx="136.0" cy="205.4" r="4" fill="#3465a4"><title>Bryson (1988) (Name)</title></circle></a><a href="/variants/s7/r7k4db28k24lb24k4db4~x2/"><circle cx="116.3" cy="201.6" r="4" fill="#3465a4"><title>MacCorquodale</title></circle></a><a href="/variants/s6/g8w2g1k12db12k1~x2/"><circle cx="158.2" cy="191.8" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s6/r5db35k25db8ly10r5~x2/"><circle cx="199.8" cy="208.9" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><circle cx="159.6" cy="211.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/g1k9lb4db9lb1~x6/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Earl of Inverness (Royal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r100db10w5db14y4dbi8y4r24/)
 (the same proportion at any scale), whose colour order is pattern [RBWBGBGR](/stripes/rbwbgbgr/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5266
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5266](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5266)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r60db8w3db10y3lb4y3r19~x2/"><circle cx="448.7" cy="115.2" r="4" fill="#3465a4"><title>Princess Elizabeth #2</title></circle></a><a href="/variants/s8/r114db10w3db16y3k3y3r28~x2/"><circle cx="521.7" cy="65.7" r="4" fill="#3465a4"><title>Inverness #2</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="491.6" cy="90.8" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><a href="/variants/s8/r72k6lb2k11y2db2y2r18~x2/"><circle cx="478.5" cy="55.8" r="4" fill="#3465a4"><title>Princess Elizabeth (Royal)</title></circle></a><a href="/variants/s8/r36db3w1db6g1k1g1r9~x4/"><circle cx="499.8" cy="67.5" r="4" fill="#3465a4"><title>Inverness - 1829 (District)</title></circle></a><a href="/variants/s8/r36db3w1db6g1k1g1r9~x2/"><circle cx="499.8" cy="67.5" r="4" fill="#3465a4"><title>Inverness</title></circle></a><a href="/variants/s8/r36db3w1db6g1k1g1r9~x4~db1406275-w4000000/"><circle cx="383.4" cy="39.7" r="4" fill="#3465a4"><title>Inverness</title></circle></a><a href="/variants/s8/r42k4w1k6y1db1y1r12~x2/"><circle cx="490.9" cy="49.7" r="4" fill="#3465a4"><title>Princess Elizabeth</title></circle></a><a href="/variants/s8/r68db26r5y3r5g3r13n3~x2/"><circle cx="471.9" cy="114.2" r="4" fill="#3465a4"><title>De Nardi (Personal)</title></circle></a><a href="/variants/s8/r68db27r5y3r5g3r13lb3~x2/"><circle cx="460.6" cy="112.5" r="4" fill="#3465a4"><title>De Nardi #2 (Personal)</title></circle></a><circle cx="478.9" cy="102.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r60db8w3db10y3lb4y3r19~x2/"><circle cx="448.6" cy="115.5" r="4" fill="#3465a4"><title>Princess Elizabeth #2</title></circle></a><a href="/variants/s8/r114db10w3db16y3k3y3r28~x2/"><circle cx="521.6" cy="65.9" r="4" fill="#3465a4"><title>Inverness #2</title></circle></a><a href="/variants/s7/r48w3k3g2y6g2r6~x4/"><circle cx="491.6" cy="91.0" r="4" fill="#3465a4"><title>Ferguson the Astronomer</title></circle></a><a href="/variants/s8/r72k6lb2k11y2db2y2r18~x2/"><circle cx="478.4" cy="56.0" r="4" fill="#3465a4"><title>Princess Elizabeth (Royal)</title></circle></a><a href="/variants/s8/r36db3w1db6g1k1g1r9~x4/"><circle cx="499.7" cy="67.6" r="4" fill="#3465a4"><title>Inverness - 1829 (District)</title></circle></a><a href="/variants/s8/r36db3w1db6g1k1g1r9~x2/"><circle cx="499.7" cy="67.6" r="4" fill="#3465a4"><title>Inverness</title></circle></a><a href="/variants/s8/r36db3w1db6g1k1g1r9~x4~db1406275-w4000000/"><circle cx="383.3" cy="39.7" r="4" fill="#3465a4"><title>Inverness</title></circle></a><a href="/variants/s8/r42k4w1k6y1db1y1r12~x2/"><circle cx="490.8" cy="49.9" r="4" fill="#3465a4"><title>Princess Elizabeth</title></circle></a><a href="/variants/s8/r68db26r5y3r5g3r13n3~x2/"><circle cx="471.9" cy="114.5" r="4" fill="#3465a4"><title>De Nardi (Personal)</title></circle></a><a href="/variants/s8/r68db27r5y3r5g3r13lb3~x2/"><circle cx="460.6" cy="112.7" r="4" fill="#3465a4"><title>De Nardi #2 (Personal)</title></circle></a><circle cx="478.9" cy="102.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r100db10w5db14y4dbi8y4r24~db1004274-dbi1406275/

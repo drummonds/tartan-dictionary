@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Tokharian"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db1o5db1o5db2w1/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBW](/stripes/brbrbw/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/lb15do15lb15do80r6/"><circle cx="454.6" cy="199.8" r="4" fill="#3465a4"><title>Coca Cola (Corporate)</title></circle></a><a href="/variants/s5/db16o2db16o19r4~x3/"><circle cx="341.7" cy="257.6" r="4" fill="#3465a4"><title>Unidentified 17</title></circle></a><a href="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/"><circle cx="318.5" cy="193.7" r="4" fill="#3465a4"><title>Dege, of Saville Row</title></circle></a><a href="/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/"><circle cx="386.0" cy="295.0" r="4" fill="#3465a4"><title>Tarim</title></circle></a><a href="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/"><circle cx="276.4" cy="244.2" r="4" fill="#3465a4"><title>Norwich No.077</title></circle></a><a href="/variants/s6/db3ly9db3ly9db20r3~x2/"><circle cx="289.7" cy="238.9" r="4" fill="#3465a4"><title>Latin</title></circle></a><a href="/variants/s6/db1r3db1r3db6g1~x4/"><circle cx="311.1" cy="250.9" r="4" fill="#3465a4"><title>Robbins</title></circle></a><circle cx="370.6" cy="258.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/lb15do15lb15do80r6/"><circle cx="454.7" cy="200.4" r="4" fill="#3465a4"><title>Coca Cola (Corporate)</title></circle></a><a href="/variants/s5/db16o2db16o19r4~x3/"><circle cx="341.9" cy="258.2" r="4" fill="#3465a4"><title>Unidentified 17</title></circle></a><a href="/variants/s6/o11db1o3dbi1db9r1~x4~db0805267-dbi1604274/"><circle cx="318.5" cy="194.2" r="4" fill="#3465a4"><title>Dege, of Saville Row</title></circle></a><a href="/variants/s6/b1o4b1o4b2w1~x4~b2104245-o2106028-w3602083/"><circle cx="386.3" cy="295.7" r="4" fill="#3465a4"><title>Tarim</title></circle></a><a href="/variants/s9/dg5r9dg10w2dg2ly2dg10r9dg5~x2/"><circle cx="276.6" cy="244.9" r="4" fill="#3465a4"><title>Norwich No.077</title></circle></a><a href="/variants/s6/db3ly9db3ly9db20r3~x2/"><circle cx="289.8" cy="239.6" r="4" fill="#3465a4"><title>Latin</title></circle></a><a href="/variants/s6/db1r3db1r3db6g1~x4/"><circle cx="311.2" cy="251.6" r="4" fill="#3465a4"><title>Robbins</title></circle></a><circle cx="370.8" cy="258.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db1o5db1o5db2w1~x4/

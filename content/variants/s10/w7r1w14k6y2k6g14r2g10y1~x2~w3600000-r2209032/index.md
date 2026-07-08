@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Spanish shirt"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w7r1w14k6y2k6g14r2g10y1/)
 (the same proportion at any scale), whose colour order is pattern [GGRGKGKWRW](/stripes/ggrgkgkwrw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3851
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3851](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3851)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lo12k3g24r12g24k32w44g4w8g4/"><circle cx="94.4" cy="148.9" r="4" fill="#3465a4"><title>Gillies Dress Green</title></circle></a><a href="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/"><circle cx="105.2" cy="148.7" r="4" fill="#3465a4"><title>Macallan Distillery</title></circle></a><a href="/variants/s9/w16g2k5r2k10g11y2g11k2~x2/"><circle cx="99.3" cy="176.4" r="4" fill="#3465a4"><title>Unidentified #46</title></circle></a><a href="/variants/s13/g2r2g21k8lb8k2lb28k2lb8k8g21w2g2~x2/"><circle cx="157.4" cy="129.5" r="4" fill="#3465a4"><title>Mack Original (Personal)</title></circle></a><a href="/variants/s7/db8w33k15g17lb3g17lb3~x2/"><circle cx="101.3" cy="184.9" r="4" fill="#3465a4"><title>MacRobart, dress</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="112.7" cy="164.3" r="4" fill="#3465a4"><title>Hackett, William (Coatbridge) (Personal)</title></circle></a><a href="/variants/s7/w4k2w18k11db2g18ly2~x2/"><circle cx="121.2" cy="177.7" r="4" fill="#3465a4"><title>Barbour - Ancient</title></circle></a><a href="/variants/s10/k23lb25r4lb25k23y2g25k4g25y2~x2/"><circle cx="91.9" cy="168.5" r="4" fill="#3465a4"><title>Forsyth</title></circle></a><a href="/variants/s13/w2ly14y3k6w2k2w2k2g8ly6k2ly3w1~x2/"><circle cx="131.2" cy="133.2" r="4" fill="#3465a4"><title>O'Farrell (Name)</title></circle></a><a href="/variants/s8/g16db4g8k2y1k6w8r10~x2/"><circle cx="119.0" cy="153.1" r="4" fill="#3465a4"><title>Red Deer, City of</title></circle></a><circle cx="119.5" cy="155.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/lo12k3g24r12g24k32w44g4w8g4/"><circle cx="94.4" cy="149.4" r="4" fill="#3465a4"><title>Gillies Dress Green</title></circle></a><a href="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/"><circle cx="105.1" cy="149.1" r="4" fill="#3465a4"><title>Macallan Distillery</title></circle></a><a href="/variants/s9/w16g2k5r2k10g11y2g11k2~x2/"><circle cx="99.3" cy="177.0" r="4" fill="#3465a4"><title>Unidentified #46</title></circle></a><a href="/variants/s13/g2r2g21k8lb8k2lb28k2lb8k8g21w2g2~x2/"><circle cx="157.3" cy="129.8" r="4" fill="#3465a4"><title>Mack Original (Personal)</title></circle></a><a href="/variants/s7/db8w33k15g17lb3g17lb3~x2/"><circle cx="101.3" cy="185.5" r="4" fill="#3465a4"><title>MacRobart, dress</title></circle></a><a href="/variants/s8/k20w4r4w20dg20w5dg2g2~x2~dg1705151-g2307139/"><circle cx="112.8" cy="164.8" r="4" fill="#3465a4"><title>Hackett, William (Coatbridge) (Personal)</title></circle></a><a href="/variants/s7/w4k2w18k11db2g18ly2~x2/"><circle cx="121.2" cy="178.3" r="4" fill="#3465a4"><title>Barbour - Ancient</title></circle></a><a href="/variants/s10/k23lb25r4lb25k23y2g25k4g25y2~x2/"><circle cx="91.9" cy="169.0" r="4" fill="#3465a4"><title>Forsyth</title></circle></a><a href="/variants/s13/w2ly14y3k6w2k2w2k2g8ly6k2ly3w1~x2/"><circle cx="131.2" cy="133.6" r="4" fill="#3465a4"><title>O'Farrell (Name)</title></circle></a><a href="/variants/s8/g16db4g8k2y1k6w8r10~x2/"><circle cx="119.0" cy="153.6" r="4" fill="#3465a4"><title>Red Deer, City of</title></circle></a><circle cx="119.5" cy="155.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w7r1w14k6y2k6g14r2g10y1~x2~w3600000-r2209032/

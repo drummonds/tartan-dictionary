@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Barbour Corporate Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly4y2ly21do11w2k20r3/)
 (the same proportion at any scale), whose colour order is pattern [RKWBYGY](/stripes/rkwbygy/).
 
 Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2489
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2489](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2489)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r2lb1r8k4db1g10w1g2~x4/"><circle cx="142.8" cy="147.2" r="4" fill="#3465a4"><title>Sawyer</title></circle></a><a href="/variants/s8/r2lb1r8k4db1g10lr1g2~x4/"><circle cx="146.7" cy="147.9" r="4" fill="#3465a4"><title>Sawyer</title></circle></a><a href="/variants/s8/k20ly4r4ly20g20w5g2dg2~x2~g1903114-dg1806142/"><circle cx="72.7" cy="152.9" r="4" fill="#3465a4"><title>Hackett Hunting (Personal)</title></circle></a><a href="/variants/s8/g5lg5y26k4y6r5k15w4~x2/"><circle cx="121.9" cy="164.1" r="4" fill="#3465a4"><title>Cornish Christophers (Personal)</title></circle></a><a href="/variants/s7/g22w3k2y3k19r18db4~x2/"><circle cx="81.0" cy="153.7" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><a href="/variants/s6/w5k26ly26lb7k3r3~x2/"><circle cx="139.3" cy="171.8" r="4" fill="#3465a4"><title>Cornish National (District)</title></circle></a><a href="/variants/s7/r3k20w2do11o21ly2o2~x2~o2204058-ly3307090/"><circle cx="126.6" cy="145.2" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/variants/s7/o4y2o21do11w2k20r3~x2/"><circle cx="135.5" cy="148.9" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><circle cx="99.8" cy="160.7" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/variants/s8/k20ly4r4ly20dg20w5dg2lyi2~x2~dg1804144-lyi2805128/"><circle cx="77.1" cy="157.7" r="4" fill="#3465a4"><title>Hackett William (Coatbridge) Hunting (Personal)</title></circle></a><circle cx="112.5" cy="146.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r2lb1r8k4db1g10w1g2~x4/"><circle cx="142.8" cy="147.6" r="4" fill="#3465a4"><title>Sawyer</title></circle></a><a href="/variants/s8/r2lb1r8k4db1g10lr1g2~x4/"><circle cx="146.6" cy="148.3" r="4" fill="#3465a4"><title>Sawyer</title></circle></a><a href="/variants/s8/k20ly4r4ly20g20w5g2dg2~x2~g1903114-dg1806142/"><circle cx="72.7" cy="153.4" r="4" fill="#3465a4"><title>Hackett Hunting (Personal)</title></circle></a><a href="/variants/s8/g5lg5y26k4y6r5k15w4~x2/"><circle cx="122.0" cy="164.6" r="4" fill="#3465a4"><title>Cornish Christophers (Personal)</title></circle></a><a href="/variants/s7/g22w3k2y3k19r18db4~x2/"><circle cx="81.0" cy="154.1" r="4" fill="#3465a4"><title>Scotch House 2000 Dress</title></circle></a><a href="/variants/s6/w5k26ly26lb7k3r3~x2/"><circle cx="139.3" cy="172.4" r="4" fill="#3465a4"><title>Cornish National (District)</title></circle></a><a href="/variants/s7/r3k20w2do11o21ly2o2~x2~o2204058-ly3307090/"><circle cx="126.6" cy="145.6" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/variants/s7/o4y2o21do11w2k20r3~x2/"><circle cx="135.5" cy="149.3" r="4" fill="#3465a4"><title>Barbour</title></circle></a><a href="/variants/s9/lb4dy27ly8k4ly8k4ly8o11y3~x2/"><circle cx="99.8" cy="161.2" r="4" fill="#3465a4"><title>Brittany National Walking</title></circle></a><a href="/variants/s8/k20ly4r4ly20dg20w5dg2lyi2~x2~dg1804144-lyi2805128/"><circle cx="77.1" cy="158.2" r="4" fill="#3465a4"><title>Hackett William (Coatbridge) Hunting (Personal)</title></circle></a><circle cx="112.5" cy="147.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/ly4y2ly21do11w2k20r3~x2/

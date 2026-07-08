@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Blackburn Appalachian Hunting"
   url: "/tartans/blackburn-appalachian-hunting/"
+- name: "Blackburn Appalachian Hunting"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g7k2g7y1k2y1k10y3r10y3k10y1g11k2g3k2/)
 (the same proportion at any scale), whose colour order is pattern [GKGGKGKGRGKGGKGK](/stripes/gkggkgkgrgkggkgk/).
@@ -14,7 +16,7 @@ Part of the [Blackburn Appalachian Hunting](/tartans/blackburn-appalachian-hunti
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10703
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10703](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10703)
 
 ## Provenance
 
@@ -72,8 +74,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/dg7k2dg7ly1k2ly1k10ly3dr10ly3k10ly1dg11k2dg3k2~x2/"><circle cx="149.7" cy="159.5" r="4" fill="#3465a4"><title>Blackburn Appalachian Htg (Personal)</title></circle></a><a href="/variants/s13/o25k4o4k4o4k23g23y4g23k23o23k4o4~x2/"><circle cx="119.3" cy="186.6" r="4" fill="#3465a4"><title>Poulter, Green (Corporate)</title></circle></a><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1~x2/"><circle cx="133.0" cy="158.1" r="4" fill="#3465a4"><title>Cumming (d)</title></circle></a><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/"><circle cx="133.0" cy="158.1" r="4" fill="#3465a4"><title>Cumming</title></circle></a><a href="/variants/s13/o11k1o1k1o1k8g8k1g8k8o8k1o1~x2/"><circle cx="172.6" cy="168.7" r="4" fill="#3465a4"><title>Brown, Watch</title></circle></a><a href="/variants/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/"><circle cx="116.7" cy="142.9" r="4" fill="#3465a4"><title>Cumming/Comyn/Buchan</title></circle></a><a href="/variants/s23/k1r1g8r1k6lb1r6g6r1k8r1lb1k1r1k8r1g6r6lb1k6r1g8r1~x4/"><circle cx="114.2" cy="142.2" r="4" fill="#3465a4"><title>Cumming Hunting</title></circle></a><a href="/variants/s8/db10k6y1g6k1g6y1k6~x2~db1406275/"><circle cx="148.5" cy="176.6" r="4" fill="#3465a4"><title>Norwich No.115</title></circle></a><a href="/variants/s15/o8w1o1dp1o1k7g7k1g3k1g7k7o7k1dp3~x2/"><circle cx="78.6" cy="157.5" r="4" fill="#3465a4"><title>Black Scottish National Tartan</title></circle></a><a href="/variants/s15/ly2t3k3t4y16t3k3t4y3t3k16t4y3t3ly2~x2/"><circle cx="126.1" cy="164.1" r="4" fill="#3465a4"><title>Kerry Irish County Tartan</title></circle></a><circle cx="132.7" cy="155.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s16/dg7k2dg7ly1k2ly1k10ly3dr10ly3k10ly1dg11k2dg3k2~x2/"><circle cx="149.7" cy="159.9" r="4" fill="#3465a4"><title>Blackburn Appalachian Htg (Personal)</title></circle></a><a href="/variants/s13/o25k4o4k4o4k23g23y4g23k23o23k4o4~x2/"><circle cx="119.3" cy="187.1" r="4" fill="#3465a4"><title>Poulter, Green (Corporate)</title></circle></a><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1~x2/"><circle cx="133.0" cy="158.5" r="4" fill="#3465a4"><title>Cumming (d)</title></circle></a><a href="/variants/s13/k1db1r1k8r1g6r6db1k6r1g8r1k1/"><circle cx="133.0" cy="158.5" r="4" fill="#3465a4"><title>Cumming</title></circle></a><a href="/variants/s13/o11k1o1k1o1k8g8k1g8k8o8k1o1~x2/"><circle cx="172.6" cy="169.2" r="4" fill="#3465a4"><title>Brown, Watch</title></circle></a><a href="/variants/s23/r6g6r1k8r1k1db1r1k8r1g6r6db1k6r1g8r1k1r1g8r1k6db1~x2/"><circle cx="116.7" cy="143.3" r="4" fill="#3465a4"><title>Cumming/Comyn/Buchan</title></circle></a><a href="/variants/s23/k1r1g8r1k6lb1r6g6r1k8r1lb1k1r1k8r1g6r6lb1k6r1g8r1~x4/"><circle cx="114.2" cy="142.6" r="4" fill="#3465a4"><title>Cumming Hunting</title></circle></a><a href="/variants/s8/db10k6y1g6k1g6y1k6~x2~db1406275/"><circle cx="148.5" cy="177.1" r="4" fill="#3465a4"><title>Norwich No.115</title></circle></a><a href="/variants/s15/o8w1o1dp1o1k7g7k1g3k1g7k7o7k1dp3~x2/"><circle cx="78.5" cy="157.9" r="4" fill="#3465a4"><title>Black Scottish National Tartan</title></circle></a><a href="/variants/s15/ly2t3k3t4y16t3k3t4y3t3k16t4y3t3ly2~x2/"><circle cx="126.1" cy="164.5" r="4" fill="#3465a4"><title>Kerry Irish County Tartan</title></circle></a><circle cx="132.7" cy="156.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/g7k2g7y1k2y1k10y3r10y3k10y1g11k2g3k2~x2/

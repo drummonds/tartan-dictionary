@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Drumlithie Rock and Wheel Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2dp3ri2r15dp3g19dp20r15dp3ri2r2/)
 (the same proportion at any scale), whose colour order is pattern [RBRRBGBRBRR](/stripes/rbrrbgbrbrr/).
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1414
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1414](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1414)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="243.9" cy="180.7" r="4" fill="#3465a4"><title>Drumlithie</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp2dg20dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="268.2" cy="186.5" r="4" fill="#3465a4"><title>Drumlithie - 1790 (Fashion)</title></circle></a><a href="/variants/s11/r2dp3dg2r15dp3g19dp20r15dp3dg2r2~x2/"><circle cx="234.6" cy="180.0" r="4" fill="#3465a4"><title>Drumlithie, Rock and Wheel</title></circle></a><a href="/variants/s12/n4w2n2w3n20db6r3db2r2db2r17db3~x2/"><circle cx="238.3" cy="171.2" r="4" fill="#3465a4"><title>Eidart, Scotch House</title></circle></a><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><circle cx="269.3" cy="168.5" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><a href="/variants/s8/g12r11dp12b3r32dp8g8dp8~x2/"><circle cx="260.4" cy="211.7" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><a href="/variants/s8/db4r1y12r2y2r12y1db4~x4/"><circle cx="297.8" cy="210.6" r="4" fill="#3465a4"><title>Glassary #2</title></circle></a><a href="/variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/"><circle cx="258.0" cy="209.1" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><a href="/variants/s10/r12y4r38dg25db8dg10db8dg8db25r3/"><circle cx="224.1" cy="191.8" r="4" fill="#3465a4"><title>MacEdward (Personal)</title></circle></a><a href="/variants/s13/dg16m2dg2m2dg2m15r14m2r14m15dg16m2dg2~x2~m2808007-r2109032/"><circle cx="220.1" cy="200.6" r="4" fill="#3465a4"><title>MacNab (Clan)</title></circle></a><circle cx="244.0" cy="182.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="243.9" cy="181.0" r="4" fill="#3465a4"><title>Drumlithie</title></circle></a><a href="/variants/s11/r2dp3ri2r15dp2dg20dp20r15dp3ri2r2~x2~r2109032-ri2406019/"><circle cx="268.2" cy="186.8" r="4" fill="#3465a4"><title>Drumlithie - 1790 (Fashion)</title></circle></a><a href="/variants/s11/r2dp3dg2r15dp3g19dp20r15dp3dg2r2~x2/"><circle cx="234.6" cy="180.4" r="4" fill="#3465a4"><title>Drumlithie, Rock and Wheel</title></circle></a><a href="/variants/s12/n4w2n2w3n20db6r3db2r2db2r17db3~x2/"><circle cx="238.3" cy="171.6" r="4" fill="#3465a4"><title>Eidart, Scotch House</title></circle></a><a href="/variants/s10/dp28r26w2dp5w2r26g28r5w2r5~x2/"><circle cx="269.3" cy="168.9" r="4" fill="#3465a4"><title>Glenfinnan</title></circle></a><a href="/variants/s8/g12r11dp12b3r32dp8g8dp8~x2/"><circle cx="260.5" cy="212.2" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><a href="/variants/s8/db4r1y12r2y2r12y1db4~x4/"><circle cx="297.9" cy="211.0" r="4" fill="#3465a4"><title>Glassary #2</title></circle></a><a href="/variants/s8/g12ri11dp12r3ri32dp8g8dp8~x2~ri2209032-r2208029/"><circle cx="258.1" cy="209.7" r="4" fill="#3465a4"><title>Fiddes</title></circle></a><a href="/variants/s10/r12y4r38dg25db8dg10db8dg8db25r3/"><circle cx="224.1" cy="192.2" r="4" fill="#3465a4"><title>MacEdward (Personal)</title></circle></a><a href="/variants/s13/dg16m2dg2m2dg2m15r14m2r14m15dg16m2dg2~x2~m2808007-r2109032/"><circle cx="220.2" cy="201.2" r="4" fill="#3465a4"><title>MacNab (Clan)</title></circle></a><circle cx="244.0" cy="183.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2~r2109032-ri2406019/

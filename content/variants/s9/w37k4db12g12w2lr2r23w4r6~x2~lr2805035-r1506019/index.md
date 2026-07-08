@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Hebridean Arisaid, Red/White (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w37k4db12g12w2lr2r23w4r6/)
 (the same proportion at any scale), whose colour order is pattern [RWRYWGBKW](/stripes/rwrywgbkw/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8200
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8200](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8200)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="153.9" cy="130.4" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/"><circle cx="122.5" cy="128.0" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/variants/s10/r7k2lb16y5lb10k13w28g2w4g2~x2/"><circle cx="91.7" cy="125.3" r="4" fill="#3465a4"><title>Gillies, Blue dress</title></circle></a><a href="/variants/s6/w18k1db4g4dp10lo2~x4/"><circle cx="167.3" cy="135.6" r="4" fill="#3465a4"><title>Edgar-Feyen</title></circle></a><a href="/variants/s10/r7k2lb16ly5lb10k13w28dg2w4dg4~x2/"><circle cx="82.8" cy="128.0" r="4" fill="#3465a4"><title>Gillies Dress Blue #1 (Dance)</title></circle></a><a href="/variants/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/"><circle cx="169.9" cy="109.6" r="4" fill="#3465a4"><title>Edinburgh Dress (Dance)</title></circle></a><a href="/variants/s10/y6k2lb15r5lb9k13w25db2w3db2~x2/"><circle cx="81.5" cy="132.5" r="4" fill="#3465a4"><title>Gillies, dress Blue</title></circle></a><a href="/variants/s10/r7k2lb16ly5lb10k13w28g2w4g4~x2/"><circle cx="84.1" cy="129.2" r="4" fill="#3465a4"><title>Gillies Dress, Blue #1 (Dance)</title></circle></a><a href="/variants/s8/r3w30b10k3dp15g2dp3g1~x2/"><circle cx="185.9" cy="90.2" r="4" fill="#3465a4"><title>S.O.B.H.D. (Corporate)</title></circle></a><a href="/variants/s12/lb12db2k4y2k3r3k3r19w31db2w4k2~x2/"><circle cx="126.1" cy="86.0" r="4" fill="#3465a4"><title>MacLean of Duart Dress #5</title></circle></a><circle cx="148.8" cy="113.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y2r1lb16k5dp2w11dp1~x4/"><circle cx="153.8" cy="130.8" r="4" fill="#3465a4"><title>Dignan</title></circle></a><a href="/variants/s8/db5w30lb9k9dp9g2dp2g5~x2/"><circle cx="122.5" cy="128.4" r="4" fill="#3465a4"><title>Alexander of Menstry Dress</title></circle></a><a href="/variants/s10/r7k2lb16y5lb10k13w28g2w4g2~x2/"><circle cx="91.7" cy="125.7" r="4" fill="#3465a4"><title>Gillies, Blue dress</title></circle></a><a href="/variants/s6/w18k1db4g4dp10lo2~x4/"><circle cx="167.3" cy="136.0" r="4" fill="#3465a4"><title>Edgar-Feyen</title></circle></a><a href="/variants/s10/r7k2lb16ly5lb10k13w28dg2w4dg4~x2/"><circle cx="82.8" cy="128.4" r="4" fill="#3465a4"><title>Gillies Dress Blue #1 (Dance)</title></circle></a><a href="/variants/s10/w4k2w30g3dp3g3dp7db14g3r3~x2/"><circle cx="169.9" cy="109.9" r="4" fill="#3465a4"><title>Edinburgh Dress (Dance)</title></circle></a><a href="/variants/s10/y6k2lb15r5lb9k13w25db2w3db2~x2/"><circle cx="81.5" cy="132.9" r="4" fill="#3465a4"><title>Gillies, dress Blue</title></circle></a><a href="/variants/s10/r7k2lb16ly5lb10k13w28g2w4g4~x2/"><circle cx="84.1" cy="129.6" r="4" fill="#3465a4"><title>Gillies Dress, Blue #1 (Dance)</title></circle></a><a href="/variants/s8/r3w30b10k3dp15g2dp3g1~x2/"><circle cx="185.8" cy="90.5" r="4" fill="#3465a4"><title>S.O.B.H.D. (Corporate)</title></circle></a><a href="/variants/s12/lb12db2k4y2k3r3k3r19w31db2w4k2~x2/"><circle cx="126.0" cy="86.3" r="4" fill="#3465a4"><title>MacLean of Duart Dress #5</title></circle></a><circle cx="148.7" cy="113.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/w37k4db12g12w2lr2r23w4r6~x2~lr2805035-r1506019/

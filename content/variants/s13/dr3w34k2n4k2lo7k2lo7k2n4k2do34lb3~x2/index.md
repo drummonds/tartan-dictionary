@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Buchanan Dress"
   url: "/tartans/buchanan-dress/"
+- name: "Buchanan Dress (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr3w34k2n4k2lo7k2lo7k2n4k2do34lb3/)
 (the same proportion at any scale), whose colour order is pattern [BWKBKYKYKBKBW](/stripes/bwkbkykykbkbw/).
@@ -14,7 +16,7 @@ Part of the [Buchanan Dress](/tartans/buchanan-dress/) tartan — the named desi
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=608
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=608](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=608)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r3w34k2n4k2y7k2y7k2n4k2o34lb3~x2/"><circle cx="99.9" cy="67.6" r="4" fill="#3465a4"><title>Buchanan, dress</title></circle></a><a href="/variants/s13/r3w34k2n4k2y7k2y7k2n4k2dy34lb3~x2/"><circle cx="87.5" cy="65.0" r="4" fill="#3465a4"><title>Buchanan Dress</title></circle></a><a href="/variants/s14/r30b2k6b2g17y7w2k2w2y4lb7w2k6w6~x2/"><circle cx="65.9" cy="84.1" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s13/k2r16w1db2w1y3w2y3w1db2w1g16lb2~x2/"><circle cx="100.2" cy="79.2" r="4" fill="#3465a4"><title>Gibbs, Gibson</title></circle></a><a href="/variants/s14/r30ri2k6ri2g17y7w2k2w2y4lb7w2k6w6~x2~r2109032-ri2406019/"><circle cx="60.9" cy="79.9" r="4" fill="#3465a4"><title>Dundee District Tartan</title></circle></a><a href="/variants/s16/g4w1k3w1ly2w1k3w1ly2w1k3w1g3lb14r1y2~x2/"><circle cx="63.8" cy="86.3" r="4" fill="#3465a4"><title>City of Dorvil (District)</title></circle></a><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/"><circle cx="114.9" cy="75.6" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield (District)</title></circle></a><a href="/variants/s14/ri30r2k6r2g17y7w2k2w2y4lb7w2k6w6~x2~ri2209032-r2208029/"><circle cx="60.5" cy="79.2" r="4" fill="#3465a4"><title>Dundee #2</title></circle></a><a href="/variants/s15/r4g1r1g5k1lo1k1lo1k6lb1k1lb15w1lb1w1~x4/"><circle cx="130.1" cy="76.4" r="4" fill="#3465a4"><title>Estes</title></circle></a><a href="/variants/s14/r36ri2k16ri2w19y4w2k2w2y4w12lb2db10g10~x2~r2109032-ri2806019/"><circle cx="36.1" cy="59.1" r="4" fill="#3465a4"><title>Dundee Dress</title></circle></a><circle cx="90.1" cy="65.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/r3w34k2n4k2y7k2y7k2n4k2o34lb3~x2/"><circle cx="99.8" cy="67.7" r="4" fill="#3465a4"><title>Buchanan, dress</title></circle></a><a href="/variants/s13/r3w34k2n4k2y7k2y7k2n4k2dy34lb3~x2/"><circle cx="87.3" cy="65.1" r="4" fill="#3465a4"><title>Buchanan Dress</title></circle></a><a href="/variants/s14/r30b2k6b2g17y7w2k2w2y4lb7w2k6w6~x2/"><circle cx="65.8" cy="84.3" r="4" fill="#3465a4"><title>Dundee</title></circle></a><a href="/variants/s13/k2r16w1db2w1y3w2y3w1db2w1g16lb2~x2/"><circle cx="100.1" cy="79.3" r="4" fill="#3465a4"><title>Gibbs, Gibson</title></circle></a><a href="/variants/s14/r30ri2k6ri2g17y7w2k2w2y4lb7w2k6w6~x2~r2109032-ri2406019/"><circle cx="60.8" cy="80.1" r="4" fill="#3465a4"><title>Dundee District Tartan</title></circle></a><a href="/variants/s16/g4w1k3w1ly2w1k3w1ly2w1k3w1g3lb14r1y2~x2/"><circle cx="63.7" cy="86.5" r="4" fill="#3465a4"><title>City of Dorvil (District)</title></circle></a><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/"><circle cx="114.8" cy="75.8" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield (District)</title></circle></a><a href="/variants/s14/ri30r2k6r2g17y7w2k2w2y4lb7w2k6w6~x2~ri2209032-r2208029/"><circle cx="60.4" cy="79.4" r="4" fill="#3465a4"><title>Dundee #2</title></circle></a><a href="/variants/s15/r4g1r1g5k1lo1k1lo1k6lb1k1lb15w1lb1w1~x4/"><circle cx="130.0" cy="76.6" r="4" fill="#3465a4"><title>Estes</title></circle></a><a href="/variants/s14/r36ri2k16ri2w19y4w2k2w2y4w12lb2db10g10~x2~r2109032-ri2806019/"><circle cx="36.0" cy="59.2" r="4" fill="#3465a4"><title>Dundee Dress</title></circle></a><circle cx="89.9" cy="65.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/dr3w34k2n4k2lo7k2lo7k2n4k2do34lb3~x2/

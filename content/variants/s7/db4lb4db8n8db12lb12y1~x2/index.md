@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "von Prondzynski (2016)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4lb4db8n8db12lb12y1/)
 (the same proportion at any scale), whose colour order is pattern [BWBBBWG](/stripes/bwbbbwg/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11635
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11635](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11635)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/t23db18w5db2r14db18~x2/"><circle cx="236.9" cy="237.8" r="4" fill="#3465a4"><title>Pitt (Glasgow)</title></circle></a><a href="/variants/s6/db2g6db6b5db1b2~x2/"><circle cx="272.6" cy="309.5" r="4" fill="#3465a4"><title>Unnamed, No 54</title></circle></a><a href="/variants/s6/db3lb14db3n16db34r3~x2/"><circle cx="311.0" cy="205.7" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><circle cx="257.4" cy="217.7" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/variants/s9/r4t12db36w4db4t16w3db6t3~x2/"><circle cx="301.3" cy="180.1" r="4" fill="#3465a4"><title>Callaway (Name)</title></circle></a><a href="/variants/s7/db14r6db52lb4db4lb51y8/"><circle cx="288.4" cy="179.7" r="4" fill="#3465a4"><title>International Police Association (IPA 2010)</title></circle></a><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/"><circle cx="287.4" cy="179.5" r="4" fill="#3465a4"><title>Int. Police Association (Official)</title></circle></a><a href="/variants/s6/b7db2b25db10g21db2~x2~b1511266-db1108266/"><circle cx="322.6" cy="250.9" r="4" fill="#3465a4"><title>Sugiyama Corporate Tartan</title></circle></a><a href="/variants/s8/dy15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/"><circle cx="162.7" cy="216.6" r="4" fill="#3465a4"><title>Monaghan County, Crest Range</title></circle></a><a href="/variants/s10/w2db13b13y2b13db13w2db6b6y1~x2/"><circle cx="310.1" cy="224.3" r="4" fill="#3465a4"><title>Westwood MacSky (Fashion)</title></circle></a><circle cx="266.5" cy="244.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/t23db18w5db2r14db18~x2/"><circle cx="237.0" cy="238.4" r="4" fill="#3465a4"><title>Pitt (Glasgow)</title></circle></a><a href="/variants/s6/db2g6db6b5db1b2~x2/"><circle cx="272.8" cy="310.1" r="4" fill="#3465a4"><title>Unnamed, No 54</title></circle></a><a href="/variants/s6/db3lb14db3n16db34r3~x2/"><circle cx="311.1" cy="206.1" r="4" fill="#3465a4"><title>Thorburn (Lochcarron)</title></circle></a><a href="/variants/s7/db7w3db2w6db16lb26dr4~x2/"><circle cx="257.5" cy="218.2" r="4" fill="#3465a4"><title>Keela (Corporate)</title></circle></a><a href="/variants/s9/r4t12db36w4db4t16w3db6t3~x2/"><circle cx="301.3" cy="180.5" r="4" fill="#3465a4"><title>Callaway (Name)</title></circle></a><a href="/variants/s7/db14r6db52lb4db4lb51y8/"><circle cx="288.5" cy="180.2" r="4" fill="#3465a4"><title>International Police Association (IPA 2010)</title></circle></a><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/"><circle cx="287.5" cy="180.0" r="4" fill="#3465a4"><title>Int. Police Association (Official)</title></circle></a><a href="/variants/s6/b7db2b25db10g21db2~x2~b1511266-db1108266/"><circle cx="322.7" cy="251.4" r="4" fill="#3465a4"><title>Sugiyama Corporate Tartan</title></circle></a><a href="/variants/s8/dy15dbi2lb8db21w2dbi21db6w7~x2~dbi1406275-db1004274/"><circle cx="162.7" cy="217.0" r="4" fill="#3465a4"><title>Monaghan County, Crest Range</title></circle></a><a href="/variants/s10/w2db13b13y2b13db13w2db6b6y1~x2/"><circle cx="310.2" cy="224.7" r="4" fill="#3465a4"><title>Westwood MacSky (Fashion)</title></circle></a><circle cx="266.6" cy="245.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db4lb4db8n8db12lb12y1~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's No.194"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3r1g5k3w1dp3/)
 (the same proportion at any scale), whose colour order is pattern [BWKGRKRGKW](/stripes/bwkgrkrgkw/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4726
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4726](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4726)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r1k2g4k1g1k2db3k1w1~x6/"><circle cx="65.5" cy="220.7" r="4" fill="#3465a4"><title>MacKean Dress (Personal)</title></circle></a><a href="/variants/s6/k3g8k8r2db8w2~x2/"><circle cx="63.3" cy="239.5" r="4" fill="#3465a4"><title>Mitchell Family Tartan</title></circle></a><a href="/variants/s6/k3g10k10r3db8w3~x2/"><circle cx="47.4" cy="248.6" r="4" fill="#3465a4"><title>Russell (Clan)</title></circle></a><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><circle cx="105.3" cy="203.5" r="4" fill="#3465a4"><title>MacLaren #2</title></circle></a><a href="/variants/s9/db8k4lo2k3dr2k3lo2k4g8~x4/"><circle cx="71.3" cy="223.6" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s7/k12g12w2g12k12dp12r3~x2/"><circle cx="85.1" cy="230.0" r="4" fill="#3465a4"><title>Wilson's, No 120</title></circle></a><a href="/variants/s7/k6g6w1g6k6dp6b1~x4/"><circle cx="97.4" cy="230.0" r="4" fill="#3465a4"><title>Wilson's, No 233</title></circle></a><a href="/variants/s7/k11g12w2g12k12dp12r3~x2/"><circle cx="86.1" cy="230.1" r="4" fill="#3465a4"><title>Cunningham / Wilson's No 120</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2~dp1607327/"><circle cx="82.5" cy="218.8" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><a href="/variants/s5/dp11lb2k10g10y3~x2/"><circle cx="73.3" cy="223.4" r="4" fill="#3465a4"><title>Wilson's No.217</title></circle></a><circle cx="73.1" cy="206.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r1k2g4k1g1k2db3k1w1~x6/"><circle cx="65.6" cy="221.3" r="4" fill="#3465a4"><title>MacKean Dress (Personal)</title></circle></a><a href="/variants/s6/k3g8k8r2db8w2~x2/"><circle cx="63.4" cy="240.2" r="4" fill="#3465a4"><title>Mitchell Family Tartan</title></circle></a><a href="/variants/s6/k3g10k10r3db8w3~x2/"><circle cx="47.5" cy="249.3" r="4" fill="#3465a4"><title>Russell (Clan)</title></circle></a><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><circle cx="105.3" cy="204.1" r="4" fill="#3465a4"><title>MacLaren #2</title></circle></a><a href="/variants/s9/db8k4lo2k3dr2k3lo2k4g8~x4/"><circle cx="71.4" cy="224.2" r="4" fill="#3465a4"><title>Vosko</title></circle></a><a href="/variants/s7/k12g12w2g12k12dp12r3~x2/"><circle cx="85.1" cy="230.7" r="4" fill="#3465a4"><title>Wilson's, No 120</title></circle></a><a href="/variants/s7/k6g6w1g6k6dp6b1~x4/"><circle cx="97.5" cy="230.7" r="4" fill="#3465a4"><title>Wilson's, No 233</title></circle></a><a href="/variants/s7/k11g12w2g12k12dp12r3~x2/"><circle cx="86.2" cy="230.8" r="4" fill="#3465a4"><title>Cunningham / Wilson's No 120</title></circle></a><a href="/variants/s5/dp11y2k10g10lo2~x2~dp1607327/"><circle cx="82.6" cy="219.4" r="4" fill="#3465a4"><title>Selkirk (Personal) Original</title></circle></a><a href="/variants/s5/dp11lb2k10g10y3~x2/"><circle cx="73.4" cy="224.0" r="4" fill="#3465a4"><title>Wilson's No.217</title></circle></a><circle cx="73.2" cy="207.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k3r1g5k3w1dp3~x2/

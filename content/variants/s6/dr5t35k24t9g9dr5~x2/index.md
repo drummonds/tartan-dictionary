@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Notre Dame Marching Guard (Corp)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr5t35k24t9g9dr5/)
 (the same proportion at any scale), whose colour order is pattern [BBKBGB](/stripes/bbkbgb/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5542
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5542](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5542)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1g9db9k1db1w1~x6/"><circle cx="218.7" cy="179.0" r="4" fill="#3465a4"><title>Irving of Glentulchan</title></circle></a><a href="/variants/s5/b10k10b10dg26y5~x2/"><circle cx="180.9" cy="262.6" r="4" fill="#3465a4"><title>Marshall of Keith (Personal)</title></circle></a><a href="/variants/s6/r1t7k4t1dg7t1~x4/"><circle cx="193.2" cy="223.7" r="4" fill="#3465a4"><title>Flower of Scotland Commemorative Tartan</title></circle></a><a href="/variants/s6/r1t7k4t1dg7t1~x2/"><circle cx="193.2" cy="223.7" r="4" fill="#3465a4"><title>Flower of Scotland MINI Tartan</title></circle></a><a href="/variants/s6/r3t25k16t3g25t3~x2~g2405163/"><circle cx="186.6" cy="216.3" r="4" fill="#3465a4"><title>Flower of Scotland</title></circle></a><a href="/variants/s6/r3t25k16t3g25t3~x2/"><circle cx="183.1" cy="215.4" r="4" fill="#3465a4"><title>Flower of Scotland (Universal)</title></circle></a><a href="/variants/s6/db3g28db3k16db28r3/"><circle cx="197.6" cy="204.8" r="4" fill="#3465a4"><title>Flower of Scotland</title></circle></a><a href="/variants/s6/db20k6ly4db3g20w2~x2/"><circle cx="171.5" cy="187.9" r="4" fill="#3465a4"><title>DeLoughery (Personal)</title></circle></a><a href="/variants/s6/r5db25w5db3g25db3~x2/"><circle cx="248.0" cy="216.7" r="4" fill="#3465a4"><title>Thayer USA (Name)</title></circle></a><a href="/variants/s6/db4g18db3k17db18o4~x2/"><circle cx="151.2" cy="237.1" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><circle cx="208.6" cy="216.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1g9db9k1db1w1~x6/"><circle cx="218.7" cy="179.4" r="4" fill="#3465a4"><title>Irving of Glentulchan</title></circle></a><a href="/variants/s5/b10k10b10dg26y5~x2/"><circle cx="181.0" cy="263.2" r="4" fill="#3465a4"><title>Marshall of Keith (Personal)</title></circle></a><a href="/variants/s6/r1t7k4t1dg7t1~x4/"><circle cx="193.3" cy="224.3" r="4" fill="#3465a4"><title>Flower of Scotland Commemorative Tartan</title></circle></a><a href="/variants/s6/r1t7k4t1dg7t1~x2/"><circle cx="193.3" cy="224.3" r="4" fill="#3465a4"><title>Flower of Scotland MINI Tartan</title></circle></a><a href="/variants/s6/r3t25k16t3g25t3~x2~g2405163/"><circle cx="186.6" cy="216.8" r="4" fill="#3465a4"><title>Flower of Scotland</title></circle></a><a href="/variants/s6/r3t25k16t3g25t3~x2/"><circle cx="183.2" cy="216.0" r="4" fill="#3465a4"><title>Flower of Scotland (Universal)</title></circle></a><a href="/variants/s6/db3g28db3k16db28r3/"><circle cx="197.6" cy="205.3" r="4" fill="#3465a4"><title>Flower of Scotland</title></circle></a><a href="/variants/s6/db20k6ly4db3g20w2~x2/"><circle cx="171.5" cy="188.3" r="4" fill="#3465a4"><title>DeLoughery (Personal)</title></circle></a><a href="/variants/s6/r5db25w5db3g25db3~x2/"><circle cx="248.1" cy="217.2" r="4" fill="#3465a4"><title>Thayer USA (Name)</title></circle></a><a href="/variants/s6/db4g18db3k17db18o4~x2/"><circle cx="151.3" cy="237.7" r="4" fill="#3465a4"><title>Scottish Airports</title></circle></a><circle cx="208.7" cy="217.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dr5t35k24t9g9dr5~x2/

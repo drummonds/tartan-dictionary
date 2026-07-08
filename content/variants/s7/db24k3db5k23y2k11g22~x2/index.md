@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Mowat"
   url: "/tartans/mowat/"
+- name: "Mowat (Clans Originaux)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db24k3db5k23y2k11g22/)
 (the same proportion at any scale), whose colour order is pattern [BKBKGKG](/stripes/bkbkgkg/).
@@ -14,7 +16,7 @@ Part of the [Mowat](/tartans/mowat/) tartan — the named design grouping this s
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3035
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3035](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3035)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db48k6db10k46y4k22g43/"><circle cx="183.9" cy="195.4" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/variants/s6/r2g12k12g1db12g2/"><circle cx="161.9" cy="198.1" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s6/r2g12k12g1db12g2~x2/"><circle cx="161.9" cy="198.1" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s8/db10k1db1k1db2k8g10w1~x4/"><circle cx="171.8" cy="179.0" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s8/db10k1db1k1db2k8g10w1~x2/"><circle cx="171.8" cy="179.0" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s6/r2g12k12g1db12g1~x2/"><circle cx="160.0" cy="194.2" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s7/k7g22k22db6r2db15r2~x2/"><circle cx="157.7" cy="192.5" r="4" fill="#3465a4"><title>National Galleries of Scotland</title></circle></a><a href="/variants/s8/k1g4r1k4db1k1db7g1~x6/"><circle cx="162.1" cy="196.1" r="4" fill="#3465a4"><title>Brabender</title></circle></a><a href="/variants/s7/r4k4db24k24g24k2r3~x2/"><circle cx="151.5" cy="179.5" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><a href="/variants/s6/db40k4db12k21g27w4~x2/"><circle cx="206.8" cy="207.8" r="4" fill="#3465a4"><title>Granger (Personal)</title></circle></a><circle cx="182.7" cy="195.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db48k6db10k46y4k22g43/"><circle cx="184.0" cy="195.8" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/variants/s6/r2g12k12g1db12g2/"><circle cx="162.0" cy="198.5" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s6/r2g12k12g1db12g2~x2/"><circle cx="162.0" cy="198.5" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s8/db10k1db1k1db2k8g10w1~x4/"><circle cx="171.8" cy="179.4" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s8/db10k1db1k1db2k8g10w1~x2/"><circle cx="171.8" cy="179.4" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s6/r2g12k12g1db12g1~x2/"><circle cx="160.0" cy="194.7" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/variants/s7/k7g22k22db6r2db15r2~x2/"><circle cx="157.7" cy="193.0" r="4" fill="#3465a4"><title>National Galleries of Scotland</title></circle></a><a href="/variants/s8/k1g4r1k4db1k1db7g1~x6/"><circle cx="162.1" cy="196.6" r="4" fill="#3465a4"><title>Brabender</title></circle></a><a href="/variants/s7/r4k4db24k24g24k2r3~x2/"><circle cx="151.5" cy="179.9" r="4" fill="#3465a4"><title>Black Watch</title></circle></a><a href="/variants/s6/db40k4db12k21g27w4~x2/"><circle cx="206.8" cy="208.4" r="4" fill="#3465a4"><title>Granger (Personal)</title></circle></a><circle cx="182.7" cy="195.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/db24k3db5k23y2k11g22~x2/

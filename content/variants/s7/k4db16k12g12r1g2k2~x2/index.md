@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Dundas"
   url: "/tartans/dundas/"
+- name: "Dundas #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4db16k12g12r1g2k2/)
 (the same proportion at any scale), whose colour order is pattern [KBKGRGK](/stripes/kbkgrgk/).
@@ -14,7 +16,7 @@ Part of the [Dundas](/tartans/dundas/) tartan — the named design grouping this
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1027
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1027](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1027)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4db16k12g24r1g2k2~x2/"><circle cx="212.1" cy="146.8" r="4" fill="#3465a4"><title>Dundas</title></circle></a><a href="/variants/s8/k3g3lb2g11k12db18k2lb3~x2/"><circle cx="132.2" cy="189.8" r="4" fill="#3465a4"><title>Louisiana</title></circle></a><a href="/variants/s7/k2r1g15k15db15y1k2~x2/"><circle cx="158.4" cy="151.7" r="4" fill="#3465a4"><title>MacCaskill</title></circle></a><a href="/variants/s7/db18k10g6r4g6k1w2~x2/"><circle cx="147.9" cy="156.3" r="4" fill="#3465a4"><title>Ferguson - 1830 of Atholl (Clan)</title></circle></a><a href="/variants/s8/r7g3r2g33k31db31k3db3/"><circle cx="159.1" cy="157.5" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s6/k5w2g18k17db16k3/"><circle cx="153.0" cy="208.5" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s7/k7g22k22db6r2db15r2~x2/"><circle cx="157.7" cy="192.5" r="4" fill="#3465a4"><title>National Galleries of Scotland</title></circle></a><a href="/variants/s6/g8w2g1k12db12k1~x2/"><circle cx="158.2" cy="191.4" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s6/k4w2g18k13db12k2~x2/"><circle cx="140.9" cy="205.2" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/g16lb2g1k12db12k1~x2/"><circle cx="181.9" cy="181.2" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><circle cx="174.3" cy="172.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k4db16k12g24r1g2k2~x2/"><circle cx="212.1" cy="147.2" r="4" fill="#3465a4"><title>Dundas</title></circle></a><a href="/variants/s8/k3g3lb2g11k12db18k2lb3~x2/"><circle cx="132.2" cy="190.3" r="4" fill="#3465a4"><title>Louisiana</title></circle></a><a href="/variants/s7/k2r1g15k15db15y1k2~x2/"><circle cx="158.3" cy="152.0" r="4" fill="#3465a4"><title>MacCaskill</title></circle></a><a href="/variants/s7/db18k10g6r4g6k1w2~x2/"><circle cx="147.9" cy="156.7" r="4" fill="#3465a4"><title>Ferguson - 1830 of Atholl (Clan)</title></circle></a><a href="/variants/s8/r7g3r2g33k31db31k3db3/"><circle cx="159.0" cy="157.8" r="4" fill="#3465a4"><title>Baird</title></circle></a><a href="/variants/s6/k5w2g18k17db16k3/"><circle cx="153.0" cy="209.0" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s7/k7g22k22db6r2db15r2~x2/"><circle cx="157.7" cy="193.0" r="4" fill="#3465a4"><title>National Galleries of Scotland</title></circle></a><a href="/variants/s6/g8w2g1k12db12k1~x2/"><circle cx="158.2" cy="191.8" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><a href="/variants/s6/k4w2g18k13db12k2~x2/"><circle cx="140.9" cy="205.8" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/g16lb2g1k12db12k1~x2/"><circle cx="181.8" cy="181.7" r="4" fill="#3465a4"><title>Graham of Menteith</title></circle></a><circle cx="174.3" cy="173.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k4db16k12g12r1g2k2~x2/

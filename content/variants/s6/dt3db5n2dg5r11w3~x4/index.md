@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Nicolson of Lewis (Clan?)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt3db5n2dg5r11w3/)
 (the same proportion at any scale), whose colour order is pattern [BBBGRW](/stripes/bbbgrw/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7810
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7810](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7810)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k8r12w8g15db30y5~x2/"><circle cx="72.9" cy="202.6" r="4" fill="#3465a4"><title>Reekie (Edmonton)</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.1" cy="220.6" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s5/k4db2o13m13w2~x4/"><circle cx="164.7" cy="207.6" r="4" fill="#3465a4"><title>Think Pink (ICF)</title></circle></a><a href="/variants/s6/r12dbi3g5db16y2g2~x2~dbi1406275-db1204274/"><circle cx="205.6" cy="213.1" r="4" fill="#3465a4"><title>Dunbog Primary School Corporate Tartan</title></circle></a><a href="/variants/s6/r12dbi3g5db16y2g2~x2~dbi1604274-db0805267/"><circle cx="180.8" cy="205.7" r="4" fill="#3465a4"><title>Dunbog, Primary School</title></circle></a><a href="/variants/s6/g3db12w1dg12r12dg2~x2/"><circle cx="178.9" cy="207.5" r="4" fill="#3465a4"><title>Patterson, John (Personal)</title></circle></a><a href="/variants/s5/dy3dg8db12r24w3~x2/"><circle cx="227.7" cy="212.4" r="4" fill="#3465a4"><title>McGill University</title></circle></a><a href="/variants/s5/w3r24db12dg8ly3~x2/"><circle cx="220.8" cy="210.6" r="4" fill="#3465a4"><title>McGill University (Corporate)</title></circle></a><a href="/variants/s8/dp2r9g8r4y1r4db10w2~x4/"><circle cx="163.7" cy="185.8" r="4" fill="#3465a4"><title>De Maynard (Personal)</title></circle></a><a href="/variants/s5/r39db22k11y22g5~x2/"><circle cx="141.8" cy="220.0" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><circle cx="110.9" cy="224.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k8r12w8g15db30y5~x2/"><circle cx="73.0" cy="203.1" r="4" fill="#3465a4"><title>Reekie (Edmonton)</title></circle></a><a href="/variants/s6/w4r7y5db13dr18g3~x2/"><circle cx="120.2" cy="221.1" r="4" fill="#3465a4"><title>Ryan/Fehder (Personal)</title></circle></a><a href="/variants/s5/k4db2o13m13w2~x4/"><circle cx="164.8" cy="208.2" r="4" fill="#3465a4"><title>Think Pink (ICF)</title></circle></a><a href="/variants/s6/r12dbi3g5db16y2g2~x2~dbi1406275-db1204274/"><circle cx="205.7" cy="213.5" r="4" fill="#3465a4"><title>Dunbog Primary School Corporate Tartan</title></circle></a><a href="/variants/s6/r12dbi3g5db16y2g2~x2~dbi1604274-db0805267/"><circle cx="180.8" cy="206.2" r="4" fill="#3465a4"><title>Dunbog, Primary School</title></circle></a><a href="/variants/s6/g3db12w1dg12r12dg2~x2/"><circle cx="179.0" cy="207.9" r="4" fill="#3465a4"><title>Patterson, John (Personal)</title></circle></a><a href="/variants/s5/dy3dg8db12r24w3~x2/"><circle cx="227.8" cy="213.0" r="4" fill="#3465a4"><title>McGill University</title></circle></a><a href="/variants/s5/w3r24db12dg8ly3~x2/"><circle cx="220.9" cy="211.1" r="4" fill="#3465a4"><title>McGill University (Corporate)</title></circle></a><a href="/variants/s8/dp2r9g8r4y1r4db10w2~x4/"><circle cx="163.8" cy="186.3" r="4" fill="#3465a4"><title>De Maynard (Personal)</title></circle></a><a href="/variants/s5/r39db22k11y22g5~x2/"><circle cx="141.9" cy="220.6" r="4" fill="#3465a4"><title>Abbink, Ingmar (Personal)</title></circle></a><circle cx="111.0" cy="224.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dt3db5n2dg5r11w3~x4/

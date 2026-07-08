@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Delmarva"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8r2db2n1db1n1db1n1db2r2db6o1db12o1db6n1db1dy4db1n1db2r3db3n1db1dy2db1n1db8/)
 (the same proportion at any scale), whose colour order is pattern [BBBGBBBRBBBGBBBRBRBRBBBBBBBRB](/stripes/bbbgbbbrbbbgbbbrbrbrbbbbbbbrb/).
 
 Sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10158
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10158](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10158)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

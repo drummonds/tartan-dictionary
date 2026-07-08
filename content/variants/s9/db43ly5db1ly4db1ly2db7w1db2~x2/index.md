@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "University of Delaware (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db43ly5db1ly4db1ly2db7w1db2/)
 (the same proportion at any scale), whose colour order is pattern [BWBYBYBYB](/stripes/bwbybybyb/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10518
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10518](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10518)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db43y5db1y4db1y2db7w1db2~x2/"><circle cx="626.0" cy="125.7" r="4" fill="#3465a4"><title>University of Delaware Fightin' Blue Hen</title></circle></a><a href="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/"><circle cx="454.6" cy="105.4" r="4" fill="#3465a4"><title>Ottawa Fire Service (Corporate)</title></circle></a><a href="/variants/s10/db35y1db3y1db3y1db20r6w1r5~x2/"><circle cx="549.8" cy="110.4" r="4" fill="#3465a4"><title>Alpha Chi Sigma Fraternity</title></circle></a><a href="/variants/s10/db3w2db2w3db6y2db26y2db6r2~x2/"><circle cx="470.8" cy="143.6" r="4" fill="#3465a4"><title>Dundee Football Club</title></circle></a><a href="/variants/s10/db6w4db3w6db8y3db52y3db8r4/"><circle cx="481.1" cy="123.7" r="4" fill="#3465a4"><title>Dundee F.C.</title></circle></a><a href="/variants/s8/y4db48y4db3y2db3y3w4/"><circle cx="535.8" cy="145.0" r="4" fill="#3465a4"><title>Morris of Wales</title></circle></a><a href="/variants/s8/w6y3db3y2db3y4db48y4/"><circle cx="506.3" cy="144.3" r="4" fill="#3465a4"><title>Morris (Welsh Name)</title></circle></a><a href="/variants/s6/db144dr9lb44db4lb4db4/"><circle cx="539.3" cy="162.2" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><a href="/variants/s9/db96y11db8y11db16y6w4y16w8/"><circle cx="462.5" cy="152.1" r="4" fill="#3465a4"><title>University of North Carolina at Greensboro, The</title></circle></a><circle cx="603.2" cy="124.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/db43y5db1y4db1y2db7w1db2~x2/"><circle cx="626.0" cy="125.8" r="4" fill="#3465a4"><title>University of Delaware Fightin' Blue Hen</title></circle></a><a href="/variants/s11/db63ly3w3db8ly3db3w3db3r14db9ly3~x2/"><circle cx="454.6" cy="105.6" r="4" fill="#3465a4"><title>Ottawa Fire Service (Corporate)</title></circle></a><a href="/variants/s10/db35y1db3y1db3y1db20r6w1r5~x2/"><circle cx="549.8" cy="110.5" r="4" fill="#3465a4"><title>Alpha Chi Sigma Fraternity</title></circle></a><a href="/variants/s10/db3w2db2w3db6y2db26y2db6r2~x2/"><circle cx="470.8" cy="143.9" r="4" fill="#3465a4"><title>Dundee Football Club</title></circle></a><a href="/variants/s10/db6w4db3w6db8y3db52y3db8r4/"><circle cx="481.1" cy="123.9" r="4" fill="#3465a4"><title>Dundee F.C.</title></circle></a><a href="/variants/s8/y4db48y4db3y2db3y3w4/"><circle cx="535.8" cy="145.2" r="4" fill="#3465a4"><title>Morris of Wales</title></circle></a><a href="/variants/s8/w6y3db3y2db3y4db48y4/"><circle cx="506.3" cy="144.5" r="4" fill="#3465a4"><title>Morris (Welsh Name)</title></circle></a><a href="/variants/s6/db144dr9lb44db4lb4db4/"><circle cx="539.3" cy="162.4" r="4" fill="#3465a4"><title>United French Freemasons (Corporate</title></circle></a><a href="/variants/s9/db96y11db8y11db16y6w4y16w8/"><circle cx="462.5" cy="152.4" r="4" fill="#3465a4"><title>University of North Carolina at Greensboro, The</title></circle></a><circle cx="603.2" cy="124.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db43ly5db1ly4db1ly2db7w1db2~x2/

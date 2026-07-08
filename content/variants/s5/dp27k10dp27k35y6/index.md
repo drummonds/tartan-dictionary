@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Moorlands (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp27k10dp27k35y6/)
 (the same proportion at any scale), whose colour order is pattern [BKBKG](/stripes/bkbkg/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8076
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8076](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8076)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k20dp3k20dp20~x2/"><circle cx="401.0" cy="303.3" r="4" fill="#3465a4"><title>Wcwm 9275-1333-1</title></circle></a><a href="/variants/s5/dp12r8k64dp75r8/"><circle cx="316.2" cy="210.7" r="4" fill="#3465a4"><title>Laurel Cadre, The</title></circle></a><a href="/variants/s5/k4dg3dp18k18w2~x2/"><circle cx="256.0" cy="204.2" r="4" fill="#3465a4"><title>Wcwm 1106-2</title></circle></a><a href="/variants/s5/k60w8lo15dp74k14/"><circle cx="203.8" cy="194.2" r="4" fill="#3465a4"><title>Gingles (Personal)</title></circle></a><a href="/variants/s6/k5n5k9dp5k5dp5~x2/"><circle cx="209.0" cy="345.4" r="4" fill="#3465a4"><title>Charles Rennie Mackintosh</title></circle></a><a href="/variants/s6/r8k24db10k5db10k5~x2/"><circle cx="251.1" cy="249.1" r="4" fill="#3465a4"><title>Allen, Nicholas (Personal)</title></circle></a><a href="/variants/s4/k1db7k7ly1~x10/"><circle cx="278.7" cy="246.2" r="4" fill="#3465a4"><title>Wallace (Personal)</title></circle></a><a href="/variants/s4/k1db8k8y1/"><circle cx="309.2" cy="244.5" r="4" fill="#3465a4"><title>Wallace Blue</title></circle></a><a href="/variants/s8/k21dp15k5dp15k5dp15k21w2~x2~dp1205314/"><circle cx="306.7" cy="227.4" r="4" fill="#3465a4"><title>Highland Spirit Weavers Tartan</title></circle></a><a href="/variants/s6/k2dg10y2k9dp8dg2~x2/"><circle cx="185.9" cy="255.6" r="4" fill="#3465a4"><title>Lennie</title></circle></a><circle cx="290.5" cy="271.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/k20dp3k20dp20~x2/"><circle cx="401.2" cy="304.0" r="4" fill="#3465a4"><title>Wcwm 9275-1333-1</title></circle></a><a href="/variants/s5/dp12r8k64dp75r8/"><circle cx="316.3" cy="211.2" r="4" fill="#3465a4"><title>Laurel Cadre, The</title></circle></a><a href="/variants/s5/k4dg3dp18k18w2~x2/"><circle cx="256.1" cy="204.7" r="4" fill="#3465a4"><title>Wcwm 1106-2</title></circle></a><a href="/variants/s5/k60w8lo15dp74k14/"><circle cx="203.8" cy="194.8" r="4" fill="#3465a4"><title>Gingles (Personal)</title></circle></a><a href="/variants/s6/k5n5k9dp5k5dp5~x2/"><circle cx="209.3" cy="346.3" r="4" fill="#3465a4"><title>Charles Rennie Mackintosh</title></circle></a><a href="/variants/s6/r8k24db10k5db10k5~x2/"><circle cx="251.2" cy="249.8" r="4" fill="#3465a4"><title>Allen, Nicholas (Personal)</title></circle></a><a href="/variants/s4/k1db7k7ly1~x10/"><circle cx="278.8" cy="246.8" r="4" fill="#3465a4"><title>Wallace (Personal)</title></circle></a><a href="/variants/s4/k1db8k8y1/"><circle cx="309.3" cy="245.0" r="4" fill="#3465a4"><title>Wallace Blue</title></circle></a><a href="/variants/s8/k21dp15k5dp15k5dp15k21w2~x2~dp1205314/"><circle cx="306.8" cy="227.9" r="4" fill="#3465a4"><title>Highland Spirit Weavers Tartan</title></circle></a><a href="/variants/s6/k2dg10y2k9dp8dg2~x2/"><circle cx="186.0" cy="256.1" r="4" fill="#3465a4"><title>Lennie</title></circle></a><circle cx="290.6" cy="272.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dp27k10dp27k35y6/

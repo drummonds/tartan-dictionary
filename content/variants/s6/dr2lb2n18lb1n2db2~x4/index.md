@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "St. Giles Cathedral (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr2lb2n18lb1n2db2/)
 (the same proportion at any scale), whose colour order is pattern [BBWBWB](/stripes/bbwbwb/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3220
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3220](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3220)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2t4lb18n2lb2n41w2~x2/"><circle cx="424.1" cy="154.9" r="4" fill="#3465a4"><title>Haddrell (2013)</title></circle></a><a href="/variants/s7/r2db4lb18n2lb2n41w2~x2/"><circle cx="402.9" cy="146.9" r="4" fill="#3465a4"><title>Haddrell (2013)</title></circle></a><a href="/variants/s7/w1lb4t4db3w3t20lb1~x4/"><circle cx="470.0" cy="199.3" r="4" fill="#3465a4"><title>Starr (Name)</title></circle></a><a href="/variants/s7/w1lb4t4db3w3t20lb1~x4~t2205244-db1406275/"><circle cx="471.8" cy="197.4" r="4" fill="#3465a4"><title>Starr</title></circle></a><a href="/variants/s8/dbi2w2dbi43t5db4ly8db2w2~x2~dbi1404245-db1204274/"><circle cx="431.3" cy="145.3" r="4" fill="#3465a4"><title>Fife Flyers (Corporate)</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="443.8" cy="163.5" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s6/w2dr45y3db8dg8w2~x2/"><circle cx="448.0" cy="152.6" r="4" fill="#3465a4"><title>Glencross (Moniaive) (Personal)</title></circle></a><a href="/variants/s6/w2dr45y3dg8db8w2~x2/"><circle cx="445.4" cy="150.8" r="4" fill="#3465a4"><title>Glencross (Moniaive) (Personal)</title></circle></a><a href="/variants/s5/t50db15w3db4w2~x2/"><circle cx="516.7" cy="213.5" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990) (Corp)</title></circle></a><a href="/variants/s4/lb9db1w1y1~x20/"><circle cx="507.0" cy="236.9" r="4" fill="#3465a4"><title>Varrie Commemorative Tartan</title></circle></a><circle cx="581.1" cy="206.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2t4lb18n2lb2n41w2~x2/"><circle cx="424.1" cy="155.0" r="4" fill="#3465a4"><title>Haddrell (2013)</title></circle></a><a href="/variants/s7/r2db4lb18n2lb2n41w2~x2/"><circle cx="403.0" cy="147.1" r="4" fill="#3465a4"><title>Haddrell (2013)</title></circle></a><a href="/variants/s7/w1lb4t4db3w3t20lb1~x4/"><circle cx="470.1" cy="199.6" r="4" fill="#3465a4"><title>Starr (Name)</title></circle></a><a href="/variants/s7/w1lb4t4db3w3t20lb1~x4~t2205244-db1406275/"><circle cx="471.9" cy="197.6" r="4" fill="#3465a4"><title>Starr</title></circle></a><a href="/variants/s8/dbi2w2dbi43t5db4ly8db2w2~x2~dbi1404245-db1204274/"><circle cx="431.3" cy="145.5" r="4" fill="#3465a4"><title>Fife Flyers (Corporate)</title></circle></a><a href="/variants/s7/lb5dy6w2g7w2t44w2~x2/"><circle cx="443.8" cy="163.6" r="4" fill="#3465a4"><title>Leblant-Macqueron (Personal)</title></circle></a><a href="/variants/s6/w2dr45y3db8dg8w2~x2/"><circle cx="448.0" cy="152.8" r="4" fill="#3465a4"><title>Glencross (Moniaive) (Personal)</title></circle></a><a href="/variants/s6/w2dr45y3dg8db8w2~x2/"><circle cx="445.4" cy="151.0" r="4" fill="#3465a4"><title>Glencross (Moniaive) (Personal)</title></circle></a><a href="/variants/s5/t50db15w3db4w2~x2/"><circle cx="516.8" cy="213.9" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990) (Corp)</title></circle></a><a href="/variants/s4/lb9db1w1y1~x20/"><circle cx="507.2" cy="237.4" r="4" fill="#3465a4"><title>Varrie Commemorative Tartan</title></circle></a><circle cx="581.2" cy="206.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dr2lb2n18lb1n2db2~x4/

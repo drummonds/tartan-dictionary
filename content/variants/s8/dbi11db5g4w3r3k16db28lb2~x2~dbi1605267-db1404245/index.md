@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Scottish Italian"
   url: "/tartans/scottish-italian/"
+- name: "Scottish Italian"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dbi11db5g4w3r3k16db28lb2/)
 (the same proportion at any scale), whose colour order is pattern [BBGWRKBW](/stripes/bbgwrkbw/).
@@ -14,7 +16,7 @@ Part of the [Scottish Italian](/tartans/scottish-italian/) tartan — the named 
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11248
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11248](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11248)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/t11db5g4w3r3k16db28t2~x2/"><circle cx="168.0" cy="135.1" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><circle cx="139.6" cy="161.1" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/variants/s7/dp4db2lb8db25k8g13y4~x2/"><circle cx="137.1" cy="160.4" r="4" fill="#3465a4"><title>Renfrewshire Tartan</title></circle></a><a href="/variants/s9/dg32lb3p3lb3dg2k20db17r3y4~x2/"><circle cx="141.6" cy="112.1" r="4" fill="#3465a4"><title>Colorado American District Tartan</title></circle></a><a href="/variants/s7/dr4db2lb7db20k7g10y4~x2/"><circle cx="114.8" cy="175.3" r="4" fill="#3465a4"><title>Renfrewshire District Tartan</title></circle></a><a href="/variants/s8/r4n10k9dg2k9db33ki7g4~x2~ki0604259/"><circle cx="166.3" cy="125.2" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/variants/s9/dg32lb3lp3lb3dg2k20db17r3y4~x2/"><circle cx="136.0" cy="110.7" r="4" fill="#3465a4"><title>Colorado (District)</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12b3r1~x2/"><circle cx="98.7" cy="124.0" r="4" fill="#3465a4"><title>Fitzgerald, hunting</title></circle></a><a href="/variants/s8/r4n10k9o2k9dbi33db7g4~x2~dbi1406275-db1404245/"><circle cx="163.4" cy="122.2" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/variants/s8/r2lb5k4y1k4db16k3g2~x4/"><circle cx="160.1" cy="124.5" r="4" fill="#3465a4"><title>Arundel County (Dalgleish)</title></circle></a><circle cx="159.3" cy="125.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/t11db5g4w3r3k16db28t2~x2/"><circle cx="167.9" cy="135.3" r="4" fill="#3465a4"><title>Scottish Italian</title></circle></a><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><circle cx="139.6" cy="161.4" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><a href="/variants/s7/dp4db2lb8db25k8g13y4~x2/"><circle cx="137.1" cy="160.7" r="4" fill="#3465a4"><title>Renfrewshire Tartan</title></circle></a><a href="/variants/s9/dg32lb3p3lb3dg2k20db17r3y4~x2/"><circle cx="141.5" cy="112.2" r="4" fill="#3465a4"><title>Colorado American District Tartan</title></circle></a><a href="/variants/s7/dr4db2lb7db20k7g10y4~x2/"><circle cx="114.8" cy="175.7" r="4" fill="#3465a4"><title>Renfrewshire District Tartan</title></circle></a><a href="/variants/s8/r4n10k9dg2k9db33ki7g4~x2~ki0604259/"><circle cx="166.2" cy="125.3" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/variants/s9/dg32lb3lp3lb3dg2k20db17r3y4~x2/"><circle cx="135.9" cy="110.8" r="4" fill="#3465a4"><title>Colorado (District)</title></circle></a><a href="/variants/s11/w2db3lb3db13k13db4r2db4g12b3r1~x2/"><circle cx="98.6" cy="124.3" r="4" fill="#3465a4"><title>Fitzgerald, hunting</title></circle></a><a href="/variants/s8/r4n10k9o2k9dbi33db7g4~x2~dbi1406275-db1404245/"><circle cx="163.3" cy="122.3" r="4" fill="#3465a4"><title>Anne Arundel County</title></circle></a><a href="/variants/s8/r2lb5k4y1k4db16k3g2~x4/"><circle cx="160.0" cy="124.7" r="4" fill="#3465a4"><title>Arundel County (Dalgleish)</title></circle></a><circle cx="159.2" cy="125.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/dbi11db5g4w3r3k16db28lb2~x2~dbi1605267-db1404245/

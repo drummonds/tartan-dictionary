@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Lawrie"
   url: "/tartans/lawrie/"
+- name: "Lawrie"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp6dy2dp1dg25db16k2db4/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBKB](/stripes/bgbgbkb/).
@@ -14,7 +16,7 @@ Part of the [Lawrie](/tartans/lawrie/) tartan — the named design grouping this
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2070
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2070](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2070)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp6ly2dp1dg25db16k2db4~x2/"><circle cx="326.9" cy="162.6" r="4" fill="#3465a4"><title>Lowry</title></circle></a><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/"><circle cx="355.7" cy="171.3" r="4" fill="#3465a4"><title>Laurie</title></circle></a><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2~db1404245-dp1507327/"><circle cx="281.2" cy="231.4" r="4" fill="#3465a4"><title>Bennachie (Whisky)</title></circle></a><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2/"><circle cx="269.7" cy="225.9" r="4" fill="#3465a4"><title>Bennachie Whisky (Corporate)</title></circle></a><a href="/variants/s8/r4dg3k2dg38db30k3db3k3~x2/"><circle cx="351.4" cy="159.2" r="4" fill="#3465a4"><title>Peter of Lee</title></circle></a><a href="/variants/s6/dt45db7w3db27r1db7~x2/"><circle cx="461.0" cy="181.5" r="4" fill="#3465a4"><title>U.S. Navy/Edzell (Military)</title></circle></a><a href="/variants/s5/db37dg37n8k3dp5~x2/"><circle cx="334.6" cy="230.8" r="4" fill="#3465a4"><title>Dallard Personal Tartan</title></circle></a><a href="/variants/s6/db4w1db17dr28dp17r2~x2~r1908022/"><circle cx="374.6" cy="202.8" r="4" fill="#3465a4"><title>Sail Chalmadale</title></circle></a><a href="/variants/s5/k37dg37n8ki3dp5~x2~k0504259-ki0700000/"><circle cx="314.6" cy="221.7" r="4" fill="#3465a4"><title>Dallard (Personal)</title></circle></a><a href="/variants/s6/db4w1db17dr28dp17r2~x2/"><circle cx="365.8" cy="199.5" r="4" fill="#3465a4"><title>Sail Chalmadale (Fashion)</title></circle></a><circle cx="393.1" cy="185.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dp6ly2dp1dg25db16k2db4~x2/"><circle cx="326.9" cy="162.6" r="4" fill="#3465a4"><title>Lowry</title></circle></a><a href="/variants/s7/dp6r2dp1dg25db16k2db4~x2/"><circle cx="355.6" cy="171.2" r="4" fill="#3465a4"><title>Laurie</title></circle></a><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2~db1404245-dp1507327/"><circle cx="281.3" cy="231.6" r="4" fill="#3465a4"><title>Bennachie (Whisky)</title></circle></a><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2/"><circle cx="269.7" cy="226.1" r="4" fill="#3465a4"><title>Bennachie Whisky (Corporate)</title></circle></a><a href="/variants/s8/r4dg3k2dg38db30k3db3k3~x2/"><circle cx="351.3" cy="159.3" r="4" fill="#3465a4"><title>Peter of Lee</title></circle></a><a href="/variants/s6/dt45db7w3db27r1db7~x2/"><circle cx="460.9" cy="181.5" r="4" fill="#3465a4"><title>U.S. Navy/Edzell (Military)</title></circle></a><a href="/variants/s5/db37dg37n8k3dp5~x2/"><circle cx="334.7" cy="230.9" r="4" fill="#3465a4"><title>Dallard Personal Tartan</title></circle></a><a href="/variants/s6/db4w1db17dr28dp17r2~x2~r1908022/"><circle cx="374.7" cy="202.8" r="4" fill="#3465a4"><title>Sail Chalmadale</title></circle></a><a href="/variants/s5/k37dg37n8ki3dp5~x2~k0504259-ki0700000/"><circle cx="314.6" cy="221.9" r="4" fill="#3465a4"><title>Dallard (Personal)</title></circle></a><a href="/variants/s6/db4w1db17dr28dp17r2~x2/"><circle cx="365.8" cy="199.5" r="4" fill="#3465a4"><title>Sail Chalmadale (Fashion)</title></circle></a><circle cx="393.1" cy="185.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dp6dy2dp1dg25db16k2db4~x2/

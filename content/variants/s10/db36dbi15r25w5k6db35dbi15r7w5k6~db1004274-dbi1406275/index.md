@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Le Mirage (Corporate?)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db36dbi15r25w5k6db35dbi15r7w5k6/)
 (the same proportion at any scale), whose colour order is pattern [BBRWKBBRWK](/stripes/bbrwkbbrwk/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8073
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8073](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8073)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db18k3db5k3db18dg6k5dg6o12r5o12r3~x2~o2504058/"><circle cx="132.4" cy="191.7" r="4" fill="#3465a4"><title>Longford Irish County Tartan</title></circle></a><a href="/variants/s13/y8lb17dp5lb5dp5k10dp5lr5dp32k5dp5k4dp6~lb3201240-lr2800000/"><circle cx="188.4" cy="148.3" r="4" fill="#3465a4"><title>Life Goes On Foundation (Corporate)</title></circle></a><a href="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/"><circle cx="129.7" cy="189.1" r="4" fill="#3465a4"><title>Mount Isla</title></circle></a><a href="/variants/s8/w5db6r18k8lb5k4db27w3~x2/"><circle cx="139.7" cy="162.5" r="4" fill="#3465a4"><title>Clinton (Personal)</title></circle></a><a href="/variants/s11/r9k4w6k4db21y3db13k2w4k2r6~x2/"><circle cx="144.9" cy="145.4" r="4" fill="#3465a4"><title>Dauphinee (Trussville, Alabama) (Personal)</title></circle></a><a href="/variants/s11/n9db4n2db4n2db15n9db4r18k9y2~x2/"><circle cx="133.8" cy="175.2" r="4" fill="#3465a4"><title>Stephens</title></circle></a><a href="/variants/s10/db12w4r12w5k4o12db20r4db5r4~x2/"><circle cx="122.8" cy="197.1" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s11/r9k4w6k4db21ly3db13k2w4k2r6~x2/"><circle cx="142.7" cy="144.9" r="4" fill="#3465a4"><title>Dauphinee (Personal)</title></circle></a><a href="/variants/s6/db31lb4db6k19r20y4~x2/"><circle cx="157.9" cy="193.1" r="4" fill="#3465a4"><title>Fife (McGill)</title></circle></a><a href="/variants/s10/k11db14k4db14k12r13k3r3w2y2~x2/"><circle cx="119.0" cy="183.1" r="4" fill="#3465a4"><title>Huntley Fire Protection District</title></circle></a><circle cx="169.3" cy="181.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db18k3db5k3db18dg6k5dg6o12r5o12r3~x2~o2504058/"><circle cx="132.4" cy="192.1" r="4" fill="#3465a4"><title>Longford Irish County Tartan</title></circle></a><a href="/variants/s13/y8lb17dp5lb5dp5k10dp5lr5dp32k5dp5k4dp6~lb3201240-lr2800000/"><circle cx="188.4" cy="148.7" r="4" fill="#3465a4"><title>Life Goes On Foundation (Corporate)</title></circle></a><a href="/variants/s11/lo2k1dr6k2db7k2db7k2dr7k1lb2~x4/"><circle cx="129.7" cy="189.5" r="4" fill="#3465a4"><title>Mount Isla</title></circle></a><a href="/variants/s8/w5db6r18k8lb5k4db27w3~x2/"><circle cx="139.7" cy="163.0" r="4" fill="#3465a4"><title>Clinton (Personal)</title></circle></a><a href="/variants/s11/r9k4w6k4db21y3db13k2w4k2r6~x2/"><circle cx="144.9" cy="145.8" r="4" fill="#3465a4"><title>Dauphinee (Trussville, Alabama) (Personal)</title></circle></a><a href="/variants/s11/n9db4n2db4n2db15n9db4r18k9y2~x2/"><circle cx="133.8" cy="175.6" r="4" fill="#3465a4"><title>Stephens</title></circle></a><a href="/variants/s10/db12w4r12w5k4o12db20r4db5r4~x2/"><circle cx="122.9" cy="197.7" r="4" fill="#3465a4"><title>Commonwealth</title></circle></a><a href="/variants/s11/r9k4w6k4db21ly3db13k2w4k2r6~x2/"><circle cx="142.7" cy="145.3" r="4" fill="#3465a4"><title>Dauphinee (Personal)</title></circle></a><a href="/variants/s6/db31lb4db6k19r20y4~x2/"><circle cx="157.9" cy="193.6" r="4" fill="#3465a4"><title>Fife (McGill)</title></circle></a><a href="/variants/s10/k11db14k4db14k12r13k3r3w2y2~x2/"><circle cx="119.0" cy="183.6" r="4" fill="#3465a4"><title>Huntley Fire Protection District</title></circle></a><circle cx="169.3" cy="182.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/db36dbi15r25w5k6db35dbi15r7w5k6~db1004274-dbi1406275/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Burnett of Powis (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3g19dy3g19r3g3r21lb3/)
 (the same proportion at any scale), whose colour order is pattern [RGGGRGRW](/stripes/rgggrgrw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3951
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3951](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3951)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r2g6y1g6r3g2r16lb1~x4/"><circle cx="383.3" cy="175.2" r="4" fill="#3465a4"><title>Burnett of Leys Family Tartan</title></circle></a><a href="/variants/s8/r2g6y1g6r3g2r16db1~x4/"><circle cx="379.7" cy="173.9" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="324.7" cy="205.6" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s8/k1r9g2r2g4w1g4r1~x2/"><circle cx="258.7" cy="184.4" r="4" fill="#3465a4"><title>Comyn</title></circle></a><a href="/variants/s8/g9r2g2r2g2r8g11w2~x4/"><circle cx="357.5" cy="248.8" r="4" fill="#3465a4"><title>Leeds University Corporate Tartan</title></circle></a><a href="/variants/s7/r30g3db5g21r3g21db2~x2/"><circle cx="349.6" cy="207.4" r="4" fill="#3465a4"><title>Scottish Piping Soc. of London (Corp</title></circle></a><a href="/variants/s7/g1r8g8ri1g8r8w1~x2~r1906028-ri2109032/"><circle cx="315.1" cy="243.2" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s8/dg13ly2dg2ly2dg4o10g2o2~x4/"><circle cx="285.3" cy="222.9" r="4" fill="#3465a4"><title>Oakwood</title></circle></a><a href="/variants/s10/g5r4g17lt5r32lt5g17r4g5w2~x2/"><circle cx="294.3" cy="174.7" r="4" fill="#3465a4"><title>Wilson's No.005</title></circle></a><a href="/variants/s7/y1r3g7r3g7r3y1~x4/"><circle cx="352.6" cy="267.3" r="4" fill="#3465a4"><title>Unidentified #42</title></circle></a><circle cx="323.6" cy="219.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r2g6y1g6r3g2r16lb1~x4/"><circle cx="383.4" cy="175.5" r="4" fill="#3465a4"><title>Burnett of Leys Family Tartan</title></circle></a><a href="/variants/s8/r2g6y1g6r3g2r16db1~x4/"><circle cx="379.8" cy="174.3" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s8/r4g14ly3g14r4g3r29y4~x2/"><circle cx="324.8" cy="206.0" r="4" fill="#3465a4"><title>Burnett</title></circle></a><a href="/variants/s8/k1r9g2r2g4w1g4r1~x2/"><circle cx="258.7" cy="185.0" r="4" fill="#3465a4"><title>Comyn</title></circle></a><a href="/variants/s8/g9r2g2r2g2r8g11w2~x4/"><circle cx="357.7" cy="249.5" r="4" fill="#3465a4"><title>Leeds University Corporate Tartan</title></circle></a><a href="/variants/s7/r30g3db5g21r3g21db2~x2/"><circle cx="349.7" cy="207.9" r="4" fill="#3465a4"><title>Scottish Piping Soc. of London (Corp</title></circle></a><a href="/variants/s7/g1r8g8ri1g8r8w1~x2~r1906028-ri2109032/"><circle cx="315.3" cy="243.8" r="4" fill="#3465a4"><title>MacKinnon Hunting</title></circle></a><a href="/variants/s8/dg13ly2dg2ly2dg4o10g2o2~x4/"><circle cx="285.4" cy="223.4" r="4" fill="#3465a4"><title>Oakwood</title></circle></a><a href="/variants/s10/g5r4g17lt5r32lt5g17r4g5w2~x2/"><circle cx="294.3" cy="175.1" r="4" fill="#3465a4"><title>Wilson's No.005</title></circle></a><a href="/variants/s7/y1r3g7r3g7r3y1~x4/"><circle cx="352.8" cy="267.9" r="4" fill="#3465a4"><title>Unidentified #42</title></circle></a><circle cx="323.7" cy="220.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r3g19dy3g19r3g3r21lb3~x2/

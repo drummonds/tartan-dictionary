@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kinloch Anderson Rowanberry"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y7ri30dr4ri8dr4r12ri6r12ri28dr4ri8dr8ri8dr4/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBRRRRBRBRG](/stripes/brbrbrrrrbrbrg/).
 
 Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10884
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10884](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10884)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

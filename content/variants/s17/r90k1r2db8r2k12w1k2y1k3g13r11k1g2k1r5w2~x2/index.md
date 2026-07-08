@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scotia Village (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r90k1r2db8r2k12w1k2y1k3g13r11k1g2k1r5w2/)
 (the same proportion at any scale), whose colour order is pattern [RKRBRKWKGKGRKGKRW](/stripes/rkrbrkwkgkgrkgkrw/).
 
 Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8805
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8805](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8805)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r134lb10k14y2k3w3k3dg21r11k3r4w2/"><circle cx="411.8" cy="14.0" r="4" fill="#3465a4"><title>Royal Stewart - 1819</title></circle></a><a href="/variants/s12/r87db8k11y2k3w2k3g13r11k2r5w3/"><circle cx="379.1" cy="14.0" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal</title></circle></a><a href="/variants/s12/r70w2r1w4r1k2db9k1y2r1g9w3~x2/"><circle cx="411.2" cy="14.0" r="4" fill="#3465a4"><title>Brittish Lions Corporate Tartan</title></circle></a><a href="/variants/s13/r60k1r2y1g6db6r2o3r2db6g6y1k5~x2/"><circle cx="381.5" cy="14.0" r="4" fill="#3465a4"><title>Day (2016)</title></circle></a><a href="/variants/s18/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2~x2/"><circle cx="375.2" cy="14.0" r="4" fill="#3465a4"><title>MacFarhadian (Personal)</title></circle></a><a href="/variants/s13/r64k2r2k6g2k2g2n2g6r5g2k6y2~x2/"><circle cx="398.9" cy="26.4" r="4" fill="#3465a4"><title>Melrose (District)</title></circle></a><a href="/variants/s12/r66db2k11y4k2w4k11g2r8k2r8w2/"><circle cx="352.6" cy="23.3" r="4" fill="#3465a4"><title>TIlted Kilt</title></circle></a><a href="/variants/s20/r55dp1dy1r3dp7r3dy1dp1r3g16r3dp1dy1k3w1g5r3k2dp2w1~x2/"><circle cx="356.9" cy="14.0" r="4" fill="#3465a4"><title>Fennell Grandmothers (Personal)</title></circle></a><a href="/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/"><circle cx="350.4" cy="22.7" r="4" fill="#3465a4"><title>Tilted Kilt (Corporate)</title></circle></a><a href="/variants/s15/r80k1r2k3r2k1r3dg18k1w1db2y1db18lb3r12~x2/"><circle cx="374.4" cy="14.0" r="4" fill="#3465a4"><title>MacRae of Ardentoul</title></circle></a><circle cx="399.0" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/r134lb10k14y2k3w3k3dg21r11k3r4w2/"><circle cx="411.6" cy="14.0" r="4" fill="#3465a4"><title>Royal Stewart - 1819</title></circle></a><a href="/variants/s12/r87db8k11y2k3w2k3g13r11k2r5w3/"><circle cx="378.9" cy="14.0" r="4" fill="#3465a4"><title>Stewart/Stuart, Royal</title></circle></a><a href="/variants/s12/r70w2r1w4r1k2db9k1y2r1g9w3~x2/"><circle cx="411.0" cy="14.0" r="4" fill="#3465a4"><title>Brittish Lions Corporate Tartan</title></circle></a><a href="/variants/s13/r60k1r2y1g6db6r2o3r2db6g6y1k5~x2/"><circle cx="381.3" cy="14.0" r="4" fill="#3465a4"><title>Day (2016)</title></circle></a><a href="/variants/s18/r55dp1y1r3dp7r3y1dp1r3g16r3dp1y1k3w1g5r3k2~x2/"><circle cx="375.0" cy="14.0" r="4" fill="#3465a4"><title>MacFarhadian (Personal)</title></circle></a><a href="/variants/s13/r64k2r2k6g2k2g2n2g6r5g2k6y2~x2/"><circle cx="398.7" cy="26.5" r="4" fill="#3465a4"><title>Melrose (District)</title></circle></a><a href="/variants/s12/r66db2k11y4k2w4k11g2r8k2r8w2/"><circle cx="352.4" cy="23.3" r="4" fill="#3465a4"><title>TIlted Kilt</title></circle></a><a href="/variants/s20/r55dp1dy1r3dp7r3dy1dp1r3g16r3dp1dy1k3w1g5r3k2dp2w1~x2/"><circle cx="356.7" cy="14.0" r="4" fill="#3465a4"><title>Fennell Grandmothers (Personal)</title></circle></a><a href="/variants/s12/r66db2k11ly4k2w4k11g2r8k2r8w2/"><circle cx="350.3" cy="22.8" r="4" fill="#3465a4"><title>Tilted Kilt (Corporate)</title></circle></a><a href="/variants/s15/r80k1r2k3r2k1r3dg18k1w1db2y1db18lb3r12~x2/"><circle cx="374.1" cy="14.0" r="4" fill="#3465a4"><title>MacRae of Ardentoul</title></circle></a><circle cx="398.8" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/r90k1r2db8r2k12w1k2y1k3g13r11k1g2k1r5w2~x2/

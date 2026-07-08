@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Ryutokukan Junior High School"
   url: "/tartans/ryutokukan-junior-high-school/"
+- name: "Ryutokukan Junior High School (Corp)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr6dg13k5dr20w3/)
 (the same proportion at any scale), whose colour order is pattern [BGKBW](/stripes/bgkbw/).
@@ -14,7 +16,7 @@ Part of the [Ryutokukan Junior High School](/tartans/ryutokukan-junior-high-scho
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10647
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10647](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10647)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r6dg13k5r20w3~x2/"><circle cx="239.1" cy="218.4" r="4" fill="#3465a4"><title>Ryutokukan Junior High School</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="395.2" cy="189.6" r="4" fill="#3465a4"><title>Bacon, Red (Fashion)</title></circle></a><a href="/variants/s6/dr9k1dr5g6dr4k2~x4/"><circle cx="367.6" cy="242.3" r="4" fill="#3465a4"><title>MacAn of Lurgyvallan (Hose)</title></circle></a><a href="/variants/s6/g3k15dr8g2n8k2~x4/"><circle cx="183.6" cy="213.8" r="4" fill="#3465a4"><title>Lindsay Htg (Clan?)</title></circle></a><a href="/variants/s6/g3k15r8g2n8k2~x4/"><circle cx="164.7" cy="204.3" r="4" fill="#3465a4"><title>Thompson Black (Fashion)</title></circle></a><a href="/variants/s5/dg37k22w4r15y3~x2/"><circle cx="188.1" cy="181.8" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s5/r17db7y8dg58k6~x2/"><circle cx="318.9" cy="183.0" r="4" fill="#3465a4"><title>St Johns County's Sheriff's Office</title></circle></a><a href="/variants/s5/r1k8dg2db4r1~x8/"><circle cx="232.7" cy="208.2" r="4" fill="#3465a4"><title>Nairn</title></circle></a><a href="/variants/s5/r1k8g2db4r1~x8/"><circle cx="212.8" cy="203.0" r="4" fill="#3465a4"><title>Nairn (Name)</title></circle></a><a href="/variants/s5/r1k8g2db4r1~x4/"><circle cx="212.8" cy="203.0" r="4" fill="#3465a4"><title>Nairn</title></circle></a><circle cx="274.2" cy="238.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r6dg13k5r20w3~x2/"><circle cx="239.2" cy="219.1" r="4" fill="#3465a4"><title>Ryutokukan Junior High School</title></circle></a><a href="/variants/s4/dr14k3dg3w1~x2/"><circle cx="395.3" cy="190.1" r="4" fill="#3465a4"><title>Bacon, Red (Fashion)</title></circle></a><a href="/variants/s6/dr9k1dr5g6dr4k2~x4/"><circle cx="367.8" cy="242.9" r="4" fill="#3465a4"><title>MacAn of Lurgyvallan (Hose)</title></circle></a><a href="/variants/s6/g3k15dr8g2n8k2~x4/"><circle cx="183.6" cy="214.3" r="4" fill="#3465a4"><title>Lindsay Htg (Clan?)</title></circle></a><a href="/variants/s6/g3k15r8g2n8k2~x4/"><circle cx="164.7" cy="204.9" r="4" fill="#3465a4"><title>Thompson Black (Fashion)</title></circle></a><a href="/variants/s5/dg37k22w4r15y3~x2/"><circle cx="188.1" cy="182.3" r="4" fill="#3465a4"><title>Oakley (2015)</title></circle></a><a href="/variants/s5/r17db7y8dg58k6~x2/"><circle cx="319.0" cy="183.4" r="4" fill="#3465a4"><title>St Johns County's Sheriff's Office</title></circle></a><a href="/variants/s5/r1k8dg2db4r1~x8/"><circle cx="232.8" cy="208.7" r="4" fill="#3465a4"><title>Nairn</title></circle></a><a href="/variants/s5/r1k8g2db4r1~x8/"><circle cx="212.8" cy="203.5" r="4" fill="#3465a4"><title>Nairn (Name)</title></circle></a><a href="/variants/s5/r1k8g2db4r1~x4/"><circle cx="212.8" cy="203.5" r="4" fill="#3465a4"><title>Nairn</title></circle></a><circle cx="274.3" cy="239.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/dr6dg13k5dr20w3~x2/

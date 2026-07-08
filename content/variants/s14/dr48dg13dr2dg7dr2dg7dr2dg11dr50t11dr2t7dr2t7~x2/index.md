@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified Plaid"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr48dg13dr2dg7dr2dg7dr2dg11dr50t11dr2t7dr2t7/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBBGBGBGBGB](/stripes/bbbbbbgbgbgbgb/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4342
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4342](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4342)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50b11dr2b7dr2b7~x2~dr1404346-dg1601120/"><circle cx="579.6" cy="192.7" r="4" fill="#3465a4"><title>Unidentified Plaid 2</title></circle></a><a href="/variants/s14/dr12db1dr1g8dr2db1dr1db3dr1db1dr12g1dr1g8~x4/"><circle cx="389.8" cy="192.6" r="4" fill="#3465a4"><title>MacDonald of Aird &amp; Valley (Clan?)</title></circle></a><a href="/variants/s11/y6db8dr24db54y4dr130y4db54dr24db8y3/"><circle cx="524.3" cy="163.2" r="4" fill="#3465a4"><title>Bell's (Corporate)</title></circle></a><a href="/variants/s10/dr3n30g8dr2g2dr2g2dr8n7dr2~x2/"><circle cx="476.3" cy="215.7" r="4" fill="#3465a4"><title>Gray Family Tartan</title></circle></a><a href="/variants/s7/dr7dt1dr26dt31w1dt1w2~x2/"><circle cx="519.3" cy="199.5" r="4" fill="#3465a4"><title>Greater Victoria Police PB</title></circle></a><circle cx="521.5" cy="174.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50b11dr2b7dr2b7~x2~dr1404346-dg1601120/"><circle cx="579.6" cy="192.6" r="4" fill="#3465a4"><title>Unidentified Plaid 2</title></circle></a><a href="/variants/s14/dr12db1dr1g8dr2db1dr1db3dr1db1dr12g1dr1g8~x4/"><circle cx="389.9" cy="192.9" r="4" fill="#3465a4"><title>MacDonald of Aird &amp; Valley (Clan?)</title></circle></a><a href="/variants/s11/y6db8dr24db54y4dr130y4db54dr24db8y3/"><circle cx="524.3" cy="163.1" r="4" fill="#3465a4"><title>Bell's (Corporate)</title></circle></a><a href="/variants/s10/dr3n30g8dr2g2dr2g2dr8n7dr2~x2/"><circle cx="476.4" cy="215.9" r="4" fill="#3465a4"><title>Gray Family Tartan</title></circle></a><a href="/variants/s7/dr7dt1dr26dt31w1dt1w2~x2/"><circle cx="519.4" cy="199.5" r="4" fill="#3465a4"><title>Greater Victoria Police PB</title></circle></a><circle cx="521.5" cy="174.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/dr48dg13dr2dg7dr2dg7dr2dg11dr50t11dr2t7dr2t7~x2/

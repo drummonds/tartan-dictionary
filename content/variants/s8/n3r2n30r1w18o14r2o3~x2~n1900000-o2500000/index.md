@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bannockbane Variant"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n3r2n30r1w18o14r2o3/)
 (the same proportion at any scale), whose colour order is pattern [BRBRWRRR](/stripes/brbrwrrr/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5009
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5009](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5009)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/o9w9o9n25o1w1o1w1g3~x2~o2500000-n1900000/"><circle cx="306.7" cy="160.2" r="4" fill="#3465a4"><title>Ailsa, Grey (Fashion)</title></circle></a><a href="/variants/s7/n2dr10n10o3dr2lb24w2~x2~n1900000-o2500000/"><circle cx="237.9" cy="178.1" r="4" fill="#3465a4"><title>Un-named Dutch</title></circle></a><a href="/variants/s8/ly3dy12do14r4do1lb26do2dy1~x2/"><circle cx="227.5" cy="135.1" r="4" fill="#3465a4"><title>Turnberry</title></circle></a><a href="/variants/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="235.9" cy="149.6" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/variants/s8/db3r2db30r1w18o30r2o3~x2/"><circle cx="229.1" cy="133.1" r="4" fill="#3465a4"><title>Bannockbane Navy</title></circle></a><a href="/variants/s7/lo1db14r28g14r1g14lo1~x2/"><circle cx="268.6" cy="165.5" r="4" fill="#3465a4"><title>Abernethy (Colerain USA) (Personal)</title></circle></a><a href="/variants/s10/n32k5w3n3w3n7r5k1r17w3~x2/"><circle cx="299.1" cy="104.7" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s9/g3r12g15r2w1db30w1g2r2~x2/"><circle cx="279.7" cy="127.4" r="4" fill="#3465a4"><title>Christmas Morning</title></circle></a><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/"><circle cx="249.1" cy="126.8" r="4" fill="#3465a4"><title>Ben Ledi (Fashion)</title></circle></a><a href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/"><circle cx="229.3" cy="137.0" r="4" fill="#3465a4"><title>Michigan, State of</title></circle></a><circle cx="289.8" cy="146.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/o9w9o9n25o1w1o1w1g3~x2~o2500000-n1900000/"><circle cx="306.7" cy="160.4" r="4" fill="#3465a4"><title>Ailsa, Grey (Fashion)</title></circle></a><a href="/variants/s7/n2dr10n10o3dr2lb24w2~x2~n1900000-o2500000/"><circle cx="237.9" cy="178.5" r="4" fill="#3465a4"><title>Un-named Dutch</title></circle></a><a href="/variants/s8/ly3dy12do14r4do1lb26do2dy1~x2/"><circle cx="227.5" cy="135.4" r="4" fill="#3465a4"><title>Turnberry</title></circle></a><a href="/variants/s8/g3r12g12o5r1w25g2r1~x2/"><circle cx="235.9" cy="150.0" r="4" fill="#3465a4"><title>Dogwood</title></circle></a><a href="/variants/s8/db3r2db30r1w18o30r2o3~x2/"><circle cx="229.1" cy="133.4" r="4" fill="#3465a4"><title>Bannockbane Navy</title></circle></a><a href="/variants/s7/lo1db14r28g14r1g14lo1~x2/"><circle cx="268.6" cy="165.9" r="4" fill="#3465a4"><title>Abernethy (Colerain USA) (Personal)</title></circle></a><a href="/variants/s10/n32k5w3n3w3n7r5k1r17w3~x2/"><circle cx="299.0" cy="105.0" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s9/g3r12g15r2w1db30w1g2r2~x2/"><circle cx="279.6" cy="127.6" r="4" fill="#3465a4"><title>Christmas Morning</title></circle></a><a href="/variants/s11/w60o3w3o8w3o3dg24n12o3n16o4/"><circle cx="249.0" cy="127.1" r="4" fill="#3465a4"><title>Ben Ledi (Fashion)</title></circle></a><a href="/variants/s10/lb18w1lb4w1ly4dg1ly2dg12r2dg4~x2/"><circle cx="229.3" cy="137.3" r="4" fill="#3465a4"><title>Michigan, State of</title></circle></a><circle cx="289.8" cy="146.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/n3r2n30r1w18o14r2o3~x2~n1900000-o2500000/

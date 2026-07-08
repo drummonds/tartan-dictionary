@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Queens University, of Ontario"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db54y9db16y2dp3w3dp3r27db13y3g5w2/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBWBRBGGW](/stripes/bgbgbwbrbggw/).
 
 Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -62,8 +64,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db54ly9db16ly2dp3w3dp3dr27db13ly3g5w2~x2/"><circle cx="339.9" cy="107.8" r="4" fill="#3465a4"><title>Queen's University Ont. (Corporate)</title></circle></a><a href="/variants/s10/dp4db16y1db1y1db5y4g4w4r4~x2/"><circle cx="215.1" cy="138.8" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/"><circle cx="256.9" cy="119.8" r="4" fill="#3465a4"><title>Yukon (asymmetric)</title></circle></a><a href="/variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/"><circle cx="339.5" cy="77.4" r="4" fill="#3465a4"><title>Lady Diana Plaid</title></circle></a><a href="/variants/s12/db46r3db7do2y2do2w2do11o6db2o3w2~x2/"><circle cx="365.9" cy="84.8" r="4" fill="#3465a4"><title>Lady Diana, Plaid</title></circle></a><a href="/variants/s12/dbi4dp8dbi3dp2dbi64lb24r4db3lb4db3w8r4~dbi1003265-db0906265/"><circle cx="281.5" cy="64.3" r="4" fill="#3465a4"><title>Royal Navy</title></circle></a><a href="/variants/s14/db40g10lo1g5r5w1r2w1r5g5lo1g10db40y2~x2~db1406275/"><circle cx="373.5" cy="67.8" r="4" fill="#3465a4"><title>St. Andrew Quebec City</title></circle></a><a href="/variants/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/"><circle cx="300.3" cy="117.5" r="4" fill="#3465a4"><title>Solway Spirit (District)</title></circle></a><a href="/variants/s9/w2db2w1db40r3ly1r10dg10r1~x2/"><circle cx="370.4" cy="84.4" r="4" fill="#3465a4"><title>Russian Scottish (District)</title></circle></a><a href="/variants/s14/y8lb8r8db2r3db2r3db3r2db3r2db52lb2w8/"><circle cx="320.0" cy="73.8" r="4" fill="#3465a4"><title>Kiltwalk</title></circle></a><circle cx="321.2" cy="90.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db54ly9db16ly2dp3w3dp3dr27db13ly3g5w2~x2/"><circle cx="339.8" cy="107.8" r="4" fill="#3465a4"><title>Queen's University Ont. (Corporate)</title></circle></a><a href="/variants/s10/dp4db16y1db1y1db5y4g4w4r4~x2/"><circle cx="215.1" cy="139.0" r="4" fill="#3465a4"><title>Yukon</title></circle></a><a href="/variants/s10/dp4db20y1db2y1db4y4g4w4r4~x2/"><circle cx="256.8" cy="119.9" r="4" fill="#3465a4"><title>Yukon (asymmetric)</title></circle></a><a href="/variants/s12/db46r3db7do2y2do2w2do11ly6db2ly3w2~x2/"><circle cx="339.4" cy="77.4" r="4" fill="#3465a4"><title>Lady Diana Plaid</title></circle></a><a href="/variants/s12/db46r3db7do2y2do2w2do11o6db2o3w2~x2/"><circle cx="365.8" cy="84.8" r="4" fill="#3465a4"><title>Lady Diana, Plaid</title></circle></a><a href="/variants/s12/dbi4dp8dbi3dp2dbi64lb24r4db3lb4db3w8r4~dbi1003265-db0906265/"><circle cx="281.4" cy="64.4" r="4" fill="#3465a4"><title>Royal Navy</title></circle></a><a href="/variants/s14/db40g10lo1g5r5w1r2w1r5g5lo1g10db40y2~x2~db1406275/"><circle cx="373.3" cy="67.7" r="4" fill="#3465a4"><title>St. Andrew Quebec City</title></circle></a><a href="/variants/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/"><circle cx="300.2" cy="117.6" r="4" fill="#3465a4"><title>Solway Spirit (District)</title></circle></a><a href="/variants/s9/w2db2w1db40r3ly1r10dg10r1~x2/"><circle cx="370.3" cy="84.4" r="4" fill="#3465a4"><title>Russian Scottish (District)</title></circle></a><a href="/variants/s14/y8lb8r8db2r3db2r3db3r2db3r2db52lb2w8/"><circle cx="319.9" cy="73.9" r="4" fill="#3465a4"><title>Kiltwalk</title></circle></a><circle cx="321.1" cy="90.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db54y9db16y2dp3w3dp3r27db13y3g5w2/

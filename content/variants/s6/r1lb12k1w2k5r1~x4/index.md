@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rui (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1lb12k1w2k5r1/)
 (the same proportion at any scale), whose colour order is pattern [RKWKWR](/stripes/rkwkwr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3617
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3617](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3617)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="136.7" cy="179.4" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, dress</title></circle></a><a href="/variants/s5/k11lb38r11g11k5~x2/"><circle cx="183.2" cy="205.2" r="4" fill="#3465a4"><title>All as One (Corporate)</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="176.8" cy="157.9" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/"><circle cx="204.2" cy="173.8" r="4" fill="#3465a4"><title>Yusra Personal Tartan</title></circle></a><a href="/variants/s5/k8dy2t21w3r2~x4/"><circle cx="248.7" cy="167.6" r="4" fill="#3465a4"><title>Oklahoma (US State)</title></circle></a><a href="/variants/s5/k8y2t21w3r2~x4~t2205244/"><circle cx="251.5" cy="166.7" r="4" fill="#3465a4"><title>Oklahoma State American District Tartan</title></circle></a><a href="/variants/s7/k10lb30g3lb3g3lb3r6~x2/"><circle cx="283.3" cy="157.6" r="4" fill="#3465a4"><title>Kinding (Personal)</title></circle></a><a href="/variants/s6/r2w30k15y2k15r2~x2/"><circle cx="216.3" cy="157.6" r="4" fill="#3465a4"><title>Brodie (WCWM)</title></circle></a><a href="/variants/s6/r1w14k6w1k3y1~x4/"><circle cx="274.7" cy="150.6" r="4" fill="#3465a4"><title>MacPherson #10</title></circle></a><a href="/variants/s7/k3lb10dy5lb29k10r6k2~x2/"><circle cx="264.4" cy="150.7" r="4" fill="#3465a4"><title>Perkins 2015</title></circle></a><circle cx="242.1" cy="154.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r4lb28k6w12k12y3~x2/"><circle cx="136.7" cy="180.0" r="4" fill="#3465a4"><title>MacTavish / Thom(p)son, dress</title></circle></a><a href="/variants/s5/k11lb38r11g11k5~x2/"><circle cx="183.3" cy="205.8" r="4" fill="#3465a4"><title>All as One (Corporate)</title></circle></a><a href="/variants/s6/dr24lb4k4g4w13k2~x4/"><circle cx="176.8" cy="158.4" r="4" fill="#3465a4"><title>Rose White Dress</title></circle></a><a href="/variants/s7/r12k3w14db10k2db24r2~x2~r2109032/"><circle cx="204.3" cy="174.3" r="4" fill="#3465a4"><title>Yusra Personal Tartan</title></circle></a><a href="/variants/s5/k8dy2t21w3r2~x4/"><circle cx="248.7" cy="168.1" r="4" fill="#3465a4"><title>Oklahoma (US State)</title></circle></a><a href="/variants/s5/k8y2t21w3r2~x4~t2205244/"><circle cx="251.5" cy="167.1" r="4" fill="#3465a4"><title>Oklahoma State American District Tartan</title></circle></a><a href="/variants/s7/k10lb30g3lb3g3lb3r6~x2/"><circle cx="283.3" cy="158.2" r="4" fill="#3465a4"><title>Kinding (Personal)</title></circle></a><a href="/variants/s6/r2w30k15y2k15r2~x2/"><circle cx="216.3" cy="158.1" r="4" fill="#3465a4"><title>Brodie (WCWM)</title></circle></a><a href="/variants/s6/r1w14k6w1k3y1~x4/"><circle cx="274.7" cy="151.2" r="4" fill="#3465a4"><title>MacPherson #10</title></circle></a><a href="/variants/s7/k3lb10dy5lb29k10r6k2~x2/"><circle cx="264.4" cy="151.2" r="4" fill="#3465a4"><title>Perkins 2015</title></circle></a><circle cx="242.1" cy="155.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r1lb12k1w2k5r1~x4/

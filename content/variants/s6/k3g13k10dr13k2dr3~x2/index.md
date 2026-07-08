@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacCormick (Dress)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3g13k10dr13k2dr3/)
 (the same proportion at any scale), whose colour order is pattern [BKBKGK](/stripes/bkbkgk/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2323
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2323](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2323)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3g13k10r13k2r3~x2/"><circle cx="151.0" cy="230.9" r="4" fill="#3465a4"><title>MacCormick, dress</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3~x2/"><circle cx="157.0" cy="206.4" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3/"><circle cx="157.0" cy="206.4" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s7/r4k4dt24k24g24k2r3~x2/"><circle cx="156.6" cy="182.2" r="4" fill="#3465a4"><title>Black Watch (Coarse Kilt)</title></circle></a><a href="/variants/s6/k14g80k80g9dp82g14/"><circle cx="181.5" cy="220.9" r="4" fill="#3465a4"><title>MacKay Plaid</title></circle></a><a href="/variants/s6/y3dg6k6y4r1y1~x2/"><circle cx="147.6" cy="241.1" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.8" cy="200.6" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s5/k3dg20k20g20k3~x2/"><circle cx="176.6" cy="252.4" r="4" fill="#3465a4"><title>MacCormick Hunting (Name)</title></circle></a><a href="/variants/s6/dy7k2dy12k10g12k3~x2/"><circle cx="184.5" cy="265.3" r="4" fill="#3465a4"><title>Brown Watch (single tramlines)</title></circle></a><a href="/variants/s6/k3g14k14g2db14r3/"><circle cx="126.5" cy="223.0" r="4" fill="#3465a4"><title>Morrison</title></circle></a><circle cx="172.7" cy="243.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k3g13k10r13k2r3~x2/"><circle cx="151.1" cy="231.7" r="4" fill="#3465a4"><title>MacCormick, dress</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3~x2/"><circle cx="157.0" cy="206.9" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s6/k5w2g18k17dr16k3/"><circle cx="157.0" cy="206.9" r="4" fill="#3465a4"><title>Melville</title></circle></a><a href="/variants/s7/r4k4dt24k24g24k2r3~x2/"><circle cx="156.6" cy="182.7" r="4" fill="#3465a4"><title>Black Watch (Coarse Kilt)</title></circle></a><a href="/variants/s6/k14g80k80g9dp82g14/"><circle cx="181.6" cy="221.5" r="4" fill="#3465a4"><title>MacKay Plaid</title></circle></a><a href="/variants/s6/y3dg6k6y4r1y1~x2/"><circle cx="147.7" cy="241.8" r="4" fill="#3465a4"><title>Waterloo</title></circle></a><a href="/variants/s9/lb2dr12k4dr2k2dr2k6g5lb2~x2/"><circle cx="163.9" cy="201.2" r="4" fill="#3465a4"><title>O'Neill (District)</title></circle></a><a href="/variants/s5/k3dg20k20g20k3~x2/"><circle cx="176.7" cy="253.0" r="4" fill="#3465a4"><title>MacCormick Hunting (Name)</title></circle></a><a href="/variants/s6/dy7k2dy12k10g12k3~x2/"><circle cx="184.6" cy="266.0" r="4" fill="#3465a4"><title>Brown Watch (single tramlines)</title></circle></a><a href="/variants/s6/k3g14k14g2db14r3/"><circle cx="126.6" cy="223.6" r="4" fill="#3465a4"><title>Morrison</title></circle></a><circle cx="172.8" cy="244.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k3g13k10dr13k2dr3~x2/

@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/clark/"
 - name: "Clark"
   url: "/tartans/clark/"
+- name: "Clark, Red"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db13k4y4k4r13/)
 (the same proportion at any scale), whose colour order is pattern [KGKBKGKR](/stripes/kgkbkgkr/).
@@ -16,7 +18,7 @@ Part of the [Clark](/tartans/clark/) tartan — the named design grouping this s
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=668
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=668](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=668)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -63,8 +65,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr3k1g1k1db3~x16/"><circle cx="135.0" cy="288.2" r="4" fill="#3465a4"><title>Clark Clerk(e)</title></circle></a><a href="/variants/s5/r3k1g1k1lb3~x8/"><circle cx="79.0" cy="266.1" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s5/r3k1g1k1lb3~x4/"><circle cx="79.0" cy="266.1" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s6/db5k1g1k1r3k1~x4/"><circle cx="156.4" cy="219.5" r="4" fill="#3465a4"><title>Clerk</title></circle></a><a href="/variants/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/"><circle cx="43.3" cy="240.4" r="4" fill="#3465a4"><title>MacInroy Clan Tartan</title></circle></a><a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x4/"><circle cx="38.3" cy="241.9" r="4" fill="#3465a4"><title>MacInroy</title></circle></a><a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x8/"><circle cx="38.3" cy="241.9" r="4" fill="#3465a4"><title>MacInroy (Clan)</title></circle></a><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/"><circle cx="95.7" cy="228.8" r="4" fill="#3465a4"><title>Holden Monaro Corporate Tartan</title></circle></a><a href="/variants/s6/k3g10k10r3db8w3~x2/"><circle cx="47.4" cy="248.6" r="4" fill="#3465a4"><title>Russell (Clan)</title></circle></a><a href="/variants/s7/y3db22k3db3k11r20y3~x2/"><circle cx="162.8" cy="191.8" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><circle cx="78.4" cy="237.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dr3k1g1k1db3~x16/"><circle cx="135.2" cy="288.9" r="4" fill="#3465a4"><title>Clark Clerk(e)</title></circle></a><a href="/variants/s5/r3k1g1k1lb3~x8/"><circle cx="79.1" cy="267.0" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s5/r3k1g1k1lb3~x4/"><circle cx="79.1" cy="267.0" r="4" fill="#3465a4"><title>Clark</title></circle></a><a href="/variants/s6/db5k1g1k1r3k1~x4/"><circle cx="156.5" cy="220.1" r="4" fill="#3465a4"><title>Clerk</title></circle></a><a href="/variants/s10/k1g3k3r1dp3r1dp1r3g1k1~x4/"><circle cx="43.4" cy="241.1" r="4" fill="#3465a4"><title>MacInroy Clan Tartan</title></circle></a><a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x4/"><circle cx="38.4" cy="242.6" r="4" fill="#3465a4"><title>MacInroy</title></circle></a><a href="/variants/s10/k1g3k3r1db3r1db1r3g1k1~x8/"><circle cx="38.4" cy="242.6" r="4" fill="#3465a4"><title>MacInroy (Clan)</title></circle></a><a href="/variants/s8/lr10k3lr3k3lr3k11dy11o3~x2~o2005023/"><circle cx="95.8" cy="229.6" r="4" fill="#3465a4"><title>Holden Monaro Corporate Tartan</title></circle></a><a href="/variants/s6/k3g10k10r3db8w3~x2/"><circle cx="47.5" cy="249.3" r="4" fill="#3465a4"><title>Russell (Clan)</title></circle></a><a href="/variants/s7/y3db22k3db3k11r20y3~x2/"><circle cx="162.9" cy="192.3" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><circle cx="78.5" cy="238.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/db13k4y4k4r13~x4/

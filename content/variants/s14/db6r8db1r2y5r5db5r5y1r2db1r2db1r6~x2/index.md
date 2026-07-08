@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Munro (Culloden)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db6r8db1r2y5r5db5r5y1r2db1r2db1r6/)
 (the same proportion at any scale), whose colour order is pattern [BRBRGRBRGRBRBR](/stripes/brbrgrbrgrbrbr/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3050
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3050](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3050)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db12r16db2r4y10r10db10r10y2r4db2r4db1r12/"><circle cx="359.5" cy="185.9" r="4" fill="#3465a4"><title>Munro Old Artifact Tartan</title></circle></a><a href="/variants/s12/r9g2r3g2r9g3r3db3r3g3r3db3~x2/"><circle cx="340.9" cy="243.3" r="4" fill="#3465a4"><title>Unidentified Early 18th Centuary #2</title></circle></a><a href="/variants/s8/r15db8r2db8r2db8r15w2~x4~db1406275-w3600000/"><circle cx="345.9" cy="235.0" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/variants/s19/db15r39g15r7db39r4g4r39g4r4g4r39g4r4db39r7g15r39db14/"><circle cx="298.4" cy="172.5" r="4" fill="#3465a4"><title>Na Fir Dileas</title></circle></a><a href="/variants/s9/r5dp10r20g2r20g10r5g10r5~x2/"><circle cx="373.9" cy="225.0" r="4" fill="#3465a4"><title>Murray, Lord George (Plaid)</title></circle></a><a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x4/"><circle cx="280.6" cy="204.7" r="4" fill="#3465a4"><title>Cameron of Locheil #2</title></circle></a><a href="/variants/s9/r6g3r6db1w1db1r2db8r4/"><circle cx="280.6" cy="204.7" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x2/"><circle cx="280.6" cy="204.7" r="4" fill="#3465a4"><title>Cameron of Lochiel</title></circle></a><a href="/variants/s9/dg1r5dg4r1dg1r1db4r5db1~x12/"><circle cx="276.9" cy="244.0" r="4" fill="#3465a4"><title>Lumsden of Kintore (Clan?)</title></circle></a><a href="/variants/s9/db25r46w11r11w7r11w11r46db12/"><circle cx="327.0" cy="217.8" r="4" fill="#3465a4"><title>Twilfit</title></circle></a><circle cx="332.5" cy="213.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/db12r16db2r4y10r10db10r10y2r4db2r4db1r12/"><circle cx="359.6" cy="186.4" r="4" fill="#3465a4"><title>Munro Old Artifact Tartan</title></circle></a><a href="/variants/s12/r9g2r3g2r9g3r3db3r3g3r3db3~x2/"><circle cx="341.1" cy="244.0" r="4" fill="#3465a4"><title>Unidentified Early 18th Centuary #2</title></circle></a><a href="/variants/s8/r15db8r2db8r2db8r15w2~x4~db1406275-w3600000/"><circle cx="346.1" cy="235.6" r="4" fill="#3465a4"><title>Hamilton</title></circle></a><a href="/variants/s19/db15r39g15r7db39r4g4r39g4r4g4r39g4r4db39r7g15r39db14/"><circle cx="298.5" cy="172.9" r="4" fill="#3465a4"><title>Na Fir Dileas</title></circle></a><a href="/variants/s9/r5dp10r20g2r20g10r5g10r5~x2/"><circle cx="374.1" cy="225.6" r="4" fill="#3465a4"><title>Murray, Lord George (Plaid)</title></circle></a><a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x4/"><circle cx="280.7" cy="205.3" r="4" fill="#3465a4"><title>Cameron of Locheil #2</title></circle></a><a href="/variants/s9/r6g3r6db1w1db1r2db8r4/"><circle cx="280.7" cy="205.3" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/variants/s9/r6g3r6db1w1db1r2db8r4~x2/"><circle cx="280.7" cy="205.3" r="4" fill="#3465a4"><title>Cameron of Lochiel</title></circle></a><a href="/variants/s9/dg1r5dg4r1dg1r1db4r5db1~x12/"><circle cx="277.1" cy="244.7" r="4" fill="#3465a4"><title>Lumsden of Kintore (Clan?)</title></circle></a><a href="/variants/s9/db25r46w11r11w7r11w11r46db12/"><circle cx="327.2" cy="218.6" r="4" fill="#3465a4"><title>Twilfit</title></circle></a><circle cx="332.7" cy="213.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/db6r8db1r2y5r5db5r5y1r2db1r2db1r6~x2/

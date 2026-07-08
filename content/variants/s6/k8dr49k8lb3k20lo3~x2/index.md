@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/dunbar/"
 - name: "Dunbar"
   url: "/tartans/dunbar/"
+- name: "Dunbar (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k8dr49k8lb3k20lo3/)
 (the same proportion at any scale), whose colour order is pattern [KBKWKY](/stripes/kbkwky/).
@@ -16,7 +18,7 @@ Part of the [Dunbar](/tartans/dunbar/) tartan — the named design grouping this
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2011
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2011](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2011)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -77,8 +79,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db1r12k6y1k6db1~x4/"><circle cx="227.4" cy="166.7" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="340.2" cy="106.5" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="274.0" cy="132.7" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="257.2" cy="132.8" r="4" fill="#3465a4"><title>Cunard o' the Clyde</title></circle></a><a href="/variants/s6/k2r6k2r6k12y1~x4/"><circle cx="289.7" cy="186.1" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/variants/s6/k2r6k2r6k12y1~x2/"><circle cx="289.7" cy="186.1" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="140.7" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/o6do36k48r4k5y6/"><circle cx="257.8" cy="159.4" r="4" fill="#3465a4"><title>Drambuie hunting</title></circle></a><a href="/variants/s6/ly6do36k48r4k5lyi6~ly2503076-lyi2705081/"><circle cx="244.7" cy="155.5" r="4" fill="#3465a4"><title>Drambuie Hunting</title></circle></a><a href="/variants/s7/k4r5k4dr28k4g5k4~x2/"><circle cx="259.0" cy="177.6" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><circle cx="325.8" cy="157.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db1r12k6y1k6db1~x4/"><circle cx="227.4" cy="167.2" r="4" fill="#3465a4"><title>Cetoloni (Personal)</title></circle></a><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="340.2" cy="106.8" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="273.9" cy="133.1" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s8/r10k3w1k15ly1w3k3ly1~x4/"><circle cx="257.2" cy="133.2" r="4" fill="#3465a4"><title>Cunard o' the Clyde</title></circle></a><a href="/variants/s6/k2r6k2r6k12y1~x4/"><circle cx="289.8" cy="186.7" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/variants/s6/k2r6k2r6k12y1~x2/"><circle cx="289.8" cy="186.7" r="4" fill="#3465a4"><title>MacQueen</title></circle></a><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="141.2" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/o6do36k48r4k5y6/"><circle cx="257.7" cy="159.7" r="4" fill="#3465a4"><title>Drambuie hunting</title></circle></a><a href="/variants/s6/ly6do36k48r4k5lyi6~ly2503076-lyi2705081/"><circle cx="244.6" cy="155.9" r="4" fill="#3465a4"><title>Drambuie Hunting</title></circle></a><a href="/variants/s7/k4r5k4dr28k4g5k4~x2/"><circle cx="259.0" cy="178.0" r="4" fill="#3465a4"><title>Montgomery</title></circle></a><circle cx="325.8" cy="158.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k8dr49k8lb3k20lo3~x2/

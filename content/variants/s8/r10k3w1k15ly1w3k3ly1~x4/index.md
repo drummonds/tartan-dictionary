@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Cunard o' the Clyde"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r10k3w1k15ly1w3k3ly1/)
 (the same proportion at any scale), whose colour order is pattern [RKWKYWKY](/stripes/rkwkywky/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11296
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11296](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11296)
 
 ## Provenance
 
@@ -68,8 +70,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4r26k4w2k13y4~x2/"><circle cx="241.9" cy="154.6" r="4" fill="#3465a4"><title>Dunbar #2</title></circle></a><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="340.2" cy="106.5" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="274.0" cy="132.7" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s9/k38lb2o24w2k16o6lb2k3lb5~x2/"><circle cx="284.9" cy="120.3" r="4" fill="#3465a4"><title>Universal Scientific Indust (Corp.)</title></circle></a><a href="/variants/s10/y2k2r2w8k14r1k1r1k1r1~x2/"><circle cx="236.0" cy="114.2" r="4" fill="#3465a4"><title>Barbecue Plaid (Fashion)</title></circle></a><a href="/variants/s6/r19k8r18k50w14k6/"><circle cx="247.4" cy="199.2" r="4" fill="#3465a4"><title>Knights Breton</title></circle></a><a href="/variants/s7/r6k3r29k23w4k7y3~x2/"><circle cx="220.9" cy="162.2" r="4" fill="#3465a4"><title>MacPherson Red Cluny</title></circle></a><a href="/variants/s9/k24db2k24db14y3r36k18y5r3~x2/"><circle cx="232.4" cy="145.8" r="4" fill="#3465a4"><title>Craigholme (Corporate)</title></circle></a><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/"><circle cx="280.4" cy="110.8" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s7/w3r10k38n11r6k2w3~x2/"><circle cx="259.0" cy="125.7" r="4" fill="#3465a4"><title>Phantom (Corporate)</title></circle></a><circle cx="257.2" cy="132.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k4r26k4w2k13y4~x2/"><circle cx="241.9" cy="155.1" r="4" fill="#3465a4"><title>Dunbar #2</title></circle></a><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="340.2" cy="106.8" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s7/r10k15g2k2w1k1w1~x4/"><circle cx="273.9" cy="133.1" r="4" fill="#3465a4"><title>Ikelman No 4</title></circle></a><a href="/variants/s9/k38lb2o24w2k16o6lb2k3lb5~x2/"><circle cx="284.8" cy="120.6" r="4" fill="#3465a4"><title>Universal Scientific Indust (Corp.)</title></circle></a><a href="/variants/s10/y2k2r2w8k14r1k1r1k1r1~x2/"><circle cx="235.9" cy="114.5" r="4" fill="#3465a4"><title>Barbecue Plaid (Fashion)</title></circle></a><a href="/variants/s6/r19k8r18k50w14k6/"><circle cx="247.5" cy="199.9" r="4" fill="#3465a4"><title>Knights Breton</title></circle></a><a href="/variants/s7/r6k3r29k23w4k7y3~x2/"><circle cx="220.9" cy="162.7" r="4" fill="#3465a4"><title>MacPherson Red Cluny</title></circle></a><a href="/variants/s9/k24db2k24db14y3r36k18y5r3~x2/"><circle cx="232.4" cy="146.2" r="4" fill="#3465a4"><title>Craigholme (Corporate)</title></circle></a><a href="/variants/s9/y1r6k1r1k16r1k1r6w1~x2/"><circle cx="280.3" cy="111.1" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s7/w3r10k38n11r6k2w3~x2/"><circle cx="259.0" cy="126.1" r="4" fill="#3465a4"><title>Phantom (Corporate)</title></circle></a><circle cx="257.2" cy="133.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r10k3w1k15ly1w3k3ly1~x4/

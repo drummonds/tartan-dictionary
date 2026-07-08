@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Oriflame"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w4lb6w6lb21w9n27w10lb1n1lb5n1lb1w10r1ri1r5ri1r1w10n1r1n5r1n1/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBWRRRRRWWBWBWWBWWWWW](/stripes/brbrbwrrrrrwwbwbwwbwwwww/).
 
 Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10961
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10961](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10961)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/w4ly6w6lr21w9n27w10lr1n1lr5n1lr1w10dr1r1dr5r1dr1w10n1dr1n5dr1n1~x2~lr2800000-n1900000/"><circle cx="181.2" cy="74.2" r="4" fill="#3465a4"><title>Oriflame</title></circle></a><a href="/variants/s17/r5w20o1w2o1w2o2w2o5n2o2n2o2n3o2n10w3~x2~o2500000-n1900000/"><circle cx="250.1" cy="126.9" r="4" fill="#3465a4"><title>Nike Golf Light (Corporate)</title></circle></a><a href="/variants/s20/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1~x4/"><circle cx="211.5" cy="125.0" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/variants/s17/r5w20lb1w2lb1w2lb2w2lb5o2lb2o2lb2o3lb2o10w3~x2/"><circle cx="277.0" cy="136.7" r="4" fill="#3465a4"><title>Nike Golf Light</title></circle></a><a href="/variants/s12/w63k4lb9y2lb4y2lb4dy11r8lb2r4w5~x2/"><circle cx="171.7" cy="30.7" r="4" fill="#3465a4"><title>Seller, Reproduction Dress</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2dgi10dp9dg2dp6w2~x2~dgi1806142-dp1607327/"><circle cx="195.5" cy="72.8" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s13/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2~x2/"><circle cx="171.1" cy="112.2" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice</title></circle></a><a href="/variants/s25/lb22r1lo4lb4lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo9dy24db2~x4/"><circle cx="247.4" cy="60.7" r="4" fill="#3465a4"><title>Allen Hunting (?Thomson)</title></circle></a><circle cx="209.9" cy="86.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s24/w4ly6w6lr21w9n27w10lr1n1lr5n1lr1w10dr1r1dr5r1dr1w10n1dr1n5dr1n1~x2~lr2800000-n1900000/"><circle cx="181.1" cy="74.3" r="4" fill="#3465a4"><title>Oriflame</title></circle></a><a href="/variants/s17/r5w20o1w2o1w2o2w2o5n2o2n2o2n3o2n10w3~x2~o2500000-n1900000/"><circle cx="250.1" cy="127.1" r="4" fill="#3465a4"><title>Nike Golf Light (Corporate)</title></circle></a><a href="/variants/s20/dg7y2r1n4lb15n1y2n1y2n2y2n1y2n1lb15n4r1y2dg7y1~x4/"><circle cx="211.5" cy="125.2" r="4" fill="#3465a4"><title>Hutt #1 (Personal)</title></circle></a><a href="/variants/s17/r5w20lb1w2lb1w2lb2w2lb5o2lb2o2lb2o3lb2o10w3~x2/"><circle cx="277.0" cy="136.9" r="4" fill="#3465a4"><title>Nike Golf Light</title></circle></a><a href="/variants/s12/w63k4lb9y2lb4y2lb4dy11r8lb2r4w5~x2/"><circle cx="171.5" cy="30.8" r="4" fill="#3465a4"><title>Seller, Reproduction Dress</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2dgi10dp9dg2dp6w2~x2~dgi1806142-dp1607327/"><circle cx="195.4" cy="72.9" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s13/w4lb1db1w22lb2w2db12r2g16r4lb1r4db2~x2/"><circle cx="171.0" cy="112.4" r="4" fill="#3465a4"><title>MacGillivray Dress, Janice</title></circle></a><a href="/variants/s25/lb22r1lo4lb4lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo1lb1lo9dy24db2~x4/"><circle cx="247.2" cy="60.7" r="4" fill="#3465a4"><title>Allen Hunting (?Thomson)</title></circle></a><circle cx="209.8" cy="86.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s24/w4lb6w6lb21w9n27w10lb1n1lb5n1lb1w10r1ri1r5ri1r1w10n1r1n5r1n1~x2~r1807033-ri2109032/

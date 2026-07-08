@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Allen - Northumbrian Hunting (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/do16dr2do3dr4do2n12do18lb2do18n12do12dy2dr2dy2/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBBBWBBBGBG](/stripes/bbbbbbbwbbbgbg/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10573
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10573](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10573)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

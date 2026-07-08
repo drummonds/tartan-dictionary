@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Queen of Scots"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r34db4r1db4g2k3g1k3g22/)
 (the same proportion at any scale), whose colour order is pattern [GKGKGBRBR](/stripes/gkgkgbrbr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3426
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3426](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3426)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r6w1r24db6g2k1g2k1g12r1~x2/"><circle cx="300.0" cy="95.6" r="4" fill="#3465a4"><title>Chisholm #2</title></circle></a><a href="/variants/s10/r6w1r24db6g2k1g2k1g12r1/"><circle cx="300.0" cy="95.6" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/"><circle cx="280.0" cy="74.7" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="319.4" cy="136.2" r="4" fill="#3465a4"><title>Carrick (Clan)</title></circle></a><a href="/variants/s10/n32k5w3n3w3n7r5k1r17w3~x2/"><circle cx="299.1" cy="104.7" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s8/dg36k2dg2k2dg3k12lb10r20~x2/"><circle cx="226.9" cy="141.3" r="4" fill="#3465a4"><title>Georgia, State of (District)</title></circle></a><a href="/variants/s6/r47dg14k5y2k3dg7~x2/"><circle cx="266.3" cy="107.1" r="4" fill="#3465a4"><title>Harbor Club (Corporate)</title></circle></a><a href="/variants/s12/r24k2g8k2r8k1g24lb6k2r14lb18k4~x2/"><circle cx="190.6" cy="127.5" r="4" fill="#3465a4"><title>Grant - 1714 (Piper) (Portrait)</title></circle></a><a href="/variants/s8/k2r2k2r24g31k1g2y2~x2/"><circle cx="315.1" cy="107.3" r="4" fill="#3465a4"><title>Gleneil</title></circle></a><a href="/variants/s8/k2r2k1r18g24k1g2lo2~x2/"><circle cx="298.6" cy="118.1" r="4" fill="#3465a4"><title>Gleneil (Spoof)</title></circle></a><circle cx="283.5" cy="96.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r6w1r24db6g2k1g2k1g12r1~x2/"><circle cx="299.9" cy="95.8" r="4" fill="#3465a4"><title>Chisholm #2</title></circle></a><a href="/variants/s10/r6w1r24db6g2k1g2k1g12r1/"><circle cx="299.9" cy="95.8" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/variants/s11/r5k2r2g42r5k36r70k2y2r7g2/"><circle cx="279.9" cy="74.9" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s9/r28db12r3g20dp1g2dp1g2r7~x2/"><circle cx="319.4" cy="136.4" r="4" fill="#3465a4"><title>Carrick (Clan)</title></circle></a><a href="/variants/s10/n32k5w3n3w3n7r5k1r17w3~x2/"><circle cx="299.0" cy="105.0" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s8/dg36k2dg2k2dg3k12lb10r20~x2/"><circle cx="226.8" cy="141.7" r="4" fill="#3465a4"><title>Georgia, State of (District)</title></circle></a><a href="/variants/s6/r47dg14k5y2k3dg7~x2/"><circle cx="266.2" cy="107.3" r="4" fill="#3465a4"><title>Harbor Club (Corporate)</title></circle></a><a href="/variants/s12/r24k2g8k2r8k1g24lb6k2r14lb18k4~x2/"><circle cx="190.6" cy="127.8" r="4" fill="#3465a4"><title>Grant - 1714 (Piper) (Portrait)</title></circle></a><a href="/variants/s8/k2r2k2r24g31k1g2y2~x2/"><circle cx="315.1" cy="107.6" r="4" fill="#3465a4"><title>Gleneil</title></circle></a><a href="/variants/s8/k2r2k1r18g24k1g2lo2~x2/"><circle cx="298.5" cy="118.4" r="4" fill="#3465a4"><title>Gleneil (Spoof)</title></circle></a><circle cx="283.4" cy="97.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r34db4r1db4g2k3g1k3g22~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Connaught Irish District Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy32dg2r1dg2r1dg2r32do1r1do4/)
 (the same proportion at any scale), whose colour order is pattern [BRBRGRGRGG](/stripes/brbrgrgrgg/).
 
 Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2064
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2064](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2064)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r5dr2r2g42r5dr36r70dr2y2r7g2~x2/"><circle cx="366.8" cy="109.7" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s11/r5dr2r2g42r5dr36r70dr2y2r7g2/"><circle cx="366.8" cy="109.7" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s11/r5dp2r2g42r5dp36r70dp2y2r7g2~x2/"><circle cx="355.2" cy="105.4" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s15/o7dt1o2dt2o35lt2o2dt10o2g2o2g37o3dt2o6~x2~o2207033-dt1204259-lt3002249-g2005139/"><circle cx="391.8" cy="101.6" r="4" fill="#3465a4"><title>Drummond of Megginch - 1849 Kilt (faded)</title></circle></a><a href="/variants/s12/dy21r2w1ly3r2dy5r21ly1y1ly1r1dy8~x2~dy1603076-ly3307090/"><circle cx="361.5" cy="123.6" r="4" fill="#3465a4"><title>Glendronach Corporate Tartan</title></circle></a><a href="/variants/s10/y4r4do2r32t1do12r2y16r4do2~x2/"><circle cx="417.6" cy="141.8" r="4" fill="#3465a4"><title>Wcwm 9275-1626</title></circle></a><a href="/variants/s10/r5dp2r2g42r5dp36r70dp4r7g2/"><circle cx="370.2" cy="127.2" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s10/g36lb2r2lb2r2lb2r30dg1r1dg4~x2/"><circle cx="340.1" cy="109.6" r="4" fill="#3465a4"><title>Connaught (Lochcarron)</title></circle></a><a href="/variants/s10/r6w1r24dr6g2dr1g2dr1g12r1~x2/"><circle cx="365.3" cy="128.7" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/variants/s10/r6w1r24dr6g2dr1g2dr1g12r1/"><circle cx="365.3" cy="128.7" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><circle cx="375.3" cy="115.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r5dr2r2g42r5dr36r70dr2y2r7g2~x2/"><circle cx="366.8" cy="109.9" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s11/r5dr2r2g42r5dr36r70dr2y2r7g2/"><circle cx="366.8" cy="109.9" r="4" fill="#3465a4"><title>MacPherson Of Cluny</title></circle></a><a href="/variants/s11/r5dp2r2g42r5dp36r70dp2y2r7g2~x2/"><circle cx="355.1" cy="105.6" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s15/o7dt1o2dt2o35lt2o2dt10o2g2o2g37o3dt2o6~x2~o2207033-dt1204259-lt3002249-g2005139/"><circle cx="391.7" cy="101.6" r="4" fill="#3465a4"><title>Drummond of Megginch - 1849 Kilt (faded)</title></circle></a><a href="/variants/s12/dy21r2w1ly3r2dy5r21ly1y1ly1r1dy8~x2~dy1603076-ly3307090/"><circle cx="361.4" cy="123.7" r="4" fill="#3465a4"><title>Glendronach Corporate Tartan</title></circle></a><a href="/variants/s10/y4r4do2r32t1do12r2y16r4do2~x2/"><circle cx="417.6" cy="141.9" r="4" fill="#3465a4"><title>Wcwm 9275-1626</title></circle></a><a href="/variants/s10/r5dp2r2g42r5dp36r70dp4r7g2/"><circle cx="370.2" cy="127.4" r="4" fill="#3465a4"><title>MacPherson of Cluny</title></circle></a><a href="/variants/s10/g36lb2r2lb2r2lb2r30dg1r1dg4~x2/"><circle cx="340.0" cy="109.8" r="4" fill="#3465a4"><title>Connaught (Lochcarron)</title></circle></a><a href="/variants/s10/r6w1r24dr6g2dr1g2dr1g12r1~x2/"><circle cx="365.3" cy="129.0" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/variants/s10/r6w1r24dr6g2dr1g2dr1g12r1/"><circle cx="365.3" cy="129.0" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><circle cx="375.2" cy="115.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dy32dg2r1dg2r1dg2r32do1r1do4~x2~dg1806142/

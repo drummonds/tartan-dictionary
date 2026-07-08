@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Sirrell"
   url: "/tartans/sirrell/"
+- name: "Sirrell (2014)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n19w20dp18r2k7lb15/)
 (the same proportion at any scale), whose colour order is pattern [BWBRKW](/stripes/bwbrkw/).
@@ -14,7 +16,7 @@ Part of the [Sirrell](/tartans/sirrell/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11109
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11109](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11109)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp2w12t11lb12k1g2~x4/"><circle cx="116.0" cy="183.8" r="4" fill="#3465a4"><title>Isle of Barra (District)</title></circle></a><a href="/variants/s6/dp2w12t11lb12k1g2~x4~dp1607327/"><circle cx="120.1" cy="184.9" r="4" fill="#3465a4"><title>Isle of Barra</title></circle></a><a href="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/"><circle cx="18.8" cy="205.7" r="4" fill="#3465a4"><title>Sirrell (2014)</title></circle></a><a href="/variants/s6/lb62k13ly17dy13w40db20~x2/"><circle cx="69.4" cy="215.9" r="4" fill="#3465a4"><title>MacGregor-Ryan (Personal)</title></circle></a><a href="/variants/s9/k8n30lb16k24lb40lbi32lb7lbi12lb4~lb3103284-lbi3200000/"><circle cx="47.1" cy="178.9" r="4" fill="#3465a4"><title>Manderson #1 (Personal)</title></circle></a><a href="/variants/s5/lb3w10db10g10k2~x4/"><circle cx="47.0" cy="249.3" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/variants/s8/k6w11b11r13db17w10k2w4~x2/"><circle cx="66.3" cy="210.7" r="4" fill="#3465a4"><title>Edinburgh, Military Tattoo dress</title></circle></a><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/"><circle cx="82.7" cy="195.4" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/variants/s8/k6w11lb11r13db17w10k2w4~x2/"><circle cx="65.8" cy="210.5" r="4" fill="#3465a4"><title>Edinburgh Tatttoo Dress (Corporate)</title></circle></a><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/"><circle cx="85.7" cy="198.3" r="4" fill="#3465a4"><title>Manx National (District)</title></circle></a><circle cx="26.5" cy="204.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dp2w12t11lb12k1g2~x4/"><circle cx="116.1" cy="184.3" r="4" fill="#3465a4"><title>Isle of Barra (District)</title></circle></a><a href="/variants/s6/dp2w12t11lb12k1g2~x4~dp1607327/"><circle cx="120.2" cy="185.4" r="4" fill="#3465a4"><title>Isle of Barra</title></circle></a><a href="/variants/s6/t19w20dt18r2k7lb15~x2~t2503227-lb3203246/"><circle cx="18.9" cy="206.3" r="4" fill="#3465a4"><title>Sirrell (2014)</title></circle></a><a href="/variants/s6/lb62k13ly17dy13w40db20~x2/"><circle cx="69.6" cy="216.5" r="4" fill="#3465a4"><title>MacGregor-Ryan (Personal)</title></circle></a><a href="/variants/s9/k8n30lb16k24lb40lbi32lb7lbi12lb4~lb3103284-lbi3200000/"><circle cx="47.1" cy="179.4" r="4" fill="#3465a4"><title>Manderson #1 (Personal)</title></circle></a><a href="/variants/s5/lb3w10db10g10k2~x4/"><circle cx="47.1" cy="250.0" r="4" fill="#3465a4"><title>MacTeddy</title></circle></a><a href="/variants/s8/k6w11b11r13db17w10k2w4~x2/"><circle cx="66.4" cy="211.4" r="4" fill="#3465a4"><title>Edinburgh, Military Tattoo dress</title></circle></a><a href="/variants/s7/p5g9r2dy2db6lb14w3~x4/"><circle cx="82.7" cy="195.9" r="4" fill="#3465a4"><title>Manx National</title></circle></a><a href="/variants/s8/k6w11lb11r13db17w10k2w4~x2/"><circle cx="65.9" cy="211.2" r="4" fill="#3465a4"><title>Edinburgh Tatttoo Dress (Corporate)</title></circle></a><a href="/variants/s7/lp5g9r2dy2db6lb14w3~x4/"><circle cx="85.7" cy="198.7" r="4" fill="#3465a4"><title>Manx National (District)</title></circle></a><circle cx="26.6" cy="205.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/n19w20dp18r2k7lb15~x2~n2203265-dp1502305/

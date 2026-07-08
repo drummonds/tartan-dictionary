@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Campbell Red"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3k1g21k19db19k3db3k3db19k19g21k1w3/)
 (the same proportion at any scale), whose colour order is pattern [RKGKBKBKBKGKW](/stripes/rkgkbkbkbkgkw/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=527
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=527](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=527)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y2k1g12k12db12k1db1k1db12k12g12k1w2~x2/"><circle cx="123.0" cy="144.7" r="4" fill="#3465a4"><title>Campbell of Loudoun</title></circle></a><a href="/variants/s13/y2k1g12k12db12k1db2k1db12k12g12k1w2~x2/"><circle cx="120.9" cy="146.8" r="4" fill="#3465a4"><title>Campbell Loudon</title></circle></a><a href="/variants/s13/r2k1g12k12db12k1db2k1db12k12g12k1y2~x2/"><circle cx="124.3" cy="146.3" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><a href="/variants/s13/y4k1g12k12db12k1db4k1db12k12g12k1w4~x2/"><circle cx="94.9" cy="155.6" r="4" fill="#3465a4"><title>Campbell of Loudon</title></circle></a><a href="/variants/s13/r4k1g12k12db12k1db4k1db12k12g12k1y4~x2/"><circle cx="102.3" cy="155.7" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><a href="/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/"><circle cx="125.3" cy="139.6" r="4" fill="#3465a4"><title>Loch Carron</title></circle></a><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="144.9" cy="115.1" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/variants/s11/lb3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="125.9" cy="134.0" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/variants/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/"><circle cx="149.7" cy="128.9" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/variants/s14/db22g1db2g1db4k16ly1g16r2g16ly1k16db16g1~x2/"><circle cx="172.5" cy="116.9" r="4" fill="#3465a4"><title>Milne of Corstorphine #2 (Personal)</title></circle></a><circle cx="136.6" cy="125.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/y2k1g12k12db12k1db1k1db12k12g12k1w2~x2/"><circle cx="122.9" cy="145.0" r="4" fill="#3465a4"><title>Campbell of Loudoun</title></circle></a><a href="/variants/s13/y2k1g12k12db12k1db2k1db12k12g12k1w2~x2/"><circle cx="120.8" cy="147.1" r="4" fill="#3465a4"><title>Campbell Loudon</title></circle></a><a href="/variants/s13/r2k1g12k12db12k1db2k1db12k12g12k1y2~x2/"><circle cx="124.2" cy="146.6" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><a href="/variants/s13/y4k1g12k12db12k1db4k1db12k12g12k1w4~x2/"><circle cx="94.9" cy="155.9" r="4" fill="#3465a4"><title>Campbell of Loudon</title></circle></a><a href="/variants/s13/r4k1g12k12db12k1db4k1db12k12g12k1y4~x2/"><circle cx="102.2" cy="156.1" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><a href="/variants/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/"><circle cx="125.3" cy="139.9" r="4" fill="#3465a4"><title>Loch Carron</title></circle></a><a href="/variants/s13/db24k4db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="144.8" cy="115.3" r="4" fill="#3465a4"><title>Craigclowan School</title></circle></a><a href="/variants/s11/lb3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="125.8" cy="134.3" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/variants/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/"><circle cx="149.7" cy="129.1" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/variants/s14/db22g1db2g1db4k16ly1g16r2g16ly1k16db16g1~x2/"><circle cx="172.4" cy="117.1" r="4" fill="#3465a4"><title>Milne of Corstorphine #2 (Personal)</title></circle></a><circle cx="136.5" cy="125.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/

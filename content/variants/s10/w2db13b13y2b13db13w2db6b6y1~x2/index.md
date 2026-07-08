@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Westwood MacSky (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2db13b13y2b13db13w2db6b6y1/)
 (the same proportion at any scale), whose colour order is pattern [GBBWBBGBBW](/stripes/gbbwbbgbbw/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7488
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7488](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7488)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r4t12db36w4db4t16w3db6t3~x2/"><circle cx="301.3" cy="180.1" r="4" fill="#3465a4"><title>Callaway (Name)</title></circle></a><a href="/variants/s7/db4lb4db8n8db12lb12y1~x2/"><circle cx="266.5" cy="244.9" r="4" fill="#3465a4"><title>von Prondzynski (2016)</title></circle></a><a href="/variants/s8/db10t10db60w9db7t36w6db6/"><circle cx="377.9" cy="230.7" r="4" fill="#3465a4"><title>Salem Scottish Dancer's Wee Bluet</title></circle></a><a href="/variants/s8/y12dbi2y2dbi30db3dbi2db13w4~x2~dbi1604274-db0805267/"><circle cx="320.9" cy="189.3" r="4" fill="#3465a4"><title>Highlands School, (North Carolina)</title></circle></a><a href="/variants/s6/db3w1db12b12db1b3~x4/"><circle cx="431.4" cy="265.1" r="4" fill="#3465a4"><title>Erskine Blue (Fashion)</title></circle></a><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/"><circle cx="287.4" cy="179.5" r="4" fill="#3465a4"><title>Int. Police Association (Official)</title></circle></a><a href="/variants/s7/db14r6db52lb4db4lb51y8/"><circle cx="288.4" cy="179.7" r="4" fill="#3465a4"><title>International Police Association (IPA 2010)</title></circle></a><a href="/variants/s8/w9db3y3db24dbi24y2dbi2y2~x2~db1106275-dbi1404245/"><circle cx="249.1" cy="195.0" r="4" fill="#3465a4"><title>Halesowen #2</title></circle></a><a href="/variants/s9/o1lb6db4lb1db16n1db4n6lb1~x4~o2500000-n1900000/"><circle cx="356.3" cy="173.8" r="4" fill="#3465a4"><title>Fujisankei Serene (Corporate)</title></circle></a><a href="/variants/s8/w9t3y3t24db24y2db2y2~x2/"><circle cx="248.9" cy="199.1" r="4" fill="#3465a4"><title>Halesowen (District)</title></circle></a><circle cx="310.1" cy="224.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/r4t12db36w4db4t16w3db6t3~x2/"><circle cx="301.3" cy="180.5" r="4" fill="#3465a4"><title>Callaway (Name)</title></circle></a><a href="/variants/s7/db4lb4db8n8db12lb12y1~x2/"><circle cx="266.6" cy="245.5" r="4" fill="#3465a4"><title>von Prondzynski (2016)</title></circle></a><a href="/variants/s8/db10t10db60w9db7t36w6db6/"><circle cx="378.0" cy="231.2" r="4" fill="#3465a4"><title>Salem Scottish Dancer's Wee Bluet</title></circle></a><a href="/variants/s8/y12dbi2y2dbi30db3dbi2db13w4~x2~dbi1604274-db0805267/"><circle cx="320.9" cy="189.6" r="4" fill="#3465a4"><title>Highlands School, (North Carolina)</title></circle></a><a href="/variants/s6/db3w1db12b12db1b3~x4/"><circle cx="431.6" cy="265.5" r="4" fill="#3465a4"><title>Erskine Blue (Fashion)</title></circle></a><a href="/variants/s7/db7r3db26lb2db2lb26y4~x2/"><circle cx="287.5" cy="180.0" r="4" fill="#3465a4"><title>Int. Police Association (Official)</title></circle></a><a href="/variants/s7/db14r6db52lb4db4lb51y8/"><circle cx="288.5" cy="180.2" r="4" fill="#3465a4"><title>International Police Association (IPA 2010)</title></circle></a><a href="/variants/s8/w9db3y3db24dbi24y2dbi2y2~x2~db1106275-dbi1404245/"><circle cx="249.1" cy="195.3" r="4" fill="#3465a4"><title>Halesowen #2</title></circle></a><a href="/variants/s9/o1lb6db4lb1db16n1db4n6lb1~x4~o2500000-n1900000/"><circle cx="356.3" cy="174.1" r="4" fill="#3465a4"><title>Fujisankei Serene (Corporate)</title></circle></a><a href="/variants/s8/w9t3y3t24db24y2db2y2~x2/"><circle cx="248.9" cy="199.5" r="4" fill="#3465a4"><title>Halesowen (District)</title></circle></a><circle cx="310.2" cy="224.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/w2db13b13y2b13db13w2db6b6y1~x2/

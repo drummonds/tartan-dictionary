@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacDonald #6"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db8r2db2r4db10r2k11g10r4g2r2g8/)
 (the same proportion at any scale), whose colour order is pattern [BRBRBRKGRGRG](/stripes/brbrbrkgrgrg/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2339
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2339](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2339)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db8r2db2r3db12r2k12g12r3g2r2g8/"><circle cx="100.8" cy="195.9" r="4" fill="#3465a4"><title>MacDonald MINI Design Tartan</title></circle></a><a href="/variants/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/"><circle cx="113.6" cy="184.5" r="4" fill="#3465a4"><title>MacDonald #2</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/"><circle cx="68.3" cy="175.1" r="4" fill="#3465a4"><title>MacDonald of Clanranald #3</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6/"><circle cx="68.3" cy="175.1" r="4" fill="#3465a4"><title>MacDonald of Clanranald D</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k10w2g12r3g2r2g6/"><circle cx="70.9" cy="175.3" r="4" fill="#3465a4"><title>MacDonald of Clanranald D</title></circle></a><a href="/variants/s13/db3r1db1r2db6r1k6g6r2g1r1g2y1~x2/"><circle cx="70.9" cy="174.8" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/variants/s13/db3r1db1r2db6r1k6g6r2g1r1g2y1~x6/"><circle cx="70.9" cy="174.8" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/variants/s13/db12r2db4r5db16r2k16dy2g16r5g4r2g12~x2/"><circle cx="93.2" cy="169.3" r="4" fill="#3465a4"><title>Macallan</title></circle></a><a href="/variants/s12/dg10lo2dg3r4dg13k13r2t13r4t3r2t10~x2/"><circle cx="91.0" cy="187.6" r="4" fill="#3465a4"><title>Bowie (Name)</title></circle></a><a href="/variants/s12/dg10lo2dg3r4dg13k13r2t13r4t3r2t10~x2~t2105244/"><circle cx="97.4" cy="188.6" r="4" fill="#3465a4"><title>Bowie (Lochcarron)</title></circle></a><circle cx="83.9" cy="207.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/db8r2db2r3db12r2k12g12r3g2r2g8/"><circle cx="100.8" cy="196.4" r="4" fill="#3465a4"><title>MacDonald MINI Design Tartan</title></circle></a><a href="/variants/s12/db11r2db2r4db15r2k15g15r4g2r2g11~x2/"><circle cx="113.6" cy="185.0" r="4" fill="#3465a4"><title>MacDonald #2</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6~x2/"><circle cx="68.3" cy="175.6" r="4" fill="#3465a4"><title>MacDonald of Clanranald #3</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k11w2g11r3g2r2g6/"><circle cx="68.3" cy="175.6" r="4" fill="#3465a4"><title>MacDonald of Clanranald D</title></circle></a><a href="/variants/s13/db6r2db2r3db12r2k10w2g12r3g2r2g6/"><circle cx="70.9" cy="175.8" r="4" fill="#3465a4"><title>MacDonald of Clanranald D</title></circle></a><a href="/variants/s13/db3r1db1r2db6r1k6g6r2g1r1g2y1~x2/"><circle cx="70.9" cy="175.2" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/variants/s13/db3r1db1r2db6r1k6g6r2g1r1g2y1~x6/"><circle cx="70.9" cy="175.2" r="4" fill="#3465a4"><title>Carnegie</title></circle></a><a href="/variants/s13/db12r2db4r5db16r2k16dy2g16r5g4r2g12~x2/"><circle cx="93.2" cy="169.7" r="4" fill="#3465a4"><title>Macallan</title></circle></a><a href="/variants/s12/dg10lo2dg3r4dg13k13r2t13r4t3r2t10~x2/"><circle cx="91.0" cy="188.1" r="4" fill="#3465a4"><title>Bowie (Name)</title></circle></a><a href="/variants/s12/dg10lo2dg3r4dg13k13r2t13r4t3r2t10~x2~t2105244/"><circle cx="97.4" cy="189.0" r="4" fill="#3465a4"><title>Bowie (Lochcarron)</title></circle></a><circle cx="83.9" cy="208.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/db8r2db2r4db10r2k11g10r4g2r2g8~x2/

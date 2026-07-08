@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Beechgrove Garden, The"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2g4dg16g2dp2g25dg8g2dg2g25dp2g2dp6g2w2/)
 (the same proportion at any scale), whose colour order is pattern [WGBGBGGGGGBGGGW](/stripes/wgbgbgggggbgggw/).
 
 Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10887
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10887](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10887)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dp2y25dg8y2dg2y25dp2y2dp6y2w2y4dg16y2~x2~y2505139-dg1504144/"><circle cx="404.0" cy="182.0" r="4" fill="#3465a4"><title>Beechgrove Garden, The</title></circle></a><a href="/variants/s10/g12y6lo16dg10w6dg8g12dg70y9dg7~g2408144-dg1806142/"><circle cx="391.6" cy="191.0" r="4" fill="#3465a4"><title>Rams Timeless</title></circle></a><a href="/variants/s10/g12loi6lo16dg10w6dg8g12dg70loi9dg7~g2408144-loi2906085-lo2706066-dg1806142/"><circle cx="392.3" cy="190.8" r="4" fill="#3465a4"><title>Rams Timeless</title></circle></a><a href="/variants/s14/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4~x2/"><circle cx="394.8" cy="154.4" r="4" fill="#3465a4"><title>ASDA Wal-Mart</title></circle></a><a href="/variants/s12/dg27g39db3g3db4g3db3g39db3g3db4g3~x2/"><circle cx="468.9" cy="198.5" r="4" fill="#3465a4"><title>Montgomerie/Montgomery</title></circle></a><a href="/variants/s7/g14y7g14dg50g64w6g7/"><circle cx="406.5" cy="233.2" r="4" fill="#3465a4"><title>Freedom of Derry</title></circle></a><a href="/variants/s14/n9g4w5g30r2g4r2g4r2g30w5g4n9g5~x2/"><circle cx="437.6" cy="165.3" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><circle cx="395.6" cy="183.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dp2y25dg8y2dg2y25dp2y2dp6y2w2y4dg16y2~x2~y2505139-dg1504144/"><circle cx="404.1" cy="182.3" r="4" fill="#3465a4"><title>Beechgrove Garden, The</title></circle></a><a href="/variants/s10/g12y6lo16dg10w6dg8g12dg70y9dg7~g2408144-dg1806142/"><circle cx="391.6" cy="191.2" r="4" fill="#3465a4"><title>Rams Timeless</title></circle></a><a href="/variants/s10/g12loi6lo16dg10w6dg8g12dg70loi9dg7~g2408144-loi2906085-lo2706066-dg1806142/"><circle cx="392.4" cy="191.1" r="4" fill="#3465a4"><title>Rams Timeless</title></circle></a><a href="/variants/s14/g68r4g6db4dg34db4g6r4g68db4dg16r4dg19db4~x2/"><circle cx="394.8" cy="154.6" r="4" fill="#3465a4"><title>ASDA Wal-Mart</title></circle></a><a href="/variants/s12/dg27g39db3g3db4g3db3g39db3g3db4g3~x2/"><circle cx="469.0" cy="198.7" r="4" fill="#3465a4"><title>Montgomerie/Montgomery</title></circle></a><a href="/variants/s7/g14y7g14dg50g64w6g7/"><circle cx="406.6" cy="233.6" r="4" fill="#3465a4"><title>Freedom of Derry</title></circle></a><a href="/variants/s14/n9g4w5g30r2g4r2g4r2g30w5g4n9g5~x2/"><circle cx="437.7" cy="165.5" r="4" fill="#3465a4"><title>Welsh Assembly</title></circle></a><circle cx="395.7" cy="184.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/w2g4dg16g2dp2g25dg8g2dg2g25dp2g2dp6g2w2~x2~g2408144-dg1806142/

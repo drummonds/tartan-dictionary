@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's, No 209"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp5g4lb2/)
 (the same proportion at any scale), whose colour order is pattern [BGW](/stripes/bgw/).
 
 Sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/g6dp5lb1~x4/"><circle cx="309.2" cy="321.6" r="4" fill="#3465a4"><title>Wilson's, No 55</title></circle></a><a href="/variants/s3/g6dp5lb1~x4~dp1105325/"><circle cx="303.0" cy="319.3" r="4" fill="#3465a4"><title>Wilson's No.055</title></circle></a><a href="/variants/s4/g3db3dp4w1~x4/"><circle cx="158.4" cy="328.8" r="4" fill="#3465a4"><title>Pride of the Glen</title></circle></a><a href="/variants/s4/g15r3dp11lb2~x2/"><circle cx="261.8" cy="255.0" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/variants/s3/dp3n1g2~x10/"><circle cx="274.9" cy="359.6" r="4" fill="#3465a4"><title>Coleman, Sarah-Louise (Personal)</title></circle></a><a href="/variants/s4/g4dp5g4lb2~x2/"><circle cx="246.9" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.209</title></circle></a><a href="/variants/s3/r2g2lb1~x4/"><circle cx="189.6" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 207</title></circle></a><a href="/variants/s3/r4dg7lb4~x2/"><circle cx="172.0" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.061</title></circle></a><a href="/variants/s3/r4g7lb4~x2/"><circle cx="203.4" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 61</title></circle></a><a href="/variants/s3/g7k4lb4~x2/"><circle cx="119.7" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.052</title></circle></a><circle cx="218.4" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/g6dp5lb1~x4/"><circle cx="309.4" cy="322.5" r="4" fill="#3465a4"><title>Wilson's, No 55</title></circle></a><a href="/variants/s3/g6dp5lb1~x4~dp1105325/"><circle cx="303.3" cy="320.2" r="4" fill="#3465a4"><title>Wilson's No.055</title></circle></a><a href="/variants/s4/g3db3dp4w1~x4/"><circle cx="158.7" cy="329.7" r="4" fill="#3465a4"><title>Pride of the Glen</title></circle></a><a href="/variants/s4/g15r3dp11lb2~x2/"><circle cx="261.9" cy="255.6" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/variants/s3/dp3n1g2~x10/"><circle cx="275.3" cy="360.4" r="4" fill="#3465a4"><title>Coleman, Sarah-Louise (Personal)</title></circle></a><a href="/variants/s4/g4dp5g4lb2~x2/"><circle cx="247.3" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.209</title></circle></a><a href="/variants/s3/r2g2lb1~x4/"><circle cx="190.0" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 207</title></circle></a><a href="/variants/s3/r4dg7lb4~x2/"><circle cx="172.4" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.061</title></circle></a><a href="/variants/s3/r4g7lb4~x2/"><circle cx="203.8" cy="366.0" r="4" fill="#3465a4"><title>Wilson's, No 61</title></circle></a><a href="/variants/s3/g7k4lb4~x2/"><circle cx="120.0" cy="366.0" r="4" fill="#3465a4"><title>Wilson's No.052</title></circle></a><circle cx="218.8" cy="366.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/dp5g4lb2~x2/

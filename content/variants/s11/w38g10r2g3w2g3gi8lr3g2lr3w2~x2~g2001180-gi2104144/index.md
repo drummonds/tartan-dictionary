@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glenmore Green Fashion Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w38g10r2g3w2g3gi8lr3g2lr3w2/)
 (the same proportion at any scale), whose colour order is pattern [WGRGWGGYGYW](/stripes/wgrgwggygyw/).
 
 Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5041
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5041](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5041)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w21n4r1lb1w1n1lb4y3n1y1w1~x4/"><circle cx="349.9" cy="110.4" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 1)</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2ly14r7g2r3w2~x2/"><circle cx="260.3" cy="108.3" r="4" fill="#3465a4"><title>Grant of Auchnarrow</title></circle></a><a href="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/"><circle cx="272.6" cy="116.9" r="4" fill="#3465a4"><title>Ben Vorlich (Fashion)</title></circle></a><a href="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w4002111-m2107000/"><circle cx="260.5" cy="127.8" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><a href="/variants/s10/n1w1o2w1n1w16o6db1y1lb1~x4~n1900000-o2500000/"><circle cx="319.0" cy="114.8" r="4" fill="#3465a4"><title>Gray, Thomas (Personal)</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="253.0" cy="103.0" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="294.1" cy="90.9" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s9/w50o4b2k2b2o4b10o15lb2~x2/"><circle cx="290.7" cy="93.4" r="4" fill="#3465a4"><title>Australian, dress</title></circle></a><a href="/variants/s12/w24dr2w3dy1ly1dy1w1dy6o6lb1o2w1~x4/"><circle cx="294.0" cy="74.1" r="4" fill="#3465a4"><title>Unidentified #54</title></circle></a><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/"><circle cx="278.1" cy="94.9" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><circle cx="307.2" cy="114.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w21n4r1lb1w1n1lb4y3n1y1w1~x4/"><circle cx="349.8" cy="110.6" r="4" fill="#3465a4"><title>Glen Ross (WCWM - 1)</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2ly14r7g2r3w2~x2/"><circle cx="260.3" cy="108.6" r="4" fill="#3465a4"><title>Grant of Auchnarrow</title></circle></a><a href="/variants/s11/w68lb3w3lb8w3lb3o24n16r3n20lb3~x2/"><circle cx="272.6" cy="117.1" r="4" fill="#3465a4"><title>Ben Vorlich (Fashion)</title></circle></a><a href="/variants/s10/o4n4o2w36n14w2lb4o7m5w3~x2~w4002111-m2107000/"><circle cx="260.5" cy="128.1" r="4" fill="#3465a4"><title>Rikaco Eve</title></circle></a><a href="/variants/s10/n1w1o2w1n1w16o6db1y1lb1~x4~n1900000-o2500000/"><circle cx="319.0" cy="115.0" r="4" fill="#3465a4"><title>Gray, Thomas (Personal)</title></circle></a><a href="/variants/s13/w6r2w38g8db6w2db2w2o14r7g2r3w2~x2/"><circle cx="253.0" cy="103.3" r="4" fill="#3465a4"><title>Grant of Acharrow</title></circle></a><a href="/variants/s10/w55dg12r2dg3w2g10dp9dg2dp6w2~x2/"><circle cx="294.1" cy="91.1" r="4" fill="#3465a4"><title>Strathyre Dress (Dance)</title></circle></a><a href="/variants/s9/w50o4b2k2b2o4b10o15lb2~x2/"><circle cx="290.7" cy="93.7" r="4" fill="#3465a4"><title>Australian, dress</title></circle></a><a href="/variants/s12/w24dr2w3dy1ly1dy1w1dy6o6lb1o2w1~x4/"><circle cx="293.9" cy="74.3" r="4" fill="#3465a4"><title>Unidentified #54</title></circle></a><a href="/variants/s10/w49dg11r2dg3w2do10m9dg2m6w2~x2/"><circle cx="278.0" cy="95.2" r="4" fill="#3465a4"><title>Strathyre dress</title></circle></a><circle cx="307.2" cy="114.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/w38g10r2g3w2g3gi8lr3g2lr3w2~x2~g2001180-gi2104144/

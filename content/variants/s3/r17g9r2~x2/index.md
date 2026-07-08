@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "MacGregor of Glenstrae #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r17g9r2/)
 (the same proportion at any scale), whose colour order is pattern [GRGR](/stripes/grgr/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2460
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2460](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2460)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="386.9" cy="257.4" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="327.5" cy="234.8" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r5g5w1lb2r5~x2/"><circle cx="266.5" cy="277.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="350.2" cy="252.3" r="4" fill="#3465a4"><title>MacKinnon #6</title></circle></a><a href="/variants/s4/r2g9r2lb2~x4~r2109032/"><circle cx="355.3" cy="285.0" r="4" fill="#3465a4"><title>Wilson's No.212</title></circle></a><a href="/variants/s5/r22g17w2lg6r19~x2/"><circle cx="347.3" cy="235.1" r="4" fill="#3465a4"><title>Menzies #2</title></circle></a><a href="/variants/s4/g38r24k9r9~x2/"><circle cx="221.8" cy="275.2" r="4" fill="#3465a4"><title>Royal Guard of Oman 4th Band Squadron</title></circle></a><a href="/variants/s3/r10dg4y1~x8/"><circle cx="354.2" cy="255.0" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s3/r10dg4dy1~x8/"><circle cx="354.5" cy="255.1" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s4/r15g7db7r1~x4/"><circle cx="321.6" cy="235.4" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><circle cx="371.4" cy="294.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/r1g7r9y1~x4/"><circle cx="387.1" cy="258.0" r="4" fill="#3465a4"><title>Bryce</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="327.6" cy="235.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r5g5w1lb2r5~x2/"><circle cx="266.7" cy="278.3" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s4/r3g20r25w3~x4/"><circle cx="350.4" cy="253.0" r="4" fill="#3465a4"><title>MacKinnon #6</title></circle></a><a href="/variants/s4/r2g9r2lb2~x4~r2109032/"><circle cx="355.5" cy="285.8" r="4" fill="#3465a4"><title>Wilson's No.212</title></circle></a><a href="/variants/s5/r22g17w2lg6r19~x2/"><circle cx="347.4" cy="235.8" r="4" fill="#3465a4"><title>Menzies #2</title></circle></a><a href="/variants/s4/g38r24k9r9~x2/"><circle cx="222.0" cy="276.1" r="4" fill="#3465a4"><title>Royal Guard of Oman 4th Band Squadron</title></circle></a><a href="/variants/s3/r10dg4y1~x8/"><circle cx="354.4" cy="255.7" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s3/r10dg4dy1~x8/"><circle cx="354.7" cy="255.7" r="4" fill="#3465a4"><title>Lugo (2013)</title></circle></a><a href="/variants/s4/r15g7db7r1~x4/"><circle cx="321.7" cy="236.0" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><circle cx="371.6" cy="295.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/r17g9r2~x2/

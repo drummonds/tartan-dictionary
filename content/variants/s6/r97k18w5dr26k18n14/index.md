@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Bradley University"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r97k18w5dr26k18n14/)
 (the same proportion at any scale), whose colour order is pattern [BKBWKR](/stripes/bkbwkr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11312
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11312](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11312)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w2k1dr28k3r28k1w2~x2/"><circle cx="287.1" cy="110.5" r="4" fill="#3465a4"><title>Aberdeen Football Club (1990)</title></circle></a><a href="/variants/s5/r48k12n7k5w3~x2/"><circle cx="343.9" cy="142.1" r="4" fill="#3465a4"><title>Turner (Personal)</title></circle></a><a href="/variants/s5/r50k25dg10n5ly2~x2/"><circle cx="272.2" cy="127.7" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="270.0" cy="102.8" r="4" fill="#3465a4"><title>MacLeay (Clan)</title></circle></a><a href="/variants/s6/k6r20w2dr9w3lb2~x2/"><circle cx="186.9" cy="158.9" r="4" fill="#3465a4"><title>Thermos Un-named (aretefact)</title></circle></a><a href="/variants/s5/r50k25g10n5y2~x2/"><circle cx="269.0" cy="127.4" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s7/r27db4k4db4k4lb6y1~x4/"><circle cx="271.5" cy="102.2" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><a href="/variants/s6/k7w2g2dr31r35y2~x2/"><circle cx="243.9" cy="125.0" r="4" fill="#3465a4"><title>Mason, David Elsworth (Personal)</title></circle></a><a href="/variants/s7/w2dp5r34k5n9k12dp1~x2/"><circle cx="252.7" cy="95.3" r="4" fill="#3465a4"><title>Thomson, Reona Ellen (Personal)</title></circle></a><a href="/variants/s7/r28g4k4g4k4lb6y1~x2/"><circle cx="275.8" cy="99.4" r="4" fill="#3465a4"><title>Livingstone MacLay MacLeay</title></circle></a><circle cx="266.6" cy="124.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/w2k1dr28k3r28k1w2~x2/"><circle cx="287.0" cy="110.8" r="4" fill="#3465a4"><title>Aberdeen Football Club (1990)</title></circle></a><a href="/variants/s5/r48k12n7k5w3~x2/"><circle cx="343.9" cy="142.6" r="4" fill="#3465a4"><title>Turner (Personal)</title></circle></a><a href="/variants/s5/r50k25dg10n5ly2~x2/"><circle cx="272.2" cy="128.1" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s7/r27g4k4g4k4db6lo1~x4/"><circle cx="270.0" cy="103.1" r="4" fill="#3465a4"><title>MacLeay (Clan)</title></circle></a><a href="/variants/s6/k6r20w2dr9w3lb2~x2/"><circle cx="187.0" cy="159.5" r="4" fill="#3465a4"><title>Thermos Un-named (aretefact)</title></circle></a><a href="/variants/s5/r50k25g10n5y2~x2/"><circle cx="269.0" cy="127.8" r="4" fill="#3465a4"><title>MacGleish Formal (Personal)</title></circle></a><a href="/variants/s7/r27db4k4db4k4lb6y1~x4/"><circle cx="271.4" cy="102.5" r="4" fill="#3465a4"><title>MacLeay</title></circle></a><a href="/variants/s6/k7w2g2dr31r35y2~x2/"><circle cx="243.8" cy="125.2" r="4" fill="#3465a4"><title>Mason, David Elsworth (Personal)</title></circle></a><a href="/variants/s7/w2dp5r34k5n9k12dp1~x2/"><circle cx="252.6" cy="95.6" r="4" fill="#3465a4"><title>Thomson, Reona Ellen (Personal)</title></circle></a><a href="/variants/s7/r28g4k4g4k4lb6y1~x2/"><circle cx="275.8" cy="99.7" r="4" fill="#3465a4"><title>Livingstone MacLay MacLeay</title></circle></a><circle cx="266.6" cy="125.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r97k18w5dr26k18n14/

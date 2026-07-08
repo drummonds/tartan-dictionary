@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Murdoch Clebration (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k21db8r4db2r2db23k4w2/)
 (the same proportion at any scale), whose colour order is pattern [KBRBRBKW](/stripes/kbrbrbkw/).
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8441
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8441](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8441)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db30r2db2r4db9k26w2k4~x2/"><circle cx="288.8" cy="150.2" r="4" fill="#3465a4"><title>Murdoch Celebration (Personal)</title></circle></a><a href="/variants/s7/db5w3db33k3db3k36db3~x2/"><circle cx="323.9" cy="176.2" r="4" fill="#3465a4"><title>St. Andrew Soc. of River Plate (Corp</title></circle></a><a href="/variants/s7/db5w3db33k3db3k36db3~x2~w3600000/"><circle cx="328.6" cy="177.6" r="4" fill="#3465a4"><title>Argentina</title></circle></a><a href="/variants/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="276.1" cy="152.6" r="4" fill="#3465a4"><title>Slanj Dress (Corporate)</title></circle></a><a href="/variants/s8/r3db2w2db26k22w3db3w3~x2/"><circle cx="235.0" cy="145.2" r="4" fill="#3465a4"><title>DeCloud-McMasters (Personal)</title></circle></a><a href="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/"><circle cx="251.1" cy="167.4" r="4" fill="#3465a4"><title>Ibrox</title></circle></a><a href="/variants/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2~db1406275/"><circle cx="224.4" cy="144.4" r="4" fill="#3465a4"><title>Shalom</title></circle></a><a href="/variants/s7/lb3k19db24r2db2y2db2~x2/"><circle cx="262.8" cy="147.0" r="4" fill="#3465a4"><title>Mensa</title></circle></a><a href="/variants/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2/"><circle cx="225.6" cy="145.9" r="4" fill="#3465a4"><title>Shalom (Fashion)</title></circle></a><a href="/variants/s11/k14lb3k3w4k3lb3k14db4k4db30k4~x2/"><circle cx="220.6" cy="145.8" r="4" fill="#3465a4"><title>Scottish Jewish Community</title></circle></a><circle cx="259.0" cy="165.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db30r2db2r4db9k26w2k4~x2/"><circle cx="288.8" cy="150.5" r="4" fill="#3465a4"><title>Murdoch Celebration (Personal)</title></circle></a><a href="/variants/s7/db5w3db33k3db3k36db3~x2/"><circle cx="323.9" cy="176.5" r="4" fill="#3465a4"><title>St. Andrew Soc. of River Plate (Corp</title></circle></a><a href="/variants/s7/db5w3db33k3db3k36db3~x2~w3600000/"><circle cx="328.6" cy="178.0" r="4" fill="#3465a4"><title>Argentina</title></circle></a><a href="/variants/s8/k4db36k4db4k34b3k3w4~x2/"><circle cx="276.1" cy="152.9" r="4" fill="#3465a4"><title>Slanj Dress (Corporate)</title></circle></a><a href="/variants/s8/r3db2w2db26k22w3db3w3~x2/"><circle cx="235.0" cy="145.6" r="4" fill="#3465a4"><title>DeCloud-McMasters (Personal)</title></circle></a><a href="/variants/s11/db4r2db2r4k7db10w2k13db18k2db2~x4/"><circle cx="251.0" cy="167.8" r="4" fill="#3465a4"><title>Ibrox</title></circle></a><a href="/variants/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2~db1406275/"><circle cx="224.4" cy="144.7" r="4" fill="#3465a4"><title>Shalom</title></circle></a><a href="/variants/s7/lb3k19db24r2db2y2db2~x2/"><circle cx="262.8" cy="147.3" r="4" fill="#3465a4"><title>Mensa</title></circle></a><a href="/variants/s11/k15lb3k3w4k3lb3k15db4k4db30k4~x2/"><circle cx="225.5" cy="146.3" r="4" fill="#3465a4"><title>Shalom (Fashion)</title></circle></a><a href="/variants/s11/k14lb3k3w4k3lb3k14db4k4db30k4~x2/"><circle cx="220.6" cy="146.2" r="4" fill="#3465a4"><title>Scottish Jewish Community</title></circle></a><circle cx="259.0" cy="165.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k21db8r4db2r2db23k4w2~x2/

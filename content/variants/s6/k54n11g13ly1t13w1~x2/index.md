@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Kilmaine Saints"
   url: "/tartans/kilmaine-saints/"
+- name: "Kilmaine Saints (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k54n11g13ly1t13w1/)
 (the same proportion at any scale), whose colour order is pattern [KBGYBW](/stripes/kbgybw/).
@@ -14,7 +16,7 @@ Part of the [Kilmaine Saints](/tartans/kilmaine-saints/) tartan — the named de
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10423
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10423](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10423)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="297.2" cy="82.7" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><a href="/variants/s6/db25k84w5g23y5dp8~x2/"><circle cx="242.8" cy="124.9" r="4" fill="#3465a4"><title>Woodward, R Glenn (Personal)</title></circle></a><a href="/variants/s6/db25k84w5g32y5dp8~x2/"><circle cx="220.2" cy="129.8" r="4" fill="#3465a4"><title>Woodward, R Glenn</title></circle></a><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><circle cx="305.9" cy="89.1" r="4" fill="#3465a4"><title>Tainsh (2016)</title></circle></a><a href="/variants/s6/k49dr1o4db5g5ly5~x2/"><circle cx="388.1" cy="59.4" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/variants/s6/db1lb2k50dg50ly2r1~x2/"><circle cx="320.3" cy="87.4" r="4" fill="#3465a4"><title>Josse (Personal)</title></circle></a><a href="/variants/s6/db1lb2k50dg50dy2r1~x2/"><circle cx="335.7" cy="92.0" r="4" fill="#3465a4"><title>Josse (Bro Sant Malo), Gilbert (Personal)</title></circle></a><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/"><circle cx="311.1" cy="96.3" r="4" fill="#3465a4"><title>Henschke, Felix (Personal)</title></circle></a><a href="/variants/s8/w3k48ly5w3ly3g2db5lb3~x2/"><circle cx="321.7" cy="66.4" r="4" fill="#3465a4"><title>Pavelka Limited</title></circle></a><a href="/variants/s6/k50g6db6r6n6w3~x2/"><circle cx="298.6" cy="105.3" r="4" fill="#3465a4"><title>Friends of Nordegg</title></circle></a><circle cx="285.7" cy="80.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/k54n11g13y1db13w1~x2/"><circle cx="297.1" cy="82.8" r="4" fill="#3465a4"><title>Kilmaine Saints</title></circle></a><a href="/variants/s6/db25k84w5g23y5dp8~x2/"><circle cx="242.7" cy="125.1" r="4" fill="#3465a4"><title>Woodward, R Glenn (Personal)</title></circle></a><a href="/variants/s6/db25k84w5g32y5dp8~x2/"><circle cx="220.1" cy="130.0" r="4" fill="#3465a4"><title>Woodward, R Glenn</title></circle></a><a href="/variants/s6/k62r9w7lb6y3g6~x2/"><circle cx="305.8" cy="89.3" r="4" fill="#3465a4"><title>Tainsh (2016)</title></circle></a><a href="/variants/s6/k49dr1o4db5g5ly5~x2/"><circle cx="387.9" cy="59.4" r="4" fill="#3465a4"><title>CREATeGlasgow</title></circle></a><a href="/variants/s6/db1lb2k50dg50ly2r1~x2/"><circle cx="320.1" cy="87.4" r="4" fill="#3465a4"><title>Josse (Personal)</title></circle></a><a href="/variants/s6/db1lb2k50dg50dy2r1~x2/"><circle cx="335.6" cy="92.0" r="4" fill="#3465a4"><title>Josse (Bro Sant Malo), Gilbert (Personal)</title></circle></a><a href="/variants/s7/dg42y1k23dr7w1db4y3~x2/"><circle cx="311.0" cy="96.3" r="4" fill="#3465a4"><title>Henschke, Felix (Personal)</title></circle></a><a href="/variants/s8/w3k48ly5w3ly3g2db5lb3~x2/"><circle cx="321.6" cy="66.5" r="4" fill="#3465a4"><title>Pavelka Limited</title></circle></a><a href="/variants/s6/k50g6db6r6n6w3~x2/"><circle cx="298.5" cy="105.5" r="4" fill="#3465a4"><title>Friends of Nordegg</title></circle></a><circle cx="285.6" cy="80.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k54n11g13ly1t13w1~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Crieff Turquoise (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k2db2w2db3w38g2b12g3db4g30db2g6w2/)
 (the same proportion at any scale), whose colour order is pattern [KBWBWGBGBGBGW](/stripes/kbwbwgbgbgbgw/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8802
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8802](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8802)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db3b1g20b20w2b2w2b2w32k1b3~x2/"><circle cx="216.4" cy="93.7" r="4" fill="#3465a4"><title>Lorne Dress (Dance)</title></circle></a><a href="/variants/s13/lb7k1do1n2g18lb2k1lo2k1lb6k1do1lb1~x4/"><circle cx="181.5" cy="91.1" r="4" fill="#3465a4"><title>Wcwm 972-1</title></circle></a><a href="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="149.5" cy="111.6" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/"><circle cx="214.2" cy="97.6" r="4" fill="#3465a4"><title>Glenmore Pink</title></circle></a><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10dg23w2dg4~x2/"><circle cx="150.7" cy="139.4" r="4" fill="#3465a4"><title>Oliphant Dress Clan Tartan</title></circle></a><a href="/variants/s10/lb24k2r2lb2db12g28r4g5lb3g3~x2/"><circle cx="194.8" cy="139.0" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/"><circle cx="194.9" cy="111.5" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><a href="/variants/s12/g4b3g3b4g4k8g3k9w29r2w4r2~x2/"><circle cx="149.4" cy="110.5" r="4" fill="#3465a4"><title>Ross, hunting dress</title></circle></a><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10y23w2y4~x2/"><circle cx="170.4" cy="144.3" r="4" fill="#3465a4"><title>Oliphant Dress</title></circle></a><a href="/variants/s9/g3w29g3db3g3db6g13y3r2~x2/"><circle cx="213.8" cy="145.2" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><circle cx="184.4" cy="101.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db3b1g20b20w2b2w2b2w32k1b3~x2/"><circle cx="216.3" cy="93.9" r="4" fill="#3465a4"><title>Lorne Dress (Dance)</title></circle></a><a href="/variants/s13/lb7k1do1n2g18lb2k1lo2k1lb6k1do1lb1~x4/"><circle cx="181.4" cy="91.3" r="4" fill="#3465a4"><title>Wcwm 972-1</title></circle></a><a href="/variants/s11/g3lb3g5r4g28db8w3db3w24r2k2~x2/"><circle cx="149.4" cy="111.9" r="4" fill="#3465a4"><title>Downie Dress</title></circle></a><a href="/variants/s11/w60dt24n3dt5w3dt5o16n8k3n6w4/"><circle cx="214.1" cy="97.9" r="4" fill="#3465a4"><title>Glenmore Pink</title></circle></a><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10dg23w2dg4~x2/"><circle cx="150.6" cy="139.8" r="4" fill="#3465a4"><title>Oliphant Dress Clan Tartan</title></circle></a><a href="/variants/s10/lb24k2r2lb2db12g28r4g5lb3g3~x2/"><circle cx="194.8" cy="139.3" r="4" fill="#3465a4"><title>Downie (Name)</title></circle></a><a href="/variants/s10/w50g5y2g5r2g20r2db5y2db40~x2/"><circle cx="194.9" cy="111.8" r="4" fill="#3465a4"><title>Cornell (Fashion)</title></circle></a><a href="/variants/s12/g4b3g3b4g4k8g3k9w29r2w4r2~x2/"><circle cx="149.4" cy="110.9" r="4" fill="#3465a4"><title>Ross, hunting dress</title></circle></a><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10y23w2y4~x2/"><circle cx="170.4" cy="144.7" r="4" fill="#3465a4"><title>Oliphant Dress</title></circle></a><a href="/variants/s9/g3w29g3db3g3db6g13y3r2~x2/"><circle cx="213.8" cy="145.6" r="4" fill="#3465a4"><title>Nova Scotia, dress</title></circle></a><circle cx="184.3" cy="101.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/k2db2w2db3w38g2b12g3db4g30db2g6w2~x2/

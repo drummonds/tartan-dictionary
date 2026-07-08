@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wilson's No 97"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k11g12k2g12k12dp12w3/)
 (the same proportion at any scale), whose colour order is pattern [KGKGKBW](/stripes/kgkgkbw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4641
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4641](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4641)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k8g8k1g8k8b8w2~x2/"><circle cx="121.1" cy="233.0" r="4" fill="#3465a4"><title>Unnamed, No 31</title></circle></a><a href="/variants/s7/k8g8k1g8k8lb8w2~x2/"><circle cx="115.1" cy="231.1" r="4" fill="#3465a4"><title>Unidentified No 31</title></circle></a><a href="/variants/s7/k11g12w2g12k12dp12r3~x2/"><circle cx="86.1" cy="230.1" r="4" fill="#3465a4"><title>Cunningham / Wilson's No 120</title></circle></a><a href="/variants/s7/k6g6w1g6k6dp6b1~x4/"><circle cx="97.4" cy="230.0" r="4" fill="#3465a4"><title>Wilson's, No 233</title></circle></a><a href="/variants/s7/k12g12w2g12k12dp12r3~x2/"><circle cx="85.1" cy="230.0" r="4" fill="#3465a4"><title>Wilson's, No 120</title></circle></a><a href="/variants/s7/k12g12k2g12k12db12lb3~x2/"><circle cx="119.9" cy="247.4" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/"><circle cx="145.0" cy="212.2" r="4" fill="#3465a4"><title>Wilson's No 108</title></circle></a><a href="/variants/s7/k4g4k1g4k4db4y1~x2/"><circle cx="112.2" cy="267.7" r="4" fill="#3465a4"><title>Unidentified No 39</title></circle></a><a href="/variants/s6/g18lb2g4k14dp12k3~x2/"><circle cx="167.2" cy="212.3" r="4" fill="#3465a4"><title>Coburg</title></circle></a><a href="/variants/s6/g14db2g2k8dp9k2~x2/"><circle cx="172.6" cy="218.4" r="4" fill="#3465a4"><title>MacArthur of Milton, hunting</title></circle></a><circle cx="113.9" cy="244.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/k8g8k1g8k8b8w2~x2/"><circle cx="121.2" cy="233.6" r="4" fill="#3465a4"><title>Unnamed, No 31</title></circle></a><a href="/variants/s7/k8g8k1g8k8lb8w2~x2/"><circle cx="115.2" cy="231.8" r="4" fill="#3465a4"><title>Unidentified No 31</title></circle></a><a href="/variants/s7/k11g12w2g12k12dp12r3~x2/"><circle cx="86.2" cy="230.8" r="4" fill="#3465a4"><title>Cunningham / Wilson's No 120</title></circle></a><a href="/variants/s7/k6g6w1g6k6dp6b1~x4/"><circle cx="97.5" cy="230.7" r="4" fill="#3465a4"><title>Wilson's, No 233</title></circle></a><a href="/variants/s7/k12g12w2g12k12dp12r3~x2/"><circle cx="85.1" cy="230.7" r="4" fill="#3465a4"><title>Wilson's, No 120</title></circle></a><a href="/variants/s7/k12g12k2g12k12db12lb3~x2/"><circle cx="120.0" cy="248.1" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/variants/s8/k7g7k1g7k7lb1dp7k1~x4/"><circle cx="145.1" cy="212.8" r="4" fill="#3465a4"><title>Wilson's No 108</title></circle></a><a href="/variants/s7/k4g4k1g4k4db4y1~x2/"><circle cx="112.4" cy="268.4" r="4" fill="#3465a4"><title>Unidentified No 39</title></circle></a><a href="/variants/s6/g18lb2g4k14dp12k3~x2/"><circle cx="167.3" cy="212.9" r="4" fill="#3465a4"><title>Coburg</title></circle></a><a href="/variants/s6/g14db2g2k8dp9k2~x2/"><circle cx="172.6" cy="218.9" r="4" fill="#3465a4"><title>MacArthur of Milton, hunting</title></circle></a><circle cx="114.0" cy="245.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/k11g12k2g12k12dp12w3~x2/

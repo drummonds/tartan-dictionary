@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Hannay"
   url: "/tartans/hannay/"
+- name: "Hannay (Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k9w4k2w4k2w30k9w4b14lo2/)
 (the same proportion at any scale), whose colour order is pattern [KWKWKWKWBY](/stripes/kwkwkwkwby/).
@@ -14,7 +16,7 @@ Part of the [Hannay](/tartans/hannay/) tartan — the named design grouping this
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1255
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1255](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1255)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/"><circle cx="222.2" cy="134.6" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/"><circle cx="217.0" cy="137.4" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s10/w3db2k4db2w2db26r4w30r2w3~x2/"><circle cx="240.7" cy="123.0" r="4" fill="#3465a4"><title>Harris, Royal Blue (Dance)</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2lb23w2~x2/"><circle cx="196.0" cy="153.1" r="4" fill="#3465a4"><title>Virtuoso</title></circle></a><a href="/variants/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="262.4" cy="138.9" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><a href="/variants/s12/lb5k1w1k1lb5k7b10k1lb15b3k1w2~x4/"><circle cx="203.1" cy="137.4" r="4" fill="#3465a4"><title>Faulds</title></circle></a><a href="/variants/s9/y1k6g4k1w16b1w4b6w1~x2/"><circle cx="199.6" cy="125.8" r="4" fill="#3465a4"><title>Henderson Dress</title></circle></a><a href="/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/"><circle cx="241.1" cy="113.1" r="4" fill="#3465a4"><title>Spirit of South Korea</title></circle></a><a href="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/"><circle cx="294.4" cy="123.1" r="4" fill="#3465a4"><title>Dunbarton Weft</title></circle></a><a href="/variants/s9/k4w1k1w9g1w1g1w1dy4~x4/"><circle cx="199.6" cy="160.4" r="4" fill="#3465a4"><title>Puffin (Personal)</title></circle></a><circle cx="230.1" cy="139.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k9w4k2w4k2w30k9w4db14y2~x2/"><circle cx="222.2" cy="135.1" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s10/k9w4k2w4k2w29k9w4db14y2~x2/"><circle cx="217.0" cy="137.9" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/variants/s10/w3db2k4db2w2db26r4w30r2w3~x2/"><circle cx="240.6" cy="123.4" r="4" fill="#3465a4"><title>Harris, Royal Blue (Dance)</title></circle></a><a href="/variants/s9/r4w4k4w4k4w4k2lb23w2~x2/"><circle cx="196.0" cy="153.6" r="4" fill="#3465a4"><title>Virtuoso</title></circle></a><a href="/variants/s13/lb9r5lb51n13k13lb5n4lb5n23lb11k5lb5r5/"><circle cx="262.4" cy="139.3" r="4" fill="#3465a4"><title>Balmoral Gillies (Royal)</title></circle></a><a href="/variants/s12/lb5k1w1k1lb5k7b10k1lb15b3k1w2~x4/"><circle cx="203.1" cy="137.8" r="4" fill="#3465a4"><title>Faulds</title></circle></a><a href="/variants/s9/y1k6g4k1w16b1w4b6w1~x2/"><circle cx="199.6" cy="126.2" r="4" fill="#3465a4"><title>Henderson Dress</title></circle></a><a href="/variants/s13/w8k4w2k4w24db2w1r2w1db12r12w8k2~x2/"><circle cx="241.0" cy="113.5" r="4" fill="#3465a4"><title>Spirit of South Korea</title></circle></a><a href="/variants/s11/lb30r2lb2k5lb3dy2lb3dy22lb3k2lb3~x2/"><circle cx="294.4" cy="123.5" r="4" fill="#3465a4"><title>Dunbarton Weft</title></circle></a><a href="/variants/s9/k4w1k1w9g1w1g1w1dy4~x4/"><circle cx="199.6" cy="161.0" r="4" fill="#3465a4"><title>Puffin (Personal)</title></circle></a><circle cx="230.1" cy="140.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k9w4k2w4k2w30k9w4b14lo2~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unidentified (Paisley)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db4k1db2k1db1k2db1k6g1k2g2k2g2k1g3k1g28r2g6r6w2r33k1r3k1r2k2r2k2r1k6g8k1dy2/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKBKGKGKGKGKGRGRWRKRKRKRKRKGKGKGKRKRKRKRKRWRGRGKGKGKGKGKBKBKBK](/stripes/bkbkbkbkgkgkgkgkgrgrwrkrkrkrkrkgkgkgkrkrkrkrkrwrgrgkgkgkgkgkbkbkbk/).
 
 Sourced from register-of-tartans.  It is a [66 stripe tartan](/stripes/stripes66/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4268
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4268](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4268)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s34/db8k2db3k2db2k3db2k11g2k4g3k3g4k2g5k2g55r4g11r11w4r66k2r5k2r4k3r3k4r2k11g15k2y4/"><circle cx="156.3" cy="14.0" r="4" fill="#3465a4"><title>Paisley Fancy Reduced</title></circle></a><a href="/variants/s32/db8k1db3k2db2k3db1k11g2k4g3k3g4k2g5k1g55r4g11r11w4r66k1r11k3r3k4r2k11g15k2ly4~x2/"><circle cx="176.3" cy="14.0" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s22/k7r3y2r60g7r2y2r7g50w2k50r2db50r7y2r2db7r60k7y2r3k7~db1404245/"><circle cx="164.0" cy="14.0" r="4" fill="#3465a4"><title>Hay &amp; Leith #2</title></circle></a><a href="/variants/s23/k14r4y4k8r70dp8r3y3r8dp64r3k63w3g64r8y3r3g8r70k8y4r4k14/"><circle cx="138.4" cy="16.0" r="4" fill="#3465a4"><title>Leith (Hay)</title></circle></a><a href="/variants/s52/k1g10k4w1k4g10r1k4db3dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k5r20w2g3dy3g3w2g20k4db4w2db4k4g10r3g3dy2g3r3g10k1db1k1db7r2db7k1db1~x2/"><circle cx="97.3" cy="31.7" r="4" fill="#3465a4"><title>Lawson, Robin (Personal)</title></circle></a><circle cx="142.9" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s34/db8k2db3k2db2k3db2k11g2k4g3k3g4k2g5k2g55r4g11r11w4r66k2r5k2r4k3r3k4r2k11g15k2y4/"><circle cx="156.1" cy="14.0" r="4" fill="#3465a4"><title>Paisley Fancy Reduced</title></circle></a><a href="/variants/s32/db8k1db3k2db2k3db1k11g2k4g3k3g4k2g5k1g55r4g11r11w4r66k1r11k3r3k4r2k11g15k2ly4~x2/"><circle cx="176.0" cy="14.0" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s22/k7r3y2r60g7r2y2r7g50w2k50r2db50r7y2r2db7r60k7y2r3k7~db1404245/"><circle cx="163.8" cy="14.0" r="4" fill="#3465a4"><title>Hay &amp; Leith #2</title></circle></a><a href="/variants/s23/k14r4y4k8r70dp8r3y3r8dp64r3k63w3g64r8y3r3g8r70k8y4r4k14/"><circle cx="138.2" cy="16.0" r="4" fill="#3465a4"><title>Leith (Hay)</title></circle></a><a href="/variants/s52/k1g10k4w1k4g10r1k4db3dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k5r20w2g3dy3g3w2g20k4db4w2db4k4g10r3g3dy2g3r3g10k1db1k1db7r2db7k1db1~x2/"><circle cx="97.0" cy="31.7" r="4" fill="#3465a4"><title>Lawson, Robin (Personal)</title></circle></a><circle cx="142.6" cy="14.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s34/db4k1db2k1db1k2db1k6g1k2g2k2g2k1g3k1g28r2g6r6w2r33k1r3k1r2k2r2k2r1k6g8k1dy2~x2/

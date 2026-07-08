@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Mother's Pride"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr10db10lo1/)
 (the same proportion at any scale), whose colour order is pattern [BBYB](/stripes/bbyb/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3025
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3025](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3025)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="488.5" cy="218.0" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><a href="/variants/s5/db30do9w1dr5y1~x4/"><circle cx="505.1" cy="183.1" r="4" fill="#3465a4"><title>Dunning Primary (School)</title></circle></a><a href="/variants/s5/db13n6dr51db51n5~x2/"><circle cx="481.3" cy="298.4" r="4" fill="#3465a4"><title>Hillsdale (Corporate?)</title></circle></a><a href="/variants/s5/db2w2dr8db8w1~x2/"><circle cx="309.0" cy="272.4" r="4" fill="#3465a4"><title>Laval (Tartan de..) District Tartan</title></circle></a><a href="/variants/s4/db20w1r12db12~x4/"><circle cx="446.6" cy="234.0" r="4" fill="#3465a4"><title>Masai Shuka 22 (Artefact)</title></circle></a><a href="/variants/s4/b30y5b4r12~x4/"><circle cx="429.1" cy="247.5" r="4" fill="#3465a4"><title>UEFA (Glasgow)</title></circle></a><a href="/variants/s5/db1dr9db2dr9ly1~x4/"><circle cx="621.4" cy="273.6" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Red (Fashion)</title></circle></a><a href="/variants/s5/dr1db9ly2db9ly1~x4/"><circle cx="541.3" cy="258.0" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Blue (Fashion</title></circle></a><a href="/variants/s4/b20dp3db7y1~x4/"><circle cx="506.0" cy="238.4" r="4" fill="#3465a4"><title>Peacock</title></circle></a><a href="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/"><circle cx="437.0" cy="220.7" r="4" fill="#3465a4"><title>Oxford University (Corporate)</title></circle></a><circle cx="493.3" cy="327.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="488.6" cy="218.2" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><a href="/variants/s5/db30do9w1dr5y1~x4/"><circle cx="505.1" cy="183.1" r="4" fill="#3465a4"><title>Dunning Primary (School)</title></circle></a><a href="/variants/s5/db13n6dr51db51n5~x2/"><circle cx="481.5" cy="298.8" r="4" fill="#3465a4"><title>Hillsdale (Corporate?)</title></circle></a><a href="/variants/s5/db2w2dr8db8w1~x2/"><circle cx="309.2" cy="273.1" r="4" fill="#3465a4"><title>Laval (Tartan de..) District Tartan</title></circle></a><a href="/variants/s4/db20w1r12db12~x4/"><circle cx="446.7" cy="234.6" r="4" fill="#3465a4"><title>Masai Shuka 22 (Artefact)</title></circle></a><a href="/variants/s4/b30y5b4r12~x4/"><circle cx="429.3" cy="248.0" r="4" fill="#3465a4"><title>UEFA (Glasgow)</title></circle></a><a href="/variants/s5/db1dr9db2dr9ly1~x4/"><circle cx="621.7" cy="274.1" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Red (Fashion)</title></circle></a><a href="/variants/s5/dr1db9ly2db9ly1~x4/"><circle cx="541.5" cy="258.6" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Blue (Fashion</title></circle></a><a href="/variants/s4/b20dp3db7y1~x4/"><circle cx="506.1" cy="238.6" r="4" fill="#3465a4"><title>Peacock</title></circle></a><a href="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/"><circle cx="437.0" cy="221.1" r="4" fill="#3465a4"><title>Oxford University (Corporate)</title></circle></a><circle cx="493.5" cy="328.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/dr10db10lo1~x4/

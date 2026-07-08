@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Abercrombie"
   url: "/tartans/abercrombie/"
+- name: "Abercrombie"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db7k2db2k2db2k7g7w1g7/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKGWG](/stripes/bkbkbkgwg/).
@@ -14,7 +16,7 @@ Part of the [Abercrombie](/tartans/abercrombie/) tartan — the named design gro
 
 Sourced from logan-1831.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link /posts/logans-scottish-gael/
+Original link [/posts/logans-scottish-gael/](/posts/logans-scottish-gael/)
 
 ## Provenance
 
@@ -27,7 +29,7 @@ James Logan recorded the **Abercrombie** sett in 1831, on page 402 of the *Table
 
 > 3½ green · ½ white · 3½ green · 3½ black · 1 blue · 1 black · 1 blue · 1 black · 3½ blue
 
-In threads (at 8 to the eighth-inch) that is `G/28 W4 G28 K28 B8 K8 B8 K8 B/28`. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
+Rendered at 8 threads to the eighth-inch that is `G/28 W4 G28 K28 B8 K8 B8 K8 B/28` — the eighths are the captured data, and the threadcount is derived from them at that stated factor. How many threads an eighth of cloth held depends on the weave's density, so the factor is a display calibration, not Logan's count; the sett's identity lives in the proportions, which the eighths record directly. Logan named his colours rather than dyeing to a standard, so the palette here is the Dictionary's modern reading of his names.
 
 See [Logan's Scottish Gaël](/posts/logans-scottish-gael/) for the full table and method.
 
@@ -47,6 +49,7 @@ Later records of the **Abercrombie** name adjusted Logan's counts: [Abercrombie]
 <ol class="capture-chain">
 <li>James Logan, The Scottish Gaël (first edition) <small>1831</small> · Public domain<br><small>the printed Table of Clan Tartans, vol. II pp. 401-408, plus the Duke of Sussex plate</small></li>
 <li><a href="https://archive.org/details/scotishgalorcel02logagoog">Internet Archive scan</a><br><small>the digitised first edition the transcription was made from, cross-checked against the OCR</small></li>
+<li><a href="/posts/logans-scottish-gael/">Tartan Dictionary transcription — Logan's Scottish Gaël</a> <small>2026-06</small> · <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><br><small>by-eye transcription of the Table of Clan Tartans and the Duke of Sussex plate — depths in eighths of an inch, rendered at 8 threads per eighth (a display calibration anchored by the Register's Abercrombie ×8 stripe-for-stripe match); method and match report in the linked post</small></li>
 <li>this dictionary<br><small>each re-capture is a git commit to data/sources</small></li>
 </ol>
 </details>
@@ -88,8 +91,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db8k2db12k13g13w2k4w2g13k13db4~x2/"><circle cx="112.7" cy="209.6" r="4" fill="#3465a4"><title>Melville Family Tartan</title></circle></a><a href="/variants/s7/g21k6lb3g11k17db17k3~x2/"><circle cx="142.6" cy="224.9" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/variants/s5/db10k6lb1g6k1~x2/"><circle cx="133.4" cy="202.9" r="4" fill="#3465a4"><title>Unidentified No 115</title></circle></a><a href="/variants/s10/k3db17k20g18w4g18k20db18k2db2~x2/"><circle cx="135.0" cy="196.4" r="4" fill="#3465a4"><title>Argyll Campbell</title></circle></a><a href="/variants/s6/w2db10k10g11db2w2~x2~db1406275/"><circle cx="96.7" cy="223.6" r="4" fill="#3465a4"><title>Norwich No.026</title></circle></a><a href="/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/"><circle cx="145.5" cy="195.5" r="4" fill="#3465a4"><title>Granger/Grainger (Personal)</title></circle></a><a href="/variants/s7/g8k2lb1g4k6db6k1~x2/"><circle cx="156.8" cy="216.7" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/variants/s10/db18k17db3g18db4g18db3k17db18b4~x2/"><circle cx="134.1" cy="227.2" r="4" fill="#3465a4"><title>Scottish Airports Corporate Tartan</title></circle></a><a href="/variants/s7/g21k14g9db21k3db12dp3~x2/"><circle cx="157.3" cy="234.4" r="4" fill="#3465a4"><title>Scotsman</title></circle></a><a href="/variants/s7/g8k2w1g4k6db6k1~x2/"><circle cx="153.1" cy="215.6" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><circle cx="130.7" cy="215.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db8k2db12k13g13w2k4w2g13k13db4~x2/"><circle cx="112.8" cy="210.2" r="4" fill="#3465a4"><title>Melville Family Tartan</title></circle></a><a href="/variants/s7/g21k6lb3g11k17db17k3~x2/"><circle cx="142.6" cy="225.5" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/variants/s5/db10k6lb1g6k1~x2/"><circle cx="133.5" cy="203.5" r="4" fill="#3465a4"><title>Unidentified No 115</title></circle></a><a href="/variants/s10/k3db17k20g18w4g18k20db18k2db2~x2/"><circle cx="135.0" cy="196.9" r="4" fill="#3465a4"><title>Argyll Campbell</title></circle></a><a href="/variants/s6/w2db10k10g11db2w2~x2~db1406275/"><circle cx="96.7" cy="224.2" r="4" fill="#3465a4"><title>Norwich No.026</title></circle></a><a href="/variants/s10/g27k21db12k4db40k4db12k21g27w4~x2/"><circle cx="145.5" cy="196.0" r="4" fill="#3465a4"><title>Granger/Grainger (Personal)</title></circle></a><a href="/variants/s7/g8k2lb1g4k6db6k1~x2/"><circle cx="156.8" cy="217.3" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/variants/s10/db18k17db3g18db4g18db3k17db18b4~x2/"><circle cx="134.2" cy="227.7" r="4" fill="#3465a4"><title>Scottish Airports Corporate Tartan</title></circle></a><a href="/variants/s7/g21k14g9db21k3db12dp3~x2/"><circle cx="157.4" cy="235.0" r="4" fill="#3465a4"><title>Scotsman</title></circle></a><a href="/variants/s7/g8k2w1g4k6db6k1~x2/"><circle cx="153.2" cy="216.2" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><circle cx="130.8" cy="216.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/db7k2db2k2db2k7g7w1g7~x4/

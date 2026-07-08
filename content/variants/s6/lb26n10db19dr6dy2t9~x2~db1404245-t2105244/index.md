@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Meeson Formal"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb26n10db19dr6dy2t9/)
 (the same proportion at any scale), whose colour order is pattern [BGBBBW](/stripes/bgbbbw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6026
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6026](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6026)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.5" cy="200.7" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><circle cx="198.7" cy="203.6" r="4" fill="#3465a4"><title>Allanton Dress (Fashion)</title></circle></a><a href="/variants/s8/g6dp14t22db6ly16w1db6t6~x2/"><circle cx="178.0" cy="183.8" r="4" fill="#3465a4"><title>Scotia (Fashion)</title></circle></a><a href="/variants/s7/r3db20t20g2lr4lb17w3~x2~t2405244-lr2800000-lb3401240/"><circle cx="101.2" cy="177.9" r="4" fill="#3465a4"><title>Silversea (Corporate)</title></circle></a><a href="/variants/s7/y4db4lb5dbi24y2db24w4~x2~db1204274-dbi1406275/"><circle cx="269.2" cy="203.5" r="4" fill="#3465a4"><title>Mina Perhonen Japanese Corporate Tartan</title></circle></a><a href="/variants/s8/g6dp14t22db6ly16w1db6t6~x2~g2408144/"><circle cx="176.5" cy="183.4" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/variants/s6/dr4do27ly6n19t38w4~x2/"><circle cx="242.5" cy="239.5" r="4" fill="#3465a4"><title>State Seal of Michigan (Fashion)</title></circle></a><a href="/variants/s8/db1lb12b6w1dy3db14t18w1~x2/"><circle cx="189.0" cy="177.5" r="4" fill="#3465a4"><title>Ancient Gathering</title></circle></a><a href="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db1004274-dbi1404245/"><circle cx="179.2" cy="169.3" r="4" fill="#3465a4"><title>Ancient Gathering</title></circle></a><a href="/variants/s5/dp10db10g10w1dy1~x6/"><circle cx="202.6" cy="247.2" r="4" fill="#3465a4"><title>Edelstein (Personal)</title></circle></a><circle cx="185.3" cy="217.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db13y2r4g2lb8w2~x6/"><circle cx="143.5" cy="201.2" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/variants/s6/g4w28db14y2lb17g4~x2/"><circle cx="198.8" cy="204.1" r="4" fill="#3465a4"><title>Allanton Dress (Fashion)</title></circle></a><a href="/variants/s8/g6dp14t22db6ly16w1db6t6~x2/"><circle cx="178.0" cy="184.1" r="4" fill="#3465a4"><title>Scotia (Fashion)</title></circle></a><a href="/variants/s7/r3db20t20g2lr4lb17w3~x2~t2405244-lr2800000-lb3401240/"><circle cx="101.3" cy="178.2" r="4" fill="#3465a4"><title>Silversea (Corporate)</title></circle></a><a href="/variants/s7/y4db4lb5dbi24y2db24w4~x2~db1204274-dbi1406275/"><circle cx="269.3" cy="203.7" r="4" fill="#3465a4"><title>Mina Perhonen Japanese Corporate Tartan</title></circle></a><a href="/variants/s8/g6dp14t22db6ly16w1db6t6~x2~g2408144/"><circle cx="176.5" cy="183.7" r="4" fill="#3465a4"><title>Scotia</title></circle></a><a href="/variants/s6/dr4do27ly6n19t38w4~x2/"><circle cx="242.7" cy="239.8" r="4" fill="#3465a4"><title>State Seal of Michigan (Fashion)</title></circle></a><a href="/variants/s8/db1lb12b6w1dy3db14t18w1~x2/"><circle cx="189.1" cy="177.8" r="4" fill="#3465a4"><title>Ancient Gathering</title></circle></a><a href="/variants/s8/db1lb12dp6w1y3db14dbi18w1~x2~db1004274-dbi1404245/"><circle cx="179.2" cy="169.5" r="4" fill="#3465a4"><title>Ancient Gathering</title></circle></a><a href="/variants/s5/dp10db10g10w1dy1~x6/"><circle cx="202.7" cy="247.7" r="4" fill="#3465a4"><title>Edelstein (Personal)</title></circle></a><circle cx="185.4" cy="218.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/lb26n10db19dr6dy2t9~x2~db1404245-t2105244/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Salem Scottish Dancer's Wee Bluet"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db10t10db60w9db7t36w6db6/)
 (the same proportion at any scale), whose colour order is pattern [BBBWBBWB](/stripes/bbbwbbwb/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3642
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3642](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3642)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db9lb27db2ly4db2lb10db2w3~x2/"><circle cx="393.9" cy="199.2" r="4" fill="#3465a4"><title>Alaska Highlanders P &amp; D (Corporate)</title></circle></a><a href="/variants/s6/db3lb3db16lb16db16w3~x2/"><circle cx="359.3" cy="288.6" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/variants/s6/db3w1db12b12db1b3~x4/"><circle cx="431.4" cy="265.1" r="4" fill="#3465a4"><title>Erskine Blue (Fashion)</title></circle></a><a href="/variants/s7/db2lb4w1lb4db6lb2db2~x4/"><circle cx="287.0" cy="295.1" r="4" fill="#3465a4"><title>Langdons</title></circle></a><a href="/variants/s9/db12y1lb16db1lb1db14lb3db14y1~x4/"><circle cx="403.4" cy="195.7" r="4" fill="#3465a4"><title>Orlando Police Department (Corporate</title></circle></a><a href="/variants/s9/db12y1lb16db1lb1db14lb3db14y1~x4~db1406275/"><circle cx="387.1" cy="175.8" r="4" fill="#3465a4"><title>Orlando Police Department</title></circle></a><a href="/variants/s10/w2db13b13y2b13db13w2db6b6y1~x2/"><circle cx="310.1" cy="224.3" r="4" fill="#3465a4"><title>Westwood MacSky (Fashion)</title></circle></a><a href="/variants/s9/n1lb6db4lb1db16dt1db4dt6lb1~x4~dt1602194/"><circle cx="393.5" cy="198.1" r="4" fill="#3465a4"><title>Fujisankei Serene</title></circle></a><a href="/variants/s5/db24t13db4t4w2~x2/"><circle cx="435.3" cy="262.5" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/variants/s5/db24lb13db4lb4w2~x2/"><circle cx="396.4" cy="249.0" r="4" fill="#3465a4"><title>Gallaecia (Unofficial) (District)</title></circle></a><circle cx="377.9" cy="230.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/db9lb27db2ly4db2lb10db2w3~x2/"><circle cx="394.0" cy="199.7" r="4" fill="#3465a4"><title>Alaska Highlanders P &amp; D (Corporate)</title></circle></a><a href="/variants/s6/db3lb3db16lb16db16w3~x2/"><circle cx="359.5" cy="289.4" r="4" fill="#3465a4"><title>Murray Taylor</title></circle></a><a href="/variants/s6/db3w1db12b12db1b3~x4/"><circle cx="431.6" cy="265.5" r="4" fill="#3465a4"><title>Erskine Blue (Fashion)</title></circle></a><a href="/variants/s7/db2lb4w1lb4db6lb2db2~x4/"><circle cx="287.3" cy="295.9" r="4" fill="#3465a4"><title>Langdons</title></circle></a><a href="/variants/s9/db12y1lb16db1lb1db14lb3db14y1~x4/"><circle cx="403.5" cy="196.2" r="4" fill="#3465a4"><title>Orlando Police Department (Corporate</title></circle></a><a href="/variants/s9/db12y1lb16db1lb1db14lb3db14y1~x4~db1406275/"><circle cx="387.2" cy="176.2" r="4" fill="#3465a4"><title>Orlando Police Department</title></circle></a><a href="/variants/s10/w2db13b13y2b13db13w2db6b6y1~x2/"><circle cx="310.2" cy="224.7" r="4" fill="#3465a4"><title>Westwood MacSky (Fashion)</title></circle></a><a href="/variants/s9/n1lb6db4lb1db16dt1db4dt6lb1~x4~dt1602194/"><circle cx="393.5" cy="198.4" r="4" fill="#3465a4"><title>Fujisankei Serene</title></circle></a><a href="/variants/s5/db24t13db4t4w2~x2/"><circle cx="435.4" cy="263.0" r="4" fill="#3465a4"><title>Gallaecia - Galicia National</title></circle></a><a href="/variants/s5/db24lb13db4lb4w2~x2/"><circle cx="396.5" cy="249.6" r="4" fill="#3465a4"><title>Gallaecia (Unofficial) (District)</title></circle></a><circle cx="378.0" cy="231.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db10t10db60w9db7t36w6db6/

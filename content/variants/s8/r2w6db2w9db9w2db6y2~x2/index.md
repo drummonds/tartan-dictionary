@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/north/"
 - name: "North Vancouver Island"
   url: "/tartans/north-vancouver-island/"
+- name: "North Vancouver, Island"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2w6db2w9db9w2db6y2/)
 (the same proportion at any scale), whose colour order is pattern [GBWBWBWR](/stripes/gbwbwbwr/).
@@ -16,7 +18,7 @@ Part of the [North Vancouver Island](/tartans/north-vancouver-island/) tartan �
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -83,8 +85,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy2db6w2db9w9db2w6r2~x4/"><circle cx="177.9" cy="241.7" r="4" fill="#3465a4"><title>North Vancouver Island</title></circle></a><a href="/variants/s7/w5r3w26db21w3db8y3~x2/"><circle cx="251.3" cy="202.2" r="4" fill="#3465a4"><title>MacPherson, Blue &amp; White</title></circle></a><a href="/variants/s7/r5k3lb22k17lb22k3y5~x2/"><circle cx="223.2" cy="193.1" r="4" fill="#3465a4"><title>MacCrimmon from Skye</title></circle></a><a href="/variants/s8/y8db4lb23w3db22w25db3w6~x2/"><circle cx="180.0" cy="226.7" r="4" fill="#3465a4"><title>Culloden, Blue Dress (Dance)</title></circle></a><a href="/variants/s6/w5db16w5db16w33r3~x2/"><circle cx="306.6" cy="221.0" r="4" fill="#3465a4"><title>Buchanan Dress, Blue (Dance)</title></circle></a><a href="/variants/s7/db7w1r7db4r2db4w2~x2/"><circle cx="274.6" cy="246.8" r="4" fill="#3465a4"><title>Coronation</title></circle></a><a href="/variants/s8/b2w4k2w1b4k1b1g1~x4/"><circle cx="123.7" cy="236.5" r="4" fill="#3465a4"><title>Culloden - 1977 (Fashion)</title></circle></a><a href="/variants/s9/w1b3w3b1w5k1w2k3lo1~x4/"><circle cx="179.7" cy="224.6" r="4" fill="#3465a4"><title>Henderson Dress (Dance)</title></circle></a><a href="/variants/s4/r7w36db36y7~x2/"><circle cx="182.2" cy="258.4" r="4" fill="#3465a4"><title>MacRae of Conchra #3</title></circle></a><a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4/"><circle cx="145.4" cy="218.9" r="4" fill="#3465a4"><title>Commonwealth Games 1986 (Corporate)</title></circle></a><circle cx="178.7" cy="242.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dy2db6w2db9w9db2w6r2~x4/"><circle cx="178.0" cy="242.4" r="4" fill="#3465a4"><title>North Vancouver Island</title></circle></a><a href="/variants/s7/w5r3w26db21w3db8y3~x2/"><circle cx="251.4" cy="202.8" r="4" fill="#3465a4"><title>MacPherson, Blue &amp; White</title></circle></a><a href="/variants/s7/r5k3lb22k17lb22k3y5~x2/"><circle cx="223.3" cy="193.8" r="4" fill="#3465a4"><title>MacCrimmon from Skye</title></circle></a><a href="/variants/s8/y8db4lb23w3db22w25db3w6~x2/"><circle cx="180.1" cy="227.3" r="4" fill="#3465a4"><title>Culloden, Blue Dress (Dance)</title></circle></a><a href="/variants/s6/w5db16w5db16w33r3~x2/"><circle cx="306.8" cy="221.7" r="4" fill="#3465a4"><title>Buchanan Dress, Blue (Dance)</title></circle></a><a href="/variants/s7/db7w1r7db4r2db4w2~x2/"><circle cx="274.8" cy="247.5" r="4" fill="#3465a4"><title>Coronation</title></circle></a><a href="/variants/s8/b2w4k2w1b4k1b1g1~x4/"><circle cx="123.8" cy="237.3" r="4" fill="#3465a4"><title>Culloden - 1977 (Fashion)</title></circle></a><a href="/variants/s9/w1b3w3b1w5k1w2k3lo1~x4/"><circle cx="179.9" cy="225.4" r="4" fill="#3465a4"><title>Henderson Dress (Dance)</title></circle></a><a href="/variants/s4/r7w36db36y7~x2/"><circle cx="182.4" cy="259.3" r="4" fill="#3465a4"><title>MacRae of Conchra #3</title></circle></a><a href="/variants/s10/db6w2r6w3k2w6db10r2db3r2~x4/"><circle cx="145.5" cy="219.6" r="4" fill="#3465a4"><title>Commonwealth Games 1986 (Corporate)</title></circle></a><circle cx="178.9" cy="242.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r2w6db2w9db9w2db6y2~x2/

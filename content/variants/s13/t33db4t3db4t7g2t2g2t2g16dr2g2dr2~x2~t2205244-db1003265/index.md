@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "International Cricket Council"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t33db4t3db4t7g2t2g2t2g16dr2g2dr2/)
 (the same proportion at any scale), whose colour order is pattern [BBBBBGBGBGBGB](/stripes/bbbbbgbgbgbgb/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11570
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11570](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11570)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144/"><circle cx="373.7" cy="161.1" r="4" fill="#3465a4"><title>Wiregrass (District)</title></circle></a><a href="/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/"><circle cx="411.3" cy="183.3" r="4" fill="#3465a4"><title>Kinross</title></circle></a><a href="/variants/s9/n8y4n35db2lb8db2n4db21n4~x2/"><circle cx="420.3" cy="194.3" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/variants/s8/dg36db3dg3db3dg6t34dr4t4~x2/"><circle cx="379.9" cy="214.8" r="4" fill="#3465a4"><title>Wcwm 1530</title></circle></a><a href="/variants/s13/t12r4db4t42r6t6db11t6g19t8r4t6db6/"><circle cx="361.9" cy="195.4" r="4" fill="#3465a4"><title>Bermuda Blue</title></circle></a><a href="/variants/s9/n8y4n35db2lt8db2n4db21n4~x2~db1108266-lt3103227/"><circle cx="399.0" cy="187.6" r="4" fill="#3465a4"><title>Bedford Academy</title></circle></a><a href="/variants/s11/t42db10lo2db2lb2db2t10lb6db2lb3t2~x2/"><circle cx="482.5" cy="168.6" r="4" fill="#3465a4"><title>Goil Dress</title></circle></a><a href="/variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/"><circle cx="399.6" cy="177.2" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><a href="/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/"><circle cx="360.2" cy="191.3" r="4" fill="#3465a4"><title>Wicklow</title></circle></a><circle cx="425.7" cy="172.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/dg2t1b2g4b3g8b22dg1g4b2dg7b2g2b2dg2b4dg1g3t2~x2~dg1806142-g2408144/"><circle cx="373.7" cy="161.1" r="4" fill="#3465a4"><title>Wiregrass (District)</title></circle></a><a href="/variants/s8/dg20db2g6db2dg4db27lo2db8~x2/"><circle cx="411.4" cy="183.5" r="4" fill="#3465a4"><title>Kinross</title></circle></a><a href="/variants/s9/n8y4n35db2lb8db2n4db21n4~x2/"><circle cx="420.4" cy="194.5" r="4" fill="#3465a4"><title>Bedford Academy (Corporate)</title></circle></a><a href="/variants/s8/dg36db3dg3db3dg6t34dr4t4~x2/"><circle cx="380.0" cy="215.0" r="4" fill="#3465a4"><title>Wcwm 1530</title></circle></a><a href="/variants/s13/t12r4db4t42r6t6db11t6g19t8r4t6db6/"><circle cx="362.0" cy="195.7" r="4" fill="#3465a4"><title>Bermuda Blue</title></circle></a><a href="/variants/s9/n8y4n35db2lt8db2n4db21n4~x2~db1108266-lt3103227/"><circle cx="399.1" cy="187.8" r="4" fill="#3465a4"><title>Bedford Academy</title></circle></a><a href="/variants/s11/t42db10lo2db2lb2db2t10lb6db2lb3t2~x2/"><circle cx="482.6" cy="168.7" r="4" fill="#3465a4"><title>Goil Dress</title></circle></a><a href="/variants/s9/b23dt2b2dt2b2dt28r2dt4t2~x2/"><circle cx="399.6" cy="177.4" r="4" fill="#3465a4"><title>Trotter (Personal)</title></circle></a><a href="/variants/s10/do2db4g12db3do6lb2db24do2db2g2~x2/"><circle cx="360.3" cy="191.5" r="4" fill="#3465a4"><title>Wicklow</title></circle></a><circle cx="425.8" cy="172.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/t33db4t3db4t7g2t2g2t2g16dr2g2dr2~x2~t2205244-db1003265/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Mekos, The"
   url: "/tartans/mekos-the/"
+- name: "Mekos, The"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy19g23ly3db15r11w5/)
 (the same proportion at any scale), whose colour order is pattern [GGYBRW](/stripes/ggybrw/).
@@ -14,7 +16,7 @@ Part of the [Mekos, The](/tartans/mekos-the/) tartan — the named design groupi
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11072
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11072](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11072)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="96.4" cy="230.7" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="107.4" cy="274.3" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/variants/s7/dy17n5db2w12db2y4g7~x2/"><circle cx="119.6" cy="206.2" r="4" fill="#3465a4"><title>Ontario Northern Canadian District Tartan</title></circle></a><a href="/variants/s5/do9ly9n9r1lb1~x4/"><circle cx="169.4" cy="234.4" r="4" fill="#3465a4"><title>Jardine #2</title></circle></a><a href="/variants/s5/dy5n21ly11db12r5~x2/"><circle cx="147.7" cy="273.9" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s6/n7w1r6db10g10w1~x4/"><circle cx="135.7" cy="229.3" r="4" fill="#3465a4"><title>McEachem (Name)</title></circle></a><a href="/variants/s6/r3y2g12dp12db14w3~x2/"><circle cx="105.5" cy="219.7" r="4" fill="#3465a4"><title>Jamestown Parish Church (Corporate)</title></circle></a><a href="/variants/s5/r1dy5g5w5y1~x8/"><circle cx="90.1" cy="258.0" r="4" fill="#3465a4"><title>Eastern Townshippers (Corporate)</title></circle></a><a href="/variants/s6/n7w1r6db10dg10w1~x4/"><circle cx="144.4" cy="229.3" r="4" fill="#3465a4"><title>McEachern, Andrew</title></circle></a><a href="/variants/s7/dy17g5db2w12db2y4g7~x4~g2203152-db1106275/"><circle cx="145.6" cy="219.1" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><circle cx="91.7" cy="229.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dy19g23y3db15r11w5~x2/"><circle cx="96.5" cy="231.3" r="4" fill="#3465a4"><title>Mekos, The</title></circle></a><a href="/variants/s5/r13y13g13db22w4~x2/"><circle cx="107.6" cy="275.0" r="4" fill="#3465a4"><title>Clan Haggis World (Corporate)</title></circle></a><a href="/variants/s7/dy17n5db2w12db2y4g7~x2/"><circle cx="119.7" cy="206.7" r="4" fill="#3465a4"><title>Ontario Northern Canadian District Tartan</title></circle></a><a href="/variants/s5/do9ly9n9r1lb1~x4/"><circle cx="169.5" cy="235.0" r="4" fill="#3465a4"><title>Jardine #2</title></circle></a><a href="/variants/s5/dy5n21ly11db12r5~x2/"><circle cx="147.9" cy="274.5" r="4" fill="#3465a4"><title>Inspiration</title></circle></a><a href="/variants/s6/n7w1r6db10g10w1~x4/"><circle cx="135.8" cy="229.8" r="4" fill="#3465a4"><title>McEachem (Name)</title></circle></a><a href="/variants/s6/r3y2g12dp12db14w3~x2/"><circle cx="105.6" cy="220.1" r="4" fill="#3465a4"><title>Jamestown Parish Church (Corporate)</title></circle></a><a href="/variants/s5/r1dy5g5w5y1~x8/"><circle cx="90.3" cy="258.8" r="4" fill="#3465a4"><title>Eastern Townshippers (Corporate)</title></circle></a><a href="/variants/s6/n7w1r6db10dg10w1~x4/"><circle cx="144.5" cy="229.8" r="4" fill="#3465a4"><title>McEachern, Andrew</title></circle></a><a href="/variants/s7/dy17g5db2w12db2y4g7~x4~g2203152-db1106275/"><circle cx="145.7" cy="219.6" r="4" fill="#3465a4"><title>Northern Ontario</title></circle></a><circle cx="91.8" cy="230.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dy19g23ly3db15r11w5~x2/

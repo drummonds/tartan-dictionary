@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Londonderry Irish County Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g10lo8o5k2g3k2o5lo8g12k2o6k2g2/)
 (the same proportion at any scale), whose colour order is pattern [GKRKGYRKGKRYG](/stripes/gkrkgyrkgkryg/).
 
 Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2279
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2279](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2279)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/y14g4k4w4g12y4g12w4k4r6g4w4g3y4k4~x2/"><circle cx="74.2" cy="198.0" r="4" fill="#3465a4"><title>Gayre Dress (Clan)</title></circle></a><a href="/variants/s15/ri20g4k4lb4g16ri4g16lb4k4r6g4lb4g3ri6k4~x2~ri2109032-lb3200000/"><circle cx="123.6" cy="164.2" r="4" fill="#3465a4"><title>Gayre (Clan)</title></circle></a><a href="/variants/s15/r18g4k4w4g16db4g16w4k4r5g4w4g3r5k4~x2/"><circle cx="111.9" cy="165.0" r="4" fill="#3465a4"><title>Gayre Bodyguard (Clan)</title></circle></a><a href="/variants/s13/r12g16r3g16r3g16r4db16r5k9r12g3r12~x2/"><circle cx="138.9" cy="217.3" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><a href="/variants/s7/o6k2dg12ly8o5k2dg3~x4/"><circle cx="135.6" cy="228.2" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/"><circle cx="123.4" cy="182.2" r="4" fill="#3465a4"><title>Eire</title></circle></a><a href="/variants/s10/o9k2o2r2g6k1y1k1g6r3~x2/"><circle cx="147.4" cy="177.7" r="4" fill="#3465a4"><title>MacAart</title></circle></a><a href="/variants/s16/g22k2g5k2y10k3y10k2g5k2g22r8k2r8k2r8~x2/"><circle cx="199.5" cy="151.2" r="4" fill="#3465a4"><title>MacMillan (1946)</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4~r2109032/"><circle cx="129.8" cy="205.8" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/variants/s9/k4r14t2g16r3k3r3t12g4~x2/"><circle cx="134.9" cy="197.1" r="4" fill="#3465a4"><title>Crook (Name)</title></circle></a><circle cx="127.4" cy="205.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/y14g4k4w4g12y4g12w4k4r6g4w4g3y4k4~x2/"><circle cx="74.3" cy="198.5" r="4" fill="#3465a4"><title>Gayre Dress (Clan)</title></circle></a><a href="/variants/s15/ri20g4k4lb4g16ri4g16lb4k4r6g4lb4g3ri6k4~x2~ri2109032-lb3200000/"><circle cx="123.6" cy="164.7" r="4" fill="#3465a4"><title>Gayre (Clan)</title></circle></a><a href="/variants/s15/r18g4k4w4g16db4g16w4k4r5g4w4g3r5k4~x2/"><circle cx="112.0" cy="165.5" r="4" fill="#3465a4"><title>Gayre Bodyguard (Clan)</title></circle></a><a href="/variants/s13/r12g16r3g16r3g16r4db16r5k9r12g3r12~x2/"><circle cx="139.0" cy="218.0" r="4" fill="#3465a4"><title>Grant of Monymusk</title></circle></a><a href="/variants/s7/o6k2dg12ly8o5k2dg3~x4/"><circle cx="135.7" cy="228.9" r="4" fill="#3465a4"><title>Londonderry, County</title></circle></a><a href="/variants/s9/g6lr2g10k3dr1k3lo10lr2lo6~x4/"><circle cx="123.5" cy="182.7" r="4" fill="#3465a4"><title>Eire</title></circle></a><a href="/variants/s10/o9k2o2r2g6k1y1k1g6r3~x2/"><circle cx="147.4" cy="178.1" r="4" fill="#3465a4"><title>MacAart</title></circle></a><a href="/variants/s16/g22k2g5k2y10k3y10k2g5k2g22r8k2r8k2r8~x2/"><circle cx="199.5" cy="151.6" r="4" fill="#3465a4"><title>MacMillan (1946)</title></circle></a><a href="/variants/s5/g6k1r1lb2r2~x4~r2109032/"><circle cx="129.9" cy="206.4" r="4" fill="#3465a4"><title>Wilson's No.193</title></circle></a><a href="/variants/s9/k4r14t2g16r3k3r3t12g4~x2/"><circle cx="135.0" cy="197.6" r="4" fill="#3465a4"><title>Crook (Name)</title></circle></a><circle cx="127.5" cy="206.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/g10lo8o5k2g3k2o5lo8g12k2o6k2g2~x4/

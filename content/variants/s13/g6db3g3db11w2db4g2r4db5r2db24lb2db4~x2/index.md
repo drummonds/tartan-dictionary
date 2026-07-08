@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Massachusetts-The Bay State"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g6db3g3db11w2db4g2r4db5r2db24lb2db4/)
 (the same proportion at any scale), whose colour order is pattern [BWBRBRGBWBGBG](/stripes/bwbrbrgbwbgbg/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2851
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2851](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2851)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g12db6g6db22w4db8g4r8db10r3db48lb4db8/"><circle cx="388.3" cy="131.9" r="4" fill="#3465a4"><title>Massachusetts - The Bay State</title></circle></a><a href="/variants/s13/db24r2db8y5db4w5db4y5db4w5db8r2db24~x2/"><circle cx="411.1" cy="160.3" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/"><circle cx="391.0" cy="176.5" r="4" fill="#3465a4"><title>Eidart</title></circle></a><a href="/variants/s8/db30r3db3y3db3g30db36w5~x2/"><circle cx="340.5" cy="171.6" r="4" fill="#3465a4"><title>De Nardi Hunting (Personal)</title></circle></a><a href="/variants/s10/r2db8dy1db16w1g12db27w1db1w1~x2/"><circle cx="447.5" cy="117.4" r="4" fill="#3465a4"><title>World Youth Congress (Corporate)</title></circle></a><a href="/variants/s9/db26r3db3w2db3r3db6r6y2~x4/"><circle cx="414.9" cy="152.6" r="4" fill="#3465a4"><title>Newton Primary School, Dunblane</title></circle></a><a href="/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/"><circle cx="417.7" cy="153.5" r="4" fill="#3465a4"><title>Newton Primary School</title></circle></a><a href="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2~g2408144-lb3203246/"><circle cx="313.2" cy="144.0" r="4" fill="#3465a4"><title>Jethart</title></circle></a><a href="/variants/s13/db29r2db10y5db4w5db4y5db4w5db10r2db29~x2/"><circle cx="449.9" cy="147.7" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/variants/s11/g8db3g2db4ly2db5g7db4g4db37r6~db1204274/"><circle cx="396.6" cy="137.7" r="4" fill="#3465a4"><title>Jenkins (Welsh Name)</title></circle></a><circle cx="374.8" cy="143.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/g12db6g6db22w4db8g4r8db10r3db48lb4db8/"><circle cx="388.3" cy="132.2" r="4" fill="#3465a4"><title>Massachusetts - The Bay State</title></circle></a><a href="/variants/s13/db24r2db8y5db4w5db4y5db4w5db8r2db24~x2/"><circle cx="411.1" cy="160.7" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/variants/s12/db28r15db27r2db27r3db26n20w3n2w2n4~x2/"><circle cx="391.0" cy="176.8" r="4" fill="#3465a4"><title>Eidart</title></circle></a><a href="/variants/s8/db30r3db3y3db3g30db36w5~x2/"><circle cx="340.5" cy="171.9" r="4" fill="#3465a4"><title>De Nardi Hunting (Personal)</title></circle></a><a href="/variants/s10/r2db8dy1db16w1g12db27w1db1w1~x2/"><circle cx="447.5" cy="117.5" r="4" fill="#3465a4"><title>World Youth Congress (Corporate)</title></circle></a><a href="/variants/s9/db26r3db3w2db3r3db6r6y2~x4/"><circle cx="414.9" cy="153.0" r="4" fill="#3465a4"><title>Newton Primary School, Dunblane</title></circle></a><a href="/variants/s9/db26r3db3w2db3r3db6r6dy2~x4/"><circle cx="417.7" cy="153.8" r="4" fill="#3465a4"><title>Newton Primary School</title></circle></a><a href="/variants/s9/k22b16dr3b16k2b16g3b3lb5~x2~g2408144-lb3203246/"><circle cx="313.1" cy="144.4" r="4" fill="#3465a4"><title>Jethart</title></circle></a><a href="/variants/s13/db29r2db10y5db4w5db4y5db4w5db10r2db29~x2/"><circle cx="449.9" cy="148.1" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/variants/s11/g8db3g2db4ly2db5g7db4g4db37r6~db1204274/"><circle cx="396.5" cy="137.9" r="4" fill="#3465a4"><title>Jenkins (Welsh Name)</title></circle></a><circle cx="374.7" cy="143.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/g6db3g3db11w2db4g2r4db5r2db24lb2db4~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Old Dobbs County (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g10k1g10db1g1k1g1k1db10k1lo1dr1/)
 (the same proportion at any scale), whose colour order is pattern [BYKBKGKGBGKG](/stripes/bykbkgkgbgkg/).
 
 Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7954
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7954](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7954)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g6k3g6k3t3k3t25r3t3y3~x2/"><circle cx="229.0" cy="155.5" r="4" fill="#3465a4"><title>Borders Health Board (Corporate)</title></circle></a><a href="/variants/s8/g13dp1g1dp1g3db5k4y2~x2/"><circle cx="253.1" cy="154.3" r="4" fill="#3465a4"><title>Carrick, hunting</title></circle></a><a href="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/"><circle cx="224.1" cy="133.8" r="4" fill="#3465a4"><title>Hay Hunting</title></circle></a><a href="/variants/s18/t25k3t3k3g6k3g6k3g6k3t3k3t25r3t3y3t3r3~x2/"><circle cx="238.1" cy="127.8" r="4" fill="#3465a4"><title>Borders Health Board</title></circle></a><a href="/variants/s9/dy1k6g4k1g16db1g4db6w1~x4/"><circle cx="268.4" cy="135.8" r="4" fill="#3465a4"><title>Henderson/MacKendrick</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x2/"><circle cx="268.4" cy="135.9" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x4/"><circle cx="268.4" cy="135.9" r="4" fill="#3465a4"><title>MacKendrick (Clan)</title></circle></a><a href="/variants/s11/db4lb2k2db12lb4g6k6g28k2lb2g3~x2/"><circle cx="235.7" cy="139.4" r="4" fill="#3465a4"><title>Hudson Hunting (Personal)</title></circle></a><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="257.9" cy="150.7" r="4" fill="#3465a4"><title>Shanahan (Corporate)</title></circle></a><a href="/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="254.1" cy="134.4" r="4" fill="#3465a4"><title>Shanahan</title></circle></a><circle cx="253.9" cy="134.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/g6k3g6k3t3k3t25r3t3y3~x2/"><circle cx="229.0" cy="155.8" r="4" fill="#3465a4"><title>Borders Health Board (Corporate)</title></circle></a><a href="/variants/s8/g13dp1g1dp1g3db5k4y2~x2/"><circle cx="253.0" cy="154.7" r="4" fill="#3465a4"><title>Carrick, hunting</title></circle></a><a href="/variants/s14/g6db4y2db17g2db2g2db8g26db6g4k2g4w6~x2/"><circle cx="224.1" cy="134.0" r="4" fill="#3465a4"><title>Hay Hunting</title></circle></a><a href="/variants/s18/t25k3t3k3g6k3g6k3g6k3t3k3t25r3t3y3t3r3~x2/"><circle cx="238.1" cy="128.1" r="4" fill="#3465a4"><title>Borders Health Board</title></circle></a><a href="/variants/s9/dy1k6g4k1g16db1g4db6w1~x4/"><circle cx="268.4" cy="136.1" r="4" fill="#3465a4"><title>Henderson/MacKendrick</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x2/"><circle cx="268.3" cy="136.2" r="4" fill="#3465a4"><title>MacKendrick</title></circle></a><a href="/variants/s9/y1k6g4k1g16db1g4db6w1~x4/"><circle cx="268.3" cy="136.2" r="4" fill="#3465a4"><title>MacKendrick (Clan)</title></circle></a><a href="/variants/s11/db4lb2k2db12lb4g6k6g28k2lb2g3~x2/"><circle cx="235.7" cy="139.8" r="4" fill="#3465a4"><title>Hudson Hunting (Personal)</title></circle></a><a href="/variants/s9/k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="257.9" cy="151.0" r="4" fill="#3465a4"><title>Shanahan (Corporate)</title></circle></a><a href="/variants/s16/t17dg16k2dg24ly3k4r2k2r2k4ly3dg24k2dg16t17r2~x2/"><circle cx="254.1" cy="134.6" r="4" fill="#3465a4"><title>Shanahan</title></circle></a><circle cx="253.9" cy="134.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/g10k1g10db1g1k1g1k1db10k1lo1dr1~x4/

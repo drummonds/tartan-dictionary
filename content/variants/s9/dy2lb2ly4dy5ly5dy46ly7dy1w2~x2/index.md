@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "KIltwalk, The (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy2lb2ly4dy5ly5dy46ly7dy1w2/)
 (the same proportion at any scale), whose colour order is pattern [GWYGYGYGW](/stripes/gwygygygw/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8529
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8529](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8529)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>

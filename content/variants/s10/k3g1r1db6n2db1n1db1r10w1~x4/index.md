@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Crieff Primary School"
   url: "/tartans/crieff-primary-school/"
+- name: "Crieff Primary School"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3g1r1db6n2db1n1db1r10w1/)
 (the same proportion at any scale), whose colour order is pattern [KGRBBBBBRW](/stripes/kgrbbbbbrw/).
@@ -14,7 +16,7 @@ Part of the [Crieff Primary School](/tartans/crieff-primary-school/) tartan — 
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11011
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11011](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11011)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4db12lb3db4g8lo2r24db4r4~x2/"><circle cx="161.5" cy="132.0" r="4" fill="#3465a4"><title>MacCreary (Personal)</title></circle></a><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/"><circle cx="145.1" cy="113.2" r="4" fill="#3465a4"><title>Asman, Dress (Name)</title></circle></a><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2~db1406275/"><circle cx="151.0" cy="114.2" r="4" fill="#3465a4"><title>Asman Red (Personal)</title></circle></a><a href="/variants/s11/r4k4r32g4w3g4k13g3db18r2y3~x2/"><circle cx="148.6" cy="96.1" r="4" fill="#3465a4"><title>Norwell</title></circle></a><a href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/"><circle cx="199.7" cy="125.9" r="4" fill="#3465a4"><title>Caledon (Corporate)</title></circle></a><a href="/variants/s13/y1k1r8db1r1dg8r1db8r1dg1r8k1w1~x6/"><circle cx="170.2" cy="125.1" r="4" fill="#3465a4"><title>Robieson</title></circle></a><a href="/variants/s10/dg3g3r22k5db22y2db22k5r22g3~x2~dg1806142-g2408144/"><circle cx="158.4" cy="138.8" r="4" fill="#3465a4"><title>MacLeod Society of Scotland Clan Tartan</title></circle></a><a href="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/"><circle cx="156.0" cy="109.2" r="4" fill="#3465a4"><title>Catalan Dance</title></circle></a><a href="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/"><circle cx="147.9" cy="91.5" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/variants/s14/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2~x2/"><circle cx="148.1" cy="88.9" r="4" fill="#3465a4"><title>Brown of Castledean (Artefact)</title></circle></a><circle cx="148.4" cy="124.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4db12lb3db4g8lo2r24db4r4~x2/"><circle cx="161.5" cy="132.3" r="4" fill="#3465a4"><title>MacCreary (Personal)</title></circle></a><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2/"><circle cx="145.0" cy="113.4" r="4" fill="#3465a4"><title>Asman, Dress (Name)</title></circle></a><a href="/variants/s10/db4dy3db22n6w2k6w2r26k3r4~x2~db1406275/"><circle cx="151.0" cy="114.4" r="4" fill="#3465a4"><title>Asman Red (Personal)</title></circle></a><a href="/variants/s11/r4k4r32g4w3g4k13g3db18r2y3~x2/"><circle cx="148.5" cy="96.3" r="4" fill="#3465a4"><title>Norwell</title></circle></a><a href="/variants/s9/db8w3db25k3db4k8r31y2r5~x2/"><circle cx="199.6" cy="126.2" r="4" fill="#3465a4"><title>Caledon (Corporate)</title></circle></a><a href="/variants/s13/y1k1r8db1r1dg8r1db8r1dg1r8k1w1~x6/"><circle cx="170.2" cy="125.4" r="4" fill="#3465a4"><title>Robieson</title></circle></a><a href="/variants/s10/dg3g3r22k5db22y2db22k5r22g3~x2~dg1806142-g2408144/"><circle cx="158.3" cy="139.2" r="4" fill="#3465a4"><title>MacLeod Society of Scotland Clan Tartan</title></circle></a><a href="/variants/s16/k2db12r12db2r2lb2r2lb2r12db6r2dg12k2y1r1y1~x2/"><circle cx="155.9" cy="109.4" r="4" fill="#3465a4"><title>Catalan Dance</title></circle></a><a href="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/"><circle cx="147.8" cy="91.7" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/variants/s14/db12r30db2lb2k8lb2k4ly2k4dg15r8k2r4lb2~x2/"><circle cx="148.0" cy="89.1" r="4" fill="#3465a4"><title>Brown of Castledean (Artefact)</title></circle></a><circle cx="148.4" cy="124.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k3g1r1db6n2db1n1db1r10w1~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Irn Bru"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lo49db16k2w3db2w2db3lo2/)
 (the same proportion at any scale), whose colour order is pattern [YBKWBWBY](/stripes/ybkwbwby/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1856
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1856](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1856)
 
 ## Provenance
 
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/"><circle cx="305.7" cy="101.7" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><a href="/variants/s9/lr18k1dy3k1lr2dr2k2dr2lr2~x4/"><circle cx="347.0" cy="103.0" r="4" fill="#3465a4"><title>Anthony Plaid Ecru</title></circle></a><a href="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/"><circle cx="425.7" cy="113.7" r="4" fill="#3465a4"><title>Vemma (Corporate) XXXXXXXXX</title></circle></a><a href="/variants/s10/r2w28db4w2k6w2r4k1r2w1~x2/"><circle cx="323.4" cy="81.0" r="4" fill="#3465a4"><title>Rothesay, Dress (VS)</title></circle></a><a href="/variants/s8/w80k2r19w2dg19r22w2r4~x2/"><circle cx="315.5" cy="89.7" r="4" fill="#3465a4"><title>Wilsons' Blanket Pattern (Artefact)</title></circle></a><a href="/variants/s7/w30k1r7dg7r8w1r2~x4/"><circle cx="297.5" cy="111.7" r="4" fill="#3465a4"><title>MMK 1777</title></circle></a><a href="/variants/s8/lo5r6k5r6lo36db3lo2k1~x2/"><circle cx="387.5" cy="87.6" r="4" fill="#3465a4"><title>Lermontov Bicentenary</title></circle></a><a href="/variants/s8/n83k7w6n10r7k3r20w3~x2/"><circle cx="409.4" cy="105.1" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s10/o58k12o4k2y2k2o10w5k2y4~x2/"><circle cx="414.3" cy="75.2" r="4" fill="#3465a4"><title>Unnamed C20th - Skirt</title></circle></a><a href="/variants/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="354.4" cy="81.1" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><circle cx="369.8" cy="97.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/o24lb2lo7lb3k2n4k2lb1o4lb1~x2/"><circle cx="305.7" cy="101.9" r="4" fill="#3465a4"><title>VeMMA</title></circle></a><a href="/variants/s9/lr18k1dy3k1lr2dr2k2dr2lr2~x4/"><circle cx="347.0" cy="103.4" r="4" fill="#3465a4"><title>Anthony Plaid Ecru</title></circle></a><a href="/variants/s10/o24lb2o7lb3k2n4k2lb1o4lb1~x2/"><circle cx="425.7" cy="114.0" r="4" fill="#3465a4"><title>Vemma (Corporate) XXXXXXXXX</title></circle></a><a href="/variants/s10/r2w28db4w2k6w2r4k1r2w1~x2/"><circle cx="323.4" cy="81.4" r="4" fill="#3465a4"><title>Rothesay, Dress (VS)</title></circle></a><a href="/variants/s8/w80k2r19w2dg19r22w2r4~x2/"><circle cx="315.4" cy="90.1" r="4" fill="#3465a4"><title>Wilsons' Blanket Pattern (Artefact)</title></circle></a><a href="/variants/s7/w30k1r7dg7r8w1r2~x4/"><circle cx="297.5" cy="112.1" r="4" fill="#3465a4"><title>MMK 1777</title></circle></a><a href="/variants/s8/lo5r6k5r6lo36db3lo2k1~x2/"><circle cx="387.5" cy="87.9" r="4" fill="#3465a4"><title>Lermontov Bicentenary</title></circle></a><a href="/variants/s8/n83k7w6n10r7k3r20w3~x2/"><circle cx="409.4" cy="105.3" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s10/o58k12o4k2y2k2o10w5k2y4~x2/"><circle cx="414.2" cy="75.5" r="4" fill="#3465a4"><title>Unnamed C20th - Skirt</title></circle></a><a href="/variants/s8/w57k1r12w1g12r14w1r2~x2/"><circle cx="354.3" cy="81.4" r="4" fill="#3465a4"><title>McBrayer Dress</title></circle></a><circle cx="369.8" cy="98.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/lo49db16k2w3db2w2db3lo2~x2/

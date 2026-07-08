@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Erskine Red & White (Dance)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2w1r9w9r1w2/)
 (the same proportion at any scale), whose colour order is pattern [RWRWRW](/stripes/rwrwrw/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8897
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8897](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8897)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r6w2r29w29r2w6~x2/"><circle cx="370.4" cy="210.6" r="4" fill="#3465a4"><title>Erskine, Burgundy (Dance)</title></circle></a><a href="/variants/s9/w6ly1r4w1db4ly1r8w1r2~x2/"><circle cx="235.6" cy="199.6" r="4" fill="#3465a4"><title>Unidentified #41</title></circle></a><a href="/variants/s9/w6o1r4w1db4o1r8w1r2~x2/"><circle cx="228.1" cy="193.0" r="4" fill="#3465a4"><title>Unidentified 34</title></circle></a><a href="/variants/s7/w5dp3w26r20w3r8y3~x2/"><circle cx="273.2" cy="196.1" r="4" fill="#3465a4"><title>MacPherson Dress Red (Dance)</title></circle></a><a href="/variants/s6/n56w30n8r10n3r20/"><circle cx="328.3" cy="201.1" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/variants/s4/r4w35r31w4~x2/"><circle cx="361.0" cy="259.3" r="4" fill="#3465a4"><title>Lewis, Red (Dance)</title></circle></a><a href="/variants/s10/r2g2w2r23w2g2w23g2r2w2~x2/"><circle cx="303.2" cy="158.3" r="4" fill="#3465a4"><title>Hose</title></circle></a><a href="/variants/s6/r8dr3r28w32dr3w4~x2/"><circle cx="293.5" cy="204.2" r="4" fill="#3465a4"><title>Ailsa, Red V2 (Dance)</title></circle></a><a href="/variants/s6/r8dr3r28w32dr3w4~x2~r2108022/"><circle cx="291.3" cy="203.8" r="4" fill="#3465a4"><title>Ailsa Red</title></circle></a><a href="/variants/s7/r8dp2r24dp5w25o2w8~x2/"><circle cx="254.6" cy="185.2" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><circle cx="351.2" cy="233.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r6w2r29w29r2w6~x2/"><circle cx="370.6" cy="211.3" r="4" fill="#3465a4"><title>Erskine, Burgundy (Dance)</title></circle></a><a href="/variants/s9/w6ly1r4w1db4ly1r8w1r2~x2/"><circle cx="235.7" cy="200.3" r="4" fill="#3465a4"><title>Unidentified #41</title></circle></a><a href="/variants/s9/w6o1r4w1db4o1r8w1r2~x2/"><circle cx="228.2" cy="193.6" r="4" fill="#3465a4"><title>Unidentified 34</title></circle></a><a href="/variants/s7/w5dp3w26r20w3r8y3~x2/"><circle cx="273.3" cy="196.8" r="4" fill="#3465a4"><title>MacPherson Dress Red (Dance)</title></circle></a><a href="/variants/s6/n56w30n8r10n3r20/"><circle cx="328.4" cy="201.6" r="4" fill="#3465a4"><title>Walsh, Michael Edward (Personal)</title></circle></a><a href="/variants/s4/r4w35r31w4~x2/"><circle cx="361.2" cy="260.2" r="4" fill="#3465a4"><title>Lewis, Red (Dance)</title></circle></a><a href="/variants/s10/r2g2w2r23w2g2w23g2r2w2~x2/"><circle cx="303.3" cy="158.8" r="4" fill="#3465a4"><title>Hose</title></circle></a><a href="/variants/s6/r8dr3r28w32dr3w4~x2/"><circle cx="293.7" cy="204.9" r="4" fill="#3465a4"><title>Ailsa, Red V2 (Dance)</title></circle></a><a href="/variants/s6/r8dr3r28w32dr3w4~x2~r2108022/"><circle cx="291.4" cy="204.5" r="4" fill="#3465a4"><title>Ailsa Red</title></circle></a><a href="/variants/s7/r8dp2r24dp5w25o2w8~x2/"><circle cx="254.7" cy="185.8" r="4" fill="#3465a4"><title>Lennox, dress</title></circle></a><circle cx="351.4" cy="234.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r2w1r9w9r1w2~x6/

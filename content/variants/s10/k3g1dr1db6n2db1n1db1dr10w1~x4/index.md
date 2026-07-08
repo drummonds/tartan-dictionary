@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Crieff Primary School"
   url: "/tartans/crieff-primary-school/"
+- name: "Crieff Primary School"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3g1dr1db6n2db1n1db1dr10w1/)
 (the same proportion at any scale), whose colour order is pattern [KGBBBBBBBW](/stripes/kgbbbbbbbw/).
@@ -14,7 +16,7 @@ Part of the [Crieff Primary School](/tartans/crieff-primary-school/) tartan — 
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11011
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11011](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11011)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3ly1dbi1db6r2db1r1db1dbi10lb1~x4~dbi1605267-db1003265/"><circle cx="178.9" cy="143.7" r="4" fill="#3465a4"><title>Ertico</title></circle></a><a href="/variants/s11/db24k6lo4k6lb4k6g24dr48db5dr6k5~x2/"><circle cx="148.3" cy="124.9" r="4" fill="#3465a4"><title>Unidentified Furnishing</title></circle></a><a href="/variants/s9/db40r4k16w3dy8dr4dy3dr8k10~x2/"><circle cx="176.1" cy="129.6" r="4" fill="#3465a4"><title>United Arrows House Check</title></circle></a><a href="/variants/s8/dp24do2g3o2g3k11do29w2~x2/"><circle cx="212.4" cy="136.3" r="4" fill="#3465a4"><title>Alba</title></circle></a><a href="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2~db1406275-w4000000/"><circle cx="164.5" cy="140.0" r="4" fill="#3465a4"><title>Asman Hunting (Personal)</title></circle></a><a href="/variants/s12/ni9r3ni32n12k5n2k4n2k17dp4k2lb2~x2~ni1700000/"><circle cx="197.3" cy="111.1" r="4" fill="#3465a4"><title>Scottish Spirit</title></circle></a><a href="/variants/s9/w3db25r3ri3r3ri5g10r3k2~x2~r1506028-ri2008029/"><circle cx="167.3" cy="123.3" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2/"><circle cx="158.2" cy="138.9" r="4" fill="#3465a4"><title>Asman Hunting (Name)</title></circle></a><a href="/variants/s9/w3db25dr3r3dr3r5g10dr3k2~x2/"><circle cx="171.7" cy="127.5" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/variants/s10/n1r1n7k3n1k1n1k1db9y1~x4/"><circle cx="189.6" cy="158.4" r="4" fill="#3465a4"><title>Brady 60th, Keith James (Personal)</title></circle></a><circle cx="178.0" cy="140.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k3ly1dbi1db6r2db1r1db1dbi10lb1~x4~dbi1605267-db1003265/"><circle cx="178.8" cy="143.9" r="4" fill="#3465a4"><title>Ertico</title></circle></a><a href="/variants/s11/db24k6lo4k6lb4k6g24dr48db5dr6k5~x2/"><circle cx="148.3" cy="125.1" r="4" fill="#3465a4"><title>Unidentified Furnishing</title></circle></a><a href="/variants/s9/db40r4k16w3dy8dr4dy3dr8k10~x2/"><circle cx="176.1" cy="129.7" r="4" fill="#3465a4"><title>United Arrows House Check</title></circle></a><a href="/variants/s8/dp24do2g3o2g3k11do29w2~x2/"><circle cx="212.4" cy="136.4" r="4" fill="#3465a4"><title>Alba</title></circle></a><a href="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2~db1406275-w4000000/"><circle cx="164.5" cy="140.2" r="4" fill="#3465a4"><title>Asman Hunting (Personal)</title></circle></a><a href="/variants/s12/ni9r3ni32n12k5n2k4n2k17dp4k2lb2~x2~ni1700000/"><circle cx="197.2" cy="111.2" r="4" fill="#3465a4"><title>Scottish Spirit</title></circle></a><a href="/variants/s9/w3db25r3ri3r3ri5g10r3k2~x2~r1506028-ri2008029/"><circle cx="167.3" cy="123.5" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/variants/s11/db4dy3db22r6w2k6w2db6n20k3n4~x2/"><circle cx="158.2" cy="139.2" r="4" fill="#3465a4"><title>Asman Hunting (Name)</title></circle></a><a href="/variants/s9/w3db25dr3r3dr3r5g10dr3k2~x2/"><circle cx="171.7" cy="127.8" r="4" fill="#3465a4"><title>Edinburgh District</title></circle></a><a href="/variants/s10/n1r1n7k3n1k1n1k1db9y1~x4/"><circle cx="189.6" cy="158.7" r="4" fill="#3465a4"><title>Brady 60th, Keith James (Personal)</title></circle></a><circle cx="178.0" cy="140.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/k3g1dr1db6n2db1n1db1dr10w1~x4/

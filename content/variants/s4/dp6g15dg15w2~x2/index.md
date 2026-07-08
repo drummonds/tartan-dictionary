@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Thistle and Kudzu Scottish Society"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dp6g15dg15w2/)
 (the same proportion at any scale), whose colour order is pattern [BGGW](/stripes/bggw/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10655
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10655](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10655)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="224.9" cy="225.0" r="4" fill="#3465a4"><title>ChuMac (Personal)</title></circle></a><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="230.3" cy="225.5" r="4" fill="#3465a4"><title>Simple Technology (Corporate)</title></circle></a><a href="/variants/s4/g15r3dp11lb2~x2/"><circle cx="261.8" cy="255.0" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/variants/s3/dp2g4y1~x4/"><circle cx="344.0" cy="346.4" r="4" fill="#3465a4"><title>Wilson's No.201</title></circle></a><a href="/variants/s3/dp5g6y1~x4/"><circle cx="322.6" cy="324.6" r="4" fill="#3465a4"><title>Wilson's, No 81</title></circle></a><a href="/variants/s3/g6dp5lb1~x4/"><circle cx="309.2" cy="321.6" r="4" fill="#3465a4"><title>Wilson's, No 55</title></circle></a><a href="/variants/s3/g6dp5lb1~x4~dp1105325/"><circle cx="303.0" cy="319.3" r="4" fill="#3465a4"><title>Wilson's No.055</title></circle></a><a href="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/"><circle cx="254.3" cy="257.3" r="4" fill="#3465a4"><title>Phinn (Personal)</title></circle></a><a href="/variants/s4/g15r3db11w2/"><circle cx="245.4" cy="254.9" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s6/y4dg30g15db5lb10y4~x2/"><circle cx="228.2" cy="238.0" r="4" fill="#3465a4"><title>MPS Emerald Society NCLEES 2012</title></circle></a><circle cx="240.8" cy="290.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/g15y3r3dp8w2~x6/"><circle cx="225.1" cy="225.5" r="4" fill="#3465a4"><title>ChuMac (Personal)</title></circle></a><a href="/variants/s5/r3g28db9dg18w3~x2/"><circle cx="230.4" cy="226.0" r="4" fill="#3465a4"><title>Simple Technology (Corporate)</title></circle></a><a href="/variants/s4/g15r3dp11lb2~x2/"><circle cx="261.9" cy="255.6" r="4" fill="#3465a4"><title>MacNab 7</title></circle></a><a href="/variants/s3/dp2g4y1~x4/"><circle cx="344.3" cy="347.2" r="4" fill="#3465a4"><title>Wilson's No.201</title></circle></a><a href="/variants/s3/dp5g6y1~x4/"><circle cx="322.9" cy="325.4" r="4" fill="#3465a4"><title>Wilson's, No 81</title></circle></a><a href="/variants/s3/g6dp5lb1~x4/"><circle cx="309.4" cy="322.5" r="4" fill="#3465a4"><title>Wilson's, No 55</title></circle></a><a href="/variants/s3/g6dp5lb1~x4~dp1105325/"><circle cx="303.3" cy="320.2" r="4" fill="#3465a4"><title>Wilson's No.055</title></circle></a><a href="/variants/s5/dg11dgi3dr4y2w2~x10~dgi1803189/"><circle cx="254.5" cy="257.8" r="4" fill="#3465a4"><title>Phinn (Personal)</title></circle></a><a href="/variants/s4/g15r3db11w2/"><circle cx="245.5" cy="255.5" r="4" fill="#3465a4"><title>MacNab WI2</title></circle></a><a href="/variants/s6/y4dg30g15db5lb10y4~x2/"><circle cx="228.3" cy="238.5" r="4" fill="#3465a4"><title>MPS Emerald Society NCLEES 2012</title></circle></a><circle cx="241.0" cy="290.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/dp6g15dg15w2~x2/

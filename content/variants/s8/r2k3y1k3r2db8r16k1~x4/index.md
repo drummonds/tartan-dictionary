@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Leslie"
   url: "/tartans/leslie/"
+- name: "Leslie Red (VS) (Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2k3y1k3r2db8r16k1/)
 (the same proportion at any scale), whose colour order is pattern [KRBRKGKR](/stripes/krbrkgkr/).
@@ -14,7 +16,7 @@ Part of the [Leslie](/tartans/leslie/) tartan — the named design grouping this
 
 Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1142
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1142](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1142)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r4k6y1k6r4db16r32k1~x2/"><circle cx="316.5" cy="101.4" r="4" fill="#3465a4"><title>Leslie</title></circle></a><a href="/variants/s8/r4k6y1k6r4db16r32db1~x2/"><circle cx="320.0" cy="103.0" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/variants/s9/n3k14r3k14lb3r32k2r6k2~x2/"><circle cx="267.3" cy="122.7" r="4" fill="#3465a4"><title>Gallmore (Fashion)</title></circle></a><a href="/variants/s9/r24db8r23k4w4k4r10k32r8/"><circle cx="235.6" cy="171.0" r="4" fill="#3465a4"><title>Cameron of Locheil #3</title></circle></a><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="187.8" cy="122.3" r="4" fill="#3465a4"><title>Golfing Stewart (Fashion)</title></circle></a><a href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.9" cy="122.2" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><a href="/variants/s10/b4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.2" cy="122.2" r="4" fill="#3465a4"><title>Golfers</title></circle></a><a href="/variants/s7/k3r1k30r28db1r1w3~x2/"><circle cx="292.7" cy="96.3" r="4" fill="#3465a4"><title>Cunningham #3</title></circle></a><a href="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/"><circle cx="295.2" cy="97.3" r="4" fill="#3465a4"><title>Maciver of Strathendry Castle Dress (Personal)</title></circle></a><a href="/variants/s9/y27k4w4r64w4r4k4r4k12~x2/"><circle cx="295.9" cy="110.1" r="4" fill="#3465a4"><title>O'Meehan (Name)</title></circle></a><circle cx="281.1" cy="130.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/r4k6y1k6r4db16r32k1~x2/"><circle cx="316.4" cy="101.7" r="4" fill="#3465a4"><title>Leslie</title></circle></a><a href="/variants/s8/r4k6y1k6r4db16r32db1~x2/"><circle cx="319.9" cy="103.3" r="4" fill="#3465a4"><title>Leslie Dress</title></circle></a><a href="/variants/s9/n3k14r3k14lb3r32k2r6k2~x2/"><circle cx="267.3" cy="123.1" r="4" fill="#3465a4"><title>Gallmore (Fashion)</title></circle></a><a href="/variants/s9/r24db8r23k4w4k4r10k32r8/"><circle cx="235.7" cy="171.6" r="4" fill="#3465a4"><title>Cameron of Locheil #3</title></circle></a><a href="/variants/s10/dy4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="187.7" cy="122.7" r="4" fill="#3465a4"><title>Golfing Stewart (Fashion)</title></circle></a><a href="/variants/s10/y4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.8" cy="122.6" r="4" fill="#3465a4"><title>Royal &amp; Ancient/Golfing Stewart</title></circle></a><a href="/variants/s10/b4r2k9r25k3r2k3r4db15w3~x2/"><circle cx="186.2" cy="122.5" r="4" fill="#3465a4"><title>Golfers</title></circle></a><a href="/variants/s7/k3r1k30r28db1r1w3~x2/"><circle cx="292.6" cy="96.6" r="4" fill="#3465a4"><title>Cunningham #3</title></circle></a><a href="/variants/s9/y1k3r24k3r3k24r3k3w1~x2/"><circle cx="295.1" cy="97.6" r="4" fill="#3465a4"><title>Maciver of Strathendry Castle Dress (Personal)</title></circle></a><a href="/variants/s9/y27k4w4r64w4r4k4r4k12~x2/"><circle cx="295.8" cy="110.4" r="4" fill="#3465a4"><title>O'Meehan (Name)</title></circle></a><circle cx="281.1" cy="131.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/r2k3y1k3r2db8r16k1~x4/

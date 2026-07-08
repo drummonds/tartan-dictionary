@@ -8,6 +8,8 @@ crumbs:
   url: "/clan/fraser/"
 - name: "Fraser"
   url: "/tartans/fraser-2/"
+- name: "Fraser Red Clan Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r1db6r1dg6r12w1/)
 (the same proportion at any scale), whose colour order is pattern [RBRGRW](/stripes/rbrgrw/).
@@ -16,7 +18,7 @@ Part of the [Fraser](/tartans/fraser-2/) tartan — the named design grouping th
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1424
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1424](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1424)
 
 ## Provenance
 
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1db6r1g6r12w1/"><circle cx="286.3" cy="192.6" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/variants/s6/r1db6r1g6r12w1~x2/"><circle cx="286.3" cy="192.6" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/variants/s6/r2db10r2g10r25w2~x2/"><circle cx="321.5" cy="183.9" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><a href="/variants/s6/r2db12r2dg12r24w1~x2/"><circle cx="326.9" cy="164.8" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s6/r3db15r3g8r20k2~x2/"><circle cx="248.2" cy="190.5" r="4" fill="#3465a4"><title>Finnigan (Estimated threadcount)</title></circle></a><a href="/variants/s6/r2db12r2g12r24w1~x2/"><circle cx="321.5" cy="165.5" r="4" fill="#3465a4"><title>Fraser (1745)</title></circle></a><a href="/variants/s6/db2r25g10r2db10r2~x2/"><circle cx="351.4" cy="199.8" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><a href="/variants/s4/r15g7db7r1~x4/"><circle cx="321.6" cy="235.4" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><a href="/variants/s7/r6g16r4db12r16w1r2~x2/"><circle cx="271.0" cy="192.0" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><a href="/variants/s6/r16db6r2g6r2db1~x2/"><circle cx="381.3" cy="192.9" r="4" fill="#3465a4"><title>MacKintosh, Plaid</title></circle></a><circle cx="289.8" cy="191.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r1db6r1g6r12w1/"><circle cx="286.3" cy="193.1" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/variants/s6/r1db6r1g6r12w1~x2/"><circle cx="286.3" cy="193.1" r="4" fill="#3465a4"><title>Fraser VS</title></circle></a><a href="/variants/s6/r2db10r2g10r25w2~x2/"><circle cx="321.5" cy="184.5" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><a href="/variants/s6/r2db12r2dg12r24w1~x2/"><circle cx="327.0" cy="165.2" r="4" fill="#3465a4"><title>Fraser</title></circle></a><a href="/variants/s6/r3db15r3g8r20k2~x2/"><circle cx="248.3" cy="191.1" r="4" fill="#3465a4"><title>Finnigan (Estimated threadcount)</title></circle></a><a href="/variants/s6/r2db12r2g12r24w1~x2/"><circle cx="321.6" cy="165.9" r="4" fill="#3465a4"><title>Fraser (1745)</title></circle></a><a href="/variants/s6/db2r25g10r2db10r2~x2/"><circle cx="351.5" cy="200.4" r="4" fill="#3465a4"><title>Grant of Lurg</title></circle></a><a href="/variants/s4/r15g7db7r1~x4/"><circle cx="321.7" cy="236.0" r="4" fill="#3465a4"><title>Hugh Fraser of Boblainy</title></circle></a><a href="/variants/s7/r6g16r4db12r16w1r2~x2/"><circle cx="271.0" cy="192.5" r="4" fill="#3465a4"><title>MacQuarrie LO</title></circle></a><a href="/variants/s6/r16db6r2g6r2db1~x2/"><circle cx="381.4" cy="193.4" r="4" fill="#3465a4"><title>MacKintosh, Plaid</title></circle></a><circle cx="289.8" cy="191.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r1db6r1dg6r12w1~x2/

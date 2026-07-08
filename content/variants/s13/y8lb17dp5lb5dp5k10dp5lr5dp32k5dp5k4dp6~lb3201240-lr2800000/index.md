@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Life Goes on Foundation"
   url: "/tartans/life-goes-on-foundation/"
+- name: "Life Goes On Foundation (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y8lb17dp5lb5dp5k10dp5lr5dp32k5dp5k4dp6/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBYBKBWBWG](/stripes/bkbkbybkbwbwg/).
@@ -14,7 +16,7 @@ Part of the [Life Goes on Foundation](/tartans/life-goes-on-foundation/) tartan 
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8033
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8033](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8033)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r9k4w6k4db21y3db13k2w4k2r6~x2/"><circle cx="144.9" cy="145.4" r="4" fill="#3465a4"><title>Dauphinee (Trussville, Alabama) (Personal)</title></circle></a><a href="/variants/s11/r9k4w6k4db21ly3db13k2w4k2r6~x2/"><circle cx="142.7" cy="144.9" r="4" fill="#3465a4"><title>Dauphinee (Personal)</title></circle></a><a href="/variants/s10/db36dbi15r25w5k6db35dbi15r7w5k6~db1004274-dbi1406275/"><circle cx="169.3" cy="181.8" r="4" fill="#3465a4"><title>Le Mirage (Corporate?)</title></circle></a><a href="/variants/s10/k4w3k3r13db24r8db26lb12k3w2~x2/"><circle cx="194.0" cy="139.3" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s11/lb3k1lb1db4lb10r2k8db2lb1k1lb3~x2/"><circle cx="164.9" cy="142.4" r="4" fill="#3465a4"><title>Norwich No.020</title></circle></a><a href="/variants/s18/k1lr2k2lr2k1lr4k1db9lo1db9k1lr4k1lr2k2lr2k1dr1~x4/"><circle cx="130.0" cy="125.3" r="4" fill="#3465a4"><title>Hanna of Stirlingshire</title></circle></a><a href="/variants/s10/dp1k1w1dp10y1db2k1db2w1y1~x8/"><circle cx="237.6" cy="129.0" r="4" fill="#3465a4"><title>Regan</title></circle></a><a href="/variants/s8/w5db6r18k8lb5k4db27w3~x2/"><circle cx="139.7" cy="162.5" r="4" fill="#3465a4"><title>Clinton (Personal)</title></circle></a><a href="/variants/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/"><circle cx="184.4" cy="119.0" r="4" fill="#3465a4"><title>Lieuwen (2013)</title></circle></a><a href="/variants/s10/dr1k1lr2k2lr2k1lr4k1db9lo1~x4/"><circle cx="135.3" cy="147.6" r="4" fill="#3465a4"><title>Hanna of Stirlingshire (Clan)</title></circle></a><circle cx="188.4" cy="148.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r9k4w6k4db21y3db13k2w4k2r6~x2/"><circle cx="144.9" cy="145.8" r="4" fill="#3465a4"><title>Dauphinee (Trussville, Alabama) (Personal)</title></circle></a><a href="/variants/s11/r9k4w6k4db21ly3db13k2w4k2r6~x2/"><circle cx="142.7" cy="145.3" r="4" fill="#3465a4"><title>Dauphinee (Personal)</title></circle></a><a href="/variants/s10/db36dbi15r25w5k6db35dbi15r7w5k6~db1004274-dbi1406275/"><circle cx="169.3" cy="182.2" r="4" fill="#3465a4"><title>Le Mirage (Corporate?)</title></circle></a><a href="/variants/s10/k4w3k3r13db24r8db26lb12k3w2~x2/"><circle cx="194.0" cy="139.6" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s11/lb3k1lb1db4lb10r2k8db2lb1k1lb3~x2/"><circle cx="164.9" cy="142.8" r="4" fill="#3465a4"><title>Norwich No.020</title></circle></a><a href="/variants/s18/k1lr2k2lr2k1lr4k1db9lo1db9k1lr4k1lr2k2lr2k1dr1~x4/"><circle cx="130.0" cy="125.6" r="4" fill="#3465a4"><title>Hanna of Stirlingshire</title></circle></a><a href="/variants/s10/dp1k1w1dp10y1db2k1db2w1y1~x8/"><circle cx="237.6" cy="129.3" r="4" fill="#3465a4"><title>Regan</title></circle></a><a href="/variants/s8/w5db6r18k8lb5k4db27w3~x2/"><circle cx="139.7" cy="163.0" r="4" fill="#3465a4"><title>Clinton (Personal)</title></circle></a><a href="/variants/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/"><circle cx="184.4" cy="119.3" r="4" fill="#3465a4"><title>Lieuwen (2013)</title></circle></a><a href="/variants/s10/dr1k1lr2k2lr2k1lr4k1db9lo1~x4/"><circle cx="135.2" cy="148.0" r="4" fill="#3465a4"><title>Hanna of Stirlingshire (Clan)</title></circle></a><circle cx="188.4" cy="148.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/y8lb17dp5lb5dp5k10dp5lr5dp32k5dp5k4dp6~lb3201240-lr2800000/

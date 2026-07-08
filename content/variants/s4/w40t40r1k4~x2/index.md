@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Kimon Andreou"
   url: "/tartans/kimon-andreou/"
+- name: "Kimon Andreou Family (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w40t40r1k4/)
 (the same proportion at any scale), whose colour order is pattern [KRBW](/stripes/krbw/).
@@ -14,7 +16,7 @@ Part of the [Kimon Andreou](/tartans/kimon-andreou/) tartan — the named design
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10539
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10539](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10539)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/w40db40r1k4~x2/"><circle cx="274.5" cy="147.4" r="4" fill="#3465a4"><title>Kimon Andreou Family (Personal)</title></circle></a><a href="/variants/s6/lb53k2w53k2r4lo7~x2/"><circle cx="296.9" cy="141.0" r="4" fill="#3465a4"><title>Galicia</title></circle></a><a href="/variants/s5/k3w29o9lb19k3~x2/"><circle cx="192.1" cy="201.5" r="4" fill="#3465a4"><title>Islander Dress</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.9" cy="110.7" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s6/t53w27r5k19ly1g11~x2/"><circle cx="191.0" cy="101.7" r="4" fill="#3465a4"><title>Crookstoun (Personal)</title></circle></a><a href="/variants/s6/b53w27r5k19y1g11~x2/"><circle cx="192.5" cy="98.4" r="4" fill="#3465a4"><title>Crookstoun, James (West Lothian) (Personal)</title></circle></a><a href="/variants/s5/k5w2y36lb47r3~x2/"><circle cx="291.6" cy="147.8" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/variants/s5/k5w2y36b47r3~x2/"><circle cx="309.8" cy="153.6" r="4" fill="#3465a4"><title>Cornish, National Day</title></circle></a><a href="/variants/s5/w18n29t2dp3k1~x2~t2405244/"><circle cx="299.0" cy="134.4" r="4" fill="#3465a4"><title>Kinloch of Loch Awe (Personal)</title></circle></a><a href="/variants/s5/w18n29lb2dp3k1~x2/"><circle cx="300.0" cy="134.9" r="4" fill="#3465a4"><title>Kinloch at Loch Awe (Personal)</title></circle></a><circle cx="293.5" cy="158.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/w40db40r1k4~x2/"><circle cx="274.5" cy="147.9" r="4" fill="#3465a4"><title>Kimon Andreou Family (Personal)</title></circle></a><a href="/variants/s6/lb53k2w53k2r4lo7~x2/"><circle cx="296.9" cy="141.3" r="4" fill="#3465a4"><title>Galicia</title></circle></a><a href="/variants/s5/k3w29o9lb19k3~x2/"><circle cx="192.2" cy="202.2" r="4" fill="#3465a4"><title>Islander Dress</title></circle></a><a href="/variants/s6/k2w1n8dr1lb28dr2~x2/"><circle cx="383.9" cy="110.9" r="4" fill="#3465a4"><title>Norris Hunting</title></circle></a><a href="/variants/s6/t53w27r5k19ly1g11~x2/"><circle cx="190.9" cy="101.9" r="4" fill="#3465a4"><title>Crookstoun (Personal)</title></circle></a><a href="/variants/s6/b53w27r5k19y1g11~x2/"><circle cx="192.4" cy="98.6" r="4" fill="#3465a4"><title>Crookstoun, James (West Lothian) (Personal)</title></circle></a><a href="/variants/s5/k5w2y36lb47r3~x2/"><circle cx="291.6" cy="148.2" r="4" fill="#3465a4"><title>Oliver Dress Pink</title></circle></a><a href="/variants/s5/k5w2y36b47r3~x2/"><circle cx="309.8" cy="153.8" r="4" fill="#3465a4"><title>Cornish, National Day</title></circle></a><a href="/variants/s5/w18n29t2dp3k1~x2~t2405244/"><circle cx="299.0" cy="134.8" r="4" fill="#3465a4"><title>Kinloch of Loch Awe (Personal)</title></circle></a><a href="/variants/s5/w18n29lb2dp3k1~x2/"><circle cx="300.0" cy="135.2" r="4" fill="#3465a4"><title>Kinloch at Loch Awe (Personal)</title></circle></a><circle cx="293.5" cy="158.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/w40t40r1k4~x2/

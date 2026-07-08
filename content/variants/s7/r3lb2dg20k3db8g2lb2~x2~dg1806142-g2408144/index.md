@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Royal British Legion (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3lb2dg20k3db8g2lb2/)
 (the same proportion at any scale), whose colour order is pattern [RWGKBGW](/stripes/rwgkbgw/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2452
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2452](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2452)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r3db22k11g32y3~x2/"><circle cx="188.9" cy="195.5" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><a href="/variants/s5/r3db22k11g32ly3~x2/"><circle cx="183.9" cy="194.5" r="4" fill="#3465a4"><title>Cultoquhey (Corporate)</title></circle></a><a href="/variants/s7/r6b2g20k3db8dg2b4~x2/"><circle cx="163.1" cy="164.9" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><a href="/variants/s6/r3g13db13y2dg34w3~x2/"><circle cx="263.4" cy="166.3" r="4" fill="#3465a4"><title>Glencross (Tynron) (Personal)</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="120.1" cy="168.4" r="4" fill="#3465a4"><title>Turnbull of Thornton (Personal)</title></circle></a><a href="/variants/s6/db24k4r3g24k4o3~x2/"><circle cx="165.3" cy="186.7" r="4" fill="#3465a4"><title>(1) Skene</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="144.4" cy="125.0" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s7/w3dr3db16g32t3k3lo2~x2~db0906265-t2503227/"><circle cx="205.4" cy="113.0" r="4" fill="#3465a4"><title>Washington State</title></circle></a><a href="/variants/s7/w3dr3db16g32lb3k3lo2~x2/"><circle cx="214.3" cy="117.5" r="4" fill="#3465a4"><title>Washington State (US State)</title></circle></a><a href="/variants/s6/g35k3dbi26k4db4w3~x2~dbi1406275-db1106275/"><circle cx="219.4" cy="168.0" r="4" fill="#3465a4"><title>Pride of Yorkland (Fashion)</title></circle></a><circle cx="202.8" cy="152.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r3db22k11g32y3~x2/"><circle cx="188.9" cy="196.0" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><a href="/variants/s5/r3db22k11g32ly3~x2/"><circle cx="184.0" cy="194.9" r="4" fill="#3465a4"><title>Cultoquhey (Corporate)</title></circle></a><a href="/variants/s7/r6b2g20k3db8dg2b4~x2/"><circle cx="163.1" cy="165.2" r="4" fill="#3465a4"><title>Royal British Legion, The</title></circle></a><a href="/variants/s6/r3g13db13y2dg34w3~x2/"><circle cx="263.4" cy="166.5" r="4" fill="#3465a4"><title>Glencross (Tynron) (Personal)</title></circle></a><a href="/variants/s6/k6r3g30ly10db30w3~x2/"><circle cx="120.1" cy="168.8" r="4" fill="#3465a4"><title>Turnbull of Thornton (Personal)</title></circle></a><a href="/variants/s6/db24k4r3g24k4o3~x2/"><circle cx="165.4" cy="187.1" r="4" fill="#3465a4"><title>(1) Skene</title></circle></a><a href="/variants/s8/dy2lb14k1dg11k2r2g2k1~x4~dg1806142-g2203152/"><circle cx="144.4" cy="125.3" r="4" fill="#3465a4"><title>Mission</title></circle></a><a href="/variants/s7/w3dr3db16g32t3k3lo2~x2~db0906265-t2503227/"><circle cx="205.3" cy="113.2" r="4" fill="#3465a4"><title>Washington State</title></circle></a><a href="/variants/s7/w3dr3db16g32lb3k3lo2~x2/"><circle cx="214.2" cy="117.8" r="4" fill="#3465a4"><title>Washington State (US State)</title></circle></a><a href="/variants/s6/g35k3dbi26k4db4w3~x2~dbi1406275-db1106275/"><circle cx="219.4" cy="168.4" r="4" fill="#3465a4"><title>Pride of Yorkland (Fashion)</title></circle></a><circle cx="202.8" cy="153.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r3lb2dg20k3db8g2lb2~x2~dg1806142-g2408144/

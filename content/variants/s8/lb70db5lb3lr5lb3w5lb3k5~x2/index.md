@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wyckoff, Ann Grainger Phillips Commemorative Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb70db5lb3lr5lb3w5lb3k5/)
 (the same proportion at any scale), whose colour order is pattern [KWWWYWBW](/stripes/kwwwywbw/).
 
 Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10610
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10610](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10610)
 
 ## Provenance
 
@@ -54,8 +56,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb48w2lb7w2lb7w2lb20db11r2~x2/"><circle cx="539.8" cy="141.4" r="4" fill="#3465a4"><title>RAAF #3</title></circle></a><a href="/variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/"><circle cx="431.8" cy="77.2" r="4" fill="#3465a4"><title>Royal College of Midwives</title></circle></a><a href="/variants/s9/lb66w2lb10w2lb10w2lb12r3db24~x2/"><circle cx="481.5" cy="119.3" r="4" fill="#3465a4"><title>RAAF #5</title></circle></a><a href="/variants/s9/lb70db5lb3w5lb3w5lb3r5lb8~x2/"><circle cx="600.4" cy="136.6" r="4" fill="#3465a4"><title>Wyckoff, Ann Grainger Phillips</title></circle></a><a href="/variants/s8/t142db12b24w7b5w5b5r10~t2605232-db1108266-b1511266/"><circle cx="435.3" cy="112.6" r="4" fill="#3465a4"><title>Glen Innes (Australia)</title></circle></a><a href="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/"><circle cx="427.4" cy="192.5" r="4" fill="#3465a4"><title>Dominion (Fashion)</title></circle></a><a href="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/"><circle cx="441.6" cy="88.6" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall (Personal)</title></circle></a><a href="/variants/s6/lb10k2w5k4lb50t2~x2/"><circle cx="511.1" cy="125.9" r="4" fill="#3465a4"><title>London Fog Safari (Fashion)</title></circle></a><circle cx="490.7" cy="93.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb48w2lb7w2lb7w2lb20db11r2~x2/"><circle cx="539.9" cy="141.7" r="4" fill="#3465a4"><title>RAAF #3</title></circle></a><a href="/variants/s9/dy5lb3k1lb6n11lb3t3lb43w3~x2/"><circle cx="431.8" cy="77.3" r="4" fill="#3465a4"><title>Royal College of Midwives</title></circle></a><a href="/variants/s9/lb66w2lb10w2lb10w2lb12r3db24~x2/"><circle cx="481.5" cy="119.5" r="4" fill="#3465a4"><title>RAAF #5</title></circle></a><a href="/variants/s9/lb70db5lb3w5lb3w5lb3r5lb8~x2/"><circle cx="600.4" cy="136.7" r="4" fill="#3465a4"><title>Wyckoff, Ann Grainger Phillips</title></circle></a><a href="/variants/s8/t142db12b24w7b5w5b5r10~t2605232-db1108266-b1511266/"><circle cx="435.2" cy="112.7" r="4" fill="#3465a4"><title>Glen Innes (Australia)</title></circle></a><a href="/variants/s7/lb6r1lb17db3lb3db8lb1~x2/"><circle cx="427.5" cy="193.1" r="4" fill="#3465a4"><title>Dominion (Fashion)</title></circle></a><a href="/variants/s8/lb7w2dr7w4lb50w2k2r2~x2/"><circle cx="441.6" cy="88.9" r="4" fill="#3465a4"><title>MacDonald from Rawtenstall (Personal)</title></circle></a><a href="/variants/s6/lb10k2w5k4lb50t2~x2/"><circle cx="511.1" cy="126.2" r="4" fill="#3465a4"><title>London Fog Safari (Fashion)</title></circle></a><circle cx="490.7" cy="93.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/lb70db5lb3lr5lb3w5lb3k5~x2/

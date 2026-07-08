@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "State Seal of Georgia (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k10db13k3lb7k1ly20lyi3lb13r5ly47k3/)
 (the same proportion at any scale), whose colour order is pattern [KBKWKYYWRYK](/stripes/kbkwkyywryk/).
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8624
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8624](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8624)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dy4lb1dy2lb1dy2lb16k1g8dy8r8k1lb24k1w4~x2/"><circle cx="210.0" cy="77.2" r="4" fill="#3465a4"><title>Ethiopia</title></circle></a><a href="/variants/s15/r4g3k11n3db3n30k1w4k1g3k3g3k3n12r2~x2/"><circle cx="228.6" cy="59.7" r="4" fill="#3465a4"><title>Trew 40th (Personal)</title></circle></a><a href="/variants/s9/lb50r3lb4r4lb7k14dg31ly2w2~x2/"><circle cx="224.8" cy="86.4" r="4" fill="#3465a4"><title>Highland Glen (Corporate)</title></circle></a><a href="/variants/s7/r8lb45w1n4k11g6r4~x2/"><circle cx="274.4" cy="69.7" r="4" fill="#3465a4"><title>Ascension Island Heritage Trust</title></circle></a><a href="/variants/s10/k45r4k4n4ly16n76db8ly6db2w4/"><circle cx="216.5" cy="54.7" r="4" fill="#3465a4"><title>Highland Gathering (Fashion?)</title></circle></a><a href="/variants/s10/w45r9k2w8k2y1k10db8dp12w2~x2/"><circle cx="238.2" cy="50.5" r="4" fill="#3465a4"><title>Bruce of Kinnaird Dress (Dance)</title></circle></a><a href="/variants/s9/w2r2db14g16y2k2g2r35g1~x2/"><circle cx="253.6" cy="72.7" r="4" fill="#3465a4"><title>King (Austria) (Personal)</title></circle></a><a href="/variants/s14/w4db4r18n4r1n36k1n4k6r2k6r6ly4r2~x2/"><circle cx="214.3" cy="51.1" r="4" fill="#3465a4"><title>Mehrtens variant (Personal)</title></circle></a><a href="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/"><circle cx="179.7" cy="85.3" r="4" fill="#3465a4"><title>Timmins (2013)</title></circle></a><a href="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/"><circle cx="210.0" cy="82.5" r="4" fill="#3465a4"><title>Wiegratz Alba (Personal)</title></circle></a><circle cx="242.2" cy="60.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/dy4lb1dy2lb1dy2lb16k1g8dy8r8k1lb24k1w4~x2/"><circle cx="209.9" cy="77.3" r="4" fill="#3465a4"><title>Ethiopia</title></circle></a><a href="/variants/s15/r4g3k11n3db3n30k1w4k1g3k3g3k3n12r2~x2/"><circle cx="228.4" cy="59.7" r="4" fill="#3465a4"><title>Trew 40th (Personal)</title></circle></a><a href="/variants/s9/lb50r3lb4r4lb7k14dg31ly2w2~x2/"><circle cx="224.7" cy="86.7" r="4" fill="#3465a4"><title>Highland Glen (Corporate)</title></circle></a><a href="/variants/s7/r8lb45w1n4k11g6r4~x2/"><circle cx="274.3" cy="69.9" r="4" fill="#3465a4"><title>Ascension Island Heritage Trust</title></circle></a><a href="/variants/s10/k45r4k4n4ly16n76db8ly6db2w4/"><circle cx="216.3" cy="54.8" r="4" fill="#3465a4"><title>Highland Gathering (Fashion?)</title></circle></a><a href="/variants/s10/w45r9k2w8k2y1k10db8dp12w2~x2/"><circle cx="238.1" cy="50.7" r="4" fill="#3465a4"><title>Bruce of Kinnaird Dress (Dance)</title></circle></a><a href="/variants/s9/w2r2db14g16y2k2g2r35g1~x2/"><circle cx="253.5" cy="72.8" r="4" fill="#3465a4"><title>King (Austria) (Personal)</title></circle></a><a href="/variants/s14/w4db4r18n4r1n36k1n4k6r2k6r6ly4r2~x2/"><circle cx="214.1" cy="51.1" r="4" fill="#3465a4"><title>Mehrtens variant (Personal)</title></circle></a><a href="/variants/s10/r4k2dp14k12lo1lb32k12lb14k2g4~x2/"><circle cx="179.6" cy="85.5" r="4" fill="#3465a4"><title>Timmins (2013)</title></circle></a><a href="/variants/s9/w3k2lb30k5r5y5lb5db12w1~x2/"><circle cx="209.9" cy="82.7" r="4" fill="#3465a4"><title>Wiegratz Alba (Personal)</title></circle></a><circle cx="242.1" cy="60.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/k10db13k3lb7k1ly20lyi3lb13r5ly47k3~x2~ly2503076-lyi2705081/

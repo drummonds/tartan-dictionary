@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Avalon - Stewart House"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w3k1r15k6r5k3r8k2r5y3w2y4k1w3/)
 (the same proportion at any scale), whose colour order is pattern [WKGWGRKRKRKRKW](/stripes/wkgwgrkrkrkrkw/).
 
 Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=146
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=146](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=146)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="239.1" cy="112.8" r="4" fill="#3465a4"><title>Unidentified No 3 #2</title></circle></a><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x4/"><circle cx="237.8" cy="126.0" r="4" fill="#3465a4"><title>Unidentified (Scolpaig)</title></circle></a><a href="/variants/s12/w8k9y9r21y6k6w4k6y6r49k22w4/"><circle cx="191.3" cy="129.0" r="4" fill="#3465a4"><title>Normandy (Fashion)</title></circle></a><a href="/variants/s15/r12w2r12g8y1k6w4k1w1k1w4r12w1k1r1~x2/"><circle cx="210.1" cy="110.6" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s11/r8g2r8k8db1k3r2g15r8k2r6~x4/"><circle cx="217.0" cy="155.4" r="4" fill="#3465a4"><title>MacNicol/Nicolson (Inverness Tweed Mill Co Ltd)</title></circle></a><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/"><circle cx="232.5" cy="128.0" r="4" fill="#3465a4"><title>Hannay Dress (Dance)</title></circle></a><a href="/variants/s13/k2r8g2r8g14r2k6lb1k7r8g2r8k2~x2/"><circle cx="192.1" cy="149.6" r="4" fill="#3465a4"><title>Nicolson, MacNicol</title></circle></a><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x2/"><circle cx="215.0" cy="149.6" r="4" fill="#3465a4"><title>Scoepaig, fragment</title></circle></a><a href="/variants/s12/r8g1r8g16r4k2lb1k4r8g1r8k1~x2/"><circle cx="285.1" cy="138.3" r="4" fill="#3465a4"><title>MacLeod and MacNicol</title></circle></a><a href="/variants/s12/k10r12g3r12k2r12g3r12g20r2k8lb2/"><circle cx="200.9" cy="169.2" r="4" fill="#3465a4"><title>Nicolson MacNicol</title></circle></a><circle cx="219.6" cy="128.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r5k1r2k2r16lb2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="239.0" cy="113.2" r="4" fill="#3465a4"><title>Unidentified No 3 #2</title></circle></a><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x4/"><circle cx="237.8" cy="126.4" r="4" fill="#3465a4"><title>Unidentified (Scolpaig)</title></circle></a><a href="/variants/s12/w8k9y9r21y6k6w4k6y6r49k22w4/"><circle cx="191.3" cy="129.4" r="4" fill="#3465a4"><title>Normandy (Fashion)</title></circle></a><a href="/variants/s15/r12w2r12g8y1k6w4k1w1k1w4r12w1k1r1~x2/"><circle cx="210.1" cy="111.0" r="4" fill="#3465a4"><title>MacPherson</title></circle></a><a href="/variants/s11/r8g2r8k8db1k3r2g15r8k2r6~x4/"><circle cx="217.0" cy="155.9" r="4" fill="#3465a4"><title>MacNicol/Nicolson (Inverness Tweed Mill Co Ltd)</title></circle></a><a href="/variants/s10/k9r4k2r4k2r29k9r4lg14y2~x2/"><circle cx="232.4" cy="128.4" r="4" fill="#3465a4"><title>Hannay Dress (Dance)</title></circle></a><a href="/variants/s13/k2r8g2r8g14r2k6lb1k7r8g2r8k2~x2/"><circle cx="192.1" cy="150.1" r="4" fill="#3465a4"><title>Nicolson, MacNicol</title></circle></a><a href="/variants/s10/k10lb1k1r10lb1k1lb1r10g6r2~x2/"><circle cx="215.0" cy="150.1" r="4" fill="#3465a4"><title>Scoepaig, fragment</title></circle></a><a href="/variants/s12/r8g1r8g16r4k2lb1k4r8g1r8k1~x2/"><circle cx="285.1" cy="138.7" r="4" fill="#3465a4"><title>MacLeod and MacNicol</title></circle></a><a href="/variants/s12/k10r12g3r12k2r12g3r12g20r2k8lb2/"><circle cx="200.9" cy="169.7" r="4" fill="#3465a4"><title>Nicolson MacNicol</title></circle></a><circle cx="219.6" cy="129.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s14/w3k1r15k6r5k3r8k2r5y3w2y4k1w3~x2/

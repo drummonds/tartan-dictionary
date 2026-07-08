@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Leiato of American Samoa (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy45k5dy28k5o5w2do6/)
 (the same proportion at any scale), whose colour order is pattern [BWRKGKG](/stripes/bwrkgkg/).
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4025
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4025](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4025)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/"><circle cx="448.8" cy="135.3" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/variants/s7/o45k5o28k5oi5w2do6~x2~o2005046-oi2007033/"><circle cx="455.9" cy="122.8" r="4" fill="#3465a4"><title>Leiato of American Samoa (Personal)</title></circle></a><a href="/variants/s6/n5y1k5dg46k5r3~x2/"><circle cx="474.3" cy="101.1" r="4" fill="#3465a4"><title>Touch</title></circle></a><a href="/variants/s7/y6dy14db10dy58g3dy8w2/"><circle cx="587.3" cy="155.9" r="4" fill="#3465a4"><title>Kozmyk (Corporate)</title></circle></a><a href="/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/"><circle cx="410.6" cy="172.9" r="4" fill="#3465a4"><title>Connecticut State Police Pipe Band</title></circle></a><a href="/variants/s4/y2k3dr31w1~x4/"><circle cx="590.4" cy="135.6" r="4" fill="#3465a4"><title>Riddick Furya</title></circle></a><a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4~r2806019-ly2705081/"><circle cx="399.5" cy="160.0" r="4" fill="#3465a4"><title>Welsh National #2</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46lyi2k2~x2~ly2503076-lyi2705081/"><circle cx="398.0" cy="114.0" r="4" fill="#3465a4"><title>Green Rover (Personal)</title></circle></a><a href="/variants/s10/t6r7dy49ly2dy22t10dy5k5dy8g4~x2/"><circle cx="409.8" cy="104.0" r="4" fill="#3465a4"><title>State Seal of Missouri (Fashion)</title></circle></a><a href="/variants/s6/dy45lb2r4y1dp2n2~x4/"><circle cx="593.2" cy="94.4" r="4" fill="#3465a4"><title>Windy Meadows (Fashion)</title></circle></a><circle cx="491.9" cy="142.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/"><circle cx="448.7" cy="135.6" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/variants/s7/o45k5o28k5oi5w2do6~x2~o2005046-oi2007033/"><circle cx="455.9" cy="123.0" r="4" fill="#3465a4"><title>Leiato of American Samoa (Personal)</title></circle></a><a href="/variants/s6/n5y1k5dg46k5r3~x2/"><circle cx="474.2" cy="101.1" r="4" fill="#3465a4"><title>Touch</title></circle></a><a href="/variants/s7/y6dy14db10dy58g3dy8w2/"><circle cx="587.3" cy="156.0" r="4" fill="#3465a4"><title>Kozmyk (Corporate)</title></circle></a><a href="/variants/s6/k42n2k2n17db8y4~x2~k0800000-n1900000/"><circle cx="410.6" cy="173.0" r="4" fill="#3465a4"><title>Connecticut State Police Pipe Band</title></circle></a><a href="/variants/s4/y2k3dr31w1~x4/"><circle cx="590.4" cy="135.9" r="4" fill="#3465a4"><title>Riddick Furya</title></circle></a><a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4~r2806019-ly2705081/"><circle cx="399.5" cy="160.4" r="4" fill="#3465a4"><title>Welsh National #2</title></circle></a><a href="/variants/s7/ly10k2g5k2dg46lyi2k2~x2~ly2503076-lyi2705081/"><circle cx="397.9" cy="114.1" r="4" fill="#3465a4"><title>Green Rover (Personal)</title></circle></a><a href="/variants/s10/t6r7dy49ly2dy22t10dy5k5dy8g4~x2/"><circle cx="409.7" cy="104.1" r="4" fill="#3465a4"><title>State Seal of Missouri (Fashion)</title></circle></a><a href="/variants/s6/dy45lb2r4y1dp2n2~x4/"><circle cx="593.1" cy="94.4" r="4" fill="#3465a4"><title>Windy Meadows (Fashion)</title></circle></a><circle cx="491.9" cy="142.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dy45k5dy28k5o5w2do6~x2/

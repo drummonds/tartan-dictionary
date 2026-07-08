@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Bannockbane"
   url: "/tartans/bannockbane-2/"
+- name: "Bannockbane, Blue"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4y2k13y1w8lb13y2lb4/)
 (the same proportion at any scale), whose colour order is pattern [KGKGWWGW](/stripes/kgkgwwgw/).
@@ -14,7 +16,7 @@ Part of the [Bannockbane](/tartans/bannockbane-2/) tartan — the named design g
 
 Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 ## Provenance
 
@@ -81,8 +83,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k4lo2k13lo1w8t13lo2t4~x2/"><circle cx="138.0" cy="177.1" r="4" fill="#3465a4"><title>Bannockbane Blue #1</title></circle></a><a href="/variants/s8/db8w22db5w4k24r6k2r6~x2/"><circle cx="115.8" cy="164.8" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/variants/s7/ly6k6y30k8lb18k6ly3~x2~ly3307090-y2602166/"><circle cx="142.1" cy="187.1" r="4" fill="#3465a4"><title>Cape Breton (yellow stripes)</title></circle></a><a href="/variants/s7/k3y1w9y1db9k3lb1~x4/"><circle cx="100.7" cy="171.5" r="4" fill="#3465a4"><title>St. Francis Xavier University</title></circle></a><a href="/variants/s6/r2n20k5w10k10r2~x2/"><circle cx="150.0" cy="189.7" r="4" fill="#3465a4"><title>Thom(p)son, Grey</title></circle></a><a href="/variants/s8/k4y2k13y1w8n13y2n4~x2/"><circle cx="138.5" cy="172.1" r="4" fill="#3465a4"><title>Bannockbane Grey #1</title></circle></a><a href="/variants/s7/w8k2n12k11w1dr6n4~x2/"><circle cx="125.3" cy="196.5" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="162.1" cy="135.6" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/variants/s10/y1k4b2k10w1b2w10b1w4y1~x4/"><circle cx="159.8" cy="157.6" r="4" fill="#3465a4"><title>Chieftain</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="106.3" cy="162.3" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><circle cx="132.0" cy="171.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/k4lo2k13lo1w8t13lo2t4~x2/"><circle cx="138.1" cy="177.6" r="4" fill="#3465a4"><title>Bannockbane Blue #1</title></circle></a><a href="/variants/s8/db8w22db5w4k24r6k2r6~x2/"><circle cx="115.8" cy="165.3" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><a href="/variants/s7/ly6k6y30k8lb18k6ly3~x2~ly3307090-y2602166/"><circle cx="142.1" cy="187.7" r="4" fill="#3465a4"><title>Cape Breton (yellow stripes)</title></circle></a><a href="/variants/s7/k3y1w9y1db9k3lb1~x4/"><circle cx="100.8" cy="172.0" r="4" fill="#3465a4"><title>St. Francis Xavier University</title></circle></a><a href="/variants/s6/r2n20k5w10k10r2~x2/"><circle cx="150.0" cy="190.3" r="4" fill="#3465a4"><title>Thom(p)son, Grey</title></circle></a><a href="/variants/s8/k4y2k13y1w8n13y2n4~x2/"><circle cx="138.6" cy="172.6" r="4" fill="#3465a4"><title>Bannockbane Grey #1</title></circle></a><a href="/variants/s7/w8k2n12k11w1dr6n4~x2/"><circle cx="125.3" cy="197.1" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/variants/s11/r2k6db4w2k14w1db4w16db2w6r2~x2/"><circle cx="162.1" cy="136.1" r="4" fill="#3465a4"><title>McRae, Dress</title></circle></a><a href="/variants/s10/y1k4b2k10w1b2w10b1w4y1~x4/"><circle cx="159.8" cy="158.1" r="4" fill="#3465a4"><title>Chieftain</title></circle></a><a href="/variants/s8/r5w2o20dy2k16w18k2w5~x2~r2109032-o2500000/"><circle cx="106.3" cy="162.9" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><circle cx="132.0" cy="171.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/k4y2k13y1w8lb13y2lb4~x2/

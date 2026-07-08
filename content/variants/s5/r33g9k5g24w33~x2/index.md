@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Inverness Basque"
   url: "/tartans/inverness-basque/"
+- name: "Inverness Basque (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r33g9k5g24w33/)
 (the same proportion at any scale), whose colour order is pattern [RGKGW](/stripes/rgkgw/).
@@ -14,7 +16,7 @@ Part of the [Inverness Basque](/tartans/inverness-basque/) tartan — the named 
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10067
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10067](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10067)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r22g6k3g16w22/"><circle cx="121.1" cy="238.6" r="4" fill="#3465a4"><title>Inverness Basque</title></circle></a><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="158.3" cy="198.3" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><a href="/variants/s6/r6g5k5g5r6t1~x4~t2503227/"><circle cx="140.1" cy="262.8" r="4" fill="#3465a4"><title>Norwich No.028</title></circle></a><a href="/variants/s5/k5db4g24r21w3~x2/"><circle cx="175.0" cy="200.5" r="4" fill="#3465a4"><title>Sachie Hara Scottish Check (Personal)</title></circle></a><a href="/variants/s6/r14k3r14g13db8g13~x2/"><circle cx="157.0" cy="275.9" r="4" fill="#3465a4"><title>Tulsa</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="93.9" cy="222.7" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><circle cx="178.7" cy="188.9" r="4" fill="#3465a4"><title>Strathspey, Check</title></circle></a><a href="/variants/s6/g36lb4g8k29r24w7~x2/"><circle cx="122.9" cy="193.6" r="4" fill="#3465a4"><title>Entre Rios Province (Provisional</title></circle></a><a href="/variants/s7/dg20r3n3r15w19dg3lb2~x2/"><circle cx="150.0" cy="186.2" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s6/k4g14k14g2w14t3~x2/"><circle cx="102.9" cy="221.7" r="4" fill="#3465a4"><title>MacKay, Dress (Corporate)</title></circle></a><circle cx="114.8" cy="243.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/r22g6k3g16w22/"><circle cx="121.2" cy="239.4" r="4" fill="#3465a4"><title>Inverness Basque</title></circle></a><a href="/variants/s6/k3g25o3k15r24g3~x2/"><circle cx="158.3" cy="198.9" r="4" fill="#3465a4"><title>Un-named (D C Dalgliesh) #3</title></circle></a><a href="/variants/s6/r6g5k5g5r6t1~x4~t2503227/"><circle cx="140.3" cy="263.7" r="4" fill="#3465a4"><title>Norwich No.028</title></circle></a><a href="/variants/s5/k5db4g24r21w3~x2/"><circle cx="175.1" cy="201.1" r="4" fill="#3465a4"><title>Sachie Hara Scottish Check (Personal)</title></circle></a><a href="/variants/s6/r14k3r14g13db8g13~x2/"><circle cx="157.2" cy="276.7" r="4" fill="#3465a4"><title>Tulsa</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="94.0" cy="223.4" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/variants/s6/g3r22lb5g10k10g2~x2/"><circle cx="178.8" cy="189.5" r="4" fill="#3465a4"><title>Strathspey, Check</title></circle></a><a href="/variants/s6/g36lb4g8k29r24w7~x2/"><circle cx="123.0" cy="194.2" r="4" fill="#3465a4"><title>Entre Rios Province (Provisional</title></circle></a><a href="/variants/s7/dg20r3n3r15w19dg3lb2~x2/"><circle cx="150.1" cy="186.7" r="4" fill="#3465a4"><title>Glasgow</title></circle></a><a href="/variants/s6/k4g14k14g2w14t3~x2/"><circle cx="103.0" cy="222.4" r="4" fill="#3465a4"><title>MacKay, Dress (Corporate)</title></circle></a><circle cx="114.9" cy="244.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/r33g9k5g24w33~x2/

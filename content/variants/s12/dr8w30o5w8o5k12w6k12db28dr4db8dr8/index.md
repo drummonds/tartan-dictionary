@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Kinloch Anderson Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr8w30o5w8o5k12w6k12db28dr4db8dr8/)
 (the same proportion at any scale), whose colour order is pattern [BBBBKWKRWRWB](/stripes/bbbbkwkrwrwb/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5365
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5365](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5365)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db2k1db6k1dr5y3dr5k2w3k2w9k1w2k1y2~x2/"><circle cx="50.0" cy="151.6" r="4" fill="#3465a4"><title>Unidentified #11</title></circle></a><a href="/variants/s11/y2k2r2db10r1k9w9r2w2r1w2~x2/"><circle cx="73.1" cy="142.5" r="4" fill="#3465a4"><title>Cameron of Erracht Dress</title></circle></a><a href="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/"><circle cx="109.2" cy="173.1" r="4" fill="#3465a4"><title>Law Society of Scotland (Corporate)</title></circle></a><a href="/variants/s11/r1k2w8k2r1k2db8k2r1k2y1~x4/"><circle cx="80.5" cy="146.7" r="4" fill="#3465a4"><title>Andreou Family (Personal)</title></circle></a><a href="/variants/s12/r3lb3r3lb12k6g3k4db16k4g3k6lb3~x2/"><circle cx="46.9" cy="181.7" r="4" fill="#3465a4"><title>Trinity Presbyterian Church</title></circle></a><a href="/variants/s12/dr3k2w18db18k3db3k3db18k18w18k2lo3~x2/"><circle cx="102.0" cy="153.0" r="4" fill="#3465a4"><title>MacEwan Arisaid (Dance)</title></circle></a><a href="/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/"><circle cx="91.1" cy="169.5" r="4" fill="#3465a4"><title>MacDonald Pattern of Plaids</title></circle></a><a href="/variants/s13/db2dr2db12k5dg12dr2dg2dr2dg12k5w14dr2w2~x2/"><circle cx="74.5" cy="163.2" r="4" fill="#3465a4"><title>Blair Dress</title></circle></a><a href="/variants/s10/dr4k1dr4g8k6lb3db2lb11db1dr2~x4/"><circle cx="87.4" cy="165.4" r="4" fill="#3465a4"><title>MacDuff Dress #2</title></circle></a><a href="/variants/s11/k9w8k8w8r5w18k5w5k12db36r5/"><circle cx="92.9" cy="175.3" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><circle cx="58.4" cy="164.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/db2k1db6k1dr5y3dr5k2w3k2w9k1w2k1y2~x2/"><circle cx="50.0" cy="152.1" r="4" fill="#3465a4"><title>Unidentified #11</title></circle></a><a href="/variants/s11/y2k2r2db10r1k9w9r2w2r1w2~x2/"><circle cx="73.0" cy="143.0" r="4" fill="#3465a4"><title>Cameron of Erracht Dress</title></circle></a><a href="/variants/s10/lb6dr3lb24t7w4t7k18dr4k7dr3~t2503227-k0700000/"><circle cx="109.2" cy="173.6" r="4" fill="#3465a4"><title>Law Society of Scotland (Corporate)</title></circle></a><a href="/variants/s11/r1k2w8k2r1k2db8k2r1k2y1~x4/"><circle cx="80.4" cy="147.1" r="4" fill="#3465a4"><title>Andreou Family (Personal)</title></circle></a><a href="/variants/s12/r3lb3r3lb12k6g3k4db16k4g3k6lb3~x2/"><circle cx="46.9" cy="182.2" r="4" fill="#3465a4"><title>Trinity Presbyterian Church</title></circle></a><a href="/variants/s12/dr3k2w18db18k3db3k3db18k18w18k2lo3~x2/"><circle cx="102.0" cy="153.4" r="4" fill="#3465a4"><title>MacEwan Arisaid (Dance)</title></circle></a><a href="/variants/s12/db16r4db6r10db30r4k30w34r9w6r4w16/"><circle cx="91.1" cy="170.0" r="4" fill="#3465a4"><title>MacDonald Pattern of Plaids</title></circle></a><a href="/variants/s13/db2dr2db12k5dg12dr2dg2dr2dg12k5w14dr2w2~x2/"><circle cx="74.5" cy="163.7" r="4" fill="#3465a4"><title>Blair Dress</title></circle></a><a href="/variants/s10/dr4k1dr4g8k6lb3db2lb11db1dr2~x4/"><circle cx="87.4" cy="165.9" r="4" fill="#3465a4"><title>MacDuff Dress #2</title></circle></a><a href="/variants/s11/k9w8k8w8r5w18k5w5k12db36r5/"><circle cx="92.9" cy="175.8" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><circle cx="58.4" cy="165.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/dr8w30o5w8o5k12w6k12db28dr4db8dr8/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Gunn"
   url: "/tartans/gunn/"
+- name: "Gunn (2011) Personal Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/t20k20g20r1/)
 (the same proportion at any scale), whose colour order is pattern [BKGR](/stripes/bkgr/).
@@ -14,7 +16,7 @@ Part of the [Gunn](/tartans/gunn/) tartan — the named design grouping this set
 
 Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10459
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10459](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10459)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db20k20g20r1~x2/"><circle cx="165.5" cy="220.3" r="4" fill="#3465a4"><title>Gunn 2011, Robert (Personal)</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="125.4" cy="171.2" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s5/r3db22k11g32ly3~x2/"><circle cx="183.9" cy="194.5" r="4" fill="#3465a4"><title>Cultoquhey (Corporate)</title></circle></a><a href="/variants/s5/r3db22k11g32y3~x2/"><circle cx="188.9" cy="195.5" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><a href="/variants/s6/dy2g12k10r1t16r2~x4/"><circle cx="149.0" cy="171.1" r="4" fill="#3465a4"><title>MacWilliam (Clan)</title></circle></a><a href="/variants/s4/t12k4g6ly1~x8/"><circle cx="155.4" cy="219.9" r="4" fill="#3465a4"><title>Sinclair of Ulbster</title></circle></a><a href="/variants/s5/g21db10k26ly10r1~x2/"><circle cx="149.8" cy="170.8" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/variants/s5/dg21db10k26ly10r1~x2/"><circle cx="164.4" cy="172.2" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/variants/s5/db31g2k20y2dg24~x2~g2408144-dg1806142/"><circle cx="193.3" cy="191.6" r="4" fill="#3465a4"><title>Landels (Personal)</title></circle></a><a href="/variants/s5/k4w2g8db8w1/"><circle cx="129.1" cy="237.1" r="4" fill="#3465a4"><title>Douglas Green</title></circle></a><circle cx="156.0" cy="221.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/db20k20g20r1~x2/"><circle cx="165.6" cy="220.9" r="4" fill="#3465a4"><title>Gunn 2011, Robert (Personal)</title></circle></a><a href="/variants/s6/r1g14k14r2db14lb1~x2/"><circle cx="125.4" cy="171.6" r="4" fill="#3465a4"><title>Wilson's No.221</title></circle></a><a href="/variants/s5/r3db22k11g32ly3~x2/"><circle cx="184.0" cy="194.9" r="4" fill="#3465a4"><title>Cultoquhey (Corporate)</title></circle></a><a href="/variants/s5/r3db22k11g32y3~x2/"><circle cx="188.9" cy="196.0" r="4" fill="#3465a4"><title>Cultoquhey Hotel</title></circle></a><a href="/variants/s6/dy2g12k10r1t16r2~x4/"><circle cx="149.0" cy="171.5" r="4" fill="#3465a4"><title>MacWilliam (Clan)</title></circle></a><a href="/variants/s4/t12k4g6ly1~x8/"><circle cx="155.5" cy="220.5" r="4" fill="#3465a4"><title>Sinclair of Ulbster</title></circle></a><a href="/variants/s5/g21db10k26ly10r1~x2/"><circle cx="149.8" cy="171.2" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/variants/s5/dg21db10k26ly10r1~x2/"><circle cx="164.4" cy="172.6" r="4" fill="#3465a4"><title>Charles-Carberry (Personal)</title></circle></a><a href="/variants/s5/db31g2k20y2dg24~x2~g2408144-dg1806142/"><circle cx="193.3" cy="191.9" r="4" fill="#3465a4"><title>Landels (Personal)</title></circle></a><a href="/variants/s5/k4w2g8db8w1/"><circle cx="129.1" cy="237.7" r="4" fill="#3465a4"><title>Douglas Green</title></circle></a><circle cx="156.1" cy="221.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/t20k20g20r1~x2/

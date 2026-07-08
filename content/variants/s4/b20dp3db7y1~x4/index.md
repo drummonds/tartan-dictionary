@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Peacock"
   url: "/tartans/peacock/"
+- name: "Peacock"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/b20dp3db7y1/)
 (the same proportion at any scale), whose colour order is pattern [BBBG](/stripes/bbbg/).
@@ -14,7 +16,7 @@ Part of the [Peacock](/tartans/peacock/) tartan — the named design grouping th
 
 Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/o2db19t6b44w2~x2/"><circle cx="429.5" cy="186.8" r="4" fill="#3465a4"><title>World Fed. of Bldg Contractors (Corp</title></circle></a><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/"><circle cx="441.5" cy="233.0" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><a href="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/"><circle cx="437.0" cy="220.7" r="4" fill="#3465a4"><title>Oxford University (Corporate)</title></circle></a><a href="/variants/s5/t50db15w3db4w2~x2/"><circle cx="516.7" cy="213.5" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990) (Corp)</title></circle></a><a href="/variants/s5/b10r1y1db3y2~x5~b1511266-db1108266/"><circle cx="353.7" cy="216.5" r="4" fill="#3465a4"><title>Lytley alias Parsons Hunting (Personal)</title></circle></a><a href="/variants/s4/db39y8dr3w1~x4/"><circle cx="568.8" cy="174.5" r="4" fill="#3465a4"><title>Norwich University Regimental Tartan</title></circle></a><a href="/variants/s5/dp49g3r5db15y4~x2/"><circle cx="461.9" cy="185.6" r="4" fill="#3465a4"><title>Orion Nebula</title></circle></a><a href="/variants/s3/dr10db10lo1~x4/"><circle cx="493.3" cy="327.9" r="4" fill="#3465a4"><title>Mother's Pride</title></circle></a><a href="/variants/s4/db3b30db40r3~x2/"><circle cx="447.3" cy="257.7" r="4" fill="#3465a4"><title>Sanix Large Muted</title></circle></a><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="488.5" cy="218.0" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><circle cx="506.0" cy="238.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/o2db19t6b44w2~x2/"><circle cx="429.5" cy="187.0" r="4" fill="#3465a4"><title>World Fed. of Bldg Contractors (Corp</title></circle></a><a href="/variants/s4/db9dg16b56ly4~x2~dg1304144-ly3608101/"><circle cx="441.6" cy="233.5" r="4" fill="#3465a4"><title>Oxford University</title></circle></a><a href="/variants/s4/dbi9g16db59ly4~x2~dbi1406275-db1106275/"><circle cx="437.0" cy="221.1" r="4" fill="#3465a4"><title>Oxford University (Corporate)</title></circle></a><a href="/variants/s5/t50db15w3db4w2~x2/"><circle cx="516.8" cy="213.9" r="4" fill="#3465a4"><title>Scottish Tourist Board (1990) (Corp)</title></circle></a><a href="/variants/s5/b10r1y1db3y2~x5~b1511266-db1108266/"><circle cx="353.8" cy="216.8" r="4" fill="#3465a4"><title>Lytley alias Parsons Hunting (Personal)</title></circle></a><a href="/variants/s4/db39y8dr3w1~x4/"><circle cx="568.8" cy="174.7" r="4" fill="#3465a4"><title>Norwich University Regimental Tartan</title></circle></a><a href="/variants/s5/dp49g3r5db15y4~x2/"><circle cx="462.0" cy="185.7" r="4" fill="#3465a4"><title>Orion Nebula</title></circle></a><a href="/variants/s3/dr10db10lo1~x4/"><circle cx="493.5" cy="328.5" r="4" fill="#3465a4"><title>Mother's Pride</title></circle></a><a href="/variants/s4/db3b30db40r3~x2/"><circle cx="447.5" cy="258.1" r="4" fill="#3465a4"><title>Sanix Large Muted</title></circle></a><a href="/variants/s4/db62dr24ly5dg3~x2/"><circle cx="488.6" cy="218.2" r="4" fill="#3465a4"><title>Meaux (Personal)</title></circle></a><circle cx="506.1" cy="238.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/b20dp3db7y1~x4/

@@ -10,6 +10,8 @@ crumbs:
   url: "/families/macdonell-of-keppoch/"
 - name: "MacDonell of Keppoch"
   url: "/tartans/macdonell-of-keppoch/"
+- name: "MacDonell of Keppoch #3"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr12g2dr1g1dr1g1dr6g12dr1k1dr12k1dr1k1dr3/)
 (the same proportion at any scale), whose colour order is pattern [BGBGBGBGBKBKBKB](/stripes/bgbgbgbgbkbkbkb/).
@@ -18,7 +20,7 @@ Part of the [MacDonell of Keppoch](/tartans/macdonell-of-keppoch/) tartan — th
 
 Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2388
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2388](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2388)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -74,8 +76,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r24g4r2g2r2g2r12g24r1k1r24k1r1k1r6~x2/"><circle cx="430.2" cy="107.5" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/"><circle cx="426.5" cy="104.9" r="4" fill="#3465a4"><title>Oakhall</title></circle></a><a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4~r2806019-ly2705081/"><circle cx="399.5" cy="160.0" r="4" fill="#3465a4"><title>Welsh National #2</title></circle></a><a href="/variants/s12/n3k2n19r3k1n3r4n3k1n2k1n2~x4/"><circle cx="452.6" cy="128.1" r="4" fill="#3465a4"><title>Balmoral (Pendleton)</title></circle></a><a href="/variants/s15/dr20y1dr10y10k1dr5w1dr5k1y5dr11k2w4y3dr5~x2/"><circle cx="362.4" cy="125.6" r="4" fill="#3465a4"><title>Motherwell Football Club Official</title></circle></a><a href="/variants/s11/y30r2y2k5y3dy2y3dy22y3k2y3~x2/"><circle cx="345.0" cy="134.9" r="4" fill="#3465a4"><title>Dunbarton Trade Tartan</title></circle></a><a href="/variants/s12/g4dy14r1dy1g1dy1r1dy14r14dy1r1g1~x4/"><circle cx="392.0" cy="163.8" r="4" fill="#3465a4"><title>Frame (Ferniegair) (Personal)</title></circle></a><a href="/variants/s10/y28k2y28k2y2k2dy29k2r2k2~x2/"><circle cx="340.6" cy="140.5" r="4" fill="#3465a4"><title>Ulster (Peat) (District</title></circle></a><a href="/variants/s12/k4y1k4y11dr1y1dr1y11k4y1k4y1~x4/"><circle cx="300.7" cy="158.6" r="4" fill="#3465a4"><title>Baillieville Family Tartan</title></circle></a><a href="/variants/s10/o28k2o28k2o2k2do29k2r2k2~x2/"><circle cx="345.3" cy="136.6" r="4" fill="#3465a4"><title>Ulster</title></circle></a><circle cx="400.6" cy="150.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s15/r24g4r2g2r2g2r12g24r1k1r24k1r1k1r6~x2/"><circle cx="430.2" cy="107.8" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/variants/s14/dr48g6dr6g12y3g2k3g2y3g12dr6g6dr48k3~x2/"><circle cx="426.5" cy="105.0" r="4" fill="#3465a4"><title>Oakhall</title></circle></a><a href="/variants/s7/k4dy2r2dy2k2dy15ly2~x4~r2806019-ly2705081/"><circle cx="399.5" cy="160.4" r="4" fill="#3465a4"><title>Welsh National #2</title></circle></a><a href="/variants/s12/n3k2n19r3k1n3r4n3k1n2k1n2~x4/"><circle cx="452.6" cy="128.4" r="4" fill="#3465a4"><title>Balmoral (Pendleton)</title></circle></a><a href="/variants/s15/dr20y1dr10y10k1dr5w1dr5k1y5dr11k2w4y3dr5~x2/"><circle cx="362.4" cy="125.9" r="4" fill="#3465a4"><title>Motherwell Football Club Official</title></circle></a><a href="/variants/s11/y30r2y2k5y3dy2y3dy22y3k2y3~x2/"><circle cx="345.0" cy="135.1" r="4" fill="#3465a4"><title>Dunbarton Trade Tartan</title></circle></a><a href="/variants/s12/g4dy14r1dy1g1dy1r1dy14r14dy1r1g1~x4/"><circle cx="392.1" cy="164.1" r="4" fill="#3465a4"><title>Frame (Ferniegair) (Personal)</title></circle></a><a href="/variants/s10/y28k2y28k2y2k2dy29k2r2k2~x2/"><circle cx="340.6" cy="140.8" r="4" fill="#3465a4"><title>Ulster (Peat) (District</title></circle></a><a href="/variants/s12/k4y1k4y11dr1y1dr1y11k4y1k4y1~x4/"><circle cx="300.7" cy="159.1" r="4" fill="#3465a4"><title>Baillieville Family Tartan</title></circle></a><a href="/variants/s10/o28k2o28k2o2k2do29k2r2k2~x2/"><circle cx="345.2" cy="136.9" r="4" fill="#3465a4"><title>Ulster</title></circle></a><circle cx="400.6" cy="150.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s15/dr12g2dr1g1dr1g1dr6g12dr1k1dr12k1dr1k1dr3~x4/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Kagame"
   url: "/tartans/kagame/"
+- name: "Kagame (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k5lb14k10g3k3g7k6db24w3/)
 (the same proportion at any scale), whose colour order is pattern [KWKKGKGKBW](/stripes/kwkkgkgkbw/).
@@ -14,7 +16,7 @@ Part of the [Kagame](/tartans/kagame/) tartan — the named design grouping this
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1926
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1926](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1926)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -61,8 +63,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4lb14k10g3k3g7k6db24w3~x2~lb3203246-db1706275/"><circle cx="45.2" cy="147.3" r="4" fill="#3465a4"><title>Kagame Personal Tartan</title></circle></a><a href="/variants/s9/gi20r2g3db12k20r2lb3db4lb3~x2~gi2203152-g1903114/"><circle cx="76.8" cy="144.8" r="4" fill="#3465a4"><title>Ithilien Heather (Personal)</title></circle></a><a href="/variants/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="81.6" cy="157.6" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><a href="/variants/s9/w3db1w1db3k1y1k8g3dp2~x2/"><circle cx="75.7" cy="152.9" r="4" fill="#3465a4"><title>Scottish Cultural Society Ltd</title></circle></a><a href="/variants/s9/k2w1dp7k1g6k1db7lb1k1~x4/"><circle cx="52.5" cy="163.3" r="4" fill="#3465a4"><title>South Lanarkshire (2002) (District)</title></circle></a><a href="/variants/s11/w7k11lb3db9g19y3k22db9lb3k3db6~x2/"><circle cx="68.5" cy="162.6" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/variants/s13/w2db14lo3k6g2k2w2k2g8dy6k2dy3w2~x4/"><circle cx="16.1" cy="151.4" r="4" fill="#3465a4"><title>Bowling (Clan)</title></circle></a><a href="/variants/s13/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2~x2/"><circle cx="33.8" cy="162.3" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><a href="/variants/s12/w4k8db2lb2db4g16y2k15db6lb2k3lb4~x2/"><circle cx="73.3" cy="145.5" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/variants/s13/k5lb10n10k4n4k4n4k30db21t4db4t24r4~db1404245-t2308259/"><circle cx="65.2" cy="142.4" r="4" fill="#3465a4"><title>Anderson-Moffat (Personal)</title></circle></a><circle cx="42.6" cy="148.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/k4lb14k10g3k3g7k6db24w3~x2~lb3203246-db1706275/"><circle cx="45.2" cy="147.7" r="4" fill="#3465a4"><title>Kagame Personal Tartan</title></circle></a><a href="/variants/s9/gi20r2g3db12k20r2lb3db4lb3~x2~gi2203152-g1903114/"><circle cx="76.8" cy="145.1" r="4" fill="#3465a4"><title>Ithilien Heather (Personal)</title></circle></a><a href="/variants/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="81.5" cy="157.9" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><a href="/variants/s9/w3db1w1db3k1y1k8g3dp2~x2/"><circle cx="75.6" cy="153.3" r="4" fill="#3465a4"><title>Scottish Cultural Society Ltd</title></circle></a><a href="/variants/s9/k2w1dp7k1g6k1db7lb1k1~x4/"><circle cx="52.5" cy="163.6" r="4" fill="#3465a4"><title>South Lanarkshire (2002) (District)</title></circle></a><a href="/variants/s11/w7k11lb3db9g19y3k22db9lb3k3db6~x2/"><circle cx="68.5" cy="163.0" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/variants/s13/w2db14lo3k6g2k2w2k2g8dy6k2dy3w2~x4/"><circle cx="16.1" cy="151.8" r="4" fill="#3465a4"><title>Bowling (Clan)</title></circle></a><a href="/variants/s13/dp3k3dp10k11g14db3g14k11w3lb3db15lb2w2~x2/"><circle cx="33.8" cy="162.7" r="4" fill="#3465a4"><title>North of Scotland Tartan Army</title></circle></a><a href="/variants/s12/w4k8db2lb2db4g16y2k15db6lb2k3lb4~x2/"><circle cx="73.3" cy="145.8" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/variants/s13/k5lb10n10k4n4k4n4k30db21t4db4t24r4~db1404245-t2308259/"><circle cx="65.1" cy="142.7" r="4" fill="#3465a4"><title>Anderson-Moffat (Personal)</title></circle></a><circle cx="42.5" cy="148.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k5lb14k10g3k3g7k6db24w3~x2~lb3203246-db1004274/

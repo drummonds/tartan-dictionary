@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Franconian"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db22g7r5g4w5g4r5g5db22t5db4g4db4g22db4g4db4g4db22y5db5r5db22g4db4g4db4g22db4g4db4t5/)
 (the same proportion at any scale), whose colour order is pattern [BBGBGBGBGBRBGBGBGBGBGBBBGRGWGRGB](/stripes/bbgbgbgbgbrbgbgbgbgbgbbbgrgwgrgb/).
 
 Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1244
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1244](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1244)
 
 ## Provenance
 
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4lo3~x2~db1406275/"><circle cx="223.0" cy="179.8" r="4" fill="#3465a4"><title>Hunter of Hunterston</title></circle></a><a href="/variants/s34/dg3r3dg3db3g13db5g3db5k9dg3db3dg3g6db3k3db16y3db3dg3db3r3db16k3db3g6dg3db3dg3k9db5g3db5g13db3~x2/"><circle cx="104.0" cy="143.0" r="4" fill="#3465a4"><title>Shipley, Ian (Personal)</title></circle></a><a href="/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2~db1406275-r2109032/"><circle cx="227.2" cy="124.5" r="4" fill="#3465a4"><title>Hart of Scotland</title></circle></a><a href="/variants/s16/t4db6g1w1r1db6t4db2ly1db1ly1db1ly1db2ly3db3~x4/"><circle cx="198.7" cy="177.0" r="4" fill="#3465a4"><title>De Baseggio (Personal)</title></circle></a><circle cx="192.3" cy="145.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s20/g4r2g14w2db14r2db14g14db2g5db2g14db14r2db14w2g14r2g4lo3~x2~db1406275/"><circle cx="223.1" cy="180.2" r="4" fill="#3465a4"><title>Hunter of Hunterston</title></circle></a><a href="/variants/s34/dg3r3dg3db3g13db5g3db5k9dg3db3dg3g6db3k3db16y3db3dg3db3r3db16k3db3g6dg3db3dg3k9db5g3db5g13db3~x2/"><circle cx="104.0" cy="143.2" r="4" fill="#3465a4"><title>Shipley, Ian (Personal)</title></circle></a><a href="/variants/s19/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5~x2~db1406275-r2109032/"><circle cx="227.2" cy="124.6" r="4" fill="#3465a4"><title>Hart of Scotland</title></circle></a><a href="/variants/s16/t4db6g1w1r1db6t4db2ly1db1ly1db1ly1db2ly3db3~x4/"><circle cx="198.8" cy="177.4" r="4" fill="#3465a4"><title>De Baseggio (Personal)</title></circle></a><circle cx="192.3" cy="145.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s32/db22g7r5g4w5g4r5g5db22t5db4g4db4g22db4g4db4g4db22y5db5r5db22g4db4g4db4g22db4g4db4t5~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ogilvie (D.C. Stewart) #2"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb6y2k2r9w2r6w2r9k2y2lb6r2lb6r2lb6y2k2r9w2r6w2r9k2y2lb6w2/)
 (the same proportion at any scale), whose colour order is pattern [WGKRWRWRKGWRWRWGKRWRWRKGWW](/stripes/wgkrwrwrkgwrwrwgkrwrwrkgww/).
 
 Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3227
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3227](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3227)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/lb4r1lb4y1k1r6w1r4w1r6k1y1lb4w1~x2/"><circle cx="169.6" cy="168.5" r="4" fill="#3465a4"><title>Ogilvy D</title></circle></a><a href="/variants/s14/w4r1w4y1k1r6w1r4w1r6k1y1w4g1~x2/"><circle cx="161.8" cy="163.2" r="4" fill="#3465a4"><title>Ogilvy D</title></circle></a><a href="/variants/s22/w2r2ri2r16k2r2w6r7dg6ri2r2ri2k6r3w2r3w2r3w16r2ri2w2~x2~r2109032-ri2806019/"><circle cx="132.8" cy="113.3" r="4" fill="#3465a4"><title>MacDougal (Dress)</title></circle></a><a href="/variants/s19/k1r4g8r2g1r2db4r2w1r1w1r2g4r3g4r1k1r8w1~x2/"><circle cx="181.3" cy="142.4" r="4" fill="#3465a4"><title>MacDougall #6</title></circle></a><circle cx="128.6" cy="162.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s14/lb4r1lb4y1k1r6w1r4w1r6k1y1lb4w1~x2/"><circle cx="169.7" cy="169.1" r="4" fill="#3465a4"><title>Ogilvy D</title></circle></a><a href="/variants/s14/w4r1w4y1k1r6w1r4w1r6k1y1w4g1~x2/"><circle cx="161.9" cy="163.8" r="4" fill="#3465a4"><title>Ogilvy D</title></circle></a><a href="/variants/s22/w2r2ri2r16k2r2w6r7dg6ri2r2ri2k6r3w2r3w2r3w16r2ri2w2~x2~r2109032-ri2806019/"><circle cx="132.8" cy="113.7" r="4" fill="#3465a4"><title>MacDougal (Dress)</title></circle></a><a href="/variants/s19/k1r4g8r2g1r2db4r2w1r1w1r2g4r3g4r1k1r8w1~x2/"><circle cx="181.3" cy="142.9" r="4" fill="#3465a4"><title>MacDougall #6</title></circle></a><circle cx="128.6" cy="163.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s26/lb6y2k2r9w2r6w2r9k2y2lb6r2lb6r2lb6y2k2r9w2r6w2r9k2y2lb6w2~x2/

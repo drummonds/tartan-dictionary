@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Middleton, City of"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/n16w1n1k1n8ly4r2w2r2/)
 (the same proportion at any scale), whose colour order is pattern [BWBKBYRWR](/stripes/bwbkbyrwr/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2948
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2948](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2948)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n27lr3n14k3n13k3ly23~x2/"><circle cx="312.1" cy="204.2" r="4" fill="#3465a4"><title>Grange School</title></circle></a><a href="/variants/s8/n83k7w6n10r7k3r20w3~x2/"><circle cx="409.4" cy="105.1" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s8/t130k9t21ly8t21w8t35r70/"><circle cx="385.1" cy="145.7" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/variants/s9/g3n5k4n33g12k4w2n18ly3~x2/"><circle cx="358.4" cy="141.1" r="4" fill="#3465a4"><title>Smoke Showing (UFES)</title></circle></a><a href="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/"><circle cx="326.0" cy="122.1" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/variants/s9/n14db3n2lbi8n5lbi2k2n25lb2~x2~n1700000-lbi3300000/"><circle cx="402.8" cy="148.9" r="4" fill="#3465a4"><title>Turnberry Scotland</title></circle></a><a href="/variants/s9/n68k4n18o20k3w3k10lb8lr4~n1900000-o2500000/"><circle cx="315.9" cy="93.2" r="4" fill="#3465a4"><title>Carbon (Corporate)</title></circle></a><a href="/variants/s13/db3k1dr1n24dr1n4lo3db1k4dr1n8dr1k1~x4/"><circle cx="388.6" cy="83.7" r="4" fill="#3465a4"><title>Wcwm 1445</title></circle></a><a href="/variants/s11/n19do2k3o1k1w1k1do6n3k1n6~x4/"><circle cx="346.7" cy="107.3" r="4" fill="#3465a4"><title>Glen Clova #1</title></circle></a><a href="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do1301000-dt1600000/"><circle cx="334.7" cy="99.9" r="4" fill="#3465a4"><title>Carbon</title></circle></a><circle cx="369.3" cy="132.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/n27lr3n14k3n13k3ly23~x2/"><circle cx="312.2" cy="204.8" r="4" fill="#3465a4"><title>Grange School</title></circle></a><a href="/variants/s8/n83k7w6n10r7k3r20w3~x2/"><circle cx="409.4" cy="105.3" r="4" fill="#3465a4"><title>President High School</title></circle></a><a href="/variants/s8/t130k9t21ly8t21w8t35r70/"><circle cx="385.1" cy="146.1" r="4" fill="#3465a4"><title>Maud, Mary</title></circle></a><a href="/variants/s9/g3n5k4n33g12k4w2n18ly3~x2/"><circle cx="358.4" cy="141.3" r="4" fill="#3465a4"><title>Smoke Showing (UFES)</title></circle></a><a href="/variants/s11/k3y3lo2y30k2y3m12y6mi6k3y3~x2~y2103114-lo2706066-m1907352-mi2506332/"><circle cx="325.9" cy="122.4" r="4" fill="#3465a4"><title>McAlifyfe (Personal)</title></circle></a><a href="/variants/s9/n14db3n2lbi8n5lbi2k2n25lb2~x2~n1700000-lbi3300000/"><circle cx="402.8" cy="149.3" r="4" fill="#3465a4"><title>Turnberry Scotland</title></circle></a><a href="/variants/s9/n68k4n18o20k3w3k10lb8lr4~n1900000-o2500000/"><circle cx="315.8" cy="93.4" r="4" fill="#3465a4"><title>Carbon (Corporate)</title></circle></a><a href="/variants/s13/db3k1dr1n24dr1n4lo3db1k4dr1n8dr1k1~x4/"><circle cx="388.5" cy="83.7" r="4" fill="#3465a4"><title>Wcwm 1445</title></circle></a><a href="/variants/s11/n19do2k3o1k1w1k1do6n3k1n6~x4/"><circle cx="346.6" cy="107.4" r="4" fill="#3465a4"><title>Glen Clova #1</title></circle></a><a href="/variants/s9/do68k4do18dt20k3w3k10lb8lo4~do1301000-dt1600000/"><circle cx="334.6" cy="100.0" r="4" fill="#3465a4"><title>Carbon</title></circle></a><circle cx="369.3" cy="133.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/n16w1n1k1n8ly4r2w2r2~x4/

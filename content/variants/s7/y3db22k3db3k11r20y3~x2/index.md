@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Biffy Clyro"
   url: "/tartans/biffy-clyro/"
+- name: "Biffy Clyro"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y3db22k3db3k11r20y3/)
 (the same proportion at any scale), whose colour order is pattern [GBKBKRG](/stripes/gbkbkrg/).
@@ -14,7 +16,7 @@ Part of the [Biffy Clyro](/tartans/biffy-clyro/) tartan — the named design gro
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11100
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11100](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11100)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.3" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s6/db31lb4db6k19r20y4~x2/"><circle cx="157.9" cy="193.1" r="4" fill="#3465a4"><title>Fife (McGill)</title></circle></a><a href="/variants/s6/n32w4n4k24dp29k4/"><circle cx="171.5" cy="210.0" r="4" fill="#3465a4"><title>Grammar School at Leeds (School)</title></circle></a><a href="/variants/s5/db13k13db13r29y4~x2/"><circle cx="171.2" cy="236.3" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x2/"><circle cx="155.5" cy="175.3" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x4/"><circle cx="155.5" cy="175.3" r="4" fill="#3465a4"><title>Gipsy (Fashion)</title></circle></a><a href="/variants/s6/r5db35k25db8ly10r5~x2/"><circle cx="199.7" cy="208.3" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><a href="/variants/s7/lb5k26y4lb24dp8k3r4~x2/"><circle cx="135.4" cy="165.9" r="4" fill="#3465a4"><title>Pengelly, The Cornish (Name)</title></circle></a><a href="/variants/s6/db4r30k6db13k13db3~x2/"><circle cx="217.4" cy="198.7" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish (Bonner)</title></circle></a><a href="/variants/s6/r26lb3r4k16db16k4~x2/"><circle cx="181.0" cy="194.7" r="4" fill="#3465a4"><title>Graham of Menteith, (Red)</title></circle></a><circle cx="162.8" cy="191.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/ly3db22k3db3k11r20ly3~x2/"><circle cx="152.7" cy="189.9" r="4" fill="#3465a4"><title>Biffy Clyro</title></circle></a><a href="/variants/s6/db31lb4db6k19r20y4~x2/"><circle cx="157.9" cy="193.6" r="4" fill="#3465a4"><title>Fife (McGill)</title></circle></a><a href="/variants/s6/n32w4n4k24dp29k4/"><circle cx="171.5" cy="210.6" r="4" fill="#3465a4"><title>Grammar School at Leeds (School)</title></circle></a><a href="/variants/s5/db13k13db13r29y4~x2/"><circle cx="171.3" cy="237.0" r="4" fill="#3465a4"><title>Highland Pub Company</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x2/"><circle cx="155.5" cy="175.8" r="4" fill="#3465a4"><title>Gipsy</title></circle></a><a href="/variants/s9/k2r2k8r2w1r2db8r2k2~x4/"><circle cx="155.5" cy="175.8" r="4" fill="#3465a4"><title>Gipsy (Fashion)</title></circle></a><a href="/variants/s6/r5db35k25db8ly10r5~x2/"><circle cx="199.8" cy="208.9" r="4" fill="#3465a4"><title>University of Notre Dame</title></circle></a><a href="/variants/s7/lb5k26y4lb24dp8k3r4~x2/"><circle cx="135.4" cy="166.4" r="4" fill="#3465a4"><title>Pengelly, The Cornish (Name)</title></circle></a><a href="/variants/s6/db4r30k6db13k13db3~x2/"><circle cx="217.5" cy="199.3" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish (Bonner)</title></circle></a><a href="/variants/s6/r26lb3r4k16db16k4~x2/"><circle cx="181.0" cy="195.3" r="4" fill="#3465a4"><title>Graham of Menteith, (Red)</title></circle></a><circle cx="162.9" cy="192.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/y3db22k3db3k11r20y3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Scottish Borderland"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg2db1dg30n10db20dg1db2lo1db2dg1db20n10dg30db1dg2lb2/)
 (the same proportion at any scale), whose colour order is pattern [GBGBBGBYBGBBGBGW](/stripes/gbgbbgbybgbbgbgw/).
 
 Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3709
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3709](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3709)
 
 ## Provenance
 
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb2dg2db1dg30n10db20dg1db2lo1~x2/"><circle cx="393.6" cy="158.4" r="4" fill="#3465a4"><title>Scottish Borderland (Fashion)</title></circle></a><a href="/variants/s6/db47dg14dp5do2dr3dg7~x2~db1204274-dg1605139-dp1105325/"><circle cx="415.9" cy="176.9" r="4" fill="#3465a4"><title>Round Table of Britain and Ire Corporate Tartan</title></circle></a><a href="/variants/s18/g10dg2db2dy14dg2g2dg2g2dg2db25dy8g4dg4db3dg1db3dg1db4~x2/"><circle cx="324.1" cy="157.5" r="4" fill="#3465a4"><title>Nova Scotia</title></circle></a><a href="/variants/s14/y1dbi2dg20r3dbi30y1dbi30lb3db9dg4r3dg4dbi2y1~x2~dbi1404245-lb3203246-db1106275/"><circle cx="406.5" cy="122.2" r="4" fill="#3465a4"><title>Benteau na mara</title></circle></a><a href="/variants/s14/y1dbi2dg20r3dbi30y1dbi30lb3db9dg4r3dg4dbi2y1~x2~dbi1404245-db1106275/"><circle cx="408.1" cy="122.6" r="4" fill="#3465a4"><title>Benteau na mara (Name)</title></circle></a><circle cx="408.2" cy="148.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s9/lb2dg2db1dg30n10db20dg1db2lo1~x2/"><circle cx="393.6" cy="158.4" r="4" fill="#3465a4"><title>Scottish Borderland (Fashion)</title></circle></a><a href="/variants/s6/db47dg14dp5do2dr3dg7~x2~db1204274-dg1605139-dp1105325/"><circle cx="415.9" cy="176.8" r="4" fill="#3465a4"><title>Round Table of Britain and Ire Corporate Tartan</title></circle></a><a href="/variants/s18/g10dg2db2dy14dg2g2dg2g2dg2db25dy8g4dg4db3dg1db3dg1db4~x2/"><circle cx="324.1" cy="157.5" r="4" fill="#3465a4"><title>Nova Scotia</title></circle></a><a href="/variants/s14/y1dbi2dg20r3dbi30y1dbi30lb3db9dg4r3dg4dbi2y1~x2~dbi1404245-lb3203246-db1106275/"><circle cx="406.4" cy="122.0" r="4" fill="#3465a4"><title>Benteau na mara</title></circle></a><a href="/variants/s14/y1dbi2dg20r3dbi30y1dbi30lb3db9dg4r3dg4dbi2y1~x2~dbi1404245-db1106275/"><circle cx="408.0" cy="122.4" r="4" fill="#3465a4"><title>Benteau na mara (Name)</title></circle></a><circle cx="408.1" cy="148.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/dg2db1dg30n10db20dg1db2lo1db2dg1db20n10dg30db1dg2lb2~x2/

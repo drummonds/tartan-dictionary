@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Thirkill"
   url: "/tartans/thirkill/"
+- name: "Thirkill"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y4k2dg7g7r5k2r15k2w4/)
 (the same proportion at any scale), whose colour order is pattern [GKGGRKRKW](/stripes/gkggrkrkw/).
@@ -14,7 +16,7 @@ Part of the [Thirkill](/tartans/thirkill/) tartan — the named design grouping 
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4101
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4101](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4101)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y6k8g7r6k2r18w6~x4/"><circle cx="133.2" cy="187.2" r="4" fill="#3465a4"><title>Thirkill (Dalgliesh)</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="93.9" cy="222.7" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/variants/s13/r6db2k2db4k4y2k1w2k1g9r6w2r6~x4/"><circle cx="70.9" cy="150.1" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/variants/s13/r8db2k1db3k4y1k1w1k1g8r6w1r6~x4/"><circle cx="129.0" cy="137.4" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/variants/s11/y9ly3k4ly4k8dr17k3dr17db8k4w4~x2/"><circle cx="92.2" cy="175.6" r="4" fill="#3465a4"><title>Laois County Crest (Fashion)</title></circle></a><a href="/variants/s15/r18lb5r18g24y3k19lb10k3lb3k3lb10r18w4k5r5~x2/"><circle cx="79.9" cy="138.3" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><a href="/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/"><circle cx="91.3" cy="138.4" r="4" fill="#3465a4"><title>Kidd</title></circle></a><a href="/variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/"><circle cx="70.8" cy="160.4" r="4" fill="#3465a4"><title>Walls, Steve C (Personal)</title></circle></a><a href="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/"><circle cx="120.9" cy="128.6" r="4" fill="#3465a4"><title>Caledonian Cameron Commando</title></circle></a><a href="/variants/s8/g8r11k3y2dp8g15r5w2~x2/"><circle cx="128.8" cy="185.9" r="4" fill="#3465a4"><title>Wilson's, No 109</title></circle></a><circle cx="97.7" cy="162.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/y6k8g7r6k2r18w6~x4/"><circle cx="133.3" cy="187.9" r="4" fill="#3465a4"><title>Thirkill (Dalgliesh)</title></circle></a><a href="/variants/s6/r2ly1r5k4g5w1~x4/"><circle cx="94.0" cy="223.4" r="4" fill="#3465a4"><title>Aboyne II (Fashion)</title></circle></a><a href="/variants/s13/r6db2k2db4k4y2k1w2k1g9r6w2r6~x4/"><circle cx="70.9" cy="150.5" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/variants/s13/r8db2k1db3k4y1k1w1k1g8r6w1r6~x4/"><circle cx="129.0" cy="137.8" r="4" fill="#3465a4"><title>Christie</title></circle></a><a href="/variants/s11/y9ly3k4ly4k8dr17k3dr17db8k4w4~x2/"><circle cx="92.2" cy="176.0" r="4" fill="#3465a4"><title>Laois County Crest (Fashion)</title></circle></a><a href="/variants/s15/r18lb5r18g24y3k19lb10k3lb3k3lb10r18w4k5r5~x2/"><circle cx="79.8" cy="138.7" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><a href="/variants/s15/r14lb3r12g16y2k11lb7k2lb2k2lb7r12w3k3r4~x2/"><circle cx="91.2" cy="138.8" r="4" fill="#3465a4"><title>Kidd</title></circle></a><a href="/variants/s10/k3y2k2y14dy3k6dr8r14w2r3~x2/"><circle cx="70.8" cy="160.9" r="4" fill="#3465a4"><title>Walls, Steve C (Personal)</title></circle></a><a href="/variants/s14/r21lt9k2lt2k2lt9k18ly3g21r13k3r13w2r13~x2/"><circle cx="120.9" cy="129.0" r="4" fill="#3465a4"><title>Caledonian Cameron Commando</title></circle></a><a href="/variants/s8/g8r11k3y2dp8g15r5w2~x2/"><circle cx="128.8" cy="186.4" r="4" fill="#3465a4"><title>Wilson's, No 109</title></circle></a><circle cx="97.7" cy="163.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/y4k2dg7g7r5k2r15k2w4~x2/

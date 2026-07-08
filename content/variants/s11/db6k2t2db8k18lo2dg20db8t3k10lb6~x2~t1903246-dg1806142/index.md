@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Veere"
   url: "/tartans/veere/"
+- name: "Veere (District)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db6k2t2db8k18lo2dg20db8t3k10lb6/)
 (the same proportion at any scale), whose colour order is pattern [BKBBKYGBBKW](/stripes/bkbbkygbbkw/).
@@ -14,7 +16,7 @@ Part of the [Veere](/tartans/veere/) tartan — the named design grouping this s
 
 Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2670
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2670](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2670)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w7k11lb3db9g19y3k22db9lb3k3db6~x2/"><circle cx="68.5" cy="162.6" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/variants/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/"><circle cx="79.6" cy="164.9" r="4" fill="#3465a4"><title>Logan Rogers (Personal)</title></circle></a><a href="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1406275-db1204274/"><circle cx="79.4" cy="157.2" r="4" fill="#3465a4"><title>Gow Hunting (Clan)</title></circle></a><a href="/variants/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="81.6" cy="157.6" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><a href="/variants/s11/r3k1g12k12db12lb3db12k12g12k1y3~x2/"><circle cx="72.5" cy="155.9" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/variants/s11/r3k2g18k18db3k3db3k3db18dy2w3~x2/"><circle cx="97.6" cy="135.8" r="4" fill="#3465a4"><title>Tindal</title></circle></a><a href="/variants/s11/r3k2g18k18db3k3db3k3db18y2w3~x2/"><circle cx="96.4" cy="135.5" r="4" fill="#3465a4"><title>Tindal</title></circle></a><a href="/variants/s11/dp3db13n2db4w2db8k13g10k2g8dp3~x2/"><circle cx="81.2" cy="179.2" r="4" fill="#3465a4"><title>Smithers</title></circle></a><a href="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1605267-db0804274/"><circle cx="78.8" cy="157.8" r="4" fill="#3465a4"><title>Gow Hunting</title></circle></a><a href="/variants/s14/k20g18k2y2k5w2k2g18k20dp18t4dp4t4dp18~x2/"><circle cx="97.1" cy="137.8" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><circle cx="94.6" cy="155.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/w7k11lb3db9g19y3k22db9lb3k3db6~x2/"><circle cx="68.5" cy="163.0" r="4" fill="#3465a4"><title>Veere</title></circle></a><a href="/variants/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/"><circle cx="79.5" cy="165.2" r="4" fill="#3465a4"><title>Logan Rogers (Personal)</title></circle></a><a href="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1406275-db1204274/"><circle cx="79.3" cy="157.5" r="4" fill="#3465a4"><title>Gow Hunting (Clan)</title></circle></a><a href="/variants/s9/dp2g4k8lo1k1db4lb1db1lb2~x8/"><circle cx="81.5" cy="157.9" r="4" fill="#3465a4"><title>Scottish Cultural Society (Corporate</title></circle></a><a href="/variants/s11/r3k1g12k12db12lb3db12k12g12k1y3~x2/"><circle cx="72.4" cy="156.3" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/variants/s11/r3k2g18k18db3k3db3k3db18dy2w3~x2/"><circle cx="97.5" cy="136.1" r="4" fill="#3465a4"><title>Tindal</title></circle></a><a href="/variants/s11/r3k2g18k18db3k3db3k3db18y2w3~x2/"><circle cx="96.3" cy="135.8" r="4" fill="#3465a4"><title>Tindal</title></circle></a><a href="/variants/s11/dp3db13n2db4w2db8k13g10k2g8dp3~x2/"><circle cx="81.2" cy="179.6" r="4" fill="#3465a4"><title>Smithers</title></circle></a><a href="/variants/s11/r3k1g12k12dbi12db3dbi12k12g12k1y3~x2~dbi1605267-db0804274/"><circle cx="78.8" cy="158.1" r="4" fill="#3465a4"><title>Gow Hunting</title></circle></a><a href="/variants/s14/k20g18k2y2k5w2k2g18k20dp18t4dp4t4dp18~x2/"><circle cx="97.0" cy="138.1" r="4" fill="#3465a4"><title>Shandon (Personal)</title></circle></a><circle cx="94.5" cy="155.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/db6k2t2db8k18lo2dg20db8t3k10lb6~x2~t1903246-dg1806142/

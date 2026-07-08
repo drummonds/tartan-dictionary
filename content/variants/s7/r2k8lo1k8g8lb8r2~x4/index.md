@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Brodie Hunting"
   url: "/tartans/brodie-hunting/"
+- name: "Brodie Hunting (Clan)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2k8lo1k8g8lb8r2/)
 (the same proportion at any scale), whose colour order is pattern [RKYKGWR](/stripes/rkykgwr/).
@@ -14,7 +16,7 @@ Part of the [Brodie Hunting](/tartans/brodie-hunting/) tartan — the named desi
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1334
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1334](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1334)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2k8y1k8g8db8r2~x4/"><circle cx="126.5" cy="201.3" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/variants/s7/r2k8y1k8g8db8r2~x2/"><circle cx="126.5" cy="201.3" r="4" fill="#3465a4"><title>Brodie hunting</title></circle></a><a href="/variants/s7/r1g8k8r1k8lb8r1~x4/"><circle cx="148.9" cy="198.6" r="4" fill="#3465a4"><title>Triad Highland Games Proposed</title></circle></a><a href="/variants/s8/r2k8y1k8g8db8k2w2~x2/"><circle cx="115.5" cy="176.2" r="4" fill="#3465a4"><title>Hislop hunting</title></circle></a><a href="/variants/s7/r2db8g8k8y1g8r2/"><circle cx="131.1" cy="208.9" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/variants/s8/w4k2lb18g18k18wi3k18r3~x2~w3600000-wi3703114/"><circle cx="109.4" cy="162.1" r="4" fill="#3465a4"><title>Hislop (Name)</title></circle></a><a href="/variants/s8/k18db12k5g4r6g12k2ly4~x2/"><circle cx="109.0" cy="187.1" r="4" fill="#3465a4"><title>MacLeish</title></circle></a><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><circle cx="105.3" cy="203.5" r="4" fill="#3465a4"><title>MacLaren #2</title></circle></a><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.2" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.8" cy="232.2" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><circle cx="108.7" cy="196.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2k8y1k8g8db8r2~x4/"><circle cx="126.5" cy="201.8" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/variants/s7/r2k8y1k8g8db8r2~x2/"><circle cx="126.5" cy="201.8" r="4" fill="#3465a4"><title>Brodie hunting</title></circle></a><a href="/variants/s7/r1g8k8r1k8lb8r1~x4/"><circle cx="149.0" cy="199.2" r="4" fill="#3465a4"><title>Triad Highland Games Proposed</title></circle></a><a href="/variants/s8/r2k8y1k8g8db8k2w2~x2/"><circle cx="115.5" cy="176.6" r="4" fill="#3465a4"><title>Hislop hunting</title></circle></a><a href="/variants/s7/r2db8g8k8y1g8r2/"><circle cx="131.2" cy="209.5" r="4" fill="#3465a4"><title>Brodie Hunting</title></circle></a><a href="/variants/s8/w4k2lb18g18k18wi3k18r3~x2~w3600000-wi3703114/"><circle cx="109.4" cy="162.6" r="4" fill="#3465a4"><title>Hislop (Name)</title></circle></a><a href="/variants/s8/k18db12k5g4r6g12k2ly4~x2/"><circle cx="109.1" cy="187.6" r="4" fill="#3465a4"><title>MacLeish</title></circle></a><a href="/variants/s7/dp9k7g5r4g7k1y1~x2/"><circle cx="105.3" cy="204.1" r="4" fill="#3465a4"><title>MacLaren #2</title></circle></a><a href="/variants/s6/r4n25k6w12k11y3~x2/"><circle cx="124.9" cy="189.8" r="4" fill="#3465a4"><title>Thomson Dress (Grey) (Fashion)</title></circle></a><a href="/variants/s7/g24k4g24k24lb7r24lb7~x2/"><circle cx="121.9" cy="232.9" r="4" fill="#3465a4"><title>Unidentified Pinafore</title></circle></a><circle cx="108.8" cy="196.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r2k8lo1k8g8lb8r2~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Macintosh, Charles Rennie (Commem)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k5n5k9db5k5db5/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBK](/stripes/bkbkbk/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10047
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10047](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10047)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r8k24db10k5db10k5~x2/"><circle cx="251.1" cy="249.1" r="4" fill="#3465a4"><title>Allen, Nicholas (Personal)</title></circle></a><a href="/variants/s6/k1g3k3db3k1db1~x4/"><circle cx="148.5" cy="289.7" r="4" fill="#3465a4"><title>Sutherland 42nd</title></circle></a><a href="/variants/s6/db6k6db18k18g22k5/"><circle cx="150.8" cy="269.3" r="4" fill="#3465a4"><title>Campbell, the 42nd</title></circle></a><a href="/variants/s5/k5db1k5db7w2~x2/"><circle cx="224.0" cy="252.0" r="4" fill="#3465a4"><title>Grampian, T.V.</title></circle></a><a href="/variants/s4/k34db13k7db14~x2/"><circle cx="378.0" cy="301.2" r="4" fill="#3465a4"><title>Auchincloss (Personal)</title></circle></a><a href="/variants/s5/db2k2g2db1k1~x20/"><circle cx="107.4" cy="343.2" r="4" fill="#3465a4"><title>Shepherd, Derek (Wandering)</title></circle></a><a href="/variants/s8/k15db10k15dr7k15w5k15db10/"><circle cx="229.0" cy="281.4" r="4" fill="#3465a4"><title>Millarkie, Will (Personal)</title></circle></a><a href="/variants/s8/k8db8k2db2w2k5db5r2~x5/"><circle cx="161.3" cy="236.1" r="4" fill="#3465a4"><title>Lexington Fire Department</title></circle></a><a href="/variants/s5/db4k4db4g9k2~x2/"><circle cx="154.9" cy="284.8" r="4" fill="#3465a4"><title>Austin Clan</title></circle></a><a href="/variants/s5/db4k4db4g9k2/"><circle cx="154.9" cy="284.8" r="4" fill="#3465a4"><title>Austin</title></circle></a><circle cx="203.3" cy="347.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r8k24db10k5db10k5~x2/"><circle cx="251.2" cy="249.8" r="4" fill="#3465a4"><title>Allen, Nicholas (Personal)</title></circle></a><a href="/variants/s6/k1g3k3db3k1db1~x4/"><circle cx="148.6" cy="290.5" r="4" fill="#3465a4"><title>Sutherland 42nd</title></circle></a><a href="/variants/s6/db6k6db18k18g22k5/"><circle cx="151.0" cy="270.0" r="4" fill="#3465a4"><title>Campbell, the 42nd</title></circle></a><a href="/variants/s5/k5db1k5db7w2~x2/"><circle cx="224.1" cy="252.7" r="4" fill="#3465a4"><title>Grampian, T.V.</title></circle></a><a href="/variants/s4/k34db13k7db14~x2/"><circle cx="378.1" cy="301.9" r="4" fill="#3465a4"><title>Auchincloss (Personal)</title></circle></a><a href="/variants/s5/db2k2g2db1k1~x20/"><circle cx="107.7" cy="344.2" r="4" fill="#3465a4"><title>Shepherd, Derek (Wandering)</title></circle></a><a href="/variants/s8/k15db10k15dr7k15w5k15db10/"><circle cx="229.1" cy="282.2" r="4" fill="#3465a4"><title>Millarkie, Will (Personal)</title></circle></a><a href="/variants/s8/k8db8k2db2w2k5db5r2~x5/"><circle cx="161.4" cy="236.7" r="4" fill="#3465a4"><title>Lexington Fire Department</title></circle></a><a href="/variants/s5/db4k4db4g9k2~x2/"><circle cx="155.0" cy="285.6" r="4" fill="#3465a4"><title>Austin Clan</title></circle></a><a href="/variants/s5/db4k4db4g9k2/"><circle cx="155.0" cy="285.6" r="4" fill="#3465a4"><title>Austin</title></circle></a><circle cx="203.5" cy="348.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k5n5k9db5k5db5~x2/

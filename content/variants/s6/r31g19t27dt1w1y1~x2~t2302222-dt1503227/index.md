@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Glencross (Solway) (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r31g19t27dt1w1y1/)
 (the same proportion at any scale), whose colour order is pattern [GWBBGR](/stripes/gwbbgr/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10438
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10438](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10438)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r31g19lg27b1w1lo1~x2/"><circle cx="242.7" cy="142.8" r="4" fill="#3465a4"><title>Glencross, (Solway) (Personal)</title></circle></a><a href="/variants/s6/r20w1k1b6y1g18~x2/"><circle cx="238.0" cy="137.6" r="4" fill="#3465a4"><title>Gordon of Abergeldie, (Red..)</title></circle></a><a href="/variants/s5/y28r11g11db11w2~x2/"><circle cx="243.0" cy="221.9" r="4" fill="#3465a4"><title>Samye #2</title></circle></a><a href="/variants/s5/y25r10g10db11w2~x2/"><circle cx="226.2" cy="228.0" r="4" fill="#3465a4"><title>Samye</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.2" cy="189.5" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/variants/s6/y2dt1t29r29dt1g2~x2~dt1703227-t2004245/"><circle cx="370.0" cy="149.0" r="4" fill="#3465a4"><title>Reagan</title></circle></a><a href="/variants/s6/r20w1k1o6dy1g18~x2/"><circle cx="246.4" cy="137.2" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Red..) Portrait Tartan</title></circle></a><a href="/variants/s6/g2db1r29t29db1lo2~x2/"><circle cx="348.0" cy="132.0" r="4" fill="#3465a4"><title>Reagan Clan Tartan</title></circle></a><a href="/variants/s8/w3o1r29o16g23db3g3y2~x2/"><circle cx="246.5" cy="132.9" r="4" fill="#3465a4"><title>Etienne, Paschal Tache Sir...</title></circle></a><a href="/variants/s6/y9g18b9r1w1db1~x4/"><circle cx="301.8" cy="188.3" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><circle cx="287.7" cy="154.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r31g19lg27b1w1lo1~x2/"><circle cx="242.7" cy="143.1" r="4" fill="#3465a4"><title>Glencross, (Solway) (Personal)</title></circle></a><a href="/variants/s6/r20w1k1b6y1g18~x2/"><circle cx="237.9" cy="137.9" r="4" fill="#3465a4"><title>Gordon of Abergeldie, (Red..)</title></circle></a><a href="/variants/s5/y28r11g11db11w2~x2/"><circle cx="243.1" cy="222.4" r="4" fill="#3465a4"><title>Samye #2</title></circle></a><a href="/variants/s5/y25r10g10db11w2~x2/"><circle cx="226.4" cy="228.5" r="4" fill="#3465a4"><title>Samye</title></circle></a><a href="/variants/s5/r15w1db4y1g15~x4/"><circle cx="257.3" cy="190.0" r="4" fill="#3465a4"><title>Eglinton, Duke of (Artefact)</title></circle></a><a href="/variants/s6/y2dt1t29r29dt1g2~x2~dt1703227-t2004245/"><circle cx="370.0" cy="149.2" r="4" fill="#3465a4"><title>Reagan</title></circle></a><a href="/variants/s6/r20w1k1o6dy1g18~x2/"><circle cx="246.4" cy="137.5" r="4" fill="#3465a4"><title>Gordon of Abergeldie (Red..) Portrait Tartan</title></circle></a><a href="/variants/s6/g2db1r29t29db1lo2~x2/"><circle cx="348.0" cy="132.2" r="4" fill="#3465a4"><title>Reagan Clan Tartan</title></circle></a><a href="/variants/s8/w3o1r29o16g23db3g3y2~x2/"><circle cx="246.5" cy="133.0" r="4" fill="#3465a4"><title>Etienne, Paschal Tache Sir...</title></circle></a><a href="/variants/s6/y9g18b9r1w1db1~x4/"><circle cx="301.8" cy="188.5" r="4" fill="#3465a4"><title>COG USA, THE</title></circle></a><circle cx="287.7" cy="155.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r31g19t27dt1w1y1~x2~t2302222-dt1503227/

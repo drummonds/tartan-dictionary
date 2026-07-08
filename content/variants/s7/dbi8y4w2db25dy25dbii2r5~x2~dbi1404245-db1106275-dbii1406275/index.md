@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Kildrummie"
   url: "/tartans/kildrummie/"
+- name: "Kildrummie (Name)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dbi8y4w2db25dy25dbii2r5/)
 (the same proportion at any scale), whose colour order is pattern [BGWBGBR](/stripes/bgwbgbr/).
@@ -14,7 +16,7 @@ Part of the [Kildrummie](/tartans/kildrummie/) tartan — the named design group
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10048
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10048](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10048)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db8y4w2bi25dy25b2r5~x2~db1108266-bi1813263-b1511266/"><circle cx="154.7" cy="154.9" r="4" fill="#3465a4"><title>Kildrummie</title></circle></a><a href="/variants/s6/db30y3dy11y3n33r6~x2/"><circle cx="278.1" cy="223.4" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.3" cy="219.4" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s6/k26n10dt19dr6dy2db9~x2~dt1502222-db1704245/"><circle cx="150.9" cy="189.9" r="4" fill="#3465a4"><title>Meeson Hunting</title></circle></a><a href="/variants/s8/db17w2db2r2db2do12dg16y3~x4/"><circle cx="214.8" cy="200.1" r="4" fill="#3465a4"><title>Blairmore House</title></circle></a><a href="/variants/s6/t26k10db19dr6dy2dbi9~x2~db1404245-dbi1704245/"><circle cx="155.6" cy="197.2" r="4" fill="#3465a4"><title>Meeson Dress Personal Tartan</title></circle></a><a href="/variants/s11/o3dp5r2dp9g8dg2g4dg2n8db28o2~x2~o2500000-n1900000/"><circle cx="196.5" cy="136.8" r="4" fill="#3465a4"><title>Glenisla (Fashion)</title></circle></a><a href="/variants/s7/dr1r12dg1n9dy1db12lb1~x4/"><circle cx="178.6" cy="159.2" r="4" fill="#3465a4"><title>Wallace Memorial Centenary</title></circle></a><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/"><circle cx="178.5" cy="188.0" r="4" fill="#3465a4"><title>Cowie</title></circle></a><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="164.9" cy="176.5" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><circle cx="201.9" cy="169.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db8y4w2bi25dy25b2r5~x2~db1108266-bi1813263-b1511266/"><circle cx="154.7" cy="155.1" r="4" fill="#3465a4"><title>Kildrummie</title></circle></a><a href="/variants/s6/db30y3dy11y3n33r6~x2/"><circle cx="278.2" cy="223.6" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s6/db30y3o11y3n33r6~x2/"><circle cx="270.4" cy="219.7" r="4" fill="#3465a4"><title>Balfour</title></circle></a><a href="/variants/s6/k26n10dt19dr6dy2db9~x2~dt1502222-db1704245/"><circle cx="150.9" cy="190.2" r="4" fill="#3465a4"><title>Meeson Hunting</title></circle></a><a href="/variants/s8/db17w2db2r2db2do12dg16y3~x4/"><circle cx="214.8" cy="200.3" r="4" fill="#3465a4"><title>Blairmore House</title></circle></a><a href="/variants/s6/t26k10db19dr6dy2dbi9~x2~db1404245-dbi1704245/"><circle cx="155.6" cy="197.5" r="4" fill="#3465a4"><title>Meeson Dress Personal Tartan</title></circle></a><a href="/variants/s11/o3dp5r2dp9g8dg2g4dg2n8db28o2~x2~o2500000-n1900000/"><circle cx="196.4" cy="136.8" r="4" fill="#3465a4"><title>Glenisla (Fashion)</title></circle></a><a href="/variants/s7/dr1r12dg1n9dy1db12lb1~x4/"><circle cx="178.6" cy="159.5" r="4" fill="#3465a4"><title>Wallace Memorial Centenary</title></circle></a><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/"><circle cx="178.5" cy="188.3" r="4" fill="#3465a4"><title>Cowie</title></circle></a><a href="/variants/s7/r2ly2db9dy1dg9r1w1~x2/"><circle cx="164.9" cy="176.8" r="4" fill="#3465a4"><title>Unidentified (ex Tony Murray)</title></circle></a><circle cx="201.9" cy="169.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dbi8y4w2db25dy25dbii2r5~x2~dbi1404245-db1106275-dbii1406275/

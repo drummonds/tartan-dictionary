@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Prince of Denmark (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r52dg2r2dg2r3w3db2w2db2/)
 (the same proportion at any scale), whose colour order is pattern [BWBWRGRGR](/stripes/bwbwrgrgr/).
 
 Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2377
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2377](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2377)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w10r47dbi2r2dbi2r18db3w4~x2~dbi1406275-db1204274/"><circle cx="494.1" cy="119.6" r="4" fill="#3465a4"><title>Swiss National (Fashion)</title></circle></a><a href="/variants/s8/w10r47b2r2b2r18db3w4~x2~b1511266-db1108266/"><circle cx="486.9" cy="117.7" r="4" fill="#3465a4"><title>Swiss National</title></circle></a><a href="/variants/s8/r48w4db4k4r12db4r1y4~x2/"><circle cx="467.1" cy="56.7" r="4" fill="#3465a4"><title>Brodie (W &amp; A Smith)</title></circle></a><a href="/variants/s8/r48w4db4k4r12db4r1y4/"><circle cx="467.1" cy="56.7" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/variants/s8/r56w2k12y3r12y3r12g3~x2/"><circle cx="462.6" cy="82.2" r="4" fill="#3465a4"><title>Hackston, or Halkerston</title></circle></a><a href="/variants/s8/r51lr2k11ly3r11ly3r11g3~x2/"><circle cx="454.8" cy="90.4" r="4" fill="#3465a4"><title>Hackston (Green stripe) (Portrait)</title></circle></a><a href="/variants/s6/r72k8r4g16r7n2~x2/"><circle cx="494.0" cy="99.9" r="4" fill="#3465a4"><title>MacAndrew Dress (Name)</title></circle></a><a href="/variants/s10/r51dy2r2dy2r3w3db2w2db2w8~x2/"><circle cx="474.1" cy="81.0" r="4" fill="#3465a4"><title>Prince of Denmark</title></circle></a><a href="/variants/s6/r65g16r4dp4r4w5~x2/"><circle cx="499.1" cy="150.7" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><a href="/variants/s8/r60db5r5w2r5g2r5y2~x2/"><circle cx="626.0" cy="90.4" r="4" fill="#3465a4"><title>Burnett, of Leys</title></circle></a><circle cx="570.3" cy="83.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/w10r47dbi2r2dbi2r18db3w4~x2~dbi1406275-db1204274/"><circle cx="494.1" cy="120.0" r="4" fill="#3465a4"><title>Swiss National (Fashion)</title></circle></a><a href="/variants/s8/w10r47b2r2b2r18db3w4~x2~b1511266-db1108266/"><circle cx="486.9" cy="118.1" r="4" fill="#3465a4"><title>Swiss National</title></circle></a><a href="/variants/s8/r48w4db4k4r12db4r1y4~x2/"><circle cx="467.0" cy="56.8" r="4" fill="#3465a4"><title>Brodie (W &amp; A Smith)</title></circle></a><a href="/variants/s8/r48w4db4k4r12db4r1y4/"><circle cx="467.0" cy="56.8" r="4" fill="#3465a4"><title>Brodie</title></circle></a><a href="/variants/s8/r56w2k12y3r12y3r12g3~x2/"><circle cx="462.6" cy="82.5" r="4" fill="#3465a4"><title>Hackston, or Halkerston</title></circle></a><a href="/variants/s8/r51lr2k11ly3r11ly3r11g3~x2/"><circle cx="454.8" cy="90.7" r="4" fill="#3465a4"><title>Hackston (Green stripe) (Portrait)</title></circle></a><a href="/variants/s6/r72k8r4g16r7n2~x2/"><circle cx="494.0" cy="100.2" r="4" fill="#3465a4"><title>MacAndrew Dress (Name)</title></circle></a><a href="/variants/s10/r51dy2r2dy2r3w3db2w2db2w8~x2/"><circle cx="474.1" cy="81.2" r="4" fill="#3465a4"><title>Prince of Denmark</title></circle></a><a href="/variants/s6/r65g16r4dp4r4w5~x2/"><circle cx="499.1" cy="151.1" r="4" fill="#3465a4"><title>Howard, Vincent (Personal)</title></circle></a><a href="/variants/s8/r60db5r5w2r5g2r5y2~x2/"><circle cx="626.0" cy="90.5" r="4" fill="#3465a4"><title>Burnett, of Leys</title></circle></a><circle cx="570.2" cy="83.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/r52dg2r2dg2r3w3db2w2db2~x4/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Welsh National #3"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y7k4y4k39r4/)
 (the same proportion at any scale), whose colour order is pattern [GKGKR](/stripes/gkgkr/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4599
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4599](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4599)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy9k4dy4k45r4~x2/"><circle cx="470.8" cy="183.8" r="4" fill="#3465a4"><title>Gwynn (Name)</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="336.9" cy="193.5" r="4" fill="#3465a4"><title>Black (symmetrical)</title></circle></a><a href="/variants/s6/k17dr6k2w6k17ly2~x2/"><circle cx="328.1" cy="191.2" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/variants/s5/k4r11k32y1k4~x2/"><circle cx="469.9" cy="132.7" r="4" fill="#3465a4"><title>Harvie</title></circle></a><a href="/variants/s5/k30r10y1k8w3~x4/"><circle cx="400.4" cy="127.5" r="4" fill="#3465a4"><title>Union Fire Club Pipes and Drums</title></circle></a><a href="/variants/s3/k5y1k1~x12/"><circle cx="416.8" cy="248.3" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/"><circle cx="448.8" cy="135.3" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/variants/s6/k8y1k1r1k4db1~x12/"><circle cx="449.2" cy="180.4" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s4/k46dy7k8w20~x2/"><circle cx="307.5" cy="226.9" r="4" fill="#3465a4"><title>Lords of Skye (Fashion?)</title></circle></a><a href="/variants/s5/k31r12y2n5k2~x4/"><circle cx="323.2" cy="149.3" r="4" fill="#3465a4"><title>Perry (2014)</title></circle></a><circle cx="415.2" cy="175.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/dy9k4dy4k45r4~x2/"><circle cx="470.8" cy="184.1" r="4" fill="#3465a4"><title>Gwynn (Name)</title></circle></a><a href="/variants/s6/k17dr6k2lb6k17ly2~x2/"><circle cx="336.9" cy="194.1" r="4" fill="#3465a4"><title>Black (symmetrical)</title></circle></a><a href="/variants/s6/k17dr6k2w6k17ly2~x2/"><circle cx="328.2" cy="191.8" r="4" fill="#3465a4"><title>Black 1990 (Name)</title></circle></a><a href="/variants/s5/k4r11k32y1k4~x2/"><circle cx="469.8" cy="133.1" r="4" fill="#3465a4"><title>Harvie</title></circle></a><a href="/variants/s5/k30r10y1k8w3~x4/"><circle cx="400.3" cy="127.9" r="4" fill="#3465a4"><title>Union Fire Club Pipes and Drums</title></circle></a><a href="/variants/s3/k5y1k1~x12/"><circle cx="416.9" cy="249.1" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s7/dy3k2dy32dr3dy3k5w3~x2/"><circle cx="448.7" cy="135.6" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/variants/s6/k8y1k1r1k4db1~x12/"><circle cx="449.2" cy="180.9" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/variants/s4/k46dy7k8w20~x2/"><circle cx="307.6" cy="227.6" r="4" fill="#3465a4"><title>Lords of Skye (Fashion?)</title></circle></a><a href="/variants/s5/k31r12y2n5k2~x4/"><circle cx="323.1" cy="149.8" r="4" fill="#3465a4"><title>Perry (2014)</title></circle></a><circle cx="415.2" cy="176.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/y7k4y4k39r4~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Aberdeen Forever"
   url: "/tartans/aberdeen-forever/"
+- name: "Aberdeen Forever"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/y4w2r19n8k1n3k2n2k3n2k26lb4/)
 (the same proportion at any scale), whose colour order is pattern [GWRBKBKBKBKW](/stripes/gwrbkbkbkbkw/).
@@ -14,7 +16,7 @@ Part of the [Aberdeen Forever](/tartans/aberdeen-forever/) tartan — the named 
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10733
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10733](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10733)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y4w2r16n8k1n3k2n2k3n2k22lb4~x2/"><circle cx="149.0" cy="83.7" r="4" fill="#3465a4"><title>Aberdeen Forever (District)</title></circle></a><a href="/variants/s10/r4do4r4do12k32ly15ri1ly7lyi1ri1~x2~r1706009-ly2503076-ri2607041-lyi2705081/"><circle cx="175.8" cy="80.7" r="4" fill="#3465a4"><title>Hard Rock Cafe (Corporate)</title></circle></a><a href="/variants/s12/w4dr8g1db4g1db4g1r25k25g2k1g2~x2/"><circle cx="129.1" cy="63.5" r="4" fill="#3465a4"><title>Tweedbank (Corporate)</title></circle></a><a href="/variants/s12/w4dr8dg1db4dg1db4dg1r25k25dg2k1dg2~x2/"><circle cx="133.4" cy="63.9" r="4" fill="#3465a4"><title>Tweedbank</title></circle></a><a href="/variants/s15/r11w4r8dy1r1dy28ly2dy28k2dy2k23r3lyi6r3k5~x2~ly2503076-lyi2705081/"><circle cx="199.6" cy="67.4" r="4" fill="#3465a4"><title>Scottish Register of Tartans (Corp)</title></circle></a><a href="/variants/s10/dr4do4dr4do12k32ly15r1ly7dy1r1~x2/"><circle cx="161.2" cy="77.7" r="4" fill="#3465a4"><title>Hard Rock Café</title></circle></a><a href="/variants/s11/dg15r25dg4k2ly1db1ly1k2dg4db12w1~x2/"><circle cx="182.6" cy="84.3" r="4" fill="#3465a4"><title>Livingstone - Australia (Personal)</title></circle></a><a href="/variants/s11/r4k4r32g4w3g4k13g3db18r2y3~x2/"><circle cx="148.6" cy="96.1" r="4" fill="#3465a4"><title>Norwell</title></circle></a><a href="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/"><circle cx="147.9" cy="91.5" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/"><circle cx="203.5" cy="65.6" r="4" fill="#3465a4"><title>El Dorado Hills P &amp; D (Corporate)</title></circle></a><circle cx="168.0" cy="70.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/y4w2r16n8k1n3k2n2k3n2k22lb4~x2/"><circle cx="148.9" cy="83.9" r="4" fill="#3465a4"><title>Aberdeen Forever (District)</title></circle></a><a href="/variants/s10/r4do4r4do12k32ly15ri1ly7lyi1ri1~x2~r1706009-ly2503076-ri2607041-lyi2705081/"><circle cx="175.7" cy="80.8" r="4" fill="#3465a4"><title>Hard Rock Cafe (Corporate)</title></circle></a><a href="/variants/s12/w4dr8g1db4g1db4g1r25k25g2k1g2~x2/"><circle cx="128.9" cy="63.6" r="4" fill="#3465a4"><title>Tweedbank (Corporate)</title></circle></a><a href="/variants/s12/w4dr8dg1db4dg1db4dg1r25k25dg2k1dg2~x2/"><circle cx="133.2" cy="64.0" r="4" fill="#3465a4"><title>Tweedbank</title></circle></a><a href="/variants/s15/r11w4r8dy1r1dy28ly2dy28k2dy2k23r3lyi6r3k5~x2~ly2503076-lyi2705081/"><circle cx="199.5" cy="67.5" r="4" fill="#3465a4"><title>Scottish Register of Tartans (Corp)</title></circle></a><a href="/variants/s10/dr4do4dr4do12k32ly15r1ly7dy1r1~x2/"><circle cx="161.0" cy="77.8" r="4" fill="#3465a4"><title>Hard Rock Café</title></circle></a><a href="/variants/s11/dg15r25dg4k2ly1db1ly1k2dg4db12w1~x2/"><circle cx="182.5" cy="84.4" r="4" fill="#3465a4"><title>Livingstone - Australia (Personal)</title></circle></a><a href="/variants/s11/r4k4r32g4w3g4k13g3db18r2y3~x2/"><circle cx="148.5" cy="96.3" r="4" fill="#3465a4"><title>Norwell</title></circle></a><a href="/variants/s11/k3r30g10k3y2k3w2k6r2db12w2~x2/"><circle cx="147.8" cy="91.7" r="4" fill="#3465a4"><title>Kilmorie</title></circle></a><a href="/variants/s14/k5r1w2r1k26r3ly1n10w1r3w1n10w1r3~x2/"><circle cx="203.4" cy="65.8" r="4" fill="#3465a4"><title>El Dorado Hills P &amp; D (Corporate)</title></circle></a><circle cx="167.8" cy="70.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/y4w2r19n8k1n3k2n2k3n2k26lb4~x2/

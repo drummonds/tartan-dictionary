@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Unnamed, No 54"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db2g6db6b5db1b2/)
 (the same proportion at any scale), whose colour order is pattern [BBBBGB](/stripes/bbbbgb/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db1g10db9t10db1t1~x4/"><circle cx="293.2" cy="272.6" r="4" fill="#3465a4"><title>Black Watch (Aljean)</title></circle></a><a href="/variants/s6/dbi7db2dbi25db10g21db2~x2~dbi1605267-db1004274/"><circle cx="368.9" cy="264.3" r="4" fill="#3465a4"><title>Sugiyama</title></circle></a><a href="/variants/s6/dbi7db2dbi25db10g21db2~x2~dbi1406275-db1204274/"><circle cx="363.5" cy="261.7" r="4" fill="#3465a4"><title>Sugiyama Jogakuen University (Corp)</title></circle></a><a href="/variants/s6/b7db2b25db10g21db2~x2~b1511266-db1108266/"><circle cx="322.6" cy="250.9" r="4" fill="#3465a4"><title>Sugiyama Corporate Tartan</title></circle></a><a href="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/"><circle cx="293.8" cy="250.4" r="4" fill="#3465a4"><title>Norwich No.017</title></circle></a><a href="/variants/s7/g10db2g2db6lb5db1lb2~x2/"><circle cx="261.4" cy="251.1" r="4" fill="#3465a4"><title>Unidentified No 17</title></circle></a><a href="/variants/s7/db4lb4db8n8db12lb12y1~x2/"><circle cx="266.5" cy="244.9" r="4" fill="#3465a4"><title>von Prondzynski (2016)</title></circle></a><a href="/variants/s8/db11dg10g6db7lb2db3dp10lb2~x2/"><circle cx="198.6" cy="269.2" r="4" fill="#3465a4"><title>Hummelt, Katherine (Personal)</title></circle></a><a href="/variants/s8/db9t2db2y1t7db2r1t4~x4/"><circle cx="318.5" cy="232.7" r="4" fill="#3465a4"><title>Mercer, Charles</title></circle></a><a href="/variants/s6/db2g6db6dp5db1dp2~x2/"><circle cx="278.0" cy="306.4" r="4" fill="#3465a4"><title>Unidentified no. 54</title></circle></a><circle cx="272.6" cy="309.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db1g10db9t10db1t1~x4/"><circle cx="293.3" cy="273.1" r="4" fill="#3465a4"><title>Black Watch (Aljean)</title></circle></a><a href="/variants/s6/dbi7db2dbi25db10g21db2~x2~dbi1605267-db1004274/"><circle cx="369.1" cy="264.7" r="4" fill="#3465a4"><title>Sugiyama</title></circle></a><a href="/variants/s6/dbi7db2dbi25db10g21db2~x2~dbi1406275-db1204274/"><circle cx="363.6" cy="262.1" r="4" fill="#3465a4"><title>Sugiyama Jogakuen University (Corp)</title></circle></a><a href="/variants/s6/b7db2b25db10g21db2~x2~b1511266-db1108266/"><circle cx="322.7" cy="251.4" r="4" fill="#3465a4"><title>Sugiyama Corporate Tartan</title></circle></a><a href="/variants/s7/g10db2g2db6t5db1t2~x2~db1406275-t2503227/"><circle cx="293.9" cy="250.8" r="4" fill="#3465a4"><title>Norwich No.017</title></circle></a><a href="/variants/s7/g10db2g2db6lb5db1lb2~x2/"><circle cx="261.6" cy="251.7" r="4" fill="#3465a4"><title>Unidentified No 17</title></circle></a><a href="/variants/s7/db4lb4db8n8db12lb12y1~x2/"><circle cx="266.6" cy="245.5" r="4" fill="#3465a4"><title>von Prondzynski (2016)</title></circle></a><a href="/variants/s8/db11dg10g6db7lb2db3dp10lb2~x2/"><circle cx="198.8" cy="269.7" r="4" fill="#3465a4"><title>Hummelt, Katherine (Personal)</title></circle></a><a href="/variants/s8/db9t2db2y1t7db2r1t4~x4/"><circle cx="318.6" cy="233.1" r="4" fill="#3465a4"><title>Mercer, Charles</title></circle></a><a href="/variants/s6/db2g6db6dp5db1dp2~x2/"><circle cx="278.2" cy="307.0" r="4" fill="#3465a4"><title>Unidentified no. 54</title></circle></a><circle cx="272.8" cy="310.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/db2g6db6b5db1b2~x2/

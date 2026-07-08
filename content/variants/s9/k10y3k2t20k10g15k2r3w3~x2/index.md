@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "McCuaig (Glenelg and the Western Isles)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k10y3k2t20k10g15k2r3w3/)
 (the same proportion at any scale), whose colour order is pattern [KGKBKGKRW](/stripes/kgkbkgkrw/).
 
 Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10265
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10265](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10265)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k6g14lb2r3lb2k16y2b16g16r3~x2/"><circle cx="83.3" cy="159.8" r="4" fill="#3465a4"><title>Unnamed 4</title></circle></a><a href="/variants/s10/k6g14t2r3t2k16y2ti16g16r3~x2~t2304245-ti2607245/"><circle cx="80.5" cy="160.6" r="4" fill="#3465a4"><title>Unidentified #37</title></circle></a><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/"><circle cx="118.0" cy="178.5" r="4" fill="#3465a4"><title>MacLeod (Clan)</title></circle></a><a href="/variants/s7/y4k2t20k10g15k2r3~x2/"><circle cx="123.9" cy="179.9" r="4" fill="#3465a4"><title>Green MacLeod</title></circle></a><a href="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/"><circle cx="120.9" cy="136.9" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><a href="/variants/s12/db7w2g3db18y2k15y2g17r5g3r2g7~x2/"><circle cx="95.1" cy="146.5" r="4" fill="#3465a4"><title>Paisley</title></circle></a><a href="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/"><circle cx="125.9" cy="134.8" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><a href="/variants/s9/dr2lb1g7r1k7g1db7r1g2~x8~dr1004029-r1606028/"><circle cx="81.9" cy="166.9" r="4" fill="#3465a4"><title>MacCraig</title></circle></a><a href="/variants/s11/k6g20lb2dr5lb2k20lo3db20g26dr3db5~x2/"><circle cx="127.8" cy="136.4" r="4" fill="#3465a4"><title>Stephenson (Name)</title></circle></a><a href="/variants/s7/r3g3db4g17k13dt26w3~x2/"><circle cx="119.1" cy="172.1" r="4" fill="#3465a4"><title>Royal Burgh of Peebles (District)</title></circle></a><circle cx="85.4" cy="152.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/k6g14lb2r3lb2k16y2b16g16r3~x2/"><circle cx="83.3" cy="160.2" r="4" fill="#3465a4"><title>Unnamed 4</title></circle></a><a href="/variants/s10/k6g14t2r3t2k16y2ti16g16r3~x2~t2304245-ti2607245/"><circle cx="80.5" cy="161.0" r="4" fill="#3465a4"><title>Unidentified #37</title></circle></a><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/"><circle cx="118.0" cy="179.0" r="4" fill="#3465a4"><title>MacLeod (Clan)</title></circle></a><a href="/variants/s7/y4k2t20k10g15k2r3~x2/"><circle cx="123.9" cy="180.3" r="4" fill="#3465a4"><title>Green MacLeod</title></circle></a><a href="/variants/s11/k6g20lb2r6lb2k20y3db20g26r3db6~x2/"><circle cx="120.9" cy="137.2" r="4" fill="#3465a4"><title>Stevenson</title></circle></a><a href="/variants/s12/db7w2g3db18y2k15y2g17r5g3r2g7~x2/"><circle cx="95.0" cy="146.8" r="4" fill="#3465a4"><title>Paisley</title></circle></a><a href="/variants/s11/k6g20lb2r5lb2k20y3db20g26r3db5~x2/"><circle cx="125.8" cy="135.0" r="4" fill="#3465a4"><title>Stephenson</title></circle></a><a href="/variants/s9/dr2lb1g7r1k7g1db7r1g2~x8~dr1004029-r1606028/"><circle cx="81.8" cy="167.3" r="4" fill="#3465a4"><title>MacCraig</title></circle></a><a href="/variants/s11/k6g20lb2dr5lb2k20lo3db20g26dr3db5~x2/"><circle cx="127.7" cy="136.7" r="4" fill="#3465a4"><title>Stephenson (Name)</title></circle></a><a href="/variants/s7/r3g3db4g17k13dt26w3~x2/"><circle cx="119.1" cy="172.5" r="4" fill="#3465a4"><title>Royal Burgh of Peebles (District)</title></circle></a><circle cx="85.4" cy="152.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s9/k10y3k2t20k10g15k2r3w3~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Rowardennan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k3dr22g5dg10do10dg2/)
 (the same proportion at any scale), whose colour order is pattern [GBGGBK](/stripes/gbggbk/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3581
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3581](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3581)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dpi10k2dg10dp30dg30dgi55k4dr8~dpi1607327-dp1105325-dgi1605139/"><circle cx="266.2" cy="156.1" r="4" fill="#3465a4"><title>Batten of Argyll (Baddenach)</title></circle></a><a href="/variants/s9/k1dp8dr1dy3dr1dy8k4dg14dr1~x4/"><circle cx="293.2" cy="202.4" r="4" fill="#3465a4"><title>Wcwm 1873-5</title></circle></a><a href="/variants/s8/dy35dg19r3g8r3dg8r3db3~x2/"><circle cx="324.2" cy="205.4" r="4" fill="#3465a4"><title>John Muir Way</title></circle></a><a href="/variants/s6/do2dy12do12r1k12dy2~x6/"><circle cx="277.2" cy="232.1" r="4" fill="#3465a4"><title>Ferguson Britt (Corporate)</title></circle></a><a href="/variants/s8/do24g2do5oi14g2oi5o17do2~x2~oi2104058-o2102055/"><circle cx="371.7" cy="236.4" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><a href="/variants/s8/n9dy9yi9r1y1dy9y1r1~x4~n1900000-yi2300000/"><circle cx="319.7" cy="235.1" r="4" fill="#3465a4"><title>Jardine (Clan)</title></circle></a><circle cx="306.7" cy="233.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s8/dpi10k2dg10dp30dg30dgi55k4dr8~dpi1607327-dp1105325-dgi1605139/"><circle cx="266.1" cy="156.1" r="4" fill="#3465a4"><title>Batten of Argyll (Baddenach)</title></circle></a><a href="/variants/s9/k1dp8dr1dy3dr1dy8k4dg14dr1~x4/"><circle cx="293.2" cy="202.4" r="4" fill="#3465a4"><title>Wcwm 1873-5</title></circle></a><a href="/variants/s8/dy35dg19r3g8r3dg8r3db3~x2/"><circle cx="324.2" cy="205.5" r="4" fill="#3465a4"><title>John Muir Way</title></circle></a><a href="/variants/s6/do2dy12do12r1k12dy2~x6/"><circle cx="277.2" cy="232.3" r="4" fill="#3465a4"><title>Ferguson Britt (Corporate)</title></circle></a><a href="/variants/s8/do24g2do5oi14g2oi5o17do2~x2~oi2104058-o2102055/"><circle cx="371.8" cy="236.6" r="4" fill="#3465a4"><title>Loch Rannoch</title></circle></a><a href="/variants/s8/n9dy9yi9r1y1dy9y1r1~x4~n1900000-yi2300000/"><circle cx="319.8" cy="235.4" r="4" fill="#3465a4"><title>Jardine (Clan)</title></circle></a><circle cx="306.8" cy="233.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/k3dr22g5dg10do10dg2~x2/

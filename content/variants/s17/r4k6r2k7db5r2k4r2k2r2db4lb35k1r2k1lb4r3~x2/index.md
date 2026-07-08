@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Taggart"
   url: "/tartans/taggart/"
+- name: "Taggart Name Tartan"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4k6r2k7db5r2k4r2k2r2db4lb35k1r2k1lb4r3/)
 (the same proportion at any scale), whose colour order is pattern [RKKRKKBRKRKRBWKRKWR](/stripes/rkkrkkbrkrkrbwkrkwr/).
@@ -14,7 +16,7 @@ Part of the [Taggart](/tartans/taggart/) tartan — the named design grouping th
 
 Sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
 
-Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10003
+Original link [http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10003](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10003)
 
 ## Provenance
 
@@ -73,8 +75,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/r4dg5k1r2k1dg6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><circle cx="203.6" cy="33.2" r="4" fill="#3465a4"><title>Taggart (Name)</title></circle></a><a href="/variants/s19/r4g5k1r2k1g6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><circle cx="205.0" cy="35.1" r="4" fill="#3465a4"><title>Taggart</title></circle></a><a href="/variants/s23/db24w1r3k4w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1r27k2~x2/"><circle cx="203.0" cy="31.0" r="4" fill="#3465a4"><title>McCready (Name)</title></circle></a><a href="/variants/s14/db72r11k12y2r2w3r2k2r10g18r10k3r3w2~x2/"><circle cx="226.3" cy="34.0" r="4" fill="#3465a4"><title>Unidentified Specimen</title></circle></a><a href="/variants/s20/w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2~x4/"><circle cx="148.8" cy="71.7" r="4" fill="#3465a4"><title>Sutherland, Dress Royal (Dance)</title></circle></a><a href="/variants/s15/r23db1g1r3db2r1db12k3w6k6db4g2k2g3k2~x2/"><circle cx="152.9" cy="78.4" r="4" fill="#3465a4"><title>Mars Exploration</title></circle></a><a href="/variants/s11/lb32k10lo1k2lb1k2r7y3k1y3lb1~x4/"><circle cx="257.6" cy="58.4" r="4" fill="#3465a4"><title>Glen Coe #3</title></circle></a><a href="/variants/s14/r1w16n6db2w1r8w1db28k3db3k3db3k1lb1~x2/"><circle cx="186.5" cy="56.4" r="4" fill="#3465a4"><title>Russian Arctic Convoy</title></circle></a><a href="/variants/s23/w2db2w53db2w2k15g15k2w3k2g15k15db14k2r3k2db14k15w2db2w53db2w2~x2/"><circle cx="185.2" cy="46.3" r="4" fill="#3465a4"><title>MacKenzie Dress #3</title></circle></a><a href="/variants/s18/db2r4o2w28db3w2db3k10r3db2r3g9db1k1db21r4db2o2~x2/"><circle cx="105.6" cy="50.1" r="4" fill="#3465a4"><title>Cooper, dress</title></circle></a><circle cx="192.8" cy="27.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s19/r4dg5k1r2k1dg6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><circle cx="203.4" cy="33.2" r="4" fill="#3465a4"><title>Taggart (Name)</title></circle></a><a href="/variants/s19/r4g5k1r2k1g6db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/"><circle cx="204.8" cy="35.1" r="4" fill="#3465a4"><title>Taggart</title></circle></a><a href="/variants/s23/db24w1r3k4w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1k1w1r27k2~x2/"><circle cx="202.8" cy="31.1" r="4" fill="#3465a4"><title>McCready (Name)</title></circle></a><a href="/variants/s14/db72r11k12y2r2w3r2k2r10g18r10k3r3w2~x2/"><circle cx="226.1" cy="33.9" r="4" fill="#3465a4"><title>Unidentified Specimen</title></circle></a><a href="/variants/s20/w24k12db3k2db2k2db12r1db1r3db1r1db12k2db2k2db3k12w24g2~x4/"><circle cx="148.7" cy="71.8" r="4" fill="#3465a4"><title>Sutherland, Dress Royal (Dance)</title></circle></a><a href="/variants/s15/r23db1g1r3db2r1db12k3w6k6db4g2k2g3k2~x2/"><circle cx="152.8" cy="78.6" r="4" fill="#3465a4"><title>Mars Exploration</title></circle></a><a href="/variants/s11/lb32k10lo1k2lb1k2r7y3k1y3lb1~x4/"><circle cx="257.4" cy="58.6" r="4" fill="#3465a4"><title>Glen Coe #3</title></circle></a><a href="/variants/s14/r1w16n6db2w1r8w1db28k3db3k3db3k1lb1~x2/"><circle cx="186.3" cy="56.5" r="4" fill="#3465a4"><title>Russian Arctic Convoy</title></circle></a><a href="/variants/s23/w2db2w53db2w2k15g15k2w3k2g15k15db14k2r3k2db14k15w2db2w53db2w2~x2/"><circle cx="185.0" cy="46.5" r="4" fill="#3465a4"><title>MacKenzie Dress #3</title></circle></a><a href="/variants/s18/db2r4o2w28db3w2db3k10r3db2r3g9db1k1db21r4db2o2~x2/"><circle cx="105.4" cy="50.2" r="4" fill="#3465a4"><title>Cooper, dress</title></circle></a><circle cx="192.6" cy="27.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s17/r4k6r2k7db5r2k4r2k2r2db4lb35k1r2k1lb4r3~x2/

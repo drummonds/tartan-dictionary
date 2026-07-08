@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sinclair Hunting (VS)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r2db16w1k16g30r1g2/)
 (the same proportion at any scale), whose colour order is pattern [GRGKWBR](/stripes/grgkwbr/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3797
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3797](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3797)
 
 ## Provenance
 
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db48w2k20g22r3g4~x2/"><circle cx="237.5" cy="139.1" r="4" fill="#3465a4"><title>MacFadzean</title></circle></a><a href="/variants/s8/g45k4ri2g4ri2k4db21r5~x2~ri2806019-r2109032/"><circle cx="284.1" cy="112.1" r="4" fill="#3465a4"><title>Shiach (Personal)</title></circle></a><a href="/variants/s7/t24k8g8r2g8k1w2~x2/"><circle cx="214.4" cy="140.5" r="4" fill="#3465a4"><title>Ferguson of Atholl Clan</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1w2/"><circle cx="211.5" cy="134.2" r="4" fill="#3465a4"><title>Fergusson</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1w2~x2/"><circle cx="211.5" cy="134.2" r="4" fill="#3465a4"><title>Ferguson of Athol</title></circle></a><a href="/variants/s9/w4g30k1g1k1g3k12db10r3~x2/"><circle cx="240.4" cy="95.7" r="4" fill="#3465a4"><title>MacDonald of The Isles</title></circle></a><a href="/variants/s9/w4g30k1g1k1g3k12db10r3/"><circle cx="240.4" cy="95.7" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/variants/s7/k4y1g2y1g35db32lb4~x2/"><circle cx="281.0" cy="111.6" r="4" fill="#3465a4"><title>McClurg (Name)</title></circle></a><a href="/variants/s8/db18dp2db16k13g3k2g42lo3~x2/"><circle cx="219.4" cy="132.8" r="4" fill="#3465a4"><title>McFadden (Personal)</title></circle></a><a href="/variants/s9/db10k12dg3k1dg1k1dg30w4ly4~x2/"><circle cx="250.0" cy="98.4" r="4" fill="#3465a4"><title>Hutchens (Personal)</title></circle></a><circle cx="225.8" cy="118.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db48w2k20g22r3g4~x2/"><circle cx="237.4" cy="139.4" r="4" fill="#3465a4"><title>MacFadzean</title></circle></a><a href="/variants/s8/g45k4ri2g4ri2k4db21r5~x2~ri2806019-r2109032/"><circle cx="284.0" cy="112.3" r="4" fill="#3465a4"><title>Shiach (Personal)</title></circle></a><a href="/variants/s7/t24k8g8r2g8k1w2~x2/"><circle cx="214.3" cy="140.8" r="4" fill="#3465a4"><title>Ferguson of Atholl Clan</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1w2/"><circle cx="211.4" cy="134.4" r="4" fill="#3465a4"><title>Fergusson</title></circle></a><a href="/variants/s7/db24k8g8r2g8k1w2~x2/"><circle cx="211.4" cy="134.4" r="4" fill="#3465a4"><title>Ferguson of Athol</title></circle></a><a href="/variants/s9/w4g30k1g1k1g3k12db10r3~x2/"><circle cx="240.2" cy="95.9" r="4" fill="#3465a4"><title>MacDonald of The Isles</title></circle></a><a href="/variants/s9/w4g30k1g1k1g3k12db10r3/"><circle cx="240.2" cy="95.9" r="4" fill="#3465a4"><title>MacDonnald of ye Ylis</title></circle></a><a href="/variants/s7/k4y1g2y1g35db32lb4~x2/"><circle cx="280.9" cy="111.8" r="4" fill="#3465a4"><title>McClurg (Name)</title></circle></a><a href="/variants/s8/db18dp2db16k13g3k2g42lo3~x2/"><circle cx="219.4" cy="133.1" r="4" fill="#3465a4"><title>McFadden (Personal)</title></circle></a><a href="/variants/s9/db10k12dg3k1dg1k1dg30w4ly4~x2/"><circle cx="249.9" cy="98.5" r="4" fill="#3465a4"><title>Hutchens (Personal)</title></circle></a><circle cx="225.7" cy="118.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r2db16w1k16g30r1g2~x2/

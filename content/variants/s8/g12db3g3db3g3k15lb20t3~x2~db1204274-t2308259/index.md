@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Lemania"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g12db3g3db3g3k15lb20t3/)
 (the same proportion at any scale), whose colour order is pattern [BWKGBGBG](/stripes/bwkgbgbg/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10816
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10816](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10816)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2g8w1k8t8k1t1~x6/"><circle cx="97.3" cy="190.0" r="4" fill="#3465a4"><title>Colquhoun #2</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/"><circle cx="61.3" cy="184.8" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="53.8" cy="165.9" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/"><circle cx="118.0" cy="178.5" r="4" fill="#3465a4"><title>MacLeod (Clan)</title></circle></a><a href="/variants/s11/w4db20g5k6g2w3g2k6g13dp8g2~x2/"><circle cx="92.8" cy="161.2" r="4" fill="#3465a4"><title>Bowlers (Commemorative)</title></circle></a><a href="/variants/s11/lb2k1lb1db2k8r2g8db2lb1k1lb2~x2/"><circle cx="80.3" cy="153.7" r="4" fill="#3465a4"><title>Unidentified No 22</title></circle></a><a href="/variants/s7/db27g5ly8k20ly3g15r3~x2/"><circle cx="102.1" cy="191.9" r="4" fill="#3465a4"><title>Nelson Mandela (Personal)</title></circle></a><a href="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/"><circle cx="100.9" cy="180.8" r="4" fill="#3465a4"><title>MacRobart Dress (Personal)</title></circle></a><a href="/variants/s7/db24k4r3k4g24k4lo4~x2/"><circle cx="132.3" cy="174.8" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/"><circle cx="47.3" cy="153.4" r="4" fill="#3465a4"><title>Kagame (Personal)</title></circle></a><circle cx="81.6" cy="185.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r2g8w1k8t8k1t1~x6/"><circle cx="97.4" cy="190.5" r="4" fill="#3465a4"><title>Colquhoun #2</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/"><circle cx="61.3" cy="185.3" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s8/b4o2dg15y2k14w14k2w4~x2/"><circle cx="53.8" cy="166.4" r="4" fill="#3465a4"><title>Culloden, Stirling</title></circle></a><a href="/variants/s7/ly4k2t20k10g15k2r3~x2/"><circle cx="118.0" cy="179.0" r="4" fill="#3465a4"><title>MacLeod (Clan)</title></circle></a><a href="/variants/s11/w4db20g5k6g2w3g2k6g13dp8g2~x2/"><circle cx="92.8" cy="161.6" r="4" fill="#3465a4"><title>Bowlers (Commemorative)</title></circle></a><a href="/variants/s11/lb2k1lb1db2k8r2g8db2lb1k1lb2~x2/"><circle cx="80.3" cy="154.1" r="4" fill="#3465a4"><title>Unidentified No 22</title></circle></a><a href="/variants/s7/db27g5ly8k20ly3g15r3~x2/"><circle cx="102.1" cy="192.4" r="4" fill="#3465a4"><title>Nelson Mandela (Personal)</title></circle></a><a href="/variants/s7/db8w33k15dg17lb3dg17lb3~x2/"><circle cx="100.9" cy="181.3" r="4" fill="#3465a4"><title>MacRobart Dress (Personal)</title></circle></a><a href="/variants/s7/db24k4r3k4g24k4lo4~x2/"><circle cx="132.3" cy="175.3" r="4" fill="#3465a4"><title>Skene</title></circle></a><a href="/variants/s10/ly5lb14k3ly7g3k3g7k6db24w3~x2/"><circle cx="47.3" cy="153.8" r="4" fill="#3465a4"><title>Kagame (Personal)</title></circle></a><circle cx="81.6" cy="186.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/g12db3g3db3g3k15lb20t3~x2~db1204274-t2308259/

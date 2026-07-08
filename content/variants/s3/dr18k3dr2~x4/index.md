@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Buie"
   url: "/tartans/buie/"
+- name: "Buie"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dr18k3dr2/)
 (the same proportion at any scale), whose colour order is pattern [BKB](/stripes/bkb/).
@@ -14,7 +16,7 @@ Part of the [Buie](/tartans/buie/) tartan — the named design grouping this set
 
 Sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/r18k3r2~x4/"><circle cx="565.2" cy="218.8" r="4" fill="#3465a4"><title>Buie</title></circle></a><a href="/variants/s4/r2k50n2r1~x2/"><circle cx="626.0" cy="116.8" r="4" fill="#3465a4"><title>Galloway Family</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4~r1506028/"><circle cx="521.0" cy="181.2" r="4" fill="#3465a4"><title>Martin Family, Robert N Personal Tartan</title></circle></a><a href="/variants/s5/r12w1r2o1n3~x4~o2500000-n1900000/"><circle cx="516.2" cy="195.9" r="4" fill="#3465a4"><title>Glen Shee Plaid (Fashion)</title></circle></a><a href="/variants/s2/dr9lr1~x20/"><circle cx="626.0" cy="311.8" r="4" fill="#3465a4"><title>Roddy &quot;Rowdy&quot; Piper (Personal)</title></circle></a><a href="/variants/s5/dy1r9db2r9db1~x4/"><circle cx="554.1" cy="226.3" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Red</title></circle></a><a href="/variants/s5/db1dr9db2dr9ly1~x4/"><circle cx="621.4" cy="273.6" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Red (Fashion)</title></circle></a><a href="/variants/s3/dr8w1k1~x20/"><circle cx="472.2" cy="218.9" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/variants/s3/r1n19w1~x2/"><circle cx="626.0" cy="223.5" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny (Clan)</title></circle></a><a href="/variants/s4/k12dr7k1dr9~x4/"><circle cx="394.9" cy="272.9" r="4" fill="#3465a4"><title>Lendrum (Black &amp; Red) or MacFarlane</title></circle></a><circle cx="626.0" cy="264.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s3/r18k3r2~x4/"><circle cx="565.4" cy="219.6" r="4" fill="#3465a4"><title>Buie</title></circle></a><a href="/variants/s4/r2k50n2r1~x2/"><circle cx="626.0" cy="117.0" r="4" fill="#3465a4"><title>Galloway Family</title></circle></a><a href="/variants/s5/r27w3r6w2dg3~x4~r1506028/"><circle cx="521.1" cy="181.8" r="4" fill="#3465a4"><title>Martin Family, Robert N Personal Tartan</title></circle></a><a href="/variants/s5/r12w1r2o1n3~x4~o2500000-n1900000/"><circle cx="516.3" cy="196.3" r="4" fill="#3465a4"><title>Glen Shee Plaid (Fashion)</title></circle></a><a href="/variants/s2/dr9lr1~x20/"><circle cx="626.0" cy="312.7" r="4" fill="#3465a4"><title>Roddy &quot;Rowdy&quot; Piper (Personal)</title></circle></a><a href="/variants/s5/dy1r9db2r9db1~x4/"><circle cx="554.3" cy="227.0" r="4" fill="#3465a4"><title>Brooks Brothers Tattersall Red</title></circle></a><a href="/variants/s5/db1dr9db2dr9ly1~x4/"><circle cx="621.7" cy="274.1" r="4" fill="#3465a4"><title>Brooks Bros Tattersall Red (Fashion)</title></circle></a><a href="/variants/s3/dr8w1k1~x20/"><circle cx="472.4" cy="219.6" r="4" fill="#3465a4"><title>International Karate Fed. (Corporat)</title></circle></a><a href="/variants/s3/r1n19w1~x2/"><circle cx="626.0" cy="223.9" r="4" fill="#3465a4"><title>Dunbar of Pitgaveny (Clan)</title></circle></a><a href="/variants/s4/k12dr7k1dr9~x4/"><circle cx="395.1" cy="273.5" r="4" fill="#3465a4"><title>Lendrum (Black &amp; Red) or MacFarlane</title></circle></a><circle cx="626.0" cy="265.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s3/dr18k3dr2~x4/

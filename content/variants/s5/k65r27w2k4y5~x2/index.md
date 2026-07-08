@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Perry"
   url: "/tartans/perry/"
+- name: "Perry, Ancient"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k65r27w2k4y5/)
 (the same proportion at any scale), whose colour order is pattern [GKWRK](/stripes/gkwrk/).
@@ -14,7 +16,7 @@ Part of the [Perry](/tartans/perry/) tartan — the named design grouping this s
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -77,8 +79,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="417.7" cy="130.3" r="4" fill="#3465a4"><title>Perry Dress (Personal)</title></circle></a><a href="/variants/s5/k75r26w2k4y5~x2/"><circle cx="413.3" cy="106.1" r="4" fill="#3465a4"><title>Perry / Pirrie (Personal)</title></circle></a><a href="/variants/s5/k30r10y1k8w3~x4/"><circle cx="400.4" cy="127.5" r="4" fill="#3465a4"><title>Union Fire Club Pipes and Drums</title></circle></a><a href="/variants/s5/k31r12y2n5k2~x4/"><circle cx="323.2" cy="149.3" r="4" fill="#3465a4"><title>Perry (2014)</title></circle></a><a href="/variants/s5/k4r11k32y1k4~x2/"><circle cx="469.9" cy="132.7" r="4" fill="#3465a4"><title>Harvie</title></circle></a><a href="/variants/s5/k65g27w2k4y5~x2/"><circle cx="375.8" cy="124.6" r="4" fill="#3465a4"><title>Perry, hunting (Green)</title></circle></a><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="340.2" cy="106.5" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="389.1" cy="173.2" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/variants/s5/k16r2k2r12w1~x2/"><circle cx="307.8" cy="168.0" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s7/k60w2r10dg6w4r15y10~x2/"><circle cx="272.9" cy="91.6" r="4" fill="#3465a4"><title>Iberia Dress, Black (Fashion)</title></circle></a><circle cx="381.6" cy="115.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="417.6" cy="130.5" r="4" fill="#3465a4"><title>Perry Dress (Personal)</title></circle></a><a href="/variants/s5/k75r26w2k4y5~x2/"><circle cx="413.2" cy="106.3" r="4" fill="#3465a4"><title>Perry / Pirrie (Personal)</title></circle></a><a href="/variants/s5/k30r10y1k8w3~x4/"><circle cx="400.3" cy="127.9" r="4" fill="#3465a4"><title>Union Fire Club Pipes and Drums</title></circle></a><a href="/variants/s5/k31r12y2n5k2~x4/"><circle cx="323.1" cy="149.8" r="4" fill="#3465a4"><title>Perry (2014)</title></circle></a><a href="/variants/s5/k4r11k32y1k4~x2/"><circle cx="469.8" cy="133.1" r="4" fill="#3465a4"><title>Harvie</title></circle></a><a href="/variants/s5/k65g27w2k4y5~x2/"><circle cx="375.7" cy="124.9" r="4" fill="#3465a4"><title>Perry, hunting (Green)</title></circle></a><a href="/variants/s7/k53dy4k7dy2k4r30w3~x2/"><circle cx="340.2" cy="106.8" r="4" fill="#3465a4"><title>Partick Thistle Football Club</title></circle></a><a href="/variants/s4/k75y29k4ly6~x2~y2400000-ly3307090/"><circle cx="389.1" cy="173.7" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/variants/s5/k16r2k2r12w1~x2/"><circle cx="307.8" cy="168.6" r="4" fill="#3465a4"><title>MacIver</title></circle></a><a href="/variants/s7/k60w2r10dg6w4r15y10~x2/"><circle cx="272.7" cy="91.8" r="4" fill="#3465a4"><title>Iberia Dress, Black (Fashion)</title></circle></a><circle cx="381.5" cy="115.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k65r27w2k4y5~x2/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Norwich No.049"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/g9lb1k6lb4g2lb4k6lb1g9k2/)
 (the same proportion at any scale), whose colour order is pattern [GWKWGWKWGK](/stripes/gwkwgwkwgk/).
 
 Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3185
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3185](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3185)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r4k6lb1g7k2g7lb1k6r4g2~x4/"><circle cx="119.3" cy="207.9" r="4" fill="#3465a4"><title>Walker James</title></circle></a><a href="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/"><circle cx="234.5" cy="190.9" r="4" fill="#3465a4"><title>Letham (S.Australia)</title></circle></a><a href="/variants/s8/g9t4k4t3k4t4g9k2~x4/"><circle cx="165.2" cy="267.9" r="4" fill="#3465a4"><title>Keith Clan</title></circle></a><a href="/variants/s13/lb12k2lb2k2lb2k10g12k3g12k10lb12k2lb2~x2/"><circle cx="122.9" cy="203.5" r="4" fill="#3465a4"><title>Sutherland (District)</title></circle></a><a href="/variants/s13/lb14k3lb3k3lb3k16g16k3g16k16lb16k3lb3~x2/"><circle cx="125.2" cy="207.6" r="4" fill="#3465a4"><title>Campbell (Clan)</title></circle></a><a href="/variants/s12/lb8k8g8k1g8k8g8k1g8k8lb8w2~x2~w4000000/"><circle cx="111.7" cy="214.2" r="4" fill="#3465a4"><title>Norwich No.031</title></circle></a><a href="/variants/s9/lg16k3lg16k26dp4k26n20k3n8/"><circle cx="163.9" cy="195.5" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s7/k9w38k22g31k5g31y5/"><circle cx="138.5" cy="214.9" r="4" fill="#3465a4"><title>Lawsons' Whisky</title></circle></a><a href="/variants/s10/g12k14lb11k3lb3k3lb11k14g12lb3~x2/"><circle cx="119.3" cy="243.0" r="4" fill="#3465a4"><title>Wilson's No.166</title></circle></a><a href="/variants/s8/k11g3k3g3k3g9w18k3~x2/"><circle cx="131.5" cy="210.1" r="4" fill="#3465a4"><title>Lamont Dress</title></circle></a><circle cx="176.2" cy="209.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/r4k6lb1g7k2g7lb1k6r4g2~x4/"><circle cx="119.3" cy="208.5" r="4" fill="#3465a4"><title>Walker James</title></circle></a><a href="/variants/s8/g40k20lb10k4lb7g13k4lb4~x2/"><circle cx="234.5" cy="191.4" r="4" fill="#3465a4"><title>Letham (S.Australia)</title></circle></a><a href="/variants/s8/g9t4k4t3k4t4g9k2~x4/"><circle cx="165.4" cy="268.7" r="4" fill="#3465a4"><title>Keith Clan</title></circle></a><a href="/variants/s13/lb12k2lb2k2lb2k10g12k3g12k10lb12k2lb2~x2/"><circle cx="123.0" cy="204.1" r="4" fill="#3465a4"><title>Sutherland (District)</title></circle></a><a href="/variants/s13/lb14k3lb3k3lb3k16g16k3g16k16lb16k3lb3~x2/"><circle cx="125.3" cy="208.3" r="4" fill="#3465a4"><title>Campbell (Clan)</title></circle></a><a href="/variants/s12/lb8k8g8k1g8k8g8k1g8k8lb8w2~x2~w4000000/"><circle cx="111.7" cy="214.8" r="4" fill="#3465a4"><title>Norwich No.031</title></circle></a><a href="/variants/s9/lg16k3lg16k26dp4k26n20k3n8/"><circle cx="164.0" cy="196.0" r="4" fill="#3465a4"><title>Scotsburn Croft</title></circle></a><a href="/variants/s7/k9w38k22g31k5g31y5/"><circle cx="138.6" cy="215.6" r="4" fill="#3465a4"><title>Lawsons' Whisky</title></circle></a><a href="/variants/s10/g12k14lb11k3lb3k3lb11k14g12lb3~x2/"><circle cx="119.4" cy="243.7" r="4" fill="#3465a4"><title>Wilson's No.166</title></circle></a><a href="/variants/s8/k11g3k3g3k3g9w18k3~x2/"><circle cx="131.6" cy="210.8" r="4" fill="#3465a4"><title>Lamont Dress</title></circle></a><circle cx="176.3" cy="209.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/g9lb1k6lb4g2lb4k6lb1g9k2~x2/

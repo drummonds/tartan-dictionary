@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Strathearn Dress (Fashion?)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy2w10dy4w4dr7dg10lo4dg2lo2dg5lo2dg2lo4dg10dr7lo2dy7lo5dy2lo2dy5lo2dy2lo4dy7lo2dr7w4dy4w10dy2lo2/)
 (the same proportion at any scale), whose colour order is pattern [GWGWBGYGYGYGYGBYGYGYGYGYGYBWGWGY](/stripes/gwgwbgygygygygbygygygygygybwgwgy/).
 
 Sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8823
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8823](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=8823)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s33/db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly3lr3dg6lr3ly3dy6ly1n1/"><circle cx="53.4" cy="176.8" r="4" fill="#3465a4"><title>Equorian Olympic Commemorative Tartan</title></circle></a><a href="/variants/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/"><circle cx="59.9" cy="176.7" r="4" fill="#3465a4"><title>Womble</title></circle></a><circle cx="38.3" cy="195.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s33/db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly1n1db2n1ly1dg6lr3ly3dy6ly3lr3dg6lr3ly3dy6ly1n1/"><circle cx="53.5" cy="177.2" r="4" fill="#3465a4"><title>Equorian Olympic Commemorative Tartan</title></circle></a><a href="/variants/s15/w3db1w1g5w1db1r2w1r2db1w1lo4w1db1w3~x8/"><circle cx="59.9" cy="177.2" r="4" fill="#3465a4"><title>Womble</title></circle></a><circle cx="38.4" cy="195.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s32/dy2w10dy4w4dr7dg10lo4dg2lo2dg5lo2dg2lo4dg10dr7lo2dy7lo5dy2lo2dy5lo2dy2lo4dy7lo2dr7w4dy4w10dy2lo2~x2/

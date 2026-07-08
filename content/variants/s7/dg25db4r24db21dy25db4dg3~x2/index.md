@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Orban-Prentice (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg25db4r24db21dy25db4dg3/)
 (the same proportion at any scale), whose colour order is pattern [BRBGBGBGBRBG](/stripes/brbgbgbgbrbg/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3259
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3259](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3259)
 
 ## Provenance
 
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r10do10r4dg2r2do2r4dg12db12dg3db4~x2/"><circle cx="172.8" cy="236.3" r="4" fill="#3465a4"><title>Hueg (Munich) Hunting (Personal)</title></circle></a><a href="/variants/s13/db18o4db3o3db3o18b18r10b18o18db18o3r10~x2/"><circle cx="164.8" cy="234.2" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/variants/s13/db18dy4db3dy3db3dy18g18r10g18dy18db18dy3r10~x2/"><circle cx="155.7" cy="237.0" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/variants/s12/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13~x4/"><circle cx="182.6" cy="213.8" r="4" fill="#3465a4"><title>Maple Leaf Blue</title></circle></a><a href="/variants/s10/r12y4r38dg25db8dg10db8dg8db25r3/"><circle cx="224.1" cy="191.8" r="4" fill="#3465a4"><title>MacEdward (Personal)</title></circle></a><a href="/variants/s12/db20r2db2r2dg19r18dg2r18dg19db19r2db2~x2/"><circle cx="232.3" cy="207.4" r="4" fill="#3465a4"><title>Fraser - 1800</title></circle></a><a href="/variants/s10/db12w1dg12r12dg2r12dg12w1db12g3~x2/"><circle cx="163.8" cy="194.7" r="4" fill="#3465a4"><title>Patterson (Red) Clan Tartan</title></circle></a><a href="/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/"><circle cx="216.3" cy="230.1" r="4" fill="#3465a4"><title>Newmill Corporate Tartan</title></circle></a><a href="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/"><circle cx="196.4" cy="231.2" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/variants/s11/db10r2db10r10dg2r2dg2r2dg10r1w2~x4/"><circle cx="202.7" cy="189.7" r="4" fill="#3465a4"><title>North Berwick (Dance)</title></circle></a><circle cx="192.1" cy="229.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/r10do10r4dg2r2do2r4dg12db12dg3db4~x2/"><circle cx="172.9" cy="236.7" r="4" fill="#3465a4"><title>Hueg (Munich) Hunting (Personal)</title></circle></a><a href="/variants/s13/db18o4db3o3db3o18b18r10b18o18db18o3r10~x2/"><circle cx="164.9" cy="234.7" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/variants/s13/db18dy4db3dy3db3dy18g18r10g18dy18db18dy3r10~x2/"><circle cx="155.8" cy="237.5" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/variants/s12/dr15db3dr3db19g6o6ly6db19dr3db3dr15o13~x4/"><circle cx="182.7" cy="214.2" r="4" fill="#3465a4"><title>Maple Leaf Blue</title></circle></a><a href="/variants/s10/r12y4r38dg25db8dg10db8dg8db25r3/"><circle cx="224.1" cy="192.2" r="4" fill="#3465a4"><title>MacEdward (Personal)</title></circle></a><a href="/variants/s12/db20r2db2r2dg19r18dg2r18dg19db19r2db2~x2/"><circle cx="232.4" cy="207.8" r="4" fill="#3465a4"><title>Fraser - 1800</title></circle></a><a href="/variants/s10/db12w1dg12r12dg2r12dg12w1db12g3~x2/"><circle cx="163.8" cy="195.1" r="4" fill="#3465a4"><title>Patterson (Red) Clan Tartan</title></circle></a><a href="/variants/s7/r5o20db13dbi42db13o20lo5~db1404245-dbi1406275/"><circle cx="216.4" cy="230.4" r="4" fill="#3465a4"><title>Newmill Corporate Tartan</title></circle></a><a href="/variants/s9/r3dy23y8g6y8db6y10db12y3~x2~y2303114-g2208144/"><circle cx="196.5" cy="231.6" r="4" fill="#3465a4"><title>Lawrence's Seven Pillars of Khaki</title></circle></a><a href="/variants/s11/db10r2db10r10dg2r2dg2r2dg10r1w2~x4/"><circle cx="202.8" cy="190.1" r="4" fill="#3465a4"><title>North Berwick (Dance)</title></circle></a><circle cx="192.2" cy="229.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/dg25db4r24db21dy25db4dg3~x2/

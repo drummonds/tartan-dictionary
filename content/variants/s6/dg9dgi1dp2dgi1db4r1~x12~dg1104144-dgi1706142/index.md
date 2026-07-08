@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Gorman, George"
   url: "/tartans/gorman-george/"
+- name: "Gorman, George (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg9dgi1dp2dgi1db4r1/)
 (the same proportion at any scale), whose colour order is pattern [GGBGBR](/stripes/ggbgbr/).
@@ -14,7 +16,7 @@ Part of the [Gorman, George](/tartans/gorman-george/) tartan — the named desig
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10029
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10029](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10029)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg9g1b2g1db4r1~x12~dg1806142-g2408144/"><circle cx="283.3" cy="214.8" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><a href="/variants/s8/g7dy2g5dg37db6dr16db5b2~x2/"><circle cx="338.6" cy="181.8" r="4" fill="#3465a4"><title>Telfer Green</title></circle></a><a href="/variants/s8/g7ly2g5dg37db6dr16db5t2~x2/"><circle cx="312.9" cy="173.3" r="4" fill="#3465a4"><title>Telfer Green (Name)</title></circle></a><a href="/variants/s5/k37dg37n8ki3dp5~x2~k0504259-ki0700000/"><circle cx="314.6" cy="221.7" r="4" fill="#3465a4"><title>Dallard (Personal)</title></circle></a><a href="/variants/s5/db37dg37n8k3dp5~x2/"><circle cx="334.6" cy="230.8" r="4" fill="#3465a4"><title>Dallard Personal Tartan</title></circle></a><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2~db1404245-dp1507327/"><circle cx="281.2" cy="231.4" r="4" fill="#3465a4"><title>Bennachie (Whisky)</title></circle></a><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2/"><circle cx="269.7" cy="225.9" r="4" fill="#3465a4"><title>Bennachie Whisky (Corporate)</title></circle></a><a href="/variants/s7/g10db42r5dg42g42y5g10/"><circle cx="218.9" cy="227.3" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/variants/s5/dy46dg23t23r4y4~x2/"><circle cx="314.8" cy="240.2" r="4" fill="#3465a4"><title>McMoosie Htg (Fashion)</title></circle></a><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="261.6" cy="241.8" r="4" fill="#3465a4"><title>Skibo (Corporate)</title></circle></a><circle cx="326.4" cy="224.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/dg9g1b2g1db4r1~x12~dg1806142-g2408144/"><circle cx="283.4" cy="215.2" r="4" fill="#3465a4"><title>Gorman, George (Personal)</title></circle></a><a href="/variants/s8/g7dy2g5dg37db6dr16db5b2~x2/"><circle cx="338.6" cy="181.8" r="4" fill="#3465a4"><title>Telfer Green</title></circle></a><a href="/variants/s8/g7ly2g5dg37db6dr16db5t2~x2/"><circle cx="312.9" cy="173.4" r="4" fill="#3465a4"><title>Telfer Green (Name)</title></circle></a><a href="/variants/s5/k37dg37n8ki3dp5~x2~k0504259-ki0700000/"><circle cx="314.6" cy="221.9" r="4" fill="#3465a4"><title>Dallard (Personal)</title></circle></a><a href="/variants/s5/db37dg37n8k3dp5~x2/"><circle cx="334.7" cy="230.9" r="4" fill="#3465a4"><title>Dallard Personal Tartan</title></circle></a><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2~db1404245-dp1507327/"><circle cx="281.3" cy="231.6" r="4" fill="#3465a4"><title>Bennachie (Whisky)</title></circle></a><a href="/variants/s7/db14k5dp5k5db14dg32dr4~x2/"><circle cx="269.7" cy="226.1" r="4" fill="#3465a4"><title>Bennachie Whisky (Corporate)</title></circle></a><a href="/variants/s7/g10db42r5dg42g42y5g10/"><circle cx="219.0" cy="227.7" r="4" fill="#3465a4"><title>New Mexico</title></circle></a><a href="/variants/s5/dy46dg23t23r4y4~x2/"><circle cx="314.9" cy="240.5" r="4" fill="#3465a4"><title>McMoosie Htg (Fashion)</title></circle></a><a href="/variants/s5/r2dg23db11t22r2~x2/"><circle cx="261.7" cy="242.2" r="4" fill="#3465a4"><title>Skibo (Corporate)</title></circle></a><circle cx="326.4" cy="224.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/dg9dgi1dp2dgi1db4r1~x12~dg1104144-dgi1706142/

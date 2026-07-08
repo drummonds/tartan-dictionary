@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "City of London"
   url: "/tartans/city-of-london/"
+- name: "City of London (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k5n24w24r5/)
 (the same proportion at any scale), whose colour order is pattern [KBWR](/stripes/kbwr/).
@@ -14,7 +16,7 @@ Part of the [City of London](/tartans/city-of-london/) tartan — the named desi
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10734
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10734](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10734)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb67k13dy17dyi13w40t20~x2~lb3200000-dy1503038-dyi1503076-t2503227/"><circle cx="87.1" cy="207.4" r="4" fill="#3465a4"><title>MacGregor-Ryan (Personal)</title></circle></a><a href="/variants/s4/n25k4w8r16~x4/"><circle cx="202.9" cy="248.0" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/variants/s4/n20w13y24k3~x2/"><circle cx="177.8" cy="258.7" r="4" fill="#3465a4"><title>Spirit of Riverside (Corporate)</title></circle></a><a href="/variants/s4/k1w8db8r1~x8/"><circle cx="195.5" cy="214.9" r="4" fill="#3465a4"><title>MacRae Dress Purple</title></circle></a><a href="/variants/s4/db3w25k25r3~x2/"><circle cx="191.8" cy="208.4" r="4" fill="#3465a4"><title>Gleneckley</title></circle></a><a href="/variants/s4/k5n24w24k5~x2/"><circle cx="143.1" cy="244.7" r="4" fill="#3465a4"><title>City of London</title></circle></a><a href="/variants/s5/k6r33k18w20db6~x2/"><circle cx="120.2" cy="227.8" r="4" fill="#3465a4"><title>Brodie Dress</title></circle></a><a href="/variants/s4/k4w35dp35o4~x2/"><circle cx="207.8" cy="206.0" r="4" fill="#3465a4"><title>MacRae - 2000 (Dress, Purple)</title></circle></a><a href="/variants/s4/n22y10w3k8~x2/"><circle cx="224.2" cy="242.2" r="4" fill="#3465a4"><title>Louisburg Canadian District Tartan</title></circle></a><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="88.0" cy="238.1" r="4" fill="#3465a4"><title>Heidrick Family (Personal)</title></circle></a><circle cx="157.3" cy="249.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/lb67k13dy17dyi13w40t20~x2~lb3200000-dy1503038-dyi1503076-t2503227/"><circle cx="87.2" cy="208.0" r="4" fill="#3465a4"><title>MacGregor-Ryan (Personal)</title></circle></a><a href="/variants/s4/n25k4w8r16~x4/"><circle cx="203.1" cy="248.8" r="4" fill="#3465a4"><title>Buckeye</title></circle></a><a href="/variants/s4/n20w13y24k3~x2/"><circle cx="178.0" cy="259.4" r="4" fill="#3465a4"><title>Spirit of Riverside (Corporate)</title></circle></a><a href="/variants/s4/k1w8db8r1~x8/"><circle cx="195.6" cy="215.6" r="4" fill="#3465a4"><title>MacRae Dress Purple</title></circle></a><a href="/variants/s4/db3w25k25r3~x2/"><circle cx="191.9" cy="209.1" r="4" fill="#3465a4"><title>Gleneckley</title></circle></a><a href="/variants/s4/k5n24w24k5~x2/"><circle cx="143.3" cy="245.6" r="4" fill="#3465a4"><title>City of London</title></circle></a><a href="/variants/s5/k6r33k18w20db6~x2/"><circle cx="120.3" cy="228.5" r="4" fill="#3465a4"><title>Brodie Dress</title></circle></a><a href="/variants/s4/k4w35dp35o4~x2/"><circle cx="207.9" cy="206.7" r="4" fill="#3465a4"><title>MacRae - 2000 (Dress, Purple)</title></circle></a><a href="/variants/s4/n22y10w3k8~x2/"><circle cx="224.3" cy="242.9" r="4" fill="#3465a4"><title>Louisburg Canadian District Tartan</title></circle></a><a href="/variants/s5/w14k30t9r8lo9~x2~w3600000-t2607245/"><circle cx="88.1" cy="238.9" r="4" fill="#3465a4"><title>Heidrick Family (Personal)</title></circle></a><circle cx="157.5" cy="249.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/k5n24w24r5~x2/

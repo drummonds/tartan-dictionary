@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Alasdair Dhana"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg3dt20dg16dr2dg2dr3dg3dr5dg16dt20dy1k2/)
 (the same proportion at any scale), whose colour order is pattern [GBGBGBGBGBGK](/stripes/gbgbgbgbgbgk/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=36
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=36](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=36)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Hayama Shirt Honten, The"
   url: "/tartans/hayama-shirt-honten-the/"
+- name: "Hayama Shirt Honten, The"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k4g4k2g14k6w3k6n2w4n2w15r3/)
 (the same proportion at any scale), whose colour order is pattern [KGKGKWKBWBWR](/stripes/kgkgkwkbwbwr/).
@@ -14,7 +16,7 @@ Part of the [Hayama Shirt Honten, The](/tartans/hayama-shirt-honten-the/) tartan
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10916
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10916](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10916)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k4g4k2g12k6w3k6n2w4n2w15r3~x2/"><circle cx="71.1" cy="166.7" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/"><circle cx="61.3" cy="185.7" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s13/w18dr3w3dr10w26dr3k26g28dr10g3dr3g8lo6/"><circle cx="68.4" cy="151.2" r="4" fill="#3465a4"><title>Carnegie Dress #2 (Fashion)</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/"><circle cx="61.3" cy="184.8" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/"><circle cx="92.6" cy="142.0" r="4" fill="#3465a4"><title>Blair, dress</title></circle></a><a href="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/"><circle cx="105.2" cy="148.7" r="4" fill="#3465a4"><title>Macallan Distillery</title></circle></a><a href="/variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/"><circle cx="72.0" cy="181.9" r="4" fill="#3465a4"><title>Lobban (Personal)</title></circle></a><a href="/variants/s9/w16g2k5r2k10g11y2g11k2~x2/"><circle cx="99.3" cy="176.4" r="4" fill="#3465a4"><title>Unidentified #46</title></circle></a><a href="/variants/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/"><circle cx="98.2" cy="146.1" r="4" fill="#3465a4"><title>MacInnes Dress</title></circle></a><a href="/variants/s13/w9r2w2r6w14r2k14g14r6g2r2g8y3~x2/"><circle cx="48.8" cy="169.0" r="4" fill="#3465a4"><title>Valley of the Green #2</title></circle></a><circle cx="70.5" cy="164.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k4g4k2g12k6w3k6n2w4n2w15r3~x2/"><circle cx="71.1" cy="167.2" r="4" fill="#3465a4"><title>Hayama Shirt Honten, The</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11t2k12t3k6w2~x2/"><circle cx="61.3" cy="186.3" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s13/w18dr3w3dr10w26dr3k26g28dr10g3dr3g8lo6/"><circle cx="68.4" cy="151.7" r="4" fill="#3465a4"><title>Carnegie Dress #2 (Fashion)</title></circle></a><a href="/variants/s11/w6y2w2y3w11g11db2k12db3k6w2~x2/"><circle cx="61.3" cy="185.3" r="4" fill="#3465a4"><title>Fitzpatrick</title></circle></a><a href="/variants/s13/db1r1db8k3g8r1g1r1g8k3w10r1w1~x4/"><circle cx="92.6" cy="142.4" r="4" fill="#3465a4"><title>Blair, dress</title></circle></a><a href="/variants/s12/g8r1g2r3g12k12dy1lb12r3lb2r1lb8~x2/"><circle cx="105.1" cy="149.1" r="4" fill="#3465a4"><title>Macallan Distillery</title></circle></a><a href="/variants/s10/y5g2r2g12k9lb12r2lb2r2lb2~x2/"><circle cx="72.0" cy="182.4" r="4" fill="#3465a4"><title>Lobban (Personal)</title></circle></a><a href="/variants/s9/w16g2k5r2k10g11y2g11k2~x2/"><circle cx="99.3" cy="177.0" r="4" fill="#3465a4"><title>Unidentified #46</title></circle></a><a href="/variants/s13/r4g8db24k4w4k4g24k3g3k3g3w24g4~x2/"><circle cx="98.1" cy="146.5" r="4" fill="#3465a4"><title>MacInnes Dress</title></circle></a><a href="/variants/s13/w9r2w2r6w14r2k14g14r6g2r2g8y3~x2/"><circle cx="48.8" cy="169.6" r="4" fill="#3465a4"><title>Valley of the Green #2</title></circle></a><circle cx="70.5" cy="164.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/k4g4k2g14k6w3k6n2w4n2w15r3~x2/

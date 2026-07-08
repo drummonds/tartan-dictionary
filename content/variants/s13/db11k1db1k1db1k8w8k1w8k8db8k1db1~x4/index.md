@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Blue Watch (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db11k1db1k1db1k8w8k1w8k8db8k1db1/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKWKWKBKB](/stripes/bkbkbkwkwkbkb/).
 
 Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6146
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6146](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6146)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k4w2k2w2k2w4k2w2k4db12w1~x4/"><circle cx="167.1" cy="170.8" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/variants/s11/k4w2k2w2k2w4k2w2k4db12w1~x2/"><circle cx="167.1" cy="170.8" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/variants/s11/k2w2k2w2k2w4k2w2k4db12w1~x2/"><circle cx="159.1" cy="167.5" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/"><circle cx="186.0" cy="177.3" r="4" fill="#3465a4"><title>Grant Hunting or Black Watch</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1/"><circle cx="186.0" cy="177.3" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/"><circle cx="186.0" cy="177.3" r="4" fill="#3465a4"><title>Black Watch, A&amp;S Highlanders</title></circle></a><a href="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/"><circle cx="151.1" cy="126.5" r="4" fill="#3465a4"><title>Knights Templar St Andrews Corporate Tartan</title></circle></a><a href="/variants/s14/k24n8lb3k3lb3k3lb40k3lb3k3lb3n8k24n8~x2/"><circle cx="213.0" cy="135.2" r="4" fill="#3465a4"><title>O'Sullivan-Beare</title></circle></a><a href="/variants/s10/w4r2db20k6w5k4w3k2r2db2~x2/"><circle cx="166.3" cy="148.1" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S.</title></circle></a><a href="/variants/s9/db27k4db4k4db4k14lb14w2lb27/"><circle cx="175.1" cy="162.5" r="4" fill="#3465a4"><title>(1) Abercrombie</title></circle></a><circle cx="159.7" cy="166.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k4w2k2w2k2w4k2w2k4db12w1~x4/"><circle cx="167.1" cy="171.3" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/variants/s11/k4w2k2w2k2w4k2w2k4db12w1~x2/"><circle cx="167.1" cy="171.3" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/variants/s11/k2w2k2w2k2w4k2w2k4db12w1~x2/"><circle cx="159.1" cy="168.0" r="4" fill="#3465a4"><title>Napier</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x4/"><circle cx="186.0" cy="177.7" r="4" fill="#3465a4"><title>Grant Hunting or Black Watch</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1/"><circle cx="186.0" cy="177.7" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/variants/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/"><circle cx="186.0" cy="177.7" r="4" fill="#3465a4"><title>Black Watch, A&amp;S Highlanders</title></circle></a><a href="/variants/s12/w4r1db18k6w5k4w4k4w3k2r1db2~x2/"><circle cx="151.0" cy="126.8" r="4" fill="#3465a4"><title>Knights Templar St Andrews Corporate Tartan</title></circle></a><a href="/variants/s14/k24n8lb3k3lb3k3lb40k3lb3k3lb3n8k24n8~x2/"><circle cx="213.0" cy="135.6" r="4" fill="#3465a4"><title>O'Sullivan-Beare</title></circle></a><a href="/variants/s10/w4r2db20k6w5k4w3k2r2db2~x2/"><circle cx="166.3" cy="148.5" r="4" fill="#3465a4"><title>Scottish Knights Templar, of M.T.S.</title></circle></a><a href="/variants/s9/db27k4db4k4db4k14lb14w2lb27/"><circle cx="175.1" cy="163.0" r="4" fill="#3465a4"><title>(1) Abercrombie</title></circle></a><circle cx="159.7" cy="167.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/db11k1db1k1db1k8w8k1w8k8db8k1db1~x4/

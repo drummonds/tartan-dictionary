@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Boat of Garten"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/db62w4k2w7dp2g3y2db16/)
 (the same proportion at any scale), whose colour order is pattern [BGGBWKWB](/stripes/bggbwkwb/).
 
 Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5843
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5843](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5843)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db45y3db10dg4k1w2~x2/"><circle cx="582.9" cy="99.6" r="4" fill="#3465a4"><title>Wylie</title></circle></a><a href="/variants/s9/db5k1lb2k1w6k1lb2db25lb2~x2/"><circle cx="361.4" cy="100.4" r="4" fill="#3465a4"><title>Christopher Newport University</title></circle></a><a href="/variants/s6/r5db40w1db13g8k4~x2/"><circle cx="448.2" cy="111.5" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s6/r5db40w1db13dg8k4~x2/"><circle cx="478.6" cy="120.6" r="4" fill="#3465a4"><title>London Caledonian Rugby Club</title></circle></a><a href="/variants/s6/r5ki40w1ki13g8k4~x2~ki0604259/"><circle cx="430.1" cy="103.4" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s8/db61w4db2w7b2g3y2db16~x2/"><circle cx="525.0" cy="106.2" r="4" fill="#3465a4"><title>Boat of Garten (District)</title></circle></a><a href="/variants/s8/db61r6w2r8y2db3y2db15~x2/"><circle cx="542.8" cy="114.7" r="4" fill="#3465a4"><title>Duke of York (Royal)</title></circle></a><a href="/variants/s8/db122r11w4r15y4db6y4db30/"><circle cx="551.0" cy="114.2" r="4" fill="#3465a4"><title>Inverness, Duke of York</title></circle></a><a href="/variants/s6/db80r7w1r7y20db15~x2/"><circle cx="505.6" cy="126.2" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army (Corp)</title></circle></a><a href="/variants/s6/db45ly3db10o4k1w2~x4/"><circle cx="542.8" cy="84.8" r="4" fill="#3465a4"><title>Wylie (Name)</title></circle></a><circle cx="461.3" cy="71.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/db45y3db10dg4k1w2~x2/"><circle cx="582.8" cy="99.6" r="4" fill="#3465a4"><title>Wylie</title></circle></a><a href="/variants/s9/db5k1lb2k1w6k1lb2db25lb2~x2/"><circle cx="361.3" cy="100.7" r="4" fill="#3465a4"><title>Christopher Newport University</title></circle></a><a href="/variants/s6/r5db40w1db13g8k4~x2/"><circle cx="448.1" cy="111.6" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s6/r5db40w1db13dg8k4~x2/"><circle cx="478.5" cy="120.7" r="4" fill="#3465a4"><title>London Caledonian Rugby Club</title></circle></a><a href="/variants/s6/r5ki40w1ki13g8k4~x2~ki0604259/"><circle cx="430.0" cy="103.5" r="4" fill="#3465a4"><title>London Scottish Rugby Club</title></circle></a><a href="/variants/s8/db61w4db2w7b2g3y2db16~x2/"><circle cx="524.9" cy="106.3" r="4" fill="#3465a4"><title>Boat of Garten (District)</title></circle></a><a href="/variants/s8/db61r6w2r8y2db3y2db15~x2/"><circle cx="542.7" cy="114.8" r="4" fill="#3465a4"><title>Duke of York (Royal)</title></circle></a><a href="/variants/s8/db122r11w4r15y4db6y4db30/"><circle cx="550.9" cy="114.4" r="4" fill="#3465a4"><title>Inverness, Duke of York</title></circle></a><a href="/variants/s6/db80r7w1r7y20db15~x2/"><circle cx="505.5" cy="126.4" r="4" fill="#3465a4"><title>Auchtermuchty Tartan Army (Corp)</title></circle></a><a href="/variants/s6/db45ly3db10o4k1w2~x4/"><circle cx="542.7" cy="84.9" r="4" fill="#3465a4"><title>Wylie (Name)</title></circle></a><circle cx="461.2" cy="71.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s8/db62w4k2w7dp2g3y2db16~x2/

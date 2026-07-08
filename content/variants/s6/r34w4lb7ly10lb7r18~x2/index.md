@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Ploysongsang, Edward Thiravej (Pers"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r34w4lb7ly10lb7r18/)
 (the same proportion at any scale), whose colour order is pattern [RWWYWR](/stripes/rwwywr/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11034
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11034](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11034)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -57,8 +59,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r34w4db7y10db7r18~x2/"><circle cx="362.2" cy="212.4" r="4" fill="#3465a4"><title>Ploysongsang, Edward Thiravej (Personal)</title></circle></a><a href="/variants/s5/r5g5w1lb2r5~x2/"><circle cx="266.5" cy="277.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="327.5" cy="234.8" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s6/r5g3lb3db5r16y3~x2/"><circle cx="299.9" cy="219.9" r="4" fill="#3465a4"><title>McCartney (2015)</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30/"><circle cx="370.2" cy="156.1" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30~x2/"><circle cx="370.2" cy="156.1" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s8/r15db5k2db5r15b3r15w2~x2/"><circle cx="360.4" cy="178.1" r="4" fill="#3465a4"><title>Goodwillie (Fashion)</title></circle></a><a href="/variants/s5/r12w1r2lb1n3~x4/"><circle cx="511.8" cy="196.9" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><circle cx="441.9" cy="161.6" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/variants/s5/r12w1r2dg1b3~x4/"><circle cx="476.3" cy="183.9" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><circle cx="377.8" cy="218.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r34w4db7y10db7r18~x2/"><circle cx="362.3" cy="213.0" r="4" fill="#3465a4"><title>Ploysongsang, Edward Thiravej (Personal)</title></circle></a><a href="/variants/s5/r5g5w1lb2r5~x2/"><circle cx="266.7" cy="278.3" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s5/r22g17w2lb6r13~x2/"><circle cx="327.6" cy="235.4" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/variants/s6/r5g3lb3db5r16y3~x2/"><circle cx="300.1" cy="220.5" r="4" fill="#3465a4"><title>McCartney (2015)</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30/"><circle cx="370.2" cy="156.6" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s6/r30g12k5w2lb6r30~x2/"><circle cx="370.2" cy="156.6" r="4" fill="#3465a4"><title>Sinclair</title></circle></a><a href="/variants/s8/r15db5k2db5r15b3r15w2~x2/"><circle cx="360.5" cy="178.7" r="4" fill="#3465a4"><title>Goodwillie (Fashion)</title></circle></a><a href="/variants/s5/r12w1r2lb1n3~x4/"><circle cx="512.0" cy="197.4" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><a href="/variants/s6/r5db10r5dg5r25y1~x4/"><circle cx="441.9" cy="162.0" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/variants/s5/r12w1r2dg1b3~x4/"><circle cx="476.4" cy="184.4" r="4" fill="#3465a4"><title>Glenshee</title></circle></a><circle cx="378.0" cy="219.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s6/r34w4lb7ly10lb7r18~x2/

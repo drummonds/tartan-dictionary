@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Dunedin Chapter"
   url: "/tartans/dunedin-chapter/"
+- name: "Dunedin Chapter (Corporate)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/lb39g3lb3g20k3g20k3g3k20r3/)
 (the same proportion at any scale), whose colour order is pattern [RKGKGKGWGW](/stripes/rkgkgkgwgw/).
@@ -14,7 +16,7 @@ Part of the [Dunedin Chapter](/tartans/dunedin-chapter/) tartan — the named de
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3905
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3905](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3905)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -75,8 +77,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w16k4o1k2w1k6dg6k1dg6w1~x4/"><circle cx="164.6" cy="134.1" r="4" fill="#3465a4"><title>Unidentified #49</title></circle></a><a href="/variants/s9/r3g2k1g20k9lb20k1lb2r3~x2/"><circle cx="174.5" cy="133.8" r="4" fill="#3465a4"><title>Ayrton</title></circle></a><a href="/variants/s11/dg27w2dg3ly4dg3w2dg5k13lg2w26lg3~x2/"><circle cx="154.4" cy="122.3" r="4" fill="#3465a4"><title>MacKellar Dress, Green (Dance)</title></circle></a><a href="/variants/s13/g2r2g21k8lb8k2lb28k2lb8k8g21w2g2~x2/"><circle cx="157.4" cy="129.5" r="4" fill="#3465a4"><title>Mack Original (Personal)</title></circle></a><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/"><circle cx="204.9" cy="166.6" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><a href="/variants/s11/lbi3k1g12k1g1k2g1k6lb12k1lo1~x4~lbi3203246-lb3200000/"><circle cx="117.0" cy="129.7" r="4" fill="#3465a4"><title>MacCandlish Arisaid Green</title></circle></a><a href="/variants/s8/k2lb2k2lb15g15k2g2w2~x4/"><circle cx="179.4" cy="180.5" r="4" fill="#3465a4"><title>Ben Lomond (Fashion)</title></circle></a><a href="/variants/s12/k5lo4g25k14lo5k5w5k2w3g3k2lo5~x2/"><circle cx="134.7" cy="145.3" r="4" fill="#3465a4"><title>Heritage of Ireland (Fashion)</title></circle></a><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10dg23w2dg4~x2/"><circle cx="150.7" cy="139.4" r="4" fill="#3465a4"><title>Oliphant Dress Clan Tartan</title></circle></a><a href="/variants/s11/lb3k1g12k1g1k2g1k6w12k1lo1~x4/"><circle cx="109.7" cy="127.5" r="4" fill="#3465a4"><title>McCandlish Arisaid, Green (Name)</title></circle></a><circle cx="169.4" cy="150.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s10/w16k4o1k2w1k6dg6k1dg6w1~x4/"><circle cx="164.6" cy="134.5" r="4" fill="#3465a4"><title>Unidentified #49</title></circle></a><a href="/variants/s9/r3g2k1g20k9lb20k1lb2r3~x2/"><circle cx="174.5" cy="134.2" r="4" fill="#3465a4"><title>Ayrton</title></circle></a><a href="/variants/s11/dg27w2dg3ly4dg3w2dg5k13lg2w26lg3~x2/"><circle cx="154.4" cy="122.7" r="4" fill="#3465a4"><title>MacKellar Dress, Green (Dance)</title></circle></a><a href="/variants/s13/g2r2g21k8lb8k2lb28k2lb8k8g21w2g2~x2/"><circle cx="157.3" cy="129.8" r="4" fill="#3465a4"><title>Mack Original (Personal)</title></circle></a><a href="/variants/s9/b16y2b4y2b5k14g28y2g7~x2/"><circle cx="204.9" cy="167.0" r="4" fill="#3465a4"><title>Marie Curie Fields of Hope</title></circle></a><a href="/variants/s11/lbi3k1g12k1g1k2g1k6lb12k1lo1~x4~lbi3203246-lb3200000/"><circle cx="116.9" cy="130.1" r="4" fill="#3465a4"><title>MacCandlish Arisaid Green</title></circle></a><a href="/variants/s8/k2lb2k2lb15g15k2g2w2~x4/"><circle cx="179.4" cy="181.1" r="4" fill="#3465a4"><title>Ben Lomond (Fashion)</title></circle></a><a href="/variants/s12/k5lo4g25k14lo5k5w5k2w3g3k2lo5~x2/"><circle cx="134.7" cy="145.8" r="4" fill="#3465a4"><title>Heritage of Ireland (Fashion)</title></circle></a><a href="/variants/s13/w25t2w2t2w2t10k2t4k2t10dg23w2dg4~x2/"><circle cx="150.6" cy="139.8" r="4" fill="#3465a4"><title>Oliphant Dress Clan Tartan</title></circle></a><a href="/variants/s11/lb3k1g12k1g1k2g1k6w12k1lo1~x4/"><circle cx="109.6" cy="127.8" r="4" fill="#3465a4"><title>McCandlish Arisaid, Green (Name)</title></circle></a><circle cx="169.3" cy="150.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/lb39g3lb3g20k3g20k3g3k20r3~x2/

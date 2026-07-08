@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Vaughan (Welsh Series)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/w2k35dg30k3lo30k2lo4k2lo30k3w2/)
 (the same proportion at any scale), whose colour order is pattern [WKGKYKYKYKW](/stripes/wkgkykykykw/).
 
 Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4445
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4445](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4445)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k9r1g1k3g20r5k3r20k5r3y2~x2/"><circle cx="192.0" cy="120.5" r="4" fill="#3465a4"><title>Army Cadet Force (Military)</title></circle></a><a href="/variants/s12/k6r3k3r24lb4k10r2g4r2g24r6lb2~x2~g2408144/"><circle cx="171.0" cy="135.7" r="4" fill="#3465a4"><title>Bates</title></circle></a><a href="/variants/s9/k8r1k3w5k5w3k5o23r3~x2/"><circle cx="192.6" cy="120.7" r="4" fill="#3465a4"><title>Southdown</title></circle></a><a href="/variants/s12/k6r3k3r24lb4k10r2g4r2g24r6lb2~x2/"><circle cx="174.0" cy="136.2" r="4" fill="#3465a4"><title>Bates (Name)</title></circle></a><a href="/variants/s9/r20k2r2k2r2k8g24db2g3~x2/"><circle cx="201.1" cy="144.1" r="4" fill="#3465a4"><title>Mostyn</title></circle></a><a href="/variants/s9/g12dg1g1dg1g1k5r10k1r2~x2/"><circle cx="194.1" cy="148.9" r="4" fill="#3465a4"><title>Lindsay #2</title></circle></a><a href="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/"><circle cx="186.2" cy="136.7" r="4" fill="#3465a4"><title>Burberry (Counterfeit #4)</title></circle></a><a href="/variants/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/"><circle cx="152.7" cy="132.0" r="4" fill="#3465a4"><title>Duns Pipe Band</title></circle></a><a href="/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/"><circle cx="176.5" cy="109.8" r="4" fill="#3465a4"><title>Varenne</title></circle></a><a href="/variants/s10/k44w3lo16w2lo2w2lo2y10k3y8~x2/"><circle cx="239.1" cy="96.8" r="4" fill="#3465a4"><title>Wcwm 1399</title></circle></a><circle cx="197.2" cy="121.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/k9r1g1k3g20r5k3r20k5r3y2~x2/"><circle cx="192.0" cy="120.8" r="4" fill="#3465a4"><title>Army Cadet Force (Military)</title></circle></a><a href="/variants/s12/k6r3k3r24lb4k10r2g4r2g24r6lb2~x2~g2408144/"><circle cx="170.9" cy="136.1" r="4" fill="#3465a4"><title>Bates</title></circle></a><a href="/variants/s9/k8r1k3w5k5w3k5o23r3~x2/"><circle cx="192.5" cy="121.1" r="4" fill="#3465a4"><title>Southdown</title></circle></a><a href="/variants/s12/k6r3k3r24lb4k10r2g4r2g24r6lb2~x2/"><circle cx="174.0" cy="136.6" r="4" fill="#3465a4"><title>Bates (Name)</title></circle></a><a href="/variants/s9/r20k2r2k2r2k8g24db2g3~x2/"><circle cx="201.1" cy="144.5" r="4" fill="#3465a4"><title>Mostyn</title></circle></a><a href="/variants/s9/g12dg1g1dg1g1k5r10k1r2~x2/"><circle cx="194.1" cy="149.3" r="4" fill="#3465a4"><title>Lindsay #2</title></circle></a><a href="/variants/s9/k10w10k10ly32k2w2k2w2dr5~x2/"><circle cx="186.2" cy="137.1" r="4" fill="#3465a4"><title>Burberry (Counterfeit #4)</title></circle></a><a href="/variants/s12/r24k3r3k3r3k15g3k3g20k2g2w3~x2/"><circle cx="152.6" cy="132.4" r="4" fill="#3465a4"><title>Duns Pipe Band</title></circle></a><a href="/variants/s11/ly32n4dr2k8dr3w2dr3k8dr2n4dr30~x2/"><circle cx="176.4" cy="110.1" r="4" fill="#3465a4"><title>Varenne</title></circle></a><a href="/variants/s10/k44w3lo16w2lo2w2lo2y10k3y8~x2/"><circle cx="239.0" cy="97.1" r="4" fill="#3465a4"><title>Wcwm 1399</title></circle></a><circle cx="197.1" cy="121.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s11/w2k35dg30k3lo30k2lo4k2lo30k3w2/

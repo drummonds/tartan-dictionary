@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Burberry, Check"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k6w6k6o21r2/)
 (the same proportion at any scale), whose colour order is pattern [KWKRR](/stripes/kwkrr/).
 
 Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r4o30k6w13k13w3~x2/"><circle cx="166.1" cy="183.7" r="4" fill="#3465a4"><title>Thom(p)son camel</title></circle></a><a href="/variants/s5/o30k7n20ly4k4~x2/"><circle cx="220.5" cy="216.7" r="4" fill="#3465a4"><title>Drumfintley (Fashion)</title></circle></a><a href="/variants/s5/k3w3k3y10r1~x6/"><circle cx="203.5" cy="194.6" r="4" fill="#3465a4"><title>(6) Burberry</title></circle></a><a href="/variants/s5/k3w3k3ly10r1~x6/"><circle cx="196.3" cy="194.8" r="4" fill="#3465a4"><title>Burberry (Genuine)</title></circle></a><a href="/variants/s5/k6w6k6ly21r2~x4/"><circle cx="206.0" cy="190.4" r="4" fill="#3465a4"><title>Burberry Check Corporate Tartan</title></circle></a><a href="/variants/s6/y6k5r4k48o36w6/"><circle cx="214.4" cy="145.2" r="4" fill="#3465a4"><title>Drambuie dress</title></circle></a><a href="/variants/s6/r3n27k6lo13k14r3~x2/"><circle cx="158.3" cy="194.8" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special grey</title></circle></a><a href="/variants/s5/db6lo25dy16k2db3~x2/"><circle cx="227.6" cy="186.1" r="4" fill="#3465a4"><title>Prince of Orange #2</title></circle></a><a href="/variants/s6/r10w2k10w10o35k5~x2/"><circle cx="218.5" cy="156.0" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/variants/s5/n11k4dr4lo4n1~x4/"><circle cx="226.8" cy="212.1" r="4" fill="#3465a4"><title>Ikelman #2 (Personal)</title></circle></a><circle cx="216.2" cy="186.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/r4o30k6w13k13w3~x2/"><circle cx="166.2" cy="184.3" r="4" fill="#3465a4"><title>Thom(p)son camel</title></circle></a><a href="/variants/s5/o30k7n20ly4k4~x2/"><circle cx="220.6" cy="217.3" r="4" fill="#3465a4"><title>Drumfintley (Fashion)</title></circle></a><a href="/variants/s5/k3w3k3y10r1~x6/"><circle cx="203.6" cy="195.3" r="4" fill="#3465a4"><title>(6) Burberry</title></circle></a><a href="/variants/s5/k3w3k3ly10r1~x6/"><circle cx="196.3" cy="195.5" r="4" fill="#3465a4"><title>Burberry (Genuine)</title></circle></a><a href="/variants/s5/k6w6k6ly21r2~x4/"><circle cx="206.1" cy="191.0" r="4" fill="#3465a4"><title>Burberry Check Corporate Tartan</title></circle></a><a href="/variants/s6/y6k5r4k48o36w6/"><circle cx="214.4" cy="145.6" r="4" fill="#3465a4"><title>Drambuie dress</title></circle></a><a href="/variants/s6/r3n27k6lo13k14r3~x2/"><circle cx="158.4" cy="195.4" r="4" fill="#3465a4"><title>Thompson/Thomson/MacTavish special grey</title></circle></a><a href="/variants/s5/db6lo25dy16k2db3~x2/"><circle cx="227.6" cy="186.6" r="4" fill="#3465a4"><title>Prince of Orange #2</title></circle></a><a href="/variants/s6/r10w2k10w10o35k5~x2/"><circle cx="218.5" cy="156.5" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><a href="/variants/s5/n11k4dr4lo4n1~x4/"><circle cx="226.9" cy="212.7" r="4" fill="#3465a4"><title>Ikelman #2 (Personal)</title></circle></a><circle cx="216.3" cy="187.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k6w6k6o21r2~x4/

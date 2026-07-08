@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Barbour Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ly4dy2ly21db11w2n20r3/)
 (the same proportion at any scale), whose colour order is pattern [RBWBYGY](/stripes/rbwbygy/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11194
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11194](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11194)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -56,8 +58,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g25r9lb3y7w3dp11~x3/"><circle cx="176.9" cy="204.5" r="4" fill="#3465a4"><title>Montessori School of Denver (School)</title></circle></a><a href="/variants/s6/g25r9lb3y7w3dp11/"><circle cx="176.9" cy="204.5" r="4" fill="#3465a4"><title>Montessori School of Denver</title></circle></a><a href="/variants/s7/o17n5db2w12db2y4g7~x2/"><circle cx="125.4" cy="200.2" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><circle cx="169.8" cy="184.4" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s7/dg8b6dg48w31o42g6o8/"><circle cx="158.6" cy="201.9" r="4" fill="#3465a4"><title>Bannockbane, Green</title></circle></a><a href="/variants/s7/r1g4w1g4y1dr8lb1~x6/"><circle cx="188.3" cy="191.1" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/variants/s8/r4ly3dt24dy26g3ly21dp2ly4~x2/"><circle cx="153.3" cy="165.1" r="4" fill="#3465a4"><title>Goddin mab Gododdin (Personal)</title></circle></a><a href="/variants/s9/db4dg41ly4g4ly4g9r18ly4w4~x2~dg1603171-g2305163/"><circle cx="206.3" cy="152.9" r="4" fill="#3465a4"><title>Gallagher Ancient</title></circle></a><a href="/variants/s9/r5w1db10g10w1y1g2lb2w1~x2/"><circle cx="150.6" cy="166.9" r="4" fill="#3465a4"><title>Mary, Queen of Scots</title></circle></a><a href="/variants/s7/dy17n5db2w12db2y4g7~x2/"><circle cx="119.6" cy="206.2" r="4" fill="#3465a4"><title>Ontario Northern Canadian District Tartan</title></circle></a><circle cx="177.1" cy="179.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s6/g25r9lb3y7w3dp11~x3/"><circle cx="177.0" cy="204.9" r="4" fill="#3465a4"><title>Montessori School of Denver (School)</title></circle></a><a href="/variants/s6/g25r9lb3y7w3dp11/"><circle cx="177.0" cy="204.9" r="4" fill="#3465a4"><title>Montessori School of Denver</title></circle></a><a href="/variants/s7/o17n5db2w12db2y4g7~x2/"><circle cx="125.5" cy="200.7" r="4" fill="#3465a4"><title>Ontario, Northern</title></circle></a><a href="/variants/s7/w3dg24r13g4ly11r8db2~x2~dg1806142-g2304202/"><circle cx="169.8" cy="184.8" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/variants/s7/dg8b6dg48w31o42g6o8/"><circle cx="158.7" cy="202.4" r="4" fill="#3465a4"><title>Bannockbane, Green</title></circle></a><a href="/variants/s7/r1g4w1g4y1dr8lb1~x6/"><circle cx="188.4" cy="191.5" r="4" fill="#3465a4"><title>George Watson's College</title></circle></a><a href="/variants/s8/r4ly3dt24dy26g3ly21dp2ly4~x2/"><circle cx="153.3" cy="165.4" r="4" fill="#3465a4"><title>Goddin mab Gododdin (Personal)</title></circle></a><a href="/variants/s9/db4dg41ly4g4ly4g9r18ly4w4~x2~dg1603171-g2305163/"><circle cx="206.3" cy="153.2" r="4" fill="#3465a4"><title>Gallagher Ancient</title></circle></a><a href="/variants/s9/r5w1db10g10w1y1g2lb2w1~x2/"><circle cx="150.6" cy="167.2" r="4" fill="#3465a4"><title>Mary, Queen of Scots</title></circle></a><a href="/variants/s7/dy17n5db2w12db2y4g7~x2/"><circle cx="119.7" cy="206.7" r="4" fill="#3465a4"><title>Ontario Northern Canadian District Tartan</title></circle></a><circle cx="177.2" cy="180.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/ly4dy2ly21db11w2n20r3~x2/

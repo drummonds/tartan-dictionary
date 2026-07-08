@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Pride of Scotland, Muted (Fashion)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dt8k2dt2k14dt2k2lr1dt19k27lr2/)
 (the same proportion at any scale), whose colour order is pattern [BKBKBKYBKY](/stripes/bkbkbkybky/).
 
 Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7477
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7477](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=7477)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -65,8 +67,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/"><circle cx="341.1" cy="115.4" r="4" fill="#3465a4"><title>Pride of Scotland, Dark (Fashion)</title></circle></a><a href="/variants/s11/dt8k2o2dt2k13dt2k2ly1dt14k26ly2~x2/"><circle cx="339.8" cy="115.5" r="4" fill="#3465a4"><title>Pride of Scotland Hunting/Dark Fashion Tartan</title></circle></a><a href="/variants/s9/dt4k2dt2k4dt20k43dt2k4dt2~x2/"><circle cx="491.6" cy="161.3" r="4" fill="#3465a4"><title>Dark Island Black (Fashion)</title></circle></a><a href="/variants/s10/k4g12k3g4k3g3k36g3k2y3~x2/"><circle cx="367.7" cy="123.5" r="4" fill="#3465a4"><title>Reagan (Personal)</title></circle></a><a href="/variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/"><circle cx="296.0" cy="120.5" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/"><circle cx="376.7" cy="100.5" r="4" fill="#3465a4"><title>Lochnagar Dark Fashion Tartan</title></circle></a><a href="/variants/s14/k4b2k2dg14b2k2b2k4dg2k16b2k2b1k4~x2/"><circle cx="309.4" cy="137.5" r="4" fill="#3465a4"><title>Drummond, (Grey)</title></circle></a><a href="/variants/s12/k13w3dr3k34dg21k13dg8k5dg3k2dg1db1~x2/"><circle cx="354.3" cy="93.8" r="4" fill="#3465a4"><title>Alamudi (Corporate)</title></circle></a><a href="/variants/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="305.1" cy="142.5" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/variants/s8/k40dt10ly1k40dt10ly2dt10ly4~x2/"><circle cx="428.5" cy="131.7" r="4" fill="#3465a4"><title>1891 (Commemorative)</title></circle></a><circle cx="375.9" cy="140.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/dt8k2o2dt2k13dt2k2lr1dt14k26lr2~x2/"><circle cx="341.0" cy="115.5" r="4" fill="#3465a4"><title>Pride of Scotland, Dark (Fashion)</title></circle></a><a href="/variants/s11/dt8k2o2dt2k13dt2k2ly1dt14k26ly2~x2/"><circle cx="339.7" cy="115.7" r="4" fill="#3465a4"><title>Pride of Scotland Hunting/Dark Fashion Tartan</title></circle></a><a href="/variants/s9/dt4k2dt2k4dt20k43dt2k4dt2~x2/"><circle cx="491.6" cy="161.4" r="4" fill="#3465a4"><title>Dark Island Black (Fashion)</title></circle></a><a href="/variants/s10/k4g12k3g4k3g3k36g3k2y3~x2/"><circle cx="367.6" cy="123.8" r="4" fill="#3465a4"><title>Reagan (Personal)</title></circle></a><a href="/variants/s9/k12r2k28dg12k1w3k1dg12r4~x2/"><circle cx="295.9" cy="120.8" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/variants/s10/k8n1k40n1k16n16dt6n3dr3n6~x2/"><circle cx="376.6" cy="100.6" r="4" fill="#3465a4"><title>Lochnagar Dark Fashion Tartan</title></circle></a><a href="/variants/s14/k4b2k2dg14b2k2b2k4dg2k16b2k2b1k4~x2/"><circle cx="309.3" cy="137.8" r="4" fill="#3465a4"><title>Drummond, (Grey)</title></circle></a><a href="/variants/s12/k13w3dr3k34dg21k13dg8k5dg3k2dg1db1~x2/"><circle cx="354.2" cy="93.8" r="4" fill="#3465a4"><title>Alamudi (Corporate)</title></circle></a><a href="/variants/s8/k20r1dg3k8dg2k2dg20w2~x2/"><circle cx="305.1" cy="142.7" r="4" fill="#3465a4"><title>Scottish Chieftain (Universal)</title></circle></a><a href="/variants/s8/k40dt10ly1k40dt10ly2dt10ly4~x2/"><circle cx="428.4" cy="131.9" r="4" fill="#3465a4"><title>1891 (Commemorative)</title></circle></a><circle cx="375.8" cy="140.7" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dt8k2dt2k14dt2k2lr1dt19k27lr2~x2/

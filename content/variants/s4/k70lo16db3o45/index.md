@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Klymson"
   url: "/tartans/klymson/"
+- name: "Klymson (Chicago) (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k70lo16db3o45/)
 (the same proportion at any scale), whose colour order is pattern [KYBR](/stripes/kybr/).
@@ -14,7 +16,7 @@ Part of the [Klymson](/tartans/klymson/) tartan — the named design grouping th
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10801
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10801](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10801)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -60,8 +62,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/lo80k52w7n12/"><circle cx="245.9" cy="199.1" r="4" fill="#3465a4"><title>Oklahoma State University</title></circle></a><a href="/variants/s4/db1r16k16y1~x4/"><circle cx="266.8" cy="171.4" r="4" fill="#3465a4"><title>Skinner</title></circle></a><a href="/variants/s3/k19lo1n19~x8/"><circle cx="303.0" cy="227.1" r="4" fill="#3465a4"><title>Wcwm 9275-1394</title></circle></a><a href="/variants/s4/db3k32r27w2~x2/"><circle cx="264.8" cy="173.6" r="4" fill="#3465a4"><title>Templar Grand Priory USA</title></circle></a><a href="/variants/s4/g1r8k13ly1~x6/"><circle cx="280.9" cy="177.6" r="4" fill="#3465a4"><title>Billy Apple</title></circle></a><a href="/variants/s4/k41lg16dg14w2~x2~lg2704216-w3600000/"><circle cx="278.1" cy="186.7" r="4" fill="#3465a4"><title>Hamworthy Association</title></circle></a><a href="/variants/s5/db4y4r33k30w2~x2/"><circle cx="218.6" cy="142.9" r="4" fill="#3465a4"><title>Wormeck (2013) Germany</title></circle></a><a href="/variants/s6/y6k5r4k48o36w6/"><circle cx="214.4" cy="145.2" r="4" fill="#3465a4"><title>Drambuie dress</title></circle></a><a href="/variants/s4/r1y13k8g1~x6/"><circle cx="288.3" cy="189.2" r="4" fill="#3465a4"><title>Billy Apple® Yellow</title></circle></a><a href="/variants/s6/w6dy36k48r4k5ly6~dy1603076-ly3307090/"><circle cx="216.3" cy="147.4" r="4" fill="#3465a4"><title>Drambuie Dress</title></circle></a><circle cx="260.6" cy="169.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s4/lo80k52w7n12/"><circle cx="246.0" cy="199.8" r="4" fill="#3465a4"><title>Oklahoma State University</title></circle></a><a href="/variants/s4/db1r16k16y1~x4/"><circle cx="266.9" cy="171.9" r="4" fill="#3465a4"><title>Skinner</title></circle></a><a href="/variants/s3/k19lo1n19~x8/"><circle cx="303.1" cy="227.7" r="4" fill="#3465a4"><title>Wcwm 9275-1394</title></circle></a><a href="/variants/s4/db3k32r27w2~x2/"><circle cx="264.8" cy="174.1" r="4" fill="#3465a4"><title>Templar Grand Priory USA</title></circle></a><a href="/variants/s4/g1r8k13ly1~x6/"><circle cx="280.9" cy="178.1" r="4" fill="#3465a4"><title>Billy Apple</title></circle></a><a href="/variants/s4/k41lg16dg14w2~x2~lg2704216-w3600000/"><circle cx="278.1" cy="187.2" r="4" fill="#3465a4"><title>Hamworthy Association</title></circle></a><a href="/variants/s5/db4y4r33k30w2~x2/"><circle cx="218.5" cy="143.4" r="4" fill="#3465a4"><title>Wormeck (2013) Germany</title></circle></a><a href="/variants/s6/y6k5r4k48o36w6/"><circle cx="214.4" cy="145.6" r="4" fill="#3465a4"><title>Drambuie dress</title></circle></a><a href="/variants/s4/r1y13k8g1~x6/"><circle cx="288.4" cy="189.8" r="4" fill="#3465a4"><title>Billy Apple® Yellow</title></circle></a><a href="/variants/s6/w6dy36k48r4k5ly6~dy1603076-ly3307090/"><circle cx="216.2" cy="147.9" r="4" fill="#3465a4"><title>Drambuie Dress</title></circle></a><circle cx="260.6" cy="170.4" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s4/k70lo16db3o45/

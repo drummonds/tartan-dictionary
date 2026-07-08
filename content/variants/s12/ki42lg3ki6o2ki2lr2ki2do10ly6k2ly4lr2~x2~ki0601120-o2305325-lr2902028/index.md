@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Wcwm 849-3"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/ki42lg3ki6o2ki2lr2ki2do10ly6k2ly4lr2/)
 (the same proportion at any scale), whose colour order is pattern [KYKRKYKBYKYY](/stripes/kykrkykbykyy/).
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4554
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4554](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4554)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k4r8ly4k2ly4k40g5dp4g5k2t2w4~x2/"><circle cx="210.0" cy="47.8" r="4" fill="#3465a4"><title>MacMunn</title></circle></a><a href="/variants/s13/k58db5w5k10y3k3w3k3g14r11k3r4w3~x2/"><circle cx="257.2" cy="54.6" r="4" fill="#3465a4"><title>Stuart/Stewart Black #2</title></circle></a><a href="/variants/s12/k43b3k7dg3k2dg3k2g11r6k2r3w3~x2/"><circle cx="284.5" cy="56.1" r="4" fill="#3465a4"><title>Braveheart - ( Warrior)</title></circle></a><a href="/variants/s12/k39b3dy8ly2dy2r2dy2dg8dr5dy2dr3r2~x2/"><circle cx="220.0" cy="59.4" r="4" fill="#3465a4"><title>GRM (Fashion)</title></circle></a><a href="/variants/s12/k48db4k8y2k3w3k3g12r6k3r3w3~x2/"><circle cx="302.1" cy="49.8" r="4" fill="#3465a4"><title>Stewart Black Clan Tartan</title></circle></a><a href="/variants/s9/k65dg9o11k5t2lo2ly5k2lo13~x2~dg1001060/"><circle cx="296.8" cy="50.1" r="4" fill="#3465a4"><title>Down Irish County Tartan</title></circle></a><a href="/variants/s11/w5k4db2k5ly2r2ly2k30y3w7k4~x2~ly3307090-y2505139/"><circle cx="269.9" cy="82.5" r="4" fill="#3465a4"><title>Braddock Family (Northumberland) (Personal)</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="305.7" cy="80.4" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4~ly2503076/"><circle cx="250.2" cy="61.1" r="4" fill="#3465a4"><title>U.S. Customs &amp; Border Protection</title></circle></a><a href="/variants/s8/db1k6n35k8dp3db1k8w1~x2/"><circle cx="283.0" cy="50.1" r="4" fill="#3465a4"><title>Melrose Newbigging Grey</title></circle></a><circle cx="274.4" cy="45.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/k4r8ly4k2ly4k40g5dp4g5k2t2w4~x2/"><circle cx="209.8" cy="47.9" r="4" fill="#3465a4"><title>MacMunn</title></circle></a><a href="/variants/s13/k58db5w5k10y3k3w3k3g14r11k3r4w3~x2/"><circle cx="257.0" cy="54.7" r="4" fill="#3465a4"><title>Stuart/Stewart Black #2</title></circle></a><a href="/variants/s12/k43b3k7dg3k2dg3k2g11r6k2r3w3~x2/"><circle cx="284.3" cy="56.2" r="4" fill="#3465a4"><title>Braveheart - ( Warrior)</title></circle></a><a href="/variants/s12/k39b3dy8ly2dy2r2dy2dg8dr5dy2dr3r2~x2/"><circle cx="219.8" cy="59.4" r="4" fill="#3465a4"><title>GRM (Fashion)</title></circle></a><a href="/variants/s12/k48db4k8y2k3w3k3g12r6k3r3w3~x2/"><circle cx="301.9" cy="49.9" r="4" fill="#3465a4"><title>Stewart Black Clan Tartan</title></circle></a><a href="/variants/s9/k65dg9o11k5t2lo2ly5k2lo13~x2~dg1001060/"><circle cx="296.6" cy="50.1" r="4" fill="#3465a4"><title>Down Irish County Tartan</title></circle></a><a href="/variants/s11/w5k4db2k5ly2r2ly2k30y3w7k4~x2~ly3307090-y2505139/"><circle cx="269.8" cy="82.7" r="4" fill="#3465a4"><title>Braddock Family (Northumberland) (Personal)</title></circle></a><a href="/variants/s9/k2dr3k36n2k5n7ly3lb5g2~x2/"><circle cx="305.6" cy="80.6" r="4" fill="#3465a4"><title>Victory</title></circle></a><a href="/variants/s11/ly24k7db1k1w1k1dy4dr3k1dr2ly1~x4~ly2503076/"><circle cx="250.1" cy="61.2" r="4" fill="#3465a4"><title>U.S. Customs &amp; Border Protection</title></circle></a><a href="/variants/s8/db1k6n35k8dp3db1k8w1~x2/"><circle cx="282.8" cy="50.1" r="4" fill="#3465a4"><title>Melrose Newbigging Grey</title></circle></a><circle cx="274.3" cy="45.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/ki42lg3ki6o2ki2lr2ki2do10ly6k2ly4lr2~x2~ki0601120-o2305325-lr2902028/

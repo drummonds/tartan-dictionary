@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Perry"
   url: "/tartans/perry/"
+- name: "Perry (2014)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/k31r12y2n5k2/)
 (the same proportion at any scale), whose colour order is pattern [KBGRK](/stripes/kbgrk/).
@@ -14,7 +16,7 @@ Part of the [Perry](/tartans/perry/) tartan — the named design grouping this s
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11023
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11023](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11023)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -69,8 +71,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k65r27w2k4y5~x2/"><circle cx="381.6" cy="115.4" r="4" fill="#3465a4"><title>Perry, Ancient</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="417.7" cy="130.3" r="4" fill="#3465a4"><title>Perry Dress (Personal)</title></circle></a><a href="/variants/s5/k75r26w2k4y5~x2/"><circle cx="413.3" cy="106.1" r="4" fill="#3465a4"><title>Perry / Pirrie (Personal)</title></circle></a><a href="/variants/s5/k30r10y1k8w3~x4/"><circle cx="400.4" cy="127.5" r="4" fill="#3465a4"><title>Union Fire Club Pipes and Drums</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="268.8" cy="136.5" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s6/dy6k5ly4k48dr36w6/"><circle cx="235.9" cy="153.7" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="140.7" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="257.3" cy="147.8" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s4/dr3lo2k10w1~x6/"><circle cx="343.4" cy="183.6" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/variants/s7/k62db15dp15o20lr5db5k15~x2/"><circle cx="241.4" cy="149.2" r="4" fill="#3465a4"><title>Black Raven</title></circle></a><circle cx="323.2" cy="149.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s5/k65r27w2k4y5~x2/"><circle cx="381.5" cy="115.7" r="4" fill="#3465a4"><title>Perry, Ancient</title></circle></a><a href="/variants/s5/k65dr27w2k4y5~x2/"><circle cx="417.6" cy="130.5" r="4" fill="#3465a4"><title>Perry Dress (Personal)</title></circle></a><a href="/variants/s5/k75r26w2k4y5~x2/"><circle cx="413.2" cy="106.3" r="4" fill="#3465a4"><title>Perry / Pirrie (Personal)</title></circle></a><a href="/variants/s5/k30r10y1k8w3~x4/"><circle cx="400.3" cy="127.9" r="4" fill="#3465a4"><title>Union Fire Club Pipes and Drums</title></circle></a><a href="/variants/s5/g3y5r13k33w2~x2/"><circle cx="268.7" cy="136.9" r="4" fill="#3465a4"><title>Papua New Guinea Pipes and Drums</title></circle></a><a href="/variants/s6/dy6k5ly4k48dr36w6/"><circle cx="235.9" cy="154.1" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s6/y6k5o4k48r36w6/"><circle cx="216.1" cy="141.2" r="4" fill="#3465a4"><title>Drambuie</title></circle></a><a href="/variants/s5/g3y5r14k36w3~x2/"><circle cx="257.2" cy="148.2" r="4" fill="#3465a4"><title>Papua New Guinea</title></circle></a><a href="/variants/s4/dr3lo2k10w1~x6/"><circle cx="343.4" cy="184.2" r="4" fill="#3465a4"><title>St. Eloi</title></circle></a><a href="/variants/s7/k62db15dp15o20lr5db5k15~x2/"><circle cx="241.3" cy="149.6" r="4" fill="#3465a4"><title>Black Raven</title></circle></a><circle cx="323.1" cy="149.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s5/k31r12y2n5k2~x4/

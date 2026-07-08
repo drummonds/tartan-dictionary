@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Gibbs/Gibson"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg1r16w1db2w2k4w2k4w2db2w1dg16lb1/)
 (the same proportion at any scale), whose colour order is pattern [GRWBWKWKWBWGW](/stripes/grwbwkwkwbwgw/).
 
 Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1338
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1338](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1338)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -58,8 +60,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dy6w4k3lb14w3r34k34w4lb3dy8w3g4k2~x2/"><circle cx="89.3" cy="82.7" r="4" fill="#3465a4"><title>Nazarian (Personal)</title></circle></a><a href="/variants/s13/ly6w4k3lb14w3r34k34w4lb3ly8w3g4k2~x2/"><circle cx="86.7" cy="82.7" r="4" fill="#3465a4"><title>Mazarian</title></circle></a><a href="/variants/s13/dg1r16w1db2w2ly4w2ly4w2db2w1dg16lb1~x4/"><circle cx="132.1" cy="104.5" r="4" fill="#3465a4"><title>Gibbs/Gibson (Name)</title></circle></a><a href="/variants/s13/w2r16k1lb2k1y4k1y4k1lb2k1dg16lb2~x4/"><circle cx="112.4" cy="88.9" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/variants/s13/r2db18lo4k5lo1k1w1k2g8r6k1r3w1~x4/"><circle cx="100.6" cy="88.3" r="4" fill="#3465a4"><title>Beaton (Name)</title></circle></a><a href="/variants/s11/dp45k12y4k4w6k4g50r57dp4r10k4~x2/"><circle cx="123.1" cy="105.7" r="4" fill="#3465a4"><title>MacLean Variation</title></circle></a><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2dy16w1k2w1~x2/"><circle cx="123.3" cy="77.1" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Traditional</title></circle></a><a href="/variants/s14/dr27g20k7w3ly3dr2ly3w3ly6dp6k2dr3ly4dp3~x2/"><circle cx="97.7" cy="103.1" r="4" fill="#3465a4"><title>Roman (Personal)</title></circle></a><a href="/variants/s12/db4w1k3y1g1w1k1g8r12w1r2k1~x2/"><circle cx="120.6" cy="105.2" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/"><circle cx="114.9" cy="75.6" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield (District)</title></circle></a><circle cx="110.4" cy="91.8" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s13/dy6w4k3lb14w3r34k34w4lb3dy8w3g4k2~x2/"><circle cx="89.2" cy="82.9" r="4" fill="#3465a4"><title>Nazarian (Personal)</title></circle></a><a href="/variants/s13/ly6w4k3lb14w3r34k34w4lb3ly8w3g4k2~x2/"><circle cx="86.6" cy="82.9" r="4" fill="#3465a4"><title>Mazarian</title></circle></a><a href="/variants/s13/dg1r16w1db2w2ly4w2ly4w2db2w1dg16lb1~x4/"><circle cx="132.1" cy="104.8" r="4" fill="#3465a4"><title>Gibbs/Gibson (Name)</title></circle></a><a href="/variants/s13/w2r16k1lb2k1y4k1y4k1lb2k1dg16lb2~x4/"><circle cx="112.3" cy="89.1" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/variants/s13/r2db18lo4k5lo1k1w1k2g8r6k1r3w1~x4/"><circle cx="100.5" cy="88.5" r="4" fill="#3465a4"><title>Beaton (Name)</title></circle></a><a href="/variants/s11/dp45k12y4k4w6k4g50r57dp4r10k4~x2/"><circle cx="123.0" cy="105.9" r="4" fill="#3465a4"><title>MacLean Variation</title></circle></a><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2dy16w1k2w1~x2/"><circle cx="123.2" cy="77.2" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield Traditional</title></circle></a><a href="/variants/s14/dr27g20k7w3ly3dr2ly3w3ly6dp6k2dr3ly4dp3~x2/"><circle cx="97.6" cy="103.4" r="4" fill="#3465a4"><title>Roman (Personal)</title></circle></a><a href="/variants/s12/db4w1k3y1g1w1k1g8r12w1r2k1~x2/"><circle cx="120.5" cy="105.5" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/variants/s14/db20w3db4w3db4w3r22g2k1g2ly16w1k2w1~x2/"><circle cx="114.8" cy="75.8" r="4" fill="#3465a4"><title>Salaberry-de-Valleyfield (District)</title></circle></a><circle cx="110.3" cy="92.0" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s13/dg1r16w1db2w2k4w2k4w2db2w1dg16lb1~x4/

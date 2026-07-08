@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Coulthard (Personal)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3dg9g15db10k2db18w3/)
 (the same proportion at any scale), whose colour order is pattern [RGGBKBW](/stripes/rggbkbw/).
 
 Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=777
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=777](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=777)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -66,8 +68,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/"><circle cx="176.5" cy="174.9" r="4" fill="#3465a4"><title>McComb (Personal)</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2/"><circle cx="200.8" cy="181.3" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/variants/s6/db36y20dg6w12k6r3~x2~y2602166-dg1204144/"><circle cx="136.9" cy="158.9" r="4" fill="#3465a4"><title>Sirens &amp; Swords</title></circle></a><a href="/variants/s10/db4g1db2g2n6g2k3r1db8w1~x2/"><circle cx="150.5" cy="169.5" r="4" fill="#3465a4"><title>EAIE 2015</title></circle></a><a href="/variants/s6/db15k10n30dy11w3lb5~x2/"><circle cx="136.5" cy="186.3" r="4" fill="#3465a4"><title>McHale, Barry</title></circle></a><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/"><circle cx="178.5" cy="188.0" r="4" fill="#3465a4"><title>Cowie</title></circle></a><a href="/variants/s7/dr4db2lb7db20k7g10y4~x2/"><circle cx="114.8" cy="175.3" r="4" fill="#3465a4"><title>Renfrewshire District Tartan</title></circle></a><a href="/variants/s6/db31b4db5k19g20y4~x2/"><circle cx="163.5" cy="204.9" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s6/db31t4db5k19g20lo4~x2/"><circle cx="156.2" cy="203.0" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><circle cx="139.6" cy="161.1" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><circle cx="177.6" cy="193.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/db3r2db18k6dg18y2g3~x2~dg1806142-g2203152/"><circle cx="176.5" cy="175.2" r="4" fill="#3465a4"><title>McComb (Personal)</title></circle></a><a href="/variants/s7/db3r2db18k6dg18y2g3~x2/"><circle cx="200.7" cy="181.6" r="4" fill="#3465a4"><title>McComb</title></circle></a><a href="/variants/s6/db36y20dg6w12k6r3~x2~y2602166-dg1204144/"><circle cx="136.9" cy="159.3" r="4" fill="#3465a4"><title>Sirens &amp; Swords</title></circle></a><a href="/variants/s10/db4g1db2g2n6g2k3r1db8w1~x2/"><circle cx="150.5" cy="169.9" r="4" fill="#3465a4"><title>EAIE 2015</title></circle></a><a href="/variants/s6/db15k10n30dy11w3lb5~x2/"><circle cx="136.6" cy="186.7" r="4" fill="#3465a4"><title>McHale, Barry</title></circle></a><a href="/variants/s6/r3db24k7dbi11g11y2~x2~db1404245-dbi1406275/"><circle cx="178.5" cy="188.3" r="4" fill="#3465a4"><title>Cowie</title></circle></a><a href="/variants/s7/dr4db2lb7db20k7g10y4~x2/"><circle cx="114.8" cy="175.7" r="4" fill="#3465a4"><title>Renfrewshire District Tartan</title></circle></a><a href="/variants/s6/db31b4db5k19g20y4~x2/"><circle cx="163.5" cy="205.4" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s6/db31t4db5k19g20lo4~x2/"><circle cx="156.2" cy="203.5" r="4" fill="#3465a4"><title>Midlothian</title></circle></a><a href="/variants/s7/dy4g13k8db25lb8db2dp4~x2/"><circle cx="139.6" cy="161.4" r="4" fill="#3465a4"><title>Renfrewshire</title></circle></a><circle cx="177.6" cy="193.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r3dg9g15db10k2db18w3~x2~dg1806142-g1903114/

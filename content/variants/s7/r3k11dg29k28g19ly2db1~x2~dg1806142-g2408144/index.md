@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "PMMC"
   url: "/tartans/pmmc/"
+- name: "PMMC"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r3k11dg29k28g19ly2db1/)
 (the same proportion at any scale), whose colour order is pattern [BYGKGKR](/stripes/bygkgkr/).
@@ -14,7 +16,7 @@ Part of the [PMMC](/tartans/pmmc/) tartan — the named design grouping this set
 
 Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11051
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11051](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11051)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -76,8 +78,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3k11dg29k28g19y2db1~x2~dg1504144-g2408144/"><circle cx="175.6" cy="122.5" r="4" fill="#3465a4"><title>PMMC</title></circle></a><a href="/variants/s8/dy3g22dg13k15w3k16g1r3~x2/"><circle cx="141.5" cy="131.7" r="4" fill="#3465a4"><title>Lawson, William</title></circle></a><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="189.7" cy="150.6" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s6/db2k6g2k6dg12y1~x4~g2408144-dg1806142/"><circle cx="181.7" cy="183.9" r="4" fill="#3465a4"><title>Leahy (Australia) (Personal)</title></circle></a><a href="/variants/s6/db3g19dg29k11r4y2~x2/"><circle cx="180.5" cy="162.1" r="4" fill="#3465a4"><title>Zimmermann, Martin (Personal)</title></circle></a><a href="/variants/s6/ly3k1g20k20db18lb3~x2/"><circle cx="132.4" cy="161.4" r="4" fill="#3465a4"><title>Smith, Sir William (?)</title></circle></a><a href="/variants/s6/y3k1g20k20db18lb3~x2/"><circle cx="137.3" cy="162.8" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/variants/s9/y2w2r2k14g20k16b2lb1b2~x2/"><circle cx="174.8" cy="89.6" r="4" fill="#3465a4"><title>Brooke</title></circle></a><a href="/variants/s8/y1k6g32k12dr12dp9db6w1~x2/"><circle cx="148.0" cy="94.8" r="4" fill="#3465a4"><title>Fujitsu</title></circle></a><a href="/variants/s8/y1k6g32k12r12b9k6w1~x2/"><circle cx="159.3" cy="101.7" r="4" fill="#3465a4"><title>McGeachie (Personal)</title></circle></a><circle cx="167.9" cy="121.3" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s7/r3k11dg29k28g19y2db1~x2~dg1504144-g2408144/"><circle cx="175.5" cy="122.7" r="4" fill="#3465a4"><title>PMMC</title></circle></a><a href="/variants/s8/dy3g22dg13k15w3k16g1r3~x2/"><circle cx="141.4" cy="132.0" r="4" fill="#3465a4"><title>Lawson, William</title></circle></a><a href="/variants/s6/y4k1dg16k16r1w3~x2/"><circle cx="189.6" cy="151.0" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/variants/s6/db2k6g2k6dg12y1~x4~g2408144-dg1806142/"><circle cx="181.7" cy="184.4" r="4" fill="#3465a4"><title>Leahy (Australia) (Personal)</title></circle></a><a href="/variants/s6/db3g19dg29k11r4y2~x2/"><circle cx="180.5" cy="162.4" r="4" fill="#3465a4"><title>Zimmermann, Martin (Personal)</title></circle></a><a href="/variants/s6/ly3k1g20k20db18lb3~x2/"><circle cx="132.3" cy="161.8" r="4" fill="#3465a4"><title>Smith, Sir William (?)</title></circle></a><a href="/variants/s6/y3k1g20k20db18lb3~x2/"><circle cx="137.2" cy="163.2" r="4" fill="#3465a4"><title>Smith</title></circle></a><a href="/variants/s9/y2w2r2k14g20k16b2lb1b2~x2/"><circle cx="174.7" cy="89.8" r="4" fill="#3465a4"><title>Brooke</title></circle></a><a href="/variants/s8/y1k6g32k12dr12dp9db6w1~x2/"><circle cx="147.8" cy="94.9" r="4" fill="#3465a4"><title>Fujitsu</title></circle></a><a href="/variants/s8/y1k6g32k12r12b9k6w1~x2/"><circle cx="159.2" cy="101.9" r="4" fill="#3465a4"><title>McGeachie (Personal)</title></circle></a><circle cx="167.8" cy="121.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s7/r3k11dg29k28g19ly2db1~x2~dg1806142-g2408144/

@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "Sarna (Town)"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dy13r1dy2r2dy2r1dy2r5dy11r1dy2g2dy2r1dy2g7/)
 (the same proportion at any scale), whose colour order is pattern [GGRGGGRGRGRGRGRGRGRGRGRGRGGGRG](/stripes/ggrgggrgrgrgrgrgrgrgrgrgrgggrg/).
 
 Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3655
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3655](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3655)
 
 ## Provenance
 
@@ -71,8 +73,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3dy1r3~x2/"><circle cx="395.5" cy="107.7" r="4" fill="#3465a4"><title>Hebrides, Outer</title></circle></a><a href="/variants/s29/r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28~x2/"><circle cx="356.7" cy="128.5" r="4" fill="#3465a4"><title>Robertson #4</title></circle></a><a href="/variants/s28/r28g2r5g2r28g2r5g2r28db3r3g24r3db24r3db3r28g2r5g2r28db3r3g24r3db24r3db3~x2/"><circle cx="337.5" cy="130.3" r="4" fill="#3465a4"><title>Robertson 4</title></circle></a><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4~g2203152/"><circle cx="348.5" cy="136.0" r="4" fill="#3465a4"><title>Seton Hunting</title></circle></a><circle cx="397.2" cy="145.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s17/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3dy1r3~x2/"><circle cx="395.5" cy="107.9" r="4" fill="#3465a4"><title>Hebrides, Outer</title></circle></a><a href="/variants/s29/r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28db3r3db24r3g24r3db3r28g2r5g2r28~x2/"><circle cx="356.7" cy="128.8" r="4" fill="#3465a4"><title>Robertson #4</title></circle></a><a href="/variants/s28/r28g2r5g2r28g2r5g2r28db3r3g24r3db24r3db3r28g2r5g2r28db3r3g24r3db24r3db3~x2/"><circle cx="337.5" cy="130.6" r="4" fill="#3465a4"><title>Robertson 4</title></circle></a><a href="/variants/s10/dy3g1dy15r2dy1r2dy1g7w1g2~x4~g2203152/"><circle cx="348.5" cy="136.2" r="4" fill="#3465a4"><title>Seton Hunting</title></circle></a><circle cx="397.2" cy="145.9" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s16/dy13r1dy2r2dy2r1dy2r5dy11r1dy2g2dy2r1dy2g7~x2/

@@ -6,6 +6,8 @@ crumbs:
   url: "/"
 - name: "Ruxton Dress"
   url: "/tartans/ruxton-dress/"
+- name: "Ruxton Dress"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/r4dy4db9w3dy2k9db21dy2db2dy2db8dy3/)
 (the same proportion at any scale), whose colour order is pattern [GBGBGBKGWBGR](/stripes/gbgbgbkgwbgr/).
@@ -14,7 +16,7 @@ Part of the [Ruxton Dress](/tartans/ruxton-dress/) tartan — the named design g
 
 Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
-Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3626
+Original link [https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3626](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3626)
 
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
@@ -70,8 +72,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr4y4db9w3y2k9db21y2db2y2db8y3~x2/"><circle cx="250.3" cy="146.6" r="4" fill="#3465a4"><title>Ruxton, dress</title></circle></a><a href="/variants/s13/y2db3r2db19k7db6k22db6k7db19r2db3w2~x2/"><circle cx="269.5" cy="144.1" r="4" fill="#3465a4"><title>MacIver of Strome (Personal)</title></circle></a><a href="/variants/s12/k5lb2t10lb2k5db15k2db15k5db10lb1y2~x2~t2105244-db1406275/"><circle cx="237.5" cy="146.8" r="4" fill="#3465a4"><title>Goodwin, Robert Richard (Personal)</title></circle></a><a href="/variants/s13/k7db2k6db18r3db18k4b2db2b2w2b4k4~x2/"><circle cx="224.7" cy="141.1" r="4" fill="#3465a4"><title>Pride of Norway (Fashion)</title></circle></a><a href="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/"><circle cx="257.0" cy="152.5" r="4" fill="#3465a4"><title>Montreat</title></circle></a><a href="/variants/s13/lb4k1db14k8db6dr2db6dr3db6dr2db6k2lo2~x2/"><circle cx="272.5" cy="152.5" r="4" fill="#3465a4"><title>Aberdale (Fashion)</title></circle></a><a href="/variants/s11/k8w2k2db2k6db18r3db18k6db2k7~x2/"><circle cx="230.7" cy="142.0" r="4" fill="#3465a4"><title>Pride of Norway</title></circle></a><a href="/variants/s10/lb6db10dp4db12dg19dp4dg8k20db50lb4/"><circle cx="258.1" cy="155.0" r="4" fill="#3465a4"><title>Spirit of Alva</title></circle></a><a href="/variants/s12/db20g3dy3db3r7g6db3k12db3k3db24w3~x2/"><circle cx="226.2" cy="141.0" r="4" fill="#3465a4"><title>Bhoyrub Clan/Family Tartan</title></circle></a><a href="/variants/s12/dg4w1b4dr4k2b12k2b12k2dr4k4b4~x2/"><circle cx="239.8" cy="154.3" r="4" fill="#3465a4"><title>Otago Peninsula</title></circle></a><circle cx="264.2" cy="150.2" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s12/dr4y4db9w3y2k9db21y2db2y2db8y3~x2/"><circle cx="250.3" cy="146.9" r="4" fill="#3465a4"><title>Ruxton, dress</title></circle></a><a href="/variants/s13/y2db3r2db19k7db6k22db6k7db19r2db3w2~x2/"><circle cx="269.4" cy="144.3" r="4" fill="#3465a4"><title>MacIver of Strome (Personal)</title></circle></a><a href="/variants/s12/k5lb2t10lb2k5db15k2db15k5db10lb1y2~x2~t2105244-db1406275/"><circle cx="237.4" cy="147.1" r="4" fill="#3465a4"><title>Goodwin, Robert Richard (Personal)</title></circle></a><a href="/variants/s13/k7db2k6db18r3db18k4b2db2b2w2b4k4~x2/"><circle cx="224.7" cy="141.3" r="4" fill="#3465a4"><title>Pride of Norway (Fashion)</title></circle></a><a href="/variants/s11/y2db10k2r5k2db19k2db19g17k2y2~x2/"><circle cx="256.9" cy="152.8" r="4" fill="#3465a4"><title>Montreat</title></circle></a><a href="/variants/s13/lb4k1db14k8db6dr2db6dr3db6dr2db6k2lo2~x2/"><circle cx="272.5" cy="152.8" r="4" fill="#3465a4"><title>Aberdale (Fashion)</title></circle></a><a href="/variants/s11/k8w2k2db2k6db18r3db18k6db2k7~x2/"><circle cx="230.6" cy="142.2" r="4" fill="#3465a4"><title>Pride of Norway</title></circle></a><a href="/variants/s10/lb6db10dp4db12dg19dp4dg8k20db50lb4/"><circle cx="258.1" cy="155.2" r="4" fill="#3465a4"><title>Spirit of Alva</title></circle></a><a href="/variants/s12/db20g3dy3db3r7g6db3k12db3k3db24w3~x2/"><circle cx="226.1" cy="141.3" r="4" fill="#3465a4"><title>Bhoyrub Clan/Family Tartan</title></circle></a><a href="/variants/s12/dg4w1b4dr4k2b12k2b12k2dr4k4b4~x2/"><circle cx="239.8" cy="154.7" r="4" fill="#3465a4"><title>Otago Peninsula</title></circle></a><circle cx="264.2" cy="150.5" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s12/r4dy4db9w3dy2k9db21dy2db2dy2db8dy3~x2/

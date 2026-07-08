@@ -4,13 +4,15 @@ date: 2023-03-18
 crumbs:
 - name: "Home"
   url: "/"
+- name: "City of Edinburgh"
+  url: ""
 ---
 This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/setts/dg10k3w3k3w3k3dg10b6k15b3/)
 (the same proportion at any scale), whose colour order is pattern [BKBGKWKWKG](/stripes/bkbgkwkwkg/).
 
 Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
-Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
+Original link [http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts)
 
 <details class="dataset">
 <summary>Dataset <small>— provenance for this record, inherited from the source manifest</small></summary>
@@ -50,8 +52,8 @@ The nearest existing variants by ΔTartan distance, with this cloth at the top s
 
 ## Neighbour map
 
-Every grey dot is one of 13620 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 13621 variants placed by the first two principal components of the ΔTartan feature space (42% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db8k2db12k13g13w2k4w2g13k13db4~x2/"><circle cx="112.7" cy="209.6" r="4" fill="#3465a4"><title>Melville Family Tartan</title></circle></a><a href="/variants/s9/r9db11k3db3k3db3k20g20k3~x2/"><circle cx="133.0" cy="191.2" r="4" fill="#3465a4"><title>Urquhart - 1810 ((Clan)</title></circle></a><a href="/variants/s13/g25k8g8k8g8k46db46r8db46k46g46k8g8/"><circle cx="128.0" cy="194.5" r="4" fill="#3465a4"><title>Poulter SG 100 (Fashion)</title></circle></a><a href="/variants/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/"><circle cx="126.4" cy="192.2" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s12/db12k2db2k2db2k12g12r3g12k12db12r3~x2/"><circle cx="104.0" cy="204.3" r="4" fill="#3465a4"><title>Glenalmond College</title></circle></a><a href="/variants/s6/w2db10k10g11db2w2~x2~db1406275/"><circle cx="96.7" cy="223.6" r="4" fill="#3465a4"><title>Norwich No.026</title></circle></a><a href="/variants/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1/"><circle cx="100.9" cy="221.7" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1~x2/"><circle cx="100.9" cy="221.7" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x4/"><circle cx="119.6" cy="200.6" r="4" fill="#3465a4"><title>Murray #2</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x2/"><circle cx="119.6" cy="200.6" r="4" fill="#3465a4"><title>New South Wales Scottish Rifles</title></circle></a><circle cx="122.1" cy="210.1" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/variants/s11/db8k2db12k13g13w2k4w2g13k13db4~x2/"><circle cx="112.8" cy="210.2" r="4" fill="#3465a4"><title>Melville Family Tartan</title></circle></a><a href="/variants/s9/r9db11k3db3k3db3k20g20k3~x2/"><circle cx="133.0" cy="191.7" r="4" fill="#3465a4"><title>Urquhart - 1810 ((Clan)</title></circle></a><a href="/variants/s13/g25k8g8k8g8k46db46r8db46k46g46k8g8/"><circle cx="128.0" cy="195.0" r="4" fill="#3465a4"><title>Poulter SG 100 (Fashion)</title></circle></a><a href="/variants/s13/db1k1db6k6g6k1w1k1g6k6db6k1db1~x8/"><circle cx="126.4" cy="192.6" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/variants/s12/db12k2db2k2db2k12g12r3g12k12db12r3~x2/"><circle cx="104.0" cy="204.8" r="4" fill="#3465a4"><title>Glenalmond College</title></circle></a><a href="/variants/s6/w2db10k10g11db2w2~x2~db1406275/"><circle cx="96.7" cy="224.2" r="4" fill="#3465a4"><title>Norwich No.026</title></circle></a><a href="/variants/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1/"><circle cx="101.0" cy="222.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s13/db3k1db1k1db1k4g4w1g4k4db4k1db1~x2/"><circle cx="101.0" cy="222.3" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x4/"><circle cx="119.6" cy="201.1" r="4" fill="#3465a4"><title>Murray #2</title></circle></a><a href="/variants/s13/db6k1db1k1db1k6g6r2g6k6db6k1db2~x2/"><circle cx="119.6" cy="201.1" r="4" fill="#3465a4"><title>New South Wales Scottish Rifles</title></circle></a><circle cx="122.2" cy="210.6" r="5" fill="#c00000"/><text x="320" y="376" text-anchor="middle" font-size="11" fill="#999">ground</text><text x="11" y="190" text-anchor="middle" font-size="11" fill="#999" transform="rotate(-90 11 190)">complexity</text></svg>
 
 ID: /variants/s10/dg10k3w3k3w3k3dg10b6k15b3~x2/
